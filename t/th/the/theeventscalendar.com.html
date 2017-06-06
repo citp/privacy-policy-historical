@@ -1,0 +1,917 @@
+<!--The following is the downloaded HTML source of the theeventscalendar.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606181507id_/https%3A//theeventscalendar.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head><script src="https://script.crazyegg.com/pages/scripts/0052/6692.js" async="" type="text/javascript"></script><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5PDQTJ3"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5PDQTJ3');</script>
+	<!-- End Google Tag Manager -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-title" content="Privacy Policy">
+	<meta name="google-site-verification" content="wadCG-d0sNkY9FJrvQ82wu17kRV9-nmTtdc1t9vW5Ug">
+
+	<link rel="pingback" href="https://theeventscalendar.com/xmlrpc.php">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	
+		<script>
+		var modern_tribe = window.modern_tribe || {}; modern_tribe.retina = {};
+		modern_tribe.retina.pixelRatio = ((window.devicePixelRatio === undefined) ? 1 : window.devicePixelRatio);
+		modern_tribe.retina.date = new Date();
+		modern_tribe.retina.date.setTime( modern_tribe.retina.date.getTime() + (365 * 24 * 60 * 60 * 1000) );
+		modern_tribe.retina.expires = "" + modern_tribe.retina.date.toGMTString();
+		document.cookie = 'devicePixelRatio' + '=' + modern_tribe.retina.pixelRatio + '; expires=' + modern_tribe.retina.expires + '; path=/';
+		</script>
+
+	
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/689960/768184/css/fonts.css">
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Privacy Policy - The Events Calendar</title>
+<link rel="canonical" href="https://theeventscalendar.com/privacy-policy/">
+<link rel="publisher" href="https://plus.google.com/u/0/105508094039064811923/posts">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - The Events Calendar">
+<meta property="og:description" content="Last updated: August 26, 2016 Modern Tribe, Inc. (“us”, “we”, or “our”) operates the https://theeventscalendar.com website (the “Service”). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service. We will not use or share your information with anyone except as described in this Privacy…">
+<meta property="og:url" content="https://theeventscalendar.com/privacy-policy/">
+<meta property="og:site_name" content="The Events Calendar">
+<meta property="article:publisher" content="https://www.facebook.com/ModernTribeInc">
+<meta property="fb:admins" content="502623869">
+<meta property="og:image" content="https://theeventscalendar.com/content/uploads/2014/12/social_banner2.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Last updated: August 26, 2016 Modern Tribe, Inc. (“us”, “we”, or “our”) operates the https://theeventscalendar.com website (the “Service”). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service. We will not use or share your information with anyone except as described in this Privacy…">
+<meta name="twitter:title" content="Privacy Policy - The Events Calendar">
+<meta name="twitter:site" content="@ModernTribeInc">
+<meta name="twitter:domain" content="The Events Calendar">
+<meta name="twitter:image" content="https://theeventscalendar.com/content/uploads/2014/12/social_banner2.png">
+<meta name="twitter:creator" content="@peterchester">
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="tribe-theme-base-css" href="https://theeventscalendar.com/content/themes/tribe-ecp/css/master.min.css" type="text/css" media="all">
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='tribe-theme-legacy-css'  href='https://theeventscalendar.com/content/themes/tribe-ecp/css/legacy.min.css' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="dashicons-css" href="https://theeventscalendar.com/wp-includes/css/dashicons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="tribe-theme-dashicons-css" href="https://theeventscalendar.com/content/themes/tribe-ecp/style.css" type="text/css" media="all">
+<script type="text/javascript" src="https://theeventscalendar.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var AJAXQueueData = {"ajax_url":"https:\/\/theeventscalendar.com\/wp-admin\/admin-ajax.php","action":"AJAXQueue"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://theeventscalendar.com/content/plugins/panel-builder/vendor/moderntribe/ajax-queue/resources/js/AJAXQueue.js"></script>
+<script type="text/javascript" src="https://theeventscalendar.com/content/themes/tribe-ecp/js/modernizr.js"></script>
+<script type="text/javascript" src="https://theeventscalendar.com/content/plugins/google-analyticator/external-tracking.min.js"></script>
+<link rel="https://api.w.org/" href="https://theeventscalendar.com/wp-json/">
+<link rel="shortlink" href="https://theeventscalendar.com/?p=1156136">
+<link rel="alternate" type="application/json+oembed" href="https://theeventscalendar.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftheeventscalendar.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://theeventscalendar.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftheeventscalendar.com%2Fprivacy-policy%2F&amp;format=xml">
+<link rel="shortcut icon" href="//theeventscalendar.com/content/uploads/2015/04/favicon.ico"><link rel="apple-touch-icon-precomposed" href="//theeventscalendar.com/content/uploads/2015/04/apple-touch-icon-precomposed.png"><meta name="msapplication-TileImage" content="//theeventscalendar.com/content/uploads/2015/04/ms-icon-144.png"><style type="text/css" id="syntaxhighlighteranchor"></style>
+<style type="text/css">
+.about-this-site { word-wrap: break-word; }
+
+.about-this-site strong { display: block; }
+</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.5.0: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-25096731-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+
+<!--
+	generated in 1.478 seconds
+	44990 bytes batcached for 3600 seconds
+-->
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="page-template-default page page-id-1156136 page-privacy-policy" itemscope="" itemtype="https://schema.org/WebPage">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5PDQTJ3"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<!-- Total Time: 0.908 | template / start: 0.908 -->
+		<script>if ( location.hash.length ) { setTimeout(function() { window.scrollTo(0, 0); }, 1); }</script>
+
+	<div id="mobile-menu-right" class="mobile-menu">
+		
+<nav class="menu-sub level-1" role="navigation" aria-label="Main Mobile Navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+
+	<h3 class="visuallyhidden">Menu</h3>
+
+			<form class="mobile-search" role="search" method="get" action="https://theeventscalendar.com/">
+			<label class="visuallyhidden" for="s">Search</label>
+			<input type="text" name="s" placeholder="Search">
+			<button type="submit" name="submit">
+				<i class="icon icon-search"></i>
+				<span class="visuallyhidden">Search</span>
+			</button>
+		</form>
+	
+	<ol>
+					
+			<li itemprop="url">
+				<a href="/products" data-menu="parent-sub-menu-921601" rel="bookmark" itemprop="name">
+					Products<i>▶</i>				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="/showcase" rel="bookmark" itemprop="name">
+					Showcase				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="http://wpshindig.com" rel="bookmark" itemprop="name">
+					Demo				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/support/" data-menu="parent-sub-menu-921612" rel="bookmark" itemprop="name">
+					Support<i>▶</i>				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/about/" data-menu="parent-sub-menu-921649" rel="bookmark" itemprop="name">
+					About Us<i>▶</i>				</a>
+			</li>
+
+		
+		
+<li itemprop="url">
+		<a href="https://theeventscalendar.com/my-account/" data-menu="parent-sub-menu-account" rel="bookmark" itemprop="name">
+		Login			</a>
+</li>
+
+
+	</ol>
+
+</nav> <!-- .menu-sub.level-1 -->
+
+
+<nav class="menu-sub level-2" role="navigation" aria-label="Products Mobile Navigation" data-menu="sub-menu-921601" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+
+	<h3 class="visuallyhidden">Menu</h3>
+
+	
+	<ol>
+					<li class="mobile-level-header">
+				<a class="menu-sub-back" href="#" data-menu="sub-menu-921601">
+					<i>◀</i>
+					Products				</a>
+			</li>
+
+			<li class="mobile-level-parent-anchor" itemprop="url">
+				<a href="/products" rel="bookmark" itemprop="name">
+					Products Overview
+				</a>
+			</li>
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/bundles/" rel="bookmark" itemprop="name">
+					Product Bundles				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/product/wordpress-events-calendar/" rel="bookmark" itemprop="name">
+					The Events Calendar				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/product/wordpress-events-calendar-pro/" rel="bookmark" itemprop="name">
+					Events Calendar PRO				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/product/wordpress-event-tickets/" rel="bookmark" itemprop="name">
+					Event Tickets				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/product/wordpress-event-tickets-plus/" rel="bookmark" itemprop="name">
+					Event Tickets Plus				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/product/wordpress-community-events/" rel="bookmark" itemprop="name">
+					Community Events				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/product/community-tickets/" rel="bookmark" itemprop="name">
+					Community Tickets				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/product/wordpress-events-filterbar/" rel="bookmark" itemprop="name">
+					Filter Bar				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/product/event-aggregator/" rel="bookmark" itemprop="name">
+					Event Aggregator				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/product/wordpress-eventbrite-tickets/" rel="bookmark" itemprop="name">
+					Eventbrite Tickets				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/product/wordpress-image-widget-plus/" rel="bookmark" itemprop="name">
+					Image Widget Plus				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/for-enterprise/" rel="bookmark" itemprop="name">
+					Custom Enterprise Solutions				</a>
+			</li>
+
+		
+		
+	</ol>
+
+</nav> <!-- .menu-sub.level-2 -->
+
+
+<nav class="menu-sub level-2" role="navigation" aria-label="Support Mobile Navigation" data-menu="sub-menu-921612" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+
+	<h3 class="visuallyhidden">Menu</h3>
+
+	
+	<ol>
+					<li class="mobile-level-header">
+				<a class="menu-sub-back" href="#" data-menu="sub-menu-921612">
+					<i>◀</i>
+					Support				</a>
+			</li>
+
+			<li class="mobile-level-parent-anchor" itemprop="url">
+				<a href="https://theeventscalendar.com/support/" rel="bookmark" itemprop="name">
+					Support Overview
+				</a>
+			</li>
+					
+			<li itemprop="url">
+				<a href="/support" rel="bookmark" itemprop="name">
+					Help Center				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/known-issues/" rel="bookmark" itemprop="name">
+					Known Issues				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/release-schedule/" rel="bookmark" itemprop="name">
+					Release Schedule				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="/support-forums/" data-menu="parent-sub-menu-921623" rel="bookmark" itemprop="name">
+					Forums<i>▶</i>				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="/knowledgebase" rel="bookmark" itemprop="name">
+					Knowledgebase				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="/extensions" rel="bookmark" itemprop="name">
+					Extension Library				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="/functions" rel="bookmark" itemprop="name">
+					Technical Docs				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/customizations/" rel="bookmark" itemprop="name">
+					Customizing the Plugins				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://tribe.uservoice.com/forums/195723-feature-ideas" rel="bookmark" itemprop="name">
+					Suggest A Feature				</a>
+			</li>
+
+		
+		
+	</ol>
+
+</nav> <!-- .menu-sub.level-2 -->
+
+
+<nav class="menu-sub level-3" role="navigation" aria-label="Forums Mobile Navigation" data-menu="sub-menu-921623" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+
+	<h3 class="visuallyhidden">Menu</h3>
+
+	
+	<ol>
+					<li class="mobile-level-header">
+				<a class="menu-sub-back" href="#" data-menu="sub-menu-921623">
+					<i>◀</i>
+					Forums				</a>
+			</li>
+
+			<li class="mobile-level-parent-anchor" itemprop="url">
+				<a href="/support-forums/" rel="bookmark" itemprop="name">
+					Forums Overview
+				</a>
+			</li>
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/support/forums/forum/_welcome/pre-sales-questions/" rel="bookmark" itemprop="name">
+					Pre-Sales Questions				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="/support/forums/forum/events/events-calendar-pro/" rel="bookmark" itemprop="name">
+					Events Calendar PRO				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/support/forums/forum/events/community-events/" rel="bookmark" itemprop="name">
+					Community Events				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/support/forums/forum/events/filter-bar/" rel="bookmark" itemprop="name">
+					Filter Bar				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/support/forums/forum/events/event-aggregator/" rel="bookmark" itemprop="name">
+					Event Aggregator				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/support/forums/forum/events/facebook-importer/" rel="bookmark" itemprop="name">
+					Facebook Events				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/support/forums/forum/events/ical-importer/" rel="bookmark" itemprop="name">
+					iCal Importer				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/support/forums/forum/event-tickets/eventbrite-tickets/" rel="bookmark" itemprop="name">
+					Eventbrite Tickets				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/support/forums/forum/event-tickets/event-tickets-plus/" rel="bookmark" itemprop="name">
+					Event Tickets Plus				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/?post_type=forum&amp;p=27451" rel="bookmark" itemprop="name">
+					WooCommerce Tickets				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/?post_type=forum&amp;p=79620" rel="bookmark" itemprop="name">
+					EDD Tickets				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/?post_type=forum&amp;p=81915" rel="bookmark" itemprop="name">
+					Shopp Tickets				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/?post_type=forum&amp;p=81027" rel="bookmark" itemprop="name">
+					WPEC Tickets				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/support/forums/forum/others/translation/" rel="bookmark" itemprop="name">
+					Translations				</a>
+			</li>
+
+		
+		
+	</ol>
+
+</nav> <!-- .menu-sub.level-3 -->
+
+
+<nav class="menu-sub level-2" role="navigation" aria-label="About Us Mobile Navigation" data-menu="sub-menu-921649" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+
+	<h3 class="visuallyhidden">Menu</h3>
+
+	
+	<ol>
+					<li class="mobile-level-header">
+				<a class="menu-sub-back" href="#" data-menu="sub-menu-921649">
+					<i>◀</i>
+					About Us				</a>
+			</li>
+
+			<li class="mobile-level-parent-anchor" itemprop="url">
+				<a href="https://theeventscalendar.com/about/" rel="bookmark" itemprop="name">
+					About Us Overview
+				</a>
+			</li>
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/the-team/" rel="bookmark" itemprop="name">
+					The Team				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/blog/" rel="bookmark" itemprop="name">
+					Blog				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/join-our-team/" rel="bookmark" itemprop="name">
+					Work with us				</a>
+			</li>
+
+					
+			<li itemprop="url">
+				<a href="https://theeventscalendar.com/contact/" rel="bookmark" itemprop="name">
+					Contact				</a>
+			</li>
+
+		
+		
+	</ol>
+
+</nav> <!-- .menu-sub.level-2 -->
+
+	</div> <!-- .mobile-menu-right -->
+
+		<div id="site-wrap">
+
+		
+		<!-- Total Time: 1.139 | template / content/header/mobile: 0.231 --><header class="header-mobile menu-slide" role="banner" itemscope="" itemtype="https://schema.org/WPHeader">
+
+	
+	<div class="logo" itemscope="" itemprop="author headline" itemtype="https://schema.org/Organization">
+
+					<div class="logo-wrap">
+		
+		
+	<a href="https://theeventscalendar.com" class="logo-anchor" rel="home" itemprop="url">
+		<img src="https://theeventscalendar.com/content/themes/tribe-ecp/img/logos/logo@2x.png" class="logo-image" itemprop="logo" alt="The Events Calendar by Modern Tribe Logo">
+		<span class="logo-anchor-text">
+			<em itemprop="brand">The Events Calendar</em>
+					</span>
+	</a>
+
+	
+					</div>
+		
+	</div><!-- .logo -->
+
+
+	<button id="mobile-trigger-right" type="button">
+		<i class="icon icon-bars"></i>
+       	<span class="visuallyhidden">Toggle Navigation</span>
+    </button>
+
+</header><!-- .header-mobile -->
+		<!-- Total Time: 1.142 | template / content/header/full: 0.003 --><header class="header-full menu-slide" role="banner" itemscope="" itemtype="https://schema.org/WPHeader">
+
+	<div class="header-full-wrap">
+
+		<div class="content-wrap">
+
+			
+	<div class="logo" itemscope="" itemprop="author headline" itemtype="https://schema.org/Organization">
+
+					<div class="logo-wrap">
+		
+		
+	<a href="https://theeventscalendar.com" class="logo-anchor" rel="home" itemprop="url">
+		<img src="https://theeventscalendar.com/content/themes/tribe-ecp/img/logos/logo@2x.png" class="logo-image" itemprop="logo" alt="The Events Calendar by Modern Tribe Logo">
+		<span class="logo-anchor-text">
+			<em itemprop="brand">The Events Calendar</em>
+							<div class="logo-creds">by <h6 itemprop="name">Modern Tribe</h6></div>
+					</span>
+	</a>
+
+	
+					</div>
+		
+	</div><!-- .logo -->
+
+			<nav id="nav-full" class="nav-full" role="navigation" aria-label="Main Navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+
+				<h3 class="visuallyhidden">Menu</h3>
+
+				<ol class="nav-full-wrap">
+
+					<li class="is-parent"><a href="/products" class="is-parent-anchor">Products</a><div class="sub-menu-wrap">
+<ul class="sub-menu">
+<li class="menu-parent-anchor"><a href="/products">Products Overview</a></li>	<li><a href="https://theeventscalendar.com/bundles/">Product Bundles</a></li>
+	<li><a href="https://theeventscalendar.com/product/wordpress-events-calendar/">The Events Calendar</a></li>
+	<li><a href="https://theeventscalendar.com/product/wordpress-events-calendar-pro/">Events Calendar PRO</a></li>
+	<li><a href="https://theeventscalendar.com/product/wordpress-event-tickets/">Event Tickets</a></li>
+	<li><a href="https://theeventscalendar.com/product/wordpress-event-tickets-plus/">Event Tickets Plus</a></li>
+	<li><a href="https://theeventscalendar.com/product/wordpress-community-events/">Community Events</a></li>
+	<li><a href="https://theeventscalendar.com/product/community-tickets/">Community Tickets</a></li>
+	<li><a href="https://theeventscalendar.com/product/wordpress-events-filterbar/">Filter Bar</a></li>
+	<li><a href="https://theeventscalendar.com/product/event-aggregator/">Event Aggregator</a></li>
+	<li><a href="https://theeventscalendar.com/product/wordpress-eventbrite-tickets/">Eventbrite Tickets</a></li>
+	<li><a href="https://theeventscalendar.com/product/wordpress-image-widget-plus/">Image Widget Plus</a></li>
+	<li><a href="https://theeventscalendar.com/for-enterprise/">Custom Enterprise Solutions</a></li>
+</ul>
+</div><!-- .sub-menu-wrap --></li>
+<li><a href="/showcase">Showcase</a></li>
+<li><a target="_blank" href="http://wpshindig.com">Demo</a></li>
+<li class="is-parent"><a href="https://theeventscalendar.com/support/" class="is-parent-anchor">Support</a><div class="sub-menu-wrap">
+<ul class="sub-menu">
+<li class="menu-parent-anchor"><a href="https://theeventscalendar.com/support/">Support Overview</a></li>	<li><a href="/support">Help Center</a></li>
+	<li><a href="https://theeventscalendar.com/known-issues/">Known Issues</a></li>
+	<li><a href="https://theeventscalendar.com/release-schedule/">Release Schedule</a></li>
+	<li><a href="/support-forums/">Forums</a></li>
+	<li><a href="/knowledgebase">Knowledgebase</a></li>
+	<li><a href="/extensions">Extension Library</a></li>
+	<li><a href="/functions">Technical Docs</a></li>
+	<li><a href="https://theeventscalendar.com/customizations/">Customizing the Plugins</a></li>
+	<li><a href="https://tribe.uservoice.com/forums/195723-feature-ideas">Suggest A Feature</a></li>
+</ul>
+</div><!-- .sub-menu-wrap --></li>
+<li class="is-parent"><a href="https://theeventscalendar.com/about/" class="is-parent-anchor">About Us</a><div class="sub-menu-wrap">
+<ul class="sub-menu">
+<li class="menu-parent-anchor"><a href="https://theeventscalendar.com/about/">About Us Overview</a></li>	<li><a href="https://theeventscalendar.com/the-team/">The Team</a></li>
+	<li><a href="https://theeventscalendar.com/blog/">Blog</a></li>
+	<li><a href="https://theeventscalendar.com/join-our-team/">Work with us</a></li>
+	<li><a href="https://theeventscalendar.com/contact/">Contact</a></li>
+</ul>
+</div><!-- .sub-menu-wrap --></li>
+
+	                					<li class="menu-item-account" data-menu="sub-menu-account" itemprop="url">
+											    <a href="https://theeventscalendar.com/my-account/" rel="bookmark" itemprop="name">
+							Login						</a>
+											</li>
+
+					
+										<li id="menu-item-search" class="menu-item-search is-parent" data-menu="sub-menu-search">
+						<span>
+						    <i class="icon icon-search"></i>
+						    <span class="visuallyhidden">Search</span>
+						</span>
+					</li>
+
+				</ol><!-- .nav-full-wrap -->
+
+			</nav><!-- .nav-full -->
+
+		</div><!-- .content-wrap -->
+
+	</div><!-- .header-full-wrap -->
+
+	    <div class="sub-menu sub-menu-search">
+
+		
+	<form class="form-search-full" role="search" method="get" action="https://theeventscalendar.com/">
+
+	    <label class="visuallyhidden" for="s">Search</label>
+		<input type="text" name="s" placeholder="Search Everything" value="">
+		<input type="submit" class="search-trigger" name="submit" value="Search">
+
+	    <fieldset>
+
+	        <legend>Include in search:</legend>
+
+		    <div class="is-checkbox">
+				<input type="checkbox" id="filterIncludeDocumentation" name="post_type[]" value="documentation">
+				<label for="filterIncludeDocumentation">Documentation</label>
+			</div><!-- .is-checkbox --><div class="is-checkbox">
+				<input type="checkbox" id="filterIncludeKnowledgebase" name="post_type[]" value="tribe-knowledgebase">
+				<label for="filterIncludeKnowledgebase">Knowledgebase</label>
+			</div><!-- .is-checkbox --><div class="is-checkbox">
+				<input type="checkbox" id="filterIncludeForumPosts" name="post_type[]" value="forum_posts">
+				<label for="filterIncludeForumPosts">Forum</label>
+			</div><!-- .is-checkbox --><div class="is-checkbox">
+				<input type="checkbox" id="filterIncludeBlogPosts" name="post_type[]" value="post">
+				<label for="filterIncludeBlogPosts">Blog Posts</label>
+			</div><!-- .is-checkbox -->
+	    </fieldset>
+
+	</form><!-- .form-search-full -->
+
+	
+    </div><!-- .sub-menu -->
+
+</header><!-- .header-full -->
+
+		<!-- Total Time: 1.329 | template / body...: 0.187 -->	<main class="page-content menu-slide" role="main" itemprop="mainContentOfPage">
+		
+<header class="header-sub">
+
+	<div class="content-wrap">
+
+		
+			<h1 class="page-title sub-header-page-title" itemprop="name">Privacy Policy</h1>			
+		
+				</div><!-- .content-wrap -->
+
+</header><!-- .header-sub -->									<div class="main-content-wrap">
+					<div class="content-wrap">
+						<div itemprop="text">
+	<p>Last updated: <em>August 26, 2016</em></p>
+<p>Modern Tribe, Inc. (“us”, “we”, or “our”) operates the <a href="https://theeventscalendar.com">https://theeventscalendar.com</a> website (the “Service”).</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service.</p>
+<p>We will not use or share your information with anyone except as described in this Privacy Policy.</p>
+<p>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
+<h3>Information Collection And Use</h3>
+<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information (“Personal Information”). We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.</p>
+<h3>Log Data</h3>
+<p>We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+<p>In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.</p>
+<h3>Cookies</h3>
+<p>Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.</p>
+<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.</p>
+<p>If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.</p>
+<h3>Behavioral Remarketing</h3>
+<p>Modern Tribe, Inc. uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.</p>
+<h4>AdRoll</h4>
+<p>AdRoll remarketing service is provided by Semantic Sugar, Inc. You can opt-out of AdRoll remarketing by visiting this <a href="http://info.evidon.com/pub_info/573?v=1&amp;nt=1&amp;nw=false">AdRoll Advertising Preferences web page</a>. For more information on the privacy practices of AdRoll, please visit the <a href="http://www.adroll.com/about/privacy">AdRoll Privacy Policy</a></p>
+<h3>Service Providers</h3>
+<p>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.</p>
+<p>These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.</p>
+<h3>Communications</h3>
+<p>We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.</p>
+<h3>Compliance With Laws</h3>
+<p>We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.</p>
+<h3>Business Transaction</h3>
+<p>If Modern Tribe, Inc. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.</p>
+<h3>Security</h3>
+<p>The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.</p>
+<p>We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the information you input. Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.</p>
+<p>Please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.</p>
+<h3>International Transfer</h3>
+<p>Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
+<p>If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.</p>
+<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+<h3>Links To Other Sites</h3>
+<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
+<p>We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+<h3>Children’s Privacy</h3>
+<p>Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).</p>
+<p>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.</p>
+<h3>Changes To This Privacy Policy</h3>
+<p>This Privacy Policy is effective as of October 1st, 2011 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p>
+<p>We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.</p>
+</div>					</div><!-- .content-wrap -->
+				</div><!-- .main-content-wrap -->
+								</main><!-- main -->
+<!-- Total Time: 1.345 | template / footer: 0.016 -->
+<footer class="footer menu-slide" role="contentinfo" itemscope="" itemtype="https://schema.org/WPFooter">
+	<div class="content-wrap">
+
+		<div class="footer-grid-wrap">
+
+							<div>
+
+					<h5>Products</h5>
+
+					<nav role="navigation" aria-label="Products Navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+						<h3 class="visuallyhidden">Products Menu</h3>
+						<ul>
+							<li id="menu-item-921653" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-921653"><a href="https://theeventscalendar.com/product/wordpress-events-calendar/">The Events Calendar</a></li>
+<li id="menu-item-921654" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-921654"><a href="https://theeventscalendar.com/product/wordpress-events-calendar-pro/">Events Calendar PRO</a></li>
+<li id="menu-item-1034217" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1034217"><a href="https://theeventscalendar.com/product/wordpress-event-tickets/">Event Tickets</a></li>
+<li id="menu-item-1034218" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1034218"><a href="https://theeventscalendar.com/product/wordpress-event-tickets-plus/">Event Tickets Plus</a></li>
+<li id="menu-item-921655" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-921655"><a href="https://theeventscalendar.com/product/wordpress-events-filterbar/">Filter Bar</a></li>
+<li id="menu-item-921657" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-921657"><a href="https://theeventscalendar.com/product/wordpress-community-events/">Community Events</a></li>
+<li id="menu-item-1021919" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1021919"><a href="https://theeventscalendar.com/product/community-tickets/">Community Tickets</a></li>
+<li id="menu-item-1175970" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1175970"><a href="https://theeventscalendar.com/product/event-aggregator/">Event Aggregator</a></li>
+<li id="menu-item-921658" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-921658"><a href="https://theeventscalendar.com/product/wordpress-eventbrite-tickets/">Eventbrite Tickets</a></li>
+<li id="menu-item-1282279" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1282279"><a href="https://theeventscalendar.com/product/wordpress-image-widget-plus/">Image Widget Plus</a></li>
+						</ul>
+					</nav><!-- nav -->
+
+				</div>
+			
+							<div>
+
+					<h5>Support</h5>
+
+					<nav role="navigation" aria-label="Support Navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+						<h3 class="visuallyhidden">Support Menu</h3>
+						<ul>
+							<li id="menu-item-921636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-921636"><a href="/support">Support Overview</a></li>
+<li id="menu-item-921637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-921637"><a href="https://theeventscalendar.com/functions/">Technical Docs</a></li>
+<li id="menu-item-921638" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-921638"><a href="/support-forums">Forums</a></li>
+<li id="menu-item-921639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-921639"><a href="/knowledgebase">Knowledgebase</a></li>
+						</ul>
+					</nav><!-- nav -->
+
+				</div>
+			
+							<div>
+
+					<h5>About Tribe</h5>
+
+					<nav role="navigation" aria-label="About Navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+						<h3 class="visuallyhidden">About Menu</h3>
+						<ul>
+							<li id="menu-item-921640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-921640"><a href="https://theeventscalendar.com/for-enterprise/">Custom Enterprise Solutions</a></li>
+<li id="menu-item-921641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-921641"><a href="https://theeventscalendar.com/the-team/">The Team</a></li>
+<li id="menu-item-921642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-921642"><a href="https://theeventscalendar.com/join-our-team/">Work with us</a></li>
+<li id="menu-item-921643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-921643"><a href="https://theeventscalendar.com/contact/">Contact</a></li>
+						</ul>
+					</nav><!-- nav -->
+
+				</div>
+			
+						<form id="form-newsletter" class="form-news form-cm-validation" role="form" action="https://moderntribe.createsend.com/t/r/s/athqh/" method="post">
+
+				<h5>Get the News</h5>
+
+				<label class="visuallyhidden" for="fieldName">Name</label>
+				<input type="text" id="fieldName" name="cm-name" placeholder="Name">
+
+				<label class="visuallyhidden" for="fieldEmail">Email</label>
+				<input type="email" id="fieldEmail" class="is-required-input" name="cm-athqh-athqh" placeholder="Email">
+
+				<button type="submit" name="submit">
+					Sign Up
+					<i class="icon icon-check"></i>
+				</button>
+
+			</form><!-- .forms-news -->
+
+						<aside class="social-follow">
+
+				<h5>Let's Be Pals</h5>
+
+				<ul>
+
+					<li>
+						<a href="https://www.facebook.com/theeventscalendar" title="Follow us on Facebook" rel="external" target="_blank">
+							<i class="icon icon-facebook"></i>
+							<span class="visuallyhidden">Follow Us on Facebook</span>
+						</a>
+					</li>
+
+					<li>
+						<a href="https://twitter.com/TheEventsCal" title="Follow us on Twitter" rel="external" target="_blank">
+							<i class="icon icon-twitter"></i>
+							<span class="visuallyhidden">Follow Us on Twitter</span>
+						</a>
+					</li>
+
+					<li>
+						<a href="https://www.linkedin.com/company/modern-tribe-inc-" title="Follow us on LinkedIn" rel="external" target="_blank">
+							<i class="icon icon-linkedin"></i>
+							<span class="visuallyhidden">Follow Us on LinkedIn</span>
+						</a>
+					</li>
+
+					<li>
+						<a href="https://profiles.wordpress.org/moderntribe/" title="View Our WordPress.org Profile" rel="external" target="_blank">
+							<i class="icon icon-wordpress"></i>
+							<span class="visuallyhidden">View Our WordPress.org Profile</span>
+						</a>
+					</li>
+
+				</ul>
+
+			</aside><!-- social-follow -->
+
+		</div><!-- .footer-grid-wrap -->
+
+		<ul class="footer-legal">
+			<li class="footer-copyright">
+				<h6 itemscope="" itemtype="https://schema.org/Organization">
+					© 2017 <a href="http://tri.be" rel="external" itemprop="url">A <span itemprop="name">Modern Tribe</span> Hootenanny</a>
+				</h6>
+			</li>
+						<li class="terms">
+				<a href="https://theeventscalendar.com/terms/" rel="license">Terms &amp; Conditions</a>
+			</li>
+			<li class="privacy-policy">
+				<a href="https://theeventscalendar.com/privacy-policy/" rel="privacy-policy">Privacy Policy</a>
+			</li>
+		</ul><!-- .footer-legal -->
+
+	</div><!-- .content-wrap -->
+</footer><!-- footer -->
+
+</div><!-- #site-wrap -->
+
+<script type="text/javascript">
+adroll_adv_id = "OONTUOLKIRARFOXO35NO7S";
+adroll_pix_id = "4RLJG5ZGVBAVPIWRRW6VB2";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0052/6692.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"https:\/\/theeventscalendar.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//theeventscalendar.com/content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js"></script>
+<script type="text/javascript" src="//theeventscalendar.com/content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//theeventscalendar.com/content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js"></script>
+<script type="text/javascript" src="//theeventscalendar.com/content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//theeventscalendar.com/content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js"></script>
+<script type="text/javascript" src="https://theeventscalendar.com/content/themes/tribe-ecp/js/dist/master.min.js"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://theeventscalendar.com/content/themes/tribe-ecp/js/dist/master.min.js'></script>
+<![endif]-->
+<script type="text/javascript" src="https://theeventscalendar.com/wp-includes/js/wp-embed.min.js"></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+
+					$( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).click( function() {
+						ga( 'ec:addProduct', {'id': ($(this).data('product_sku')) ? ('SKU: ' + $(this).data('product_sku')) : ('#' + $(this).data('product_id')),'quantity': $(this).data('quantity')} );
+						ga( 'ec:setAction', 'add' );
+						ga( 'send', 'event', 'UX', 'click', 'add to cart' );
+					});
+				
+ });
+</script>
+
+<!-- Total Time: 1.475 | template / end: 0.130 -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a1908ac54e","applicationID":"4679659","transactionName":"ZgFWMhZYWxJRV0ZZX19LdQUQUFoPH0RTV1U=","queueTime":0,"applicationTime":1419,"atts":"SkZBRF5CSE0SVRAKS0wZ","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
