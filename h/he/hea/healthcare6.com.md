@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcare6.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130175208id_/http%3A//www.healthcare6.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare6.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114628id_/http%3A//www.healthcare6.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Google'
 
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
   * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](https://www.aboutads.info/).)
 
 
 
