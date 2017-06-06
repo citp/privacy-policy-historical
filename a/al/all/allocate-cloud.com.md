@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the allocate-cloud.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051715id_/http%3A//www.allocatesoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allocate-cloud.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130524id_/http%3A//www.allocatesoftware.com/privacy-policy) for the most accurate reproduction.*
 
-# Allocate Software Privacy Policy - Allocate Software
+# Privacy Policy - Allocate Global
+
+## Privacy
 
 This statement explains the information we collect about users of the Website and how it will be used by us.
 
 We collect details provided by visitors seeking access to the ability to download information about our products. We also collect details provided by applicants for employment with us. Please tell us as soon as possible if any of your personal details change so that we can ensure our records are up to date.
 
-We will use the details provided by you for access to the ability to download information about our products for the purposes of monitoring access to information being sought about our products and identifying persons who have expressed an interest in any product or in any other information we may make available. We may use your personal information to notify you of events, publications or other information we believe may be of interest to you. If you do not wish us to make such use, please e-mail us at enquiries@allocatesoftware.com . We shall remove you from our database as soon as practicable thereafter.
+We will use the details provided by you for access to the ability to download information about our products for the purposes of monitoring access to information being sought about our products and identifying persons who have expressed an interest in any product or in any other information we may make available. We may use your personal information to notify you of events, publications or other information we believe may be of interest to you. If you do not wish us to make such use, please e-mail us at [enquiries@allocatesoftware.com](mailto:enquiries@allocatesoftware.com). We shall remove you from our database as soon as practicable thereafter.
 
 We will use the details provided by applicants for employment solely for the purposes of assessing suitability for employment.
 
@@ -18,7 +20,7 @@ Your personal details will be retained by us for as long as necessary to fulfil 
 
 We will notify changes to this policy by displaying them on this web page.
 
-Website details
+Website details:
 
 This website is operated by Allocate Software, registered in England & Wales No 2814942 at:
 
@@ -27,17 +29,3 @@ This website is operated by Allocate Software, registered in England & Wales No 
 Richmond
 
 TW9 2QE
-
-In order to comply with the EU Cookie Directive, we use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don’t want to have them on your device. Please be reassured that we are working on other privacy and cookie-related improvements to our website. A list of all the cookies used on the Website by category is set out below:
-
-**Persistent Cookies for Site Analytics and Performance  **
-
-**Google Analytics**
-
-We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at http://www.google.co.uk/intl/en/analytics/privacyoverview.html
-
-**Kampyle Feedback Tool**
-
-We use this tool to allow users to provide feedback on our website and help us improve user experience. For more information please visit the Kampyle website.
-
-If you wish to restrict or block web browser cookies then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you can visit www.aboutcookies.org, which contains information on how to do this on a wide variety of desktop browsers.
