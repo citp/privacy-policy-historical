@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080446id_/http%3A//www.chamberlain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214954id_/http%3A//www.chamberlain.com/privacy-policy) for the most accurate reproduction.*
 
 # Chamberlain Garage Door Opener Privacy Policy - Chamberlain
 
@@ -48,6 +48,6 @@ Chamberlain cooperates with law enforcement agencies in identifying those who us
 
 This Privacy Policy is subject to the terms of the applicable Chamberlain Site Terms and Conditions. Chamberlain reserves the right to change this Privacy Policy. Any changes to this policy will be posted to this page as soon as reasonably possible and will become effective immediately. Therefore, please check this page periodically. Use of the Chamberlain site constitutes consent to any policies then in effect.
 
-The operator of this site is The Chamberlain Group, Inc., 845 Larch Avenue, Elmhurst, Illinois, (630) 279-3600.
+The operator of this site is The Chamberlain Group, Inc., 300 Windsor Drive, Oak Brook, IL 60523, (630) 279-3600.
 
 If you have any questions regarding Chamberlain’s Privacy Policy, please contact us at the above phone number.
