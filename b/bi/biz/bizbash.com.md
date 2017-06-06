@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123123915id_/http%3A//www.bizbash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210846id_/http%3A//www.bizbash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ You may have certain rights under the Communications Act, Federal Trade Commissi
 
 If you do not want to receive email or other communications from us in the future, please send an email to us at the address below or call us at the telephone number below requesting to be removed from our mailing list. You will also have the option of clicking on a link included in email correspondence you receive from us in order to remove yourself from our mailing list. 
 
-> Email Contact: [remove@bizbash.com](https://web.archive.org/web/20161123123915id_/http%3A//www.bizbash.com/remove@bizbash.com)  
+> Email Contact: [remove@bizbash.com](https://web.archive.org/web/20170606210846id_/http%3A//www.bizbash.com/remove@bizbash.com)  
 >  Telephone Contact: 646.839.6835 
 
 Please note that there might be a brief delay between when you submit your request to “opt-out” and when it is processed and reflected in our systems; accordingly you may continue to receive communications from us for a limited time after you unsubscribe. We appreciate your patience.
@@ -61,10 +61,8 @@ This Privacy Policy and our legal obligations hereunder are subject to the laws 
 
 
 
-**Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at http://www.bizbash.com/termsandconditions is subject at all times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions contained in the Terms of Use and in this Privacy Policy.**
+**Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at https://www.bizbash.com/termsandconditions is subject at all times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions contained in the Terms of Use and in this Privacy Policy.**
 
 This Privacy Policy was last updated on March 1st, 2012. 
 
 Your email inquiry will be sent to 3 venue
-
-[[DYNAMIC INTERSTITIAL]] 
