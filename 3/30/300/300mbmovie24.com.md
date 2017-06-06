@@ -1,16 +1,63 @@
-> *The following text is extracted and transformed from the 300mbmovie24.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815175311id_/https%3A//300mbmovie24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 300mbmovie24.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184616id_/https%3A//300mbmovie24.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-At  **300mbmovie24.com**  we are very much aware of the importance of the privacy of your individual information. Here you will get information on what sorts of individual information we obtain as well as collect when **300mbmovie24.com**  is used, and we always ensure protection to your information.
+## Privacy Policy for 300MbMovie24.Com
 
-### We ensure you never to sell your individual data to third parties
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email: [admin@300mbmovie24.com](mailto:admin@300mbmovie24.com) or [Contact Us](https://300mbmovie24.com/contact/).
 
-Of course, we may provide help diagnose any problem with our service to ensure enhanced services for our visitors.
+At https://300mbmovie24.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by https://300mbmovie24.com/ and how we use it.
 
-It is our policy to use third-party advertising companies to provide ads when you pay a visit to our website. Those ads may contain cookies and they may also be used by the advertising companies to have better understand a visitor’s fondness and also help them to show ads on related matters. However, the cookies got with the advertisements are collected by the advertising company and we do not have any access to that information. Those companies may use information (except / not including your name, address, email address, or telephone number) about your visits not only to this but also to any other websites to provide advertisements about goods and services that are of great interest to you.
+**Log Files**  
+Like many other Web sites, https://300mbmovie24.com/ makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-### Security of Email Addresses – We do not share any of your email addresses with anyone.
+**Cookies and Web Beacons**  
+https://300mbmovie24.com/ uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-If you would like to have more information about this practice and would like to know your options in relation to not having this information used by these companies, thanks to visit our site………….  
+#### How To Protect Your Info:
 
+→ We are use  **Secure Sockets Layer**  ( **SSL** ) to protect your info. we are not use any fake ads or links we are not a spammer.
+
+**DoubleClick DART Cookie**
+
+→ Google, as a third party vendor, uses cookies to serve ads on https://300mbmovie24.com/.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to https://300mbmovie24.com/ and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+
+  * Revenuehits
+  * Popads
+
+
+
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Popads Privacy Policies](https://www.popads.net/privacy-policy.html), _[Revenuehits ](http://revenuehits.com/publishers/tos.html) _Privacy Policies._
+
+_  
+You may consult this listing to find the privacy policy for each of the advertising partners of https://300mbmovie24.com/._
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on https://300mbmovie24.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+https://300mbmovie24.com/ has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. https://300mbmovie24.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options.
+
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+https://300mbmovie24.com/ does not knowingly collect any personally identifiable information from children under the age of 18. If a parent or guardian believes that https://300mbmovie24.com/ has in its database the personally-identifiable information of a child under the age of 18, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+**Update**  
+This Privacy Policy was last updated on: Wednesday, May 31st, 2017.
+
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
