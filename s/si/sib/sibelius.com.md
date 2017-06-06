@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sibelius.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522163215id_/http%3A//www.avid.com/en/legal/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sibelius.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113510id_/http%3A//www.avid.com/legal/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Avid
 
@@ -16,7 +16,7 @@ Generally speaking, you may visit the site while remaining anonymous and not rev
 
 Our websites automatically log your IP address and domain name, and non-personal information such as the type of web browser you use, to help us administer the sites and to compile statistics such as the number of visitors.
 
-Our websites use cookies to identify you over multiple visits to the site, for example to remember your country and provide country-specific content. Cookies are optional, and you can block or delete them. However, some parts of our websites (e.g. chat pages) will not work without cookies.
+Our websites use cookies to identify you over multiple visits to the site, for example to remember your country and provide country-specific content. Cookies are optional, and you can block or delete them. However, some parts of our websites (e.g. chat pages) will not work without cookies. Cookies may also be used to track visitor behavior on the website, which allows visitors to be retargeted with digital advertising that reflects their past behavior on the site.
 
 #### Submission of Personal Information
 
@@ -36,7 +36,7 @@ Avid aggregates information provided by you to create anonymous statistical and 
 
 Avid does not sell to third parties information you have submitted to this site that identifies you personally.
 
-On occasion, Avid may offer in conjunction with third parties certain services that may require you to share your personal information with that third party as a condition for receiving that service. In addition, if you purchase third party products on the Avid online store, Avid may share your information with the manufacturer of that product. While Avid will treat any information it receives in accordance with this Privacy Policy Statement, Avid will not be responsible for the information submitted by you to that third party, and we remind you to review the applicable rules and any third party's applicable privacy policies separately before participating in such service.
+On occasion, Avid may offer in conjunction with third parties certain services that may require you to share your personal information with that third party as a condition for receiving that service. In addition, if you purchase third party products on the Avid online store, Avid may share your information with the manufacturer of that product. While Avid will treat any information it receives in accordance with this Privacy Policy Statement, Avid will not be responsible for the information submitted by you to that third party, and we remind you to review the applicable rules and any third party's applicable privacy policies separately before participating in such service. Avid may also work with third party publishers and vendors to serve digital advertising across relevant sites on the Internet. Third party vendors may also use cookies to serve digital ads based on a person’s past visits to the Avid site.
 
 #### Declining Information
 
