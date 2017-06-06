@@ -1,19 +1,33 @@
-> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411160611id_/http%3A//www.nationaltheatre.org.uk/your-visit/website-help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165945id_/https%3A//www.nationaltheatre.org.uk/your-visit/website-help/privacy) for the most accurate reproduction.*
 
-# Privacy | National Theatre | South Bank, London
+# Privacy | National Theatre
+
+####  Go to... __
+
+## Privacy
 
 ## The National Theatre − Privacy Policy
 
 ### 1\. Privacy commitment
 
-The nationaltheatre.org.uk website is owned and operated by The National Theatre. We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy to deal with issues which may concern you. Please read the Privacy Policy to understand how your personal information will be treated. This policy may change from time to time so please check it periodically. It was last updated on 20 January 2015.
+The nationaltheatre.org.uk website is owned and operated by The National Theatre. We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy to deal with issues which may concern you. Please read the Privacy Policy to understand how your personal information will be treated. This policy may change from time to time so please check it periodically. It was last updated on 5 April 2017.
 
-**2\. Personal Information**
+### 2\. Personal Information
 
-2.1 The details which you provide about yourself and any information which identifies you such as your name, address, email address, telephone number, country of residence and credit and debit card details ("Personal Information") will only be retained by us if you provide this information when using one of the services available on our website, such as posting a message on the Bulletin Board, subscribing to one of our email lists or when purchasing tickets. Personal Information will be held on our system and used for operational purposes such as the processing of bookings and orders in connection with our on-line ticket and book ordering services and for mailing list subscriptions.  
+2.1 The details which you provide about yourself and any information which identifies you such as your name, address, email address, telephone number, country of residence and credit and debit card details ("Personal Information") will only be retained by us if you provide this information when using one of the services available on our website, such as posting a message on the Bulletin Board, subscribing to one of our email lists or when purchasing tickets. Personal Information will be held on our system and used for operational purposes such as the processing of bookings and orders in connection with our on-line ticket and book ordering services and for mailing list subscriptions. If you opt in to marketing communications, your information may also be used to enable us and third party websites to display relevant and targeted advertisements, based on previous behaviour, purchases, or any other relevant information.  
 In order to process a transaction, your Personal Information and card details may be passed to third party service providers. Card details will only be used for the purpose of handling an individual transaction.
 
-The Personal Information you supply when you join one of our e-mail lists will be used by the National Theatre to keep you up-to-date with events and activities organised by the National Theatre. When purchasing tickets you are given the opportunity to opt in to receiving news and information from the National Theatre and its co-producers, other arts organisations and our sponsors. When joining one of our e-mail lists you are given the opportunity to opt in to receiving information from other arts organisations and our sponsors. The National Theatre will only pass on your Personal Information for marketing purposes if the relevant box has been ticked. In these instances, we supply your Personal Information for one-off use by the other arts organisation. Each e-mail we send you offers you the opportunity to amend these preferences, or you can ask us to do this, by e-mailing [boxoffice@nationaltheatre.org.uk](mailto:boxoffice@nationaltheatre.org.uk)
+The Personal Information you supply to us when you opt in to marketing communications will be used by the National Theatre to keep you up-to-date with events and activities organised by the National Theatre.
+
+When purchasing tickets you are given the opportunity to opt in to receiving news and information from the National Theatre and its co-producers, other arts organisations and our sponsors.
+
+When you opt in to marketing communications you are given the opportunity to opt in to receiving information from other arts organisations and our sponsors. The National Theatre will only pass on your Personal Information for marketing purposes if the relevant box has been ticked.
+
+Each e-mail we send you offers you the opportunity to amend these preferences, or you can ask us to do this, by e-mailing [boxoffice@nationaltheatre.org.uk](mailto:boxoffice@nationaltheatre.org.uk)
+
+The only times your personal information may be shared with a third party is if:  
+We have your prior consent to do so, as noted above, OR  
+We are using a third party to send targeted advertisements, using information about you such as an email address or site cookies, if you have opted in to receiving marketing communications and supplied us with your email address.  [You can opt out of this targeting here.](https://web.archive.org/privacy/digital-targeting-opt-out)
 
 2.2 If you would like to revise the information provided to us at any time, or feel what we currently have on record is incorrect, you may update the information by e-mailing [boxoffice@nationaltheatre.org.uk](mailto:boxoffice@nationaltheatre.org.uk)
 
@@ -33,26 +47,24 @@ The Personal Information you supply when you join one of our e-mail lists will b
 
 Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to provide our online ticketing service and track visitor statistics, such as returning visitors.
 
+We use cookies to manage the shopping baskets on our ticketing pages and our Bookshop site, as well as logging in and using your MyNT account pages. The cookies used for these functions are temporary cookies that are removed once the transaction has been completed or you log out. It is not possible to purchase anything on our website without accepting these cookies.
+
 This website uses the following non-essential cookies:
 
-Google Analytics cookies used by the National Theatre: _utma, _utmb, _utmc, _utmz  
+Google Analytics cookies  
 These cookies are used to collect information about how visitors use our site. The cookies collect information in an anonymous form, so we don't know who is using our site. We use the information on how people use our website to compile reports and to help us improve the site. You can go to <http://www.google.com/analytics/learn/privacy.html> to find out more about Google Analytics cookies and how to opt-out of them.
 
 Email and web tracking cookies used by the National Theatre:  
 These cookies are used to collect information about how visitors who have subscribed to our email lists are using the website. This data is not anonymised and we use the information to help improve our email communications and target specifically-tailored messages for our email subscribers. You can review and change your settings using the link just below.
 
-Cookies used by Twitter: _utma, _utmz, Guest_id, k  
-These cookies provide information on visitors to Twitter, checks whether users are logged in to Twitter and sets the Twitter application cookie.
-
-We also use cookies to manage the shopping baskets on our ticketing pages and our Bookshop site, as well as logging in and using your MyNT account pages. The cookies used for these functions are temporary cookies that are removed once the transaction has been completed or you log out. It is not possible to purchase anything on our website without accepting these cookies.
+Cookies used by Twitter and Facebook  
+These cookies provide information on visitors to Twitter and Facebook, check whether users are logged in to either platform and sets application cookies for Twitter and Facebook.
 
 This website also uses advertising cookies and we offer the option to opt out of these to prevent them being set on your computer.
 
-**[You can review a full list of the cookies we use in this document](http://d1wf8hd6ovssje.cloudfront.net/documents/Cookies_used_on_National_Theatre_website_Jan15.pdf "Cookies used on the National Theatre website Jan 2015")**.
-
 **Review and change your settings here.**
 
-For more information on cookies, please visit:   
+For more information on cookies, please visit:  
 [aboutcookies.org](http://www.aboutcookies.org/ "About Cookies website")  
 [Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie "Cookies entry on Wikipedia website")
 
