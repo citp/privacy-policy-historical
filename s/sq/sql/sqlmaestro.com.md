@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918000145id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143012id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database tools for MySQL, SQL Server, PostgreSQL, SQLite, Oracle, DB2, Firebird by SQL Maestro Group
 
@@ -6,9 +6,9 @@ Partners
 
 Testimonials
 
-**Adam Allen:** "I just have to say WOW!!! I'm so glad that you guys have developed something that is so useful for MySql. I am able to graphically view my tables, and I don't even have to think about my queries because I can visually design them. I just stumbled upon this, and I'm already very excited about it".
+**Johnson Sieu:** "Your PHP Generator is the BEST that I have used so far. It is affordable and user-friendly. Congratulation for coming up with such a fine product. I will not hesitate to introduce it to my peers".
 
-**Phillip Magger:** "A word of congratulations. I think that your Firebird Data Wizard is some of the best stuff I have ever used. I was in search of an easy-used tool, and I found it. It is a good solution".
+**Jeff Rule:** "I have to tell you I am really impressed. I have never had a software company turn around a bug fix like this so fast. I have been doing database work for over 20 years and that has never happened.".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -71,24 +71,24 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
-Sep 15, 2016
+May 22, 2017
 
-New version comes with 30+ new features including column filtering, custom form layouts, enhanced master-detail views, multi-row column headers, record comparison, brand new inline forms, quick edit, breadcrumb navigation, geo charts, index page generation, a number of GUI improvements, and much more.
+New version features direct support for a number of MariaDB new features like roles, check constraints and virtual columns; support for roles added in MySQL 8.0, usage statistics for database profile and some other useful things.
 
-Aug 1, 2016
+Apr 10, 2017
 
-The demo contains 50+ pages to illustrate most of features provided by the software and help you to create even more powerful websites for your users.
+New version features colored tabs, new encryption algorithms in data grids, enhanced data input forms, updated data export/import tools and a lot of other useful things.
 
-Jun 27, 2016
+Mar 22, 2017
 
-New version comes with PostgreSQL 9.6 compatibility, support for row-level security policies and a number of other PostgreSQL 9.5 new features, updated BLOB Editor and other useful things.
+New version allows you to grant custom permissions at page and record level. It also features enhanced Quick Filter tool, a possibility of printing selected records, a number of updated controls and other useful things.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/db2/converter/screenshots/common/start_page/)
+[](http://www.sqlmaestro.com/products/sqlite/codefactory/screenshots/getting_started/sql_script_editor/)
 
-If you have an ODBC driver for something, with DB2 Database Converter you can convert it to IBM DB2.
+SQLite Code Factory provides syntax highlighting to prevent mistakes in syntax at once.
 
-[](http://www.sqlmaestro.com/products/postgresql/converter/screenshots/common/start_page/)
+[](http://www.sqlmaestro.com/products/sql_anywhere/phpgenerator/screenshots/common/master_detail_presentation/)
 
-PostgreSQL Database Converter can connect directly to MySQL, PostgreSQL, SQL Server, Oracle, Firebird, and SQLite.
+PHP Generator supports master-detail presentations used to display a list of detail records related to a selected record on the page.
