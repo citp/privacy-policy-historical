@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224030625id_/http%3A//www.costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053755id_/https%3A//www.costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
 
 # Costco Wholesale Corporation - Privacy Policy
 
@@ -220,6 +220,6 @@ More information about privacy law and the APPs is available from the Privacy Co
 
 ## L. Changes to this Privacy Policy
 
-We may change this privacy policy at any time without notice. We will post a notice of material changes on our website, and any changes will be reflected on this page. You may click [here](https://web.archive.org/web/20161224030625id_/http%3A//www.costco.com.au/Common/PreviousPrivacy.shtml) to see previous versions of our privacy policy. 
+We may change this privacy policy at any time without notice. We will post a notice of material changes on our website, and any changes will be reflected on this page. You may click [here](https://web.archive.org/web/20170606053755id_/https%3A//www.costco.com.au/Common/PreviousPrivacy.shtml) to see previous versions of our privacy policy. 
 
 Last update of this policy: October, 2015
