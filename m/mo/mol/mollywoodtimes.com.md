@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mollywoodtimes.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093915id_/http%3A//mollywoodtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mollywoodtimes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161907id_/http%3A//mollywoodtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mollywood Times
 
