@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easycar.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012010733id_/http%3A//booking.easycar.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090727id_/http%3A//booking.easycar.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
-# Rental Cars and Car Rentals from Rentalcars.com
+# Rental Cars and Car Rentals from easycar
 
 Your privacy is important to us. We value the trust you have placed in us, and are committed to protecting and safeguarding any personal information you give us. This document, which we update from time to time, describes how we use and process your personal information. It also tells you how you can contact us if you have questions about your personal information.
 
@@ -66,7 +66,7 @@ We use appropriate business systems and procedures to protect and safeguard the 
 
 **How can you control marketing emails?**
 
-Upon completion of a quote or rental car booking we provide options to opt out of marketing and sales emails, if you have remained opted in, we hope you enjoy receiving our emails, but if you would prefer not to be kept up-to-date with our special offers, you can opt out, or unsubscribe, from marketing communications at any time using the ‘Unsubscribe’ link in each newsletter. 
+Upon completion of a quote or rental car booking we provide options to opt out of marketing and sales emails, if you have remained opted in, we hope you enjoy receiving our emails, but if you would prefer not to be kept up-to-date with our special offers, you can opt out, or unsubscribe, from marketing communications at any time using the ‘Unsubscribe’ link in each newsletter.
 
 ## Contact
 
