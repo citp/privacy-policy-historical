@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voice123.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119231217id_/http%3A//voice123.com/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice123.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182354id_/http%3A//voice123.com/doc/privacy.html) for the most accurate reproduction.*
 
 # Voice123 - The Voice Over Marketplace - Voice Overs, Voice Actors, and Talents
 
