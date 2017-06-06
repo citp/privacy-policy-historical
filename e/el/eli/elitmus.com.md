@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the elitmus.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414060136id_/https%3A//www.elitmus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitmus.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190553id_/https%3A//www.elitmus.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy / Disclaimer | eLitmus.com
+# eLitmus.com | Privacy Policy / Disclaimer
 
-## Privacy Policy
+This policy was last modified on January 16, 2013 and was first published and made effective in March 2012 
 
-This policy was last modified on January 16, 2013 and was first published and made effective in March 2012
-
-**www.elitmus.com** ( hereinafter referred to as **"Website"** or **"eLitmus"** ) is a public website owned by **"eLitmus Evaluation Private Limited"**. The privacy policy sets out how **eLitmus** uses and protects any information that you give **eLitmus** when you use this website. **eLitmus** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy. **eLitmus** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+**www.elitmus.com** ( hereinafter referred to as **"Website"** or **"eLitmus"** ) is a public website owned by **"eLitmus Evaluation Private Limited"**. The privacy policy sets out how **eLitmus** uses and protects any information that you give **eLitmus** when you use this website. **eLitmus** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy. **eLitmus** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
 **What we collect**  
 We may collect the following information:
@@ -47,8 +45,8 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 **Accessing and updating your personal information**  
 A user can access all the data that he or she has entered during the registration process on our website. However, some of our services may require us to lock the user's personal information, and it may not be possible to edit such information once locked. Only information such as Contact number, address, alternate email etc can be updated as and when required, by accessing our website. Furthermore, if the user wants to change the locked information, he or she can do so by following the instructions mentioned in the 'help' section of our website.
 
-**Data Retention  
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at query@elitmus.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.**
+**Data Retention**  
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at query@elitmus.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Links to other websites**  
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy policy. You should exercise caution and look at the privacy statement applicable to the website in question.
