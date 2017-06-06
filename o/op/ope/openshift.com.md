@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openshift.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015121624id_/https%3A//www.redhat.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openshift.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172153id_/https%3A//www.redhat.com/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -103,7 +103,7 @@ In addition, we may use remarketing technology to advertise on other websites yo
 
 If you do not want your information to be stored by cookies, you can configure your browser so that it always rejects these cookies or asks you each time whether you want to accept them or not. However, you must understand that choosing to reject cookies may reduce the performance and functionality of our websites. Your browser documentation includes precise instructions explaining how to define the acceptance of cookies. While Red Hat websites at this time generally do not recognize automated browser signals regarding tracking mechanisms, such as “do not track” instructions, you can generally express your privacy preferences regarding the use of most cookies and similar technologies through your web browser. 
 
-Red Hat also uses web beacons alone or in conjunction with cookies to compile information about usage of our websites and interaction with emails from Red Hat. Web beacons are clear electronic images that can recognize certain types of information on your device, such as cookies, when you viewed a particular website tied to the web beacon, and a description of a website tied to the web beacon. For example, Red Hat may place web beacons in marketing emails that notify Red Hat when you click on a link in the email that directs you to one of our websites. Red Hat uses web beacons to operate and improve our websites and email communications.
+Red Hat also uses web beacons alone or in conjunction with cookies to compile information about usage of our websites and interaction with emails from Red Hat. Web beacons are clear electronic images that can recognize certain types of information on your device, such as cookies, when you viewed a particular website tied to the web beacon, and a description of a website tied to the web beacon. For example, Red Hat may place web beacons in marketing emails that notify Red Hat when you click on a link in the email that directs you to one of our websites. Red Hat uses web beacons to operate and improve our websites and email communications.
 
 Back to top
 
@@ -111,9 +111,9 @@ Back to top
 
 In accordance with the laws of certain countries, you may have certain rights and choices regarding the personal information we collect and maintain about you, and how we communicate with you.
 
-Red Hat gives you the ability to access, modify, or update some of your personal information online at any time. You may [log in](https://www.redhat.com/wapps/sso/login.html) and make changes to your information, such as your password, your contact information, your general preferences, and your personalization settings. If necessary, you may also [contact us via our Feedback Form](https://web.archive.org/web/20161015121624id_/https%3A//www.redhat.com/en/about/feedback) and describe the changes you want made to the information you have previously provided. However, note that changing or deleting information necessary for Red Hat to assist with support, services, and purchases may result in a delay or interruption in processing your requests.
+Red Hat gives you the ability to access, modify, or update some of your personal information online at any time. You may [log in](https://www.redhat.com/wapps/sso/login.html) and make changes to your information, such as your password, your contact information, your general preferences, and your personalization settings. If necessary, you may also [contact us via our Feedback Form](https://web.archive.org/web/20170606172153id_/https%3A//www.redhat.com/en/about/feedback) and describe the changes you want made to the information you have previously provided. However, note that changing or deleting information necessary for Red Hat to assist with support, services, and purchases may result in a delay or interruption in processing your requests.
 
-You will be given an opportunity to tell us whether you would like to receive information, special offers, and promotional materials by email from Red Hat or our business partners when you create a redhat.com account, when you register for a service, when you provide us with your personal information, or when we send you a marketing email. You have the ability to opt out of receiving marketing emails from Red Hat at any time without cost by clicking on the relevant link contained in our marketing emails or by contacting us via our [Feedback Form](https://web.archive.org/web/20161015121624id_/https%3A//www.redhat.com/en/about/feedback).
+You will be given an opportunity to tell us whether you would like to receive information, special offers, and promotional materials by email from Red Hat or our business partners when you create a redhat.com account, when you register for a service, when you provide us with your personal information, or when we send you a marketing email. You have the ability to opt out of receiving marketing emails from Red Hat at any time without cost by clicking on the relevant link contained in our marketing emails or by contacting us via our [Feedback Form](https://web.archive.org/web/20170606172153id_/https%3A//www.redhat.com/en/about/feedback).
 
 You can also exercise your rights and choices by contacting us as described below under “How to Contact Us.”
 
@@ -135,7 +135,7 @@ Back to top
 
 ## Children’s Online Privacy
 
-Red Hat’s products and services are not directed to children and Red Hat does not knowingly collect online personal information from children under the age of 13. If you are a parent or guardian of a minor under the age of 13 and believe that he or she has disclosed personal information to us, please contact us via our [Feedback Form](https://web.archive.org/web/20161015121624id_/https%3A//www.redhat.com/en/about/feedback) or as described below under “How to Contact Us.”
+Red Hat’s products and services are not directed to children and Red Hat does not knowingly collect online personal information from children under the age of 13. If you are a parent or guardian of a minor under the age of 13 and believe that he or she has disclosed personal information to us, please contact us via our [Feedback Form](https://web.archive.org/web/20170606172153id_/https%3A//www.redhat.com/en/about/feedback) or as described below under “How to Contact Us.”
 
 Back to top
 
@@ -153,7 +153,7 @@ Back to top
 
 Red Hat reserves the right to make corrections, changes or amendments to this Privacy Statement at any time. The revised Privacy Statement will be posted on this website. A notice will be posted on our homepage for 30 days whenever this Privacy Statement is changed in a material way, and the date of last update will be indicated at the top of the Privacy Statement. If you do not refuse the changes in writing within that notice period, this shall mean that you have consented to the Privacy Statement as changed, including with respect to personal information provided to us prior to the changes in the Privacy Statement. We encourage you to periodically review this Privacy Statement for any changes or updates.
 
-If you have any questions about Red Hat’s privacy practices or use of your personal information, please feel free to contact us at [privacy@redhat.com,](mailto:privacy@redhat.com) via our [Feedback Form](https://web.archive.org/web/20161015121624id_/https%3A//www.redhat.com/en/about/feedback) or by mail at:
+If you have any questions about Red Hat’s privacy practices or use of your personal information, please feel free to contact us at [privacy@redhat.com,](mailto:privacy@redhat.com) via our [Feedback Form](https://web.archive.org/web/20170606172153id_/https%3A//www.redhat.com/en/about/feedback) or by mail at:
 
 Red Hat, Inc.  
 Corporate Legal Group  
