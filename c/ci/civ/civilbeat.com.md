@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805233638id_/http%3A//www.civilbeat.org/civil-beat-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084011id_/http%3A//www.civilbeat.org/civil-beat-privacy-policy) for the most accurate reproduction.*
 
-# Civil Beat Privacy Policy - Civil Beat News
+# Civil Beat Privacy Policy - Honolulu Civil Beat
 
 We respect your privacy and are committed to protecting your personal information that you may provide through the Civil Beat service. This policy tells you how we use and protect your personal information on http://www.civilbeat.org. Except for information we collect about you from our payment platforms, this privacy policy only applies to information we collect through our website and does not apply to information collected from other sources. This policy is effective as of June 1, 2016. The Civil Beat service is owned and operated by Honolulu Civil Beat Inc. so you are agreeing to the terms in this agreement with Honolulu Civil Beat Inc.
 
