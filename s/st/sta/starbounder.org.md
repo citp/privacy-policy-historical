@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbounder.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042629id_/http%3A//starbounder.org/Starbounder_-_Starbound_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbounder.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102447id_/http%3A//starbounder.org/Starbounder_-_Starbound_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Starbounder - Starbound Wiki:Privacy policy - Starbounder - Starbound Wiki
 
@@ -52,6 +52,12 @@ Log data may be examined by developers in the course of solving technical proble
 Except where otherwise specified, all text added to Starbounder is available for reuse under the terms of the GFDL. 
 
 Starbounder will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. 
+
+  * Third party vendors, including Google, may use cookies to serve ads based on user's prior visits to this website and other websites.
+  * Google's use of advertising cookies enables it and its partners to serve ads to visitors based on their visits to this site and/or other sites on the Internet.
+  * Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, visitors can opt out of third-party vendor cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).)
+
+
 
 ## Security of information
 
