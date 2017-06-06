@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the valpak.com privacy policy that was archived on 2016-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161110024812id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valpak.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606172417id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="desktop js-fouc js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" itemscope="" itemtype="http://schema.org/organization"><head>
+<!DOCTYPE html><html class="desktop js-fouc" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" itemscope="" itemtype="http://schema.org/organization"><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
@@ -10,7 +10,7 @@
 <meta name="apple-itunes-app" content="app-id=331365449">
 <meta name="google-play-app" content="app-id=com.valpak.android">
 
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://cdn1.valpak.com/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon" href="">
 
 <title>Free Printable Coupons and Online Promo Codes - Valpak.com</title>
@@ -20,7 +20,6 @@
 <!-- End SEO -->
 <meta itemprop="name" content="Free, printable coupons for food and restaurants, grocery, and more on Valpak.com. Get your online coupon or promo code for more discounts.">
 <meta itemprop="image" content="">
-
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Free Printable Coupons and Online Promo Codes - Valpak.com">
 <meta name="twitter:description" content="Free, printable coupons for food and restaurants, grocery, and more on Valpak.com. Get your online coupon or promo code for more discounts.">
@@ -28,20 +27,14 @@
 <meta property="og:description" content="Free, printable coupons for food and restaurants, grocery, and more on Valpak.com. Get your online coupon or promo code for more discounts.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.valpak.com/coupons/show/privacypolicy">
-<meta property="og:image" content="https://www.valpak.com/public/images/valpak-share.png">
-<meta property="og:site_name" content="Valpak">
+<meta property="og:image" content="https://www.valpak.com/public/images/valpak-share.jpg">
+  <meta property="og:site_name" content="Valpak">
 <meta property="fb:admins" content="1226626940">
-<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,600,300,700">
+<link href="https://cdn1.valpak.com" rel="preconnect" crossorigin="">
+<link type="text/css" rel="stylesheet" href="https://cdn1.valpak.com/public/stylesheets/css/style-built.css?v=^1496757223646^">
 
-<link rel="stylesheet" href="/public/dist/components/Ladda/dist/ladda-themeless.min.css">
-
-<link type="text/css" rel="stylesheet" href="https://www.valpak.com/public/stylesheets/css/style-built.css">
-  <!--[if lte IE 8]>
-  <link type="text/css" rel="stylesheet" href="https://www.valpak.com/public/stylesheets/css/style-legacy.css" />
-<![endif]-->
-
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?onload=__async_req_1__"></script><script src="//assets.adobedtm.com/6382440294995907bdfa984f84da310e1d4dd74d/satelliteLib-c4cdebff4b3095733fd39325cde4a17c6b33ba1f.js"></script>
-<script src="/public/dist/require.js"></script>
+<script src="//assets.adobedtm.com/6382440294995907bdfa984f84da310e1d4dd74d/satelliteLib-c4cdebff4b3095733fd39325cde4a17c6b33ba1f.js"></script>
+<script src="https://cdn1.valpak.com/public/dist/require.js"></script>
 
 <script>
 
@@ -69,23 +62,22 @@ requirejs.config({
     'async'            : 'components/requirejs-plugins/src/async',
     'URIjs'            : 'components/uri.js/src',
     'social-shares'    : 'components/social-likes/src/social-likes',
-    'ladda'            : 'components/Ladda/dist/ladda.min',
-    'spin'             : 'components/Ladda/dist/spin.min',
     'tooltipster'      : 'components/tooltipster/js/jquery.tooltipster',
     'angular'          : 'components/angular/angular.min',
     'validate'         : 'vendor/jquery.validate.min',
     'maskedinput'      : 'vendor/jquery.maskedinput.min'
-  }
+  },
+  urlArgs: 'v=^1494274081540^'
 });
 
-requirejs.config({ baseUrl: '/public/dist' });
+requirejs.config({ baseUrl: 'https://cdn1.valpak.com/public/dist' });
 
-// Adobe/Omniture DTM 
+// Adobe/Omniture DTM
 define('dtm', [], function(){
   return window._satellite || {};
 });
 
-// Google Plusone client API 
+// Google Plusone client API (used for android pay ~ google wallet)
 window.___gcfg = {parsetags: 'explicit'};
 define('gapi', ['async!https://apis.google.com/js/plusone.js!onload'], function(){
   return gapi;
@@ -118,13 +110,14 @@ define('App', [], function(){
     page              : 'privacypolicy',
     bppExpired        : 'false' == 'true',
     bppServiceBased   : 'false' == 'true',
+    bppColorTheme     : 'false' == 'true',
     server            : 'https://www.valpak.com',
     secure_server     : 'https://www.valpak.com',
-    ipAddress         : '207.241.229.198',
+    ipAddress         : '207.241.229.215',
     isSecure          : 'true' == 'true',
-    cssDir            : '/public/stylesheets/css',
-    imageDir          : '/public/images',
-    jsDir             : '/public/dist',
+    cssDir            : 'https://cdn1.valpak.com/public/stylesheets/css',
+    imageDir          : 'https://cdn1.valpak.com/public/images',
+    jsDir             : 'https://cdn1.valpak.com/public/dist',
     autoPopup         : '',
     emailLinkSignIn   : '',
     deepLinkSignUp    : '',
@@ -152,7 +145,7 @@ define('App', [], function(){
     user : {
       device          : device,
       isGb            : 'true' == 'true',
-      campaignCode    : 'www.valpak.com-Organic',
+      campaignCode    : 'NoReferrer-Direct',
       memberId        : '0',
       isAdmin         : false,
       isLoggedIn      : 'false' == 'true',
@@ -162,7 +155,7 @@ define('App', [], function(){
       enableSurvey    : 'false' == 'true',
       surveyUrl       : 'http://valpak.8-5.sgizmo.com/s3/',
       cookies         : {
-        vprefid         : '1000010430',
+        vprefid         : '999999999',
         visit           : ''
       }
     }
@@ -189,14 +182,14 @@ define('App', [], function(){
 
 
 </script>
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="app/pak" src="/public/dist/app/pak.js"></script><style type="text/css"></style><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="async" src="/public/dist/components/requirejs-plugins/src/async.js"></script></head>
+</head>
 <body data-page="privacypolicy">
 
   <div class="off-canvas-nav" data-role="off-canvas-nav">
   <div>
     <div class="ocn-header">
       <div class="">
-        <img class="secondary-logo fluid" src="/public/images/valpak-logo-reversed@2x.png" alt="Valpak.com" itemprop="logo">
+        <img class="secondary-logo fluid" src="https://cdn1.valpak.com/public/images/valpak-logo-reversed@2x.png" alt="Valpak.com" itemprop="logo">
       </div>
     </div>
 
@@ -209,7 +202,7 @@ define('App', [], function(){
     <a class="header__nav__link site-nav__link" href="https://www.valpak.com/coupons/coupon-codes/featured" data-dtm="view-coupon-codes"><span class="icon-right-open"></span> Coupon Codes</a>
       </li>
 <li>
-    <a class="header__nav__link site-nav__link" href="http://www.valpak.com/coupons/savings/groceries" data-dtm="view-grocery-coupons"><span class="icon-right-open"></span> Grocery Coupons</a>
+    <a class="header__nav__link site-nav__link" href="https://www.valpak.com/coupons/savings/groceries" data-dtm="view-grocery-coupons"><span class="icon-right-open"></span> Grocery Coupons</a>
       </li>
 </ul>
 
@@ -240,7 +233,8 @@ define('App', [], function(){
   <li>
     <a class="header__nav__link" title="Valpak Blog" href="http://www.valpak.com/blog/" target="_blank" data-dtm="header-blog">Valpak Blog</a>
   </li>
-</ul><div class="branding__social-icons">
+</ul>
+<div class="branding__social-icons">
   <ul>
     <li class="social__icon social__icon-facebook">
       <a class="icon-facebook-circled" title="Valpak Facebook page" href="https://www.facebook.com/Valpak" target="_blank" data-dtm="valpak-social-link" rel="nofollow"></a>
@@ -274,7 +268,7 @@ define('App', [], function(){
       </div>
 
       <div class="branding">
-        <a class="branding__site-logo" href="/"><img src="/public/images/valpak-logo-reversed@2x.png" alt="Valpak" itemprop="logo"></a>
+        <a class="branding__site-logo" href="/"><img src="https://cdn1.valpak.com/public/images/valpak-logo-reversed@2x.png" alt="Valpak" itemprop="logo"></a>
       </div>
 
       <div class="toggle__mini-search">
@@ -300,7 +294,7 @@ define('App', [], function(){
             <div class="header__alt-links" style="position:inherit">
               <ul>
                 <li><a class="icon-mobile" title="Valpak Mobile Apps" href="/coupons/show/mobileapps" data-dtm="header-mobile-apps">Mobile Apps</a></li>
-                <li><a title="Valpak Blog" href="http://www.valpak.com/blog/" target="_blank" data-dtm="header-blog">Valpak Blog</a></li>
+                <li><a title="Valpak Blog" href="/blog/" target="_blank" data-dtm="header-blog">Valpak Blog</a></li>
                 </ul>
             </div>
 
@@ -326,13 +320,12 @@ define('App', [], function(){
     <div class="lg-header-btm">
       <div class="container">
         <div class="div1">
-          <a href="/">
-            <div class="div2">
-              <img class="div2-logo" src="/public/images/valpak-logo-reversed@2x.png" alt="Valpak" itemprop="logo">
-              <img class="logo-tagline2" src="/public/images/valpak-logo-tagline.png" alt="Open the neighborhood">
-            </div>
-          </a>
-
+          <a href="https://www.valpak.com/" itemprop="url">
+              <div class="div2">
+                    <img class="div2-logo" src="https://cdn1.valpak.com/public/images/valpak-logo-reversed@2x.png" alt="Valpak" itemprop="logo">
+                    <img class="logo-tagline2" src="https://cdn1.valpak.com/public/images/valpak-logo-tagline.png" alt="Open the neighborhood">
+                  </div>
+                </a>
           <div class="div3">
             <div class="push-qtr--right">
                 <a class="header__nav__link icon-star btn btn--info" href="/coupons/savings/popular" data-dtm="popular-link">Popular</a>
@@ -347,7 +340,7 @@ define('App', [], function(){
                       <a class="header__nav__link" href="https://www.valpak.com/coupons/coupon-codes/featured" data-dtm="view-coupon-codes"><span class="icon-right-open"></span> Coupon Codes</a>
                         </li>
                   <li>
-                      <a class="header__nav__link" href="http://www.valpak.com/coupons/savings/groceries" data-dtm="view-grocery-coupons"><span class="icon-right-open"></span> Grocery Coupons</a>
+                      <a class="header__nav__link" href="https://www.valpak.com/coupons/savings/groceries" data-dtm="view-grocery-coupons"><span class="icon-right-open"></span> Grocery Coupons</a>
                         </li>
                   </ul>
                 </div>
@@ -360,7 +353,7 @@ define('App', [], function(){
                   <input type="hidden" name="geo" value="San Francisco, CA">
                   <input type="hidden" name="f1" value="keyword">
                   <input type="search" name="keywords" class="keyword-typeahead" placeholder="Pizza, Oil Change, New York, NY or 10108...">
-                  <button class="btn ladda-button sub-2" type="submit" data-style="slide-left" data-dtm="click-search"><span class="ladda-label icon-search"></span></button>
+                  <button class="btn sub-2" type="submit" data-dtm="click-search"><span class="icon-search"></span></button>
                 </form>
                 <p class="input-error-msg">Enter a valid city and state or postal code</p>
               </div>
@@ -370,7 +363,8 @@ define('App', [], function(){
       </div>
     </div>
 
-  </div><div class="container r_container">
+  </div>
+<div class="container r_container">
   <div class="primary-sidebar">
 
   <div class="box box--bottom push-qtr--top pad--bottom-4">
@@ -380,34 +374,34 @@ define('App', [], function(){
 
     <ul class="list push--bottom-4 cf" data-dtm="featured-merchant-tiles">
     <li>
-        <a class="js-featured-merchant-tile-link" title="Pacsun coupons" href="https://www.valpak.com/c/coupon-codes/pacsun-coupons" data-merchant-id="5584" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4216303.png?width=240&amp;height=240" alt="Pacsun coupons"></a>
+        <a class="js-featured-merchant-tile-link" title="Verizon Wireless coupons" href="https://www.valpak.com/c/coupon-codes/verizon-wireless-coupons" data-merchant-id="5475" data-partner-id="7"><img src="https://cdn2.bigcommerce.com/server3300/bf3bb/product_images/uploaded_images/verizon-2015-logo.png?t=1443124500?width=240&amp;height=240" alt="Verizon Wireless promotion codes"></a>
       </li>
     <li>
-        <a class="js-featured-merchant-tile-link" title="Home Depot coupons" href="https://www.valpak.com/c/coupon-codes/home-depot-coupons" data-merchant-id="5540" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4215388.png?width=240&amp;height=240" alt="Home Depot coupons"></a>
+        <a class="js-featured-merchant-tile-link" title="Advance Auto Parts coupons" href="https://www.valpak.com/c/coupon-codes/advance-auto-parts-coupons" data-merchant-id="250376" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4214228.png?width=240&amp;height=240" alt="Advance Auto Parts Coupon Codes"></a>
       </li>
     <li>
-        <a class="js-featured-merchant-tile-link" title="BuyCostumes coupons" href="https://www.valpak.com/c/coupon-codes/buycostumes-coupons" data-merchant-id="5247" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4164870.png?width=240&amp;height=240" alt="BuyCostumes Coupon Codes"></a>
+        <a class="js-featured-merchant-tile-link" title="Sportsmans Guide coupons" href="https://www.valpak.com/c/coupon-codes/sportsmans-guide-coupons" data-merchant-id="206255" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4160227.png?width=240&amp;height=240" alt="Sportsmans Guide Coupon Codes"></a>
       </li>
     <li>
-        <a class="js-featured-merchant-tile-link" title="1-800 Flowers coupons" href="https://www.valpak.com/c/coupon-codes/1800flowers-coupons" data-merchant-id="5644" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4214185.png?width=240&amp;height=240" alt=" "></a>
+        <a class="js-featured-merchant-tile-link" title="Best Buy coupons" href="https://www.valpak.com/c/coupon-codes/best-buy-coupon-codes" data-merchant-id="5307" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4214410.png?width=240&amp;height=240" alt="Best Buy Coupons"></a>
       </li>
     <li>
-        <a class="js-featured-merchant-tile-link" title="JCPenney coupons" href="https://www.valpak.com/c/coupon-codes/jcpenney-coupons" data-merchant-id="236494" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4215555.png?width=240&amp;height=240" alt="JCPenney coupons"></a>
+        <a class="js-featured-merchant-tile-link" title="Oriental Trading coupons" href="https://www.valpak.com/c/coupon-codes/oriental-trading-promotional-code" data-merchant-id="5243" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4320075.png?width=240&amp;height=240" alt="Oriental Trading Coupon Codes"></a>
       </li>
     <li>
-        <a class="js-featured-merchant-tile-link" title="DSW coupons" href="https://www.valpak.com/c/coupon-codes/dsw-coupons" data-merchant-id="237291" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4214915.png?width=240&amp;height=240" alt="DSW coupons"></a>
+        <a class="js-featured-merchant-tile-link" title="Old Navy coupons" href="https://www.valpak.com/c/coupon-codes/old-navy-coupons" data-merchant-id="5251" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4301350.jpeg?width=240&amp;height=240" alt="Old Navy coupons"></a>
       </li>
     <li>
-        <a class="js-featured-merchant-tile-link" title="Verizon Wireless coupons" href="https://www.valpak.com/c/coupon-codes/verizon-wireless-coupons" data-merchant-id="5475" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4311937.png?width=240&amp;height=240" alt="Verizon Wireless promotion codes"></a>
-      </li>
-    <li>
-        <a class="js-featured-merchant-tile-link" title="Walgreens coupons" href="https://www.valpak.com/c/coupon-codes/walgreens-coupons" data-merchant-id="235538" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4311940.png?width=240&amp;height=240" alt="Walgreens coupons"></a>
+        <a class="js-featured-merchant-tile-link" title="Target coupons" href="https://www.valpak.com/c/coupon-codes/target-coupons" data-merchant-id="5821" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4311872.png?width=240&amp;height=240" alt="Logo"></a>
       </li>
     <li>
         <a class="js-featured-merchant-tile-link" title="Dell coupons" href="https://www.valpak.com/c/coupon-codes/dell-coupons" data-merchant-id="6039" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4214787.png?width=240&amp;height=240" alt="Dell Coupons"></a>
       </li>
     <li>
-        <a class="js-featured-merchant-tile-link" title="HalloweenCostumes.com coupons" href="https://www.valpak.com/c/coupon-codes/halloweencostumes-coupons" data-merchant-id="245640" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/2972205.png?width=240&amp;height=240" alt="HalloweenCostumes.com Coupon Codes"></a>
+        <a class="js-featured-merchant-tile-link" title="Pacsun coupons" href="https://www.valpak.com/c/coupon-codes/pacsun-coupons" data-merchant-id="5584" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4216303.png?width=240&amp;height=240" alt="Pacsun coupons"></a>
+      </li>
+    <li>
+        <a class="js-featured-merchant-tile-link" title="Travelocity coupons" href="https://www.valpak.com/c/coupon-codes/travelocity-coupons" data-merchant-id="5473" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4017812.jpeg?width=240&amp;height=240" alt="Travelocity promotion codes"></a>
       </li>
     </ul>
 
@@ -498,10 +492,10 @@ define('App', [], function(){
         <a title="Learn about Valpak" href="/about-valpak" data-dtm="footer-about-us">About</a>
       </li>
       <li>
-        <a title="Valpak Careers" href="http://www.valpakcareers.com" target="_blank" rel="nofollow" data-dtm="footer-careers">Careers</a>
+        <a title="Valpak Careers" href="https://www.valpak.com/careers" target="_blank" rel="nofollow" data-dtm="footer-careers">Careers</a>
       </li>
       <li>
-        <a title="Cox Target Media Targets Clients for Measurable Results. Learn more..." href="https://www.valpak.com/advertise" target="_blank" data-dtm="footer-advertising-info">Advertise</a>
+        <a title="We Target Clients for Measurable Results. Learn more..." href="https://www.valpak.com/advertise" target="_blank" data-dtm="footer-advertising-info">Advertise</a>
       </li>
       <li>
         <a title="About Valpak Franchise Opportunities" href="http://www.valpakfranchising.com" target="_blank" rel="nofollow" data-dtm="footer-franchise-opportunities">Franchising</a>
@@ -541,7 +535,7 @@ define('App', [], function(){
         <a class="icon-mobile" title="Valpak - Free Coupon App" href="/coupons/show/mobileapps" data-dtm="footer-mobile-apps"></a>
       </li>
     </ul>
-</div><p class="p2">© 2016&nbsp;<a title="Learn about Cox Target Media" href="http://www.coxtarget.com" data-dtm="footer-ctm">Cox Target Media</a>, Inc. All Rights Reserved.</p>
+</div><p class="p2">© 2017 All Rights Reserved</p>
 
     <div class="footer-legal">
       <ul>
@@ -569,9 +563,7 @@ define('App', [], function(){
     </div>
   </div>
 </div>
-</div> <div id="printContainer"></div>
-
-  <script>
+</div> <script>
     // Last chance to execute JS before
 // DTM _satellite logs page view
 
@@ -609,7 +601,6 @@ require(['App', 'dtm'], function(App, satellite){
 
 </script>
 
-  <script async="" src="https://i.simpli.fi/dpx.js?cid=36702&amp;action=100&amp;segment=valpaksite&amp;m=1&amp;sifi_tuid=39045"></script>
   
 
 </body></html>
