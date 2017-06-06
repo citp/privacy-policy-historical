@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arpreach.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220052908id_/http%3A//arpreach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arpreach.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185408id_/https%3A//arpreach.com/privacy) for the most accurate reproduction.*
 
 # autoresponder and email marketing software - arpReach
 
@@ -22,7 +22,7 @@ When you enter our web site we may use cookies. Cookies are small pieces of info
 
 These cookies do not store any personal details relating to you. If you do not wish to receive cookies you must not use this web site.
 
-If you have any questions about privacy, please [contact us](http://arpreach.com/contact).
+If you have any questions about privacy, please [contact us](https://arpreach.com/contact).
 
 ### Information Usage:
 
