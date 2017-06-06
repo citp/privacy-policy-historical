@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203043145id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170319id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,8 @@ We take steps where possible to limit the personal data we collect. The followin
   4. You have the option to report email you receive as spam. Doing so will transmit a copy of the message you are reporting to the provider of the software we use on our servers to filter spam. Reporting email as spam improves the filter’s ability to detect email as spam.
   5. If you send an email using Hushmail, your IP address will not appear in the headers of the email. The IP address that will appear in the headers of the email will be that of our servers. We keep a record of your IP address when you sign in to your account and send an email.
   6. When you are signed into your account, Hush displays your recent sign-in activity including the time, date, approximate geographic location, and the IP address of the ISP you used to access the Internet. We do this to assist you in identifying any unauthorized access to your account by a third party. The information we use to display this is gathered from our records; we **do not track your actual location**.
-  7. We use third-party services for some parts of our website such as our help system. When you use these services your account name and your name will be come part of your user account on that service. We also store sales information related to business-oriented services with third-parties that support the sales process, which means that information such as your name, email address, phone number, and company name, as well as the history of communications related specifically to the sales process, may be stored there.
+  7. We use third-party services for some parts of our website such as our help system. When you use these services your account name and your name will become part of your user account on that service.
+  8. We store sales and customer support information with third-parties that support these business processes, which means that information such as your name, email address, phone number, and company name, as well as the history of communications related specifically to the sales or customer support process, may be stored there. If you include sensitive information in your communications to sales and customer support, this information will be stored with these services. As a result, we do not accept any responsibility for any loss or damages suffered by any person as a result of sensitive information being sent to sales or customer support.
 
 
 
