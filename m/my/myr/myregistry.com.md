@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myregistry.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104133921id_/https%3A//www.myregistry.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myregistry.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212235id_/https%3A//www.myregistry.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - MyRegistry.com
 
@@ -116,4 +116,4 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 If you have questions about this Privacy Policy, please contact MyRegistry via e-mail at [customercare@myregistry.com](mailto:customercare@myregistry.com) with “Privacy Policy” in the subject line. 
 
 This Terms and Conditions Statement is effective June 9, 2016  
-**Last Updated** : 06/9/2016
+**Last Updated** : 10/07/2016
