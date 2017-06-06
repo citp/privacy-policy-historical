@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211195543id_/http%3A//www.jewellerynetasia.com/en-us/info/privacy-policy-of-jewellerynetasia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152651id_/http%3A//www.jewellerynetasia.com/en-us/info/privacy-policy-of-jewellerynetasia) for the most accurate reproduction.*
 
-# Privacy Policy | JewelleryNetAsia Online Directory for the Industry
+# Privacy Policy | JewelleryNetAsia - Global Network for Jewellery and Gem Professionals
 
 This privacy policy explains how we handle your Personal and Business Data for our services. By visiting our Website and/or using our services, you both accept the Privacy Policy and explicitly consent to our collection, holding, storage, security, use and disclosure of your Personal and Business Data under the Personal Data (Privacy) Ordinance of Hong Kong.
 
