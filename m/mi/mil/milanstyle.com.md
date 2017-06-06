@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milanstyle.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018113109id_/http%3A//www.milanstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milanstyle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185929id_/https%3A//milanstyle.com/s/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MILAN STYLE
+# Privacy Policy | MILANSTYLE.COM
 
 This privacy statement (“Privacy Policy”) covers all the websites and services owned, affiliated or operated by MilanStyle. (collectively “MilanStyle”, “we”, “us”, “our”). MilanStyle knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the MilanStyle websites, submitting information or using any of our products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and consent to having your data transferred to and processed in the United States. If you do not agree to the terms of this Privacy Policy you should not use the websites and services, nor should you submit personal information.
 
@@ -106,4 +106,4 @@ MilanStyle services may permit you to link to other websites on the Internet, an
 
 **Changes to this Privacy Policy**
 
-MilanStyle may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. By using the MilanStyle.com website, you acknowledge that the Privacy Policy may be amended from time to time and that you will keep up to date with this Policy by accessing the Privacy Policy through <http://www.milanstyle.com/privacy-policy>
+MilanStyle may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. By using the MilanStyle.com website, you acknowledge that the Privacy Policy may be amended from time to time and that you will keep up to date with this Policy by accessing the Privacy Policy through <http://www.milanstyle.com/s/privacy-policy>
