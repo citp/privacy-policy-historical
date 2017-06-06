@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osell.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129195041id_/http%3A//www.osell.com/Help/Getting-Started-p1/Privacy-Policy-p204.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osell.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151039id_/http%3A//osell.com/Help/Getting-Started-p1/Privacy-Policy-p204.html) for the most accurate reproduction.*
 
 # China Manufacturers, Wholesalers, Suppliers Directory, B2B Marketplace-OSELL.com.
 
