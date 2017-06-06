@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012543id_/http%3A//troubleshooter.xyz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171257id_/http%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Troubleshooter
 
@@ -6,15 +6,26 @@ At Troubleshooter, we admit that privacy is important. This document outlines th
 
 ### How we allow you to use our data?
 
-We have our content purely written in our very OWN way and yes, we have got it protected and it’s our copyright. Articles on Troubleshooter.xyz may be carried on, to other websites, forums, or blogs provided that, you include a clear link back to the original article URL link. eg : Source – [Troubleshooter](http://troubleshooter.xyz/).
-    
-    
-    **Recommended:** Before trying anything on this website you should create a backup of all of your data as well as Registry 
-    and create a system restore point first. All use is completely at your own risk.
+We have our content purely written in our very OWN way and yes, we have got it protected and it’s our copyright. Articles on Troubleshooter.xyz may be carried on, to other websites, forums, or blogs provided that, you include a clear link back to the original article URL link. Eg: Source – [Troubleshooter](http://troubleshooter.xyz/).
 
 ### What data do we collect?
 
 We may collect information like your website, email & your name when you post a comment on this blog or when you contact us. We do not share your email address with anyone its only use to contact you. Troubleshooter.xyz does not collect any information without user’s knowledge.
+
+**We collect information to provide better service to our users. We collect information in the following ways:-**
+
+  1. Information you give us.
+  2. Information we get from your use of our services; which includes:
+
+
+  * Device information
+  * Log information
+  * Location information
+  * Unique application number
+  * Local storage
+  * Cookies and similar technology
+
+
 
 ### How is the data used?
 
@@ -42,6 +53,16 @@ Troubleshooter.xyz uses third-party advertising solutions to serve ads when you 
 
 Browsing this website and using the information shared here clearly implies that you’re accepting the above-mentioned policies. Please feel free to Contact us for any questions or concerns regarding your privacy:
 
+### DoubleClick DART cookies
+
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).
+
+This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history. DART uses “non-personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [this website](https://www.google.com/intl/en/policies/privacy/).
+
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
 Contact Information  
 [www.troubleshooter.xyz](http://troubleshooter.xyz/)  
 Gautam Budh Nagar  
@@ -51,4 +72,4 @@ Uttar Pradesh
 [adityafarrad@gmail.com](mailto:adityafarrad@gmail.com)
     
     
-    **Last updated: 10th Oct 2016**
+    **Last updated: 17th Nov 2016**
