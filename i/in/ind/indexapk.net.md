@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indexapk.net privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022185715id_/http%3A//indexapk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexapk.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164651id_/https%3A//indexapk.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Index Apk collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://indexapk.net](http://indexapk.net/) website (“Site”).
+This Privacy Policy governs the manner in which Index Apk collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://indexapk.net](https://indexapk.net/) website (“Site”).
 
 ### Personal identification information
 
@@ -44,7 +44,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://indexapk.net/go.php?url=http://www.google.com/privacy_ads.html)
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://indexapk.net/go.php?url=http://www.google.com/privacy_ads.html)
 
 ### Changes to this privacy policy
 
@@ -52,10 +52,10 @@ Index Apk has the discretion to update this privacy policy at any time. When we 
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. Privacy policy created by [GeneratePrivacyPolicy.com](http://indexapk.net/go.php?url=http://www.generateprivacypolicy.com)
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. Privacy policy created by [GeneratePrivacyPolicy.com](https://indexapk.net/go.php?url=http://www.generateprivacypolicy.com)
 
 ### Contacting us
 
-If you have any questions about this [Privacy Policy](http://indexapk.net/privacy-policy), the practices of this site, or your dealings with this site, please [contact us](http://indexapk.net/contact).
+If you have any questions about this [Privacy Policy](https://indexapk.net/privacy-policy), the practices of this site, or your dealings with this site, please [contact us](https://indexapk.net/contact).
 
 This document was last updated on June 10, 2015
