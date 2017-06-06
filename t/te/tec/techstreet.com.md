@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220001256id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021935id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy & Practices
 
-Your privacy is important to Techstreet, a Thomson Reuters business, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites and mobile applications operated by Techstreet, a Thomson Reuters business, and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline. 
+Your privacy is important to Techstreet, a Clarivate Analytics business, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites and mobile applications operated by Techstreet, a Clarivate Analytics business, and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline. 
 
 Our website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites. 
 
 ### Techstreet Privacy Statement - Highlights
 
-This statement applies to the online collection of personal information via websites operated by Techstreet, a Thomson Reuters business, and its worldwide affiliated companies and subsidiaries. Highlights of the Online Privacy Statement follow immediately below, or read the 
-
-Full Text. 
+This statement applies to the online collection of personal information via websites operated by Techstreet, a Clarivate Analytics business, and its worldwide affiliated companies and subsidiaries. Highlights of the Online Privacy Statement follow immediately below, or read the Full Text. 
 
 ### What personal information is collected and how is that information used?
 
@@ -35,7 +33,7 @@ More Details
 ### Who has access to the personal information?
 
   * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents and contractors, or as otherwise described in this Privacy Statement. 
-  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
+  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Clarivate Analytics companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
   * We will not disclose any personal information or information about your usage of our websites to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law. 
 
 
@@ -46,7 +44,7 @@ More Details
 
   * You may update your preferences at any time on the Communication Preferences page, accessible [here](http://www.techstreet.com/account/users/edit)
   * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the "unsubscribe" mechanism within the communications that you receive from us. 
-  * If you have any additional questions or concerns related to this statement and/or our practices, please contact us via email at [techstreet.service@thomsonreuters.com](mailto:techstreet.service@thomsonreuters.com) or via phone at 1-734-780-8000. 
+  * If you have any additional questions or concerns related to this statement and/or our practices, please contact us via email at [techstreet.service@tr.com](mailto:techstreet.service@tr.com) or via phone at 1-734-780-8000. 
 
 
 
@@ -56,16 +54,16 @@ Back To Top
 
 ### SCOPE
 
-Your privacy is important to Techstreet, a Thomson Reuters Business. In this Privacy Statement, you can learn what kind of information we collect, when and how we might use that information, how we protect the information, who has access to it, and what choices you have with respect to your personal information. 
+Your privacy is important to Techstreet, a Clarivate Analytics Business. In this Privacy Statement, you can learn what kind of information we collect, when and how we might use that information, how we protect the information, who has access to it, and what choices you have with respect to your personal information. 
 
-This Privacy Statement applies only to information collected online from the users of this website. Unless expressly stated, this Privacy Statement does not apply to any other Thomson Reuters website and does not apply to information we may collect in any other way, including offline. 
+This Privacy Statement applies only to information collected online from the users of this website. Unless expressly stated, this Privacy Statement does not apply to any other Clarivate Analytics website and does not apply to information we may collect in any other way, including offline. 
 
 Our website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites and if you have any questions about the privacy practices associated with those sites, please review the privacy statement posted on each site. 
 
 __Please read this Privacy Statement in its entirety to understand the following:__   
 
 
-### WHAT PERSONAL INFORMATION DOES THOMSON REUTERS COLLECT AND HOW DOES IT USE THAT INFORMATION?
+### WHAT PERSONAL INFORMATION DOES CLARIVATE ANALYTICS COLLECT AND HOW DOES IT USE THAT INFORMATION?
 
 We collect information about our users in three ways: directly from the user, from our Web server logs, and through cookies. We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it. 
 
@@ -118,7 +116,7 @@ We will not sell, rent, or lease mailing lists or other customer data to others,
 
 
 
-We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
+We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Clarivate Analytics companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
 
 We will not disclose any information about your usage to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law. 
 
@@ -142,7 +140,7 @@ If you have any additional questions or concerns related to this statement and/o
 Address: 6300 Interfirst Dr.  
 Ann Arbor, MI 48108  
 Phone: 1-734-780-8000  
-E-Mail: [techstreet.service@thomsonreuters.com](mailto:techstreet.service@thomsonreuters.com)
+E-Mail: [techstreet.service@tr.com](mailto:techstreet.service@tr.com)
 
 ### PRIVACY STATEMENT CHANGES
 
