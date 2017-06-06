@@ -1,73 +1,85 @@
-> *The following text is extracted and transformed from the thefeed.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511030328id_/https%3A//thefeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefeed.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203718id_/https%3A//thefeed.com/15152714/policies/30370056.html) for the most accurate reproduction.*
 
-# Privacy - The Feed
+# Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to the www.thefeed.com and The Feed LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to The Feed LLC include www.thefeed.com and The Feed. The The Feed website is a ecommerce site. By using the The Feed website, you consent to the data practices described in this statement.
+PRIVACY STATEMENT
 
-## Collection of your Personal Information
+\----
 
-The Feed may collect personally identifiable information, such as your name. If you purchase The Feed’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.
+SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-Information about your computer hardware and software may be automatically collected by The Feed. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the The Feed website.
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.   
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.   
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through The Feed’s public message boards, this information may be collected and used by others.
+SECTION 2 - CONSENT
 
-The Feed encourages you to review the privacy statements of websites you choose to link to from The Feed so that you can understand how those websites collect, use and share your information. The Feed is not responsible for the privacy statements or other content on websites outside of the The Feed website.
+How do you get my consent?   
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.   
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-## Use of your Personal Information
+How do I withdraw my consent?   
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at matt@thefeed.com or mailing us at:   
+TheFeed   
+5660 Valmont Rd Boulder Colorado US 80301
 
-The Feed collects and uses your personal information to operate its website(s) and deliver the services you have requested.
+SECTION 3 - DISCLOSURE
 
-The Feed may also use your personally identifiable information to inform you of other products or services available from The Feed and its affiliates. The Feed may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-The Feed does not sell, rent or lease its customer lists to third parties.
+SECTION 4 - SHOPIFY
 
-The Feed may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. The Feed may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to The Feed, and they are required to maintain the confidentiality of your information.
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.   
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-The Feed may keep track of the websites and pages our users visit within The Feed, in order to determine what The Feed services are the most popular. This data is used to deliver customized content and advertising within The Feed to customers whose behavior indicates that they are interested in a particular subject area.
+Payment:   
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.   
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.   
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.   
+For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
 
-The Feed will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on The Feed or the site; (b) protect and defend the rights or property of The Feed; and, (c) act under exigent circumstances to protect the personal safety of users of The Feed, or the public.
+SECTION 5 - THIRD-PARTY SERVICES
 
-## Use of Cookies
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.   
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.   
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.   
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.   
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.   
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-The The Feed website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+Links   
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.   
+Google analytics:   
+Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize The Feed pages, or register with The Feed site or services, a cookie helps The Feed to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same The Feed website, the information you previously provided can be retrieved, so you can easily use the The Feed features that you customized.
+SECTION 6 - SECURITY
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the The Feed services or websites you visit.
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.   
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-## Security of your Personal Information
+SECTION 7 - COOKIES
 
-The Feed secures your personal information from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.   
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).   
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits   
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.   
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.   
+_secure_session_id, unique token, sessional   
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.   
+PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
 
-## Children Under Thirteen
+SECTION 8 - AGE OF CONSENT
 
-The Feed does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-## Disconnecting your The Feed Account from Third Party Websites
+SECTION 9 - CHANGES TO THIS PRIVACY POLICY
 
-You will be able to connect your The Feed account to third party accounts. BY CONNECTING YOUR THE FEED ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Please contact [help@thefeed.com](mailto:help@thefeed.com) or vist your [Account page](https://web.archive.org/my-account).
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.   
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-Opt-Out & Unsubscribe
+QUESTIONS AND CONTACT INFORMATION
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from The Feed by contacting us here:
-
-Email: [hello@thefeed.com](mailto:hello@thefeed.com)  
-Phone: (877) 780-8957
-
-## Changes to this Statement
-
-The Feed will occasionally update this Statement of Privacy to reflect company and customer feedback. The Feed encourages you to periodically review this Statement to be informed of how The Feed is protecting your information.
-
-## Contact Information
-
-The Feed welcomes your questions or comments regarding this Statement of Privacy. If you believe that The Feed has not adhered to this Statement, please contact The Feed at:
-
-**The Feed LLC**  
-5660 Valmont Rd.  
-Boulder, Colorado 80301
-
-Email Address: [hello@thefeed.com](mailto:hello@thefeed.com)  
-Telephone number: (877)780-8957
-
-Effective as of June 26, 2013
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at matt@thefeed.com or by mail at   
+TheFeed   
+5660 Valmont Rd Boulder Colorado US 80301   
+\----
