@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheetmusicdirect.us privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715174550id_/http%3A//www.sheetmusicdirect.us/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheetmusicdirect.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201315id_/https%3A//www.sheetmusicdirect.us/help/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy | Help | Sheet Music Direct
 
@@ -22,7 +22,7 @@ Safari in secure mode
 
 iOS Safari in secure mode
 
-Our encryption is the strongest commercially available and is approved by the authorities and financial institutions. Additionally, an independent, trusted third party - in this case GeoTrust - has issued us with a certificate which proves our right to use the domain name [SheetMusicDirect.us](http://www.sheetmusicdirect.us/) in a secure environment, and who can clarify that we are who we say we are. Click on the GeoTrust Seal below if you would like to verify this.
+Our encryption is the strongest commercially available and is approved by the authorities and financial institutions. Additionally, an independent, trusted third party - in this case GeoTrust - has issued us with a certificate which proves our right to use the domain name [SheetMusicDirect.us](https://www.sheetmusicdirect.us/) in a secure environment, and who can clarify that we are who we say we are. Click on the GeoTrust Seal below if you would like to verify this.
 
 Because we use online credit card authorization, your card details get transmitted directly and securely to the bank for processing. Therefore, even Sheet Music Direct employees do not see your card details (unless arranging a credit), making your details even safer. We believe that shopping online with us - with the carefully thought-out procedures mentioned above - is as safe or safer than using a credit card over the telephone or in a restaurant.
 
@@ -30,7 +30,7 @@ Because we use online credit card authorization, your card details get transmitt
 
 **Introduction**
 
-Hal Leonard Corporation ("Hal Leonard") is strongly committed to protecting the privacy of its software customers and online visitors. This privacy policy describes what information Hal Leonard collects from its software customers and online visitors; and how Hal Leonard uses that information once it is collected. This privacy policy is also subject to the website Terms of Use located at [http://www.sheetmusicdirect.us/help/terms.jsp](https://web.archive.org/help/terms.jsp).
+Hal Leonard ("Hal Leonard") is strongly committed to protecting the privacy of its software customers and online visitors. This privacy policy describes what information Hal Leonard collects from its software customers and online visitors; and how Hal Leonard uses that information once it is collected. This privacy policy is also subject to the website Terms of Use located at [https://www.sheetmusicdirect.us/help/terms.jsp](https://web.archive.org/help/terms.jsp).
 
 **What Does This Policy Apply To?**
 
