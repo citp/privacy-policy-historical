@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirschs.co.za privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203152651id_/https%3A//www.hirschs.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirschs.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164959id_/https%3A//www.hirschs.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Hirsch's Privacy Policy | Your number one appliance store
 
