@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mormonboyz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119085842id_/http%3A//www.mormonboyz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormonboyz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160541id_/http%3A//www.mormonboyz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mormon Boyz Mormon Boyz
 
@@ -20,5 +20,5 @@ You as the Member assure MBz that you have all rights for the submission of your
 
 Should you have other questions or concerns about these privacy policies, please contact us by following the instructions on the [Contact Me](https://web.archive.org/contact/) page.
 
-Copyright © 2016 MetaVentures LLC All Rights Reserved. Unauthorized reproduction or distribution of any component of  
-this site, in whole or in part, is a violation of applicable federal copyright laws and international copyright treaties. 
+Copyright © 2017 MetaVentures LLC All Rights Reserved. Content licensed to Charged Media LLC. Unauthorized reproduction or distribution of any component of this site, in whole or in part, is a violation of applicable federal copyright laws and international copyright treaties.  
+For billing support, please visit [segpay.com](http://cs.segpay.com/) | [epoch.com](https://epoch.com/) | [zombaio.com](https://www.zombaio.com/), our authorized sales agents. 
