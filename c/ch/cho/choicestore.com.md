@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choicestore.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120011618id_/http%3A//www.choicestore.com/gb-en/privacy-policy%3F___SID%3DU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choicestore.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173444id_/http%3A//www.choicestore.com/gb-en/privacy-policy%3F___SID%3DU) for the most accurate reproduction.*
 
 # Privacy Policy
 
