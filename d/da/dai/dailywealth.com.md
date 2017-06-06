@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailywealth.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122212424id_/http%3A//www.dailywealth.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailywealth.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151634id_/http%3A//www.dailywealth.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # DailyWealth | Privacy Policy
 
