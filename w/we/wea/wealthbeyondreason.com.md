@@ -1,96 +1,62 @@
-> *The following text is extracted and transformed from the wealthbeyondreason.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201102523id_/http%3A//wealthbeyondreason.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthbeyondreason.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040511id_/http%3A//www.greaterminds.com/privacy-policy) for the most accurate reproduction.*
 
-# Boundless Living, Inc. Privacy Policy
+# Privacy Policy
 
-  
-[](http://www.p3pseal.com/verify.php?sid=3C326291D4 "P3PSeal.com: Click to Verify") Privacy Policy   
-Boundless Living, Inc.   
-http://www.wealthbeyondreason.com
+The Company of the Website respects and is committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used.
 
-Effective from 09th of November 2006 to 09th of November 2007. 
-
-* * *
-
-General Information   
-Boundless Living, Inc. takes your privacy seriously. Please read the following information to learn more about our privacy practices. 
-
-  * This policy covers what personally identifiable information Boundless Living, Inc. collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://www.wealthbeyondreason.com Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number. 
-  * This policy only applies to http://www.wealthbeyondreason.com and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage. 
+  * We promise that we will take steps to use your personal information only in ways that are compatible with this Data Protection Policy.
+  * We control this site from offices in the United Kingdom.
+  * All information gathered on this site is confidential.
+  * This website may contain links to other websites.
+  * Please be aware that we are not responsible for the privacy practices of other websites.
 
 
 
-* * *
+The following discloses our Data Protection Policy:
 
-Contact Information   
-We invite you to contact us if you have questions about this privacy policy. 
+Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer’s “Internet Protocol” (IP) address. When a visitor requests a page on our web servers it automatically recognizes that visitor’s domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate use of the network, its users, or to cooperate with law enforcement activities and enquiries. We do not collect and evaluate this information for specific individuals. Our web servers do not automatically record email addresses of the visitors to our web sites.
 
-Our Internet address is located at [http://www.wealthbeyondreason.com](http://www.wealthbeyondreason.com/)
+We offer access to or may in the future offer access to some services that require registration. We may use your registration contact information to send notification to you of related products and services by email and/or postal mail. We will not share that information with any third party, save where we are required to do so by law or other applicable statute.
 
-**Boundless Living, Inc.  
-3369 Peachtree Chase   
-Duluth 30096   
-GA USA **
-
-You may contact us by e-mail at [support@wealthbeyondreason.com](mailto:support@wealthbeyondreason.com)   
-You may contact us by phone on 800-427-4527 
-
-
-
-
-* * *
-
-Dispute Resolution   
-Boundless Living, Inc. is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. 
-
-Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors. 
-
-[](http://www.p3pseal.com/verify.php?sid=3C326291D4 "P3PSeal.com: Click to Verify")   
-Boundless Living, Inc. is [P3PSeal](http://www.p3pseal.com/verify.php?sid=3C326291D4) certified. In the event that a dispute regarding our privacy practices cannot be settled through our normal dispute resolution processes, you should contact [P3PSeal](http://www.p3pseal.com/), an independent third party. P3PSeal will serve as a liaison with Boundless Living, Inc. to resolve any dispute you may have.
-
-* * *
-
-Information Collection   
-When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information Boundless Living, Inc. collects, and how it is used. 
-
-Information Collected \- What information do we collect and why? 
-
-We collect the following identifiable information about our visitors:
-
-    * user.name 
-    * user.home-info.online.email 
-    * user.home-info.postal 
-    * dynamic.clickstream 
-    * dynamic.http 
-    * dynamic.searchtext 
-    * dynamic.miscdata 
-  
-We collect identifiable information for the following reasons: 
-    * Web Site and System Administration 
-    * Research and Development 
-    * Contacting Visitors for Marketing of Services or Products 
-  
-Collecting your address allows us to stay in communication with you throughout our program and provide optimum support.
-
-Our Web Site generates server log files automatically. These log files are used to generate statistical information and error reports to ensure the Web Site runs with a minimum of disruption. They are not actively used to identify individual visitors.
-
-* * *
-
-Information Recipients \- Who has access to the information collected?   
-  
-
-    * Ourselves and/or our entities acting as our agents or entities for which we are acting as an agent.   
+We may also request your email address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to email newsletters, announcement lists or information about conferences and trade shows). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict policy on the protection of our data in accordance with the Data Protection Act, which means that we do not sell, rent, or otherwise give your email address to a third-party, without your consent or as permitted by this Data Protection Policy.
 
   
 
 
-* * *
+We will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:
 
-Information Retention \- How long is this information retained?   
+  * Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on the Site
+  * Protect and defend the rights or property of the Site, or visitors to the Site
+  * Identify persons who may be violating the law, our terms and conditions of use, the rights of third parties, or otherwise misusing the Site or the computer equipment on which it is hosted (whether owned by the Site or a third party)
+  * Fulfill a user’s order or request
+
+
+
   
 
-    * We do not have a retention policy for this area of the Web Site.  
+
+When you visit any of our websites (“Sites”), a cookie may be placed on your computer for a number of reasons, such as (a) to keep track of your shopping cart, (b) to recognise you when you return to our site, (c) to recognize whether a customer came to our site as a result of a promotion or advertisement with one of our partners sites or email campaign and (d) to track the sales made by customers referred to us from a 3rd party so that they can receive compensation under our affiliate program. If you choose to not have your browser accept cookies from The Company websites, you may not be able to view all the text on the screens, or to experience a personalized visit, or to subscribe to certain service and product offerings on our Sites.
+
+We also collect anonymous visitor information about how you utilize our site, such as IP addresses, browser types (such as Chrome, Mozilla, Internet Explorer, Safari, etc.), referring pages and pages visited. We use this information (a) to perform anonymous statistical analysis of Web page traffic patterns, (b) to administer our Website and servers, and (c) to improve our services.
+
+  
 
 
+****We employ security measures to protect your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
+
+  
+
+
+****You also have a right to be informed within a reasonably delay, on request, what information we hold about you, how we obtained it, and to whom we may pass it on. Such a request must be made in writing. The Company reserves the right as allowed under the act to levy a fee for this service.
+
+We may from time to time send emails announcing new products and services. Except as stated above, the Company will not send you emails that you have not agreed to receive.
+
+  
+
+
+This privacy statement can change, and use of information that we gather now is subject to the privacy and security statement in effect at the time of collection. You should check our Web site frequently to see recent changes.
+
+  
 
 
 * * *
