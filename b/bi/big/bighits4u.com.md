@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighits4u.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408210633id_/http%3A//bighits4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighits4u.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092259id_/http%3A//bighits4u.com/privacy) for the most accurate reproduction.*
 
 # BigHits4U Traffic Exchange : Privacy
 
