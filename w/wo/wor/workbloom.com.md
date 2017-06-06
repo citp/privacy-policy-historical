@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workbloom.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125022624id_/http%3A//workbloom.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workbloom.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210644id_/https%3A//workbloom.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
