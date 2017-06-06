@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salsastore.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127165144id_/http%3A//www.salsastore.com/en/buying-guide-and-conditions/privacy-policy/%3Fid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salsastore.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165804id_/http%3A//www.salsastore.com/en/buying-guide-and-conditions/privacy-policy/%3Fid%3D18) for the most accurate reproduction.*
 
 # Salsa® Jeans | Clothing and Accessories for Women & Men
 
@@ -277,7 +277,7 @@ b) Access to raffles and promotions, in effect at the time and which may be diff
 
 c) Exclusive access to information regarding the programme;
 
-d) Birthday Discount (5% for 2 star clients, 10% for 3 star clients, 15% for 4 star clients and 20% for 5 star clients).The discount is valid for one purchase at participating points of sale. The discount can't be combined with other campaigns or discounts and it isn't valid for promotions or sales neither in the purchase of gift-voucher/e-gifts. This benefit is only applicable to clients who have a valid email address and mobile number in their client record and who have authorised Salsa to contact them. It is valid from the day before of client birthday untill 15 days after.
+d) Birthday Discount (5% for 2 star clients, 10% for 3 star clients, 15% for 4 star clients and 20% for 5 star clients).The discount is valid for one purchase at participating points of sale. The discount can't be combined with other campaigns or discounts and it isn't valid for promotions or sales neither in the purchase of gift-voucher/e-gifts. This benefit is only applicable to clients who have a valid email address and mobile number in their client record and who have authorised Salsa to contact them. It is valid from the day before the Customer´s birthday until 15 days after.
 
 e) Happy Day Online (valid for 3, 4 and 5 star clients – 10%, 15% and 20% respectively). The discount is valid for one purchase only at [www.salsastore.com](http://www.salsastore.com/). The discount can't be combined with other campaigns or discounts and it isn't valid for promotions or sales neither in the purchase of gift-voucher/e-gifts. This benefit is only applicable to clients who have a valid email address and mobile number in their client record and who have authorised Salsa to contact them.
 
