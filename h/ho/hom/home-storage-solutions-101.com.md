@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the home-storage-solutions-101.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223182629id_/http%3A//www.home-storage-solutions-101.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-storage-solutions-101.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094622id_/http%3A//www.home-storage-solutions-101.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy For Home-Storage-Solutions-101.com
 
