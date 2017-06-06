@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125235039id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204635id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # DIY Doctor Privacy Policy
 
@@ -10,7 +10,7 @@
 
 1.3 DIY Doctor uses the personal information we collect from you to provide our service to you. We will not rent, sell or share your personal information with any other company for its own marketing purposes without your consent except where mentioned in this policy.
 
-1.4 For the purpose of the Data Protection Act 1998 (the Act), the data controller is DIY DOCTOR LIMITED of Suite 2 Block 1 Lakeside Business Park, Mells Frome, Somerset BA11 3RH which is registered with the ICO with registered number [to be confirmed].
+1.4 For the purpose of the Data Protection Act 1998 (the Act), the data controller is DIY DOCTOR LIMITED of Suite 2 Block 1 Lakeside Business Park, Mells Frome, Somerset BA11 3RH.
 
 ## Information We May Collect From You
 
@@ -64,11 +64,11 @@ In order to provide you with the best possible service, we may collect and proce
 
 ## Google
 
-We use Google Analytics tracking on our website inorder to track and maintain our service and ensure that we are providing the best possible service that we can. As part of the Analytics tracking we also make use of the Display Advertising features included with the application. If you do not like/agree with having certain details tracked then you are free to opt out. [If you would like to opt out please visit the Ad Settings page of your Google account](https://www.google.com/settings/ads "Advert display settings from Google").
+3.5 We use Google Analytics tracking on our website inorder to track and maintain our service and ensure that we are providing the best possible service that we can. As part of the Analytics tracking we also make use of the Display Advertising features included with the application. If you do not like/agree with having certain details tracked then you are free to opt out. [If you would like to opt out please visit the Ad Settings page of your Google account](https://www.google.com/settings/ads "Advert display settings from Google").
 
-In light of the above we can confim that we will not merge any data collected prior to this notice by the DoubleClick cookie unless your have given your concent. If you would like more information on opting out of services provided by Google Analytics [please see further information on the Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/ "Find out how to opt out of Google Analytics services in yor browser").
+3.6 In light of the above we can confirm that we will not merge any data collected prior to this notice by the DoubleClick cookie unless your have given your consent. If you would like more information on opting out of services provided by Google Analytics [please see further information on the Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/ "Find out how to opt out of Google Analytics services in yor browser").
 
-In addition to the above we also make use of the Google Analytics Demographic and Interest reporting features. These features anable us to monitor the age, gender and interest information on our visitors. In turn, this information enables us to fine tune our website to provide the best information, help,advice and products to our users so that our users continue to get the best possible use and service from our website.
+3.7 In addition to the above we also make use of the Google Analytics Demographic and Interest reporting features. These features enable us to monitor the age, gender and interest information on our visitors. In turn, this information enables us to fine tune our website to provide the best information, help,advice and products to our users so that our users continue to get the best possible use and service from our website.
 
 ## Where We Store Your Personal Data 
 
@@ -92,27 +92,17 @@ In addition to the above we also make use of the Google Analytics Demographic an
 
 ## Mailing List
 
-Our email mailing list is hosted and managed by MailerMailer whose website can be found at [www.mailermailer.com ](http://www.mailermailer.com/ "Mass mailing facilities from MailerMailer").
+6.1 Our email mailing list is hosted and managed by Infusionsoft whose website can be found at [www.infusionsoft.com](http://www.infusionsoft.com/ "Mass mailing facilities from Infusionsoft").
 
-In our email messages to you which may be distributed through this mailing list, we may provide information from third party providers of products and services which we think may be of interest to you.
+6.2 In our email messages to you which may be distributed through this mailing list, we may provide information from third party providers of products and services which we think may be of interest to you. We will never allow 3rd Parties to access data about you unless specifically requested by you (see paragraph 8).
 
-If you have subscribed to our email mailing list, but do not wish to receive it in future, please follow the “unsubscribe” instructions contained in each emailed newsletter.
+6.3 If you have subscribed to our email mailing list, but do not wish to receive it in future, please follow the “unsubscribe” instructions contained in all emails.
 
-## Forum Area 
+## Forum Area and Advertisments
 
-This policy explains in detail how “diydoctor.org.uk DIY and Home Improvement Forums” along with its affiliated companies (hereinafter “we”, “us”, “our”, “diydoctor.org.uk DIY and Home Improvement Forums”, “http://www.diydoctor.org.uk/forums”) and phpBB (hereinafter “they”, “them”, “their”, “phpBB software”, “www.phpbb.com”, “phpBB Group”, “phpBB Teams”) use any information collected during any session of usage by you (hereinafter “your information”).
+7.1 When using the DIY Doctor forum data will be collected from you to provide the service. 
 
-Your information is collected via two ways. Firstly, by browsing “diydoctor.org.uk DIY and Home Improvement Forums” will cause the phpBB software to create a number of cookies, which are small text files that are downloaded on to your computer’s web browser temporary files. The first two cookies just contain a user identifier (hereinafter “user-id”) and an anonymous session identifier (hereinafter “session-id”), automatically assigned to you by the phpBB software. A third cookie will be created once you have browsed topics within “diydoctor.org.uk DIY and Home Improvement Forums” and is used to store which topics have been read, thereby improving your user experience.
-
-We may also create cookies external to the phpBB software whilst browsing “diydoctor.org.uk DIY and Home Improvement Forums”, though these are outside the scope of this document which is intended to only cover the pages created by the phpBB software. The second way in which we collect your information is by what you submit to us. This can be, and is not limited to: posting as an anonymous user (hereinafter “anonymous posts”), registering on “diydoctor.org.uk DIY and Home Improvement Forums” (hereinafter “your account”) and posts submitted by you after registration and whilst logged in (hereinafter “your posts”).
-
-Your account will at a bare minimum contain a uniquely identifiable name (hereinafter “your user name”), a personal password used for logging into your account (hereinafter “your password”) and a personal, valid e-mail address (hereinafter “your e-mail”). Your information for your account at “diydoctor.org.uk DIY and Home Improvement Forums” is protected by data-protection laws applicable in the country that hosts us. Any information beyond your user name, your password, and your e-mail address required by “diydoctor.org.uk DIY and Home Improvement Forums” during the registration process is either mandatory or optional, at the discretion of “diydoctor.org.uk DIY and Home Improvement Forums”. In all cases, you have the option of what information in your account is publicly displayed. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated e-mails from the phpBB software.
-
-Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “diydoctor.org.uk DIY and Home Improvement Forums”, so please guard it carefully and under no circumstance will anyone affiliated with “diydoctor.org.uk DIY and Home Improvement Forums”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your e-mail, then the phpBB software will generate a new password to reclaim your account.
-
-## Advertisements
-
-In order to bring you offers and information that may be of interest to you, we may allow third parties to place advertisements on the website. If you choose to click on any advertisement, the advertiser may collect non personally identifiable information such as your domain type, your IP address and clickstream information.
+7.2 In order to bring you offers and information that may be of interest to you, we may allow third parties to place advertisements on the website. If you choose to click on any advertisement, the advertiser may collect non personally identifiable information such as your domain type, your IP address and clickstream information.
 
 ## Disclosure of Your Information
 
@@ -126,24 +116,24 @@ In order to bring you offers and information that may be of interest to you, we 
 
 ## Credit Cards and Payments
 
-Credit card details are not recorded, copied or saved by DIY Doctor. All details are destroyed after 7 days in our possession.
+9.1 Credit card details are not recorded, copied or saved by DIY Doctor. All details are destroyed after 7 days in our possession.
 
-We do not share or sell customer details with any third party.
+9.2 We do not share or sell customer details with any third party under any circumstances.
 
 ## Your Rights
 
-9.1 The Act gives you the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [office@diydoctor.org.uk](mailto:office@diydoctor.org.uk "Contact DIY Doctor on office@diydoctor.org.uk").
+10.1 The Act gives you the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [office@diydoctor.org.uk](mailto:office@diydoctor.org.uk "Contact DIY Doctor on office@diydoctor.org.uk").
 
-9.2 The Website may, from time to time, contain links to and from the websites of third parties.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+10.2 The Website may, from time to time, contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
 ## Access to Information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+11.1 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ## Changes to our Privacy Policy
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+12.1 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
 ## Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [office@diydoctor.org.uk](mailto:office@diydoctor.org.uk "Email DIY Doctor on office@diydoctor.org.uk")
+13.1 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [office@diydoctor.org.uk](mailto:office@diydoctor.org.uk "Email DIY Doctor on office@diydoctor.org.uk")
