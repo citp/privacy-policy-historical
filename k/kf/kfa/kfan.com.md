@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfan.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202052310id_/http%3A//kfan.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043505id_/http%3A//kfan.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | KFAN FM 100.3
 
