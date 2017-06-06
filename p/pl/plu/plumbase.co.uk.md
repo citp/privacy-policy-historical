@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plumbase.co.uk privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521120608id_/http%3A//www.plumbase.co.uk/info-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbase.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053505id_/http%3A//www.plumbase.co.uk/info-4) for the most accurate reproduction.*
 
 # Privacy Guarantee
 
@@ -29,8 +29,15 @@ You can access this website and browse certain areas without disclosing personal
 
 
 
-**3\. Cookies** **  
-** We use ’cookies’ in order to recognise you when you come back to our website. This helps us to improve the content of our website and provide services that are tailored to your user experience. Cookies are small text files that are stored by your browser on your hard drive, retaining information about you and enabling our website to recognise you on repeat visits. The cookies cannot be used by themselves to identify you personally. If you do not want a cookie to be stored in your computer, the Help menu on the menu bar of most browsers will tell you how to erase cookies from your computer’s hard drive or how to block cookies or to receive a warning before a cookie is stored. You are therefore welcome to use such facilities to prevent the installation of any cookie.
+For customers using the Plumbase text messaging service the following terms state how we will use your information.
+
+Texts to this service are free. In order to use this service, we will need to collect certain information from you. This information will consist of your mobile phone number and location details, which we will determine by using your nearest mobile phone mast location.
+
+We will use the information you provide to text you the address of the Plumbase branch nearest to the mobile phone mast location closest to you. We will also use the information you provide for the purposes of monitoring use of the branch text locator service by our customers.
+
+**3\. Cookies**
+
+We use ’cookies’ in order to recognise you when you come back to our website. This helps us to improve the content of our website and provide services that are tailored to your user experience. Cookies are small text files that are stored by your browser on your hard drive, retaining information about you and enabling our website to recognise you on repeat visits. The cookies cannot be used by themselves to identify you personally. If you do not want a cookie to be stored in your computer, the Help menu on the menu bar of most browsers will tell you how to erase cookies from your computer’s hard drive or how to block cookies or to receive a warning before a cookie is stored. You are therefore welcome to use such facilities to prevent the installation of any cookie.
 
 **4\. Data Disclosure** **  
 ** 4.1 We will not sell, distribute or lease your personal information to third parties except with your permission or as required by law (for example by a search warrant, subpoena or other legal process).
