@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aircanadavacations.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419165619id_/http%3A//www.aircanadavacations.com/en/contact_us/security_and_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aircanadavacations.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102456id_/http%3A//vacations.aircanada.com/en/contact_us/security_and_privacy) for the most accurate reproduction.*
 
 # Air Canada Vacations | Security & Privacy
 
@@ -8,7 +8,7 @@ The following guidelines will explain how your information is gathered, protecte
 
 ##### What kind of information will Air Canada Vacations collect about me?
 
-Air Canada Vacations will collect personal information from you when you become an Air Canada Vacations member, complete your personal profile, book travel, answer a survey, and enter a contest or sweepstakes.
+ Air Canada Vacations will collect personal information from you when you become an Air Canada Vacations member, complete your personal profile, book travel, answer a survey, and enter a contest or sweepstakes.
 
 **Becoming an Air** **Canada** **Vacations member**
 
@@ -37,39 +37,6 @@ When you purchase a vacation package for a companion through Air Canada Vacation
 
 Top
 
-##### How will Air Canada Vacations use my information?
-
-**Contests and surveys**
-
-As an Air Canada Vacations member, you can enter various contests to win prizes. When entering, you will be asked to provide your contact information so that Air Canada Vacations may notify you in the event of your winning a prize.
-
-You may choose to provide your opinions and comments via surveys, which collect information to enhance and improve Air Canada Vacations' services. All participants will remain anonymous unless otherwise stated and only Air Canada Vacations will have access to the information.
-
-**Cookies**
-
-"Cookies" are small amounts of data that your browser saves on the hard drive of your computer. Air Canada Vacations uses cookies to: 
-
-  * record your username, saving you the extra step of entering it every time you visit the Air Canada Vacations Web site
-  * record your language preference for the Web site 
-  * record your preferred gateway city and airport
-  * track the pages you visit in order to identify content better suited to your interests
-
-
-
-Cookies remain on your computer hardware until manually deleted or otherwise configured in your web browser application settings. Air Canada Vacations does not store any personal identifiable information in the cookies created and stored on your computer.
-
-**Web Beacons**
-
-Air Canada Vacations uses "web beacons," sometimes called "web bugs," tiny 1 pixel by 1 pixel html code bits, in the emails we send to you to let us know when and how often you open our emails and whether the unsubscribe or forward features are used. The beacon also allows "click tracking." Click tracking records what link(s) you click on. The purpose of tracking this activity is to allow us to make your emails more meaningful to you and improve your overall travel experience with Air Canada Vacations. Information gained from email tracking will only be used by Air Canada Vacations for the puposes specified and will not be shared, sold, rented or loaned to third parties. 
-
-More recent versions of email readers, such as Microsoft Outlook can be configured to avoid accessing remote images. Check your User's Manual or the help files of your email reader for instructions. For more information on the use of web beacons in emails or embedded in web pages ([click here](http://en.wikipedia.org/wiki/Web_bug)). 
-
-**IP Addresses**
-
-IP addresses are logged with each transaction on Air Canada Vacations for the protection of corporate data and member information, such as full name, username, e-mail address, contact information, etc. and the information is kept for 3 months. Please note that this privacy policy does not extend to any links beyond the Air Canada Vacations site.
-
-Top
-
 ##### Will Air Canada Vacations share my information with anyone else?
 
 When you book vacation packages on-line, Air Canada Vacations will only provide the necessary information about you to the airline, car rental agency, hotel, or other third parties, in order to complete your travel arrangements and ensure your experience is a pleasant one. 
@@ -84,9 +51,58 @@ Air Canada Vacations will also occasionally share aggregated information with ou
 
 Top
 
-##### How does Air Canada Vacations protect my information?
+##### How will Air Canada Vacations use my information?
 
-All the information you provide to Air Canada Vacations is transmitted using SSL (Secure Socket Layer) encryption, a proven coding system that enables your browser to automatically encrypt (scramble) data before it is sent.
+**Contests and surveys**
+
+As an Air Canada Vacations member, you can enter various contests to win prizes. When entering, you will be asked to provide your contact information so that Air Canada Vacations may notify you in the event of your winning a prize.
+
+You may choose to provide your opinions and comments via surveys, which collect information to enhance and improve Air Canada Vacations' services. All participants will remain anonymous unless otherwise stated and only Air Canada Vacations will have access to the information.
+
+**Our use of Cookies**
+
+Cookies are files stored locally in your web browser, which contain identifiable information about you and your visit.
+
+We use cookies to remember information you gave us, so you don't have to re-enter it each time you visit. They also help us understand which areas of our site are popular, so we can make the site and your experience better.
+
+Cookies will remain on your device until you manually remove them, or until they expire.
+
+**Google Analytics**
+
+We use Google Analytics on our website to track your actions and to help us optimize our site for conversions and usability. While we can see data gathered over a timeframe, we do not collect personally identifiable information from any source as part of the terms of service of Google Analytics.
+
+Data collected by Google for the purposes of Google Analytics will be treated according to [Google’s Privacy Policy]{http://www.google.com/privacy/privacy-policy.html}. If you would like to opt out of being tracked by Google Analytics, then you can do so using the [Google Analytics Opt-out Browser Add-on]{<http://tools.google.com/dlpage/gaoptout>}.
+
+**Google AdWords**
+
+We use Google Adwords to advertise our website and services through third party vendors (including Google and DoubleClick) to prospective customers, occasionally using the re-marketing feature to target and advertise to people that may have completed certain actions on our website (tracked through the use of cookies).
+
+An example is if you added a hotel to your shopping cart, but didn’t complete checkout, we may show you advertisements for a period of time to encourage you to come back and complete your booking.
+
+Data collected will be used in accordance with the [Google privacy policy for Google ads and the Google display network]{http://www.google.com/privacy/ads/privacy-policy.html}.
+
+If you would like to opt out of interest-based advertising, then you can do so using the [Google Ad Preferences]{<http://www.google.com/settings/ads>}
+
+**Email “Beacons”**
+
+Air Canada Vacations uses "web beacons" (sometimes called "web bugs"), tiny 1 pixel by 1 pixel images in the emails we send to you. These let us know when and how often you open our emails and whether the unsubscribe or forward features are used.
+
+The beacon also allows "click tracking." Click tracking records what link(s) you click on.
+
+The purpose of tracking this activity is to allow us to make your emails more meaningful to you and improve your overall travel experience with Air Canada Vacations.
+
+**IP Addresses**
+
+IP addresses are logged with each transaction on Air Canada Vacations for the protection of corporate data and member information, such as full name, username, e-mail address, contact information, etc. and the information is kept for 3 months. Please note that this privacy policy does not extend to any links beyond the Air Canada Vacations site.
+
+Top
+
+##### How can I manage what information and marketing communications Air Canada Vacations will offer to me?
+
+Air Canada Vacations email offers  
+When you book your travel at aircanadavacations.com you are added to our email list that will be used to contact you monthly with offers that we feel will be of interest to you. If you do not want Air Canada Vacations to contact you with offers you may withdraw your consent at any time simply by changing your profile information and opting out. In addition, all emails sent to you by Air Canada Vacations contain simple instructions telling you how to "unsubscribe."
+
+If you subscribed to our newsletters, you will occasionally receive e-mail about promotions, hot deals, new products or services and personalized news items. Air Canada Vacations' intent is to deliver information that is interesting, exciting and informative. However, we understand and respect that you may prefer not to receive such information. You can update your personal profile to opt-out of this communication in the future by visiting the "My Profile" section on Air Canada Vacations' web site, or by following the instructions on electronic mail and newsletters.
 
 Top
 
@@ -96,11 +112,9 @@ Members can view and/or update any information in their personal profile at any 
 
 Top
 
-##### How can I manage what information and marketing communications Air Canada Vacations will offer to me?
+##### How does Air Canada Vacations protect my information?
 
-As an Air Canada Vacations member that has subscribed to our newsletters, you will occasionally receive e-mail about promotions, hot deals, new products or services and personalized news items. Air Canada Vacations' intent is to deliver information that is interesting, exciting and informative. However, we understand and respect that you may prefer not to receive such information. You can update your personal profile to opt-out of this communication in the future by visiting the "My Profile" section on Air Canada Vacations' web site, or by following the instructions on electronic mail and newsletters.
-
-If you elect not to receive any e-mail with Air Canada Vacations offers or travel promotions, Air Canada Vacations will only use your e-mail address to confirm travel purchases electronically. You can also unsubscribe to any other promotional offers or deals by replying to the e-mail with the word "unsubscribe" in the subject line.
+All the information you provide to Air Canada Vacations is transmitted using SSL (Secure Socket Layer) encryption, a proven coding system that enables your browser to automatically encrypt (scramble) data before it is sent.
 
 Top
 
@@ -117,6 +131,14 @@ Air Canada Vacations may disclose members' personal information under certain ci
   * when deemed necessary to protect the rights or properties of Air Canada Vacations 
 
 
+
+Top
+
+##### How can I manage what information and marketing communications Air Canada Vacations will offer to me?
+
+As an Air Canada Vacations member that has subscribed to our newsletters, you will occasionally receive e-mail about promotions, hot deals, new products or services and personalized news items. Air Canada Vacations' intent is to deliver information that is interesting, exciting and informative. However, we understand and respect that you may prefer not to receive such information. You can update your personal profile to opt-out of this communication in the future by visiting the "My Profile" section on Air Canada Vacations' web site, or by following the instructions on electronic mail and newsletters.
+
+If you elect not to receive any e-mail with Air Canada Vacations offers or travel promotions, Air Canada Vacations will only use your e-mail address to confirm travel purchases electronically. You can also unsubscribe to any other promotional offers or deals by replying to the e-mail with the word "unsubscribe" in the subject line.
 
 Top
 
@@ -138,7 +160,7 @@ Air Canada Vacations ensures that its Privacy Policy concerning the management o
 
 **Access to personal information**
 
-On request, any person is entitled to be informed of the existence of personal information held by AIR CANADA VACATIONS regarding that person, the use that is made of it and whether this information has been disclosed to third parties. A person is also entitled to consult the information held by AIR CANADA VACATIONS regarding that person, subject to the exceptions prescribed by law. A person may also contest the accuracy or completeness of the information and request that corrections be made to it. To exercise rights of access or rectification, individuals may the AIR CANADA VACATIONS Privacy Officer at the following address: Air Canada Vacations, 1440 St. Catherine St. West, Suite 800, Montreal, Quebec, H3G 1R8
+On request, any person is entitled to be informed of the existence of personal information held by AIR CANADA VACATIONS regarding that person, the use that is made of it and whether this information has been disclosed to third parties. A person is also entitled to consult the information held by AIR CANADA VACATIONS regarding that person, subject to the exceptions prescribed by law. A person may also contest the accuracy or completeness of the information and request that corrections be made to it. To exercise rights of access or rectification, individuals may the AIR CANADA VACATIONS Privacy Officer at the following address: Air Canada Vacations, 1440 St. Catherine St. West, Suite 600, Montreal, Quebec, H3G 1R8
 
 Individual applicants must identify themselves, and sign their applications so as to prevent fraud or the unjustified transmission of personal information to third parties. Individuals must provide sufficient information so that it is possible for AIR CANADA VACATIONS to inform them of the existence, use and disclosure of personal information.
 
@@ -154,7 +176,7 @@ If the person concerned is not satisfied with the response provided to an applic
 
 A member may complain to AIR CANADA VACATIONS where the member feels there has been non-compliance with this Policy and the commitments regarding privacy and the rules it contains by applying to the AIR CANADA VACATIONS Privacy Officer.
 
-A complaint or a request for an investigation may be addressed in writing to the AIR CANADA VACATIONS Privacy Officer at the following address: Air Canada Vacations, 1440 St. Catherine St. West, Suite 800, Montreal, Quebec, H3G 1R8
+A complaint or a request for an investigation may be addressed in writing to the AIR CANADA VACATIONS Privacy Officer at the following address: Air Canada Vacations, 1440 St. Catherine St. West, Suite 600, Montreal, Quebec, H3G 1R8
 
 Unless it is manifestly abusive, any complaint or request for an investigation shall be the object of an investigation or a response within sixty (60) business days. If the complaint is justified, AIR CANADA VACATIONS will take appropriate measures to address the complaint, by allowing access to the requested information, by proceeding with rectification or, as the case may be, by amending its Policy and practices.
 
