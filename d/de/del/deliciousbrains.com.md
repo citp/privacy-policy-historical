@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318001938id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180913id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Delicious Brains
+# Privacy Policy
 
 This Privacy Policy (" **Privacy Policy** ") applies to Delicious Brains (the " **Website** "), with the main URL being <http://deliciousbrains.com/>, which is maintained by Delicious Brains Inc. (the " **Website Owner** "), and sets out how the Website Owner collects, uses, and discloses personal and other information. The Website Owner has an address at Suite 200-252, 14 Court Street, Truro, NS, Canada B2N 3H7.
 
