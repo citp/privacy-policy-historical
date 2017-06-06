@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiredopinions.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616163359id_/https%3A//www.inspiredopinions.com/page/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredopinions.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211611id_/https%3A//www.inspiredopinions.com/page/5) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ We have no intention of collecting personal information directly from children u
 
 Schlesinger Associates respects your privacy and will use best efforts to maintain the confidentiality of any personal health or financial information that you may provide to us. We will only use such personal health or financial information in the manner and to the extent we use any other Personal Information that you may provide to us, as detailed in this privacy policy. Only certain individuals at Schlesinger Associates will ever have access to your personal health and/or financial information. We will at all times limit the disclosure of your personal health and/or financial information to the minimum number of individuals as possible.
 
-If at any time you wish to modify or remove any such Personal Information from our database, or have any concerns with respect to the protection of your Personal Information, please [contact us](https://kinesis.schlesingerassociates.com/panel/portal/community_2_1_1.php/page/4).
+If at any time you wish to modify or remove any such Personal Information from our database, or have any concerns with respect to the protection of your Personal Information, please [contact us](https://schlesingerassociates.zendesk.com/hc/en-us).
 
 **Security:**
 
