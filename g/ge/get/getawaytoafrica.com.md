@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getawaytoafrica.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124170742id_/http%3A//www.getaway.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getawaytoafrica.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101308id_/http%3A//www.getaway.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Getaway Magazine
 
@@ -72,7 +72,8 @@ If you ever want to update or correct any of your personal information held by R
 
 Because RamsayMedia is not responsible for any representations or information or warranties or content on any third party website (including third party websites linked to the Site, websites facilitated by us or websites that serve as social networks like Facebook or Twitter), RamsayMedia does not exercise control over the privacy policies of these third parties and you should refer to the privacy policy of these third parties to see how they protect your privacy.
 
-9.   **  COOKIES**
+  
+9\. **COOKIES**
 
 RamsayMedia uses cookies, including similar technologies.  The word “cookie” refers to information that is sent from the Site to your hard drive, where it is saved.  In this way, the next time you use the Site, RamsayMedia will know who you are and that you have visited the Site before.  We also collect information about how you use the website, your preferences and past browsing history.  Cookies allow us to provide you with an enhanced experience and customised content and services.  We are able to provide our advertisers with an ability to direct relevant advertisements to their audiences.  We are able to track the responses to advertising.  You are able to control advertising cookies and remove them through the tools on your web browser. If you require more information on this aspect you may visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
