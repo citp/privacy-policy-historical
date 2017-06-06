@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pexsupply.com privacy policy that was archived on 2016-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161122044707id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pexsupply.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606182052id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -12,7 +12,7 @@
 <meta name="keywords" content="SupplyHouse.com privacy policy">
 <meta name="author" content="SupplyHouse www.supplyhouse.com">
 <meta name="revisit-after" content="30 days">
-<meta name="copyright" content="2016 - SupplyHouse.com">
+<meta name="copyright" content="2017 - SupplyHouse.com">
 <meta name="distribution" content="global">
 <meta name="language" content="en">
 <meta name="google-site-verification" content="ftJhnlCLp3CBG4GqavWXf1caG-LgsbBJlaqggOb8rxw">
@@ -20,10 +20,12 @@
 <link rel="shortcut icon" type="image/x-icon" href="http://s3.supplyhouse.com/html/img/favicon.ico">
 <link rel="canonical" href="http://www.supplyhouse.com/privacy">
 <meta name="robots" content="index,follow">
+<meta property="og:image" content="https://s3.amazonaws.com/s3.supplyhouse.com/facebook_preview/FB_Link_01.png">
 
     
 <link rel="stylesheet" type="text/css" href="http://s3.supplyhouse.com/html/css/supplyhouse/youtube.api.css" media="screen, projection, tty, print">
 <link rel="stylesheet" type="text/css" href="http://s3.supplyhouse.com/html/css/bootstrap/bootstrap.min.css" media="screen, projection, tty, print">
+<link rel="stylesheet" type="text/css" href="http://s3.supplyhouse.com/html/css/supplyhouse/font.css" media="screen, projection, tty, print">
 <link rel="stylesheet" type="text/css" href="http://s3.supplyhouse.com/html/css/supplyhouse/base.css" media="screen, projection, tty, print">
 <link rel="stylesheet" type="text/css" href="http://s3.supplyhouse.com/html/css/supplyhouse/common.css" media="screen, projection, tty, print">
 <link rel="stylesheet" type="text/css" href="http://s3.supplyhouse.com/html/css/supplyhouse/customer.service.css" media="screen, projection, tty, print">
@@ -35,6 +37,9 @@
 <script type="text/javascript" src="http://s3.supplyhouse.com/html/js/lib/jquery/jquery.mobile.custom.min.js"></script>
 <script type="text/javascript" src="http://s3.supplyhouse.com/html/js/supplyhouse/base.js"></script>
 <script type="text/javascript" src="http://s3.supplyhouse.com/html/js/supplyhouse/common.js"></script>
+<script type="text/javascript" src="http://s3.supplyhouse.com/html/js/lib/moment/moment.min.js"></script>
+<script type="text/javascript" src="http://s3.supplyhouse.com/html/js/lib/moment/moment-timezone-with-data-2010-2020.min.js"></script>
+<script type="text/javascript" src="http://s3.supplyhouse.com/html/js/lib/jquery/jquery.countdown.js"></script>
     
 <!-- Facebook Pixel Code -->
 <script>
@@ -81,18 +86,23 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
 
 
 
+
+
+
 <header id="global-header" class="container-fluid">
   <div id="header-msg" class="row">
     <div class="wrapper clearfix">
-      <div id="header-fasttrack" class="col-xs-12 col-sm-9 text-center">
-        <span class="tan" id="header-msg-shipping">
+      <div id="header-fasttrack" class="col-xs-8 col-sm-9">
+        <span class="tan nowrap" id="header-msg-shipping">
         
             Free shipping on orders over $99
         </span>
       </div>
-      <div id="header-zipcode" class="visible-sm-block visible-md-block visible-lg-block col-xs-12 col-sm-3 text-right relative">
+      <div id="header-zipcode" class="col-xs-4 col-sm-3 text-right relative">
         <div class="change-zip none" id="change-zip-enter">
-          <span id="zipcode-found-container">Your Zip:
+          <span id="zipcode-found-container">
+            <span class="hidden-xs hidden-sm">Your Zip:</span>
+            <span class="hidden-md hidden-lg glyphicon glyphicon-map-marker"></span>
             <a href="javascript:void(0);" onclick="GAEngine.eventTracking('Header','Your Zip');" id="change-zip-trigger" class="denim-blue">
               <span id="your-zip"></span>
             </a>
@@ -107,7 +117,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
             <p>For product availability in your area, please verify your 5-digit zip code.</p>
           </div>
           <form id="change-zip-dummy-form" name="change-zip-dummy-form" class="modal-body">
-            <input class="form-control" required="" type="number" pattern="[0-9]*" name="input-change-zip" id="input-change-zip" size="5" maxlength="5" autocomplete="off">
+            <input class="form-control" required="" type="tel" pattern="[0-9]*" name="input-change-zip" id="input-change-zip" size="5" maxlength="5" autocomplete="off">
             <strong class="ship-to-address"></strong>
             <label id="input-change-zip-error" class="error text-danger" for="input-change-zip"></label>
             <button type="submit" onclick="GAEngine.eventTracking('Header','Your Zip','Apply');" id="submit-change-zip" class="btn button-orange upper">Apply</button>
@@ -121,7 +131,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
     <div id="header-top-1" class="flex">
       <div id="header-top-logo">
         <a href="http://www.supplyhouse.com/" title="Supplyhouse Homepage">
-          <img class="img-responsive" src="http://s3.supplyhouse.com/html/img/supplyhouse/logo/supplyhouse-newlook.svg" alt="Supplyhouse Logo">
+          <img class="img-responsive" src="http://s3.supplyhouse.com/html/img/supplyhouse/logo/supplyhouse.svg" alt="Supplyhouse Logo">
         </a>
       </div>
 
@@ -144,7 +154,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
       <div id="header-top-search">
         <div class="input-group">
           <div class="input-group-addon hidden-lg hidden-md"><span class="glyphicon glyphicon-search"></span></div>
-          <input type="text" name="searchText" id="header-top-search-input" class="form-control" placeholder="Search for product or SKU">
+          <input type="text" name="searchText" id="header-top-search-input" class="form-control" placeholder="Search for product or SKU" value="">
           <span class="input-group-btn visible-lg-block visible-md-block">
             <input id="header-top-search-btn" type="image" src="/html/img/supplyhouse/icons/search.png">
           </span>
@@ -514,7 +524,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
           </ul>
         </li>
         <li class="dropdown">
-          <a href="http://www.supplyhouse.com/Fittings-Valves-15150000" class="arrow">Fittings</a>
+          <a href="http://www.supplyhouse.com/Pipe-Fittings-Nipples-415000" class="arrow">Fittings</a>
           <ul id="header-nav-dropdown-fittings" class="dropdown-menu dropdown-menu-left ease-in-out">
             <li class="flex">
               <div class="mega-link-group">
@@ -626,7 +636,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
   <ul class="mega-link-group-links inline-block">
     <li><a data-tag="Valves|Ball Valves" href="http://www.supplyhouse.com/Ball-Valves-5000">Ball Valves</a></li>
     <li><a data-tag="Valves|Boiler Drains" href="http://www.supplyhouse.com/Boiler-Drains-500000">Boiler Drains</a></li>
-    <li><a data-tag="Valves|Check Valves" href="http://www.supplyhouse.com/Check-Valves-Swing-Check-3000">Check Valves</a></li>
+    <li><a data-tag="Valves|Check Valves" href="http://www.supplyhouse.com/Check-Valves-3000">Check Valves</a></li>
     <li><a data-tag="Valves|CPVC Ball Valves" href="http://www.supplyhouse.com/CPVC-Ball-Valves-17621000">CPVC Ball Valves</a></li>
     <li><a data-tag="Valves|Gas Cocks" href="http://www.supplyhouse.com/Gas-Ball-Valves-Gas-Cocks-833000">Gas Cocks</a></li>
     <li><a data-tag="Valves|Gate Valves" href="http://www.supplyhouse.com/Gate-Valves-308000">Gate Valves</a></li>
@@ -694,12 +704,12 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
           </ul>
         </li>
         <li class="dropdown">
-          <a href="http://www.supplyhouse.com/HVAC-Air-Quality-Products-695000" class="arrow">HVAC</a>
+          <a href="http://www.supplyhouse.com/HVAC-Supplies-695000" class="arrow">HVAC</a>
           <ul id="header-nav-dropdown-hvac" class="dropdown-menu dropdown-menu-left ease-in-out">
             <li class="flex">
               <div class="mega-link-group">
   <h3 class="upper brown">
-    HVAC - Air Conditioning
+    HVAC Supplies
   </h3>
   
   <ul class="mega-link-group-links inline-block">
@@ -748,12 +758,12 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
 		     	</a>
 			 </li>
 			<li class="nav-item clearfix">
-			    <a data-video-id="9AgOPjUl1CM" class="triggerYtVideos"> 
+			    <a data-video-id="kQgpk06gjOU" class="triggerYtVideos"> 
 		        	<div class="vdo-thumb">
-		                <img src="https://s3.amazonaws.com/s3.supplyhouse.com/youtube/video_thumbnail/video_img_l_hvac_dehumidifiers.jpg">
+		                <img src="https://s3.amazonaws.com/s3.supplyhouse.com/youtube/video_thumbnail/video_img_l_fittings_bathfan.jpg">
 		                <div class="play-btn-overlay"><div class="play-btn"></div></div>
 		            </div>
-		            <div class="vdo-title">Honeywell TrueDRY Dehumidifiers</div>
+		            <div class="vdo-title">Types of Bath Fans</div>
 		            <div class="vdo-duration"></div>
 		     	</a>
 			 </li>
@@ -824,12 +834,12 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
 		     	</a>
 			 </li>
 			<li class="nav-item clearfix">
-			    <a data-video-id="uLEJ96W60yI" class="triggerYtVideos"> 
+			    <a data-video-id="ihkWrTHFQOE" class="triggerYtVideos"> 
 		        	<div class="vdo-thumb">
-		                <img src="https://s3.amazonaws.com/s3.supplyhouse.com/youtube/video_thumbnail/video_img_l_thermostats_honeywellpro.jpg">
+		                <img src="https://s3.amazonaws.com/s3.supplyhouse.com/youtube/video_thumbnail/video_img_l_fittings_smartthermostat.jpg">
 		                <div class="play-btn-overlay"><div class="play-btn"></div></div>
 		            </div>
-		            <div class="vdo-title">Honeywell PRO Series Thermostats</div>
+		            <div class="vdo-title">Benefits of Smart Thermostats</div>
 		            <div class="vdo-duration"></div>
 		     	</a>
 			 </li>
@@ -863,7 +873,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
             <li class="flex">
               <div class="mega-link-group">
   <h3 class="upper brown">
-    Electrical
+    Electrical Supplies
   </h3>
   
   <ul class="mega-link-group-links inline-block">
@@ -944,7 +954,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
             </li>
           </ul>
         </li>
-        <li id="header-nav-right-team"><a class="hidden-xs hidden-sm" href="http://www.supplyhouse.com/sh/control/ourTeam">Our Team</a></li>
+        <li id="header-nav-right-team"><a class="hidden-xs hidden-sm" href="http://www.supplyhouse.com/our-company">Our Team</a></li>
         <li id="header-nav-right-resource"><a class="hidden-xs hidden-sm" href="http://www.supplyhouse.com/resources">Resources</a></li>
 
         <li class="hidden-lg hidden-md"><h5 class="sub-header tan">Account</h5></li>
@@ -968,7 +978,6 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
           </div>
           
           <div id="nav-menu-help-info" class="col-xs-8">
-            
             <div class="menu-help-section-content">
 	<h5 class="bold">NEED HELP?</h5>
 	<ul class="inline-links">
@@ -977,25 +986,17 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
 	  <li><a onclick="GAEngine.eventTracking('Menu (Small Screens)', 'Need Help?', 'Email Us');" href="https://www.supplyhouse.com/sh/control/contactUs"><h5 class="bold">Email us</h5></a></li>
 	</ul>
 	
-	
-		<div class="margin-bottom-10">
-			<h5><strong>Phone Hours</strong></h5>
-			<strong>Monday – Thursday<br></strong>8am–5:45pm EST<br>
-			<strong>Friday<br></strong>9am–4:45pm EST
-		</div>
-		<div class="collapse" id="menu-business-hours">
-			<div class="margin-bottom-10">
-				<strong>Monday – Thursday<br></strong>8am–5:45pm EST<br>
-				<strong>Friday<br></strong>9am–4:45pm EST
-			</div>
-		</div>
-		
-	
-	<div class="collapse" id="menu-special-hour-desc">
-	</div>
-</div>
+    <div class="col-xs-12">
+  </div>
 
-            
+		<h5><strong>Open Now</strong> (<span id="menu-help-now-timestamp"></span> EST)</h5>
+		<strong>Monday – Thursday<br></strong>8am–5:45pm EST<br>
+		<strong>Friday<br></strong>9am–4:45pm EST
+
+
+</div>           
+          </div>
+          <div class="col-xs-8 fr nopadding">
             <ul id="nav-menu-help-social" class="inline-links">
               <li>
                 <a href="https://www.youtube.com/user/supplyhouse" target="_blank">
@@ -1023,6 +1024,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
       </ul>
     </nav>
   </div>
+	
 
 </header>
 <div class="modal fade center" id="common-info-modal" tabindex="-1" role="dialog" aria-labelledby="common-info-modal-label">
@@ -1040,6 +1042,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
     </div>
   </div>
 </div>
+
     <main role="main">
       
 
@@ -1172,8 +1175,8 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
     </div><!-- /.modal-dialog -->
   </div><!-- /.modal -->
 
-	<div id="loading-wave-squares" class="hidden">
-       <script type="text/javascript" src="/html/js/supplyhouse/spin.js"></script>
+    <div id="loading-wave-squares" class="hidden">
+        <script type="text/javascript" src="/html/js/supplyhouse/spin.js"></script>
   <div id="loading-spinner">
   </div>
   <script>
@@ -1203,7 +1206,9 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
       var target = document.getElementById('loading-spinner');
       var spinner = new Spinner(opts).spin(target);
   </script>
-  </div>
+    </div>
+
+    <input type="hidden" name="system-timestamp" id="system-timestamp" value="1496773253137">
 
 <footer class="container-fluid">
   <div id="footer-dedicated" class="row text-center flex">
@@ -1257,7 +1262,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
         <div class="collapse" id="footer-team-content">
           <ul class="">
             <li><a data-tag="Meet The Team" href="http://www.supplyhouse.com/meet-the-team">Meet The Team</a></li>
-            <li><a data-tag="Careers" href="http://www.supplyhouse.com/sh/control/careers">Careers</a></li>
+            <li><a data-tag="Careers" href="http://www.supplyhouse.com/careers">Careers</a></li>
             <li><a data-tag="Our Blog" href="http://blog.supplyhouse.com/">Our Blog</a></li>
           </ul>
         </div>
@@ -1275,8 +1280,8 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
             <li><a data-tag="Heating" href="http://www.supplyhouse.com/Heating-Supplies-193000">Heating</a></li>
             <li><a data-tag="Plumbing" href="http://www.supplyhouse.com/Plumbing-Supplies-1000">Plumbing</a></li>
             <li><a data-tag="PEX" href="http://www.supplyhouse.com/pex">PEX</a></li>
-            <li><a data-tag="Fittings" href="http://www.supplyhouse.com/Fittings-Valves-15150000">Fittings</a></li>
-            <li><a data-tag="HVAC" href="http://www.supplyhouse.com/HVAC-Air-Quality-Products-695000">HVAC</a></li>
+            <li><a data-tag="Fittings" href="http://www.supplyhouse.com/Pipe-Fittings-Nipples-415000">Fittings</a></li>
+            <li><a data-tag="HVAC" href="http://www.supplyhouse.com/HVAC-Supplies-695000">HVAC</a></li>
             <li><a data-tag="Valves" href="http://www.supplyhouse.com/Valves-2000">Valves</a></li>
           </ul>
         </div>
@@ -1327,7 +1332,7 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
         </div>
         
         <div id="copyright" class="text-center">
-          <p><strong>© 2016 SupplyHouse.com</strong></p>
+          <p><strong>© 2017 SupplyHouse.com</strong></p>
           <ul class="inline-links">
             <li><a data-tag="Policy Links|Terms of Use" href="http://www.supplyhouse.com/terms">Terms of Use</a></li>
             <li><a data-tag="Policy Links|Privacy Policy" href="http://www.supplyhouse.com/privacy">Privacy Policy</a></li>
@@ -1343,29 +1348,26 @@ function sendFacebookAddToCartEvent(productId, productName, price) {
               <img alt="Google Seller" class="op0" data-src="http://s3.supplyhouse.com/html/img/supplyhouse/logo/google_seller.jpg" border="0">
             </a>
           </li>
-
           <li>
             <a onclick="GAEngine.eventTracking('Footer','Company Review Icons (Large Screens)','BBB.org');" id="bbb" target="_blank" class="fl" href="http://www.bbb.org/online/consumer/cks.aspx?id=1090121133511860">
               <img class="op0" data-src="http://s3.supplyhouse.com/html/img/supplyhouse/logo/BBB_A.jpg" alt="BBB Reliability Seal" width="111" height="54">
             </a>
           </li>
-
           <li>
-            <a href="https://www.resellerratings.com/store/Supplyhouse" id="resellerrating" target="_blank" class="fl" onclick="GAEngine.eventTracking('Footer','Company Review Icons (Large Screens)','Reseller Ratings');">
+            <a onclick="GAEngine.eventTracking('Footer','Company Review Icons (Large Screens)','Reseller Ratings');" id="resellerrating" target="_blank" class="fl" href="http://www.resellerratings.com/store/Supplyhouse">
               <img class="op0" alt="Reseller Ratings" style="border:none;" data-src="https://seals.resellerratings.com/seal.php?seller=28226" oncontextmenu="alert('Copying Prohibited by Law - ResellerRatings seal is a Trademark of All Enthusiast, Inc.'); return false;">
             </a>
           </li>
-
           <li>
-            <span id="phcc" class="fl"><img class="op0" data-src="http://s3.supplyhouse.com/html/img/supplyhouse/logo/logo_PHCC.jpg" alt="PHCC" width="76" height="67"></span>
+            <span id="phcc" class="fl">
+              <img class="op0" data-src="http://s3.supplyhouse.com/html/img/supplyhouse/logo/logo_PHCC.jpg" alt="PHCC" width="76" height="67">
+            </span>
           </li>
-          
         </ul>
       </div>
     </div>
   </div>
 </footer>
-
     <!-- Analytics -->
     <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -1680,6 +1682,26 @@ function sessionCamCheck() {
   }
 }
 </script> 
+
+
+
+    <!-- Criteo --> 
+    <script src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+
+
+<script>
+  window.criteo_q = window.criteo_q || [];
+  
+  function pushCriteoTags(eventForEachPage) {
+    var deviceType = /iPad/.test(navigator.userAgent) ? "t" : /Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Silk/.test(navigator.userAgent) ? "m" : "d";
+    window.criteo_q.push(
+      { event: "setAccount", account: 35711 },
+      { event: "setSiteType", type: deviceType },
+      { event: "setEmail", email: "" },
+      eventForEachPage
+    );
+  }
+</script>
 
 
 
