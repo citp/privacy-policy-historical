@@ -1,171 +1,201 @@
-> *The following text is extracted and transformed from the sarugbymag.co.za privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629194727id_/http%3A//www.sarugbymag.co.za/sa-rugby-magazine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarugbymag.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183352id_/http%3A//www.sarugbymag.co.za/sa-rugby-magazine/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-### Privacy Policy
-
-##  SA Rugby Magazine Website Privacy Policy - Summary
-
-_(Version: 1.0)_
-
-**1\. Summary**
-
-We respect your privacy. This is a summary of our privacy policy and contains the most important and relevant points for you. You can read the full privacy policy below.
-
-**2\. Collection**
-
-We collect certain information:
-
-  * on entering competitions,
-  * when you make use of our services, necessary to provide the service to you;
-  * from your web browser;
-  * from cookies we may send to your computer and from web beacons on our website to track how you use our website and to try and give you a personalised experience; and
-  * optional information, that you provide when you upload or download content from our website or when you enter competitions, take advantage of promotions, or register and subscribe for certain additional services.
-
-
-
-**3\. Use**
-
-We may use your information:
-
-  * to send you administrative messages and email updates to you regarding the website;
-  * for marketing purposes.
-
-
-
-**4\. Disclosure**
-
-We might disclose your information in the specific circumstances mentioned in this policy.
-
-**5\. Security**
-
-We protect your information in the manner specified in our security policy.
-
-**6\. Your choices**
-
-  * You can turn off cookies in your browser; or
-  * You can opt-out of marketing communications with us.
-
-
-
-**7\. Contact us**
-
-You can contact us with privacy related questions at [info@hsm.co.za](mailto:info@hsm.co.za) with POPI in the subject line.
-
-##  SA Rugby Magazine Website Privacy Policy
+### PRIVACY POLICY
 
   
-**1\. Audience**
-
-This policy applies to all visitors to our website and customers who have subscribed to the services we offer (“you” and “your”).
-
-**2\. Purpose of this policy**
-
-We respect your privacy and take the protection of personal information very seriously. The purpose of this policy is to describe the way we collect, store, use, and protect information that can be associated with a specific natural or juristic person and can be used to identify that person (“personal information”). Personal information:
-
-2.1 includes
-
-  * certain information collected on entering competitions through Facebook comments (see below); and
-  * optional information that you voluntarily provide to us (see below).
-
-
-
-2.2 excludes
-
-  * information that has been made anonymous so that it does not identify a specific person;
-  * permanently de-identified information that does not relate or cannot be traced back to you specifically; and
-  * non-personal statistical information collected and compiled by us and information that you have provided voluntarily in an open, public environment or forum including (without limitation) any blog, chat room, community, classifieds or discussion board. Because the information has been disclosed in a public forum, it is no longer confidential and does not constitute personal information subject to protection under this policy.
-
-
-
-**3\. Acceptance of terms**
-
-You must accept all the terms of this policy when you register for any of our services. If you do not agree with anything in this policy, then you may not register for and use any of the services. By accepting this policy, you are deemed to have read, understood, accepted, and agreed to be bound by all its terms.
-
-**4\. Changes**  
-We may change the terms of this policy at any time. We will notify you of any changes by placing a notice in a prominent place on the website or by email. If you do not agree with the change you must stop using the services. If you continue to use the services following notification of a change to the terms, the changed terms will apply to you and you will be deemed to have accepted such terms.
-
-**5\. Collection**
-
-5.1 On entering competitions. Once you enter a competition through the use of the Facebook commenting mechanism, you will no longer be anonymous to us as you will provide us with personal information. This personal information will include:
-
-  * your name, surname,
-  * your email address,
-  * your IP address.
-
-
-
-5.2 Optional details. You may also provide additional information on a voluntary basis such as your name, telephone number and postal address (“optional information”). This includes content or products that you decide to upload or download from our website or when you enter competitions, take advantage of promotions, register and subscribe for certain additional services, or otherwise use the optional features and functionality of the website.
-
-5.3 Cookies. When you access our website we may send one or more cookies (small text files containing a string of alphanumeric characters) to your computer to collect certain usage information. We use persistent cookies (which remain after you close your browser and which can be removed manually) and may be used by your browser on subsequent visits to our website. We use information gathered by cookies to improve the website. Please note that some of our business partners (e.g. advertisers) use their own cookies or widgets on our website. We have no access to or control over them. Information collected by any such cookie or widget is governed by the privacy policy of the company that created it, and not by us.
-
-5.4 Purpose for collection. We may use any service information and optional information provided by you for such purposes as indicated to you at the time you agree to provide such service information or optional information. We may use your usage information for the purposes described above and to:
-
-  * remember your information so that you will not have to re-enter it during your visit or the next time you access the website;
-  * monitor website usage metrics such as total number of visitors and pages accessed; and
-  * track your entries, submissions, and status in any promotions or other activities in connection with your usage of the website.
-
-
-
-**6\. Consent to collection**
-
-We will obtain your consent to collect personal information:
-
-  * in accordance with applicable law; and
-  * at the time you provide us with any registration information or optional information.
-
-
-
-**7\. Use**
-
-7.1 Messages and updates. We may send administrative messages and email updates to you regarding the website.  In some cases, we may also send you primarily promotional messages.  You can choose to opt-out of promotional messages.
-
-**8\. Disclosure**
-
-8.1 Sharing. We do not share your personal information.
-
-8.2 Regulators. If you contact us regarding your experience with using any of our products, we may disclose your personal information as required by law or governmental audit.
-
-8.3 Law enforcement. We may disclose personal information if required:
-
-  * by a subpoena or court order;
-  * to comply with any law;
-  * to protect the safety of any individual or the general public; and
-  * to prevent violation of our service terms.
-
-
-
-8.4 No selling. We will not sell personal information.  No personal information will be disclosed to anyone except as provided in this privacy policy.
-
-8.5 Marketing purposes. We may disclose aggregate statistics (information about the customer population in general terms) about the personal information to advertisers or business partners.
-
-8.6 Employees. We may need to disclose personal information to our employees that require the personal information to do their jobs.
-
-8.7 Change of ownership. If we undergo a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we may assign our rights to the personal information we process to a successor, purchaser, or separate entity. We will disclose the transfer on the website. If you are concerned about your personal information migrating to a new owner, you may request us to delete your personal information.
-
-**9\. Security of personal information**
-
-We protect your information in the manner specified in our security policy. Generally we use computer safeguards such as firewalls and data encryption to protect personal information and we enforce physical access controls to our buildings and files. We authorize access to personal information only for those employees who require it to fulfil their job responsibilities.
-
-**10\. Retention of personal information**
-
-We will only retain your personal information for as long as it is necessary to fulfil the purposes explicitly set out in this policy, unless:
-
-  * retention of the record is required or authorised by law; or
-  * you have consented to the retention of the record.
-
-
-
-During the period of retention, we will continue to abide by our non disclosure obligations and will not share or sell your personal information.
-
-**11\. Transfer of personal information outside South Africa**
-
-We will not transfer any personal information across a country border without your prior written consent.
-
-**12\. Limitation**
-
-We are not responsible for, give no warranties, nor make any representations in respect of the privacy policies or practices of linked or any third party websites.
-
-**13\. Enquiries**
-
-If you have any questions or concerns arising from this privacy policy or the way in which we handle personal information, please contact us.
+THIS PRIVACY POLICY (“POLICY”) GOVERNS THE COLLECTION,  
+MANAGEMENT AND DISCLOSURE OF PERSONAL INFORMATION THAT  
+HIGHBURY MEDIA (PTY) LTD (“HM,” “we” OR “us”) COLLECTS THROUGH  
+THE FOLLOWING WEBSITES:  
+http://www.dash4cash.com  
+http://www.sarugbymagazine.com  
+http://www.capetownetc.com  
+http://www.weddingalbum.co.za  
+http://www.sacricketmag.com  
+http://www.sasoccermag.co.za  
+http://www.sportsclub.co.za  
+http://aa.co.za  
+http://www.compleatgolfer.co.za  
+http://www.mykitchen.co.za  
+("THE WEBSITES").  
+WE RESPECT YOUR RIGHTS TO RESPONSIBLE MANAGEMENT OF  
+YOUR PERSONAL INFORMATION UNDER THE PROTECTION OF  
+PERSONAL INFORMATION ACT 4 OF 2013. YOUR USE OF THE  
+WEBSITES AND HM'S PRODUCTS AND SERVICES IS SUBJECT TO THIS  
+POLICY. BY USING THE WEBSITES, YOU SIGNIFY YOUR CONSENT TO  
+PROCESSING OF YOUR PERSONAL INFORMATION IN ACCORDANCE  
+WITH THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH ANY TERM  
+IN THIS POLICY, PLEASE DO NOT USE THIS WEBSITES OR SUBMIT  
+ANY PERSONALLY IDENTIFIABLE INFORMATION THROUGH THE  
+WEBSITES.  
+1\. PERSONAL INFORMATION COLLECTION AND USE  
+1.1 HM and/or its authorised technology agents may collect and store  
+certain Personal Information from You in connection with Your use of  
+THE WEBSITES and/or the products and/services provided to You by  
+HM.  
+1.2 For the purpose of this Privacy Policy, Personal Information is defined  
+in accordance with the definition in the Act. Generally, such  
+information is information that can be used to personally identify you. In  
+particular, however, HM may collect information such as:  
+1.2.1 first name and surname,  
+1.2.2 email address,  
+1.2.3 cell phone number,  
+1.2.4 profession or occupation,  
+from the following persons: any individual who chooses to register on  
+THE WEBSITES.  
+1.3 HM may also automatically collect and store non-personally identifiable  
+information related to your use of the THE WEBSITES. Non-personally  
+identifiable information may include personal information that has been  
+aggregated.  
+1.4 We may share non-personally identifiable information with third parties  
+for certain reasons, including advertising, marketing and/or other  
+purposes.  
+1.5 Your Personal Information is used to provide You with the requested  
+products and/or services; enable ease of use of THE WEBSITES;  
+process transactions concluded by You; engage in electronic  
+communications and transactions with You; administer promotions or  
+survey or similar interactive activity; or to provide You with newsletters  
+or other periodic communications and/or marketing materials.  
+1.6 Personal Information is automatically collected in relation to Your visit  
+to THE WEBSITES, such information includes but is not limited to:  
+Your browser type and version, as well as Your operating system.  
+1.7 Cookies are small files send from THE WEBSITES to a Your computer  
+drive that can be used to track when You visit and re-visit a website  
+and how you behave on websites. HM may use cookies to identify the  
+device with which You access THE WEBSITES and may use  
+anonymous cookies to determine website usage analytics and statistics  
+in order to optimise THE WEBSITES and Your experience. You are  
+able to manually delete cookies from Your browser or set Your browser  
+to reject cookies. PLEASE NOTE that certain pages or features may  
+not be available or work correctly if You have set Your browser to reject  
+cookies.  
+1.8 HM uses Google Analytics and Effective Measures, which supports  
+data collection without browser cookies. It helps HM to understand user  
+interaction with THE WEBSITES and implement changes that evolve  
+THE WEBSITES to suit Your needs.  
+1.9 The WEBSITES hosting agents and/or service providers may  
+automatically log Your “IP address” which is a unique identifier for Your  
+computer and/or other access device. Such information collected is for  
+aggregate purposes only and cannot be used to identify You  
+personally.  
+1.10 In the event that You subscribe to newsletters and/or to receive further  
+information through other periodic communications, from HM, Your  
+Personal Information will be processed by HM to provide You with such  
+information and associated processes. All HM communications shall  
+contain an unsubscribe link and by following the unsubscribe process  
+You shall be removed from the relevant distribution list and HM shall no  
+longer send You the subscription information. Should you experience  
+any issues with this process please contact our legal advisor, Tracey  
+Stewart at tracey@hsm.co.za directly.  
+2\. CONSENT TO PROCESS PERSONAL INFORMATION  
+2.1 You understand that Your consent to the processing of your personal  
+information by HM pertains to the provision of the products and  
+services made available on THE WEBSITES; as well as associated  
+purposes. Processing shall include the collection, receipt, recording,  
+organisation, collation, storage, updating or modification, retrieval,  
+alteration, consultation, use; dissemination by means of transmission,  
+distribution or making available in any other form; or merging, linking,  
+as well as blocking, degradation, erasure or destruction of information.  
+2.2 This consent is effective from the moment you access THE WEBSITES  
+and will endure until Your access and/or relationship with HM has been  
+terminated.  
+2.3 You expressly consent to HM retaining Your Personal Information once  
+your relationship with HM has been terminated for: aggregate,  
+statistical and reporting purposes.  
+2.4 In the event that You wish to revoke all consent pertaining to Your  
+Personal Information and You would like HM to remove and/or delete  
+Your Personal Information entirely, You must notify HM via email to  
+HM's legal advisor, Tracey Stewart email address: tracey@hsm.co.za.  
+2.5 By Using THE WEBSITES, You represent that You are of the age of 18  
+or that a Competent Person has given consent to allow Your minor  
+child to utilise THE WEBSITES. You, or a ‘Competent Person’ in the  
+case of a minor, consent/s to the processing of personal information  
+that belongs to You or, in the case of a minor, to the minor for whom  
+You are responsible, in the manner described in this Policy. You agree  
+that giving such consent means that You have given HM permission to  
+collect and process the child’s personal information in the ways  
+described in this Policy.  
+3\. HANDLING OF PERSONAL INFORMATION  
+3.1 HM endeavors to comply with all laws and regulations pertaining to  
+information and communications privacy including, but not limited to,  
+the 1996 South African Constitution and the Protection of Personal  
+Information Act 4 of 2013 (“the Act”). HM applies the principles of  
+protection of personal information under such Act in further legislation  
+referred to in the Act.  
+3.2 You have the right to correct Your Personal Information as well as to  
+revoke Your consent to the processing of Your Personal Information by  
+HM. You do, however, understand that HM requires Your Personal  
+Information to render the HM products and/or services and should You  
+decide to revoke Your consent HM may not be able to provide You with  
+such products and/or services.  
+3.3 HM will take all reasonable measures in order to ensure Your Personal  
+Information is appropriately safeguarded, these precautions include,  
+but are not limited to: the use of a sufficiently secure server and  
+providing suitably secure payment mechanisms.  
+3.4 Should any unauthorised person/s gain access to Your personal  
+information HM will contact You within a reasonable time to inform You  
+of the security breach.  
+3.5 HM seeks to ensure the quality, accuracy and confidentiality of  
+Personal Information in its possession.  
+3.6 HM may share Your personal information with authorised third parties  
+these include persons such as employees and service providers to HM.  
+HM does not permit these parties to use such information for any other  
+purpose than to perform the services that HM has instructed them to  
+provide and in accordance with this Policy.  
+3.7 From time to time, HM may appoint certain agents, third parties and/or  
+service providers which operate outside the borders of the Republic of  
+South Africa. In these circumstances HM will be required to transmit  
+Your Personal Information outside South Africa. The purpose of the  
+trans-border flow of Your Personal Information may include, but is not  
+limited to: data hosting and storage. You expressly consent to the  
+trans-border flow of Your Personal Information. Furthermore, You  
+warrant in this regard that You have obtained the necessary consents  
+required in terms of the Act, in order to enable the trans-border flow of  
+any personal information submitted by You. HM warrants in this regard  
+that it shall only engage the services of third parties (in relation to the  
+aforesaid trans-border flow of information) which subscribe acceptable  
+safeguards in accordance with HM’s legal obligations.  
+3.8 HM will not sell, exchange or transfer Your Personal Information to any  
+third party except as required in the provision of the HM products  
+and/or services and in accordance with the consents provided by You.  
+3.9 HM will make amendments and/or updates to this Privacy Policy on  
+occasion. Amendments made to this Policy shall become immediately  
+effective. We encourage You to periodically review this Policy to keep  
+informed about how HM is protecting Your Personal Information. You  
+can find the last date of change made to the Policy above for Your  
+reference. Your continued Use of THE WEBSITES evidences Your  
+acceptance of this Privacy Policy and any updates made to it.  
+3.10 THE WEBSITES may contain links to other WEBSITES. HM is not  
+responsible for the privacy practices of third party sites.  
+4\. DISCLOSURE OF PERSONAL INFORMATION  
+4.1 Records relating to the provision of the HM products and/or services by  
+HM to You and the Personal Information submitted by You may be  
+required to be retained in terms of legislated records retention  
+requirements, HM’s operational purposes and/or for production as  
+evidence by HM in legal proceedings.  
+4.2 HM may disclose Your Personal Information under the following  
+circumstances:  
+4.2.1 To comply with the law or with legal process;  
+4.2.2 To protect and defend HM’s rights, equipment, facilities and other  
+property;  
+4.2.3 To protect HM against misuse or unauthorised use of THE WEBSITES  
+and/or products and/or services; and/or  
+4.2.4 To protect other WEBSITES their Users or third parties affected  
+negatively by Your actions in use of the products/services and/or THE  
+WEBSITES  
+5\. OBJECTIONS, COMPLAINTS AND QUERIES  
+5.1 Should You require a correction to be made to Your Personal  
+Information that HM keeps on record, or a copy of the record itself, or  
+should You feel that You would like to object to the collection, Use or  
+processing of Your Personal Information by HM, or that you would like  
+us to delete your personally identifiable information, then kindly send  
+an e-mail to our Information Officer, whose name and details are set  
+out below. We will endeavour to make the correction, provide You with  
+the record (We reserve our right to charge a small fee in this case),  
+cease processing of Your Personal Information and/or delete it, in  
+accordance with Your request.  
+INFORMATION OFFICER: HM LEGAL ADVISOR – TRACEY STEWART  
+EMAIL ADDRESS: tracey@hsm.co.za  
+TEL: 021 416 0141
