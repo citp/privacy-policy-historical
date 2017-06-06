@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the android.sc privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917004046id_/http%3A//android.sc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the android.sc privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110101id_/http%3A//www.android.sc/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Android News, Tips& Tricks, How To
 
 ## Privacy Policy for Android.sc
 
