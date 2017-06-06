@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052442id_/http%3A//thedailybell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125419id_/http%3A//thedailybell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Bell
 
@@ -6,7 +6,7 @@ This Privacy Policy was last updated on March 4, 2016.
 
 The www.TheDailyBell.com website (the “Website”) is owned and operated by Blacksmith PTE, LTD.
 
-We consider privacy of paramount importance to liberty and thus implement rigorous security in safeguarding user information. As a part of that commitment, we have implemented this Privacy Policy that explains our privacy practices for information we collect through our Website. Your privacy matters to us, so please do take the time to get to know our practices – and if you have any questions, contact us at [CustomerService@TheDailyBell.com](mailto:CustomerService@TheDailyBell.com) (“Service Contact”).
+We consider privacy of paramount importance to liberty and thus implement rigorous security in safeguarding user information. As a part of that commitment, we have implemented this Privacy Policy that explains our privacy practices for information we collect through our Website. Your privacy matters to us, so please do take the time to get to know our practices – and if you have any questions, contact us at  (“Service Contact”).
 
 **1\. Blacksmith Global Ltd.’s Commitment to Privacy**
 
@@ -115,4 +115,4 @@ We reserve the right to change this Privacy Policy at any time; however, any cha
 
 If you are not completely satisfied with or wish to submit comments concerning this Privacy Policy or its application by us, we invite you to convey your concerns or suggestions to Service Contact. We will reply as quickly as possible and inform you of the steps, if any, that has been or will be taken in order to address the concern or implement the suggestion.
 
-If you wish to be removed from the Daily Bell’s databases, please send an e-mail detailing your request to [CustomerService@TheDailyBell.com](mailto:CustomerService@TheDailyBell.com).
+If you wish to be removed from the Daily Bell’s databases, please send an e-mail detailing your request to.
