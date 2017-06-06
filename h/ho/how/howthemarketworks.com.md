@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130060110id_/http%3A//education.howthemarketworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064122id_/http%3A//education.howthemarketworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last revised March 11, 2010
+Last revised March 27, 2017
 
 This How The Market Works site is owned and operated by [Stock](http://education.howthemarketworks.com/glossary/stocks/)-Trak. Stock-Trak recognizes and respects the privacy expectations of participants in its contests. This Privacy Statement explains how we collect, use and protect your personally identifying information (“Personal Information”) and under what circumstances it may be disclosed. This Privacy Statement is incorporated into our Agreement . All capitalized terms not defined herein are defined in that Agreement. We reserve the right to change this Privacy Statement from time to time, consistent with applicable privacy and other laws. Unless prohibited by applicable law, any such change will apply thirty (30) days from date of posting on our site, unless you object (“opt-out”) as provided below before that date. Your continued use of this site following such changes signifies your acceptance of those changes.
 
-This Privacy Statement is incorporated into our Agreement. All capitalized terms not defined herein are defined in that Agreement. We reserve the right to change this Privacy Statement from time to time consistent with applicable privacy and other laws. Unless prohibited by applicable law, any such change will apply thirty (30) days from date of posting on our Site, unless you object (“opt-out”) as provided below before that date. Your continued use of this site following such changes signifies your acceptance of those changes.
-
 **The Information We Collect and How We Collect It**
 
-Stock-Trak collects Personal Information from registered participants. As a condition of registration, participants provide their first name and email address.
+Stock-Trak collects Personal Information from registered participants. As a condition of registration, participants provide their first name, and optionally may provide last name, email address, and other demographic information. For users under 13, we do not collect email address or any other personal data. Please see our separate [COPPA policy](http://content.stocktrak.com/coppa/) for more information.
 
 Stock-Trak is the sole owner of the information collected through our site. We do not sell, share or rent this information to others.
 
@@ -30,7 +28,6 @@ Our site also uses “web beacons. ” Web beacons are small pieces of data that
 
 **Opting Out of Changes To This Privacy Statement**
 
-From time to time, we may amend this Privacy Statement. Should any amendments create additional ways in which we may collect or disclose your Personal Information, you may opt out of those amendments by e-mailing us within 30 days of the posting of the revised Privacy Statement on the site. We will always identify the date this Privacy Statement was last revised at the top of the statement. It is your responsibility to monitor the statement periodically to determine whether there have been changes. Opting out of an amendment to this Privacy Statement may subject you to termination of your registration and participation in any ongoing or future contests at our sole election and upon notice to you.  
-Corrections
+From time to time, we may amend this Privacy Statement. Should any amendments create additional ways in which we may collect or disclose your Personal Information, you may opt out of those amendments by e-mailing us within 30 days of the posting of the revised Privacy Statement on the site. We will always identify the date this Privacy Statement was last revised at the top of the statement. It is your responsibility to monitor the statement periodically to determine whether there have been changes. Opting out of an amendment to this Privacy Statement may subject you to termination of your registration and participation in any ongoing or future contests at our sole election and upon notice to you.
 
-To correct Personal Information you have submitted or if you have any questions about this Privacy Statement, contact: Customer Service.
+To correct Personal Information you have submitted or if you have any questions about this Privacy Statement, contact: privacy@[stocktrak.com](http://education.howthemarketworks.com/tools/websites/stocktrak-com/).
