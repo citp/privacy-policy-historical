@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the outsidethebeltway.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219232125id_/http%3A//www.outsidethebeltway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsidethebeltway.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183959id_/http%3A//www.outsidethebeltway.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-This privacy statement covers all of the OTB Media network of sites ([Outside the Beltway](https://web.archive.org/web/20161219232125id_/http://), [OTB Sports](http://sports.outsidethebeltway.com/), [Gone Hollywood](http://gone-hollywood.com/), and [Manzine](http://manzine.org/)). Please read this statement carefully before using proceeding to access OTB Media sites. Your use of OTB Media indicates your agreement to abide by the Terms in effect.
+This privacy statement covers all of the OTB Media network of sites ([Outside the Beltway](https://web.archive.org/web/20170606183959id_/http://), [OTB Sports](http://sports.outsidethebeltway.com/), [Gone Hollywood](http://gone-hollywood.com/), and [Manzine](http://manzine.org/)). Please read this statement carefully before using proceeding to access OTB Media sites. Your use of OTB Media indicates your agreement to abide by the Terms in effect.
 
 **Resale or disclosure of information to third parties** : OTB Media does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership forms or email lists.
 
