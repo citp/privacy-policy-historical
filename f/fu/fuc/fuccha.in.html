@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fuccha.in privacy policy that was archived on 2016-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161226132506id_/http%3A//www.fuccha.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fuccha.in privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606114754id_/http%3A//www.fuccha.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Pragma" content="no-cache">
@@ -21,7 +21,21 @@
    
    
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0, minimum-scale=1, user-scalable=no">
-<link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
+<style>
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Sans'), local('DroidSans'), url(http://fonts.gstatic.com/s/droidsans/v6/s-BiyweUPV0v-yRb-cjciC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url(http://fonts.gstatic.com/s/droidsans/v6/EFpQQyG9GqCrobXxL-KRMfEr6Hm6RMS0v1dtXsGir4g.ttf) format('truetype');
+}
+</style>
+<!--<link href="//fonts.googleapis.com/css?family=Droid+Sans:400,700&?id=378061331" rel="stylesheet">-->
 <link rel="icon" href="http://www.fuccha.in/assets/site/images/favcon.png" type="image/png">
 
 <!-- FONT AWESOME AND GOOGLE FONTS -->
@@ -34,7 +48,7 @@
 <link href="http://www.fuccha.in/assets/site/css/bootstrap.min.css" type="text/css" rel="stylesheet">
 <link href="http://www.fuccha.in/assets/site/css/animate.css" type="text/css" rel="stylesheet">
 <link href="http://www.fuccha.in/assets/site/css/dataTables.bootstrap.min.css" type="text/css" rel="stylesheet">
-<link href="http://www.fuccha.in/assets/site/css/fixedHeader.bootstrap.min.css" type="text/css" rel="stylesheet">
+<!-- <link href="http://www.fuccha.in/assets/site/css/fixedHeader.bootstrap.min.css" type="text/css" rel="stylesheet"> -->
 <!--============== Events calender css ==================-->
 <link href="http://www.fuccha.in/assets/site/css/jalendar.css" type="text/css" rel="stylesheet">
 
@@ -43,27 +57,29 @@
 
 <link rel="stylesheet" type="text/css" href="http://www.fuccha.in/assets/site/css/jquery-ui.css">
 
-
+<link href="http://www.fuccha.in/assets/site/css/flexslider.css" type="text/css" rel="stylesheet">
 <!-- CUSTOM CSS -->
-<link href="http://www.fuccha.in/assets/site/css/reset.css" type="text/css" rel="stylesheet">
+<link href="http://www.fuccha.in/assets/site/css/reset.css?id=1569435796" type="text/css" rel="stylesheet">
 <link href="http://www.fuccha.in/assets/site/css/style.css" type="text/css" rel="stylesheet">
 <link href="http://www.fuccha.in/assets/site/css/custom.css" type="text/css" rel="stylesheet">
 <link href="http://www.fuccha.in/assets/site/css/responsive.css" type="text/css" rel="stylesheet">
-
+<link rel="stylesheet" type="text/css" href="http://www.fuccha.in/assets/site/css/jquery.fancybox.css?v=2.1.5" media="screen">
+<style type="text/css">table.dataTable.fixedHeader-floating,table.dataTable.fixedHeader-locked{background-color:#fff;margin-top:0!important;margin-bottom:0!important}table.dataTable.fixedHeader-floating{position:fixed!important;top:90px!important;background-color:#f2ba24}table.dataTable.fixedHeader-locked{position:absolute!important}@media print{table.fixedHeader-floating{display:none}}</style>
 
 
 <script type="text/javascript" src="http://www.fuccha.in/assets/site/js/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="http://www.fuccha.in/assets/site/js/jquery-ui.js"></script>
+<!-- <script type="text/javascript" src="http://www.fuccha.in/assets/site/js/jquery.onscreen.js"></script> -->
 
 
-<script type="text/javascript" src="http://www.fuccha.in/assets/ckeditor/ckeditor.js"></script> 
-
-
+ <script type="text/javascript" src="http://www.fuccha.in/assets/ckeditor/ckeditor.js"></script> 
+ 
+ <!-- <script src="//cdn.ckeditor.com/4.6.2/full/ckeditor.js"></script> -->
+<!--<script id="twitter-wjs" type="text/javascript" async defer src="//platform.twitter.com/widgets.js"></script>-->
 
 
 <!-- Add fancyBox main JS and CSS files -->
 	<script type="text/javascript" src="http://www.fuccha.in/assets/site/js/jquery.fancybox.pack.js?v=2.1.5" defer=""></script>
-	<link rel="stylesheet" type="text/css" href="http://www.fuccha.in/assets/site/css/jquery.fancybox.css?v=2.1.5" media="screen">
 
 	<script type="text/javascript" defer="">
 		$(document).ready(function() {
@@ -74,12 +90,31 @@
 			 $(".ytp-button").click(function(){
 					$("#carousel-example-generic").carousel("pause");
 			});
-			
-			
 		
 		});
 		
-	
+	// onScreen jQuery plugin v0.2.1
+// (c) 2011-2013 Ben Pickles
+//
+// http://benpickles.github.io/onScreen
+//
+// Released under MIT license.
+;(function($) {
+  $.expr[":"].onScreen = function(elem) {
+    var $window = $(window)
+    var viewport_top = $window.scrollTop()
+    var viewport_height = $window.height()
+    var viewport_bottom = viewport_top + viewport_height
+    var $elem = $(elem)
+    var top = $elem.offset().top
+    var height = $elem.height()
+    var bottom = top + height
+
+    return (top >= viewport_top && top < viewport_bottom) ||
+           (bottom > viewport_top && bottom <= viewport_bottom) ||
+           (height > viewport_height && top <= viewport_top && bottom >= viewport_bottom)
+  }
+})(jQuery);
 		
 		
 	</script>
@@ -93,10 +128,16 @@
 
 </head>
 
-<body>
+<body onload="removeCkId()">
 
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
+<script>
+
+function removeCkId() {
+    jQuery('#cke_pastebin').removeAttr('style');
+}
+ 
+(function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
         js = d.createElement(s); js.id = id;
@@ -112,19 +153,27 @@
             							<a href="javascript:void(0)" data-toggle="modal" onclick="registerwithus('submit_story')" data-target="#myModal11">Submit your Story</a>
 					            	</div>
         		<ul class="top_menu">
-				            		<li><a href="http://www.fuccha.in/tools/b-school-predictor/step-1">B-School Predictor</a></li>
+				            		<!-- <li><a href="http://www.fuccha.in/tools/b-school-predictor/step-1">B-School Predictor</a></li> -->
 									<!--<li><a href="http://www.fuccha.in/tools/cat-percentiler/step-1" data-toggle="modal" data-target="#myModal">Call Predictor</a></li>-->
 								
-				            		<li><a href="http://www.fuccha.in/tools/cat-percentiler/step-1">CAT Percentiler</a></li>
+				            		<!--<li><a href="http://www.fuccha.in/tools/xat-score-calculator/step-1">XAT Percentiler</a></li>-->
+				<li><a href="http://www.fuccha.in/meet-team-fuccha">Intern with Us</a></li>
 									<!--<li><a href="#" data-toggle="modal" data-target="#myModal">Call Predictor</a></li>-->
 								            		<!-- <li><a href="http://www.fuccha.in/tools/b-school-ranking/top-mba-colleges-india">B-School Rankings</a></li> -->
 									<!--<li><a href="#" data-toggle="modal" data-target="#myModal">Call Predictor</a></li>-->
-								            		<li><a href="http://www.fuccha.in/tools/college-mba-compare">Compare MBA Colleges</a></li>
+								            		<!--<li><a href="http://www.fuccha.in/tools/college-mba-compare">Compare MBA Colleges</a></li>-->
 									<!--<li><a href="#" data-toggle="modal" data-target="#myModal">Call Predictor</a></li>-->
-								            		<li><a href="http://www.fuccha.in/tools/cat-2016-helpline">CAT 2016 Helpline</a></li>
+								            		<li><a href="http://www.fuccha.in/tools/cat-2016-helpline">Admission Helpline 2017</a></li>
 									<!--<li><a href="#" data-toggle="modal" data-target="#myModal">Call Predictor</a></li>-->
 				                	
                <!-- <li><a href="http://www.fuccha.in/study-abroad">Study Abroad</a></li> -->
+               <li><a href="javascript:void(0);">Top Universities</a>
+                   <ul>
+                       <li><a href="http://www.fuccha.in/delhi-university">Delhi University</a></li>
+                       <li><a href="http://www.fuccha.in/lovely-professional-university">Lovely Professional University</a></li>
+                       <li><a href="http://www.fuccha.in/jamia-millia-islamia">Jamia Millia Islamia</a></li>
+                   </ul>
+               </li>
             	</ul>
 				
 				            	<ul class="social_icon">
@@ -150,17 +199,19 @@
                     <p>A Fearless Youngster willing to<br>Explore Things</p>
                 </div>
             </div>
-            <div class="header_ad float-right">
-            	<!--<a href="http://www.fuccha.in/cat-2016-analysis-and-cutoffs-slot-2"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/assets/site/images/728X90.jpg&w=728&h=90" alt=""></a>-->
-            </div>
+             <!-- <div class="header_ad float-right">
+            	<a class="desktop-ad" href="http://www.amazon.in/b?_encoding=UTF8&tag=fuccha-21&linkCode=ur2&linkId=1896acf6c12c426934d7d61e48677736&camp=3638&creative=24630&node=1571271031" target="_blank"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/assets/site/images/banners.png&w=728&h=90" alt=""></a>
+                <a class="mobile-ad" href="http://www.amazon.in/b?_encoding=UTF8&tag=fuccha-21&linkCode=ur2&linkId=1896acf6c12c426934d7d61e48677736&camp=3638&creative=24630&node=1571271031" target="_blank"><img src="http://www.fuccha.in/assets/site/images/banners-01.png" alt=""></a>
+
+            </div> -->
             <div class="mobile_header_rgt">
             	<ul class="notification">
                 	<!-- <li ><a href="#"><i class="fa fa-bell"></i></a></li> -->
                 </ul>
                 <ul class="header_share">
-				
+				<!--class="twitter-follow-button"-->
             		<li><a href="#"><div class="fb-like" data-href="https://www.facebook.com/fuccha" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div></a></li>
-                	<li><a href="#"></a><a class="twitter-follow-button" target="_blank" data-show-count="true" href="https://twitter.com/fucchaofficial">
+                	<li><a href="#"></a><a target="_blank" data-show-count="true" href="https://twitter.com/fucchaofficial">
 <img src="http://www.fuccha.in/assets/site/images/mb-share3.png">
 </a></li>
             	</ul>
@@ -207,8 +258,232 @@
                                 <div class="dropdown-menu">
                                     <div class="container">
                                         <ul class="ver-dropdown">
-                                            <li><a href="http://www.fuccha.in/tools/b-school-ranking/top-mba-colleges-india">Top MBA College</a></li>
-                                            <li><a href="http://www.fuccha.in/tools/b-school-ranking/top-engineering-colleges-india">Top Engineering Colleges</a></li>
+                                            <li><a href="javascript:void(0);">MBA</a>
+
+
+                                        <div class="mega_dropdown">
+                                                    <ul class="nav nav-tabs">
+                                                        <li class="active">
+                                                            <a href="#mega_menu1" data-toggle="tab">Colleges</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#mega_menu4" data-toggle="tab">Tools</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#mega_menu2" data-toggle="tab">Exams</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#mega_menu3" data-toggle="tab">Courses</a>
+                                                        </li>
+                                                    </ul>
+                                                    <div class="tab-content">
+                                                        <div class="tab-pane active" id="mega_menu1">
+                                                            <div class="panel-body">
+                                                                <div class="row">
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/mba/mba-colleges-in-bangalore">MBA Colleges in Bangalore</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/mba-colleges-in-delhi-ncr">MBA Colleges in Delhi-NCR</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/mba-colleges-in-hyderabad">MBA Colleges in Hyderabad</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/mba-colleges-in-kolkata">MBA Colleges in Kolkata</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/mba/mba-colleges-in-pune">MBA Colleges in Pune</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/mba-colleges-in-mumbai">MBA Colleges in Mumbai</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/mba-colleges-in-chennai">MBA Colleges in Chennai</a></li>
+                                                                             <li><a href="http://www.fuccha.in/mba/mba-colleges-in-punjab">MBA Colleges in Punjab</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/mba/mba-colleges-in-chandigarh">MBA Colleges in Chandigarh</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/mba-colleges-in-india" class="view-all">View All</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="tab-pane" id="mega_menu2">
+                                                            <div class="panel-body">
+                                                                <div class="row">
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/mba/exams/cat">CAT</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/exams/mat">MAT</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/exams/cmat">CMAT</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/exams/xat">XAT</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/mba/exams/nmat-by-gmac">NMAT BY GMAC</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/exams/snap">SNAP</a></li>
+                                                                           
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="tab-pane" id="mega_menu3">
+                                                            <div class="panel-body">
+                                                                <div class="row">
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <!-- <li><a href="http://www.fuccha.in/mba/executive-mba">Executive MBA</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/distance-mba">Distance MBA</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/online-mba">Online MBA</a></li>
+                                                                           <li><a href="http://www.fuccha.in/mba/part-time-mba">Part Time MBA</a></li> -->
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="tab-pane" id="mega_menu4">
+                                                            <div class="panel-body">
+                                                                <div class="row">
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/tools/college-mba-compare">Compare College</a></li>
+                                                                           <li><a href="http://www.fuccha.in/tools/b-school-predictor/step-1">B-School Predictor</a></li>
+                                                                           <li><a href="http://www.fuccha.in/tools/cat-percentiler/step-1">CAT Percentiler</a></li>
+                                                                           <li><a href="http://www.fuccha.in/tools/xat-score-calculator/step-1">XAT Percentiler</a></li>
+                                                                           
+                                                                        </ul>
+                                                                    </div>
+                                                                     <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/tools/cat-2016-helpline">Admission Helpline 2017</a></li>
+                                                                          <!--  <li><a href="http://www.fuccha.in/tools/b-school-helpline">B School Helpline</a></li> -->
+                                                                           
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+
+                                            <li><a href="javascript:void(0);">Engineering</a>
+                                            <div class="mega_dropdown">
+                                                    <ul class="nav nav-tabs">
+                                                        <li class="active">
+                                                            <a href="#mega_menu11" data-toggle="tab">Colleges</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#mega_menu41" data-toggle="tab">Tools</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#mega_menu21" data-toggle="tab">Exams</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#mega_menu31" data-toggle="tab">Courses</a>
+                                                        </li>
+                                                    </ul>
+                                                    <div class="tab-content">
+                                                        <div class="tab-pane active" id="mega_menu11">
+                                                            <div class="panel-body">
+                                                                <div class="row">
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/engineering/btech-colleges-in-bangalore">B Tech Colleges in Bangalore</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/btech-colleges-in-delhi-ncr">B Tech Colleges in Delhi-NCR</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/btech-colleges-in-hyderabad">B Tech Colleges in Hyderabad</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/btech-colleges-in-kolkata">B Tech Colleges in Kolkata</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/engineering/btech-colleges-in-pune">B Tech Colleges in Pune</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/btech-colleges-in-mumbai">B Tech Colleges in Mumbai</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/btech-colleges-in-chennai">B Tech Colleges in Chennai</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/btech-colleges-in-punjab">B Tech Colleges in Punjab</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/engineering/btech-colleges-in-chandigarh">B Tech Colleges in Chandigarh</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/btech-colleges-in-india" class="view-all">View All</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="tab-pane" id="mega_menu21">
+                                                            <div class="panel-body">
+                                                                <div class="row">
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/jee-mains">JEE Mains</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/jee-advanced">JEE Advanced</a></li>
+                                                                          <li><a href="http://www.fuccha.in/engineering/exams/bitsat">BITSAT</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/upsee">UPSEE</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/wbjee">WBJEE</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/ap-eamcet">AP EAMCET</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/ts-eamcet">TS EAMCET</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/srmjeee">SRM JEEE</a></li>
+                                                                           <!-- <li><a href="http://www.fuccha.in/engineering/exams/aieee">AIEEE</a></li> -->
+                                                                           
+                                                                        </ul>
+                                                                    </div>
+
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/comedk">COMEDK</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/tnea">TNEA</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/mh-cet">MH CET</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/exams/amity-jee">AMITY JEE</a></li>
+                                                                           <!-- <li><a href="http://www.fuccha.in/engineering/exams/aieee">AIEEE</a></li> -->
+                                                                           
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="tab-pane" id="mega_menu31">
+                                                             <div class="panel-body">
+                                                                <div class="row">
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <!-- <li><a href="http://www.fuccha.in/engineering/btech">B Tech</a></li>
+                                                                           <li><a href="http://www.fuccha.in/engineering/mtech">M Tech</a></li> -->
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div> 
+                                                        </div>
+                                                        <div class="tab-pane" id="mega_menu41">
+                                                            <div class="panel-body">
+                                                               <!--  <div class="row">
+                                                                    <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/tools/college-mba-compare">Compare College</a></li>
+                                                                           <li><a href="http://www.fuccha.in/tools/b-school-predictor/step-1">B-School Predictor</a></li>
+                                                                           <li><a href="http://www.fuccha.in/tools/cat-percentiler/step-1">CAT Percentiler</a></li>
+                                                                           <li><a href="http://www.fuccha.in/tools/xat-score-calculator/step-1">XAT Percentiler</a></li>
+                                                                           
+                                                                        </ul>
+                                                                    </div>
+                                                                     <div class="col-md-4 col-sm-4 col-xs-4">
+                                                                        <ul class="mega_list">
+                                                                           <li><a href="http://www.fuccha.in/tools/cat-2016-helpline">Admission Helpline 2017</a></li>
+                                                                           
+                                                                        </ul>
+                                                                    </div>
+                                                                </div> -->
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
                                             <!-- <li><a href="http://www.fuccha.in/top-universities">Top 100 Universities</a></li> -->
                                         </ul>
                                     </div>
@@ -219,7 +494,7 @@
                             <li class="social_media">
                             	<a href="#">
 								<div class="fb-like" data-href="https://www.facebook.com/fuccha" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-								</a><a class="twitter-follow-button" target="_blank" data-show-count="true" href="https://twitter.com/fucchaofficial">
+								</a><a target="_blank" data-show-count="true" href="https://twitter.com/fucchaofficial">
 <img src="http://www.fuccha.in/assets/site/images/mb-share3.png">
 </a>
                             		
@@ -252,7 +527,7 @@
 										                            				<div class="col-md-3">
                                     			<div class="trending_block">
                                         			<div class="img_block">
-                                        				<a href="http://www.fuccha.in/10-things-you-will-only-understand-if-you-have-a-sharma-friend"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/384048-anushka-jab-tak-hia-jaan.jpg&amp;w=268&amp;h=125" alt=""></a>
+                                        				<a href="http://www.fuccha.in/what-are-the-primary-attributes-of-top-b-tech-colleges-in-telangana"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/Top-Engineering-Colleges-in-Telangana-2017.jpg&amp;w=268&amp;h=125" alt=""></a>
                                             			<ul>																<li><a class="" data-toggle="modal" data-target="#myModal1" action="like" href="javascript:void(0);"><i class="zmdi zmdi-thumb-up"></i></a></li>
 																<li><a class="" data-toggle="modal" data-target="#myModal1" action="fav" href="javascript:void(0);"><i class="zmdi zmdi-favorite"></i></a></li>
 																<li><a class="" data-toggle="modal" data-target="#myModal1" action="smile" href="javascript:void(0);"><i class="zmdi zmdi-mood"></i></a></li>
@@ -260,56 +535,8 @@
 															                                            			</ul>
                                         			</div>
                                         			<div class="social_cont">
-                                        				<a href="http://www.fuccha.in/10-things-you-will-only-understand-if-you-have-a-sharma-friend" title="10 Things You Will Only Understand If You Have A ‘Sharma’ Friend">10 Things You Will Only Understand If You Have A �</a>
-                                                      <!--  <p><i class="fa fa-flash"></i>114695</p> -->
-                                        			</div>
-                                        		</div>
-                                			</div>
-										                            				<div class="col-md-3">
-                                    			<div class="trending_block">
-                                        			<div class="img_block">
-                                        				<a href="http://www.fuccha.in/10-things-you-will-only-understand-if-you-have-a-baniya-friend"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/kejri-muffler.jpg&amp;w=268&amp;h=125" alt=""></a>
-                                            			<ul>																<li><a class="" data-toggle="modal" data-target="#myModal1" action="like" href="javascript:void(0);"><i class="zmdi zmdi-thumb-up"></i></a></li>
-																<li><a class="" data-toggle="modal" data-target="#myModal1" action="fav" href="javascript:void(0);"><i class="zmdi zmdi-favorite"></i></a></li>
-																<li><a class="" data-toggle="modal" data-target="#myModal1" action="smile" href="javascript:void(0);"><i class="zmdi zmdi-mood"></i></a></li>
-																<li><a class="" data-toggle="modal" data-target="#myModal1" action="sad" href="javascript:void(0);"><i class="zmdi zmdi-mood-bad"></i></a></li>
-															                                            			</ul>
-                                        			</div>
-                                        			<div class="social_cont">
-                                        				<a href="http://www.fuccha.in/10-things-you-will-only-understand-if-you-have-a-baniya-friend" title="10 Things You Will Only Understand If You Have A ‘Baniya’ Friend">10 Things You Will Only Understand If You Have A �</a>
-                                                      <!--  <p><i class="fa fa-flash"></i>21657</p> -->
-                                        			</div>
-                                        		</div>
-                                			</div>
-										                            				<div class="col-md-3">
-                                    			<div class="trending_block">
-                                        			<div class="img_block">
-                                        				<a href="http://www.fuccha.in/8-reasons-why-cha-bar-is-one-of-the-best-hangout-places-in-ncr"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/cha5.jpg&amp;w=268&amp;h=125" alt=""></a>
-                                            			<ul>																<li><a class="" data-toggle="modal" data-target="#myModal1" action="like" href="javascript:void(0);"><i class="zmdi zmdi-thumb-up"></i></a></li>
-																<li><a class="" data-toggle="modal" data-target="#myModal1" action="fav" href="javascript:void(0);"><i class="zmdi zmdi-favorite"></i></a></li>
-																<li><a class="" data-toggle="modal" data-target="#myModal1" action="smile" href="javascript:void(0);"><i class="zmdi zmdi-mood"></i></a></li>
-																<li><a class="" data-toggle="modal" data-target="#myModal1" action="sad" href="javascript:void(0);"><i class="zmdi zmdi-mood-bad"></i></a></li>
-															                                            			</ul>
-                                        			</div>
-                                        			<div class="social_cont">
-                                        				<a href="http://www.fuccha.in/8-reasons-why-cha-bar-is-one-of-the-best-hangout-places-in-ncr" title="8 Reasons Why Cha Bar Is One Of The Best Hangout Places In NCR">8 Reasons Why Cha Bar Is One Of The Best Hangout P</a>
-                                                      <!--  <p><i class="fa fa-flash"></i>18281</p> -->
-                                        			</div>
-                                        		</div>
-                                			</div>
-										                            				<div class="col-md-3">
-                                    			<div class="trending_block">
-                                        			<div class="img_block">
-                                        				<a href="http://www.fuccha.in/things-youll-relate-to-if-you-are-a-vips-student"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/2663_le_LEe71e09f4-bff9-4da4-b2e6-d19b204d525adsb_image.jpg&amp;w=268&amp;h=125" alt=""></a>
-                                            			<ul>																<li><a class="" data-toggle="modal" data-target="#myModal1" action="like" href="javascript:void(0);"><i class="zmdi zmdi-thumb-up"></i></a></li>
-																<li><a class="" data-toggle="modal" data-target="#myModal1" action="fav" href="javascript:void(0);"><i class="zmdi zmdi-favorite"></i></a></li>
-																<li><a class="" data-toggle="modal" data-target="#myModal1" action="smile" href="javascript:void(0);"><i class="zmdi zmdi-mood"></i></a></li>
-																<li><a class="" data-toggle="modal" data-target="#myModal1" action="sad" href="javascript:void(0);"><i class="zmdi zmdi-mood-bad"></i></a></li>
-															                                            			</ul>
-                                        			</div>
-                                        			<div class="social_cont">
-                                        				<a href="http://www.fuccha.in/things-youll-relate-to-if-you-are-a-vips-student" title="Things You’ll Relate To If You Are A VIPS Student">Things You’ll Relate To If You Are A VIPS Studen</a>
-                                                      <!--  <p><i class="fa fa-flash"></i>17870</p> -->
+                                        				<a href="http://www.fuccha.in/what-are-the-primary-attributes-of-top-b-tech-colleges-in-telangana" title="What are the Primary Attributes of Top B Tech Colleges in Telangana ?">What are the Primary Attributes of Top B Tech Coll</a>
+                                                      <!--  <p><i class="fa fa-flash"></i>21</p> -->
                                         			</div>
                                         		</div>
                                 			</div>
@@ -323,7 +550,7 @@
 											<div class="col-md-3">
                                     			<div class="trending_block">
                                         			<div class="img_block">
-                                        				<a href="http://www.fuccha.in/10-things-you-will-only-understand-if-you-have-a-sharma-friend"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/384048-anushka-jab-tak-hia-jaan.jpg&amp;w=268&amp;h=125" alt=""></a>
+                                        				<a href="http://www.fuccha.in/delhi-university-announces-admissions-schedule-important-dates-and-more"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/Add_heading.png&amp;w=268&amp;h=125" alt=""></a>
                                             			<ul>																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="like" href="javascript:void(0);"><i class="zmdi zmdi-thumb-up"></i></a></li>
 																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="fav" href="javascript:void(0);"><i class="zmdi zmdi-favorite"></i></a></li>
 																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="smile" href="javascript:void(0);"><i class="zmdi zmdi-mood"></i></a></li>
@@ -332,8 +559,8 @@
                                             			</ul>
                                         			</div>
                                         			<div class="social_cont">
-                                        				<a href="http://www.fuccha.in/10-things-you-will-only-understand-if-you-have-a-sharma-friend" title="10 Things You Will Only Understand If You Have A ‘Sharma’ Friend">10 Things You Will Only Understand If You Have A �</a>
-                                                        <!-- <p><i class="fa fa-flash"></i>114695</p> -->
+                                        				<a href="http://www.fuccha.in/delhi-university-announces-admissions-schedule-important-dates-and-more" title="Delhi University Announces Admissions Schedule- Important Dates and More">Delhi University Announces Admissions Schedule- Im</a>
+                                                        <!-- <p><i class="fa fa-flash"></i>1089</p> -->
                                         			</div>
                                         		</div>
                                 			</div>
@@ -341,7 +568,7 @@
 											<div class="col-md-3">
                                     			<div class="trending_block">
                                         			<div class="img_block">
-                                        				<a href="http://www.fuccha.in/8-things-i-wouldnt-have-learned-if-i-didnt-go-to-delhi-university"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/15EPBS_NILAN_4_JPG_1517024g.jpg&amp;w=268&amp;h=125" alt=""></a>
+                                        				<a href="http://www.fuccha.in/delhi-university-releases-list-of-entrance-based-ug-courses"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/duug.jpg&amp;w=268&amp;h=125" alt=""></a>
                                             			<ul>																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="like" href="javascript:void(0);"><i class="zmdi zmdi-thumb-up"></i></a></li>
 																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="fav" href="javascript:void(0);"><i class="zmdi zmdi-favorite"></i></a></li>
 																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="smile" href="javascript:void(0);"><i class="zmdi zmdi-mood"></i></a></li>
@@ -350,8 +577,8 @@
                                             			</ul>
                                         			</div>
                                         			<div class="social_cont">
-                                        				<a href="http://www.fuccha.in/8-things-i-wouldnt-have-learned-if-i-didnt-go-to-delhi-university" title="8 Things I Wouldn’t Have Learned If I Didn’t Go To Delhi  University">8 Things I Wouldn’t Have Learned If I Didn’t G</a>
-                                                        <!-- <p><i class="fa fa-flash"></i>44942</p> -->
+                                        				<a href="http://www.fuccha.in/delhi-university-releases-list-of-entrance-based-ug-courses" title="Delhi University Releases List of Entrance-Based UG Courses">Delhi University Releases List of Entrance-Based U</a>
+                                                        <!-- <p><i class="fa fa-flash"></i>796</p> -->
                                         			</div>
                                         		</div>
                                 			</div>
@@ -359,7 +586,7 @@
 											<div class="col-md-3">
                                     			<div class="trending_block">
                                         			<div class="img_block">
-                                        				<a href="http://www.fuccha.in/10-most-fashionable-colleges-in-delhi"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/fashionshow.jpg&amp;w=268&amp;h=125" alt=""></a>
+                                        				<a href="http://www.fuccha.in/what-are-the-primary-attributes-of-top-b-tech-colleges-in-telangana"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/Top-Engineering-Colleges-in-Telangana-2017.jpg&amp;w=268&amp;h=125" alt=""></a>
                                             			<ul>																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="like" href="javascript:void(0);"><i class="zmdi zmdi-thumb-up"></i></a></li>
 																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="fav" href="javascript:void(0);"><i class="zmdi zmdi-favorite"></i></a></li>
 																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="smile" href="javascript:void(0);"><i class="zmdi zmdi-mood"></i></a></li>
@@ -368,26 +595,8 @@
                                             			</ul>
                                         			</div>
                                         			<div class="social_cont">
-                                        				<a href="http://www.fuccha.in/10-most-fashionable-colleges-in-delhi" title="10  Most Fashionable Colleges in Delhi">10  Most Fashionable Colleges in Delhi</a>
-                                                        <!-- <p><i class="fa fa-flash"></i>24671</p> -->
-                                        			</div>
-                                        		</div>
-                                			</div>
-																							
-											<div class="col-md-3">
-                                    			<div class="trending_block">
-                                        			<div class="img_block">
-                                        				<a href="http://www.fuccha.in/10-career-options-after-doing-english-honours"><img src="http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/1280px-Corridors_of_MirandaHouse.-1024x682_.jpg&amp;w=268&amp;h=125" alt=""></a>
-                                            			<ul>																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="like" href="javascript:void(0);"><i class="zmdi zmdi-thumb-up"></i></a></li>
-																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="fav" href="javascript:void(0);"><i class="zmdi zmdi-favorite"></i></a></li>
-																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="smile" href="javascript:void(0);"><i class="zmdi zmdi-mood"></i></a></li>
-																	<li><a class="" data-toggle="modal" data-target="#myModal1" action="sad" href="javascript:void(0);"><i class="zmdi zmdi-mood-bad"></i></a></li>
-																					
-                                            			</ul>
-                                        			</div>
-                                        			<div class="social_cont">
-                                        				<a href="http://www.fuccha.in/10-career-options-after-doing-english-honours" title="10 CAREER OPTIONS AFTER DOING ENGLISH HONOURS">10 CAREER OPTIONS AFTER DOING ENGLISH HONOURS</a>
-                                                        <!-- <p><i class="fa fa-flash"></i>23313</p> -->
+                                        				<a href="http://www.fuccha.in/what-are-the-primary-attributes-of-top-b-tech-colleges-in-telangana" title="What are the Primary Attributes of Top B Tech Colleges in Telangana ?">What are the Primary Attributes of Top B Tech Coll</a>
+                                                        <!-- <p><i class="fa fa-flash"></i>21</p> -->
                                         			</div>
                                         		</div>
                                 			</div>
@@ -656,8 +865,9 @@ function compare_college_toggel(cmpVal)
       <div class="container">
           <ul class="footer-menu">
         <li><a href="http://www.fuccha.in/about-us">About Us</a></li>
+        <!--<li><a href="http://www.fuccha.in/meet-team-fuccha">Intern with Us</a></li>-->
         <li><a href="http://www.fuccha.in/contact-us">Contact Us</a></li>
-        <li><a href="http://www.fuccha.in/disclaimer">Disclaimers</a></li>
+        <li><a href="http://www.fuccha.in/disclaimer">Disclaimer</a></li>
         <li><a href="http://www.fuccha.in/privacy-policy">Privacy Policy</a></li>
         <li><a href="http://www.fuccha.in/terms-conditions">Terms &amp; Conditions</a></li>
         <!--<li><a href="#">Advertise with Us </a></li>-->
@@ -680,13 +890,14 @@ function compare_college_toggel(cmpVal)
               <!--<img src="http://www.fuccha.in/assets/site/images/logo.png" alt="Fuccha">-->
                <!-- <span>&copy; Copyright <a href="#">Fuccha.in</a></span> -->
             </p>
-            <p class="paddingtop10">© 2016 Fuccha- Voice of YOUth! <span class="red">♥</span> Proudly Made in India</p>
+            <p class="paddingtop10">© 2017 Fuccha- Voice of YOUth! <span class="red">♥</span> Proudly Made in India</p>
         </div>
     </div>
     <div class="navbar navbar-inverse navbar-fixed-bottom">
         <div class="container">
              <div class="navbar-collapse collapse" id="cambuzz">
                 <ul class="nav navbar-nav">
+                <li><a href="http://www.fuccha.in/delhi-university">Delhi University</a></li>
                 <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.fuccha.in/category/cambuzz">CamBuzz<i class="caret"></i></a>
             <ul class="dropdown-menu">
         <li><a href="http://www.fuccha.in/category/cambuzz">CamBuzz</a></li>
@@ -698,71 +909,79 @@ function compare_college_toggel(cmpVal)
               <li><a href="http://www.fuccha.in/category/socio-political">Socio Political</a></li>
             </ul>
           </li>
-                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.fuccha.in/category/admissions">Admissions<i class="caret"></i></a>
+                   <!--  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.fuccha.in/category/admissions">Admissions<i class="caret"></i></a>
                         <ul class="dropdown-menu">
                                 <li><a href="http://www.fuccha.in/tools/b-school-ranking/top-mba-colleges-india">Top MBA College</a></li>
                                 <li><a href="http://www.fuccha.in/tools/b-school-ranking/top-engineering-colleges-india">Top Engineering Colleges</a></li>
                                 <!-- <li><a href="http://www.fuccha.in/top-universities">Top 100 Universities</a></li> -->
-                        </ul>
-                    </li>
+                        <!--</ul>
+                    </li> -->
+
                     <li><a href="http://www.fuccha.in/opinion">APNA ADDA</a></li>
                     <li><a href="http://www.fuccha.in/event">Events/Fests</a></li>
             <li>              <a href="#" data-toggle="modal" data-target="#myModal">Login</a>
                       </li>
                    <!-- <li><a href="#">More</a></li> -->
                 </ul>
-                <form class="input-group" action="http://www.fuccha.in/search" method="post" name="search_form">
-              <input class="form-control" type="search" name="search_term" id="search_term" placeholder="Search FUCCHA">
-              <span class="input-group-btn">
-                <button class="btn" type="button">
-                            <i class="fa fa-search"></i>
-                      </button>
-              </span>
-          </form>
+               
             </div>
             <div class="navbar-collapse collapse" id="education">
                 <ul class="nav navbar-nav">
                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.fuccha.in/category/admissions">Admissions<i class="caret"></i></a>
                         <ul class="dropdown-menu">
-                                <li><a href="http://www.fuccha.in/tools/b-school-ranking/top-mba-colleges-india">Top MBA College</a></li>
-                                <li><a href="http://www.fuccha.in/tools/b-school-ranking/top-engineering-colleges-india">Top Engineering Colleges</a></li>
+                                <li><a href="http://www.fuccha.in/tools/b-school-ranking/top-mba-colleges-india">MBA</a></li>
+                                <li><a href="http://www.fuccha.in/tools/b-school-ranking/top-engineering-colleges-india">Engineering</a></li>
                                 <!-- <li><a href="http://www.fuccha.in/top-universities">Top 100 Universities</a></li> -->
                         </ul>
                     </li>
-                  <li><a href="http://www.fuccha.in/tools/cat-percentiler/step-1">CAT Percentiler</a></li>
+                  <!-- <li><a href="">CAT Percentiler</a></li> -->
+                  <li><a href="http://www.fuccha.in/tools/xat-score-calculator/step-1">XAT Percentiler</a></li>
                     <li><a href="http://www.fuccha.in/tools/b-school-ranking/top-mba-colleges-india">B-School Rankings</a></li>
                     <li><a href="http://www.fuccha.in/tools/college-mba-compare">Compare MBA Colleges</a></li>
-                    <li><a href="http://www.fuccha.in/tools/cat-2016-helpline">CAT 2016 Helpline</a></li>
+                    <li><a href="http://www.fuccha.in/tools/cat-2016-helpline">Admission Helpline 2017</a></li>
                     <!--<li><a href="http://www.fuccha.in/cat-2016-analysis-and-cutoffs-slot-1">CAT 2016 Analysis & Cutoff Slot 1</a></li>-->
                     <li><a href="http://www.fuccha.in/cat-2016-analysis-and-cutoffs-slot-2">CAT 2016 Analysis &amp; Cutoff Slot 2</a></li>
                     <!-- <li><a href="http://www.fuccha.in/study-abroad">Study Abroad</a></li> -->
           <li>              <a href="#" data-toggle="modal" data-target="#myModal">Login</a>
                       </li>
                 </ul>
-                <form class="input-group" action="http://www.fuccha.in/search" method="post" name="search_form">
+               
+            </div>
+             <div class="navbar-collapse collapse" id="search_mobile">
+                 <form class="input-group" action="http://www.fuccha.in/search" method="post" name="search_form">
               <input class="form-control" type="search" name="search_term" id="search_term" placeholder="Search FUCCHA">
               <span class="input-group-btn">
-                <button class="btn" type="button">
+               <!--  <button class="btn" type="button">
                             <i class="fa fa-search"></i>
-                      </button>
+                      </button> -->
+                        <input type="submit" class="btn" value="">
+                        <i class="fa fa-search"></i>
+                      
               </span>
           </form>
             </div>
-            <div class="navbar-header">
+              <div class="navbar-header">
                 <ul>
                   <li>
-                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#cambuzz">
-                      Cambuzz
+                      <button id="toggleOne" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#cambuzz">
+                        <img src="http://www.fuccha.in/assets/site/images/icon_cambuzz.png" alt="">
+                      <span>Cambuzz</span>
                     </button>
                     </li>
                     <li>
-                      <button type="button" class="navbar-toggle edu_btn" data-toggle="collapse" data-target="#education">
-                      Admission
+                      <button id="toggleTwo" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#education">
+                        <img src="http://www.fuccha.in/assets/site/images/icon_admission.png" alt="">
+                      <span>Education</span>
+                    </button>
+                    </li>
+                    <li>
+                      <button id="toggleThree" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#search_mobile">
+                        <img src="http://www.fuccha.in/assets/site/images/icon_search.png" alt="">
+                      <span>Search</span>
                     </button>
                     </li>
                 </ul>
             </div>
-
         </div>
     </div>
 </footer>
@@ -820,7 +1039,108 @@ function compare_college_toggel(cmpVal)
         </div>
       </div>
     </div>
+    
+<div id="otp88" class="modal otp_modal" data-easein="expandIn" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+      <div class="text-center marginbottom10">
+      <p id="otp_msg88">We sent otp to your mobile number. Please check and enter OTP.</p>
+      </div>
+            <form id="b_school_step_1" class="submit_verification88" method="POST" action="http://www.fuccha.in/tools/b-school-helpline/step-verification/">
+              <div class="form-group">
+                  <input type="text" class="form-control" maxlength="4" name="verify_code" value="" id="verify_code" required="">
+                </div>
+                <input type="submit" value="Submit" class="btn">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div> 
+
+<div id="successReview" class="modal otp_modal" data-easein="expandIn" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+      <div class="text-center marginbottom10">
+      <p id="successR">You have successfully reviewed this college!</p>
+      </div>
+          </div>
+        </div>
+      </div>
+    </div>
   
+<div id="otp888" class="modal otp_modal" data-easein="expandIn" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+      <div class="text-center marginbottom10">
+      <p id="otp_msg888">We sent otp to your mobile number. Please check and enter OTP.</p>
+      </div>
+            <form id="school_step_1" class="submit_verification888" method="POST" action="http://www.fuccha.in/tools/online-mba/step-verification/">
+              <div class="form-group">
+                  <input type="text" class="form-control" maxlength="4" name="verify_code" value="" id="verify_code" required="">
+                </div>
+                <input type="submit" value="Submit" class="btn">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  <div id="otpjbs" class="modal otp_modal" data-easein="expandIn" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+      <div class="text-center marginbottom10">
+      <p id="otp_msgjbs">We sent otp to your mobile number. Please check and enter OTP.</p>
+      </div>
+            <form id="school_step_1" class="submit_verificationjbs" method="POST" action="http://www.fuccha.in/jaypeebschool/step-verification/">
+              <div class="form-group">
+                  <input type="text" class="form-control" maxlength="4" name="verify_code" value="" id="verify_code" required="">
+                </div>
+                <input type="submit" value="Submit" class="btn">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  <div id="otpniu" class="modal otp_modal" data-easein="expandIn" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+      <div class="text-center marginbottom10">
+      <p id="otp_msgniu">We sent otp to your mobile number. Please check and enter OTP.</p>
+      </div>
+            <form id="niu_school_step_1" class="submit_verificationniu" method="POST" action="http://www.fuccha.in/noida-international-university/step-verification/">
+              <div class="form-group">
+                  <input type="text" class="form-control" maxlength="4" name="verify_code" value="" id="verify_code" required="">
+                </div>
+                <input type="submit" value="Submit" class="btn">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+<div id="otpUni" class="modal otp_modal" data-easein="expandIn" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+      <div class="text-center marginbottom10">
+      <p id="otp_uni">We sent otp to your mobile number. Please check and enter OTP.</p>
+      </div>
+            <form id="university_form_verification" class="submit_verification_university" method="POST" action="http://www.fuccha.in/page/uniFormVerification">
+              <div class="form-group">
+                  <input type="text" class="form-control" maxlength="4" name="university_verify_code" value="" id="university_verify_code" required="">
+                </div>
+                <input type="submit" value="Submit" class="btn">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
   
 <div id="otp3" class="modal otp_modal" data-easein="expandIn" aria-hidden="true">
       <div class="modal-dialog">
@@ -857,10 +1177,48 @@ function compare_college_toggel(cmpVal)
         </div>
       </div>
     </div>
-  
+
+	<div id="otp5" class="modal otp_modal" data-easein="expandIn" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+      <div class="text-center marginbottom10">
+      <p id="otp_msg_xat">We sent otp to your mobile number. Please check and enter OTP.</p>
+      </div>
+            <form id="xat_calculator_verification" class="submit_verification_xat" method="POST" action="http://www.fuccha.in/tools/xat-calculator/step-verification">
+              <div class="form-group">
+                  <input type="text" class="form-control" maxlength="4" name="xat_verify_code" value="" id="xat_verify_code" required="">
+                </div>
+                <input type="submit" value="Submit" class="btn">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+	<div id="otp6" class="modal otp_modal" data-easein="expandIn" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+      <div class="text-center marginbottom10">
+      <p id="otp_msg_xat_score">We sent otp to your mobile number. Please check and enter OTP.</p>
+      </div>
+            <form id="xat_score_calculator_verification" class="submit_verification_xat_score" method="POST" action="http://www.fuccha.in/tools/xat-score-calculator/step-verification">
+              <div class="form-group">
+                  <input type="text" class="form-control" maxlength="4" name="xat_score_verify_code" value="" id="xat_score_verify_code" required="">
+                </div>
+                <input type="submit" value="Submit" class="btn">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
 <a href="#otp3" data-toggle="modal" id="otp_popup3" style="display:none;">Call Predictor</a>
 
 <script type="text/javascript" src="http://www.fuccha.in/assets/site/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://www.fuccha.in/assets/site/js/bootstrap-datepicker.js"></script>
 
 <script type="text/javascript" src="http://www.fuccha.in/assets/site/js/owl.carousel.js" defer=""></script>
 <script type="text/javascript" src="http://www.fuccha.in/assets/site/js/jquery.bxslider.js" defer=""></script>
@@ -876,6 +1234,12 @@ function compare_college_toggel(cmpVal)
 
 <script type="text/javascript" src="http://www.fuccha.in/assets/site/js/bootstrap-datetimepicker.js"></script>
 
+<script type="text/javascript" src="http://www.fuccha.in/assets/site/js/jQuery-plugin-progressbar.js"></script>
+<script type="text/javascript" src="http://www.fuccha.in/assets/site/js/jquery.flexslider.js"></script>
+
+
+<script type="text/javascript" src="http://www.fuccha.in/assets/site/js/jquery.nav.js"></script>
+
 <script type="text/javascript">
     $('.form_datetime').datetimepicker({
         //language:  'fr',
@@ -888,7 +1252,13 @@ function compare_college_toggel(cmpVal)
         showMeridian: 1
     });
   
-  
+  $('.date').datepicker({
+      format: "yyyy",
+      autoclose: true,
+      changeYear: true,
+      todayHighlight: true,
+        changeYear: true
+    });
   
 </script>
 
@@ -981,6 +1351,7 @@ function compare_college_toggel(cmpVal)
                                                                                             <option value="2016">2016</option>
                                                                                             <option value="2017">2017</option>
                                                                                             <option value="2018">2018</option>
+                                                                                            <option value="2019">2019</option>
                                             
                                         </select>
                                         <!--<input type="text" class="form-control" name="s_graduation_year" value="" placeholder="Enter graduation year" id="s_graduation_year" required>-->
@@ -1000,6 +1371,425 @@ function compare_college_toggel(cmpVal)
                                                                                                 <option value="9">B.Tech</option>
                                                                                                 <option value="10">M.Tech</option>
                                                                                                 <option value="11">Others</option>
+                                                                                                <option value="12">BBM</option>
+                                                                                                <option value="13">Tourism Management</option>
+                                                                                                <option value="14">MCA</option>
+                                                                                                <option value="15">Ph.D</option>
+                                                                                                <option value="16">Banking</option>
+                                                                                                <option value="17">Hotel Management</option>
+                                                                                                <option value="18">Hospital Management</option>
+                                                                                                <option value="19">BCA</option>
+                                                                                                <option value="20">Diploma</option>
+                                                                                                <option value="21">Accounting</option>
+                                                                                                <option value="22">Finance</option>
+                                                                                                <option value="23">LAW</option>
+                                                                                                <option value="24">Arts</option>
+                                                                                                <option value="25">Media, Films &amp; Mass Communication</option>
+                                                                                                <option value="26">Animation, Visual Effects, Gaming &amp; Comics (AVGC)</option>
+                                                                                                <option value="27">MSC</option>
+                                                                                                <option value="28">Teaching</option>
+                                                                                                <option value="29">Finance</option>
+                                                                                                <option value="30">Distance MBA</option>
+                                                                                                <option value="31">Executive MBA</option>
+                                                                                                <option value="32">Distance MBA</option>
+                                                                                                <option value="33">Certifications</option>
+                                                                                                <option value="34">Supply Chain Management</option>
+                                                                                                <option value="35">PGPM+MBA</option>
+                                                                                                <option value="36">B.E/B.tech</option>
+                                                                                                <option value="37">M.E/M.Tech</option>
+                                                                                                <option value="38">Hotel Management</option>
+                                                                                                <option value="39">Bachelor of pharmacy</option>
+                                                                                                <option value="40">Master Of Pharmacy</option>
+                                                                                                <option value="41">Bachelor of Computer Application</option>
+                                                                                                <option value="42">B.Arch.</option>
+                                                                                                <option value="43">Part Time MBA</option>
+                                                                                                <option value="44">Executive Post Graduate Diploma in Management</option>
+                                                                                                <option value="45">Post Graduate Diploma in Management</option>
+                                                                                                <option value="46">Insurance</option>
+                                                                                                <option value="47">Commerce</option>
+                                                                                                <option value="48">Certifications</option>
+                                                                                                <option value="49">Store Management</option>
+                                                                                                <option value="50">PGDM</option>
+                                                                                                <option value="51">Integrated B.tech+MBA</option>
+                                                                                                <option value="52">Architecture</option>
+                                                                                                <option value="53">Integrated MBA</option>
+                                                                                                <option value="54">M.Arch</option>
+                                                                                                <option value="55">M.Arch Housing</option>
+                                                                                                <option value="56">M.Arch (Evening)</option>
+                                                                                                <option value="57">Aircraft Maintenence Engineering</option>
+                                                                                                <option value="58">B.tech + M.tech</option>
+                                                                                                <option value="59">Aviation</option>
+                                                                                                <option value="60">Photography</option>
+                                                                                                <option value="62">Advertising &amp; PR</option>
+                                                                                                <option value="67">Accounting</option>
+                                                                                                <option value="68">Commerce</option>
+                                                                                                <option value="69">M.Com.</option>
+                                                                                                <option value="70">B.Pharma</option>
+                                                                                                <option value="71">M.Pharm</option>
+                                                                                                <option value="72">General Nursing and Midwifery</option>
+                                                                                                <option value="73">Auxillary Nurse Midwife</option>
+                                                                                                <option value="74">B.Sc in Biotechnology</option>
+                                                                                                <option value="75">B.Sc in Microbiology</option>
+                                                                                                <option value="76">Bachelor of Physiotherapy</option>
+                                                                                                <option value="77">Bachelor of Education</option>
+                                                                                                <option value="78">Master of Education</option>
+                                                                                                <option value="79">Supply Chain Management</option>
+                                                                                                <option value="80">Bachelor of Journalism &amp; Mass Communication</option>
+                                                                                                <option value="81">Merchandising Management</option>
+                                                                                                <option value="82">Shop Floor Management</option>
+                                                                                                <option value="83">Event Management</option>
+                                                                                                <option value="84">Securities &amp; Trading</option>
+                                                                                                <option value="85">Fellow Programme in Management</option>
+                                                                                                <option value="86">Integrated Program in Management</option>
+                                                                                                <option value="87">Fellow Programme in Management- Industry</option>
+                                                                                                <option value="88">Post Graduate Program in Management</option>
+                                                                                                <option value="89">Certificate in Business Management for Defence Officers, 6 Months</option>
+                                                                                                <option value="90">General Management Program for Executives, 1 Year</option>
+                                                                                                <option value="91">Executive Post Graduate Program in Management, 1 Year</option>
+                                                                                                <option value="92">Executive Post Graduate Certificate in Strategic Management,</option>
+                                                                                                <option value="93">Executive Post Graduate Certificate in Marketing Management, 1 Year</option>
+                                                                                                <option value="94">Executive Post Graduate Certificate in Operations Management, 1 Year</option>
+                                                                                                <option value="95">Executive Post Graduate Certificate in Financial Management, 1 Year</option>
+                                                                                                <option value="96">Executive Post Graduate Certificate in Information Technology, 1 Year</option>
+                                                                                                <option value="97">Executive Post Graduate Certificate in Human Resource Management, 1 Year</option>
+                                                                                                <option value="98">Post Graduate Programme in Management, 2 Years</option>
+                                                                                                <option value="99">Executive Post Graduate Programme in Management, 2 Years</option>
+                                                                                                <option value="100">BA</option>
+                                                                                                <option value="101">Master of Arts</option>
+                                                                                                <option value="102">BACHELOR OF PHYSIOTHERAPY</option>
+                                                                                                <option value="103">MASTER OF PHYSIOTHERAPY</option>
+                                                                                                <option value="105">B.A. B.ED. INTEGRATED</option>
+                                                                                                <option value="106">B.SC. B.ED. INTEGRATED</option>
+                                                                                                <option value="107">Bachelor of Dental Surgery</option>
+                                                                                                <option value="108">Master of Dental Surgery</option>
+                                                                                                <option value="109">Masters of Business Administration</option>
+                                                                                                <option value="110">Ph.D Program</option>
+                                                                                                <option value="111">Masters in Management Studies</option>
+                                                                                                <option value="112">Masters in Computer Application</option>
+                                                                                                <option value="113">Bachelor in Business Management Studies</option>
+                                                                                                <option value="114">Masters in Marketing Management</option>
+                                                                                                <option value="115">Masters in Financial Management</option>
+                                                                                                <option value="117">Masters in Human Resources Development Management</option>
+                                                                                                <option value="118">Bachelors in Business Adminstration</option>
+                                                                                                <option value="119">Bachelor of Engineering</option>
+                                                                                                <option value="120">Supply Chain &amp; Operations Management</option>
+                                                                                                <option value="121">PGDM in Media &amp; Communication Specialization</option>
+                                                                                                <option value="122">Executive Fellow Programme in Management</option>
+                                                                                                <option value="123">DIPLOMA IN COMPUTER ENGINEERING</option>
+                                                                                                <option value="124">DIPLOMA IN CHEMICAL ENGINEERING</option>
+                                                                                                <option value="125">DIPLOMA IN ELECTRONIC AND COMMUNICATION ENGINEERING</option>
+                                                                                                <option value="126">DIPLOMA IN ELECTRICAL ENGINEERING</option>
+                                                                                                <option value="127">DIPLOMA IN MECHANICAL ENGINEERING</option>
+                                                                                                <option value="128">DIPLOMA IN POLYMER TECHNOLOGY</option>
+                                                                                                <option value="129">B. Voc in Construction Technology</option>
+                                                                                                <option value="130">B. Voc in Refrigeration &amp; Air-Conditioning</option>
+                                                                                                <option value="131">B. Voc in Automobile</option>
+                                                                                                <option value="132">VFX Program</option>
+                                                                                                <option value="133">Triple Program in Animation</option>
+                                                                                                <option value="134">Animation Program</option>
+                                                                                                <option value="135">Graphics and Web</option>
+                                                                                                <option value="136">Game Testing</option>
+                                                                                                <option value="137">Mobile Film Making</option>
+                                                                                                <option value="138">Fashion Appreciation Suit</option>
+                                                                                                <option value="139">MCA</option>
+                                                                                                <option value="140">(Hons) in Microbiology</option>
+                                                                                                <option value="141">Microbiology, Information Technology</option>
+                                                                                                <option value="142">Biotechnology, Hotel Management</option>
+                                                                                                <option value="143">Nutrition and Dietetics</option>
+                                                                                                <option value="144">Food Technology</option>
+                                                                                                <option value="145">Food Technology</option>
+                                                                                                <option value="146">MCA</option>
+                                                                                                <option value="147">MCA</option>
+                                                                                                <option value="148">Physician Assistant</option>
+                                                                                                <option value="149">(Hons.) in Physics</option>
+                                                                                                <option value="150">Biotechnology (Hons.)</option>
+                                                                                                <option value="151">Computer Science</option>
+                                                                                                <option value="152">Information Technology (Lateral Entry)</option>
+                                                                                                <option value="153">Mathematics (Hons.)</option>
+                                                                                                <option value="154">Chemistry (Hons)</option>
+                                                                                                <option value="155">Forensic Science</option>
+                                                                                                <option value="156">Home Science</option>
+                                                                                                <option value="157">(Hons.) in Botany</option>
+                                                                                                <option value="158">Electrical Engineering</option>
+                                                                                                <option value="159">Mechanical Engineering</option>
+                                                                                                <option value="160">Electronics and Communication Engineering</option>
+                                                                                                <option value="161">Computer Science and Engineering</option>
+                                                                                                <option value="162">Information Technology</option>
+                                                                                                <option value="163">Civil Engineering</option>
+                                                                                                <option value="164">Civil Engineering</option>
+                                                                                                <option value="165">Automobile Engineering</option>
+                                                                                                <option value="166">M.Phil. in Economics</option>
+                                                                                                <option value="167">M.Phil. in Commerce</option>
+                                                                                                <option value="168">M.Phil. in English</option>
+                                                                                                <option value="169">M.Phil. in Punjabi</option>
+                                                                                                <option value="170">M.Phil. in Music (Vocal and Instrumental)</option>
+                                                                                                <option value="171">M.Phil. in Hindi</option>
+                                                                                                <option value="172">M.Phil. in Physical Education</option>
+                                                                                                <option value="173">M.Phil. in History</option>
+                                                                                                <option value="174">M.Phil. in Education</option>
+                                                                                                <option value="175">Master of Library and Information Science</option>
+                                                                                                <option value="176">M.A. in Education</option>
+                                                                                                <option value="177">M.A. in Punjabi,</option>
+                                                                                                <option value="178">M.A. in History,</option>
+                                                                                                <option value="179">(Hons) in Microbiology</option>
+                                                                                                <option value="180">M.A. in Punjabi</option>
+                                                                                                <option value="181">M.A. in History</option>
+                                                                                                <option value="182">M.A. in Political Science</option>
+                                                                                                <option value="183">M.A. in Education (Leadership and Management)</option>
+                                                                                                <option value="184">M.A. in Applied Psychology</option>
+                                                                                                <option value="185">M.A. in Psychology,</option>
+                                                                                                <option value="186">Master of Fine Arts, M.A. in Fine Arts</option>
+                                                                                                <option value="187">M.A. in Performing Arts (Theatre and Television)</option>
+                                                                                                <option value="188">M.A. in Performing Arts (Music)</option>
+                                                                                                <option value="189">M.A. in Counselling</option>
+                                                                                                <option value="190">M.A. in Clinical Psychology</option>
+                                                                                                <option value="191">B.A. in Fine Arts</option>
+                                                                                                <option value="192">B.A. (Professional)</option>
+                                                                                                <option value="193">B.A. in Performing Arts</option>
+                                                                                                <option value="194">B.Sc. in Economics (Hons.)</option>
+                                                                                                <option value="195">B.A. (Hons)</option>
+                                                                                                <option value="196">B.A. in Liberal Arts</option>
+                                                                                                <option value="197">LL.B.</option>
+                                                                                                <option value="198">LL.M.</option>
+                                                                                                <option value="199">B.A. LL.B.(Hons.)</option>
+                                                                                                <option value="200">B.Com. LL.B.(Hons)</option>
+                                                                                                <option value="201">B.B.A. LL.B. (Hons)</option>
+                                                                                                <option value="202">BBA (Lateral Entry)</option>
+                                                                                                <option value="203">BBA in Information Technology</option>
+                                                                                                <option value="204">BBA (Hons.),</option>
+                                                                                                <option value="205">BBA in Financial Markets,</option>
+                                                                                                <option value="206">BBA (Lateral Entry)</option>
+                                                                                                <option value="207">BBA in Information Technology</option>
+                                                                                                <option value="208">BBA (Hons.),</option>
+                                                                                                <option value="209">BBA in Financial Markets,</option>
+                                                                                                <option value="210">Bachelor of Business Administration</option>
+                                                                                                <option value="211">BBA in Agri-Business Management</option>
+                                                                                                <option value="212">BBA in Oil and Gas Management</option>
+                                                                                                <option value="213">BBA in E-Commerce and Digital Marketing</option>
+                                                                                                <option value="214">B.B.A.</option>
+                                                                                                <option value="215">LL.B. (Hons)</option>
+                                                                                                <option value="216">BBA+ MBA (Dual Degree)</option>
+                                                                                                <option value="217">BBA (Hons.) + MBA (Dual Degree)</option>
+                                                                                                <option value="218">Master of Business Administration</option>
+                                                                                                <option value="219">MBA in Hospital and Healthcare Management</option>
+                                                                                                <option value="220">Diploma in Yoga</option>
+                                                                                                <option value="221">B.Design in Interior and Furniture</option>
+                                                                                                <option value="222">Diploma in Architectural Assistantship + B.Design in Interior and Furniture (Dual Programme)</option>
+                                                                                                <option value="223">B.Sc. in Design (Interior and Furniture)</option>
+                                                                                                <option value="224">B.Sc. in Design (Interior and Furniture) (Lateral Entry)</option>
+                                                                                                <option value="225">M.Sc. in Design (Interior and Furniture)</option>
+                                                                                                <option value="226">B.Design in Interior and Furniture (Lateral Entry)</option>
+                                                                                                <option value="227">B.Sc. in Design (Interior and Furniture) (Lateral Entry)</option>
+                                                                                                <option value="228">M.Sc. in Design (Interior and Furniture)</option>
+                                                                                                <option value="229">B.Design in Interior and Furniture (Lateral Entry)</option>
+                                                                                                <option value="230">M.Sc in Design (Interior and Furniture)</option>
+                                                                                                <option value="231">B.Design in Fashion</option>
+                                                                                                <option value="232">B.Sc. in Design (Fashion)</option>
+                                                                                                <option value="233">Information Technology</option>
+                                                                                                <option value="234">B.Sc in Design (Fashion) (Lateral Entry)</option>
+                                                                                                <option value="235">M.Sc. Design in Fashion</option>
+                                                                                                <option value="236">Electrical Engineering</option>
+                                                                                                <option value="237">M.Design in Fashion</option>
+                                                                                                <option value="238">Diploma in Fashion Design</option>
+                                                                                                <option value="239">Electronics and Communication Engineering</option>
+                                                                                                <option value="240">Computer Science and Engineering</option>
+                                                                                                <option value="241">Diploma + B.Design in Fashion (Dual Programme)</option>
+                                                                                                <option value="242">Civil Engineering</option>
+                                                                                                <option value="243">BBA in Information Technology</option>
+                                                                                                <option value="244">BCA (Hons.)</option>
+                                                                                                <option value="245">B.Sc. in Information Technology</option>
+                                                                                                <option value="246">B.Sc. in Computer Science</option>
+                                                                                                <option value="247">Bachelor of Computer Application</option>
+                                                                                                <option value="248">Biotechnology</option>
+                                                                                                <option value="249">Structural Engineering</option>
+                                                                                                <option value="250">Transportation Engineering</option>
+                                                                                                <option value="251">Power Systems</option>
+                                                                                                <option value="252">Automobile Engineering</option>
+                                                                                                <option value="253">VLSI Design, Information Security</option>
+                                                                                                <option value="254">Thermal Engineering</option>
+                                                                                                <option value="255">Manufacturing Engineering</option>
+                                                                                                <option value="256">BCA (Hons.) + MCA (Hons.) (Dual Degree)</option>
+                                                                                                <option value="257">BCA + MCA (Dual Degree)</option>
+                                                                                                <option value="258">Master of Business Administration</option>
+                                                                                                <option value="259">BCA + MCA (Integrated),</option>
+                                                                                                <option value="260">MBA in Tourism and Hospitality</option>
+                                                                                                <option value="261">Diploma in Food Production</option>
+                                                                                                <option value="262">Master of Business Administration (Hons.)</option>
+                                                                                                <option value="263">Diploma in Airline</option>
+                                                                                                <option value="264">Cabin Crew and Hospitality</option>
+                                                                                                <option value="265">MBA in Hospital and Healthcare Management</option>
+                                                                                                <option value="266">M.Sc. in Hotel Management (Lateral Entry)</option>
+                                                                                                <option value="267">MBA in International Business</option>
+                                                                                                <option value="268">Diploma in Bakery and Confectionery</option>
+                                                                                                <option value="269">MBA in Information Technology</option>
+                                                                                                <option value="270">M.Sc. in Hotel Management,</option>
+                                                                                                <option value="271">MBA in Financial Markets</option>
+                                                                                                <option value="272">B.Sc. in Hotel Management (Lateral Entry),</option>
+                                                                                                <option value="273">MBA in Supply Chain and Logistics</option>
+                                                                                                <option value="274">B.Sc. in Airlines</option>
+                                                                                                <option value="275">MBA in Agri-Business Management</option>
+                                                                                                <option value="276">Tourism and Hospitality (Lateral Entry),</option>
+                                                                                                <option value="277">MBA in Fitness and Sports Management</option>
+                                                                                                <option value="278">B.Sc in Airlines</option>
+                                                                                                <option value="279">Tourism and Hospitality,</option>
+                                                                                                <option value="280">MBA in Financial Engineering</option>
+                                                                                                <option value="281">B.Sc. in Hotel Management</option>
+                                                                                                <option value="282">MBA in Banking and Insurance</option>
+                                                                                                <option value="283">Bachelor of Hotel Management and Catering Technology (Lateral Entry)</option>
+                                                                                                <option value="284">MBA in Banking and Insurance</option>
+                                                                                                <option value="285">MBA in E-Commerce</option>
+                                                                                                <option value="286">B.Com. in Management Accounting and International Finance</option>
+                                                                                                <option value="287">MBA in Business Analytics</option>
+                                                                                                <option value="288">B.Com.</option>
+                                                                                                <option value="289">B.Com. (Hons)</option>
+                                                                                                <option value="290">MBA in Oil and Gas Management</option>
+                                                                                                <option value="291">B.Com. (Hons) + MBA (Dual Degree)</option>
+                                                                                                <option value="292">B.Com (Professional) + MBA (Dual Degree)</option>
+                                                                                                <option value="293">Diploma in Business Administration</option>
+                                                                                                <option value="294">B.Com. LL.B.(Hons)</option>
+                                                                                                <option value="295">M.Com. (Hons.)</option>
+                                                                                                <option value="296">Ph.D (Part Time)</option>
+                                                                                                <option value="297">M.Com.</option>
+                                                                                                <option value="298">MCA (Hons) (Lateral Entry)</option>
+                                                                                                <option value="299">M.Sc. in Design (Film and TV Production)</option>
+                                                                                                <option value="300">M.Sc. in Computer Science</option>
+                                                                                                <option value="301">B.Sc. in Design (Film and TV Production)</option>
+                                                                                                <option value="302">M.Sc. in Information Technology</option>
+                                                                                                <option value="303">B.Design in Film and TV Production</option>
+                                                                                                <option value="304">Master of Computer Application (Lateral Entry)</option>
+                                                                                                <option value="305">Diploma in Film Making</option>
+                                                                                                <option value="306">B.A. in Journalism and Mass Communication</option>
+                                                                                                <option value="307">Master of Computer Application (Hons.)</option>
+                                                                                                <option value="308">M.A. in Journalism and Mass Communication</option>
+                                                                                                <option value="309">Master of Computer Application</option>
+                                                                                                <option value="310">B.A. in Journalism and Mass Communication</option>
+                                                                                                <option value="311">M.A. in Journalism and Mass Communication</option>
+                                                                                                <option value="312">B.Design in Multimedia</option>
+                                                                                                <option value="313">B.Sc. in Multimedia</option>
+                                                                                                <option value="314">Diploma in Media Studies</option>
+                                                                                                <option value="315">B.Sc. in Airlines</option>
+                                                                                                <option value="316">M.Sc. in Design (Multimedia)</option>
+                                                                                                <option value="317">Tourism and Hospitality (Lateral Entry)</option>
+                                                                                                <option value="318">M.Design in Multimedia</option>
+                                                                                                <option value="319">MBA in Tourism and Hospitality</option>
+                                                                                                <option value="320">Diploma in Multimedia</option>
+                                                                                                <option value="321">B.Sc. in Design (Graphics)</option>
+                                                                                                <option value="322">B.Design in Graphics</option>
+                                                                                                <option value="323">B.Sc. Design in Gaming</option>
+                                                                                                <option value="324">M.Phil. in Computer Science,</option>
+                                                                                                <option value="325">Psychology</option>
+                                                                                                <option value="326">Botany</option>
+                                                                                                <option value="327">Chemistry</option>
+                                                                                                <option value="328">Physics</option>
+                                                                                                <option value="329">Zoology</option>
+                                                                                                <option value="330">Zoology</option>
+                                                                                                <option value="331">Biotechnology</option>
+                                                                                                <option value="332">Biotechnology</option>
+                                                                                                <option value="333">Microbiology</option>
+                                                                                                <option value="334">Mathematics,</option>
+                                                                                                <option value="335">B.Tech</option>
+                                                                                                <option value="336">M.Tech</option>
+                                                                                                <option value="337">M.B.A</option>
+                                                                                                <option value="338">Bachelor of Hotel Management and Catering Technology</option>
+                                                                                                <option value="339">Master of Hotel Management and Catering Technology</option>
+                                                                                                <option value="340">Certificate in Food Production Cookery</option>
+                                                                                                <option value="341">Master of Hotel Management and Catering Technology</option>
+                                                                                                <option value="342">B.TECH IN MARINE ENGINEERING</option>
+                                                                                                <option value="343">IMU-CET COACHING CLASSES</option>
+                                                                                                <option value="344">MERCHANT NAVY COURSES</option>
+                                                                                                <option value="345">DIPLOMA IN NAUTICAL SCIENCE (DNS)</option>
+                                                                                                <option value="346">GRADUATE MECHANICAL ENGINEER (GME) DIPLOMA</option>
+                                                                                                <option value="347">POST SEA COURSES(STCW, VALUE ADDED)</option>
+                                                                                                <option value="348">Graduate Programme in Construction Quantity Surveying</option>
+                                                                                                <option value="349">Post Graduate Programme in Construction Management (PGP CM)</option>
+                                                                                                <option value="353">Distance Education</option>
+                                                                                                <option value="354">diploma</option>
+                                                                                                <option value="355">Polytechnic</option>
+                                                                                                <option value="356">DIPLOMA</option>
+                                                                                                <option value="357">B.Sc. (Aeronautics)</option>
+                                                                                                <option value="358">B.Sc.(AME)</option>
+                                                                                                <option value="359">Commercial Pilot Licence</option>
+                                                                                                <option value="360">Private Pilot Licence</option>
+                                                                                                <option value="361">MASTER OF MANAGEMENT STUDIES (M.M.S.)</option>
+                                                                                                <option value="362">PART TIME MASTERS DEGREE COURSE</option>
+                                                                                                <option value="363">Commercial Pilot Licence</option>
+                                                                                                <option value="364">B.Sc.(AME)</option>
+                                                                                                <option value="365">Full Time Programmes</option>
+                                                                                                <option value="366">Part Time Programmes</option>
+                                                                                                <option value="368">Distance Education(in Bachelor Programmes)</option>
+                                                                                                <option value="369">Master of Commerce (M.Com)</option>
+                                                                                                <option value="370">Master of Science - Computer Science (M.Sc)</option>
+                                                                                                <option value="371">B.Sc (Computer Science)</option>
+                                                                                                <option value="372">Bachelor of Commerce (B.Com)</option>
+                                                                                                <option value="373">Diploma in Airport Management &amp;  Customer Care (DAMCC)</option>
+                                                                                                <option value="374">Diploma in Aviation, Hospitality and Travel Management (DAHTM)</option>
+                                                                                                <option value="375">Diploma in Airport Ground Handling (DAGH)</option>
+                                                                                                <option value="376">Diploma in Retail &amp; Event Management (DREM)</option>
+                                                                                                <option value="377">Diploma in Hospitality &amp; Travel Tourism (DHTT)</option>
+                                                                                                <option value="378">Diploma in Cargo &amp; Logistics (DCL)</option>
+                                                                                                <option value="379">Diploma Engineering</option>
+                                                                                                <option value="380">Mechanical Engineering</option>
+                                                                                                <option value="381">Electronics &amp; Telecommunication Engineering</option>
+                                                                                                <option value="382">Information &amp; Technology</option>
+                                                                                                <option value="383">Master of Engineering (Structural Engineering)</option>
+                                                                                                <option value="384">Bachelor of Science (IT)</option>
+                                                                                                <option value="385">Master of Science (Information Tech.)</option>
+                                                                                                <option value="386">POST GRADUATE DIPLOMA IN COMPUTER APPLICATIONS [PGDCA]</option>
+                                                                                                <option value="387">Pharmacology Pharmaceutical Sciences</option>
+                                                                                                <option value="388">Allied Health Sciences</option>
+                                                                                                <option value="389">Medical Genetics</option>
+                                                                                                <option value="390">P.G.D.C.A. ( Postt Graduate Diploma In Computer Applications</option>
+                                                                                                <option value="391">Diploma in Printing Technology</option>
+                                                                                                <option value="392">Electronics &amp; Communication Engg</option>
+                                                                                                <option value="393">Modern Office Practice(Hindi)</option>
+                                                                                                <option value="394">Modern Office Practice(English)</option>
+                                                                                                <option value="395">Architecture Assistantship</option>
+                                                                                                <option value="396">Interior Design</option>
+                                                                                                <option value="397">GRADUATE MARINE ENGINEERING</option>
+                                                                                                <option value="398">BACHELOR OF SCIENCE [B.SC] (NAUTICAL SCIENCE)</option>
+                                                                                                <option value="399">DIPLOMA IN NAUTICAL SCIENCE</option>
+                                                                                                <option value="400">CERTIFICATE COURSE IN MARITIME CATERING</option>
+                                                                                                <option value="401">B.Tech (Mechatronics)</option>
+                                                                                                <option value="402">B.Tech (Civil)</option>
+                                                                                                <option value="403">B. Tech (Aircraft Maintenance Engineering)</option>
+                                                                                                <option value="404">Bachelor of Technology (Electronics &amp; Telecommunication Engineering)</option>
+                                                                                                <option value="405">Bachelor of Technology (Aeronautical Engineering)</option>
+                                                                                                <option value="406">FELLOW PROGRAMME IN MANAGEMENT [FPM]</option>
+                                                                                                <option value="407">POST GRADUATE DIPLOMA</option>
+                                                                                                <option value="408">Aeronautical Engineering</option>
+                                                                                                <option value="409">Mechanical Engineering</option>
+                                                                                                <option value="410">Civil Engineering</option>
+                                                                                                <option value="411">Computer Science Engineering</option>
+                                                                                                <option value="412">M.Sc</option>
+                                                                                                <option value="413">BACHELOR OF MASS MEDIA [B.M.M.]</option>
+                                                                                                <option value="414">M.A</option>
+                                                                                                <option value="415">MASTER OF ARCHITECTURE [M.ARCH]</option>
+                                                                                                <option value="416">MASTER OF MANAGEMENT STUDIES (MANAGEMENT STUDIES)</option>
+                                                                                                <option value="417">PH.D. (COMPUTER ENGINEERING)</option>
+                                                                                                <option value="418">BACHELOR OF ENGINEERING [B.E] {LATERAL}</option>
+                                                                                                <option value="419">Polytechnic</option>
+                                                                                                <option value="420">ITI</option>
+                                                                                                <option value="421">PMKVY</option>
+                                                                                                <option value="422">BACHELOR OF MANAGEMENT STUDIES [BMS]</option>
+                                                                                                <option value="423">POST GRADUATE CERTIFICATE IN DATA SCIENCE</option>
+                                                                                                <option value="424">MASTER OF ARTS [MA] (ANCIENT INDIAN HISTORY AND ARCHAEOLOGY)</option>
+                                                                                                <option value="425">DIPLOMA IN MEDICAL JURISPRUDENCE AND FORENSIC SCIENCE</option>
+                                                                                                <option value="426">CERTIFICATE PROGRAMME IN GEMMOLOGY</option>
+                                                                                                <option value="427">DIPLOMA</option>
+                                                                                                <option value="428">BACHELOR OF ENGINEERING [BE] (INDUSTRIAL ENGINEERING)</option>
+                                                                                                <option value="429">BACHELOR OF TECHNOLOGY [B.TECH] (MARINE ENGINEERING)</option>
+                                                                                                <option value="430">BACHELOR OF SCIENCE [B.SC] (NAUTICAL SCIENCE)</option>
+                                                                                                <option value="431">CERTIFICATE COURSE IN BUSINESS ANALYTICS</option>
+                                                                                                <option value="432">BACHELOR OF MANAGEMENT STUDIES [BMS]</option>
+                                                                                                <option value="433">BACHELOR OF MASS MEDIA [B.M.M.]</option>
+                                                                                                <option value="434">Diploma In Pharmacy</option>
+                                                                                                <option value="435">Diploma In Medical Laboratory Technology</option>
+                                                                                                <option value="436">Diploma In Food Technology</option>
+                                                                                                <option value="437">Diploma in Interior Designing</option>
+                                                                                                <option value="438">Diploma in Nautical Science (DNS)</option>
+                                                                                                <option value="439">CERTIFICATION</option>
+                                                                                                <option value="440">BACHELOR OF FINE ARTS [B.F.A]</option>
+                                                                                                <option value="441">BACHELOR OF DESIGN [B.DES]</option>
                                                                                         </select>
                                     </div>
 
@@ -1179,7 +1969,7 @@ function compare_college_toggel(cmpVal)
   <div class=row>
   
     <div class="col-sm-6 marginbottom10">
-      <a rel="nofollow" href="https://www.facebook.com/dialog/oauth?client_id=1775474552692832&redirect_uri=http%3A%2F%2Fwww.fuccha.in%2Fwelcome%2Ffacebook_login&state=96a7c838197a2c06f3e55853bc27b69c&sdk=php-sdk-3.2.3&scope=email" title="Connect with Facebook">
+      <a rel="nofollow" href="" title="Connect with Facebook">
 <button class="form-control btn btn-primary">Sign Up With Facebook</button>
 </a>
 <br/>
@@ -1290,7 +2080,7 @@ For more info, please see <a target="_blank" href="http://www.youthkiawaaz.com/t
           <div class="modal-body">
               <div class="login_wrap">
                 <ul>
-                      <li onclick="registerTrackFB()" ;=""><a href="https://www.facebook.com/dialog/oauth?client_id=1775474552692832&amp;redirect_uri=http%3A%2F%2Fwww.fuccha.in%2Fwelcome%2Ffacebook_login&amp;state=96a7c838197a2c06f3e55853bc27b69c&amp;sdk=php-sdk-3.2.3&amp;scope=email"><i class="fa fa-facebook"></i>Connect with Facebook</a></li>
+                      <!-- <li onClick="registerTrackFB()";><a href=""><i class="fa fa-facebook"></i>Connect with Facebook</a></li> -->
                         <li onclick="registerTrackG()" ;=""><a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.fuccha.in%2Fwelcome%2Fgoogle_login&amp;client_id=104314112653-mepepquvm6up6jkcv3kpbbttn012f9ef.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force"><i class="fa fa-google-plus"></i>Connect with Google</a></li>
                         <!--<li><a href="http://www.fuccha.in/welcome/auth"><i class="fa fa-twitter"></i>Connect with Twitter</a></li>-->
                     </ul>
@@ -1313,7 +2103,7 @@ For more info, please see <a target="_blank" href="http://www.youthkiawaaz.com/t
           <div class="modal-body">
               <div class="login_wrap">
                 <ul>
-                        <li onclick="registerTrackFB()" ;=""><a href="https://www.facebook.com/dialog/oauth?client_id=1775474552692832&amp;redirect_uri=http%3A%2F%2Fwww.fuccha.in%2Fwelcome%2Ffacebook_login&amp;state=96a7c838197a2c06f3e55853bc27b69c&amp;sdk=php-sdk-3.2.3&amp;scope=email"><i class="fa fa-facebook"></i>Connect with Facebook</a></li>
+                        <li onclick="registerTrackFB()" ;=""><a href=""><i class="fa fa-facebook"></i>Connect with Facebook</a></li>
                         <li onclick="registerTrackG()" ;=""><a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.fuccha.in%2Fwelcome%2Fgoogle_login&amp;client_id=104314112653-mepepquvm6up6jkcv3kpbbttn012f9ef.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force"><i class="fa fa-google-plus"></i>Connect with Google</a></li>
                         <!--<li><a href="http://www.fuccha.in/welcome/auth"><i class="fa fa-twitter"></i>Connect with Twitter</a></li>-->
                     </ul>
@@ -1330,27 +2120,27 @@ For more info, please see <a target="_blank" href="http://www.youthkiawaaz.com/t
 
 
 <script>
-jQuery(function() {
-  var ele = jQuery('#scroll_div');
-  if(!ele.length){
-    return;
-  }
+// jQuery(function() {
+//   var ele = jQuery('#scroll_div');
+//   if(!ele.length){
+//     return;
+//   }
     //var oTop = window.innerHeight;
     //alert(oTop);
-  var id = 0;
-  var cat_id = 0;
-    jQuery(window).scroll(function(){ 
-    //var pTop = jQuery(window).scrollTop();
+  // var id = 0;
+  // var cat_id = 0;
+  //   jQuery(window).scroll(function(){ 
+  //   //var pTop = jQuery(window).scrollTop();
     //oTop = jQuery('#scroll_div').offset().top ;
-    if($(window).scrollTop() == $(document).height() - $(window).height()) {
+    // if($(window).scrollTop() == $(document).height() - $(window).height()) {
            // ajax call get data from server and append to the div
-           id = id+','+jQuery('#scroll').attr('data-id');
-      cat_id = jQuery('#scroll').attr('data-cat');
-      jQuery('#scroll').remove();
-      jQuery('#scroll_div').remove();
+      //      id = id+','+jQuery('#scroll').attr('data-id');
+      // cat_id = jQuery('#scroll').attr('data-cat');
+      // jQuery('#scroll').remove();
+      // jQuery('#scroll_div').remove();
       //alert(id);
-            load_next_article(id,cat_id);
-    }
+    //         load_next_article(id,cat_id);
+    // }
         //if( pTop > oTop ){
       // id = id+','+jQuery('#scroll').attr('data-id');
       // cat_id = jQuery('#scroll').attr('data-cat');
@@ -1361,29 +2151,124 @@ jQuery(function() {
       
     //}
     
-    });
+//     });
+// });
+
+$(function () {
+  var blocksArr = $('.article_des');
+  var lastScrollTop = 0;
+  var currentBlock = 0;
+  var id = 0;
+  var cat_id = 0;
+  var baseUrl= 'http://www.fuccha.in/';
+
+ $(window).bind('scroll', function() {
+		
+		
+        var oldUrl = $(".scrollp").filter(":onScreen").attr('data-url');
+        var newwUrl = $(".scrolln").filter(":onScreen").attr('data-url');
+        //alert(oldUrl);
+		//return false;
+        if(oldUrl!=undefined){
+			//alert(oldUrl);
+		    //return false;
+			//var oldUrl1 = oldUrl.replace("/", oldUrl);
+			
+         console.log(oldUrl);
+        window.history.pushState("string", "Title", oldUrl);
+        return true;
+      }
+      if(newwUrl!=undefined){
+        console.log(newwUrl);
+        window.history.pushState("string", "Title", newwUrl);
+        return true;
+       }
+
+    
+});  
+  
+  $(document).scroll(function () {
+    var pTop = jQuery(window).scrollTop();
+	
+    var scrDiv = $('#scroll_div');
+if (scrDiv.length) {
+    oTop = jQuery('#scroll_div').offset().top - window.innerHeight;
+      // console.log(pTop);
+      // console.log(oTop);
+    //make sure it is in the boundaries  
+
+    if( pTop > oTop ){
+    // downscroll code
+      id = id+','+jQuery('#scroll').attr('data-id');
+      cat_id = jQuery('#scroll').attr('data-cat');
+
+      // var newUrl = jQuery('#scroll').attr('data-url');
+      // window.history.pushState("string", "Title", newUrl);
+      jQuery('#scroll').remove();
+      jQuery('#scroll_div').remove();
+    
+      load_next_article(id,cat_id);
+
+    }
+    }
+  });
+
 });
+
+
+
+
+
+// jQuery(function() {
+//   var ele = jQuery('#scroll_div');
+//   if(!ele.length){
+//     return;
+//   }
+//     var oTop = jQuery('#scroll_div').offset().top - window.innerHeight;
+//   var id = 0;
+//   var cat_id = 0;
+//     jQuery(window).scroll(function(){ 
+//     var pTop = jQuery(window).scrollTop();
+//     oTop = jQuery('#scroll_div').offset().top - window.innerHeight;
+//         if( pTop > oTop ){
+//           alert("aya");
+//       id = id+','+jQuery('#scroll').attr('data-id');
+//       cat_id = jQuery('#scroll').attr('data-cat');
+//     var newUrl = jQuery('#scroll').attr('data-url');
+//     window.history.pushState("string", "Title", newUrl);
+//       jQuery('#scroll').remove();
+//       jQuery('#scroll_div').remove();
+//       //alert(id);
+//             load_next_article(id,cat_id);
+//     }
+    
+//     });
+// });
+
+
+ 
 
 function load_next_article(id,cat_id){
     //run ajax
   $('.load_image').show();
-  
-
   jQuery.ajax({
     url: 'http://www.fuccha.in/cambuzz/next_article',
     type: 'POST',
     data: {'id' : id, 'cat_id':cat_id},
     success: function(data) {
     //called when successful
+
     $('.load_image').css('display','none');
     jQuery('#scroll_content').append(data);
-    var newUrl = jQuery('#scroll').attr('data-url');
-    window.history.pushState("string", "Title", newUrl);
     return false;
     }
   });
+  // }, 3000);
+    
+    
   
 }
+
 </script>
 
 <script>
@@ -1473,6 +2358,53 @@ function submit_snap_calculator(){
   });
   //$( "#otp_popup1" ).trigger( "click" );
 }
+//==============  XAT Calcullator ====================//
+function submit_xat_calculator(){
+  var form_data = $('#xat_calculator_step_1').serialize();
+  //alert(form_data); return false;
+  //run ajax
+  $.ajax({
+    url: 'http://www.fuccha.in/tools/xat-calculator/step-1/',
+    type: 'POST',
+    data: form_data,
+    success: function(data) {
+    //called when successful
+    if(data=='success'){
+      $( "#otp_popup3" ).trigger( "click" );
+      $('#xat_calculator_step_1')[0].reset();
+      return false;
+    } else {
+      $('#error_div').html(data);
+    }
+    }
+  });
+  //$( "#otp_popup1" ).trigger( "click" );
+}
+
+//==============  XAT Score Calcullator ====================//
+function submit_xat_score_calculator(){
+  var form_data = $('#xat_score_calculator_step_1').serialize();
+  //alert(form_data); return false;
+  //run ajax
+  $.ajax({
+    url: 'http://www.fuccha.in/tools/xat-score-calculator/step-1/',
+    type: 'POST',
+    data: form_data,
+    success: function(data) {
+    //called when successful
+    if(data=='success'){
+      $( "#otp_popup4" ).trigger( "click" );
+      $('#xat_score_calculator_step_1')[0].reset();
+      return false;
+    } else {
+      $('#error_div').html(data);
+    }
+    }
+  });
+  //$( "#otp_popup1" ).trigger( "click" );
+}
+
+
 
 function submit_ask_expert(){
   var form_data = $('#ask_expert_step_1').serialize();
@@ -1488,6 +2420,136 @@ function submit_ask_expert(){
     if(data=='success'){
       $( "#otp_popup2" ).trigger( "click" );
       $('#ask_expert_step_1')[0].reset();
+      
+      return false;
+    } else {
+      
+      $('#error_div').html("<div class='alert alert-danger'><a href='#' class='close' data-dismiss='alert'>&times;</a> "+data+"</div>");
+    }
+    }
+  });
+  //$( "#otp_popup1" ).trigger( "click" );
+}
+
+function submit_b_school_helpline(){
+  var form_data = $('#b_school_step_1').serialize();
+  // alert(form_data); return false;
+  //run ajax
+  $.ajax({
+    url: 'http://www.fuccha.in/tools/b-school-helpline',
+    type: 'POST',
+    data: form_data,
+    success: function(data) {
+      //alert(data);
+    //called when successful
+    if(data=='success'){
+      $( "#otp_popup88" ).trigger( "click" );
+      $('#b_school_step_1')[0].reset();
+      
+      return false;
+    } else {
+      
+      $('#error_div').html("<div class='alert alert-danger'><a href='#' class='close' data-dismiss='alert'>&times;</a> "+data+"</div>");
+    }
+    }
+  });
+  //$( "#otp_popup1" ).trigger( "click" );
+}
+
+
+function submit_school_helpline(){
+  var form_data = $('#school_step_1').serialize();
+  // alert(form_data); return false;
+  //run ajax
+  $.ajax({
+    url: 'http://www.fuccha.in/tools/online-mba',
+    type: 'POST',
+    data: form_data,
+    success: function(data) {
+      //alert(data);
+    //called when successful
+    if(data=='success'){
+      $( "#otp_popup888" ).trigger( "click" );
+      $('#school_step_1')[0].reset();
+      
+      return false;
+    } else {
+      
+      $('#error_div').html("<div class='alert alert-danger'><a href='#' class='close' data-dismiss='alert'>&times;</a> "+data+"</div>");
+    }
+    }
+  });
+  //$( "#otp_popup1" ).trigger( "click" );
+}
+
+function submit_jbschool_helpline(){
+  var form_data = $('#school_step_1').serialize();
+  // alert(form_data); return false;
+  //run ajax
+  $.ajax({
+    url: 'http://www.fuccha.in/jaypeebschool',
+    type: 'POST',
+    data: form_data,
+    success: function(data) {
+      //alert(data);
+    //called when successful
+    if(data=='success'){
+      $( "#otp_popupjbs" ).trigger( "click" );
+      $('#school_step_1')[0].reset();
+      
+      return false;
+    } else {
+      
+      $('#error_div').html("<div class='alert alert-danger'><a href='#' class='close' data-dismiss='alert'>&times;</a> "+data+"</div>");
+    }
+    }
+  });
+  //$( "#otp_popup1" ).trigger( "click" );
+}
+
+
+function submit_NIU_helpline(){
+  var form_data = $('#school_step_1').serialize();
+  // alert(form_data); return false;
+  //run ajax
+  $.ajax({
+    url: 'http://www.fuccha.in/noida-international-university',
+    type: 'POST',
+    data: form_data,
+    success: function(data) {
+      //alert(data);
+    //called when successful
+    if(data=='success'){
+      $( "#otp_popupniu" ).trigger( "click" );
+      $('#school_step_1')[0].reset();
+      
+      return false;
+    } else {
+      
+      $('#error_div').html("<div class='alert alert-danger'><a href='#' class='close' data-dismiss='alert'>&times;</a> "+data+"</div>");
+    }
+    }
+  });
+  //$( "#otp_popup1" ).trigger( "click" );
+}
+
+
+function submit_university_helpline(){
+  var form_data = $('#lpu_form').serialize();
+  // alert(form_data); return false;
+  //run ajax
+      // $( "#otp_popup_university" ).trigger( "click" );
+ 
+  $.ajax({
+    url: 'http://www.fuccha.in/page/uniFormDetail',
+    type: 'POST',
+    data: form_data,
+    success: function(data) {
+
+    //called when successful
+    if(data=='success'){
+      $("#otp_popup_university").trigger( "click" );
+      $('#lpu_form')[0].reset();
       
       return false;
     } else {
@@ -1584,7 +2646,7 @@ $(document).ready(function(){
             }
         });
   }); 
-  
+ // ============= Snap Score Calculator ================= //
    $('.submit_verification_snap').on('submit', function(e){
         e.preventDefault();
     
@@ -1610,6 +2672,63 @@ $(document).ready(function(){
             }
         });
   }); 
+ //=========== XAT Calculator ============== //
+   $('.submit_verification_xat').on('submit', function(e){
+        e.preventDefault();
+    
+        var frm = $('.submit_verification_xat');
+    //alert(frm.serialize()); return false;
+    $.ajax({
+            type: frm.attr('method'),
+            url: frm.attr('action'),
+            data: frm.serialize(),
+      success: function (data) {
+        
+         if(data=='success'){
+        $('#otp_msg_xat').text('OTP Verification successful. We are redirecting you to next step.');
+        //$('#cat_percentiler_verification .btn').attr('onclick','').unbind('click');
+        setTimeout(function(){ 
+          window.location.href = 'http://www.fuccha.in/tools/xat-calculator/step-2';
+        }, 1000);
+        } else {
+          $('#otp_msg_xat').css('color','red !important');
+          $('#otp_msg_xat').html("<div class='alert alert-danger'>Please enter correct OTP.</div>");
+		  return false;
+        }
+        
+            }
+        });
+  });  
+  
+  //=========== XAT SCORE Calculator ============== //
+   $('.submit_verification_xat_score').on('submit', function(e){
+        e.preventDefault();
+    
+        var frm = $('.submit_verification_xat_score');
+    //alert(frm.serialize()); return false;
+    $.ajax({
+            type: frm.attr('method'),
+            url: frm.attr('action'),
+            data: frm.serialize(),
+      success: function (data) {
+        
+         if(data=='success'){
+        $('#otp_msg_xat_score').text('OTP Verification successful. We are redirecting you to next step.');
+        //$('#cat_percentiler_verification .btn').attr('onclick','').unbind('click');
+        setTimeout(function(){ 
+          window.location.href = 'http://www.fuccha.in/tools/xat-score-calculator/step-2';
+        }, 1000);
+        } else {
+          $('#otp_msg_xat_score').css('color','red !important');
+          $('#otp_msg_xat_score').html("<div class='alert alert-danger'>Please enter correct OTP.</div>");
+		  return false;
+        }
+        
+            }
+        });
+  });  
+  
+  
   
   
    $('.submit_verification2').on('submit', function(e){
@@ -1623,17 +2742,163 @@ $(document).ready(function(){
             data: frm.serialize(),
       success: function (data) {
          if(data=='success'){
-          $('#otp_msg2').text('OTP Verification successful. Our expert will contact to you soon.');
+          $('#otp_msg2').html('<div class="alert alert-success fade in">OTP Verification successful. Our expert will contact to you soon.</div>');
           //$('#ask_expert_verification .btn').attr('onclick','').unbind('click');
 
           ga('create', 'UA-40150978-1', 'auto');
           ga('send', 'event', 'Form', 'Submit-Helpline-form', 'Cat 2016 Helpline Form');
           setTimeout(function(){ 
             window.location.href = 'http://www.fuccha.in/tools/cat-2016-helpline';
-          }, 1000);
+          }, 4000);
         } else {
           $('#otp_msg2').css('color','red !important');
           $('#otp_msg2').html("<div class='alert alert-danger'>Please enter correct OTP.</div>");
+        }
+        
+            }
+        });
+  }); 
+  
+  
+   $('.submit_verification88').on('submit', function(e){
+        e.preventDefault();
+    
+        var frm = $('.submit_verification88');
+    //alert(frm.serialize()); return false;
+    $.ajax({
+            type: frm.attr('method'),
+            url: frm.attr('action'),
+            data: frm.serialize(),
+      success: function (data) {
+        console.log(data);
+         if(data=='success'){
+          $('#otp_msg88').html('<div class="alert alert-success fade in">OTP Verification successful. Our expert will contact to you soon.</div>');
+          //$('#ask_expert_verification .btn').attr('onclick','').unbind('click');
+
+          // ga('create', 'UA-40150978-1', 'auto');
+          // ga('send', 'event', 'Form', 'Submit-Helpline-form', 'B B School Helpline Form');
+          setTimeout(function(){ 
+            window.location.href = 'http://www.fuccha.in/tools/b-school-helpline';
+          }, 1000);
+        } else {
+          $('#otp_msg88').css('color','red !important');
+          $('#otp_msg88').html("<div class='alert alert-danger'>Please enter correct OTP.</div>");
+        }
+        
+            }
+        });
+  }); 
+
+   $('.submit_verification888').on('submit', function(e){
+        e.preventDefault();
+    
+        var frm = $('.submit_verification888');
+    // alert(frm.attr('action')); return false;
+    $.ajax({
+            type: frm.attr('method'),
+            url: frm.attr('action'),
+            data: frm.serialize(),
+      success: function (data) {
+        console.log(data);
+         if(data=='success'){
+          $('#otp_msg888').html('<div class="alert alert-success fade in">OTP Verification successful. Our expert will contact to you soon.</div>');
+          //$('#ask_expert_verification .btn').attr('onclick','').unbind('click');
+
+          // ga('create', 'UA-40150978-1', 'auto');
+          // ga('send', 'event', 'Form', 'Submit-Helpline-form', 'B B School Helpline Form');
+          setTimeout(function(){ 
+            window.location.href = 'http://www.fuccha.in/tools/online-mba';
+          }, 1000);
+        } else {
+          $('#otp_msg888').css('color','red !important');
+          $('#otp_msg888').html("<div class='alert alert-danger'>Please enter correct OTP.</div>");
+        }
+        
+            }
+        });
+  }); 
+
+   $('.submit_verificationjbs').on('submit', function(e){
+        e.preventDefault();
+    
+        var frm = $('.submit_verificationjbs');
+    // alert(frm.attr('action')); return false;
+    $.ajax({
+            type: frm.attr('method'),
+            url: frm.attr('action'),
+            data: frm.serialize(),
+      success: function (data) {
+        console.log(data);
+         if(data=='success'){
+          $('#otp_msgjbs').html('<div class="alert alert-success fade in">OTP Verification successful. Our expert will contact to you soon.</div>');
+          //$('#ask_expert_verification .btn').attr('onclick','').unbind('click');
+
+          // ga('create', 'UA-40150978-1', 'auto');
+          // ga('send', 'event', 'Form', 'Submit-Helpline-form', 'B B School Helpline Form');
+          setTimeout(function(){ 
+            window.location.href = 'http://www.fuccha.in/jaypeebschool';
+          }, 1000);
+        } else {
+          $('#otp_msgjbs').css('color','red !important');
+          $('#otp_msgjbs').html("<div class='alert alert-danger'>Please enter correct OTP.</div>");
+        }
+        
+            }
+        });
+  }); 
+
+   $('.submit_verificationniu').on('submit', function(e){
+        e.preventDefault();
+    
+        var frm = $('.submit_verificationniu');
+    // alert(frm.attr('action')); return false;
+    $.ajax({
+            type: frm.attr('method'),
+            url: frm.attr('action'),
+            data: frm.serialize(),
+      success: function (data) {
+        console.log(data);
+         if(data=='success'){
+          $('#otp_msgniu').html('<div class="alert alert-success fade in">OTP Verification successful. Our expert will contact to you soon.</div>');
+          //$('#ask_expert_verification .btn').attr('onclick','').unbind('click');
+
+          // ga('create', 'UA-40150978-1', 'auto');
+          // ga('send', 'event', 'Form', 'Submit-Helpline-form', 'B B School Helpline Form');
+          setTimeout(function(){ 
+            window.location.href = 'http://www.fuccha.in/noida-international-university';
+          }, 1000);
+        } else {
+          $('#otp_msgniu').css('color','red !important');
+          $('#otp_msgniu').html("<div class='alert alert-danger'>Please enter correct OTP.</div>");
+        }
+        
+            }
+        });
+  }); 
+
+   $('.submit_verification_university').on('submit', function(e){
+        e.preventDefault();
+    
+        var frm = $('.submit_verification_university');
+    // alert(frm.attr('action')); return false;
+    $.ajax({
+            type: frm.attr('method'),
+            url: frm.attr('action'),
+            data: frm.serialize(),
+      success: function (data) {
+        console.log(data);
+         if(data=='success'){
+          $('#otp_uni').html('<div class="alert alert-success fade in">OTP Verification successful. Our expert will contact to you soon.</div>');
+          //$('#ask_expert_verification .btn').attr('onclick','').unbind('click');
+          var pageUrl = $('#uni_page_url').val();
+          // ga('create', 'UA-40150978-1', 'auto');
+          // ga('send', 'event', 'Form', 'Submit-Helpline-form', 'B B School Helpline Form');
+          setTimeout(function(){ 
+            window.location.href = pageUrl;
+          }, 1000);
+        } else {
+          $('#otp_uni').css('color','red !important');
+          $('#otp_uni').html("<div class='alert alert-danger'>Please enter correct OTP.</div>");
         }
         
             }
@@ -1715,8 +2980,8 @@ function getCollegeName(collegeName,collNo)
           }, 1000);
           
           setTimeout(function(){ 
-            window.location.href = 'http://www.fuccha.in/tools/college-mba-compare';
-          }, 1000);
+                        window.location.href = 'http://www.fuccha.in/tools/college-mba-compare';
+                     }, 1000);
           
         }
         if(collNo==2)
@@ -1902,6 +3167,10 @@ $(document).ready(function(){
          {
           $('.error_message_s').hide();
           $('.success_message_s').html('<div class="alert alert-success fade in"><strong>Success!</strong> '+data.success_message+'</div>');
+            setTimeout(function(){ 
+                        $('.success_message_s').html('');
+                        $('.success_message_s').hide();
+                        }, 5000);
           $('.myForm1')[0].reset(); 
           if(data.url)
           {
@@ -1990,7 +3259,9 @@ $(document).ready(function(){
         });
   }); 
 
-    
+   
+
+    /*-----------------------------------*/
   
   $('#calender').on('click', function(e){
         e.preventDefault();
@@ -2249,10 +3520,65 @@ function removecollgedata(collegeNo,cmpText)
         ga('create', 'UA-40150978-1', 'auto');
         ga('send', 'event', 'Form', 'Submit', 'Snap Score Calculator');
     }
+function XatTrack(){
+        ga('create', 'UA-40150978-1', 'auto');
+        ga('send', 'event', 'Form', 'Submit', 'XAT Calculator');
+    }
 
 
 
 </script>
+
+<!-- ======================== XAT Question Answer ======================== -->
+<script>
+$(document).ready(function(){
+
+   //var form_data = $('#call_predictor_verification').serialize();
+    $('.xat_question_ans').on('submit', function(e){
+        e.preventDefault();
+    
+        var frm = $('.xat_question_ans');
+		
+		data = JSON.stringify(frm.serialize());
+    alert(data); return false;
+    $.ajax({
+            type: frm.attr('method'),
+            url: frm.attr('action'),
+            data: frm.serialize(),
+			cache: false,
+			dataType:'JSON',
+      success: function (data) {
+          if(data.success){
+          $('#otp_msg3').html(data.success_message);
+          //$('#call_predictor_verification .btn').attr('onclick','').unbind('click');
+              ga('create', 'UA-40150978-1', 'auto');
+              ga('send', 'event', 'Form', 'Register', 'Registration Process');
+          
+          setTimeout(function(){ 
+            window.location.href = data.url;
+          }, 3000);
+        } else {
+          
+          $('#otp_msg3').css('color','red !important');
+          $('#otp_msg3').html(data.errors);
+        }
+        
+            }
+        });
+  }); 
+  
+});
+</script>
+<!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+<!-- Test2243647 -->
+<!--<ins class="adsbygoogle"-->
+<!--     style="display:block"-->
+<!--     data-ad-client="ca-pub-0319896392981354"-->
+<!--     data-ad-slot="5090984638"-->
+<!--     data-ad-format="auto"></ins>-->
+<!--<script>-->
+<!--(adsbygoogle = window.adsbygoogle || []).push({});-->
+<!--</script>-->
 
 
 
