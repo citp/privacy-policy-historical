@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksby.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221020053id_/http%3A//www.ksby.com/category/294240/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksby.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055120id_/http%3A//www.ksby.com/category/294240/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KSBY.com | San Luis Obispo and Santa Barbara Area News
 
