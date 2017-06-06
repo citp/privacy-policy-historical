@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onecountry.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119184321id_/http%3A//www.onecountry.com/privacy-policy-1633272277.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecountry.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175844id_/http%3A//www.onecountry.com/privacy-policy-1633272277.html) for the most accurate reproduction.*
 
 # Privacy Policy - One Country
-
-By [Linda Beth](http://www.onecountry.com/community/linda_beth/) February 29, 2016
 
 ****One Country takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you register for and view our Daily Email or visit our Web Site. Please read this notice carefully.
 
@@ -59,5 +57,3 @@ One Country may change this policy, but we'll post any changes here, so be sure 
 #### Contact Us
 
 If you have any questions about this policy, the daily email or our site in general, please email lcowling@onecountry.com.
-
-By [Linda Beth](http://www.onecountry.com/community/linda_beth/) February 29, 2016
