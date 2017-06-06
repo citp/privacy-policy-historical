@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airmore.com privacy policy that was archived on 2016-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160719122004id_/https%3A//airmore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airmore.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191548id_/https%3A//airmore.com/privacy) for the most accurate reproduction.*
 
 # The Privacy Policy for AirMore
 
