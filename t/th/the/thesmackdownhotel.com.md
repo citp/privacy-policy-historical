@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesmackdownhotel.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123180840id_/http%3A//www.thesmackdownhotel.com/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmackdownhotel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235921id_/https%3A//www.thesmackdownhotel.com/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - TheSmackDownHotel.com Forum
 
@@ -13,7 +13,7 @@
 
 **Registration is _FREE_ and only takes a moment to complete!**
 
-[Login to Account](http://www.thesmackdownhotel.com/forum/index.php?app=core&module=global&section=login) [Create an Account](http://www.thesmackdownhotel.com/forum/index.php?app=core&module=global&section=register)
+[Login to Account](https://www.thesmackdownhotel.com/forum/index.php?app=core&module=global&section=login) [Create an Account](https://www.thesmackdownhotel.com/forum/index.php?app=core&module=global&section=register)
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
@@ -74,4 +74,4 @@ Here is a list of guides on how to do this for popular browser software:
 Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Therefore it is recommended that you do not disable cookies.
 
 Contact Information  
-If you have any questions about our Privacy Policy or Cookie Policy, please [contact us](http://www.thesmackdownhotel.com/contact/). 
+If you have any questions about our Privacy Policy or Cookie Policy, please [contact us](https://www.thesmackdownhotel.com/contact/). 
