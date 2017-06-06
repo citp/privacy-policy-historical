@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230212032id_/http%3A//www.whyy.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161652id_/http%3A//www.whyy.org/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | About | WHYY
 
@@ -79,7 +79,7 @@ For international users, please note that it may be necessary to transform your 
 
 ### Membership List Policy
 
-Membership is WHYY's single most important source of support, and WHYY's relationship with its members is the highest expression of our commitment to our mission.
+Membership is WHYY's single most important source of support, and WHYY's relationship with its members is the highest expression of our commitment to our mission. 
 
 WHYY has established the following policy and practices for use of our online and offline membership and donor lists to protect the privacy of our members and ensure control in safeguarding against any unauthorized use.
 
@@ -91,28 +91,28 @@ WHYY regularly contacts its members to carry out necessary and normal operations
 WHYY will, from time to time, provide member names to research organizations hired by and working on behalf of WHYY or other public broadcasting organizations (such as the Corporation for Public Broadcasting, PBS, NPR) for the purpose of member research that will benefit WHYY and/or the public broadcasting stations.
 
 **Use of the List by other organizations**  
-WHYY does not sell its membership list to other organizations. However, in order to assist in its membership and fundraising efforts, WHYY periodically exchanges the names and addresses of its members and former members with other like-minded non-profit organizations, using a process that does not permit the other organization to review or retain a copy of the membership list. Exchange of the list allows WHYY to expand its membership base by obtaining the names and addresses of other likely donors, and provides a valuable source of additional funding.
+WHYY does not sell its membership list to other organizations. However, in order to assist in its membership and fundraising efforts, WHYY periodically exchanges the names and addresses and/or contribution history of its members and former members with other like-minded non-profit organizations, using a process that does not permit the other organization to review or retain a copy of the membership list. Exchange of the list allows WHYY to expand its membership base by obtaining the names and addresses of other likely donors, and provides a valuable source of additional funding.
 
-WHYY will not sell, rent, transfer, provide or exchange its membership list with any political party, political committee, candidate for political office, political lobbying organization, religious groups, credit card mailers, pornographers, or certain public advocacy or self interest organizations, as defined from time to time by WHYY's President and CEO.
+WHYY will not sell, rent, transfer, provide or exchange its membership list with any political party, political committee, candidate for political office, political lobbying organization, religious groups, credit card mailers, pornographers, or certain public advocacy or self-interest organizations, as defined from time to time by WHYY's President and CEO.
 
-**Members right to privacy**  
-In its fundraising practices, WHYY will respect the privacy of its members. Accordingly, WHYY will provide members with the opportunity to have their names excluded from any donor list exchange activity. In the course of an exchange transaction involving names of donors that have not requested to be excluded, WHYY will provide only non-personal public information, limited to members names and addresses to outside organizations.
+**Members' right to privacy**  
+In its fundraising practices, WHYY will respect the privacy of its members. Accordingly, WHYY will provide members with the opportunity to have their names excluded from any donor list exchange activity. In the course of an exchange transaction involving names of donors that have not requested to be excluded, WHYY will provide only non-personal public information, limited to members' names and addresses and/or contribution history to outside organizations.
 
 **Process**  
 
 
-  * Each proposed use must be pre-approved in writing by the Director of Membership.
+  * Each proposed use must be pre-approved in writing by the Director of Member Communications.
   * Each use will be on a one-time only basis using a process (such as employment of a third-party mailing house) that does not permit the organization to review or retain a copy of the membership list.
-  * Each use will consist of names and addresses only (no phone numbers, giving history, or other contact information will be provided).
+  * Each use will consist of names and addresses and/or contribution history (no phone numbers or other contact information will be provided).
 
 
 
 **Recordkeeping**  
-WHYY will keep a complete and accurate record of all uses of the WHYY membership list.
+WHYY will keep a complete and accurate record of all uses of the WHYY membership list. 
 
 **Compliance**  
 WHYY will take appropriate measures to ensure against unauthorized use of membership and donor lists, including requiring any third party, including but not limited to, list brokers, mail-list management organizations, Friends organizations, fundraising organizations, or advertising or public relations agencies, to abide by WHYY's compliance requirements.
 
-This policy will be reviewed by the Director of Membership on an annual basis.
+This policy will be reviewed by the Director of Member Communications on an annual basis.
 
-Rev. 11/15
+Rev. 01/17
