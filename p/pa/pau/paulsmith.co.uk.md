@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulsmith.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122158id_/http%3A//www.paulsmith.co.uk/uk-en/shop/information/cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulsmith.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165938id_/https%3A//www.paulsmith.com/uk/information/cookie-policy.html) for the most accurate reproduction.*
 
 # Cookie Policy
 
@@ -6,7 +6,7 @@
 
 We have created this policy in order to demonstrate our firm commitment to privacy. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us and our use of cookies. 
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting our website www.paulsmith.co.uk (our site) or using our Dino Jumper App (our App) you are accepting and consenting to the practices described in this policy. 
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting our website www.paulsmith.com (our site) or using our Dino Jumper App (our App) you are accepting and consenting to the practices described in this policy. 
 
 ##### Information about Us
 
@@ -55,8 +55,8 @@ With regard to each of your visits to our site we may automatically collect the 
 
 With regard to each of your uses of our App we may automatically collect the following information:
 
-    * technical information, including the type of mobile device you use, a unique device identifier (for example, your device's IMEI number, the MAC address of the device's wireless network interface, or the mobile phone number used by the device), mobile network information, your mobile operating system, the type of mobile browser you use, time zone setting);
-    * details of your use of any of our Apps (including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise) and the resources that you access. 
+    * technical information, including the type of mobile device you use, a unique device identifier (for example, your device's IMEI number, the MAC address of the device's wireless network interface, or the mobile phone number used by the device), mobile network information, your mobile operating system, the type of mobile browser you use, time zone setting);
+    * details of your use of any of our Apps (including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise) and the resources that you access. 
 
 Information we receive from other sources
 
