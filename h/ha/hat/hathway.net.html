@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hathway.net privacy policy that was archived on 2016-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125183207id_/http%3A//hathway.net/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hathway.net privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606113653id_/http%3A//www.hathway.net/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -17,6 +17,8 @@ PrivacyPolicy    </title>
     <link href="/assets/scroll/jquery.fs.selecter.css" rel="stylesheet">
 
     <link href="/assets/css/plug.css" rel="stylesheet">
+
+ <link href="/assets/css/customer_support.css" rel="stylesheet">
 
 
 
@@ -91,7 +93,8 @@ PrivacyPolicy    </title>
                                
                                 <option value="RAJASTHAN">RAJASTHAN</option>
                                 
-                                <option value="TAMIL NADU">TAMIL NADU</option>
+                                 <option value="TAMIL NADU">TAMIL NADU</option>
+                                <option value="TELANGANA">TELANGANA</option>
                                 <option value="UTTAR PRADESH">UTTAR PRADESH</option>
                                 <option value="WEST BENGAL">WEST BENGAL</option>
                             </select>
@@ -132,8 +135,12 @@ PrivacyPolicy    </title>
                     </li>
                     <li><a href="/About/InvestorRelations">Investor Relations</a>
                     </li>
-
-                    <li><a href="/About/ContactUs">Contact Us</a></li>
+<li><a href="/About/ContactUs">Contact Us</a>
+                        <ul>
+                            <li><a onclick="javascript:RedirectContactForm('digi')">Digital Cable TV</a> </li>
+                            <li><a onclick="javascript:RedirectContactForm('broad')">Broadband</a> </li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -313,9 +320,11 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
                             </li>
                             <li><a href="/Home/NodalOfficer">Nodal Officer – Subscribers</a></li>
                                  <li><a href="/assets/pdf/digital/Details of Nodal Officers for communicating with LCOs.pdf" target="_blank">Nodal Officer – LCO’s</a></li>
-                            <li><a href="/assets/pdf/digital/ConsumerCharter.pdf" target="_blank">Consumer Charter</a></li>
-                            <li><a href="/assets/pdf/digital/rio.pdf" target="_blank">RIO</a></li>
+                            <li><a id="consumer">Consumer Charter</a></li>
+                            
                             <li><a href="/assets/pdf/digital/ManualOfPractice.pdf" target="_blank">MOP</a></li>
+                        <li><a href="/About/Compliances">Compliances</a></li>
+
                        
                         </ul>
                         <ul style="border-right: 0px; width:140px;">
@@ -325,6 +334,8 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
                             <li><a href="/Home/NodalOfficer#Plan_2">Nodal Officer – Subscribers</a></li>
                             <li><a href="/Broadband/AppellateAuthority">Appellate</a></li>
                             <li><a href="/assets/pdf/broadband/ManualOfPractice.pdf" target="_blank">MOP</a></li>
+                            <li><a href="/assets/pdf/broadband/TroubleShooting.pdf" target="_blank">Basic Trouble Shooting</a></li>
+                            <li><a href="/assets/pdf/broadband/FAQSforYourMobileApp.pdf" target="_blank">FAQs</a></li>
                         </ul>
                 </div>
                 <div class="social_icon">
@@ -337,7 +348,7 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
                                 </tr>
                                 <tr>
                                     <td width="40%" align="left" style="border: 0;">
-                                         <a href="https://www.facebook.com/HathwayDigitalCableTV" target="_blank">
+                                         <a href="https://www.facebook.com/HathwayDigitalTV" target="_blank">
                                             <img src="/assets/img/common/fb.png" alt="Facebook" class="tooltip" title="facebook"></a>
                                     </td>
                                     <td align="left" style="border: 0;">
@@ -397,6 +408,33 @@ Email id: delia.dsouza@hcspl.net
             <img src="/assets/img/hatway-loader.gif">
         </div>
     </div>
+ <div id="chqblack_box_home">
+        <div style="width: 503px; top: 60%;" class="custservicepopup">
+            <div class="chq_close">
+                <img src="/assets/img/closebox.png">
+            </div>
+            
+            <div style="width: 485px; text-align: center;" id="city_select" class="feedback_input">
+                <h4>Document will be updated soon.</h4>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $("#chqblack_box_home").hide();
+
+        $("#consumer").click(function () {
+            $("#chqblack_box_home").css("display", "block");
+        });
+        //$("#subcriptnbtn").click(function () {
+        //    $(" #chqblack_box").fadeIn();
+        //});
+        $(".chq_close").click(function () {
+            $("#chqblack_box_home").hide();
+        });
+        //$("body,html").click(function (event) {
+        //    $("#chqblack_box").hide();
+        //});
+    </script>
     <script type="text/javascript">
 
         $(document).ready(function () {
@@ -871,7 +909,7 @@ Email id: delia.dsouza@hcspl.net
 
             var eventName = "Home";
             var headendName = "Hathway" + opName;
-            var sessionId = "wl5g5xmtinvax0p2lxprh2t0";
+            var sessionId = "v1djyvxnnmlj53j030rntdp1";
             var subPage = "";
 
             if (pageLink.toLowerCase().match("/aboutus$") || pageLink.toLowerCase().match("/aboutus/$"))
@@ -935,6 +973,14 @@ Email id: delia.dsouza@hcspl.net
                 "User ID": sessionId,
                 "Email ID": ""
             });
+        }
+    function RedirectContactForm(type) {
+            if (type == "digi")
+                localStorage.setItem("DigiContact", "true");
+            else
+                localStorage.setItem("DigiContact", "false");
+
+            location.href = "/About/ContactUs";
         }
 
     </script>
