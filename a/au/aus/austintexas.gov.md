@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austintexas.gov privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230152318id_/http%3A//www.austintexas.gov/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austintexas.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025023id_/http%3A//www.austintexas.gov/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AustinTexas.gov - The Official Website of the City of Austin
 
