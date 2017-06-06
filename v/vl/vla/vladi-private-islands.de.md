@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vladi-private-islands.de privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129170948id_/http%3A//www.vladi-private-islands.de/en/privacy-statement-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vladi-private-islands.de privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100232id_/http%3A//www.vladi-private-islands.de/en/privacy-statement-disclaimer) for the most accurate reproduction.*
 
 # Privacy Statement / Disclaimer - Vladi Private Islands
 
