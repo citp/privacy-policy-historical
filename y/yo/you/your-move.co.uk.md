@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-move.co.uk privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231222750id_/https%3A//www.your-move.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-move.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184119id_/https%3A//www.your-move.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Your Move Estate Agents
 
