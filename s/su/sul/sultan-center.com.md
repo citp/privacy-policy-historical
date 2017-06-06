@@ -1,90 +1,246 @@
-> *The following text is extracted and transformed from the sultan-center.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419125231id_/http%3A//www.sultan-center.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sultan-center.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103200id_/http%3A//www.sultan-center.com/tsc-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - THE SULTAN CENTER
+# TSC - Privacy Policy
 
-**Overview**
+This privacy policy sets out how uses and protects any information that you give when you use this website. The Sultan Center is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, and then you can be assured that it will only be used in accordance with this privacy statement. The Sultan Center may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-The Sultan Center (“ **TSC** “) is strongly committed to respecting the privacy of all persons using our website, [http://sultan-center.com/](http://www.alshaya.com/) (“the **Website** “) and the protection of any personally identifiable information which we may collect and/ or use as part of our data collection process and/ or which you may choose to share with us. Such personal information will be collected and/ or used in accordance with the terms and conditions of this Privacy Policy, which is part of and incorporated into the Terms of Use of the Website.
+### SECTION I
 
-**Your Express Consent to Collection and Use of Information**
+**WHAT WE COLLECT**
 
-We reserve the right to collect such personally identifiable information as, name, address, telephone number, e-mail address, etc., as well as demographic and profile data such as IP address, internet domain or browser, referrer or user agent information or other relevant information that we use as part of our data collection process, such as the use of cookies or certain other information you may provide to us, etc. (“ **Personal Information** “) as set forth in this Privacy Policy. We hold all such Personal Information on secure servers and treat it as fully confidential.
+WE MAY COLLECT THE FOLLOWING INFORMATION:
 
-**BY CHOOSING TO ACCESS THE Website, YOU ARE INDICATING YOUR EXPRESS CONSENT AND AGREEMENT TO THE COLLECTION, TRANSFER, PROCESSING, USE AND STORAGE IN ACCORDANCE WITH THIS PRIVACY POLICY OF ANY PERSONAL INFORMATION WHICH MAY BE OBTAINED FROM YOU AS A RESULT OF YOUR ACCESSING OR USE OF THE Website, ANY OF WHICH MAY OCCUR EITHER OR BOTH INSIDE AND OUTSIDE OF THE STATE OF KUWAIT IN JURISDICTIONS WHERE LEGAL PROTECTION MAY BE LESS STRINGENT.** If you do not agree with any of the terms and conditions set forth in the Privacy Policy, or have any questions, please do not access the Website or contact us directly at customer-support@sultan-center.com, and we will be pleased to assist you. By accessing or using the Website, you grant TSC a non-exclusive, worldwide, royalty-free perpetual license to use your Personal Information for the purposes set forth herein.
-
-**Collection / Use of Data**
-
-When you register on our website, we collect certain personal information from you, such as your name, address, telephone number, email address etc (“Personal Data”). We hold all such Personal Data on secure servers and treat it as fully confidential.
-
-We will not sell your Personal Data to third parties. We do, however, share customer information with the following third parties:
-
-  * Our group companies;
-  * Our franchisors;
-  * Third party databases to which TSC and/or one of our brands subscribes; government bodies or other authorities if necessary to comply with regulations or law or to assist with law enforcement, or to protect our property and other rights;
-  * Agencies who help us collate statistics about site traffic, sales, demographics and other commercial information to enable us to tailor the services we provide to you and other customers.
+  * Name
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
 
 
-By submitting your Personal Data through our website, you agree to the transfer, storage and processing of such data outside of the European Economic Area.
+**WHAT WE DO WITH THE INFORMATION WE GATHER**
 
-We will retain your Personal Data for as long as it is legally required, and to support the business purposes for which it was obtained – we will then dispose of it promptly and securely.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Cookies**
-
-As part of our normal data collection process, the Website may deposit “cookies” in your device in order to identify you and/ or as a means of tracking the validity of sessions as well as enhancing your browsing experience. Cookies are small pieces of data that a website automatically sends to your computer, tablet or mobile phone while you are viewing the website.
-
-We use two types of cookies on our website:
-
-  * “Session” cookies, which are used to allow you to:
-  * Carry information from one page of our website to another without having to re-enter information; and
-  * Access stored information when you are logged in to your online account.
-  * “Persistent” cookies, which allow us to offer you tailored content on our website by helping us to remember:
-  * Any personal information that you have provided on previous visits to our website;
-  * The number of visits that you have made to our website; and
-  * Your preferences
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
 
 
-Third parties are not able to identify customers using cookies.
+### SECTION II 
 
-We also reserve the right to use an outside advertising company to display ads on the Website. These ads may also contain cookies. While we may use cookies in other parts of our Website, cookies received with banner ads or from other third-party sources may be collected by any such third-party companies, and we do not have direct access to or control over such processes. No cookies used by TSC are stored permanently on your device. All cookies are automatically removed from your device either when you close your browser or your session times out.
+**CONSENT**
 
-By using our website, you agree to the placing of cookies on your device. However, if you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie (to find out how to do this, please consult your browser’s help section). If cookies aren’t enabled on your device, it may limit your enjoyment of the Website.
+How do you get my consent?
 
-To enable cookies:
+  * When you provide us with personal information to complete a transaction, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting your information and using it for that specific reason only.
+  * If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-If you’re not sure of the type and version of web browser you use to access the Internet:
 
-**For PCs:** click on ‘Help’ at the top of your browser window and select the ‘About’ option
 
-**For Macs:** with the browser window open, click on the Apple menu and select the ‘About’ option
+### SECTION III 
 
-If you’d like to learn more about cookies in general and how to manage them, visit [aboutcookies.org](http://aboutcookies.org/) (opens in a new window).
+**DISCLOSURE**
 
-If you’d like to opt out of cookies, please go to the [Network Advertising Initiative website](http://www.networkadvertising.org/managing/opt_out.asp) (opens in a new window).
+  * We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-Please note that we’re not responsible for the content of external websites.
 
-**Protection of Personal Information Against Third-Party Access or Use**
 
-We store all Personal Information on a secure server and we seek to use procedures designed to protect Personal Information from accidental or unauthorised access, destruction, use, modification or disclosure. We will seek to ensure that your Personal Information is kept confidential and secure in accordance with this Privacy Policy, and that the appropriate technical and organisational measures to prevent unlawful or accidental destruction, accidental loss, unauthorised disclosure or access or other unlawful forms of processing are implemented. Although we will strive to take commercially reasonable security precautions regarding all Personal Information, visitors or users to the Website acknowledge and agree that TSC does not control the transfer of information or data via the Website or over any other electronic facilities or media. We will retain your Personal Information for as long as it is legally required, and to support the business purposes for which it was obtained – we will then dispose of it promptly and securely.
+### SECTION IV
 
-**Changes to Privacy Policy**
+**PAYMENT**
 
-Since we are constantly making changes and upgrades to our systems and services in order to better serve you, we anticipate updating this Privacy Policy from time-to-time. Therefore, we reserve the right to revise or alter the content of this Privacy Policy in any manner and at any time, without notice. Your subsequent and/ or continued use of any portion of the Website following a posting of changes to the Privacy Policy will constitute your acceptance of such changes.
+  * Currently we are only accepting _payment_ on delivery which can be in the form of cash, credit card payment or Knet payment as our Delivery agent has the payment machine with him at your doorstep. No payment data are stored at the website.
 
-**Third Party Websites**
 
-You may be able to access certain third-party websites through links on the Website. We are not, however, responsible for any other websites, their respective privacy policies or other content nor how they treat information about their visitors or users. We strongly advise you to check their privacy policies to find out how they are treating your Personal Information.
 
-**No Warranty**
+### SECTION V 
 
-YOU UNDERSTAND THAT TSC DOES NOT PROVIDE ANY WARRANTY, GUARANTEE OR REPRESENTATION OF ANY KIND CONCERNING OUR ABILITY TO CONTROL, COLLECT, CORRECT, ACCESS, PROCESS, USE, STORE, PROTECT OR TRANSFER ANY PERSONAL INFORMATION OR CONCERNING THE EXISTENCE OR EFFECTIVENESS OF ANY SECURITY MEASURES UNDERTAKEN BY US. YOU AGREE THAT TSC WILL NOT BE LIABLE FOR ANY CLAIMS, LOSSES, OR DAMAGES OF ANY KIND WHATSOEVER WHICH MAY RESULT FROM THE ACCESS, DISCLOSURE, USE OR MODIFICATION BY ANY PARTY NOT AUTHORISED OR AUTHORISED BY US, OR THE INTRODUCTION OF VIRUSES, WORMS, OR OTHER HARMFUL ELEMENTS INTO THE SYSTEM AND THEIR POSSIBLE EFFECTS ON PERSONAL INFORMATION CONTAINED ON THE Website. By accessing or using the Website, you acknowledge that you understand and agree to assume these risks.
+**THIRD - PARTYSERVICES**
 
-**Limitation of Liability**
+  * In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+  * However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+  * For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers. 
+  * In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you .So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+  * Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-**IN NO EVENT WILL TSC, ITS AFFILIATES, PARTNERS, AND THEIR RESPECTIVE EMPLOYEES, OFFICERS, DIRECTORS OR INSURERS BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR ANY COSTS, DAMAGES (INCLUDING ANY SPECIAL, INCIDENTAL, EXEMPLARY, INDIRECT OR CONSEQUENTIAL DAMAGES), OR LIABILITY OF ANY NATURE, ARISING OR RESULTING FROM THE COLLECTION, USE, TRANSFER, PROCESSING OR STORAGE OF PERSONAL INFORMATION OBTAINED BY US AND RESULTING FROM YOUR ACCESS TO AND USE OF THE Website.**
 
-**Governing Law; Jurisdiction**
 
-This Privacy Policy will be governed by the laws of the State of Kuwait. The exclusive jurisdiction for any claim, action or dispute with TSC or relating in any way to your use of the Website will be in the appropriate courts of the State of Kuwait and the venue for the adjudication or disposition of any such claim, action or dispute will be in the State of Kuwait.
+### SECTION VII 
+
+**AGE OF CONSENT**
+
+By using this site, you represent that you are above the legal law to 21 years old and you have given us your consent to allow any of your minor dependents to use this site.
+
+### SECTION VIII
+
+**SECURITY**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**HOW WE USE COOKIES**
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**LINKS TO OTHER WEBSITES**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**LIST OF COOKIES WE COLLECT**
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE NAME
+
+| 
+
+COOKIE DESCRIPTION  
+  
+---|---  
+  
+CART
+
+| 
+
+The association with your shopping cart.  
+  
+CATEGORY_INFO
+
+| 
+
+Stores the category info on the page, which allows displaying pages more quickly.  
+  
+CUSTOMER
+
+| 
+
+An encrypted version of your customer id with the store.  
+  
+CUSTOMER_AUTH
+
+| 
+
+An indicator if you are currently logged into the store.  
+  
+CUSTOMER_INFO
+
+| 
+
+An encrypted version of the customer group you belong to.  
+  
+CUSTOMER_SEGMENT_IDS
+
+| 
+
+Stores the Customer Segment ID  
+  
+EXTERNAL_NO_CACHE
+
+| 
+
+A flag, which indicates whether caching is disabled or not.  
+  
+FRONTEND
+
+| 
+
+You session ID on the server.  
+  
+GUEST-VIEW
+
+| 
+
+Allows guests to edit their orders.  
+  
+LAST_CATEGORY
+
+| 
+
+The last category you visited.  
+  
+LAST_PRODUCT
+
+| 
+
+The most recent product you have viewed.  
+  
+NO_CACHE
+
+| 
+
+Indicates whether it is allowed to use cache.  
+  
+PERSISTENT_SHOPPING_CART
+
+| 
+
+A link to information about your cart and viewing history if you have asked the site.  
+  
+POLL
+
+| 
+
+The ID of any polls you have recently voted in.  
+  
+POLLN
+
+| 
+
+Information on what polls you have voted on.  
+  
+STF
+
+| 
+
+Information on products you have emailed to friends.  
+  
+STORE
+
+| 
+
+The store view or language you have selected.  
+  
+USER_ALLOWED_SAVE_COOKIE
+
+| 
+
+Indicates whether a customer allowed using cookies.  
+  
+VIEWED_PRODUCT_IDS
+
+| 
+
+The products that you have recently viewed.  
+  
+WISHLIST
+
+| 
+
+An encrypted list of products added to your Wishlist.  
+  
+WISHLIST_CNT
+
+| 
+
+The number of items in your Wishlist.  
+  
+**Changes to This Privacy Policy**
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+Questions & Contact Information
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer through [customer.support@sultan-center.com](mailto:ecomm-support@sultan-center.com) or visit us in person at The Sultan Center Headquarters.
+
+[Re: Privacy Compliance Officer]
+
+[Updated: 03/07/2016]
+
+[Sultan Bin Essa Complex, Building 44, Street 7, Block 1, Area 19, Dhajeej, FA, 13126, Kuwait]
