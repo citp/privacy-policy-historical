@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igirlsgames.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216133602id_/http%3A//www.igirlsgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igirlsgames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103238id_/http%3A//www.igirlsgames.com/privacy.html) for the most accurate reproduction.*
 
 # Our privacy | Games For Girls on Igirlsgames
 
