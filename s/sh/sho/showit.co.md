@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the showit.co privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030075259id_/http%3A//showit.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showit.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093222id_/http%3A//showit.co/privacy) for the most accurate reproduction.*
 
-# Showit - The easy drag and drop website design app for professional photographers
+# Showit Privacy Policy
 
 ## Contact Us Policy
 
 If you have any questions, concerns, or comments about any of the above policies you may contact us using the information below:
 
-Address: Showitfast, Inc 70 S Val Vista Dr, Suite A3-652 Gilbert, AZ 85296
+Address: Showit, Inc. 70 S Val Vista Dr, Suite A3-652 Gilbert, AZ 85296
 
-Email: help@showitfast.com
+Email: [help@showit.co](mailto:help@showit.co)
 
 Phone: (800) 930-5417
 
@@ -23,7 +23,7 @@ Software is guaranteed to maintain stability after January 1, 3000. In the event
 
 ## Software Store Return Policy
 
-All purchases made through the Showit Software Store (http://getit.davidjay.com) are final and no returns are offered at this time due to the nature of the digital download distribution method. If you have a specific question regarding your software please email help@showitfast.com.
+All purchases made through the Showit Store ([https://store.showit.co](https://store.showit.co/)) are final and no returns are offered at this time due to the nature of the digital download distribution method. If you have a specific question regarding your software please email [help@showit.co](mailto:help@showit.co).
 
 ## Showit Subscription Cancellation Policy
 
@@ -47,7 +47,7 @@ Purchases through the Showit website software will be charged to the credit card
 
 Showit reserves the right to charge additional fees to users who use more than amounts allocated for a Showit subscription (currently for Showit this is 10 gigabytes of disk space and/or more than 100 gigabytes of bandwidth per month).
 
-Purchasing software and music licenses through getit.davidjay.com can be done via PayPal or by entering your credit card information.
+Purchasing software and music licenses through store.showit.co can be done by entering your credit card information.
 
 ## Distribution of Information
 
