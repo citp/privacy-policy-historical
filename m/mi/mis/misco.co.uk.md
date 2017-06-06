@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127121056id_/http%3A//www.misco.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033707id_/http%3A//www.misco.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Security and Privacy Statement - Misco.co.uk
 
@@ -103,7 +103,7 @@ From time to time we might establish a business relationship with other third pa
 
 ### Related Companies
 
-We may share your postal and e-mail address, telephone number(s), customer preferences, and purchase history with our parent company Systemax Inc. or its subsidiaries. We will never share any credit card information which you have given to us with any of these related companies.
+We may share your postal and e-mail address, telephone number(s), customer preferences, and purchase history with our parent company Misco Luxembourg S.a.r.l. or its subsidiaries. We will never share any credit card information which you have given to us with any of these related companies.
 
 ### Aggregate Information
 
@@ -163,7 +163,7 @@ If you have any questions or concerns about this Privacy Policy, please e-mail u
 
 ## 9\. Business Transfer
 
-Misco UK Limited is a wholly owned subsidiary of Systemax, Inc., a Fortune 1000 Company (NYSE symbol SYX). However, in the event that Misco UK Limited is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of Misco UK Limited may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and aggregate information we have collected from users of the Site.
+Misco UK Limited is a wholly owned subsidiary of Misco Luxembourg S.a.r.l.. However, in the event that Misco UK Limited is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of Misco UK Limited may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and aggregate information we have collected from users of the Site.
 
 * * *
 
