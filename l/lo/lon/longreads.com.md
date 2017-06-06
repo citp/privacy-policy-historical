@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the longreads.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330182044id_/http%3A//blog.longreads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longreads.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607010735id_/https%3A//longreadsblog.wordpress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Longreads Blog
+# Privacy Policy : Longreads
 
 Your privacy is critically important to us. Longreads is part of Automattic, where we have a few fundamental principles:
 
