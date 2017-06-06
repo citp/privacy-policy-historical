@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iactglobal.in privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125200409id_/http%3A//iactglobal.in/policy.aspx%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iactglobal.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163858id_/http%3A//www.iactglobal.in/policy.aspx%23pp) for the most accurate reproduction.*
 
 # IACT
 
-We at IACT GLOBAL are committed to protect our customers’ personal information and strive to maintain the privacy of your personal information.
+We at IACT GLOBAL are committed to protect our customers' personal information and strive to maintain the privacy of your personal information.
 
 "Personal information" is any information that can be used by itself to uniquely identify, contact, or locate a person, or can be used with information available from other sources to uniquely identify an individual. For the purpose of this policy, sensitive personal data or information has been considered as a part of personal information.
 
@@ -18,6 +18,8 @@ IACT GLOBAL collects your personal information for a variety of regulatory and b
   * Ensure adherence to legal and regulatory requirements for prevention and detection of frauds and crimes.
 
 
+
+IACT executives may call you / sms you for information even if your number is registered in NDNC.
 
 IACT GLOBAL reserves the right to amend or modify this Privacy Policy at any time, as and when the need arises. We request you to visit our website www.iactglobal.in for contemporary information and changes.
 
