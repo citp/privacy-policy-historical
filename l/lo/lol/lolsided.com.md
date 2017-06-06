@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolsided.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230095130id_/http%3A//lolsided.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolsided.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042419id_/http%3A//www.lolsided.com/privacy-policy.php) for the most accurate reproduction.*
 
 # LolSided
 
@@ -8,14 +8,13 @@ This privacy policy has been compiled to better serve those who are concerned wi
 When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, company details, location, gender, age or other details to help you with your experience. 
 
 **When do we collect information?**  
-We collect information from you when you register on our site or enter information on our site. 
+We collect information from you when you register on our site or enter information on our site. However, currently, we do not save user details (name, email addresses, gender etc). 
 
 **How do we use your information?**  
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
   * To personalise your user experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To improve our website in order to better serve you.
-  * To send periodic emails regarding your order or other products and services.
 
 
 
@@ -59,7 +58,8 @@ We have implemented the following:
 
 
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.  
+For more information, see Google's article on [How Google uses data when you use our partners' sites or apps](https://www.google.com/policies/privacy/partners/). 
 
 **Opting out.**  
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on. 
@@ -77,18 +77,8 @@ We will notify the users via in-site notification within 3 business days.
 
 We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors. 
 
-**CAN SPAM Act.**  
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+If you have any questions about our Privacy Policy, feel free to [contact the website](https://web.archive.org/web/20170606042419id_/http%3A//www.lolsided.com/contact.php).
 
-We collect email addresses in order to: 
-
-  * Send user notifications / updates (example: somebody responds to a post that you created).
-  * To notify users about new features.
-  * Decrease the possibility of "dummy" / fake user accounts.
-  * Send newsletters.
-
-
-
-Last Edited on 17 Dec 2016 
+Last Edited on 27 Mar 2017 
 
 * * *
