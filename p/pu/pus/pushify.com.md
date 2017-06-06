@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushify.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111190221id_/https%3A//pushify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushify.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181837id_/https%3A//pushify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pushify - Push Notifications
 
