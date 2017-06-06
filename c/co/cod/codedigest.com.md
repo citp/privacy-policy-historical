@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codedigest.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125015151id_/http%3A//www.codedigest.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codedigest.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113104id_/http%3A//www.codedigest.com/home/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy » CodeDigest.com
+# Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -124,9 +124,9 @@ Please let us know if the personal information which we hold about you needs to 
 
 (11)    Contact
 
-The full name of our company is www.codedigest.com. 
+The full name of our company is www.CodeDigest.com. 
 
-You can contact us by email to admin[at]codedigest.com
+You can contact us by email to admin[at]chennaionnet.com
 
 This website privacy policy is based on a template
 
