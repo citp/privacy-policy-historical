@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodpanda.pk privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908171947id_/https%3A//www.foodpanda.pk/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpanda.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194355id_/https%3A//www.foodpanda.pk/contents/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy | foodpanda
+# Privacy policy
 
 This policy explains how we, foodpanda, a brand of **http://www.foodpanda.com** , use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).
 
