@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jivosite.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320040234id_/https%3A//www.jivochat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jivosite.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171351id_/https%3A//www.jivochat.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | JivoChat
 
 This privacy policy describes the privacy practices for the Web site(s) operated by JivoSite, Inc. (“JivoSite”) (hereinafter “Web site” if singular, or, “Web sites” if more than one website is referred to).
 
@@ -36,7 +36,7 @@ In the event of a change of control of JIVOSITE (such as through a merger, sale,
 
 ### HOW DO I OPT OUT OR CHANGE MY PERSONAL INFORMATION?
 
-To opt out of further e-mail communications from us, just click on the opt-out controls in the e-mail, or contact us as instructed at the end of this Privacy Policy. We may need up to 30 days to assure compliance with your request. 
+To opt out of further e-mail communications from us, just click on the opt-out controls in the e-mail, or contact us as instructed at the end of this Privacy Policy. We may need up to 30 days to assure compliance with your request.
 
 To change your personal information that you have provided us, please contact us as instructed at the end of this Privacy Policy.
 
