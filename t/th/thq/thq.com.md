@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thq.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122165049id_/http%3A//www.thq.com/us/go/cmspage/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thq.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055044id_/http%3A//www.thq.com/us/go/cmspage/policy) for the most accurate reproduction.*
 
 # Policy
 
