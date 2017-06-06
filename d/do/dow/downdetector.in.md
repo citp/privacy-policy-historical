@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downdetector.in privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130230034id_/http%3A//downdetector.in/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downdetector.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043324id_/http%3A//downdetector.in/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement and policy Down Detector
 
@@ -20,8 +20,7 @@ We use third-party advertising companies to serve ads and collect information wh
 
 To opt out for Project Rubicon advertising, please visit [http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
 
-To opt out for Taboola advertising, please visit <http://www.taboola.com/privacy-policy>  
- **  
+**  
 Links to Other Websites**
 
 This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
@@ -64,9 +63,8 @@ info@downdetector.com
 
 Serinus42  
 Downdetector  
-Schipholweg 1  
-7e Verdieping  
-2034 LS Haarlem  
+Spaarnwouderstraat 37  
+2011 AB Haarlem  
 The Netherlands
 
 This privacy statement and policy was last updated on 19 February 2015.
