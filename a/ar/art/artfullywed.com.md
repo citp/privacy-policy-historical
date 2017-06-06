@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfullywed.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223050805id_/http%3A//www.artfullywed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfullywed.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122704id_/http%3A//www.artfullywed.com/privacy-policy) for the most accurate reproduction.*
 
 # Artfully Wed Privacy Policy
 
@@ -26,7 +26,7 @@ Your personal information will be kept strictly confidential and will never be s
 
 ##### Use of Cookies:
 
-Cookies are small files that a site or its service provider transfer to your computer’s hard drive through your Web browser (if you allow them in your settings). Cookies enable the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
+Cookies are small files that a site or its service provider transfer to your computer's hard drive through your Web browser (if you allow them in your settings). Cookies enable the site's or service provider's systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services.
 
@@ -56,7 +56,7 @@ Some of the advertisements that appear on ArtfullyWed.com are delivered to you b
 
 ##### Children Online Privacy Protection Act (COPPA):
 
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
 
 We do not specifically market to children under 13.
 
@@ -92,7 +92,7 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 ##### Security:
 
-Artfully Wed maintains continual, reasonable security measures in order to prevent the loss, theft, misuse or alteration of the personal information we’ve obtained from you. However, we make no guarantee to you or to any third party regarding our ability to prevent any such loss, theft, misuse or alteration of your personal information.
+Artfully Wed maintains continual, reasonable security measures in order to prevent the loss, theft, misuse or alteration of the personal information we've obtained from you. However, we make no guarantee to you or to any third party regarding our ability to prevent any such loss, theft, misuse or alteration of your personal information.
 
 ##### Notice of Modification and Changes:
 
