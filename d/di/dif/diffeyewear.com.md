@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffeyewear.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404213718id_/http%3A//diffeyewear.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffeyewear.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214519id_/https%3A//www.diffeyewear.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | DIFF Eyewear
 
@@ -56,7 +56,7 @@ The following includes a list of instances in which your personal information ma
 
 **             Your Account Information**
 
-> You may edit, update, or delete parts or all of your personal information from your user account at any time. You may edit your account information by logging into your account, or if you wish to delete your account entirely, please contact us at [sales@diffeyewear.com](mailto:sales@diffeyewear.com). Although your account can be deleted, an archived copy may remain on file for business records.
+> You may edit, update, or delete parts or all of your personal information from your user account at any time. You may edit your account information by logging into your account, or if you wish to delete your account entirely, please contact us at [support@diffeyewear.com](mailto:sales@diffeyewear.com). Although your account can be deleted, an archived copy may remain on file for business records.
 
 **             International Transfer**
 
@@ -68,8 +68,8 @@ The following includes a list of instances in which your personal information ma
 
 **             Children**
 
-> In compliance with the Children’s Online Privacy Protection Act, DIFF Eyewear will not knowingly collect any information from children under the age of 13 years. If you are under 13, please have your parents or legal guardian enter their information when required. If a parent or legal guardian becomes aware that his or her child has provided their personal information without parental consent, please contact [sales@diffeyewear.com](mailto:sales@diffeyewear.com), and we will remove the information from our files. Additionally, if DIFF Eyewear becomes aware that a child under the age of 13 has provided us with their personal information, we will delete the information from our files.
+> In compliance with the Children’s Online Privacy Protection Act, DIFF Eyewear will not knowingly collect any information from children under the age of 13 years. If you are under 13, please have your parents or legal guardian enter their information when required. If a parent or legal guardian becomes aware that his or her child has provided their personal information without parental consent, please contact [support@diffeyewear.com](mailto:support@diffeyewear.com "diff support email"), and we will remove the information from our files. Additionally, if DIFF Eyewear becomes aware that a child under the age of 13 has provided us with their personal information, we will delete the information from our files.
 
 **Contact**
 
-If you have any questions regarding this privacy policy, please contact DIFF Eyewear at [sales@diffeyewear.com](https://web.archive.org/web/20160404213718id_/http%3A//diffeyewear.com/pages/sales@diffeyewear.com) or 15521 Broadway Center Street, Gardena CA, 90248.
+If you have any questions regarding this privacy policy, please contact DIFF Eyewear at [support@diffeyewear.com](https://web.archive.org/web/20170606214519id_/https%3A//www.diffeyewear.com/pages/support@diffeyewear.com) or 15606 Broadway Center Street, Gardena CA, 90248.
