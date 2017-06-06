@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the plasticsnews.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216174029id_/http%3A//www.plasticsnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190646id_/http%3A//www.plasticsnews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Plastics News
+# Plastics News
 
-_PlasticsNews.com_ and _PNChina.com_ are the Web sites of _Plastics News_ , a publication of Crain Communications Inc. Our postal address is 1155 Gratiot, Detroit, MI 48207, USA. We can be reached by e-mail at [webmaster4@crain.com](mailto:webmaster4@crain.com) or by telephone at 877-320-1723 (313-446-0450 outside of the United States). Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions at [http://plasticsnews.com/terms.html](http://www.plasticsnews.com/terms.html). 
+Comments [ Email ](https://web.archive.org/article/99999999/STATIC/130119957&template=emailthis) [ Print ](http://www.plasticsnews.com/article/20170605/STATIC/130119957&template=printthis) [](https://web.archive.org/reprints)
+
+By Plastics News 
+
+_PlasticsNews.com,_   _PNChina.com_ and  _LSR-World.com_ are the Web sites of _Plastics News_ , a publication of Crain Communications Inc. Our postal address is 1155 Gratiot, Detroit, MI 48207, USA. We can be reached by e-mail at [webmaster4@crain.com](mailto:webmaster4@crain.com) or by telephone at 877-320-1723 (313-446-0450 outside of the United States). Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions at [http://plasticsnews.com/terms.html](http://www.plasticsnews.com/terms.html). 
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated. 
 
@@ -24,3 +28,5 @@ We will remove any registrant (and their personal information) from our database
 This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
 
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at [privacyhelp@crain.com](mailto:privacyhelp@crain.com) or 313-446-6000.
+
+**Policy Last Updated:** Dec 2016
