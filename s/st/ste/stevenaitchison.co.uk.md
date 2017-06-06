@@ -1,62 +1,74 @@
-> *The following text is extracted and transformed from the stevenaitchison.co.uk privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105034533id_/http%3A//www.stevenaitchison.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevenaitchison.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185721id_/https%3A//www.stevenaitchison.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Personal Development Product Reviews
+# Privacy Policy - Change your thoughts
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:enquiries@stevenaitchison.co.uk).
+Privacy matters but it can be confusing. This page explains our approach to privacy and how it affects you.
 
-At www.stevenaitchison.co.uk we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.stevenaitchison.co.uk and how we use it. 
+## Short version
 
-**Log Files**  
-Like many other Web sites, www.stevenaitchison.co.uk makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
-
-**Cookies and Web Beacons**  
-www.stevenaitchison.co.uk uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser. 
-
-**DoubleClick DART Cookie**
-
-→ Google, as a third party vendor, uses cookies to serve ads on www.stevenaitchison.co.uk.
-
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.stevenaitchison.co.uk and other sites on the Internet. 
-
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
-
-**Our Advertising Partners**
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ……. 
-
-  * Clickbank
-  * private
+  * We collect anonymous statistics about your visit, like which of our pages you viewed.
+  * Some 3rd parties like Facebook and Twitter may know you visited this website, if you use their services. We can’t control them but we don’t believe this knowledge poses any threat to you.
+  * If you sign up with us we take great care to keep your information safe and we’ll never share it with others without your express permission.
+  * We never share your data with 3rd parties except to help us deliver our own services.
 
 
 
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).
+These are just the key points. If you need detail, keep reading.
 
-You may consult this listing to find the privacy policy for each of the advertising partners of www.stevenaitchison.co.uk.
+## Measuring our visitors
 
-_
+We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous – so we don’t know who you are; just that  _somebody  _visited our site.
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.stevenaitchison.co.uk and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
+The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better.
 
-www.stevenaitchison.co.uk has no access to or control over these cookies that are used by third-party advertisers. 
+You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html "Google Analytics' privacy policy") or [opt out if you wish](https://tools.google.com/dlpage/gaoptout "How to opt out of google analytics").
 
-**Third Party Privacy Policies**
+## Facebook, Twitter and other social networks
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.stevenaitchison.co.uk’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+These services provide social buttons and similar features which we use on our website – such as the “Like” and “Tweet” buttons.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+To do so we embed code that they provide and we do not control ourselves. To function their buttons generally know if you’re logged in; for example Facebook use this to say “x of your friends like this”. We do not have any access to that information, nor can we control how those networks use it.
 
-**Children’s Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
-www.stevenaitchison.co.uk does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.stevenaitchison.co.uk has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+Social networks therefore  _could  _know that you’re viewing this website, if you use their services (that isn’t to say they do, but their policies may change). As our website is remarkably inoffensive we imagine this is not a concern for most users.
 
-**Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
-This policy does not apply to any information collected offline or via channels other than this website.
+## Discussion comments
 
-**Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms. 
+To allow visitors to discuss our blog articles and some web pages we use a discussion system from Facebook.
 
-**Update**  
-This Privacy Policy was last updated on: Monday, April 30th, 2012.  
-[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
-_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+To do so we embed code that Facebook provide and we do not control ourselves. Facebook anonymously tracks visitors to pages like we do. They also remember who you are if you login to any Facebook service, so you can comment on any website using their tool.
+
+## If you sign up for a service
+
+When you sign up for any of our services – paid or otherwise – we will record specific personal information about you, such as your name and email address.
+
+We will also collect and store information about your use of our services so as to improve them. For example, we keep a log of what features are being used at any time.
+
+We also log account and transaction history for accounting purposes, and to monitor our business activities.
+
+## Emails
+
+We may send you email notifications regarding your service (such as invoices) or which you have specifically requested (such as newsletters or notifications when a report is completed). You have the ability to opt out of any of this communication at any time.
+
+We will  _never  _provide your personal information or email address to any third parties except where they are specifically employed to help deliver our own services, as detailed above.
+
+## Security
+
+We take many precautions to prevent the loss, misuse or alteration of your personal information. These precautions include:
+
+  * Hardware stored in secured datacentres behind firewalls
+  * All access to information restricted by password and/or secure key
+  * Restrictions to what information can be accessed via any location
+
+
+
+Whilst we take great care to ensure any confidential information remains protected we cannot guarantee the security of data sent over the Internet.
+
+Of course you are responsible for keeping your password and user details confidential. Nobody at StevenAitchison.co.uk will ever ask you for your password, so please don’t trust anybody asking you for it.
+
+## Updates to this policy
+
+We may update this privacy policy from time-to-time, particularly as technology changes. You can always check this page for the latest version. We may also notify you of changes to our privacy policy by email.
+
+## Any questions?
+
+If you have any questions about this privacy policy or your personal data, please write to us by email to enquiries@stevenaitchison.co.uk or by post to CYT Media Ltd,UPPER FLOOR UNIT 1 82 MUIR STREET HAMILTON LANARKSHIRE ML3 6BJ
