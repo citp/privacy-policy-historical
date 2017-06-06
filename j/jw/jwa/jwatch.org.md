@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127004921id_/http%3A//www.nejmgroup.org/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101800id_/http%3A//www.nejmgroup.org/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # NEJM Group
 
-_Last updated: December 2015_
+_Last updated: May 2017_
 
 ### Governing Principles
 
@@ -30,7 +30,7 @@ In addition to the information that you provide to us directly, we may collect i
 
 #### _Cookies_
 
-We use cookies to collect information and help personalize your user experience. We store minimal personally identifying information in cookies and protect this information. Cookies allow us to recognize you when you return to use a Service and help us to personalize your user experience and track usage. We do not store complete records or credit card numbers in cookies. You can find out more about how we use cookies at our [Cookie Information page](https://web.archive.org/web/20161127004921id_/http%3A//www.nejmgroup.org/legal/cookie-information.htm "NEJM Group Cookie Information").
+We use cookies to collect information and help personalize your user experience. We store minimal personally identifying information in cookies and protect this information. Cookies allow us to recognize you when you return to use a Service and help us to personalize your user experience and track usage. We do not store complete records or credit card numbers in cookies. You can find out more about how we use cookies at our [Cookie Information page](https://web.archive.org/web/20170606101800id_/http%3A//www.nejmgroup.org/legal/cookie-information.htm "NEJM Group Cookie Information").
 
 We also may use cookies and other tracking technology to facilitate the delivery of relevant ads to you through the Services. 
 
@@ -43,13 +43,15 @@ We may also use clear gifs, which are tiny graphics with unique identifiers that
 
 ### HOW IS THIS INFORMATION USED?
 
-Information that you provide to us will be used to process, fulfill, and deliver your requests for content and services and, where applicable, report points and credits to credentialing organizations. We also may send you information about our various products and services, unless you have indicated you do not wish to receive further information. You may unsubscribe from our e-mail services at any time. For additional information on how to unsubscribe from our e-mail services, please refer to the [How to Make Changes to Your Information section](https://web.archive.org/web/20161127004921id_/http%3A//www.nejmgroup.org/legal/privacy-policy.htm#how-to-make-changes-to-your-information "NEJM Group Privacy Policy -- How to Make Changes to Your Information") of this Privacy Policy.
+Information that you provide to us will be used to process, fulfill, and deliver your requests for content and services and, where applicable, report points and credits to credentialing organizations. We also may send you information about our various products and services, unless you have indicated you do not wish to receive further information. You may unsubscribe from our e-mail services at any time. For additional information on how to unsubscribe from our e-mail services, please refer to the [How to Make Changes to Your Information section](https://web.archive.org/web/20170606101800id_/http%3A//www.nejmgroup.org/legal/privacy-policy.htm#how-to-make-changes-to-your-information "NEJM Group Privacy Policy -- How to Make Changes to Your Information") of this Privacy Policy.
 
 Information collected automatically is used to monitor users’ interests and usage patterns in order to help us enhance and improve our service offerings. 
 
-We may share your personal information with applicable third-party service providers, including credit card processors, data analytics and customer support providers, and IT service providers. These providers are obligated to maintain your personal information as confidential and have access to your personal information only as necessary to perform their requested function on your behalf. 
+We may share your personal information with applicable third-party service providers, including credit card processors, data analytics and customer support providers, IT service providers, and partner organizations (including medical credentialing and accreditation organizations in connection with our CME and MOC offerings). These providers and organizations are obligated to maintain your personal information as confidential and have access to your personal information only as necessary to perform their requested function on your behalf. 
 
 We may also report aggregate information about usage to third parties, including our service providers and advertisers. 
+
+For NEJM Catalyst users, we may share your information with sponsors or other third parties in order to provide them with an opportunity to offer products and services that may be of interest to you. If so, we will notify you at the time of download or registration.
 
 For NEJM Knowledge+ users, if your access is purchased for you through a residency program, we may share with your residency program administrators your personal information and certain usage and performance data, including your progress and time spent in various modules, your practice exam scores, and your metacognitive scores.
 
