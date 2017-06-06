@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the airgas.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130200349id_/http%3A//airgas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgas.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024317id_/http%3A//airgas.com/privacy) for the most accurate reproduction.*
 
 # Airgas
 
-(Last updated September, 2014)
+(Last updated January, 2017)
 
 We know that you care how your personal information is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Your access to, and use of, the Site is subject to Company's Terms and Conditions of Use. We have created this Privacy Policy to explain what information we gather from you when you visit our Site, how we may use this information, and the security approaches we use to protect your information. This Privacy Policy is incorporated and made part of Company's Terms and Conditions of Use.
 
