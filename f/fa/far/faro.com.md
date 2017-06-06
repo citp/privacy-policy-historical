@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321142925id_/http%3A//www.faro.com/en-us/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135425id_/http%3A//www.faro.com/en-us/footer/privacy-policy) for the most accurate reproduction.*
 
 # FARO - Privacy Policy
 
 This website is owned and operated by FARO Technologies Inc. (“FARO”, “we”, “our”, or “us”). FARO respects the privacy of visitors to our website. This Notice describes the types of information we collect about visitors to the FARO website, how we may use the information and with whom we may share it. This Notice also describes (1) the measures we take to safeguard the information we collect and (2) your rights and privileges concerning our collection, use and disclosure of information about you. 
 
-This Notice is consistent with [FARO’s Notice of Safe Harbor Compliance](https://web.archive.org/en-us/footer/legal-notices) regarding transfers of personal information from the European Economic Area to the United States. 
+This Notice is consistent with [FARO’s Notice of Privacy Shield Compliance](https://web.archive.org/en-us/footer/legal-notices) regarding transfers of personal information from the European Economic Area to the United States. 
 
 This Notice applies to the FARO website, located at [www.faro.com](http://www.faro.com/), as well as to any versions of the FARO website that FARO operates. Please note that our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. 
 
@@ -93,7 +93,7 @@ The FARO website may contain links to websites or web pages not operated by FARO
 
 **Data Transfers**
 
-We may transfer the Personal Information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Notice and in accordance with applicable law and FARO’s Safe Harbor Privacy Practices, if applicable.
+We may transfer the Personal Information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Notice and in accordance with applicable law and FARO’s Privacy Shield Privacy Practices, if applicable.
 
 **Data Security**
 
@@ -113,3 +113,5 @@ FARO Technologies
 250 Technology Park  
 Lake Mary, FL 32746  
 (800) 736-0234  \-  (407) 333-9911
+
+**Effective Date**  – This policy was placed in effect on September 29, 2016.
