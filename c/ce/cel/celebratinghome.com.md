@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebratinghome.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006093533id_/http%3A//celebratinghomedirect.com/How-We-Do-It/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebratinghome.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095356id_/http%3A//celebratinghomedirect.com/Information/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | CelebratingHomeDirect.com
+# Privacy Policy | Celebrating Home Direct
 
 This Privacy Policy is designed to help you understand how Celebrating Home Direct LLC and its affiliated brands, including CelebratingHomeDirect.com, Home & Garden Party, LTD, Celebrating Home, Penelope Ann, and Home Interiors ("CH Direct", "we" or "us") collects and processes the information that you share when you use this and any of our websites, including our mobile applications and related consumer services.
 
@@ -159,7 +159,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Celebrating Home Direct  
-2938 Brown Road  
+1070 Pumpkin Center Road  
 Marshall, Texas 75672   
 CustomerService@celebratinghomedirect.com  
 (903) 935-4197
