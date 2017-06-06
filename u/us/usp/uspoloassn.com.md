@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspoloassn.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122093453id_/http%3A//www.uspoloassn.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspoloassn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023017id_/http%3A//uspoloassn.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - U.S. Polo Assn.
 
@@ -62,7 +62,7 @@ We take reasonable precautions to protect your Information from loss, misuse or 
 
  **Other Communications**
 
-From time to time, we may communicate marketing events, Site updates and changes or other developments at the Company to Site users via email. Such emails may be sent to users of the Site even if they have not requested to receive any communication from us. If you wish to unsubscribe from such email communication, [please click here to unsubscribe.](http://jordachecorporate.us7.list-manage.com/unsubscribe?u=9122d0d2d141a296a3c9e2606&id=fe12aa1b65)
+From time to time, we may communicate marketing events, Site updates and changes or other developments at the Company to Site users via email. Such emails may be sent to users of the Site even if they have not requested to receive any communication from us. If you wish to unsubscribe from such email communication, [please click here to unsubscribe.](https://web.archive.org/pages/preference-center)
 
  **Referrals**
 
@@ -80,7 +80,7 @@ The Company is concerned with protecting the privacy of children who access the 
 
 We reserve the right to disclose any Information to maintain compliance with any law, regulation, decree, judgment, order, subpoena or any other governmental order ("Order"), without any obligation to contest or verify the accuracy of such Order.
 
-Applicable Law
+ **Applicable Law**
 
 This Policy will be governed by and construed in accordance with the laws of the State of New York, without regard to any principles of conflicts of law. You agree that any action at law or in equity that arises out of, or relates to any use of the Site will be filed only in the state or federal courts located in the State of New York, and you hereby consent and submit to the personal jurisdiction of such courts for the purposes of litigating any such action.
 
@@ -94,4 +94,4 @@ U. S. Polo Assn. USA Ecommerce
 
 New York, NY 10018
 
-Our policy was last updated on July 24, 2013.
+Our policy was last updated on January 31, 2017.
