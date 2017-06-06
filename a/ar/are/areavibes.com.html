@@ -1,15 +1,17 @@
-<!--The following is the downloaded HTML source of the areavibes.com privacy policy that was archived on 2016-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124075356id_/http%3A//www.areavibes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the areavibes.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606154200id_/http%3A//www.areavibes.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head data-placement="corp-privacy">
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="async" src="//www.googletagservices.com/tag/js/gpt.js"></script>
-  <script>
+<!DOCTYPE html><html lang="en"><head data-placement="">
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
   </script>
-  <!--
   <script async="async" src="/assets/header.js"></script>
-  -->
+  <script async="async" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+  <script async="async" src="http://ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13387859&amp;uid=areavibes" id="sBeacon"></script>
+  <script async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
 
   <meta charset="utf-8">
   <title>AreaVibes Methodology - How The Livability Score Works</title>
@@ -45,7 +47,7 @@
           <nav>
             <div class="nav-group">
               <a href="/real-estate/">Find Homes</a>
-              <a href="/best-places/america/">Best Places 2016</a>
+              <a href="/best-places/america/">Best Places 2017</a>
               <a href="/library/best-places-to-live/">Top 10 Cities</a>
               <a href="/library/">Blog</a>
             </div>
@@ -198,6 +200,64 @@
   </div>
 </div>
 
+<div class="modal-dialog" id="dialog-survey">
+  <div class="modal-dialog-container">
+    <form>
+      <strong class="form-header">30 Second Survey</strong>
+      <input type="hidden" name="state">
+
+      <div class="form-fields">
+        <div class="survey-panel" id="panel-yn">
+          <b>Would you like to take the survey?</b>
+          <button type="button" class="ack" value="y">Yes</button><button type="button" class="nak" value="n">No</button>
+        </div>
+
+        <div class="survey-panel" id="panel-ini">
+          <b>Are you planning on moving/relocating?</b>
+          <button type="button" class="ack" data-next="panel-ack">Yes</button><button type="button" class="nak" data-next="panel-nak">No</button>
+        </div>
+
+        <div class="survey-panel" id="panel-ack">
+          <b>Are you looking to buy or rent?</b>
+          <label><input type="radio" name="buy-rent" value="buy"> Buy</label>
+          <label><input type="radio" name="buy-rent" value="rent"> Rent</label>
+
+          <b>When are you planning to move/relocate?</b>
+          <label><input type="radio" name="move-when" value="1"> 1 month</label>
+          <label><input type="radio" name="move-when" value="3"> 3 months</label>
+          <label><input type="radio" name="move-when" value="6"> 6 months</label>
+          <label><input type="radio" name="move-when" value="12"> 1 year</label>
+          <label><input type="radio" name="move-when" value="13"> More than 1 year</label>
+
+          <b>Where are you planning to move to?</b>
+          <label><input type="radio" name="move-where" value="sc"> Within the same city</label>
+          <label><input type="radio" name="move-where" value="ss"> Within the same state</label>
+          <label><input type="radio" name="move-where" value="ds"> Different state</label>
+
+          <b>What can we do to improve the site?</b>
+          <textarea rows="1" cols="1" name="improve-mv"></textarea>
+
+          <button type="submit">Done</button>
+        </div>
+
+        <div class="survey-panel" id="panel-nak">
+          <b>Are you using the site to</b>
+          <label><input type="radio" name="other" value="qc"> Conduct a quality check on your area</label>
+          <label><input type="radio" name="other" value="vc"> Plan your next vacation</label>
+          <label><input type="radio" name="other" value="jb"> Just browsing</label>
+
+          <b>What can we do to improve the site?</b>
+          <textarea rows="1" cols="1" name="improve-ot"></textarea>
+
+          <button type="submit">Done</button>
+        </div>
+
+        <div class="modal-dialog-x"></div>
+      </div>
+    </form>
+  </div>
+</div>
+
 <div class="social-btns-container">
   <div id="sb-tw"></div>
   <div id="sb-fb"></div>
@@ -239,7 +299,7 @@
       	</div>
 
       	<div class="footer-copyright">
-      		© Areavibes Inc. 2010-2016      	</div>
+      		© Areavibes Inc. 2010-2017      	</div>
       </div>
     </div>
   </div>
