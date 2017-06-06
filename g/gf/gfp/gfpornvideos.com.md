@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfpornvideos.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214225125id_/http%3A//gfpornvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfpornvideos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024057id_/http%3A//gfpornvideos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,4 +23,4 @@ By accepting the Terms and Conditions in registration, a member /subscriber (“
 
 Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country but we will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not subscribe, join or seek membership at our website. If you send us correspondence, including e-mails and faxes, we retain such information in the records of your account. We will also retain customer service correspondence and other correspondence from us to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our User Agreement. We may, over time, delete these records if permitted by law.
 
-This site is owned and operated by SmartNet Publishers Ltd. 71-75 Shelton Street, Covent Garden, London WC2H 9JQ, UK 
+This site is owned and operated by SmartNet Publishers Ltd. Office 21 The Generation Centre, Dane Street, Rochdale, Greater Manchester, OL12 6XB, UK. 
