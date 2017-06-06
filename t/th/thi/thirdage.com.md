@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119180115id_/http%3A//thirdage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053851id_/http%3A//thirdage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thirdAGE | healthy living for women + their families
 
@@ -67,8 +67,8 @@ This Privacy Policy has been in effect since May 26, 2006.
 For more information, or if you have questions or concerns regarding Adprime Media’s Privacy Policy, please contact us, or you can send correspondence to the following address:
 
 Adprime Media  
-33 Whitehall St. 8th Floor  
-New York, NY 10004
+88 Pine Street, 26th Floor  
+New York, NY 10005
 
 ### **Privacy Policy: Opting-out**
 
