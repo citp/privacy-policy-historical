@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gridgum.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230014243id_/http%3A//gridgum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gridgum.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231537id_/https%3A//gridgum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gridgum
 
