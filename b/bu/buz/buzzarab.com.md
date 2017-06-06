@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzarab.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014205537id_/http%3A//www.buzzarab.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzarab.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201715id_/https%3A//www.buzzarab.com/en/content/privacy.php) for the most accurate reproduction.*
 
-# Integritetspolicy - buzzArab
+# Privacy Policy - buzzArab
 
 The owners of this Service have created this Privacy Statement (Policy) in order to demonstrate our firm commitment to help our users better understand what information we collect about them and what may happen to that information.
 
@@ -32,6 +32,7 @@ We use a third party advertising company, to serve ads on our behalf across the 
   * • Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
   * • Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](https://www.google.com/privacy_ads.html)
   * • Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+  * • buzzArab uses Microsoft Cognitive Services. Microsoft will receive certain data from  _buzzArab  _to provide and improve its products. To report abuse of the Microsoft Cognitive Services to Microsoft, please visit the Microsoft Cognitive Services website at [https://www.microsoft.com/cognitive-services](https://www.microsoft.com/cognitive-services), and use the “Report Abuse” link at the bottom of the page. For more information refer to the Microsoft Privacy Statement here: [https://go.microsoft.com/fwlink/?LinkId=521839.](https://go.microsoft.com/fwlink/?LinkId=521839)
 
 
 
@@ -83,13 +84,13 @@ Our services also include access to instant messaging and chat rooms. As a membe
 
 6\. **Accessing, Reviewing and Changing Your Profile**
 
-**Modify your information** : Following registration, you can review and change the information you submitted during registration through the [Edit Profile](https://web.archive.org/sv/editprofile.php) command including your password and e-mail address. If you change your password and email we keep track of your old password and email. You can also change your registration information such as: name, country, city, profile, likes and dislikes, desired date profile, essays and saves search criteria.
+**Modify your information** : Following registration, you can review and change the information you submitted during registration through the [Edit Profile](https://web.archive.org/en/editprofile.php) command including your password and e-mail address. If you change your password and email we keep track of your old password and email. You can also change your registration information such as: name, country, city, profile, likes and dislikes, desired date profile, essays and saves search criteria.
 
-**Delete your information** : Upon your written request, we will remove your membership and contact information from our active databases. Such information will be suspended as soon as reasonably possible in accordance with our suspension policy and applicable law. To remove your profile so that others cannot view it, visit the [Delete Profile page](https://web.archive.org/sv/delete_profile.php). Note that you must be logged in to perform this action.
+**Delete your information** : Upon your written request, we will remove your membership and contact information from our active databases. Such information will be suspended as soon as reasonably possible in accordance with our suspension policy and applicable law. To remove your profile so that others cannot view it, visit the [Delete Profile page](https://web.archive.org/en/delete_profile.php). Note that you must be logged in to perform this action.
 
 We will retain in our files information you have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
 
-**Opting out of all Emails send by us**  : To opt-out of all emails sent by us, you must deactivate your profile with us. You can do this in the [Deactivate Profile page](https://web.archive.org/sv/deactivate.php). Note that you must be logged in to perform this action. Please note that you can continue to receive emails from us for up to 48 hours after you deactivate your profile. We apologize for any inconvenience this may cause you.
+**Opting out of all Emails send by us**  : To opt-out of all emails sent by us, you must deactivate your profile with us. You can do this in the [Deactivate Profile page](https://web.archive.org/en/deactivate.php). Note that you must be logged in to perform this action. Please note that you can continue to receive emails from us for up to 48 hours after you deactivate your profile. We apologize for any inconvenience this may cause you.
 
 7\. **Control of Your Password**
 
