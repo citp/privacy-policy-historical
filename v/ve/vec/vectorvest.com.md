@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vectorvest.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122230919id_/http%3A//www.vectorvest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorvest.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141633id_/http%3A//www.vectorvest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VectorVest
 
-This privacy policy applies to personal information and data collected at the www.vectorvest.com website, and to personal information and data collected by VectorVest, Inc. (“VectorVest”) for its courses, training, software, research, subscription services, free trials, marketing, and all other products and services it offers on its own or may offer on behalf of third parties including at additional websites (collectively the “Services”). VectorVest is committed to protecting the privacy of users of the Services. VectorVest does however gather certain types of information about the users of the Services, and wants users to fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services. If users are using or receiving any of the Services through any party other than VectorVest, that is a customer of or has a contract with VectorVest, this privacy policy does not supersede the terms of any agreements between VectorVest and any other party.
+This privacy policy applies to personal information and data collected at the www.vectorvest.com website, and to personal information and data collected by VectorVest, Inc. (“VectorVest”) for its courses, training, software, research, subscription services, free trials, marketing, and all other products and services it offers on its own or may offer on behalf of third parties including at additional websites (collectively the “Services”). VectorVest is committed to protecting the privacy of users of the Services. VectorVest does however gather certain types of information about the users of the Services, and wants users to fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services. VectorVest is subject to the regulatory and enforcement authority of the United States Federal Trade Commission (FTC). VectorVest also adheres to the [Privacy Shield Principles](https://www.privacyshield.gov/servlet/servlet.FileDownload?file=015t00000004qAg) (the “Principles”) which are incorporated by reference as if fully set forth herein. Further information about the US-EU Privacy Shield is available at the [Privacy Shield Website](https://www.privacyshield.gov/).
 
 1\. Information VectorVest collects.
 
@@ -24,13 +24,9 @@ Also, please be aware that advertisers or websites that are linked to the Servic
 
 VectorVest utilizes other companies to provide limited services on its behalf, including but not limited to customer support, web analytics, coordination of mailings and event management. These companies are permitted to access only the information they require to perform those services. VectorVest requires these companies to maintain the confidentiality of any personal information and data and prohibits them from using the information for any other purpose than the purpose for which it was collected.
 
-The personal information and data users of the Services supply to VectorVest may also be given, sold, rented, loaned, disseminated, or disclosed to third parties outside of VectorVest for sales and marketing purposes and solicitations. If a user does not want his or her information to be shared, the user can choose not to allow the transfer by not using the Services, or by following the opt-out procedures identified in section 5 below. We are not responsible, accountable, or liable for what any third parties do with such user personal information and data.
+The personal information and data users of the Services supply to VectorVest may also be given, sold, rented, loaned, disseminated, or disclosed to third parties outside of VectorVest for sales and marketing purposes and solicitations. If a user does not want his or her information to be shared, the user can choose not to allow the transfer by not using the Services, or by following the opt-out procedures identified in section 5 below. The personal information and data users of the Services supply to VectorVest may also be given, transferred, disseminated, or disclosed to third parties under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce any terms of use of the Services, (iii) respond to claims that any content provided by using the Services violates the rights of third parties, (iv) protect the rights, property, or personal safety of VectorVest, its users, or the public, (v) enter into or comply with a contract, or (vi) complete an audit of any kind. Please know that VectorVest may be required to release an individual’s personal information in response to a lawful request by public authorities especially to accommodate national security or law enforcement requirements. Before any user’s personal information or data will be transferred by us to third parties for commercial purposes, including for sales and marketing, we will first obtain from the third party a contract assuring that it too abides by the Privacy Shield and Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland, or in the alternative we will obtain a written agreement from the third party that it will adhere to such safe harbor framework and principles.
 
-The personal information and data users of the Services supply to VectorVest may also be given, transferred, disseminated, or disclosed to third parties under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce any terms of use of the Services, (iii) respond to claims that any content provided by using the Services violates the rights of third parties, (iv) protect the rights, property, or personal safety of VectorVest, its users, or the public, (v) enter into or comply with a contract, or (vi) complete an audit of any kind. We are not responsible, accountable, or liable for what any third parties do with such user personal information and data.
-
-Before any user’s personal information or data will be transferred by us to third parties for commercial purposes, including for sales and marketing, we will first obtain from the third party a statement and assurance that it too abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland, or in the alternative we will obtain a written agreement from the third party that it will adhere to such safe harbor framework and principles.
-
-To learn more about the Safe Harbor program, and to view VectorVest’s certification, please visit <http://www.export.gov/safeharbor/>.
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, VectorVest is potentially liable. To learn more about the Privacy Shield program, and to view VectorVest’s certification, please visit <https://www.privacyshield.gov/>
 
 4\. What is a cookie?
 
@@ -42,29 +38,39 @@ Users of the Services should contact us at the address below with any questions 
 
 6\. User Access to Information
 
-VectorVest offers users the ability to edit, correct, or change the information and data collected during registration. Users may change this information at any time and as often as necessary by choosing the “edit account” option or other similar functionality offered in the Services. To access or change your personal information, log in to your account through the Services. For editing data not available through such an account, please call us at (888) 658-7638, write to us at the address below, or email us at [support@vectorvest.com](mailto:support@vectorvest.com).
+VectorVest acknowledges the individual’s right to access their personal data. VectorVest offers users the ability to edit, correct, or change the information and data collected during registration. Users may change this information at any time and as often as necessary by choosing the “edit account” option or other similar functionality offered in the Services. To access or change your personal information, log in to your account through the Services. For editing data not available through such an account, please call us at (888) 658-7638, write to us at the address below, or email us at [support@vectorvest.com](mailto:support@vectorvest.com).
 
 7\. Security
 
 All user personal information is stored on servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data. We also have appropriate managerial procedures in place to safeguard the information we collect.
 
-8\. European Union Data Protection for Residents of the EU or Switzerland
+8\. European Union Data Protection for Residents of the EU
 
-If a user resides in the European Union or Switzerland, upon registration that user will be indicating his or her explicit consent that the personal information and data such user has provided may be transferred and stored in countries outside the EU and Switzerland, including the United States. If such a user that resides in the European Union or Switzerland, fails or refuses to provide such consent, such user will not be permitted to access the Services for which user registration is required. VectorVest abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. In order to comply with the European Union’s and Switzerland’s Safe Harbor Principles, VectorVest commits to the resolution of complaints about user privacy and our collection or use of user personal information. We have committed to resolve any complaints by European Union or Swiss citizens relating to this Privacy Policy, which cannot be resolved directly with our company, through BBB EU Safe Harbor, a dispute resolution procedure administered by the Council of Better Business Bureaus, Inc. If you reside in the European Union or Switzerland and do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by VectorVest, Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+VectorVest complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. VectorVest has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
-9\. Complaints and Dispute Resolution for Residents outside of the EU and Switzerland
+9\. Complaints and Dispute Resolution for Residents of the EU
 
-If you reside outside of the EU or Switzerland and have any complaints about this privacy policy, or related to your personal information and data, please contact us at the address and contact information in Section 12 below.
+In compliance with the EU-US Privacy Shield Principles, VectorVest commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact VectorVest via: 
 
-10\. User Consent
+call us at (888) 658-7638, write to us at the address below, or email us at [support@vectorvest.com](mailto:support@vectorvest.com).
+
+VectorVest has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and go to <http://www.bbb.org/EU-privacy-shield/file-a-complaint/> to file a complaint.
+
+Finally and under limited circumstances, complaints not resolved through these channels may seek redress before the Privacy Shield Panel, a binding arbitration independent recourse mechanism. 
+
+10\. Complaints and Dispute Resolution for Residents outside of the EU and Switzerland
+
+If you reside outside of the EU or Switzerland and have any complaints about this privacy policy, or related to your personal information and data, please contact us at the address and contact information in Section 13 below.
+
+11\. User Consent
 
 By using the Services, users signify their assent to this privacy policy and to the collection, use and dissemination of their personal information and data, including to third parties, as described herein, and for the purposes described herein. If a user does not agree to this policy, or to the collection, use and dissemination of their personal information and data, including to third parties, as described herein, and for the purposes described herein, he or she should not use the Services, or follow the opt-out procedures identified in section 5 above.
 
-11\. Changes to Privacy Policy
+12\. Changes to Privacy Policy
 
-If VectorVest changes this privacy policy, we will post those changes at www.vectorvest.com/privacy so that users will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Continued use of the Services by a user following the posting of changes to these terms will likewise mean the user accepts those changes.
+If VectorVest changes this privacy policy, we will post those changes at [www.vectorvest.com/privacy](http://www.vectorvest.com/privacy) so that users will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Continued use of the Services by a user following the posting of changes to these terms will likewise mean the user accepts those changes.
 
-12\. Contact Us
+13\. Contact Us
 
 If you have any questions or complaints regarding this policy, please contact:
 
@@ -77,4 +83,4 @@ e. [lindar@vectorvest.com](mailto:lindar@vectorvest.com)
 p. (330) 867-2814, ext. 502  
 f. (216) 803-0880
 
-Revision Date: 2/15/2012 
+Revision Date: 11/08/2016 
