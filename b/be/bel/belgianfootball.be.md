@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belgianfootball.be privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023224507id_/http%3A//belgianfootball.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belgianfootball.be privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071952id_/http%3A//www.belgianfootball.be/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Belgian Football Association
 
@@ -105,3 +105,5 @@ U.R.B.S.F.A.
 145 Avenue Houba de Strooper
 
 1020 Brussels
+
+VAT ID number: BE0403543160
