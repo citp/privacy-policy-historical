@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliancedata.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109220758id_/https%3A//www.alliancedata.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancedata.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175017id_/https%3A//www.alliancedata.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Alliance Data
 
