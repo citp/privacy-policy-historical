@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119143635id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080224id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Driver Whiz Privacy Policy
+# Privacy Policy - DriverWhiz
 
 383 Media Inc., the provider of this website (referred to as “us”,  
 “we”, and “our”), is committed to protecting user privacy (referred to  
@@ -115,7 +115,7 @@ complete the action, you may be sent reminder communications that
 your action was not complete. By your initiation of such actions and  
 use of our website, you consent to receive such communications. 
     *   *     * **B. Download or Use our Products** – Dependent on whether  
-the product is a free, trial, or purchased version, 383 Media may  
+the product is a trial, or purchased version, 383 Media may  
 collect different types of information from you. The products may  
 access such information through submission or processes initiated in  
 the products by you or through internal automatic scanning and  
@@ -123,8 +123,8 @@ assessment functions and may submit collected data to 383 Media or
 its affiliates via internal automatic submission functions. 
       * **Limited Functionality and/or Duration Products –** Typically,  
 we do not require you to register PII in order to download and use  
-free or trial versions of our products for the applicable free or  
-trial period. However, in some cases, particularly with full  
+trial versions of our products for the applicable trial period.  
+However, in some cases, particularly with full  
 functionality trials, we may ask you to register PII before you  
 can download and use the product. Later, when you download and run  
 such products we may collect information such as your IP address  
@@ -283,40 +283,7 @@ unlawful. Except as described above, we will not disclose your PII to
 third parties for their own marketing purposes unless you have provided  
 consent.
 
-### 6\. Targeted Advertising
-
-383 Media works with third party advertising and personalization  
-partners that may use cookies to help us display personalized content  
-and appropriate advertising during your use of our products.  
-Advertisements may be presented to the user: through the checkout  
-process on our ecommerce site; via email to users who begin but do not  
-complete purchase; during the download process on that respective site;  
-during the install and uninstall processes via optional offers for other  
-products and/or services; after users purchase a product and initiate  
-the activation process, during which process a third party call support  
-center may verbally pitch or email third party products and services;  
-via email by 383 Media upon opting into receiving such emails. Third  
-parties may use cookies to deliver advertising for companies other than  
-383 Media to you on the internet. These cookies assist the third parties  
-in identifying the pages you view, the links and ads you click on, other  
-actions you take on those web pages, and the site from which you came  
-before arriving at a web page. We cannot control this collection of  
-information. You should contact these third part advertisers directly if  
-you have any questions about their collection and/or use of your  
-information. Some marketing you receive upon opting into to such  
-advertising, including email marketing, may also be personalized based  
-on your use and purchase of our products. In addition, when you click on  
-some links in email marketing you receive; our email service provider  
-may place a cookie on your browser. This cookie would be linked to your  
-email address and used to gather information about the products and  
-services you view and purchase on our websites. Information gathered may  
-be used to personalize and customize future email marketing messages you  
-receive. You may opt out of this use by clicking on the unsubscribe link  
-provided in every personalized email marketing message you receive.  
-Alternatively, you may be able to prevent such collection by declining  
-cookies using your web browser.
-
-### 7\. Third-Party Websites and Services
+### 6\. Third-Party Websites and Services
 
 Except as otherwise discussed in this policy, this document addresses  
 only the use and disclosure of information we collect about and from  
@@ -330,7 +297,7 @@ any questions as to their privacy practices. 383 Media shall not be
 held liable for any damage or loss arising out of your interactions  
 with any third party.
 
-### 8\. How you can update or make changes to your personal information
+### 7\. How you can update or make changes to your personal information
 
 We believe that you should have the ability to edit the PII that you  
 have provided us. You may access and edit your account information by  
@@ -338,7 +305,7 @@ contacting us through the contact information provided herein. We
 encourage you to promptly update your PII if it changes. At this time  
 383 Media does not delete information collected from users.
 
-### 9\. How you can update your communication preferences
+### 8\. How you can update your communication preferences
 
 You may chose not to receive marketing communications from us by  
 clicking on the unsubscribe link or following the instructions  
@@ -354,7 +321,7 @@ Because some promotions, such as direct mail catalogs, are developed
 in advance, you may sometimes receive solicitations after we receive  
 your communication preference request.
 
-### 10\. Collection and Use of Children’s Information
+### 9\. Collection and Use of Children’s Information
 
 – 383 Media takes children’s privacy seriously. We do not knowingly  
 collect, use or disclose personal information from children under the  
@@ -363,7 +330,7 @@ the age of majority in your jurisdiction, please do not submit any
 personal information through our websites without the express consent  
 and participation of a parent or guardian.
 
-### 11\. Updating the Privacy Notice
+### 10\. Updating the Privacy Notice
 
 383 Media reserves the right to change this Privacy Policy at any  
 time. Such changes, modifications, additions or deletions shall be  
@@ -377,7 +344,7 @@ continued use of the site after such modifications will constitute
 your: (a) acknowledgment of the modified Policy; and (b) agreement to  
 abide and be bound by the modified Policy.
 
-### 12\. Contact Us
+### 11\. Contact Us
 
 The preferred method for you to contact us is via our  
 [Contact Us](https://web.archive.org/support/contact) form on our Site. In the  
