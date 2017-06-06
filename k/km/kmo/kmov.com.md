@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119203900id_/http%3A//www.kmov.com/story/30079230/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161414id_/http%3A//www.kmov.com/story/30079230/privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - KMOV.com
 
