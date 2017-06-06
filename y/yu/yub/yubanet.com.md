@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yubanet.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026184712id_/http%3A//yubanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yubanet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202918id_/https%3A//yubanet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YubaNet
 
@@ -16,7 +16,7 @@ yubanet.com uses cookies to store information about visitors’ preferences, to 
 
 → Google, as a third party vendor, uses cookies to serve ads on yubanet.com.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to yubanet.com and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [//www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
