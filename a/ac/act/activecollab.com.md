@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activecollab.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221172450id_/https%3A//activecollab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activecollab.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172654id_/https%3A//activecollab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Active Collab
 
