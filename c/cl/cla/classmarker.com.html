@@ -1,372 +1,449 @@
-<!--The following is the downloaded HTML source of the classmarker.com privacy policy that was archived on 2016-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222194648id_/https%3A//www.classmarker.com/online-testing/privacy/%3Ftrk%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classmarker.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606231157id_/https%3A//www.classmarker.com/online-testing/privacy/%3Ftrk%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy ClassMarker</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcCUV5RChADU1ZaBAQAVw=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
 <meta name="description" content="Privacy. Create online quizzes free quiz maker.">
 <meta name="keywords" content="Online testing, Create online quizzes, free quiz maker, web based tests, online quiz maker, testing, test maker,  assesments, quiz software, quizzes, exams, free, classmarker, schools, teachers, students, instant marking, multiple choice, fill in the blank">
 <link rel="shortcut icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="/css3/home/cmhome.css?v=119" media="all">
+<link rel="stylesheet" type="text/css" href="/css3/home/cmhome.css?v=154" media="all">
 <!--[if lte IE 8]>
-<link rel="stylesheet" type="text/css" media="all" href="/css3/home/ie8.css?v=119" />
+<link rel="stylesheet" type="text/css" media="all" href="/css3/home/ie8.css?v=154" />
 <![endif]-->
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" media="all" href="/css3/home/ie7.css?v=119" />
+<link rel="stylesheet" type="text/css" media="all" href="/css3/home/ie7.css?v=154" />
 <![endif]-->
 <!--[if IE 6]>
-<link rel="stylesheet" type="text/css" media="all" href="/css3/home/ie6.css?v=119" />
+<link rel="stylesheet" type="text/css" media="all" href="/css3/home/ie6.css?v=154" />
 <![endif]-->
 <script type="text/javascript">
 		var web_root = "/";
 		var webpath_img = "/img3/";
 </script>
-<script type="text/javascript" src="/js3/jquery-1.9.1.min.js"></script><script type="text/javascript" src="/js3/cmall.js?v=94"></script>
+<script type="text/javascript" src="/js3/jquery-1.9.1.min.js"></script><script type="text/javascript" src="/js3/cmall.js?v=125"></script>
 </head>
 <body>
-<div id="header">
-<div class="col-full">
-<div class="h1">
-<a href="https://www.classmarker.com/">
-<img alt="ClassMarker Online quiz maker" src="/img3/home/free-quiz-maker.jpg" width="205" height="31">
-<span>ClassMarker Online quiz maker</span>
-</a>
-</div>
-<div class="header-buttons">
-<a class="register" href="https://www.classmarker.com/register/">Register</a>
-<a class="login" href="https://www.classmarker.com/">Log in</a>
-</div>
-</div>
-<div class="nav">
-<div class="col-full">
-<ul id="menu">
-<li><a href="https://www.classmarker.com/">Home</a></li>
-<li><a href="https://www.classmarker.com/online-testing/how-to-create-online-quiz/">Take a Tour</a></li>
-<li><a href="https://www.classmarker.com/online-testing/price/">Pricing</a></li>
-<li><a href="https://www.classmarker.com/online-testing/faq/">FAQ</a></li>
-<li><a href="https://www.classmarker.com/online-testing/contact-us/">Contact Us</a></li>
-</ul>
-</div>
-</div>
-</div>
+	<div id="header">
+		<div class="col-full">
+			<div class="h1">
+				<a href="https://www.classmarker.com/">
+					<img alt="ClassMarker Online quiz maker" src="/img3/home/free-quiz-maker.jpg" width="205" height="31">
+					<span>ClassMarker Online quiz maker</span>
+				</a>
+			</div>
+
+							<div class="header-buttons">
+				<a class="register" href="https://www.classmarker.com/register/">Register</a>
+				<a class="login" href="https://www.classmarker.com/">Log in</a>
+				</div>
+						</div>
+
+		<div class="nav">
+			<div class="col-full">
+				<ul id="menu">
+					<li><a href="https://www.classmarker.com/">Home</a></li>
+					<li><a href="https://www.classmarker.com/online-testing/how-to-create-online-quiz/">Take a Tour</a></li>
+					<li><a href="https://www.classmarker.com/online-testing/price/">Pricing</a></li>
+					<li><a href="https://www.classmarker.com/online-testing/faq/">FAQ</a></li>
+					<li><a href="https://www.classmarker.com/online-testing/contact-us/">Contact Us</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+
 <div class="top-heading hide">
-<div class="col-full">
-<h1>Privacy</h1>
-</div>
-</div><div id="main" class="white-bg">
-<div class="col-full">
-<div class="terms-box">
-<strong></strong>
-<h2>Privacy Policy</h2>
-<p><span class="littledark">Effective Date: 5 January 2016</span></p>
-<p>ClassMarker Pty Ltd ("<strong>ClassMarker</strong>”, "<strong>we</strong>”, "<strong>us</strong>”, or
-"<strong>our</strong>”) recognizes the importance of privacy. In this Privacy Policy,
-we describe how we collect, use, and disclose information that we obtain about visitors to our website,
-www.classmarker.com (the "<strong>Site</strong>”),
-and the services available through our Site (collectively, the "<strong>Services</strong>”).</p>
-<p>By visiting the Site or using any of our Services, you agree that your
-personal information will be handled as described in this Privacy
-Policy. Your use of our Site or Services, and any dispute over
-privacy, is subject to this Privacy Policy. Our
-<a href="/online-testing/terms/">Terms and Conditions</a> are incorporated by reference
-into this Privacy Policy.</p>
-<p>ClassMarker Pty Ltd (ACN 140552 389) is subject to the Privacy Act 1988 (Cth) and complies with the
-principles for handling your personal information.</p>
-<p><a href="#_Information_We_Collect">Information we collect</a><br>
-<a href="#_How_We_Use">How we use your information</a><br>
-<a href="#_How_We_Disclose_1">How we disclose your information</a><br>
-<a href="#_Cookies_and_other">Cookies and other tracking mechanisms</a><br>
-<a href="#_California_Do_Not">California Do Not Track disclosure</a><br>
-<a href="#_California_Do_Not_1">Third-party analytics</a><br>
-<a href="#_Interest_based_advertising">Internet-based advertising</a><br>
-<a href="#_User_generated_content">User-generated content</a><br>
-<a href="#_Security">Security</a><br>
-<a href="#_Your_choices">Your choices</a><br>
-<a href="#_Consent_to_transfer">Consent to transfer personal information</a><br>
-<a href="#_Children">Children</a><br>
-<a href="#_Ext_links">External links</a><br>
-<a href="#_Contact_Us">Contact us</a><br>
-<a href="#_Changes">Changes to this Privacy Policy</a></p>
-<a id="_Information_We_Collect"></a>
-<h3>1. Information we collect</h3>
-<p>We collect information, which may include personal information, about
-you directly from you, from third parties, and automatically through
-your use of our Site or Services. We may combine information
-automatically collected with other information that we have collected
-about you.</p>
-<p>You may browse and use certain portions of our Site without directly
-providing us with any personal information. For example, you can try
-our Sample Online Test without registering to use our Site. Certain
-features, however, require you to register. For example, in order to
-create your own quizzes you must provide us with certain information.</p>
-<ul class="star">
-<li><strong>Information We Collect Directly From You.</strong>
-Depending on your interactions with our Site, we may collect information directly from you,
-such as your name, username, email address, and country of residence if you use our Site. We will
-also collect any information that you otherwise provide to us through our Site, such as your name,
-email address,
-and message if you <a href="/online-testing/contact-us" title="contacts page">Contact Us</a>
-through our Site. </li>
-<li><strong>Information We Collect About You from Third Parties.</strong> We may collect certain information
-about you from a third party system that integrates with our system that sends us data via our API
-(which would require a registered administrator account to do so). </li>
-<li><strong>Information We Collect Automatically.</strong> We automatically collect information through
-your use of our Site using cookies and other technologies. This information may include, without
-limitation, your domain name, operating system, settings and system configurations, IP address, the
-webpages you access within our Site, the website that led you to our Site, the website to which you go
-after leaving our Site, the dates and times you access our Site, and web log data.</li>
-</ul>
-<a id="_How_We_Use"></a>
-<h3>2. How we use your information</h3>
-<p>We may use your information for the following purposes:</p>
-<ul class="star">
-<li><strong>Providing Our Services.</strong> To provide our Services to you; to communicate with you,
-including via email, about your use of our Services; to respond to your inquires; and for
-other customer service purposes.</li>
-<li><strong>Marketing.</strong> Where you consent, we may provide you with news and newsletters,
-special offers, and promotions; to contact you about products or information we think may interest
-you; and for other marketing, advertising, and promotional purposes provided that you have not
-opted-out of receiving such communications.</li>
-<li><strong>Analyzing Use of Our Services.</strong> To better understand how users access and use our
-Site and Services, both on an aggregated and individualized basis; to respond to user desires and
-preferences; and for other research and analytical purposes.</li>
-<li><strong>To Protect Rights and Interests.</strong> To protect our rights and interests as well as
-the rights and interests of our customers, users of our Site or Services, and any other person,
-as well as to enforce this Privacy Policy and our <a href="/online-testing/terms/">Terms and Conditions</a>. </li>
-<li><strong>Complying with the Law.</strong> To comply with applicable legal obligations,
-including informal requests from law enforcement.</li>
-</ul>
-<a id="_How_We_Disclose_1"></a>
-<h3>3. How we disclose your information</h3>
-<p>We may disclose your information, including personal information, with the following entities:</p>
-<ul class="star">
-<li><strong>ClassMarker Users.</strong> We will disclose your information to other ClassMarker users as
-part of our Services. For example, instructors will receive information about the users who have
-registered under them; this information may include user name, full name, email address and test
-results. Similarly, users will receive information about their instructors, such as their name or
-notes prepared by the instructor.</li>
-<li><strong>Affiliates.</strong> We may disclose your information to current or future affiliates or
-subsidiaries for research, marketing, and other purposes consistent with this Privacy Policy.</li>
-<li><strong>Service Providers.</strong> We may disclose your information to our vendors, service
-providers, agents, or others who perform functions on our behalf.</li>
-</ul>
-<p>We may also disclose your information, including personal information, in the following ways:</p>
-<ul class="star">
-<li><strong>Business Transfers.</strong> We may disclose your information to another entity if we are
-acquired by or merged with another company, if we sell or transfer a business unit or assets to
-another company, as part of a bankruptcy proceeding, or as part of any other similar business transfer.</li>
-<li><strong>Legal Compliance.</strong> We may disclose your information in order to comply with the law,
-regulation, a judicial proceeding, subpoena, court order, or other legal process, including informal
-law enforcement or governmental requests for information.</li>
-<li><strong>Protecting Rights and Interests.</strong> We may disclose your information where we believe
-it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud,
-situations involving potential threats to the safety of any person, violations of our
-<a href="/online-testing/terms/">Terms and Conditions</a> or this Privacy Policy,
-or as evidence in litigation in which we are involved.</li>
-<li><strong>Aggregate and De-Identified Information.</strong> Where permitted by law, we may disclose
-aggregate, anonymous, or de-identified information about users for marketing, advertising, research,
-or other purposes.</li>
-</ul>
-<a id="_Cookies_and_other"></a>
-<h3>4. Cookies and other tracking mechanisms</h3>
-<p>We and our service providers use cookies and other tracking mechanisms to track your use of our Site or Services.</p>
-<ul class="star">
-<li><strong>Cookies.</strong> We or our service providers may use cookies to track visitor activity on
-our Site. A cookie is a text file that a website transfers to your computer's hard drive for
-record-keeping purposes. We or our service providers may use cookies to track user activities
-on our Site, such as the pages visited and time spent on our Site. Most browsers allow users
-to refuse cookies. The Help portion of the toolbar on most browsers will tell you how to
-prevent your computer from accepting new cookies, how to have the browser notify you when
-you receive a new cookie, or how to disable cookies altogether. Users who disable cookies
-may not be able to browse certain areas of the Site.</li>
-<li><strong>Clear GIFs, pixel tags and other technologies.</strong> Clear GIFs are tiny graphics
-with a unique identifier, similar in function to cookies, which are embedded invisibly on web
-pages. We or our service providers may use clear GIFs (also known as web beacons, web bugs or
-pixel tags), in connection with our Site to track the activities of visitors to our Site, help
-us manage content, and compile statistics about usage of our Site. We or our service providers
-may also use clear GIFs in HTML emails to our users, to help us track email response rates, identify
-when our emails are viewed, and track whether our emails are forwarded.</li>
-<li><strong>Local Storage Objects.</strong> We may use Flash Local Storage Objects ("Flash LSOs”)
-to store your Site preferences and to personalize your visit. Flash LSOs are different from browser
-cookies because of the amount and type of data stored. Typically, you cannot control, delete, or
-disable the acceptance of Flash LSOs through your web browser. For more information on Flash LSOs,
-or to learn how to manage your settings for Flash LSOs, go to the Adobe Flash Player Help Page,
-choose "Global Storage Settings Panel” and follow the instructions. To see the Flash LSOs currently
-on your computer, choose "Website Storage Settings Panel” and follow the instructions to review and,
-if you choose, to delete any specific Flash LSO.</li>
-</ul>
-<a id="_California_Do_Not"></a>
-<h3>5. California Do Not Track disclosure</h3>
-<p>While there is still no universally accepted standard regarding tracking, our Site does respond
-to certain <a href="https://www.mozilla.org/en-US/firefox/dnt/" class="popup">Do Not Track</a>
-signals (e.g., the Mozilla Firefox Do Not Track feature). You may also
-disable certain tracking as discussed above (e.g., by disabling cookies) though doing so may mean
-that certain Site functionality will be lost (e.g., staying logged into the Site).
-For more information about tracking, please click <a href="http://www.allaboutdnt.com/" class="popup">here</a>.</p>
-<a id="_California_Do_Not_1"></a>
-<h3>6. Third-party analytics</h3>
-<p>We use service providers, such as
-<a href="http://www.google.com/intl/en/policies/privacy/" class="popup">Google Analytics demographics
-and interests reports as well as advertising reporting features</a>
-, to evaluate the use of our Site and our Services. We or our
-service providers use automated devices and applications to evaluate use of our Site and Services.
-We or our service providers use these tools to help us improve our Site, Services, performance, and
-user experiences. These entities may use cookies and other tracking technologies, such as web beacons
-or Flash LSO, to perform their services. To opt out of Google Analytics, go
-<a href="https://tools.google.com/dlpage/gaoptout/" class="popup">here</a>.</p>
-<a id="_Interest_based_advertising"></a>
-<h3>7. Interest-based advertising </h3>
-<p>We use third parties such as network advertisers to serve advertisements on our Site and on third-party
-websites or other media (e.g., social networking platforms). This enables us and these third parties to
-target advertisements to you for products and services in which you might be interested. Third-party ad
-network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript,
-web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the
-effectiveness of their ads and to personalize advertising content to you. These third-party cookies
-and other technologies are governed by each third party's specific privacy policy, not this one. </p>
-<p>Users in the United States may opt out of many third-party ad networks. For example, you may go to the
-Digital Advertising Alliance ("DAA”)
-<a href="http://www.aboutads.info/choices/" class="popup">Consumer Choice Page</a>
-for information about opting out of
-interest-based advertising and their choices regarding having information used by
-<a href="http://www.aboutads.info/participating/" class="popup">DAA companies</a>.
-You may also go to the Network Advertising Initiative ("NAI”)
-<a href="http://www.networkadvertising.org/choices/" class="popup">Consumer Opt-Out Page</a>
-for information
-about opting out of interest-based advertising and their choices regarding having information used by
-<a href="http://www.networkadvertising.org/participating-networks" class="popup">NAI members</a>.</p>
-<p>Opting out from one or more companies listed on the DAA
-<a href="http://www.aboutads.info/choices/" class="popup">Consumer Choice Page</a>
-or the NAI
-<a href="http://www.networkadvertising.org/choices/" class="popup">Consumer Opt-Out Page</a>
-will opt you out from those companies' delivery of interest-based
-content or ads to you, but it does not mean you will no longer receive any advertising through
-our Site or on other websites. You may continue to receive advertisements, for example, based on
-the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers
-are configured to reject cookies when you opt out on the DAA or NAI websites, your opt out may not
-be effective. Additional information is available on the DAA's website at
-<a href="http://www.aboutads.info/" class="popup">www.aboutads.info</a>
-or the
-NAI's website at
-<a href="http://www.networkadvertising.org/" class="popup">www.networkadvertising.org</a>.</p>
-<a id="_User_generated_content"></a>
-<h3>8. User-generated content</h3>
-<p>Note that if you post information in a publicly accessible portion of our Site or Service, it may be
-viewed by other users and potentially be further disclosed by those users. Please exercise caution
-when deciding to disclose such information.</p>
-<a id="_Security"></a>
-<h3>9. Security</h3>
-<p>We take reasonable steps to protect your personal information from misuse, loss, unauthorised access,
-modification or disclosure. For example, we take steps to destroy or permanently de-identify personal
-information if we no longer need it for any purpose. Please be aware that despite our efforts, no data
-security measures can guarantee 100% security.</p>
-<p>If you have an account with us, you should take steps to protect against unauthorized access to your
-account by, among other things, choosing a robust password that nobody else knows or can easily guess
-and keeping your log-in and password private. We are not responsible for any lost, stolen, or
-compromised passwords or for any activity on your account via unauthorized password activity.</p>
-<a id="_Your_choices"></a>
-<h3>10. Your choices</h3>
-<p>We take reasonable steps to ensure the personal information that ClassMarker collects, uses or
-discloses is accurate, complete and up-to-date. You may modify your personal information by
-updating your account on our Site or through our
-<a href="/online-testing/contact-us" title="contacts page">Contact Us</a>
-page on the Site. On request, we
-will give you access to the personal information we hold about you. If any personal information
-we hold about you is out of date or inaccurate, we encourage you to let us know by contacting us
-using one of the methods listed above and ask us to correct it.</p>
-<p>
-We may send, with your prior consent, periodic promotional or informational emails to you. You may
-opt out of such communications at any time by following the opt-out instructions contained in the
-email. Please note that it may take up to five (5) business days for us to process opt-out requests.
-If you opt out of receiving emails about recommendations or other information we think may interest
-you, we may still send you emails about your account or any Services you have requested or received
-from us provided that you have not opted-out of receiving such emails.</p>
-<a id="_Consent_to_transfer"></a>
-<h3>11. Consent to transfer personal information</h3>
-<p>Please note that your personal information may be transferred outside the country in which you are
-located, including to United States of America. By using our Services, you consent to the transfer
-and processing of your information in a jurisdiction that may not have the same level of data
-protection as your home country. You are entirely free not to consent by not using our Service.
-However, if you do not consent, then we may not be able to provide you with our Services.</p>
-<a id="_Children"></a>
-<h3>12. Children</h3>
-<p>Our Site is not targeted to children under thirteen (13) years of age nor do we knowingly collect
-personal information from children under thirteen (13). If we discover that a child under thirteen (13)
-data is in the system without adult consent, we will promptly delete such personal information from our
-systems. We encourage children under thirteen (13) to obtain their parent's or guardian's permission
-before sharing personal information with any website.</p>
-<a id="_Ext_links"></a>
-<h3>13. External links</h3>
-<p>This Site contains links to other websites. We are not responsible for the information handling
-practices or content of these external websites. Please ensure that you read the Terms and Conditions
-and privacy policies of these third parties before using such websites.</p>
-<a id="_Contact_Us"></a>
-<h3>14. Contact us</h3>
-<p>If you have any questions or concerns about the privacy aspects of our Site or Services, or want to
-complain about an interference with your privacy by ClassMarker, please
-<a href="/online-testing/contact-us" title="contacts page">Contact Us</a>
-through our Site.
-We will do our best to resolve your complaint as quickly as possible.</p>
-<p>If you are an Australian resident and are not satisfied with our response to your complaint,
-you can refer the matter to the Office of the Australian Information Commissioner (OAIC) at
-<a href="https://www.oaic.gov.au/" class="popup">www.oaic.gov.au</a>.</p>
-<a id="_Changes"></a>
-<h3>15. Changes to this Privacy Policy</h3>
-<p>This Privacy Policy is current as of the Effective Date set forth above. We may change this
-Privacy Policy from time to time, and new versions will be posted on this Site, so please check
-back periodically for updates.</p>
+			<div class="col-full">
+				<h1>Privacy</h1>
+			</div>
+		</div><div id="main" class="white-bg">
+	<div class="col-full">
+		<div class="terms-box">
+
+			<strong></strong>
+
+			<h2>Privacy Policy</h2>
+			<p><span class="littledark">Effective Date: 5 January 2016</span></p>
+
+			<p>ClassMarker Pty Ltd ("<strong>ClassMarker</strong>”, "<strong>we</strong>”, "<strong>us</strong>”, or
+				"<strong>our</strong>”) recognizes the importance of privacy. In this Privacy Policy,
+			we describe how we collect, use, and disclose information that we obtain about visitors to our website,
+				www.classmarker.com (the "<strong>Site</strong>”),
+			and the services available through our Site (collectively, the "<strong>Services</strong>”).</p>
+
+
+			<p>By visiting the Site or using any of our Services, you agree that your
+			personal information will be handled as described in this Privacy
+			Policy. Your use of our Site or Services, and any dispute over
+			privacy, is subject to this Privacy Policy. Our
+				<a href="/online-testing/terms/">Terms and Conditions</a> are incorporated by reference
+				into this Privacy Policy.</p>
+
+
+			<p>ClassMarker Pty Ltd (ACN 140552 389) is subject to the Privacy Act 1988 (Cth) and complies with the
+				principles for handling your personal information.</p>
+
+			<p><a href="#_Information_We_Collect">Information we collect</a><br>
+			<a href="#_How_We_Use">How we use your information</a><br>
+			<a href="#_How_We_Disclose_1">How we disclose your information</a><br>
+			<a href="#_Cookies_and_other">Cookies and other tracking mechanisms</a><br>
+			<a href="#_California_Do_Not">California Do Not Track disclosure</a><br>
+			<a href="#_California_Do_Not_1">Third-party analytics</a><br>
+			<a href="#_Interest_based_advertising">Internet-based advertising</a><br>
+			<a href="#_User_generated_content">User-generated content</a><br>
+			<a href="#_Security">Security</a><br>
+			<a href="#_Your_choices">Your choices</a><br>
+			<a href="#_Consent_to_transfer">Consent to transfer personal information</a><br>
+			<a href="#_Children">Children</a><br>
+			<a href="#_Ext_links">External links</a><br>
+			<a href="#_Contact_Us">Contact us</a><br>
+			<a href="#_Changes">Changes to this Privacy Policy</a></p>
+
+
+
+			<a id="_Information_We_Collect"></a>
+			<h3>1. Information we collect</h3>
+
+
+
+			<p>We collect information, which may include personal information, about
+						you directly from you, from third parties, and automatically through
+						your use of our Site or Services. We may combine information
+						automatically collected with other information that we have collected
+						about you.</p>
+			<p>You may browse and use certain portions of our Site without directly
+						providing us with any personal information. For example, you can try
+						our Sample Online Test without registering to use our Site. Certain
+						features, however, require you to register. For example, in order to
+						create your own quizzes you must provide us with certain information.</p>
+
+
+			<ul class="star">
+				<li><strong>Information	We Collect Directly From You.</strong>
+					Depending on your interactions with our Site, we may collect information directly from you,
+					such as your name, username, email address, and country of residence if you use our Site. We will
+					also collect any information that you otherwise provide to us through our Site, such as your name,
+					email address,
+					and message if you <a href="/online-testing/contact-us" title="contacts page">Contact Us</a>
+					through our Site. </li>
+				<li><strong>Information We Collect About You from Third Parties.</strong> We may collect certain information
+					about you from a third party system that integrates with our system that sends us data via our API
+					(which would require a registered administrator account to do so). </li>
+				<li><strong>Information We Collect Automatically.</strong> We automatically collect information through
+					your use of our Site using cookies and other technologies. This information may include, without
+					limitation, your domain name, operating system, settings and system configurations, IP address, the
+					webpages you access within our Site, the website that led you to our Site, the website to which you go
+					after leaving our Site, the dates and times you access our Site, and web log data.</li>
+			</ul>
+
+
+			<a id="_How_We_Use"></a>
+			<h3>2. How we use your information</h3>
+			<p>We may use your information for the following purposes:</p>
+
+			<ul class="star">
+				<li><strong>Providing Our Services.</strong> To provide our Services to you; to communicate with you,
+					including via email, about your use of our Services; to respond to your inquires; and for
+					other customer service purposes.</li>
+				<li><strong>Marketing.</strong> Where you consent, we may provide you with news and newsletters,
+					special offers, and promotions; to contact you about products or information we think may interest
+					you; and for other marketing, advertising, and promotional purposes provided that you have not
+					opted-out of receiving such communications.</li>
+				<li><strong>Analyzing Use of Our Services.</strong> To better understand how users access and use our
+					Site and Services, both on an aggregated and individualized basis; to respond to user desires and
+					preferences; and for other research and analytical purposes.</li>
+				<li><strong>To Protect Rights and Interests.</strong> To protect our rights and interests as well as
+					the rights and interests of our customers, users of our Site or Services, and any other person,
+					as well as to enforce this Privacy Policy and our <a href="/online-testing/terms/">Terms and Conditions</a>. </li>
+				<li><strong>Complying with the Law.</strong> To comply with applicable legal obligations,
+					including informal requests from law enforcement.</li>
+			</ul>
+
+			<a id="_How_We_Disclose_1"></a>
+			<h3>3. How we disclose your information</h3>
+			<p>We may disclose your information, including personal information, with the following entities:</p>
+
+			<ul class="star">
+				<li><strong>ClassMarker Users.</strong> We will disclose your information to other ClassMarker users as
+					part of our Services. For example, instructors will receive information about the users who have
+					registered under them; this information may include user name, full name, email address and test
+					results. Similarly, users will receive information about their instructors, such as their name or
+					notes prepared by the instructor.</li>
+				<li><strong>Affiliates.</strong> We may disclose your information to current or future affiliates or
+					subsidiaries for research, marketing, and other purposes consistent with this Privacy Policy.</li>
+				<li><strong>Service Providers.</strong> We may disclose your information to our vendors, service
+					providers, agents, or others who perform functions on our behalf.</li>
+			</ul>
+
+			<p>We may also disclose your information, including personal information, in the following ways:</p>
+
+			<ul class="star">
+				<li><strong>Business Transfers.</strong> We may disclose your information to another entity if we are
+					acquired by or merged with another company, if we sell or transfer a business unit or assets to
+					another company, as part of a bankruptcy proceeding, or as part of any other similar business transfer.</li>
+				<li><strong>Legal Compliance.</strong> We may disclose your information in order to comply with the law,
+					regulation, a judicial proceeding, subpoena, court order, or other legal process, including informal
+					law enforcement or governmental requests for information.</li>
+				<li><strong>Protecting Rights and Interests.</strong> We may disclose your information where we believe
+					it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud,
+					situations involving potential threats to the safety of any person, violations of our
+					<a href="/online-testing/terms/">Terms and Conditions</a> or this Privacy Policy,
+					or as evidence in litigation in which we are involved.</li>
+				<li><strong>Aggregate and De-Identified Information.</strong> Where permitted by law, we may disclose
+					aggregate, anonymous, or de-identified information about users for marketing, advertising, research,
+					or other purposes.</li>
+			</ul>
+
+
+			<a id="_Cookies_and_other"></a>
+			<h3>4. Cookies and other tracking mechanisms</h3>
+			<p>We and our service providers use cookies and other tracking mechanisms to track your use of our Site or Services.</p>
+
+
+			<ul class="star">
+				<li><strong>Cookies.</strong> We or our service providers may use cookies to track visitor activity on
+					our Site. A cookie is a text file that a website transfers to your computer's hard drive for
+					record-keeping purposes. We or our service providers may use cookies to track user activities
+					on our Site, such as the pages visited and time spent on our Site. Most browsers allow users
+					to refuse cookies. The Help portion of the toolbar on most browsers will tell you how to
+					prevent your computer from accepting new cookies, how to have the browser notify you when
+					you receive a new cookie, or how to disable cookies altogether. Users who disable cookies
+					may not be able to browse certain areas of the Site.</li>
+				<li><strong>Clear GIFs, pixel tags and other technologies.</strong> Clear GIFs are tiny graphics
+					with a unique identifier, similar in function to cookies, which are embedded invisibly on web
+					pages. We or our service providers may use clear GIFs (also known as web beacons, web bugs or
+					pixel tags), in connection with our Site to track the activities of visitors to our Site, help
+					us manage content, and compile statistics about usage of our Site. We or our service providers
+					may also use clear GIFs in HTML emails to our users, to help us track email response rates, identify
+					when our emails are viewed, and track whether our emails are forwarded.</li>
+				<li><strong>Local Storage Objects.</strong> We may use Flash Local Storage Objects ("Flash LSOs”)
+					to store your Site preferences and to personalize your visit. Flash LSOs are different from browser
+					cookies because of the amount and type of data stored. Typically, you cannot control, delete, or
+					disable the acceptance of Flash LSOs through your web browser. For more information on Flash LSOs,
+					or to learn how to manage your settings for Flash LSOs, go to the Adobe Flash Player Help Page,
+					choose "Global Storage Settings Panel” and follow the instructions. To see the Flash LSOs currently
+					on your computer, choose "Website Storage Settings Panel” and follow the instructions to review and,
+					if you choose, to delete any specific Flash LSO.</li>
+			</ul>
+
+
+			<a id="_California_Do_Not"></a>
+			<h3>5. California Do Not Track disclosure</h3>
+			<p>While there is still no universally accepted standard regarding tracking, our Site does respond
+				to certain <a href="https://www.mozilla.org/en-US/firefox/dnt/" class="popup">Do Not Track</a>
+				signals (e.g., the Mozilla Firefox Do Not Track feature). You may also
+				disable certain tracking as discussed above (e.g., by disabling cookies) though doing so may mean
+				that certain Site functionality will be lost (e.g., staying logged into the Site).
+				For more information about tracking, please click <a href="http://www.allaboutdnt.com/" class="popup">here</a>.</p>
+
+
+
+
+			<a id="_California_Do_Not_1"></a>
+			<h3>6. Third-party analytics</h3>
+			<p>We use service providers, such as
+				<a href="http://www.google.com/intl/en/policies/privacy/" class="popup">Google Analytics demographics
+					and interests reports as well as	advertising reporting features</a>
+				, to evaluate the use of our Site and our Services. We or our
+				service providers use automated devices and applications to evaluate use of our Site and Services.
+				We or our service providers use these tools to help us improve our Site, Services, performance, and
+				user experiences. These entities may use cookies and other tracking technologies, such as web beacons
+				or Flash LSO, to perform their services. To opt out of Google Analytics, go
+				<a href="https://tools.google.com/dlpage/gaoptout/" class="popup">here</a>.</p>
+
+
+
+
+			<a id="_Interest_based_advertising"></a>
+			<h3>7. Interest-based advertising </h3>
+			<p>We use third parties such as network advertisers to serve advertisements on our Site and on third-party
+				websites or other media (e.g., social networking platforms). This enables us and these third parties to
+				target advertisements to you for products and services in which you might be interested. Third-party ad
+				network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript,
+				web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the
+				effectiveness of their ads and to personalize advertising content to you. These third-party cookies
+				and other technologies are governed by each third party's specific privacy policy, not this one. </p>
+
+			<p>Users in the United States may opt out of many third-party ad networks. For example, you may go to the
+				Digital Advertising Alliance ("DAA”)
+				<a href="http://www.aboutads.info/choices/" class="popup">Consumer Choice Page</a>
+				for information about opting out of
+				interest-based advertising and their choices regarding having information used by
+				<a href="http://www.aboutads.info/participating/" class="popup">DAA companies</a>.
+				You may also go to the Network Advertising Initiative ("NAI”)
+				<a href="http://www.networkadvertising.org/choices/" class="popup">Consumer Opt-Out Page</a>
+				for information
+				about opting out of interest-based advertising and their choices regarding having information used by
+				<a href="http://www.networkadvertising.org/participating-networks" class="popup">NAI members</a>.</p>
+
+			<p>Opting out from one or more companies listed on the DAA
+				<a href="http://www.aboutads.info/choices/" class="popup">Consumer Choice Page</a>
+				or the NAI
+				<a href="http://www.networkadvertising.org/choices/" class="popup">Consumer Opt-Out Page</a>
+				will opt you out from those companies' delivery of interest-based
+				content or ads to you, but it does not mean you will no longer receive any advertising through
+				our Site or on other websites. You may continue to receive advertisements, for example, based on
+				the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers
+				are configured to reject cookies when you opt out on the DAA or NAI websites, your opt out may not
+				be effective. Additional information is available on the DAA's website at
+				<a href="http://www.aboutads.info/" class="popup">www.aboutads.info</a>
+				or the
+				NAI's website at
+				<a href="http://www.networkadvertising.org/" class="popup">www.networkadvertising.org</a>.</p>
+
+
+			<a id="_User_generated_content"></a>
+			<h3>8. User-generated content</h3>
+			<p>Note that if you post information in a publicly accessible portion of our Site or Service, it may be
+				viewed by other users and potentially be further disclosed by those users. Please exercise caution
+				when deciding to disclose such information.</p>
+
+
+			<a id="_Security"></a>
+			<h3>9. Security</h3>
+			<p>We take reasonable steps to protect your personal information from misuse, loss, unauthorised access,
+				modification or disclosure. For example, we take steps to destroy or permanently de-identify personal
+				information if we no longer need it for any purpose. Please be aware that despite our efforts, no data
+				security measures can guarantee 100% security.</p>
+			<p>If you have an account with us, you should take steps to protect against unauthorized access to your
+				account by, among other things, choosing a robust password that nobody else knows or can easily guess
+				and keeping your log-in and password private. We are not responsible for any lost, stolen, or
+				compromised passwords or for any activity on your account via unauthorized password activity.</p>
+
+
+			<a id="_Your_choices"></a>
+			<h3>10. Your choices</h3>
+			<p>We take reasonable steps to ensure the personal information that ClassMarker collects, uses or
+				discloses is accurate, complete and up-to-date. You may modify your personal information by
+				updating your account on our Site or through our
+				<a href="/online-testing/contact-us" title="contacts page">Contact Us</a>
+				page on the Site. On request, we
+				will give you access to the personal information we hold about you. If any personal information
+				we hold about you is out of date or inaccurate, we encourage you to let us know by contacting us
+				using one of the methods listed above and ask us to correct it.</p>
+			<p>
+				We may send, with your prior consent, periodic promotional or informational emails to you. You may
+				opt out of such communications at any time by following the opt-out instructions contained in the
+				email. Please note that it may take up to five (5) business days for us to process opt-out requests.
+				If you opt out of receiving emails about recommendations or other information we think may interest
+				you, we may still send you emails about your account or any Services you have requested or received
+				from us provided that you have not opted-out of receiving such emails.</p>
+
+			<a id="_Consent_to_transfer"></a>
+			<h3>11. Consent to transfer personal information</h3>
+			<p>Please note that your personal information may be transferred outside the country in which you are
+				located, including to United States of America. By using our Services, you consent to the transfer
+				and processing of your information in a jurisdiction that may not have the same level of data
+				protection as your home country. You are entirely free not to consent by not using our Service.
+				However, if you do not consent, then we may not be able to provide you with our Services.</p>
+
+			<a id="_Children"></a>
+			<h3>12. Children</h3>
+			<p>Our Site is not targeted to children under thirteen (13) years of age nor do we knowingly collect
+				personal information from children under thirteen (13). If we discover that a child under thirteen (13)
+				data is in the system without adult consent, we will promptly delete such personal information from our
+				systems. We encourage children under thirteen (13) to obtain their parent's or guardian's permission
+				before sharing personal information with any website.</p>
+
+			<a id="_Ext_links"></a>
+			<h3>13. External links</h3>
+			<p>This Site contains links to other websites. We are not responsible for the information handling
+				practices or content of these external websites. Please ensure that you read the Terms and Conditions
+				and privacy policies of these third parties before using such websites.</p>
+
+
+			<a id="_Contact_Us"></a>
+			<h3>14. Contact us</h3>
+			<p>If you have any questions or concerns about the privacy aspects of our Site or Services, or want to
+				complain about an interference with your privacy by ClassMarker, please
+				<a href="/online-testing/contact-us" title="contacts page">Contact Us</a>
+				through our Site.
+				We will do our best to resolve your complaint as quickly as possible.</p>
+			<p>If you are an Australian resident and are not satisfied with our response to your complaint,
+				you can refer the matter to the Office of the Australian Information Commissioner (OAIC) at
+				<a href="https://www.oaic.gov.au/" class="popup">www.oaic.gov.au</a>.</p>
+
+
+			<a id="_Changes"></a>
+			<h3>15. Changes to this Privacy Policy</h3>
+			<p>This Privacy Policy is current as of the Effective Date set forth above. We may change this
+				Privacy Policy from time to time, and new versions will be posted on this Site, so please check
+				back periodically for updates.</p>
+
+
+
+
+
+
+
+
+
+
 <div class="clearheight"></div>
 <h3>Terms and Conditions</h3>
 <p>View our <a href="/online-testing/terms/">Terms and Conditions</a> page.</p>
+
 <div class="clearheight"></div>
+
 <div class="clearheight"></div>
-<div class="col180"><a href="/online-testing/award-winning/"><img src="/img3/home/the-best-online-testing-website-2014.jpg" alt="ClassMarker is Award winning 2014"></a></div>
-<div class="col180"><span id="ss_img_wrapper_130-65_image_en"><a href="https://www.globalsign.com/ssl/" rel="nofollow" target="_blank" title="SSL"><img alt="SSL Certificate" id="ss_img" src="https://seal.globalsign.com/SiteSeal/images/gs_noscript_130-65_en.gif"></a></span><script type="text/javascript" src="https://seal.globalsign.com/SiteSeal/gs_image_130-65_en.js" defer="defer"></script></div>
+<div class="awards-logo"><a href="/online-testing/award-winning/"><img src="/img3/home/winner-color-2017.png" alt="ClassMarker is Award winning 2017"></a></div>
+<div class="awards-logo"><a href="/online-testing/award-winning/"><img src="/img3/home/the-best-online-testing-website-2014.jpg" alt="ClassMarker is Award winning 2014"></a></div>
+<div class="awards-logo"><a href="/online-testing/award-winning/"><img src="/img3/home/the-best-online-testing-website.jpg" alt="ClassMarker is Award winning 2011"></a></div>
+<div class="awards-logo"><span id="ss_img_wrapper_130-65_image_en"><a href="https://www.globalsign.com/ssl/" rel="nofollow" target="_blank" title="SSL"><img alt="SSL Certificate" id="ss_img" src="https://seal.globalsign.com/SiteSeal/images/gs_noscript_130-65_en.gif"></a></span><script type="text/javascript" src="https://seal.globalsign.com/SiteSeal/gs_image_130-65_en.js" defer="defer"></script></div>
 <div class="clearheight5"></div>
-</div>
-</div>
+
+
+
+
+		</div>
+	</div>
 </div><div id="footer">
-<div class="col-full">
-<ul class="footer-list1">
-<li><a href="https://www.classmarker.com/">Home</a></li>
-<li><a href="https://www.classmarker.com/online-testing/?trk=footer">About ClassMarker</a></li>
-<li><a href="https://www.classmarker.com/online-testing/terms/?trk=footer">Terms</a> / <a href="https://www.classmarker.com/online-testing/privacy/?trk=footer">Privacy</a></li>
-<li></li>
-<li><a href="https://www.classmarker.com/online-testing/quiz-features/?trk=footer#online-quiz-security">Security</a></li>
-<li><a href="https://www.classmarker.com/online-testing/blog/?trk=footer">Blog</a></li>
-<li><a href="https://www.classmarker.com/online-testing/sitemap/?trk=footer">Site map</a></li>
-</ul>
-<ul class="footer-list2">
-<li><a href="https://www.classmarker.com/online-testing/manual/?trk=footer">User Manual / Screenshots</a></li>
-<li><a href="https://www.classmarker.com/online-testing/create-language-tests/?trk=footer">Quiz Language Support</a></li>
-<li><a href="https://www.classmarker.com/online-testing/integrate/?trk=footer">Quiz Maker API</a></li>
-<li><a href="https://www.classmarker.com/online-testing/partners/?trk=footer">Partners</a></li>
-<li><a href="https://www.classmarker.com/register/?trk=footer">Register</a></li>
-<li><a href="https://www.classmarker.com/online-testing/contact-us/?trk=footer">Contact Us</a></li>
-</ul>
-<div class="footer-content">
-<div class="social_toolbox">
-<div class="fb-like" data-href="https://www.facebook.com/classmarker" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
-<div class="cm-twitter">&nbsp;<a href="https://twitter.com/ClassMarker" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow</a>
-<a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="classmarker">Tweet</a></div>
-</div>
-<h4>
-<a href="https://www.classmarker.com/">
-<img alt="Hosted online testing quiz maker" src="/img3/home/free-quiz-make.png" width="152" height="21">
-<span>ClassMarker</span>
-</a>
-</h4>
-<p>Copyright © 2006 - 2016 ClassMarker Pty Ltd. All rights reserved.</p>
-</div>
-</div>
-</div> 
-<script type="text/javascript" src="/js3/jquery.slicknav.min.js?v=94"></script>
+		<div class="col-full">
+			<ul class="footer-list1">
+				<li><a href="https://www.classmarker.com/">Home</a></li>
+				<li><a href="https://www.classmarker.com/online-testing/?trk=footer">About ClassMarker</a></li>
+				<li><a href="https://www.classmarker.com/online-testing/terms/?trk=footer">Terms</a> / <a href="https://www.classmarker.com/online-testing/privacy/?trk=footer">Privacy</a></li>
+				<li></li>
+				<li><a href="https://www.classmarker.com/online-testing/quiz-features/?trk=footer#online-quiz-security">Security</a></li>
+				<li><a href="https://www.classmarker.com/online-testing/blog/?trk=footer">Blog</a></li>
+				<li><a href="https://www.classmarker.com/online-testing/sitemap/?trk=footer">Site map</a></li>
+
+			</ul>
+			<ul class="footer-list2">
+				<li><a href="https://www.classmarker.com/online-testing/manual/?trk=footer">User Manual / Screenshots</a></li>
+				<li><a href="https://www.classmarker.com/online-testing/create-language-tests/?trk=footer">Quiz Language Support</a></li>
+				<li><a href="https://www.classmarker.com/online-testing/integrate/?trk=footer">Quiz Maker API</a></li>
+				<li><a href="https://www.classmarker.com/online-testing/partners/?trk=footer">Partners</a></li>
+				<li><a href="https://www.classmarker.com/register/?trk=footer">Register</a></li>
+				<li><a href="https://www.classmarker.com/online-testing/contact-us/?trk=footer">Contact Us</a></li>
+			</ul>
+
+			<div class="footer-content">
+				<div class="social_toolbox">
+					<div class="fb-like" data-href="https://www.facebook.com/classmarker" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+					<div class="cm-twitter">&nbsp;<a href="https://twitter.com/ClassMarker" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow</a>
+						<a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="classmarker">Tweet</a></div>
+				</div>
+				<h4>
+					<a href="https://www.classmarker.com/">
+						<img alt="Hosted online testing quiz maker" src="/img3/home/free-quiz-make.png" width="152" height="21">
+						<span>ClassMarker</span>
+					</a>
+				</h4>
+				<p>Copyright © 2006 - 2017 ClassMarker Pty Ltd. All rights reserved.</p>
+			</div>
+		</div>
+	</div><!-- end footer -->
+
+		<script type="text/javascript" src="/js3/jquery.slicknav.min.js?v=125"></script>
 <script type="text/javascript">$(document).ready(function(){$(function(){$('#menu').slicknav();});});</script>
-<div id="fb-root"></div>
-<div class="jqmWindowWide clearHtml" id="obj_video0"></div>
-<div class="jqmWindowWide clearHtml" id="obj_video4"></div>
-<div class="jqmWindowWide clearHtml" id="obj_video5"></div>
-<script type="text/javascript">
+		<div id="fb-root"></div>
+	<div class="jqmWindowWide clearHtml" id="obj_video0"></div>
+	<div class="jqmWindowWide clearHtml" id="obj_video4"></div>
+	<div class="jqmWindowWide clearHtml" id="obj_video5"></div>
+		<script type="text/javascript">
 			$(document).ready(function(){
 				$('.select-box').customSelect();
 				$('#obj_video0').jqm({ajax: '/misc/tour.rpc.php?id=video0', trigger: '.video0'});
@@ -378,6 +455,7 @@ back periodically for updates.</p>
 			/* Twitter */
 			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
 		</script>
+
 <div id="ka"></div>
 <script type="text/javascript">
 ka_path = "/ka.php?";
@@ -389,4 +467,4 @@ ga('create', 'UA-473958-2', 'auto');
 ga('require', 'displayfeatures');
 ga('send', 'pageview');
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b526c3e3c3","applicationID":"37429724,37429725","transactionName":"ZAAGZhQDVhUDWhUIWV1KMUAPTVcIDlAPBBtHABdGDwxfSRJLCBdXUBxLWwgGXR5MSQkR","queueTime":0,"applicationTime":3,"atts":"SEcFEFwZRRs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b526c3e3c3","applicationID":"37783571,37429725","transactionName":"ZAAGZhQDVhUDWhUIWV1KMUAPTVcIDlAPBBtHABdGDwxfSRJLCBdXUBxLWwgGXR5MSQkR","queueTime":0,"applicationTime":5,"atts":"SEcFEFwZRRs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>
