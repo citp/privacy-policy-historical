@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202201637id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100838id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
 
 # Privacy Statement | Park Seed Co.
 
-[ ](http://parkseed.com/seeds/c/PT_1001_2/filter/100000002525eq100000002526/ "Direct-Sow Seeds")
+[ ](http://parkseed.com/seeds/c/seeds/ "Buy 1-9 packs of seed get $2.99 Shipping on those seeds, buy 10+ packs of seed get free shipping on those seeds!")
 
 Park Seed asks you to provide certain personally identifiable information in order to use certain "Password Required" features and functions of the website. By providing such information, you consent to our collection and use of it, as described in this Privacy Statement. 
 
@@ -14,7 +14,7 @@ You can always choose not to provide information, to opt-out of receiving commun
 
   * Use the "Change Preferences" feature after entering your member name and password to receive access to your account page. At this location, you can subscribe or unsubscribe from our e-mail newsletters and you can update any information that you have provided to us. 
   * Click on the "Unsubscribe" link included at the bottom of each of our e-mails and follow the instructions on the web page. 
-  * Send an e-mail to our friendly Customer Service representatives at info@parkscs.com. 
+  * Send an e-mail to our friendly Customer Service representatives at [info@parkseed.com](mailto:info@parkseed.com). 
   * Call our Customer Service representatives toll free at 1-800-845-3369 or for local calls use 1-864-330-2003. 
   * Drop us a line. Send mail to the following postal address: Park Seed Company, 1 Parkton Avenue, Greenwood, SC 29647 
 
@@ -27,4 +27,4 @@ Park Seed Company, 1 Parkton Avenue, Greenwood, SC 29647
 Toll Free: 1-800-845-3369  
 Local: 1-864-330-2003  
 Fax: 1-864-941-4506  
-E-mail: info@parkscs.com 
+E-mail: [info@parkseed.com](mailto:info@parkseed.com)
