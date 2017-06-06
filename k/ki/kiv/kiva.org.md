@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kiva.org privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012134109id_/https%3A//www.kiva.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiva.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175125id_/https%3A//www.kiva.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Kiva
 
-### (Last updated 6/1/2016)*
+###  (Last updated 6/1/2016)* 
 
 _*Substantive Changes from the prior version will generally be highlighted below for at least one month._
 
-This Privacy Policy describes how Kiva Microfunds (“Kiva”) collects and uses the personal information you provide to Kiva through our Website ([www.kiva.org](http://www.kiva.org/)) or by other means. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. By accessing or using the Website, you signify that you have read this Privacy Policy, and you expressly consent to our collection, use, disclosure, storage and protection of your personal information as described in this Privacy Policy.
+This Privacy Policy describes how Kiva Microfunds (“Kiva”) collects and uses the personal information you provide to Kiva through our Website ([www.kiva.org](http://www.kiva.org/)) or by other means. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. By accessing or using the Website, you signify that you have read this Privacy Policy, and you expressly consent to our collection, use, disclosure, storage and protection of your personal information as described in this Privacy Policy. 
 
 **1.     No sale of personal information**.  Kiva will not rent or sell your personal information to third parties. 
 
