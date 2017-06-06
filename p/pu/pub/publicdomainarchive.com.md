@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicdomainarchive.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105000433id_/http%3A//publicdomainarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicdomainarchive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131128id_/http%3A//publicdomainarchive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Public Domain Images | Free Stock Photos
 
