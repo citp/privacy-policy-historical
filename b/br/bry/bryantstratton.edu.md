@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bryantstratton.edu privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311184322id_/http%3A//www.bryantstratton.edu/utilities/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bryantstratton.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210615id_/https%3A//www.bryantstratton.edu/utilities/privacy-policy) for the most accurate reproduction.*
 
 # Bryant & Stratton College Privacy Policy | Bryant & Stratton College
 
@@ -37,9 +37,9 @@ Personally identifiable information may be collected when the website user provi
   * to maintain business records for reasonable periods
   * and/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit, or security requirements applicable to the College, our Educational Partners, or our Business Associates.
   * for displaying ads or other content related to your visit to this site, which includes:
-    * third party vendors, including Google, show targeted ads on sites on the internet.
-    * third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-    * users may opt out of Google's use of cookies by visiting the Google advertising opt-out page at [www.google.com/privacy/ads.](http://www.google.com/privacy/ads)
+  * third party vendors, including Google, show targeted ads on sites on the internet.
+  * third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * users may opt out of Google's use of cookies by visiting the Google advertising opt-out page at www.google.com/privacy/ads.
 
 
 
