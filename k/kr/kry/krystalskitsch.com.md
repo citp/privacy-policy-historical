@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krystalskitsch.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225204236id_/http%3A//sunnysweetdays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krystalskitsch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041613id_/http%3A//sunnysweetdays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosures - Sunny Sweet Days
 
@@ -64,7 +64,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 This document was last updated on May 28, 2015
 
 © Krystal Butherus + Krystal’s Kitsch, 2014. Unauthorized use and/or distribution of this material without express written permission from this blog’s author is strictly prohibited. You may use an excerpt, link, and/or photo only IF full and clear credit is given to Krystal’s Kitsch with appropriate and specific direction to the original content. Krystal’s Kitsch is a for profit website. My hard work may be compensated through advertising, affiliated links, or sponsored campaigns. I promise to only promote products that I have personally used and LOVED. I would never represent something that is untrue, and I always disclose.
-
-### Recipes, Printables, + More!
-
-Grab your free Clean & Organized Ebook when you subscribe. Look for weekly free printables available only to subscribers along with a community and more!
