@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shouselaw.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126094354id_/http%3A//www.shouselaw.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shouselaw.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055531id_/http%3A//www.shouselaw.com/docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shouse Law Group
 
@@ -39,3 +39,28 @@ Due to the rapidly evolving technologies on the Internet, we may occasionally up
 ## WHAT IF I HAVE QUESTIONS ABOUT THIS PRIVACY POLICY?
 
 Our Firm welcomes questions and comments this website and about this policy. You are welcome to call us with your comments and questions at the number listed on this page. 
+
+## Renuncia
+
+Nuestro bufete de abogados reconoce y respeta su privacidad. Queremos que aproveche al máximo este sitio Web y que se sienta seguro al hacerlo. A continuación se describen las prácticas de recolección, uso y divulgación de información para este dominio. Esta política no trata la información obtenida sin conexión.O puede comunicarse con nosotros por teléfono al número que aparece en esta página.  
+
+
+¿QUÉ INFORMACIÓN PERSONAL RECOPILAMOS?Cuando usted visita el área pública de este sitio web, usted permanece anónimo. En la medida en que utilice formularios, chats y enlaces de correo electrónico a través del sitio Web, o llámenos por teléfono para comunicarse con nosotros o cualquier persona afiliada a nosotros y nos proporcionará información de identificación personal, sin embargo, no permanecerá anónimo. Debido a que es imposible predecir todos los contextos concebibles en los que tal información podría proporcionarnos a través del correo electrónico, no podemos ofrecerle ninguna garantía de que la información personal identificable que elija proporcionarnos por correo electrónico se mantendrá como privada.Este sitio web utiliza "cookies". Las cookies son pequeños archivos de texto que se colocan en el disco duro de un visitante, lo que nos permite a nosotros y / o al host de este sitio web registrar cuántas veces un usuario o computadoras de la red de computadoras de un usuario ha visitado el sitio web, Varias páginas del sitio Web se han accedido y para realizar un seguimiento de las preferencias de personalización de la página principal del usuario. Puede desactivar la recepción de cookies mediante las funciones de su navegador Web que deshabilitan o desactivan las cookies. No utilizamos cookies para recuperar información que no esté relacionada con su visita o con su interacción con este sitio web.Recopilamos su dirección de Protocolo de Internet (IP). Una dirección IP es un número asignado a su computadora cuando usa Internet. Los datos de dirección IP que recopilamos no contienen ninguna información de identificación personal sobre usted y se utilizan para administrar nuestro sitio, para determinar el número de visitantes diferentes del sitio y para recopilar datos demográficos. Sin embargo, cuando usted envía información a través de este sitio web, esa información se identifica y se mantiene en el registro como proveniente de su dirección IP. Esta información se puede utilizar para identificarlo en visitas posteriores a este sitio, ya otros sitios asociados con él, y para personalizar su experiencia de usuario.Los datos que no son de identificación personal que recopila este sitio son accesibles para ciertos empleados de la empresa, así como para ciertos diseñadores y personal de sitios web de terceros involucrados con el servicio de terceros que aloja el sitio Web. Utilizamos todos los datos no identificables que recopilamos internamente y junto con nuestro diseñador y anfitrión del sitio Web para mejorar el sitio Web. La información se utiliza, por ejemplo, para evaluar qué partes del sitio Web son más populares que otras, para determinar de dónde proceden los visitantes del sitio y para determinar cuántas veces y con qué frecuencia se accedieron a determinadas páginas del sitio. Podemos utilizar los datos para preparar informes sobre la actividad del sitio Web como parte del proceso de mantenimiento y mejora del sitio.  
+
+
+¿QUÉ PASOS TOMAMOS PARA PROTEGER SU PRIVACIDAD?En la medida permitida por la ley, no venderemos, compartiremos ni divulgaremos de ninguna otra forma la información recopilada en línea sin su permiso expreso.  
+
+
+¿CUÁLES SON LAS POLÍTICAS DE PRIVACIDAD DE LOS SITIOS A LOS QUE SE ENLACE ESTE SITIO WEB?Proporcionamos enlaces a sitios web de terceros que no controlamos. Por lo tanto, le recomendamos que revise las políticas de privacidad publicadas en estos sitios web de terceros en el momento en que visita por primera vez dichos sitios. No asumimos ninguna obligación de revisar o garantizar la aplicación o el cumplimiento de la política de privacidad de cualquier sitio Web al que nos vinculamos.  
+
+
+¿QUÉ ACERCA DE LA PRIVACIDAD DE LOS NIÑOS?No recopilamos a sabiendas información de identificación personal de niños menores de 13 años.  
+
+
+¿SE REALIZA EL ALMACENAMIENTO Y EL PROCESAMIENTO DE DATOS EN LOS ESTADOS UNIDOS?Independientemente de dónde se encuentre, el sitio recopila información y procesos y almacena esa información en bases de datos ubicadas en los Estados Unidos.  
+
+
+¿PODEMOS REVISAR ESTA POLÍTICA DE PRIVACIDAD?Debido a la rápida evolución de las tecnologías en Internet, ocasionalmente podemos actualizar esta política de privacidad. Todas las revisiones se publicarán aquí en el sitio Web. Por lo tanto, le recomendamos que revise su Política de privacidad con frecuencia.
+
+  
+¿QUÉ PASA SI TENGO PREGUNTAS SOBRE ESTA POLÍTICA DE PRIVACIDAD?Nuestra Firma agradece las preguntas y comentarios de este sitio web y de esta política. Le invitamos a que nos llame con sus comentarios y preguntas al número que aparece en esta página.
