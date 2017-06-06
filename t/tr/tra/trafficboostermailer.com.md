@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficboostermailer.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128143006id_/http%3A//trafficboostermailer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficboostermailer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052047id_/http%3A//www.trafficboostermailer.com/privacy.php) for the most accurate reproduction.*
 
 # :: TrafficBoosterMailer ::
 
@@ -74,7 +74,7 @@ You agree that your continued use of our websites, product or service after that
 marty@website-traffic-hog.com  
 Marty Petrizza  
 doing business as Website Traffic Hog LLC  
-1012 Aquia Dr., Stafford, VA 22554, USA  
+922 SE 43rd St., Cape Coral, FL 33904, USA  
 540-602-9928
 
 ~:~:~:~:~:~:~:~:~:~
