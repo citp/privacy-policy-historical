@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the prescriptiondrug-info.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120111629id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prescriptiondrug-info.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084108id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - MedsChat
 
-Last Updated: September 8, 2016
+Last Updated: February 17, 2017
 
 Thank you for using MedsChat.com. This page explains what, how, and why we collect information when you use our services. Please know that we are committed to safeguarding your privacy. Therefore, this policy details how we treat your Personal Information as well as the choices available to you regarding the use of, your access to, and how to update and correct such information.
 
 ## Overview
 
-This privacy statement applies to services provided through our website [www.medschat.com](https://web.archive.org/) ("MedsChat") which is owned and operated by Limelight Innovations L.L.C. d/b/a MedsChat.com, a State of California limited liability company. We operate an online community which allows individuals to discuss drug related topics with one another. MedsChat has received TRUSTe's Privacy Seal signifying that the privacy statement and practices on this website have been reviewed for compliance with the TRUSTe program. To learn more about our relationship with TRUSTe please click on the TRUSTe seal to see our validation page. You may also [contact TRUSTe](https://feedback-form.truste.com/watchdog/request) directly.
+This privacy statement applies to services provided through our website [www.medschat.com](https://web.archive.org/) ("MedsChat") which is owned and operated by Limelight Innovations L.L.C., a State of Colorado limited liability company. We operate an online community which allows individuals to discuss drug related topics with one another. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=94d322ee-aa78-4871-84b2-c38ffb1aeb6c "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=94d322ee-aa78-4871-84b2-c38ffb1aeb6c)
 
 Please note that when you submit your Personal Information via and by using this website, you are giving your consent to the use of your Personal Information in the manner described in this privacy policy and to the transfer of such Personal Information to the United States.
 
@@ -20,11 +20,12 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ## Contacting Us
 
-If you have any questions or comments, want to update, delete, or change any Personal Information we hold, or if you have a concern about the way in which we have handled any privacy matter please use our [contact form](https://web.archive.org/contact.asp) to get in touch. You may also reach us at:
+Upon request MedsChat.com will provide you with information about whether we hold any of your personal information. If you have any questions or comments, want to update, delete, or change any Personal Information we hold, or if you have a concern about the way in which we have handled any privacy matter please use our [contact form](https://web.archive.org/contact.asp) to get in touch. You may also reach us at:
 
 MedsChat.com  
-340 S Lemon Ave # 1443  
-Walnut, CA 91789
+3773 E Cherry Creek North Dr  
+Suite # 575  
+Denver, CO 80209
 
 Google+: [https://gp.medschat.com](https://gp.medschat.com/)  
 Facebook: [https://fb.medschat.com](https://fb.medschat.com/)  
@@ -35,11 +36,11 @@ We will respond to your request within a reasonable timeframe.
 
 ## Data Collection
 
-We collect information about our users in a variety of ways, some of which is automatic. When we collect information automatically, it is anonymous (non-personal) data used to help us measure and optimize our website. Personal Information collected from our users is limited to an Email Address and is voluntary on their part. You have the option of withholding personal information while using our service. MedsChat is the sole owner of data which we collect from our users and it is not shared with outside parties except as required by law. There are also certain services which we employ on our site that collect anonymous statistical data for us (such as AddThis and Google Analytics). Specifics of our data collection practices are further outlined below:
+We collect information about our users in a variety of ways, some of which is automatic. When we collect information automatically, it is used to help us measure and optimize our website. Personal Information collected from users in our forums is limited to an Email Address and is voluntary on their part. Personal information collected When sending us a message through our contact form consists of an individual's name and email address. You have the option of withholding personal information while using our service. MedsChat is the sole owner of data which we collect from our users and it is not shared with outside parties except as required by law. There are also certain services which we employ on our site that collect statistical data for us (such as AddThis and Google Analytics). Specifics of our data collection practices are further outlined below:
 
 ### Automatically Collected Data
 
-We collect and store certain information inside log files and cookies automatically. This helps us to track high level statistics about our visitors and how our site is most used. Furthermore, this allows us to ensure that we are providing the best possible service and to tailor content to users more appropriately. At a high level we record how you arrived here, what pages you view within our site, and some basic information about your computer and location. Please note that this information is anonymous and does not tell us who you are. It simply shows us that somebody visited our site.
+We collect and store certain information inside log files and cookies automatically. This helps us to track high level statistics about our visitors and how our site is most used. Furthermore, this allows us to ensure that we are providing the best possible service and to tailor content to users more appropriately. At a high level we record how you arrived here, what pages you view within our site, and some basic information about your computer and location. Please note that this information does not tell us who you are. It simply shows us that somebody visited our site.
 
 Statistics which we track:
 
@@ -49,7 +50,7 @@ Statistics which we track:
   * Browser and operating system version of the device which is being used
   * Which pages from our site are bookmarked or shared
   * When an email message which we send to our users is opened
-  * Internet Protocol (IP) address provided by the Internet Service Provider (ISP) or Proxy Service through which someone accesses the Internet. While this is an anonymous piece of information (for example, we cannot know a name, address, telephone number, or any other personal details just from knowing the IP address), it does give us a general idea of the geographic location (such as City, State, Country, and ISP). If you are interested in learning more about IP addresses we recommend that you see the [Wikipedia page](https://en.wikipedia.org/wiki/IP_address).
+  * Internet Protocol (IP) address provided by the Internet Service Provider (ISP) or Proxy Service through which someone accesses the Internet. While this is generalized information (for example, we cannot know a name, address, telephone number, or any other personal details just from knowing the IP address), it does give us a general idea of the geographic location (such as City, State, Country, and ISP). If you are interested in learning more about IP addresses we recommend that you see the [Wikipedia page](https://en.wikipedia.org/wiki/IP_address).
 
 
 
@@ -57,9 +58,9 @@ Statistics are also collected by third-parties through cookies and other trackin
 
 ### Personal Information
 
-In using our service you may choose to provide us with your Email Address. This is collected for the purpose of sending you notifications from our Discussion Threads, to send you our Health Newsletter and Rx Savings Voucher, or for us to reach you regarding a customer service or business inquiry. As mentioned before, this information is collected on a voluntary basis and is not required for you to view pages on our site. We expressly prohibit the posting of any Personal Information on our discussion threads (such as an individual's full name, address, telephone number, or email address). Such information will be promptly removed by our moderators once discovered.
+In using our service you may choose to provide us with your Email Address. This is collected for the purpose of sending you notifications from our Discussion Threads, to send you our Health Newsletter and Prescription Discount Card, or for us to reach you regarding a customer service or business inquiry. As mentioned before, this information is collected on a voluntary basis and is not required for you to view pages on our site. We expressly prohibit the posting of any Personal Information on our discussion threads (such as an individual's full name, address, telephone number, or email address). Such information will be promptly removed by our moderators once discovered.
 
-Please note that your Personal Information is not shared outside of our organization and support staff. As part of our internal security and statistics, we may tie your Personal Information to the anonymous statistics which we automatically collect above.
+Please note that your Personal Information is not shared outside of our organization and support staff. As part of our internal security and statistics, we may tie your Personal Information to the statistics which we automatically collect above.
 
 ### Google Services
 
@@ -72,13 +73,15 @@ Because we employ multiple Google technologies (such as Analytics and Ads) you m
 
 When you choose to bookmark and share pages from our website using the buttons which we provide, you may be routed through the AddThis service and onto one or more social networks. Please note that AddThis and the target social network (as third-party service providers) maintain their own privacy policies which govern the collection and use of the information collected on those sites.
 
-### Rx Savings Voucher
+### Prescrition Discount Card
 
-We offer a branded Prescription Discount Card / Rx Savings Voucher to patients located inside the United States. When an individual uses it to claim a savings on their prescription from the pharmacy, the process is handled by third parties (which may include the dispensing pharmacy and benefit managers DataRx or RxCut) who maintain privacy and data collection practices which are separate from ours. We are provided with reports containing the Member ID, the Date that a prescription was filled, the Name & Location of the pharmacy, the specific Drug which was dispensed, and the Cost of filling the prescription (but not an individual's name, address, or social security number). If you do not wish for this information to be known by us, please do not use our voucher.
+We offer a branded Prescription Discount Card / Rx Savings Voucher to patients located inside the United States. When an individual uses it to claim a savings on their prescription from the pharmacy, the process is handled by third parties (which may include the dispensing pharmacy and benefit managers DataRx or RxCut) who maintain privacy and data collection practices which are separate from ours. We are provided with reports containing the Member ID, the Date that a prescription was filled, the Name & Location of the pharmacy, the specific Drug which was dispensed, and the Cost of filling the prescription (but not an individual's name, address, or social security number). This data is collected so that we may understand how the discount card is being used as well as evaluating our marketing efforts of this service. If you do not wish for this information to be known by us, please do not use our discount card.
 
 ## Tracking Technologies
 
-We (MedsChat.com) and our partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. By using any of our online forms to participate in Discussion Threads, Send us a Message, email yourself an Rx Savings Voucher, or Subscribe to our Health Newsletter, your Email Address (plus your Name if it is collected) is stored in a cookie so that you do not need to reenter it the next time you visit our site. Please note that this cookie is NOT shared with any outside parties. Furthermore, if you select the option "I'm on a public or shared computer" before submitting the form, we will not store this information inside a cookie. If you wish to clear this previously stored information [click here](https://web.archive.org/privacy.asp?action=clear-email-cookie).
+MedsChat.com and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+
+By using any of our online forms to participate in Discussion Threads, Send us a Message, email yourself a Prescription Savings Card, or Subscribe to our Health Newsletter, your Email Address (plus your Name if it is collected) is stored in a cookie so that you do not need to reenter it the next time you visit our site. Please note that this cookie is NOT shared with any outside parties. Furthermore, if you select the option "I'm on a public or shared computer" before submitting the form, we will not store this information inside a cookie. If you wish to clear this previously stored information [click here](https://web.archive.org/privacy.asp?action=clear-email-cookie).
 
 ## Advertising
 
@@ -112,7 +115,9 @@ Our service includes links to other websites (either directly or through adverti
 
 Legal Disclosure
 
-MedsChat reserves the right to disclose your personally identifiable information as required by law, such as to comply with a subpoena or similar legal process, and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website.
+In certain situations, MedsChat.com may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+As a result, we reserve the right to disclose your personally identifiable information as required by law, such as to comply with a subpoena or similar legal process, and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website.
 
 If MedsChat is involved in a merger, acquisition, or sale of all or a portion of its assets, we will post a prominent notice on this page of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
