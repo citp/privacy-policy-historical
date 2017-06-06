@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girl.com.au privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129081034id_/http%3A//www.girl.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girl.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190456id_/https%3A//www.girl.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ When you enter a contest or other promotional feature, we may request both your 
 
 Winners drawn are at the discretion of Girl.com.au. The decision is final and not negotiable. Competitions are not open to Girl.com.au staff or relatives of staff.
 
-To read more detailed Contests Terms & Conditions [CLICK HERE](https://web.archive.org/web/20161129081034id_/http%3A//www.girl.com.au/compstermsconditions.htm)
+To read more detailed Contests Terms & Conditions [CLICK HERE](https://web.archive.org/web/20170606190456id_/https%3A//www.girl.com.au/compstermsconditions.htm)
 
  **What happens to information & content collected by Girl.com.au?**
 
@@ -78,3 +78,9 @@ Personal Data collected: Cookie and Usage data.
 **Tell us what you think**
 
 Girl.com.au encourages feedback and any questions you may have about privacy or any of the above. Please send email to the Editor [**michelle@girl.com.au**](mailto:michelle@girl.com.au)
+
+  
+
+
+  
+
