@@ -1,31 +1,76 @@
-<!--The following is the downloaded HTML source of the myregistry.com privacy policy that was archived on 2016-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161104133921id_/https%3A//www.myregistry.com/Info/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myregistry.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606212235id_/https%3A//www.myregistry.com/Info/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><title>
 	Privacy Statement - MyRegistry.com
 </title><meta name="description" content="This Privacy Statement sets forth the information gathering, use, and dissemination practices of MyRegistry LLC (" myregistry")="" in="" connection="" with="" the="" world="" wide="" web="" site="" located="" at="" www.myregistry.com="" (the="" “site”).="" "=""><link rel="icon" type="image/x-icon" href="/images/icons/favicon.ico">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ScriptSet/MrJqueryScripts.js?version=201610311659320554"></script>
-    <script type="text/javascript" src="/ScriptSet/MrScripts.js?version=201610311659320554"></script>
-    <script type="text/javascript" src="/Scripts/CheckAuthCookie.js?version=201610311659320554"></script>
-    <link href="/StyleSet/MrMainStyles.css?version=201611040023004374" rel="stylesheet" type="text/css">
+    <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ScriptSet/MrJqueryScripts.js?version=201705241709531145"></script>
+    <script type="text/javascript" src="/ScriptSet/MrScripts.js?version=201705241709531145"></script>
+    <script type="text/javascript" src="/Scripts/CheckAuthCookie.js?version=201705241709531145"></script>
+    <link href="/StyleSet/MrMainStyles.css?version=201706060022004801" rel="stylesheet" type="text/css">
 <script type="text/javascript">
     var _gaq = _gaq || [];
     var GoogleTracking = {
         account: 'UA-23309797-1',
         domainName: 'myregistry.com',
         isEnabled: true,
-        Initialize: function() {
+        isAdBlocked: false,
+        isDoNotTrackPage: false,
+        Initialize: function () {
             _gaq.push(['_setAccount', this.account]);
             _gaq.push(['_setDomainName', this.domainName]);
-            (function() {
+            (function () {
                 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; // /u/ga_debug.js
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; // /ga.js or /u/ga_debug.js
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
 
+            // Track Page View 
+            GoogleTracking.TrackPageView();
         },
-        trackEvent: function(category, action, label, value) {
+        TrackPageView: function () {
+
+            try {
+                var callback = function () {
+                    var ad = document.createElement('ins');
+                    var isAdBlockEnabled = false;
+
+                    // Ad Blocker detection bait
+                    ad.className = 'AdSense';
+                    ad.style.display = 'block';
+                    ad.style.position = 'absolute';
+                    ad.style.top = '-1px';
+                    ad.style.height = '1px';
+                    document.body.appendChild(ad);
+                    isAdBlockEnabled = !ad.clientHeight;
+                    document.body.removeChild(ad);
+
+                    if (isAdBlockEnabled) {
+                        GoogleTracking.isAdBlocked = true;
+                        GoogleTracking.trackCustom(1, "AdBlocked", "1");
+                    }
+                    // Page view
+                    if (!GoogleTracking.isDoNotTrackPage) _gaq.push(['_trackPageview']);
+                };
+
+                if (document.readyState != 'loading') {
+                    callback();
+                } else {
+                    document.addEventListener('DOMContentLoaded', callback);
+                }
+            }
+            catch(err) {
+                // Page view anyway
+                if (!GoogleTracking.isDoNotTrackPage) _gaq.push(['_trackPageview']);
+            }
+        },
+        trackCustom: function (index, name, value) {
+            if (this.isEnabled) {
+                _gaq.push(['_setCustomVar', index, name, value]);
+            }
+        },
+        trackEvent: function (category, action, label, value) {
         
             if (this.isEnabled) {
                 _gaq.push(['_trackEvent', category, action, label, value]);
@@ -33,8 +78,8 @@
         }
     };
     GoogleTracking.Initialize();
-    _gaq.push(['_trackPageview']);
 </script>
+
 <!--Google Publisher Tag BEGIN-->
 <script type="text/javascript">
     var googletag = googletag || {};
@@ -68,15 +113,7 @@
         }
     </script>
     
-    <script type="text/javascript">
-        $(document).ready(function () {
-            GoogleTag.Initialize();
-            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1407511021360-0'); });
-            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1407511021360-1'); });
-            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1407511021360-2'); });
-            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1407511021360-3'); });
-        });
-    </script>
+    
 
     <link rel="canonical" href="https://www.myregistry.com/Info/Privacy.aspx">
 
@@ -112,6 +149,7 @@
         <!--<![endif]-->
         <div id="MR_GlobalTop">
             
+
 <div class="mrw_master_header visitor">
     <div class="menu_small_icon">
     </div>
@@ -220,11 +258,10 @@
         </div>
     </div>
     
-    
-
 <script type="text/javascript">
-    $(".left_bar_menu").ready(function() {
-        $(".content_left_bar_menu dl dt a").click(function() {
+    $(".left_bar_menu").ready(function () {
+        MobileMenu.Initialize();
+        $(".content_left_bar_menu dl dt a").click(function () {
             //alert(1);
         });
     });
@@ -234,11 +271,35 @@
     </div>
     <div class="content_left_bar_menu">
         <dl>    
-        
-            <dt><a class="lnkSignup" id="HomePage_LeftBar_Signup" href="/?param=signup">Sign up</a>
-                <a class="lnkLogin" href="/Login.aspx">
-                    Login
-                </a></dt>
+                       
+                <dt><a class="lnkSignup" id="HomePage_LeftBar_Signup" href="/?param=signup">SIGN UP</a></dt>
+                <dt><a class="lnkLogin" onclick="Authentication.LoginButtonClick(this);">LOGIN</a></dt>
+                <dt><a href="http://www.myregistry.com//find-a-registry.aspx">FIND A REGISTRY</a></dt>
+                <dt>
+                    <a href="#Guides_Sub_Menu" class="left_bar_menu_inpiration">
+                        REGISTRY GIFT GUIDES
+                        <span class="mrw_icon arrow-down-blue inspiration_sub_menu"></span>
+                    </a>
+                </dt>
+                <dd id="Guides_Sub_Menu">
+                    <div class="subText_left_bar_menu"><a href="/Guides/BabyRegistry/">Baby gift guide</a></div>
+                    <div class="subText_left_bar_menu"><a href="/Guides/WeddingRegistry/">Wedding gift guide</a></div>
+                </dd>
+                <div class="content_left_bar_menu_space"></div>
+                <dt>
+                    <a href="#Inspiration_Sub_Menu" class="left_bar_menu_inpiration">
+                        GET INSPIRED
+                        <span class="mrw_icon arrow-down-blue inspiration_sub_menu"></span>
+                    </a>
+                </dt>
+                <dd id="Inspiration_Sub_Menu">
+                    <div class="subText_left_bar_menu"><a href="http://www.myregistry.com//baby-registry/ideas.aspx">Baby gift ideas</a></div>
+                    <div class="subText_left_bar_menu"><a href="http://www.myregistry.com//wedding-registry/ideas.aspx">Wedding gift ideas</a></div>
+                    <div class="subText_left_bar_menu"><a href="http://www.myregistry.com//wish-list/ideas.aspx">Wish list ideas</a></div>
+                </dd>
+                <dt><a href="/Info/AboutUs.aspx">ABOUT US</a></dt>    
+                <dt><a href="/Blog/">BLOG</a></dt>    
+                <dt><a href="/Info/Faq.aspx">FAQS</a></dt>                
             
             <dt><a class="mobile_link_left_menu" href="/Info/SmartPhoneApps/">GET THE MOBILE APP</a></dt>
             <dt>
@@ -246,11 +307,17 @@
             </dt>
                 
                 
-            <dt onclick="openLivechat();"><span class="chat_small_icon"></span><a class="text_with_icon">
-                CHAT WITH US</a> </dt>
+            <dt class="separator2"></dt>
             
+            <dt onclick="openLivechat();">
+                <a href="#">
+                    <span class="chat_small_icon" style="position:absolute; left:2px; margin-top: -2px;">
+                    </span>                
+                    <span class="menu_text_with_icon" style="margin-left: 28px;">CHAT WITH US</span> 
+                </a>
+            </dt>
         </dl>
-        <div class="left_bar_menu_faq"><a href="/Info/Faq.aspx">FAQs</a></div>
+        
         
     </div>
 </div>
@@ -277,9 +344,9 @@
                     
     <div class="forms_logo">
     </div>
-    <div class="mrw_container">
+    <div class="mrw_container privacy_statement_content">
         <h1 class="headerV2">
-            MyRegistry LLC Privacy Statement</h1>
+            MyRegistry LLC privacy statement</h1>
         <div class="content">
             <p>
             We at MyRegistry LLC (“<u>MyRegistry</u>,” “<u>we</u>,” “<u>us</u>,” or “<u>our</u>”) have created this privacy policy (this “<u>Privacy Policy</u>”) because we know that you care about how information you provide to us
@@ -534,7 +601,7 @@
             <div class="forms_end">
                 <div style="display:inline-block">
                     This Terms and Conditions Statement is effective June 9, 2016<br>
-                    <strong>Last Updated</strong>: 06/9/2016</div>                
+                    <strong>Last Updated</strong>: 10/07/2016</div>                
             </div>
         </div>
     </div>
@@ -556,14 +623,7 @@
     <div id="MR_GlobalBottom">
         
 <div class="footer">
-    <div class="mr_inner_footer">
-            <span class="mr_footer_category mr_footer_store_link mr_14_geo_regular">Shop: </span>
-            <a class="mr_footer_store_link mr_14_geo_regular" target="_blank" href="https://shop.myregistry.com/SearchResults.asp?Cat=100">
-                Bridesmaid</a> <a class="mr_footer_store_link mr_14_geo_regular" target="_blank" href="https://shop.myregistry.com/SearchResults.asp?Cat=200">Groomsmen</a>
-            <a class="mr_footer_store_link mr_14_geo_regular" target="_blank" href="https://shop.myregistry.com/SearchResults.asp?Cat=300">
-                Wedding Favors</a> <a class="mr_footer_store_link mr_14_geo_regular" target="_blank" href="http://kitchenware.myregistry.com/">Kitchen &amp; Housewares</a> <a class="mr_footer_store_link mr_14_geo_regular" href="https://shop.myregistry.com/SearchResults.asp?Cat=400" target="_blank">Baby
-                        Favors</a> <a class="mr_footer_store_link mr_14_geo_regular" href="https://babygifts.myregistry.com/" target="_blank">Baby Store</a>
-        </div>
+    
     <div id="cssmenu_footer" style="margin: 3px 0px 0px;">
         <ul>
             <li class="active has-sub"><a href="javascript:void(0);"><span>COMPANY INFO</span></a>
@@ -591,6 +651,10 @@
                 <ul>
                     <li><a target="_self" href="/Info/RegistryMembers.aspx">Members Directory</a></li>
                     <li><a target="_self" href="/find-a-registry.aspx">Find Someone's Registry</a></li>
+                    
+                    <li><a target="_self" href="/Offers/MyOffers.aspx?regType=wedding">Special Wedding Offers</a></li>
+                    
+                    <li><a target="_self" href="/Offers/MyOffers.aspx?regType=baby">Special Baby Offers</a></li>
                     
                 </ul>
             </li>
@@ -642,7 +706,7 @@
     </div>
     <div class="mr_copyright">
         ©
-        2016
+        2017
         All rights reserved - MyRegistry LLC
         &nbsp;&nbsp;|&nbsp;&nbsp;<a class="mr_sitemap" href="/SiteMap/" target="_blank">Site Map</a>
     </div>
@@ -655,7 +719,7 @@
         <input id="WebsiteHost" type="hidden" value="https://www.myregistry.com/">
         <input id="RegistryType" type="hidden" value="">
         <input id="isAuthenticated" type="hidden" value="False">
-        <input id="IsBeachBodyShow" type="hidden" value="False">
+        <input id="IsHideAds" type="hidden" value="False">
         <input id="IsNewUser" type="hidden" value="False">
     </div>
     <div id="mrExternalScripts">
