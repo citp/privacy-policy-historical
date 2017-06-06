@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the binaryoptionsedge.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123105119id_/http%3A//www.binaryoptionsedge.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryoptionsedge.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084506id_/http%3A//www.binaryoptionsedge.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Binary Options Edge
 
-[](http://goo.gl/uqlyls)
-
 **Next High Impact Market News Event:**  
 _Retrieving events..._
+
+[](http://nflow.onlinepro7.hop.clickbank.net/)
 
   
 
@@ -25,7 +25,7 @@ This website does not store any information that would, on its own, allow us to 
 
 USA REGULATION NOTICE: There are many binary options companies which are not regulated within the United States. Most of these offshore companies are not supervised, connected or affiliated with any of the regulatory agencies such as the Commodity Futures Trading Commission (CFTC), National Futures Association (NFA), Securities and Exchange Commission (SEC) or the Financial Industry Regulatory Authority (FINRA). 
 
-Please take notice that any unregulated trading activity by U.S. Citizens should be considered unlawful. 
+It is our STRONG opinion that you do not operate with any unregulated brokerage firm as they may steal or try to scam you out of every dime you have. Please take notice that any unregulated trading activity by U.S. Citizens should be considered unlawful. 
 
 Risk Disclosure: Binary Options Edge does not accept any liability for loss or damage as a result of reliance on the information contained within this website; this includes education material, price quotes and charts, and analysis. Please be aware of the risks associated with trading the financial markets; never invest more money than you can risk losing. The risks involved in trading binary options are high and may not be suitable for all investors. Binary Options Edge doesn't retain responsibility for any trading losses you might face as a result of using the data hosted on this site. The data and quotes contained in this website are not provided by exchanges but rather by market makers. So prices may be different from exchange prices and may not be accurate to real time trading prices. They are supplied as a guide to trading rather than for trading purposes. 
 
