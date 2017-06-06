@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daniellevis.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120100214id_/http%3A//www.daniellevis.com/%3Fpage_id%3D2464) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daniellevis.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051822id_/http%3A//www.daniellevis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Info-Marketer's Blog | Info-Marketer's Blog
 
@@ -9,7 +9,7 @@ Effective Date: July 1, 2016
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
-Levis International Marketing (“LIM”) owns and operates this daniellevis.com website business. All references to “we”, “us”, this “website” or this “site” shall be construed to mean LIM.
+Levis International Marketing, Inc. (“LIM”) owns and operates this daniellevis.com website business. All references to “we”, “us”, this “website” or this “site” shall be construed to mean LIM.
 
 HOW WE MODIFY THIS PRIVACY POLICY
 
@@ -105,10 +105,10 @@ CONTACT US
 
 If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at:
 
-Levis International Marketing  
+Levis International Marketing, Inc.  
 Attn: Privacy Policy Officer  
 92 Caplan Avenue,  
-Barrie, NONE, L4N 9J2  
+Barrie, ON L4N 9J2 CANADA  
 Email: support@daniellevis.com  
 Telephone: 7057197954–  
 >>Material Modifications<< Since July 1, 2016: none.  
