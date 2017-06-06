@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etax.com.au privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213230325id_/https%3A//www.etax.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etax.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192334id_/https%3A//www.etax.com.au/privacy) for the most accurate reproduction.*
 
 # Etax Privacy and Security Statement
 
@@ -16,7 +16,7 @@ This Security and Privacy Statement may also apply to services offered by Etax o
 
 Etax takes reasonable steps to preserve the security of cookie and personal information in accordance with this Security and Privacy Statement. If your browser is suitably configured, it will advise you whether the information you are sending us will be secure (encrypted) or not secure (unencrypted).
 
- **Etax currently uses 128 bit SSL encryption.   We hold an Extended Validation SSL certificate provided by Verisign – this is the industry standard for Banks and other financial institutions. To verify our current SSL certificate you can use an independent security check tool such as [SSLShopper.com](http://www.sslshopper.com/ssl-checker.html#hostname=www.etax.com.au).**
+**Etax currently uses 256 bit SSL encryption.   We hold an Extended Validation SSL certificate signed by DigiCert – this is the industry standard for Banks and other financial institutions. To verify our current SSL certificate you can use an independent security check tool such as [SSLShopper.com](http://www.sslshopper.com/ssl-checker.html#hostname=www.etax.com.au).**
 
 Etax regularly reviews developments in security and encryption technologies. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although Etax strives to protect such information, Etax cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems.
 
