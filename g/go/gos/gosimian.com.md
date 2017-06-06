@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the gosimian.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108033751id_/https%3A//www.gosimian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosimian.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110838id_/https%3A//www.gosimian.com/privacy) for the most accurate reproduction.*
 
-# Simian - Privacy Policy
+# Simian - Media Sharing. Evolved.
+
+[](https://www.gosimian.com/home "Return Home")
+
+  * [Features](https://www.gosimian.com/home#Features "Features")
+  * [Resources](https://www.gosimian.com/resources "Resources")
+  * [Pricing](https://www.gosimian.com/pricing "Pricing")
+  * [Free Trial](https://www.gosimian.com/free-trial "Free Trial")
+
+
+
+### Privacy Policy
 
 The information Simian collects to understand your needs and interests helps Simian deliver a consistent and personalized experience. For example, Simian may use your information to assist you in completing an order; communicate with you about products and services; provide service and support; update you on new services and benefits; provide personalized promotional offers; select content to be communicated to you.
 
@@ -16,7 +27,7 @@ Except as described in this Statement, Simian will not share the personal inform
 
 Simian does not knowingly collect information from children under the age of 13 and does not target its websites to children under 13. We encourage parents and guardians to take an active role in their children’s online activities and interests.
 
-Simian gives you the choice of receiving information that complements our products and services. You can subscribe to receive information and also choose to receive Simian general communications. 
+Simian gives you the choice of receiving information that complements our products and services. You can subscribe to receive information and also choose to receive Simian general communications.
 
 You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, or other administrative and transactional notices as the primary purpose of these communications is not promotional in nature. Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by selecting the email "opt out" or "unsubscribe" link. Or you may opt out by writing to Simian Be sure to provide your name, email and postal address.
 
