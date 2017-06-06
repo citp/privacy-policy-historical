@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125190959id_/http%3A//www.barryplant.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062547id_/http%3A//www.barryplant.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -109,7 +109,7 @@ This privacy policy may change from time to time particularly as new rules, regu
 
 #### 8\. OUR LEGAL ENTITIES
 
-This privacy statement is made on behalf of The Barry Plant Group Pty Ltd ABN 96 088 069 952, Barry Plant Financial Services Pty Ltd ABN 12 345 678 900 and the various real estate agents, agent’s representatives and finance brokers operating under the Barry Plant trademark.
+This privacy statement is made on behalf of The Barry Plant Group Pty Ltd ABN 96 088 069 952, Chapter Financial Group Pty Ltd ABN 62 159 463 199 and the various real estate agents, agent’s representatives and finance brokers operating under the Barry Plant trademark.
 
 #### 9\. HOW TO CONTACT US
 
