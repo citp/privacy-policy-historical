@@ -1,140 +1,99 @@
-> *The following text is extracted and transformed from the fyre.co privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021624id_/http%3A//www.livefyre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyre.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184321id_/https%3A//www.ubtsupport.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Livefyre | Privacy Policy
+# UBT | Online Privacy Policy
 
-Livefyre's Privacy Policy is designed to help you understand how we collect and use the personal information you share with us, and help you make informed decisions when using Livefyre services, which are located at [livefyre.com](http://livefyre.com/) and its directly associated domains or as made available by its partners at their domains and via their services (collectively, "Livefyre" or "Site"). By using or accessing Livefyre, you are accepting the practices described in this Privacy Policy.
+**_UBT (EU) Limited_** is committed to protecting your privacy when you use our on-line, telephone or other services ("Services"). In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
 
-We built Livefyre to make it easy for you to share your opinions with your friends and cohorts online. We understand you may not want everyone in the world to have the profile information you share on Livefyre; that is why we give you control of your profile information. You choose what information you put in your profile and have the ability to block people from seeing your profile. Posts submitted within conversations on the Site are public and cannot be deleted. Recent posts you have made on Livefyre show up in your profile by default.
+From time to time, we add or change functions, features or products to our Web Sites or add or change Services. This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
 
-## The Information We Collect
+Any questions regarding our Privacy Policy may be [sent by email](https://web.archive.org/web/20170606184321id_/https%3A//www.ubtsupport.com/legal/privacy.php?contact=1), or alternatively see the section "Comments" below.
 
-When you visit Livefyre you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Site. 
+## Your acceptance of these Privacy Statement terms
 
-When you enter Livefyre, we collect your browser type and IP address. This information is gathered for all Livefyre visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Livefyre. You can remove or block this cookie using the settings in your browser if you want to disable the convenience of this feature.
+By using any of the sites within our web site network ("Web Sites") or our Services, you unconditionally agree to be bound by this Privacy Policy. For a full list of Web Sites associated to UBT (EU) Limited, please [CLICK HERE](https://web.archive.org/web/20170606184321id_/https%3A//www.ubtsupport.com/legal/privacy.php?contact=1).
 
-When you use Livefyre, you may set up your personal profile, perform searches and participate in conversations. We collect information about what you do when you use Livefyre so that we can provide you the Livefyre service and offer personalized features. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+## What data do we collect and how do we use it?
 
-You post User Content (as defined in the Livefyre Terms of Use) on the Site at your own risk. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages of the Site or if other Users have copied or stored your User Content.
+ ** _UBT (EU) Limited_** collects and processes information about you in order to:
 
-Any improper collection or misuse of information provided on Livefyre is a violation of the Livefyre Terms of Service and should be reported through the form on our privacy help page.
+  1. identify you each time you visit a Web Site or wish to have a Service provided;
 
-If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as that person's email address, Facebook username or Twitter username. By providing us with the information of third parties, you represent that you have all necessary rights to share that information with us. Livefyre stores this information to send invitations and reminders and to track the success of our referral program. Your friend may contact us at [contact@livefyre.com](mailto:contact@livefyre.com) to request that we remove this information from our database.
+  2. process orders or applications submitted by you;
 
-Livefyre may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Livefyre service through the operation of the service in order to provide you with more useful information and a more personalized experience.  
-By using Livefyre, you are consenting to have your personal data transferred to and processed in the United States. 
+  3. improve our Services and Web Sites
 
-## Children Under Age 13
+  4. Customise your experience, for example, provide advertisements that we think are relevant to you and which support any specific requests for information you may make through keyword searches;
 
-Livefyre does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Livefyre or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Livefyre. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@livefyre.com](mailto:privacy@livefyre.com).
+  5. carry out research on the demographics, interests and behaviour of all of our customers; and
 
-## Children Between the Ages of 13 and 18
+  6. send you information we think you may find useful, including information about new **_UBT (EU) Limited_** products and services.
 
-We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-## Use of Information Obtained by Livefyre
 
-When you register with Livefyre, you create your own profile. Your profile information is displayed to the public to enable you to connect with people on Livefyre. We may occasionally use your name, Livefyre username, Twitter username or email address to send you notifications regarding new services offered by Livefyre that we think you may find valuable.
 
-Profile information is used by Livefyre primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information in accordance with your privacy settings.
+You may be asked, either when you register with us, or at other times, for information about yourself, such as your name, e-mail address, postal address and telephone number. You may also be asked to share with us your interests, hobbies and preferences. In addition, when you order certain goods or services from our Web Sites, we will need to know your credit/payment card number and expiration date.
 
-Profile information you submit to Livefyre will be available to users of Livefyre. Your profile information will be available in search results across the Livefyre network and it may also be made available to third party search engines. This is primarily so people with like interests can find you and connect with you on Livefyre. By submitting profile information to Livefyre, you expressly consent to the uses of that personal information that are described above.
+You are under no obligation to provide this information, but if you don't then we may not be able to provide you with certain services or personalise your experience and tailor our Services for you (for example, tell you about special offers on things you're interested in).
 
-Livefyre may send you service-related announcements from time to time through the general operation of the service.
+## Log files/IP addresses
 
-Livefyre may use information in your profile without identifying you as an individual to third parties. We do this for purposes such as aggregating how many people in a network like a band or movie and personalizing advertisements and promotions so that we can provide you Livefyre. We believe this benefits you. We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, Livefyre Platform developers, Twitter, Facebook and other users of Livefyre, to supplement your profile. Where such information is used, we generally allow you to specify in your privacy settings that you do not want this to be done or to take other actions that limit the connection of this information to your profile.
+When you visit our Web Sites, we automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. We use IP addresses to help us administer our Web Sites and to collect broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information.
 
-## Sharing Your Information with Third Parties
+## Non personal information
 
-We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you as specified in this Privacy Policy. For example:
+We may automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our Web Sites. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites. We may from time to time supply the owners or operators of third party sites from which it is possible to link to our Web Sites with information relating to the number of users linking to our Web Sites from their sites. You cannot be identified from this information.
 
-We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Livefyre, to remove repetitive information from our user lists, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Livefyre-specified purposes.
+## Use of Cookies
 
-We occasionally provide demonstration accounts that allow non-users a glimpse into the Livefyre world. Such accounts have only limited capabilities and passwords are changed regularly to limit possible misuse.
+Cookies are pieces of information that a Web Site transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. However, you may not be able to take full advantage of a Web Site if you do so. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web. Although they do identify a user's computer, cookies do not personally identify customers or passwords. Credit card information is not stored in cookies.
 
-We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Livefyre service or using the Livefyre name, or to prevent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.
+### We use cookies for the following reasons:
 
-We may provide services jointly with other companies on Livefyre. You can tell when another company is involved in any service provided on Livefyre, and by using a joint service, you agree that we may share customer information with that company in connection with your use of that service.
+  1. To identify who you are and to access your account information;
 
-If the ownership of all or substantially all of the Livefyre business, or individual business units owned by Livefyre, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations.
+  2. To estimate our audience size and patterns;
 
-When you use Livefyre, all information you post or share in public areas such as personal information or other information, may be shared with other users. All such sharing of information is done at your own risk. Please keep the open nature of the Livefyre platform in mind when disclosing personal information and opinions.
+  3. To ensure that you are not asked to register twice;
 
-## Links
+  4. To control how often visitors see similar ads;
 
-Livefyre may contain links to other web sites. We are not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Livefyre.
+  5. To track preferences and to improve and update our Web Site; and
 
-## Third Party Advertising
+  6. To track the progress and number of entries in some of our promotions and contests.
 
-Advertisements that appear in connection with Livefyre may be delivered (or "served") directly to users by third party advertisers. When advertisements are served directly by third party advertisers, they automatically receive your IP address and may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Livefyre does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Livefyre unless you choose to share it with them.
 
-This privacy policy covers the use of cookies by Livefyre and does not cover the use of cookies or other tracking technologies by any of its advertisers.
 
-## Changing or Removing Information
 
-Access and control over most personal information on Livefyre is readily available through the profile editing tools. Livefyre users may modify or delete profile information at any time by logging into their account. Information will be updated immediately. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Livefyre.
+## With whom is the information shared?
 
-Where you make use of the communication features of the service to share information with other individuals on Livefyre, however, you may not be able to "unshared" or remove all communications.
+ ** _UBT (EU) Limited_** will not share, sell or rent your personal information to third parties. However, we may disclose your personal information to third party suppliers who provide services on our behalf.
+
+ ** _UBT (EU) Limited_** may disclose aggregate statistics about our sales, our Web Site visitors and customers of our telephone services in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will not include personally identifying information.
+
+ ** _UBT (EU) Limited_** may disclose personal information if required to do so by law or if it believes that such action is necessary to protect and defend the rights, property or personal safety of company name and its Web Sites, visitors to the Web Sites and customers of our Services.
+
+Our Web Site contains links to the sites of third parties. When you visit these sites, we suggest that you read their privacy policies. **_UBT (EU) Limited_** is not responsible for the privacy policies or the content of such sites.
+
+We will only sell or rent your personal information to a third party either as part of a sale of the assets of a **_UBT (EU) Limited_** company or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
+
+## Information about products and services
+
+It is very important to us that we provide you with the highest level of service. In order to help us do this, from time to time **_UBT (EU) Limited_** companies may send you details of our products and services which we think may be of interest to you. If at any time you do not wish to receive these details, [please e-mail us](https://web.archive.org/web/20170606184321id_/https%3A//www.ubtsupport.com/legal/privacy.php?contact=1).
 
 ## Security
 
-Livefyre takes appropriate precautions to protect our users' information. Please do not send private information to us by email or instant messaging services. If you have any questions about the security of Livefyre Web Site, please contact us at [privacy@livefyre.com](mailto:privacy@livefyre.com).
+ ** _UBT (EU) Limited_** places a great importance on the security of all information associated with our customers. We have security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to user information. With regard to our Web Sites, we use secure server software (SSL) to encrypt financial information you input before it is sent to us. While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur, we use our best efforts to prevent this.
 
-## Terms of Use, Notices and Revisions
+## Where is the information stored?
 
-Your use of Livefyre, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+Information which you submit via our Web Sites or our telephone services is stored on a computer located in the European Economic Area. This is necessary in order to process the information and to send you any information you have requested. Information submitted by you may be transferred by us to our other offices and to reputable third party suppliers, which may be situated outside the European Economic Area. Not all countries outside the EEA have data protection or privacy laws. In addition, if you use our Services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those Services.
 
-## Contacting the Web Site
+## Contact Information / Comments
 
-If you have any questions about this privacy policy, please email us at [privacy@livefyre.com](mailto:privacy@livefyre.com).
+[Please e-mail](https://web.archive.org/web/20170606184321id_/https%3A//www.ubtsupport.com/legal/privacy.php?contact=1) any questions, concerns or comments you have about our Privacy Policy or write to us at:
 
-## Safety
-
-Livefyre aspires to be an environment where people can interact safely with their friends and the people around them. Children under 13 years old are not permitted access to Livefyre. In addition, parents of children 13 years and older should consider whether their child should be supervised during the child's use of the Livefyre site.
-
-Despite Livefyre's safety and privacy controls, Livefyre cannot guarantee that its site is entirely free of illegal, offensive, pornographic or otherwise inappropriate material, or that its members will not encounter inappropriate or illegal conduct from other members. Consequently, you may encounter such content and conduct. You can help Livefyre by notifying us of any nudity or pornography, or harassment or unwelcome contact by emailing us at [safety@livefyre.com](mailto:safety@livefyre.com).
-
-We need all users to report suspicious people and inappropriate content they encounter on Livefyre. And we strongly encourage users under the age of 18 to talk to their parents or a responsible adult immediately if someone online says or does something to make them feel uncomfortable or threatened in any way.
-
-Remember that although using fake names is a violation of the Livefyre Terms of Use, people are not always who they say they are. You should always be careful when contacting people you do not know in the real world. And it is always risky to meet anyone in person whom you don't know through real world friends.
-
-Always follow these important safety tips when using Livefyre:
-
-  * Never share your password with anyone;
-  * Be cautious about posting and sharing personal information, especially information that could be used to identify you or locate you offline;
-  * Report users and content that violate our Terms of Use; and
-  * Block and report anyone that sends you unwanted or inappropriate communications.
-
-
-
-## For Parents:
-
-Livefyre strongly urges parents to talk to their children about the dangers they may encounter online, and to make sure their children are using Livefyre in a safe manner. Parents may want to install monitoring software on home computers if they are concerned about what their children are doing online. Children must know that they should report any inappropriate or offensive Livefyre content to their parents and to Livefyre using the tools made available through the site. Parents should always remind their children to follow the important safety tips listed on this page when using Livefyre.
-
-More information regarding Internet safety can be found on the following sites:  
-
-
-  * [OnguardOnline.gov](http://onguardonline.gov/)
-  * [WiredSafety.org](http://wiredsafety.org/)
-  * [Commonsense.com](http://commonsense.com/)
-  * [Ncmec.org](http://ncmec.org/)
-  * [TRUSTe.org](http://truste.org/)
-  * [ConnectSafely.org](http://connectsafely.org/)
-  * [NetSmartz.org](http://netsmartz.org/)
-  * [WebWiseKids.org](http://webwisekids.org/)
-
-
-
-## U.S.-EU Safe Harbor Framework
-
-Livefyre complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Livefyre has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
-
-Privacy Complaints by European Union Citizens:
-
-In compliance with the Safe Harbor Principles, Livefyre commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Livefyre at:
-
-> Jenna Langer  
->  [privacy@livefyre.com](mailto:privacy@livefyre.com)  
->  23 Geary Street, Suite 400  
->  San Francisco, CA 94108
-
-Livefyre has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Livefyre, please visit the [BBB EU SAFE HARBOR web site](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+UBT IT & T  
+3 Dolomite Ave  
+Stonewall, Manitoba R0C 2Z0  
+Canada  
+CV34 6BY
