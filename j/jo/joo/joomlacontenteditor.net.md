@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the joomlacontenteditor.net privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604094952id_/https%3A//www.joomlacontenteditor.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlacontenteditor.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171514id_/https%3A//www.joomlacontenteditor.net/about/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Cookies & Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-**(1) What information do we collect?**
+**1\. What information do we collect?**
 
 We may collect, store and use the following kinds of personal information:
 
@@ -15,7 +15,26 @@ We may collect, store and use the following kinds of personal information:
 
 
 
-**(2) Cookies**
+**2\. Google Analytics**
+
+We use Google Analytics to collect anonymized data about visitors to this site. We use this data to improve visitor experience, and to help us make the site better and attract more visitors. Google Analytics records:
+
+  * The website the visitor came from to get to this site.
+  * The kind of computer they are using (Windows, Mac, etc. as well as information like screen resolution, web browser etc.)
+  * The vistors general location (eg: London, United Kingdom)
+  * Where the visitor clicked on the site and how long they stayed for.
+
+
+
+In using Google Analytics, we are bound by [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html "Google Analytics Terms of Service")
+
+You can [opt out of Google’s advertising tracking cookie](http://www.google.com/privacy_ads.html) or [use a browser plugin to opt out of all Google Analytics tracking software](http://tools.google.com/dlpage/gaoptout?hl=en).
+
+**3\. Cloudflare**
+
+We use [Cloudflare](https://www.cloudflare.com/ "Cloudflare") to help us optimize and protect this site. Cloudflare may place a cookie in your browser to help it provide its services. You can read more about this here - [Cloudflare Privacy & Security Policy](https://www.cloudflare.com/security-policy/ "Cloudflare Privacy & Security Policy")
+
+**4\. Cookies**
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
@@ -33,7 +52,7 @@ The following cookies may be set on visiting this site : 
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
-**(3) Using your personal information**
+**5\. Using your personal information**
 
 Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
@@ -55,9 +74,9 @@ Where you submit personal information for publication on our website, we will pu
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
-All our website financial transactions are handled through our payment services providers, 2Checkout.com and Paypal. You can review the 2Checkout.com privacy policy at [**http://www.2checkout.com/documentation/privacy.html**.](http://www.2checkout.com/documentation/privacy.html.) and the Paypal Privacy Policy at **<https://www.paypal.com/us/cgi-bin/marketingweb?cmd=p/gen/ua/policy_privacy-outside>.** We will share information with 2Checkout.com and Paypal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
+All our website financial transactions are handled through our payment services providers, Stripe and Paypal. You can review the Stripe privacy policy at <https://stripe.com/gb/privacy> and the Paypal Privacy Policy at <https://www.paypal.com/uk/webapps/mpp/ua/privacy-full>**.**  We will share information with Stripe and Paypal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
-**(4) Disclosures**
+**6\. Disclosures**
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -73,7 +92,7 @@ In addition, we may disclose your personal information:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
-**(5) International data transfers**
+**7\. International data transfers**
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
@@ -83,7 +102,7 @@ In addition, personal information that you submit for publication (including you
 
 You expressly agree to such transfers of personal information.
 
-**(6) Security of your personal information**
+**8\. Security of your personal information**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -93,11 +112,11 @@ Of course, data transmission over the internet is inherently insecure, and we ca
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
 
-**(7) Policy amendments**
+**9\. Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
-**(8) Your rights**
+**10\. Your rights**
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
@@ -109,17 +128,17 @@ We may withhold such personal information to the extent permitted by law.
 
 You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
 
-**(9) Third party websites**
+**11\. Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
-**(10) Updating information**
+**12\. Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**(11) Contact**
+**13\. Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [info@widgetfactorylimited.co.uk](mailto:info@widgetfactorylimited.co.uk) or by post to:
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [[email protected]](https://www.joomlacontenteditor.net/cdn-cgi/l/email-protection#375e59515877405e535052435156544358454e5b5e5a5e43525319545819425c) or by post to:
 
 Widget Factory Limited  
 Castlewood House   
@@ -128,7 +147,7 @@ London
 WC1A 1DG   
 United Kingdom
 
-**(12) Data controller**
+**14\. Data controller**
 
 The data controller responsible in respect of the information collected on this website is [Widget Factory Limited](https://www.joomlacontenteditor.net/www.widgetfactorylimited.co.uk "Widget Factory Limited")
 
