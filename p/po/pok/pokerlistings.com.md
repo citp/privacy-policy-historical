@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122105744id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192226id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
 
 # PokerListings.com - Privacy policy
 
