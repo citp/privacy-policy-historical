@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisnext.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210044634id_/http%3A//www.thisnext.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisnext.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133505id_/http%3A//www.thisnext.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ThisNext
 
