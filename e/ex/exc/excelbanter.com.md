@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excelbanter.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209164312id_/http%3A//excelbanter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excelbanter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224759id_/http%3A//excelbanter.com/privacy.php) for the most accurate reproduction.*
 
 # ExcelBanter Privacy Statement
 
@@ -11,8 +11,6 @@ In order to best use this website, a user must first complete the registration f
 **Cookies**  
 A cookie is a piece of data stored on your hard drive containing information about your registration with ExcelBanter. Usage of a cookie is in no way linked to any personally identifiable information while on this site. Once you close your browser, the cookie simply terminates. By setting a cookie on our site, you do not have to enter a password more than once, thereby saving time while browsing. You are not required to accept cookies to use this site although some features may not be available if you choose not to do so. 
 
-Third party vendors may use cookies to serve ads based on prior visits to this website. No personally identifiable information is collected by these cookies. You can opt out of third party vendor’s cookies at any time by visiting this page: <http://www.networkadvertising.org/managing/opt_out.asp>
-
 **Log Files**  
 We use IP addresses to analyse trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
@@ -23,16 +21,18 @@ In an attempt to help offset the costs of running this site, ExcelBanter does ac
 This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by ExcelBanter. 
 
 **Security**  
-ExcelBanter takes every precaution to protect your information. The server on which this site resides is administered by a commercial hosting company. Access to the server is restricted to trusted personnel and contained in a secure data center. If you have any questions regarding the security at our website, you can send an email to [excelbanter@newsgroupbanter.com](https://web.archive.org/web/20161209164312id_/http%3A//excelbanter.com/sendmessage.php). 
+ExcelBanter takes every precaution to protect your information. The server on which this site resides is administered by a commercial hosting company. Access to the server is restricted to trusted personnel and contained in a secure data center. If you have any questions regarding the security at our website, you can send an email to 
+
+[excelbanter@newsgroupbanter.com](https://web.archive.org/web/20170606224759id_/http%3A//excelbanter.com/sendmessage.php). 
 
 **Site and Service Updates**  
 We occasionally send you site and service announcement updates. During registration members are permitted to opt-out of these mailings. Should you choose not to receive these announcements, ExcelBanter can not be held responsible for notifying you of any any changes made to this policy. 
 
 **Correcting/Updating Personal Information**  
-Your personally identifiable information is always accessible by you and can be changed at any time by visiting your profile page. If you no longer wish to be a member of ExcelBanter, you should email [excelbanter@newsgroupbanter.com](https://web.archive.org/web/20161209164312id_/http%3A//excelbanter.com/sendmessage.php) to have your information permanently deleted from the site. 
+Your personally identifiable information is always accessible by you and can be changed at any time by visiting your profile page. If you no longer wish to be a member of ExcelBanter, you should email [excelbanter@newsgroupbanter.com](https://web.archive.org/web/20170606224759id_/http%3A//excelbanter.com/sendmessage.php) to have your information permanently deleted from the site. 
 
 **Notification of Changes**  
 Notification of changes to our privacy policy are sent to members by way of email announcements. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. During registration members are permitted to opt-out of administrator mailings. Should you choose not to receive these announcements, ExcelBanter can not be held responsible for notifying you of any changes made to this policy. 
 
 **Archiving of posts**  
-This forum archives posts from various newsgroups. It adheres to the 'X-No-Archive: Yes' standard in the headers of the post. If you wish you posts not to be archived on this or other archives which follow this convention, please use this in your message headers. More details relating to archiving of posts can be found at the [faq's](https://web.archive.org/web/20161209164312id_/http%3A//excelbanter.com/faq.php?faq=newsgroups#faq_newsgroups1). If you request a post to be considered for removal, please email the url (web address) to [excelbanter@newsgroupbanter.com](https://web.archive.org/web/20161209164312id_/http%3A//excelbanter.com/sendmessage.php) together with the reason for removal. 
+This forum archives posts from various newsgroups. It adheres to the 'X-No-Archive: Yes' standard in the headers of the post. If you wish you posts not to be archived on this or other archives which follow this convention, please use this in your message headers. More details relating to archiving of posts can be found at the [faq's](https://web.archive.org/web/20170606224759id_/http%3A//excelbanter.com/faq.php?faq=newsgroups#faq_newsgroups1). If you request a post to be considered for removal, please email the url (web address) to [excelbanter@newsgroupbanter.com](https://web.archive.org/web/20170606224759id_/http%3A//excelbanter.com/sendmessage.php) together with the reason for removal. 
