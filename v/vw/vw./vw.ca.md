@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vw.ca privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221055124id_/http%3A//www.vw.ca/en/tools/navigation/footer/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vw.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063605id_/http%3A//www.vw.ca/en/tools/navigation/footer/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy < Volkswagen Legal Details | Volkswagen Canada < Volkswagen Canada
 
