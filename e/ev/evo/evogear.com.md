@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evogear.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015556id_/http%3A//www.evo.com/what-is-your-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evogear.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064442id_/http%3A//www.evo.com/what-is-your-privacy-policy.aspx) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
