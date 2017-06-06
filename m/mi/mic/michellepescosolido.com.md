@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michellepescosolido.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322054132id_/http%3A//onlinewealthpartner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michellepescosolido.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115040id_/http%3A//onlinewealthpartner.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Online Wealth Partner - The Blog of Michelle and Bill Pescosolido
 
@@ -90,7 +90,10 @@ Below is the current list of official Pescosolido Marketing LLC pages on third 
 
 ## What control does the customer have over their personal information?
 
-  1. You can unsubscribe from our email list by clicking the unsubscribe link located at the bottom of any email communication we send you. If you want us to remove all personal information – including name, email, mailing address please contact info[at]imsable.com with your request to delete your profile.
+  1. You can unsubscribe from our email list by clicking the unsubscribe link located at the bottom of any email communication we send you. If you want us to remove all personal information – including name, email, mailing address please contact info
+
+[at]imsable.com with your request to delete your profile.
+
   2. You can remove or block cookies using the settings in your browser, but in some cases that may impact your ability to use our site. Before blocking cookies – we highly recommend reading why cookies are good here:[http://blog.hubspot.com/in-defense-of-tracking-cookies.](http://blog.hubspot.com/in-defense-of-tracking-cookies) [http://lifehacker.com/5461114/fact-and-fiction-the-truth-about-browser-cookies.](http://lifehacker.com/5461114/fact-and-fiction-the-truth-about-browser-cookies)
   3. You may opt-out of the placement of cookies by many of these advertisers [here](http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp&h=nAQFs5LC3&s=1).To opt-out of Facebook advertising visit – [https://www.facebook.com/help/146952742043748 ](https://www.facebook.com/help/146952742043748)To opt-out of Google advertising visit –[https://support.google.com/ads/answer/2662922?hl=en ](https://support.google.com/ads/answer/2662922?hl=en)Google Analytics –[https://tools.google.com/dlpage/gaoptout/ ](https://tools.google.com/dlpage/gaoptout/)To opt-out of Perfect Audience advertising visit –[http://ib.adnxs.com/optout](http://www.google.com/url?q=http%3A%2F%2Fib.adnxs.com%2Foptout&sa=D&sntz=1&usg=AFQjCNEqMwgfWpdGoy9bfjEX61oTSJcqgw)
 
