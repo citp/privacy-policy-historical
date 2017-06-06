@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carwow.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401045110id_/https%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carwow.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205235id_/https%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | carwow
 
@@ -29,10 +29,10 @@ For the purpose of the Data Protection Act 1998, the data controller is carwow L
       3. Your e-mail address 
       4. Your phone number 
       5. Any content you submit to the Website ("Your Content”), such as comments, messages to dealers, reviews and marketing preferences. 
-    2. We use this data for the following purposes: 
+    2. We / Agents on our behalf may use this data for the following purposes: 
       1. Name, address, username and password: to register and administer your user account 
       2. E-mail address: to contact you about your use of the Website, to provide you with news about us, to offer you additional services 
-      3. Phone number: to contact you about matters requiring your urgent attention, to verify your identity or to provide other carwow services with your consent (such as text message notifications); and 
+      3. Phone number: to contact you about matters requiring your urgent attention, to verify your identity, to confirm a purchase or to provide other carwow services with your consent (such as text message notifications); and 
       4. Your Content: to process and make available Your Content to the Website and to market to you in accordance with your instructions. 
     3. Information submitted to the Website may also be used to: 
       1. Enable our compliance with applicable laws and regulations 
