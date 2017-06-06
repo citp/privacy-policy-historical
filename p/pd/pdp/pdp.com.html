@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the pdp.com privacy policy that was archived on 2016-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127150637id_/http%3A//pdp.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pdp.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606092841id_/http%3A//pdp.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 <title>Privacy Policy</title>
 <meta name="description" content="Default Description">
 <meta name="keywords" content="Magento, Varien, E-commerce">
@@ -180,7 +180,7 @@ _gaq.push(['_trackPageview']);
     <span>Language:        <span class="current">English</span>
     </span>
 	<div class="header-dropdown">
-        <ul><li class="selected"><a style="background-image:url('http://pdp.com/skin/frontend/pdp/default/images/flags/en.png');" href="http://pdp.com/en/privacy-policy">English</a></li><li><a style="background-image:url('http://pdp.com/skin/frontend/pdp/default/images/flags/es.png');" href="http://pdp.com/es/privacy-policy">Spanish</a></li><li><a style="background-image:url('http://pdp.com/skin/frontend/shopper/default/images/flags/fr.png');" href="http://pdp.com/fr/privacy-policy">French</a></li><li><a style="background-image:url('http://pdp.com/skin/frontend/shopper/default/images/flags/de.png');" href="http://pdp.com/de/privacy-policy">German</a></li><li><a style="background-image:url('http://pdp.com/skin/frontend/shopper/default/images/flags/it.png');" href="https://pdp.com/it/privacy-policy">Italian</a></li></ul>
+        <ul><li class="selected"><a style="background-image:url('http://pdp.com/skin/frontend/pdp/default/images/flags/en.png');" href="http://pdp.com/en/privacy-policy/">English</a></li><li><a style="background-image:url('http://pdp.com/skin/frontend/pdp/default/images/flags/es.png');" href="http://pdp.com/es/privacy-policy/">Spanish</a></li><li><a style="background-image:url('http://pdp.com/skin/frontend/shopper/default/images/flags/fr.png');" href="http://pdp.com/fr/privacy-policy/">French</a></li><li><a style="background-image:url('http://pdp.com/skin/frontend/shopper/default/images/flags/de.png');" href="http://pdp.com/de/privacy-policy/">German</a></li><li><a style="background-image:url('http://pdp.com/skin/frontend/shopper/default/images/flags/it.png');" href="https://pdp.com/it/privacy-policy/">Italian</a></li></ul>
     </div>
 </div>
 
@@ -214,19 +214,20 @@ _gaq.push(['_trackPageview']);
           <li><a href="http://pdp.com/en/afterglow/">Afterglow</a></li>
           <li><a href="http://pdp.com/en/rockcandy/">Rockcandy</a></li>
           <li><a href="http://pdp.com/en/pixel-pals/">Pixel Pals</a></li>
+          <li><a href="http://pdp.com/en/shop/nintendo-switch/">Nintendo Switch</a></li>
           <li><a href="http://pdp.com/en/masseffect/">Mass Effect</a></li>
           <li><a href="http://pdp.com/en/nfl-faceoff/">NFL Faceoff</a></li>
           <li><a href="http://pdp.com/en/gears-of-war-4-customized-lancer/">Gears of War 4</a></li>
           <li><a href="http://pdp.com/en/rockband-rivals/">RockBand</a></li>
           <li><a href="http://pdp.com/en/energizer/">Energizer</a></li>
           <li><a href="http://pdp.com/en/shop/titanfall_2/">Titanfall 2</a></li>
-          <li><a href="http://pdp.com/en/shop/legendary/">Legendary</a></li>
-          <li><a href="http://pdp.com/en/shop/mirror_s_edge/">Mirror's Edge</a></li>
+          <li><a href="http://pdp.com/en/shop/legendary/">Legendary</a></li> 
           <li><a href="http://pdp.com/en/shop/donkey_kong/">Donkey Kong</a></li>
           <li><a href="http://pdp.com/en/shop/the_legend_of_zelda/">The Legend of Zelda</a></li>
           <li><a href="http://pdp.com/en/shop/metroid/">Metroid</a></li>
           <li><a href="http://pdp.com/en/shop/mortal_kombat/">Mortal Kombat</a></li>
           <li><a href="http://pdp.com/en/shop/super_mario_bros/">Super Mario Bros.</a></li>
+          <li><a href="http://pdp.com/en/shop/spare-parts/">Spare Parts</a></li>
         </ul>
       </li>
       <li>
@@ -250,6 +251,7 @@ _gaq.push(['_trackPageview']);
           <li class="has-children child"><a href="http://pdp.com/en/shop/nintendo/"><i class="icon-nintendo"></i> Nintendo</a>
             <ul class="is-hidden">
               <li class="go-back"><a href="#"></a></li>
+              <li><a href="http://pdp.com/en/shop/nintendo-switch/">Nintendo Switch</a></li>
               <li><a href="http://pdp.com/en/shop/nintendo_wii_u/">Wii U</a></li>
               <li><a href="http://pdp.com/en/shop/nintendo_3ds_xl/">3DS XL</a></li>
               <li><a href="http://pdp.com/en/shop/amiibo/">Amiibo</a></li>
@@ -274,6 +276,7 @@ _gaq.push(['_trackPageview']);
           <li><a href="http://pdp.com/en/shop/chargers/">Chargers</a>
           </li><li><a href="http://pdp.com/en/shop/cables/">Cables</a></li>
           <li><a href="http://pdp.com/en/shop/storage-protection">Storage &amp; Protection</a></li>
+          <li><a href="http://pdp.com/en/shop/spare-parts/">Spare Parts</a></li>
         </ul>
       </li>
       <li class="promobox">
@@ -299,10 +302,10 @@ _gaq.push(['_trackPageview']);
 							<div class="search-top"><span class="fa fa-search" aria-hidden="true"></span><span class="fa fa-remove hide" aria-hidden="true"></span></div>
 						</div>
 					</li>
-	        <li class="events hidden-xs"><div class="compare-top-title"><a href="#" class="clearfix" onclick="popWin('http://pdp.com/en/catalog/product_compare/index/uenc/aHR0cDovL3BkcC5jb20vZW4vcHJpdmFjeS1wb2xpY3k,/','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes')"><span class="icon"></span>Compare</a></div>
+	        <li class="events hidden-xs"><div class="compare-top-title"><a href="#" class="clearfix" onclick="popWin('http://pdp.com/en/catalog/product_compare/index/uenc/aHR0cDovL3BkcC5jb20vZW4vcHJpdmFjeS1wb2xpY3kv/','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes')"><span class="icon"></span>Compare</a></div>
 <div class="compare-top-container top-menu-override">
     <div class="compare-top">
-        <a class="summary" href="#" onclick="popWin('http://pdp.com/en/catalog/product_compare/index/uenc/aHR0cDovL3BkcC5jb20vZW4vcHJpdmFjeS1wb2xpY3k,/','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes')"><span class="
+        <a class="summary" href="#" onclick="popWin('http://pdp.com/en/catalog/product_compare/index/uenc/aHR0cDovL3BkcC5jb20vZW4vcHJpdmFjeS1wb2xpY3kv/','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes')"><span class="
 fa fa-random" aria-hidden="true"></span></a>
     </div>
     <div class="details">
@@ -345,7 +348,7 @@ fa fa-random" aria-hidden="true"></span></a>
     </div>
   </form>
 </div>
-	</header>
+	</header> 
 </div>
 <!-- HEADER EOF -->
 <div id="stage-wrapper">
@@ -388,19 +391,21 @@ fa fa-random" aria-hidden="true"></span></a>
 		    <div class="clearfix">
 
 		      <div class="col-sm-3">
-						<h4>Information</h4>
-						<div class="block-content">
-							<ul> 
-								<li><a href="http://pdp.com/en/about-us/">ABOUT US</a></li>
-								<li><a href="http://pdp.com/en/community/">COMMUNITY</a></li>
-								<li><a href="http://pdp.com/en/sitemap/">SITEMAP</a></li>
-						  </ul>
-						</div>
+            <h4>Information</h4>
+<div class="block-content">
+<ul>
+<li><a href="http://pdp.com/en/about-us/">ABOUT US</a></li>
+<li><a href="http://pdp.com/en/community/">COMMUNITY</a></li>
+<li><a href="http://pdp.com/en/sitemap/">SITEMAP</a></li>
+<li><a href="http://pdp.com/en/press/">PRESS</a></li>
+</ul>
+</div> 
 		      </div>
 	        <div class="col-sm-3">
 	          <h4>Support</h4>
 <div class="block-content">
 <ul class="support">
+<li><a href="http://pdp.com/en/safety-recall/">Safety Recall</a></li>
 <li><a href="http://pdp.com/en/shipping-information/">Shipping Information</a></li>
 <li><a href="https://pdp.com/en/sales/order/history/">Track an Order</a></li>
 <li><a href="http://pdp.com/en/returns-policy/">Returns</a></li>
@@ -412,13 +417,11 @@ fa fa-random" aria-hidden="true"></span></a>
 					<div class="col-sm-6 social-tab">
             <div class="social-box clearfix">
   						<h4>Social</h4>
-  						<ul class="social">
-  							<li><a class="social_links twitter_account" href="http://twitter.com/PDPgaming" target="social"><span>Twitter</span></a></li>
-  							<li><a class="social_links facebook_account" href="http://facebook.com/PDPgaming" target="social"><span>Facebook</span></a></li>
-  							<li><a class="social_links youtube_account" href="//www.youtube.com/user/PDPgamers?sub_confirmation=1" target="social"><span>Youtube</span></a></li>
-  							<li><a class="social_links google_plus_account" href="http://plus.google.com/u/0/107678493901743847913" target="social"><span>Google</span></a></li>
-  						</ul>
-            </div>
+              <ul class="social">
+<li><a class="social_links twitter_account" href="http://twitter.com/PDPgaming" target="social"><span>Twitter</span></a></li>
+<li><a class="social_links facebook_account" href="http://facebook.com/PDPgaming" target="social"><span>Facebook</span></a></li>
+<li><a class="social_links instagram_account" href="https://www.instagram.com/pdpgaming" target="social"><span>Instagram</span></a></li>
+</ul>            </div>
             <div class="partner-box">
               <a href="http://pdp.com/en/lynn-tilton-official-biography/"><img src="http://pdp.com/skin/frontend/pdp/default/img/tylton_company.png"></a>
             </div>
@@ -430,7 +433,7 @@ fa fa-random" aria-hidden="true"></span></a>
 	   	  	    <footer class="container">
 			<div class="row">
 		        <div class="grid_6">
-		            <address>© 2016 Performance Designed Products, Inc. All Rights Reserved</address>
+		            <address>© 2017 Performance Designed Products LLC, All Rights Reserved</address>
 		        </div>
 		        <div class="grid_6">
 		            <ul class="links">
@@ -452,6 +455,6 @@ fa fa-random" aria-hidden="true"></span></a>
 
 			</div>
 		</div>
-			<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6b56a5b4ae","applicationID":"18540529","transactionName":"YAAEZhYEXkJXUhZcWFlKJ1EQDF9fGVIPRhhHBAFXSxNZVEE=","queueTime":0,"applicationTime":158,"atts":"TEcHEF4eTUw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+			<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6b56a5b4ae","applicationID":"18540529","transactionName":"YAAEZhYEXkJXUhZcWFlKJ1EQDF9fGVIPRhhHBAFXSxNZVEE=","queueTime":0,"applicationTime":181,"atts":"TEcHEF4eTUw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
