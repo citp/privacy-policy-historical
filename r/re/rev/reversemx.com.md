@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reversemx.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607162842id_/http%3A//www.domaintools.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversemx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163448id_/https%3A//www.domaintools.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Company | DomainTools
 
-_Last updated December 13, 2013_
+_Last updated June 20, 2016_
 
 Your privacy is important to DomainTools. This privacy policy is designed to tell you how we collect and use personal information so you can make an informed decision about using our websites, including domaintools.com, screenshots.com, and other sites on which this policy is posted. 
 
@@ -34,7 +34,7 @@ If we do combine non-personal information with personal information, we will tre
 
 ### Cookies and other technologies
 
-Cookies are small files that a website or its service provider transfers to your computer through your web browser that enables the website or service provider system to recognize your browser and capture and remember certain information. DomainTools uses cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+Cookies are small files that a website or its service provider transfers to your computer through your web browser that enables the website or service provider system to recognize your browser and capture and remember certain information. DomainTools uses cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. When applicable, DomainTools uses Google Analytics to aid in this effort. For more information about Google Analytics, please visit: [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20170606163448id_/http://www.domaintools.com/company/privacy-policy/www.google.com/policies/privacy/partners/). 
 
 DomainTools may also collect information about your use of our website and services. For example, we may record your searches and uses of various services we provide. This is done in order to provide you with the results of those searches or services when you next visit our website. DomainTools may retain this information indefinitely. 
 
