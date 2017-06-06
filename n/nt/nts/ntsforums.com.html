@@ -1,22 +1,15 @@
-<!--The following is the downloaded HTML source of the ntsforums.com privacy policy that was archived on 2016-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406140841id_/http%3A//www.ntsforums.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ntsforums.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606102649id_/http%3A//www.ntsforums.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<meta charset="UTF-8">
 		<title>Privacy Policy - NTS | National Testing Service</title>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<link rel="shortcut icon" href="http://www.ntsforums.com/favicon.ico">
+		<link rel="shortcut icon" href="http://www.ntsforums.com/xfavicon.ico.pagespeed.ic.WsGBj-A9E0.png">
 		<link rel="image_src" href="http://ntsforums.com/meta-icon.png">
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript"><!-- Skin by FinalPrestige.net -->
-		//<![CDATA[
-			jsDebug			= 0; /* Must come before JS includes */
-			DISABLE_AJAX	= parseInt(0); /* Disables ajax requests where text is sent to the DB; helpful for charset issues */
-			inACP			= false;
-			var isRTL		= false;
-			var rtlIe		= '';
-			var rtlFull		= '';
-		//]]>
-		</script>
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">//<![CDATA[
+jsDebug=0;DISABLE_AJAX=parseInt(0);inACP=false;var isRTL=false;var rtlIe='';var rtlFull='';
+//]]></script>
 		
 	
 				
@@ -56,9 +49,7 @@
 	</style>
 <![endif]-->
 
-	<style type="text/css">
-		img.bbc_img { max-width: 100% !important; }
-	</style>
+	<style type="text/css">img.bbc_img{max-width:100%!important}</style>
 
         <meta property="og:title" content="Privacy Policy">
         <meta property="og:site_name" content="NTS | National Testing Service">
@@ -81,171 +72,7 @@
 		
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8/scriptaculous.js?load=effects,dragdrop,builder"></script>
-	<script type="text/javascript" src="http://www.ntsforums.com/public/min/index.php?ipbv=743ffaa9805c2bde9a4926a185f6c113&amp;charset=UTF-8&amp;f=public/js/ipb.js,cache/lang_cache/1/ipb.lang.js,public/js/ips.hovercard.js,public/js/ips.quickpm.js" charset="UTF-8"></script><script type="text/javascript">
-
-ipb.lang['en30_thanked_by'] 	= "";
-ipb.lang['en30_thank']		= "";
-ipb.lang['en30_thank_author']	= "";
-ipb.lang['en30_user']		= "";
-ipb.lang['en30_users']		= "";
-ipb.lang['en30_thanked']	= "";
-
-function ajaxThanksExpand( pid )
-{
-	var thankersBox 		= $( 'thankers_' + pid );
-	var showThankers 	= $( 'show_thankers_' + pid );
-	
-	showThankers.style.display = "none";
-	thankersBox.style.display = "block";
-}
-
-function ajaxRemoveThanks( pid )
-{
-		// Kill the thanks button of this specific post
-		
-		new Effect.DropOut( 'ajaxRemoveThanks_' + pid );
-		var url = ipb.vars['base_url'] + 'app=forums&module=ajax&section=stats&do=ajaxRemoveThanks';
-		
-		new Ajax.Request( url,
-							{
-								method: 'post',
-								evalJSON: 'force',
-								parameters: {
-									md5check: 		ipb.vars['secure_hash'],
-									pid:			pid,
-									tid:			ipb.topic.topic_id,
-									fid:			ipb.topic.forum_id
-								},
-								onSuccess: function(t)
-								{
-									if( t.responseJSON['error'] )
-									{
-										alert( t.responseJSON['error'] );
-									}
-									else
-									{
-										var thankers	= $( 'thankers_' + pid );
-										var thankedBy	= $( 'thankedBy_' + pid );
-										var thankersBox = $( 'thankersBox_' + pid );
-
-										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
-										{
-											thankersBox.style.display = "block";
-											
-											thankers.innerHTML = t.responseJSON['thankers'];
-										}
-										else
-										{
-											ajaxThanksExpand( pid );
-											thankers.innerHTML = t.responseJSON['thankers'];
-										}
-										
-										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
-										{
-											thankersBox.style.display = "block";
-										}
-										
-										// Update thanked by text (increment number show plural)
-										
-										if ( thankedBy.title != '0' )
-										{
-											var thankers = parseInt( thankedBy.title ) - 1;
-											
-											if ( thankers > 1 )
-											{
-												thankedBy.innerHTML = ipb.lang['en30_thanked_by'] + ' ' + thankers + ' ' + ipb.lang['en30_users'];
-												new Effect.Pulsate( thankersBox, { pulses: 3, duration: 1.5 } );
-											}
-											if ( thankers == 1 )
-											{
-												thankedBy.innerHTML = ipb.lang['en30_thanked_by'] + ' ' + thankers + ' ' + ipb.lang['en30_user'];
-												new Effect.Pulsate( thankersBox, { pulses: 3, duration: 1.5 } );
-											}
-											else
-											{
-												thankersBox.style.display = "none";
-											}
-										}
-									}
-								}
-							}
-						);
-}
-
-function ajaxThanks( pid )
-{
-		// Kill the thanks button of this specific post
-		
-		new Effect.DropOut( 'ajaxThanks_' + pid );
-		var url = ipb.vars['base_url'] + 'app=forums&module=ajax&section=stats&do=ajaxThanks';
-		
-		new Ajax.Request(	url,
-							{
-								method: 'post',
-								evalJSON: 'force',
-								parameters: {
-									md5check: 		ipb.vars['secure_hash'],
-									pid:			pid,
-									tid:			ipb.topic.topic_id,
-									fid:			ipb.topic.forum_id
-								},
-								onSuccess: function(t)
-								{
-									if( t.responseJSON['error'] )
-									{
-										alert( t.responseJSON['error'] );
-									}
-									else
-									{
-										var thankers	= $( 'thankers_' + pid );
-										var thankedBy	= $( 'thankedBy_' + pid );
-										var thankersBox = $( 'thankersBox_' + pid );
-										
-										var newLink	= "<a href='" + ipb.vars['base_url'] + "showuser=" + t.responseJSON['member_id'] + "' title='" + t.responseJSON['members_display_name'] + "'>" + t.responseJSON['members_display_name'] + "</a>" + "&nbsp;<a href='" + ipb.vars['base_url'] + "showuser=" + t.responseJSON['member_id'] + "' class='__user __id" + t.responseJSON['member_id'] + "' title='View Profile'></a>";
-										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
-										{
-											thankersBox.style.display = "block";
-											
-											thankers.innerHTML = newLink;
-										}
-										else
-										{
-											ajaxThanksExpand( pid );
-											thankers.innerHTML = newLink + ", " + thankers.innerHTML;
-										}
-										
-										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
-										{
-											thankersBox.style.display = "block";
-										}
-										
-										// Update thanked by text (increment number show plural)
-										
-										if ( thankedBy.title != '0' )
-										{
-											thankedBy.innerHTML = ipb.lang['en30_thanked_by'] + ' ' + ( parseInt( thankedBy.title ) + 1 ) + ' ' + ipb.lang['en30_users'];
-										}
-										
-										// Update post content for hide hack
-										
-										if ( t.responseJSON['post'] != "" )
-										{
-											// Editless attempt to reach the post content
-
-											var postDivider = $( 'post_id_' + pid ).children[1].children[2].children[1];
-											postDivider.innerHTML = t.responseJSON['post'];
-											
-											new Effect.Pulsate( postDivider, { duration: 1.5,  pulses: 3 } );
-										}
-
-										new Effect.Pulsate( thankersBox, { pulses: 3, duration: 1.5 } );
-									}
-								}
-							}
-						);
-}
-
-</script>
+	<script type="text/javascript" src="http://www.ntsforums.com/public/min/index.php?ipbv=743ffaa9805c2bde9a4926a185f6c113&amp;charset=UTF-8&amp;f=public/js/ipb.js,cache/lang_cache/1/ipb.lang.js,public/js/ips.hovercard.js,public/js/ips.quickpm.js" charset="UTF-8"></script><script type="text/javascript">ipb.lang['en30_thanked_by']="";ipb.lang['en30_thank']="";ipb.lang['en30_thank_author']="";ipb.lang['en30_user']="";ipb.lang['en30_users']="";ipb.lang['en30_thanked']="";function ajaxThanksExpand(pid){var thankersBox=$('thankers_'+pid);var showThankers=$('show_thankers_'+pid);showThankers.style.display="none";thankersBox.style.display="block";}function ajaxRemoveThanks(pid){new Effect.DropOut('ajaxRemoveThanks_'+pid);var url=ipb.vars['base_url']+'app=forums&module=ajax&section=stats&do=ajaxRemoveThanks';new Ajax.Request(url,{method:'post',evalJSON:'force',parameters:{md5check:ipb.vars['secure_hash'],pid:pid,tid:ipb.topic.topic_id,fid:ipb.topic.forum_id},onSuccess:function(t){if(t.responseJSON['error']){alert(t.responseJSON['error']);}else{var thankers=$('thankers_'+pid);var thankedBy=$('thankedBy_'+pid);var thankersBox=$('thankersBox_'+pid);if(thankersBox.getAttribute('title')=='hidden'){thankersBox.style.display="block";thankers.innerHTML=t.responseJSON['thankers'];}else{ajaxThanksExpand(pid);thankers.innerHTML=t.responseJSON['thankers'];}if(thankersBox.getAttribute('title')=='hidden'){thankersBox.style.display="block";}if(thankedBy.title!='0'){var thankers=parseInt(thankedBy.title)-1;if(thankers>1){thankedBy.innerHTML=ipb.lang['en30_thanked_by']+' '+thankers+' '+ipb.lang['en30_users'];new Effect.Pulsate(thankersBox,{pulses:3,duration:1.5});}if(thankers==1){thankedBy.innerHTML=ipb.lang['en30_thanked_by']+' '+thankers+' '+ipb.lang['en30_user'];new Effect.Pulsate(thankersBox,{pulses:3,duration:1.5});}else{thankersBox.style.display="none";}}}}});}function ajaxThanks(pid){new Effect.DropOut('ajaxThanks_'+pid);var url=ipb.vars['base_url']+'app=forums&module=ajax&section=stats&do=ajaxThanks';new Ajax.Request(url,{method:'post',evalJSON:'force',parameters:{md5check:ipb.vars['secure_hash'],pid:pid,tid:ipb.topic.topic_id,fid:ipb.topic.forum_id},onSuccess:function(t){if(t.responseJSON['error']){alert(t.responseJSON['error']);}else{var thankers=$('thankers_'+pid);var thankedBy=$('thankedBy_'+pid);var thankersBox=$('thankersBox_'+pid);var newLink="<a href='"+ipb.vars['base_url']+"showuser="+t.responseJSON['member_id']+"' title='"+t.responseJSON['members_display_name']+"'>"+t.responseJSON['members_display_name']+"</a>"+"&nbsp;<a href='"+ipb.vars['base_url']+"showuser="+t.responseJSON['member_id']+"' class='__user __id"+t.responseJSON['member_id']+"' title='View Profile'></a>";if(thankersBox.getAttribute('title')=='hidden'){thankersBox.style.display="block";thankers.innerHTML=newLink;}else{ajaxThanksExpand(pid);thankers.innerHTML=newLink+", "+thankers.innerHTML;}if(thankersBox.getAttribute('title')=='hidden'){thankersBox.style.display="block";}if(thankedBy.title!='0'){thankedBy.innerHTML=ipb.lang['en30_thanked_by']+' '+(parseInt(thankedBy.title)+1)+' '+ipb.lang['en30_users'];}if(t.responseJSON['post']!=""){var postDivider=$('post_id_'+pid).children[1].children[2].children[1];postDivider.innerHTML=t.responseJSON['post'];new Effect.Pulsate(postDivider,{duration:1.5,pulses:3});}new Effect.Pulsate(thankersBox,{pulses:3,duration:1.5});}}});}</script>
 
 
 	
@@ -263,77 +90,11 @@ function ajaxThanks( pid )
 
 
 		
-		<script type="text/javascript">
-	//<![CDATA[
-		/* ---- URLs ---- */
-		ipb.vars['base_url'] 			= 'http://www.ntsforums.com/index.php?s=55bc7302a15f078f71ed4e17d764a9e0&';
-		ipb.vars['board_url']			= 'http://www.ntsforums.com';
-		ipb.vars['img_url'] 			= "http://www.ntsforums.com/public/style_images/memory";
-		ipb.vars['loading_img'] 		= 'http://www.ntsforums.com/public/style_images/memory/loading.gif';
-		ipb.vars['active_app']			= 'core';
-		ipb.vars['upload_url']			= 'http://www.ntsforums.com/uploads';
-		/* ---- Member ---- */
-		ipb.vars['member_id']			= parseInt( 0 );
-		ipb.vars['is_supmod']			= parseInt( 0 );
-		ipb.vars['is_admin']			= parseInt( 0 );
-		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
-		ipb.vars['session_id']			= '55bc7302a15f078f71ed4e17d764a9e0';
-		ipb.vars['twitter_id']			= 0;
-		ipb.vars['fb_uid']				= 0;
-		ipb.vars['auto_dst']			= parseInt( 0 );
-		ipb.vars['dst_in_use']			= parseInt(  );
-		ipb.vars['is_touch']			= false;
-		ipb.vars['member_group']		= {"g_mem_info":"1"}
-		/* ---- cookies ----- */
-		ipb.vars['cookie_id'] 			= '';
-		ipb.vars['cookie_domain'] 		= '';
-		ipb.vars['cookie_path']			= '/';
-		/* ---- Rate imgs ---- */
-		ipb.vars['rate_img_on']			= 'http://www.ntsforums.com/public/style_images/memory/star.png';
-		ipb.vars['rate_img_off']		= 'http://www.ntsforums.com/public/style_images/memory/star_off.png';
-		ipb.vars['rate_img_rated']		= 'http://www.ntsforums.com/public/style_images/memory/star_rated.png';
-		/* ---- Uploads ---- */
-		ipb.vars['swfupload_swf']		= 'http://www.ntsforums.com/public/js/3rd_party/swfupload/swfupload.swf';
-		ipb.vars['swfupload_enabled']	= true;
-		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
-		ipb.vars['swfupload_debug']		= false;
-		/* ---- other ---- */
-		ipb.vars['highlight_color']     = "#ade57a";
-		ipb.vars['charset']				= "UTF-8";
-		ipb.vars['time_offset']			= "0";
-		ipb.vars['hour_format']			= "12";
-		ipb.vars['seo_enabled']			= 1;
-		
-		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"?","varPage":"page-","varSep":"&","varJoin":"="};
-		
-		/* Templates/Language */
-		ipb.templates['inlineMsg']		= "";
-		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://www.ntsforums.com/public/style_images/memory/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
-		ipb.templates['close_popup']	= "<img src='http://www.ntsforums.com/public/style_images/memory/close_popup.png' alt='x' />";
-		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");
-		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
-		
-		ipb.templates['autocomplete_wrap'] = new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");
-		ipb.templates['autocomplete_item'] = new Template("<li id='#{id}' data-url='#{url}'><img src='#{img}' alt='' class='ipsUserPhoto ipsUserPhoto_mini' />&nbsp;&nbsp;#{itemvalue}</li>");
-		ipb.templates['page_jump']		= new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Jump to page</h3><p class='ipsPad'><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Go' class='input_submit add_folder' id='#{id}_submit' /></p></div>");
-		ipb.templates['global_notify'] 	= new Template("<div class='popupWrapper'><div class='popupInner'><div class='ipsPad'>#{message} #{close}</div></div></div>");
-		
-		
-		ipb.templates['header_menu'] 	= new Template("<div id='#{id}' class='ipsHeaderMenu boxShadow'></div>");
-		
-		Loader.boot();
-	//]]>
-	</script>
-	<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-46035483-1', 'ntsforums.com');
-  ga('send', 'pageview');
-
-</script></head>
+		<script type="text/javascript">//<![CDATA[
+ipb.vars['base_url']='http://www.ntsforums.com/index.php?s=f69766dfd9eb12f79e29c88007e2bc6f&';ipb.vars['board_url']='http://www.ntsforums.com';ipb.vars['img_url']="http://www.ntsforums.com/public/style_images/memory";ipb.vars['loading_img']='http://www.ntsforums.com/public/style_images/memory/loading.gif';ipb.vars['active_app']='core';ipb.vars['upload_url']='http://www.ntsforums.com/uploads';ipb.vars['member_id']=parseInt(0);ipb.vars['is_supmod']=parseInt(0);ipb.vars['is_admin']=parseInt(0);ipb.vars['secure_hash']='880ea6a14ea49e853634fbdc5015a024';ipb.vars['session_id']='f69766dfd9eb12f79e29c88007e2bc6f';ipb.vars['twitter_id']=0;ipb.vars['fb_uid']=0;ipb.vars['auto_dst']=parseInt(0);ipb.vars['dst_in_use']=parseInt();ipb.vars['is_touch']=false;ipb.vars['member_group']={"g_mem_info":"1"}
+ipb.vars['cookie_id']='';ipb.vars['cookie_domain']='';ipb.vars['cookie_path']='/';ipb.vars['rate_img_on']='http://www.ntsforums.com/public/style_images/memory/star.png';ipb.vars['rate_img_off']='http://www.ntsforums.com/public/style_images/memory/star_off.png';ipb.vars['rate_img_rated']='http://www.ntsforums.com/public/style_images/memory/star_rated.png';ipb.vars['swfupload_swf']='http://www.ntsforums.com/public/js/3rd_party/swfupload/swfupload.swf';ipb.vars['swfupload_enabled']=true;ipb.vars['use_swf_upload']=(''=='flash')?true:false;ipb.vars['swfupload_debug']=false;ipb.vars['highlight_color']="#ade57a";ipb.vars['charset']="UTF-8";ipb.vars['time_offset']="0";ipb.vars['hour_format']="12";ipb.vars['seo_enabled']=1;ipb.vars['seo_params']={"start":"-","end":"\/","varBlock":"?","varPage":"page-","varSep":"&","varJoin":"="};ipb.templates['inlineMsg']="";ipb.templates['ajax_loading']="<div id='ajax_loading'><img src='http://www.ntsforums.com/public/style_images/memory/ajax_loading.gif' alt='"+ipb.lang['loading']+"' /></div>";ipb.templates['close_popup']="<img src='http://www.ntsforums.com/public/style_images/memory/close_popup.png' alt='x' />";ipb.templates['rss_shell']=new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");ipb.templates['rss_item']=new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");ipb.templates['autocomplete_wrap']=new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");ipb.templates['autocomplete_item']=new Template("<li id='#{id}' data-url='#{url}'><img src='#{img}' alt='' class='ipsUserPhoto ipsUserPhoto_mini' />&nbsp;&nbsp;#{itemvalue}</li>");ipb.templates['page_jump']=new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Jump to page</h3><p class='ipsPad'><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Go' class='input_submit add_folder' id='#{id}_submit' /></p></div>");ipb.templates['global_notify']=new Template("<div class='popupWrapper'><div class='popupInner'><div class='ipsPad'>#{message} #{close}</div></div></div>");ipb.templates['header_menu']=new Template("<div id='#{id}' class='ipsHeaderMenu boxShadow'></div>");Loader.boot();
+//]]></script>
+	<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-46035483-1','ntsforums.com');ga('send','pageview');</script></head>
 	<body id="ipboard_body">
 		<p id="content_jump" class="hide"><a id="top"></a><a href="#j_content" title="Jump to content" accesskey="m">Jump to content</a></p>
 		<div id="ipbwrapper">
@@ -357,7 +118,7 @@ function ajaxThanks( pid )
 								<li>
 									<span class="services">
 										
-											<a href="http://www.ntsforums.com/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook"><img src="http://www.ntsforums.com/public/style_images/memory/loginmethods/facebook.png" alt="Log in with Facebook"></a>
+											<a href="http://www.ntsforums.com/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook"><img src="http://www.ntsforums.com/public/style_images/memory/loginmethods/xfacebook.png.pagespeed.ic.j7ZEW1HygM.png" alt="Log in with Facebook"></a>
 										
 										
 										
@@ -406,17 +167,17 @@ function ajaxThanks( pid )
 								
 
 									
-																				<li id="nav_app_calendar" class="left "><a href="http://www.ntsforums.com/calendar/" title="Go to Calendar">Calendar</a></li>
+																				<li id="nav_app_quiz" class="left "><a href="http://www.ntsforums.com/quiz/" title="Go to Online Test Preparation">Online Test Preparation</a></li>
 									
 								
 
 									
-																				<li id="nav_app_quiz" class="left "><a href="http://www.ntsforums.com/quiz/" title="Go to Online Test Preparation">Online Test Preparation</a></li>
+																				<li id="nav_app_calendar" class="left "><a href="http://www.ntsforums.com/calendar/" title="Go to Calendar">Calendar</a></li>
 									
 								
 							
 						<li id="nav_other_apps" style="display: none">
-							<a href="#" class="ipbmenu" id="more_apps">More <img src="http://www.ntsforums.com/public/style_images/memory/useropts_arrow.png"></a>
+							<a href="#" class="ipbmenu" id="more_apps">More <img src="http://www.ntsforums.com/public/style_images/memory/xuseropts_arrow.png.pagespeed.ic.ULlzoZAPBD.png"></a>
 						</li>
 					</ul>
 				</div>
@@ -450,14 +211,14 @@ function ajaxThanks( pid )
 						
 					
 
+						
+					
+
 						<li class="app">
 								<label for="s_calendar" title="Calendar">
 									<input type="radio" name="search_app" class="input_radio" id="s_calendar" value="calendar">Calendar
 								</label>
 							</li>
-					
-
-						
 					
 				</ul>
 				<input type="submit" class="submit_input clickable" value="Search">
@@ -480,7 +241,7 @@ function ajaxThanks( pid )
 						<strong>Javascript Disabled Detected</strong>
 						<p>You currently have javascript disabled. Several functions may not work. Please re-enable javascript to access full functionality.</p>
 					</div>
-					<br />
+					<br/>
 				</noscript>
 				<!-- ::: CONTENT ::: -->
 				
@@ -499,15 +260,12 @@ Candidate shall be responsible to ensure that such information is accurate and c
 				
 					<div class="ipsAd"><!-- Histats.com  START (hidden counter)-->
 <script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script><script src="http://s10.histats.com/js15.js" type="text/javascript"></script>
-<a href="http://www.histats.com" target="_blank" title="counter"><script type="text/javascript">
-try {Histats.start(1,2395774,4,0,0,0,"");
-Histats.track_hits();} catch(err){};
-</script></a>
-<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2395774&101" alt="counter" border="0"></a></noscript>
+<a href="http://www.histats.com" target="_blank" title="counter"><script type="text/javascript">try{Histats.start(1,2395774,4,0,0,0,"");Histats.track_hits();}catch(err){};</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img src="http://sstatic1.histats.com/0.gif?2395774&101" alt="counter" border="0"></a></noscript>
 <!-- Histats.com  END  -->
 <br>
 <center>
-<script id="mNCC" language="javascript">  medianet_width='728';  medianet_height= '90';  medianet_crid='123224814';  </script>  <script id="mNSC" src="http://contextual.media.net/nmedianet.js?cid=8CUYSFJH8" language="javascript"></script> 
+<script id="mNCC" language="javascript">medianet_width='728';medianet_height='90';medianet_crid='123224814';</script>  <script id="mNSC" src="http://contextual.media.net/nmedianet.js?cid=8CUYSFJH8" language="javascript"></script> 
 </center>
 <br>
 <b>Disclaimer:</b> This is not the official website of National Testing Service of Pakistan. This is a non-commercial website helping individuals who intend to join National Testing Service of Pakistan. The material on this website is provided for informational purposes only. We do not claim that the site is an exhaustive compilation of information about National Testing Service of Pakistan neither represent or endorse the accuracy or reliability of any information, content contained on, or linked, downloaded or accessed from any page of this website. These materials are intended, but not promised or guaranteed to be current, complete or up to date. However, honest efforts have been made to provide comprehensive information for the benefit of users. The documents and material displayed or mentioned on this site are not official copies. Please contact NTS for updated rules and regulations governing NTS examination. <a href="https://plus.google.com/108073753948854522253" rel="publisher">Google+</a></div>
@@ -523,7 +281,9 @@ Histats.track_hits();} catch(err){};
 					
 					<li class="right ipsType_smaller">
 							<a href="http://www.ntsforums.com/index.php?app=forums&amp;module=extras&amp;section=boardrules" title="FAQ" s'="">FAQ's </a>  · 
-						</li><script type="text/javascript" src="http://www.ntsforums.com/public/js/ips.shortenUrlPopup.js"></script>
+						</li><script type="text/javascript">//<![CDATA[
+var _shortenUrl=window.IPBoard;_shortenUrl.prototype.shortenUrl={popup:'',init:function(){Debug.write("Initializing ips.shortenUrlPopup.js");document.observe("dom:loaded",function(){ipb.shortenUrl.initEvents();});},initEvents:function(){if($('openShortenUrlPopup')){$('openShortenUrlPopup').observe('click',ipb.shortenUrl.openPopup);}},openPopup:function(e){Event.stop(e);var _url=ipb.vars['base_url']+'&app=core&module=ajax&secure_key='+ipb.vars['secure_hash']+'&section=shortenurl&do=getForm';ipb.shortenUrl.popup=new ipb.Popup('shortenUrl',{type:'pane',ajaxURL:_url,stem:true,modal:true,hideAtStart:false,close:'.cancel',w:'400px'},{'afterAjax':ipb.shortenUrl.callback,'afterHide':function(popup){popup.kill()}});},callback:function(e){$('doShortenUrl').observe('click',ipb.shortenUrl.doShortenUrl);$('urlToShorten').observe('focus',function(){if($F('urlToShorten')=='http://'){$('urlToShorten').value="";}});$('doShortenCurrentUrl').observe('click',function(e){$('urlToShorten').value=document.location.href;ipb.shortenUrl.doShortenUrl(e);});},doShortenUrl:function(e){Event.stop(e);new Ajax.Request(ipb.vars['base_url']+'&app=core&module=ajax&section=shortenurl&do=doShorten',{method:'post',evalJSON:'force',parameters:{'url':$F('urlToShorten').encodeParam(),'api':$F('shortenApi').encodeParam(),secure_key:ipb.vars['secure_hash']},onSuccess:function(t){if(t.responseJSON['error']){$('shortenedUrl').update('').hide();$('shortenUrlError').update(t.responseJSON['error']).show();}else{$('shortenUrlError').update('').hide();$('shortenedUrl').update(t.responseJSON['url']);if($('shortenedUrl').visible()){Effect.Pulsate($('shortenedUrl'),{pulses:5,duration:1.5});}else{new Effect.Appear($('shortenedUrl'));}}ipb.shortenUrl.callback();return;}});}};ipb.shortenUrl.init();
+//]]></script>
 <li><a href="#" onclick="return false" id="openShortenUrlPopup">Shorten URL</a></li>	
 				</ol>
 			</div>
@@ -534,13 +294,13 @@ Histats.track_hits();} catch(err){};
 
 			<!-- ::: FOOTER (Change skin, language, mark as read, etc) ::: -->
 			<div id="footer_utilities" class="main_width clearfix clear">
-				<a rel="nofollow" href="#top" id="backtotop" title="Go to top"><img src="http://www.ntsforums.com/public/style_images/memory/top.png" alt=""></a>
+				<a rel="nofollow" href="#top" id="backtotop" title="Go to top"><img src="http://www.ntsforums.com/public/style_images/memory/top.png.pagespeed.ce.niqRghnqpY.png" alt=""></a>
 				<ul class="ipsList_inline left">
 					<li>
-						<img src="http://www.ntsforums.com/public/style_images/memory/feed.png" alt="RSS Feed" id="rss_feed" class="clickable">
+						<img src="http://www.ntsforums.com/public/style_images/memory/feed.png.pagespeed.ce.hjO6tjOowW.png" alt="RSS Feed" id="rss_feed" class="clickable">
 					</li>
                                                            <div id="board_info" class="left" style="margin-right: 20px;">
-                                 <a href="http://finalprestige.net"><img src="http://www.ntsforums.com/public/style_images/memory/cal_weekday.png" title="Skin by Final Prestige LLC" alt="" border="0"></a>
+                                 <a href="http://finalprestige.net"><img src="http://www.ntsforums.com/public/style_images/memory/xcal_weekday.png.pagespeed.ic.96JgloBtw4.png" title="Skin by Final Prestige LLC" alt="" border="0"></a>
                                               </div>
 					
 							
@@ -572,11 +332,9 @@ Histats.track_hits();} catch(err){};
 		<!-- / Copyright -->
 			</div><!-- Skin by FinalPrestige.net -->
 			<!-- Skin by FinalPrestige.net -->
-			<div><img src="http://www.ntsforums.com/index.php?s=55bc7302a15f078f71ed4e17d764a9e0&amp;app=core&amp;module=task" alt="" style="border: 0px;height:1px;width:1px;"></div>
 			
-				<script type="text/javascript">
-					ipb.global.lightBoxIsOff();
-				</script>
+			
+				<script type="text/javascript">ipb.global.lightBoxIsOff();</script>
 			
 			<div id="inline_login_form" style="display:none">
 		<form action="http://www.ntsforums.com/index.php?app=core&amp;module=global&amp;section=login&amp;do=process" method="post" id="login">
@@ -586,7 +344,7 @@ Histats.track_hits();} catch(err){};
 				<div class="ipsBox_notice">
 						<ul class="ipsList_inline">
 							
-								<li><a href="http://www.ntsforums.com/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook" class="ipsButton_secondary"><img src="http://www.ntsforums.com/public/style_images/memory/loginmethods/facebook.png" alt="Facebook"> &nbsp; Use Facebook</a></li>
+								<li><a href="http://www.ntsforums.com/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook" class="ipsButton_secondary"><img src="http://www.ntsforums.com/public/style_images/memory/loginmethods/xfacebook.png.pagespeed.ic.j7ZEW1HygM.png" alt="Facebook"> &nbsp; Use Facebook</a></li>
 							
 							
 							
@@ -645,9 +403,7 @@ Histats.track_hits();} catch(err){};
 		</div>
 		
 		
-<script type="text/javascript">
-            if( $('primary_nav') ){    ipb.global.activateMainMenu(); }
-        </script>
+<script type="text/javascript">if($('primary_nav')){ipb.global.activateMainMenu();}</script>
         
 	
 </body></html>
