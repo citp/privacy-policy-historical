@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124142736id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120439id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuySpy
 
@@ -142,6 +142,8 @@ Alternatively, you may send us an email at [privacy@guyspy.com](mailto:privacy@g
   * **CONTACTING US**
 
 
+
+Guyspy is owned and operated by Pink Triangle Press.
 
 If you have questions about this Policy, please contact us at [privacy@guyspy.com](mailto:privacy@guyspy.com) or by writing to us at:
 
