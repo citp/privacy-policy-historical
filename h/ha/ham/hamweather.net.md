@@ -1,83 +1,69 @@
-> *The following text is extracted and transformed from the hamweather.net privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622190221id_/https%3A//www.aerisweather.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamweather.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211749id_/https%3A//www.aerisweather.com/privacy) for the most accurate reproduction.*
 
 # AerisWeather
 
-AerisWeather understands our users' concern for how the personal information they provide to us will be used and we are therefore committed to protecting your privacy. The purpose of this privacy statement is to disclose how we collect, use and share information we collect about you on all AerisWeather web sites and the choices you have regarding our use of and your ability to correct the information. This policy applies only to AerisWeather and AerisWeather affiliated web sites.
+Last Updated:  December 15, 2016
 
-### Information we collect
+This policy explains our information practices, defines your privacy options and describes how your information is collected and used.  
 
-AerisWeather will occasionally collect personal information from you regarding both to your identity and personal preferences. AerisWeather will only collect such information as is necessary for the stated purpose for which we are collecting the information. Requesting additional information about or signing up for any of our services will require your personal information in order to respond accordingly. This information includes, but is not limited to, your name, physical and/or e-mail address and phone number. The following are the various instances where we may collect personal information from you:
+This policy covers this website (the “AW Website”) and the various web, desktop and mobile applications (collectively the “Applications”) made available by Whether or Knot LLC, d/b/a AerisWeather (“AW”).  The AW Website and the Applications are owned and operated by AW, a company organized under the laws of Minnesota.  Should you have privacy questions or concerns, send an email to [privacy@aerisweather.com](mailto:privacy@aerisweather.com).
 
-  * E-mail communications
-  * Customer support
-  * Newsletters/Announcements
-  * Registration of products or services
-  * Completing a survey
-  * Participating in our online forums
-  * Aggregate information: web usage reporting including URLs or domains of referring websites, browser type, operating system, pages that you access and the date/time of your visit. This information is not used to personally identify users.
+By using or visiting the AW Website or using the Applications, you agree to the collection and use of information in the manner described in this policy. AW shall have right at any time and without prior notice, at its sole discretion, to revise this policy.  If we make material changes to this policy, we will notify you by email, by means of a notice the next time you log in to the AW Website, by means of a notice on the AW Website homepage or when you next activate the Application. Such revisions and additions shall be effective immediately upon notice. You are responsible for reviewing the AW Website or Applications periodically for any modification to this policy.  Any access or use of the AW Website or Applications by you after notice of modifications to this policy shall constitute and be deemed to be your agreement to such modifications.
 
+### THE INFORMATION WE COLLECT
 
+This policy applies to all information collected on the AW Website, any information you provide to AW and any information that results from your use of Applications. You will most likely provide us personal information to us when you register as a user of AW Website, license and then use the Applications or participate in certain AW promotions or events. The personal information we may collect might include: passwords, user names, addresses, email addresses, phone numbers and credit/debit card numbers and PayPal and ACH account information and instructions.
 
-Since AerisWeather gathers personally identifiable information about you only if you voluntarily choose to provide it yourself, you can opt out of providing such information at any time. However, not disclosing some of this information to us may cause some areas of our web site and products or services to become unavailable to you.
+### THE APPLICATIONS
 
-### How we use your information
+Use of the Applications is subject to the terms and conditions of the Application License Agreement ([www.aerisweather.com/support/docs/license](https://www.aerisweather.com/support/docs/license)).
 
-AerisWeather uses the information you provide in a limited number of ways. We may use your information when you purchase or register any of our products and services to complete all necessary transations, to respond to sales and support correspondence, to receive feedback from our customers, to update our records and for internal statistical and analytical purposes.
+### BLOGS AND PRODUCT REVIEWS
 
-### Sharing your information
+The AW Website or Applications may include blogs, product reviews or other message areas that allow users to post or send information to the AW Website or the Applications. When you post information to the AW Website or Applications, others can also view that information.  We urge you to exercise caution when providing personally identifiable information to AW, AW Website or the Applications.
 
-AerisWeather does not rent, sell or share personal information about you with other people or nonaffiliated companies except (1) the use of outside vendors to process payments from customers for use of our products and services, (2) using links from our site to external web sites not bound by our privacy policy where your personal information may be subject to different privacy practices exercised by other providers, and (3) when disclosing your personal information without your permission when required to do so by law or pursuant to judicial or other government subpoenas, warrants, or orders.
+### OUR COLLECTION OF YOUR DATA
 
-### Security
+In addition to the personal information you supply, we may collect certain information to (1) evaluate how visitors, guests, and customers use the AW Website or the Applications; or (2) provide you with personalized information or offers.  We collect data to make the AW Website and Applications work better for you in the following ways: to improve the design of the AW Website and Applications, to provide personalization on the AW Website and Applications and to evaluate the performance of our marketing programs. The technologies we may use to gather this non-personal information may include “IP” addresses, “cookies”, browser detection, “weblogs” and various “geo-location” tools.
 
-We use commercially reasonable efforts to ensure that your information is stored and maintained in a secure environment. We have implemented procedures to ensure that your information is only made available to such designated staff as necessary to carry out the stated purposes that we have communicated to you.
+### HOW WE COLLECT AND USE INFORMATION
 
-### SSL Encryption
+Our primary goal in collecting your information is to provide you with a personalized, relevant, and positive experience with the AW Website and Applications.
 
-Order information received by the HAMvid store, including credit card information, is encrypted using Secure Sockets Layer (SSL). This ensures that your information is secure as it is sent over the Internet to our server.
+You can register on the AW Website or the Applications to receive promotions and updates, or to be contacted for market research purposes. You can control your privacy preferences regarding such marketing communications (see the section below entitled “Your Privacy Preferences”).
 
-### Cookies
+From time to time, you may be invited to participate in optional customer surveys or promotions, and AW may request that you provide some or all of the above listed personal information in those surveys or promotions. We use information collected from surveys and promotions to learn about our customers in order to improve our services and develop new products and services of interest to our customers.
 
-We may make use of "cookies" on our website. A cookie is a small text file that can be placed and stored on your computer's hard disc when you visit a website for record keeping purposes. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, monitor, or regulate the use of a site based on information stored on the host server. Therefore, cookies only identify the user's computer to the Web site which may correlate other information, including personally identifying information, with the cookie.
+IP addresses define the Internet location of computers and help us better understand the geographic distribution of our visitors and customers and manage the performance of the AW Website. Cookies are tiny files placed onto the hard drive of your computer when you visit the AW Website, so we can immediately recognize you when you return to the AW Website and deliver content specific to your interests. You may modify your browser preferences to accept all cookies, be notified when a cookie is set, or reject all cookies. Please consult your browser instructions for information on how to modify your choices about cookies.  If you modify your browser preferences, certain features of the AW Website may not be available to you.
 
-We use cookies to allow us to automate access and the data entry functions of our website such as to correlate online ordering information for purchases you may make while at the website (if any), tailor our website to your preferences or interests, or customize promotions or marketing. In addition, cookies allow us to track use of our website to determine those areas which are useful or popular and those that are not thereby enabling us to improve and update our website effectively.
+We may detect the type of web browser you are using to optimize the performance of the AW Website and to understand the mix of browsers used by our visitors, guests, and customers. To learn about how people use our site, we examine weblogs, which show the paths people take through the AW Website and how long they spend in certain areas.
 
-Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. If you are not sure how to do this or whether you have this option you should consult the documentation that accompanied your web browser. You should be aware that if you elect not to accept cookies, some parts of the website may not function properly or permit access.
+The Applications may include the ability to link certain geographical information made available by us with your physical location. When you use the Applications, the Applications may know, in very general terms, your current physical location.  To the extent that your physical location can be determined by the Applications, we may use your location to make available information to you that is relevant because of your physical location.
 
-### Links
+We may also compile certain general information related to your use of the Website and Applications.  You agree that we are authorized to use, reproduce and generally make such information available to third parties in the aggregate, provided that your information shall not include personally identifiable information about you or be attributable to you.
 
-We may offer links from our website to other websites which may be hosted by our partners or by unrelated companies which we think may be of interest to you. Such websites are not governed by this privacy policy and AerisWeather makes no representation as to their practices for dealing with your personal information. We recommend that you check the privacy policy of any website at the beginning of your visit.
+AW may contract with unaffiliated third parties to provide services such as website or application hosting, advertising, customer communications, data analytics and other services. When we do this, we may provide your personally identifiable information to third parties only to provide those services, and they are not authorized to use your personally identifiable information for any other purpose.
 
-### Forums, chat rooms and newsgroups
+### OUR COMMITMENT TO DATA SECURITY
 
-Our website may have message boards, chat rooms, newsgroups, or other forums which permit individuals to interact online. Any information you transmit online in such forums will be made public and AerisWeather cannot control nor is it responsible for the use any third parties may make of such information.
+Access to your personal data is limited to authorized AW staff or approved vendors. Although total security does not exist on the Internet or through mobile networks, AW shall make commercially reasonable efforts to safeguard the information that you submit to AW.  
 
-### Children
+### USE OF THE AW WEBSITE AND APPLICATIONS BY CHILDREN
 
-This site is a general audience site which is neither designed nor intended to collect personal information from children who are under the age of 13. In order to ensure compliance with the provisions of the Children's Online Privacy Protection Act children under the age of 13 should not provide any personal information to this site. We ask that parents supervise their children while online.
+**THE AW WEBSITE AND THE APPLICATIONS ARE NOT INTENDED FOR USE BY CHILDREN UNDER THE AGE OF 13.**
 
-### Access, modification and accuracy of information
+### YOUR PRIVACY PREFERENCES
 
-We take reasonable steps to ensure that the information that we receive from you is accurate and kept up to date. You have the right to access your information to verify the information that we have collected in respect of you. You also have the right to request that your information be modified or deleted, including any changes to any consents that you may have given in respect of us contacting you relating to information that you receive from us. You may also ask at any time that your preferences as to the type of communications that you receive from us are modified in order to stop receiving them or to be added to our mailing list. We will endeavor to deal with all such requests for access and modifications in a timely manner. We will not be able to comply with requests in respect of information that we may have archived as part our business operations.
+When you sign up as a registered user of the AW Website or Applications you may begin receiving marketing communications such as e-mail newsletters, product and service updates and promotions. Our customers generally find this type of information useful. If you do not want to receive these updates, you must “opt-out” by unchecking the “Add me to the mailing list” box on the registration page, or should you choose to opt-out after registering, you can select the “unsubscribe” link at the bottom of the email and follow the opt-out instructions.
 
-### Retention and storage of information
+### HOW TO ACCESS OR CORRECT YOUR INFORMATION
 
-We will retain your information for a reasonable time to permit us to use it for the purposes that we have communicated to you.
+Send AW an email at [privacy@aerisweather.com](mailto:privacy@aerisweather.com) if you want to access, review or correct your personally identifiable information collected by AW. To protect your privacy and security, AW requires a user ID and password to verify your identity before granting you the right to access, review or make corrections to your personally identifiable information.
 
-We may use the services of third party companies to physically collect and store your information on our behalf. Any such companies will have to comply with the terms of this policy.
+### DISCLOSURE OF INFORMATION
 
-### Changes to Privacy Policy
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or legal process.  It is also possible that AW would sell its business (by merger, acquisition or otherwise) or sell all or substantially all of its assets.  In any transaction of this kind, customer information, including your personally identifiable information, may be among the assets that are transferred. If we decide to so transfer your personally identifiable information, you will be notified by an email sent to the last known email address in our files, by notice posted on the AW Website or when you activate the Applications.
 
-We may change the terms of this privacy policy from time to time in order to reflect our practices and provide greater protection for your information. Any change to this policy will be clearly displayed on this website. Any changes to this policy will not have retrospective effect. Information collected by us will be dealt within accordance with the provisions of our policy which were in effect at the time of collection.
+### PRIVACY AND OTHER WEBSITES AND APPLICATIONS
 
-### Business transfers
-
-The information that is collected by AerisWeather is considered to be an asset. In the event that AerisWeather, any affiliated company, division or portions of its assets are acquired by another company, such information may be one of the transferred assets. We will take reasonable steps to place a notification of such a transfer on our website.
-
-### Acceptance of terms
-
-By using our services, accessing our website or purchasing our products you are consenting to the practices relating to information collection and use that are described in this policy.
-
-### Contact us
-
-Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address support@aerisweather.com.
+The AW Website or the Applications may contain links to other websites or other mobile applications. AW is not responsible for the privacy practices of these other sites or applications. This policy only applies to information collected by AW.
