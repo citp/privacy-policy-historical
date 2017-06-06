@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wantering.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123180856id_/http%3A//shop.whowhatwear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantering.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051210id_/http%3A//shop.whowhatwear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Shop: Who What Wear
 
-Effective Date: This Privacy Policy was last revised on February 2, 2016.
+Effective Date: This Privacy Policy was last revised on May 8, 2017.
 
 ## Introduction
 
@@ -37,7 +37,7 @@ If you interact with third party sites, those sites may send us information abou
 
 You may give us information about others, such as when you send a friend a message. 
 
-    6. _California Do Not Track Disclosures_
+    6. _California / Delaware Do Not Track Disclosures_
 
 We do not look for or respond to do not track signals, but you may have certain other options  regarding tracking and/or targeting. 
 
@@ -113,7 +113,7 @@ No data security is absolute, but we take reasonable steps to secure data approp
 
   11. _What About Changes to the Privacy Policy?_
 
-We may change this Privacy Policy as explained below.
+We may change this Privacy Policy as explained in this Section below.
 
 
 
@@ -178,7 +178,7 @@ The Site may include functionality that allows certain kinds of interactions bet
 
 You may send someone else a communication from the Site, such as sending an invitation to a friend.  If so, the information you provide (names, email addresses, mobile number, etc.) is used to facilitate the communication and is not used by us for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise.  Please be aware that when you use any send-to-a-friend functionality on our Site, your email address, mobile number, name or user name and message may be included in the communication sent to your addressee(s).
 
-#### (f) California Do Not Track Disclosures
+#### (f) California / Delaware Do Not Track Disclosures
 
 Various third parties are developing or have developed signals or other mechanisms for the expression of consumer choice regarding the collection of information about an individual consumer’s online activities over time and across third-party web sites or online services ( _e.g._ , browser do not track signals).  Currently, we do not monitor or take any action with respect to these signals or other mechanisms.
 
@@ -216,7 +216,7 @@ You may be presented with an option on our Site to receive certain information a
 
 #### (b) Third Parties Providing Services on Our Behalf
 
-We may use third-party vendors to perform certain services on behalf of us or the Site, such as: (a) to assist us in Site operations; (b) to manage a database of customer information; (c) hosting the Site; (d) designing and/or operating the Site’s features; (e) tracking the Site’s activities and analytics; (f) enabling us to send you special offers or perform other administrative services; and (g) other services designed to assist us in maximizing our business potential.  We may provide vendors with access to your information to carry out the services they are performing for you or for us.  Third-party analytics and other service providers may set and access their own technologies on your Device and they may otherwise collect or have access to information about you.  We are not responsible for those third party technologies or activities arising out of them.  However, some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available in the chart at the end of this policy.  We are not responsible for the effectiveness of or compliance with any third parties’ opt-out options.
+We may use third-party vendors to perform certain services on behalf of us or the Site, such as: (a) to assist us in Site operations; (b) to manage a database of customer information; (c) hosting the Site; (d) designing and/or operating the Site’s features; (e) tracking the Site’s activities and analytics; (f) enabling us to send you special offers or perform other administrative services; and (g) other services designed to assist us in maximizing our business potential.  We may provide vendors with access to your information to carry out the services they are performing for you or for us.  Third-party analytics and other service providers may set and access their own technologies on your Device and they may otherwise collect or have access to information about you.  We are not responsible for those third party technologies or activities arising out of them.  However, some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available in the chart available at the end of this Privacy Policy.  We are not responsible for the effectiveness of or compliance with any third parties’ opt-out options.
 
 #### (c) Administrative and Legal Reasons
 
@@ -250,7 +250,7 @@ We may use third parties such as network advertisers and ad exchanges to serve a
 
 Statements regarding our practices do not apply to the methods for collecting information used by these third parties or the use of the information that such third parties collect.  We do however work with third parties to make efforts to have you provided with information on their practices and any available opportunity to exercise choice.  The relevant third party’s terms of service, privacy policy, permissions, notices and choices should be reviewed regarding their collection, storage and sharing practices.  We make no representations regarding the policies or practices of third party advertisers or advertising networks or exchanges or related third parties.
 
-Some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available in a chart at the end of this.  Further, while sites use a variety of companies to serve advertisements, you may wish to visit <http://www.networkadvertising.org/optout_nonppii.asp>, which provides information regarding this practice by Network Advertising Initiative (“ **NAI** ”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.  Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver Behavioral Ads to you, but does not mean you will no longer receive any targeted content and/or ads.  Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different Device or change web browsers, your NAI opt-out may not, or may no longer, be effective.  You may also opt-out of receiving Behavioral Ads on participating sites and services by visiting the Digital Advertising Alliance (“ **DAA** ”) website at <http://www.aboutads.info/choices/#completed>.  Similar limitations may apply to the DAA opt-out.  We are not responsible for effectiveness of or compliance with any third parties’ opt-out options or programs.
+We may use third-party advertising companies to target Behavioral Ads to you on our Site, across the web, on your mobile device and on any of your other devices, based on the information we have collected from and about you, as well as information relating to your and other users’ visits to this and other websites and online services.  To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags) or recognize an identifier associated with your mobile device.  These companies may also use Tracking Technologies, along with personal information they or we collect on the different Devices you use, to recognize you across the Devices you use, such as a mobile Device and a laptop or other computer.  Some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available in the chart at the end of this Privacy Policy.  Further, while sites use a variety of companies to serve advertisements, you may wish to visit <http://www.networkadvertising.org/optout_nonppii.asp>, which provides information regarding this practice by Network Advertising Initiative (“ **NAI** ”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.  Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver Behavioral Ads to you, but does not mean you will no longer receive any targeted content and/or ads.  Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different Device or change web browsers, your NAI opt-out may not, or may no longer, be effective.  You may also opt-out from receiving Behavioral Ads on participating sites and services by visiting the Digital Advertising Alliance (“ **DAA** ”) website at <http://www.aboutads.info/choices>.  You may download the AppChoices app at <http://www.aboutads.info/appchoices> to opt out in mobile apps.  Similar limitations may apply to the DAA opt-out.  We are not responsible for effectiveness of or compliance with any third parties’ opt-out options or programs.
 
 ### 6. Do Third-Party Content, Links to Third-Party Sites and/or Third-Party Apps Appear on the Site?
 
@@ -260,7 +260,7 @@ Third-party applications may also be available via the Site.  The owners of the
 
 ### 7. How Do I Change My Information and Communications Preferences?
 
-You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided to us.  You may provide updates and changes by using the Contact Us Form.  If you send us a request to make changes, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable.  Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Site such as in forums or blogs, these communications cannot generally be removed.  When you edit your Personal Information or change your preferences on the Site, information that you remove may persist internally for our administrative purposes.  You may cancel or modify our email marketing communications you receive from us by following the instructions contained within our promotional emails or in some cases by logging into your Site account and changing your communication preferences.  This will not affect subsequent subscriptions and if your opt-out is limited to certain types of emails the opt-out will be so limited.  Subsequent or different subscriptions will be unaffected.  Please note that we reserve the right to send you certain communications relating to your account or use of our Site, such as administrative and Site announcements and these transactional account messages may be unaffected if you choose to opt-out from receiving our marketing communications.  If you have any questions about the Privacy Policy or practices described in it, you should contact us by using the Contact Us Form.
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided to us.  You may provide updates and changes by contacting us using the form available here: <http://www.whowhatwear.com/contact-us>.  If you send us a request to make changes, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable.  Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Site such as in forums or blogs, these communications cannot generally be removed.  When you edit your Personal Information or change your preferences on the Site, information that you remove may persist internally for our administrative purposes.  You may cancel or modify our email marketing communications you receive from us by following the instructions contained within our promotional emails or in some cases by logging into your Site account and changing your communication preferences.  This will not affect subsequent subscriptions and if your opt-out is limited to certain types of emails the opt-out will be so limited.  Subsequent or different subscriptions will be unaffected.  Please note that we reserve the right to send you certain communications relating to your account or use of our Site, such as administrative and Site announcements and these transactional account messages may be unaffected if you choose to opt-out from receiving our marketing communications.  If you have any questions about the Privacy Policy or practices described in it, you should contact us by using the form available here: <http://www.whowhatwear.com/contact-us>.
 
 ### 8. What About Transfer of Information to the United States?
 
@@ -268,7 +268,7 @@ Our Site is operated in the United States and intended for users located in the 
 
 ### 9. What Should Parents Know About Children?
 
-Each Site is a general audience web site and we do not knowingly collect any personal information from children younger than the age of thirteen (13) as required by U.S. law.  We will delete any personal information collected that we later determine to be from a user younger than the age of thirteen (13).  If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personal information to us, please contact us by using the Contact Us Form.
+Each Site is a general audience web site and we do not knowingly collect any personal information from children younger than the age of thirteen (13) as required by U.S. law.  We will delete any personal information collected that we later determine to be from a user younger than the age of thirteen (13).  If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personal information to us, please contact us using the form available here: <http://www.whowhatwear.com/contact-us>.
 
 ### 10. What About Security?
 
@@ -283,3 +283,5 @@ We reserve the right to change this Privacy Policy at any time without notice to
 The following third parties that collect information from you on our Site have given us notice that you may obtain information on their policies and practices, and in some instances opt-out of certain of their activities, as follows:
 
 PLEASE NOTE:  We are not responsible for third-party policies or practices.  We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate.  Please contact the applicable third parties regarding their privacy and data security policies and practices.
+
+Previous Privacy Policy can be found [here](http://www.whowhatwear.com/rm/terms/2191570)
