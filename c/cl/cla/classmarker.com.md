@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222194648id_/https%3A//www.classmarker.com/online-testing/privacy/%3Ftrk%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231157id_/https%3A//www.classmarker.com/online-testing/privacy/%3Ftrk%3Dfooter) for the most accurate reproduction.*
 
 # Privacy ClassMarker
 
@@ -138,6 +138,10 @@ This Privacy Policy is current as of the Effective Date set forth above. We may 
 ### Terms and Conditions
 
 View our [Terms and Conditions](https://web.archive.org/online-testing/terms/) page.
+
+[](https://web.archive.org/online-testing/award-winning/)
+
+[](https://web.archive.org/online-testing/award-winning/)
 
 [](https://web.archive.org/online-testing/award-winning/)
 
