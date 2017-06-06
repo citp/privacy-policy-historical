@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206223424id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120018id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
 
 # Recipelink.com Privacy Policy
 
 [](https://web.archive.org/index.html)
 
 Join Recipelink.com for Free!
-
-[ ](http://www.pinterest.com/recipelink/)
 
 Recipe Categories
 
