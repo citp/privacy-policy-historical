@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingfactory.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119103859id_/http%3A//datingfactory.com/memberprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingfactory.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235738id_/http%3A//datingfactory.com/memberprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | DatingFactory.com
 
@@ -8,7 +8,7 @@
 
 The Dating Factory network is operated by Tyche Technologies AG, a company registered under the laws of Switzerland, whose registered office is Baarerstrasse 21, CH-6300, Zug, Switzerland.
 
-The Dating Factory Network is committed to providing you with the professional and high quality dating solutions and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](http://datingfactory.com/memberterms/) of the web-site you registered on. The Dating Factory Network Privacy Policy is intended to ensure that you can use the service without having to worry about confidentiality issues.
+The Dating Factory Network is committed to providing you with the professional and high quality dating solutions and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](https://datingfactory.com/memberterms/) of the web-site you registered on. The Dating Factory Network Privacy Policy is intended to ensure that you can use the service without having to worry about confidentiality issues.
 
 Dating Factory may change some clauses of this Policy from time to time, and members are advised to review this Policy regularly to make sure they read and understand the most current version of it.
 
@@ -28,4 +28,4 @@ Our members have the following choices to modify or delete their information fro
 
 
 
-If you have questions or concerns, please use [“Contact us” form on www.datingfactory.com](http://datingfactory.com/contact/ "Contacts") web-site, or call us at +44 2033970182 or +41 0566342202 and our team will deal with your enquiry quickly, professionally and efficiently because we take privacy of our members seriously and are ready to address all the concerns they may have 24/7.
+If you have questions or concerns, please use [“Contact us” form on www.datingfactory.com](https://datingfactory.com/contact/ "Contacts") web-site, or call us at +44 2033970182 or +41 0566342202 and our team will deal with your enquiry quickly, professionally and efficiently because we take privacy of our members seriously and are ready to address all the concerns they may have 24/7.
