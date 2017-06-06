@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysalemanager.net privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230191810id_/http%3A//www.mysalemanager.net/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysalemanager.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042755id_/http%3A//mysalemanager.net/privacypolicy.aspx) for the most accurate reproduction.*
 
 # MySaleManager.NET - Software Solutions For Seasonal Kids Consignment Sales
 
