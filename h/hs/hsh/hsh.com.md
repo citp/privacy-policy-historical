@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324213555id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043551id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
 
 # HSH.com: Disclaimers and our Privacy Policy
 
@@ -8,7 +8,7 @@
 
 [](https://privacy.truste.com/privacy-seal/QuinStreet/validation?rid=ab9e93be-4fe1-4b3f-a561-51afa2436d36 "TRUSTe online privacy certification")
 
-**LAST UPDATED:   **February 22, 2016
+**LAST UPDATED:   **May 2, 2016
 
 This website is owned and operated by QuinStreet, Inc. or a QuinStreet, Inc. subsidiary, division or line of business (collectively, “QuinStreet”). For a list of QuinStreet, Inc. subsidiaries, divisions or lines of business (the “QuinStreet Businesses”), please see the section entitled “QuinStreet Businesses” below.
 
@@ -16,7 +16,7 @@ This website is owned and operated by QuinStreet, Inc. or a QuinStreet, Inc. sub
 
 **CERTIFICATIONS**
 
-QuinStreet has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with the [TRUSTe program](https://www.truste.com/privacy-certification-standards/program-requirements/). The TRUSTe program covers only information that is collected through this Site. If you have questions or complaints regarding our privacy policy or practices, please contact us as described below, or if you are not satisfied with our response, you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+QuinStreet has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with the [TRUSTe program](https://www.truste.com/privacy-certification-standards/program-requirements/). The TRUSTe program covers only information that is collected through this Site. If you have questions or complaints regarding our privacy policy or practices, please contact us as described below, or if you are not satisfied with our response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 **1.     ****Personal Information**
 
@@ -108,11 +108,11 @@ This Privacy Policy does not address, and we are not responsible for, the privac
 
 We may also utilize framing techniques that may make it appear that you are still on the Site when you are actually on a third party web site. Please be aware that you are providing your personal information to these third parties and not to this Site.
 
-If this Site includes any mapping features, those mapping features are powered by Google Inc., the use of which is also governed by Google’s privacy policy located at <http://www.google.com/privacy.html>, as amended by Google from time to time.  
+If this Site includes any mapping features, those mapping features are powered by Google Inc., the use of which is also governed by Google’s privacy policy located at <http://www.google.com/policies/privacy/>, as amended by Google from time to time.  
 
 **5.     ****Third Party VENDORS**
 
-We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies, including Google Analytics (we have enabled, among others, Google Analytics Demographics and Interest Reporting).  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting <http://networkadvertising.org/optout_nonppii.asp>, <http://assets.invitemedia.com/opt-out.html> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  <http://www.networkadvertising.org/managing/faqs.asp#question_11>. Please note that opting out of targeted/ personalized advertising does not opt you out of being served advertising.  You will continue to receive generic ads. At this time we do not respond to browser do not track signals.
+We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies, including Google Analytics (we have enabled, among others, Google Analytics Demographics and Interest Reporting).  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting <http://www.networkadvertising.org/choices/>, <http://assets.invitemedia.com/opt-out.html> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  <http://www.networkadvertising.org/faq#question_11>. Please note that opting out of targeted/ personalized advertising does not opt you out of being served advertising.  You will continue to receive generic ads. At this time we do not respond to browser do not track signals.
 
 Our Site may include social media features, such as the Facebook Like or Tweet this button.  These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly.  These features are either hosted by a third party or hosted directly on our Site.  Your interactions with these features are governed by the privacy policy of the company providing it.
 
