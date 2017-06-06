@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lidl.ie privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204032814id_/http%3A//www.lidl.ie/en/data-protection.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lidl.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154618id_/http%3A//www.lidl.ie/en/data-protection.htm) for the most accurate reproduction.*
 
 # Data Protection - Lidl Ireland
 
@@ -27,11 +27,11 @@ Adequate technical security measures, which are reviewed on a regular basis, are
 Under Data Protection legislation you have the right to find out what information is held about you. To obtain a copy of your personal information, please write to us at the following address:
 
 Data Controller  
-Lidl Ireland GmbH  
-Great Connell Road  
-Newbridge  
-Co. Kildare  
-Ireland
+Lidl Ireland GmbH,  
+Main Road,  
+Tallaght,  
+Dublin 24  
+Republic of Ireland.
 
 A cheque for €6.35 payable to Lidl Ireland GmbH must be enclosed with your letter. Furthermore, you can have your personal data rectified or erased. All of the above applies if Lidl Ireland is not obliged to maintain your information to comply with any other legal requirements.
 
