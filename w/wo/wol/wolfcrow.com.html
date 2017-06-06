@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wolfcrow.com privacy policy that was archived on 2016-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160909190555id_/http%3A//wolfcrow.com/blog/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wolfcrow.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606094322id_/http%3A//wolfcrow.com/blog/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -7,35 +7,39 @@
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 <title>Privacy Policy | Wolfcrow</title><link rel="dns-prefetch" href="//ajax.googleapis.com">
 
-<!-- All in One SEO Pack 2.3.9.1 by Michael Torbert of Semper Fi Web Design[391,414] -->
+<!-- All in One SEO Pack 2.3.13.2 by Michael Torbert of Semper Fi Web Design[391,414] -->
 <link rel="author" href="https://plus.google.com/+wolfcrow">
-<meta name="description" itemprop="description" content="This page outlines wolfcrow's privacy policy.">
+<meta name="description" content="This page outlines wolfcrow's privacy policy.">
 
-<meta name="keywords" itemprop="keywords" content="wolfcrow,privacy,policy">
+<meta name="keywords" content="wolfcrow,privacy,policy">
 
 <link rel="canonical" href="http://wolfcrow.com/blog/privacy-policy/">
-				<script type="text/javascript" async="" src="//cdn.viglink.com/api/vglnk.js?key=dbb2d0b1f721a0e64d164e57cc03c604"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-					var _gaq = _gaq || [];
-					          _gaq.push(['_setAccount', 'UA-3333982-6']);
-															          _gaq.push(['_trackPageview']);
-					(function () {
-						var ga = document.createElement('script');
-						ga.type = 'text/javascript';
-						ga.async = true;
-						            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-						            var s = document.getElementsByTagName('script')[0];
-						s.parentNode.insertBefore(ga, s);
-					})();
-				</script>
-				<!-- /all in one seo pack -->
+			<script type="text/javascript" async="" src="//cdn.viglink.com/api/vglnk.js?key=dbb2d0b1f721a0e64d164e57cc03c604"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-3333982-6', 'auto');
+			
+			ga('send', 'pageview');
+			</script>
+<!-- /all in one seo pack -->
 <link rel="dns-prefetch" href="//ajax.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Wolfcrow » Feed" href="http://wolfcrow.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Wolfcrow » Comments Feed" href="http://wolfcrow.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/wolfcrow.com\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/wolfcrow.com\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/wolfcrow.com\/wp-includes\/js\/wp-emoji.js?ver=4.7.5","twemoji":"http:\/\/wolfcrow.com\/wp-includes\/js\/twemoji.js?ver=4.7.5"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -43,18 +47,19 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
-		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' ),
-			stringFromCharCode = String.fromCharCode,
-			flag, flag2, tonedata, tone, tone2;
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, technologist, technologist2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
 
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
@@ -69,13 +74,13 @@
 				/*
 				 * This works because the image will be one of three things:
 				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
-				 * - The Australian flag
+				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
+				 * - The United Nations flag
 				 *
 				 * The first two will encode to small images (1-2KB data URLs), the third will encode
 				 * to a larger image (4-5KB data URL).
 				 */
-				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
 				if ( canvas.toDataURL().length < 3000 ) {
 					return false;
 				}
@@ -99,45 +104,23 @@
 				flag2 = canvas.toDataURL();
 
 				return flag !== flag2;
-			case 'diversity':
+			case 'emoji4':
 				/*
-				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
-				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
-				 * compares if the emoji rendering has changed.
+				 * Emoji 4 has the best technologists. So does WordPress!
+				 *
+				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (woman technologist: medium skin tone + personal computer).
 				 */
-				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
+				technologist = canvas.toDataURL();
 
-				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
-				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
-				// So, we create our own string and compare that, instead.
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.clearRect( 0, 0, canvas.width, canvas.height );
 
-				return tone !== tone2;
-			case 'simple':
-				/*
-				 * This creates a smiling emoji, and checks to see if there is any image data in the
-				 * center pixel. In browsers that don't support emoji, the character will be rendered
-				 * as an empty square, so the center pixel will be blank.
-				 */
-				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode8':
-				/*
-				 * To check for Unicode 8 support, let's try rendering the most important advancement
-				 * that the Unicode Consortium have made in years: the burrito.
-				 */
-				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode9':
-				/*
-				 * Do Unicode 9 emoji render?
-				 * ¯\_(ツ)_/¯
-				 */
-				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
+				technologist2 = canvas.toDataURL();
+
+				return technologist !== technologist2;
 		}
 
 		return false;
@@ -147,11 +130,11 @@
 		var script = document.createElement( 'script' );
 
 		script.src = src;
-		script.type = 'text/javascript';
+		script.defer = script.type = 'text/javascript';
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
+	tests = Array( 'flag', 'emoji4' );
 
 	settings.supports = {
 		everything: true,
@@ -203,7 +186,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://wolfcrow.com/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://wolfcrow.com/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
+		</script><script src="http://wolfcrow.com/wp-includes/js/twemoji.js?ver=4.7.5" type="text/javascript" defer=""></script><script src="http://wolfcrow.com/wp-includes/js/wp-emoji.js?ver=4.7.5" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -218,6 +201,9 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://wolfcrow.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
 <link rel="shortlink" href="http://wolfcrow.com/?p=7934">
 <link rel="alternate" type="application/json+oembed" href="http://wolfcrow.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwolfcrow.com%2Fblog%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://wolfcrow.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwolfcrow.com%2Fblog%2Fprivacy-policy%2F&amp;format=xml">
@@ -239,7 +225,7 @@ img.emoji {
 		enable_page_level_ads: true
 	});
 </script></head>
-<body class="single single-post postid-7934 single-format-standard header-full-width full-width-content" itemscope="" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
+<body class="post-template-default single single-post postid-7934 single-format-standard header-full-width nolayout" itemscope="" itemtype="https://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope="" itemtype="https://schema.org/WPHeader"><div class="wrap"><p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-1662287856035726",
@@ -247,10 +233,10 @@ img.emoji {
   });
 </script></p>
 <div class="title-area"><p class="site-title" itemprop="headline"><a href="http://wolfcrow.com/">Wolfcrow</a></p>	<a id="toggle-menu" href="#sidr" class="toggle-menu btn" title="Toggle menu"><i class="ico-menu"></i></a>
-	<a href="http://wolfcrow.com/" title="Wolfcrow" class="site-logo"><img src="http://wolfcrow.com/wp-content/themes/genesis-wc/build/images/logo-dark.svg" alt="Wolfcrow" width="225" height="73" style="display: block; margin: 0 auto; width: 15em;"></a><p class="site-description" itemprop="description">Workflows for filmmakers, cinematographers and videographers.</p></div></div></header><nav class="nav-primary" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-feb2013" class="menu genesis-nav-menu menu-primary"><li id="menu-item-10550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10550"><a title="Home" href="http://wolfcrow.com" itemprop="url"><span itemprop="name">Home</span></a></li>
+	<a href="http://wolfcrow.com/" title="Wolfcrow" class="site-logo"><img src="http://wolfcrow.com/wp-content/themes/genesis-wc/build/images/logo-dark.svg" alt="Wolfcrow" width="225" height="73" style="display: block; margin: 0 auto; width: 15em;"></a><p class="site-description" itemprop="description">Workflows for filmmakers and cinematographers</p></div></div></header><nav class="nav-primary" itemscope="" itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-feb2013" class="menu genesis-nav-menu menu-primary"><li id="menu-item-10550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10550"><a title="Home" href="http://wolfcrow.com" itemprop="url"><span itemprop="name">Home</span></a></li>
 <li id="menu-item-26844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-26844"><a href="#" itemprop="url"><span itemprop="name">Quick Menu</span></a>
 <ul class="sub-menu">
-	<li id="menu-item-27245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27245"><a href="http://wolfcrow.com/blog/" itemprop="url"><span itemprop="name">Most Recent Articles</span></a></li>
+	<li id="menu-item-27245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27245"><a href="https://www.patreon.com/wolfcrow" itemprop="url"><span itemprop="name">Become a Patron</span></a></li>
 	<li id="menu-item-26616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26616"><a href="http://wolfcrow.com/recommended-gear/" itemprop="url"><span itemprop="name">Recommended Gear</span></a></li>
 	<li id="menu-item-26615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26615"><a href="http://wolfcrow.com/filmmaking-for-beginners/" itemprop="url"><span itemprop="name">Filmmaking For Beginners</span></a></li>
 	<li id="menu-item-26614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26614"><a href="http://wolfcrow.com/cinematography-and-photography-concepts-simplified/" itemprop="url"><span itemprop="name">Cinematography and Photography Concepts Simplified</span></a></li>
@@ -268,7 +254,7 @@ img.emoji {
 <li id="menu-item-10551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10551"><a href="http://wolfcrow.com/11freetools/" itemprop="url"><span itemprop="name">Free Stuff</span></a></li>
 <li id="menu-item-10581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10581"><a href="http://wolfcrow.com/about-wolfcrow/" itemprop="url"><span itemprop="name">About Us</span></a></li>
 <li id="menu-item-10553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10553"><a href="http://wolfcrow.com/contact/" itemprop="url"><span itemprop="name">Contact</span></a></li>
-</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-7934 post type-post status-publish format-standard category-using-wolfcrow tag-policy tag-privacy tag-wolfcrow entry" itemscope="" itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy Policy</h1> 
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-7934 post type-post status-publish format-standard category-using-wolfcrow tag-policy tag-privacy tag-wolfcrow entry" itemscope="" itemtype="https://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy Policy</h1>
 </header><div class="entry-content" itemprop="text"><p>At wolfcrow we are committed to safeguarding and preserving the privacy of our visitors. This <a href="http://www.diylegals.co.uk/ecommerce/website-privacy-policy/" target="_blank">Website Privacy Policy</a> has been provided by the legal resource <a href="http://www.diylegals.co.uk" target="_blank">www.diylegals.co.uk</a> and reviewed and approved by their solicitors.</p>
 <p>This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.</p>
 <p>We do update this Policy from time to time so please do review this Policy regularly.</p>
@@ -279,8 +265,8 @@ img.emoji {
 <li>Information provided voluntarily by you. For example, when you register for information or make a purchase.</li>
 <li>Information that you provide when you communicate with us by any means.</li>
 </ul>
-<p><strong>Use of Cookies </strong>
-</p><p>Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website.</p>
+<p><strong>Use of Cookies </strong></p>
+<p>Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website.</p>
 <p>We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever.</p>
 <p>You can adjust the settings on your computer to decline any cookies if you wish. This can easily be done by activating the reject cookies setting on your computer.</p>
 <p>Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.</p>
@@ -306,13 +292,13 @@ If you have previously purchased goods or services from us we may provide to you
 <li>Where we are legally required by law to disclose your personal information.</li>
 <li>To further fraud protection and reduce the risk of fraud.</li>
 </ul>
-<p><strong>Third Party Links</strong>
-</p><p>On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.</p>
+<p><strong>Third Party Links</strong></p>
+<p>On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.</p>
 <p><strong>Access to Information</strong></p>
 <p>In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of $10 to cover costs incurred by us in providing you with the information.</p>
 <p><strong>Contacting Us</strong></p>
 <p>Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at director@theindiefarm.com.</p><p></p>
-<script type="text/javascript" data-leadbox="14169a873f72a2:121fef907f46dc" data-url="https://wolfcrow.leadpages.co/leadbox/14169a873f72a2%3A121fef907f46dc/5668600916475904/" data-config="%7B%22type%22%3A%20%22exit%22%2C%20%22settings%22%3A%20%7B%22days%22%3A%2030%7D%7D" src="//wolfcrow.leadpages.co/leadbox-1473370796.js"></script><div class="yarpp-related">
+<div class="yarpp-related">
 <h4>Related Articles</h4><ol>
 <li><a href="http://wolfcrow.com/blog/what-is-video-encryption-and-should-you-care/" rel="bookmark" title="What is Video Encryption and Should you Care?">What is Video Encryption and Should you Care? </a></li>
 <li><a href="http://wolfcrow.com/blog/how-to-send-video-files-to-your-client-part-three/" rel="bookmark" title="How to send Video Files to your Client (Part Three)">How to send Video Files to your Client (Part Three) </a></li>
@@ -321,13 +307,13 @@ If you have previously purchased goods or services from us we may provide to you
 <li><a href="http://wolfcrow.com/blog/what-is-adaptive-streaming/" rel="bookmark" title="What is Adaptive Streaming?">What is Adaptive Streaming? </a></li>
 </ol>
 </div>
-</div><footer class="entry-footer"></footer></article></main></div></div><p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
+</div><footer class="entry-footer"></footer></article></main><aside class="sidebar sidebar-primary widget-area" aria-label="Primary Sidebar" itemscope="" itemtype="https://schema.org/WPSideBar"></aside></div><aside class="sidebar sidebar-secondary widget-area" role="complementary" aria-label="Secondary Sidebar" itemscope="" itemtype="https://schema.org/WPSideBar"></aside></div><p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
 <!-- NewSiteResponsive --><br>
 <ins class="adsbygoogle" style="display:block; text-align:center; margin:auto;" data-ad-client="ca-pub-1662287856035726" data-ad-slot="7601508845" data-ad-format="auto"></ins><br>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<footer class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright © 2016 Sareesh Sudhakaran. All rights reserved.</p>
+<footer class="site-footer" itemscope="" itemtype="https://schema.org/WPFooter"><div class="wrap"><p>Copyright © 2017 Sareesh Sudhakaran. All rights reserved.</p>
 
 	<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-23905" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-23905"><a href="http://wolfcrow.com/blog/privacy-policy/" itemprop="url">Privacy Policy</a></li>
 <li id="menu-item-23906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23906"><a href="http://wolfcrow.com/about-wolfcrow/#policy4" itemprop="url">Disclaimer and Full Disclosure</a></li>
@@ -353,6 +339,13 @@ If you have previously purchased goods or services from us we may provide to you
 	h3 {
 		color: #010101;
 		text-decoration:none;
+	}
+	h2 {
+		font-size: 2em;
+                color:#ffaa00;
+                font-family:Helvetica, sans-serif;
+padding-top:25px;
+padding-bottom:10px;
 	}
 	/* The title of a post or page has the class .entry-title. It can be an H1 or H2 depending on content, so we target it with the class. */
 	.entry-title {
@@ -397,11 +390,27 @@ If you have previously purchased goods or services from us we may provide to you
 		font-size:2.25em;
 		font-family:Arial, serif;
 	}
+	blockquote {
+border: 1px solid #ccc;
+border-radius: 6px;
+font-family: Tahoma, Helvetica, serif;
+font-size:1.1em;
+font-style: italic;
+color: #777;
+padding-top:20px;
+padding-bottom:20px;
+padding-left:20px;
+padding-right:20px;
+}
+blockquote cite:before {
+content: "2014 2009";
+}
+
 </style>	<div id="sidr">
 		<div class="menu-feb2013-container"><ul id="menu-feb2013-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10550"><a title="Home" href="http://wolfcrow.com" itemprop="url">Home</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-26844"><a href="#" itemprop="url">Quick Menu</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27245"><a href="http://wolfcrow.com/blog/" itemprop="url">Most Recent Articles</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27245"><a href="https://www.patreon.com/wolfcrow" itemprop="url">Become a Patron</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26616"><a href="http://wolfcrow.com/recommended-gear/" itemprop="url">Recommended Gear</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26615"><a href="http://wolfcrow.com/filmmaking-for-beginners/" itemprop="url">Filmmaking For Beginners</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26614"><a href="http://wolfcrow.com/cinematography-and-photography-concepts-simplified/" itemprop="url">Cinematography and Photography Concepts Simplified</a></li>
@@ -420,7 +429,7 @@ If you have previously purchased goods or services from us we may provide to you
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10581"><a href="http://wolfcrow.com/about-wolfcrow/" itemprop="url">About Us</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10553"><a href="http://wolfcrow.com/contact/" itemprop="url">Contact</a></li>
 </ul></div>	</div>
-	<link rel="stylesheet" id="yarppRelatedCss-css" href="http://wolfcrow.com/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.6.1" type="text/css" media="all">
+	<link rel="stylesheet" id="yarppRelatedCss-css" href="http://wolfcrow.com/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.7.5" type="text/css" media="all">
 <!--[if !IE]> -->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <!-- <![endif]-->
@@ -431,12 +440,6 @@ If you have previously purchased goods or services from us we may provide to you
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script><![endif]-->
 <script>window.jQuery || document.write('<script src="http://wolfcrow.com/wp-includes/js/jquery/jquery.js"><\/script>')</script><script src="http://wolfcrow.com/wp-includes/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="http://wolfcrow.com/wp-content/themes/genesis-wc/build/js/scripts.min.js?ver=2"></script>
-<script type="text/javascript" src="http://wolfcrow.com/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wolfcrow.com/wp-includes/js/wp-embed.js?ver=4.7.5"></script>
 
-
-
-<!-- Dynamic page generated in 0.495 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-09-10 00:02:32 -->
-
-<!-- Compression = gzip -->
-<!-- super cache --></body></html>
+</body></html>
