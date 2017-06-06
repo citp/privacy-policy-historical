@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songfacts.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607113424id_/http%3A//www.songfacts.com/blog/pages/songfacts_privacy_policy_and_legal_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songfacts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121413id_/http%3A//www.songfacts.com/blog/pages/songfacts_privacy_policy_and_legal_notice) for the most accurate reproduction.*
 
 # Songfacts Privacy Policy and Legal Notice : Songfacts Pages
 
@@ -43,7 +43,7 @@ If you are located in Europe, some of the data that we process may be protected 
 
 **Use of the Site**
 
-With the exception of search engine bots, the use of data-mining/extraction software or bots by any company that is not collecting data for a search engine is strictly forbidden.
+Use of Songfacts is governed by our [Terms of Service](http://www.songfacts.com/blog/pages/terms_of_service/).
 
 **Children's Privacy**
 
