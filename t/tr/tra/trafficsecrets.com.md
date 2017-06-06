@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trafficsecrets.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227025501id_/http%3A//trafficsecrets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficsecrets.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131109id_/http%3A//www.trafficsecrets.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Traffic Secrets
 
-### Privacy Policy 
+### Privacy Policy
 
 This Privacy Policy governs the manner in which Traffic Secrets collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.trafficsecrets.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Traffic Secrets.
 
@@ -20,19 +20,19 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 #### How we use collected information
 
-Traffic Secrets may collect and use Users personal information for the following purposes: 
+Traffic Secrets may collect and use Users personal information for the following purposes:
 
   * To improve customer service   
-Information you provide helps us respond to your customer service requests and support needs more efficiently. 
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * To improve our Site  
-We may use feedback you provide to improve our products and services. 
+We may use feedback you provide to improve our products and services.
   * To process payments  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. 
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
   * To run a promotion, contest, survey or other Site feature  
-To send Users information they agreed to receive about topics we think will be of interest to them. 
-  * To send periodic emails 
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * To send periodic emails
 
 
 
@@ -68,5 +68,4 @@ Traffic Secrets, LLC
 http://www.trafficsecrets.com   
 2801 B Street,   
 Unit #575,   
-San Diego, CA 92102.  
-
+San Diego, CA 92102.
