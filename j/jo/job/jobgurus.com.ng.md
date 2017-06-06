@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobgurus.com.ng privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201152651id_/http%3A//www.jobgurus.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobgurus.com.ng privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234544id_/http%3A//www.jobgurus.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jobgurus
 
@@ -45,4 +45,4 @@ As part of our business, we may pass to our service partners aggregated informat
 We will not sell, rent or transfer your Personally Identifiable Information to any third party, unless we are required by law, court order or regulation, or we believe that disclosure is necessary to comply with law or legal process, or to cooperate with local or federal authorities, or to protect or defend against fraud, misuse of the Jobgurus.com.ng Website, breach of any of your obligations hereunder, or to protect our intellectual property rights. In addition, we may disclose your Personally Identifiable Information in connection with a merger, acquisition, or sale of all or substantially all of the assets of Jobgurus.com.ng to another company (an "Acquirer Company"), provided that such Personally Identifiable Information shall only be used by the Acquirer Company in accordance with the terms and conditions of this Privacy Policy. Jobgurus.com.ng will not track your Internet usage outside of the confines of the Jobgurus.com.ng Website.
 
 **How to contact us**  
-You can contact Jobgurus.com.ng by sending an email to  **info@jobgurus.com.ng**
+You can contact Jobgurus.com.ng by sending an email to  **info [at] jobgurus.com.ng**
