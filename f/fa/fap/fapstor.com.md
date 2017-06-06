@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fapstor.com privacy policy that was archived on 2016-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160211065820id_/http%3A//fapstor.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fapstor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213810id_/https%3A//fapstor.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Fapstor.Com
 
