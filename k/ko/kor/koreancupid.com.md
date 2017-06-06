@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreancupid.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628203155id_/http%3A//www.koreancupid.com/en/general/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreancupid.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175334id_/https%3A//www.koreancupid.com/en/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | KoreanCupid.com
 
@@ -10,8 +10,8 @@ KoreanCupid.com (the “Website") is owned and operated by Cupid Media Pty Ltd A
 
 Name: Cupid Media Pty Ltd (ACN 104 844 564)  
 Address: PO Box 9304, Gold Coast MC Qld 9726  
-Phone: 61 7 5571 1181  
-Fax Number: 61 7 3103 4000  
+Phone: [+61 7 5571 1181](tel:+61 7 5571 1181)  
+Fax Number: [+61 7 3103 4000](tel:+61 7 3103 4000)  
 For Privacy Issues Email: [privacy@cupidmedia.com](mailto:privacy@cupidmedia.com)  
 For Customer Service: [team@cupidmedia.com](mailto:team@cupidmedia.com)
 
