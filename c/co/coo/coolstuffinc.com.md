@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225621id_/http%3A//www.coolstuffinc.com/page/978) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134527id_/http%3A//www.coolstuffinc.com/page/978) for the most accurate reproduction.*
 
 # Site Links - Privacy Policy
+
+Last Modified: May 31st, 2017; Effective Date: June 14th, 2017
 
 ## Information We Collect and How We Use It
 
@@ -12,7 +14,7 @@ In addition to the information you provide when you use the CoolStuffInc.com web
 
 ## Information Disclosure
 
-When you place an order with us, we do not share your information with any third parties. We do not sell or rent any of your personally identifiable information with anyone outside of CoolStuffInc.com.
+We do not sell or rent any of your personally identifiable information with anyone outside of CoolStuffInc.com.
 
 We may provide your information, as required by law or legal process or under circumstances we believe reasonably necessary to protect the personal safety of users of CoolStuffInc.com, this site or the public.
 
