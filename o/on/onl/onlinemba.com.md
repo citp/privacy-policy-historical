@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemba.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215141300id_/http%3A//www.onlinemba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemba.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110829id_/http%3A//www.onlinemba.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnlineMBA.com
 
@@ -35,7 +35,7 @@ By using this website, you acknowledge that we use Cookies and consent to our us
 ### About Cookies: Ours, Google, and Third-Party Cookies
 
 Cookies are small pieces of data sent from a website and stored in the user’s web browser, including for technical purposes such as web analytics. Our web analytics are mainly performed using Google Analytics, a tool provided by Google, Inc. Advertising cookies do not contain personally identifiable information, so users are still anonymous, but they allow advertisers to make ads more relevant to the user’s interests. Advertising cookies are sometimes referred to as third-party cookies, since they track navigation and publish ads on behalf of third parties.  
-For more information about Google Analytics, check Google’s privacy policy at <http://www.google.com/intl/en/analytics/privacyoverview.html>.
+For more information about Google Analytics, check Google’s privacy policy at <https://support.google.com/analytics/answer/6004245>.
 
 ### About information gathered by Cookies
 
