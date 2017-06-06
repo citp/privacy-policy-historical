@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornleak.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020225id_/http%3A//pornleak.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornleak.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093210id_/http%3A//pornleak.net/privacy) for the most accurate reproduction.*
 
-# Privacy - Watch Free Porn Videos, XXX Full Movies, Sex Clips HD - PornLeak.net
+# Privacy - Watch Free Porn Online | Full Porn Movies Streaming | XXX Porn HD
 
 This privacy policy is intended to inform you about the types of information gathered by Pornleak when you visit Pornleak.net.
 
