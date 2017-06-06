@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the parts4repair.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412094908id_/http%3A//www.parts4repair.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parts4repair.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225430id_/https%3A//www.parts4repair.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Parts4repair.com Privacy Policy
 
 **Privacy Policy  
-   Effective Date: 2010-01-01 - Current**
+   Effective Date: 2012-01-01 - Current**
 
 The following Privacy Policy applies only to the parts4repair.com web site and information provided by you or otherwise collected online through parts4repair.com.
 
@@ -39,13 +39,13 @@ An IP address is a number that is assigned to your computer when you are using t
 **Information sharing and disclosure**  
 Agents, employees and contractors of parts4repair.com who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of the corporation.
 
-  * Information about you specifically will not be used for any purpose other than to carry out the services you requested from us and its affiliates. All of our affiliates have agreed to maintain the security and confidentiality of the information we provide to them. 
-  * We will not sell or rent your personally identifiable information to anyone at any time. 
-  * We will not use any personal information beyond what is necessary to assist us in delivering to you the services you have requested. 
+  * Information about you specifically will not be used for any purpose other than to carry out the services you requested from us and its affiliates. All of our affiliates have agreed to maintain the security and confidentiality of the information we provide to them.
+  * We will not sell or rent your personally identifiable information to anyone at any time.
+  * We will not use any personal information beyond what is necessary to assist us in delivering to you the services you have requested.
   * We may send personally identifiable information about you to other organizations when:
-  * We have your consent to share the information (you will be provided the opportunity to opt-out if you desire). For example, if you opt-in for emails we will share this information with our marketing provider. 
-  * We need to share your information in order to provide the product or service you have requested. For example, we need to share information with shippers to bill and ship the product you requested. 
-  * We are required to do so by law, for example, in response to a court order or subpoena. 
+  * We have your consent to share the information (you will be provided the opportunity to opt-out if you desire). For example, if you opt-in for emails we will share this information with our marketing provider.
+  * We need to share your information in order to provide the product or service you have requested. For example, we need to share information with shippers to bill and ship the product you requested.
+  * We are required to do so by law, for example, in response to a court order or subpoena.
 
 
 
