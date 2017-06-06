@@ -1,41 +1,37 @@
-> *The following text is extracted and transformed from the gemini.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023204346id_/https%3A//gemini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemini.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201921id_/https%3A//gemini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Gemini
 
-  * last trade: 
-  * [register](https://exchange.gemini.com/register)
-  * [sign in](https://exchange.gemini.com/signin)
-  * __
-  * menu
-
-
-
-##### Last Modified: August 31, 2016
-
 ##### **Introduction**
 
-Welcome! Thanks for visiting our online platform (“Gemini”), provided by Gemini Trust Company, LLC (d/b/a Gemini Exchange, LLC in MA, ND, OR, SD). By visiting Gemini, you are being asked to agree (and are deemed to agree) to this privacy policy (“Privacy Policy”) so please read it _carefully_. This Privacy Policy explains what information we collect, why we collect it and how we treat your information.
+Welcome! Thanks for visiting Gemini, a digital asset exchange and custodian operated by and proprietary to Gemini Trust Company, LLC (d/b/a Gemini Exchange, LLC in select jurisdictions, including, DE, MA, ND, OR, SD, VA). By visiting Gemini, you (a “User,” regardless of whether you are an individual or institution) are agreeing to be legally bound by  these terms (the “Privacy Policy”) so _please read them carefully_. If any term in this Privacy Policy is unacceptable to you, please do not visit, access or use Gemini. Use of the words “we”  or “our” in this Privacy Policy refer to Gemini Trust Company, LLC and any or all of its affiliates.
 
-Your privacy matters to us so whether you are new to Gemini or a long-time user, please do take the time to get to know and familiarize yourself with our practices.
+This Privacy Policy explains what information we collect, why we collect it and how we treat your information.
+
+Your privacy matters to us so whether you are new to Gemini or a long-time User, please do take the time to get to know and familiarize yourself with our practices.
+
+As used herein, “Digital Asset” means a digital asset (also called a “cryptocurrency,” “virtual currency,” “digital currency,” or “digital commodity”), such as bitcoin or ether, which is based on the cryptographic protocol of a computer network that may be (i) centralized or decentralized, (ii) closed or open-source, and (iii) used as a medium of exchange and/or store of value.
 
 ##### **I. Information We Collect**
 
-**Verification Information** – Information that you provide during a completed, incomplete or abandoned registration. This may include the following information:
+**_Section 326 of the USA PATRIOT ACT requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. This federal requirement applies to all new customers. This information is used to assist the United States government in the fight against the funding of terrorism and money-laundering activities. What this means for you: when you open a Gemini account, we will ask you for your name, address, date of birth, and other identifying information. For more details, please see below:_**
+
+**Verification Information** – We collect information that you provide during a completed, incomplete or abandoned registration. This may include the following information:
 
 **Individual Customer** – we will attempt to _collect, verify and authenticate_ the following information:
 
   * Email address;
   * Mobile phone number;
   * Full legal name;
-  * Social Security Number (“SSN”) or any comparable identification issued by government;
+  * Social Security Number (“SSN”) or any comparable identification number issued by government;
   * Date of birth (“DOB”);
   * Proof of identity (e.g., driver’s license, passport or government-issued ID);
-  * Proof of address (e.g., electric, gas or water bill); and
-  * Home address (not merely a mailing address or P.O. Box).
+  * Home address (not merely a mailing address or P.O. Box); And
+  * Additional information or documentation at the discretion of our Compliance Team.
 
 
 
-You will be allowed to access, review, correct and ensure the accuracy of the information you submitted from time to time. Gemini will also do its part to ensure accuracy of your information.
+Additional information or documentation at the discretion of our Compliance Team.
 
 **Institutional Customer** – we will attempt to _collect, verify and authenticate_ the following information:
 
@@ -45,12 +41,14 @@ You will be allowed to access, review, correct and ensure the accuracy of the in
   * Email address (of all account signatories);
   * Mobile phone number (of all account signatories);
   * Address (principal place of business and/or other physical location);
-  * Proof of legal existence (e.g., state certified articles of incorporation/certificate of formation, unexpired government-issued business license, trust instrument or other comparable legal documents as applicable);
+  * Proof of legal existence (e.g., state certified articles of incorporation or certificate of formation, unexpired government-issued business license, trust instrument or other comparable legal documents as applicable);
   * Contract information of owners/principals/executive management (as applicable);
-  * Proof of identity (e.g., driver’s license, passport or government-issued ID) for each individual beneficial owner that owns 10% or more as well as all account signatories; and
-  * *Identifying information for each entity beneficial owner that owns 10% or more (see individual customer information collected above for more details).
+  * Proof of identity (e.g., driver’s license, passport or government-issued ID) for each **individual beneficial owner** that owns 10% or more as well as all account signatories; and
+  * Identifying information for each **entity beneficial owner** that owns 10% or more (see individual customer information collected above for more details).
 
 
+
+You will be allowed to access, review, correct and ensure the accuracy of the information you have submitted from time to time. We will also do our part to ensure the accuracy of your information.
 
 **Device Information** – Information that is automatically collected about your device (such as hardware, operating system, browser, etc.).
 
@@ -62,21 +60,21 @@ You will be allowed to access, review, correct and ensure the accuracy of the in
 
 **Correspondence** – Information that you provide to us in correspondence, including opening an account and with respect to ongoing customer support.
 
-In addition, we make use of the accepted practice of placing Cookies on your device to help us recognize you. Cookies are small bits of information that are automatically stored on the web browser of your device that can be retrieved by us. The type of information we collect includes uniquely identifying visitor information and information related to your usage preferences.. This information will help us improve our website and provide you with more useful and relevant features. If you do not consent to the placing of Cookies on your device, please do not use our services.
+In addition, we make use of the accepted practice of placing **Cookies** on your device to help us recognize you. Cookies are small bits of information that are automatically stored on the web browser of your device that can be retrieved by us. The type of information we collect includes uniquely identifying  visitor information and information related to your usage preferences. This information will help us improve Gemini and provide you with more useful and relevant features. If you do not consent to the placing of Cookies on your device, please do not use Gemini.
 
 ##### **II. How We Use Information We Collect**
 
-The information collected and the practices described above are done in an effort to provide you with the best experience possible, protect you from risks related to improper use and fraud, and help us maintain and improve Gemini while you have a business relationship with us.
+The information collected and the practices described above are done in an effort to provide you with the best experience possible, protect you from risks related to improper use and fraud, and help us maintain and improve Gemini. 
 
-We may share information with trusted and contracted service providers (including those that may be located outside of the US or your country) that help us operate our platform, systems and detect fraud and security threats throughout the normal course of our business. In addition, we may be compelled to share information with law enforcement, government officials and regulators.
+We may share information with trusted and contracted service providers (including those that may be located outside of the US or your country) who help us operate our platform and systems, and detect fraud and security threats throughout the normal course of our business Such service providers are subject to strict confidentiality obligations. In addition, we may be compelled to share information with law enforcement, government officials and regulators.
 
 For example, we may use your information to:
 
-  1. provide you with our service, including customer support for our service;
-  2. optimize and enhance our service, for all users or for you specifically;
+  1. provide you with Gemini, including customer support for Gemini;
+  2. optimize and enhance Gemini, for all Users or for you specifically;
   3. conduct anti-fraud and identity verification checks (you authorize us to share your information with our third-party providers who may also conduct their own searches of publicly available information about you);
-  4. monitor the usage of our service, and conduct automated and manual security checks of our service; and
-  5. create aggregated and anonymized reporting data about our service.
+  4. monitor the usage of Gemini, and conduct automated and manual security checks of our service; and
+  5. create aggregated and anonymized reporting data about Gemini.
 
 
 
@@ -86,21 +84,21 @@ If we propose to sell or buy any business or assets, we may disclose your inform
 
 We do not sell customer information to third parties for the purposes of marketing.
 
-Be aware that bitcoin, ether and other digital assets are not necessarily truly anonymous. Generally, anyone can see the balance and transaction history of any public digital asset address. We, and any others who can match your public digital asset address to other information about you, may be able to identify you from a block chain transaction. This is because, in some circumstances, information published in a block chain (such as your digital asset and IP address) can be correlated with information that we and others may have. This may be the case even if we, or they, were not involved in the transaction. Furthermore, by using data analysis techniques on a given block chain, it may be possible to identify other information about you. As part of our security, anti-fraud and/or identity verification checks, we may conduct such analysis to collect and process such information about you. You agree to allow us to perform such procedures.
+Be aware that bitcoin, ether and other Digital Assets are not necessarily truly anonymous.  Generally, anyone can see the balance and transaction history of any public Digital Asset address. We, and any others who can match your public Digital Asset address to other information about you, may be able to identify you from a block chain transaction. This is because, in some circumstances, information published on a block chain (such as your Digital Asset and IP address) can be correlated with information that we and others may have. This may be the case even if we, or they, were not involved in the block chain transaction. Furthermore, by using data analysis techniques on a given block chain, it may be possible to identify other information about you. As part of our security, anti-fraud and/or identity verification checks, we may conduct such analysis to collect and process such information about you. You agree to allow us to perform such procedures.
 
 ##### **III. Information Security**
 
-We take your privacy very seriously and work hard to protect Gemini and you from unauthorized access to or unauthorized alteration, disclosure or destruction of information we collect and store. In particular we encrypt our online platform with SSL; we require two-factor authentication for all sessions; we review information collection, storage and processing practices; and we restrict access to your information on a need to know basis to Gemini employees, contractors and agents who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+We take your privacy very seriously and work hard to protect Gemini and you from unauthorized access to or unauthorized alteration, disclosure, or destruction of information we collect and store. In particular we encrypt the Gemini website with SSL; we require two-factor authentication for all sessions; we review information collection, storage and processing practices; and we restrict access to your information on a need-to-know basis to our employees, contractors and agents who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
 ##### **IV. Accuracy and Retention of Information**
 
-We will take reasonable and practicable steps to ensure that your information held by us (i) is accurate with regard to the purposes for which it is to be used, and (ii) is not kept longer than is necessary for the fulfillment of the purpose for which it is to be used, which is when your business relationship with us ends, unless the further retention of your information is otherwise permitted or required by the applicable laws and regulations.
+We take reasonable and practicable steps to ensure that your information held by us (i) is accurate with regard to the purposes for which it is to be used, and (ii) is not kept longer than is necessary for the fulfillment of the purpose for which it is to be used, which is when your business relationship with us ends, unless the further retention of your information is otherwise permitted or required by applicable laws and regulations.
 
 ##### **V. Access to and Correction of Information**
 
-You have the right to ascertain whether we hold your accurate and current information, to obtain a copy of your personal data that you submitted as permitted by law, and to correct any of your data that is inaccurate. You may also request that we inform you of the type of information we hold with regard to you. All data access requests shall be sent to [datarequest@gemini.com](mailto:datarequest@gemini.com).
+You have the right to ascertain whether we hold your accurate and current information, to obtain a copy of your personal data that you submitted as permitted by law, and to correct any of your data that is inaccurate. You may also request that we inform you of the type of information we hold with regard to you. All data access requests should be sent to [datarequest@gemini.com](mailto:datarequest@gemini.com).
 
-When handling a data access or correction request, we will check the identity of the requesting party to ensure that he or she is the person legally entitled to make such request. A reasonable fee may be charged to cover our administrative costs incurred for complying with your data access request.
+When handling a data access or correction request, we check the identity of the requesting party to ensure that he or she is the person legally entitled to make such request. A reasonable fee may be charged to cover our administrative costs incurred for complying with your data access request.
 
 ##### **VI. Direct Marketing**
 
@@ -116,13 +114,15 @@ This Privacy Policy only covers Gemini. Websites linked to and/or from this webs
 
 ##### **VIII. Submissions**
 
-We cannot agree to obligations of confidentiality or non-disclosure with regard to information you submit to one of our email addresses. By submitting information or materials (other than personal data we collect to open accounts or carry out transactions) to Gemini, its principals, employees, attorneys and/or agents, you or anyone acting on your behalf, agree that any such information or materials will not be considered confidential or proprietary.
+We cannot agree to obligations of confidentiality or non-disclosure with regard to information you submit to one of our email addresses. By submitting information or materials (other than personal data we collect to open accounts or carry out transactions) to us, our principals, employees, attorneys and/or agents, you or anyone acting on your behalf, agree that any such information or materials will not be considered confidential or proprietary.
 
 ##### **IX. Changes**
 
-We reserve the right to change this Privacy Policy from time to time to meet our changing needs, but don’t worry, you can always find the latest version (as well as archived older versions) here. We also send an annual notice of this Privacy Policy to all registered users. In addition, for any material changes to this Privacy Policy that are required by applicable laws and regulations, we will notify you by using the contact details you have provided and give you the opportunity to discontinue using our services. Your use of Gemini after any changes have been posted will constitute your agreement to our modified Privacy Policy.
+We reserve the right to change this Privacy Policy from time to time to meet our changing needs, but don’t worry, you can always find the latest version (as well as archived older versions) here. We also send an annual notice of this Privacy Policy to all registered Users. In addition, for any material changes to this Privacy Policy that are required by applicable laws and regulations, we will notify you by using the contact details you have provided and give you the opportunity to discontinue using Gemini. Your use of Gemini after any changes have been posted will constitute your agreement to our modified Privacy Policy.
 
 ##### Privacy Policy Archive
 
 [August 10, 2015](https://web.archive.org/2015-08-10-gemini-privacy-policy/)  
-[June 21, 2016](https://web.archive.org/2016-06-21-gemini-privacy-policy/)
+[June 21, 2016](https://web.archive.org/2016-06-21-gemini-privacy-policy/)  
+[December 1, 2016](https://web.archive.org/2016-12-01-gemini-privacy-policy/)  
+[March 29, 2017](https://web.archive.org/2017-03-29-gemini-privacy-policy)
