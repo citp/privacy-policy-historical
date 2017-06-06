@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igrice-games.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119115047id_/http%3A//www.igrice-games.com/2014/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igrice-games.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093911id_/http%3A//www.igrice-games.com/2014/08/privacy-policy.html) for the most accurate reproduction.*
 
-# IGRICE ♥ Besplatne Igrice za Decu >> Igrice-Games: Privacy Policy
+# IGRICE ♥ Besplatne igrice i igre za decu >> IGRICE - GAMES: Privacy Policy
 
 You require any more information or have any questions about our privacy policy, please feel free to contact us: **[Contact](mailto:admin@igrice-games.com)**
 
