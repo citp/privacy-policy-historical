@@ -1,17 +1,11 @@
-> *The following text is extracted and transformed from the techeblog.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204034234id_/http%3A//www.techeblog.com/index.php/static/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techeblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111036id_/http%3A//www.techeblog.com/index.php/static/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - TechEBlog
 
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
 
-## Cookies
-
-Some of our business partners use cookies on our site for example, advertisers. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+ We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/).
 
 ## Other
 
 This site contains links to other sites. TechEBlog.com is not responsible for the privacy practices or the content of such Web sites. We do not collect any other personal or identifiable information through any means on our website.
-
-## Additional Information
-
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit http://valueclickmedia.com/member_privacy.shtml
