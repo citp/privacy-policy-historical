@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventsair.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016205830id_/http%3A//eventsair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventsair.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145439id_/http%3A//eventsair.com/privacy-policy) for the most accurate reproduction.*
 
 # Centium Software Privacy Policy
 
