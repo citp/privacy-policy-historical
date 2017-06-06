@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the moneyinc.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207124053id_/http%3A//moneyinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyinc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101725id_/http%3A//moneyinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Money Inc
 
 Privacy Policy
 
-Last updated June 1, 2011.
+Last updated 4/26/2017
 
-Moneyinc.com is an interactive online service operated by Blogstand Media, LLC (“ **Blogstand** “, “ **us** “, “ **we** “, or “ **our** “). This “ **Privacy Policy** ” applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, “ **Computer** “)) and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, “ **Website** “). Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).
+Moneyinc.com is an interactive online service operated by Uncoached Corp. This “ **Privacy Policy** ” applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, “ **Computer** “)) and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, “ **Website** “). Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).
 
 We have adopted this Privacy Policy to explain what information may be collected on our Website, how we use this information and under what circumstances we may disclose the information to third parties. This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
-We generally keep this Privacy Policy posted on our Website and you should review it frequently, as we reserve the right to change it from time to time without prior notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. Blogstand will not use your personally identifiable information, however, in a manner materially different than what was stated at the time it was collected without your consent. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
+We generally keep this Privacy Policy posted on our Website and you should review it frequently, as we reserve the right to change it from time to time without prior notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. Uncoached will not use your personally identifiable information, however, in a manner materially different than what was stated at the time it was collected without your consent. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
 
 **A. INFORMATION WE COLLECT**
 
