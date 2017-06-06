@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121111446id_/http%3A//www.lasership.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033639id_/http%3A//lasership.com/privacy) for the most accurate reproduction.*
 
 # LaserShip, Last Mile Solutions! - Privacy
 
@@ -42,7 +42,7 @@ LaserShip may set and access LaserShip cookies on your computer.
 
 ### Marketing Communications
 
-If you register as a user of a LaserShip Web Account you will be asked if you would like to receive marketing and other informational communications from us. You can choose to opt-out from receiving marketing communications from us at this stage or, at any time, by sending us a message with your request. [Click here](http://www.lasership.com/contact-us/feedback-form) to contact us.
+If you register as a user of a LaserShip Web Account you will be asked if you would like to receive marketing and other informational communications from us. You can choose to opt-out from receiving marketing communications from us at this stage or, at any time, by sending us a message with your request. [Click here](http://lasership.com/contact-us/feedback-form) to contact us.
 
 We reserve the right to send you certain communications relating to the LaserShip services, such as service announcements, promotional offers, administrative messages and the LaserShip Newsletter, that are considered part of your LaserShip account, without offering you the opportunity to opt-out of receiving them.
 
@@ -60,4 +60,4 @@ In certain areas LaserShip may use industry-standard SSL-encryption to protect d
 
 LaserShip may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your LaserShip account or by placing a prominent notice on our site.
 
-If you have any questions or concerns about this Policy, please [click here](http://www.lasership.com/contact-us/feedback-form) to send us a message.[This email address is being protected from spambots. You need JavaScript enabled to view it.">](mailto:%3Cspan%20id=)
+If you have any questions or concerns about this Policy, please [click here](http://lasership.com/contact-us/feedback-form) to send us a message.[This email address is being protected from spambots. You need JavaScript enabled to view it.">](mailto:%3Cspan%20id=)
