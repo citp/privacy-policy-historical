@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faballey.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703150319id_/http%3A//www.faballey.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faballey.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114737id_/http%3A//faballey.com/privacy) for the most accurate reproduction.*
 
-# FabAlley | Privacy
+# Privacy
 
 ## Privacy Policy
 
@@ -66,4 +66,20 @@ Identity theft and the practice currently known as "phishing" are of great conce
 
 _Contact Us_
 
-If You have any questions about this Privacy Policy, the practices of Company or your dealings with the Website, You can contact us via the links at the bottom of the page.
+If You have any questions about this Privacy Policy, the practices of Company or your dealings with the Website, You can contact us at-
+
+High Street Essentials Pvt. Ltd.
+
+G-4, Sector 6
+
+Noida
+
+Uttar Pradesh - 201301
+
+Phone : +91-120-4999470
+
+Email : [customercare@faballey.com](mailto:customercare@faballey.com)
+
+Time: Monday to Saturday - 9AM - 7PM
+
+           Sunday - 10AM - 6PM
