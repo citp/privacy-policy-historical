@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allsaints.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017194955id_/http%3A//www.allsaints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsaints.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213449id_/https%3A//www.allsaints.com/privacy_policy) for the most accurate reproduction.*
 
 # Customer Information | Privacy Policy | AllSaints
 
@@ -6,11 +6,11 @@
 
 ###  Privacy 
 
-All Saints Retail Limited are committed to protecting and respecting your privacy. This policy (together with our [_Terms and Conditions of Website Use_](http://www.allsaints.com/terms_and_conditions#use), our [_Cookie Policy_](http://www.allsaints.com/cookie-policy) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+All Saints Retail Limited are committed to protecting and respecting your privacy. This policy (together with our [_Terms and Conditions of Website Use_](https://www.allsaints.com/terms_and_conditions#use), our [_Cookie Policy_](https://www.allsaints.com/cookie-policy) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 This Privacy Policy applies to all stores, websites and mobile applications ("App") owned or operated by All Saints Retail Limited ("AllSaints"). AllSaints websites are located at www.allsaints.com, www.us.allsaints.com, www.fr.allsaints.com, and www.de.allsaints.com (the "Sites"). The Sites and the App shall be collectively referred to as the "Services." In this document, "we", "our" and "us" refer to AllSaints, and "you", "your" "user," mean users of the Services.
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. The Privacy Policy, as well as the [_Cookie Policy_](http://www.allsaints.com/cookie-policy) is incorporated into and made a part of our [_Terms and Conditions of Supply_](http://www.allsaints.com/terms_and_conditions). As part of the Terms and Conditions of Supply, the Privacy Policy constitutes a legally binding agreement between you and us. By accessing or using our Services, you agree that you (or your parent or legal guardian) have read, understand, and are bound by the terms and conditions set forth herein. **If you (or your parent or legal guardian) do not agree with any part of this privacy policy or our terms and conditions, please do not use or access the services**.
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. The Privacy Policy, as well as the [_Cookie Policy_](https://www.allsaints.com/cookie-policy) is incorporated into and made a part of our [_Terms and Conditions of Supply_](https://www.allsaints.com/terms_and_conditions). As part of the Terms and Conditions of Supply, the Privacy Policy constitutes a legally binding agreement between you and us. By accessing or using our Services, you agree that you (or your parent or legal guardian) have read, understand, and are bound by the terms and conditions set forth herein. **If you (or your parent or legal guardian) do not agree with any part of this privacy policy or our terms and conditions, please do not use or access the services**.
 
 For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is All Saints Retail Limited of Units C15-C17 Jacks Place, 6 Corbet Place, London, E1 6NN. 
 
@@ -56,7 +56,7 @@ c) **Information we receive from other sources.** We may combine this informatio
 
 Our Services use cookies, "beacons" and other web technologies (collectively, "Web Technologies"). When you visit or interact with our Services we may use Web Technologies to collect information about your usage and device including, without limitation, location based data, device identifier numbers, browsing history, domain name, Internet Protocol (IP) address, browser type, date and time of each visit, the pages you visit, and other information. We may use this information to improve and personalise your experience while using our Services, or while visiting our stores, based on areas we believe may be of interest to you. For example, when you are using our App, we may use location information and unique device identifiers so that we may offer you tailored information about our products while you are physically present in our stores. Information collected from you, including via Web Technologies, may also be used to facilitate, support and improve the technical performance and functioning of the Services.
 
-If you use our Services, you are consenting to the use of Web Technologies (including cookies) in accordance with our Cookie Policy. For more information about the types of cookies our Services use, please [_click here_](http://www.allsaints.com/cookie-policy) for our Cookie Policy. For more information about cookies generally, for example, how to control and delete cookies, please visit [_www.allaboutcookies.org._](http://www.allaboutcookies.com/)
+If you use our Services, you are consenting to the use of Web Technologies (including cookies) in accordance with our Cookie Policy. For more information about the types of cookies our Services use, please [_click here_](https://www.allsaints.com/cookie-policy) for our Cookie Policy.
 
 In addition, we may offer you additional choices with respect to the use of these Web Technologies. Some of our Web Technologies will only be employed on your device on an opt-in basis, i.e. where you actively choose to receive them. For example, when using the App in a store where the service has been rolled out, you will be prompted to confirm whether you agree to your location data being used so we can make you aware of any special in-store items or promotions. You can withdraw consent at any time by turning off the location services sharing settings for the App on your Device, or by deleting the App.
 
@@ -79,7 +79,7 @@ We may disclose your personal information to third parties:
 
 * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 * If we plan to merge with or be acquired by that third party or in connection with a partial or total sale of assets, bankruptcy, or another corporate change.
-* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, subpoena or court order or in order to enforce or apply our [_Terms and Conditions of Website Use_](http://www.allsaints.com/terms_and_conditions#use) or our [_Terms and Conditions of Supply_](http://www.allsaints.com/terms_and_conditions) and other agreements. 
+* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, subpoena or court order or in order to enforce or apply our [_Terms and Conditions of Website Use_](https://www.allsaints.com/terms_and_conditions#use) or our [_Terms and Conditions of Supply_](https://www.allsaints.com/terms_and_conditions) and other agreements. 
 * If we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss to us; prevent or report suspected illegal activity; protect anyone's rights, property, or safety. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 * If you otherwise consent or direct us to share your information with third parties.
 
@@ -89,7 +89,7 @@ If you wish to opt out of receiving marketing emails from AllSaints, you can do 
 
 Please note that if you decide to opt out it may take a few days to process your opt-out request and that you may continue to receive promotional or marketing materials during this time. Also, please note that opting out of receiving will not preclude us from sending you other types of non-promotional messages, such as emails confirming transactions. 
 
-We also provide you with the option to correct and update your account information when you are logged into your account. If you wish to permanently delete your online account please email our Customer Experience Team at ask@allsaints.com. 
+We also provide you with the option to correct and update your account information when you are logged into your account. 
 
 ###  WHERE WE STORE YOUR PERSONAL DATA 
 
