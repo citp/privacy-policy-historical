@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awesomestuff365.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226145626id_/http%3A//awesomestuff365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomestuff365.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235233id_/https%3A//awesomestuff365.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Awesome Stuff 365 | Cool Gift Ideas | Awesome Things To Buy
+# Privacy Policy - Awesome Stuff 365
 
 ## PRIVACY POLICY
 
