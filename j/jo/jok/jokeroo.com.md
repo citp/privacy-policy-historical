@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203183634id_/http%3A//www.jokeroo.com/privacyc-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085548id_/http%3A//www.jokeroo.com/privacyc-policy) for the most accurate reproduction.*
 
-# Funny Videos & Pictures told with Stories - Jokeroo
+# Privacyc Policy
 
   * [Terms & Conditions](http://www.jokeroo.com/terms/)
   * [Privacy Policy](http://www.jokeroo.com/privacyc-policy/)
