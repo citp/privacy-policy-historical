@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809233217id_/http%3A//www.lntinfotech.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213700id_/https%3A//www.lntinfotech.com/privacy-policy%25e2%2580%258b%25e2%2580%258b%25e2%2580%258b%25e2%2580%258b%25e2%2580%258b%25e2%2580%258b%25e2%2580%258b%25e2%2580%258b) for the most accurate reproduction.*
 
-# L&T Infotech | Global IT Services and Solutions Provider | Privacy Policy
+# Privacy Policy​​​​​​​​ | LTI
 
-##  Privacy Policy
+In general, you can visit LTI’s World Wide Web without telling us who you are and without revealing any information about yourself. There are times, however, when we may need information from you such as your name and address. When information is needed, we will try (but are not obligated) to let you know at the time of collection, how we will use the personal information. Usually, the personal information we collect is used only by us to respond to your inquiry, process an order or allow you to access specific account information.
 
-In general, you can visit L&T Infotech's World Wide Web without telling us who you are and without revealing any information about yourself. There are times, however, when we may need information from you such as your name and address. When information is needed, we will try (but are not obligated) to let you know at the time of collection, how we will use the personal information. Usually, the personal information we collect is used only by us to respond to your inquiry, process an order or allow you to access specific account information. 
+LTI does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
-L&T Infotech does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+1\. We provide the information to trusted partners who work on behalf of or with LTI under extremely strict confidentiality agreements. These companies may use your personal information to help LTI communicate with you about offers from LTI and our marketing partners. However, these companies do not have any independent right to share this information.
 
-1\. We provide the information to trusted partners who work on behalf of or with L&T Infotech under extremely strict confidentiality agreements. These companies may use your personal information to help L&T Infotech communicate with you about offers from L&T Infotech and our marketing partners. However, these companies do not have any independent right to share this information.
+2\. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
 
-2\. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
+3\. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.
 
-3\. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law. 
-
-4\. We transfer information about you if L&T Infotech is acquired by or merged with another company. 
+4\. We transfer information about you if LTI is acquired by or merged with another company.
 
 **Cookies, and other technologies**  
-We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on L&T Infotech web sites, but we do so in ways that keep the information anonymous. L&T Infotech or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We maintain the highest levels of confidentiality for this information, our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the download or request page.
+We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on LTI web sites, but we do so in ways that keep the information anonymous. LTI or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We maintain the highest levels of confidentiality for this information, our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the download or request page.
 
 **Mailers**  
-L&T Infotech may choose to send direct mailers to you at the address given by you. We respect your privacy and in the event that you choose to not receive such mailers, kindly let us know in writing or by an e-mail, we will take all steps to remove you from the list.
+LTI may choose to send direct mailers to you at the address given by you. We respect your privacy and in the event that you choose to not receive such mailers, kindly let us know in writing or by an e-mail, we will take all steps to remove you from the list.
