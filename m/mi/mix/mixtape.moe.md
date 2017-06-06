@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixtape.moe privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615203729id_/https%3A//mixtape.moe/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtape.moe privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212415id_/https%3A//mixtape.moe/privacy) for the most accurate reproduction.*
 
 # Privacy · Mixtape
 
