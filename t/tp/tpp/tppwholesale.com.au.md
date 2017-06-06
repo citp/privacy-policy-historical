@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tppwholesale.com.au privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303064226id_/https%3A//www.tppwholesale.com.au/legals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tppwholesale.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214056id_/https%3A//www.tppwholesale.com.au/legals/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TPP Wholesale - Australia's Largest Wholesale Provider | TPP Wholesale
 
