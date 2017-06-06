@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115143652id_/https%3A//www.officesupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215037id_/https%3A//www.officesupply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,6 +48,6 @@ If at any point you do not feel comfortable ordering on the web or simply need m
 
 ## Email Privacy
 
-We will not sell, trade, or in any way allow any other company to receive your email address. Your email address is simply a way for us to provide a better shopping experience to the customers we do business with. When you provide a valid email address to us at the time of the sale or when signing up for our optional mailing list it allows us to keep you updated on your order status, problems with your order, or contacting you for more information as it relates to your order. When you checkout you may also signup for our optional mailing list. We occasionally will send promotional newsletters to customers that opt in to receive our specials. You may opt out at any time you wish simply by logging into your account and changing your preferences.
+We will not sell, trade, or in any way allow any other company to receive your email address. Your email address is simply a way for us to provide a better shopping experience to the customers we do business with. When you provide a valid email address to us at the time of the sale or when signing up for our optional mailing list it allows us to keep you updated on your order status, problems with your order, or contacting you for more information as it relates to your order. When you checkout you may also signup for our optional mailing list. We occasionally will send promotional newsletters to customers that opt in to receive our specials. By providing your email, you consent to receive communication from from OfficeSupply.com and other properties owned by the parent company; Discount Office Items Inc. You may opt out at any time you wish simply by logging into your account and changing your preferences.
 
 Please be sure to add sales@officesupply.com to your email address book so you may continue receiving emails from OfficeSupply.com.
