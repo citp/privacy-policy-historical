@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102140426id_/http%3A//mobilestorm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153758id_/http%3A//mobilestorm.com/privacy) for the most accurate reproduction.*
 
 # mobileStorm Privacy Policy | mobileStorm
 
 ## Effective Date: November 26th 2007[](http://www.truste.org/ivalidate.php?url=www.mobilestorm.com&sealid=101)
 
-mobileStorm, Inc. makes the same firm commitment to privacy for our Web site visitors as for our customers using our web-hosted service. We created this Online Privacy Policy (“ **mobileStorm Privacy Policy** ”) to give you confidence as you visit and use the mobileStorm Web site, located at [www.mobilestorm.com](http://mobilestorm.wpengine.com/) (the “Web site”) and to demonstrate our commitment to the protection of your privacy. This **mobilestorm Privacy Policy** is only applicable to the Web site, and not to any other Web sites that you may be able to access from the Web site, each of which may have data collection and use practices and policies that differ materially from this Privacy Policy. By using the mobileStorm Web site, you are agreeing to the terms of the Privacy Policy.
+mobileStorm, Inc. makes the same firm commitment to privacy for our Web site visitors as for our customers using our web-hosted service. We created this Online Privacy Policy (“ **mobileStorm Privacy Policy** ”) to give you confidence as you visit and use the mobileStorm Web site, located at [www.mobilestorm.com](http://mobilestorm.com/) (the “Web site”) and to demonstrate our commitment to the protection of your privacy. This **mobilestorm Privacy Policy** is only applicable to the Web site, and not to any other Web sites that you may be able to access from the Web site, each of which may have data collection and use practices and policies that differ materially from this Privacy Policy. By using the mobileStorm Web site, you are agreeing to the terms of the Privacy Policy.
 
 ## **Notification of Privacy Policy Changes**
 
