@@ -1,14 +1,24 @@
-<!--The following is the downloaded HTML source of the honesttopaws.com privacy policy that was archived on 2016-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161230044430id_/http%3A//honesttopaws.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the honesttopaws.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606040748id_/http%3A//honesttopaws.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
-		<meta charset="UTF-8">
-	<title>Privacy Policy - Honest To Paws</title>
-	    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PKJJKZ"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script>
+    
+    <meta charset="UTF-8">
+    <title>Privacy Policy - Honest To Paws</title>
+        <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PKJJKZ"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script>
         var fb_app_id = '931724733544037';
     </script>
-
-<meta id="bt_version" bt_server="web14" bt_version="1.85.1.1" bt_date="2016-12-30 04:44:30" pas="" cache="file" db_server="Prod Master">
+	        <script type="text/javascript">
+            var adblock = true;
+        </script>
+        <script type="text/javascript" src="http://honesttopaws.com/wp-content/themes/boredom/modules/front/js/btAdBlockDetector/adframe.js"></script>
+        <script type="text/javascript">
+            if (adblock) {
+                console.log("adBlocker is active");
+                            }
+        </script>
+                
+<meta id="bt_version" bt_server="web12" bt_version="1.108.2" bt_date="2017-06-06 04:07:48" pas="" cache="file" db_server="Prod Slave">
 <!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://honesttopaws.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
@@ -17,7 +27,7 @@
 <meta property="og:description" content="Your privacy is very important to us at Honest To Paws, and so we have a few fundamental principles...">
 <meta property="og:url" content="http://honesttopaws.com/privacy-policy/">
 <meta property="og:site_name" content="Honest To Paws">
-<meta property="article:author" content="https://www.facebook.com/HonestToPaws">
+<meta property="article:author" content="https://www.facebook.com/HonestToPaws/">
 <meta property="fb:app_id" content="931724733544037">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="Your privacy is very important to us at Honest To Paws, and so we have a few fundamental principles...">
@@ -28,25 +38,69 @@
 
 <meta property="fb:pages" content="1623046654631530">
 
-<script id="bt-js-obj">
+<script data-cfasync="false" id="bt-js-obj">
+
+
+function matchDeviceType(deviceType) {
+ var s = (window.innerWidth > screen.width ? screen.width : window.innerWidth);
+ var isMobile = (s < 768);
+ var isTablet = (s >= 768) && (s < 1024);
+ var isDesktop = (s >= 1024);
+ var isDesktopX = (s >= 1280); 
+ switch(deviceType) {
+	case 'mobile': return isMobile;
+	case 'tablet': return isTablet;
+	case 'desktop': return isDesktop;
+	case 'desktopx': return isDesktopX;
+	default: return (isMobile || isTablet);
+ }
+}
+
+function getDeviceNameOrLetter(n) {
+ if (bt.isMobile) return n ? 'mobile' : 'M';
+ if (bt.isTablet) return n ? 'tablet' : 'T';
+ if (bt.isDesktopX) return n ? 'desktopx' : 'DX';
+ if (bt.isDesktop) return n ? 'desktop': 'D';
+}
+
+function hideOrShowAd(adId,divId) {
+ if (bt['pa' + adId]) { googletag.cmd.push(function(){ googletag.display(divId); }); return; }
+ //else hide
+ var el = document.getElementById(divId);
+ if (el) {
+  el.style.display = 'none';
+ }
+ var relEls = document.getElementsByClassName('btparel' + adId);
+ Array.prototype.forEach.call(relEls, function(relEl, index) {
+  relEl.style.display = 'none';
+ });
+}
 
 window.bt = window.bt || {};
 
 bt.siteId = 4;
 bt.postId = 74;
-
 // Redirect to multiple urls
 bt.multipleUrlsOrg = "privacy-policy";
 bt.postUrl = "privacy-policy";
+bt.galleryExtraContent = "";
+bt.isHtpDesign = true;
+bt.isHcDesign = false;
+bt.isAggr = false;
 
+bt.isMobileAny = matchDeviceType('mobileAny');
+bt.isMobile = matchDeviceType('mobile');
+bt.isDesktop = matchDeviceType('desktop');
+bt.isDesktopX = matchDeviceType('desktopx');
+bt.isTablet = matchDeviceType('tablet');
+bt.deviceLetter = getDeviceNameOrLetter(false);
+bt.deviceFullName = getDeviceNameOrLetter(true);
 bt.ajaxurl = "http://honesttopaws.com/wp-admin/admin-ajax.php";
 bt.isFirstGalPage = false;
 bt.prevPost = -1;
-bt.isAggr = false;
 bt.isSingle = false;
 bt.siteName = 'honesttopaws';
 bt.siteDispalyName = 'Honest To Paws';
-bt.isHtpDesign = true;
 bt.isHome = false;
 bt.current_grid_wall_story_id = false;
 bt.urlSuffix = '';
@@ -55,6 +109,7 @@ bt.isCat = false;
 
 bt.dfp_id = 95097218;
 bt.no_dfp = false;
+bt.pvar = 'a';
 
 bt.statsServerUrl = 'stat.boredomtherapy.com';
 
@@ -63,41 +118,35 @@ bt.gs.gridWallNextPage = false;
 
 bt.gs.pageSpeedOpti = {
     "cr": {
-        "sidebar_top": "0",
-        "sidebar_bottom": "0"
+        "sidebar_top": "1",
+        "sidebar_bottom": "1"
     }
 };
 
-bt.log = function (massage) {
-    console.log("%c" + massage, "background:blue;color:#fff;padding:2px;");
+bt.log = function (msg) {
+    console.log("%c" + msg, "background:blue;color:#fff;padding:2px;");
 };
 
-bt.sites = [
-    "boredomtherapy",
-    "guiltyfix",
-    "mflaire",
-    "awkwardlife",
-    "honesttopaws",
-    "moodspike",
-    "eternallysunny",
-    "omg-daily",
-    "headcramp"
+bt.refS = [
+    "626f7265646f6d74686572617079",
+    "6775696c7479666978",
+    "6d656e74616c666c617265",
+    "61776b776172646c696665",
+    "686f6e657374746f70617773",
+    "6d6f6f647370696b65",
+    "657465726e616c6c7973756e6e79",
+    "6f6d672d6461696c79",
+    "686561646372616d70",
+    "746865776f6e64657266656564",
+    "6d6f6e6579766572736564",
+    "7370697269746564626c697373",
+    "637572696f7369747977656c6c"
 ];
 
 //first-page.js
 bt.isFirstPage = function () {//if no path, no as source, no pg or pg is 1
     var pgparam = getUrlParam('pg');
     return getUrlParam('as-source') == false && getUrlPathSection(2) == '' && (pgparam === false) || (pgparam == 1);
-};//is-mobile.js
-
-//isMobile https://github.com/kaimallea/isMobile
-!function(a){var b=/iPhone/i,c=/iPod/i,d=/iPad/i,e=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,f=/Android/i,g=/(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i,h=/(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i,i=/IEMobile/i,j=/(?=.*\bWindows\b)(?=.*\bARM\b)/i,k=/BlackBerry/i,l=/BB10/i,m=/Opera Mini/i,n=/(CriOS|Chrome)(?=.*\bMobile\b)/i,o=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,p=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i"),q=function(a,b){return a.test(b)},r=function(a){var r=a||navigator.userAgent,s=r.split("[FBAN");return"undefined"!=typeof s[1]&&(r=s[0]),s=r.split("Twitter"),"undefined"!=typeof s[1]&&(r=s[0]),this.apple={phone:q(b,r),ipod:q(c,r),tablet:!q(b,r)&&q(d,r),device:q(b,r)||q(c,r)||q(d,r)},this.amazon={phone:q(g,r),tablet:!q(g,r)&&q(h,r),device:q(g,r)||q(h,r)},this.android={phone:q(g,r)||q(e,r),tablet:!q(g,r)&&!q(e,r)&&(q(h,r)||q(f,r)),device:q(g,r)||q(h,r)||q(e,r)||q(f,r)},this.windows={phone:q(i,r),tablet:q(j,r),device:q(i,r)||q(j,r)},this.other={blackberry:q(k,r),blackberry10:q(l,r),opera:q(m,r),firefox:q(o,r),chrome:q(n,r),device:q(k,r)||q(l,r)||q(m,r)||q(o,r)||q(n,r)},this.seven_inch=q(p,r),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet,"undefined"==typeof window?this:void 0},s=function(){var a=new r;return a.Class=r,a};"undefined"!=typeof module&&module.exports&&"undefined"==typeof window?module.exports=r:"undefined"!=typeof module&&module.exports&&"undefined"!=typeof window?module.exports=s():"function"==typeof define&&define.amd?define("isMobile",[],a.isMobile=s()):a.isMobile=s()}(this);
-
-window.bt_is_mobile = function() {
-    if (window.innerWidth > 640)
-        return false;
-    else
-        return true;
 };//js-template-management.js
 bt.replaceStrs = function (template, replaceValues) {
     var $ = jQuery.noConflict(),
@@ -123,12 +172,12 @@ bt.isLanding = function () {
     return !bt.isInboundUrl(document.referrer) || document.referrer == '';
 };
 console.log(document.referrer);//sites.js
-
 bt.isNetworkSiteUrl = function (url) {
     var urlI,
-        comI = url.indexOf(".com");
-    for (var i = 0; i < bt.sites.length; i++) {
-        urlI = url.indexOf(bt.sites[i]);
+        comI = url.indexOf(".com"),
+        refs = get_refs(refs);
+    for (var i = 0; i < refs.length; i++) {
+        urlI = url.indexOf(refs[i]);
         if (urlI > -1 && urlI < comI) {
             return true;
         }
@@ -210,7 +259,29 @@ window.getUrlParByPref = function (prefix){ //get url parameter name value by na
     return _return;
 };
 
-if(!isMobile.phone){
+function getAllUrlParams() {
+    var queryParams = ['pas', 'as', 'as-source', 'shr', 'crf', 'bdk', 'adv_txt', 'adv_img', 'utm_'];
+    var queryString = location.search.slice(1);
+    var queryParamFiltering = function(prev, curr) {
+        var kvp = curr.split('=');
+        var key = kvp[0];
+        var val = decodeURIComponent(kvp[1]);
+        var index = queryParams.indexOf(key);
+        var isNoUtmParamInUrl = (key.indexOf('utm_') === -1);
+        if (kvp.length !== 2 || (index === -1 && isNoUtmParamInUrl)) { return prev; }
+        // else
+        if (key === 'crf' && val.indexOf('src_') === -1) { val = 'src_' + val; }
+        // else
+        if (isNoUtmParamInUrl) { queryParams.splice(index, 1); } // if url has `utm_` prefix
+        // else
+        prev[key] = val;
+        return prev;
+    };
+    if (!queryString.length) { return {}; }
+    return queryString.split('&').reduce(queryParamFiltering, {});
+}
+
+if(!bt.isMobile){
 	Object.keys(bt.gs.pageSpeedOpti).forEach(function(key,val){
 		bt.gs.pageSpeedOpti[key] = false;
 	})
@@ -229,32 +300,34 @@ bt.gs.pageSpeedOpti.check = function(section, feature){
 	return bt.gs.pageSpeedOpti[section][feature];
 };
 
-bt.isMobile = bt_is_mobile();
 bt.getUrlparamValue = getUrlparamValue;
 bt.getUrlParByPref = getUrlParByPref;
+bt.page = '0';
+bt.showBigFacebookBtn = '';
+bt.affiliateDomains = 'amazon,anrdoezrs,performance,clickbank,c1224xv6gode1wb9thgdmehn75,shareasale,pntrac,joyus,shop,games,';
+bt.crNewTab = '';
+bt.estTime = String((0 % 2 == 0) ? 0 : 0 - 1);
+var refs = '';
+function conv( str ) { return String.fromCharCode(parseInt( str, 16 )); }
+function conv_names( ar ) { return ar.map( function(s){ return s.match(/.{1,2}/g).map(conv).join(''); } ); }
+function get_refs( refs ) { if ( typeof refs == 'object' ) { return refs; } return conv_names( bt.refS ); }
+
+
 </script>
 
-	<script id="bts_util2">
-		//check userAgent on what device the ad will show
-		function bt_is_mobile_agent() {
-			if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))
-				return true;
-			else
-				return false;
-		}
-
-		// Get the value of val from current page url
-		function getUrlParam(val) {
-			var result = false,
-				tmp = [];
-			var items = location.search.substr(1).split("&");
-			for (var index = 0; index < items.length; index++) {
-				tmp = items[index].split("=");
-				if (tmp[0].toLowerCase() === val) result = decodeURIComponent(tmp[1]);
-			}
-			return result;
-		}
-	</script>
+    <script id="bts_util2">
+        // Get the value of val from current page url
+        function getUrlParam(val) {
+            var result = false,
+                tmp = [];
+            var items = location.search.substr(1).split("&");
+            for (var index = 0; index < items.length; index++) {
+                tmp = items[index].split("=");
+                if (tmp[0].toLowerCase() === val) result = decodeURIComponent(tmp[1]);
+            }
+            return result;
+        }
+    </script>
 
 		<meta property="article:category" content="Video">
 	
@@ -267,37 +340,16 @@ bt.getUrlParByPref = getUrlParByPref;
 		
 		function getUrlPathSection(sectionIndex) {
 			var arSections = window.location.pathname.split('/');
-			if(typeof(arSections[sectionIndex]) != 'undefined')
-				return arSections[sectionIndex];
-			else
-				return '';
-		}
-
-		function bt_get_device_type() {
-			if (screen.width > 1024)
-				return 'desktop';
-			else if (window.innerWidth > 640)
-				return 'tablet';
-			else
-				return 'mobile';
-		}
-
-		var bt_device_type = bt_get_device_type();	// desktop, tablet, mobile
-
-		function bt_is_desktop() {
-			if (screen.width > 1024)
-				return true;
-			else
-				return false;
+			return (typeof arSections[sectionIndex] !== 'undefined') ? arSections[sectionIndex] : '';
 		}
 
 	</script>
-		<link rel="icon" href="//honesttopaws.com/wp-content/themes/honesttopaws/images/favicon.jpg" type="image/x-icon">
-	<link rel="apple-touch-icon" href="//honesttopaws.com/wp-content/themes/honesttopaws/images/favicon.jpg">
-	<link rel="stylesheet" id="honest-css" href="http://honesttopaws.com/wp-content/themes/boredom/css/htp_design/honesttopaws.css?ver=1.85.1.1" type="text/css" media="all">
+	    <link rel="icon" href="//honesttopaws.com/wp-content/themes/honesttopaws/images/favicon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="//honesttopaws.com/wp-content/themes/honesttopaws/images/favicon.png">
+	<link rel="stylesheet" id="honest-css" href="http://honesttopaws.com/wp-content/themes/honesttopaws/css/honesttopaws.css?ver=1.108.2" type="text/css" media="all">
 <script type="text/javascript" src="http://honesttopaws.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
 <script type="text/javascript" src="http://honesttopaws.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://honesttopaws.com/wp-content/themes/honesttopaws/honest.js?ver=1.85.1.1"></script>
+<script type="text/javascript" src="http://honesttopaws.com/wp-content/themes/boredom/js/honest.js?ver=1.108.2"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=0.7207207207207207">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -305,7 +357,7 @@ bt.getUrlParByPref = getUrlParByPref;
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://honesttopaws.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 4.3.3">
 <link rel="shortlink" href="http://honesttopaws.com/?p=74">
-
+<meta name="visibility_mode" content="non-hidden">
             <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
             <script>
                 (adsbygoogle = window.adsbygoogle || []).push({
@@ -379,202 +431,173 @@ bt.getUrlParByPref = getUrlParByPref;
 		               src="https://www.facebook.com/tr?id=780958225275101&ev=PageView&noscript=1"
 			/></noscript>
 		<!-- End Facebook Pixel Code -->
-		<script type="text/javascript">
-		(function (i, s, o, g, r, a, m) {
-			i['GoogleAnalyticsObject'] = r;
-			i[r] = i[r] || function () {
-					(i[r].q = i[r].q || []).push(arguments)
-				}, i[r].l = 1 * new Date();
-			a = s.createElement(o),
-				m = s.getElementsByTagName(o)[0];
-			a.async = 1;
-			a.src = g;
-			m.parentNode.insertBefore(a, m)
-		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-		ga('create', 'UA-71672288-1', 'auto');
-
-		dimension1 = 'none';
-		dimension2 = '';
-		dimension3 = 'none';
-		dimension4 = '';
-		dimension5 = '';
-		dimension6 = '';
-		dimension7 = '1.85.1.1';
-		dimension8 = '';
-		dimension9 = '0';
-
-		if (dimension1 != '') ga('set', 'dimension1', dimension1);
-		if (dimension2 != '') ga('set', 'dimension2', dimension2);
-		if (dimension3 != '') ga('set', 'dimension3', dimension3);
-		if (dimension4 != '') ga('set', 'dimension4', dimension4);
-		if (dimension5 != '') ga('set', 'dimension5', dimension5);
-		if (dimension6 != '') ga('set', 'dimension6', dimension6);
-		if (dimension7 != '') ga('set', 'dimension7', dimension7);
-		if (dimension8 != '') ga('set', 'dimension8', dimension8);
-		if (dimension9 != '') ga('set', 'dimension9', dimension9);
-
-		// Content recommendation clicks analytics
-		var cookieName = "cr_event=",
-			cookieLen = cookieName.length,
-			indexCookie = document.cookie.indexOf("cr_event="),
-			indexStart = indexCookie + cookieLen,
-			indexEnd = document.cookie.indexOf(";", indexStart),
-			indexEnd = indexEnd == -1 ? document.cookie.length : indexEnd,
-			cookieVal = document.cookie.substr(indexStart, indexEnd - indexStart);
-
-		if (indexCookie > 0) {
-//			alert('dimension10: ' + cookieVal);
-			ga('set', 'dimension10', cookieVal);
-			CR_event_used = true;   // Mark cookie for remove
-		}
-		//		else alert('No cr_event cookie');
-
-		ga('send', 'pageview');
-	</script>
 	
-	<!-- DFP -->
-	<script type="text/javascript" id="bts_dfp">
-		bt_site_id = 4;
 
-		window.googletag = window.googletag || {};
-		googletag.cmd = googletag.cmd || [];
+    <script type="text/javascript">
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        function sendGAData(uval) {
+            var clientId = '';
+            var linkCanon = document.querySelector("link[rel='canonical']");
+            var canonical = linkCanon ? linkCanon.href : '';
+            var myAdblock = String(adblock);
+            var myUval = uval || '';
+            ga('create', 'UA-71672288-1', 'auto');
+            
+            ga(function(tracker) {
+                clientId = tracker.get('clientId');
+            });
+            
+            
+            var getReferrer = function() {
+                return document.referrer.replace(/^https?:\/\/(www.)?/, '').split('/')[0];
+            };
+            var dimensions = [
+                '', '', '', '', '', '',
+                myUval, '1.108.2', getReferrer(), '', '', '',
+                '', '1', bt.deviceFullName, 'non-hidden', '74', myAdblock, 
+                clientId, canonical, '' 
+            ];
+            dimensions.forEach(function(dim, i) {
+                if (dim !== '') { ga('set', 'dimension' + (i + 1), dim); } 
+            });
+            
+            ga('send', 'pageview');
+        }
+    </script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script>
+    
+    <script type="text/javascript">
 
-		(function () {
-			var gads = document.createElement("script");
-			gads.async = true;
-			gads.type = "text/javascript";
-			var useSSL = "https:" == document.location.protocol;
-			gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-			var node = document.getElementsByTagName("script")[0];
-			node.parentNode.insertBefore(gads, node);
-		})();
+ 
 
-		
-		var dfp_prefix = 'htp_';
+</script><script type="text/javascript" id="bts_dfp">
+bt_site_id = 4;
+window.googletag = window.googletag || {};
+googletag.cmd = googletag.cmd || [];
 
-		googletag.cmd.push(function () {
-
-			bt_wiwidth = window.innerWidth;
-
-			bt_device = 'desktop';
-			if (bt_wiwidth > 768) {
-				bt_device = 'desktop';
-			} else if (bt_wiwidth >= 514) {
-				bt_device = 'tablet';
-			} else {
-				bt_device = 'mobile';
-			}
-
-			googletag.pubads().setTargeting(dfp_prefix + 'dvc', bt_device);
-			googletag.pubads().setTargeting("site_name", "HonestToPaws");
-			googletag.pubads().setTargeting(dfp_prefix + "version", "1.85.1");
-			googletag.pubads().setTargeting(dfp_prefix + 'format', 'none');
-
-			googletag.pubads().setTargeting("rubicon", "false");
-			googletag.pubads().setTargeting("Matomy", "false");
-			googletag.pubads().setTargeting("33across", "false");
-			googletag.pubads().setTargeting("openx", "false");
-			googletag.pubads().setTargeting("criteo", "false");
-			googletag.pubads().setTargeting("altitude", "false");
-			googletag.pubads().setTargeting("medianet", "false");
-			googletag.pubads().setTargeting("switch", "false");
-
-						            						
-			
-			
-					bt_categories = [];
-		bt_tags = false;
-		bt_i = bt_categories.length;
-		while (bt_i--) {
-		googletag.pubads().setTargeting( dfp_prefix+'cid', bt_categories[bt_i].term_id.toString() );
-		}
-		bt_i = 0;
-
-		for (bt_i in bt_tags) {
-		googletag.pubads().setTargeting( dfp_prefix+'tid', bt_tags[bt_i].term_id.toString() );
-		}
-		var bt_postid = '74';
-		googletag.pubads().setTargeting(dfp_prefix+'pid', bt_postid.toString());
-	var bt_as = getUrlParam('as');
-	if (bt_as != false) {
-	googletag.pubads().setTargeting(dfp_prefix+'as', bt_as.toString());
-
-	if (bt.isFirstPage()){
-	googletag.pubads().setTargeting(dfp_prefix+'asf', 'f'+bt_as);  // Send DFP parameter
-	//console.log('%cdfp_prefix', "background:#E35200;padding:3px;color:#fff; font-weight:bold;", dfp_prefix+'asf', 'f'+bt_as);
-	}
-	}
-
-	var bt_pas = '';
-	if (bt_pas != '')
-	googletag.pubads().setTargeting(dfp_prefix+'pas', bt_pas);
-
-	// Send as-source
-	var bt_as_source = getUrlParam('as-source');
-	if (bt_as_source !== false) {
-	googletag.pubads().setTargeting(dfp_prefix+'as-source', bt_as_source);
-	// console.debug('DFP: as-source='+bt_as_source);
-	}
-
-
-	// Send as-share
-	var bt_as_share = getUrlParam('as-share');
-	if (bt_as_share !== false)
-	googletag.pubads().setTargeting(dfp_prefix+'as-share', bt_as_share);
-
-				
-
-var bdk_param = bt.getUrlparamValue('bdk');
-if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session and have a bdk param
-	googletag.pubads().setTargeting(dfp_prefix + 'bdkf', 'f' + bdk_param);  // Send DFP parameter
-	console.log('%cbdk dfp_prefix', "background:#E35200;padding:3px;color:#fff; font-weight:bold;", dfp_prefix+'asf', 'f'+bdk_param);
+function setC(o,c,id) {
+  if (!o) {return;}
+  bt['a' + id] = o;
+  o.addService(googletag.pubads());
+  switch(c) {
+    case 1:
+        o.setCollapseEmptyDiv(true,true);
+        break;
+    case 3:
+        o.setCollapseEmptyDiv(false);
+        break;
+    case 2:
+        o.setCollapseEmptyDiv(true);
+        break;
+    default:
+        break;
+  }
 }
-	var selectedGroup = ''; // Global JS value of Group selected by the AB test
-	
-                googletag.defineSlot('/95097218/HTP_Pixel_Tracker', [1, 1], 'div-gpt-ad-1420466308609-0').addService(googletag.pubads());
-                if(!bt.gs.pageSpeedOpti.check("social", "web_sidebar")) {            if(!bt.gs.pageSpeedOpti.check("ads", "web_sidebar")){
-            window.slot1 = googletag.defineSlot('/95097218/HTP_Web_Sidebar', [[300, 600], [300, 250]], 'div-gpt-ad-1409984760385-0').addService(googletag.pubads());
-            }
-            }
-				if (bt_is_mobile()) { // Run only on mobile
-						googletag.defineSlot('/95097218/HTP_InterstitialMobile', [1, 1], 'div-gpt-ad-1439209561524-0').addService(googletag.pubads());
-					}
-				else {  // Run only on none mobile
-									}
 
-					googletag.defineSlot('/95097218/HTP_Web_Leaderboard_AF', [[728, 90], [970, 250]], 'div-gpt-ad-1409984205459-20').addService(googletag.pubads());
+function resetFresh(isF) {
+  bt.fresh = false;
+  bt.pReady = false;
+  bt.aReady = true;
+  bt.isAF = isF;
+}
+resetFresh(false);
+(function () {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+})();
+</script>
 
-				var show_mobile_web_rec_leftbf = true;
-			if( !bt.gs.pageSpeedOpti.check("ads", "web_sidebar") &&
-				(show_mobile_web_rec_leftbf || !bt_is_mobile())
-			){
-                googletag.defineSlot('/95097218/HTP_Web_Rec_LeftBF', [300, 250], 'div-gpt-ad-1442156834110-0').addService(googletag.pubads());
-			}
-		
-	googletag.defineSlot('/95097218/HTP_Web_Rec_BF', [[336, 280], [300, 250]], 'div-gpt-ad-1409984205459-16').addService(googletag.pubads());
+<script type="text/javascript" id="bts_dfp_2">
 
-				googletag.defineSlot('/95097218/HTP_Mobile_MedRec_AF', [[300, 250], [320,100]], 'div-gpt-ad-1409984205459-12').addService(googletag.pubads()).setCollapseEmptyDiv(true);
-		
-		googletag.defineSlot('/95097218/HTP_Web_LPlayer', [640, 480], 'div-gpt-ad-1435676297597-0').addService(googletag.pubads()).setCollapseEmptyDiv(true);
-		
-	
-		googletag.defineSlot('/95097218/HTP_HP_MRec', [[300, 250], [336, 280]], 'div-gpt-ad-1450145951215-3').addService(googletag.pubads());
-				googletag.defineSlot('/95097218/HTP_1x1', [1, 1], 'div-gpt-ad-1450145951215-0').addService(googletag.pubads());
-					googletag.pubads().collapseEmptyDivs();
-			googletag.pubads().enableAsyncRendering();
-			googletag.enableServices();
-		});
-	</script>
-	<!--DFP END-->
-			<style type="text/css">
+var dfp_prefix = 'htp_';
+var origin_prefix = dfp_prefix;
+
+//START GOOGLETAG.PUSH
+googletag.cmd.push(function () {
+googletag.pubads().setTargeting(dfp_prefix + 'dvc', bt.deviceFullName);googletag.pubads().setTargeting("site_name", "HonestToPaws");googletag.pubads().setTargeting(dfp_prefix + 'format', 'none');googletag.pubads().setTargeting("rubicon", "false");googletag.pubads().setTargeting("Matomy", "false");googletag.pubads().setTargeting("33across", "false");googletag.pubads().setTargeting("criteo", "false");googletag.pubads().setTargeting("altitude", "false");googletag.pubads().setTargeting("medianet", "false");googletag.pubads().setTargeting("switch", "false");googletag.pubads().setTargeting(dfp_prefix + 'flaf', "" + bt.deviceLetter);
+bt_categories = [];
+bt_tags = false;
+bt_i = bt_categories.length;
+while (bt_i--) {
+  googletag.pubads().setTargeting( dfp_prefix+'cid', bt_categories[bt_i].term_id.toString() );
+}
+bt_i = 0;
+
+for (bt_i in bt_tags) {
+  googletag.pubads().setTargeting( dfp_prefix+'tid', bt_tags[bt_i].term_id.toString() );
+}
+var bt_postid = '74';
+var bt_as = getUrlParam('as');
+if (bt_as != false) {
+  googletag.pubads().setTargeting(dfp_prefix+'as', bt_as.toString());
+
+  if (bt.isFirstPage()){ googletag.pubads().setTargeting(dfp_prefix+'asf', 'f'+bt_as); }
+}
+var bt_as_source = getUrlParam('as-source');
+if (bt_as_source !== false) { googletag.pubads().setTargeting(origin_prefix+'as-source', bt_as_source); }
+var bt_as_share = getUrlParam('as-share');
+if (bt_as_share !== false) { googletag.pubads().setTargeting(dfp_prefix+'as-share', bt_as_share); }
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+//END GOOGLETAG.PUSH
+sendGAData();
+</script>
+<!--DFP END-->
+				<style type="text/css">
 			.pagefair-acceptable {
 				display: none;
 			}
 		</style>
-		</head>
-<body id="blog" class="page page-id-74 page-template-default main " itemscope="" itemtype="http://schema.org/WebPage"><div class="MBoxAdMain gp-ui" id="sponsoredwellcontainertop" style="position:absolute;display:block;">&nbsp;</div>
-	<!-- Google Tag Manager -->
+		
+<style id="bt-dynamic-css">
+
+@media (max-width:480px) {
+    .big_cont_widget.botscrollhead.hideonloadmore,           
+	.sidebar .sidebar_top .widget-title,
+	.sidebar-posts-widget.cat .category-name span,
+	.sidebar_list .widget-title, 
+	.sidebar-posts-widget.most-bt .category-name,
+	.single-recommendations-widget .widget-title,        
+	.more_bt_widget.botscrollhead.hideonloadmore {
+	    font-size: 17px !important;
+	}
+}
+@media (min-width:481px) and (max-width: 1024px) {
+    .big_cont_widget.botscrollhead.hideonloadmore,           
+	.sidebar .sidebar_top .widget-title,
+	.sidebar-posts-widget.cat .category-name span,
+	.sidebar_list .widget-title, 
+	.sidebar-posts-widget.most-bt .category-name,
+	.single-recommendations-widget .widget-title,        
+	.more_bt_widget.botscrollhead.hideonloadmore {
+	    font-size: 22px !important;
+	}
+}
+@media (min-width: 1025px) {
+    .big_cont_widget.botscrollhead.hideonloadmore,           
+	.sidebar .sidebar_top .widget-title,
+	.sidebar-posts-widget.cat .category-name span,
+	.sidebar_list .widget-title, 
+	.sidebar-posts-widget.most-bt .category-name,
+	.single-recommendations-widget .widget-title,        
+	.more_bt_widget.botscrollhead.hideonloadmore {
+	    font-size: 20px !important;
+	}
+}
+
+</style>
+	
+</head>
+
+<body id="blog" class="page page-id-74 page-template-default main  no-static-skyscraper" itemscope="" itemtype="http://schema.org/WebPage"><div class="MBoxAdMain gp-ui" id="sponsoredwellcontainertop" style="position:absolute;display:block;">&nbsp;</div>
+    	<!-- Google Tag Manager -->
 	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PKJJKZ"
 	                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<script>
@@ -585,15 +608,7 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-PKJJKZ');</script>
 	<!-- End Google Tag Manager -->
-	<!-- Pixel_Tracker -->
-	<div id="div-gpt-ad-1420466308609-0">
-		<script type="text/javascript">
-			googletag.cmd.push(function () {
-				googletag.display('div-gpt-ad-1420466308609-0');
-			});
-		</script>
-	</div>
-	<div style="display: none">
+<div style="display: none">
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
     <defs>
         <g id="svg-icon-envelope">
@@ -657,7 +672,8 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
         <circle stroke="" fill-opacity="0" id="svg_1" r="69" cy="93" cx="93" stroke-width="46" fill="#ff0000"></circle>
         <rect stroke="" transform="rotate(135 178,179.49999999999997) " ry="1" rx="1" id="svg_4" height="87" width="4" y="136" x="176" fill-opacity="0" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="46" fill="#ff0000"></rect>
     </g>
-</svg><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 56 56" height="56" version="1.1" viewBox="0 0 56 56" width="56" xml:space="preserve"><path id="svg-tw" fill="#fff" d="M52.8 15.1c-1.8 0.8-3.8 1.3-5.8 1.6 2.1-1.2 3.7-3.2 4.4-5.6 -2 1.2-4.1 2-6.4 2.5 -1.8-2-4.5-3.2-7.4-3.2 -5.6 0-10.1 4.5-10.1 10.1 0 0.8 0.1 1.6 0.3 2.3 -8.4-0.4-15.8-4.4-20.8-10.6 -0.9 1.5-1.4 3.2-1.4 5.1 0 3.5 1.8 6.6 4.5 8.4 -1.7-0.1-3.2-0.5-4.6-1.3 0 0 0 0.1 0 0.1 0 4.9 3.5 9 8.1 9.9 -0.8 0.2-1.7 0.4-2.7 0.4 -0.7 0-1.3-0.1-1.9-0.2 1.3 4 5 6.9 9.4 7 -3.5 2.7-7.8 4.3-12.6 4.3 -0.8 0-1.6 0-2.4-0.1 4.5 2.9 9.8 4.5 15.5 4.5 18.6 0 28.8-15.4 28.8-28.8 0-0.4 0-0.9 0-1.3C49.8 18.9 51.5 17.1 52.8 15.1z"></path></svg></div><div style="display: none"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="335" height="33">
+</svg><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 56 56" height="56" version="1.1" viewBox="0 0 56 56" width="56" xml:space="preserve"><path id="svg-tw" fill="#fff" d="M52.8 15.1c-1.8 0.8-3.8 1.3-5.8 1.6 2.1-1.2 3.7-3.2 4.4-5.6 -2 1.2-4.1 2-6.4 2.5 -1.8-2-4.5-3.2-7.4-3.2 -5.6 0-10.1 4.5-10.1 10.1 0 0.8 0.1 1.6 0.3 2.3 -8.4-0.4-15.8-4.4-20.8-10.6 -0.9 1.5-1.4 3.2-1.4 5.1 0 3.5 1.8 6.6 4.5 8.4 -1.7-0.1-3.2-0.5-4.6-1.3 0 0 0 0.1 0 0.1 0 4.9 3.5 9 8.1 9.9 -0.8 0.2-1.7 0.4-2.7 0.4 -0.7 0-1.3-0.1-1.9-0.2 1.3 4 5 6.9 9.4 7 -3.5 2.7-7.8 4.3-12.6 4.3 -0.8 0-1.6 0-2.4-0.1 4.5 2.9 9.8 4.5 15.5 4.5 18.6 0 28.8-15.4 28.8-28.8 0-0.4 0-0.9 0-1.3C49.8 18.9 51.5 17.1 52.8 15.1z"></path></svg></div>
+<div id="div-gpt-ad-1420466308609-0" style="display: none;"><!-- Pixel_Tracker --><script type="text/javascript">hideOrShowAd(24,'div-gpt-ad-1420466308609-0');</script></div><div style="display: none"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="335" height="33">
     <defs>
         <g id="svg-honest">
             <g id="first">
@@ -677,17 +693,18 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
         </g>
     </defs>
 </svg>
-</div><div class="header-float">
-	<div class="content-wrap">
-		<div class="icon-menu-wrap">
-			<svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48" width="20px">
-				<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-icon-menu"></use>
-			</svg>
-		</div>
+</div>
+    
+    <div class="header-float">
+        <div class="content-wrap">
+            <div class="icon-menu-wrap">
+                <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48" width="20px">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="" #svg-icon-menu'=""></use>
+                </svg>
+            </div>
 
-		<div class="main-logo-container">
-			<a class="main-logo" href="http://honesttopaws.com">
-				
+            <div class="main-logo-container">
+    <a class="main-logo" href="http://honesttopaws.com">
 <svg viewBox="0 0 335 33" width="335px" class="">
 	<style type="text/css">
 		#logo-head-first {
@@ -710,15 +727,18 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 		<use xlink:href="#blue"></use>
 	</g>
 </svg>
-			</a>
-							<div id="msharelike" class="single-header-social">
-					<a id="mfshare" class="single-header-fb-share" href="javascript:void(0);" onclick="facebookSharePopup(this);" data-share-id="3"><img src="http://honesttopaws.com/wp-content/themes/boredom/images/share_top.png" alt="Facebook" title="Share On Facebook" width="85"></a>
-					<span class="fb-like" data-like-id="4" data-href="https://www.facebook.com/HonestToPaws" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
-				</div>
-					</div>
+</a>
+	
+        <div id="msharelike" class="single-header-social">
+            <a id="mfshare" class="single-header-fb-share" href="javascript:void(0);" '="" onclick="facebookSharePopup(this);" data-share-id="3"><img src="http://honesttopaws.com/wp-content/themes/boredom/images/share_top.png" alt="Facebook" title="Share On Facebook" width="85"></a>
 
-		<ul class="main-menu">
-			
+            <span class="fb-like" data-like-id="4" data-href="" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
+
+</div>
+
+    </div>
+    <ul class="main-menu">
+        
 			<li class=""><a href="http://honesttopaws.com/category/cute/">CUTE</a></li>
 
 			<li class=""><a href="http://honesttopaws.com/category/funny/">FUNNY</a></li>
@@ -726,9 +746,10 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 			<li class=""><a href="http://honesttopaws.com/category/good/">GOOD</a></li>
 
 			<li class=""><a href="http://honesttopaws.com/category/omg/">OMG</a></li>
-			<li class="more"><a href="#">MORE<span class="icon-popup"></span></a>
-				<ul class="submenu">
-					
+
+        <li class="more"><a href="" #'="">MORE<span class="icon-popup"></span></a>
+            <ul class="submenu">
+				
 					<li><a href="http://honesttopaws.com/about/">About</a></li>
 
 					<li><a href="http://honesttopaws.com/privacy-policy/">Privacy Policy</a></li>
@@ -736,37 +757,40 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 					<li><a href="http://honesttopaws.com/dmca-policy/">DMCA</a></li>
 
 					<li><a href="http://honesttopaws.com/advertising/">Advertising</a></li>
-				</ul>
-			</li>
-			<li class="css-icon-exit"></li>
-		</ul>
-		<div class="mobile-menu-overlay"></div>
 
-		<div id="header-right" class="cc">
-			<div id="main-search" class="cc">
-				<form action="http://honesttopaws.com" method="get">
-					<input type="text" name="s" placeholder="SEARCH">
-					<button type="submit"></button>
-					<div class="icon-search-wrap">
-						<svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 235 235" width="20px">
-							<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-icon-search"></use>
-						</svg>
-					</div>
+            </ul>
+        </li>
+        <li class="css-icon-exit"></li>
+    </ul>
+    
+    <div class="mobile-menu-overlay"></div>
 
-				</form>
-			</div>
-		</div>
-	</div>
-</div>
+    <div id="header-right" class="cc">
+        <div id="main-search" class="cc">
+            <form action="http://honesttopaws.com" method="get">
+                <input type="text" name="s" placeholder="SEARCH">
+                <button type="submit"></button>
+                <div class="icon-search-wrap">
+                    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 235 235" width="20px">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-icon-search"></use>
+                    </svg>
+                </div><!--icon-search-wrap-->
+            </form>
+        </div>
+    </div>
+    </div>
+    </div>
 
-<div class="main-container-wrap">
-	
-	<div class="content-wrap cf">
-		<div class="main-content post-single-content"> 			<div class="single-header">
-				<h1 class="single-title">Privacy Policy</h1>
-			</div>
-			<div class="single-content">
-				<span style="font-size: 14px;line-height: 1.5em">Your privacy is very important to us at Honest To Paws, and so we have a few fundamental principles that we follow in order to protect it:</span>
+    <div class="main-container-wrap">
+    
+
+            <div class="content-wrap cf">
+                <div class="main-content post-single-content">
+                    <div class="single-header">
+                        <h1 class="single-title">Privacy Policy</h1>
+                    </div>
+                    <div class="single-content">
+						<span style="font-size: 14px;line-height: 1.5em">Your privacy is very important to us at Honest To Paws, and so we have a few fundamental principles that we follow in order to protect it:</span>
 <ul>
 	<li>We don’t ask you for personal information unless we truly need it.</li>
 	<li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
@@ -804,16 +828,17 @@ We may sometimes include on our website links to other websites that may be of i
 
 <p></p><strong>Childrens Online Privacy Protection Act Compliance:</strong><p></p>
 
-Our website, products and services are all directed to people who are at least 13 years old or older.&nbsp;We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), and do not collect any information from anyone under 13 years of age.			</div>
+Our website, products and services are all directed to people who are at least 13 years old or older.&nbsp;We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), and do not collect any information from anyone under 13 years of age.                    </div>
+                </div>
+				
+    <div id="sidebar" class="sidebar">
+        		<div class="sidebar-fb-like" xmlns="http://www.w3.org/1999/html">
+			<h3>Like us on Facebook!</h3>
+			<div class="icon-arrow-right"></div>
+			<span class="fb-like" data-like-id="3" data-href="https://www.facebook.com/HonestToPaws" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
 		</div>
-		<div id="sidebar" class="sidebar">
-		<div class="sidebar-fb-like" xmlns="http://www.w3.org/1999/html">
-		<h3>Like us on Facebook!</h3>
-		<div class="icon-arrow-right"></div>
-		<span class="fb-like" data-like-id="3" data-href="https://www.facebook.com/HonestToPaws" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
-	</div>
-	<div class="sidebar-div hide-sm" style="margin: 10px 0;"></div>
-	<!--BF-LIKE END-->	<div id="sidebar-newsletter">
+		<div class="sidebar-div hide-sm" style="margin: 10px 0;"></div>
+		<!--BF-LIKE END-->	<div id="sidebar-newsletter">
 		<h3 class="newsletter-title">Get all the best paws delivered daily!</h3>
 		<form action="//boredomtherapy.us3.list-manage.com/subscribe/post?u=4382f4e5fc3e80c6a22c6a208&amp;id=b6f2776b7d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
 			<input type="email" name="EMAIL" placeholder="Sign up for our email!">
@@ -832,21 +857,10 @@ Our website, products and services are all directed to people who are at least 1
 		</form>
 	</div>
 	<div class="sidebar-div hide-sm" style="margin: 5px 0 10px;"></div>
-	<!--NEWSLETTER END--><div class="sidebar-skyscraper">		<!-- BT_Web_Sidebar -->
-		<div id="div-gpt-ad-1409984760385-0">
-			<script type="text/javascript">
-				if (!bt.gs.pageSpeedOpti.check("ads", "web_sidebar")) {
-					googletag.cmd.push(function () {
-						googletag.display('div-gpt-ad-1409984760385-0');
-					});
-				} else {
-					jQuery("#div-gpt-ad-1409984760385-0").parents(".widget").remove();
-				}
-			</script>
-		</div>
-		</div><!--SKYSCRAPER END--><div class="sidebar-div"></div><div class="sidebar-revcontent"></div><!--REVCONTENT END--><div class="sidebar-div"></div>	<div class="sidebar-posts-widget cat  ">
+	<!--NEWSLETTER END--><div class="sidebar-skyscraper"></div><!--SKYSCRAPER END--><div class="sidebar-div"></div><div class="sidebar-revcontent"></div><!--REVCONTENT END--><div class="sidebar-div"></div>
+	<div class="sidebar-posts-widget cat  ">
 		<a class="category-name" onclick="return false;">
-			<span>LATEST PAWS</span>
+			<span>Trending On Honest To Paws</span>
 			
 <svg viewBox="30 -2 38 35" class="label-paw">
 	<style>
@@ -858,34 +872,35 @@ Our website, products and services are all directed to people who are at least 1
 		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#orange"></use>
 	</g>
 </svg>		</a>
-					<div class="post pid-11962">
-				<a attrname="LatestPaws" row="1" href="http://honesttopaws.com/bengal-thor/">
+					<div class="post pid-8072">
+				<a attrname="LatestPaws" row="1" href="http://honesttopaws.com/chicken-on-a-roomba/">
 					<div class="img-ph-wrap">
-						<img width="336" height="175" data-src="http://honesttopaws.com/wp-content/uploads/sites/5/2016/08/bengal-thor-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="bengal-thor-1">					</div>
-					<h1 class="post-title">Meet Thor, The Bengal Cat Everyone Is Mistaking For A Tiger</h1>
+						<img width="336" height="175" data-src="http://honesttopaws.com/wp-content/uploads/sites/5/2017/04/chicken-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="chicken-2">					</div>
+					<h1 class="post-title">Woman Cracks Up When She Finds A Chicken In Her House Making Itself Right At Home</h1>
 				</a>
 			</div>
-						<div class="post pid-11215">
-				<a attrname="LatestPaws" row="2" href="http://honesttopaws.com/dogs-whipped-cream/">
+						<div class="post pid-7933">
+				<a attrname="LatestPaws" row="2" href="http://honesttopaws.com/drowning-raccoon-rescue/">
 					<div class="img-ph-wrap">
-						<img width="336" height="175" data-src="http://honesttopaws.com/wp-content/uploads/sites/5/2016/08/dogs-whipped-cream-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="dogs-whipped-cream-1">					</div>
-					<h1 class="post-title">Every Week, This Volunteer Takes Her Shelter Dogs For ‘Puppuccinos’ To Help Them Get Adopted</h1>
+						<img width="336" height="175" data-src="http://honesttopaws.com/wp-content/uploads/sites/5/2016/10/Rescue-raft-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Rescue raft">					</div>
+					<h1 class="post-title">Clever Boaters Come Up With Brilliant Plan To Rescue A Drowning Baby Raccoon</h1>
 				</a>
 			</div>
 				</div>
-	<!--CR END-->	<div class="sidebar-div"></div>
-	<div class="sidebar-fb">
-		<div class="fb-page" data-href="https://www.facebook.com/HonestToPaws" data-like-id="2" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" width="300px">
+	<!--CR END-->		<div class="sidebar-div"></div>
+		<div class="sidebar-fb">
+			<div class="fb-page" data-href="https://www.facebook.com/HonestToPaws" data-like-id="2" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" width="300px">
 
-			<div class="fb-xfbml-parse-ignore">
-				<blockquote cite="https://www.facebook.com/HonestToPaws"><a href="https://www.facebook.com/HonestToPaws">Honest To Paws</a>
-				</blockquote>
+				<div class="fb-xfbml-parse-ignore">
+					<blockquote cite="https://www.facebook.com/HonestToPaws"><a href="https://www.facebook.com/HonestToPaws">Honest To Paws</a>
+					</blockquote>
+				</div>
 			</div>
 		</div>
-
-	</div>
-	<!--FB PAGE PLUGIN END--><div class="sidebar-div"></div><!--BOTTOM ADS END--><div class="sidebar-div"></div><div class="most-bt-sticky" style="clear: both;"></div>	<div class="sidebar-posts-widget most-bt">
-		<span class="category-name">HOTTEST STORIES
+		<!--FB PAGE PLUGIN END--><div class="sidebar-div"></div><!--BOTTOM ADS END--><div class="sidebar-div"></div><div class="most-bt-sticky" style="clear: both;"></div>
+	<div class="sidebar-posts-widget most-bt">
+		<span class="category-name">
+            More From Honest To Paws            
 <svg viewBox="30 -2 38 35" class="label-paw">
 	<style>
 		#fill-white {
@@ -895,57 +910,44 @@ Our website, products and services are all directed to people who are at least 1
 	<g id="fill-white">
 		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#orange"></use>
 	</g>
-</svg></span>
-					<div class="post pid-25285">
+</svg>        </span>
+					<div class="post pid-45175">
 				<div class="most-bt-position">1</div>
-				<a attrname="HottestStories" row="1" href="http://honesttopaws.com/dog-falls-into-quicksand/">
-					<div class="img relative" style="background-image: url('http://honesttopaws.com/wp-content/uploads/sites/5/2016/12/quicksand1.png')">
+				<a attrname="HottestStories" row="1" href="http://honesttopaws.com/dog-cat-rat-friends/">
+					<div class="img relative" style="background-image: url('http://honesttopaws.com/wp-content/uploads/sites/5/2017/06/BFF-collage.png')">
 											</div>
-					<h1 class="post-title">Man’s Dog Is Swallowed Whole By Quicksand, And He Has No Choice But To Go In After Him</h1>
+					<h1 class="post-title">These Unlikely Best Friends Have Baffled Staff At An Animal Shelter</h1>
 				</a>
 			</div>
 							<div class="sidebar-div"></div>
-									<div class="post pid-25275">
+									<div class="post pid-45054">
 				<div class="most-bt-position">2</div>
-				<a attrname="HottestStories" row="2" href="http://honesttopaws.com/clever-cat-trick/">
-					<div class="img relative" style="background-image: url('http://honesttopaws.com/wp-content/uploads/sites/5/2016/12/indoor-cat2.png')">
-						
-<div class="play-icon-overlay">
-	<svg class="play-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" width="50px" height="50px" viewBox="0 0 250 250">
-		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-play-tri"></use>
-	</svg>
-</div>
-					</div>
-					<h1 class="post-title">Cat Wants To Back Come Inside… And Has A Clever Trick To Let His Owners Know It</h1>
+				<a attrname="HottestStories" row="2" href="http://honesttopaws.com/rarest-jungle-creature/">
+					<div class="img relative" style="background-image: url('http://honesttopaws.com/wp-content/uploads/sites/5/2017/05/fask.png')">
+											</div>
+					<h1 class="post-title">Jungle Creature Who Eluded Scientists For Decades Is Finally Caught On Film</h1>
 				</a>
 			</div>
 							<div class="sidebar-div"></div>
-									<div class="post pid-14331">
+									<div class="post pid-45068">
 				<div class="most-bt-position">3</div>
-				<a attrname="HottestStories" row="3" href="http://honesttopaws.com/deer-tangled-in-net/">
-					<div class="img relative" style="background-image: url('http://honesttopaws.com/wp-content/uploads/sites/5/2016/09/deer11.png')">
-						
-<div class="play-icon-overlay">
-	<svg class="play-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" width="50px" height="50px" viewBox="0 0 250 250">
-		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-play-tri"></use>
-	</svg>
-</div>
-					</div>
-					<h1 class="post-title">Cop Finds An Innovative Way To Free A Frightened Deer From A Volleyball Net</h1>
+				<a attrname="HottestStories" row="3" href="http://honesttopaws.com/trevally-fish-jellyfish/">
+					<div class="img relative" style="background-image: url('http://honesttopaws.com/wp-content/uploads/sites/5/2017/05/Screen-Shot-2017-05-31-at-10.12.29-AM1.png')">
+											</div>
+					<h1 class="post-title">Divers Just Spotted This Weird Fish Who Appears To Be Living Inside A Jellyfish</h1>
 				</a>
 			</div>
 							</div>
-	<!--TOP THREE END--></div>
-	</div><!--#content-wrap-->
-
-
-
-<div class="main-footer">
-	<div class="content-wrap">
-		<div class="footer-wrap">
-			<div class="footer-left">
-				<ul class="footer-links">
-					
+	<!--TOP THREE END-->
+    </div>
+            </div><!--#content-wrap-->
+			
+    <div class="main-footer">
+        <div class="content-wrap">
+            <div class="footer-wrap">
+                <div class="footer-left">
+                    <ul class="footer-links">
+                        
 					<li><a href="http://honesttopaws.com/about/">About</a></li>
 
 					<li><a href="http://honesttopaws.com/privacy-policy/">Privacy Policy</a></li>
@@ -953,15 +955,16 @@ Our website, products and services are all directed to people who are at least 1
 					<li><a href="http://honesttopaws.com/dmca-policy/">DMCA</a></li>
 
 					<li><a href="http://honesttopaws.com/advertising/">Advertising</a></li>
-				</ul>
-			</div>
-			<div class="footer-right">
-				<span>HONEST TO PAWS © 2016</span>
-			</div>
-		</div>
-	</div>
-	<div class="mobile-logo">
-		
+
+                    </ul>
+                </div>
+                <div class="footer-right">
+                    <span>Honest To Paws © 2017</span>
+                </div>
+            </div>
+        </div>
+        <div class="mobile-logo">
+            
 <svg viewBox="0 0 335 33" width="335px" class="">
 	<style type="text/css">
 		#logo-footer-first {
@@ -980,9 +983,10 @@ Our website, products and services are all directed to people who are at least 1
 		<use xlink:href="#blue"></use>
 	</g>
 </svg>
-	</div>
-</div>
 
+        </div>
+    </div>
+    
 
 <script type="text/template-cta" style="display: none;" id="cta-template-modal">
 
@@ -1031,7 +1035,7 @@ Our website, products and services are all directed to people who are at least 1
 
 		<div class="cta-inline"> {{content}} </div>
 </script>
-<script>if(oio==undefined){var oio={u:'//honesttopaws.com/rocfeolite/rocfenvaldite/2015/08/rocefieldlite-dragunow12552a-[r].png',ts:'1483066802.55',at_ru:"http://ruamupr.com/advertising.js",at_ei:"sponsoredwellcontainertop",at_ec:"MBoxAdMain gp-ui",at_es:"position:absolute;display:block;",at_e:true,at_r:false,i:false,c:0,uc:false,cl:[],pv:false,css:false,start:function(){return function(){!function(a,b,c){a[b]=c()}(oio,"v",function(){function a(){return{width:k(),height:l()}}function b(a,b){var c={};return b=+b||0,c.width=(c.right=a.right+b)-(c.left=a.left-b),c.height=(c.bottom=a.bottom+b)-(c.top=a.top-b),c}function c(a,c){return a=a&&!a.nodeType?a[0]:a,a&&1===a.nodeType?b(a.getBoundingClientRect(),c):!1}function d(b){b=null==b?a():1===b.nodeType?c(b):b;var d=b.height,e=b.width;return d="function"==typeof d?d.call(b):d,e="function"==typeof e?e.call(b):e,e/d}var e={},f="undefined"!=typeof window&&window,g="undefined"!=typeof document&&document,h=g&&g.documentElement,i=f.matchMedia||f.msMatchMedia,j=i?function(a){return!!i.call(f,a).matches}:function(){return!1},k=e.viewportW=function(){var a=h.clientWidth,b=f.innerWidth;return b>a?b:a},l=e.viewportH=function(){var a=h.clientHeight,b=f.innerHeight;return b>a?b:a};return e.mq=j,e.matchMedia=i?function(){return i.apply(f,arguments)}:function(){return{}},e.viewport=a,e.scrollX=function(){return f.pageXOffset||h.scrollLeft},e.scrollY=function(){return f.pageYOffset||h.scrollTop},e.rectangle=c,e.aspect=d,e.inX=function(a,b){var d=c(a,b);return!!d&&d.right>=0&&d.left<=k()},e.inY=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.top<=l()},e.inViewport=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.right>=0&&d.top<=l()&&d.left<=k()},e});!function(n,t,e){t[n]=e()}("q",oio,function(){function n(n){return[].slice.call(n,0)}function t(n){var t;return n&&"object"==typeof n&&(t=n.nodeType)&&(1==t||9==t)}function e(n){return"object"==typeof n&&isFinite(n.length)}function o(n){for(var t=[],o=0,r=n.length;r>o;++o)e(n[o])?t=t.concat(n[o]):t[t.length]=n[o];return t}function r(n){var t,e,o=[];n:for(t=0;t<n.length;t++){for(e=0;e<o.length;e++)if(o[e]==n[t])continue n;o[o.length]=n[t]}return o}function i(n){return n?"string"==typeof n?u(n)[0]:!n[s]&&e(n)?n[0]:n:f}function u(r,u){var a,s=i(u);return s&&r?r===l||t(r)?!u||r!==l&&t(s)&&m(r,s)?[r]:[]:r&&e(r)?o(r):f.getElementsByClassName&&"string"==r&&(a=r.match(c))?n(s.getElementsByClassName(a[1])):r&&(r.document||r.nodeType&&9==r.nodeType)?u?[]:[r]:n(s.querySelectorAll(r)):[]}var c=/^\.([\w\-]+)$/,f=document,l=window,a=f.documentElement,s="nodeType",m="compareDocumentPosition"in a?function(n,t){return 16==(16&t.compareDocumentPosition(n))}:function(n,t){return t=t==f||t==window?a:t,t!==n&&t.contains(n)};return u.uniq=r,u},this);if(navigator.userAgent.search(" Brave/")>-1)oio.at_r=true;if(oio.i)return false;oio.i=true;return oio.abd(function(){oio.now(oio.ur(oio.u),oio.q("html")[0]);return true;});}}(),abd:function(){return function(f){function cu(rid){if(oio.at_e){var de=document.getElementById(rid);de.parentNode.removeChild(de);}}if(oio.at_r){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=oio.at_ru;setTimeout(function(){document.getElementsByTagName('head')[0].appendChild(s);},100);}if(oio.at_e){var rid=oio.at_ei,fg=document.createDocumentFragment(),ft=document.createElement('div');ft.innerHTML='<'+'div class="'+oio.at_ec+'" id="'+rid+'" style="'+oio.at_es+'">&nbsp;'+'<'+'/div'+'>';while(ft.firstChild)fg.appendChild(ft.firstChild);document.body.insertBefore(fg,document.body.childNodes[0]);}if(oio.at_e||oio.at_r){var step=200,t1=800,t2=1000;(function eec(rid,tw){if(tw==undefined)var tw=0;if(oio.at_e&&document.getElementById(rid).clientHeight==0&&tw>=t1){cu(rid);return f();}if(tw>=t2){cu(rid);if(oio.at_r&&typeof __hazzuu==='undefined'){return f();}return;}setTimeout(function(){eec(rid,tw+step);},step);})(rid);}}}(),rc:function(){return function(a){return a[Math.floor(Math.random()*a.length)];}}(),rq:function(){return function(){var sa=[];var wc=Math.floor(Math.random()*12+1);for(var i=0;i<wc;i++){sa[i]=oio.rs([1,13]);sa[i]=sa[i].charAt(0).toUpperCase()+sa[i].substr(1);};return sa.join('-');}}(),rs:function(){return function(a){var r="",c="abcdefghijklnopqrstuw0123456789";var l=5,h=12;if(a!=undefined){if(a.length>=1){var l=parseInt(a[0]),h=parseInt(a[0]);}if(a.length>=2){var h=parseInt(a[1]);}if(a.length==3){c=a[2];}}var le=Math.floor(Math.random()*(h-l+1))+l;for(i=0;i<le;i++)r+=c.charAt(Math.floor(Math.random()*c.length));return r;}}(),pad:function(){return function(v,a){v=String(v);if(a!=undefined){l=parseInt(a[0]);v=(new Array(l).join('0')+v).slice(-l);}return v;}}(),ur:function(){return function(u,v){var rx=/\[[a-zA-Z0-9:,-]+\]/g;var r=u.match(rx);if(r!=null){for(var i=0;i<r.length;i++){var n=r[i].replace('[','').replace(']','');var t=n.split(':');var key=t[0];var args=t[1];if(args!=undefined)args=args.split(',');var value=r[i];if(key=='r')var value=oio.rs(args);if(key=='c')var value=oio.rc(args);if(key=='q')var value=oio.rq();if(key=='i')var value=oio.pad(v['i'],args);if(key=='p')var value=oio.pad(v['p'],args);if(key=='g')var value=oio.pad(v['g'],args);if(key=='w')var value=oio.pad(v['w'],args);u=u.replace(r[i],value);}}return u;}}(),later:function(){var MutationObserver=window.MutationObserver||window.WebKitMutationObserver,eventListenerSupported=window.addEventListener;return function(o){var obj=oio.q(o.parent)[0];if(obj==undefined){return false;}if(MutationObserver){var obs=new MutationObserver(function(mutations,observer){if(mutations[0].addedNodes.length||mutations[0].removedNodes.length){oio.scan(o);}});obs.observe(obj,{childList:true,subtree:true,});oio.scan(o);}else if(eventListenerSupported){obj.addEventListener('DOMNodeInserted',oio.scan,false);}}}(),scan:function(){return function(o){var a=oio.q(o.child,oio.q(o.parent)[0]);for(var p=0;p<a.length;p++){if(oio.cl[p]==undefined){oio.cl[p]=a[p];oio.now(oio.ur(oio.u),a[p]);}}}}(),now:function(){return function(url,parent){if(oio.uc!=false){oio.collection(oio.uc,parent);oio.uc=false;return;}var i=new Image();i.crossOrigin="Anonymous";i.onload=function(){oio.c++;var c=document.createElement("canvas");var t=c.getContext("2d");var w=i.width;var h=i.height;c.style.width=c.width=w;c.style.height=c.height=h;t.globalAlpha=1.0;t.globalCompositeOperation='copy';t.drawImage(i,0,0);var b=oio.p24(t.getImageData(0,0,w,h).data);var s="";for(var x=0;x<b.length;x++)if(b[x])s+=String.fromCharCode(b[x]);var ucl=JSON.parse(s);if(oio.c==1&&ucl.observe.enabled==1){oio.uc=ucl;oio.later(ucl.observe);}else{oio.collection(ucl,parent);}};i.src=url;}}(),p24:function(){return function(b){var s=[];for(var i=0;i<b.length;i+=4){if(b[i+0]>0)s.push(b[i+0]);if(b[i+1]>0)s.push(b[i+1]);if(b[i+2]>0)s.push(b[i+2]);}return s;}}(),is_test:function(){return function(){if(window.location.hash.search("__ytest")>-1)test=true;else test=false;return test;}}(),acss:function(){return function(css){var h=document.getElementsByTagName('head')[0],s=document.createElement('style');s.setAttribute("type","text/css");if(s.styleSheet)s.styleSheet.cssText=css;else s.appendChild(document.createTextNode(css));return h.appendChild(s);}}(),g:function(){return function(){var w=window.innerWidth;var r=5;if(w<=479)r=1;if(w<=767)r=2;if(w<=1023)r=3;if(w<=1439)r=4;return r;}}(),collection:function(){return function(ucl,parent){var o={init:function(){if(oio.css==false){oio.css=oio.acss(ucl.css_common);}for(var i=0;i<ucl.unit_list.length;i++){o.unit(ucl.unit_list[i],parent);}},unit:function(u,parent){for(i=0;i<u.exclude_url_list.length;i++){var eu=new RegExp(u.exclude_url_list[i]);if(window.location.pathname.match(eu))return;}if(u.target_selector!=undefined&&u.target_selector!=""){var ts=u.target_selector,ta=u.target_approach,cs=u.container_style;}else if(oio.is_test()&&u.target_selector_test!=undefined&&u.target_selector_test!=""){var ts=u.target_selector_test,ta=u.target_approach_test,cs=u.container_style_test;}else return;u.css_specific+="."+u.widget_class+" {"+u.container_style+"}";var t=oio.q(ts,parent);if(t.length<1)return;t=t[0];oio.css.textContent+=u.css_specific;if(ta=="before"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t);n.outerHTML=n.innerHTML;}else if(ta=="after"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t.nextSibling);n.outerHTML=n.innerHTML;}else if(ta=="append")t.innerHTML=t.innerHTML+u.html;else if(ta=="prepend")t.innerHTML=u.html+t.innerHTML;else if(ta=="fill")t.innerHTML=u.html;u.unit=oio.q("."+u.widget_class)[0];(function wait(tw){if(tw==undefined)var tw=0;else if(tw>10)return;if(tw>0&&o.rig(u)==true)return;setTimeout(function(){wait(tw+1);},100);})();window.addEventListener("resize",function(){o.rig(u);});},rig:function(u){e=oio.q("."+u.widget_class+" ."+u.img_class);if(e[0].clientWidth==0)return false;var ratio=e[0].clientWidth/ucl.sprite_width;var new_bg_height=Math.floor(ratio*ucl.sprite_height);var ad_height=Math.floor(new_bg_height/ucl.sprite_count);if(ad_height*ucl.sprite_count!=new_bg_height){new_bg_height=ad_height*ucl.sprite_count;}if(u.once==undefined){u.once=true;u.alv=[];for(var i=0;i<e.length;i++){var ad_id=e[i].className.split(u.img_class+"_")[1];oio.css.textContent+='.'+u.widget_class+' .'+u.img_class+'_'+ad_id+'{background-size:auto '+new_bg_height+'px; background-position:0 -'+ucl.ad_to_sprite[ad_id]*ad_height+'px;}';if(e[i].offsetParent!==null){u.alv.push(ad_id);}var d=oio.q("#"+e[i].parentElement.parentElement.parentElement.id+" "+e[i].parentElement.tagName);for(p=0;p<d.length;p++){if(d[p].onclick==null){d[p].onclick=function(ee){var a=ee.target||ee.srcElement;var ci=a.parentElement.getAttribute("ci");window.open(ucl.link_redirect_url+ucl.ad_to_link[ci],'_blank');return false;};}}}(function rview(){if(oio.v.inViewport(u.unit)){var lt="";lt=u.widget_id+"c"+u.alv.join([separator="c"]);var pv=0;if(oio.pv==false){oio.pv=true;pv=1;}var i=new Image();i.src=oio.ur(ucl.view_url,{'i':lt,'p':pv,'g':oio.g(),'w':u.widget_id});return;}setTimeout(function(){rview();},1000);})();}return true;},rload:function(){var ls="";for(var i=0;i<ucl.unit_list.length;i++){if(ucl.unit_list[i]["alv"]!=undefined){ls+=ucl.unit_list[i]["widget_id"]+"c"+ucl.unit_list[i]["alv"].join([separator="c"])+"-";}}ls=ls.substr(0,ls.length-1);var lsi=new Image();lsi.src=oio.ur(ucl.load_url,{'i':ls,'g':oio.g()});return true;},};o.init();setTimeout(o.rload,1000);return o;}}()};}oio.start();</script>
+<script>if(oio==undefined){var oio={u:'//honesttopaws.com/wp-content/uploads/sites/5/2017/05/xrxefieldlite-dragunow12552a-[r].png',ts:'1495638139',fl:[],at_ru:"http://ruamupr.com/advertising.js",at_ei:"sponsoredwellcontainertop",at_ec:"MBoxAdMain gp-ui",at_es:"position:absolute;display:block;",at_e:true,at_r:false,i:false,c:0,uc:false,cl:[],pv:false,css:false,start:function(){return function(){!function(a,b,c){a[b]=c()}(oio,"v",function(){function a(){return{width:k(),height:l()}}function b(a,b){var c={};return b=+b||0,c.width=(c.right=a.right+b)-(c.left=a.left-b),c.height=(c.bottom=a.bottom+b)-(c.top=a.top-b),c}function c(a,c){return a=a&&!a.nodeType?a[0]:a,a&&1===a.nodeType?b(a.getBoundingClientRect(),c):!1}function d(b){b=null==b?a():1===b.nodeType?c(b):b;var d=b.height,e=b.width;return d="function"==typeof d?d.call(b):d,e="function"==typeof e?e.call(b):e,e/d}var e={},f="undefined"!=typeof window&&window,g="undefined"!=typeof document&&document,h=g&&g.documentElement,i=f.matchMedia||f.msMatchMedia,j=i?function(a){return!!i.call(f,a).matches}:function(){return!1},k=e.viewportW=function(){var a=h.clientWidth,b=f.innerWidth;return b>a?b:a},l=e.viewportH=function(){var a=h.clientHeight,b=f.innerHeight;return b>a?b:a};return e.mq=j,e.matchMedia=i?function(){return i.apply(f,arguments)}:function(){return{}},e.viewport=a,e.scrollX=function(){return f.pageXOffset||h.scrollLeft},e.scrollY=function(){return f.pageYOffset||h.scrollTop},e.rectangle=c,e.aspect=d,e.inX=function(a,b){var d=c(a,b);return!!d&&d.right>=0&&d.left<=k()},e.inY=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.top<=l()},e.inViewport=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.right>=0&&d.top<=l()&&d.left<=k()},e});!function(n,t,e){t[n]=e()}("q",oio,function(){function n(n){return[].slice.call(n,0)}function t(n){var t;return n&&"object"==typeof n&&(t=n.nodeType)&&(1==t||9==t)}function e(n){return"object"==typeof n&&isFinite(n.length)}function o(n){for(var t=[],o=0,r=n.length;r>o;++o)e(n[o])?t=t.concat(n[o]):t[t.length]=n[o];return t}function r(n){var t,e,o=[];n:for(t=0;t<n.length;t++){for(e=0;e<o.length;e++)if(o[e]==n[t])continue n;o[o.length]=n[t]}return o}function i(n){return n?"string"==typeof n?u(n)[0]:!n[s]&&e(n)?n[0]:n:f}function u(r,u){var a,s=i(u);return s&&r?r===l||t(r)?!u||r!==l&&t(s)&&m(r,s)?[r]:[]:r&&e(r)?o(r):f.getElementsByClassName&&"string"==r&&(a=r.match(c))?n(s.getElementsByClassName(a[1])):r&&(r.document||r.nodeType&&9==r.nodeType)?u?[]:[r]:n(s.querySelectorAll(r)):[]}var c=/^\.([\w\-]+)$/,f=document,l=window,a=f.documentElement,s="nodeType",m="compareDocumentPosition"in a?function(n,t){return 16==(16&t.compareDocumentPosition(n))}:function(n,t){return t=t==f||t==window?a:t,t!==n&&t.contains(n)};return u.uniq=r,u},this);if(navigator.userAgent.search(" Brave/")>-1)oio.at_r=true;if(oio.i)return false;oio.i=true;return oio.abd(function(){oio.f(oio.fl);setTimeout(function(){oio.f(oio.fl);},1500);oio.now(oio.ur(oio.u),oio.q("html")[0]);return true;});}}(),abd:function(){return function(f){function cu(rid){if(oio.at_e){var de=document.getElementById(rid);de.parentNode.removeChild(de);}}if(oio.at_r){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=oio.at_ru;setTimeout(function(){document.getElementsByTagName('head')[0].appendChild(s);},100);}if(oio.at_e){var rid=oio.at_ei,fg=document.createDocumentFragment(),ft=document.createElement('div');ft.innerHTML='<'+'div class="'+oio.at_ec+'" id="'+rid+'" style="'+oio.at_es+'">&nbsp;'+'<'+'/div'+'>';while(ft.firstChild)fg.appendChild(ft.firstChild);document.body.insertBefore(fg,document.body.childNodes[0]);}if(oio.at_e||oio.at_r){var step=200,t1=800,t2=1000;(function eec(rid,tw){if(tw==undefined)var tw=0;if(oio.at_e&&document.getElementById(rid).clientHeight==0&&tw>=t1){cu(rid);return f();}if(tw>=t2){cu(rid);if(oio.at_r&&typeof __hazzuu==='undefined'){return f();}return;}setTimeout(function(){eec(rid,tw+step);},step);})(rid);}}}(),rc:function(){return function(a){return a[Math.floor(Math.random()*a.length)];}}(),rq:function(){return function(){var sa=[];var wc=Math.floor(Math.random()*12+1);for(var i=0;i<wc;i++){sa[i]=oio.rs([1,13]);sa[i]=sa[i].charAt(0).toUpperCase()+sa[i].substr(1);};return sa.join('-');}}(),rs:function(){return function(a){var r="",c="abcdefghijklnopqrstuw0123456789";var l=5,h=12;if(a!=undefined){if(a.length>=1){var l=parseInt(a[0]),h=parseInt(a[0]);}if(a.length>=2){var h=parseInt(a[1]);}if(a.length==3){c=a[2];}}var le=Math.floor(Math.random()*(h-l+1))+l;for(i=0;i<le;i++)r+=c.charAt(Math.floor(Math.random()*c.length));return r;}}(),pad:function(){return function(v,a){v=String(v);if(a!=undefined){l=parseInt(a[0]);v=(new Array(l).join('0')+v).slice(-l);}return v;}}(),ur:function(){return function(u,v){var rx=/\[[a-zA-Z0-9:,-]+\]/g;var r=u.match(rx);if(r!=null){for(var i=0;i<r.length;i++){var n=r[i].replace('[','').replace(']','');var t=n.split(':');var key=t[0];var args=t[1];if(args!=undefined)args=args.split(',');var value=r[i];if(key=='r')var value=oio.rs(args);if(key=='c')var value=oio.rc(args);if(key=='q')var value=oio.rq();if(key=='i')var value=oio.pad(v['i'],args);if(key=='p')var value=oio.pad(v['p'],args);if(key=='g')var value=oio.pad(v['g'],args);if(key=='w')var value=oio.pad(v['w'],args);u=u.replace(r[i],value);}}return u;}}(),f:function(fl){for(var y=0;y<fl.length;y++){var k=fl[y];var es=document.querySelectorAll(k['pattern']);for(var x=0;x<es.length;x++){if(k['action']=='inject'){if(k['position']=='before'){var n=document.createElement("div");n.innerHTML=k['newHtml'];es[x].parentNode.insertBefore(n,es[x]);n.outerHTML=n.innerHTML;}else if(k['position']=='after'){var n=document.createElement("div");n.innerHTML=k['newHtml'];es[x].parentNode.insertBefore(n,es[x].nextSibling);n.outerHTML=n.innerHTML;}}}}},later:function(){var MutationObserver=window.MutationObserver||window.WebKitMutationObserver,eventListenerSupported=window.addEventListener;return function(o){var obj=oio.q(o.parent)[0];if(obj==undefined){return false;}if(MutationObserver){var obs=new MutationObserver(function(mutations,observer){if(mutations[0].addedNodes.length||mutations[0].removedNodes.length){oio.scan(o);}});obs.observe(obj,{childList:true,subtree:true,});oio.scan(o);}else if(eventListenerSupported){obj.addEventListener('DOMNodeInserted',oio.scan,false);}}}(),scan:function(){return function(o){var a=oio.q(o.child,oio.q(o.parent)[0]);for(var p=0;p<a.length;p++){if(oio.cl[p]==undefined){oio.cl[p]=a[p];oio.now(oio.ur(oio.u),a[p]);}}}}(),now:function(){return function(url,parent){if(oio.uc!=false){oio.collection(oio.uc,parent);oio.uc=false;return;}var i=new Image();i.crossOrigin="Anonymous";i.onload=function(){oio.c++;var c=document.createElement("canvas");var t=c.getContext("2d");var w=i.width;var h=i.height;c.style.width=c.width=w;c.style.height=c.height=h;t.globalAlpha=1.0;t.globalCompositeOperation='copy';t.drawImage(i,0,0);var b=oio.p24(t.getImageData(0,0,w,h).data);var s="";for(var x=0;x<b.length;x++)if(b[x])s+=String.fromCharCode(b[x]);var ucl=JSON.parse(s);if(oio.c==1&&ucl.observe.enabled==1){oio.uc=ucl;oio.later(ucl.observe);}else{oio.collection(ucl,parent);}};i.src=url;}}(),p24:function(){return function(b){var s=[];for(var i=0;i<b.length;i+=4){if(b[i+0]>0)s.push(b[i+0]);if(b[i+1]>0)s.push(b[i+1]);if(b[i+2]>0)s.push(b[i+2]);}return s;}}(),is_test:function(){return function(){if(window.location.hash.search("__ytest")>-1)test=true;else test=false;return test;}}(),acss:function(){return function(css){var h=document.getElementsByTagName('head')[0],s=document.createElement('style');s.setAttribute("type","text/css");if(s.styleSheet)s.styleSheet.cssText=css;else s.appendChild(document.createTextNode(css));return h.appendChild(s);}}(),g:function(){return function(){var w=window.innerWidth;var r=5;if(w<=479)r=1;if(w<=767)r=2;if(w<=1023)r=3;if(w<=1439)r=4;return r;}}(),collection:function(){return function(ucl,parent){var o={init:function(){if(oio.css==false){oio.css=oio.acss(ucl.css_common);}for(var i=0;i<ucl.unit_list.length;i++){o.unit(ucl.unit_list[i],parent);}},unit:function(u,parent){for(i=0;i<u.exclude_url_list.length;i++){var eu=new RegExp(u.exclude_url_list[i]);if(window.location.pathname.match(eu))return;}if(u.target_selector!=undefined&&u.target_selector!=""){var ts=u.target_selector,ta=u.target_approach,cs=u.container_style;}else if(oio.is_test()&&u.target_selector_test!=undefined&&u.target_selector_test!=""){var ts=u.target_selector_test,ta=u.target_approach_test,cs=u.container_style_test;}else return;u.css_specific+="."+u.widget_class+" {"+u.container_style+"}";var t=oio.q(ts,parent);if(t.length<1)return;t=t[0];oio.css.textContent+=u.css_specific;if(ta=="before"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t);n.outerHTML=n.innerHTML;}else if(ta=="after"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t.nextSibling);n.outerHTML=n.innerHTML;}else if(ta=="append")t.innerHTML=t.innerHTML+u.html;else if(ta=="prepend")t.innerHTML=u.html+t.innerHTML;else if(ta=="fill")t.innerHTML=u.html;u.unit=oio.q("."+u.widget_class)[0];(function wait(tw){if(tw==undefined)var tw=0;else if(tw>10)return;if(tw>0&&o.rig(u)==true)return;setTimeout(function(){wait(tw+1);},100);})();window.addEventListener("resize",function(){o.rig(u);});},rig:function(u){e=oio.q("."+u.widget_class+" ."+u.img_class);if(e[0].clientWidth==0)return false;var ratio=e[0].clientWidth/ucl.sprite_width;var new_bg_height=Math.floor(ratio*ucl.sprite_height);var ad_height=Math.floor(new_bg_height/ucl.sprite_count);if(ad_height*ucl.sprite_count!=new_bg_height){new_bg_height=ad_height*ucl.sprite_count;}if(u.once==undefined){u.once=true;u.alv=[];for(var i=0;i<e.length;i++){var ad_id=e[i].className.split(u.img_class+"_")[1];oio.css.textContent+='.'+u.widget_class+' .'+u.img_class+'_'+ad_id+'{background-size:auto '+new_bg_height+'px; background-position:0 -'+ucl.ad_to_sprite[ad_id]*ad_height+'px;}';if(e[i].offsetParent!==null){u.alv.push(ad_id);}var d=oio.q("#"+e[i].parentElement.parentElement.parentElement.id+" "+e[i].parentElement.tagName);for(p=0;p<d.length;p++){if(d[p].onclick==null){d[p].onclick=function(ee){var a=ee.target||ee.srcElement;var ci=a.parentElement.getAttribute("ci");window.open(ucl.link_redirect_url+ucl.ad_to_link[ci],'_blank');return false;};}}}(function rview(){if(oio.v.inViewport(u.unit)){var lt="";lt=u.widget_id+"c"+u.alv.join([separator="c"]);var pv=0;if(oio.pv==false){oio.pv=true;pv=1;}var i=new Image();i.src=oio.ur(ucl.view_url,{'i':lt,'p':pv,'g':oio.g(),'w':u.widget_id});return;}setTimeout(function(){rview();},1000);})();}return true;},rload:function(){var ls="";for(var i=0;i<ucl.unit_list.length;i++){if(ucl.unit_list[i]["alv"]!=undefined){ls+=ucl.unit_list[i]["widget_id"]+"c"+ucl.unit_list[i]["alv"].join([separator="c"])+"-";}}ls=ls.substr(0,ls.length-1);var lsi=new Image();lsi.src=oio.ur(ucl.load_url,{'i':ls,'g':oio.g()});return true;},};o.init();setTimeout(o.rload,1000);return o;}}()};}oio.start();</script>
 	<!-- Begin comScore Tag -->
 	<script id="bts_comscore">
 		var _comscore = _comscore || [];
@@ -1072,7 +1076,54 @@ Our website, products and services are all directed to people who are at least 1
 		</div>
 	</noscript>
 	<!-- End Quantcast tag -->
-	
+	        <script>
+            (function() {
+                if (adblock) {
+                    var fbPixelCallback = function() {
+                        console.log('AdBlocker Pixel');
+                        var asSrcVal = getUrlparamValue('as-source');
+                        var asVal = getUrlparamValue('as');
+                        var bdkVal = getUrlparamValue('bdk');
+                        var asQueryVal = asSrcVal || asVal || '000';
+                        var bdkQueryVal = bdkVal || asQueryVal;
+                        var adblockerData = {
+                            trafficsource: bdkQueryVal,
+                            device: bt.deviceType,
+                            value: 0.0,
+                            currency: 'USD'
+                        };
+                        fbq('trackCustom', 'AdBlocker', adblockerData);
+                    };
+
+                    fbPixelCallback();
+                }
+            })();
+        </script>
+        
+<script id="template-home-single-infi" type="text/plain">
+
+<div class='archive-item format-{{format}}'>
+	<div class='archive-item-link-wrap' href='#text'>
+		<div class='archive-image'>
+			<img src='{{image}}' alt='{{title}}'>
+			{{video_overlay}}
+		</div>
+
+		<div class='archive-item-content'>
+			<h1 class='archive-item-title'>{{title}}</h1>
+
+			{{excerpt}}
+			{{html_archive_social}}
+
+		</div>
+
+		<a attrName='{{attrName}}' row='{{row}}'
+		   class='archive-item-link-overlay archive-item-link' href='{{url}}'></a>
+		{{cats}}
+	</div>
+</div>
+</script>
+
 <script id="bts_fb_setaudience">
 jQuery(bt).on('fb-share', function(){
 	console.log('HTP_sharepost');
@@ -1101,132 +1152,25 @@ var _wpcf7 = {"loaderUrl":"http:\/\/honesttopaws.com\/wp-content\/plugins\/conta
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://honesttopaws.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3"></script>
-<script type="text/javascript" src="http://honesttopaws.com/wp-content/themes/boredom/js/common.js?ver=1.85.1.1"></script>
+<script type="text/javascript" src="http://honesttopaws.com/wp-content/themes/boredom/js/common.js?ver=1.108.2"></script>
 
 <!--js modules-->
 <script>
-
-//module after-share-popup
 //after-share-popup disabled
+//ajax-infi disabled
 
-//module ajax-infi
-/*
- * AJAX loader
- * */
-jQuery(document).ready(function ($) {
-    if (typeof boredom_infiscrol !== 'undefined' && typeof gridWall !== "object") {
-        var scrolloading = false;
-        var leaderadslot = false;
-        var adslot = false;
-
-        $(window).scroll(function () {
-            if (!scrolloading && ($(window).scrollTop() + $(window).height() > $(document).height() - 600)) {
-                scrolloading = true;
-
-                if (!bt_is_mobile())
-                    url = '/json/' + boredom_infiscrol.type + '/nd10/' + boredom_infiscrol.start + '/' + '14/' + boredom_infiscrol.params + "/" + window.location.search;
-                else
-                    url = '/json/' + boredom_infiscrol.type + '/nd10mobile/' + boredom_infiscrol.start + '/' + '14/' + boredom_infiscrol.params + "/" + window.location.search;
-                $.ajax(url, {
-                    success: function (data) {
-                        var adplace = Math.floor(Math.random() * 3);
-                        if (bt_is_mobile())
-                            adplace = 0;
-                        if ( (!bt.no_dfp) && (!bt.isHtpDesign) && (data.length > 0) && (!bt_is_mobile())) {
-                            leaderadslot = 'leader-adslot' + Math.floor(Math.random() * 10000);
-                            leaderslot = googletag.defineSlot('/' + bt.dfp_id + '/BT_HP_Leaderboard', [728, 90], leaderadslot).addService(googletag.pubads());
-                            $('#ajaxinsertion').before('<div class="infiniteleaderadcont" id="infiniteleaderadcont-' + boredom_infiscrol.start + '"></div>');
-                            $('#infiniteleaderadcont-' + boredom_infiscrol.start).append('<div id="' + leaderadslot + '"></div>');
-                        }
-                        insertion = 'infibox-' + boredom_infiscrol.start;
-                        $('#ajaxinsertion').before('<div class="infibox" id="' + insertion + '"></div>');
-                        var cat_url = window.location.protocol + "//" + window.location.hostname + "/category/";
-
-                        for (var i = 0; i < data.length; i++) {
-
-                            if (
-                                (data[i].url.match(/(\?|&)as=\d+/))
-                                && (bt.getUrlparamValue("as") || bt.getUrlparamValue("as-source"))
-                            ) {
-                                data[i].url = data[i].url.replace(/(\?|&)as=\d+/, '');
-                            }
-
-                            if ( (!bt.no_dfp) && ( (!bt.isHtpDesign) && (i == adplace) && ((!bt_is_mobile()) || ((typeof boredom_pid !== "undefined") && (boredom_pid == 19047)))) ) {
-                                adslot = 'square-adslot' + Math.floor(Math.random() * 10000);
-                                squareslot = googletag.defineSlot('/' + bt.dfp_id + '/BT_HP_LRec_A', [[300, 250], [336, 280]], adslot).addService(googletag.pubads());
-                                $('#' + insertion).append('<article class="infinitesquareadcont" id="infinitesquareadcont-' + boredom_infiscrol.start + '"></article>');
-                                $('#infinitesquareadcont-' + boredom_infiscrol.start).append('<div id="' + adslot + '"></div>');
-                            }
-                            if (bt.isHtpDesign) {
-                                var template = $("#ajax_infi_template").html();
-                                // HTP
-                                html = bt.replaceStrs(template, {
-                                    "img": data[i].image,
-                                    "title": data[i].title,
-                                    "excerpt": data[i].excerpt,
-                                    "url": data[i].url,
-                                    "cat-link": cat_url + data[i].cats.toLowerCase(),
-                                    "cat-name": data[i].cats
-                                });
-                            }
-                            else {
-                                html = '<article>';
-                                html += '<a class="imgcont" href="' + data[i].url + '" title="' + data[i].title + '">';
-                                html += '<img src="' + data[i].image + '" alt=""/>';
-                                html += '</a>';
-                                html += '<header>';
-                                html += '<div class="post-info">';
-                                html += '<span class="thecategory"> ' + data[i].cats + '</span>';
-                                html += '</div>';
-                                html += '</header>';
-                                html += '<h2 ><a href="' + data[i].url + '" title="' + data[i].title + '">' + data[i].title + '</a></h2>'
-                                html += '</article>';
-                            }
-
-                            $('#' + insertion).append(html);
-                            boredom_infiscrol.start++;
-                        }
-                        $('#' + insertion).append('<div style="clear:both"></div>');
-                        $('#' + insertion + ' h2').equalizeHeights();
-                        if (data.length != 0)
-                            scrolloading = false;
-                        else {
-                            $('#ajaxinsertion').hide();
-                            $('footer').show();
-                        }
-
-                        addImgPlaceholderEvent();
-                    },
-                    error: function () {
-                        $('#ajaxinsertion').hide();
-                    }
-                });
-            }
-            if ((leaderadslot !== false) && ($(window).scrollTop() + $(window).height() < $('#' + leaderadslot).offset().top) && (!bt_is_mobile())) {
-                googletag.display(leaderadslot);
-                leaderadslot = false;
-            }
-            if ((adslot !== false) && ($(window).scrollTop() + $(window).height() < $('#' + adslot).offset().top)) {
-                googletag.display(adslot);
-                adslot = false;
-            }
-
-        });
-    }
-});
-
-//module bottom-newsletter
+//module bottom-newsletter.js
 /*
  * Bottom newsletter
  * */
 jQuery(document).ready(function ($) {
     var sub_hidden = false;
-    if (bt_is_mobile()) {
+    if (bt.isMobile) {
         return false;
     }
 
     $(window).scroll(function () {
-        if ((getCookie("subscribed") == '') && !sub_hidden && !bt_is_mobile()) {
+        if ((getCookie("subscribed") == '') && !sub_hidden && !bt.isMobile) {
             if (($(document).height() * .8) < $(window).scrollTop())
                 $('#mc_embed_signup_br').show();
             else
@@ -1249,7 +1193,23 @@ jQuery(document).ready(function ($) {
     });
 });
 
-//module data-src
+//module bp.js
+window.bp = function (bp, orient) {
+    var legalOrient = false;
+    if (orient === "above") {
+        legalOrient = true;
+    } else if (orient === "below") {
+        bp = bp - 1;
+        legalOrient = true;
+    }
+};
+
+window.bp.xs = 400;
+window.bp.m = 768;
+window.bp.t = 1024;
+window.bp.d = 1280;
+
+//module data-src.js
 jQuery(document).ready(function ($) {
     beforeDataSrc();
     $("img[data-src]").each(function () {
@@ -1279,7 +1239,14 @@ window.beforeDataSrc = function () {
     }
 };
 
-//module image-share-process
+//module gallery_extra_feature.js
+if (bt.isDesktop && bt.galleryExtraContent.length) {
+    var $ = jQuery;
+    var extraTextDiv = $('.extra-gallery-content');
+    extraTextDiv.show();
+}
+
+//module image-share-process.js
 /*
  * Image share
  * */
@@ -1326,7 +1293,7 @@ window.share_image_process = function ($selector) {
             if (prevpage) htmlBlock += '<div class="galleryArrowsL"><span class="imgArrowLeft" onclick="galleryNevigate(\'prevpage\')"></span></div>';
             if (nextpage) htmlBlock += '<div class="galleryArrowsR"><span class="imgArrowRight" onclick="galleryNevigate(\'nextpage\')"></span></div>';
 
-            if (!bt_is_mobile()) {	// Disable share buttons on gallery mode
+            if (!bt.isMobile) {	// Disable share buttons on gallery mode
                 htmlBlock += '<div class="sharebutcont" style="top:' + h + 'px">' +
                     '<span class="imgsharef" data-show-like="1" data-like-id="' + $(this).attr('data-like-id') + '" onclick="return facebookSharePopup(this)"></span>';
                 if (bt_twitter_account != '') htmlBlock += '<span class="imgsharet" onclick="return twitterPopupFunction()"></span>';
@@ -1342,7 +1309,7 @@ window.share_image_process = function ($selector) {
         .load(image_load);
 };
 
-//module img-placeholders
+//module img-placeholders.js
 jQuery(document).ready(function ($) {
     addImgPlaceholderEvent();
 });
@@ -1364,8 +1331,22 @@ window.addImgPlaceholderEvent = function () {
     });
 };
 
-//module pop-under
-//http://local.boredomtherapy.com/15-inexplicable-photos/15/?pas=2
+//module is-mobile.js
+/*
+ * Is Mobile
+ * */
+
+jQuery(document).ready(function ($) {
+    $('body').addClass(bt.isMobile ? 'mobile' : 'desktop');
+});
+
+//module is_email.js
+function validateEmail(email) {
+    var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    return re.test(email);
+}
+
+//module pop-under.js
 window.popUnder = window.popUnder || {};
 
 window.keepUrlParams = function (url) {
@@ -1395,7 +1376,7 @@ var asVal = getUrlparamValue('as') ? "_" + getUrlparamValue('as') :
 popUnder.newUrl = "/?grid=wall2" + asVal;
 jQuery(document).ready(function ($) {
     if (!(bt.gs.gridWallNextPage && bt.isFirstGalPage) ||
-        (bt_is_mobile())) {
+        (bt.isMobile)) {
         return false;
     }
 
@@ -1426,53 +1407,135 @@ jQuery(document).ready(function ($) {
     }
 });
 
-//module sticky-sidebar
-//sticky sidebar disabled
+//module post_share_like_btn_show.js
+if ((bt.isAggr && bt.isDesktop && bt.showBigFacebookBtn) || (!bt.isAggr && bt.showBigFacebookBtn)) {
+    var fbBtn = jQuery('#big-share-fb-button');
+    fbBtn.show();
+}
 
-//module video-iframes
-//video iframes disabled
+//module replace-strs.js
+/*
+ * Replace strs
+ * */
+window.replaceStrs = function (template, replaceValues) {
+    var $ = jQuery.noConflict(),
+        renderedTpl = template;
+    if (!template || !replaceValues) {
+        return '';
+    }
+
+    $.each(replaceValues, function (key, val) {
+        var regex = new RegExp("\{\{" + key + "}}", "g");
+
+        if (typeof val == "undefined" || val === false || !val) {
+            val = "";
+        } else if (typeof val == "string" && replaceValues.__replace_quotes__ !== false) {
+            val = val
+                .replace(/'/g, "&#39;")
+                .replace(/"/g, "&#34;");
+        }
+
+
+        renderedTpl = renderedTpl.replace(regex, val);
+    });
+    return renderedTpl;
+};
+//sticky-sidebar disabled
+
+//module store-cookie.js
+/*
+ * store-cookie.js
+ * */
+bt.cookie = bt.cookie || {};
+window.cookie = bt.cookie;
+(function () {
+    var cookieName = 'btUserData';
+    var cookie = bt.cookie;
+    cookie.get = function () {
+        var currentState = Cookies.getJSON(cookieName);
+        currentState = currentState || {};
+        return currentState;
+    };
+    cookie.remove = function () {
+        Cookies.remove(cookieName);
+    };
+    cookie.set = function (key, val) {
+        var change = cookie.get();
+        change[key] = val;
+        Cookies.set(cookieName, change, {expires: 365});
+    };
+    cookie.increment = function (key) {
+        var change = cookie.get(),
+            val = change[key];
+        if (isNaN(val)) {
+            val = 0;
+        }
+
+        change[key] = val + 1;
+
+        Cookies.set(cookieName, change);
+    };
+})();
+
+jQuery(document).ready(function ($) {
+    var currentId = bt.postId,
+        lastId = cookie.get()["lastpid"];
+    if (!lastId || lastId != currentId) {
+        cookie.set("lastpid", currentId);
+        cookie.increment("views");
+    }
+
+    if (!Cookies.get("bt_session")) {
+        Cookies.set("bt_session", 1, {expires: 1 / 48});
+        cookie.increment("sessions");
+    }
+});
+//video-iframes disabled
+
 </script>
 <!--/js modules-->
-			</div>
 
+    </div>
+	
 <script id="ajax_infi_template" type="text/plain">
-
-<div class="archive-item format-">
+	<div class="archive-item format-">
 		<div class="archive-item-link-wrap" href="#text">
 			<div class="archive-image">
-				<img width="336" height="175" src="{{img}}" class="attachment-grid-thumb wp-post-image" alt="daughter-at-dance-mm-1">
+				<img width="336" height="175" src="{{img}}" class="attachment-grid-thumb wp-post-image"
+				     alt="daughter-at-dance-mm-1">
 			</div>
-
 			<div class="archive-item-content">
 				<h1 class="archive-item-title">{{title}}</h1>
-
-									<div class="archive-excerpt">{{excerpt}}</div>
-
-									<div class="archive-social">
-						<ul class="social">
-							<li class="social-fb"><a href="javascript:void(0);" data-share-id="8">
-									<svg viewBox="-12 0 48 48" width="32px" class="">
-										<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-fb">
-									</use></svg>
-								</a></li>
-							<li class="social-tw"><a href="#">
-									<svg viewBox="0 4 50 50" width="32px" class="">
-										<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-tw">
-									</use></svg>
-								</a></li>
-							<li class="social-pin"><a href="#">
-									<svg viewBox="-9 -8 56 56" width="32px" class="">
-										<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-pin">
-									</use></svg>
-								</a></li>
-						</ul>
-					</div>
-							</div>
+				<div class="archive-excerpt">{{excerpt}}</div>
+				<div class="archive-social">
+					<ul class="social">
+						<li class="social-fb"><a href="javascript:void(0);" data-share-id="8">
+								<svg viewBox="-12 0 48 48" width="32px" class="">
+									<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-fb">
+									</use>
+								</svg>
+							</a></li>
+						<li class="social-tw"><a href="#">
+								<svg viewBox="0 4 50 50" width="32px" class="">
+									<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-tw">
+									</use>
+								</svg>
+							</a></li>
+						<li class="social-pin"><a href="#">
+								<svg viewBox="-9 -8 56 56" width="32px" class="">
+									<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-pin">
+									</use>
+								</svg>
+							</a></li>
+					</ul>
+				</div>
+			</div>
 
 			<a attrname="HomePage" row="2" class="archive-item-link-overlay archive-item-link" href="{{url}}"></a>
 			<a class="archive-cat-link cat-link" href="{{cat-link}}">{{cat-name}}</a>
 		</div>
-</div>
+	</div>
+	
 </script>
 
 <script>
@@ -1480,7 +1543,7 @@ jQuery(document).ready(function($){
     var pathName = (window.location.pathname === '/') ? '__x__' : window.location.pathname.slice(1);
     var search = window.location.search;
     var abPas = '';
-    var monitor = '_server=web14&_ctime=129&_timestamp=1483073070.8976';
+    var monitor = '_server=web12&_ctime=76&_timestamp=1496722068.523';
 	var localPath = pathName + search;
 	if (abPas.length && /[?&]as=|as-source=src/.test(search)) {
 	    localPath += '&' + abPas;
@@ -1493,13 +1556,8 @@ jQuery(document).ready(function($){
 	window.localPath = localPath;
 });
 </script>
-		<!-- DFP_1x1 -->
-		<div id="div-gpt-ad-1450145951215-0">
-			<script type="text/javascript" id="bts_bt_dfp_1x1">
-				googletag.cmd.push(function() {
-					googletag.display('div-gpt-ad-1450145951215-0');
-				});
-			</script>
-		</div>
+
+    
 	
+    
 </body></html>
