@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120030621id_/http%3A//www.speedwaymotors.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163125id_/http%3A//www.speedwaymotors.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
