@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mos.org privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914044252id_/http%3A//www.mos.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mos.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223952id_/http%3A//www.mos.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Museum of Science, Boston
 
@@ -79,7 +79,5 @@ Boston, MA 02114
 [privacy@mos.org](mailto:privacy@mos.org)
 
 ### Effective Date
-
-### 
 
 This privacy policy is effective as of July 25, 2007.
