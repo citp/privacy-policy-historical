@@ -1,123 +1,150 @@
-> *The following text is extracted and transformed from the lyris.net privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403035329id_/http%3A//lyris.com/us-en/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyris.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171040id_/https%3A//www.aurea.com/legal/privacy-statement) for the most accurate reproduction.*
 
-# Lyris Privacy Policy
+# Privacy Statement - Aurea
 
-### Effective Date: 29/01/2014
+Aurea Software, Inc. and its affiliates (the “Company,” “we,” or “us”) respect your privacy. This Privacy Policy Statement describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. By accessing our website, or purchasing our products or services you agree to this Privacy Statement in addition to any other agreements we might have with you. This Privacy Statement does not govern the practices of entities that our Company does not own or control, or entities that do not own or control our company or people that our Company does not employ or manage. This Privacy Policy Statement includes the Company’s Privacy Policy Statement and the Privacy Shield Statement.
 
-The following statement (this “Statement”) discloses the policies of Lyris, Inc. (which is sometimes referred to in this Privacy Policy as "Lyris," the "Company," "we," or "us") with respect to information that we collect from visitors to our corporate Web site (www.lyris.com). This Statement also describes the services (our “Services”) we provide to our customers (each, a “Customer”) via our Platforms (Lyris One and Lyris HQ) and contains our end user opt-out mechanism. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Lyris. Unless otherwise provided in this Statement, this Statement does not apply to our offline data practices. This Statement is effective as of the date set forth above.
+**1\. Our Collection of your Personal Information**
 
-This Statement applies to the operation of any Web site that directly links to this Statement when you click on “privacy statement” in the Web site footer.
+The information we collect may include your personal information, such as your name, contact information, IP addresses, product and service selections and other things that identify you. We collect personal information from you at several different points, including but not limited to the following:
 
-## Definitions
-
-"Personal Information" or "Information" means information that (1) is about, or pertains to a specific individual; and (2) can be linked to that individual.
-
-"Sensitive Personal Information" means financial data, such as credit card number or social security number.
-
-## Privacy Principles
-
-### Notice
-
-You can visit and navigate through our main, corporate Web Site (www.lyris.com) to gather information about our company and Services without telling us who you are and without otherwise revealing any type of Personal Information.
-
-Our website does offer several opportunities for visitors to register for free information, seminars, or demonstration copies of our software, and for assistance in evaluating our software and Services. These registration forms are often linked to Lyris mailing lists, and require users to provide Personal Information (such as name, phone number and e-mail address), which we use to send users information about our company and our products and Services. We also use this information to contact site visitors by e-mail for marketing purposes if they have granted us permission (on the mailing list form or other forms on our website) to send it to them, and for administrative purposes such as providing time and location of seminars. Users may also be contacted by phone or postal mail for marketing purposes.
-
-We use information that is not Personal Information (e.g., IP address) to help diagnose problems with our server and to administer our website. IP addresses are also used to gather broad, personally non-identifiable demographic information, such the countries in which our Web site visitors live.
-
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We also have third party cookies and other tracking technologies on our site that collect data in the aggregate only.
-
-The use of cookies by our partners and tracking utility companies is not covered by our privacy statement. We do not have access or control over these cookies.
-
-Our website contains testimonials that contain information such as Customer names and titles. Lyris obtains the consent of each Customer prior to posting any information on such a list or posting testimonials. If you want your testimonial removed please contact us as set forth below.
-
-Some of our third party service providers employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
-
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
-
-Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. Our website contains links to other sites. Lyris is not responsible for the privacy practices or the content of such websites and recommends that you check the privacy policies of other sites to be aware of how your information is being used.
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us as set forth below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-### Choice
-
-Any Personal Information collected by Lyris is used for the sole purpose of communicating with prospects, Customers, and contacts that have requested to receive information from us regarding specific marketing events, materials, or other information specifically advertised by Lyris in promotional material. You have the ability to “opt-out” or unsubscribe from any Lyris’ communications via email, phone, mail, or fax (provided below) at anytime. Lyris also provides opt-out information in all marketing communications via an “unsubscribe” link in communication emails which directly unsubscribes you from any further communication from Lyris.
-
-### Access
-
-We allow our Web site visitors to access their Personal Information and allow them to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. Customers may request that we update, amend, or delete their Personal Information by following the Profile Update link in every Lyris e-mail communication. Alternatively, you can contact us as described below if you would like your Personal Information deleted. We will respond to your request within 30 business days.
-
-We will retain your Personal Information for as long as your account is active or as needed to provide you with information or services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us as described below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-### Onward Transfers
-
-We will share your personal information with third parties only in the ways that are described in this Statement. The Personal Information we collect is not shared, rented, or sold to any third-parties. We may provide your Personal Information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We may also disclose your personal information:
-
-  * as required by law, such as to comply with a subpoena, or similar legal process;
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-  * if we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your personal information; and
-  * to any other third party with your prior consent to do so.
+  * when we correspond with you as a customer or prospective customer;
+  * when you visit our website;
+  * when you register as an end-user of our services and an account is created for you;
+  * when you contact us for help;
+  * when you attend our customer conferences or webinars; and
+  * when the site sends us error reports or application analytics data.
 
 
 
-### Lyris’s Provision of Services to its Customers
+**2\. Our Use of your Personal Information**
 
-Lyris is a provider of email marketing solutions. Our Services include Customer database management and analysis, e-mail delivery, e-mail tracking, and website tracking. Some of our products are offered as application Services, meaning that we host a software application that our Customers access via the worldwide web. Each Customer understands that in the course of providing our Services to it, we collect or receive information about the individual to whom our Customer directs its marketing messages. Some of the information that we collect and store on our Customers’ behalf is personally identifiable, meaning that it can be used to identify an individual person.
+Our Company may use information that we collect about you to:
 
-As between Lyris and our Customer, all of the information we receive from our Customer belongs to our Customer and not to Lyris. Lyris collects information under the direction of its Customers, and has no direct relationship with the individuals whose personal data it processes. Lyris may use such information only as provided in our written agreement with the individual Customer. While our specific responsibilities regarding such information are found in these written Customer agreements, Lyris does not allow individual information collected and stored for one Customer to be accessed or used by any other Lyris Customer (or by Lyris on its own behalf). We reserve a limited right to use our Customers’ information to compile aggregated statistics, which we use to report such facts as how many emails we have delivered. However, we do not disclose this information in such a way as to enable anyone to identify a Customer or any individual. Our Customer agreements also permit us to disclose any information if required by law or court order, and to access a Customer’s email addresses in order to unsubscribe an individual who asks us to do so. If you are an end user of one of our Customers, and would no longer like to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly. An end user who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Lyris’ Customer (the data controller). If the Customer requests Lyris to remove the data, we will respond to their request within 30 business days.
+  * deliver the products and services that you have requested;
+  * manage your customer relationship and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, or other third parties;
+  * develop and display content and advertising tailored to your interests on our site and other websites;
+  * verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes;
+  * enforce our terms and conditions;
+  * manage our business;
+  * perform functions as otherwise described to you at the time of collection; and
+  * sell or transfer personal information to third parties for any legally permissible purpose in our sole discretion.
 
-Lyris may transfer personal information to companies that help us provide our service. Transfers to these third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Customers.
 
-In our Customer agreements, we require each Customer to abide by all laws, rules and regulations that are applicable to the Customer’s use of our Services (such as CAN-SPAM), and we promise each Customer that we will do the same with respect to our provision of Services. We ask each Customer to post a privacy policy that covers the Customer’s use of our Services. We also request the Customer to acquire and maintain all rights that allow us to provide the Services, such as to receive the information that we collect and store on the Customer’s behalf.
 
-For any email list that we manage on behalf of a Customer, the email recipients can unsubscribe from the list via a link in the footer of most e-mail messages that we deliver. Alternatively, recipients can reply to an e-mail message according to the instructions provided at the bottom of the message. Finally, a recipient can contact us as provided below and we will manually unsubscribe you from any list.
+**3\. Our Disclosure of your Personal Information to Third Parties**
 
-Our Services sometimes use cookies to help our Customers better analyze the success of their email and other online marketing campaigns. The cookies we use are often correlated with information that can identify an individual, but this information is not shared with anyone other than the Customer. As with the email addresses and other information we maintain and process for each of our Customers, this information is not used by us except as described above or shared with other Lyris Customers.
+We may share your personal information with third parties only in the ways that are described in this Privacy Statement:
 
-Lyris is not responsible for its Customers' own privacy policies and makes no representations about their accuracy. If you have questions about our Customers' practices, we recommend you check their privacy policies and/or contact them directly.
+  * we may provide your information to our agents, vendors or service providers who perform functions on our behalf;
+  * third party contractors may have access to our databases.  Usually these contractors sign a standard confidentiality agreement;
+  * we may share your data with any parent company, subsidiaries, joint ventures, other entities under a common control or third party acquirers. We expect these other entities will honor this Privacy Statement;
+  * we may allow a potential acquirer or merger partner to review our databases, although we would restrict their use and disclosure of this data during the diligence phase;
+  * as required by law enforcement, government officials, or other third parties pursuant to a subpoena, court order, or other legal process or requirement applicable to our Company; or when we believe, in our sole discretion, that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our agreements or Company policies; and
+  * other third parties with your consent or direction to do so.
 
-### Data Security
 
-Lyris takes reasonable steps to protect Personal Information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. We have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information from loss, misuse, unauthorized access or disclosure, alteration or destruction. However, we cannot guarantee the security of information on, or transmitted via, the Internet.
 
-Lyris will retain personal data we process on behalf of our Customers for as long as needed provide services to our Customer. Lyris will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Please note that these third parties may be in other countries where the laws on processing personal information may be less stringent than in your country.
 
-The security of your personal information and our clients’ information is important to us. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us as set forth below.
+**4\. Our Security Measures to Protect your Personal Information**
 
-### Data Integrity
+Our Company uses industry-standard technologies when transferring and receiving data exchanged between our Company and other companies to help ensure its security. This site has security measures in place to help protect information under our control from the risk of accidental or unlawful destruction or accidental loss, alteration or unauthorized disclosure or access. However, “perfect security” does not exist on the Internet. Also, if this website contains links to other sites, our Company is not responsible for the security practices or the content of such sites.
 
-Lyris processes Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the owning individual. To the extent necessary for those purposes, we take reasonable steps to ensure that Personal Information is accurate, complete, current and reliable for its intended use.
+**5\. Our Use of Cookies, Web Beacons, Web Analytics Services, and Links**
 
-### Safe Harbor
+  * **Cookies.  **Many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personal information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. We also may use cookies to offer you products, programs, or services. You have many choices with regards to the management of cookies on your computer. All major browsers allow you to block or delete cookies from your system. To learn more about your ability to manage cookies, please consult the privacy features in your browser.
+  * **Web Beacons.** Our Company and third parties may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These “web beacons” may be used to deliver cookies that conform to our Company’s cookie requirements.
+  * **Web Analytics Services.** We use Google Analytics, a service for the marketing analysis of the site provided by Google, Inc. Google Analytics uses cookies to allow us to see how you use our site so we can improve your experience. Google’s ability to use and share information collected by Google Analytics about your visits to the site is restricted by the Google Analytics Terms of Use available at <http://www.google.com/analytics/terms/us.html> and the Google Privacy Policy available at <http://www.google.com/policies/privacy/>. You can prevent Google Analytics from recognizing you on return visits to the site by disabling cookies in your browser. If you prefer to not have data reported by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on available at <https://tools.google.com/dlpage/gaoptout>.
+  * **Links.** We may create links to other web sites. We will make a reasonable effort to link only to sites that meet similar standards for maintaining each individual’s right to privacy. However, many other sites that are not associated with or authorized by our Company may have links leading to our site. Our Company cannot control these links and we are not responsible for any content appearing on these sites. Since this website does not control the privacy policies of third parties, you are subject to the privacy practices of that third party. We encourage you to ask questions before you disclose any personal information to others.
+  * **Other.** Our Company websites may use third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements and web usage. This Privacy Statement does not cover any use of information that such third parties may have collected from you or the methods used by the third parties to collect that information.
 
-The Company respects and protects the individual privacy and confidence of our Customers, stakeholders, employees, business partners and others who may use our Services. Protecting consumer privacy is important to the Company. The Company adheres to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America (European Union Safe Harbor). Accordingly, we follow the Seven (7) Safe Harbor Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. Lyris has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Our privacy practices are self-certified as part of the U.S. Commerce Department's Safe Harbor Program. Information regarding the E.U. Safe Harbor Framework can be found at: [http://export.gov/safeharbor](http://export.gov/safeharbor/).
 
-If there is any conflict between the policies in this Statement and the Principles, the Principles shall govern. This Statement outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information.
 
-### Enforcement
+**6\. Our Retention of your Personal Information  **
 
-Company utilizes a self-assessment approach to assure compliance with this Statement and periodically verifies that the Statement is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible. We encourage interested persons to raise any concerns using the contact information provided below, and we will investigate and attempt to resolve any complaints and/or disputes regarding our use and disclosure of Personal Information in accordance with this Statement. We also have a third party dispute resolution provider, TRUSTe. You can contact TRUSTe as described above.
+We will retain any personal information only for as long as is necessary to fulfil the business purpose it was collected. We will also retain and use your personal information for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Children
+**7.  International Transfers of your Personal Information**
 
-This Web site is not intended to nor does it seek to receive any information from children under the age of 13.
+Information collected from you may be stored and processed in the United States or any other country in which our Company or agents or contractors maintain facilities, and by accessing our sites and using our services, you consent to any such transfer of information outside of your country. European Union or Swiss individuals may refer to the Privacy Shield statement below with regard to the transfer of their personal data.
 
-### Contact Information
+**8\. Your Access to and Updating of your Personal Information**
 
-Questions or comments regarding this Statement can be submitted to us by mail or e-mail as follows:
+Reasonable access to your personal information may be provided at no cost upon request made to our Company at the contact information provided below. If access cannot be provided within that time frame, our Company will provide the requesting party a date when the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied.
 
-Lyris Inc  
-401 Congress Avenue  
-Suite 2605  
-Austin, Texas 78701  
-[legal@lyris.com](mailto:legal@lyris.com)
+**9\. Children’s Privacy**
 
-### Amendments
+Because of the nature of our business, our services are not designed to appeal to minors. We do not knowingly attempt to solicit or receive any information from anyone under the age of 13.  If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us immediately.
 
-This Statement may be amended from time to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+**10\. Your California Privacy Rights**
 
-### Information Subject to Other Policies
+Our Company does not currently respond to browser “Do Not Track” (DNT) signals or other mechanisms. Third parties may collect personal information about your online activities over time and across sites when you visit the Site or use the Service.
 
-The Company is committed to following the Principles for all Personal Information within the scope of the Safe Harbor Agreement. However, certain information is subject to policies of the Company that may differ in some respects from the general policies set forth in this Privacy Policy.
+If you are a California resident, California Civil Code Section 1798.83 permits you to request certain information regarding our disclosure of personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please contact us by sending an e-mail to [privacy@aurea.com](mailto:privacy@aurea.com).
 
-  
+Our site, products, and services are not intended to appeal to minors. However, if you are a California resident under the age of 18, and a registered user of our Site or Service, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an e-mail with a detailed description of the specific content or information to [privacy@aurea.com](mailto:privacy@aurea.com). Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
 
+Under California law, California residents who have an established business relationship with us may opt-out of our disclosing personal information about them to third parties for their marketing purposes.
+
+**11\. Changes to our Privacy Statement**
+
+Our Company may amend this Privacy Statement at any time by posting a new version. It is your responsibility to review this Privacy Statement periodically as your continued use of this website represents your agreement with the then-current Privacy Statement.
+
+**12\. Contacting Us**
+
+If you have any questions about this Privacy Statement, the practices or concerns of this site, please contact our Privacy Officer at: [privacy@aurea.com](mailto:privacy@aurea.com).
+
+## Privacy Shield Statement
+
+Aurea Software, Inc. and its U.S. affiliates MessageOne, Inc., NextDocs Corporation, and Lyris Technologies, Inc. (collectively “Aurea”) comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+
+Aurea has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>. If there is any conflict between the policies in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles will govern. This Privacy Statement outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information.
+
+**A). Definitions**
+
+“Personal Data” means information that (1)is transferred from the EU/EEA or Switzerland to the United States; (2) is recorded in any form; (3) is about, or pertains to a specific individual; and (4) can be linked to that individual.
+
+“Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
+
+**B). Principles**
+
+Aurea may receive Personal Data from itself as well as from its affiliates and other parties located in the EU/EEA. Such information may contain names, addresses, email addresses and payment information and may be about customers, clients of customers, business partners, consultants, employees, and candidates for employment and includes information recorded on various media as well as electronic data.
+
+Aurea generally does not collect Personal Data directly from individuals. Aurea, however, may receive Personal Data indirectly via its customers. Aurea expects that those customers comply with the Principles. Aurea will cooperate with its customers to enable them to comply with the Principles, to the extent a Principle is applicable to Aurea.
+
+Whenever Aurea collects Personal Data directly from individuals, Aurea complies with the Principles:
+
+  1. **Notice.** We shall inform an individual of the purpose for which we collect and use their Personal Data and the types of third parties to which our Company discloses or may disclose that Personal Data. Our Company shall provide the individual with the choice and means for limiting the use and disclosure of their Personal Data. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Data to our Company, or as soon as practicable thereafter, and in any event before our Company uses or discloses the Personal Data for a purpose other than for which it was originally collected. Aurea may be required to disclose Personal Data in response to lawful request by public authorities, including to meet national security or law enforcement requirements.
+  2. **Choice.** We will offer individuals the opportunity to choose (opt out) whether their Personal Data is (1) to be disclosed to a third party or (2) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. For Sensitive Personal Information, our Company will give individuals the opportunity to affirmatively or explicitly (opt in) consent to the disclosure of the information to a third party or for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. Our Company shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information.  
+Agents, technology vendors and/or contractors of Aurea or Aurea affiliates may have access to an individual’s Personal Data on a need to know basis for the purpose of performing services on behalf of Aurea or providing or enabling elements of the services. All such agents, technology vendors and contractors who have access to such information are required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Aurea or as otherwise required by law.
+  3. **Accountability for Onward Transfer.** Prior to disclosing Personal Data to a third party, we shall notify the individual of such disclosure and allow the individual the choice (opt out) of such disclosure. Our Company shall ensure that any third party to which Personal Data may be disclosed subscribes to the Principles or is subject to laws providing the same level of privacy protection as is required by the Principles and agrees in writing to provide an adequate level of privacy protection. Aurea may be held responsible in cases of onward transfers to third parties.
+  4. **Data Security.** We shall take reasonable steps to protect the Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction. Our Company has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the Personal Data from loss, misuse, unauthorized access or disclosure, alteration or destruction. However, our Company cannot guarantee the security of Personal Data on or transmitted via the Internet.
+  5. **Data Integrity and Purpose Limitation.** We shall only process Personal Data in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, our Company shall take reasonable steps to ensure that Personal Data is accurate, complete, current and reliable for its intended use.
+  6. **Access and Recourse.** We acknowledge the individual’s right to access their Personal Data. We shall allow an individual access to their Personal Data and allow the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated.
+  7. **Enforcement and Liability.** The Federal Trade Commission has jurisdiction over Aurea’s compliance with the Privacy Shield. In compliance with the Privacy Shield Principles, Aurea commits to resolve complaints about privacy and our collection or use of Personal Data. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact us at: 
+
+Aurea Software, Inc.  
+Privacy Officer  
+401 Congress Avenue, Suite 2650  
+Austin Texas 78701 USA  
+E-mail: [privacy@aurea.com](mailto:privacy@aurea.com)[  
+](mailto:privacy@aurea.com)  
+Aurea has committed to refer unresolved privacy complaints under the Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by our Company, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.If your complaint is not satisfactorily addressed, and your inquiry or complaint involves human resource data, you may have your complaint considered by an independent recourse mechanism: for EU/EEA Data Subjects, a panel established by the EU data protection authorities (“DPA Panel”), and for Swiss Data Subjects, the Swiss Federal Data Protection and Information Commissioner (“FDPIC”). To do so, you should contact the state or national data protection or labor authority in the jurisdiction where you work.  Aurea agrees to cooperate with the relevant national DPAs and to comply with the decisions of the DPA Panel and the FDPIC. The services of EU DPAs are provided at no cost to you.
+
+Please note that if your complaint is not resolved through any of the above channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+
+
+
+**C). Amendments**
+
+This Privacy Statement may be amended from time to time consistent with the requirements of the Shield Frameworks. We will post any revised policy on this website.
+
+**D). Information Subject to Other Policies**
+
+We are committed to following the Principles for all Personal Data within the scope of the Privacy Shield Frameworks. However, certain information is subject to policies of Aurea that may differ in some respects from the general policies set forth in this Privacy Statement.
+
+Updated: April 28, 2017
