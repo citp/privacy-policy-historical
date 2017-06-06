@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hikeitbaby.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817140810id_/https%3A//hikeitbaby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikeitbaby.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161320id_/https%3A//hikeitbaby.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hike It Baby
+# Privacy Policy - Hike it Baby
 
 **www.hikeitbaby.com Privacy Policy**  
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
@@ -51,7 +51,7 @@ However, you can still place orders .
 
 **Third Party Disclosure**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -61,7 +61,7 @@ We do not include or offer third party products or services on our website.
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We have not enabled Google AdSense on our site but we may do so in the future.
 
@@ -124,15 +124,15 @@ and we will promptly remove you from ALL correspondence.
 
 **Hike it Baby 30**
 
-Hike it Baby 30 is a members-only area within our site that can only be accessed by those with a premium account. Within Hike it Baby 30 we offer 5-6 Challenges per year. While anyone can participate regardless of being a member, members are given the ability to access a Log area and a downloadable PDF for their own use. The data collected from the Hike it Baby 30 may be used to help encourage families to get outside. No personal data is shared, only statistical information.
+Hike it Baby 30 is a members-only area within our site that can only be accessed by those with a premium account. Within Hike it Baby 30 we offer 4 Challenges per year. While anyone can participate regardless of being a member, members are given the ability to access a Log area and a downloadable PDF for their own use. The data collected from the Hike it Baby 30 may be used to help encourage families to get outside. No personal data is shared, only statistical information.
 
 **Contacting Us  
 **  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.hikeitbaby.com  
-7046 N. Mobile Ave.  
-Portland, OR 97217  
+422 NW 13th Ave., #755  
+Portland, OR 97209  
 info@hikeitbaby.com
 
 Last Edited on 2015-02-25
