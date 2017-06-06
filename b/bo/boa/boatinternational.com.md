@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatinternational.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120000940id_/http%3A//www.boatinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatinternational.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162423id_/http%3A//boatinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Boat International
 
