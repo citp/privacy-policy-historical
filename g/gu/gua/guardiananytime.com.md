@@ -1,10 +1,30 @@
-> *The following text is extracted and transformed from the guardiananytime.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185120id_/http%3A//www.guardianlife.com/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardiananytime.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190351id_/https%3A//www.guardianlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Guardian Life
+# Privacy Policy | Guardian
 
 Guardian is committed to protecting all of our customer's privacy rights. We comply with the privacy laws governing financial institutions and health insurers.
 
-##  HIPAA FAQs 
+#### Customer Privacy Policy
+
+Our Customer Privacy Policy describes our privacy commitment with respect to information we collect and disclose as a part of the customer relationship. Please note that we have updated our Customer Privacy Policy to make it more 'user friendly'. Guardian remains commited to ensuring that the confidential personal and financial information of our customers is protected. If you have any questions about our Privacy Policy please feel free to contact us at: Privacy Office, P.O. Box 780, Cooper Station, New York, NY 10276-0780
+
+#### Park Avenue Securities Privacy Policy
+
+For any questions on the Park Avenue Securities LLC Privacy Policy, please contact us at Park Avenue Securities LLC, Attn: Customer Service, 7 Hanover Square H4A, New York, NY 10004
+
+HIPAA Privacy Policy
+
+#### English
+
+Our HIPAA Privacy Policy addresses the privacy of protected health information, or PHI, which applies to medical, dental, vision and prescription coverage.
+
+#### Spanish
+
+Nuestro principios de privacidad HIPAA aborda la privacidad de la información protegida de salud, o PHI, que se aplica a los servicios médicos, dentales, de visión y cobertura de medicamentos recetados.
+
+## 
+
+HIPAA FAQs
 
 Our Privacy FAQs address detailed questions about The HIPAA Privacy Rule and how your accounts with Guardian are affected.
 
@@ -12,13 +32,27 @@ Our Privacy FAQs address detailed questions about The HIPAA Privacy Rule and how
 
 [HIPAA Privacy FAQ – Plan Sponsors](https://web.archive.org/privacy-policy/hipaa-faq-plan-sponsors)
 
-##  Contact Us 
+The following forms are for submitting requests mentioned in the HIPAA Privacy Policy.
+
+#### Authorization to disclose PHI
+
+#### Confidential Communication Request
+
+#### Request to Inspect & Copy PHI
+
+#### Accounting of Disclosures Request
+
+## 
+
+Contact Us
 
 If you have any additional questions related to privacy, feel free to [contact us](https://web.archive.org/contact-us).
 
 **At Guardian, we value every aspect of our relationship with you, and nothing could be more important to that relationship than maintaining your trust and confidence. We take our responsibility to protect your personal information very seriously. The purpose of this notice is to make you aware of our policies and procedures for collecting, disclosing, and safeguarding the information that our current and former customers provide to us.**
 
-##  We collect the personal information of our customers from the following sources: 
+## 
+
+We collect the personal information of our customers from the following sources:
 
   * Applications or other forms, such as policies, where we obtain items such as your name, date of birth, etc;
   * Your transactions with us and our affiliates, such as premium payments;
@@ -27,7 +61,9 @@ If you have any additional questions related to privacy, feel free to [contact u
 
 
 
-##  To better serve you, the law provides for the disclosure of certain information we collect as follows: 
+## 
+
+To better serve you, the law provides for the disclosure of certain information we collect as follows:
 
   * With affiliates to administer your policy or account, or to give you information about other products and services that may be of interest to you. We may also share non-credit-related information with affiliates to develop marketing programs. We may do this without obtaining prior authorization and the law does not allow customers to restrict these disclosures.
   * We may also share your information with our affiliates about your transactions and experiences with us, such as payment history.
