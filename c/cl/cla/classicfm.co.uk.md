@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicfm.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033729id_/http%3A//www.classicfm.com/about-classic-fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicfm.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060950id_/http%3A//www.classicfm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Classic FM
 
@@ -8,11 +8,11 @@
 
 **We are Global!**
 
-We are part of “This is Global Limited” and we are obsessive about respecting the privacy of our listeners and customers.
+We are part of “Global” and we are obsessive about respecting the privacy of our listeners and customers.
 
-This policy explains how we will collect information about you through interaction with us over the [radio](https://web.archive.org/radio/), on the TV, our charity activities or through any sales channel and what we will use it for. 
+This policy explains how we will collect information about you through interaction with us over the radio, on the TV, our charity activities or through any sales channel and what we will use it for. 
 
-Any personal information you provide about yourself to us, may be shared across our “This is Global” Group but will only be used in accordance with this Privacy Policy.
+Any personal information you provide about yourself to us, may be shared across our “Global” Group but will only be used in accordance with this Privacy Policy.
 
 Firstly, please be aware that we do not aim to collect any personal information from individuals under the age of 13.
 
@@ -22,11 +22,11 @@ Please note, this Privacy Policy does not apply to websites or text services ope
 
 When we first collect your personal information, we will tell you that we want to keep in contact with you to keep you informed about things that we believe you will be interested in.
 
-You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com) .
+You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
 
 **2 Collection of Information**
 
-We collect personal information from you through your interaction via our websites, text services or other media such as giving your information to one of our roaming “street teams”. This may occur when you participate in, or sign up to, any of  This is Global’s services, such as competitions, research panels, or if you use any of our apps, register an account with one of our websites.
+We collect personal information from you through your interaction via our websites, text services or other media such as giving your information to one of our roaming “street teams”. This may occur when you participate in, or sign up to, any of  Global’s services, such as competitions, research panels, or if you use any of our apps, register an account with one of our websites.
 
 The information we collect will vary depending on the service you request but could include name, address, phone number, email address, user name, password, age, gender, date of birth, household composition, comments, competition answers. We may also ask for additional information depending on the nature of the service provided. We will not normally collect any sensitive personal information from you, and in any event, will request your express consent to do so.
 
@@ -41,7 +41,7 @@ If you use any of our apps, we will collect the following information:
 (ii)          your device - if you access our services from a device such as a mobile telephone running an application, we will uniquely identify each instance of the application, but we will not be able to personally identify you from this information.
 
 **Cookies  
-** We also collect certain information through the use of “cookies” and other similar automated means. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. For more information about cookies and how they are used, please read our cookie policy[JG1]  .
+**We also collect certain information through the use of “cookies” and other similar automated means. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. For more information about cookies and how they are used, please read our cookie policy[JG1] .
 
   
 **3\. Use of Information**
@@ -86,7 +86,7 @@ We reserve the right to transfer personal information we have about you in the e
   
 **5\. Use of Aggregate Information**
 
-We may share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers and other third parties.  However, it will not be possible to identify you from this information. For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests. Some of this information may be collected using cookies as described above and in our [cookie policy](http://www.classicfm.com/cookies/) .
+We may share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers and other third parties.  However, it will not be possible to identify you from this information. For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests. Some of this information may be collected using cookies as described above and in our [cookie policy](http://www.classicfm.com/cookies/).
 
   
 **6\. Data Transfers**
@@ -99,7 +99,7 @@ We may transfer the personal information we collect about you to countries other
 If you are registered for an account with one of our websites you may update your personal information at any time via the "My Details" page for web users, where registration is available on the site. You can access the "My Details Page" from most pages on the website if you are logged-on. If you are a text message user of one of our services then, where appropriate, the text messages you receive from us will alert you to options for un-subscription and/or change of details – please follow these messages.
 
 You have certain rights to the personal information we process about you.   
-You may request access to the personal information we hold about you. If you would like to submit a request please contact us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com) .
+You may request access to the personal information we hold about you. If you would like to submit a request please contact us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
 
   
 **8\. Changes to our Privacy Policy**
@@ -109,4 +109,4 @@ We reserve the right to change our Privacy Policy and all changes will be posted
   
 **9\. Contact Us**
 
-If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights, please contact us at: [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com)  
+If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights, please contact us at: [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com) 
