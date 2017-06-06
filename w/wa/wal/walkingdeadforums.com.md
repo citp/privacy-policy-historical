@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walkingdeadforums.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315080358id_/http%3A//www.walkingdeadforums.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkingdeadforums.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075230id_/http%3A//www.walkingdeadforums.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy-Walking Dead Forums
 
 This is the privacy policy of [Walking Dead Forums](http://www.walkingdeadforums.com/) and will be referred to as “We”, “our” and “us” in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site (“the web site”), which is set out on this web site page.
 
