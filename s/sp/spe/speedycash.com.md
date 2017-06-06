@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627182606id_/http%3A//www.speedycash.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170519id_/https%3A//www.speedycash.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Speedy Cash
 
-## What does Speedy Cash®/Rapid Cash® do with your personal information?
-
-### Facts
+## What does Speedy Cash do with your personal information?
 
 #### What?
 
@@ -29,11 +27,9 @@ Financial companies choose how they share your personal information. Federal law
 
 #### How?
 
-All financial companies need to share **Customer's** personal information to run their everyday business. In the section below, we list the reasons financial companies can share their **Customer's** personal information; the reasons **Speedy Cash/Rapid Cash** chooses to share; and whether you can limit this sharing.
+All financial companies need to share **Customer's** personal information to run their everyday business. In the section below, we list the reasons financial companies can share their **Customer's** personal information; the reasons **Speedy Cash** chooses to share; and whether you can limit this sharing.
 
-* * *
-
-Reasons we can share your personal information | Does Speedy/Rapid Cash share | Can you limit this sharing?  
+Reasons we can share your personal information | Does Speedy Cash share | Can you limit this sharing?  
 ---|---|---  
 For our everyday business purposes \- such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  | Yes | No  
 For our marketing purposes \- to offer our products and services to you  | Yes | No  
@@ -43,29 +39,19 @@ For our affiliates' everyday business purposes \- information about your creditw
 For our affiliates to market to you | Yes | Yes  
 For nonaffiliates to market to you | Yes | Yes  
   
-### To limit our sharing
-
-Click here to access our opt-out [mail form](https://web.archive.org/privacy-policy/mailform.htm).
+Click here to access our opt-out [mail form](https://web.archive.org/about-us/privacy-policy/mail-form).
 
 Please note: If you are a **_new_** Customer, we can begin sharing your information **30** days from the date you complete your first transaction with us. When you are **_no longer_** our Customer, we continue to share your information as described in this policy; you can contact us at any time, however, to limit our sharing.
 
-* * *
-
-### Who we are
-
 #### Who is providing this policy?
 
-Speedy Cash/Rapid Cash group of companies which provides, or arranges, for consumers to obtain various financial products and services such as loans and check cashing.
+Speedy Cash group of companies which provides, or arranges, for consumers to obtain various financial products and services such as loans and check cashing.
 
-* * *
-
-### What we do
-
-#### How does Speedy Cash/Rapid Cash protect my personal information?
+#### How does Speedy Cash protect my personal information?
 
 We take reasonable precautions to protect the personal information collected or maintained by us against loss, unauthorized access, and illegal use or disclosure. As examples, these measures include computer safeguards and secured files and buildings, among other things. We use encryption software to protect the security of individuals' personal information during transmission of such information through our websites (for example, the information provided by consumers when submitting an application to us for a loan product).
 
-#### How does Speedy Cash/Rapid Cash collect my personal information?
+#### How does Speedy Cash collect my personal information?
 
 We collect personal information on individuals only as allowed by law. We limit the collection of personal information to what is relevant and necessary to accomplish a lawful purpose.
 
@@ -79,9 +65,11 @@ We use Google Analytics to see how visitors are using SpeedyCash.com. Google Ana
 
 Although we do not collect personally identifiable information on consumers that visit our website, there exists the possibility that other third parties conduct online tracking on our website and app over which we do not control.
 
+You may link your Facebook account to your SpeedyCash.com account, which allows us to obtain information from your Facebook account (like your friends or contacts). The information we get from Facebook often depends on your settings and Facebook’s privacy policy. You have the ability to restrict the information we have access to by updating the settings within your Facebook account. In addition, you can also disconnect your Facebook account from your SpeedyCash.com account at any time. If you link your accounts, Speedy Cash will not market to any of your Facebook friends or contacts.
+
 #### Online Tracking
 
-We partner with companies that deliver ads for our financial products and services on sites that you visit on the web. In order to provide you with a more appropriate online experience, some of our ads that you may see are based on your previous online activity on our websites and other websites. Information about your online activities, combined with other information, may be used to select an ad for a product or service that better matches your interests – which is called online behavioral advertising (OBA) or interest-based advertising.
+We partner with companies that deliver ads for our financial products and services on sites that you visit on the web. In order to provide you with a more appropriate online experience, some of our ads that you may see are based on your previous online activity on our websites and other websites. Information about your online activities, combined with other information, may be used to select an ad for a product or service that better matches your interests - which is called online behavioral advertising (OBA) or interest-based advertising.
 
 You can opt out from receiving ads based on your online behavior either by visiting the Digital Advertising Alliance (DAA) opt out page at <http://www.aboutads.info/choices/>. If you elect to opt out of OBA, you will still see ads, but they may not be as pertinent to you. Please keep in mind that opting out is cookie-based and will only affect the specific computer and browser on which the opt-out cookie is applied. If you delete your browser cookies or if you use a different computer or a different browser and want to continue to be opted out of OBA, you will need to opt out again.
 
@@ -96,10 +84,6 @@ We only use or disclose personal information for the specified purposes, or purp
 #### North Dakota Residents
 
 We will not disclose information about your with non-affiliated, third party companies or financial institutions, other than as required or permitted by law, without your express permission.
-
-* * *
-
-### Definitions
 
 #### Affiliates
 
