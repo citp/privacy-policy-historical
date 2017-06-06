@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magna.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119232528id_/http%3A//www.magna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magna.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221702id_/http%3A//www.magna.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Magna International Inc.
+# Magna: Privacy
 
 Magna International Inc. (“Magna”) has created this privacy statement in order to demonstrate our firm commitment to preserving your privacy as it relates to the collection, use and disclosure of personal information on this site: [www.magna.com](http://www.magna.com/)
 
