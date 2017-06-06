@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loupiote.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306085302id_/http%3A//loupiote-sf.blogspot.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loupiote.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105844id_/http%3A//blog.loupiote.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Loupiote Blog - Photography by Tristan Savatier: Privacy Policy and Use of Web Cookies
 
