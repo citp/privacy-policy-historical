@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofluid.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914161855id_/https%3A//mofluid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofluid.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172949id_/https%3A//mofluid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mofluid.com
 
@@ -46,7 +46,7 @@ This Web site contains links to other sites. Please be aware that we, Mofluid, a
 This web site takes every precaution to protect our visitor’s information. When visitors submit sensitive information via the web site, their information is protected both online and offline.  
 Our order form asks customers to enter sensitive information (such as credit card number and/or social security number). That information is protected by 128-bit encryption via SSL (Secure Sockets Layer) [(Learn more about SSL technology here)]().  
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information offline. All of our customers’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.  
-If visitors have any questions about the security on mofluid.com, feel free to [contact us](https://web.archive.org/web/20160914161855id_/https%3A//mofluid.com/contact.html).  
+If visitors have any questions about the security on mofluid.com, feel free to [contact us](https://web.archive.org/web/20170606172949id_/https%3A//mofluid.com/contact.html).  
 
 
 #### Correcting, Updating, deleting & Deactivating Personal Information
