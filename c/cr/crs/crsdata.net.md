@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crsdata.net privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519155821id_/http%3A//crsdata.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crsdata.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205107id_/http%3A//crsdata.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CRS Data
 
