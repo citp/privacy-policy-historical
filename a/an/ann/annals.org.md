@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the annals.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616030436id_/http%3A//annals.org/SS/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annals.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140621id_/http%3A//annals.org/aim/pages/privacy-policy) for the most accurate reproduction.*
 
-# Annals of Internal Medicine | PrivacyPolicy
-
-### ACP Privacy Policy
+# Privacy Policy | Annals of Internal Medicine | American College of Physicians
 
 [Digital Millenium Copyright Act](http://www.acponline.org/help/privacy/#dmca)
 
-#### Purpose
+## Purpose
 
 To inform web site visitors of ACP's efforts to protect the privacy of information collected at College web sites. Please note that some of the links on College web sites connect to other web sites. Once you leave any ACP web site and enter another web site (whether through an advertisement, co-brand, service, or content link), be aware that any information you disclose on or through those sites is not subject to this privacy policy. ACP does not endorse and is not responsible for the privacy practices of any third party web sites to which we may link. You acknowledge that such other web site locations are not under the control of ACP and agree that ACP shall not be responsible for any information or other links found at any linked site. ACP provides such links only as a convenience to you and has not tested any software or verified any information disclosed on or through such sites. You should always review the privacy policy for those sites to understand how they treat your personal information. Within College web sites, this privacy policy applies only to the information described below.
 
-#### Policy
+## Policy
 
 The American College of Physicians is committed to protecting the privacy of its members and customers. This document describes the information we collect from our web site and how we use it.
 
@@ -28,7 +26,7 @@ When you view pages and graphics on our web sites, the following information is 
 
 If you have logged into a password-protected part of our web site, we also record your user name.
 
-#### Cookies
+## Cookies
 
 ACP web sites send all visitors a cookie (small computer file) that contains a unique serial number. Each time our web server receives a request for a page, it checks to see if the cookie is present-this enables us to determine how much of our traffic is from repeat visitors.
 
@@ -38,40 +36,43 @@ You may use the College's web sites without accepting cookies. The "Help" functi
 
 ACP Online, Annals.org and some other ACP websites use tracking tools for various purposes such as evaluating usage of the sites or to advertise on third party websites (including Google) to previous visitors of these sites. Such services can include displaying messages and links to previous visitors who haven't completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, another site in the Google Display Network, or other third-party sites. Third-party vendors use cookies to serve ads based on users' past visits to ACP Online, Annals.org and other ACP sites. Any data collected will be used in accordance with our own privacy policy and Google's privacy policy. To opt out of this feature, visit [ www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/).
 
-#### Personal information
+## Personal information
 
-Personal information is information that can be used to identify or contact you. Registration for ACP web sites is open only to College members and subscribers to College journals or online products; it requires only the provision of a valid member or customer number and, for verification purposes, personal information already contained in College member or customer records, such as name or birth date. _New personal information is not collected as part of the registration process_. In the course of using College web sites, however, you may be asked to provide personal information in order to purchase a product, participate in a College activity, or otherwise interact with ACP. This information will not be shared with other organizations as the result of your use of a College web site unless the form used for collecting it explicitly states that it will be shared with another organization.
+Personal information is information that can be used to identify or contact you. In the course of using College web sites, you may be asked to provide personal information in order to create a new ACP customer account, which may be necessary to access certain free online content or products, purchase a product, participate in a College activity, or otherwise interact with ACP. This information will not be shared with other organizations as the result of your use of a College web site unless the form used for collecting it explicitly states that it will be shared with another organization.
 
 _Important note for College members_ : ACP maintains a membership database independent of its web operations. The information in this database is drawn from membership applications, dues payment forms, product orders and other transactions between the College and its members. Using this database, the College occasionally shares member data with other organizations. You may instruct the College not to share your personal information by contacting Customer Service at 1-800-523-1546 or [custserv@acponline.org](mailto:custserv@acponline.org). In rare instances, personal information may be disclosed for legal or other reasons; these circumstances are noted at the end of this document.
 
 The College uses member e-mail addresses for the sole purpose of conducting College business and for communicating with College members. The College will not sell or lease your e-mail address to other persons or organizations. 
 
-**How information is used**
+### **How information is used**
 
 We use the information noted above to facilitate effective operation of College web sites, to improve the design and performance of our products, and to measure usage by members. We also review use of our site by individual users if a user's account is associated with 1) attempts to violate the security of ACP computer networks, 2) activity that degrades the performance of College web sites, or 3) activity that may be related to copyright violation.
 
 Information we record is collected into reports that enable us to monitor usage and security. Usage statistics are distributed within the College. They may be shared with advertisers for the purpose of showing them how many hits their ads have received. _We do not release any information that would allow identification of individual users to outside companies._
 
-**Security and e-commerce**
+### **Security and e-commerce**
 
 Our secure server enables you to transmit a credit card number to us with confidence. Our secure server certificate is issued by VeriSign. We do not store your credit card number after your transaction has been processed.
 
-If you have a question about our privacy policy, send e-mail to [interpub@acponline.org](mailto:interpub@acponline.org).
+If you have a question about our privacy policy, send e-mail to [custserv@acponline.org](mailto:custserv@acponline.org).
 
-**Disclosure of personal information contained in member and customer records**
+### **Disclosure of personal information contained in member and customer records**
 
-**Disclosure required by law or emergency circumstances -**  
+#### **Disclosure required by law or emergency circumstances -**
+
 Personal information is information that can be used to identify or contact you. ACP may release personal information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others. In the event that we are legally compelled to disclose your personal information to a third party, we will notify you unless doing so would violate the law or court order.
 
-**Disclosure in the context of mergers and acquisitions -**  
+#### **Disclosure in the context of mergers and acquisitions -**
+
 ACP may disclose personal information to an organization with which it merges, or which acquires ACP or substantially all of its assets. Any personal information provided to such organization will be provided subject to that organization taking reasonable steps to keep personal information private.
 
-**Disclosure to ACP operations and maintenance contractors** -  
+#### **Disclosure to ACP operations and maintenance contractors** -
+
 ACP operations and maintenance contractors sometimes have limited access to your personal information in the course of providing products or services to ACP. Access to your personal information by these contractors is limited to the information reasonably necessary in order for the contractor to perform its limited function for ACP. We also contractually require that our operations and maintenance contractors 1) protect the privacy of your personal information, and 2) not use or disclose your personal information for any purpose other than providing us with products and services.
 
 .
 
-#### Digital Millenium Copyright Act: Notice and Take Down Procedure for Making Claims of Copyright Infringement by ACP on ACPOnline.org
+## Digital Millenium Copyright Act: Notice and Take Down Procedure for Making Claims of Copyright Infringement by ACP on ACPOnline.org
 
 _Please note that these notifications and counter-notifications are legal notices provided outside of the American College of Physicians environment. American College of Physicians may provide copies of such notices to the participants in the dispute or third parties, at our discretion and as required by law - **the privacy policy for American College of Physicians does not protect information provided in these notices**._
 
@@ -84,7 +85,7 @@ DMCA Agent: April Oeffler
 Philadelphia, PA 19106  
 (p) 215-351-2791 (f) 215-351-2449 (e) [aoeffler@acponline.org](mailto:aoeffler@acponline.org)
 
-##### Notification
+## Notification
 
 Your written notification (the " **Notification** ") to the above-referenced designated agent must include substantially all of the following: 
 
@@ -103,10 +104,9 @@ Upon receipt of a Notification containing substantially all of the foregoing, Op
   2. Forward the Notification to the alleged infringer (the "Impacted Party"); and 
   3. Take reasonable steps to promptly notify the Impacted Party that Operator has removed or disabled access to the allegedly infringing material. 
 
-  
 
 
-##### Counter Notification 
+## Counter Notification 
 
 The Impacted Party may submit a counter notification in writing to the above-referenced designated agent of Operator. The written counter notification (the " **Counter Notification** ") must include substantially all of the following: 
 
@@ -125,4 +125,4 @@ Upon receipt of a Counter Notification containing substantially all of the foreg
 
 
 
-Operator's policy is to terminate the online privileges of individuals who repeatedly violate the copyrights of others. 
+**Operator's policy is to terminate the online privileges of individuals who repeatedly violate the copyrights of others.**
