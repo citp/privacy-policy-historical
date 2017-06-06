@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the econotimes.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124183222id_/http%3A//www.econotimes.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econotimes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160825id_/http%3A//www.econotimes.com/policy) for the most accurate reproduction.*
 
 # Breaking News, Business, Financial and Economic News, World News from EconoTimes
 
