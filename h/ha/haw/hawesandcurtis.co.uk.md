@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawesandcurtis.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123121846id_/http%3A//www.hawesandcurtis.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawesandcurtis.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084835id_/http%3A//www.hawesandcurtis.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hawes and Curtis
 
@@ -14,7 +14,7 @@ Information that is provided when you register your credit card and/or your corp
 
 Information that is provided to us by third parties such as credit reference agencies when we may check your credit rating.
 
-Information that we obtain from your visits to our website, transactions you carry out and fulfilling any order that you may place.
+Information that we obtain from your visits to our website and stores, transactions you carry out and fulfilling any order that you may place.
 
 ## IP ADDRESSES AND COOKIES
 
