@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beyondbank.com.au privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119193325id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beyondbank.com.au privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606034358id_/https%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat"><head>
 <link rel="canonical" href="http://www.beyondbank.com.au/privacy.html">
@@ -24,7 +24,17 @@
 <script async="" src="/resources/templating-kit/themes/foundation/js/vendor/respond.min.js"></script>
 <script async="" src="/resources/templating-kit/themes/foundation/js/vendor/custom.modernizr.js"></script>
 <link rel="icon" type="image/x-icon" href="/resources/templating-kit/themes/foundation/img/icons/favicon.ico">
-<link rel="shortcut icon" type="image/x-icon" href="/resources/templating-kit/themes/foundation/img/icons/favicon.ico"></head>
+<link rel="shortcut icon" type="image/x-icon" href="/resources/templating-kit/themes/foundation/img/icons/favicon.ico">
+<script>
+// wait until MagnoliaCaptchaManager has loaded http://stackoverflow.com/a/17914854
+function deferRecaptcha(method) {
+if (window.MagnoliaCaptchaManager)
+method();
+else
+setTimeout(function() { deferRecaptcha(method) }, 50);
+}
+</script>
+<script type="text/javascript" async="" defer="" data-recaptcha="true" src="https://www.google.com/recaptcha/api.js?onload=recaptchaLoadCallback&amp;render=explicit"></script></head>
 <body style="">
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TDLH9R"
@@ -42,7 +52,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.src=
 <script>var squashed=false;</script>
 <!-- Header -->
 <div id="shifter">
-<header>
+<header class="noSubNav">
 <div class="container-row">
 <div class="logo-container">
 <a class="logo" href="http://www.beyondbank.com.au/">Beyond Bank Australia</a>
@@ -56,7 +66,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.src=
 <li class="interest icon"><a href="/interest-rates.html">Interest Rates</a></li>
 <li class="live-chat icon"><a href="/banking/">How to Bank</a></li>
 <li class="branches icon"><a href="/locate-us.html">Locate Us</a></li>
-<li class="contact icon"><a href="/contact-us.html">Contact Us</a> </li> <li><a href="tel:132585">13 25 85</a></li>
+<li class="contact icon"><a href="/contact-us.html">Contact Us</a></li>
+<li class="phone"><a href="tel:132585">13 25 85</a></li>
 </ul>
 <nav class="top-bar">
 <ul class="title-area">
@@ -73,7 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.src=
 </li>
 <li class="
 ">
-<a href="/business-banking.html">Business</a>
+<a href="/business-banking.html">Business Banking</a>
 </li>
 <li class="
 ">
@@ -173,7 +184,7 @@ Community Home
 </li>
 <li>
 <a href="/community-sector-banking/Community-Account.html">
-Community Account
+Community Bank Account
 </a>
 </li>
 <li>
@@ -240,7 +251,7 @@ Redundancy
 </li>
 <li>
 <a href="/financial-planning/our-planners.html">
-Our Planners
+Our Advisers
 </a>
 </li>
 <li>
@@ -590,6 +601,13 @@ Email: <a href="mailto:contactus@beyondbank.com.au?subject=Privacy">contactus@be
 </div>
 <div class="row">
 <div class="large-12 columns">
+<input id="portOfferForm_recaptcha" type="hidden" name="recaptcha">
+<script type="text/javascript" defer="">
+deferRecaptcha(function() {
+MagnoliaCaptchaManager.attach('portOfferForm', '#portOfferForm_div_recaptcha', 'portOfferForm_recaptcha', false , function(token){ portOfferFormCallback(token); } );
+});
+</script>
+<div id="portOfferForm_div_recaptcha" class="g-recaptcha" data-size="invisible"></div>
 <br>
 <input id="portOfferSubmit" class="bouton right" type="submit" value="Submit">
 </div>
@@ -701,7 +719,7 @@ $("#lendingEnquiryWrapper").attr("style", "display: none");
 <div class="row">
 <div class="large-6 columns">
 <label for="onlineEnquiryState">State or Territory (*)</label>
-<select id="onlineEnquiryState" name="onlineEnquiryState" required="" class="hidden-field" data-id="1580442198745-j5JhK">
+<select id="onlineEnquiryState" name="onlineEnquiryState" required="" class="hidden-field" data-id="1580442197706-ayJnH">
 <option value="">Please select...</option>
 <option value="ACT">ACT</option>
 <option value="NSW">NSW</option>
@@ -711,7 +729,7 @@ $("#lendingEnquiryWrapper").attr("style", "display: none");
 <option value="WA">WA</option>
 <option value="QLD">QLD</option>
 <option value="VIC">VIC</option>
-</select><div class="custom dropdown" data-id="1580442198745-j5JhK"><a href="#" class="current">Please select...</a><a href="#" class="selector"></a><ul><li class="selected">Please select...</li><li class="">ACT</li><li class="">NSW</li><li class="">NT</li><li class="">SA</li><li class="">TAS</li><li class="">WA</li><li class="">QLD</li><li class="">VIC</li></ul></div>
+</select><div class="custom dropdown" data-id="1580442197706-ayJnH"><a href="#" class="current">Please select...</a><a href="#" class="selector"></a><ul><li class="selected">Please select...</li><li class="">ACT</li><li class="">NSW</li><li class="">NT</li><li class="">SA</li><li class="">TAS</li><li class="">WA</li><li class="">QLD</li><li class="">VIC</li></ul></div>
 </div>
 </div>
 <div class="row">
@@ -721,7 +739,7 @@ $("#lendingEnquiryWrapper").attr("style", "display: none");
 </div>
 <div class="large-6 columns">
 <label for="onlineEnquiryTopic">Topic</label>
-<select id="onlineEnquiryTopic" name="topic" class="hidden-field" data-id="1580442198755-fqPQx">
+<select id="onlineEnquiryTopic" name="topic" class="hidden-field" data-id="1580442197713-pfRpf">
 <option value="ALL Categories">ALL Categories</option>
 <option value="Business Banking">Business Banking</option>
 <option value="Community">Community</option>
@@ -732,7 +750,7 @@ $("#lendingEnquiryWrapper").attr("style", "display: none");
 <option value="Products and/or Service">Products and/or Service</option>
 <option value="Transactions">Transactions</option>
 <option value="Other">Other</option>
-</select><div class="custom dropdown" data-id="1580442198755-fqPQx"><a href="#" class="current">ALL Categories</a><a href="#" class="selector"></a><ul><li class="selected">ALL Categories</li><li class="">Business Banking</li><li class="">Community</li><li class="">Financial Planning and/or Wealth Management</li><li class="">Fraud</li><li class="">Insurance</li><li class="">Loans</li><li class="">Products and/or Service</li><li class="">Transactions</li><li class="">Other</li></ul></div>
+</select><div class="custom dropdown" data-id="1580442197713-pfRpf"><a href="#" class="current">ALL Categories</a><a href="#" class="selector"></a><ul><li class="selected">ALL Categories</li><li class="">Business Banking</li><li class="">Community</li><li class="">Financial Planning and/or Wealth Management</li><li class="">Fraud</li><li class="">Insurance</li><li class="">Loans</li><li class="">Products and/or Service</li><li class="">Transactions</li><li class="">Other</li></ul></div>
 </div>
 </div>
 <div class="row">
@@ -756,7 +774,7 @@ $("#lendingEnquiryWrapper").attr("style", "display: none");
 <div class="row">
 <div class="large-6 columns">
 <label for="onlineEnquiryStateB">State or Territory (*)</label>
-<select id="onlineEnquiryStateB" name="onlineEnquiryStateB" required="" class="hidden-field" data-id="1580442198761-K9zxb">
+<select id="onlineEnquiryStateB" name="onlineEnquiryStateB" required="" class="hidden-field" data-id="1580442197719-EcBn6">
 <option value="">Please select...</option>
 <option value="ACT">ACT</option>
 <option value="NSW">NSW</option>
@@ -766,7 +784,7 @@ $("#lendingEnquiryWrapper").attr("style", "display: none");
 <option value="WA">WA</option>
 <option value="QLD">QLD</option>
 <option value="VIC">VIC</option>
-</select><div class="custom dropdown" data-id="1580442198761-K9zxb"><a href="#" class="current">Please select...</a><a href="#" class="selector"></a><ul><li class="selected">Please select...</li><li class="">ACT</li><li class="">NSW</li><li class="">NT</li><li class="">SA</li><li class="">TAS</li><li class="">WA</li><li class="">QLD</li><li class="">VIC</li></ul></div>
+</select><div class="custom dropdown" data-id="1580442197719-EcBn6"><a href="#" class="current">Please select...</a><a href="#" class="selector"></a><ul><li class="selected">Please select...</li><li class="">ACT</li><li class="">NSW</li><li class="">NT</li><li class="">SA</li><li class="">TAS</li><li class="">WA</li><li class="">QLD</li><li class="">VIC</li></ul></div>
 </div>
 <div class="large-6 columns">
 <label for="onlineEnquiryTelephoneB">Telephone (*)</label>
@@ -789,14 +807,14 @@ $("#lendingEnquiryWrapper").attr("style", "display: none");
 </div>
 <div class="large-6 columns">
 <label for="onlineEnquiryTopicB">Topic</label>
-<select id="onlineEnquiryTopicB" name="onlineEnquiryTopicB" class="hidden-field" data-id="1580442198771-OSs7f">
+<select id="onlineEnquiryTopicB" name="onlineEnquiryTopicB" class="hidden-field" data-id="1580442197726-xAUTo">
 <option value="ALL Categories">ALL Categories</option>
 <option value="Bank Guarantees">Bank Guarantees</option>
 <option value="Business Banking">Business Banking</option>
 <option value="Lending">Lending</option>
 <option value="Merchant">Merchant</option>
 <option value="Other">Other</option>
-</select><div class="custom dropdown" data-id="1580442198771-OSs7f"><a href="#" class="current">ALL Categories</a><a href="#" class="selector"></a><ul><li class="selected">ALL Categories</li><li class="">Bank Guarantees</li><li class="">Business Banking</li><li class="">Lending</li><li class="">Merchant</li><li class="">Other</li></ul></div>
+</select><div class="custom dropdown" data-id="1580442197726-xAUTo"><a href="#" class="current">ALL Categories</a><a href="#" class="selector"></a><ul><li class="selected">ALL Categories</li><li class="">Bank Guarantees</li><li class="">Business Banking</li><li class="">Lending</li><li class="">Merchant</li><li class="">Other</li></ul></div>
 </div>
 </div>
 <div class="row" id="memberNumberWrapper" style="display: none">
@@ -834,14 +852,14 @@ $("#lendingEnquiryWrapper").attr("style", "display: none");
 </div>
 <div class="large-6 columns">
 <label for="securityOfferedB">Type of security offered (*)</label>
-<select id="securityOfferedB" name="securityOfferedB" required="" class="hidden-field" data-id="1580442198779-6OGuI">
+<select id="securityOfferedB" name="securityOfferedB" required="" class="hidden-field" data-id="1580442197733-WDTyC">
 <option value="">Please select...</option>
 <option value="Residential Property">Residential Property</option>
 <option value="Commercial Property">Commercial Property</option>
 <option value="Term Deposit">Term Deposit</option>
 <option value="Unsecured">Unsecured</option>
 <option value="Other">Other</option>
-</select><div class="custom dropdown" data-id="1580442198779-6OGuI"><a href="#" class="current">Please select...</a><a href="#" class="selector"></a><ul><li class="selected">Please select...</li><li class="">Residential Property</li><li class="">Commercial Property</li><li class="">Term Deposit</li><li class="">Unsecured</li><li class="">Other</li></ul></div>
+</select><div class="custom dropdown" data-id="1580442197733-WDTyC"><a href="#" class="current">Please select...</a><a href="#" class="selector"></a><ul><li class="selected">Please select...</li><li class="">Residential Property</li><li class="">Commercial Property</li><li class="">Term Deposit</li><li class="">Unsecured</li><li class="">Other</li></ul></div>
 </div>
 </div>
 <div class="row">
@@ -860,6 +878,13 @@ $("#lendingEnquiryWrapper").attr("style", "display: none");
 </div>
 <div class="row">
 <div class="large-12 columns">
+<input id="onlineEnquiryForm_recaptcha" type="hidden" name="recaptcha">
+<script type="text/javascript" defer="">
+deferRecaptcha(function() {
+MagnoliaCaptchaManager.attach('onlineEnquiryForm', '#onlineEnquiryForm_div_recaptcha', 'onlineEnquiryForm_recaptcha', false , function(token){ onlineEnquiryFormCallback(token); } );
+});
+</script>
+<div id="onlineEnquiryForm_div_recaptcha" class="g-recaptcha" data-size="invisible"></div>
 <br>
 <input id="onlineEnquirySubmit" class="bouton right" type="submit" value="Submit">
 </div>
@@ -949,6 +974,13 @@ $("#lendingEnquiryWrapper").attr("style", "display: none");
 <div class="large-12 columns">
 <input type="hidden" name="pageId" value="be6d41c1-9b96-4c6f-8e70-ded2db453605">
 <input type="hidden" id="bapType" name="bapType" value="No BAP type">
+<input id="bookAPlannerForm_recaptcha" type="hidden" name="recaptcha">
+<script type="text/javascript" defer="">
+deferRecaptcha(function() {
+MagnoliaCaptchaManager.attach('bookAPlannerForm', '#bookAPlannerForm_div_recaptcha', 'bookAPlannerForm_recaptcha', false , function(token){ bookAPlannerFormCallback(token); } );
+});
+</script>
+<div id="bookAPlannerForm_div_recaptcha" class="g-recaptcha" data-size="invisible"></div>
 <input id="bookAPlannerSubmit" class="bouton right" type="submit" value="Request">
 </div>
 </div>
@@ -1010,25 +1042,24 @@ $(document).foundation();
 <a href="https://www.beyondbank.com.au/about-us/news.html">
 <h5>News</h5>
 </a>
-<p class="lead"><a href="http://www.beyondbank.com.au/about-us/news.html">Payment Delay</a></p>
-<p><a class="single-feed-text" href="http://www.beyondbank.com.au/about-us/news.html">*UPDATE* 12.20pm (ACST)
-We have now confirmed that all delayed payments have been resolved and customers affected should now see the payments within their ...</a></p>
+<p class="lead"><a href="http://www.beyondbank.com.au/about-us/news.html">Scheduled Maintenance 21 May</a></p>
+<p><a class="single-feed-text" href="http://www.beyondbank.com.au/about-us/news.html">Due to scheduled maintenance, Internet Banking, Phone Banking and the Mobile App will be unavailable on Sunday 21 May 2017 from 1am until approximately 7am ...</a></p>
 </div>
 <div class="large-4 columns">
 <hr>
 <a href="http://www.beyondbank.com.au/blog/">
 <h5>Blog</h5>
 </a>
-<p class="lead"><a href="http://www.beyondbank.com.au/blog/2016/11/top-9-tips-selling-car/">Top 9 tips for selling your car</a></p>
-<p><a class="single-feed-text" href="http://www.beyondbank.com.au/blog/2016/11/top-9-tips-selling-car/">There are no lessons on how to sell a car in school, so it can be a real learning curve..
-The post Top 9 tips for selling your car appeared first on Beyond ...</a></p>
+<p class="lead"><a href="http://www.beyondbank.com.au/blog/2017/06/west-lakes-staff-visit-operation-flinders-head-quarters-sa/">West Lakes staff visit Operation Flinders Head Quarters SA</a></p>
+<p><a class="single-feed-text" href="http://www.beyondbank.com.au/blog/2017/06/west-lakes-staff-visit-operation-flinders-head-quarters-sa/">It was with great enthusiasm that the staff from our West Lakes Branch visited Operation Flinders SA to learn about..
+The post West Lakes staff visit ...</a></p>
 </div>
 <div class="large-4 columns">
 <hr>
 <a href="https://twitter.com/beyondbank">
 <h5>Twitter</h5>
 </a>
-<p><a href="https://twitter.com/BeyondBank/status/799469785251725312">When is the best time to buy a property? https://t.co/Wd9BCiD5ft</a></p>
+<p><a href="https://twitter.com/BeyondBank/status/834223384976191488">@ananov We offer 1.80%, which is slightly lower. Contact our Sales Team on 13 25 85 to chat about our Visa Credit Card requirements.^JB</a></p>
 </div>
 </div>
 </div>
@@ -1126,5 +1157,77 @@ The post Top 9 tips for selling your car appeared first on Beyond ...</a></p>
 <p><a class="bouton" href="/community-sector-banking/community-account.html">Continue to Website <i class="inverse-arrow-icon"></i></a></p>
 </div>
 </div>
+<script>
+var recaptchaLoadCallback = function() {
+MagnoliaCaptchaManager.onLoad();
+}
+var MagnoliaCaptcha = function (options) {
+this.options = options || {
+siteKey: "6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"
+};
+if ($("script[data-recaptcha=true]")){
+script = document.createElement('script');
+script.type = 'text/javascript';
+script.async = true;
+script.defer = true;
+// script.onload = MagnoliaCaptcha.onLoad;
+script.setAttribute('data-recaptcha','true');
+script.src = 'https://www.google.com/recaptcha/api.js?onload=recaptchaLoadCallback&render=explicit';
+document.getElementsByTagName('head')[0].appendChild(script);
+}
+};
+MagnoliaCaptcha.prototype.isLoaded = false;
+MagnoliaCaptcha.prototype.pending = [];
+MagnoliaCaptcha.prototype.rIds = {};
+MagnoliaCaptcha.prototype.onLoad = function() {
+this.isLoaded = true;
+while(this.pending.length > 0) {
+var fn = this.pending.pop();
+fn();
+}
+}
+MagnoliaCaptcha.prototype.onSubmit = function(formId, fieldId, captchaCallback, token) {
+$('#'+fieldId).val(token);
+if(typeof captchaCallback === 'function') {
+captchaCallback(token);
+} else {
+$('#'+formId)[0].submit();
+}
+}
+MagnoliaCaptcha.prototype.render = function(formId, containerSelector, fieldId, executeOnSubmit, captchaCallback) {
+var containerEl = $('#'+formId).find(containerSelector)[0];
+var rId = grecaptcha.render(containerEl, {
+'sitekey' : this.options.siteKey,
+'callback' : this.onSubmit.bind(this, formId, fieldId, captchaCallback),
+'size': 'invisible',
+'badge': 'bottomleft'
+});
+// store the recaptcha id for later
+this.rIds[fieldId] = rId;
+if(executeOnSubmit) {
+// hook into the form submit
+$('#'+formId).submit(function(rId){
+return function(e){
+e.stopPropagation();
+e.preventDefault();
+grecaptcha.execute(rId);
+};
+}(rId));
+}
+}
+/**
+* used to attach recaptcha to a button in the form
+*/
+MagnoliaCaptcha.prototype.attach = function(formId, containerSelector, fieldId, executeOnSubmit, captchaCallback) {
+if(!MagnoliaCaptcha.isLoaded) {
+// push this to an array
+this.pending.push(this.render.bind(this, formId, containerSelector, fieldId, executeOnSubmit, captchaCallback));
+} else {
+// execute now
+this.render(formId, containerSelector, fieldId, executeOnSubmit, captchaCallback);
+}
+}
+window.MagnoliaCaptchaManager = new MagnoliaCaptcha();
+</script>
 
 </body></html>
