@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the justmysize.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/PrivacySecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmysize.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055439id_/http%3A//www.justmysize.com/shop/justmysize/PrivacySecurity) for the most accurate reproduction.*
 
-# Privacy Security
+# JustMySize Privacy Security
 
 * ### Purpose
 
 At HanesBrands, we respect our customers and understand that you may have concerns about privacy. This Consumer Privacy Notice ("Notice") provides an overview of the practices of HanesBrands Inc. and its affiliates, subsidiaries and associates ("HanesBrands", "we","our","us") with respect to the collection, use and disclosure of Personally Identifiable Information ("PII") about consumers.
 
-This Notice and the [Terms of Use](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse) constitute a single Agreement that governs your use of the [Site](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse). Any capitalized term that is not defined in this Notice shall have the meaning given to it in the Terms of Use. The term "consumer", "your" and "you", as used in this Notice, is intended to refer to HanesBrands consumers and visitors to the Site. 
+This Notice and the [Terms of Use](https://web.archive.org/web/20170606055439id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse) constitute a single Agreement that governs your use of the [Site](https://web.archive.org/web/20170606055439id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse). Any capitalized term that is not defined in this Notice shall have the meaning given to it in the Terms of Use. The term "consumer", "your" and "you", as used in this Notice, is intended to refer to HanesBrands consumers and visitors to the Site. 
 
 This Notice applies to information collected on the Site. If you have provided your information through the site of one of our non-US based companies, you should consult the privacy policy provided on that site as these may be governed by different terms.
 
@@ -35,7 +35,7 @@ We are providing this Notice to help you better understand the following:
 
 
 
-We encourage you to refer to this Notice periodically so that you understand our current practices regarding information collected about you through your [use](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse) (as defined in the Terms of Use) of the Site. Your access and use of the Site means that you agree to the terms and conditions set forth in this Notice and the Terms of Use.
+We encourage you to refer to this Notice periodically so that you understand our current practices regarding information collected about you through your [use](https://web.archive.org/web/20170606055439id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse) (as defined in the Terms of Use) of the Site. Your access and use of the Site means that you agree to the terms and conditions set forth in this Notice and the Terms of Use.
 
 * ### Obtaining and Handling Your Consent
 
@@ -121,7 +121,7 @@ HanesBrands may share your PII with third parties (companies and organizations) 
   * **Purposes authorized by you:** When you have requested or authorized such sharing (e.g., payment processing, delivery of goods and services, participating in HanesBrands sponsored programs, if you create a "My Favorites" list and elect to make it available to the public)
   * **Promotional offers:** Although we do not rent customers' e-mail addresses to third parties, we may rent to non-affiliated third parties (for their own marketing or promotional uses) the names and postal addresses of customers that have ordered our products through the Site. The Managing Your Preferences section of this Notice discusses ways that you can modify your promotional and marketing preferences. 
   * **Co-Sponsored events:** We sometimes work with an unaffiliated co-sponsor to provide certain contests, sweepstakes, promotions and other offerings to our consumers. We will let you know if an event or promotion is co-sponsored (for example, by prominently displaying the co-sponsor's name and/or logo on applicable pages on the Site). As part of a co-sponsored event, we may provide the co-sponsor with information (including PII) that is necessary to facilitate the event. In these circumstances, our co-sponsor will have the right to use any PII received from us for its own purposes, and such uses would then be subject to the co-sponsor's own terms of use and Notice. We are not responsible for how our co-sponsors may use your PII that we share in connection with a co-sponsored event. 
-  * **Social media platforms:** If you choose to connect your ID (see [Terms of Use:Registration](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse#tou-registration)) with a Social Media Platform or use your credentials on it to register or log in to the Site, we will ask you for your permission to access your data on the Social Media Platform to create a Site account. 
+  * **Social media platforms:** If you choose to connect your ID (see [Terms of Use:Registration](https://web.archive.org/web/20170606055439id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse#tou-registration)) with a Social Media Platform or use your credentials on it to register or log in to the Site, we will ask you for your permission to access your data on the Social Media Platform to create a Site account. 
   * **Protecting our interests; legal compliance:** We may disclose information we collect when we believe disclosure is appropriate in order to comply with the law, to enforce or apply applicable terms and conditions and other agreements, and/or to protect the rights, property or safety of our company, our consumers, or others. If some or all of our business assets are sold or transferred, we may transfer the corresponding information regarding our consumers. We also may retain a copy of such transferred consumer information.
   * **Aggregated information:** We may share with third parties certain aggregate information (that is, information that does not directly identify an individual). This allows us to give you a more personalized experience when you use the Site.
 
@@ -138,8 +138,8 @@ Since HanesBrands is a multinational organization with a presence in many countr
 You may update your account information and preferences by:
 
   * **Updating your account information:**
-    * If you are a registered user of the Site, you can use the [My Account](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/MyAccount) page on the Site to update your contact, shipping, and other account information.
-    * If you have questions about your order, you may check your order status online in [My Order](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/OrderStatusSummary).
+    * If you are a registered user of the Site, you can use the [My Account](https://web.archive.org/web/20170606055439id_/http%3A//www.justmysize.com/shop/justmysize/MyAccount) page on the Site to update your contact, shipping, and other account information.
+    * If you have questions about your order, you may check your order status online in [My Order](https://web.archive.org/web/20170606055439id_/http%3A//www.justmysize.com/shop/justmysize/OrderStatusSummary).
     * If you have any additional questions, please call our Customer Service department at (800) 832-0594.
   * Managing Your Preferences. We want to communicate with you in the most effective manner, whether by sending you relevant marketing materials or by operating an intuitive and informative website. At the same time, we appreciate that your preferences regarding marketing, promotions and online privacy will continue to evolve. This section provides you with information on how you can fine-tune your preference settings.
     * **Hanesbrands Marketing and Promotions.** If, at any time, you no longer wish to receive marketing or promotional materials from us, you may notify us of your choice in several different ways. You may send an e-mail to [consumer.privacy@hanes.com](mailto:consumer.privacy@hanes.com); you may write to:
