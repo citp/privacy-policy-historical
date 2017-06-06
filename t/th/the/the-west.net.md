@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082232id_/http%3A//legal.innogames.com/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221240id_/https%3A//legal.innogames.com/west/en/privacy) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
@@ -6,7 +6,7 @@ InnoGames GmbH ("InnoGames") is seriously committed towards protecting the priva
 
 Here we would like to inform you about the way we collect and use data. By accessing and using the Website, you expressly declare that you approve of the following data protection provisions. At any time, you have the right to revoke any potentially granted approvals to be effective in the future. (Refer to clause 8 "Revocation option"). 
 
-If you have any questions as to how InnoGames uses your personal data, please contact us. **(refer to clause 9 "Questions on data protection and contact")**. 
+If you have any questions as to how InnoGames uses your personal data, please contact us. **(refer to clause 9 "Questions on data protection and contact")** . 
 
 ## 1\. Capturing and use of your personal data by InnoGames 
 
@@ -36,9 +36,13 @@ In order to design our Internet offer in the most user-friendly manner for you, 
 
 If you do not want cookies to be stored on your computer or wish to be informed of their storage, you can prevent the installation of cookies by a corresponding adjustment to your browser software by selecting the option "do not accept cookies" in your browser settings. Your browser manufacturer's instructions will give you more details on how this works. However, we would like to point out that by preventing cookies, you may find that you cannot use all of the website's functions to the full extent. 
 
-**3.2 Google Analytics**
+**3.2.1 Google Analytics**
 
 Google Analytics, a web analysis service from the provider Google Incorporated ("Google"), collects and stores data on the company`s website, enabling the creation of user profiles under pseudonyms. These user profiles serve to analyse visitor behaviour and are evaluated in order to improve and design our offer so as to meet the demands. Cookies can be used for this purpose. You can prevent cookies being installed by making a corresponding adjustment to your browser software; however, we must point out that if you do so, you may not be able to use all the functions on this website to the full extent. The pseudonymous user profiles are not merged with personal data via the pseudonym carrier without an especially granted approval by the affected person. You can, at any time with effect for the future, object to the collection and storing of data for the purpose of web analysis by installing the browser add-on to deactivate Google Analytics. (<http://tools.google.com/dlpage/gaoptout?hl=de>). 
+
+**3.2.2 Hotjar**
+
+This website uses the services of Hotjar Ltd, Malta. This is an analytics tool which helps us to follow-up your use of our website, e.g. to see how you navigate through our website. The aim is to optimize your experiance as a visitor of our website and to make our offer to you more attractive. Hotjar uses Cookies (meaning small text files which are stored on your device). Further information with regards to Cookies used by Hotjar can be found here: <https://www.hotjar.com/cookies>. If you would like to avoid an installation of Cookies, you can deactivate those as described in Sec. 3.1. We further implemented the Hotjar-Tracking-Code on our website, which allows us to gather the following information: (i) device-specific data (your device's IP address - collected and stored in an anonymized format, device screen size, device type (unique device identifiers) and browser information, country as geographic location, preferred language used to display the webpage) and (ii) log data (referring domain, page(s) visited, country as geographic location, preferred language used to display the webpage, date and time when website pages were accessed). In general, your data is only gathered in anonymized form and no personal references will be made. In case of your registration for our services, your data from Hotjar will not be connected with your personal data. Hotjar does also use services of third parties, such as Google Analytics and Optimizely. Further information about Hotjar’s privacy policy can be found here: <https://www.hotjar.com/privacy>. You can opt out for the future of any gathering and storage of your data by Hotjar under: <https://www.hotjar.com/opt-out>. 
 
 **3.3. Advertising by third parties, links to other websites, Google AdSense, Facebook button**
 
@@ -56,22 +60,28 @@ We will share some of the information we collect from you upon install of the mo
 
 You may "opt out" of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor located at <http://www.mobileapptracking.com/privacy-policy/>. If you “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit our ability to collect information from you, under the terms of this privacy policy, for other vendors.
 
+**3.3.6** We transfer your anonymized device ID (IDentifier For Advertisers - IDFA or Google Advertiser ID - GAID) to some of our Marketing partners within or outside Europe (e.g. US) to generate advertisements for certain user groups with the help of our partners or to exclude certain user groups from special advertisements. The collection, storing and transfer of the device ID can at any time be disabled with effect for the future by adjusting the settings of your mobile device as set out under section § 3.5.
+
+**3.3.7** Our website uses the so-called Facebook Pixel of Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA, http://www.facebook.com (“Facebook”). The Facebook Pixel is a part of code which is implemented in our website. Its aim is to show conversions (i.e. it shows which devices have been used by an user to do an action), to create so-called lookalike audiences (i.e. to reach users with ads which have similar traits like other customers) and to generate comprehensive statistics about the use of our website. If you visit our website the Facebook Pixel directly creates a connection to the servers of Facebook. In this case the Facebook server is informed that you have visited our website and Facebook allocates that information to your personal Facebook profile. Further information about the collection and use of your personal data via Facebook as well as about your rights and possibilities can be found here: <https://www.facebook.com/about/privacy/>. You can deactivate the function as described under: [ https://en-gb.facebook.com/business/help/1415256572060999?helpref=uf_permalink](https://en-gb.facebook.com/business/help/1415256572060999?helpref=uf_permalink). For that you have to be registered with your Facebook account. 
+
+**3.3.8** We allow AOL to serve advertising for our websites with AOL’s website(s) and / or third party websites which are our partners or partners of AOL. The following information is inter alia collected by AOL and / or third parties websites: device ID, impressions, clicks, page views etc. You can stop these advertisements and collection of data for the future via opting-out as described here: [http://www.youronlinechoices.com](http://www.youronlinechoices.com/), <http://www.networkadvertising.org/managing/opt_out.asp> or [http://www.aboutads.info](http://www.aboutads.info/). 
+
+**3.3.9** InnoGames uses a third party service of AppNexus Inc., 28 West 23rd Street, 4th Floor, New York, NY 10010, USA, [https://www.appnexus.com](https://www.appnexus.com/) („AppNexus“) to place advertisements. For that reason we have implemented the Tracking Pixel (i.e. a part of a code) of AppNexus on our website. With the help of the Tracking Pixel actions of users can be tracked. User profiles with personal references are not generated therewith, rather more, statistical information is gathered and transferred to AppNexus. The aim is to optimize advertisement campaigns and to post interest-based ads to internet users. If you do not wish for that you can deactivate this function by using the opt-out button under [ https://www.appnexus.com/en/company/platform-privacy-policy#choices](https://www.appnexus.com/en/company/platform-privacy-policy#choices). Further information about data protection of AppNexus can be found here: [ https://www.appnexus.com/en/company/platform-privacy-policy](https://www.appnexus.com/en/company/platform-privacy-policy). 
+
 **3.4 Usage via a third-party platform; MobileTracking**
 
-By using a website or downloading an InnoGames mobile app from or through a third-party platform, you consent to the access and / or storage of
+In order to improve and optimize our service continuously, we use so-called mobile tracking technologies. For this, we use the services of the adjust GmbH, Saarbrücker Str. 38a, 10405 Berlin, Germany (www.adjust.com). With the help of these services, we collect statistical data on the usage of our apps to be able to constantly improve our offers. While using our apps, information transmitted to us by your device are collected and analyzed. In this respect, the following data are gathered: IP address, which is anonymized right away, MAC address, anonymized Device ID (IDentifier For Advertisers - IDFA or Google Advertiser ID - GAID), browser type, language settings, internet service provider, network status, time zone, URL of the entry and exit pages, date of access and time spent, clickstream data, and other statistical information about the use of our services. A direct individual identification of the user is not possible. The data gathered this way is used to create anonymous user profiles. The data collected with the tracking technologies will not be used to personally identify any visitor of our websites without their explicit consent. The collection and storing of the data can at any time be disabled with effect for the future by adjusting the settings of your mobile device as set out in section §3.5.
 
-  * specific account and/or profile information with this third-party provider or
-  * specific information through cookies placed on your device by third-party platforms. 
+**3.5** You can disable the tracking of your device ID as follows: 
+
+  * In the case of a mobile device of Apple: Open the settings of your mobile device (e.g. iPhone or iPad) and select the menu item “Privacy”. Under “Advertising“ you can turn off the Ad Tracking. 
+  * In the case of Android devices: Open the settings in your App list and tap on the “Ad” button. When the Ad window has opened, you can deactivate the Google Advertising ID. 
 
 
 
-We share this data with the third-party platform for the purpose of use by them according to the terms of use and your privacy settings at this third-party platform. 
+**3.6 wywy Analytics**
 
-If you use a mobile app, InnoGames, in accordance with the privacy settings you have agreed with your mobile operator, can collect your IP address, i.e. the unique identification number automatically assigned to your device; the device type; and any information you voluntarily provide or publish (such as your email address).
-
-We pass on some of this information during the installation of the mobile app to contracted suppliers as well as to other service providers with whom we work who require the duplication or disclosure of this data for the purpose of providing you with the provided services and / or for analysis purposes.
-
-You can, at any time, revoke permission to the access and / or storage of your data for the purpose of analysis by third-party platforms or prevent such access and / or storage of this by using the following apps: [https://play.google.com/store/apps/details?id=com.adxtracking.optout&hl=en](https://play.google.com/store/apps/details?id=com.adxtracking.optout&hl=en) oder <https://itunes.apple.com/en/app/ad-x-tracking-opt-out/id651367370?mt=8>.
+We use wywy Analytics, an analysis service provided by wywy GmbH (“wywy”), for the online measurement of the effectiveness of our TV campaigns. In case our website is visited, wywy collects and stores anonymized data (<http://wywy.com/legal/privacy-policy/> ). This data is used to analyze customer behavior (information on first-time visitors, their reaction to marketing measures, return visitors, duration of visit) with regard to TV. If our website is used with a desktop device, cookies may be used. Cookies are small text files, which are stored locally on the computer of the page visitor and thus enable a recognition when visiting our website again. The IP address of the page visitor is anonymized by wywy the moment it is collected. You can deactivate the use of cookies in your browser settings (see section 3.1). In case a mobile device is used, wywy uses the Advertising ID of your mobile device for the above mentioned analysis service, where the ID has been anonymized by adjust (see section 3.4). The transmission of the Advertising ID can be stopped at any time with effect for the future by adjusting the settings of your mobile device as shown in section 3.5. A direct personal reference does not exist. Any data collected in that way are used to create anonymous user profiles. You may object to the collection and storage of data by wywy at any time and with effect for the future by following this link: <http://wywy.com/wywy-opt-out/>
 
 ## 4\. Use of the Scalable Central Measurement Method
 
@@ -79,7 +89,7 @@ The website uses the "Scalable Central Measurement Method / Skalierbares Zentral
 
 The audience measurement was developed in consideration of data protection. The goal of the audience measurement is to statistically determine user intensity and the number of users of a specific website. Individual users are not identified at any point in time. Your identity is always protected. You will not receive any advertising via the system. 
 
-For websites which are members of the IVW German Audit Bureau of Circulation (Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V., www.ivw.eu) [Information association to determine the distribution of advertisers] or that participate in the study "Internet Facts" organised by the Arbeitsgemeinschaft Online-Forschung e.V. [Work Group Online Research](AGOF - www.agof.de), user statistics are published monthly by the AGOF and the Arbeitsgemeinschaft Media-Analyse e.V. (agma - www.agma-mmc.de), as well as the IVW and can beviewed at http://www.agof.de, http://www.agma-mmc.de and http://www.ivw.eu.
+For websites which are members of the IVW German Audit Bureau of Circulation (Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V.,http://www.ivw.eu) [Information association to determine the distribution of advertisers] or that participate in the study "Internet Facts" organised by the Arbeitsgemeinschaft Online-Forschung e.V. [Work Group Online Research](AGOF -http://www.agof.de), user statistics are published monthly by the AGOF and the Arbeitsgemeinschaft Media-Analyse e.V. (agma -http://www.agma-mmc.de), as well as the IVW and can beviewed at http://www.agof.de, http://www.agma-mmc.de and http://www.ivw.eu.
 
 In addition to the publication of measurement data, the IVW also regularly checks the SZM process to ensure that it is used according to regulations and in line with data protection.
 
@@ -113,7 +123,7 @@ InnoGames can change these data protection provisions or change the content of t
 
 ## 9\. Questions on data protection and contact / information, correction, deletion and blocking
 
-You are always entitled to request information about any of your data that InnoGames has stored, as well as their origin and recipient and the purpose it was stored for. If you have any questions about data protection or if you wish to correct, block or delete your profile or any of qur personal data, or if you would like to revoke a granted authorization regarding the use of your customer data or e-mail adress, please contact the following and also provide user name end your e-mail address: 
+You are always entitled to request information about any of your data that InnoGames has stored, as well as their origin and recipient and the purpose it was stored for. If you have any questions about data protection or if you wish to correct, block or delete your profile or any of your personal data, or if you would like to revoke a granted authorization regarding the use of your customer data or e-mail address, please contact the following and also provide your username and your e-mail address: 
 
 InnoGames GmbH  
 Friesenstraße 13  
@@ -123,5 +133,5 @@ Germany
 Fax: +49 40 7889335-200  
 [privacy@innogames.com](mailto:privacy@innogames.com)
 
-Status: February 2013  
-Copyright InnoGames 2009 – 2014. All rights reserved. 
+Status: March 2017  
+© Copyright InnoGames 2009 – 2017. All rights reserved. 
