@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osteopathic.org privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019231519id_/http%3A//www.osteopathic.org/inside-aoa/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osteopathic.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123957id_/http%3A//www.osteopathic.org/inside-aoa/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ From time-to-time you may see a survey on Osteopathic.org. Participation in thes
 
 **Notification of Changes:**
 
-In the future, the AOA may make changes to this Privacy Policy. When we make changes or additions to our privacy policy, we will post the date of the update on the privacy statement. If you choose to reject any portion of this policy and have your PII removed from AOA records, please notify the AOA at [crc@osteopathic.org](mailto:crc@osteopathic.org)
+In the future, the AOA may make changes to this Privacy Policy. When we make changes or additions to our privacy policy, we will post the date of the update on the privacy statement. If you choose to reject any portion of this policy and have your PII removed from AOA records, please notify the AOA at [crc@osteopathic.org.](mailto:crc@osteopathic.org)
 
 For suggestions, compliments, or complaints regarding Osteopathic.org or this Privacy Policy, please email the AOA at [crc@osteopathic.org](mailto:crc@osteopathic.org) or use the online feedback form. 
 
@@ -110,4 +110,4 @@ This option means that the AOA will not release any physician-provided informati
 
 
 
-The AOA invites you to contact the Customer Resource Center 1-800-621-1773, Extension 1, to change your contact status. These changes become effective immediately. ​​​​​
+The AOA invites you to contact the Customer Resource Center at (888) 62-MYAOA (888-626-9262) to change your contact status. These changes become effective immediately. ​​​​​
