@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoutable.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430152450id_/http%3A//www.spoutable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoutable.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182603id_/http%3A//spoutable.com/privacy) for the most accurate reproduction.*
 
 # Spoutable Privacy Policy
 
@@ -15,19 +15,23 @@ We collect information to provide better services to our users and improve our o
  _Information we derive from your use of our website and by viewing our sponsored content_ : We may collect information about the services that you use and how you use them, like when you visit different parts of our website or view our sponsored content, and what selections you make. We may also automatically collect certain technical information about your:
 
   * Device - We may collect device-specific information (such as your model #, operating system version, unique identifiers, mobile information if you use a mobile device to access our site or our service).
-  * Site Activity - When you use our services or view content provided by us, we may automatically collect and store certain information in server logs, including how you use our service, your internet protocol address, the date and time of your request and referral URL and cookies that may uniquely identify your browser or your account. Cookies are small bits of electronic information that a website can transfer to a visitor’s computer to help target message and keep records of the users visit to a website. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor’s individual preferences. For example, by setting a cookie you would not have to enter information in the Site more than once, thereby saving time. We do not receive or record any personal information in the cookies we use. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access the Content.ad Features.
+  * Site Activity - When you use our services or view content provided by us, we may automatically collect and store certain information in server logs, including how you use our service, your internet protocol address, the date and time of your request and referral URL and cookies that may uniquely identify your browser or your account. Cookies are small bits of electronic information that a website can transfer to a visitor’s computer to help target message and keep records of the users visit to a website. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor’s individual preferences. For example, by setting a cookie you would not have to enter information in the Site more than once, thereby saving time. We do not receive or record any personally identifying information in the cookies we use. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access the Spoutable Features.
 
 
 
 #### 2\. Use of Collected Information
 
-Your personally identifiable information may be used to: analyze how the service is used, diagnose service or technical problems or maintain security; operate, maintain, and provide to you the features and functionality of the Service; fulfill requests you may make of us; personalize your experience; and provide you with information and offers from us or third parties that we believe you may find useful or interesting.
+Your personally identifiable information may be used to: analyze how the service is used, diagnose service or technical problems or maintain security; operate, maintain, and provide to you the features and functionality of the Service; fulfill requests you may make of us; personalize your experience; and provide you with information and offers from us or third parties that we believe you may find useful or interesting. The information we collect may be used to target ads.
 
 We may use the information we collect from our advertiser and publisher customers for billing and account communication purposes. If you contact us, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. Generally speaking, we use the information we collect from all of our services to provide, maintain, protect and improve our services, to develop new services and offerings and to protect us and our users. You can opt out of any email communications you no longer wish to receive. 
 
 #### 3\. Information Sharing
 
-We do not share personal information with companies, outside organizations and individuals unless one of the following circumstances apply:
+We do not share personally identifiable information with companies, outside organizations and individuals unless one of the following circumstances apply:
+
+ _For targeting_
+
+We perform cookie syncing to allow other third party advertising networks to target advertisements to you through our service.
 
  _For external processing_
 
@@ -75,8 +79,10 @@ Our website and associated services are hosted in the United States.  If you ar
 
 Updates
 
-From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes.  You should check back here periodically to see if the Privacy Policy has been updated. We will show the date of the latest update to the Privacy Policy at the top of the page so you can tell when it was last updated.
+From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes.  You should check back here periodically to see if the Privacy Policy has been updated. We will show the date of the latest update to the Privacy Policy at the bottom of the page so you can tell when it was last updated.
 
 Contact
 
-We regularly review our compliance with this privacy policy. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [info@spoutable.com](mailto:info@spoutable.com) or by mail to Spoutable LLC, 3051 Broadway, San Diego, CA 92102, Attn: Privacy Policy Dept.
+We regularly review our compliance with this privacy policy. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [info@spoutable.com](mailto:info@spoutable.com) or by mail to Spoutable LLC, 1929 Hancock Street, #200, San Diego CA 92037, Attn: Privacy Policy Dept.
+
+Updated April 1, 2017
