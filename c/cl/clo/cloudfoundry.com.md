@@ -1,143 +1,102 @@
-> *The following text is extracted and transformed from the cloudfoundry.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630074509id_/http%3A//pivotal.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudfoundry.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183610id_/https%3A//www.cloudfoundry.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pivotal
+# Privacy Policy - Cloud Foundry
 
-Pivotal Software, Inc. Privacy Statement
+**PRIVACY POLICY OF CLOUD FOUNDRY.ORG FOUNDATION, INC.**  
+(Effective Date January 26, 2017)
 
-Last Updated on March 17, 2014
+Cloud Foundry.Org Foundation, Inc. (“Cloud Foundry Foundation”) is committed to protecting the privacy of its users. This privacy policy (the “Privacy Policy”) describes the information Cloud Foundry Foundation collects about users of the Site (as defined below) and how that information may be used. This Privacy Policy applies to all Cloud Foundry Foundation websites (whether currently or in the future supported, hosted or maintained, including without limitation, cloudfoundry.org and any subdomains (each a “Site” and collectively, the “Sites”)). If you do not consent to the practices disclosed in this Privacy Policy, then do not submit any information to Cloud Foundry Foundation and do not use the Sites.
 
-General Information
+**Changes to the Privacy Policy**
 
-This Privacy Statement explains what types of information Pivotal Software, Inc. (“Pivotal” “we,” “us,”) or our service providers may collect from or about visitors to our websites or applications (“you”), and describes our practices for collecting, using, retaining, protecting, disclosing, and transferring such information.
+Cloud Foundry Foundation may make changes to this Privacy Policy from time to time. The most current version of the Privacy Policy will be posted at cloudfoundry.org and will govern Cloud Foundry Foundation’s use of information about you. Cloud Foundry Foundation will notify users of material changes to the Privacy Policy by posting the amended terms on the cloudfoundry.org site prior to implementation or by directly sending users notification.
 
-Scope
+**Scope of Privacy Policy**
 
-This Privacy Statement applies to personal information and other information collected by Pivotal or its service providers from or about visitors to our websites or applications (collectively, “websites”) that display or link to this Privacy Statement. Unless otherwise specified below, this Privacy Statement does not apply to any other products or services or to information collected in any other way (whether online or offline) or for any other purpose. Information we may process about clients of our customers is addressed separately in the section below entitled "Personal Information of our Customers’ Clients."
+This Privacy Policy covers Cloud Foundry Foundation’s use and treatment of information collected by the Sites and personal information that you provide in connection with your use of the Sites. This Privacy Policy does not apply to the data collection and use practices of third parties that Cloud Foundry Foundation does not own or control, including but not limited to, any third party services you access through Cloud Foundry Foundation, or to individuals that Cloud Foundry Foundation does not employ or manage.
 
-What Personal and Other Information Does Pivotal Collect?
+**Children Under 13 Years of Age**
 
-Pivotal or our service providers may collect personal information and other information from or about you when you:
+The Sites are not directed to children under the age of 13, and Cloud Foundry Foundation will never request personally identifiable information from anyone whom it knows to be under the age of 13 without verifiable parental or guardian consent. Cloud Foundry Foundation does not knowingly collect, or wish to obtain, personally identifiable information from children.
 
-  * use our websites to order products or services,
-  * register products,
-  * request information,
-  * subscribe to marketing or support materials,
-  * download software,
-  * enter a contest,
-  * respond to promotional campaigns, or
-  * register to a secure extranet site to obtain access to product information, support, services, and training.
+**User Information That Cloud Foundry Foundation Collects; Use of Cookies**
 
+On the Sites, users may order products or services, register to receive materials or attend events, and submit responses to surveys or comments generally. Through user interaction with the Sites, Cloud Foundry Foundation may collect personal information submitted by such users to the Sites, including community forum content, diaries, profiles, photographs, names, geographic location, unique identifiers (e.g., social media handles or usernames), contact information (e.g., email address, postal address, telephone, fax), and transaction information. Cloud Foundry Foundation may also collect information users provide regarding their interests, demographics, industry, title, experience, and detailed contact preferences.
 
+In order to access certain personalized services on the Sites, you may be asked to create a username and password for an account, which Cloud Foundry Foundation will store. However, users are responsible for all actions taken in their accounts and should select and safeguard their password accordingly.
 
-For purposes of this Privacy Statement, “personal information” means information that can be used to personally identify you, such as your name, address, telephone number, e-mail address, user IDs and passwords, billing and transaction information, credit card or other financial information, contact preferences, and similar information.
+When you make a payment to Cloud Foundry Foundation through Cloud Foundry Foundation’s payment page, our third party payment processor may collect credit card information from you in order to properly process your payment. Cloud Foundry Foundation does not store your credit card information and no one at Cloud Foundry Foundation can access your credit card information. We use RegOnline by Lanyon Solutions, Inc. (“RegOnline”), a PCI-certified third-party payment service to process payments. Although we do not process payments, we may require you to provide RegOnline with contact information (e.g., name, email address, and company name) and financial and billing information (e.g., billing name and address, credit card number, and the number of employees within your company). RegOnline’s privacy policy is found here: <http://lanyon.com/Terms-Conditions.aspx>.
 
-We also may collect information that is related to you but that does not personally identify you, such as your computer’s operating system, browser, and your use of and activities on our websites. See also the discussion below of cookies and other electronic tools used for the collection of such information.
+Cloud Foundry Foundation and third-party service providers and advertisers who interact with Cloud Foundry Foundation, may also collect certain technical information about your use of the Sites. This technical information may include information about user device(s), browser type and version, geo-location, computer, computer connection, statistics on page views, traffic to and from the Service, ad data, Wi-Fi connection, internet protocol (“IP”) address, and standard web log.
 
-How Does Pivotal Use Your Information?
+Cloud Foundry Foundation and third-party advertisers and service providers may use cookies, web beacons, locally shared objects (sometimes called “flash cookies”), and similar technologies in connection with your use of the Sites (collectively referred to as “Cookies”). If Cookies are used, they may be used to collect information about you and your use of the Sites, such as your browser type, preferences, data relating to content that has been displayed to you or that you have clicked on, and the date and time of your use. Cookies may also be used in order to further features and processes on the Sites, provide authentication and security for user transactions using the Site, store user preferences, facilitate relevant advertising, and help Cloud Foundry Foundation learn more about how users engage with the Sites.
 
-Pivotal or our service providers may use information that we or our service providers collect from or about you, including any personal information:
+Cloud Foundry Foundation also uses third-party service providers to provide certain products and services or to integrate other Site features. These third-party service providers may collect information when you view or use them, including information about you and your device or browser. They may do this using Cookies or similar technologies. These third-party service providers also may use Cookies or similar technologies to help share information with us, like how you use their website or application. Cloud Foundry Foundation encourages users to evaluate privacy and security policies of any of the Sites’ transaction partners before entering into transactions or choosing to disclose information.
 
-  * to welcome you,
-  * to help you complete a transaction or in order to deliver products or services requested by you,
-  * to bill you for products or services you purchased,
-  * to provide ongoing service and support,
-  * to carry out our obligations and enforce our rights arising from any contracts entered into between you and us,
-  * to notify you about changes to our website or any products or services we offer or provide through it,
-  * to improve our websites, services, and products,
-  * to contact you to complete surveys that we use for marketing or quality assurance purposes,
-  * to e-mail or otherwise send you marketing or other promotional information about Pivotal products or services that may be of interest to you,
-  * to fulfill any other purpose for which you provide it,
-  * in any other way we may describe when you provide the information,
-  * to combat fraud or any other criminal activity,
-  * as otherwise required or permitted by law, and/or
-  * for any other purpose with your consent.
+For example, Cloud Foundry Foundation works with a service called Google Analytics provided by Google, Inc. (“Google”). Google Analytics uses cookies to help analyze how users use the Sites. The information generated by these cookies (including user truncated IP address) is transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your, and other users’, use of the Sites and services, compiling reports about how you and others use the Sites and services and providing other services relating to activity on the Sites and Internet usage. Please note that Google only receives your truncated IP address. This is sufficient for Google to identify (approximately) the country from which you are using the Sites, but is not sufficient to identify you, or your computer or mobile device, individually. Google’s privacy policy is found here: <https://support.google.com/analytics/answer/6004245>. To opt-out of analysis by Google Analytics on our products and services and other services, please visit: <http://tools.google.com/dlpage/gaoptout>.
 
+As another example, Cloud Foundry Foundation works with a service provided by Salesforce.com, Inc. called Pardot B2B Marketing Automation (‘Pardot”) that uses Cookies for storing and organizing information Cloud Foundry Foundation receives from user interaction with the Sites, including but not limited to, your email address, name, company, the country from which you are using the site, and any comments. To view Pardot’s privacy policy, please visit: <http://www.pardot.com/company/legal/privacy-policy/>.
 
+**How Cloud Foundry Foundation Uses the Information Collected**
 
-To assist us with the uses described in this Privacy Statement, information we or our service providers have collected from or about you through our websites, including about your use of such sites, may be combined with or enhanced by other information from or about you that we have obtained from other online or offline sources, including from our service providers or business partners.
+Cloud Foundry Foundation may use collected information for any lawful purpose related to Cloud Foundry Foundation’s business, including, but not limited to:
 
-Our websites may provide online newsgroups, chat forums, and blogs for our users. Any information that you disclose in these forums becomes public information, which could be read, collected, or used by other users to send you unsolicited messages. You should exercise caution when deciding to disclose your personal information. Our websites may also provide for "Live Chat" functionality, wherein Pivotal personnel can monitor the user's areas of interest in the website and engage in instant messaging with the user to provide additional information or answer any questions. By posting in our newsgroups and using "Live Chat," you explicitly consent to these uses of your information. We are not responsible for the personal information you choose to submit in these forums. For testimonials, we provide a choice as to whether a user posts his or her personal information along with the testimonial. See also the next section for an explanation of how Pivotal uses cookies, web beacons, and other electronic tools to collect other information about you for advertising and other purposes.
-
-Collection of Information Using Cookies and Other Tools for Online Advertising
-
-Pivotal may collect and/or log your Internet Protocol address, Internet domain name, the web browser and operating system used to access our websites, the files visited, the time spent in each file, and the time and date of each visit. Pivotal may collect this information automatically as you browse our websites through the use of log files and web beacons. Pivotal may also use cookies to automatically collect information about your use of our websites. Cookies are text files that are sent from a website or application via your browser and placed on your computer's hard drive or your mobile device. Thereafter, when you visit that website or application, a message is sent back to the web server by the browser accessing the website or application, and this information about your activities is stored in the cookie. The information collected in cookies (e.g., the web pages you visit on the website and navigation patterns, the date and time of your visit, the number of links you click within the site, the functions you use on the site, the databases you view and the searches you request on the site, the data you save on, or download from, the site, and the third-party websites you visited immediately before and after visiting the websites, and when you open our e-mails or click on any of their links) may be used and analyzed to improve our service to you and to personalize your web-browsing experience by providing Pivotal with a better understanding of your interests and requirements regarding our websites. Cookies may be linked to your personal information, such as your e-mail address or password. We may also use cookies and other electronic tools placed by a third-party service provider to measure the effectiveness of our advertising and other information and help us understand what product information is of most interest to our customers and what kinds of advertising offers our customers like to see. Although the service provider logs the information coming from our websites on our behalf, Pivotal controls how that data may and may not be used. If you do not want to assist www.pivotal.io in improving our products, offers, and marketing strategy, you can opt out of this website analysis tool by clicking here to install this plug-in <https://tools.google.com/dlpage/gaoptout>. 
-
-With Whom Does Pivotal Share Your Information?
-
-We may disclose information that does not identify any individual (e.g., anonymous, aggregated data) without restriction. Pivotal contracts with third-party service providers, partners and suppliers (including distributors and resellers) to deliver certain products, services, and customer solutions. Examples of such services provided on our behalf are mail delivery, website hosting, transaction processing, and event planning. Pivotal may share your personal information with its service providers and suppliers to the extent necessary to deliver the product or service you requested, respond to your requests for information on products or services, or otherwise support your business needs. You will not have the opportunity to opt out of having your information shared with these third-party service providers and suppliers for these purposes, and they may contact you directly regarding such purposes.
-
-Third-party service providers and suppliers receiving personal information are authorized to use your personal information only for the purpose it was originally intended or as required or permitted by law. However, unless otherwise dictated by law or agreement, Pivotal is not responsible for any improper use by such parties.
-
-We may also disclose your personal information and other information, including across country borders:
-
-  * to our subsidiaries, affiliates, and worldwide offices,
-  * to comply with the law or in response to a subpoena, court order, law enforcement or government request, or other legal process,
-  * to produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings,
-  * if Pivotal determines in its good faith judgment that such disclosure is necessary to provide its services or to protect the rights, interests, safety, or property of its business, employees, suppliers, customers, or others,
-  * in connection with any proposed or actual sale or other transfer of some or all assets of Pivotal, and/or any proposed or actual sale or merger of Pivotal or any division of Pivotal,
-  * to enforce the terms of any agreement with Pivotal,
-  * to combat fraud or other criminal activity,
-  * for any other purpose disclosed by us when you provide the information,
-  * as otherwise required or permitted by law, and/or
-  * with your consent.
+  1. To understand a user’s needs and create content that is relevant to the user;
+  2. To generate statistical studies;
+  3. To conduct market research and planning by sending user surveys;
+  4. To notify user referrals of Cloud Foundry Foundation services, information, or products when a user requests that Cloud Foundry Foundation send such information to referrals;
+  5. To improve services, information, and products;
+  6. To help a user complete a transaction, or provide services or customer support;
+  7. To communicate back to the user;
+  8. To update the user on services, information, and products;
+  9. To personalize a Site for the user;
+  10. To notify the user of any changes with a Site which may affect the user;
+  11. To enforce terms of use on a Site; and
+  12. To allow the user to purchase products, access services, or otherwise engage in activities the user selects.
 
 
 
-Some Pivotal websites or services may be co-branded or offered in conjunction with another company. If you register for or use such websites/services, both Pivotal and the other company may receive information collected in conjunction with the co-branded website/services.
+User names, identifications (“IDs”), and email addresses (as well as any additional information that a user may choose to post) may be publicly available on a Site when users voluntarily and publicly disclose personal information, such as when a user posts information in conjunction with content subject to an open source license, or as part of a message posted to a public forum or a publicly-released software application. The personal information you may provide to Cloud Foundry Foundation may reveal or allow others to discern aspects of your life that are not expressly stated in your profile (for example, your picture or your name may reveal your hair color, race or approximate age). You should be aware that your information may continue to be viewable to others after you close your account, such as on cached pages on Internet search engines. Users may not be able to change or remove public postings once posted. Such information may be used by visitors of these pages to send unsolicited messages. Cloud Foundry Foundation is not responsible for any consequences which may occur from the third-party use of information that a user chooses to submit to public pages. If you do not wish for others to view or access this information, please do not provide it to Cloud Foundry Foundation or post it on the Sites.
 
-Unless permitted by relevant laws, Pivotal will not share, sell, trade, or lease your personal information to or with others except as provided for in this Privacy Statement.
+From time to time, Cloud Foundry Foundation may contact you with information, including promotional, marketing, and advertising information and recommendations that Cloud Foundry Foundation believes may be of interest to you. Consistent with applicable laws, including United States CAN-SPAM laws, if you do not wish to receive commercial emails, you may unsubscribe following the instructions on any email. Cloud Foundry Foundation may still send you administrative notices, however.
 
-Your Marketing Choices, Right to Access Your Personal Information, and Our Retention of Your Personal Information
+**Links to Third Party Web Sites**
 
-_Your Marketing Choices_. Your decision to provide the personal information that we may request from time to time is voluntary. However, if you do not provide the personal information requested, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested. 
+The Sites may permit you to access or link to third party websites and information on the Internet, and other websites may contain links to the Sites. When a user uses these links, the user leaves the Sites. Cloud Foundry Foundation has not reviewed all of these third party sites, does not control, and is not responsible for, any of the third party sites, their content or privacy practices. The privacy and security practices of websites accessed from the Sites are not covered by this Privacy Policy, and Cloud Foundry Foundation is not responsible for the privacy or security practices or the content of such websites, including but not limited to, the third party services you access through Cloud Foundry Foundation. Please check the privacy and security policies of these websites before you submit any personal data.
 
-You can always unsubscribe or choose not to receive promotional materials from Pivotal by following the specific instructions in the e-mail or other communication you receive or by notifying us via the appropriate method(s) described below. It may take a reasonable period of time to process your request, but no longer than 30 days for direct mail and telephone promotions and 10 business days for e-mail promotions. In countries where Pivotal is required to do so by law, Pivotal will offer you the opportunity to provide opt-in consent before promotional materials are sent, or promotional calls are made, to you. This will not apply to service communications that are considered part of certain Pivotal services, which you may receive periodically unless you cancel the applicable service.
+**Sharing of Information**
 
-_Your Access to Your Personal Information_. Pivotal strives to keep your personal information accurate. We have implemented technology, management processes, and policies to maintain data integrity. We will provide you with reasonable access to your personal information in accordance with relevant laws, including by making reasonable efforts to provide you with online access and the opportunity to update your information. To protect your privacy and security, we will take steps to verify your identity before granting access or making changes to your personal information. To request access to your personal information, follow the applicable instructions below. While we will make reasonable efforts to accommodate your request, we also reserve the right to reject such access requests or to impose certain restrictions and requirements on such requests, if required or permitted by applicable law. 
+Cloud Foundry Foundation may share the personally identifiable information a user provides online with other entities that are part of the Cloud Foundry Foundation corporate family, including our parent company, corporate affiliates, joint-venturers, and companies under common control, and/or outside service providers who may be used to distribute materials, create surveys, process credit cards, provide technical support, handle transaction processing, or otherwise act on Cloud Foundry Foundation’s behalf. Third-party service providers and suppliers receiving personal information are authorized to use such personal information only for the purpose it was originally intended or as required or permitted by law. Further, Cloud Foundry Foundation may share a user’s email and other personally identifiable information with its third party management services provider, The Linux Foundation, which may send email correspondence to the user on behalf of Cloud Foundry Foundation.
 
-_Our Retention of Your Information_. We will retain your personal information for as long as your account is active or as needed to provide you services. If you wish to cancel your account, or request that we no longer use your personal information to provide you services, contact us via the applicable information provided below. Even after we cancel your account or cease using your personal information to provide you services, we may still retain, use, and disclose your information as necessary to comply with our legal, regulatory, ethical, or document retention obligations, and any request to delete your personal information is subject to these obligations and restrictions. 
+Cloud Foundry Foundation may disclose personal information that is associated with your profile as described in this Privacy Policy, as permitted by law or as reasonably necessary to: (1) comply with a legal requirement or process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures; (2) investigate and enforce our then-current Terms of Use, if any; (3) respond to claims of a violation of the rights of third parties, including DMCA notifications; (4) respond to customer service inquiries; (5) protect the rights, property, or safety of Cloud Foundry Foundation, our users, or the public; or (6) as part of the sale of all or a portion of the assets of Cloud Foundry Foundation or as a change in control of the organization or one of its affiliates or in preparation for any of these events. Cloud Foundry Foundation may supply any such information to any organization into which Cloud Foundry Foundation may merge in the future or to which it may make any transfer of assets. Any third party to which Cloud Foundry Foundation transfers or sells all or any of its assets will have the right to use the personal and other information that you provide in the manner set out in this Privacy Policy.
 
-Pivotal Contact Information for Your Marketing Choices and Your Requests for Access or Deletion:
+**Data Security**
 
-[Unsubscribe here](http://connect.pivotal.io/UnsubscribePage.html)
+To keep your information safe, prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, Cloud Foundry Foundation implements industry-standard physical, electronic, and managerial procedures to safeguard and secure the information Cloud Foundry Foundation collects. However, Cloud Foundry Foundation does not guarantee that unauthorized third parties will never defeat measures taken to prevent improper use of personally identifiable information. As a result, Cloud Foundry Foundation cannot guarantee or warrant the security of any information transmitted on or through the Sites and you do so at your own risk.
 
-Headquarters
+Internal Cloud Foundry Foundation access to users’ nonpublic personally identifiable information is restricted to Cloud Foundry Foundation’s personnel, including contractors on a need-to-know basis. These individuals are bound by confidentiality agreements.
 
-3495 Deer Creek Road   
-Palo Alto, CA 94304 
+In the event Cloud Foundry Foundation becomes aware that the security of a Site has been compromised or users’ personally identifiable information has been disclosed to unrelated third parties as a result of external activity, including but not limited to, security attacks or fraud, Cloud Foundry Foundation will take reasonable response measures, including but not limited to, investigation and reporting, and notification to and cooperation with law enforcement authorities.
 
-Transfer of Your Information to Other Countries
+**International Data Protection**
 
-In accordance with applicable law, personal and other information covered by this Privacy Statement may be transferred to, and processed and stored in, the United States or any other country in which Pivotal or its affiliates, subsidiaries, service providers, business partners, or customers maintain facilities, even if the level of data privacy required is less than that required by the European Union or under the Safe Harbor. By submitting your personal information to Pivotal or our service providers, you consent to such transfers and to the worldwide processing of your personal information.
+Given the international scope of Cloud Foundry Foundation, personal information may be visible to persons outside your country of residence, including to persons in countries that your own country’s privacy laws and regulations deem deficient in ensuring an adequate level of protection for such information. If you are unsure whether this Privacy Policy is in conflict with applicable local rules, you should not submit your information. If you are located within the European Union, you should note that your information will be transferred to the United States, which is deemed by the European Union to have inadequate data protection.
 
-Links to Non-Pivotal Websites and Third Parties
+**California Privacy Rights; Do Not Track**
 
-Pivotal’s websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Pivotal website. Pivotal does not control these third-party websites or their privacy practices, which may differ from Pivotal's. We do not endorse or make any representations about third-party websites. The personal information you choose to provide to unrelated third parties is not covered by the Pivotal Privacy Statement. We encourage you to review the privacy statement of any entity before submitting your personal information.
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, information related to the personal information disclosed by Cloud Foundry Foundation to third parties for direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. If you are a California resident, you may make one request each year by emailing Cloud Foundry Foundation at info@cloudfoundry.org or sending a letter to:
 
-Security of Your Personal Information
+Cloud Foundry Foundation  
+1 Letterman Drive  
+Building D, Suite 4700  
+San Francisco, CA 94129
 
-Pivotal has implemented administrative, technical, and physical measures designed to protect your personal information from accidental loss and from unauthorized access, disclosure, use, alteration, or destruction. These measures include computer safeguards and secured files and buildings, Internet firewalls, intrusion detection, anti-virus protection, network monitoring, and, where appropriate and required by applicable law, Transport Layer Security (“TLS”) or similarly encrypted browsers. However, no electronic data transmission or storage of information can be guaranteed to be 100% private and secure, and you understand that Pivotal does not ensure or warrant the privacy or security of any information we collect from or about you, and that you use the Pivotal websites and other Pivotal services and provide us with information at your own risk. If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Please also be careful to avoid “phishing” scams, where someone may send you an e-mail that looks like it is from Pivotal asking for your personal information. Pivotal will never request your personal information through e-mail.
+Please note that Cloud Foundry Foundation does not respond to “do not track” signals or other similar mechanisms intended to allow California residents to opt-out of Internet tracking under The California Online Privacy Protection Action. Cloud Foundry Foundation may track and/or disclose your online activities over time and across different websites to third parties when you use the Sites. Cloud Foundry Foundation and third party advertising companies may track information concerning a user’s use of the Sites, such as a user’s IP address.
 
-Your California Privacy Rights
+**Retention of Your Information**
 
-IIf you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Pivotal to its affiliates and/or third parties for their direct marketing purposes. To make such a request, please send an e-mail with your first name, last name, mailing address, e-mail address, and telephone number to Pivotal’s Office of the General Counsel, at [GeneralCounsel@pivotal.io](mailto:GeneralCounsel@pivotal.io). [marketing@pivotal.io](mailto:marketing@pivotal.io)
+We retain information about you for as long as it is necessary and relevant for Cloud Foundry Foundation’s operations. Information about you that is no longer necessary and relevant for our operations will be disposed of securely. In addition, we may retain information from closed accounts collected from you to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with any investigations, and take other actions permitted by law or disclosed in this Privacy Policy to enforce the Site’s terms and conditions and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy. ** **
 
-Children Under the Age of 13
+**Feedback**
 
-Pivotal websites are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on our websites. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this website or on or through any of its features/register on the website, make any purchases through the website, use any of the interactive or public comment features of this website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [marketing@pivotal.io](mailto:marketing@pivotal.io). 
-
-Personal Information of our Customers' Clients
-
-When we provide services to our customers, in some instances we process personal information about their clients ("Client Information") on their behalf. In these situations, it is our customers rather than we who decide the reasons for which the Client Information will be processed. For details of how the Client Information will be used and protected, and details of how to access or correct the information, please refer to the privacy statement of the Pivotal customer to which you submitted your personal information.
-
-Questions About and Enforcement of this Privacy Statement
-
-If you have questions regarding our compliance with this Privacy Statement, please contact us by making an e-mail submission to the Pivotal Legal Department at [legal@pivotal.io](mailto:legal@pivotal.io) or by mail to 
-
-3495 Deer Creek Road   
-Palo Alto, CA 94304   
-Attn: Pivotal Legal Department 
-
-Changes to this Privacy Statement
-
-Pivotal will review and update this Privacy Statement periodically, and will note the date of its most recent revision above. If we make material changes to this Privacy Statement, we will notify you either by prominently posting a notice of such changes prior to implementing the changes or by directly sending you a notification. We encourage you to review this Privacy Statement frequently to be informed of how Pivotal is collecting, using, retaining, protecting, disclosing, and transferring your information.
+If you have any questions or concerns regarding Cloud Foundry Foundation’s Privacy Policy or practices, please send us a detailed message to info@cloudfoundry.org.
