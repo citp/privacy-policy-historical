@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the igreentree.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018043234id_/http%3A//igreentree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igreentree.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070813id_/http%3A//igreentree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greentree Systems, Inc.
+
+This document details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
 **Use of Internet Protocol Address**  
 We use your Internet protocol (IP) address for several reasons: to help diagnose problems with our server, to administer our Web site, to help identify you and your job selections during application and to gather broad demographic information.
@@ -18,7 +20,7 @@ From time to time, we may ask you to participate in an online survey. If this is
 Greentree’s CSS features industry-leading encryption products to protect your personal data, including 128-bit Secure Sockets Layer (SSL) Certification and 1024 Bit RSA public keys. Secure Sockets Layer, SSL, is the standard security technology for creating an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browser remain private and integral.
 
 **Children's Guidelines**  
-Greentree’s CSS module is intended  **only**  for the use of legal-age job seekers who have the lawful right to work in the United States. We  **do not encourage children to use our site for any purpose whatsoever.  **We  **do not** collect or use any online contact information or identifiable off-line contact information about children. We  **do not** request or distribute personally identifiable information about children. We  **do not**  entice children with games or contests that would encourage them to disclose personal information.
+Greentree’s CSS module is intended  **only**  for the use of legal-age job seekers who have the lawful right to work in the United States. We  **do not encourage children to use our site for any purpose whatsoever.  **We  **do not  **collect or use any online contact information or identifiable off-line contact information about children. We  **do not  **request or distribute personally identifiable information about children. We  **do not**  entice children with games or contests that would encourage them to disclose personal information.
 
 **Opt Out/Opt In**  
 Greentree’s CSS module allows users to opt out of receiving e-mail from us. To opt out of our mailing list you can log in to the system and remove your email from the contact information in the CSS "Contact Information" area. If you have submitted your email address on a form on our web site, you can elect to opt out by sending an email to [Sales@GreentreeSystems.com](mailto:Sales@GreentreeSystems.com) with the words "Remove from email mailings" in the subject line, and that email address will be removed from our records.
