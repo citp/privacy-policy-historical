@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wearemitu.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527154601id_/https%3A//www.wearemitu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearemitu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130957id_/https%3A//www.wearemitu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | We are mitú
+# Privacy Policy – we are mitú
 
 **MITÚ PRIVACY POLICY**
 
@@ -122,7 +122,7 @@ Mitú uses commercially reasonable and appropriate physical, electronic, and man
 
 **10\. UPDATING YOUR INFORMATION.**
 
-If you have registered for an account, you can at any time terminate your account or access your account to add, delete or modify any information which you have provided. Please note that none of the foregoing changes will be retroactive. Please also note that even after you terminate your account or delete or modify information from your profile, copies of the original information may remain viewable on the Services and/or elsewhere to the extent that your information was publicly posted by you or with your authorization, previously shared with others, otherwise distributed pursuant to your [privacy settings](http://www.facebook.com/privacy/),. Additionally, even if you have requested that your information be deleted, mitú may retain a record of certain information (including your PII) in order to prevent identity theft or other misconduct or as necessary to comply with applicable federal, state or local laws. Removed and deleted information may persist in backup copies, but will not be available to others. If you update any of your information, mitú may keep a copy of the information that you originally provided to us in our archives for uses documented in this policy.
+If you have registered for an account, you can at any time terminate your account or access your account to add, delete or modify any information which you have provided. Please note that none of the foregoing changes will be retroactive. Please also note that even after you terminate your account or delete or modify information from your profile, copies of the original information may remain viewable on the Services and/or elsewhere to the extent that your information was publicly posted by you or with your authorization, previously shared with others, otherwise distributed pursuant to your [privacy settings](https://www.facebook.com/privacy/explanation),. Additionally, even if you have requested that your information be deleted, mitú may retain a record of certain information (including your PII) in order to prevent identity theft or other misconduct or as necessary to comply with applicable federal, state or local laws. Removed and deleted information may persist in backup copies, but will not be available to others. If you update any of your information, mitú may keep a copy of the information that you originally provided to us in our archives for uses documented in this policy.
 
 **11\. CHANGES TO THIS PRIVACY POLICY.**
 
