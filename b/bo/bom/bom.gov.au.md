@@ -1,99 +1,96 @@
-> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702151957id_/http%3A//www.bom.gov.au/other/privacy.shtml%3Fref%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102447id_/http%3A//www.bom.gov.au/other/privacy.shtml%3Fref%3Dftr) for the most accurate reproduction.*
 
-# Privacy Statement - Bureau of Meteorology
+# Online privacy notice - Bureau of Meteorology
 
-This page explains the type of information that is collected by the Bureau of Meteorology, how such information is used and under what circumstances and to whom it may be disclosed. If you have any privacy concerns, you should direct them to the Bureau's Privacy Officer by e-mailing [privacy@bom.gov.au](mailto:privacy@bom.gov.aunospam) (*remove 'nospam' before mailing) or by writing to:
+This privacy notice applies to user interaction with the Bureau of Meteorology’s website ([www.bom.gov.au](http://www.bom.gov.au/)). 
 
-Privacy Officer (EXL)  
+For further information about our agency’s privacy practices and your rights, see the full [Bureau Privacy Policy - March 2014](https://web.archive.org/inside/BoMPrivacyPolicy_v1_Approved_20140307.pdf) or contact:
+
+**FOI & Privacy Coordinator**  
 Bureau of Meteorology  
+People Management Branch  
 GPO Box 1289  
-Melbourne Vic 3001  
-Australia  
-
-
-* * *
-
-"Personal information collected by the Bureau of Meteorology is used in accordance with its obligations under the "[Privacy Act 1988 http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/) " Personal information is information relating to an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion provided."
-
-The Internet is an insecure medium and users should be aware that there are inherent risks transmitting information across the Internet. Information submitted unencrypted via e-mail or web forms may be at risk of being intercepted, read or modified.
-
-For those who do not wish to use the Internet we provide alternative ways of obtaining and providing the information. If you prefer, [you can contact us by phone or mail](https://web.archive.org/inside/contacts.shtml). 
+MELBOURNE VIC 3001  
+Tel: 03 9616 8428  
+Email: [privacy@bom.gov.au](mailto:privacy@bom.gov.au)
 
 * * *
 
-### Site Visit Data
+### Overview
 
-This site is mainly operated by the Bureau of Meteorology, however there are some products that are provided by an external internet service provider. Users of the products provided via external providers should be aware of the 'links to other sites' information at the end of this statement.
+We may collect personal information when you use our website or email us where it is reasonably necessary for, or directly related to, the performance of our functions or activities. 
 
-When visiting the Bureau's site, a record of your visit is logged. The following information is recorded for statistical purposes and is used by the Bureau of Meteorology to help improve the site. The following information is provided by your browser:
+Personal information is defined as information about an identifiable individual, or someone who can be reasonably identified. 
+
+* * *
+
+### Personal information you provide us online via our website or email
+
+When you use our online subscription and feedback forms, or email us we will record and use your personal information (including your email address) for the purpose for which you provided it. Only authorised staff will have access to your personal information. We will not disclose your personal information without your express or implied consent, unless an exception under the Privacy Act applies.
+
+Please be aware that as the Internet is an unsecure medium, there is a risk that unencrypted information submitted via our online forms or email may be intercepted, read or modified. If you prefer not to contact us online, you can contact us by [phone or mail](https://web.archive.org/inside/contacts.shtml?ref=hdr). 
+
+* * *
+
+### Site visit data
+
+When you visit our website a record of your visit is logged. The following information is collected from your browser and recorded for statistical purposes:
 
   * the type of browser you are using
   * the date and time of your visit
   * your top level domain name (for example .com, .gov, .au, .uk etc.)
   * the address of the referring site
   * your server’s IP address (a number which is unique to the machine through which you are connected to the Internet: usually one of your service provider’s machines)
-  * the address of the pages accessed and any documents downloaded
+  * the addresses of the pages you access and any documents downloaded.
 
 
 
-No attempt will be made to identify users or their browsing activities, unless disclosure is required by law or due to a mandatory requirement of a Court, Government Agency or Regulatory Authority in the course of a legally enforced investigation.
-
-* * *
-
-### Collection of Personal Information
-
-We will, at your request, provide you with access to any information which we have collected about you through this website in accordance with Information Privacy Principle 6, Privacy Act 1988. To gain access to this information you should contact us, as per the above contact details. If you believe any information is inaccurate, incomplete or out of date, please contact us and we will revise the relevant information in accordance with Information Privacy Principle 7, Privacy Act 1988.
-
-When you e-mail us: 
-
-  * we will record your e-mail address
-  * we will only use your e-mail address for the purpose for which you provided it
-  * it will not be added to a mailing list unless you request this be done
-  * we will not disclose it without your consent, except where the Bureau of Meteorology may be required by law to disclose certain information
-
-
-
-When you use our Subscription and Feedback forms:
-
-  * we will record the personal information provided by you (for example you name, address, telephone number etc)
-  * we will only use this information for the purpose for which you provided it
-  * only Bureau authorised staff will have access to this
-  * we will not disclose it without your consent, except where the Bureau of Meteorology may be required by law to disclose certain information
-
-
+We record this data to maintain our server and improve our services. We do not use this information to personally identify you unless an exception under the Privacy Act applies, including where we reasonably believe that the use or disclosure is reasonably necessary for enforcement related activities conducted by, or on behalf of, an enforcement body.
 
 * * *
 
-### Cookies
+### Cookies and Web beacons
 
-A cookie is a small text file that is sent from web site servers and stored on a web browser. Some parts of this web site may use a cookie to maintain site information and your setting preferences as you navigate different pages on our web site or when you return to the web site at a later time.
+The Bureau uses cookies, web beacons and measurement software and tools on this websites and other government website and we allow our services providers and third parties such as our analytics, advertising or ad serving partners to do so. We use and disclose the information collected through the use of cookies, web beacons and measurement software and tools in accordance with this Privacy Act. This includes using the information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. We may allow other third parties to use their own cookies and web beacons to collect information about your visit to this website and other government website.
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this, you may not be able to use the full functionality of this web site.
-
-No attempt will be made to identify users or their browsing activities, unless disclosure is required by law or due to mandatory requirements of a Court, Government Agency or Regulatory Authority in the course of a legally enforced investigation.
-
-For more information about cookies and instructions on how to adjust your browser settings to restrict or disable cookies, see the [Office of the Privacy Commissioner web site http://www.privacy.gov.au/](http://www.privacy.gov.au/) or the [Interactive Advertising Bureau web site http://www.iabaustralia.com.au/](http://www.iabaustralia.com.au/)
+We may combine information collected through the cookies and web beacons on this websites and other government website with information collected by third parties using their own cookie and web beacon, to provide better or more relevant services and advertising to you on this websites and other government website. Our service providers and other third parties may do the same in order to provide more relevant services and advertising to you through other websites that you may visit.
 
 * * *
 
-### Google Analytics
+### Cookie Choice
 
-In addition to web server logs, this web site uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Reports obtained from Google Analytics are used to help improve the efficiency and usability of this web site.
+If you do not wish to have information collected through the use of cookies, web beacons or measurement software and tools, you can delete or reject cookies through your browser setting or the settings section of your mobile or tablet device. Disabling cookies may cause some of the functions on this websites and other government website to not function correctly.
 
-Google Analytics uses 'cookies' to help analyse how users use this site. The information generated by the cookie, about how your use of the web site (including your IP address) will be transmitted to and stored by Google on servers in the United States.
+* * *
 
-Google will use this information for the purpose of evaluating your use of our web site, compiling reports on web site activity for web site operators and providing other services relating to web site activity and internet usage. Google may transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
+### Google analytics
 
-By using this web site, you consent to the processing of data about you by Google in the manner and for the purposes set out above. Please refer to [Google's Privacy policy http://www.google.com/privacy.html](http://www.google.com/privacy.html)
+In addition to web server logs, our website uses Google Analytics, a web analytics service provided by Google Inc. (Google). Reports obtained from Google Analytics are used to help improve the efficiency and usability of our website.
+
+Google Analytics uses cookies to help analyse how users use our website. The information generated by the cookie about this (including IP addresses) will be transmitted to and stored by Google on servers around the world.
+
+Google will use this information for the purpose of evaluating the use of our website, compiling reports on website activity for site operators and providing other services related to website activity and internet usage. Google may transfer this information to third parties where required to do so by law, or where such third parties process information on Google's behalf. Google will not associate user IP addresses with any other data held by Google. You can opt out of the collection of information via Google Analytics by downloading the [Google Analytics Opt-out browser add on](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
+
+However, by using our website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For further information please refer to Google's Privacy Policy at: <http://www.google.com/privacy.html>
 
 * * *
 
 ### Searches
 
-Search terms that you enter when using our search engine are collected, but there is no link between search terms and personal details. Nor are they associated with any other information that we collect. We use these search terms to ascertain what people are looking for at our site and to improve the services that we provide.
+Search terms that you enter into the search engine on our website are recorded, but there is no link made between search terms and your personal details. The search terms you use are not associated with any other information that we collect. We use this information for statistical means to ascertain what people are looking for on our website and to improve the services that we provide.
 
 * * *
 
-### Links to Other Sites
+### Links to other sites
 
-This site contains links to other sites. The Bureau of Meteorology is not responsible for the privacy practices of these web sites and has no knowledge of whether cookies or other tracking devices are used on linked sites. If you have any concerns regarding your privacy, when visiting a linked site, you should ensure you are aware of the privacy policies of those sites.
+Our website contains links to other sites, for example to Facebook and YouTube. We are not responsible for the privacy practices of these linked sites and have no knowledge of whether cookies or other tracking devices are used on these linked sites. Similarly, some products used on our website are provided by an external internet service provider. We are not responsible for the privacy practices of any external provider.
+
+If you have any concerns regarding your privacy when visiting a linked site or using an external product, you should review the relevant external privacy policy.
+
+* * *
+
+### Revision of this statement
+
+From time to time, we will review and revise this statement. We reserve the right to amend this statement at any time and any amendments will be notified by posting an updated version on our website at [www.bom.gov.au](http://www.bom.gov.au/)
+
+_This statement was last updated on 12 March 2014._
