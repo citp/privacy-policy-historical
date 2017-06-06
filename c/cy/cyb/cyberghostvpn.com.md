@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyberghostvpn.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226125837id_/http%3A//www.cyberghostvpn.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberghostvpn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140326id_/http%3A//www.cyberghostvpn.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - CyberGhost VPN
 
-The service www.cyberghostvpn.com (hereinafter called CyberGhost VPN) is a product offered by CyberGhost S.R.L. (hereinafter called CyberGhost), Romania.
+The service www.cyberghostvpn.com (hereinafter called CyberGhost VPN) is a product offered by CyberGhost S.A. (hereinafter called CyberGhost), Romania.
 
 CyberGhost has an unequivocal company policy: the strongest observance of data protection and uncompromising protection of the user privacy. Therefore, the user’s personal data is not monitored, recorded, logged or stored.
 
@@ -10,7 +10,7 @@ Many companies state that they take your privacy seriously – we state that too
 
 We collect and store only the data needed to operate the service. In order to improve the quality of the service, we store data such as the utilization degree of the servers. However, we do **not** store statistical data, which can be linked to a user account. Also, we do not store data on who had used which server and when.
 
-In this Privacy Policy, CyberGhost explains how it collects and use data, when you visit our internet page cyberghostvpn.com and when you use our service CyberGhost VPN. Therefore, please read carefully the present Privacy Policy. If you have any questions, please send us an e-mail to [privacy@cyberghost.ro](mailto:privacy@cyberghost.ro) and we will try to answer you as soon as possible.
+In this Privacy Policy, CyberGhost explains how it collects and use data, when you visit our internet page cyberghostvpn.com and when you use our service CyberGhost VPN. Therefore, please read carefully the present Privacy Policy. If you have any questions, please send us an e-mail to [webmaster@cyberghost.ro](mailto:webmaster@cyberghost.ro) and we will try to answer you as soon as possible.
 
   
 
@@ -82,4 +82,4 @@ As the first German-speaking anonymization service, CyberGhost publishes a VPN-T
 
 ## 6\. Contact
 
-If you have any questions in relation to this data protection regulation, you can contact CyberGhost at the address [privacy@cyberghost.ro](mailto:privacy@cyberghost.ro) or by post at CyberGhost S.R.L., Baratiei Street, No. 35, Fl. 4, District 3, 030197, Bucharest, Romania.
+If you have any questions in relation to this data protection regulation, you can contact CyberGhost at the address [webmaster@cyberghost.ro](mailto:webmaster@cyberghost.ro) or by post at CyberGhost S.A., Stelea Spătarul Street, No. 12, District 3, 030213, Bucharest, Romania.
