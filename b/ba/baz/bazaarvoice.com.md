@@ -1,60 +1,8 @@
-> *The following text is extracted and transformed from the bazaarvoice.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211004949id_/http%3A//www.bazaarvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bazaarvoice.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085248id_/http%3A//www.bazaarvoice.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-Effective Date: August 5, 2016
-
-### Overview
-
-### Information We Collect Through the Bazaarvoice Network
-
-#### Information You Submit
-
-#### Data Collection Technologies
-
-### Information We Collect Through the Website and BizApps
-
-#### Information You Submit
-
-#### Data Collection Technologies
-
-### Information We Collect Through Bazaarvoice Media
-
-#### Data Collection Technologies
-
-### Opting Out
-
-#### Opting Out of Data Use
-
-#### Opting Out of Marketing Communications
-
-### Correcting, Updating or Deleting Your Information
-
-### Do Not Track
-
-### Children
-
-### Disclosure of Information
-
-### Data Retention
-
-### Data Security
-
-### Other Information
-
-### Certifications and Codes of Conduct
-
-#### TRUSTe
-
-#### Safe Harbor
-
-#### NAI
-
-### Updates to This Policy
-
-### Contacting Us
-
-### Bazaarvoice Brand Safety Policy
+Effective Date: March 27, 2017
 
 ### Overview
 
@@ -64,7 +12,7 @@ This privacy policy is intended to inform you ("you", collectively "Consumers") 
 
 Information You Submit
 
-_User-Generated Content_. As part of our Services to our Clients, we provide Consumers the ability submit reviews, comment on or rate goods, products and services on websites within the Bazaarvoice Network (collectively, “User-Generated Content”). You should be aware that any information you provide in the area that is intended to collect such User-Generated Content will be published on a publicly facing website and will be read, collected, and used by Bazaarvoice, its subsidiaries, vendors and Clients. Therefore, please do not include any information within these areas that you do not want to share with the general public, including personally identifiable information, such as your name, email address or financial information. Bazaarvoice uses User-Generated Content for providing the Services to our Clients, marketing research, new product development, to personalize or improve our Services, to detect fraudulent activities and for analytical purposes.
+_User-Generated Content_. As part of our Services to our Clients, we provide Consumers the ability to submit reviews, and to comment on or rate goods, products and services on websites and mobile applications within the Bazaarvoice Network (collectively, “User-Generated Content”). You should be aware that any information you provide in the area that is intended to collect such User-Generated Content will be published on a publicly facing website or mobile application and will be read, collected, and used by Bazaarvoice, its subsidiaries, vendors and Clients. Therefore, please do not include any information within these areas that you do not want to share with the general public, including personally identifiable information, such as your name, email address or financial information. Bazaarvoice uses User-Generated Content for providing the Services to our Clients, marketing research, new product development, to personalize or improve our Services, to detect fraudulent activities and for analytical purposes.
 
 _Consumer Account Info_. In order to submit User-Generated Content, you may have to create an account with the Bazaarvoice Client whose products, services or goods you are reviewing or rating. During the course of creating an account, you may be asked to submit information, such as but not limited to, your name, email address, mailing address or phone number, and other data (collectively, "Consumer Account Info"). The Consumer Account Info may be collected by both Bazaarvoice and the applicable Bazaarvoice Client. Bazaarvoice uses Consumer Account Info to assist with the creation of an account, to detect fraud and inauthentic content, to personalize your services, to provide you the ability to review, comment on or rate products, or to otherwise create content across Client websites on the Bazaarvoice Network.
 
@@ -74,7 +22,7 @@ Data Collection Technologies
 
 _Passive Collection_
 
-As is true of most websites and mobile apps, we gather certain information automatically. Our technologies may collect the IP address of your computer, the pages you visit within the Bazaarvoice Network, the date and time of your visit, browser type and version and other click-stream data (collectively "Analytics and Tracking Data"). We use the Analytics and Tracking Data to operate the Services, enable the submission of User-Generated Content, to enable anonymous analytics and measurement reporting, and to display online advertisements to you and other users.
+As is true of most websites and mobile apps, we gather certain information automatically. Our technologies may collect the IP address of your computer, the pages you visit within the Bazaarvoice Network, the date and time of your visit, browser type and version, and other click-stream data (collectively "Analytics and Tracking Data"). We use the Analytics and Tracking Data to operate the Services, enable the submission of User-Generated Content, to enable anonymous analytics and measurement reporting, and to display online advertisements to you and other users.
 
 _Types of Technologies on the Bazaarvoice Network_
 
@@ -82,11 +30,13 @@ We and our partners use cookies or similar technologies to collect information f
 
 _Web Beacons_. Web beacons are small, graphic images on web pages or web-based documents or in email messages. We use web beacons in order to personalize your experience on the Bazaarvoice Network, determine the usefulness of the information our Services provide and to analyze general user traffic patterns. We also use web beacons as a way to transmit Consumer Account Info.
 
-_Cookies_. Bazaarvoice uses its own cookies and cookies from third parties on the Bazaarvoice Network. Bazaarvoice uses cookies to combine your data across multiple websites.
+_Cookies_. Bazaarvoice uses its own cookies and cookies from third parties on the Bazaarvoice Network. Bazaarvoice uses cookies to combine your data across multiple websites. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions of a website or service.
 
 _Mobile Advertising Identifiers:_ If Bazaarvoice technology is enabled in a Bazaarvoice Client mobile app, Bazaarvoice collects the advertising identifier of your mobile device. Your information is combined across all apps using Bazaarvoice technology on the same device.
 
-_Precise Location Data:_ If a Bazaarvoice Client has enabled certain Bazaarvoice technology in their mobile application, your precise location may be collected in certain contexts. You may opt-out of location based services at any time by editing the setting at the device level.
+We use mobile analytics to allow us to better understand the functionality of our technology on your mobile device. This may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within our mobile analytics to any personally identifiable information you submit within the mobile application.
+
+_Precise Location Data:_ If a Bazaarvoice Client has enabled certain Bazaarvoice technology in their mobile application, your precise location may be collected in certain contexts with your express permission. You may opt-out of location-based services at any time by editing the setting at the device level.
 
 _Cross Device Collection:_ Your information may be combined across all the devices and browsers with which you access the Bazaarvoice network.
 
@@ -119,25 +69,27 @@ Marketing Communications. We may send marketing communications to anyone that ha
 
 Testimonials. We display personal testimonials of satisfied Clients on our site. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us via one of the methods listed in this policy.
 
+Our Website offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@bazaarvoice.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
 Data Collection Technologies
 
-We use cookies or similar technologies to collect Analytics and Track information from Consumers on the Website and BizApps. Our technologies may collect the IP address of your computer, the pages you visit, the date and time of your visit, browser type and version and other click-stream data (collectively "Analytics and Tracking Data").
+Cookies. We use cookies or similar technologies to collect analytics and tracking information from Consumers on the Website and BizApps. Our technologies may collect the IP address of your computer, the pages you visit, the date and time of your visit, browser type and version and other click-stream data (collectively "Analytics and Tracking Data").
 
-_Passive Collection._ As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to ensure secure access to the Services, improve marketing, analytics, or site functionality.
+_Cookies._ Our cookies give us access to information about your browsing patterns, which we use to personalize your experience and to analyze general user traffic patterns. We do this so that we may determine the usefulness of the information on the Website, the effectiveness of our navigational structures and to otherwise improve the Website. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions of our Website or Services. To manage Flash cookies, please visit: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
-_Cookies._ Our cookies give us access to information about your browsing patterns, which we use to personalize your experience and to analyze general user traffic patterns. We do this so that we may determine the usefulness of the information on the Website, the effectiveness of our navigational structures and to otherwise improve the Website.
+_Passive Collection._ As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. We may combine this automatically collected log information with other information we collect about you, such as data that you submit on our website. We do this to improve services we offer you, to ensure secure access to the Services, improve marketing, analytics, or site functionality.
 
 _Third Party Technologies_. The Website and BizApps use the cookies or similar technologies of third party providers to assist us with analyzing site traffic, help us determine the effectiveness of content on our site and to manage our advertising on other websites. Our advertising partners use cookies or web beacons to collect information about your visit to the Bazaarvoice website, as well as other websites, to display advertisements that may be of interest to you. For more information on our third party partners that are setting cookies on the Website or if you wish to not have the information collected on the Website used for the purpose of serving you targeted ads, you may opt out as described in this policy.
 
 _Local Storage._ We and our partners use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-_Combination of Data_. To assist us with our marketing efforts, the personal information of our Clients, such as email address, may be combined with the data collected by Analytics and Tracking Data. We do not supplement/append the data we collect with additional data received from third party sources.
+_Combination of Data_. To assist us with our marketing efforts, the personal information of our Clients, such as email address, may be combined with Passively Collected Data. We do not supplement/append the data we collect with additional data received from third party sources.
 
 _Social Media_. Our website includes social media features, such as the “Facebook” or “Twitter” buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing them.
 
 ### Information Collected Through Bazaarvoice Media
 
-Some of our partnered sites make use of Bazaarvoice Media technology. As you access various sites using Bazaarvoice Media technology, we may also collect IP address, Analytics and Tracking Data, and other information in order to create a persistent profile about you over time and across various websites, so that you may be shown advertising based upon your browsing activities and interests. If you wish to opt-out of such interest-based advertising (also referred to as behavioral tracking), please see the “Opting Out” section below.
+Some of our partnered sites make use of Bazaarvoice Media technology. As you access various sites using Bazaarvoice Media technology, we may also collect IP address, Analytics and Tracking Data, and other information in order to create a persistent profile about you over time and across various websites, mobile applications or devices, so that you may be shown advertising based upon your browsing activities and interests. If you wish to opt-out of such interest-based advertising (also referred to as behavioral tracking), please see the “Opting Out” section below.
 
 Data Collection Technologies
 
@@ -151,7 +103,9 @@ To opt-out of receiving behaviorally targeted ads, please see “Opting Out”, 
 
 Opting Out of Data Use by Bazaarvoice
 
-We make available a Bazaarvoice "opt-out" cookie that we will respect by not collecting Analytics and Tracking Data on that browser across the Bazaarvoice Network. Please click the button below to opt-out (please note this opt-out does not apply to behavioral tracking for the purposes of advertising, you must separately opt-out of that use of data). Please note, if you have cookies disabled the following opt-out will not be effective.
+We make available a Bazaarvoice "opt-out" cookie that we will respect by not collecting Analytics and Tracking Data on that browser across the Bazaarvoice Network. Please click the button below to opt-out (please note this opt-out does not apply to behavioral tracking for the purposes of advertising, you must separately opt-out of that use of data as described below). Please note, if you have cookies disabled the following opt-out will not be effective.
+
+If you wish to not have the information obtained from our website or our Client’s websites and BizApps used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](https://web.archive.org/web/20170606085248id_/http://www.bazaarvoice.com/privacy-policy/preferences-mgr.truste.com/?pid=bazaarvoice01&aid=bazaarvoice02&type=bazaarvoice), or if located in the European Union [click here](https://web.archive.org/web/20170606085248id_/http://www.bazaarvoice.com/privacy-policy/www.youronlinechoices.eu/). You may also opt out of certain other companies’ targeted advertising by [visiting here](https://web.archive.org/web/20170606085248id_/http://www.bazaarvoice.com/privacy-policy/preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 If you wish to not have the information obtained from our website or our Client’s websites and BizApps used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
@@ -161,17 +115,21 @@ Please note that opting out of targeted ads does not opt you out of all advertis
 
 For information on how to opt out of ad tracking on mobile devices see: [NAI Mobile Choices](http://www.networkadvertising.org/mobile-choices). If you opt out of tracking on a mobile device you will be opted out of all cross-app tracking on that device, but not from other devices and not from web browsers on the same device. To opt out of app tracking on other devices, opt out on those devices. To opt out of browser tracking on you device follow the instructions for option out of website tracking above.
 
+Your iOS mobile device may provide a “Limit Ad Tracking” setting. On Android devices, your settings may allow you to “Opt out of Interest-Based Ads.” When you have opted out using this setting on a device, Bazaarvoice will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests.
+
 Opting Out of Marketing Communications
 
 If you receive marketing communications from Bazaarvoice and would no longer like to be contacted by us, please send a request to be opted out of marketing communications to privacy@bazaarvoice.com or by using the "unsubscribe" functionality in the marketing email. If you receive marketing communications from one of our Clients and would no longer like to be contacted by them, please contact that Client directly.
 
 ### Correcting, Updating or Deleting Your Information
 
-Bazaarvoice has no direct relationship with the Consumers whose personal data it processes. If you would like to access, correct, amend, or delete Consumer Account Info or User-Generated Content submitted through a Client, please contact that Client directly. If the Client requests Bazaarvoice to remove the data, we will respond to their request within a reasonable timeframe.
+Bazaarvoice has no direct relationship with the Consumers whose personal data it processes on behalf of our Clients. If you would like to access, correct, amend, or delete Consumer Account Info or User-Generated Content submitted through a Client, please contact that Client directly. If the Client requests Bazaarvoice to remove the data, we will respond to their request within a reasonable timeframe.
 
-If you would like to access, correct, amend or delete any of your personally identifiable information collected or held by Bazaarvoice, please contact us using one of the methods listed in this policy. We will respond to such requests within a reasonable timeframe.
+If you would like to access, correct, amend or delete any of your personally identifiable information collected or held by Bazaarvoice, please log into your account or contact us using one of the methods listed in this policy. We will respond to such requests within a reasonable timeframe.
 
-Please note that in certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
+Please note that in certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service. We also may be required to disclose personal data in response to lawful requests by public authorities, including to meet law enforcement requirements.
+
+We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government or public authorities request. We may also disclose your personal information to any other third party with your prior consent.
 
 ### Do Not Track
 
@@ -185,7 +143,7 @@ We do not knowingly collect information from children less than 13 years of age.
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy, unless we otherwise obtain your consent. We do not sell your name, phone number, email or mail address to third parties.
 
-Consumer Account Info may be made available to our Clients in certain circumstances. For example; if a you submit a question about a product to a website on the Bazaarvoice Network, the question and your email address will be shared with the company that controls the website that the question was submitted to, the product manufacturer, or retailer to help answer the question.
+Consumer Account Info may be made available to our Clients in certain circumstances. For example, if you submit a question about a product to a website on the Bazaarvoice Network, the question and your email address will be shared with the company that controls the website that the question was submitted to, the product manufacturer, or retailer to help answer the question.
 
 We disclose aggregated and anonymized data , and non-personal information derived from that, to our Clients in order for them to display advertisements and personalized content to Consumers.
 
@@ -197,6 +155,10 @@ We will also disclose any information we collect, use or receive: if required or
 
 Finally, any information in our possession or control will be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have.
 
+Bazaarvoice is responsible for the processing of personal information it receives and subsequently transfers to a third party acting as an agent on our behalf. Bazaarvoice shall remain liable to you if an agent acting on our behalf processes such personal information in a manner inconsistent with this privacy policy, unless Bazaarvoice is able to prove that we are not responsible for the event giving rise to the damage.
+
+We may also disclose your personal information to any third party with your prior consent.
+
 ### Data Retention
 
 We retain all personal information collected by or provided to us through the Bazaarvoice Network, the Website and the BizApps until the information is no longer necessary to: provide you with services; respond to your requests; authenticate your identity across the Bazaarvoice Network (e.g. for use with social authentication); monitor for fraudulent activity; and, comply with our legal obligations, resolve disputes, and enforce our agreements.
@@ -205,7 +167,7 @@ User-level information collected via Bazaarvoice Media for purposes of interest-
 
 ### Security
 
-The security of your personal information is important to us. We follow generally accepted standards to protect personal information and use data security measures, including Secure Socket Layer encryption (SSL), that are designed to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any information.
+The security of your personal information is important to us. We follow generally accepted standards to protect personal information and use data security measures that are designed to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any information.
 
 ### Other Information
 
@@ -215,13 +177,9 @@ The Website includes links to other websites whose privacy practices may differ 
 
 Bazaarvoice has obtained the following certifications and/or follows these voluntary codes of conduct:
 
-[](https://privacy.truste.com/privacy-seal/Bazaarvoice,-Inc/validation?rid=da70ff61-3194-4d04-b448-296524acca9f "Validate TRUSTe privacy certification")
+EU-U.S. Privacy Shield
 
-TRUSTe
-
-Privacy Shield
-
-Bazaarvoice is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Bazaarvoice is committed to subjecting all personal data received from the EU to the Principles of the EU-U.S. Privacy Shield Framework, details of which can be found here: <https://www.privacyshield.gov/> In compliance with the Principles of Privacy Shield, Bazaarvoice provides recourse to you if you believe that Bazaarvoice has failed to follow its Principles regarding your personal data. You can contact us with details of your complain at [privacy@bazaarvoice.com](mailto:privacy@bazaarvoice.com).  If you feel that our response to your complaint is unsatisfactory you can refer your complaint to a free, independent dispute resolution. Bazaarvoice uses TRUSTe’s Feedback and Resolution System which can be accessed here: <https://feedback-form.truste.com/watchdog/request>
+Bazaarvoice is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Bazaarvoice is committed to subjecting all personal data received from the EU to the Principles of the EU-U.S. Privacy Shield Framework, details of which can be found here: https://www.privacyshield.gov/. In compliance with the Principles of Privacy Shield, Bazaarvoice provides recourse to you if you believe that Bazaarvoice has failed to follow its Principles regarding your personal data. You can contact us with details of your complain at privacy@bazaarvoice.com. If you feel that our response to your complaint is unsatisfactory you can refer your complaint to a free, independent dispute resolution mechanism. Under certain conditions, you may invoke binding arbitration for complaints which are not resolved by any other dispute resolution procedures. More information can be found here: https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
 
 [](http://www.networkadvertising.org/)
 
@@ -235,6 +193,8 @@ We may update this policy from time to time to reflect changes to our informatio
 
 ### Contacting Us
 
+[privacy@bazaarvoice.com](mailto:privacy@bazaarvoice.com) or by mail to:
+
 Bazaarvoice, Inc. ATTN: Legal Dept 10901 Stonelake Blvd Austin, TX 78759.
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at the above address or by email at privacy@bazaarvoice.com. If you are not satisfied with our response you can contact TRUSTe.
@@ -243,7 +203,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 ### Bazaarvoice Brand Safety Policy
 
-Bazaarvoice strives to provide 5 star customer service and is dedicated to providing complete transparency and control over how brands appear across our publisher partners’ site content. With a growing marketplace and a robust inventory options, Bazaarvoice takes the safety of clients brand very seriously.
+Bazaarvoice strives to provide 5 star customer service and is dedicated to providing complete transparency and control over how brands appear across our publisher partners’ site content. With a growing marketplace and a robust inventory options, Bazaarvoice takes the safety of clients’ brands very seriously.
 
 Bazaarvoice uses 3rd party verification tools, such as DoubleVerify or IAS, to ensure the integrity of ads shown. While this technology is used to provide ad-visibility measures for brand campaigns, the data is also utilized for placement, performance verification and assures the ad is being shown on high quality sites.
 
