@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nh1.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201010941id_/http%3A//www.nh1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nh1.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163818id_/http%3A//www.nh1.com/privacy-policy) for the most accurate reproduction.*
 
 # NH1 Privacy Policy
 
