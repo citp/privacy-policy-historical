@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveltourismdirectory.info privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117112338id_/http%3A//www.traveltourismdirectory.info/traveltourismdirectory_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltourismdirectory.info privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135046id_/http%3A//www.traveltourismdirectory.info/traveltourismdirectory_privacy_policy.html) for the most accurate reproduction.*
 
 # Marketing advertising Directory travel tourism business agencies airlines vacations cruises hotels motels time shares bead breakfast - Travel Directory Privacy Policy
 
