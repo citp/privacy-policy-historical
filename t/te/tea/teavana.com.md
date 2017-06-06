@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teavana.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207043648id_/http%3A//www.teavana.com/us/en/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teavana.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155429id_/http%3A//www.teavana.com/us/en/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Teavana Privacy Statement
 
@@ -138,7 +138,7 @@ We do not intend for our websites or online services to be used by anyone under 
 
 ## California Residents
 
-If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by emailing us at [shop@teavana.com](https://web.archive.org/web/20161207043648id_/http%3A//www.teavana.com/us/en/privacy/shop@teavana.com). We will make every effort to promptly respond to your request. 
+If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by emailing us at [shop@teavana.com](https://web.archive.org/web/20170606155429id_/http%3A//www.teavana.com/us/en/privacy/shop@teavana.com). We will make every effort to promptly respond to your request. 
 
 ## Changes to This Privacy Statement
 
