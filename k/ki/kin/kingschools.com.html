@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kingschools.com privacy policy that was archived on 2016-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161214212821id_/http%3A//kingschools.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kingschools.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606082153id_/http%3A//kingschools.com/about/privacy) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div><input type="hidden" value="Error=424, Object required">
 
@@ -22,7 +22,9 @@
     <meta property="og:url" content="http://www.kingschools.com">
     <meta property="og:site_name" content="King Schools">
 
-	<meta http-equiv="Content-Style-Type" content="text/css">
+	
+    
+    <meta http-equiv="Content-Style-Type" content="text/css">
     
 	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
@@ -35,10 +37,14 @@
     
     
 
-    <!-- Optimizely Include -->
-    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="//cdn.optimizely.com/js/602870306.js"></script>
+    <!-- Bing Stuff  //-->
+    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5666161"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5666161&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+    <!-- End Bing  -->
 
-    <script language="javascript" type="text/javascript" src="/SCRIPTS/clientscripts/ClientScripts.min.js"></script>
+    <!-- Optimizely Include -->
+    <script src="//cdn.optimizely.com/js/602870306.js"></script>
+
+    <script language="javascript" type="text/javascript" src="/SCRIPTS/clientscripts/ClientScripts.js"></script>
     
     <!-- include jQuery library -->
     <script type="text/javascript" src="http://www.google.com/jsapi"></script>
@@ -64,7 +70,7 @@
     <script type="text/javascript" src="http://media.kingschools.com/catalog/site-components/jwplayer/jwplayer.js"></script>
    <!-- <script type="text/javascript" src="//media.kingschools.com/catalog/site-components/jquery.jwplayer.plugin/jwplayer-integrate.js"></script>-->
    
-    <script type="text/javascript" src="/SCRIPTS/jquery.jwplayer.plugin/jwplayer-integrate.min_v2.js"></script>
+    <script type="text/javascript" src="/SCRIPTS/jquery.jwplayer.plugin/jwplayer-integrate.min_v3.js"></script>
     
     <script type="text/javascript">
         $(document).ready(function() {
@@ -88,23 +94,56 @@
                 }
              }
             //Account popup
-            var clearli;
-            $(".accountLink").hover(function() {
-                clearTimeout(clearli);
+            var clearli2;
+            $(".myCartText").hover(function () {
+                clearTimeout(clearli2);
                 $("ul#nav li").removeClass('current');
-                $(this).addClass('current');
-                }, function() {
-                    var getthis = $(this);
-                    clearli = setTimeout(function() {
+                $("[class*='accountLink']").addClass('current');
+                //alert("this=" + $(this).attr("class"));
+            }, function () {
+                var getthis = $("[class*='accountLink']");
+                //alert("this=" + $(this).attr("class"));
+                clearli2 = setTimeout(function () {
                     $(getthis).removeClass('current');
                 }, 100);
             });
+
+
             //Embed video
             $('a.ksPopVideo').popupVideo();
         });
     </script>
     
  
+<style type="text/css">
+
+    .customershopping2 {position:absolute; right:-33px; top:35px; width:500px; height:35px; background-image:none;}
+
+    .headerButton {float:right; width:150px; background-image: url(/otherimages/header-button_medium.png); background-repeat: no-repeat; height:44px; text-align:center; padding:5px; margin-left:0px; margin-top:-2px;}
+    .onlineCoursesText {margin-left: -9px; margin-top:3px;}
+    .onlineCoursesText a{font-family:Arial, sans-serif; font-size:10pt; font-weight:bolder; color:#094289; text-decoration:none;}
+    .onlineCoursesText a:hover {text-decoration:underline;}
+    .myCartText {width:200px; height:40px;}
+    .myCartText a {float:left; margin-left: 68px; margin-top: 5px; font-family:Arial, sans-serif; font-size:10pt; font-weight:bolder; color:#094289; text-decoration:none;}
+    .myCartText a:hover {cursor:pointer;}
+    
+    #customerbox ul#shoppingAccount2 {position:absolute;top:0px;left:300px;width:253px; height:40px; margin:0;padding:0;list-style:none;z-index:160;}
+    #customerbox ul#shoppingAccount2 li {display:inline;}
+    #customerbox ul#shoppingAccount2 > li > a {float:left; font-family:Arial,sans-serif; font-weight:bold; text-decoration:none;margin:0px auto 15px 20px;padding:7px 20px 7px 10px;display:block;color:#000;}
+    #customerbox ul#shoppingAccount2 .accountItems a:hover{text-decoration:underline; background-color:#fff;}
+    #customerbox ul#shoppingAccount2 ul.accountItems{display:none;}
+    #customerbox ul#shoppingAccount2 li.current > ul.accountItems{display:block;width:196px;position:absolute;margin:38px 0 0 -27px;padding:10px;background-color:#fff;z-index:999;-moz-border-radius:5px 0px 5px 5px;border-radius:5px 0px 5px 5px;-moz-box-shadow:0px 7px 7px black;-webkit-box-shadow:0px 7px 7px black;box-shadow:0px 7px 7px black;}
+    #customerbox ul#shoppingAccount2 li.current > ul li a{float:left;font:normal 1em/1em verdana,arial,tahoma,sans-serif;color:#369;text-decoration:none;margin:0;padding:5px;width:185px;}
+    #customerbox ul#shoppingAccount2 li a div.droparrow{background:url(/otherImages/global/css-buttons-v3.png) 0 -200px;width:11px;height:6px;position:absolute;right:75px;top:30px;}
+    #customerbox ul#shoppingAccount2 li.current a div.droparrow{background-position:-20px -200px;}
+    #customerbox ul#shoppingAccount2 .nav-signin{background:url(/otherImages/global/css-buttons-v3.png) 0px -210px;display:block;width:142px;height:23px;margin:0px auto 0px 20px;font:bold 1.2em Arial, Helvetica, sans-serif;color:#fff;text-shadow:1px 1px 0px #000;padding-top:2px;}
+    #customerbox ul#shoppingAccount2 a:hover .nav-signin{background-position:-50px -240px;}
+    #customerbox ul#shoppingAccount2 li.current > a, ul#nav li.current > a:hover {color: #fff;}
+    
+    
+    
+
+</style>
 <script type="text/javascript">
 
     function checkSearch() {
@@ -158,12 +197,14 @@
     <div id="headerlogo"><a href="/"></a>
     
     </div>
-    <div id="home-menu-container" style="background: #0064B6;">
+    <div id="home-menu-container" style="background: #0064B6; z-index: 150">
         <ul class="dropdown">
         	<li><a href="#">Becoming a Pilot&nbsp;&nbsp;</a>
                 <ul class="sub_menu">
                     <li><a href="/how-to-become-a-pilot">How to Become a Pilot</a></li>
                     <li><a href="/ground-school/private-pilot/courses">Private Pilot Certificate</a></li>
+                    <li><a href="/ground-school/drone-pilot/courses/written">Drone Pilot Course</a></li>
+                    <li><a href="/drone-pilot-training">Drone Pilot Information</a></li>
                     <li><a href="/aviation-courses/pilot-training">Clear Flight Training Hurdles</a></li>
                     <li><a href="/aviation-courses/risk-management">Manage Flying Risks</a></li>
 					<li><a href="/aviation-courses/risk-management">Practical Risk Management Courses</a></li>
@@ -211,7 +252,7 @@
 
         	<li><a href="#">Pro / Turbine&nbsp;&nbsp;</a>
                 <ul class="sub_menu">
-                    <li><a href="/ground-school/atp/">Airline Transport Pilot (ATP) Exam Course</a></li>
+                    <li><a href="/ground-school/atp">Airline Transport Pilot (ATP) Exam Course</a></li>
                     <li><a href="/aviation-courses/professional/jet-pilot-transition">Jet Transition</a></li>
                     <li><a href="/aviation-courses/professional/RVSM">RVSM Pilot Certification</a></li>
                     <li><a href="/aviation-courses/professional/international-flight-operations">International Flight Ops Overview</a></li>
@@ -235,6 +276,20 @@
                     <li><a href="/ground-school/jet-aircraft/b727-systems">B727 Systems</a></li>
                	</ul>
         	</li>
+
+            <li><a href="#">Airline Pilot&nbsp;&nbsp;</a>
+        		<ul class="sub_menu">
+			        <li><a href="/aviation-courses/airline-pilot/B737Classic-sim-oral-prep">Boeing 737 Classic Courses</a></li>
+                    <li><a href="/aviation-courses/airline-pilot/B737NG-sim-oral-prep">Boeing 737 Next-Gen Courses</a></li>
+                    <li><a href="/aviation-courses/airline-pilot/A320-sim-oral-prep">Airbus A320 Courses</a></li>
+                    <li><a href="/avionics-courses/rockwell-collins" class="emphasize">Rockwell-Collins Avionics Courses</a></li>
+                    <li><a href="/aviation-courses/professional/jet-pilot-transition">Jet Transition</a></li>
+                    <li><a href="/ground-school/atp">Airline Transport Pilot (ATP) Exam Course</a></li>
+                    <li><a href="/aviation-courses/professional/introduction-to-radar">Introduction to Radar</a></li>
+                    <li><a href="/avionics-courses/visionsafe-evas">VisionSafe EVAS Training Course</a></li>
+		        </ul>
+        	</li>
+
             <li><a href="#">Aviation Mechanic&nbsp;&nbsp;</a>
         		<ul class="sub_menu">
 			        <li><a href="/aviation-courses/mechanics/courses/airframe/written">Airframe Exam</a></li>
@@ -243,13 +298,15 @@
                     <li><a href="/aviation-courses/mechanics/courses/bundle" class="emphasize">A&amp;P Exam Bundle</a></li>
 		        </ul>
         	</li>
-        	<li><a href="#">Supplies&nbsp;&nbsp;</a>
+        	
+            <li><a href="#">Supplies&nbsp;&nbsp;</a>
         		<ul class="sub_menu">
                     <li><a href="/pilot-supplies/books">Books</a></li>
                     <li><a href="/pilot-supplies/e6b-and-plotters">E6B &amp; Plotters</a></li>
                     <li><a href="/pilot-supplies/cockpit-gear">Cockpit Gear</a></li>
-                    <li><a href="/avionics-courses/rockwell-collins/fms-desktop-trainer-software">FMS Desktop Trainer Software</a></li>
-                    <li><a href="/pilot-supplies/flight-simulator/redbird-TD-table"><img src="/otherImages/global/leftnav/leftnav-redbird-flight-simulators.png" alt="Redbird Simulators" style="border:0 none;"></a></li>
+                    <li><a href="/avionics-courses/rockwell-collins/fms-desktop-trainer-software">FMS Rockwell Collins Trainers</a></li>
+                    <li><a href="/pilot-supplies/flight-simulator/redbird-td-table-mounted-simulator">Redbird TD &amp; Accessories</a></li>
+                    <li><a href="/pilot-supplies/flight-simulator/redbird-simulator-hardware">Redbird Simulator Hardware</a></li>
         		</ul>
         	</li>
         	
@@ -273,31 +330,29 @@
         <input type="text" size="25" name="SKW" id="SKW" value="Enter keyword or item #" onclick="javascript:checkSearch();" onkeypress="javascript:checkForReturn(event);">
         <input type="button" class="searchbutton" name="submit" value="" onclick="javascript:doSearch();">
     </div>
-      <div class="customershopping" style="z-index:150;">
-        <a class="cart" href="/Cart/Cart_Detail.asp?UID=3904121413282228"></a>
-		<a class="courselogin" href="http://ilearn.kingschools.com/default.aspx?sco=&amp;scu=" target="_blank">Go to My<br>Online Courses</a>
-		<ul id="shoppingAccount">
-		    
-    		<li class="accountLink"><a href="#" class="welcome"><span class="greeting">Hello. </span><span class="custname">Sign in</span><br>Shopping Account<div class="droparrow"></div></a>
-    		
-        		<ul class="accountItems">
-        		    
-            		<li style="text-align:center;"><a href="https://www.kingschools.com/login/"><span class="nav-signin">Sign In</span></a></li>
-            		
-            		<li><a href="https://www.kingschools.com/login/register.asp?section=MYACCT">My Shopping Account</a></li>
-            		<li><a href="https://www.kingschools.com/login/?section=OrdStat">My Orders</a></li>
-            		
-        		</ul>
-    		</li>
-		</ul> 
+      <div class="customershopping2" style="z-index:150;">
+        <div class="headerButton">
+            <ul id="shoppingAccount2"><div class="myCartText"><a href="/Cart/Cart_Detail.asp?UID=3656060601215328">My Cart&nbsp;&nbsp;&nbsp;<img src="/otherimages/home-page/cart-icon.png" border="0" style="vertical-align:middle; margin-top:3px;"></a>
+		        <li class="accountLink">
+    		        <ul class="accountItems">
+        		        <li><a href="/Cart/Cart_Detail.asp?UID=3656060601215328">My Cart</a></li>
+                        <li><a href="https://kingschools.com/login/register.asp?section=MYACCT">My Shopping Account</a></li>
+            		    <li><a href="https://kingschools.com/login/?section=OrdStat">My Orders</a></li>
+            		    
+        		    </ul>
+    		    </li></div>
+		    </ul> 
+            
+        </div>
+        <div class="headerButton"><div class="onlineCoursesText"><a href="http://ilearn.kingschools.com/default.aspx?sco=&amp;scu=" target="_blank">Go to My<br>Online Courses</a></div></div>
+          
+        
         
       </div>
       
       <div class="bookmark" style="">
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style" addthis:url="http://www.kingschools.com">
-<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=kingschools" class="addthis_button_compact"><font color="#ffffff">Share</font></a>
-<span class="addthis_separator">|</span>
 <a class="addthis_button_facebook"></a>
 <a class="addthis_button_twitter"></a>
 <a class="addthis_button_google_plusone_share"></a>
@@ -480,9 +535,9 @@ olark.identify('5933-603-10-5388');/*]]>*/</script><noscript><a href="https://ww
     <div class="footerlinkcontainer">
       <h5>Ordering</h5>
       <ul>
-        <li><a href="https://www.kingschools.com/login/?section=OrdStat"></a></li>
+        <li><a href="https://kingschools.com/login/?section=OrdStat"></a></li>
         <li><a href="/shippingInfo.asp?bHideButtons=1" class="ceebox" title="Shipping Options">Shipping Options</a></li>
-        <li><a href="https://www.kingschools.com/login/register.asp?section=MYACCT"></a></li>
+        <li><a href="https://kingschools.com/login/register.asp?section=MYACCT"></a></li>
       </ul>
     </div>
     <div class="footerlinkcontainer">
@@ -529,7 +584,7 @@ olark.identify('5933-603-10-5388');/*]]>*/</script><noscript><a href="https://ww
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=JUq+g1awA4002z" style="display:none" height="1" width="1" alt="" /></noscript>
 <!-- End Alexa Certify Javascript -->
 
-<div id="address"> © 2016 King Schools, Inc. All Rights Reserved<br>
+<div id="address"> © 2017 King Schools, Inc. All Rights Reserved<br>
   3840 Calle Fortunada - San Diego, CA USA 92123-1825 | 800-854-1001 or +1 858-541-2200 (worldwide) </div>
 <!-- End global-footercontainer -->
 
@@ -560,7 +615,7 @@ olark.identify('5933-603-10-5388');/*]]>*/</script><noscript><a href="https://ww
   })();
 
 </script>
-<!-- 10.0.1.110,10.0.1.201,10.0.1.202,10.0.1.204,10.0.1.210,10.0.1.211,10.0.1.212,10.0.1.213,10.0.1.214,10.0.1.215,10.0.1.216,10.0.1.219,127.0.0.1 -->Error=424, Object required
+<!-- 10.0.1.109,10.0.1.201,10.0.1.204,10.0.1.210,10.0.1.211,10.0.1.212,10.0.1.213,10.0.1.214,10.0.1.215,10.0.1.216,10.0.1.219,127.0.0.1 -->Error=424, Object required
 
 <!-- Google Code for Remarketing tag -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
