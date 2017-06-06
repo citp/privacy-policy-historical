@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetdiscreet.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016225453id_/http%3A//www.sweetdiscreet.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetdiscreet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070623id_/http%3A//www.sweetdiscreet.com/main/privacy_policy) for the most accurate reproduction.*
 
 # Sweet Discreet, Encounters, Affairs | Married Women, Cheating Wives
 
