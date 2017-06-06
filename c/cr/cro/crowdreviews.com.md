@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdreviews.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924052155id_/https%3A//www.crowdreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdreviews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223515id_/https%3A//www.crowdreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CrowdReviews.com
 
