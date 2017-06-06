@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novationmusic.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107214205id_/https%3A//global.novationmusic.com/company/site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novationmusic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184810id_/https%3A//us.novationmusic.com/company/site-privacy-policy) for the most accurate reproduction.*
 
 # Site Privacy Policy | NovationMusic.com
 
