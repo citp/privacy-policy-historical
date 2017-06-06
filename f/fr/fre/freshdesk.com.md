@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshdesk.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051841id_/https%3A//freshdesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshdesk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123059id_/https%3A//freshdesk.com/privacy) for the most accurate reproduction.*
 
 # Help desk and customer support software - Privacy policy Freshdesk
 
@@ -13,7 +13,7 @@ If you have questions or complaints regarding our privacy policy or practices, p
 
 ##### **EU-US Privacy Shield Compliance**
 
-Freshdesk Inc. complies with the requirements of the EU-U.S. Privacy Shield Framework. Freshdesk Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield. [<https://www.privacyshield.gov/>] 
+Freshdesk Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Freshdesk Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List [<https://www.privacyshield.gov/list>]. 
 
 Freshdesk Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Freshdesk Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
@@ -152,8 +152,10 @@ current_wf_order | Used to store order of filter | Freshdesk | <https://freshdes
 current_wf_order_type | Used to store order type of ticket filter | Freshdesk | <https://freshdesk.com/privacy>  
 _fcata | This is the authentication cookie we use for tracking user (our product customer) login and logout. | Freshchat | <https://freshdesk.com/privacy>  
 _fccs | This is a dummy cookie used for tracking whether the user(our product customer) is logged in or logged out for UI purpose. | Freshchat | <https://freshdesk.com/privacy>  
-_fcvd | This is used to track the freshchat domains the agent/user (our product customer) logged/signed into so we can use this for improving the login/signup experience. | Freshchat | <https://freshdesk.com/privacy>  
-_session_id | This is used for maintaining the user session. | Freshchat | <https://freshdesk.com/privacy>  
+_fcvd | This is used to track the freshchat domains the agent/user (our product customer) logged/signed into so we can use this for improving the login/signup experience. | Freshchat  
+Freshsales | <https://freshdesk.com/privacy>  
+_session_id | This is used for maintaining the user session. | Freshchat  
+Freshcaller | <https://freshdesk.com/privacy>  
 rack.session | This is used for maintaining the user session. | Freshchat | <https://freshdesk.com/privacy>  
 _fcatv | This is the authentication cookie with which we authenticate/authorize the visitor uniquely. | Freshchat | <https://freshdesk.com/privacy>  
 _fc_unq | Unique id used to identify the visitor. | Freshchat | <https://freshdesk.com/privacy>  
@@ -162,7 +164,8 @@ SRF-TOKEN | To prevent Cross-Site Request Forgery | Hotline | <https://freshdesk
 Auth | To uniquely identify logged-in in user | Hotline | <https://freshdesk.com/privacy>  
 App | To uniquely identify account | Hotline | <https://freshdesk.com/privacy>  
 push_notif | To uniquely identify endpoint(device) to send push notification | Hotline | <https://freshdesk.com/privacy>  
-_helpkit_session | To maintain user session | Freshservice | <https://freshdesk.com/privacy>  
+_helpkit_session | To maintain user session | Freshservice  
+Freshsales | <https://freshdesk.com/privacy>  
 user_credentials | To login a user | Freshservice | <https://freshdesk.com/privacy>  
 filter_name | List page filters state maintenance | Freshservice | <https://freshdesk.com/privacy>  
 wf_order | Ticket list page filter sort | Freshservice | <https://freshdesk.com/privacy>  
@@ -173,6 +176,13 @@ cmdb-filter-closed | Slider open, close state for cmdb list page | Freshservice 
 problem-filter-closed | Slider open, close state for problem list page | Freshservice | <https://freshdesk.com/privacy>  
 release-filter-closed | Slider open, close state for release list page | Freshservice | <https://freshdesk.com/privacy>  
 Inspectlet | Discover where visitors are getting confused on your app and what's getting their attention. | Glowboard | <https://www.inspectlet.com/legal>  
+_x_w | Used in support.freshsales.io | Freshsales | https://freshdesk.com/privacy  
+_x_m | Used in support.freshsales.io | Freshsales | https://freshdesk.com/privacy  
+_freshsales_session | To maintain user session | Freshsales | https://freshdesk.com/privacy  
+auth_token | Authentication token for the session | Freshsales | https://freshdesk.com/privacy  
+fs_analytics_visitor | To track Website visitors | Freshsales | https://freshdesk.com/privacy  
+fcs | To identify if the user is authenticated in client | Freshcaller | https://freshdesk.com/privacy  
+_fs | Authentication cookie to check if user is authenticated | Freshcaller | https://freshdesk.com/privacy  
   
 **List of cookies used by the Websites**
 
@@ -184,7 +194,8 @@ Hotline
 Freshsales  
 Freshservice  
 Freshchat  
-Glowboard | <http://www.google.com/intl/en/policies/privacy/>  
+Glowboard  
+Freshcaller | <http://www.google.com/intl/en/policies/privacy/>  
 Adwords Conversion | Conversion tracking cookie for ads delivered by Google Adwords | Freshdesk  
 Freshsales  
 Freshservice  
@@ -222,7 +233,8 @@ Magnetic | A unique, random identifier to anonymously track users for targeted a
 Freshservice  
 Glowboard | <http://www.magnetic.com/privacy/corporate-privacy-policy/>  
 Shareasale | A third party affiliate marketing network. | Freshdesk  
-Freshservice | [https://www.shareasale.com/agreement.cfm http://www.shareasale.com/w3c/policy.html](https://www.shareasale.com/agreement.cfm%20http://www.shareasale.com/w3c/policy.html)  
+Freshservice | <https://www.shareasale.com/agreement.cfm>  
+<https://www.shareasale.com/w3c/policy.html>  
 Bizible | A plug-in that brings marketing and sales data together. | Freshdesk  
 Freshservice  
 Glowboard | <http://www.bizible.com/privacy-policy>  
@@ -230,13 +242,15 @@ Linkedin | LinkedIn cookies for the purpose of interest-based advertising. | Fre
 Freshservice  
 Glowboard | <http://www.linkedin.com/legal/cookie_policy>  
 Zarget | Website optimization and A/B testing tool | Freshdesk  
-Freshservice | <https://zarget.com/privacy-policy.html>  
+Freshservice  
+Freshsales | <https://zarget.com/privacy-policy.html>  
 helpdesk_auth_url | To log users into Freshdesk's Developer portal. | Freshdesk | <https://freshdesk.com/privacy>  
 Mixpanel | Website analytics cookie for visitor information and source | Freshservice  
 Glowboard | <https://mixpanel.com/privacy/>  
 Heap analytics | Website analytics cookie for visitor information and source | Hotline  
 Freshchat  
-Glowboard | <https://heapanalytics.com/privacy>  
+Glowboard  
+Freshsales | <https://heapanalytics.com/privacy>  
 TrackJS | Tracks the errors that occur in user’s browser | Freshsales | <https://trackjs.com/privacy/>  
 New Relic | Track the rendering time | Freshsales  
 Freshchat | <https://newrelic.com/privacy>  
@@ -254,7 +268,8 @@ Freshservice
 Glowboard | <https://www.optimizely.com/privacy/>  
 Hotjar | Video Recording and Heatmap testing tool | Freshservice  
 Freshchat  
-Glowboard | <https://www.hotjar.com/privacy>  
+Glowboard  
+Freshsales | <https://www.hotjar.com/privacy>  
 leadforensics | Tool to identify website visitor location using IP tracking | Freshservice | <http://www.leadforensics.com/privacy-and-cookies/>  
 Twitter | Twitter tracking to track people interactions. | Freshservice | <https://twitter.com/privacy>  
 Wistia | Embedding interactive videos on our website and measuring engagement | Freshservice | <https://wistia.com/privacy>  
@@ -262,6 +277,32 @@ Autopilot | Track information about which pages you visited and capture the form
 Freshservice  
 Glowboard | <https://autopilothq.com/privacypolicy.html>  
 Clickmeter - Finances Online Conversion (GTM) | Conversion tracking cookie for ads delivered by Clickmeter | Freshservice | <https://financesonline.com/privacy-policy/>  
+pnctest | To maintain a connection to the user while they are using Freshchat | Freshchat  
+Freshsales | https://freshdesk.com/privacy  
+__distillery | Tracking of video from Wistia | Freshsales | https://wistia.com/privacy  
+muxData | Set by Wistia | Freshsales | https://wistia.com/privacy  
+fd_flu | First Landing URL | Freshdesk  
+Freshservice  
+Hotline  
+Freshsales  
+Freshchat  
+Freshcaller | https://freshdesk.com/privacy  
+fd_fr | First Referrer from which site/ad page is loaded | Freshdesk  
+Freshservice  
+Hotline  
+Freshsales  
+Freshchat  
+Freshcaller |   
+fd_se | From which Search Engine the page is loaded | Freshsales | https://freshdesk.com/privacy  
+fd_sq | From what query the page is loaded | Freshsales | https://freshdesk.com/privacy  
+first_session | Info of search engine, url, visits, last page visit, etc. | Freshsales | https://freshdesk.com/privacy  
+maxmind_location_v1  
+maxmind_location | User location during signup | Freshsales | https://freshdesk.com/privacy  
+__attsc | Related with sharing the page in Facebook | Freshsales | https://freshdesk.com/privacy  
+_-atuvc | To enable the visitors to share the page in Facebook. Stores the page share count | Freshsales | https://freshdesk.com/privacy  
+smToken | Used by third party provider to identify the user uniquely | Freshsales | https://freshdesk.com/privacy  
+_dc_gtm_* | It is used to add tracking code from Google Tag Manager | Freshsales | http://www.google.com/intl/en/policies/privacy/  
+disqus_unique | Used by Disqus plugin | All pages containing Disqus plugin | https://help.disqus.com/customer/portal/articles/466259-privacy-policy  
   
 You can set your browser to either reject all cookies, to allow only “trusted” websites to set them, or to accept only those cookies from those websites you are currently on.
 
@@ -287,7 +328,7 @@ As is true of most websites, we gather certain information automatically and sto
 
 Do Not Track. Do Not Track (“DNT”) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third parties. We do not use technology that recognizes DNT signals from your web browser.
 
-We partner with a third party to either display advertising on our Websites or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here (or if located in the European Union, [click here](https://web.archive.org/web/20161229051841id_/https%3A//freshdesk.com/www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Websites or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](https://preferences-mgr.truste.com/) (or if located in the European Union, [click here](https://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ##### Social Media Features
 
