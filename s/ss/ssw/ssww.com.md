@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssww.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007192146id_/http%3A//www.ssww.com/popup/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssww.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072320id_/http%3A//www.ssww.com/popup/privacy.php) for the most accurate reproduction.*
 
 # S&S Worldwide: Arts and Crafts, Games, Party, and Sports Supplies
 
@@ -29,7 +29,7 @@ Providing personally identifiable information is strictly voluntary. It may, how
 
 Customer Product Reviews
 
-S&S Worldwide has arranged with PowerReviews, Inc. (d/b/a Buzzillions) (“PowerReviews”) to facilitate the collection of consumer product reviews of products sold by ssww.com. When you submit a product review to ssww.com, you are also subject to PowerReviews’ terms of use and [privacy policies](http://www.buzzillions.com/public/legal/index_en_US.html). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both Buzzillions.com and ssww.com. 
+S&S Worldwide has arranged with PowerReviews, Inc. to facilitate the collection of consumer product reviews of products sold by ssww.com. When you submit a product review to ssww.com, you are also subject to PowerReviews’ terms of use and [privacy policies](http://www.powerreviews.com/legal/privacy_policy_prx_en_US.html). Accordingly, you should review those policies prior to submitting a review. 
 
 Visitors
 
