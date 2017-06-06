@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soma.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113248id_/http%3A//www.soma.com/store/page.jsp%3Fid%3D57%26ICID%3Dfooter_privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soma.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230839id_/https%3A//www.soma.com/store/page.jsp%3Fid%3D57) for the most accurate reproduction.*
 
 # Privacy Policy - Soma
 
-Revision Date: June 29, 2015
+Revision Date: January 15, 2017
 
 We know that your privacy is important to you. It is important to us. So, please read our privacy policy (the “Privacy Policy”). 
 
@@ -65,7 +65,7 @@ We retain your personal information for as long as necessary to fulfill the purp
 
 ## Cookies
 
-Our site uses “cookies” which are small data files stored on your computer’s hard drive or mobile device when you visit a site. Cookies may be used in a variety of ways which enhance and personalize your online browsing and shopping experience. For instance, cookies allow us to remember what’s in your shopping cart, recognize you when you return to our site, track your orders, and monitor and maintain information about your visits. You may set your browser not to accept cookies (“do not track”) or to notify you when you receive cookies. If you do not accept cookies, you will need to re-enter your personal information each time you decide to make a purchase online. 
+Our site uses “cookies” which are small data files stored on your computer’s hard drive or mobile device when you visit a site. Cookies may be used in a variety of ways which enhance and personalize your online browsing and shopping experience. For instance, cookies allow us to remember what’s in your shopping cart, recognize you when you return to our site, track your orders, and monitor and maintain information about your visits. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here. Also, you may set your browser not to accept cookies (“do not track”) or to notify you when you receive cookies. If you do not accept cookies, you will need to re-enter your personal information each time you decide to make a purchase online. 
 
 ## Third Party Ads
 
@@ -93,7 +93,7 @@ For the purposes set out in this Privacy Policy, we, one of our affiliates, or a
 
 If you reside or are located outside of the United States, please note that this site is hosted on our computer servers in the United States. Your use of this site or submission of personal information will constitute your consent to the transfer of personal information outside of your home country. For more information about our policies and practices related to the use of foreign service providers, please contact our Privacy Officer at [privacy@soma.com](mailto:privacy@soma.com).
 
-To order and have products shipped internationally, you will need to share your personal information with our third party provider, Borderfree, Inc. Click here to view [Borderfree’s privacy policy](http://www.borderfree.com/privacy-policy).
+To order and have products shipped internationally, you will need to share your personal information with our third party provider, Borderfree, Inc. Click here to view [Borderfree’s privacy policy](https://www.borderfree.com/#/privacy/).
 
 ## Policy changes
 
