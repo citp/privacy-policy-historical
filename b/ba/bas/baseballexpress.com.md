@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballexpress.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209024321id_/http%3A//www.baseballexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballexpress.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143628id_/http%3A//www.baseballexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Security - Baseball Express
 
@@ -44,7 +44,7 @@ If you feel that this site is not following its stated privacy policy please con
 
   * [ Electronic Frontier Foundation ](http://www.eff.org/) \- a civil liberties organization working to protect your rights online. 
   * [ Electronic Privacy Information Center ](http://www.epic.org/) \- established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure. 
-  * [ Privacy Issues Page ](http://www.cdt.org/issue/consumer-privacy/) \- from the Center for Democracy and Technology (CDT). 
+  * [ Privacy Issues Page ](https://cdt.org/insight/analysis-of-the-consumer-privacy-bill-of-rights-act/) \- from the Center for Democracy and Technology (CDT). 
   * [ The Epic Cookies Page ](http://www.epic.org/privacy/internet/cookies/) \- definitions, links, and news. 
   * [ How to Protect Your Privacy ](http://www.ftc.gov/privacy/index.html) \- information from the Federal Trade Commission.
 
