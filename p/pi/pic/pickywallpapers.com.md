@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickywallpapers.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202125454id_/http%3A//www.pickywallpapers.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickywallpapers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161144id_/http%3A//www.pickywallpapers.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
