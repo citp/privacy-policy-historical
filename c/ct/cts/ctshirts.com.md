@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120001144id_/http%3A//www.ctshirts.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075550id_/http%3A//www.ctshirts.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Charles Tyrwhitt
 
@@ -6,7 +6,7 @@ Charles Tyrwhitt Shirts Limited ("We") are committed to protecting and respectin
 
 This policy (together with our terms of use [terms and conditions](https://web.archive.org/Terms-and-condition?cnt=terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Luke Kingsnorth of Cottons Centre, Cottons Lane, London, SE1 2QG.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is David Boynton of Cottons Centre, Cottons Lane, London, SE1 2QG.
 
 ## INFORMATION WE MAY COLLECT FROM YOU
 
