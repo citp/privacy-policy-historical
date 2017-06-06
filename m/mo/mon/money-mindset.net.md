@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money-mindset.net privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028061910id_/http%3A//money-mindset.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-mindset.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124506id_/http%3A//money-mindset.net/privacy-policy) for the most accurate reproduction.*
 
 # Money Mindset | Privacy Policy
 
