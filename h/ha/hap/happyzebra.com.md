@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the happyzebra.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074356id_/http%3A//www.happyzebra.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyzebra.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144556id_/http%3A//www.happyzebra.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy statement and disclaimer for www.happyzebra.com
 
-## [HZ travel tools](http://www.happyzebra.com/) > Privacy statement and Disclaimer for www.happyzebra.com
+## [HZ](http://www.happyzebra.com/) > Privacy statement and Disclaimer for www.happyzebra.com
 
 www.happyzebra.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.happyzebra.com. 
 
