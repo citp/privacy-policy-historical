@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoisology.com privacy policy that was archived on 2016-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160705041320id_/https%3A//whoisology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoisology.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232147id_/https%3A//whoisology.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Whoisology
 
