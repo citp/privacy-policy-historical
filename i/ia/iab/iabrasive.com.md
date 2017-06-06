@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iabrasive.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921131841id_/http%3A//www.iabrasive.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iabrasive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074752id_/http%3A//www.iabrasive.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - iAbrasive.com
 
@@ -135,7 +135,7 @@ No data transmission over the internet is completely secure, and no system of ph
   * If you have any concerns or questions about any aspect of this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: 
 
 iAbrasive.com  
-Tel: +86-371-86167220  
+Tel: +86-15138655293  
 Email: info@iabrasive.com 
 
 
