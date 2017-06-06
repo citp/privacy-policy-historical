@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thereciperebel.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130041122id_/http%3A//www.thereciperebel.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereciperebel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123500id_/http%3A//www.thereciperebel.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Recipe Rebel
 
@@ -69,4 +69,8 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
-[](https://www.facebook.com/groups/TheRecipeRebel/)
+Get new recipes right in your inbox!
+
+Plus printable menu plans and other subscriber perks
+
+It's totally FREE, and you can unsubscribe anytime.
