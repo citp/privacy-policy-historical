@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapbreak.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122162019id_/http%3A//snapbreak.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapbreak.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115429id_/http%3A//snapbreak.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SnapBreak.com - Free Online Games
 
