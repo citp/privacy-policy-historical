@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the army-technology.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123122100id_/http%3A//www.army-technology.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army-technology.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060505id_/http%3A//www.army-technology.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Army Technology
 
@@ -75,7 +75,7 @@ The advertisements on our sites are served by a number of third party ad serving
 
 ## General third party opt-outs
 
-You can learn about and opt out of a number of commercial third party cookies at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20161123122100id_/http%3A//www.army-technology.com/www.networkadvertising.org/managing/opt_out.asp) Some of the opt-outs used by our commercial service providers require a cookie to be placed on your PC which is only used to tell the relevant cookie servers not to send you any further cookies. 
+You can learn about and opt out of a number of commercial third party cookies at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20170606060505id_/http%3A//www.army-technology.com/www.networkadvertising.org/managing/opt_out.asp) Some of the opt-outs used by our commercial service providers require a cookie to be placed on your PC which is only used to tell the relevant cookie servers not to send you any further cookies. 
 
 ## Setting up your browser to control or delete cookies
 
@@ -89,7 +89,7 @@ The Adobe website provides comprehensive information on how to delete or disable
 
 ## Further information
 
-Additional information regarding cookies and opting-out is available at [www.youronlinechoices.co.uk](https://web.archive.org/web/20161123122100id_/http%3A//www.army-technology.com/www.youronlinechoices.co.uk) and [www.allaboutcookies.org](https://web.archive.org/web/20161123122100id_/http%3A//www.army-technology.com/www.allaboutcookies.org). 
+Additional information regarding cookies and opting-out is available at [www.youronlinechoices.co.uk](https://web.archive.org/web/20170606060505id_/http%3A//www.army-technology.com/www.youronlinechoices.co.uk) and [www.allaboutcookies.org](https://web.archive.org/web/20170606060505id_/http%3A//www.army-technology.com/www.allaboutcookies.org). 
 
 ## Use of Your Information
 
