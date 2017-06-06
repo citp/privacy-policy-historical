@@ -1,6 +1,26 @@
-> *The following text is extracted and transformed from the go2convert.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209033337id_/http%3A//www.go2convert.com/services/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2convert.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172240id_/http%3A//www.go2convert.com/services/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - convert image format to TIFF JPG JPEG EPS PCX PDF PNG PSD SVG TGA TIF ICO BMP
+
+#### A PHP Error was encountered
+
+Severity: Notice
+
+Message: Undefined property: services::$vals
+
+Filename: controllers/Services.php
+
+Line Number: 15
+
+Backtrace:
+
+File: /home/wwwroot/go2convert.com/application/controllers/Services.php  
+Line: 15  
+Function: _error_handler 
+
+File: /home/wwwroot/go2convert.com/index.php  
+Line: 315  
+Function: require_once 
 
 **Go2Convert.com** created this privacy statement to illustrate our company commitment to privacy. The following discloses the information collecting and cookies for Go2Convert.com.
 
