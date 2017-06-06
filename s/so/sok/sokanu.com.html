@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sokanu.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229124117id_/https%3A//www.sokanu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sokanu.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606170334id_/https%3A//www.sokanu.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# sokanufb: http://ogp.me/ns/fb/sokanufb#">
         <title>Privacy</title>
@@ -278,7 +278,7 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
     </head>
     <body class="s-logged-out  ">
         <script>initHasJS();</script>
-        <div id="fb-root"></div> <!-- required for any facebook UI interaction -->
+        <div id="fb-root" role="presentation" aria-hidden="true"></div> <!-- required for any facebook UI interaction -->
 
         
 
@@ -303,9 +303,18 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
     <ul class="left">
 
         
-            <li class="">
-                <a href="/career-test/" data-track="mixpanel" data-target="Career Test" data-link-type="Header">Career Test</a>
-            </li>
+            
+                <li class="has-dropdown " aria-haspopup="true">
+                    <a href="#" role="button" aria-disabled="true">Career Tests</a>
+                    <ul class="dropdown" aria-label="submenu">
+                        <li><a href="/career-test/" data-track="mixpanel" data-target="General Career Test" data-link-type="Header">General Career Test</a></li>
+                        <li><a href="/tech-test/" data-track="mixpanel" data-target="Tech Career Test" data-link-type="Header">Tech Career Test</a></li>
+                        <li><a href="#" data-track="mixpanel" data-target="Health Career Test" data-link-type="Header">Health Career Test <small>(coming soon)</small></a></li>
+                    </ul>
+                </li>
+            
+        
+
         
 
         <li class="">
@@ -326,7 +335,7 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
 
         
             <li class="">
-                <a href="#" data-reveal-id="sign-up" data-target="Sign Up" data-track="mixpanel-modal" data-link-type="Header">Sign Up</a>
+                <a href="#" data-reveal-id="sign-up-ab" data-track="mixpanel-modal" data-target="Sign Up Modal" data-link-type="Header">Sign Up</a>
             </li>
             <li class="">
                 <a href="#" data-reveal-id="login" data-track="mixpanel-modal" data-target="Login" data-link-type="Header">Log In</a>
@@ -354,9 +363,11 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
     <form class="right site-search " role="search" aria-autocomplete="both" aria-haspopup="true" action="/search/">
         <div class="js-site-search" data-value="" name="q"></div>
         <button type="submit" class="site-search-button js-button" aria-label="Clear search query"><span style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Search</span>
-            <img class="icon search" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/search.svg" alt="Search">
-            <img class="icon close" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/close.svg" alt="Clear search box">
-            <img class="icon check" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/check.svg" alt="Search pending">
+            
+                <img class="icon search" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/search.svg" alt="Search">
+                <img class="icon close" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/close.svg" alt="Clear search box">
+                <img class="icon check" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/check.svg" alt="Search pending">
+            
         </button>
     </form>
     <!-- end search -->
@@ -364,8 +375,6 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
 
 
     <div class="global-progress">
-        
-        
         
     </div>
 </nav>
@@ -381,9 +390,9 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
         </div>
     </header>
     <div class="row folding-nav">
-        <a href="#" class="folding-nav-close"></a>
+        <a href="#" class="folding-nav-close" aria-label="Close side navigation"></a>
         <div class="column large-3 folding-nav-menu fixedsticky">
-            <a href="#" class="folding-nav-toggle"><span class="hamburger"></span></a>
+            <a href="#" class="folding-nav-toggle" aria-label="Toggle side navigation"><span class="hamburger" role="presentation" aria-hidden="true"></span></a>
             <ul class="side-nav">
                 <li><a href="#introduction">Introduction</a></li>
                 <li><a href="#information-collection">Information Collection and Use</a></li>
@@ -529,8 +538,6 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
         <div class="site-footer-container">
             <div class="container">
                 
-                
-                
 
 <footer class="site-footer" role="contentinfo">
     <div class="row">
@@ -539,7 +546,7 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
             <ul class="no-bullet" role="navigation" aria-labelledby="for-individuals">
                 
                 <li><a href="#" data-reveal-id="login" class="small">Login to Your Account</a></li>
-                <li><a href="#" data-reveal-id="sign-up" class="small">Create a New Account</a></li>
+                <li><a href="#" data-reveal-id="sign-up-ab" class="small">Create a New Account</a></li>
                 
                 <li><a href="/career-test/" data-track="mixpanel" data-link-type="Footer" data-target="Career Test" class="small">The Sokanu Career Test</a></li>
                 <li><a href="/careers/collections/" data-track="mixpanel" data-link-type="Footer" data-target="Collections">Career Collections</a></li>
@@ -554,7 +561,7 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
             </ul>
         </div>
         <div class="columns medium-6">
-            <h6 class="underline">© Sokanu 2016 <span class="light hide-for-small" style="display: inline !important;">- Made in Vancouver, Canada</span></h6>
+            <h6 class="underline">© Sokanu 2017 <span class="light hide-for-small" style="display: inline !important;">- Made in Vancouver, Canada</span></h6>
             <div class="row">
                 <div class="columns medium-6">
                     <ul class="no-bullet" role="navigation">
@@ -579,7 +586,7 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
             <div class="columns medium-6">
                 <h6 id="popular-careers-footer">Popular careers</h6>
                 <p class="description small" id="popular-careers-footer-def">
-                    Dive in and expose yourself to a vast expanse of knowledge covering over 700 careers.
+                    Dive in and expose yourself to a vast expanse of knowledge covering over 800 careers.
                     Here are some of the questions people often ask.
                 </p>
                 <ul class="no-bullet" role="navigation" aria-labelledby="popular-careers-footer" aria-describedby="popular-careers-footer-def">
@@ -633,7 +640,7 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
                 <h6 id="career-collections-footer">Career collections</h6>
                 <p class="description small" id="career-collections-footer-def">
                     <em>Lists of careers</em> that help you see careers in a new light.
-                    Which are the <a href="/careers/collections/best-careers-2015/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="plain">best careers for 2016</a>?
+                    Which are the <a href="/careers/collections/best-careers-2015/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="plain">best careers for 2017</a>?
                     Which careers offer the <a href="/careers/collections/highest-paying-jobs/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="plain">highest paying jobs</a>?
                     What are the <a href="/careers/collections/careers-for-introverts/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="plain">best careers for introverts</a>?
                 </p>
@@ -684,17 +691,17 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
     
 </footer>
 
-                
             </div>
         </div>
         
 
         <script type="text/javascript">
-            window.mixpanel_track_links_source = 'Undefined'
+            window.mixpanel_track_links_json = {};
+            window.mixpanel_track_links_source = 'Undefined';
         </script>
         
 
-<input type="hidden" name="csrfmiddlewaretoken" value="pLhnZl6JvGB9G3czdtenZZlR7SlJUYMA">
+<input type="hidden" name="csrfmiddlewaretoken" value="R7X0Mzbvft8trPYA4xkB6n6a7EiXNDWi">
 
 
     
@@ -787,13 +794,14 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
     // Register site-wide mixpanel superproperties
     mixpanel.register({
         'Authenticated': false,
+        'Is Super User': false,
+        'Is Staff': false,
         'From Email': false,
         'Is Schools Member': false,
-        'Experiment: Career Report No Hover CTA': false,
         'Experiment: Career Report Hover CTA': "Want to see how you compare?",
-        'Experiment: Career Header CTA': 'Red Arpeggio Ratings',
-        'Experimental Core': false,
-        'GA Full-Page Experiment': true,
+        'GA Full-Page Bottom CTA Experiment': true,
+        'Career Wiki System': true,
+        'XP: Zip Emails': '2nd Modal: Control',
         
         
     });
@@ -902,43 +910,23 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
 
 <script>
     $(function () {
-
-        var sessionSchoolSlug = window.sessionSchoolSlug = false;
-        // Hijack the sign up modal for schools users
-        $('[data-reveal-id="sign-up"]').click(function (e) {
-            if (window.sessionSchoolSlug) {
-                e.preventDefault();
-                e.stopPropagation();
-                mixpanel.track('Schools Modal Hijacked', {}, function () {
-                    window.location = '/edu/' + window.sessionSchoolSlug + '/register/';
-                });
-            }
-        });
-        // Mixpanel link tracking
-        mixpanel.track_links('a[data-track="mixpanel"]', 'Link Clicked', function (el) {
+        // helper method for functions that generate 'Link Clicked' mixpanel tracking events
+        function generateLinkClickedProperties(el) {
             return $.extend({}, {
                 'Source': window.mixpanel_track_links_source,
                 'Target': $(el).data('target'),
                 'Link Type': $(el).data('linkType')
             }, window.mixpanel_track_links_json);
-        });
-        
-
-        var trackModalLinkClicks = window.trackModalLinkClicks = function () {
-            var modalLinks = $('a[data-track="mixpanel-modal"]');
-            modalLinks.off('click.modal');
-            modalLinks.on('click.modal', function (e) {
-                var event_properties = $.extend({}, {
-                    'Source': window.mixpanel_track_links_source,
-                    'Target': $(this).data('target'),
-                    'Link Type': $(this).data('linkType')
-                }, window.mixpanel_track_links_json);
-                mixpanel.track('Link Clicked', event_properties);
-                e.preventDefault();
-            });
         }
 
-        trackModalLinkClicks();
+        // Mixpanel link tracking
+        mixpanel.track_links($('a[data-track="mixpanel"]'), 'Link Clicked', generateLinkClickedProperties);
+
+        // Foundation modals and mixpanel.track_links conflict necessitates separate tracking method
+        $('a[data-track="mixpanel-modal"]').off('click.modal').on('click.modal', function (e) {
+            e.preventDefault();
+            mixpanel.track('Link Clicked', generateLinkClickedProperties(this));
+        });
 
         mixpanel.track_forms('.js-track-form', 'Form Submitted', function (el) {
             return $.extend({}, {
@@ -953,6 +941,8 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
         // load foundation
         sknldr.load([{'modernizr': 'https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/vendor/modernizr.js'}, {'foundation': 'https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/foundation.min.js'}]);
         sknldr.done('foundation', function() {
+            Foundation.global.namespace = '';
+
             $(document).foundation({ reveal: { animation: 'fade' } });
             $(document).on('opened.fndtn.reveal', '[data-reveal]', function () {
                 if($(this).find("input:not([type=hidden])")[0]){
@@ -1015,17 +1005,449 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
         
             
             
+
+
+
+<div id="sign-up-ab" class="badoodie reveal-modal sign-up-email-only" data-reveal="" aria-hidden="true" role="dialog">
+    <a href="#" class="xp-close close-reveal-modal" aria-label="Close">Close ×</a>
+    <div class="xp-logo"></div>
+    <div class="xp-modal">
+        <form method="POST" id="sign-up-form" action="/members/register/?next=">
+            <input type="hidden" name="registration_form" value="email_only">
+            <input type="hidden" id="tech-test-selector-ab" name="next" value="">
+
+            <input type="hidden" name="csrfmiddlewaretoken" value="R7X0Mzbvft8trPYA4xkB6n6a7EiXNDWi">
+
+            <div class="xp-modal-body">
+                <div class="xp-title">Start your free career test</div>
+                <div class="xp-tag">We’ll email you a password to keep your test progress.</div>
+
+                <div class="xp-option">
+                    <div class="xp-bullet active" data-reg-type="email"></div>
+                    <div class="xp-label">Email Address</div>
+                    <input type="email" name="email" class="xp-input" placeholder="you@example.com">
+                </div>
+
+                <div class="xp-option">
+                    <div class="xp-bullet" data-reg-type="fb"></div>
+                    <div class="xp-label">Facebook</div>
+                </div>
+
+                <button class="xp-button">Start</button>
+            </div>
+
+            <div class="xp-footer">
+                <div class="xp-point">
+                    <div class="xp-icon" style="background-image: url(https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/modal-experiment-icons/free.png);"></div>
+                    <div class="xp-copy">This career test and all of the reports are <strong>100% free</strong></div>
+                </div>
+                <div class="xp-point">
+                    <div class="xp-icon" style="background-image: url(https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/modal-experiment-icons/knowledgebase.png);"></div>
+                    <div class="xp-copy">Everything you need to know about <strong>800 careers</strong>, including how you match</div>
+                </div>
+                <div class="xp-point">
+                    <div class="xp-icon" style="background-image: url(https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/modal-experiment-icons/accurate.png);"></div>
+                    <div class="xp-copy">You get the most <strong>accurate matches</strong>, thanks to our powerful algorithm</div>
+                </div>
+                <a class="xp-more" href="/career-test/" data-track="mixpanel" data-target="Career Test">Learn More</a>
+            </div>
+
+            <a href="#" class="button block facebook-blue js-fb-auth js-track-link sign-up-facebook hide" data-fail-url-base="/members/register/" data-success-url-base="/facebook/login_success/" data-next-url="" data-link="sign up with facebook #3" tabindex="3"><span>Sign up with facebook</span></a>
+        </form>
+    </div>
+</div>
+
+<div id="sign-up-ab-picker" class="badoodie reveal-modal sign-up-email-only" data-reveal="" aria-hidden="true" role="dialog">
+    <div class="xp-logo"></div>
+    <div class="xp-modal">
+        <div class="xp-modal-body">
+            <div class="xp-title">Pick your first test</div>
+            <div class="xp-tag">You can switch between tests any time.</div>
+            <div class="xp-subhead">Technology Career Test</div>
+            <div class="xp-fig">
+                <div class="xp-fig-graphic" style="background-image: url(https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/modal-experiment-icons/tech.svg);"></div>
+                <div class="xp-fig-content">
+                    <div class="xp-fig-bullets">
+                        <div class="xp-fig-bullet"><strong style="color: #333;">16</strong> Careers</div>
+                        <div class="xp-fig-bullet"><strong style="color: #333;">10</strong> Minutes</div>
+                        <div class="xp-fig-bullet"><strong style="color: #333;">1</strong> Report</div>
+                    </div>
+                    <button class="primary no-space js-picker" data-next-url="/tech-test/assessment/">Start With Tech Test</button>
+                </div>
+            </div>
+            <div class="xp-subhead space-top-4">General Career Test</div>
+            <div class="xp-fig">
+                <div class="xp-fig-graphic" style="background-image: url(https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/modal-experiment-icons/general.svg);"></div>
+                <div class="xp-fig-content">
+                    <div class="xp-fig-bullets">
+                        <div class="xp-fig-bullet"><strong style="color: #333;">800</strong> Careers</div>
+                        <div class="xp-fig-bullet"><strong style="color: #333;">20</strong> Minutes</div>
+                        <div class="xp-fig-bullet"><strong style="color: #333;">3</strong> Report</div>
+                    </div>
+                    <button class="primary no-space js-picker" data-next-url="">Start With General Test</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="sign-up-ab-jobs" class="badoodie reveal-modal sign-up-email-only" data-reveal="" aria-hidden="true" role="dialog">
+    <div class="xp-logo"></div>
+    <div class="xp-modal" style="text-align: center;">
+        <div class="xp-modal-body">
+            <div class="xp-title space-bottom-2">Are you looking for a job?</div>
+            <!-- <div class="xp-tag">You can switch between tests any time.</div> -->
+            <!-- <div class="xp-subhead">Technology Career Test</div> -->
+            <img class="space-bottom-4" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/modal-experiment-icons/job-opt-in-xp.svg">
+            <p>Activate automatic email notifications to recieve new job matches every day.</p>
+            <div class="space-bottom-2 js-job-toggle" style="display: flex; align-items: center; justify-content: center;">
+                <div class="switch no-space">
+                    <input type="checkbox" id="job-email">
+                    <label for="job-email" class="no-space"></label>
+                </div>
+                <label class="space-left-1" for="job-email">Job notifications turned <span style="font-weight: bold;" class="js-job-status">OFF</span></label>
+            </div>
+            <button class="primary no-space js-job-submit">Start Assessment</button>
+        </div>
+    </div>
+</div>
+
+<style>
+    .badoodie {
+        padding: 0 10px;
+        background: transparent;
+        border: none;
+        box-shadow: none;
+        max-width:420px;
+        visibility:hidden;
+    }
+
+    .xp-logo {
+        width: 40px; height: 40px;
+        margin: 0 auto 20px !important;
+
+        background-image: url(https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/logo-smark-dark.png);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        border-radius: 12px;
+
+        animation: fade-in 480ms ease-out;
+    }
+
+    .xp-close.close-reveal-modal{
+        position:absolute;
+        top:0;
+        right:10px;
+        text-transform:uppercase;
+        font-size:13px;
+        font-weight:600;
+        color:#fff;
+    }
+    .xp-close.close-reveal-modal:hover{
+        color:#ea404f;
+    }
+
+    .xp-modal {
+        max-width: 400px;
+        margin: 0 auto;
+
+        background-color: white;
+        border-radius: 4px;
+
+        animation: pop-in 320ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+    }
+
+    .xp-modal-body {
+        padding: 20px;
+    }
+
+    .xp-title {
+        margin: 0;
+        color: black;
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+    .xp-tag {
+        margin-bottom: 24px;
+        color: #888;
+        font-size: 12px;
+    }
+
+    .xp-subhead {
+        margin: 0;
+        color: black;
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .xp-option {
+        position: relative;
+        padding-left: 30px;
+    }
+
+    .xp-bullet {
+        position: absolute;
+        top: 0; left: 0;
+
+        width: 16px; height: 16px;
+        border: 1px solid #C8C4CC;
+        border-radius: 50%;
+
+        cursor: pointer;
+    }
+
+    .xp-bullet.active:after {
+        content: ' ';
+        display: block;
+
+        width: 8px; height: 8px;
+        margin: 3px;
+
+        background: #8C898F;
+        border: 1px solid #78757A;
+        border-radius: 50%;
+    }
+
+    .xp-label {
+        margin: 0 0 10px;
+
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 16px;
+
+        cursor: pointer;
+    }
+
+    .xp-button {
+        width: 100%; height: 56px;
+        margin: 10px 0 0;
+        background: #EF7F88;
+        box-shadow: 0 2px 0 0 #CC6F76, 0 0 1px 1px rgba(255, 255, 255, .1) inset;
+        font-weight: 600;
+        outline: none !important;
+    }
+
+    .xp-button:hover {
+        background-color: #F1979E;
+    }
+
+    .xp-button:active, .xp-button:focus {
+        background-color: #F1979E;
+    }
+
+    .xp-footer {
+        padding: 20px;
+        background-color: #F3F0F5;
+        border-top: 1px solid #CAC8CC;
+    }
+
+    .xp-point {
+        position: relative;
+        height: 40px;
+    }
+
+    .xp-point:not(:last-of-type) {
+        margin-bottom: 30px;
+    }
+
+    .xp-icon {
+        position: absolute;
+        top: 0; left: 0;
+
+        width: 40px; height: 40px;
+
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+
+    .xp-copy {
+        position: absolute;
+        top: 0; left: 50px;
+
+        color: #666666;
+        font-size: 14px;
+    }
+
+    .xp-more {
+        display: block;
+        margin-top: 15px;
+        font-size: 12px;
+        text-decoration: underline;
+        text-align: center;
+    }
+
+    .xp-fig {
+        margin: .5rem 0 1rem;
+        display: flex;
+    }
+
+    .xp-fig-graphic {
+        width: 50%; height: 120px;
+        background-size: contain;
+        background-position: center center;
+        background-repeat: no-repeat;
+    }
+
+    .xp-fig-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .xp-fig-bullets {
+        display: flex;
+    }
+
+    .xp-fig-bullet {
+        text-align: center;
+    }
+
+    .xp-fig button {
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .reveal-modal {
+        outline: none !important;
+    }
+
+    .reveal-modal-bg {
+        background-color: rgba(60, 33, 71, .95);
+    }
+
+    .reveal-modal .switch input:checked + label {
+        background-color: #BDFFD4;
+        border-color: #76DF9B;
+    }
+
+    .reveal-modal .switch label:after {
+        height: 18px !important;
+    }
+
+    .reveal-modal .switch input:checked + label:after {
+        border-color: #76DF9B;
+    }
+
+    @media screen and (min-width: 768px) {
+        .xp-logo {
+            width: 80px; height: 80px;
+            margin: 0 auto 20px;
+        }
+    }
+
+    @keyframes pop-in {
+        from {
+            opacity: 0;
+            transform: scale(.32);
+        }
+        to {
+            opacity: 1;
+            transform: scale(1);
+        }
+    }
+
+    @keyframes fade-in {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+</style>
+
+<script>
+    window.sessionSchoolSlug = false;
+
+    $(function() {
+
+        // Radio button functionality
+        $('#sign-up-ab .xp-bullet, #sign-up-ab .xp-label').click(function (e) {
+            $('.xp-bullet').removeClass('active');
+            var bullet = ($(this).hasClass('xp-bullet')) ? $(this) : $(this).siblings('.xp-bullet');
+            bullet.addClass('active');
+            if (bullet.data('reg-type') == 'email') {
+                $(this).siblings('input').focus();
+            }
+        });
+
+        $('a[data-reveal-id="sign-up-ab"]').on('click.modal', function(e) {
+            e.preventDefault();
+
+            // Hijack the sign up modal for schools users
+            if (window.sessionSchoolSlug) {
+                e.stopPropagation();
+                mixpanel.track('Schools Modal Hijacked', {}, function () {
+                    window.location = '/edu/' + window.sessionSchoolSlug + '/register/';
+                });
+                return;
+            }
+
+            // launch the modal
+            var modal = $('div#sign-up-ab[data-reveal]');
+            $(modal).foundation('reveal', 'open');
+
+            // initialize facebook button's next url property with the current test
+            // only replace facebook button's next url if a custom next url has not already been provided
+            var fbButton = $(modal).find('.js-fb-auth');
+            window.fbButton = fbButton;
+            if(!fbButton.data('nextUrl')) {
+                $(modal).find('input[name=next]').on('change', function() {
+                    // update facebook button's next url
+                    fbButton.data('nextUrl', $(this).val());
+                });
+
+                // initialize facebook button's next url with selected test's next url
+                fbButton.data('nextUrl', $(modal).find('input[name=next]:checked').val());
+            };
+
+            // track when sign up modal launched
+            mixpanel.track('Sign Up Modal Launched', {
+                'Test Picker Shown': false,
+            });
+        });
+
+        
+            
+                
+                    bindSignUpForm()
+                
+            
+        
+
+    });
+
+function bindSignUpForm () {
+    $('#sign-up-ab form').on('submit', function (e) {
+
+        $(this).find('input:submit').attr('disabled', true);
+
+        if ($('.xp-bullet.active').data('reg-type') == 'email') {
+            return true;
+        } else {
+            $('.js-fb-auth').click();
+            return false;
+        }
+    });
+}
+</script>
+
+            
+
+
 <div id="sign-up" class="reveal-modal sign-up-email-only" data-reveal="" aria-labelledby="myModalLabel" aria-hidden="true" role="dialog">
     <form method="POST" action="/members/register/?next=" id="deferred-user-email-form">
         <input type="hidden" name="registration_form" value="email_only">
-        <input type="hidden" name="csrfmiddlewaretoken" value="pLhnZl6JvGB9G3czdtenZZlR7SlJUYMA">
+        <input type="hidden" name="csrfmiddlewaretoken" value="R7X0Mzbvft8trPYA4xkB6n6a7EiXNDWi">
 
         <a href="#" class="close-reveal-modal" aria-label="Close" tabindex="4">×</a>
         <div class="registration-container clearfix">
             <div class="registration-container-up">
-                <h3 class="modal-title" id="myModalLabel">Find your perfect career, for free.</h3>
-                <p>Sokanu is a 30 minute free career test that measures your fit against 700+ careers.</p>
                 <div class="row">
+                    <div class="column small-12">
+                        <h3 class="modal-title" id="myModalLabel">Find your perfect career, for free.</h3>
+                        <p class="general-copy">Sokanu is a 20 minute free career test that measures your fit against 800 careers.</p>
+                        <p class="tech-copy hide">Sokanu's tech test is a 8-minute free career test that measures your fit against 16 tech-specific careers.</p>
+                    </div>
                     <div class="column medium-7">
                         <input class="sign-up-email-input" type="email" name="email" placeholder="email address" tabindex="1" aria-label="Email address">
                         <input type="submit" class="button sign-up-email-submit right" value="Start" tabindex="2">
@@ -1034,23 +1456,96 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
                     </div>
                     <div class="column medium-1 sign-up-option-separator">or</div>
                     <div class="column medium-4">
-                        <a href="#" class="button block facebook-blue js-fb-auth js-track-link sign-up-facebook" data-fail-uri="/members/register/?next=" data-success-uri="/facebook/login_success/?next=" data-link="sign up with facebook #3" onclick="$(&quot;#sign-up&quot;).foundation(&quot;reveal&quot;, &quot;close&quot;);" tabindex="3"><span>Sign up with facebook</span></a>
+                        <a href="#" class="button block facebook-blue js-fb-auth js-track-link sign-up-facebook" data-fail-url-base="/members/register/" data-success-url-base="/facebook/login_success/" data-next-url="" data-link="sign up with facebook #3" onclick="$(&quot;#sign-up&quot;).foundation(&quot;reveal&quot;, &quot;close&quot;);" tabindex="3"><span>Sign up with facebook</span></a>
                     </div>
                 </div>
             </div>
             <div class="registration-container-down">
-                <div class="row">
+                <div class="row registration-features-list">
                     <div class="column medium-4">
                         <h3>Accurate</h3>
                         <p>Sokanu is the most advanced career test ever built. Our career test matches you to careers based on your interests, preferred work environment, personality, skills, and values.</p>
                     </div>
                     <div class="column medium-4">
                         <h3>Modern</h3>
-                        <p>Careers change every year. So does Sokanu. We regularly add modern careers like social media manager and biomedical engineer to our catalog of careers.</p>
+                        <p class="general-copy">Careers change every year. So does Sokanu. We regularly add modern careers like social media manager and biomedical engineer to our catalog of careers.</p>
+                        <p class="tech-copy hide">Careers change every year. So does Sokanu. That's why we built a tech test based on modern tech careers you'll actually find in a modern tech workplace.</p>
                     </div>
                     <div class="column medium-4">
                         <h3>Smart</h3>
                         <p>Our matching technology relies on our career genome project, a painstakingly detailed catalog of career data that we continuously refine to ensure the greatest predictive ability.</p>
+                    </div>
+                </div>
+
+                <div class="row registration-test-picker hide">
+                    <div class="test-type-input-help">Choose your first test. You can always complete more later on.</div>
+
+                    <div class="test-types">
+                        <div class="test-type">
+                            <input type="radio" class="test-type-input" data-test-type="general" id="general-test-selector" name="next" value="" checked="">
+                            <label for="general-test-selector">
+                                <h3>General Career Test</h3>
+                                <p>No idea what you want to do? Looking to learn more about your strenghts and the types of careers right for you? Then this is the test for you.</p>
+                                <div class="row test-stats">
+                                    <div class="column small-4">
+                                        <span id="general-num-careers" class="test-stat-value">800</span>
+                                        <label for="general-num-careers" class="test-stat-label">Careers
+                                    </label></div>
+                                    <div class="column small-4">
+                                        <span id="general-test-length" class="test-stat-value">20</span>
+                                        <label for="general-test-length" class="test-stat-label">Minutes
+                                    </label></div>
+                                    <div class="column small-4">
+                                        <span id="military-num-reports" class="test-stat-value">3</span>
+                                        <label for="military-num-reports" class="test-stat-label">Reports
+                                    </label></div>
+                                </div>
+                            </label>
+                        </div>
+
+                        <div class="test-type">
+                            <input type="radio" class="test-type-input" data-test-type="tech" id="tech-test-selector" name="next" value="/tech-test/assessment/">
+                            <label for="tech-test-selector">
+                                <h3>Tech Career Test</h3>
+                                <p>Interested in tech? Try our quick 8 minute tech test to see your match against tech-specific careers!</p>
+                                <div class="row test-stats">
+                                    <div class="column small-4">
+                                        <span id="tech-num-careers" class="test-stat-value">16</span>
+                                        <label for="tech-num-careers" class="test-stat-label">Careers
+                                    </label></div>
+                                    <div class="column small-4">
+                                        <span id="tech-test-length" class="test-stat-value">10</span>
+                                        <label for="tech-test-length" class="test-stat-label">Minutes
+                                    </label></div>
+                                    <div class="column small-4">
+                                        <span id="tech-num-reports" class="test-stat-value">1</span>
+                                        <label for="tech-num-reports" class="test-stat-label">Report
+                                    </label></div>
+                                </div>
+                            </label>
+                        </div>
+
+                        <div class="test-type">
+                            <input type="radio" class="test-type-input" data-test-type="health" id="medical-test-selector" name="next" value="" disabled="">
+                            <label for="medical-test-selector">
+                                <h3>Health Career Test <small>(coming soon)</small></h3>
+                                <p>See whether you're a better fit as a paramedic or as a pharmacist using Sokanu's free healthcare career test.</p>
+                                <div class="row test-stats">
+                                    <div class="column small-4">
+                                        <span id="health-num-careers" class="test-stat-value">40</span>
+                                        <label for="health-num-careers" class="test-stat-label">Careers
+                                    </label></div>
+                                    <div class="column small-4">
+                                        <span id="health-test-length" class="test-stat-value">15</span>
+                                        <label for="health-test-length" class="test-stat-label">Minutes
+                                    </label></div>
+                                    <div class="column small-4">
+                                        <span id="health-num-reports" class="test-stat-value">1</span>
+                                        <label for="health-num-reports" class="test-stat-label">Report
+                                    </label></div>
+                                </div>
+                            </label>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1060,7 +1555,67 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
 
 
 <script>
-    $(document).ready(function () {
+    window.sessionSchoolSlug = false;
+
+    $(function() {
+        // Override sign-up modal link clicks. Handles two scenarios:
+        // 1. If school is selected, redirect to school sign up page
+        // 2. If sign-up modal button has modal modifying properties, update the modal
+        $('a[data-reveal-id="sign-up"]').on('click.modal', function(e) {
+            e.preventDefault();
+
+            // Hijack the sign up modal for schools users
+            if (window.sessionSchoolSlug) {
+                e.stopPropagation();
+                mixpanel.track('Schools Modal Hijacked', {}, function () {
+                    window.location = '/edu/' + window.sessionSchoolSlug + '/register/';
+                });
+                return;
+            }
+
+            // launch the modal
+            var modal = $('div#sign-up[data-reveal]');
+            $(modal).foundation('reveal', 'open');
+
+            // pick default test depending on defaultTest property
+            var defaultTest = $(this).data('defaultTest') || 'general';
+            $(modal).find('input[name=next]').filter(function() { return $(this).data('testType') == defaultTest; }).prop('checked', true);
+
+            // toggle sign up feature list or test picker element depending on showTestPicker property
+            var showTestPicker = $(this).data('showTestPicker') ? true : false;
+            $(modal).find('.registration-test-picker').toggleClass('hide', showTestPicker ? false : true);
+            $(modal).find('.registration-features-list').toggleClass('hide', showTestPicker ? true : false);
+
+            // Toggle tech specific copy if on tech test-only page
+            $(modal).find('.general-copy').toggleClass('hide', showTestPicker || defaultTest == 'tech' ? true : false);
+            $(modal).find('.tech-copy').toggleClass('hide', !showTestPicker && defaultTest == 'tech' ? false : true);
+
+            // initialize facebook button's next url property with the current test
+            // only replace facebook button's next url if a custom next url has not already been provided
+            var fbButton = $(modal).find('.js-fb-auth');
+            window.fbButton = fbButton;
+            if(!fbButton.data('nextUrl')) {
+                $(modal).find('input[name=next]').on('change', function() {
+                    // update facebook button's next url
+                    fbButton.data('nextUrl', $(this).val());
+                });
+
+                // initialize facebook button's next url with selected test's next url
+                fbButton.data('nextUrl', $(modal).find('input[name=next]:checked').val());
+            };
+
+            // track when sign up modal launched
+            mixpanel.track('Sign Up Modal Launched', {
+                'Test Type': defaultTest,
+                'Test Picker Shown': showTestPicker
+            });
+
+            // track when users change test type
+            $('div#sign-up[data-reveal] input[name=next]').off('change').on('change', function() {
+                mixpanel.track('Sign Up Modal Test Type Changed', {'Test Type': $(this).data('testType')});
+            });
+        });
+
         // prevent double form submissions
         $('#sign-up form').on('submit', function() {
             $(this).find('input:submit').attr('disabled', true);
@@ -1070,7 +1625,7 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
 
             <div id="login" class="reveal-modal" data-reveal="" aria-labelledby="myModalLabel" aria-hidden="true" role="dialog">
     <form method="POST" action="/members/login/?next=/privacy/" class="modal-dialog js-track-form" data-action="email login">
-        <input type="hidden" name="csrfmiddlewaretoken" value="pLhnZl6JvGB9G3czdtenZZlR7SlJUYMA">
+        <input type="hidden" name="csrfmiddlewaretoken" value="R7X0Mzbvft8trPYA4xkB6n6a7EiXNDWi">
 
         <a href="#" class="close-reveal-modal" aria-label="Close" tabindex="5">×</a>
 
@@ -1087,7 +1642,7 @@ window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
         </div>
         <div class="facebook-registration-container clearfix">
             <span style="color:#999; font-size:16px; ">Or log in with Facebook</span>
-            <a href="#" class="button right facebook-blue js-fb-auth js-track-link" data-fail-uri="/members/register/" data-success-uri="/facebook/login_success/?next=/privacy/" data-link="login with facebook" onclick="$(&quot;#sign-up&quot;).foundation(&quot;reveal&quot;, &quot;close&quot;);">Facebook Login</a>
+            <a href="#" class="button right facebook-blue js-fb-auth js-track-link" data-fail-url-base="/members/register/" data-success-url-base="/facebook/login_success/" data-next-url="/privacy/" data-link="login with facebook" onclick="$(&quot;#sign-up&quot;).foundation(&quot;reveal&quot;, &quot;close&quot;);">Facebook Login</a>
         </div>
     </form>
 </div>
