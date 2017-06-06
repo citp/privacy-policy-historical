@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120112213id_/http%3A//www.boyneresorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173151id_/http%3A//www.boyneresorts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boyne Resorts
 
 Boyne Resorts recognizes the importance of protecting the privacy of all information provided by users of our web sites, registrants and visitors for our resorts and activities, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned and operated by Boyne Resorts.
 
-_Updated: 4/3/2013_
+_Updated: 5/3/2017_
 
 ## Information Collection & Use
 
@@ -34,8 +34,7 @@ Boyne Resorts owns and operates the following properties and all data collected 
   * Boyne Mountain Resort, Boyne Falls, Michigan
   * Country Club of Boyne, Harbor Springs, Michigan
   * Crooked Tree Golf Club, Bay Harbor, Michigan (51% owner)
-  * Crystal Mountain, Crystal Mountain, Washington
-  * The Inn at Bay Harbor - A Renaissance Golf Resort, Bay Harbor, Michigan
+  * Inn at Bay Harbor - An Autograph Collection Hotel, Bay Harbor, Michigan
 
 
 
@@ -79,7 +78,7 @@ PO Box 19
 One Boyne Mountain Road   
 Boyne Falls, MI 49713   
 [boynemountain.com](http://www.boyne.com/boynemountain)
-  * The Inn at Bay Harbor Marketing Department   
+  * Inn at Bay Harbor Marketing Department   
 3600 Village Harbor Drive  
 Bay Harbor, Michigan 49770   
 [innatbayharbor.com](http://www.innatbayharbor.com/)
@@ -92,10 +91,6 @@ Big Sky, Montana 59716
 12601 E. Big Cottonwood Canyon   
 Brighton, Utah 84121   
 [brightonresort.com](http://www.brightonresort.com/)
-  * Crystal Mountain Marketing Department  
-33914 Crystal Mountain Blvd.   
-Crystal Mountain, Washington 98022   
-[crystalmountainresort.com](http://www.crystalmountainresort.com/)
   * Cypress Mountain Marketing Department  
 P.O. Box 91252   
 West Vancouver, B.C.   
