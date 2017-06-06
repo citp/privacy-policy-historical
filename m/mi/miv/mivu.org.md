@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205014935id_/http%3A//www.mivu.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040657id_/http%3A//www.mivu.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Michigan Virtual University | MVU | Michigan Online Education > Privacy Policy
 
@@ -6,19 +6,13 @@ BY ACCESSING ANY OF OUR WEB SITES, YOU AGREE TO THE TERMS OF THIS PRIVACY STAT
 
 This page describes the ways in which **_Michigan Virtual University_** ®, a Michigan nonprofit corporation, and all of its divisions (collectively referred to here as " _Michigan Virtual University_ ," “ _MVU_ ®,” “we,” “us,” or “our”) handle information it obtains about individuals through the websites it operates, including:
 
-[**mivu.org**](https://web.archive.org/) (and all sub-domains of mivu.org)  
-[**ace.mivu.org**](http://ace.mivu.org/) **  
-**[**careerforward.org**](http://www.mivhs.org/Careers/CareerForward/tabid/273/Default.aspx) (and all sub-domains of careerforward.org)  
-[**learnport.org**](http://mi.learnport.org/) **  
+[**mivu.org**](https://web.archive.org/) (and all sub-domains of mivu.org) **  
 **[**micourses.org**](http://www.micourses.org/) **  
-**[**mivhs.org**](http://www.mivhs.org/)  
-[**mois.org**](http://www.mois.org/) **  
-**[**mvlri.org**](http://www.mvlri.org/) **  
-**[myblend.org](http://myblend.org/) ** ** (and all sub-domains of myblend.org)  
-[**mentorsmatter.org**](http://mentorsmatter.org/) (and all sub-domains of mentorsmatter.org)
+**[**mivhs.org**](http://www.mivhs.org/) **  
+**[**mvlri.org**](http://www.mvlri.org/)
 
-  
-We provide a variety of information, features, and functions (the “Services”) through these websites.  
+We provide a variety of information, features, and functions (the “Services”) through these websites.
+
 This page does not necessarily reflect the ways in which we collect and use information by means other than these websites.  If you have questions about the ways in which we collect information by other means, please contact us using the contact information in this statement. The practices relating to persons with separate agreements with _MVU_ or its affiliates are separately covered in those agreements.
 
 **Information _MVU_ collects**  
