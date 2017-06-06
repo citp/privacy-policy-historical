@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seedcamp.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119054958id_/http%3A//seedcamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedcamp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093227id_/http%3A//seedcamp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy with |
+# Privacy Policy
 
 This privacy policy sets out how Seedcamp Ltd. uses and protects any information that you give Seedcamp Ltd. when you use this website.
 
