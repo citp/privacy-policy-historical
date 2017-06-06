@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfactory.co privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116185603id_/http%3A//www.adfactory.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfactory.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104108id_/http%3A//www.adfactory.co/privacy-policy) for the most accurate reproduction.*
 
 # Ad Factory - THE Fastest Ad Generator On The Planet — Ad Factory
 
