@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ovoenergy.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804022808id_/https%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovoenergy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174553id_/https%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OVO Energy
 
-**Last updated: February 2016**
+**Last updated: March 2017**
 
 At OVO Energy, we’re committed to our customers.  As well as providing you with unbeatable value and an excellent service, we believe it’s important to protect your privacy.
 
@@ -33,7 +33,7 @@ The personal information we collect includes your name, email address, postal ad
 
 We’ll also track your use of our website through cookies – see section 4 below for more details.
 
-When you’re an OVO customer, if you have a smart meter installed at your property we’ll also capture your energy consumption data – please see [our FAQ on how we collect smart data here](https://www.ovoenergy.com/ovo-answers/topics/smart-technology/smart-meters/what-data-do-you-take-from-my-smart-meter-and-why.html). 
+When you’re an OVO customer, if you have a smart meter installed at your property we’ll also capture your energy consumption data – please see [our FAQ on how we collect smart data here](https://web.archive.org/ovo-answers/topics/smart-technology/smart-meters/what-data-do-you-take-from-my-smart-meter-and-why.html). 
 
 **When will we collect it?**
 
@@ -59,11 +59,16 @@ We’ll always contact you in the way you’ve asked us to contact you.  If you
 
 **Marketing information**
 
-When you first provide your personal information to OVO, we’ll give you the chance to choose whether you’d be happy for OVO or our selected third party partners to contact you with marketing information and if you have any preferences for the way you’d like to be contacted. This will include contacting you by post, email, phone, SMS, multimedia message or other forms of electronic communication, or we might visit you in person to do this.
+When you first provide your personal information to OVO, we’ll give you the chance to choose whether you’d be happy for the OVO group to contact you with marketing information and if you have any preferences for the way you’d like to be contacted. This will include contacting you by post, email, phone, SMS, multimedia message or other forms of electronic communication, or we might visit you in person to do this.
 
-We (and our agents) will use your personal information for marketing purposes only if you’ve told us we can.  
+If you choose to be contacted, we may tell you about exciting new products and services from OVO Energy and our related businesses in the wider OVO group (or they may contact you directly).
 
-If you’d prefer not to receive this sort of marketing information, or want to change how you receive it, you can always contact us at hello@ovoenergy.com at any time. We’ll occasionally remind you that you can update your preferences for receiving marketing information, or if you haven’t told us what your preferences are, we might get in touch to find out.
+The OVO group includes OVO’s related companies such as VCharge UK Ltd and other subsidiaries of OVO Group Limited from time to time.
+
+We (and our agents or related companies) will use your personal information for marketing purposes only if you’ve told us we can.  
+
+If you’d prefer not to receive this sort of marketing information, or want to change how you receive it, you can always contact us at hello@ovoenergy.com at any time. We’ll occasionally remind you that you can update your preferences for receiving marketing information, or if you haven’t told us what your preferences are, we might get in touch to find out.  
+ 
 
 **3.3  Disclosing your personal information**
 
@@ -73,7 +78,7 @@ We may allow other organisations and people to use personal information we hold 
   * To provide you with information about our products and services or other products and services which may be of interest to you (provided you’ve given your consent);
   * To help manage any reward or loyalty schemes;
   * If we sell one or more of our businesses;
-  * To help prevent and detect debt or fraud.  We may give this information to a credit-reference or a debt collection agency.  For more information on how we conduct credit checks, please see section 9 of our [Core Terms and Conditions here](https://www.ovoenergy.com/coreterms2015) and our [guide to credit checks here](https://web.archive.org/pagenotfound).
+  * To help prevent and detect debt or fraud.  We may give this information to a credit-reference or a debt collection agency.  For more information on how we conduct credit checks, please see section 9 of our [Core Terms and Conditions here](https://web.archive.org/terms) and our [guide to credit checks here](https://web.archive.org/ovo-answers/topics/all-about-switching/the-switching-process/the-ultimate-guide-to-credit-checks-at-ovo.html).
   * If we have been asked (for example, by a regulatory authority such as Ofgem) to provide information for legal or regulatory purposes; or
   * As part of current or future legal action.
 
@@ -134,8 +139,10 @@ Google Analytics uses cookies to collect non-personally identifiable information
 
 We use tools such as ValueClick to place OVO ads on other websites you may visit. These tools may set cookies to track the performance of our advertising campaigns and allow us to tailor the advertising you might be interested in.  
 
-We also use products like Google Analytics Advertising, including remarketing with Google Analytics, Google Display Network Impression Reporting and Google Analytics Demographics and Interest Reporting features.  These products help us understand what ads work best so we can more effectively promote our products and services to you.   
+We also use products like Google Analytics Advertising, including remarketing with Google Analytics, Google Display Network Impression Reporting and Google Analytics Demographics and Interest Reporting features. These products help us understand what ads work best so we can more effectively promote our products and services to you.   
 We also use Google Adometry to track the way you interact with our ads before you come to our website. This lets us work out which ones are relevant to you and which ones aren’t.  
+
+We use Google Adwords Customer Match to help exclude our existing customers from seeing our ads, and to reach similar web users who could also be interested in joining OVO.
 
 **4.3 How can you manage cookies and where can you find further information?**
 
@@ -145,6 +152,7 @@ You can also stop us collecting data through the following sources:
   * Mixpanel - download an opt-out browser add-on - [the Mixpanel opt-out browser can be found here](https://mixpanel.com/optout/). 
   * Google Analytics Advertising Features – visit [www.google.com/setting/ads](https://www.google.com/settings/u/0/ads/authenticated) and adjust your personal settings as per their instructions; or
   * Adometry – follow this link to opt-out of the Adometry cookie: <http://js.dmtry.com/optout/status.html>.
+  * Google Doubleclick (for Google Adwords Customer Match) - follow the link to download a plugin so you can opt-out of Google's advertising cookie on Chrome, Firefox or Internet Explorer - https://www.google.com/settings/ads/plugin.  Please note this does not opt you out of being served advertising. You may continue to receive generic ads from OVO.
 
 
 
