@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itzcash.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119023205id_/http%3A//itzcash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itzcash.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110019id_/http%3A//itzcash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ItzCash
+# Privacy Policy
 
 The following are terms of a legal agreement (“Privacy Agreement”) concerning your privacy on this web site (www.itzcash.com) between you and Itz Cash Card Limited and its affiliates, successors & assigns. By accessing, browsing and using this site you acknowledges that you have read, understood and agree to be bound by this Privacy Agreement and to comply with all applicable laws and regulations. We have designed this Privacy Policy to explain how we handle personally identifiable information collected from users who register for services and submit information to (www.itzcash.com) through the Internet. If you do not agree to these terms, do not use this site. Read this Privacy Agreement carefully and be aware that Itz Cash Card Limited may amend this Privacy Agreement at any time without notice and by posting the amended terms on this site. If you have questions about www.itzcash.com privacy practices, please contact us at [query@itzcash.com](mailto:query@itzcash.com), [help@itzcash.com](mailto:help@itzcash.com) or SMS: ITZHELP <Your Query> 57575.
 
