@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelingua.com privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112182848id_/https%3A//www.livelingua.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelingua.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173609id_/https%3A//www.livelingua.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Live Lingua Privacy Policy
 
@@ -27,9 +27,11 @@ We use the information you provide about yourself when placing an order for clas
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We Class gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a class gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift. 
+We use the information for gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a class gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift. 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties whatsoever. 
+
+We use information to send information about language learning and about additional products created by Live Lingua or it's parent company (Rayvesoft) that may be useful to you. 
 
 You can register with our website if you would like to receive our class newsletter or worksheet as well as updates on our new classes and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
 
@@ -51,11 +53,11 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by sending us an email. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+You can access all your personally identifiable information that we collect online and maintain by sending us an email. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. You also have the option to opt out of any emails sent by Live Lingua or it's related companies. 
 
 **Contacting You**
 
-By contacting Live Lingua, whether through our online forms or directly via email, you are giving them permission to contact you via email. If you sign up for paid lessons you are also giving them permission to contact you with information about your classes, teachers, and any promotions. Live Lingua will never sell your emails to a 3rd party. 
+By contacting Live Lingua, whether through our online forms or directly via email, you are giving them permission to contact you via email. If you sign up for paid lessons you are also giving them permission to contact you with information about your classes, teachers, and any promotions offered by Live Lingua or another business owned by Rayvensoft Corporation (Live Lingua's parent company). Live Lingua will never sell your emails to a 3rd party. 
 
 **Contacting Us**
 
@@ -69,4 +71,4 @@ USA
 339-499-4390  
 info@livelingua.com
 
-This document was last updated on July 26, 2011
+This document was last updated on December 13th, 2016
