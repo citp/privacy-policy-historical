@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelastlineofdefense.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120075305id_/http%3A//thelastlineofdefense.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelastlineofdefense.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022314id_/http%3A//thelastlineofdefense.org/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY – The Resistance: The Last Line of Defense
+# PRIVACY POLICY – Americas Last Line of Defense
 
 This Privacy Policy governs the manner in which _The Last Line Of Defense_ collects, uses, maintains and discloses information collected from users (each, a “User”) of the _The Last Line Of Defense.org_ website (“Site”). This privacy policy applies to the Site and all products and services offered by _The Last Line Of Defense_.
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 _The Last Line Of Defense_ may collect and use User’s personal information for the following purposes:
 
-  * _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_ We may use feedback you provide to improve our products and services.
+  * _– To improve customer service._ Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _– To personalize user experience._ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _– To improve our Site._ We may use feedback you provide to improve our products and services.
 
 
 
