@@ -1,17 +1,50 @@
-> *The following text is extracted and transformed from the expo.io privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expo.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215415id_/https%3A//expo.io/privacy) for the most accurate reproduction.*
 
-# Legal
+# Expo — Privacy policy
 
-* * *
+## Privacy Policy
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+#### General Information
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+We collect the email addresses of those who communicate with us via email, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
+  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](https://web.archive.org/terms), or as otherwise required by law.
+  * We transfer information about you if Expo is acquired by or merged with another company. In this event, Expo will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+
+#### Information Gathering and Usage
+
+When you register for Expo we ask for information such as your name and email address. Expo uses collected information for the following general purposes: products and services provision, identification and authentication, services improvement, contact, and research.
+
+#### Cookies
+
+  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
+  * Cookies are required to use the Expo service.
+  * We use cookies to record current session information, but do not use permanent cookies. You are required to re-login to your Expo account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+
+
+
+#### Data Storage
+
+Expo uses third-party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Expo. Although Expo owns the code, databases, and all rights to the Expo application, you retain all rights to your data.
+
+#### Usage Statistics
+
+We collect usage and performance statistics from Expo applications. Usage statistics are transmitted using TLS and help us improve future versions of Expo.
+
+#### Disclosure
+
+Expo may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://web.archive.org/terms).
+
+#### EU and Swiss Safe Harbor
+
+If you choose to provide Expo with your information, you consent to the transfer and storage of that information on our servers located in the United States.
+
+#### Changes
+
+Expo may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Expo account or by placing a prominent notice on our site.
+
+#### Questions
+
+Any questions about this Privacy Policy should be addressed to [support@expo.io](mailto:support@expo.io)
