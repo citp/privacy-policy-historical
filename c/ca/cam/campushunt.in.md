@@ -1,0 +1,50 @@
+> *The following text is extracted and transformed from the campushunt.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201452id_/http%3A//campushunt.in/privacy_policy.php) for the most accurate reproduction.*
+
+# CampusHunt - Privacy Policy
+
+This privacy policy (“Policy”) and this site’s Terms of Service (together the “Terms”) govern all use of www.campushunt.in and that site’s services (together the “Site” or “Services”). The owners and contributors to the Site will be referred to as “we,” “us,” or “our” in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a “user” for purposes of this Policy. You and every other user (“you” or “User” as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word “Site” includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.We provide this privacy statement explaining our online information practices, so that you can decide whether and how to interact with the Site and the Services.
+
+We may release your information when we deem it appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Please also review our Terms of Use section that governs the use and the users of the Site.
+
+By using our site, you consent to our privacy policy.
+
+If we decide to change our privacy policy, we will post those changes on this page. If we have your email address, we may also send an email notifying you of any changes.
+
+This site collects certain user information, which may include a username and password, contact information, or any other data that you type in to the site. It may also identify your IP address to help identify you on future visits to the site. At our discretion, the Site may use this data to:
+
+1\. Admission process becomes quick, cost-efficient and easy  
+2\. Get expert assistance in making the right educational choice  
+3\. No service charges or hidden costs - this portal is absolutely free  
+4\. Get access to free books and study materials  
+5\. Eliminate costly middlemen - take the clean, fast and leveraged way  
+6\. Gain free medical insurance for the first year  
+7\. Free laptops for selected courses and colleges  
+8\. Value for money - Pay only the lowest fees
+
+The site may share user data with third parties that help the site owner operate and manage the site. The site will only share such user data with these third parties in the aggregate, using collected data reporting on user activity and data that the site collects, but not identifying individual users. Information limited to or identifying individual site users will not be shared.
+
+The following applies to our site, when viewed on a mobile device: When accessed with a mobile deivce, our site may collect information automatically, such as the type of mobile device you have, device identifiers, and information about your use of the site. Regardless of the device you use to access the site, it will also collect information you provide, as well as information about your interaction with the site and its content.
+
+If location services are activated on your mobile device, our site may collect information about the location of your device. Your mobile network service providers may collect device-specific information, such as a device identifier, when you use our website or one of our mobile applications. This information collected by your mobile network service will not be associated with your user account with us, or with your personally identifiable information.
+
+This site uses cookies. Cookies are small pieces of code that the Site or a service provider will put on your computer if your Web browser allows it. The Site uses cookies to recognize and keep certain information. On the Site, that information may be used to recognize your computer and browser from current or past visits to the Site or related sites. We may use this cookie-captured information to improve our service to you, to aggregate information about visitors to the Site and their behavior, to remember and process items in your shopping cart, to understand and save user preferences, or to keep track of advertising. We may contract with third-party service providers to assist us in better understanding our site visitors.
+
+In most Internet browsers, you can change your settings so that you will be warned each time a cookie is being sent, or so that cookies will be turned off. With cookies blocked, some functions of the Site may not operate properly.
+
+If prompted, Users must provide a valid email address to the Site, at which the User can receive messages. User must also update the Site if that email address changes. The Site reserves the right to terminate any User account if a valid email is requested but is not provided by the User.
+
+If the Site prompts or allows a User to create a username or profile, Users agree not to pick a username or provide any profile information that would impersonate someone or that is likely to cause confusion with any other person or entity. The Site reserves the right to cancel a User account or change a username or profile data at any time. Similarly, if the Site prompts or allows a User to create an avatar or upload a picture, User agrees not to use any image that impersonates some other person or entity, or that is otherwise likely to cause confusion.
+
+You are responsible for protecting your username and password for the Site, and you agree not to disclose it to any third party. We recommend that you use a passwork that is more than eight characters long. You are responsible for all activity on your account, whether or not you authorized it. You agree to inform us of unauthorized use of your account, by email to info@admissionsaccomplished.com. You acknowledge that if you wish to protect your interactions the Site, it is your responsibility to use a secure encrypted connection, virtual private network, or other appropriate measures. 
+
+We are based in Fairfield, CT and you are contracting to use our Site. This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of Fairfield, CT, without regard to any choice of laws rules of any jurisdiction. The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in Fairfield, CT will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
+
+Notwithstanding anything that may be contrary within the “Disputes” provisions above, all matters, and all claims within a multi-claim matter, that are arbitrable, including all claims for monetary damages, shall be decided by a single arbitrator to be selected by us, who shall hold hearings in or near Fairfield, CT, under the rules of the American Arbitration Association.
+
+If you have any questions about these Terms, please address them to [info@campushunt.in](mailto:info@campushunt.in)
+
+These terms were last updated on 29-10-2015
