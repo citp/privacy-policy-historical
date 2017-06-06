@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boxofficeincome.in privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217065934id_/http%3A//boxofficeincome.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficeincome.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051704id_/http%3A//boxofficeincome.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- Box Office Income
+# Privacy Policy | Box Office Income- Movie Box Office Report, Reviews & Latest Update
 
-**BoxOfficeIncome.in** has published this privacy policy in order to declare our website commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
+BoxOfficeIncome.in has published this privacy policy in order to declare our website commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
 
 * * *
 
@@ -14,7 +14,8 @@ We do not use any of your information except your Network IP to gather demograph
 
 **Cookies**
 
-Various methods are employed to gather this data. “Cookies” are used to distinguish and relate non personal data to individuals. These are “small strings of text” that are stored in browsers; cookies are not programs that can damage your computer. If you wish to stop the cookie functionality on your browser, you may do so.  
+Various methods are employed to gather this data. “Cookies” are used to distinguish and relate non personal data to individuals. These are “small strings of text” that are stored in browsers; cookies are not programs that can damage your computer. If you wish to stop the cookie functionality on your browser, you may do so.
+
 Our Site uses cookies to make sure you don’t see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your login information so you don’t have to re-enter it each time you visit our site. Information collected using cookies is never shared with anyone or disclosed to third parties.
 
 * * *
