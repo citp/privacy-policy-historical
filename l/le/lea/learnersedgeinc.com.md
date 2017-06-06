@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the learnersedgeinc.com privacy policy that was archived on 2016-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160218111133id_/https%3A//learnersedgeinc-1.hs-sites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnersedgeinc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062849id_/https%3A//learnersedgeinc-1.hs-sites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy:
 
-[Learners Edge](http://www%2Clearnersedgeinc.com/) has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site and within our organization. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.LearnersEdgeInc.com and within Learners Edge.
+[Learners Edge](https://web.archive.org/) has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site and within our organization. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.LearnersEdgeInc.com and within Learners Edge.
 
 In order to fully understand your rights we encourage you to read this Privacy Policy. Learners Edge reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting. Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of; 
 
