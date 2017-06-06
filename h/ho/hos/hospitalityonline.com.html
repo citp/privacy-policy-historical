@@ -1,150 +1,341 @@
-<!--The following is the downloaded HTML source of the hospitalityonline.com privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223044516id_/http%3A//www.hospitalityonline.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hospitalityonline.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606100601id_/http%3A//www.hospitalityonline.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-<title>Hospitality Online Privacy Policy</title>
-    <!--include virtual="/objects/a/cookie_session.ssi"-->
-    <script src="http://www.hospitalityonline.com/js/common.js" type="text/javascript"></script>
-    <link href="http://www.hospitalityonline.com/css/a/styles2010.css" rel="stylesheet" type="text/css">
-    <link href="http://www.hospitalityonline.com/css/a/gallery.css" rel="stylesheet" type="text/css">
-    <!--[if lt IE 7]>
-        <link href="http://www.hospitalityonline.com/css/a/ie6.css" rel="stylesheet" type="text/css" />
-    <![endif]-->
+<!DOCTYPE html><html><head>
+<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"1d72fe94fb","applicationID":"4306638","transactionName":"JgxbFUJWVA1QERZfXQgGGhFCUE4AVho=","queueTime":0,"applicationTime":57,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAIPU1dADAAAUldRDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+  <title>Privacy Policy | Hospitality Online</title>
+
+  <link rel="stylesheet" media="all" href="http://assets.hospitalityonline.com/assets/application_bootstrap-a4737a84e245eb5edc37072d10c6e7c1b8e36d71964f44d155a2226a6478909c.css">
+  <link rel="stylesheet" media="all" href="http://assets.hospitalityonline.com/assets/application-497522186b235528efbfadebe980d8f33c45723c38eebf3292b9958c8936bdbe.css">
+
+
+  
+
+  <link rel="stylesheet" media="print" href="http://assets.hospitalityonline.com/assets/print-9e01df47f0499395b3519c91bf2489bebc8773de8ce5dc5ec6f3f4c50e46e949.css">
+
+  <script src="http://assets.hospitalityonline.com/assets/application-2bf6878c63362e4bcca18e628461ce806049aeefc5abe949f4b925f931405d0f.js"></script>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="Z+0KdO5EPBR6zkeCy0SY9JWWGg9P2ZXxT/rDbjXSHSnqYyg+8G0gBbzPo7m6yzYzKqiftqkxHNx0pmAziCjcQw==">
+    <meta name="description" content="Search thousands of hotel, restaurant, and resort jobs on Hospitality Online, the largest hospitality careers site in the world.">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+  
+
+  <script type="text/javascript">
+    
+  </script>
+
+  
+<!-- google analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-4300385-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+<!-- /google analytics -->
+
 </head>
 
-<body>
-    <div id="header">
-        <div id="main_nav">
-            <a href="http://www.hospitalityonline.com/"><img src="http://image.hospitalityonline.com/themes/2010/logo.png" width="252" height="37" border="0" alt="Hospitality Jobs Online"></a>
+<body id="cxm" class="home">
+  
 
-            <ul id="tabs">
-                <li class="active"><a href="http://www.hospitalityonline.com/jobs/">Job Seekers</a></li>
-                <li class="z1"><a href="http://employers.hospitalityonline.com/">For Employers</a></li>
-                <li class="z0"><a href="http://blog.hospitalityonline.com/">Blog</a></li>
+
+  <nav class="navbar navbar-inverse">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" data-target="#application-navbar" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="#" type="button" id="search-toggle" class="pull-right home-page"><span class="glyphicons glyphicons-search"></span></a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="application-navbar">
+          <ul id="signed_out_nav" class="nav navbar-nav">
+            <li>
+              <a id="sign-up-btn" class="btn btn-primary" href="/members/join">Login or Join</a>
+            </li>
+            <li class="for_employers">
+              <a href="/account/info">About Us</a>
+            </li>
+            <li class="for_employers">
+              <a href="/account/info/advertise">Post a job for $485</a>
+            </li>
+            <li class="for_employers">
+              <a href="/account/login">Employer Login</a>
+            </li>
+          </ul>
+        
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle hidden-md hidden-sm hidden-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Jobs by category <span class="caret"></span></a>
+            <ul class="dropdown-menu three-column">
+                <li><a href="/jobs/browse/category/administrative">Administrative</a></li>
+                <li><a href="/jobs/browse/category/catering-banquet">Catering/Banquet</a></li>
+                <li><a href="/jobs/browse/category/chefs-kitchen">Chefs/Kitchen</a></li>
+                <li><a href="/jobs/browse/category/development-construction">Development/Construction</a></li>
+                <li><a href="/jobs/browse/category/engineering-maintenance">Engineering/Maintenance</a></li>
+                <li><a href="/jobs/browse/category/executive">Executive/Corporate</a></li>
+                <li><a href="/jobs/browse/category/finance-accounting">Finance/Accounting</a></li>
+                <li><a href="/jobs/browse/category/food-and-beverage">Food &amp; Beverage</a></li>
+                <li><a href="/jobs/browse/category/food-service">Food Service</a></li>
+                <li><a href="/jobs/browse/category/gaming">Gaming/Casino</a></li>
+                <li><a href="/jobs/browse/category/general-manager">General Manager</a></li>
+                <li><a href="/jobs/browse/category/guest-services">Guest Services</a></li>
+                <li><a href="/jobs/browse/category/housekeeping">Housekeeping</a></li>
+                <li><a href="/jobs/browse/category/human-resources">Human Resources</a></li>
+                <li><a href="/jobs/browse/category/internships">Internships</a></li>
+                <li><a href="/jobs/browse/category/meetings-events">Meetings/Events</a></li>
+                <li><a href="/jobs/browse/category/operations">Operations</a></li>
+                <li><a href="/jobs/browse/category/recreation-entertainment">Recreation/Entertainment</a></li>
+                <li><a href="/jobs/browse/category/revenue">Revenue</a></li>
+                <li><a href="/jobs/browse/category/rooms">Rooms Division</a></li>
+                <li><a href="/jobs/browse/category/sales-and-marketing">Sales &amp; Marketing</a></li>
+                <li><a href="/jobs/browse/category/security">Security</a></li>
+                <li><a href="/jobs/browse/category/spa">Spa</a></li>
+                <li><a href="/jobs/browse/category/technology">Technology/IT</a></li>
+                <li><a href="/jobs/browse/category/transportation">Transportation</a></li>
+                <li><a href="/jobs/browse/category/corporate">Corporate</a></li>
             </ul>
-
-            <p class="header_info"></p>
-        </div>
-
-        <div id="nav_bar">
-            <ul>
-                <li><a href="http://www.hospitalityonline.com/jobs/">Browse Job Listings</a></li>
-                <li><a href="http://www.hospitalityonline.com/profiles/">Employer Profiles</a></li>
-                <li><a href="http://toolkit.hospitalityonline.com/">My Career Toolkit</a></li>
-                <li><a href="http://www.hospitalityonline.com/getting-hired/">Getting Hired</a></li>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle hidden-md hidden-sm hidden-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Jobs by state <span class="caret"></span></a>
+              <ul class="dropdown-menu three-column">
+                  <li><a href="/jobs/search/where/AL">Alabama</a></li>
+                  <li><a href="/jobs/search/where/AK">Alaska</a></li>
+                  <li><a href="/jobs/search/where/AZ">Arizona</a></li>
+                  <li><a href="/jobs/search/where/AR">Arkansas</a></li>
+                  <li><a href="/jobs/search/where/CA">California</a></li>
+                  <li><a href="/jobs/search/where/CO">Colorado</a></li>
+                  <li><a href="/jobs/search/where/CT">Connecticut</a></li>
+                  <li><a href="/jobs/search/where/DE">Delaware</a></li>
+                  <li><a href="/jobs/search/where/DC">District of Columbia</a></li>
+                  <li><a href="/jobs/search/where/FL">Florida</a></li>
+                  <li><a href="/jobs/search/where/GA">Georgia</a></li>
+                  <li><a href="/jobs/search/where/HI">Hawaii</a></li>
+                  <li><a href="/jobs/search/where/ID">Idaho</a></li>
+                  <li><a href="/jobs/search/where/IL">Illinois</a></li>
+                  <li><a href="/jobs/search/where/IN">Indiana</a></li>
+                  <li><a href="/jobs/search/where/IA">Iowa</a></li>
+                  <li><a href="/jobs/search/where/KS">Kansas</a></li>
+                  <li><a href="/jobs/search/where/KY">Kentucky</a></li>
+                  <li><a href="/jobs/search/where/LA">Louisiana</a></li>
+                  <li><a href="/jobs/search/where/ME">Maine</a></li>
+                  <li><a href="/jobs/search/where/MD">Maryland</a></li>
+                  <li><a href="/jobs/search/where/MA">Massachusetts</a></li>
+                  <li><a href="/jobs/search/where/MI">Michigan</a></li>
+                  <li><a href="/jobs/search/where/MN">Minnesota</a></li>
+                  <li><a href="/jobs/search/where/MS">Mississippi</a></li>
+                  <li><a href="/jobs/search/where/MO">Missouri</a></li>
+                  <li><a href="/jobs/search/where/MT">Montana</a></li>
+                  <li><a href="/jobs/search/where/NE">Nebraska</a></li>
+                  <li><a href="/jobs/search/where/NV">Nevada</a></li>
+                  <li><a href="/jobs/search/where/NH">New Hampshire</a></li>
+                  <li><a href="/jobs/search/where/NJ">New Jersey</a></li>
+                  <li><a href="/jobs/search/where/NM">New Mexico</a></li>
+                  <li><a href="/jobs/search/where/NY">New York</a></li>
+                  <li><a href="/jobs/search/where/NC">North Carolina</a></li>
+                  <li><a href="/jobs/search/where/ND">North Dakota</a></li>
+                  <li><a href="/jobs/search/where/OH">Ohio</a></li>
+                  <li><a href="/jobs/search/where/OK">Oklahoma</a></li>
+                  <li><a href="/jobs/search/where/OR">Oregon</a></li>
+                  <li><a href="/jobs/search/where/PA">Pennsylvania</a></li>
+                  <li><a href="/jobs/search/where/RI">Rhode Island</a></li>
+                  <li><a href="/jobs/search/where/SC">South Carolina</a></li>
+                  <li><a href="/jobs/search/where/SD">South Dakota</a></li>
+                  <li><a href="/jobs/search/where/TN">Tennessee</a></li>
+                  <li><a href="/jobs/search/where/TX">Texas</a></li>
+                  <li><a href="/jobs/search/where/UT">Utah</a></li>
+                  <li><a href="/jobs/search/where/VT">Vermont</a></li>
+                  <li><a href="/jobs/search/where/VA">Virginia</a></li>
+                  <li><a href="/jobs/search/where/WA">Washington</a></li>
+                  <li><a href="/jobs/search/where/WV">West Virginia</a></li>
+                  <li><a href="/jobs/search/where/WI">Wisconsin</a></li>
+                  <li><a href="/jobs/search/where/WY">Wyoming</a></li>
+              </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle hidden-md hidden-sm hidden-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular jobs <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/jobs/recent">Recently posted jobs</a></li>
+              <li><a href="/jobs/brands">Jobs By Brand</a></li>
+              <li><a href="/jobs/where/Los Angeles">Jobs in Los Angeles</a></li>
+              <li><a href="/jobs/where/NYC">Jobs in NYC</a></li>
+              <li><a href="/jobs/where/Dallas">Jobs in Dallas/Fort Worth</a></li>
+              <li><a href="/jobs/where/Houston">Jobs in Houston</a></li>
+              <li><a href="/jobs/where/Chicago">Jobs in Chicago</a></li>
+                <li><a href="/careers/timeshare-sales-jobs">Timeshare Sales Jobs</a></li>
+                <li><a href="/careers/housekeeping-jobs">Housekeeping Job Openings</a></li>
+                <li><a href="/careers/front-desk-jobs">Front Desk Job Openings</a></li>
             </ul>
+          </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container -->
+</nav>
+
+<header>
+  <div id="job_browse_header">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <a id="logo" href="/"><img src="http://assets.hospitalityonline.com/assets/logos/hospitality-online-who-you-are-5706d8fb93c51c3a24eeec918eabf9ffb9204eab9962ddc1bbedbeb4d125ee68.png" alt="Hospitality online who you are"></a>
         </div>
+        <div class="col-md-6">
+          <form id="job-search-form" class="form-inline pull-right home-page" action="/jobs/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+    <h5>Search <b>25,957</b> current hospitality jobs</h5>
+
+  <div class="form-group">
+    <label for="what" class="hidden-md hidden-lg hidden-xl">what</label>
+    <input type="text" name="what" id="what" class="what form-control" placeholder="job title or category">
+  </div>
+  <div class="form-group">
+    <label for="where" class="hidden-md hidden-lg hidden-xl">where</label>
+    <input type="text" name="where" id="where" class="where form-control" placeholder="city or zip">
+  </div>
+  <input type="submit" name="commit" value="search jobs" id="search_submit" class="btn btn-primary">
+</form>
+        </div>
+      </div>
+      <hr>
     </div>
-    <div id="page">
+  </div>
+</header>
 
 
-<div class="left_col">
+  <div class="container cxm">
+    
+
+<div id="flash_messages">
 </div>
 
-<div class="wide_col">
-    <h2>Hospitality Online Privacy Policy</h2>
-<br>
+    <div class="legal-info">
+  <h1>Privacy Policy</h1>
 
-<!--MAIN-->
-<p>The purpose of your job search is to advance your personal career. Hospitality Online is committed to helping you advance your career while maintaining your privacy and the privacy of all others using Hospitality Online.
+<p><em>Last updated December 2, 2015</em></p>
 
-</p><p>Hospitality Online provides an interactive Internet site to enable hospitality industry job seekers to find career information, information about employers, and tips and techniques to help job seekers to succeed. Employers need the opportunity to present their jobs, company and properties completely and professionally.
+<p>Protecting your private information is our priority. This Statement of Privacy applies to the www.hospitalityonline.com site and Hospitality Online, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Hospitality Online, Inc. include www.hospitalityonline.com and Hospitality Online. The Hospitality Online website is a hospitality job opportunities site. By using the Hospitality Online website, you consent to the data practices described in this statement.</p>
 
-</p><p>Employers have the opportunity to provide detailed profiles about their property/company to attract the best quality applicants. Employers can also provide very detailed information about jobs to help job seekers better identify jobs they are qualified for.
+<h2>Collection of your Personal Information</h2>
 
-</p><p>Applicants and Employers wanted a different kind of job site, one that provided job seekers much more information about the employers, and a job site that provided them more information about jobs. Job seekers also didn't want to be bothered with information about jobs they were not interested in, that meant effective pre-screening. 
+<p>Hospitality Online may collect personally identifiable information, such as your name, email address, mailing address, and resume. If you purchase Hospitality Online's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.</p>
 
-</p><p>Providing more complete information during each step of the process means we have to collect more detailed information about job seekers and employers. 
+<p>Information about your computer hardware and software may be automatically collected by Hospitality Online. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Hospitality Online website.</p>
 
-</p><p>The information you submit to Hospitality Online remains private. We compile statistics in many various ways, but we do not share statistics on any individual job seekers. Likewise we aggregate information from employers when we publish statistics. Last, we do not sell, rent, or exchange lists of job seekers or employers with other companies. 
+<p>Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Hospitality Online's public pages, this information may be collected and used by others.</p>
 
-</p><p>We compile statistics such as the number of users visiting the site by time period, position, salary range, etc. Just as we compile statistics on the number of jobs advertised by position, salary range, area of the country, etc. 
+<p>Hospitality Online encourages you to review the privacy statements of websites you choose to link to from Hospitality Online so that you can understand how those websites collect, use and share your information. Hospitality Online is not responsible for the privacy statements or other content on websites outside of the Hospitality Online website.</p>
 
-</p><p>Employers each have their own section on Hospitality Online. Those sections often include links to their Internet sites, online job applications, and resume submittal directions. When you respond to employers your information is going to them and is subject to their privacy policies. Hospitality Online is not responsible for the information that employers receive from you, whether through electronic transmission by Hospitality Online, or fax or mail transmissions you submit. 
+<h2>Use of your Personal Information</h2>
 
-</p><p>Hospitality Online has alliances with other companies to provide additional services. Note that when you link to those other services you are going directly to those companies and you are subject to their privacy policies.
+<p>Hospitality Online collects and uses your personal information to operate its website(s) and deliver the services you have requested.</p>
 
-</p><p>Job seekers, employers, and others have the opportunity to share success stories and other comments with Hospitality Online, usually through e-mail. These comments become the property of Hospitality Online. We may use this information for marketing purposes, or to contact you for additional information or clarification.
+<p>Hospitality Online may also use your personally identifiable information to inform you of other products or services available from Hospitality Online and its affiliates. Hospitality Online may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.</p>
 
-</p><p><b>Your information about you. (Job seekers)</b><br>
-Hospitality Online has a registration process to provide job seekers with their own private section within Hospitality Online. This also enables you to access features like the <a href="http://toolkit.hospitalityonline.com">Hospitality Online Career Toolkit</a> and provides tools to enable you to manage your career. Some of these sections request detailed information from you about your career and interests. You determine whether you participate or not, and at what level.
- 
-</p><p>The Hospitality Online Career Tool Kit is designed to streamline your career process, save you time, and present your qualifications very professionally, while allowing you to manage the entire process.
+<p>Hospitality Online may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. Hospitality Online may share data with trusted partners to help perform statistical analysis, send you email or postal mail, or provide customer support. All such third parties are prohibited from using your personal information except to provide these services to Hospitality Online, and they are required to maintain the confidentiality of your information.</p>
 
-</p><p>Hospitality Online does not allow employers to search our database. When employers post jobs, those jobs are pre-screened against your objectives. When there is a match you are sent an e-mail alerting you to review the position the employer is advertising. If you are interested you respond directly to the employer. 
+<p>Hospitality Online may keep track of the websites and pages our users visit within Hospitality Online, in order to determine what Hospitality Online services are the most popular. This data is used to deliver customized content and advertising within Hospitality Online to customers whose behavior indicates that they are interested in a particular subject area.</p>
 
-</p><p>Hospitality Online does our best to make sure no one has unauthorized access to our database, but we can't guarantee that people won't gain access to our database without our consent. 
+<p>Hospitality Online will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Hospitality Online or the site; (b) protect and defend the rights or property of Hospitality Online; and, (c) act under exigent circumstances to protect the personal safety of users of Hospitality Online, or the public.</p>
 
-</p><p>Once you have submitted your resume to an employer, we are not responsible for the privacy of your information. Once you have a new job, we strongly encourage you to send an e-mail to all companies you submitted your resume to. Tell them you have a new position and ask that they remove your resume from their files/database. 
+<h2>Use of Cookies</h2>
 
-</p><p><b>Credit Card Security</b><br>
-Hospitality Online uses a secure server for all credit card transactions. These credit card transactions use SSL encryption before being sent over the Internet. While we can't guarantee encryption or the privacy of your personal details and credit card transactions, SSL makes it very difficult for your information to be stolen or intercepted while the data is being transferred.
+<p>The Hospitality Online website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your computer by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
 
-</p><p><b>Cookies</b><br>
-To make things easier for you, Hospitality Online uses a feature called "Cookies." This enables file(s) to be transferred from a web site to the hard drive of your computer. Cookies make it easier for you and provides us statistics to improve Hospitality Online for you. 
+<p>One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize Hospitality Online pages, or register with Hospitality Online site or services, a cookie helps Hospitality Online to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as your preferences, your resume, and so on. When you return to the same Hospitality Online website, the information you previously provided can be retrieved, so you can easily use the Hospitality Online features that you customized.</p>
 
-</p><p>Cookies are used to remember passwords, user names, to identify which pages, jobs, etc. are most visited, and for load balancing. They enable us to deliver service faster and to provide a more personalized experience for you. 
+<p>You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Hospitality Online services or websites you visit.</p>
 
-</p><p>A Cookie will not permit a web site operator to learn any information to personally identify you, unless you have personally provided that information to the web site operator or you have set the preferences in your browser to provide this information.
+<h2>Security of your Personal Information</h2>
 
-</p><p>You can set your browser to reject cookies. Remember, if you de-activate the cookies feature in your browser it will disable access to certain features on Hospitality Online. 
+<p>Hospitality Online secures your personal information from unauthorized access, use or disclosure.</p>
 
-</p><p><b>Third Party Links</b><br>
-Hospitality Online contains many links to other sites. We strongly encourage all employers and third parties to implement policies and procedures to protect the privacy of others. 
+<h2>Children Under Thirteen</h2>
 
-</p><p><b>Children</b><br>
-Hospitality Online does not collect information about children. We believe children should get their parents permission before giving out personal information. If you have concerns about your child's use of Hospitality Online go on the site with them to see how they are using Hospitality Online. Many students use Hospitality Online to collect information for school reports and to search for part-time or seasonal jobs. With your guidance Hospitality Online can be a very useful tool as they explore various careers.
+<p>Hospitality Online does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.</p>
 
-</p><p><b>Changes to this Privacy Policy</b><br>
-We review our privacy policy from time to time, and changes may occur. We ask that visitors review this Privacy Policy from time to time to be sure they are familiar with all sections. If you have questions, comments, or suggestions about our privacy practices please contact us at <a href="mailto:privacy@hospitalityonline.com">privacy@hospitalityonline.com</a>
+<h2>Opt-Out &amp; Unsubscribe</h2>
 
-</p></div>
+<p>We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Hospitality Online by contacting us here:</p>
 
-    </div><!-- end #page -->
+<p>Email: support@hospitalityonline.com</p>
 
-    <div id="footer">
-    
-    <div class="follow">
-        <a target="_blank" href="http://www.twitter.com/hjobsonline"><img src="http://twitter-badges.s3.amazonaws.com/follow_bird_us-b.png" alt="Follow hjobsonline on Twitter" title="Follow Hospitality Jobs Online on Twitter"></a>
-        
-        <a target="_blank" href="http://www.facebook.com/pages/Hospitality-Jobs-Online/138521978307"><img src="http://image.hospitalityonline.com/icon/facebook.gif" alt="Find Hospitality Jobs Online on Facebook" title="Find Hospitality Jobs Online on Facebook"></a>
+<h2>Changes to this Statement</h2>
+
+<p>Hospitality Online will occasionally update this Statement of Privacy to reflect company and customer feedback. Hospitality Online encourages you to periodically review this Statement to be informed of how Hospitality Online is protecting your information.</p>
+
+<h2>Contact Information</h2>
+
+<p>Hospitality Online welcomes your questions or comments regarding this Statement of Privacy. If you believe that Hospitality Online has not adhered to this Statement, please contact Hospitality Online at:</p>
+
+<p>
+  Hospitality Online, Inc.<br>
+  2601 Fourth Ave, Suite 450<br>
+  Seattle, Washington 98121
+</p>
+
+<p>Email Address: support@hospitalityonline.com</p>
+
+</div>
+
+  </div>
+
+  <footer>
+  <div class="container">
+    <div id="footer-job-seekers">
+      <h2>Job Seekers :</h2>
+      <ul>
+        <li>
+          <a href="/members/join">sign up</a>
+        </li>
+        <li>
+          <a href="/members/login">login</a>
+        </li>
+        <li>
+          <a href="/jobs">find jobs</a>
+        </li>
+        <li>
+          <a href="/employers">find employers</a>
+        </li>
+      </ul>
     </div>
 
-    
-    
-    
-    <ul id="footer_nav">
-        <li><a href="http://www.hospitalityonline.com/jobs/">Job Listings</a> | </li>
-        <li><a href="http://www.hospitalityonline.com/profiles/">Employer Profiles</a> | </li>
-        <li><a href="http://toolkit.hospitalityonline.com/">Career Toolkit</a> | </li>
-        <li><a href="http://www.hospitalityonline.com/getting-hired/">Getting Hired</a></li>
-    </ul>
-    
-    <ul id="footer_info">
-        <li>Copyright © 1998-2010 Hospitality Online, Inc. | </li>
-        <li><a href="http://www.hospitalityonline.com/legal/privacy/">Privacy Policy</a> | </li>
-        <li><a href="http://www.hospitalityonline.com/legal/terms/">Terms of Use</a> | </li>
-        <li><a href="javascript:helpWindow('http://www.hospitalityonline.com/contact/');">Contact Us</a><!--  |  --></li>
-<!-- 
-        <li><a href="javascript:helpWindow('http://www.hospitalityonline.com/feedback/');">Feedback</a></li>
- -->
-    </ul>
-    
-    </div><!-- end #footer -->
-    
-<!-- google analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-4300385-1");
-pageTracker._setDomainName(".hospitalityonline.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- end google analytics -->
+    <div id="footer-employers">
+      <h2>Employers :</h2>
+      <ul>
+        <li>
+          <a href="/account/sign_up">sign up</a>
+        </li>
+        <li>
+          <a href="/account/login">login</a>
+        </li>
+      </ul>
+    </div>
+    <div id="social-networks">
+      <h2>Follow Us:</h2>
+      <a target="_blank" href="http://www.twitter.com/hosponline"><span class="social social-twitter"></span></a>
+      <a target="_blank" href="http://www.facebook.com/pages/Hospitality-Jobs-Online/138521978307"><span class="social social-facebook"></span></a>
+    </div>
+    <div id="legalese">
+      Copyright © 1998-2017 Hospitality Online, Inc. |
+      <a href="/terms">Terms of Use</a> |
+      <a href="/privacy">Privacy Policy</a> |
+      <a href="/contact">Contact Us</a>
+    </div>
+  </div>
+</footer>
+
 
 
 
