@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynastyleaguefootball.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328180959id_/http%3A//dynastyleaguefootball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynastyleaguefootball.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192205id_/https%3A//dynastyleaguefootball.com/privacy-policy) for the most accurate reproduction.*
 
 # DLF Privacy Policy
 
