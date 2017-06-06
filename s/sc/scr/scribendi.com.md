@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021124939id_/https%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606220551id_/https%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
 
 # Your Privacy | Scribendi.com
 
@@ -7,7 +7,7 @@ Because your privacy is very important to us, Scribendi.com operates by these pr
   1. The Scribendi.com website ("Site") is maintained by Scribendi Inc., 405 Riverview Drive, Suite 304, Chatham, Ontario, N7M 0N3. Scribendi Inc. is a company federally incorporated in Canada.
   2. Our use of any personal information you provide to Scribendi.com is regulated and protected by the laws of the Province of Ontario, Canada, including Canada's _Personal Information Protection and Electronic Documents Act._
   3. This Privacy Policy forms part of Scribendi.com's [terms of use](https://web.archive.org/terms.en.html "Terms of Use").
-  4. To the extent that Scribendi.com collects any information from our visitors and users, whether that information is personally identifying or not, either from actively provided information, from "cookies," or from our web hosting service, Scribendi.com uses such information only for our own purposes relating to providing our services. Such information is not knowingly provided to any third parties except as explicitly disclosed herein.
+  4. To the extent that Scribendi.com collects any information from our visitors and users, whether that information is personally identifying or not, either from actively provided information, from "cookies," or from our web hosting service, Scribendi.com uses such information only for our own purposes relating to providing our [proofreading](https://web.archive.org/proofreading "Proofreading") and [editing services](https://web.archive.org/editing_services "Editing Services"). Such information is not knowingly provided to any third parties except as explicitly disclosed herein.
 
 
 
