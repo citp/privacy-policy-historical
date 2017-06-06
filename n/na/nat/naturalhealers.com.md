@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalhealers.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314043023id_/http%3A//www.naturalhealers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113156id_/http%3A//www.naturalhealers.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Natural Healers | Privacy Policy
 
 ### Information Collection and Use
 
@@ -43,4 +43,4 @@ All Star
 Suite 500  
 Seattle, WA 98101
 
-Last Modified: May 28, 2015
+Last Modified: October, 2016
