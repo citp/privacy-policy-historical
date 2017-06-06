@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globalrichlist.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222053523id_/http%3A//www.careinternational.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalrichlist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024848id_/http%3A//www.careinternational.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CARE
 
 ### CARE International UK is committed to protecting your privacy online.
 
-We may collect and process data about you, some of which is capable of identifying you as a particular individual. This policy sets out the basis on which any personal data we collect from you, or you provide to us, will be processed by us.
+We may collect and process data about you, some of which is capable of identifying you as a particular individual. This policy sets out the basis on which any personal data we collect from you, or you provide to us, will be processed by us. For further information, please also see our [Data Protection Policy](http://www.careinternational.org.uk/sites/default/files/CIUK-Data-Protection-Policy-2016.pdf "download PDF of Data Protection Policy").
 
 For the purposes of the Data Protection Act 1998 (the “Act”), the data controller is CARE International UK of 9th Floor, 89 Albert Embankment, London SE1 7TP, United Kingdom.
 
