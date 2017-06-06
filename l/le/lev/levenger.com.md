@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222233636id_/http%3A//www.levenger.com/users/SecurityPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104336id_/http%3A//www.levenger.com/users/SecurityPrivacy.aspx) for the most accurate reproduction.*
 
 # Security & Privacy - Levenger
 
@@ -55,7 +55,6 @@ Levenger has an advertising contract with a service provider to serve display ad
 
 We also partner with other third parties such as Experian to provide specific services. For example, Experian is responsible for the data processing and postal sortation for each catalog mailing. When the user signs up for these particular services, we share names and mailing address information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
-We share aggregated demographic information with our  
 We share aggregated demographic information with our partners. This is not linked to any personally identifiable information.
 
 BACK TO TOP
