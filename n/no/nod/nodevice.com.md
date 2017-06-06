@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nodevice.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506075758id_/http%3A//nodevice.com/privacy_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodevice.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172026id_/http%3A//www.nodevice.com/privacy_policies.html) for the most accurate reproduction.*
 
-# Privacy Policy - NoDevice.com
+# Privacy Policies
 
 Thank you for visiting NoDevice.com, an Ultimate Driver and service manuals lisitng. site. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this site.
 
-### The Information We Collect
+## The Information We Collect
 
 At NoDevice sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
@@ -14,7 +14,7 @@ At certain parts of some of our sites, only persons who provide us with the requ
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
-### How We Use the Information
+## How We Use the Information
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
@@ -34,13 +34,13 @@ Certain NoDevice sites may disclose personally identifiable information to compa
 
 Finally, the NoDevice sites covered by this Privacy Statement will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-### Cookies & Web Beacons
+## Cookies & Web Beacons
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
 
-On our sites we use Google AdSense and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx). Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+On our sites we use Google AdSense and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx). Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-### Collection of Information by Third-Party Sites, Ad Servers, and Sponsors
+## Collection of Information by Third-Party Sites, Ad Servers, and Sponsors
 
 Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
@@ -48,28 +48,28 @@ The NoDevice sites covered by this Privacy Statement sometimes may offer content
 
 Some of the sites covered by this Privacy Statement may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. For more information on this site's use of such third-party ad servers, please click here.
 
-### Our Commitment to Security
+## Our Commitment to Security
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-### How You can Access or Correct Information
+## How You can Access or Correct Information
 
 Access to personally identifiable information that is collected from our sites may be accessible for a limited period of time from the point of collection. For example, if you created a password-protected account within our site, you can access that account to review the information you provided.
 
-You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for said service.  
-E-mail Administration  
-NoDevice.com  
-email: support@nodevice.com
+You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for said service.   
+E-mail Administration   
+NoDevice.com   
+email: [support@nodevice.com](mailto:support@nodevice.com)
 
-### Special Note for Parents
+## Special Note for Parents
 
 The site you are visiting is one of our general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
 
-### How to Contact Us
+## How to Contact Us
 
-If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at support@nodevice.com
+If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at [support@nodevice.com](mailto:support@nodevice.com)
 
-### Updates & Effective Date
+## Updates & Effective Date
 
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
