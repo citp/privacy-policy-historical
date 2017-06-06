@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalcrack.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025540id_/http%3A//totalcrack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalcrack.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082017id_/http%3A//totalcrack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TotalCrack
 
@@ -11,10 +11,10 @@ With respect to users who voluntarily register to our services (by logging in to
 
 **2\. Other information**  
 We also receive and/or collect other types of data and information about users via our services, as follows:  
-• We regularly receive non-personally-identifying information about you or about the device you use to enhance our services, such as your browser type, language preference referring site and any other information automatically sent to TotalCrack by the user’s browser.  
-• We receive data about you whenever you use or interact with TotalCrack, such as how and when you view, use or otherwise interact with content and materials in our WebSite. For example, we may infer data from your replies and answers to the quizzes in this WebSite or the results thereof, as further delineated below.  
-• When you post or create content on TotalCrack, such as feedbacks, quizzes or other games, we may receive additional related data (or metadata), such as the time, date, and place you posted or created such content.  
-• Sometimes we get data from our partners, publishers, commercial customers and other third parties that helps us (or them) deliver ads, understand our users’ online activities, provide with insight into what our users are interested in, maximize the effectiveness of ads, and generally make our services better.
+â€¢ We regularly receive non-personally-identifying information about you or about the device you use to enhance our services, such as your browser type, language preference referring site and any other information automatically sent to TotalCrack by the user’s browser.  
+â€¢ We receive data about you whenever you use or interact with TotalCrack, such as how and when you view, use or otherwise interact with content and materials in our WebSite. For example, we may infer data from your replies and answers to the quizzes in this WebSite or the results thereof, as further delineated below.  
+â€¢ When you post or create content on TotalCrack, such as feedbacks, quizzes or other games, we may receive additional related data (or metadata), such as the time, date, and place you posted or created such content.  
+â€¢ Sometimes we get data from our partners, publishers, commercial customers and other third parties that helps us (or them) deliver ads, understand our users’ online activities, provide with insight into what our users are interested in, maximize the effectiveness of ads, and generally make our services better.
 
 We store data for as long as it is necessary to provide products and services to you and others (including those described hereunder), but some information may remain in backup copies and logs for longer periods. However, you acknowledge and agree that We may continue to use any non-personally-identifying information in accordance with this Privacy Policy (e.g., for the purpose of analysis, statistics and the like) also after the termination of your membership to this website and\or use of our services, for any reason whatsoever.
 
