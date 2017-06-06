@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itp.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220233951id_/http%3A//www.itp.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020520id_/http%3A//www.itp.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy | ITP Publishing Group | ITP.com
+# Privacy Policy | ITP Media Group | ITP.com
 
 The Information & Technology Publishing Co. Ltd. ("ITP") recognizes the importance of protecting the privacy of all information provided by users of our web sites and mobile apps, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users' right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by ITP.com. A current list of our publications, web site, and trade shows can be found at www.ITP.com.
 
