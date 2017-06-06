@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024200925id_/http%3A//cudo.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044122id_/http%3A//cudo.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Cudo - Privacy Policy
 
@@ -67,13 +67,15 @@ Please take a few minutes to review this Privacy Policy. By using the Cudo.com.a
 
       (i) as otherwise described in this Privacy Policy. 
 
-2.3 Cudo.com.au may Use and/or Disclose your Personal Information for any Secondary Purposes not included in this Privacy Policy if:
+2.3 In addition to the Secondary Purposes outlined above we use Google Analytics (a web analytics services provided by Google) and data such as age, gender and browsing activity to better understand the behaviour of our customers and provide targeted advertising to suit customers interests and preferences. Accordingly, when you visit our website, we, and/or a third party, may place cookies on your browser to determine information including (but not limited to) your computers location, browsing activity and time spent on each web page. We and/or Google may use this information to optimise and place advertisements. By using this website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies can be managed by accessing the individual settings in your browser.
+
+2.4 Cudo.com.au may Use and/or Disclose your Personal Information for any Secondary Purposes not included in this Privacy Policy if:
 
       (a) the Secondary Purpose is related to a Primary Purpose; and 
 
       (b) you would have a Reasonable Expectation that we would Use the information for that Secondary Purpose. 
 
-2.4 From time to time we may Disclose your Personal Information to organisations outside of Cudo.com.au in order to deliver the services you require. Your Personal Information is Disclosed to these organisations only in relation to us providing our services to you. These organisations carry out, amongst other services, our:
+2.5 From time to time we may Disclose your Personal Information to organisations outside of Cudo.com.au in order to deliver the services you require. Your Personal Information is Disclosed to these organisations only in relation to us providing our services to you. These organisations carry out, amongst other services, our:
 
       (a) billing and debt- recovery functions; 
 
@@ -93,9 +95,9 @@ If you purchase a daily deal, you are issued with a unique voucher number which 
 
 If you purchase a product, we will disclose your name, address and other information necessary to complete the order to the merchant on whose behalf the deal is advertised (the Merchant). We will use reasonable endeavours to make sure that the Personal Information that we disclose to the Merchant on your behalf is the minimum necessary to complete the order. 
 
-2.5 The Website uses social plugins (hereinafter "Plugins") of the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (hereinafter "Facebook"). The plugins are marked by a Facebook logo or the words "Social Plug-in by Facebook" or "Facebook Social Plugin". Find an overview of the Facebook plugins and their appearance on http://developers.facebook.com/plugins. If you request a page of our website which contains a plugin, your browser will build up a direct connection to the servers of Facebook. Facebook directly transmits the content of the plugin to your browser and from there it is incorporated in the website. By integrating the plugin, Facebook receives the information that your browser has accessed the page of our website, even if you do not have a Facebook account or if you are not logged into Facebook at the time. This information (including your IP address) will be sent directly from your browser to a Facebook server in the U.S. and stored there. If you are logged into Facebook, Facebook can assign your visit to our website directly to your Facebook account. If you interact with the plugins, for example, by pressing the "Like" button or by leaving a comment, the corresponding information is also transmitted directly to a Facebook server and is stored there. The information is also posted on Facebook and can be seen by your Facebook friends. Facebook may use this information for purposes of advertising, market research and personalised design of Facebook pages. For this purpose, Facebook creates profiles regarding usage, interests and relationships, e.g. to evaluate your use of our website with regard to the advertisements displayed to you on Facebook, to inform other Facebook users about your activities on our website and to provide further related services with the use of Facebook. If you do not want Facebook to allocate the collected data via our website to your Facebook account, you must log out of Facebook before you visit our website. To find out more about the purpose and extent to which Facebook collects, processes and uses these data, your rights and the settings available to protect your privacy, please read the Facebook privacy policy. 
+2.6 The Website uses social plugins (hereinafter "Plugins") of the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (hereinafter "Facebook"). The plugins are marked by a Facebook logo or the words "Social Plug-in by Facebook" or "Facebook Social Plugin". Find an overview of the Facebook plugins and their appearance on http://developers.facebook.com/plugins. If you request a page of our website which contains a plugin, your browser will build up a direct connection to the servers of Facebook. Facebook directly transmits the content of the plugin to your browser and from there it is incorporated in the website. By integrating the plugin, Facebook receives the information that your browser has accessed the page of our website, even if you do not have a Facebook account or if you are not logged into Facebook at the time. This information (including your IP address) will be sent directly from your browser to a Facebook server in the U.S. and stored there. If you are logged into Facebook, Facebook can assign your visit to our website directly to your Facebook account. If you interact with the plugins, for example, by pressing the "Like" button or by leaving a comment, the corresponding information is also transmitted directly to a Facebook server and is stored there. The information is also posted on Facebook and can be seen by your Facebook friends. Facebook may use this information for purposes of advertising, market research and personalised design of Facebook pages. For this purpose, Facebook creates profiles regarding usage, interests and relationships, e.g. to evaluate your use of our website with regard to the advertisements displayed to you on Facebook, to inform other Facebook users about your activities on our website and to provide further related services with the use of Facebook. If you do not want Facebook to allocate the collected data via our website to your Facebook account, you must log out of Facebook before you visit our website. To find out more about the purpose and extent to which Facebook collects, processes and uses these data, your rights and the settings available to protect your privacy, please read the Facebook privacy policy. 
 
-2.6 Where you use a credit card to purchase an offer from Cudo.com.au of which you are not the card-holder and named on the card, you unconditionally acknowledge that you have been duly authorised by the card-holder to make purchases on Cudo.com.au or in general, and that, in the event of a claim from the credit-card holder (that this was an unauthorised transaction) - you indemnify Cudo.com.au for any claim (including legal action, fees or charge-back) that Cudo may face as a result of this unauthorised purchase.
+2.7 Where you use a credit card to purchase an offer from Cudo.com.au of which you are not the card-holder and named on the card, you unconditionally acknowledge that you have been duly authorised by the card-holder to make purchases on Cudo.com.au or in general, and that, in the event of a claim from the credit-card holder (that this was an unauthorised transaction) - you indemnify Cudo.com.au for any claim (including legal action, fees or charge-back) that Cudo may face as a result of this unauthorised purchase.
 
 ### 3\. Direct Marketing
 
@@ -241,9 +243,8 @@ Cudo.com.au may, in its sole discretion, update this Privacy Policy at any time 
 
 If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact the Chief Operating Officer of Cudo.com.au, care of the following details:
 
-Chief Operating Officer  
+Privacy Officer  
 Cudo.com.au  
-Level 1  
-259 Coventry Street  
+Level 1, 50-56 York St  
 South Melbourne, VIC 3205  
 Email: [cudohelp@cudo.com.au](mailto:cudohelp@cudo.com.au)
