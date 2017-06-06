@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirthookup.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234145id_/http%3A//www.flirthookup.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirthookup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071636id_/http%3A//www.flirthookup.com/site/privacy) for the most accurate reproduction.*
 
 # Flirt and Hook Up - Find people, socialize, hookup and chat.
 
@@ -90,17 +90,4 @@ You have the following choices to modify or delete your profile information from
 
 #### 11\. Opt-out provisions
 
-You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of FH International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in. 
-
-  
-
-
-#### Our address:
-
-FH International Limited  
-PO Box 440  
-Envoy House, La Vrangue  
-GY1 3ZN  
-St Peter Port  
-Guernsey  
-+1 661-705-3864 
+You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of FH International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in.
