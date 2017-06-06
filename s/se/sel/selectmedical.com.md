@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the selectmedical.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211043008id_/http%3A//www.selectmedical.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectmedical.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085510id_/http%3A//www.selectmedical.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Select Medical
 
 **Internet Privacy Details**  
 Relationships are built on trust. One of the most important elements of trust is respect for an individual's privacy. Select Medical values its relationship with you, and we take your personal privacy seriously.
 
-We are committed to ensuring that users of this website understand this website's privacy practices. This Internet Privacy Statement will outline (1) what personal information may be collected, (2) how that personal information may be utilized, (3) who may have access to the personal information, and (4) how the personal information is protected within the secure infrastructure of this website. This Internet Privacy Statement applies to this website, the services provided and the information collected.
+We are committed to ensuring that users of this website understand this website's privacy practices. This Internet Privacy Statement will outline (1) what personal information may be collected, (2) how that personal information may be utilized, (3) who may have access to the personal information, and (4) how the personal information is protected within the secure infrastructure of this website. This Internet Privacy Statement applies to this website, any Select Medical mobile application, the services provided and the information collected. 
 
 If you have questions or concerns about this Internet Privacy Statement and/or the privacy practices of this website, please contact Select Medical's Privacy Office at 4714 Gettysburg Road, Mechanicsburg, PA 17055 or via the "Contact Us" function within this web site.
 
