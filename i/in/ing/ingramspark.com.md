@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ingramspark.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119162509id_/http%3A//www.ingramspark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingramspark.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074709id_/https%3A//www.ingramspark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Best Self Publishing Companies | IngramSpark
+# Privacy Policy | Best Self Publishing Websites | IngramSpark
 
 ### **PRIVACY POLICY**
 
-The name, address, e-mail, and any payment information provided by You to Lightning Source Inc. dba IngramSpark ("Lightning Source"), together with information regarding the manner of use via this Site, will be processed by Lightning Source and its affiliated companies, and third party service providers, and not further disclosed to other third parties except as permitted by this Privacy Policy or as required by law or regulation.
+The name, address, e-mail, and any payment information provided by You to Lightning Source LLC dba IngramSpark ("Lightning Source"), together with information regarding the manner of use via this Site, will be processed by Lightning Source and its affiliated companies, and third party service providers, and not further disclosed to other third parties except as permitted by this Privacy Policy or as required by law or regulation.
 
 By using this site, You agree Lightning Source may share aggregate information, individual information, and locator information gathered by this site with other parties in the course of Your continuing individual use of this Site. "Aggregate Information" is information which describes the habits, usage patterns, and/or demographics of Users as a group, but does not describe or reveal the identity of any particular user. "Individual Information" is information about a User that is presented in a form distinguishable from information relating to other Users, but not in a form that personally identifies any User or enables the recipient to communicate directly with any User
 
