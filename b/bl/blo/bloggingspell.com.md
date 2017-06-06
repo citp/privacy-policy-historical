@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021105511id_/http%3A//www.bloggingspell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084827id_/http%3A//www.bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy Policy - Blogging Spell
+# Privacy and Cookies - Blogging Wizard
 
-By viewing this website you agree to the following privacy and cookies policy. If you do not agree, you should leave this website immediately.
+**_Privacy and Cookies Policy_**
 
-**Cookies**
+**Cookies** **  
+**
 
 In an effort to be as transparent as possible we want you to be aware that we use cookies on this website; cookies are small text files that are sometimes stored on your computer when you visit a website.
 
@@ -20,11 +21,11 @@ The use of cookies on this website may employ the following cookies (but is not 
 
 **(3)**  Advertisements – we provide a variety of advertisements which may or may not use cookies to display related targeted ads based on the content within a page on our site, an example of this is Google Adsense and the DoubleClick DART Cookie, for more detailed information in regards to this particular method of advertising please see the privacy section further on in this document.
 
-**(4)**  Analytics – to help provide us with valuable information on how visitors use our website, we employ the use of analytics software which relies on the use of cookies, this includes (but is not limited to) services such as Google Analytics, Piwik Analytics and Clicky analytics. Analytics tools help us understand how visitors use our website, and improve our user experience accordingly.
+**(4)**  Analytics – to help provide us with valuable information on how visitors use our website, we employ the use of analytics software which relies on the use of cookies, this includes (but is not limited to) services such as Google Analytics, Piwik Analytics and Quantcast analytics. We believe the use of such services is in the best interest of not only us but also you as a visitor to our site as they enable to collect valuable usage data that allow us to make significant future improvements to the service we offer and therefore will help provide you with more value as a visitor to our website.
 
 **(5)**  Affiliate promotions – within this website you may encounter links to services that are considered as affiliate promotions. If you click on an affiliate link and you make a purchase through the particular website, then we may or may not receive a small amount of commission as a result. Please be aware that these affiliate links may utilize a cookie file that allows the vendor of the affiliate program to track where their sales are originating from.
 
-You should assume that all links are affiliate links. That said, we only recommend products/services that we believe you will value from. We recommend that you do your due diligence before purchasing anything. By purchasing via our affiliate links you’re helping us to continue running this site and delivering helpful information. Any purchases via our affiliate links will be at no additional cost to you.
+The reason for using such links is to offset the costs of running this website which will allow us to continue to operate and bring you value further into the future. If you do click on a link on our website and you make a purchase on the external website via our affiliate link whether it be for following a recommendation or just following a link on our website then you must ensure that you do your own due diligence before purchasing any product, however we would never recommend a product that we do not believe in, we believe in only offering the truest and most sincere recommendations of goods and services.
 
 **(6)**  Google Custom Search – we may at times employ the use of Google’s custom search engine, which works in a similar method to their Adsense service, for more information on that please see the privacy policy section further on in this document.
 
@@ -35,7 +36,7 @@ You should assume that all links are affiliate links. That said, we only recomme
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 **Our Commitment To Children’s Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, we will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
+Protecting the privacy of the very young is especially important. For that reason, we  will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
 
 Under our Terms of Service, children under 18 are not allowed to access our service.
 
