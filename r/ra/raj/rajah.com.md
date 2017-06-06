@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajah.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025250id_/http%3A//rajah.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajah.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182418id_/http%3A//rajah.com/privacy.php) for the most accurate reproduction.*
 
 # WWE News, Rumors, Results, Spoilers @ Rajah.com
 
