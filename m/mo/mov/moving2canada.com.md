@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moving2canada.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122123626id_/http%3A//moving2canada.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moving2canada.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070106id_/http%3A//moving2canada.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Moving2Canada
 
@@ -34,7 +34,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ## Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+As a general rule, we do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. The exception to this is where those who complete our Registration form choose to receive content from the Bank of Nova Scotia. Subscribers who check this box will have their data sent to the Bank of Nova Scotia and may receive email communications from them. Subscribers who choose to have their data sent to the Bank of Nova Scotia can opt-out of receiving these communications by clicking ‘Unsubscribe’ in emails they receive from the Bank of Nova Scotia.
 
 ## Third party websites
 
@@ -56,6 +56,10 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[http://moving2canada.com](http://moving2canada.com/)
+  * 1111 Beach Avenue, Vancouver, BC, V6E 1T9
+  * Use the [contact form here to send us an email](http://moving2canada.com/info/contact/)
+  * Visit [http://moving2canada.com](http://moving2canada.com/)
 
-This document was last updated on January 15, 2014
+
+
+This document was last updated on March 28, 2017.
