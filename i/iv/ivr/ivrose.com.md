@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivrose.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126083945id_/http%3A//www.ivrose.com/fs/privacy-policy-pc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivrose.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103928id_/http%3A//www.ivrose.com/fs/privacy-policy-pc) for the most accurate reproduction.*
 
 # Privacy Policy
 
