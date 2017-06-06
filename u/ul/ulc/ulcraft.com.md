@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulcraft.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110030430id_/https%3A//ukit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulcraft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173436id_/https%3A//ukit.com/privacy) for the most accurate reproduction.*
 
 # uKit — Privacy policy
 
@@ -59,6 +59,10 @@ uKit uses the above-described information to tailor our content to suit your nee
  **Security**
 
 All payment procedures of uKit operate on secure data networks protected by industry encryption standards. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+
+ **Security and Policy for Transmission of Payment Card Details**
+
+When purchasing from uKit using a credit card, your financial details are passed through secure channels that use the latest 256-bit SSL (secure sockets layer) encryption technologies. We use the upay.ucoz.net resource for the data collection. The Secure Sockets Layer (SSL) technology with 256-bit encryption protects the data that you input online. When you place an order or provide the details of your bank card, SSL securely encrypts all the data. If you have further questions regarding security, please contact us by email [support-en@ukit.com](mailto:support-en@ukit.com)
 
  **No Spyware/Adware**
 
