@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livability.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122011007id_/http%3A//www.livability.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livability.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103349id_/http%3A//livability.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Livability
 
@@ -32,7 +32,8 @@ In addition to the information you submit to or through the Website, we also col
 
 **Server Logs:** Our servers log information about your use of the Website, such as your search activity, the pages you view, the date and time of your visit, and the businesses you call using our mobile applications. Our servers also log information that your computer or mobile device provides to us in connection with your use of the Website, such as your browser type, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs.
 
-## Third parties 
+## Third parties  
+
 
 We do not rent, share, sell or trade personally identifiable information with third parties for their direct marketing purposes. That said, please note the following:
 
