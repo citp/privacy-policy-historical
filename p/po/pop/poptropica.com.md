@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poptropica.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126055835id_/http%3A//www.storyarc.media/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poptropica.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153154id_/http%3A//www.storyarc.media/privacy) for the most accurate reproduction.*
 
 # privacy policy | Storyarc
 
-PRIVACY STATEMENT (04/2016)
+PRIVACY STATEMENT (04/2017)
 
 StoryArc Media, Inc. ("SAM") operates this website ("Website") and is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about children's safety and information related to them. We want you to know about and understand the measures we have taken to keep the websites and online services provided by SAM a safe and secure environment for everyone. This privacy statement tells you about the types of information that we collect from you, how we collect that information from you and how we use that information.
 
@@ -55,6 +55,8 @@ The anonymized information we track with cookies is not used to identify, or lea
 SAM may also use third party vendors who supply applications, web hosting and other technologies for this Website that may have access to your personal information and anonymized information but they will never use such information for any other purpose except to provide services in connection with this site.
 
 SAM will not share any personal information about you with any third party (a party not affiliated with Sandbox Networks, Inc.), except as otherwise stated in this Privacy Statement and in the following circumstances: (a) in response to subpoenas, court orders or legal process, to the extent permitted and as restricted by law; (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws; (c) when disclosure is directed or consented to by the registered member who has inputted the personal information; (d) in the event that Sandbox Networks, Inc. (the owner of SAM) or any of its subdivisions or units goes through a business transition, such as a merger, divestiture, acquisition, liquidation or sale of all or a portion of its assets, your personal information will, in most instances, be part of the assets transferred; or (e) in limited circumstances, SAM may disclose your email address in order to comply with laws and regulations, including the Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM of 2003).
+
+By registering on the Website and providing us with your email address, you consent to receive emails from SAM with respect to our products and services including updates, notifications, promotional invitations, or news concerning the Website. Additionally, by providing SAM with your email through social media, such as through a sweepstakes or a newsletter sign-up, you also consent to receive such communications from SAM. If you do receive marketing or promotional e-mails from us that you would rather not receive, simply follow the "unsubscribe" instructions included in each message. Please note that a request to unsubscribe from marketing or promotional emails will not affect transactional emails (such as those related to a purchase, paid subscription, or product registration). 
 
 Do Not Track
 
