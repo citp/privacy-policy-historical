@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nightshift.co privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709212635id_/https%3A//www.nightshift.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nightshift.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215208id_/https%3A//www.nightshift.co/privacy) for the most accurate reproduction.*
 
 # NightShift - Privacy Policy
 
@@ -24,7 +24,7 @@ Each time you access, use, post, submit a post or reply, or browse the Site, you
 
 • Administer, monitor and control use of the Site, including posts, replies, and account information; and
 
-• Enforce the [Terms of Use](http://www.niteshift.co/terms) (collectively, the “Activities”).
+• Enforce the [Terms of Use](http://www.niteshift.co/terms) (collectively, the “Activities”). 
 
 You authorize the Site to transmit email to you to respond to your communications and administer Activities.
 
