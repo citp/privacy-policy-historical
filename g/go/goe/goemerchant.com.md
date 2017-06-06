@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goemerchant.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012141742id_/https%3A//www.goemerchant.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goemerchant.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183931id_/http%3A//www.goemerchant.com/privacy.aspx) for the most accurate reproduction.*
 
 # GoEmerchant Privacy Policy
 
