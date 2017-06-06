@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122183402id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140038id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy at The Hippie Shop
 
@@ -24,4 +24,5 @@ Cookies can also be used to help to save and retrieve passwords used on the Hipp
 
 If you have further questions about HippieShop.com's privacy policy, [email us.](mailto:info@hippieshop.com)
 
-_Peace, Love & Happy Shopping Since 1995 © 2016 Hippie Shop, LLC. _ All Rights Reserved.
+_Peace, Love & Happy Shopping Since 1995.   
+© 2017 Hippie Shop, LLC. _ All Rights Reserved.
