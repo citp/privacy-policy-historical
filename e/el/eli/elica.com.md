@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elica.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110211021id_/http%3A//elica.com/US-en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elica.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032505id_/http%3A//elica.com/US-en/privacy) for the most accurate reproduction.*
 
 # Privacy | Elica
 
@@ -195,4 +195,4 @@ The above rights may be exercised by simple request involving no formal procedur
 
 The data controller is ELICA, with registered office in Fabriano (AN), Via Ermanno Casoli 2, CAP 60044, Italy, [info@elica.com](mailto:info@elica.com)
 
-The data processor for the ICT services connected with the site to which this statement pertains is IM*MEDIA Srl, with registered office in Palermo (PA), Via Generale Vincenzo Magliocco 27, CAP 90141, Italy, email: [info@immediaonline.it](mailto:info@immediaonline.it).
+The data processor for the ICT services connected with the site to which this statement pertains is IM*MEDIA Srl, with registered office in Palermo (PA), Via Generale Vincenzo Magliocco 27, CAP 90141, Italy, email: [info@immedia.net](mailto:info@immedia.net).
