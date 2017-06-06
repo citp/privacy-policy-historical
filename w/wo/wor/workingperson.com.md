@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715174258id_/http%3A//workingperson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084600id_/http%3A//workingperson.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -170,9 +170,9 @@ Why Choose Working Person? Let Our Customers Explain!
 
 > “
 > 
-> I am impressed. Very much so.   
+> I have received my order and the service was great! Thank you!   
 >   
-> Jim B. from Brookfield, Wisconsin
+> Michael R. from Saint Helens, Oregon
 > 
 > ”
 
