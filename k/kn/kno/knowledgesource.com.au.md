@@ -1,144 +1,141 @@
-> *The following text is extracted and transformed from the knowledgesource.com.au privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028224030id_/http%3A//knowledgesource.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgesource.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022427id_/http%3A//knowledgesource.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Knowledge Source does not sell or rent its client database to any third party. As an Australian company, Knowledge Source operates under some of the strictest privacy legislation in the world - and the management is definitely not interested in going to jail!
+Last updated: February 22, 2017
 
-Spam Compliance
+Knowledge Source (“us”, “we”, or “our”) operates the https://knowledgesource.com.au website (the “Service”).
 
-Knowledge Source is fully compliant with the Australian Spam Act of 2003:
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-  * We never send unsolicited emails - only to those people with whom Knowledge Source has an established relationship or who have contacted the company to request information.
-  * All automatically-sent emails contain a clickable HTML link which can be used to change email preferences or unsubscribe completely.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://knowledgesource.com.au
 
+**Information Collection And Use**
 
-Knowledge Source cannot guarantee or accept responsibility for the privacy practices or the content of websites to which we provide links.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address (“Personal Information”).  
+The purpose for which we collect personal information is to provide you with the best service experience possible on the Service and for our internal business purposes that form part of normal business practices. Some provision of personal information is optional. However, if you do not provide us with certain types of personal information, you may be unable to enjoy the full functionality of the Service.
 
-## Website Terms and Conditions
+**Log Data**
 
-These terms and conditions apply to the use of this web site. In using this web site you acknowledge that you have read these terms and conditions and unconditionally and irrevocably agree to be bound by these terms and conditions. If you do not accept these terms and conditions, you must refrain from using the web site.
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-## Terminology
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-In these terms and conditions, the terms "we", "us" and "our" are a reference to the web site of Knowledge Source.
+**Cookies**
 
-## Amendments to Terms and Conditions
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-We reserve the right to amend these terms and conditions from time to time. Amendments will be effective immediately upon notification on this website. Your continued use of the website following such amendment will represent an agreement by you to be bound by the terms and conditions, as amended.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-## Disclaimer
+We send a session cookie to your computer when you log in to your User account. This type of cookie helps if you visit multiple pages on the Service during the same session, so that you don’t need to enter your password on each page. Once you log out or close your browser, this cookie expires.
 
-We do not accept responsibility for any loss or damage, however caused (including through negligence), which you may directly or indirectly suffer in connection with your use of this web site or any linked web site, nor do we accept any responsibility for any such loss arising out of your use of or reliance on information contained on or accessed through this web site or any linked web site.
+We also use longer-lasting cookies for other purposes such as to display your Content and account information. We encode our cookie so that only we can interpret the information stored in them. Users always have the option of disabling cookies via their browser preferences. If you disable cookies on your browser, please note that some parts of our Service may not function as effectively or may be considerably slower.
 
-To the extent permitted by law, any condition or warranty which would otherwise be implied to these terms and conditions is hereby excluded. Where legislation implies any condition or warranty, and that legislation prohibits us from excluding or modifying the application of, or our ability under, any such condition or warranty, that condition or warranty will be deemed included but our liability will be limited for a breach of that condition or warranty to one or more of the following:
+**Behavioral Remarketing**
 
-  * if the breach relates to goods: 
-    1. the replacement of the goods or the supply of equivalent goods;
-    2. the repair of such goods;
-    3. the payment of the cost of replacing the goods or of acquiring equivalent goods;
-    4. the payment of the cost of having the goods repaired; and
-  * if the breach relates to services, 
-    1. the supplying of the services again; or
-    2. the payment of the cost of having the services supplied again.
+Knowledge Source uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
+  * GoogleGoogle AdWords remarketing service is provided by Google Inc. 
 
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads
 
-## Exception to Disclaimer
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – https://tools.google.com/dlpage/gaoptout – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-The exclusion set out in these terms and conditions does not attempt of purport to exclude liability arising under statute if, and to the extent, such liability cannot be lawfully excluded.
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/
 
-## Specific Warnings
+  * FacebookFacebook remarketing service is provided by Facebook Inc. 
 
-You must ensure that your access to this web site is not illegal or prohibited by laws which apply to you.
+You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950
 
-You must take your own precautions to ensure that the process which you employ for accessing this web site does not expose you to risk of viruses or other form of interference which may damage your own computer system. For the removal of doubt, we do not accept responsibility for any interference or damage to your own computer system which arises in connection with your accessing of this web site or any linked web site.
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: https://www.facebook.com/about/ads/#568137493302217
 
-Whilst we have no reason to believe that any information contained on this web site is inaccurate, we do not warrant the accuracy, adequacy or completeness of such information, nor do we undertake to keep this web site updated. We do not accept the responsibility for loss suffered as a result of reliance by you upon the accuracy or currency of information contained on this web site.
+Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.
 
-Responsibility for the content of advertisements appearing on this website, if any, (including hyperlinks to advertisers' own websites) rests solely with the advertisers. The placement of such advertisements, if any, does not constitute a recommendation or endorsement by us of the advertisers' products and each advertiser is solely responsible for any representations made in connection with its advertisements.
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: https://www.facebook.com/privacy/explanation
 
-## Copyright
 
-Copyright in this web site is owned or licensed by us. Other than for the purposes of, and subject to the conditions prescribed under, the Copyright Act and similar legislation which applies in your location, you may not in any form or by any means:
 
-  * adapt, reproduce, store, distribute, print, display, perform, publish or create derivative works from any part of this web site; or
-  * commercialise any information, products or services obtained from any part of this web site;
 
+**Service Providers**
 
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-without our written permission.
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-## Trade Marks
+**Communications**
 
-You must not use any of our trade marks:
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-  * in or as the whole or part of your own trade marks;
-  * in connection with activities, products or services which are not ours;
-  * in a manner which may be confusing, misleading or deceptive;
-  * in a manner that disparages us or our information, products or services (including this web site).
+**Compliance With Laws**
 
+We may disclose personal information in special situations where we have reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring or interfering (intentionally or unintentionally) with our rights or property, users or anyone else who could be harmed by such activities. We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
+**Business Transaction**
 
-## Restricted Use
+In the event that we sell or buy businesses or their assets, or engage in transfers, acquisitions, mergers, restructurings, changes of control and other similar transactions, customer or user information is generally one of the transferable business assets. Thus, your personal information may be subject to such a transfer. In the unlikely event of insolvency, personal information may be transferred to a trustee or debtor in possession and then to a subsequent purchaser.
 
-Unless we agree otherwise in writing, you are provided with access to this web site only for your personal use. You are authorised to print a copy of any information contained on this website for your personal use, unless such printing is expressly prohibited. Without limiting the foregoing, you may not without our written permission on-sell information obtained from this web site.
+**Security**
 
-## Linked Web Sites
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-This web site may contain links to linked web sites. Those links are provided for convenience only and may not remain current or be maintained.
+**International Transfer**
 
-We are not responsible for the content or privacy practices associated with linked web sites.
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-Our links to linked web sites should not be construed as any endorsement, approval, recommendation, or preference by us of the owners or operators of those linked web sites, or for any information, graphics, materials, products or services referred to on those linked web sites, unless and to the extent stipulated to the contrary.
+If you are located outside Australia and choose to provide information to us, please note that we transfer the information, including Personal Information, to Australia and process it there.
 
-## Privacy Policy
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-We may collect website visitors' contact information (like their email addresses). Unless you object in writing, this information may be used:
+**Access and Correction**
 
-  * to send news, information about our activities and general promotional material which we believe may be useful to you;
-  * to monitor who is accessing the website or using services offered on the website; and
-  * to profile the type of people accessing the website.
+Australian Privacy Principle 6 of the Privacy Act 1988 (Cth) allows you to get access to, and correct, the personal information we hold about you in certain circumstances. If you would like to obtain such access, please contact us on the details set out above.
 
+Please note that the access and correction requirements under this Privacy Policy operates alongside and do not replace other informal or legal procedures by which an individual can be provided access to, or correction of, their personal information, including the requirements under the Freedom of Information Act 1982 (Cth).
 
+**Complaints**
 
-If you do not wish to have your personal information used in this manner or for any other specific purpose you can e-mail us accordingly.
+Australian Privacy Principle 1 of the Privacy Act 1988 (Cth) allows you to make a complaint about any alleged breaches of privacy. In order to lodge a complaint with us, please contact us using the details above with the following information:
 
-We may utilise "cookies" to enable us to monitor traffic patterns and to serve you more efficiently if you re-visit the site. A cookie does not identify you personally but it does identify your computer. You can set your browser to notify you when you receive a cookie and this will provide you with an opportunity to either accept or reject it in each instance.
+  * Your name and address;
+  * Details of the alleged breach of privacy; and
+  * URL link to the alleged breach of privacy (if applicable).
 
-We will not sell or otherwise provide your personal information to a third party, or make any other use of your personal information, for any purpose which is not incidental to your use of this website. For the removal of doubt, personal information will not be used for any purpose which a reasonable person in your position would not expect.
 
-If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
 
-  * we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;
-  * we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for government or public security in the performance of their functions; or we are required by law to disclose the information.
+Please allow us 30 days to investigate your complaint, after which we will contact you immediately to resolve the issue.
 
+**Retention of Information**
 
+We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records.
 
-We will preserve the content of any e-mail you send us if we believe we have the legal requirement to do so.
+**Links To Other Sites**
 
-Your e-mail message content may be monitored by us for trouble-shooting or maintenance purposes or if any form of e-mail abuse is suspected.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-Personal information which we collect may be aggregated for analysis but in such circumstances we would ensure that individuals would remain anonymous.
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-All personal information which we collect (including your contact details and, if relevant, credit card details) is kept confidential to the best of our ability. You will appreciate, however, that we cannot guarantee the security of transmission.
+**Children’s Privacy**
 
-You are entitled to have access to any personal information relating to you which you have previously supplied to us over this website. You are entitled to edit or delete such information unless we are required by law to retain it.
+Our Service does not address anyone under the age of 18 (“Children”).
 
-If you wish to comment on or query our privacy policy, or if you wish to make an enquiry regarding any personal information relating to you which may be in our possession, contact us at:
+We do not knowingly collect personally identifiable information from children under 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from children under 18 without verification of parental consent, we take steps to remove that information from our servers or replace it with the Personal Information of the Children’s parent or guardian.
 
-Knowledge Source  
-43 Lower Heidelberg Rd. Ivanhoe, VIC, Australia  
-T: +61 3 9490 8888   E: info@knowledgesource.com.au
+**Changes To This Privacy Policy**
 
-## Security of Information
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. We do not warrant and cannot ensure the security of any information which you transmit to us. Accordingly, any information which you transmit to us is transmitted at your own risk. Nevertheless, once we receive your transmission, we will take reasonable steps to preserve the security of such information.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## Termination of Access
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
-Access to this web site may be terminated at any time by us without notice. Our disclaimer will nevertheless survive any such termination.
+**Consent**
 
-## Governing Law
+You warrant that you are able to give consents under Australian Law or, in the event that you do not have the capacity to give consent, you warrant that your guardian or attorney is able to give any consent required under this Privacy Policy on your behalf.
 
-These terms and conditions are governed by the laws in force in Australia.
+You hereby expressly and voluntarily grant your informed consent to us to deal with your personal information in accordance with the terms and conditions of this Privacy Policy. Should you retract your consent, please contact us. If you retract your consent, you acknowledge and agree that failure to provide certain types of personal information may not give you access to the full functionality of the Service.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us.
