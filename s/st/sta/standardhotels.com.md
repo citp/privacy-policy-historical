@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the standardhotels.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105555id_/http%3A//www.standardhotels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardhotels.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120711id_/http%3A//www.standardhotels.com/privacy) for the most accurate reproduction.*
 
-# Boutique Hotels in Los Angeles – NYC – Miami | The Standard Hotels
+# Standard Hotels | Boutique Hotels in LA, NYC, and Miami
 
-### Standard International Management, LLC (the “Company”) is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This policy covers the Company websites and is applicable to The Standard, High Line, The Standard, East Village, The Standard, Downtown LA, The Standard, Hollywood, The Standard Spa, Miami Beach, and all of their respective affiliates. This Privacy Policy describes our practices in connection with information that we collect through the websites operated by us from which you are accessing this Privacy Policy (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), through social media websites and third-party services such as Expedia or Open Table (“Third Parties”) through which we collect or receive information from or about you, through HTML-formatted email messages that we send to you that link to this Privacy Policy, and through our WiFi network (“WiFi”) (collectively, including the Websites, Third Parties, WiFi and the Apps, the “Services”). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
+### Standard International, LLC (the “Company”) is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This policy covers the Company websites and is applicable to the Company, The Standard, High Line, The Standard, East Village, The Standard, Downtown LA, The Standard, Hollywood, The Standard Spa, Miami Beach, and all of their respective affiliates. This Privacy Policy describes our practices in connection with information that we collect through the websites operated by us from which you are accessing this Privacy Policy (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), through social media websites and third-party services such as Expedia or Open Table (“Third Parties”) through which we collect or receive information from or about you, through HTML-formatted email messages that we send to you that link to this Privacy Policy, and through our WiFi network (“WiFi”) (collectively, including the Websites, Third Parties, WiFi and the Apps, the “Services”). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
  **Personal Information We May Collect**
 
@@ -57,7 +57,7 @@ We may use Personal Information:
  **How Personal Information May Be Disclosed**
 
   * Your Personal Information may be disclosed:
-  * To our affiliates within the Standard brand portfolio for the purposes described in this Privacy Policy. Standard International Management LLC is the party responsible for the management of the jointly-used Personal Information. This sharing with our affiliates allows us to provide you with information about all of our locations and amenities that may be of interest to you. Any commercial email sent by an affiliate will include an opportunity to not receive such email messages in the future.
+  * To our affiliates within the Company's portfolio for the purposes described in this Privacy Policy. The Company is the party responsible for the management of the jointly-used Personal Information. This sharing with our affiliates allows us to provide you with information about all of our locations and amenities that may be of interest to you. Any commercial email sent by an affiliate will include an opportunity to not receive such email messages in the future.
   * To our third party service providers who provide services such as website hosting, data analysis, data analytics, payment processing, information technology and related infrastructure provision, customer service, email delivery, auditing and other services. For example, we may use Google Analytics and others to provide analytics.
   * To non-affiliated third parties, to permit them to send you marketing communications, if you have opted-in to such sharing.
   * To third-party sponsors of sweepstakes, contests and similar promotions.
@@ -164,7 +164,7 @@ We may change this Privacy Policy. The “Last Updated” legend at the top of t
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Standard International Management, LLC   
+Standard International, LLC   
 Attention: Legal Department   
 23 E 4th Street, 5th floor   
 New York, NY 10003   
