@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialwholesale.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627044216id_/http%3A//www.essentialwholesale.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialwholesale.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033041id_/http%3A//www.essentialwholesale.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ We may use the information we collect from you when you register, purchase produ
  
   * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other Site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
  
-  * We may contract a third party vendor to distrubute our  promotional material on the internet. 
+  * We may contract a third party vendor to distribute our  promotional material on the internet. 
 
 
 
