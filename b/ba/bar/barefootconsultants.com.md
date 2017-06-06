@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the barefootconsultants.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207033527id_/http%3A//www.barefootconsultants.com/public/Privacy_Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barefootconsultants.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153853id_/http%3A//barefootconsultants.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-[](https://web.archive.org/web/20161207033527id_/http%3A//www.barefootconsultants.com/public/275print.cfm)
+# Privacy Policy — Barefoot Consultants
 
 PRIVACY POLICY Last Updated: January 2, 2015
 
@@ -18,7 +16,7 @@ Like other Web publishers, we collect information to enhance your visit and deli
 
 Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
 
-We may use Personally Identifiable Information collected on BarefootConsultants.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by BarefootConsultants.com and other topics we think you might find of interest. 
+We may use Personally Identifiable Information collected on BarefootConsultants.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by BarefootConsultants.com and other topics we think you might find of interest.
 
 Personally Identifiable Information collected by BarefootConsultants.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
@@ -40,13 +38,13 @@ We can be reached by contacting:
 
 BarefootConsultants.com
 
-Email: privacy@churchillmethod.com 
+Email: support@BarefootConsultants.com
 
 Address:
 
 Churchill Method, Inc.  
 JP Morgan International Plaza III  
-14241 Dallas Parkway Suite 650   
+14241 Dallas Parkway Suite 650  
 Dallas, TX 75254  
 USA
 
@@ -61,5 +59,3 @@ This policy and the use of this Site are governed by Texas law. If a dispute ari
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Los Angeles, California, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 BarefootConsultants.com is controlled, operated and administered entirely within Texas. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-[](https://web.archive.org/web/20161207033527id_/http%3A//www.barefootconsultants.com/public/275print.cfm)
