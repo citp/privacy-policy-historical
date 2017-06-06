@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jpornaccess.com privacy policy that was archived on 2016-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161113052755id_/http%3A//jpornaccess.com/eng/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jpornaccess.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606074142id_/http%3A//jpornaccess.com/eng/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,8 +20,6 @@
 <script type="text/javascript" src="http://images.jpornaccess.com/js/swfobject.js"></script>
 
 <script type="text/javascript" src="/jwplayer/jwplayer.min.js"></script>
-
-
 <style type="text/css">
 body	{
 	background-image: url(/eng/imgr8/BG-top2.jpg);
@@ -32,9 +30,7 @@ body	{
 <script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
 
 <body>
-
 <div id="wrapper">
-  
 <div id="header"><!-- HEADER SECTION -->
 <div id="headerWrapper">
 <div id="logo"><a href="/"><img src="/eng/imgr8/JPA-Logo.png" width="229" height="31" border="0"></a></div>
@@ -45,27 +41,42 @@ body	{
 <a href="/eng/faq.htm" rel="nofollow">FAQ</a> | <a href="https://service.d2pass.com/jpornaccess/inquiry" target="_blank" rel="nofollow">CONTACT US</a> | <a href="/eng/terms.htm" rel="nofollow">TERMS &amp; CONDITIONS</a>
 
 </div>
+
 <div class="clear"></div>
 <div id="loginBTN"><a href="http://members.jpornaccess.com" rel="nofollow">LOGIN</a></div>
 <script>
 $(document).ready(function() {
-var _hostname = ( document.domain.match(/^members/) ) ? "www.jpornaccess.com" : "members.jpornaccess.com";
-var url_query = base64encode( location.pathname + location.search );
+  var _hostname = ( document.domain.match(/^members/) ) ? "www.jpornaccess.com" : "members.jpornaccess.com";
+  var url_query = base64encode( location.pathname + location.search );
 
-if( _hostname.match( /^members/ )) {
+  if( _hostname.match( /^members/ )) {
     var url = "/login.php?url=" + url_query;
     $("#menuJoin").show();
-} else {
+  } else {
     var url = "/logout.php?url=" + url_query;
     $("#menuFAV").show();
     $("#jF1").remove();
     $("#jF2").remove();
     $("#jF3").remove();
     $("#joinFoot").remove();
-}
+  }
 
-$('#loginBTN').find('a').attr('href', "http://" + _hostname + url ) ;
-$('#loginBTN').find('a').html( document.domain.match(/^members/) ? "LOGOUT" : "LOGIN" );
+  $('#loginBTN').find('a').attr('href', "http://" + _hostname + url ) ;
+  $('#loginBTN').find('a').html( document.domain.match(/^members/) ? "LOGOUT" : "LOGIN" );
+  
+  var paramString = window.location.search.split("&");
+  var exo_code;
+  for(var i=0; i<paramString.length;i++){
+    var param = paramString[i].split("=");
+    if(param[0] == "e" && param[0] != undefined ){
+      exo_code = param[1];  
+    }
+  }
+
+  if(exo_code != "" && exo_code !== undefined ){
+    $('#menuJoin').find('a').attr('href', "/app/join_nats" + "?e=" + exo_code);
+  }
+ 
 });
 </script>
 
@@ -76,11 +87,12 @@ $('#loginBTN').find('a').html( document.domain.match(/^members/) ? "LOGOUT" : "L
 <div class="menew"><a href="/">HOME</a></div>
 <div class="menew"><a href="/listpages/all1.htm" rel="nofollow">ALL MOVIES</a></div>
 <div class="menew"><a href="/listpages/idol1.htm" rel="nofollow">JAV IDOL</a></div>
+<div class="menew" style="width:50px;"><a href="/listpages/anime1.htm" rel="nofollow">ANIME</a></div>
 <div class="menew"><a href="/listpages/lesbian1.htm" rel="nofollow">LESBIAN</a></div>
 <div class="menew"><a href="/listpages/amateur1.htm" rel="nofollow">AMATEUR</a></div>
 <div class="menew" style="width:110px;"><a href="/listpages/subtitled1.htm" rel="nofollow"><img src="/images/subtitle/subtitled-sm.png" alt="subtitle icon" align="absmiddle" class="subtitleIconMenu" border="0"> SUBTITLED</a></div>
-<div class="menew" id="menuJoin" style="display:none;background-color:#e21e65; border-bottom:solid 3px #e21e65; margin-bottom:-3px; right:65px;"><a href="https://billing.jpornaccess.com/index.fcgi?goods_id=1160479&amp;lang=en" rel="nofollow" style="color:#fff;">JOIN HERE</a></div>
-<div class="menew" id="menuFAV" style="right:66px; display:none;"><a href="http://members.jpornaccess.com/app/favorite" rel="nofollow" style="color:#fff;"><img src="/eng/imgr8/menu-favs.png" width="12" height="10"> &nbsp;FAVORITES</a></div>
+<div class="menew" id="menuJoin" style="display:none;background-color:#e21e65; border-bottom:solid 3px #e21e65; margin-bottom:-3px; right:65px;"><a href="/app/join_nats" rel="nofollow" style="color:#fff;">JOIN HERE</a></div>
+<div class="menew" id="menuFAV" style="display:none; right:66px;"><a href="http://members.jpornaccess.com/app/favorite/" rel="nofollow" style="color:#fff;"><img src="/eng/imgr8/menu-favs.png" width="12" height="10"> &nbsp;FAVORITES</a></div>
 <div class="switch"><a href="#" rel="nofollow">ALL CATEGORIES</a></div>
 <!-- SLIDING MENU -->
 <div class="content">
@@ -120,7 +132,7 @@ $('#loginBTN').find('a').html( document.domain.match(/^members/) ? "LOGOUT" : "L
     </tbody></table>
 </div><!-- END SLIDING MENU -->
 </div><!-- END menewContainer DIV -->
-</center><!-- Cached 2016-11-13 05:27:55 -->
+</center>
 
 <div id="bodyWrapper">
 <div id="bodyContents">
@@ -177,7 +189,7 @@ If you are under Eighteen Years Old  (18), you cannot use our services; therefor
     <td><input type="text" name="email" id="email" class="JoinFootInput"></td>
     <td><input name="action" value="join_pre_process" class="JoinFootInput" type="hidden"></td>
     <td><input name="instant_join" value="1" class="JoinFootInput" type="hidden"></td>
-    <td><input name="goods_id" value="1160479" class="JoinFootInput" type="hidden"></td>
+    <td><input name="goods_id" value="1217480" class="JoinFootInput" type="hidden"></td>
     <td><input type="image" name="join" id="join" src="/eng/imgr8/beginTrialBTN.gif" width="156" height="28"></td>
   </tr>
 </tbody></table>
@@ -222,7 +234,7 @@ violation of statement above please contact us at: <a href="https://service.d2pa
 <!-- li><a href="/eng/2257.html" rel="nofollow">U.S.C. 2257</a></li -->
 <li><a href="/eng/privacy.html" rel="nofollow">Privacy Policy</a></li>
 <li><a href="/eng/terms.htm" rel="nofollow">Terms &amp; Conditions</a></li>
-<li><a href="http://www.dticash.com/" target="_blank" rel="nofollow">Webmasters</a></li>
+<li><a href="http://www.dtibucks.com/" target="_blank" rel="nofollow">Webmasters</a></li>
 </ul>
 </div>
 
@@ -247,9 +259,9 @@ $(document).ready(function(){
 <ul>
 <li><h4 class="footerH4">Support</h4></li>
 <li><div id="footerLogin"><a href="http://members.jpornaccess.com" rel="nofollow">Login</a></div></li>
-<li id="footerJoin"><a href="https://billing.jpornaccess.com/index.fcgi?goods_id=1160479&amp;lang=en" rel="nofollow">Join Here</a></li>
+<li id="footerJoin"><a href="/app/join_nats/" rel="nofollow">Join Here</a></li>
 <li><a href="/eng/faq.htm" rel="nofollow">FAQs</a></li> 
-<li style="line-height:9px; padding:4px 0;"><a href="https://billing.jpornaccess.com/ccb_jpa_cancel.fcgi?goods_id=1160479" target="_blank" rel="nofollow">Cancel Membership</a></li>
+<li style="line-height:9px; padding:4px 0;"><a href="https://billing.jpornaccess.com/ccb_jpa_cancel.fcgi?goods_id=1217480" target="_blank" rel="nofollow">Cancel Membership</a></li>
 <li><a href="https://service.d2pass.com/jpornaccess/inquiry" target="_blank" rel="nofollow">Contact Us</a></li>  
 </ul>
 </div>
