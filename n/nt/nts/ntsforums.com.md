@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntsforums.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406140841id_/http%3A//www.ntsforums.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntsforums.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102649id_/http%3A//www.ntsforums.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NTS | National Testing Service
 
