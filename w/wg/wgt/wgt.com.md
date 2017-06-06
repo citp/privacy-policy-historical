@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wgt.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105013318id_/http%3A//m.wgt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145756id_/http%3A//m.wgt.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - WGT Golf Mobile
+# Privacy Policy - WGT Golf Mobile App
 
 Thank you for visiting World Golf Tour, Inc. dba WGT Sports' ("WGT") Internet web site ("Site") located at the URL <http://www.wgt.com/> (or <http://www.worldgolftour.com/> or <http://www.wgtsports.com/>). This Privacy Policy details certain policies implemented throughout WGT governing WGT's use of personally identifiable information about users of our Site and our services provided via this Site and through your use of WGT's services. If you access WGT services from a third party social networking site such as Facebook ("Social Site"), you may be required to also read and accept the Social Site's Terms of Service and Privacy Policy.
 
