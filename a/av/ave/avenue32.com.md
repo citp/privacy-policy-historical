@@ -1,122 +1,87 @@
-> *The following text is extracted and transformed from the avenue32.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021103440id_/http%3A//www.avenue32.com/uk/customer-service-privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avenue32.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064941id_/http%3A//www.avenue32.com/us/customer-service-privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Avenue 32
 
-Avenue 32 respects the privacy of all individuals who use our site www.avenue32.com ("Website"). This privacy policy, together with our Terms of Website Use, Supply Terms and any other documents referred to, explains what information we gather from you, how we use it and how you may control our use of your personal information. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Avenue 32 Limited of 290-294 Latimer Road, London W10 6QW, registered in England and Wales with company number 7441722. Data Protection Registration number: Z28903168
+#### Avenue 32 respects the privacy of all individuals who use our site www.avenue32.com ("Website"). This privacy policy, together with our Terms of Website Use, Supply Terms and any other documents referred to, explains what information we gather from you, how we use it and how you may control our use of your personal information. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Avenue 32 Limited of 290-294 Latimer Road, London W10 6QW, registered in England and Wales with company number 7441722. Data Protection Registration number: Z28903168
 
-1\. INFORMATION WE MAY COLLECT FROM YOU 
+### **1\. INFORMATION WE MAY COLLECT FROM YOU**
 
-We may collect from you and process information that you provide to us when placing an order, registering online, setting up or amending an account with us on our Website. For example:  
-your name, address, various delivery and payment addresses, email address, contact telephone numbers, password, password question and answer, and card details which can be used when you subsequently place an order;  
-details of transactions you carry out through our Website and of the fulfilment of your orders;  
-information which you voluntarily disclose to us by email or other means;  
-information that you provide if you report a problem with our Website;  
-information requested as part of a survey or contest. Information requested may include contact information (such as name and shipping address), and demographic information (such as post code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this Website;  
-details of your visits to our Website, including but not limited to traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access;  
-if you choose to leave comment during your visit to our website, if applicable.
+#### We may collect from you and process information that you provide to us when placing an order, registering online, setting up or amending an account with us on our Website. For example: your name, address, various delivery and payment addresses, email address, contact telephone numbers, password, password question and answer, and card details which can be used when you subsequently place an order; details of transactions you carry out through our Website and of the fulfilment of your orders; information which you voluntarily disclose to us by email or other means; information that you provide if you report a problem with our Website; information requested as part of a survey or contest. Information requested may include contact information (such as name and shipping address), and demographic information (such as post code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this Website; details of your visits to our Website, including but not limited to traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access; if you choose to leave comment during your visit to our website, if applicable. 
 
-  
-2.COOKIES & IP ADDRESSES
+### **2\. COOKIES & IP ADDRESSES**
 
-What is a Cookie?
+### **What is a Cookie?**
 
-A cookie is a piece of information in the form of a very small text file that is placed on an internet user's hard drive. It is generated by a web page server, which is basically the computer that operates a web site. The information the cookie contains is set by the server and it can be used by that server whenever the user visits the site. A cookie can be thought of as an internet user's identification card, which tell a web site when the user has returned.
+#### A cookie is a piece of information in the form of a very small text file that is placed on an internet user’s hard drive. It is generated by a web page server, which is basically the computer that operates a web site. The information the cookie contains is set by the server and it can be used by that server whenever the user visits the site. A cookie can be thought of as an internet user’s identification card, which tell a web site when the user has returned. 
 
-Cookies make the interaction between users and web sites faster and easier. Without cookies, it would be very difficult for a web site to allow a visitor to fill up a shopping cart or to remember the user's preferences or registration details for a future visit. Web sites use cookies mainly because they save time and make the browsing experience more efficient and enjoyable. Web sites often use cookies for the purposes of collecting demographic information about their users.
+#### Cookies make the interaction between users and web sites faster and easier. Without cookies, it would be very difficult for a web site to allow a visitor to fill up a shopping cart or to remember the user’s preferences or registration details for a future visit. Web sites use cookies mainly because they save time and make the browsing experience more efficient and enjoyable. Web sites often use cookies for the purposes of collecting demographic information about their users. 
 
-Why do we use Cookies?  
-In order to use essential features of our site such as storing products in your shopping bag whilst you continue to shop and/or navigate to different pages of the site and accessing secure areas of the site. If you choose not to accept these cookies, you will be unable to use our site for shopping, only for browsing.  
-When browsing or shopping online, the website will remember preferences you make (for example your user name, language or location). This makes your shopping experience easier and more personal.  
-Website analytics cookies used to measure and analyse how our customers use the website. This allows us to continuously improve our website and your shopping experience.  
-Targeting cookies or advertising cookies are used to deliver adverts relevant to you. In addition, they limit the number of times you see an advertisement as well as helping us measure the effectiveness of our advertising campaigns.
+### **Why do we use Cookies?**
 
-By using our website you agree that we can place these types of cookies on your device and access them when you visit the site in the future.
+#### In order to use essential features of our site such as storing products in your shopping bag whilst you continue to shop and/or navigate to different pages of the site and accessing secure areas of the site. If you choose not to accept these cookies, you will be unable to use our site for shopping, only for browsing. When browsing or shopping online, the website will remember preferences you make (for example your user name, language or location). This makes your shopping experience easier and more personal. Website analytics cookies used to measure and analyse how our customers use the website. This allows us to continuously improve our website and your shopping experience. Targeting cookies or advertising cookies are used to deliver adverts relevant to you. In addition, they limit the number of times you see an advertisement as well as helping us measure the effectiveness of our advertising campaigns.
 
-You are able to choose whether you wish cookies to be turned on or off. If you want to delete any cookies that are already on your computer, the Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether.
+#### By using our website you agree that we can place these types of cookies on your device and access them when you visit the site in the future. 
 
-Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.
+#### You are able to choose whether you wish cookies to be turned on or off. If you want to delete any cookies that are already on your computer, the Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. 
 
-Enable cookies as follows:  
+#### Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site. 
 
+### **Enable cookies as follows:**
 
-Google Chrome:  
-Click on 'Settings' at the top of your browser window and then 'Advanced settings'.  
-Under 'Privacy', click 'Content settings' and at the top, ensure 'Allow local data to be set' is selected.  
-Scroll to the bottom, click ok.  
+####  **Google Chrome:** Click on 'Settings' at the top of your browser window and then 'Advanced settings'. Under 'Privacy', click 'Content settings' and at the top, ensure 'Allow local data to be set' is selected. Scroll to the bottom, click ok. 
 
+####  **Safari:** Click on the 'Cog' icon at the top of your browser window and then 'Preferences'. Click the 'Privacy' tab and under 'Block cookies' and chose 'Never'. Close the box. 
 
-Safari:  
-Click on the 'Cog' icon at the top of your browser window and then 'Preferences'.  
-Click the 'Privacy' tab and under 'Block cookies' and chose 'Never'.  
-Close the box.  
+####  **Microsoft Internet Explorer:** Click on 'Tools' at the top of your browser window and then 'Internet Options'. Under the 'Privacy' tab, ensure your setting is at medium in order for cookies to work. Click ok. 
 
+####  **Mozilla Firefox:** Click on 'Tools' at the top of your browser window and then 'Options'. Select the 'Privacy' icon, click on 'Cookies', then select 'accept cookies from sites'. Click ok. 
 
-Microsoft Internet Explorer:  
-Click on 'Tools' at the top of your browser window and then 'Internet Options'.  
-Under the 'Privacy' tab, ensure your setting is at medium in order for cookies to work.  
-Click ok.  
+####  **IP Addresses:** We may collect information about your computer including, your IP address, operating system and browser type for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
 
+### **3\. USES MADE OF INFORMATION**
 
-Mozilla Firefox:  
-Click on 'Tools' at the top of your browser window and then 'Options'.  
-Select the 'Privacy' icon, click on 'Cookies', then select 'accept cookies from sites'.  
-Click ok.  
+### **We use information held about you in the following ways:**
 
+#### We are the sole owner of the information collected on this Website. We will not sell, share, or rent this information to others in ways different from those disclosed in this statement. We will not collect information from our users on our Website unless we are legally entitled or required to do so, or if we believe that such action is necessary to protect and/or defend our rights, property or personal safety and those of other users of this Website. Your privacy is of the highest importance to us, and we promise never to sell your personal details to any outside company for mailing or marketing purposes without your express permission. 
 
-IP Addresses  
-We may collect information about your computer including, your IP address, operating system and browser type for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+### **We use your information:**
 
-3\. USES MADE OF INFORMATION
+#### For internal analysis purposes within our group of companies; to create and maintain your account with us and to comply with our obligations following your order as set out in our Supply Terms; to ensure that content from our Website is presented in the most effective manner for you and for your computer and to allow you to participate in interactive features of our Website where you have chosen to do so; to administer and otherwise perform our obligations in relation to the goods and/or services which we have agreed to provide to you. For example, we may use an outside carrier company to deliver orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes; to provide you with information, products or services including any marketing that you have requested from us or that we feel may interest you but only ever where you have consented to be contacted for such purposes and otherwise to respond to queries which you may submit; to notify you about changes to our Website; we may employ third party business partners to collect personal information on our behalf. In such cases, these third parties will be subject to confidentiality agreements and instructed to comply fully with the Avenue 32 Privacy Policy; in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; if Avenue 32 Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; 
 
-We use information held about you in the following ways:
+#### You should be aware that if we are requested to comply with any legal obligation, or in order to enforce or apply our Terms of Website Use or Supply Terms and other agreements, or to protect the rights, property or safety of Avenue 32, our customers or others to provide your personal information and/or user information, we are entitled to do so. This includes exchanging information with other companies and organisations for the purposes of fraud prevention and credit risk reduction.
 
-We are the sole owner of the information collected on this Website. We will not sell, share, or rent this information to others in ways different from those disclosed in this statement. We will not collect information from our users on our Website unless we are legally entitled or required to do so, or if we believe that such action is necessary to protect and/or defend our rights, property or personal safety and those of other users of this Website. Your privacy is of the highest importance to us, and we promise never to sell your personal details to any outside company for mailing or marketing purposes without your express permission.
+### **4\. CORRECTION/UPDATING PERSONAL INFORMATION**
 
-We use your information:  
-for internal analysis purposes within our group of companies;  
-to create and maintain your account with us and to comply with our obligations following your order as set out in our Supply Terms;  
-to ensure that content from our Website is presented in the most effective manner for you and for your computer and to allow you to participate in interactive features of our Website where you have chosen to do so;  
-to administer and otherwise perform our obligations in relation to the goods and/or services which we have agreed to provide to you. For example, we may use an outside carrier company to deliver orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes;  
-to provide you with information, products or services including any marketing that you have requested from us or that we feel may interest you but only ever where you have consented to be contacted for such purposes and otherwise to respond to queries which you may submit;  
-to notify you about changes to our Website;  
-we may employ third party business partners to collect personal information on our behalf. In such cases, these third parties will be subject to confidentiality agreements and instructed to comply fully with the Avenue 32 Privacy Policy;  
-in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;  
-if Avenue 32 Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
+#### If your personal information changes (such as your post code), or if you no longer desire our services, you may correct, update or remove your personal data by contacting customer.services@avenue32.com. 
 
-You should be aware that if we are requested to comply with any legal obligation, or in order to enforce or apply our Terms of Website Use or Supply Terms and other agreements, or to protect the rights, property or safety of Avenue 32, our customers or others to provide your personal information and/or user information, we are entitled to do so. This includes exchanging information with other companies and organisations for the purposes of fraud prevention and credit risk reduction.
+### **5\. YOUR CONSENT**
 
-4\. CORRECTION/UPDATING PERSONAL INFORMATION
+#### By placing an order online, over the telephone or during the registration process you will be giving us your consent to contact you to offer promotional goods and services. You have the right to ask us not to process your personal data for marketing purposes. You can exercise your right to prevent such processing, or to opt-out of receiving regular communications from us by checking certain boxes on the forms we use to collect your data or by emailing us at customer.services@avenue32.com. If you withdraw your consent to use of your personal information we will stop such use as soon as reasonably practicable. 
 
-If your personal information changes (such as your post code), or if you no longer desire our services, you may correct, update or remove your personal data by contacting customer.services@avenue32.com.
+### **6\. SECURITY**
 
-5\. YOUR CONSENT
+#### Avenue 32 accepts a reasonable duty of care when it comes to keeping your information secure. Our Website currently uses high-level Secure Socket Layer (SSL) encryption technology for online transactions. You can therefore rest assured that we take the security of your payment and personal details very seriously. We may vary this in the future if we feel you will benefit from greater security whilst using our Website.
 
-By placing an order online, over the telephone or during the registration process you will be giving us your consent to contact you to offer promotional goods and services. You have the right to ask us not to process your personal data for marketing purposes. You can exercise your right to prevent such processing, or to opt-out of receiving regular communications from us by checking certain boxes on the forms we use to collect your data or by emailing us at customer.services@avenue32.com. If you withdraw your consent to use of your personal information we will stop such use as soon as reasonably practicable.
+#### You can tell whether a webpage is secure as 'https' will replace the 'http' at the front of the www.avenue32.com in your browser address window, also a small locked padlock will appear in the bottom bar of your browser window.
 
-6\. SECURITY
+#### While we currently use SSL encryption to protect sensitive information online, we also protect your information off-line. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer services representative) are granted access to your personal information. The servers on which we store your personal information are kept in a secure environment.
 
-Avenue 32 accepts a reasonable duty of care when it comes to keeping your information secure. Our Website currently uses high-level Secure Socket Layer (SSL) encryption technology for online transactions. You can therefore rest assured that we take the security of your payment and personal details very seriously. We may vary this in the future if we feel you will benefit from greater security whilst using our Website.
+#### Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential. You must not share this password with anyone. We accept no responsibility or liability for any loss you suffer or incur as a result of failing to comply with this condition. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-You can tell whether a webpage is secure as 'https' will replace the 'http' at the front of the www.avenue32.com in your browser address window, also a small locked padlock will appear in the bottom bar of your browser window.
+### **7\. PHISHING**
 
-While we currently use SSL encryption to protect sensitive information online, we also protect your information off-line. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer services representative) are granted access to your personal information. The servers on which we store your personal information are kept in a secure environment.
+#### Phishing is the practice of tricking someone into giving confidential information. Examples include falsely claiming to be a legitimate company when sending an email to a user, in an attempt to get the user to send private information that will be used for identity theft and fraud.
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential. You must not share this password with anyone. We accept no responsibility or liability for any loss you suffer or incur as a result of failing to comply with this condition. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+#### We will never ask you to send any personal details via email. If we require such details, for security reasons we will ask you to contact us by telephone. Should you receive an email claiming to be from Avenue32 and/or Avenue 32 Limited requesting this kind of information please do not respond but contact us immediately.
 
-7\. PHISHING
+### **8\. CONTACT**
 
-Phishing is the practice of tricking someone into giving confidential information. Examples include falsely claiming to be a legitimate company when sending an email to a user, in an attempt to get the user to send private information that will be used for identity theft and fraud.
+#### If you have any questions, comments or requests regarding this policy please contact the Customer Service Department at customer.services@avenue32.com
 
-We will never ask you to send any personal details via email. If we require such details, for security reasons we will ask you to contact us by telephone. Should you receive an email claiming to be from Avenue32 and/or Avenue 32 Limited requesting this kind of information please do not respond but contact us immediately.
+### **9\. ACCESS TO INFORMATION**
 
-8\. CONTACT
+#### The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-If you have any questions, comments or requests regarding this policy please contact the Customer Service Department at customer.services@avenue32.com
+### **10\. CHANGES TO OUR PRIVACY POLICY**
 
-9\. ACCESS TO INFORMATION
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-10\. CHANGES TO OUR PRIVACY POLICY
-
-Any changes we may make to our privacy policy will be posted on this page and, where appropriate, notified to you by e-mail.
+#### Any changes we may make to our privacy policy will be posted on this page and, where appropriate, notified to you by e-mail.
