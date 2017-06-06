@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judicialwatch.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221065711id_/http%3A//www.judicialwatch.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judicialwatch.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121417id_/http%3A//www.judicialwatch.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Judicial Watch
 
@@ -6,7 +6,7 @@
 
 JUDICIAL WATCH PRIVACY POLICY
 
-Last Updated: March 19, 2014
+Last Updated: May 31, 2017
 
 Judicial Watch, Inc. (“Judicial Watch”) wants you to know how we address privacy issues on the  
 Judicial Watch web site (the “Site”) and all other websites owned and operated by Judicial  
@@ -112,7 +112,7 @@ You should review third party privacy policies in connection with visiting the S
 7\. Opt-Out Right
 
 Visitors may opt-out of having their personal information collected or used by Judicial Watch,  
-by contacting John Britten via email at jbritten@judicialwatch.org or via postal mail or  
+by contacting Carter Clews via email at cclews@judicialwatch.org or via postal mail or  
 telephone at the address and phone number below.
 
 8\. Judicial Watch’s Right to Contact Visitor
@@ -141,7 +141,7 @@ our Privacy Policy from time to time to be sure you are familiar with our curren
 If you have any questions regarding this privacy policy or you would like to review, change,  
 and/or remove your personal information, you may contact us at:
 
-E-mail: jbritten@judicialwatch.org  
+E-mail: cclews@judicialwatch.org  
 Telephone: 1-888-593-8442  
 Mailing address: 425 3rd Street, S.W., Suite 800, Washington, D.C. 20024
 
