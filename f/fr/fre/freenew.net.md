@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freenew.net privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831115040id_/http%3A//www.freenew.net/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freenew.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211758id_/http%3A//www.freenew.net/privacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -6,15 +6,15 @@ Your privacy is important to FreeNew. So we've developed a Privacy Policy that c
 
 ## Collection and Use of Personal Information
 
-Personal information is data that can be used to uniquely identify or contact a single person. 
+Personal information is data that can be used to uniquely identify or contact a single person.
 
-You may be asked to provide your personal information anytime you are in contact with FreeNew or FreeNew affiliated company. FreeNew and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising. 
+You may be asked to provide your personal information anytime you are in contact with FreeNew or FreeNew affiliated company. FreeNew and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising.
 
 Here are some examples of the types of personal information FreeNew may collect and how we may use it.
 
 1\. What personally identifiable information does FreeNew collect?
     FreeNew's primary goal in collecting personal information is to provide you with the best and most useful content and services. FreeNew is essential to keeping our services free to users.  
-FreeNew collects personally identifiable information when you provide it to us, such as when you register on our sites, when you use certain products or services and when you visit FreeNew pages. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our FreeNew sites you are no longer anonymous to us.
+FreeNew collects personally identifiable information when you provide it to us, such as when you register on our sites, when you use certain products or services and when you visit FreeNew pages. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our FreeNew sites you are no longer anonymous to us. 
 
 2\. What anonymous information does FreeNew collect?
     _Cookies_
