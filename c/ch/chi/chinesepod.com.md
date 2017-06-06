@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212153957id_/https%3A//chinesepod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165728id_/https%3A//chinesepod.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ChinesePod
 
