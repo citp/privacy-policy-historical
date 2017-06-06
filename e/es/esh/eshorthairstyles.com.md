@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eshorthairstyles.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103104826id_/http%3A//www.eshorthairstyles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eshorthairstyles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074201id_/http%3A//www.eshorthairstyles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Short Hairstyles & Haircuts 2015
 
@@ -46,4 +46,4 @@ If you have any questions about our Privacy Practices or this Policy, please con
 
 Mail=info@eshorthairstyles.com
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.eshorthairstyles.com%2Fprivacy-policy&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/)
