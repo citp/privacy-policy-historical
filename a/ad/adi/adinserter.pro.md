@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adinserter.pro privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223142021id_/http%3A//adinserter.pro/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adinserter.pro privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172155id_/https%3A//adinserter.pro/about) for the most accurate reproduction.*
 
 # About
 
@@ -24,9 +24,11 @@ The link in the email is used only for initial download and installation of the 
 
 #### Return/Refund Policy
 
-Since plugins offered here are downloadable files, returns and refunds are not normally possible. In case of any questions please use the [contact page](http://adinserter.pro/contact).
+Since plugins offered here are downloadable files, returns and refunds are not possible. We offer refunds within 14 days after the purchase only in the case the file has not been downloaded yet.
 
-#### Log Files
+By purchasing the license for Ad Inserter Pro you confirm that you have installed and tested free Ad Inserter to make sure it can be installed on your website, it works as expected, you are not experiencing issues and it fits your needs. In case of any questions please [contact us](https://adinserter.pro/contact) before the purchase.
+
+Log Files
 
 Like many other websites, [adinserter.pro](http://adinserter.pro/) makes use of log files. The information inside the log files includes internet protocol (IP) addresses, Internet Service Provider (ISP), type of browser, date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
