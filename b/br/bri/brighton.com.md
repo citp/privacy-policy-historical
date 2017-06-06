@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighton.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121230941id_/http%3A//www.brighton.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighton.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085056id_/http%3A//www.brighton.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -92,4 +92,4 @@ USA
 brightoninfo@brighton.com  
 (800) 235-8748
 
-This policy was last modified on April 25, 2013
+This policy was last modified on January of 2017
