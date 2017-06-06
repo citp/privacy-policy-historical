@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctelia.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113070058id_/http%3A//www.auctelia.com/en/home/confident) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctelia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150456id_/http%3A//www.auctelia.com/en/home/confident) for the most accurate reproduction.*
 
 # Auctelia
 
