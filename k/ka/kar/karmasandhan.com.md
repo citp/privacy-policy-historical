@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the karmasandhan.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041540id_/http%3A//www.karmasandhan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmasandhan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184744id_/http%3A//www.karmasandhan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | West Bengal Job & Recruitment News
 
 At **www.karmasandhan.com** , we give extreme importance to privacy of our visitors. We do not do anything hidden without knowledge of our visitors because it’s your right to know how we treat your privacy and so we have clearly outlines the types of information we ([www.karmasandan.com/](http://www.karmasandan.com/)) received and collect and also how it is used. If you want more information, feel free to write us anytime at: moc.nahdnasamrak@noitamrofni
 
-**Information collected on voluntary basis:  
+ **Information collected on voluntary basis:  
 **We, [www.karmasandhan.com](http://www.karmasandhan.com/), collect personally identifiable information from the visitors to our website on a voluntary basis. Voluntary basis collected information may include: Name, E-mail address and telephone number. You provide us this information only when you choose subscribes our Newsletter or contact us through our embedded ‘Contact-us’ form for any queries. We use this information of yours only to respond your queries. We do not provide your information to any third parties. **  
 **
 
 Recently the “Contact Us” form on our page, which appeared inside an i-frame, is provided us by Kontactr. You can view their privacy policy to know more on how they maintain visitor’s privacy from this link- <http://kontactr.com/privacy>
 
-**Information collected through Cookies and Web Beacons:  
+ **Information collected through Cookies and Web Beacons:  
 **www.karmasandhan.com does use cookies to store information about visitors’ preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors’ browser type or other information that the visitor sends via their browser. **  
 **
 
@@ -31,7 +31,7 @@ For Statcounter: <http://statcounter.com/how_it_works.html>
 
 For Google Analytics: <http://www.google.com/intl/en/analytics/privacyoverview.html>
 
-**Uses of DoubleClick DART Cookie:**
+ **Uses of DoubleClick DART Cookie:**
 
 To serve ads on [www.karmasandhan.com](http://www.karmasandhan.com/), Google, as a third party vendor, uses cookies.
 
