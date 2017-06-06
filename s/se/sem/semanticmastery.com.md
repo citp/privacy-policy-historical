@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the semanticmastery.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629193437id_/http%3A//semanticmastery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semanticmastery.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102902id_/http%3A//semanticmastery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Semantic Mastery
+# Privacy Policy | Semantic Mastery
 
 The following describes the Privacy Policy for the website, www.semanticmastery.com, hereinafter “the website”.
 
