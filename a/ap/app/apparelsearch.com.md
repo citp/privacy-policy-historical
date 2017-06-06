@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the apparelsearch.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130020250id_/http%3A//www.apparelsearch.com/privacy-policy.html%3Fez_orig%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apparelsearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160546id_/http%3A//apparelsearch.com/privacy-policy.html%3Fez_orig%3D1) for the most accurate reproduction.*
 
 # Privacy Policy
+
+* * *
 
 If you have any questions regarding our Privacy Policy, please [contact us](http://www.apparelsearch.com/contact_us.htm).
 
@@ -49,4 +51,4 @@ Please note that we may change our Privacy Policy from time to time. Users can v
 If you have any questions about our Privacy Policy, feel free to contact us by email.  If for some reason we do not answer in a timely manner, please discontinue use of our site if you are not clear or concerned at all regarding our policy.
 
 [Apparel Search](http://www.apparelsearch.com/)   [Add Your Company](http://www.apparelsearch.com/addyour.htm)   [Contact Us](http://www.apparelsearch.com/contact_us.htm)   [About Us](http://www.apparelsearch.com/about_us.htm)   [News Letter](http://www.apparelsearch.com/news_letter_fashion_industry.htm)   [Legal](http://www.apparelsearch.com/legal_notice.htm)   [Help  
-](http://www.apparelsearch.com/help.htm)Copyright © 1999-2016  Apparel Search Company.   All Rights Reserved. 
+](http://www.apparelsearch.com/help.htm)Copyright © 1999-2017  Apparel Search Company.   All Rights Reserved. 
