@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandmajuice.net privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706212608id_/http%3A//www.grandmajuice.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandmajuice.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125309id_/http%3A//www.grandmajuice.net/privacy-policy) for the most accurate reproduction.*
 
 # This Privacy Policy Is In Effect For The Grandma Juice Website
 
