@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the loopme.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821173950id_/https%3A//loopme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopme.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185255id_/https%3A//loopme.com/privacy) for the most accurate reproduction.*
 
 # LoopMe | Privacy Policy
 
 ### **PRIVACY POLICY**
 
-We take the protection of personal information very seriously. With this Privacy Policy we inform you about the collection, storage and use of your personal information collected on our website ([http://loopme.com](http://loopme.com/)) and other data that will be collected through your continued use of our website. If you have any questions about your personal information collected from our website you may contact us at **privacy@loopme.com**
+We take the protection of personal information very seriously. With this Privacy Policy we inform you about the collection, storage and use of your personal information collected on our website ([//loopme.com](https://loopme.com/)) and other data that will be collected through your continued use of our website. If you have any questions about your personal information collected from our website you may contact us at **privacy@loopme.com**
 
 **COLLECTION OF PERSONAL INFORMATION**
 
