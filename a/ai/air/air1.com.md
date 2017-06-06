@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202053643id_/http%3A//www.air1.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122747id_/http%3A//www.air1.com/privacy.aspx) for the most accurate reproduction.*
 
-# Air1 Privacy Policy
+# Air1 Privacy Policy - Air1 - Positive Hits
 
 AIR1 is committed to safeguarding individual and corporate privacy on our website; we operate under a strict set of privacy principles:
 
