@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122063602id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035820id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Oakwood
 
@@ -8,15 +8,15 @@
 
 ## Online Privacy Statement 
 
-(Last Updated August 23, 2016)
+(Last Updated June 1, 2017)
 
-[ Download PDF](http://www.oakwoodworldwide.com/oakwood/OakwoodWorldwideOnlinePrivacyStatementFinal_08232016.pdf)
+[ Download PDF](http://www.oakwoodworldwide.com/oakwood/OakwoodWorldwideOnlinePrivacyStatementFinal_06012017.pdf)
 
 We are dedicated to protecting your privacy and safeguarding your "personally identifiable" information. We are committed to using our customers' information only in a responsible manner. We are committed to respecting your privacy and adhering to the principles of applicable data protection and privacy laws.
 
 This Online Privacy Statement is an explanation of the information we collect, how we use it, and how the use of this information can benefit your experience on our websites and during your relationship with us. The information outlined below will assist you in making informed decisions while doing business with us.
 
-In order to provide multiple access points to the services and products we offer, R&B Realty, a California Ltd. Partnership DBA Oakwood Worldwide operates directly, or through its affiliates, subsidiaries, or service providers, many websites, including [www.oakwood.com,](http://www.oakwood.com/) [www.execustay.com](http://www.execustay.com/), [www.childactors.net](http://www.childactors.net/), [www.oakwoodnewsletter.com](http://www.oakwoodnewsletter.com/) and other websites listed here (individually, "Website" and collectively, "Websites".)
+In order to provide multiple access points to the services and products we offer, Oakwood Worldwide (US) LP, a California limited partnership (formerly known as R & B Realty Group, a California Limited Partnership), dba Oakwood Worldwide operates directly, or through its affiliates, subsidiaries, or service providers, many websites, including [www.oakwood.com,](http://www.oakwood.com/) [www.execustay.com](http://www.execustay.com/), [www.childactors.net](http://www.childactors.net/), [www.oakwoodnewsletter.com](http://www.oakwoodnewsletter.com/) and other websites listed here (individually, "Website" and collectively, "Websites".)
 
 Oakwood Worldwide is fully committed to providing you with information about the collection and use of personally identifiable information furnished by, or collected from, visitors while using its Websites and services. Oakwood Worldwide collects information about its customers and visitors to its Websites so that it can provide an experience that is responsive to customers' and visitors' needs.
 
@@ -156,6 +156,8 @@ Our agreement with Providers requires the information to be kept confidential an
 If you submit your personal information at our Careers – Current Openings page at [www.oakwood.com/cms/careers-search.html](http://www.oakwood.com/cms/careers-search.html) or any pages produced by your search, you are visiting a co-branded page powered by Taleo Business Edition. Your resume and any other personal information submitted there are provided directly to the Oakwood Worldwide HR department and may be shared with Oakwood Worldwide hiring manager(s). Any such information that is shared with Oakwood Worldwide will be maintained in accordance with Oakwood Worldwide 's own privacy policy. 
 
 Points of interest and mapping information on Oakwood Worldwide Property's Profile pages are provided by Microsoft Bing Maps. Your use of this information is not stored or collected by Oakwood. Click the following links for Microsoft Bing Maps Terms of Use and Microsoft Bing Maps Privacy Policy .
+
+Oakwood remains responsible and liable under the Privacy Shield Principles if third parties engaged by Oakwood process the personal information in a manner inconsistent with the Principles, unless Oakwood proves that it is not responsible for the event giving rise to the damage.
 
 **Our Commitment to Children's Privacy**  
 Oakwood Worldwide is committed to protecting the privacy of minors. If you are under the age of thirteen (13), we ask that you do not use the Websites. Oakwood Worldwide does not seek to obtain, nor does it wish to receive personally identifiable information directly from minors; however, we cannot always determine the age of persons who access and use our Websites. If we do learn that personally identifiable information has been collected on any Website from a minor and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your minor child has obtained an account on Website or has otherwise provided personally identifiable information, you may alert us at [oakwoodmarketing@oakwood.com](mailto:oakwoodmarketing@oakwood.com), and request that we delete that child's personally identifiable information from our Websites.
