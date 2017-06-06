@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendingnewsportal.net.ph privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021410id_/http%3A//www.trendingnewsportal.net.ph/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendingnewsportal.net.ph privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162154id_/http%3A//www.trendingnewsportal.net.ph/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
