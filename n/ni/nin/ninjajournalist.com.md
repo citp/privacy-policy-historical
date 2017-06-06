@@ -1,62 +1,116 @@
-> *The following text is extracted and transformed from the ninjajournalist.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221042127id_/http%3A//ninjajournalist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjajournalist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101903id_/http%3A//www.ninjajournalist.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | NinjaJournalist
 
-The privacy and security of visitors to Ninja Journalist (“we, “our” or “us”) is of vital importance to us. Therefore, we have put together an in-depth Privacy Policy to better explain how the information provided to Ninja Journalist (the “site”) is collected, used and disclosed, along with your choices about the collection and use of your information. We ensure that any personal information collected from site visitors (identifiable or non-personally identifiable) is used solely for the purposes as laid out in this Privacy Policy. No information collected will be rented or sold to any  third parties.
+Last updated: April, 2017  
+Ninjajournalist (“us”, “we”, or “our”) operates the http://www.ninjajournalist.com website (the “Service”).  
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
+We will not use or share your information with anyone except as described in this Privacy Policy.  
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.ninjajournalist.com  
+**Information Collection And Use**
 
-#### **Information Collected**
-
-We only collect the very basic of information, which you may be asked to provide as visitors to the website. These are:
-
-  * E-mail – We may ask for your e-mail address in order to send out regular newsletters from Ninja Journalist. You do not have to provide this information if you do not wish to receive the newsletters. You may also unsubscribe at any time.
-  * Non-personally identifiable information – We may collect non-personally identifiable information, such as browser type, screen resolution and so forth. This information can not identify you as an individual. We use this information simply for analytical or aggregation purposes.
+  * While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. 
 
 
 
-#### **How Collected Information Is Used**
+**Log Data**
 
-It is important to us that the personal information collected from you is never sold or rented to third parties, outside of Ninja Journalist. The only time we will ever use your personal information (e-mail address) is for the purposes of our regular newsletter. As mentioned, you can unsubscribe from this service at any time.
+  * We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.  
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-Non-personally identifiable information is used solely for analytic, aggregation and statistical data purposes. We may use this information with our business partners so that online advertisements, that are relevant to yourself, can be delivered on our website. We ensure that all of the non-personally identifiable information is completely stripped back to the minimum, so that you remain anonymous.
 
-#### **Security of Information**
 
-The security of our visitors is a high priority to Ninja Journalist, which means that we always strive to keep any information collected private and secure. We use effective and reliable managerial, physical and electronic procedures, to prevent unauthorized access to your data. This will ensure the protection of any information we collect and store online. We would like to note, that even with the very best safeguards in place it is virtually impossible for us to guarantee your information is 100% safe, all of the time. We cannot guarantee that information is not accessed, disclosed or destroyed due to a security breach. If this were to happen, which is unlikely, then we will take all necessary legal steps in order to investigate the case and also notify any individuals whose information may have been compromised (as appropriate).
+**Cookies**
 
-If we detect users that are trying to harm our site or hurt our advertisers we will take every measure to investigate and harmful IP’s will be disclosed to relevant 3rd parties in such cases.
+  * Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.  
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-#### **Cookies**
 
-Cookies are used by websites in order to uniquely identify your particular browser, whilst allowing fast and enhanced navigation on that website. These small files will allow various web applications to understand your needs and preferences when browsing the internet; along with your likes and dislikes. We, at Ninja Journalist, may use cookies to get a better idea of the pages you visit, how often you visit and what you are using the site for. We can then modify our website so that you can enjoy your experience more thoroughly. We may sometimes show relevant advertisements whilst visiting our own or other websites, using ad networks such as Google Ads, using cookies. We only ever use this information for statistical and analytical purposes, to find out more about your preferences as an individual. Cookies do not give any access to any personal information about you. There is an option to accept or decline cookies, which can usually be found in your browser settings. If you decide that you wish for no cookie information to be collected then this could impact your experience, navigation and use of Ninja Journalist.
 
-#### **Privacy Choices**
+**DoubleClick Cookie**
 
-We believe that it should be your choice as to how certain information is used on the website. Below you will find out how to choose what information you provide us.
+  * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.  
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/ 
 
-E-mail and/or any other personal information – It is not mandatory to submit any personal information to Ninja Journalist, including e-mail address. It is your prerogative to decline to submit any personal information, at any time. We will only ever ask for an e-mail address in order to send out a newsletter, which is a voluntary submission of personal information. You can also request any personal information removed, even though it may have already been submitted to the site. We are unable to provide a newsletter service to those who have not submitted their e-mail address.
 
-Non-personally Identifiable Information – If you do not wish for cookies to be collected, whilst visiting our website, then you will be able to turn these off on your browser or mobile device. Please refer to the instructions for your particular web browser or mobile device, to learn how cookies and any other tracking tools can be disabled. The use of the website may be impaired if cookies are turned off, so please be aware of this before disabling them.
+  * **Behavioral Remarketing**  
+Ninjajournalist uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-#### **Third Party Vendors**
 
-We believe it is important to provide a tailored experience to our visitors, which is why we allow third party vendors (such as Google) to use cookies for a personalized experience. These third party vendors use the cookies in order to display relevant advertisements on our website, based on your previous history and preferences. Google uses a DoubleClick cookie, which allows it to present advertisements based on your visits to our site and/or other websites that you have visited on the internet. The same applies to partners of Google. You are able to opt out of DoubleClick cookies, and advertising based on your interests, at any time.
 
-[Ad Settings](http://www.google.com/ads/preferences/)
+**Facebook**
 
-[Aboutads.info](http://www.aboutads.info/)
+  * Facebook remarketing service is provided by Facebook Inc.  
+You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950  
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: https://www.facebook.com/about/ads/#568137493302217  
+Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.  
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: https://www.facebook.com/privacy/explanation 
 
-We allow third party vendors to use cookies, web beacons and other similar tracking tools, in order to collect information from NinjaJournalist.com, as they do for other websites on the internet. These third party vendors are only allowed to use this information for measurement services and targeted advertisements.
 
-#### **Other Websites and Services**
 
-In order to enhance your time on the internet, NinjaJournalist.com may sometimes contain links to third party websites. Once you leave our website, we have no control over what you may see or the privacy of your information, on that other website. The third party website you visit will accept full responsibility for their content and Privacy Policy. We are unable to protect your information when you are on these websites, as they will be ruled by their own Privacy Policy. Please be sure to read their own terms and conditions or Privacy Policy.
+**AppNexus**
 
-#### **Changes to Our Privacy Policy**
+  * AppNexus remarketing service is provided by AppNexus Inc.  
+You can opt-out of AppNexus remarketing by visiting the Privacy & the AppNexus Platform web page: http://www.appnexus.com/platform-policy#choices  
+For more information on the privacy practices of AppNexus, please visit the AppNexus Platform Privacy Policy web page: http://www.appnexus.com/platform-policy 
 
-We reserve the right to make any changes to our Privacy Policy, as is necessary to improve the website and experience to our visitors. We can make these changes at any given time, at our discretion. We will ensure that the Privacy Policy page is updated as any new changes are made. Please ensure you check back regularly for any changes.
 
-Privacy Policy last updated: November 18th 2014
 
-### Do You Have Any Questions?
+**Service Providers**
 
-If you have any question or specific concerns regarding our privacy policy, [please send us a detailed e-mail message](mailto:shockpedia@gmail.com "Shockpedia").
+  * We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.  
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+
+
+
+**Compliance With Laws**
+
+  * We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service. 
+
+
+
+**Business Transaction**
+
+  * If Ninjajournalist is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy. 
+
+
+
+**Security**
+
+  * The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. 
+
+
+
+**International Transfer**
+
+  * Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.  
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+
+
+
+**Links To Other Sites**
+
+  * Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.  
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services. 
+
+
+
+**Children’s Privacy**
+
+  * Our Service does not address anyone under the age of 13 (“Children”).  
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers. 
+
+
+
+**Changes To This Privacy Policy**
+
+  * We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.  
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. 
+
+
+
+**Contact Us**
+
+  * If you have any questions about this Privacy Policy, please contact us: info@ninjajournalist.com 
+
+
