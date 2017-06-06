@@ -1,13 +1,31 @@
-> *The following text is extracted and transformed from the karwan.tv privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126163911id_/http%3A//karwan.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karwan.tv privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104432id_/http%3A//karwan.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.Karwan.TV
 
 By using this site, you agree to the Privacy Policy of  karwan.TV. If you do not agree to the Policy, please do not use this site. Karwan.TV reviews its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes.
 
-karwan.TV which operates the Internet site located at www.karwan.tv  recognizes the importance of protecting the privacy of personally identifiable information collected about visitors to our sites. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our site. Personally identifiable information about visitors to our site is collected only when knowingly and voluntarily submitted. We may collect certain non-personal information to optimize our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. In those instances when we do collect personally identifiable information, the following policies apply: karwan.TV will notify you when we are collecting personally identifiable information about you and how we intend to use it.  
-\----  
-\----
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@karwan.tv](mailto:info@karwan.tv).
 
-Cookies are data that a Web site transfers to an individual's hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including those operated by karwan.TV, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. Our Cookies are no programs that can cause damage to a user's systems or files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as adding your personal favourites.Google, as a third-party vendor, uses cookies to serve ads on karwan.TV. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). You can read our Cookie statement [here](http://karwan.tv/cookies.html)
+At karwan.tv, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by karwan.tv and how it is used.
 
-karwan.TV has established many links directly to sites operated by third parties. These sites are not operated or maintained by karwan.TV. These sites may collect personal information from you. You should check the applicable privacy policy's of the third party.
+Log Files  
+Like many other Web sites, karwan.tv makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+Cookies and Web Beacons  
+karwan.tv does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on karwan.tv.  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to karwan.tv and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on karwan.tv send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+karwan.tv has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. karwan.tv's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
