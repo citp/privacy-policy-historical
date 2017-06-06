@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forzieri.com privacy policy that was archived on 2016-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161021005556id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forzieri.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606170046id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 	<meta charset="iso-8859-1">
@@ -51,12 +51,12 @@
 <link rel="alternate" type="application/rss+xml" title="FORZIERI: ALL THAT SPARKLES" href="http://www.forzieri.com/rss_InfoJewels.asp?l=usa&amp;c=usa">
 <link rel="alternate" type="application/rss+xml" title="FORZIERI: TIES &amp; TIES" href="http://www.forzieri.com/rss_InfoTiesDressShirts.asp?l=usa&amp;c=usa">
 
-<link href="/shared/build_5988/css/site.css" rel="stylesheet">
-<link href="/shared/build_5988/css/common.css" rel="stylesheet">
+<link href="/shared/build_6855/css/site.css" rel="stylesheet">
+<link href="/shared/build_6855/css/common.css" rel="stylesheet">
 
 <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
 var FZ = window.FZ = {
-	assetDir: '/shared/build_5988',
+	assetDir: '/shared/build_6855',
 	xmlLocale: 'en-US',
 	language: 'usa',
 	currency: 'usa',
@@ -72,8 +72,17 @@ var FZ = window.FZ = {
 };
 </script>
 
-<script src="/shared/build_5988/js/script.min.js"></script>
-<script src="/shared/build_5988/js/app.min.js"></script>
+<!--[if IE 9]>
+<script src="/js/libs/xdomain.min.js"></script>
+<script>
+	xdomain.slaves({
+		'http://public.forzieri.com': '/v1/cors_proxy.php'
+	});
+</script>
+<![endif]-->
+
+<script src="/shared/build_6855/js/script.min.js"></script>
+<script src="/shared/build_6855/js/app.min.js"></script>
 
 <script>
 //<![CDATA[
@@ -81,14 +90,14 @@ var FZ = window.FZ = {
 
 	$script('//ajax.googleapis.com/ajax/libs/mootools/1.6.0/mootools.min.js', 'mootools.core');
 	
-	
+
 	$script('/js/libs/script-mootools-more-1.6.0-compressed.js');
-	
 
 
-	$script('/shared/build_5988/js/modules.min.js');
-	$script('/shared/build_5988/js/global-navigation.min.js');
-	
+
+	$script('/shared/build_6855/js/modules.min.js');
+	$script('/shared/build_6855/js/global-navigation.min.js');
+
 //]]>
 </script>
 
@@ -101,44 +110,31 @@ var FZ = window.FZ = {
 //<![CDATA[
 domready(function() {
 	$script.ready('mootools', function() {
-		if ( Tools.isMobilePhone() ) {
-			if ( !Cookie.read('FzInterstitial') && !(FZ.disableMobileInterstitial || FZ.disabledPrivClubOnThisPage) ) {
-				setTimeout(function() {
-					$script('/shared/build_5988/js/mobile-interstitial.min.js', function(){
-						window.MobileInterstitial.showMobileInterstitialAsPopup();
-					});
-				}, 3000);
-			}
-		}
-		else
-		{
-			var privClubCookie = Cookie.read('FzPrivClub');
-			if ( (!privClubCookie || (privClubCookie != 'cancelled' && privClubCookie != 'subscribed')) && !FZ.disabledPrivClubOnThisPage ) {
-				new Request.HTML({
-					url: '/shared/build_5988/ajax/popup.ajax.asp?l=usa&c=usa',
-					method: 'post',
-					update: new Element('div').inject($(document.body))
-				}).send();
-			}
+		var privClubCookie = Cookie.read('FzPrivClub');
+		if ( (!privClubCookie || (privClubCookie != 'cancelled' && privClubCookie != 'subscribed')) && !FZ.disabledPrivClubOnThisPage ) {
+			new Request.HTML({
+				url: '/shared/build_6855/ajax/popup.ajax.asp?l=usa&c=usa',
+				method: 'post',
+				update: new Element('div').inject($(document.body))
+			}).send();
 		}
 	});
 });
 //]]>
 </script>
+
+
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
-
-
 
 <script>
 //<![CDATA[
-
 	var _gaq = _gaq || [];
 
 	_gaq.push(['_setAccount', 'UA-18537227-1']);
 	_gaq.push(['_setDomainName', '.forzieri.com']);
+
 	
-	
-	
+
 	_gaq.push(['_trackPageview']);
 
 	(function() {
@@ -152,37 +148,37 @@ domready(function() {
 		setTimeout('document.location = "' + link.href + '"', 100);
 	}
 
-	
-	domready( function() {
-		$script.ready('mootools.core', function() {
-			function trackClick(el) {
-				if ( typeof(_gaq) === "undefined" ) return;
-				
-				var args = $(el).get('data-gaq');
-				if ( args ) {
-					args = JSON.parse(args);
-					_gaq.push(args);
-				}
+	$script.ready('mootools.core', function() {
+		function trackClick(el) {
+			if ( typeof(_gaq) === "undefined" ) return;
+
+			var args = $(el).get('data-gaq');
+			if ( args ) {
+				args = JSON.parse(args);
+				_gaq.push(args);
 			}
-			
+		}
+
+		domready(function() {
 			$(document.body).addEvent('click:relay(.gaq)', function(e) {
 				trackClick(this);
 			});
-		})
+		});
 	});
-	
+
 //]]>
 </script>
-<link href="/shared/build_5988/css/help.css" rel="stylesheet">
+
+<link href="/shared/build_6855/css/help.css" rel="stylesheet">
 
 <script>
 //<![CDATA[
 
-$script('/shared/build_5988/js/help.min.js');
+$script('/shared/build_6855/js/help.min.js');
 
 //]]>
 </script><!--[if (lt IE 9) & (!IEMobile)]>
-	<link href="/shared/build_5988/css/ie.css" rel="stylesheet" type="text/css" />
+	<link href="/shared/build_6855/css/ie.css" rel="stylesheet" type="text/css" />
 	<script src="/js/libs/html5shiv.js"></script>
 	<script>
 		$script.ready('mootools', function() {
@@ -191,7 +187,7 @@ $script('/shared/build_5988/js/help.min.js');
 	</script>
 <![endif]-->
 
-<script async="" defer="" src="//sdata.captifymedia.com/194286.js?r=2407241307974170.5&amp;m=1112&amp;a=194286"></script><script type="text/javascript" async="" src="https://d16fk4ms6rqz1v.cloudfront.net/capture/FORZIERI.js"></script></head>
+<script async="" defer="" src="//sdata.captifymedia.com/194286.js?r=9997321294253920&amp;m=1112&amp;a=194286"></script><script type="text/javascript" async="" src="https://d16fk4ms6rqz1v.cloudfront.net/capture/FORZIERI.js"></script></head>
 <body class="usa help ">
 	
 	<div id="doc">
@@ -201,7 +197,7 @@ $script('/shared/build_5988/js/help.min.js');
 <script>
 //<![CDATA[
 	$script.ready('mootools', function() {
-		$script('/shared/build_5988/js/facebook.min.js', 'facebook', function() {
+		$script('/shared/build_6855/js/facebook.min.js', 'facebook', function() {
 			Facebook = new FacebookLoader('101040659951193');
 		});
 		
@@ -232,8 +228,15 @@ $script('/shared/build_5988/js/help.min.js');
 <div id="mobile-drawer" class="closed"></div>
 
 
+		<div id="free_info" class="header-promo" data-href="http://public.forzieri.com/v1/shipping_countries/search?l=usa&amp;c=usa&amp;sd=" data-method="GET"></div>
+		<script>
+		//<![CDATA[
+			$script.done('header-promo-dom');
+		//]]>
+		</script>
 
-<div id="sticky-header" data-href="/shared/build_5988/ajax/sticky_header.ajax.asp?l=usa&amp;c=usa" data-ab=""></div>
+
+<div id="sticky-header" data-href="/shared/build_6855/ajax/sticky_header.ajax.asp?l=usa&amp;c=usa" data-ab=""></div>
 <script>
 //<![CDATA[
 	$script.done('sticky-header-dom');
@@ -247,28 +250,13 @@ $script('/shared/build_5988/js/help.min.js');
 		<a href="#" id="open-drawer"></a>
 		<a class="mobile-shopping-bag" href="http://www.forzieri.com/usa/basket.asp?l=usa&amp;c=usa"></a>
 	</div>
-	
+
 	<div class="branding" itemscope="" itemtype="http://schema.org/Organization">
 		<a itemprop="url" href="http://www.forzieri.com/">
 			<img itemprop="logo" src="/img/site/forzieri_logo_mobile.png" alt="Forzieri Firenze - Fashion &amp; Luxury Wordwide">
 		</a>
 	</div>
-	
-	
-		<div id="free_info" class="promo"></div>
-		<script>
-		//<![CDATA[
-			$script.ready('mootools.core', function() {
-				new Request.HTML({
-					url: '/ajaxs/promo.ajax.asp?l=usa&c=usa',
-					method: 'GET',
-					update: 'free_info'
-				}).send();
-			});
-		//]]>
-		</script>
 
-	
 	<nav role="navigation">
 
 		<div id="global-nav" class="primary">
@@ -291,8 +279,8 @@ $script('/shared/build_5988/js/help.min.js');
 <li id="nav-accessories" class="navitem">
 <a rel="sitelink" class="navitem" href="http://www.forzieri.com/accessories">ACCESSORIES</a>
 </li>
-<li id="nav-clothing" class="navitem">
-<a rel="sitelink" class="navitem" href="http://www.forzieri.com/clothing">CLOTHING</a>
+<li id="nav-special-projects" class="navitem">
+<a rel="sitelink" class="navitem" href="http://www.forzieri.com/special-projects">SPECIAL PROJECTS</a>
 </li>
 <li id="nav-travel" class="navitem">
 <a rel="sitelink" class="navitem" href="http://www.forzieri.com/travel-business">TRAVEL &amp; BUSINESS</a>
@@ -359,7 +347,7 @@ $script('/shared/build_5988/js/help.min.js');
 
 
 	<a class="overlay_trigger countrysite_trigger" href="http://www.forzieri.com/countrysite.asp?l=usa&amp;c=usa" data-overlay-trigger="content:fz_countrysite_menu alignH:left alignV:top">
-		Country&nbsp;<span>United States</span>
+		Country&nbsp;<span id="countrysiteCountryName">United States</span>
 	</a>
 
 	<div id="fz_countrysite_menu" class="overlay overlay_theme_white countrysite_overlay fz_countrysite_scroller fz_scroller" data-fzscroller="height:400 closable:false closed:false theme:white">
@@ -381,15 +369,18 @@ $script('/shared/build_5988/js/help.min.js');
 <li><a href="http://www.jp.forzieri.com/jpn/help/security-and-privacy/privacy-policy.asp?l=jpn&amp;c=jpn">Japan</a></li>
 <li><a href="http://www.kr.forzieri.com/kor/help/security-and-privacy/privacy-policy.asp?l=kor&amp;c=kor">Korea</a></li>
 <li><a href="http://www.au.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp?l=usa&amp;c=aus">Australia</a></li>
+<li><a href="http://www.at.forzieri.com/deu/help/security-and-privacy/privacy-policy.asp?l=deu&amp;c=ita">Austria</a></li>
+<li><a href="http://www.be.forzieri.com/fra/help/security-and-privacy/privacy-policy.asp?l=fra&amp;c=ita">Belgium</a></li>
+<li><a href="http://www.ch.forzieri.com/deu/help/security-and-privacy/privacy-policy.asp?l=deu&amp;c=che">Switzerland</a></li>
 <li><a href="http://www.eu.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp?l=usa&amp;c=ita">International</a></li>
 <li><a href="http://www.forzieri.com/countrysite.asp?l=usa&amp;c=usa">view all</a></li>
 
 		</ul>
 	</div>
 	<script>
-	$script.ready('mootools', function() {
-		new FZ.Scroller('fz_countrysite_menu');
-	});
+	//<![CDATA[
+		$script.done('countrysite-dom');
+	//]]>
 	</script>
 
 
@@ -399,6 +390,7 @@ $script('/shared/build_5988/js/help.min.js');
 
 	</nav>
 </header>
+
 		
 		<div class="container">
 
@@ -539,7 +531,7 @@ $script('/shared/build_5988/js/help.min.js');
 	<p>If users have any questions or suggestions regarding our privacy policy, please contact us at:<br>
 	<br>
 	Andrea Forzieri<br>
-	+39 055 7251075<br>
+	+39 055 7251077<br>
 	<a href="http://www.forzieri.com/usa/help/help_webform.asp?l=usa&amp;c=usa&amp;areaInfo=G">contact us</a><br>
 	FORZIERI/Firenze Seta srl<br>
 	Via della Vigna Nuova 85r<br>
@@ -565,17 +557,17 @@ $script('/shared/build_5988/js/help.min.js');
 		
 		<footer id="ft" class="ft container">
 
-	
+
 		<div class="gift_cards"><a href="http://www.forzieri.com/usa/gift_cards.asp?l=usa&amp;c=usa"><img src="/img/site/perfect_choice_usa.gif" alt="The Gift Card"></a></div>
 
 		
 		<div class="ft_social_box fb_like_box">
 			<a href="http://www.facebook.com/FORZIERI.Italia" class="footer_logo">Follow us on Facebook</a>
 			<a href="http://www.facebook.com/FORZIERI.Italia">Forzieri</a>
-			<div onclick="_gaq.push(['_trackEvent', 'Likes', 'Like', 'footer']);" class="fb-like" data-href="http://www.facebook.com/FORZIERI.Italia" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false"></div>
+			<div class="fb-like gaq" data-gaq="[&quot;_trackEvent&quot;, &quot;Likes&quot;, &quot;Like&quot;, &quot;footer&quot;]" data-href="http://www.facebook.com/FORZIERI.Italia" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false"></div>
 		</div>
 		
-		
+
 		<div class="sections container">
 			<ul>
 			
@@ -591,9 +583,9 @@ $script('/shared/build_5988/js/help.min.js');
 		</div>
 
 
-	
+
 	<div class="ft-links container">
-	
+
 		<div id="ft-links-list-services">
 			<h4 class="ft-links-title"><a href="#">Services <span></span></a></h4>
 			<ul class="ft-links-list ft-links-list-services">
@@ -603,7 +595,7 @@ $script('/shared/build_5988/js/help.min.js');
 				<li><a href="http://www.forzieri.com/usa/help/returns/return-policy.asp?l=usa&amp;c=usa">Returns</a></li>
 			</ul>
 		</div>
-		
+
 		<div id="ft-links-list-about">
 			<h4 class="ft-links-title"><a href="#">About <span></span></a></h4>
 			<ul class="ft-links-list ft-links-list-about">
@@ -614,7 +606,7 @@ $script('/shared/build_5988/js/help.min.js');
 				
 			</ul>
 		</div>
-		
+
 		<div id="ft-links-list-utility">
 			<h4 class="ft-links-title"><a href="#">Site map <span></span></a></h4>
 			<ul class="ft-links-list ft-links-list-utility">
@@ -627,14 +619,14 @@ $script('/shared/build_5988/js/help.min.js');
 				<li><a href="http://www.forzieri.com/usa/rss.asp?l=usa&amp;c=usa">RSS</a></li>
 			</ul>
 		</div>
-		
+
 		<div id="ft-links-list-responsive">
 			<ul class="ft-links-list ft-links-list-responsive">
 				<li class="responsive-toggle responsive-toggle-mobile"><a href="#">Mobile Version</a></li>
 				<li class="responsive-toggle responsive-toggle-desktop"><a href="#">Desktop Version</a></li>
 			</ul>
 		</div>
-		
+
 		<div id="ft-links-list-legal">
 			<ul class="ft-links-list ft-links-list-legal">
 			
@@ -644,9 +636,9 @@ $script('/shared/build_5988/js/help.min.js');
 				<li><a href="http://www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp?l=usa&amp;c=usa">Privacy &amp; Security</a></li>
 			</ul>
 		</div>
-		
+
 	</div>
-	
+
 </footer>
 
 <script>
@@ -694,7 +686,7 @@ $script('/shared/build_5988/js/help.min.js');
 	<div class="balloon-box" id="callHelp">
 	
 		<h4>Help Desk</h4>
-		<p>Service available Monday through Friday:<br><br>US: 3.30 am to 2 pm US E.S.T.<br>UK: 8.30 am to 7 pm<br>Australia: 5.30 pm to 4 am Sydney Time</p>
+		<p>Service available Monday through Friday:<br><br>US: 3.30 am to 12.00 pm US E.S.T.<br>UK: 8.30 am to 5 pm<br>Australia: 7.30 pm to 4 am Sydney Time</p>
 	
 		
 		<p>
