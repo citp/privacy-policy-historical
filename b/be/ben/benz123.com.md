@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the benz123.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629153935id_/https%3A//turo.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benz123.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191917id_/https%3A//turo.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ### Privacy policy
 
-Last revised: April 19, 2016
+Last revised: December 14, 2016
 
-Turo Inc. (formerly RelayRides, Inc., dba Turo (hereinafter, “Turo”, “we”, or “us”)) cares about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy covers your access or use of our websites or applications (“Platform”), when communicating with us or other Turo users on any device (collectively “Services”), or when you otherwise provide us with Personal Information. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
+Turo Inc. (hereinafter, “Turo”, “we”, or “us”) cares about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy covers your access or use of our websites and applications (“Platform”), when communicating with us or other Turo users on any device (collectively “Services”), or when you otherwise provide us with Personal Information. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-We may change this Privacy Policy. Please take a look at the “Last revised” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+We may change this Privacy Policy. Please take a look at the “Last revised” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy. If you don’t agree to these changes, you can contact us to close your account and you will only be bound by the prior version of the Privacy Policy
 
 As used in this Privacy Policy, the term “Personal Information” means information that specifically identifies an individual such as a name, address, telephone number, email address, social media account, or other account identifier. Personal Information may also include demographic information such as date of birth, gender, geographic area, and preferences, when that information is linked to other Personal Information that identifies the individual or that allows that individual to be identified. Personal Information does not include “aggregate” information, which is data we collect about the use of the Turo Services or about a group or category of products, services, or users, if all personally identifiable information has been removed or disassociated from the individual.
 
@@ -25,11 +25,13 @@ Information you provide during a transaction, or other transaction based content
 
 Financial information (such as payment card numbers) in connection with a potential or actual transaction, which is stored by a third party payment services provider; and
 
-Bank account information provided by vehicle owners in the US to receive payments, which is stored by a third-party digital payments company.
+Bank account information provided by vehicle owners to receive payments, which is stored by a third-party digital payments company.
 
 In some instances, when you use our Services, we may ask you to provide us a photograph and/or other demographic information, such as a scanned copy of driver’s license, passport, or credit/debit card, last four digits of your Social Security number, social insurance number, social media account information, driver’s/motor vehicle record, insurance information, and other forms of identification. Where we request that you withhold certain information when providing us with personally identifiable information (such as obscuring or redacting all but the last four digits of your payment card number), please do so.
 
-We also collect information about your interaction with our Services, your marketing preferences, and your communications with us. This information may include device ID or unique identifier, device type, ID for advertising, and/or unique device token. We collect computer and connection information such as statistics on your page views, browser type, date and time of the visit, traffic to and from our Platform, referral URL, ad data, your IP address, and your browsing history on our Service. Log information is important for security, audit, quality improvement, as well as for monitoring the safety of our Services. When you download and use our mobile application, our service providers, and we may track and collect app usage data, such as the date and time the app on your device accesses our servers and what information and files have been downloaded to the Turo app based on your device ID.
+We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.
+
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy
 
 If you opt in to use our Location Sharing feature (which allows travelers and owners to share information with one another about their location), we will collect geo-location data, including location information from your mobile device, and information about the location and movement of your vehicle or the vehicle you are renting during a rental period based upon the movement of your mobile device. If you opt in to using location-based searching, we will collect geo-location data, including location information from your mobile device, for this purpose. Keep in mind that most mobile devices allow you to control or disable the use of location services by any application on your mobile device in the device’s settings menu.
 
@@ -39,11 +41,11 @@ If your car, or a car you rent through the Services, includes an in-car device o
 
 When you access our Platform, we (including companies we work with) may place small data files on your computer or other device. These data files may be cookies, clear gifs, pixel tags, e-tags, “Flash cookies”, or other local storage provided by your browser or associated applications (collectively “Cookies”). We use these technologies to recognize you as a customer; customize our Services, for content and marketing; to measure promotional effectiveness; to help ensure that your account security is not compromised; to mitigate risk and prevent fraud; and to promote trust and safety across our Services. For more detailed information on our use of these technologies, please see our policy on [Cookies, Web Beacons, and Similar Technologies](https://support.turo.com/hc/articles/213251437)
 
-We may also collect any other Personal Information you choose to provide us, or that we are permitted or required to collect by law.
+We may also collect any other Personal Information you choose to provide us, or that we are permitted or required to collect by applicable law.
 
 ###### Personal Information we collect from other sources:
 
-We may also obtain information about you from third parties such as credit bureaus and identity verification services. You may choose to log in to our Services through social media sites (e.g., Facebook or Google). When you do so, Personal Information from your social media account may be shared with Turo. The information we may receive varies by site and is controlled by that site. By associating an account managed by a third party with your Turo account and authorizing Turo to have access to this information, you agree that Turo may collect, store, and use this information in accordance with this Privacy Policy.
+We may also obtain information about you from third parties such as credit bureaus and identity verification services where permitted by law. You may choose to log in to our Services through social media sites (e.g., Facebook or Google). When you do so, Personal Information from your social media account may be shared with Turo. The information we may receive varies by site and is controlled by that site. By associating an account managed by a third party with your Turo account and authorizing Turo to have access to this information, you agree that Turo may collect, store, and use this information in accordance with this Privacy Policy. We are not responsible for how those third parties use and share your Personal Information. Please refer to those third parties’ privacy policies to understand how they use and share your Personal Information.
 
 Our primary purpose in collecting personal information is to provide our users with a secure, smooth, efficient, and customized experience. For example, we may use your Personal Information to:
 
@@ -56,17 +58,17 @@ Our primary purpose in collecting personal information is to provide our users w
   * improve the Services, including by customizing your user experience; 
   * measure the performance of the Services and improve our content and layout; 
   * manage and protect our information technology infrastructure; 
-  * foster a trusted and safer environment on our Services, such as detection and prevention of actual and potential fraud and other harmful activity, conducting investigations and risk assessments, enforcing our Terms and Policies, verifying any identification documents provided by you, and conducting checks agains databases and information sources (such as but not limited to public government databases) for fraud detection and prevention, risk assessment and harm prevention purposes. In this regard, we may do any or all of the foregoing with or without further notifying you; 
+  * foster a trusted and safer environment on our Services, such as detection and prevention of actual and potential fraud and other harmful activity, conducting investigations and risk assessments, enforcing our [Terms](https://web.archive.org/policies/terms) and [Policies](https://support.turo.com/hc/categories/200236850), verifying any identification documents provided by you, and conducting checks against databases and information sources (such as but not limited to public government databases) for fraud detection and prevention, risk assessment and harm prevention purposes. In this regard, we may do any or all of the foregoing with or without further notifying you where permitted by applicable law; 
   * provide targeted marketing, provide service update notices, and deliver promotional offers based on your communication preferences; 
   * contact you at any telephone number, by placing a voice call or through text (SMS) or email messaging, as authorized by our [Terms of Service](https://web.archive.org/policies/terms); 
   * perform creditworthiness and solvency checks, compare information for accuracy, and verify it with third parties; 
-  * endeavor to verify your identity, through the use of a background check or otherwise; 
+  *   * endeavor to verify your identity, through the use of a background check or otherwise; 
   * send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you; 
   * enable you to communicate with other Turo users, including but not limited to by sending them messages or other information during the booking process; 
   * administer referral programs, rewards, surveys, contests, or other promotional activities or sponsored events; 
   * comply with our legal obligations, resolve any disputes that we may have with any of our users, and enforce our agreements; 
   * carry out any other purpose which is disclosed to you and to which you consent; and 
-  * carry out any other purpose permitted or required by law. 
+  * carry out any other purpose permitted or required by law, which may include laws outside your country of residence. 
 
 
 
@@ -95,7 +97,7 @@ When you sign in to our Services, including through a social network login such 
 
 You can access, review, correct, update, and edit certain Personal Information that has been previously provided to us by you at any time by logging in to your account and reviewing your account settings and profile. You can also access or request a correction of your Personal Information, by contacting us at [support.turo.com](http://support.turo.com/). For your protection, we may need to verify your identity before implementing your request. If you wish to close your account, please contact us at support.turo.com. Please note that we may need to retain certain information for record keeping, trust and safety, dispute resolution, payment, or other business purposes. There may also be residual information that will remain within our databases and other records, which will not be removed.
 
-Your public listing page will always include some basic information, such as your user ID/name associated with your account, your public profile photo, and for owners, the city where your car is located, your listing description, your calendar availability, and your responsiveness in replying to inquiries and reviews/feedback from others users of our Services. Your public listing page may also include aggregated demand information (such as number of page views over a period of time). Our Services may also display an owner’s vehicle’s approximate geographic pick-up location on a map.
+Your public listing page will always include some basic information, such as your user ID/name associated with your account, your public profile photo, and for owners, the city where your car is located, your listing description, your calendar availability, transaction related information to allow our community to evaluate your reliability and responsiveness, and reviews/feedback. Your public listing page may also include aggregated demand information (such as number of page views over a period of time) and information about your cancellations. Our Services may also display an owner’s vehicle’s approximate geographic pick-up location on a map.
 
 Our Services allow your public profile and public listing pages to be included in search engines, in which case your public profile and public Listing pages may be indexed by search engines and may be published as search results.
 
@@ -111,13 +113,13 @@ If we merge with or are acquired by another company, we may share information wi
 
 We have endeavored to put into place reasonable security measures in an effort to protect Personal Information against unauthorized access, destruction, or alteration while it is under our control. However, no method of transmission over the Internet, and no method of storing information, can be 100% secure. So, we cannot guarantee the absolute security of your transmissions to us and of your Personal Information that we store.
 
-Personal Information may be accessed by persons within our organization, or our third party service providers, who require such access to carry out the purposes indicated in this Privacy Policy, or such other purposes as may be permitted or required by applicable law. Personal Information we collect is managed from our corporate offices at 667 Mission Street, 4th Floor, San Francisco, CA 94105.
+Personal Information may be accessed by persons within our organization, or our third party service providers, who require such access to carry out the purposes indicated in this Privacy Policy, or such other purposes as may be permitted or required by applicable law. Personal Information we collect is managed from our corporate offices at 667 Mission Street, 4th Floor, San Francisco, CA 94105 who acts as the data controller for the purpose of this Privacy Policy.
 
-We are not responsible for any unauthorized disclosure of personal or other information caused by any third party. Your account information is accessible online through the use of a password. To protect the confidentiality of Personal Information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Services by any person using your password or your account. Please advise us immediately if you believe your password has been misused. We are not responsible for your failure to comply with this clause, or for any delay in shutting down your account after you have reported a breach of security to us.
+We are not responsible for any unauthorized disclosure of personal or other information caused by any third party. Your account information is accessible online through the use of a password. To protect the confidentiality of Personal Information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Services by any person using your password or your account. Please advise us immediately at support.turo.com if you believe your password has been misused. We are not responsible for your failure to comply with this clause, or for any delay in shutting down your account after you have reported a breach of security to us.
 
-The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country, or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to the laws in those jurisdictions.
+The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country, or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country. As a result, this information may be subject to access requests from governments, courts, regulatory agencies, security authorities or law enforcement in those jurisdictions according to the laws in those jurisdictions. You can learn more about how we protect your data from government requests [here](https://support.turo.com/hc/articles/236406827)
 
-We ask that you not send us, and you not disclose, any sensitive Personal Information unless specifically requested (e.g., Social Security numbers, social insurance numbers, passports, information related to racial or ethnic origin, political opinions, religion, trade union membership or other beliefs, health, biometrics, or genetic characteristics) on or through the Services or otherwise to us.
+We ask that you not send us, and you not disclose, any sensitive Personal Information unless specifically requested (e.g., Social Security numbers, social insurance numbers, passports, information related to racial or ethnic origin, political opinions, religion, trade union membership or other beliefs, health, biometrics, or genetic characteristics) and subject to applicable law on or through the Services or otherwise to us.
 
 This section describes some additional important privacy information related to your use of our Services.
 
@@ -134,7 +136,7 @@ We do not tolerate abuse of our Services. You do not have permission to add othe
 
 ###### Children’s privacy
 
-Our websites are general audience websites, and our Services are not intended for anyone under the age of 21. We do not knowingly collect Personal Information from users under the age of 21. If a child has already provided us with Personal Information, his or her parent or guardian may contact us for the purpose of deleting this information.
+Our websites are general audience websites, and our Services are not intended for anyone under the age of 18. We do not knowingly collect Personal Information from users under the age of 18. If a child has already provided us with Personal Information, his or her parent or guardian may contact us for the purpose of deleting this information or closing an account.
 
 ###### Third party privacy practices
 
@@ -142,12 +144,6 @@ This Privacy Policy addresses only the use and disclosure of Personal Informatio
 
 We cannot guarantee the privacy or security of your information once you provide it to a third party and we encourage you to evaluate the privacy and security policies of your trading partner and any third parties you deal with or whose sites you visit before entering into a transaction and choosing to share your information.
 
-Turo welcomes your questions and comments about privacy, and what we do. Please feel free to contact us at [support.turo.com](http://support.turo.com/). If you need to reach us by mail in regards to privacy questions, please write to our General Counsel:
-
-Turo  
-667 Mission Street  
-4th Floor  
-San Francisco, CA 94105  
-Attn: Legal Department-Privacy 
+Turo welcomes your questions and comments about privacy, and what we do. Please feel free to contact us at [support.turo.com](https://support.turo.com/hc). If you need to reach us by mail in regards to privacy questions, please write to [us](https://support.turo.com/hc/articles/236179988)
 
 Thanks for using Turo!
