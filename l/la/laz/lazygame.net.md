@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazygame.net privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716123050id_/http%3A//www.lazygame.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazygame.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144706id_/http%3A//www.lazygame.net/privacy) for the most accurate reproduction.*
 
 # lazygame.net - Privacy Policy
 
