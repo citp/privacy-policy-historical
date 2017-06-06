@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the augustana.edu privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208103011id_/http%3A//www.augustana.edu/x61998.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augustana.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094005id_/http%3A//www.augustana.edu/privacy) for the most accurate reproduction.*
 
-# Augustana College Privacy and Social Media Policy | Augustana College
+# Privacy and Social Media Policy | Augustana College
 
 It is the policy of Augustana College to respect your privacy regarding any information we may collect through your use of our website, Augustana.edu.
 
@@ -18,7 +18,7 @@ If you have shared personal information with Augustana, the college may use that
 
 The types of personal information we collect may include name, email address, phone number, street address, and correspondence with the college. Correspondence means contact by phone, mail, email or online. Augustana may collect personal information about you as well as from third parties, including trusted vendors and suppliers and related companies.
 
-Augustana may use email tracking to improve the emails we send you. If you do not wish to participate in email tracking, you should unsubscribe from our email list. You can opt out of email from Augustana College at any time by contacting [webmaster@augustana.edu](mailto:webmaster@augustana.edu "webmaster@augustana.edu").
+Augustana may use email tracking to improve the emails we send you. If you do not wish to participate in email tracking, you should unsubscribe from our email list. You can opt out of email from Augustana College at any time by contacting [webmaster@augustana.edu](mailto:webmaster@augustana.edu).
 
 If you do not want personal information used by us for the purposes and activities outlined above, you may opt out by setting your web browser to reject cookies when you are using our website.
 
@@ -34,7 +34,7 @@ Augustana College discloses potentially personally-identifying and personally-id
 
 We will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to employees, contractors and affiliated organizations of ours, as described above, we disclose potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Augustana College, third parties or the public at large.
 
-If you have supplied your email address to Augustana College, we may occasionally send you an email to tell you about news, solicit your feedback, or for other reasons. You can opt out of email from Augustana College at any time by contacting [webmaster@augustana.edu](mailto:webmaster@augustana.edu "webmaster").
+If you have supplied your email address to Augustana College, we may occasionally send you an email to tell you about news, solicit your feedback, or for other reasons. You can opt out of email from Augustana College at any time by contacting [webmaster@augustana.edu](mailto:webmaster@augustana.edu).
 
 Augustana College takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
@@ -50,11 +50,11 @@ We may transmit non-personally identifiable website usage information to third p
 
 Other sites affiliated the Augustana.edu domain may have different privacy practices. If applicable, consult the privacy statement on each page.
 
-If you have created an account with Augustana's online gift planning website, Augustana.edu/legacy, or may create an account, please see this specific [Privacy Policy](http://augustana.giftlegacy.com/?pageID=98 "legacy").
+If you have created an account with Augustana's online gift planning website, Augustana.edu/legacy, or may create an account, please see this specific [Privacy Policy](http://augustana.giftlegacy.com/?pageID=98).
 
 ### Inappropriate social media content
 
-The Augustana College Office of Communication and Marketing will determine whether comments posted on a college social media site are inappropriate, and whether action is necessary. Complaints regarding inappropriate content should be forwarded to the Office of Communication and Marketing at [webmaster@augustana.edu](mailto:webmaster@augustana.edu "webmaster").
+The Augustana College Office of Communication and Marketing will determine whether comments posted on a college social media site are inappropriate, and whether action is necessary. Complaints regarding inappropriate content should be forwarded to the Office of Communication and Marketing at [webmaster@augustana.edu](mailto:webmaster@augustana.edu).
 
 Messages that do not harm individuals or groups and are in alignment with the college's rules and values will not be taken down.
 
