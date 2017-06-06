@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the hdtvtest.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513132254id_/http%3A//www.hdtvtest.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdtvtest.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164548id_/http%3A//www.hdtvtest.co.uk/privacy.php) for the most accurate reproduction.*
 
 # HDTVTest: Privacy Policy
 
-This is a privacy policy for _hdtvtest.co.uk_ , a wholly owned website of **High Def Consulting Limited (Company No.  
-06215384**). Our homepage is located at [http://www.hdtvtest.co.uk](http://www.hdtvtest.co.uk/).
+This is a privacy policy for _hdtvtest.co.uk_ , a wholly owned website of **HDTVTest Limited (Company No. 07251203** ). Our homepage is located at [http://www.hdtvtest.co.uk](http://www.hdtvtest.co.uk/).
 
-Our postal address is High Def Consulting Ltd, City Point 2, 156 Chapel Street, Salford, M3 6ES; we can be reached via e-mail at admin AT hdtvtest.co.uk.
+Our postal address is HDTVTest Ltd, 12 St Pauls Road, Manchester M20 4PG; we can be reached via e-mail at info AT hdtvtest.co.uk.
 
 ## Privacy Policy Table Of Content
 
