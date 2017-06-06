@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendaryspeed.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224103024id_/http%3A//legendaryspeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendaryspeed.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130316id_/https%3A//www.legendaryspeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LegendarySpeed
 
@@ -36,15 +36,15 @@ Webmaster Legendary Speed, Inc. 2600 L Street Bakersfield, CA 93301 contact us
 LEGENDARYFIND.COM WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE.  
 See: [Google Adsense](http://www.google.com/privacypolicy.html)
 
-See: [MochiMedia](https://www.mochimedia.com/privacy.html)
+See: [MochiMedia](http://www.mochimedia.com/privacy.html)
 
-See: [CPMStar](https://www.cpmstar.com/index.aspx?nav=privacy) and [Third Party](https://www.cpmstar.com/index.aspx?nav=thirdpartyprivacy)
+See: [CPMStar](http://www.cpmstar.com/index.aspx?nav=privacy) and [Third Party](http://www.cpmstar.com/index.aspx?nav=thirdpartyprivacy)
 
 See: [AdEngage](http://www.adengage.com/privacy.cfm)
 
 See: [ValueClick](http://media.valueclick.com/privacy_consumer.shtml)
 
-See: [YieldManager](https://content-ssl.yieldmanager.com/ym_privacy.html)
+See: [YieldManager](http://content.yieldmanager.com/ym_privacy.html)
 
 See: [Jambo Media](http://jambovideonetwork.com/privacy.html)
 
@@ -56,4 +56,4 @@ See: [24/7 Real Media](http://www.247realmedia.com/EN-US/privacy-policy.html)
 
 See: [Hooked Media Group](http://www.hookedmediagroup.com/Corp/Privacy.aspx)
 
-See: [Unified Cookie Opt-Out System](https://www.networkadvertising.org/managing/opt_out.asp) which includes some of our advertisers.
+See: [Unified Cookie Opt-Out System](http://www.networkadvertising.org/managing/opt_out.asp) which includes some of our advertisers.
