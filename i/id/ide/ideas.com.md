@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ideas.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402150159id_/http%3A//ideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideas.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063755id_/http%3A//ideas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IDeaS
+# Privacy Policy, Data Protection and Information Collection Policy | IDeaS
 
 This notice provides IDeaS policy regarding the nature, purpose, use and sharing of any information collected via this Web site. The information you provide on a IDeaS Web site will be used only for its intended purpose. Submitting information is strictly voluntary. By doing so, you are giving IDeaS your permission to use the information for the intended purpose. If you do not want to give IDeaS permission to use your information, simply do not provide it. However, not providing certain information may result in IDeaS’ inability to provide you with the information or services you desire.
 
