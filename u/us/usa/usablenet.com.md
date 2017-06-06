@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usablenet.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120170239id_/http%3A//usablenet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usablenet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084627id_/https%3A//usablenet.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Usablenet
+# Usablenet - Privacy Policy
 
 Usablenet respects your privacy and takes the protection of personal information very seriously. This Privacy Policy (the “Policy”) describes the information we collect and how we protect your privacy in connection with your use of the Usablenet website currently located at http://www.usablenet.com (the “Site”).
 
