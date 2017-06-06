@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everydayfeminism.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129093931id_/https%3A//everydayfeminism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayfeminism.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111148id_/https%3A//everydayfeminism.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Everyday Feminism
+# Privacy Policy - Everyday Feminism
 
 **We collect but do not link personal and activity data.**
 
