@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soul-anime.me privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025042554id_/http%3A//www.soul-anime.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-anime.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606220122id_/http%3A//www13.soul-anime.us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Policies for Information and Data - soul-anime.co
+# Privacy Policy | Policies for Information and Data - Soul-Anime
 
 [](https://web.archive.org/)
 
@@ -49,6 +49,6 @@ Your personally identifiable information is kept secure. Only authorized staff o
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: admin@soul-anime.co 
+By e-mail: renzuken08@gmail.com 
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
