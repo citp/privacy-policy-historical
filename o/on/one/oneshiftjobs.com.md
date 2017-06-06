@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneshiftjobs.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501190243id_/https%3A//oneshiftjobs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneshiftjobs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171248id_/https%3A//oneshiftjobs.com/privacypolicy) for the most accurate reproduction.*
 
 # OneShift Jobs - Privacy Policy
 
