@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netelligent.ca privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218025641id_/http%3A//www.netelligent.ca/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netelligent.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104500id_/http%3A//www.netelligent.ca/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - netelligent
 
@@ -62,3 +62,15 @@ Toll-Free: 1-888-369-2209
 Email : [support@netelligent.ca](mailto:support@netelligent.ca)
 
 We will inform individuals who make enquiries or lodge complaints about our enquiry or complaint procedures, as applicable. If a complaint is found to be justified, we will take appropriate measures, including, if necessary, amending our policies and practices. 
+
+### 11\. Assignment
+
+You consent to the transfer of your Personal Information to a third party acquirer of Netelligents business.
+
+### 12\. Changes to This Policy
+
+We reserve the right to update this Privacy Policy at any time in order to accommodate changes in our services, changes in technology, and legal developments. Each time you submit Personal Information or use our services, you agree to be bound by the then current terms of the Privacy Policy. 
+
+### 13\. Language
+
+The parties have expressly requested and required that this Agreement and all other related documents be drawn up in the English language. _Les parties conviennent et exigent expressément que ce Contrat et tous les documents qui s'y rapportent soient rédigés en anglais._
