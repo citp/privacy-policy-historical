@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstreet.com.ph privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211185317id_/http%3A//www.jobstreet.com.ph/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.ph privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222916id_/https%3A//www.jobstreet.com.ph/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JS AboutUs PH
 
@@ -243,7 +243,7 @@
 
     1. ###### You are responsible for providing accurate, not misleading, complete and up-to-date information to JobStreet.com about yourself and any other person whose personal information you provide us and for updating this personal information as and when it becomes inaccurate, misleading, incomplete and out-of-date by contacting JobStreet.com [here](http://myjobstreet.jobstreet.com.ph/home/feedback.php?site=my&sub=policy).
 
-    2. ###### In the circumstances you may need to provide to JobStreet.com personal information about someone other than yourself (for example, your referee or guarantor). If so, we rely on you to inform these individual that you are providing their personal information to JobStreet.com, to make sure they consent to you giving us their information and to advise them about where they can find a copy of this Privacy Notice (on our website at [Privacy Policy](http://www.jobstreet.com.ph/aboutus/privacy_policy.htm))
+    2. ###### In the circumstances you may need to provide to JobStreet.com personal information about someone other than yourself (for example, your referee or guarantor). If so, we rely on you to inform these individual that you are providing their personal information to JobStreet.com, to make sure they consent to you giving us their information and to advise them about where they can find a copy of this Privacy Notice (on our website at [Privacy Policy](https://www.jobstreet.com.ph/aboutus/privacy_policy.htm))
 
   9. ###### **TRANSFER OF YOUR PERSONAL INFORMATION OUTSIDE OF YOUR LOCAL JURISDICTION**
 
