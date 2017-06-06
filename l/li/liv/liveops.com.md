@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveops.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220130203id_/http%3A//www.liveops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveops.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024313id_/http%3A//www.liveops.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LiveOps Cloud Contact Center | Call Center Software
+# Privacy Policy | LiveOps, Inc. | Call Center Services
 
 We sometimes collect non-identifiable information from visits to our websites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on LiveOps Web sites, but we do so in ways that keep the information non-identifiable. This information is sometimes known as "clickstream data." LiveOps or others on LiveOps' behalf may use this data to analyze trends and statistics and to help us provide better customer service.
 
