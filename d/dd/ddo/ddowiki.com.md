@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddowiki.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123074146id_/http%3A//ddowiki.com/page/DDO_wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddowiki.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050307id_/http%3A//ddowiki.com/page/DDO_wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # DDO wiki:Privacy Policy - DDO wiki
 
