@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the bankaust.com.au privacy policy that was archived on 2016-08-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160825185403id_/https%3A//bankaust.com.au/tools/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankaust.com.au privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606210536id_/https%3A//bankaust.com.au/tools/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="format-detection" content="telephone=no">
 		<title>Privacy Policy | Bank Australia</title>
@@ -12,7 +14,7 @@
 	
 
 		<meta name="theme-color" content="#003e74">
-		<meta name="version" content="0.0.0.0">
+		<meta name="version" content="3.0.40.21531">
 
 		<meta name="mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-capable" content="yes">
@@ -21,9 +23,11 @@
 
 		<meta name="api.acceptcookies" data-metabaron="" content="//bankaust.com.au/api/acceptcookies">
 		<meta name="api.alertnotification" data-metabaron="" content="//bankaust.com.au/api/alertnotification">
+		<meta name="api.searchAutocomplete" content="//bankaust.com.au/api/searchautocomplete" data-metabaron="">
 		<meta name="api.cookie" data-metabaron="" content="//bankaust.com.au/api/cookie">
 		<meta name="api.subscribe" data-metabaron="" content="//bankaust.com.au/api/subscribe">
 		<meta name="api.taguchiform" data-metabaron="" content="//bankaust.com.au/api/taguchiform">
+		<meta name="pages.search" content="//bankaust.com.au/tools/search/" data-metabaron="">
 		<meta name="site.root" data-metabaron="" content="//bankaust.com.au/">
 		<meta name="static.root" data-metabaron="" content="/Static/Theme/">
 		<meta name="media.root" data-metabaron="" content="/">
@@ -63,27 +67,30 @@
 
 
 
-        
-	
-
 		
-	
-		
-<link rel="stylesheet" href="/static/theme/styles/vendor.css">
 
-	
 
-	
-		
-<link rel="stylesheet" href="/static/theme/styles/main.css">
+<link rel="stylesheet" href="/static/theme/styles/vendor.css?v=0504105630">
 
-	
 
-	
-		
-<link rel="stylesheet" href="/static/theme/styles/main-themes.css">
 
-	
+
+
+<link rel="stylesheet" href="/static/theme/styles/main.css?v=0504105630">
+
+
+
+
+
+<link rel="stylesheet" href="/static/theme/styles/search.module.css?v=0504105630">
+
+
+
+
+
+<link rel="stylesheet" href="/static/theme/styles/main-themes.css?v=0504105630">
+
+
 
 
 
@@ -95,21 +102,25 @@
 
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NCJV7Z"></script><script>
 
-	
 
-	
 
-	
+
+
+
+
+
 
 </script>
 <noscript>
-<!-- Unable to load Async -->
+	<!-- Unable to load Async -->
 
-	
 
-	
 
-	
+
+
+
+
+
 
 </noscript>
 
@@ -119,6 +130,9 @@
 
 
 
+
+		
+	
 
 
 	    <link rel="alternate" type="application/rss+xml" title="RSS" href="/about-us/news/rss/">
@@ -192,11 +206,7 @@
 				<p>To give you the best experience, this site uses cookies. Learn more about <a title="Website security and privacy" href="/link/e30fe0afe44641f280920f589922c7d1.aspx">cookies</a></p>
 				<a class="close" href="#">×</a>
 			</div>
-					<div class="alert-box info" data-endpoint="api.alertnotification" data-alert="" data-alert-id="7656">
-				<p><i class="step icon-important"></i> Replacement Visa Debit Cards being issued for orders made after August 4 <a href="/support/alerts/">View details</a></p>
-				<a class="close" href="#">×</a>
-			</div>
-	</section>
+			</section>
 
 
 				
@@ -223,23 +233,67 @@
 
 <aside id="global-navigation" class="left-off-canvas-menu" data-offcanvas="left">
 	
-	<form action="/tools/search/1" method="get" id="site_search" class="search-form" data-abide="" novalidate="novalidate">
-		<div class="row collapse">
-			<div class="medium-9 columns inline-form-field">
-				<input type="search" placeholder="How can we help you?" name="query" id="query" value="" class="">
-				<label for="query" class="">
-					<span class="hidden-for-small-up show-for-sr">Site search</span>
-					<small class="error error-positioned ">Oops! Please enter a query</small>
+
+
+<form action="/tools/search/1" class="search-form" data-search-app="" id="header_site_search" method="get">
+	<div class="search-fields">
+		<div class="row">
+			<div class="medium-12 columns show-for-medium-down">
+				<input class="" id="query-mobile" name="qmob" placeholder="How can we help you?" type="search" value="">
+				<label class="" for="query-mobile">
+					<span class="hidden-for-small-up show-for-sr">
+						Site search
+					</span>
+					<small class="error error-positioned ">
+						Oops! Please enter a query
+					</small>
 				</label>
+				<button class="" type="submit">
+					<i class="icon-search">
+					</i>
+					<span class="hidden-for-small-up show-for-sr">
+						GO
+					</span>
+				</button>
 			</div>
-			<div class="medium-3 columns inline-form-button">
-				<button type="submit" name="search" class="postfix expand ">
+			<div class="medium-12 columns hide-for-medium-down">
+				<input class="" data-action="keyup" data-emit="#site-search:autocomplete" data-autocomplete-query="" id="query-desktop" name="q" placeholder="How can we help you?" type="search" value="">
+				<label class="" for="query-desktop">
+					<span class="hidden-for-small-up show-for-sr">
+						Site search
+					</span>
+					<small class="error error-positioned ">
+						Oops! Please enter a query
+					</small>
+				</label>
+				<button type="reset" name="reset" class="">
+					<i class="icon-close"></i>
+					<span class="hidden-for-small-up show-for-sr"></span>
+				</button>
+				<button type="submit" class="postfix expand ">
 					<i class="hide-for-medium-up icon-search"></i>
 					<span class="hidden-for-small-only">GO</span>
 				</button>
+				<a href="/tools/search/1" class="goto-search button radius primary ">
+					<i class="icon-search"></i>
+					<span class="link-label ">Search</span>
+					<span class="link-arrow"><i class="icon-arrow-right"></i></span>
+				</a>
 			</div>
 		</div>
-	</form>
+	</div>
+	<div class="autocomplete-dropdown">
+		<div class="row autocomplete-dropdown__matching-queries">
+		</div>
+		<div class="row autocomplete-dropdown__related-queries">
+		</div>
+	</div>
+	<script id="search-app__result-item" type="text/template">
+		<div class="autocomplete-dropdown__result-item">
+			<a href="<%= url %>"><%= titleHighlighted %></h3>
+		</div>
+	</script>
+</form>
 
 	<div class="navigation-wrapper">
 		<ul class="off-canvas-list submenu first-level">
@@ -263,9 +317,12 @@
 				</div>
 			</li>
 			<li class="right-large-up top-icon">
-				<a id="search_toggle" class="nav-top show-for-large-up" href="#site_search" data-action="click" data-emit="#site_search:toggle" data-prevent-default="">
-					<i class="icon-search"></i>
-					<span class="hidden-for-small-up show-for-sr">Jump to site search</span>
+				<a class="nav-top show-for-large-up" data-action="click" data-emit="#header_site_search:toggle" data-prevent-default="" href="#header_site_search" id="search_toggle">
+					<i class="icon-search">
+					</i>
+					<span class="hidden-for-small-up show-for-sr">
+						Jump to site search
+					</span>
 				</a>
 			</li>
 
@@ -295,7 +352,7 @@
 							<div class="large-3 columns">
 								<ul>
 										<li>
-											<label class="submenu-category-title">I need a...</label>
+											<label class="submenu-category-title">I need....</label>
 										</li>
 																			<li>
 											<a href="/personal/manage/transaction-accounts/" class="nav-mega ">Transaction account</a>
@@ -306,6 +363,9 @@
 										<li>
 											<a href="/personal/manage/foreign-exchange/" class="nav-mega ">Foreign exchange service</a>
 										</li>
+										<li>
+											<a href="/tools/digital-wallets/" class="nav-mega ">Apple Pay or Android Pay</a>
+										</li>
 								</ul>
 							</div>
 													<div class="large-3 columns">
@@ -314,10 +374,10 @@
 											<label class="submenu-category-title">Help me to...</label>
 										</li>
 																			<li>
-											<a href="/personal/manage/buy-online-safely/" class="nav-mega ">Buy online safely</a>
+											<a href="https://bankaust.com.au/identity" class="nav-mega ">Verify my identity</a>
 										</li>
 										<li>
-											<a href="/personal/manage/manage-my-budget/" class="nav-mega ">Manage my budget</a>
+											<a href="/personal/manage/buy-online-safely/" class="nav-mega ">Buy online safely</a>
 										</li>
 										<li>
 											<a href="/personal/manage/save-for-a-goal/" class="nav-mega ">Save for a goal</a>
@@ -417,7 +477,7 @@
 											<a href="/personal/save/savings-accounts/" class="nav-mega ">Savings account</a>
 										</li>
 										<li>
-											<a href="/personal/save/term-deposits/" class="nav-mega ">Term deposit</a>
+											<a href="/personal/save/term-deposits/term-deposits/" class="nav-mega ">Term deposit</a>
 										</li>
 								</ul>
 							</div>
@@ -428,9 +488,6 @@
 										</li>
 																			<li>
 											<a href="/personal/save/earn-high-interest/" class="nav-mega ">Earn high interest</a>
-										</li>
-										<li>
-											<a href="/personal/save/plan-for-retirement/" class="nav-mega ">Plan for retirement</a>
 										</li>
 										<li>
 											<a href="/personal/manage/save-for-a-goal/" class="nav-mega ">Save for a goal</a>
@@ -622,11 +679,6 @@
 														</a>
 													</li>
 													<li>
-														<a href="/tools/rates/home-loans/basic-home-loan2/" class="nav-mega-sub">
-															Basic Home Loan
-														</a>
-													</li>
-													<li>
 														<a href="/tools/rates/home-loans/premium-home-loan-with-package/" class="nav-mega-sub">
 															Premium Home Loan (including packages)
 														</a>
@@ -693,10 +745,10 @@
 											<label class="submenu-category-title">Help me to...</label>
 										</li>
 																			<li>
-											<a href="/personal/invest/find-an-independent-financial-advisor/" class="nav-mega ">Find an independent financial advisor</a>
+											<a href="/personal/invest/find-a-financial-advisor/" class="nav-mega ">Find a financial advisor</a>
 										</li>
 										<li>
-											<a href="/personal/save/plan-for-retirement/" class="nav-mega ">Plan for retirement</a>
+											<a href="/personal/invest/plan-my-retirement/" class="nav-mega ">Plan for retirement</a>
 										</li>
 								</ul>
 							</div>
@@ -821,6 +873,9 @@
 										</li>
 										<li>
 											<a href="/business-and-community/manage/manage-my-accounts/" class="nav-mega ">Manage my accounts</a>
+										</li>
+										<li>
+											<a href="https://bankaust.com.au/identity" class="nav-mega ">Verify my identity</a>
 										</li>
 								</ul>
 							</div>
@@ -1217,10 +1272,13 @@
 											<label class="submenu-category-title">Learn about...</label>
 										</li>
 																			<li>
-											<a href="/responsible-banking/planet/our-conservation-reserve/" class="nav-mega ">Our Conservation Reserve</a>
+											<a href="/responsible-banking/planet/conservation-reserve/" class="nav-mega ">Conservation Reserve</a>
 										</li>
 										<li>
 											<a href="/responsible-banking/planet/environmental-policy/" class="nav-mega ">Environmental Policy</a>
+										</li>
+										<li>
+											<a href="/responsible-banking/planet/divestment-and-bank-australia/" class="nav-mega ">Divestment and Bank Australia</a>
 										</li>
 								</ul>
 							</div>
@@ -1291,7 +1349,7 @@
 				<div class="submenu-wrapper megamenu-wrapper">
 					<div class="submenu accordian-submenu megamenu row">
 						<div class="large-3 columns has-menu-content show-for-large-up">
-<h3><span>We are not a new bank,&nbsp;</span>but one with a rich 58 year history.</h3>						</div>
+<h3><span>We are not a new bank,&nbsp;</span>but one with a rich 59 year history.</h3>						</div>
 							<div class="large-3 columns">
 								<ul>
 										<li>
@@ -1477,273 +1535,13 @@
 						</ul>
 					</div>
 				</li>
-					<li class="has-submenu right-large-up secondary-item top-icon has-megamenu open show-for-large-up">
-			<a href="/tools/" class="nav-top current">
-				<i class="icon-tools"></i>Tools
-			</a>
-			<a data-submenu-toggle="" class="nav-toggle nav-toggle-top hide-for-large-up">
-				<i class="nav-toggle nav-toggle-icon"></i>
-			</a>
-			<div class="submenu-wrapper section-nav-wrapper">
-				<ul class="submenu accordian-submenu second-level">
-						<li><a href="/tools/apply/" class="nav-section">Apply</a></li>
-											<li><a href="/tools/calculators/" class="nav-section">Calculators</a></li>
-											<li><a href="/tools/rates/" class="nav-section">Rates &amp; Fees</a></li>
-				</ul>
-			</div>
-			<div class="megamenu-wrapper megamenu-top">
-				<div class="submenu accordian-submenu megamenu row">
-					<div class="large-3 columns">
-							<a href="/tools/apply/" class="nav-mega">
-									<i class="icon-apply"></i>
-								<span class="link-label">Apply</span>
-								<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-							</a>
-							<div class="show-for-large-up">
-								<ul>
-
-
-<li>
-	<a href="/tools/apply/loans/" class="nav-mega-sub">
-		<span class="link-label">Loans</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-
-
-<li>
-	<a href="/tools/apply/accounts/" class="nav-mega-sub">
-		<span class="link-label">Accounts</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-
-
-<li>
-	<a href="/tools/apply/accounts/online-identification/" class="nav-mega-sub">
-		<span class="link-label">Customer identification form</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-								</ul>
-							</div>
-					</div>
-					<div class="large-3 columns">
-							<ul class="no-bullet ">
-								<li>
-									<a href="/tools/calculators/" class="nav-mega">
-											<i class="icon-calculator"></i>
-										<span class="link-label ">Calculators</span>
-										<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-									</a>
-								</li>
-
-
-<li>
-	<a href="/tools/calculators/borrowing-power/" class="nav-mega-sub">
-		<span class="link-label">Borrowing power</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-
-
-<li>
-	<a href="/tools/calculators/home-loan-repayments/" class="nav-mega-sub">
-		<span class="link-label">Home loan repayments</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-
-
-<li>
-	<a href="/tools/calculators/budget-planner/" class="nav-mega-sub">
-		<span class="link-label">Budget planner</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-
-
-<li>
-	<a href="/tools/calculators/" class="nav-mega-sub">
-		<span class="link-label">View all calculators</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-							</ul>
-					</div>
-					<div class="large-3 columns">
-							<ul class="no-bullet ">
-								<li>
-									<a href="/tools/rates/" class="nav-mega">
-											<i class="icon-rates"></i>
-										<span class="link-label">Rates &amp; Fees</span>
-										<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-									</a>
-								</li>
-
-
-<li>
-	<a href="/tools/rates/accounts/" class="nav-mega-sub">
-		<span class="link-label">Accounts</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-
-
-<li>
-	<a href="/tools/rates/home-loans/" class="nav-mega-sub">
-		<span class="link-label">Home loans</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-							</ul>
-					</div>
-					<div class="large-3 columns">
-							<div class="show-for-large-up">
-								<ul class="no-bullet">
-									<a href="/support/contact-us/" class="nav-mega">
-	<i class="icon-email-us"></i>
-	<span class="link-label ">Contact us</span>
-	<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-</a>
-<a href="/tools/find-us/" class="nav-mega">
-	<i class="icon-address"></i>
-	<span class="link-label ">Find us</span>
-	<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-</a>
-<a href="/tools/banking-apps/" class="nav-mega">
-	<i class="icon-call-us"></i>
-	<span class="link-label ">Banking app</span>
-	<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-</a>
-<a href="/support/accessibility-tool/" class="nav-mega">
-	<i class="icon-tools"></i>
-	<span class="link-label ">Accessibility tool</span>
-	<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-</a>
-
-								</ul>
-							</div>
-					</div>
-				</div>
-			</div>
+					<li class="right-large-up show-for-medium-up secondary-item top-icon ">
+			<a href="/tools/find-us/" class="nav-top "><i class="icon-address"></i>Find us</a>
+			<a data-submenu-toggle="" class="nav-toggle nav-toggle-top hide-for-large-up"><i class="nav-toggle nav-toggle-icon"></i></a>
 		</li>
-		<li class="has-submenu right-large-up secondary-item top-icon has-megamenu ">
-			<a href="/support/" class="nav-top ">
-				<i class="icon-support"></i>Support
-			</a>
-			<a data-submenu-toggle="" class="nav-toggle nav-toggle-top hide-for-large-up">
-				<i class="nav-toggle nav-toggle-icon"></i>
-			</a>
-			<div class="submenu-wrapper section-nav-wrapper">
-				<ul class="submenu accordian-submenu second-level">
-						<li><a href="/support/internet-banking/" class="nav-section">Internet banking</a></li>
-											<li><a href="/support/faqs/" class="nav-section">Frequently asked questions</a></li>
-											<li><a href="/support/alerts/" class="nav-section">Alerts</a></li>
-				</ul>
-			</div>
-			<div class="megamenu-wrapper megamenu-top">
-				<div class="submenu accordian-submenu megamenu row">
-					<div class="large-3 columns">
-							<a href="/support/internet-banking/" class="nav-mega">
-									<i class="icon-tools"></i>
-								<span class="link-label">Internet banking</span>
-								<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-							</a>
-							<div class="show-for-large-up">
-								<ul>
-
-
-<li>
-	<a href="/support/internet-banking/" class="nav-mega-sub">
-		<span class="link-label">Internet banking help</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-								</ul>
-							</div>
-					</div>
-					<div class="large-3 columns">
-							<ul class="no-bullet ">
-								<li>
-									<a href="/support/faqs/" class="nav-mega">
-											<i class="icon-support"></i>
-										<span class="link-label ">Frequently asked questions</span>
-										<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-									</a>
-								</li>
-
-
-<li>
-	<a href="/support/faqs/about-us/" class="nav-mega-sub">
-		<span class="link-label">About us</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-
-
-<li>
-	<a href="/support/faqs/internet-banking/" class="nav-mega-sub">
-		<span class="link-label">Internet banking</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-
-
-<li>
-	<a href="/support/faqs/fees/" class="nav-mega-sub">
-		<span class="link-label">Fees</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-
-
-<li>
-	<a href="/support/faqs/" class="nav-mega-sub">
-		<span class="link-label">View all FAQs</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-							</ul>
-					</div>
-					<div class="large-3 columns">
-							<ul class="no-bullet ">
-								<li>
-									<a href="/support/alerts/" class="nav-mega">
-											<i class="icon-important"></i>
-										<span class="link-label">Alerts</span>
-										<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-									</a>
-								</li>
-
-
-<li>
-	<a href="/support/alerts/security-and-fraud-protection/" class="nav-mega-sub">
-		<span class="link-label">Security &amp; fraud protection</span>
-		<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-	</a>
-</li>
-							</ul>
-					</div>
-					<div class="large-3 columns">
-							<div class="show-for-large-up">
-								<ul class="no-bullet">
-									<a href="/support/contact-us/" class="nav-mega">
-	<i class="icon-email-us"></i>
-	<span class="link-label ">Contact us</span>
-	<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-</a>
-<a href="/tools/find-us/" class="nav-mega">
-	<i class="icon-address"></i>
-	<span class="link-label ">Find us</span>
-	<span class="link-arrow"><i class="icon-arrow-right"></i></span>
-</a>
-
-								</ul>
-							</div>
-					</div>
-				</div>
-			</div>
+		<li class="right-large-up show-for-medium-up secondary-item top-icon ">
+			<a href="/support/" class="nav-top "><i class="icon-support"></i>Get help</a>
+			<a data-submenu-toggle="" class="nav-toggle nav-toggle-top hide-for-large-up"><i class="nav-toggle nav-toggle-icon"></i></a>
 		</li>
 		<li class="right-large-up show-for-medium-up secondary-item top-icon ">
 			<a href="/personal/campaigns/change/" class="nav-top "><i class="icon-apply"></i>Become a customer</a>
@@ -1756,65 +1554,6 @@
 <aside id="tools-navigation" class="right-off-canvas-menu hide-for-large-up" data-offcanvas="right">
 	<div class="navigation-wrapper">
 		<ul class="off-canvas-list submenu first-level">
-						<li class="has-submenu">
-							<a href="/tools/apply/" class="nav-top">
-								<i class="icon-apply"></i> Apply
-							</a>
-							<a data-submenu-toggle="" class="nav-toggle nav-toggle-top"><i class="nav-toggle nav-toggle-icon"></i></a>
-							<div class="submenu-wrapper section-nav-wrapper">
-								<ul class="submenu accordian-submenu second-level">
-										<li><a href="/tools/apply/loans/" class="nav-section">Loans</a></li>
-										<li><a href="/tools/apply/accounts/" class="nav-section">Accounts</a></li>
-										<li><a href="/tools/apply/accounts/online-identification/" class="nav-section">Customer identification form</a></li>
-								</ul>
-							</div>
-						</li>
-						<li class="has-submenu">
-							<a href="/tools/calculators/" class="nav-top">
-								<i class="icon-calculator"></i> Calculators
-							</a>
-							<a data-submenu-toggle="" class="nav-toggle nav-toggle-top"><i class="nav-toggle nav-toggle-icon"></i></a>
-							<div class="submenu-wrapper section-nav-wrapper">
-								<ul class="submenu accordian-submenu second-level">
-										<li><a href="/tools/calculators/borrowing-power/" class="nav-section">Borrowing power</a></li>
-										<li><a href="/tools/calculators/home-loan-repayments/" class="nav-section">Home loan repayments</a></li>
-										<li><a href="/tools/calculators/budget-planner/" class="nav-section">Budget planner</a></li>
-										<li><a href="/tools/calculators/" class="nav-section">View all calculators</a></li>
-								</ul>
-							</div>
-						</li>
-						<li class="has-submenu">
-							<a href="/tools/rates/" class="nav-top">
-								<i class="icon-rates"></i> Rates &amp; Fees
-							</a>
-							<a data-submenu-toggle="" class="nav-toggle nav-toggle-top"><i class="nav-toggle nav-toggle-icon"></i></a>
-							<div class="submenu-wrapper section-nav-wrapper">
-								<ul class="submenu accordian-submenu second-level">
-										<li><a href="/tools/rates/accounts/" class="nav-section">Accounts</a></li>
-										<li><a href="/tools/rates/home-loans/" class="nav-section">Home loans</a></li>
-								</ul>
-							</div>
-						</li>
-							<li>
-								<a href="/support/contact-us/" class="nav-top">
-									<i class="icon-email-us"></i> Contact us
-								</a>
-							</li>
-							<li>
-								<a href="/tools/find-us/" class="nav-top">
-									<i class="icon-address"></i> Find us
-								</a>
-							</li>
-							<li>
-								<a href="/tools/banking-apps/" class="nav-top">
-									<i class="icon-call-us"></i> Banking app
-								</a>
-							</li>
-							<li>
-								<a href="/support/accessibility-tool/" class="nav-top">
-									<i class="icon-tools"></i> Accessibility tool
-								</a>
-							</li>
 		</ul>
 	</div>
 </aside>
@@ -1877,12 +1616,12 @@ Bank Australia is committed to complying with the provisions relating to privacy
 
 
 <div id="page-blocks">
-		<div id="layout-84e28cc3-0b18-4606-995b-e7c4f4ae2be6" class="layout layout-1-col theme-white">
+		<div id="layout-b1bf271d-a788-4e37-ad0e-c17120e4a86c" class="layout layout-1-col theme-white">
 		<div class="row">
 			<div class="layout-content">
 				
 			<div class="large-12 columns layout-cell">
-	<div id="block-5fd8d322-2937-40ce-a691-e8a4b9704d35" class="content-block 
+	<div id="block-a2c5d5fc-1ccb-4142-85b9-f38aa67e6548" class="content-block 
 	block-wysiwyg 
  ">
 		
@@ -1890,7 +1629,7 @@ Bank Australia is committed to complying with the provisions relating to privacy
 
 		
 	<div class="content-block-content">
-		<p><span style="line-height: 1;"><a title="Website security and privacy" href="/tools/Privacy/website-security-and-privacy/">Website security and privacy&nbsp;policy</a>&nbsp;</span><br><a title="Privacy notification for banking customers" href="/globalassets/privacy/bau021-privacy-notification-bank-custom-dp1.pdf"><span style="line-height: 1;">Privacy notification for banking customers</span></a><span style="line-height: 1;"><br></span><a title="Privacy notification for lending customers" href="/globalassets/privacy/bau003-privacy-notification-a4-fa.pdf">Privacy notification for lending customers</a><br><span class="redactor-invisible-space">​</span><span class="redactor-invisible-space">​<a title="Privacy notification for job applicants" href="/globalassets/privacy/job-applicant/bank-australia-privacy-notification-for-job-applicants.pdf">P</a></span><a title="Privacy notification for job applicants" href="/globalassets/privacy/job-applicant/bank-australia-privacy-notification-for-job-applicants.pdf">rivacy notification for job applicants</a>&nbsp;<br><a title="​Privacy policy for job applicants" href="/globalassets/privacy/job-applicant/bank-australia-app-privacy-policy-for-job-applicants.pdf">​Privacy policy for job applicants</a>.</p>
+		<p><span style="line-height: 1;"><a title="Website security and privacy" href="/tools/Privacy/website-security-and-privacy/">Website security and privacy&nbsp;policy</a>&nbsp;</span><br><a title="Privacy notification for banking customers" href="/globalassets/privacy/bau266-privacy-notification-banking-fa.pdf"><span style="line-height: 1;">Privacy notification for banking customers</span></a><span style="line-height: 1;"><br></span><a title="Privacy notification for lending customers" href="/globalassets/privacy/bau003-privacy-notification-a4-fa.pdf">Privacy notification for lending customers</a><br><span class="redactor-invisible-space">​</span><span class="redactor-invisible-space">​<a title="Privacy notification for job applicants" href="/globalassets/privacy/job-applicant/bank-australia-privacy-notification-for-job-applicants.pdf">P</a></span><a title="Privacy notification for job applicants" href="/globalassets/privacy/job-applicant/bank-australia-privacy-notification-for-job-applicants.pdf">rivacy notification for job applicants</a>&nbsp;<br><a title="​Privacy policy for job applicants" href="/globalassets/privacy/job-applicant/bank-australia-app-privacy-policy-for-job-applicants.pdf">​Privacy policy for job applicants</a>.</p>
 <p>&nbsp;</p>
 <h2>Privacy and Credit Reporting Policy</h2>
 <p>Bank Australia complies with the provisions relating to privacy and to the collection, use, disclosure, and storage of your information <span>contained in the:</span></p>
@@ -2028,7 +1767,7 @@ Bank Australia is committed to complying with the provisions relating to privacy
 		</div>
 
 	</div>
-	<div id="layout-33b47dc9-df08-4e7f-af8d-c93086ac1549" class="layout layout-2-col edge-to-edge theme-navy">
+	<div id="layout-fdb6a964-8d28-490c-bda6-a67a00cbc1af" class="layout layout-2-col edge-to-edge theme-navy">
 		<div class="row">
 				<header class="layout-header">
 					<h2 class="layout-title">
@@ -2038,7 +1777,7 @@ Bank Australia is committed to complying with the provisions relating to privacy
 			<div class="layout-content">
 				
 			<div class="medium-6 columns layout-cell">
-	<div id="block-01e3c3a7-6f80-4668-bba4-c694e58a8916" class="content-block 
+	<div id="block-f1d4f380-66a7-4478-9c6b-63ad34df00a1" class="content-block 
  block-icon    ">
 		
 
@@ -2077,7 +1816,7 @@ Talk to a specialist
 	</div>
 		</div>
 		<div class="medium-6 columns layout-cell">
-	<div id="block-7526310d-e4ae-4a5e-a606-39de80b99982" class="content-block 
+	<div id="block-c68b5540-037f-4320-be93-e3065abb8252" class="content-block 
  block-icon    ">
 		
 
@@ -2198,7 +1937,7 @@ Visit us near you
 							<a href="/tools/Privacy/">Privacy</a>
 						</li>
 						<li>
-							<a href="/about-us/site-map/">Site Map</a>
+							<a href="https://bankaust.com.au/about-us/site-map">Site Map</a>
 						</li>
 						<li>
 							<a href="/support/contact-us/">Contact Us</a>
@@ -2251,8 +1990,7 @@ Visit us near you
 				</div>
 				<div class="medium-10 medium-pull-2 columns">
 					<p>
-						<small></small></p><p><small><span>BSB:&nbsp;313 140</span><br><span style="line-height: 1;">mecu&nbsp; Limited&nbsp;| ABN 21&nbsp;087&nbsp;651&nbsp;607 AFSL / Australian Credit Licence Number&nbsp;238431 trading as Bank Australia.</span></small></p><small>
-<p>&nbsp;</p></small>
+						<small></small></p><p><small><span>BSB:&nbsp;313 140 <br>Bank Australia Limited | ABN 21 087 651 607 | Australian Credit Licence Number 238431 </span></small></p>
 					<p></p>
 				</div>
 
@@ -2274,12 +2012,15 @@ Visit us near you
 		
 
 	
-<script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
+<script src="//code.jquery.com/jquery-2.1.3.min.js" defer=""></script>
 
 
 	
-<script src="/static/theme/scripts/main.app.js"></script>
+<script src="/static/theme/scripts/common.bundle.js?v=0504105630" defer=""></script>
 
+
+	
+<script src="/static/theme/scripts/main.app.js?v=0504105630" defer=""></script>
 
 
 
