@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uttyler.edu privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122145529id_/http%3A//www.uttyler.edu/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uttyler.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153532id_/http%3A//www.uttyler.edu/privacy/index.php) for the most accurate reproduction.*
 
 # UT Tyler Privacy | The University of Texas at Tyler, Privacy Policy Statement
 
@@ -35,7 +35,7 @@ Information such as the following is collected in these files:
   * **Referer:** the web page the user came from 
   * **System date:** the date and time on the server at the time of access 
   * **Full request:** the exact request the user made 
-  * **Status:** the status code the server returned, e.g., fullfilled request, file not found 
+  * **Status:** the status code the server returned, e.g., fulfilled request, file not found 
   * **Content length:** the size, in bytes, of the file sent to the user 
   * **Method:** the request method used by the browser (e.g., post, get) 
   * **Universal Resource Identifier (URI):** the location of the particular resource requested. (More commonly known as a URL.) 
