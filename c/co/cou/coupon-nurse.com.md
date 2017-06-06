@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the coupon-nurse.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123041138id_/http%3A//www.adventuresofanurse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon-nurse.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060650id_/http%3A//www.adventuresofanurse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adventures of a Nurse
 
 Privacy Policy  
-This Privacy Policy governs the manner in which Coupon Nurse collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.coupon-nurse.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Coupon Nurse.
+This Privacy Policy governs the manner in which Adventures of a Nurse collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://adventuresofanurse.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by adventures of a nurse.
 
 Personal identification information
 
@@ -19,7 +19,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 How we use collected information
 
-Debbie Does Coupons may collect and use Users personal information for the following purposes:
+Adventures of a Nurse may collect and use Users personal information for the following purposes:
 
 – To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
@@ -41,6 +41,8 @@ Advertising
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites
+
 Google Adsense
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
@@ -51,7 +53,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 Changes to this privacy policy
 
-Debbie Does Coupons has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Adventures of a Nurse has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 Your acceptance of these terms
 
@@ -60,10 +62,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Coupon Nurse  
-http://www.coupon-nurse.com/  
+adventures of a Nurse  
+http://www.adventuresofanurse.com/  
 carla@coupon-nurse.com
 
-This document was last updated on January 10, 2013
+admin@adventuresofanurse.com
 
-**Leave Your Comment Here**
+This document was last updated on January 14, 2017
