@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the millionairestools.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229050230id_/http%3A//www.millionairestools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairestools.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090526id_/http%3A//www.millionairestools.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Millionaires Tools
+# Privacy Policy - Free Download Business - Internet Marketing Courses
 
 **What information do we collect?**  
 We collect information from you when you subscribe to our newsletter or fill out a form.
