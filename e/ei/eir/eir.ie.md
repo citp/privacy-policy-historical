@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eir.ie privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125010525id_/https%3A//www.eir.ie/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eir.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191209id_/https%3A//www.eir.ie/privacystatement) for the most accurate reproduction.*
 
 # eir Privacy Statement
 
@@ -9,6 +9,12 @@ eircom Limited is registered with the Data Protection Commissioner as a Data Con
 The eir.ie servers are located in a secure facility and any access to your personal data is strictly controlled and limited only to persons who are authorised and have appropriate security clearance to access the servers.
 
 Credit card details are transmitted by eir in an encrypted form to provide extra security for your online transactions.
+
+### Credit Insights:
+
+If you are a new Customer on or after 30th of November 2016 or if you are an existing Customer who enters into a new contract with eir on or after 30th of November 2016 please note if you allow your account to fall into arrears by not paying your bills in full and on time, information on your payment performance may be shared with other service providers of landline, broadband and mobile services through the provision of the information to a database operated by the service providers called Credit Insights.
+
+Other providers of services who also supply information on payment performance of their customers to the Credit Insights database may check this information when you apply for their services in the future to help them assess your credit worthiness. The information shared with Credit Insights includes name, address, date of birth, account details to include account history and balance owed, and will be held on the database for 6 years from the date of the notification of the arrears.
 
 ### How we collect information:
 
