@@ -1,7 +1,18 @@
-> *The following text is extracted and transformed from the cowboylyrics.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070219id_/http%3A//www.cowboylyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowboylyrics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175203id_/https%3A//www.cowboylyrics.com/privacy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Country Lyrics and Tabs Source #1 - CowboyLyrics.com
+# Cowboy Lyrics. Privacy
 
+**  
+Partners [ ](http://www.tonemedia.com/) **Since 20.01.2002  
+|  |  |   
+---|---  
+  |  |  |   
+  
+**Country Lyrics and Tabs Source #1**
+
+| **PRIVACY POLICY STATEMENT FOR COWBOYLYRICS.COM**  
+---  
+  
 CowboyLyrics.com has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: CowboyLyrics.com.
 
 **Information Automatically Logged**
@@ -43,4 +54,15 @@ or other reproduction. One of these specified conditions is that the photocopy o
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20150905070219id_/http%3A//www.cowboylyrics.com/contact.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/contact.html).  
+  
+ Advertising   
+
+
+Site contains country lyrics, tablature/tab from any classic and popular song, compilation. Song text, lyric, guitar tabs/tablatures, basses, chords, notes, sheet music from many of country music styles Alt-Country & americana, folk, bluegrass, poetry, contemporary country, country gospel, cowboy songs, honky-tonk, outlaw & progressive country, traditional country, western swing. (country tabs, country tablatures for gutiar).   
+  
+|  |  | 
+
+All lyrics are property and copyright of their owners. All lyrics provided for educational purposes only.  
+  
+---|---
