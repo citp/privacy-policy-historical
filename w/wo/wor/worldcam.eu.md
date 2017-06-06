@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcam.eu privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809023317id_/http%3A//worldcam.eu/polityka%2Cprywatnosci) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcam.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164658id_/https%3A//worldcam.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ We use the information you provide about yourself only to complete a specific re
 **How We Use Cookies**  
 A cookie is a small file placed on your computer’s hard drive that enables us to monitor which pages you find useful and which you do not. Our site and third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. 
 
-You can choose to accept or decline cookies. To opt out of Google’s use of cookies, please visit the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+You can choose to accept or decline cookies. To opt out of Google’s use of cookies, please visit the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/). 
 
 **Our Commitment To Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
