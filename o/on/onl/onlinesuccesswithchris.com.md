@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesuccesswithchris.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022152925id_/http%3A//onlinesuccesswithchris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesuccesswithchris.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095657id_/http%3A//onlinesuccesswithchris.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Success With Chris
 
@@ -87,6 +87,6 @@ In this manner we are able to track both our progress in servicing your issue(s)
 
 **Or submit a ticket to our Support Desk at:**
 
-[_Support Center Ticket Tracking – Open A New Ticket_](http://cjsuccessteam.net/support/)
+[_Support Center Ticket Tracking - Open A New Ticket_](http://cjsuccessteam.net/support/)
 
 We try to respond to tickets with 24-48 hours, but during new product roll-outs, periods of high traffic volume, inclement weather events affecting staffing, etc. our response time period may be further delayed.
