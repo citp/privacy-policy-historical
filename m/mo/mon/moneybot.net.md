@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybot.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610021903id_/http%3A//moneybot.net/en/confidentiality.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybot.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110838id_/http%3A//moneybot.net/en/confidentiality.html) for the most accurate reproduction.*
 
 # Confidentiality
 
