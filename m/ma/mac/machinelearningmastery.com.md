@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinelearningmastery.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024031136id_/http%3A//machinelearningmastery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinelearningmastery.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174835id_/http%3A//machinelearningmastery.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Machine Learning Mastery
 
