@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateedge.eu privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915152400id_/http%3A//www.affiliateedge.eu/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateedge.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032621id_/http%3A//www.affiliateedge.eu/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Affiliate Edge - Privacy Statement
 
