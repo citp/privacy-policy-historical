@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaverbrooks.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124180902id_/http%3A//www.beaverbrooks.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaverbrooks.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051455id_/http%3A//www.beaverbrooks.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beaverbrooks the Jewellers
 
@@ -18,7 +18,7 @@ We use cookies for a variety of reasons, mainly to enhance your shopping experie
 
 The Beaverbrooks website uses Google Analytics, a web analytics service which sets a cookie in order for us understand how visitors are using our site. Google Analytics collects the information anonymously and we use this information to help us improve our website.
 
-If you wish to disable these cookies you can opt-out using the below link  
+If you wish to disable these cookies you can opt-out using the below link   
 <http://tools.google.com/dlpage/gaoptout?hl=en-GB>
 
 ## What is a cookie?
@@ -37,12 +37,12 @@ We will hold your personal information on our systems for as long as you use the
 
 You have the right to request a copy of the personal information Beaverbrooks the Jewellers Ltd holds about you and to have any inaccuracies corrected. Please address requests to:
 
-Ecommerce Manager  
-Beaverbrooks the Jewellers Ltd  
-Adele House  
-Park Road  
-Lytham St. Annes  
-Lancashire  
+Ecommerce Manager   
+Beaverbrooks the Jewellers Ltd   
+Adele House   
+Park Road   
+Lytham St. Annes   
+Lancashire   
 FY8 1RE
 
 ## Users 16 and under
