@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advanced-ip-scanner.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211000210id_/http%3A//www.advanced-ip-scanner.com/legal/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanced-ip-scanner.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040222id_/http%3A//www.advanced-ip-scanner.com/legal/pp.php) for the most accurate reproduction.*
 
 # Advanced IP Scanner - Privacy Policy
 
@@ -16,5 +16,5 @@ The personal information you provide will be used for the purpose for which it w
 
 Famatech will strictly protect the security of your personal information, protect your data from loss, misuse, unauthorized access, disclosure, alteration or destruction. Your personal data, including your e-mail address, is used for internal purposes only and is never sold or shared with anyone outside of Famatech, unless we disclose information in response to a law enforcement request.
 
-Copyright © 1999-2016 Famatech.  
+Copyright © 1999-2017 Famatech.  
 All rights reserved. 
