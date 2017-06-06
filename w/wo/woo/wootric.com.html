@@ -1,0 +1,525 @@
+<!--The following is the downloaded HTML source of the wootric.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606212843id_/https%3A//www.wootric.com/company/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" class="wf-inactive"><head>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TVZCCL"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<title>Privacy</title>		<meta name="robots" content="noodp,noydir">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="dns-prefetch" href="//www.wootric.com">
+<link rel="dns-prefetch" href="//js.hs-scripts.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Wootric » Feed" href="https://www.wootric.com/feed">
+<link rel="alternate" type="application/rss+xml" title="Wootric » Comments Feed" href="https://www.wootric.com/comments/feed">
+<link rel="canonical" href="https://www.wootric.com/company/privacy">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.wootric.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.wootric.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.4" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="genesis-sample-theme-css" href="https://www.wootric.com/wp-content/themes/wootric/style.css?ver=2.3.6" type="text/css" media="all">
+<link rel="stylesheet" id="gch-frontend-styles-css" href="https://www.wootric.com/wp-content/plugins/genesis-custom-headers/css/gch-frontend-styles.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="imt_font-awesome_vc-css" href="https://www.wootric.com/wp-content/plugins/indeed-my-team-vc/files/css/font-awesome.min.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="imt_be_style_vc-css" href="https://www.wootric.com/wp-content/plugins/indeed-my-team-vc/files/css/style.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="imt_owl_carousel_vc-css" href="https://www.wootric.com/wp-content/plugins/indeed-my-team-vc/files/css/owl.carousel.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="otw-bm-default-css" href="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/css/default.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="otw-bm-font-awesome-css" href="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/css/font-awesome.min.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="otw-bm-bm-css" href="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/css/otw-blog-manager.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="otw-bm-grid-css" href="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/css/otw-grid.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="gsfw-stylesheet-css" href="https://www.wootric.com/wp-content/plugins/genesis-variable-footer-widgets/css/style.min.css?ver=1.1" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C700%7CCrimson+Text%3A400%2C700&amp;ver=2.3.6" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://www.wootric.com/wp-includes/css/dashicons.min.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://www.wootric.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_custom_css-css" href="//www.wootric.com/wp-content/uploads/js_composer/custom.css?ver=5.1.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.wootric.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/handl-utm-grabber/js/js.cookie.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/handl-utm-grabber/js/handl-utm-grabber.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/indeed-my-team-vc/files/js/owl.carousel.js"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/indeed-my-team-vc/files/js/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/js/jquery.fancybox.min.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/js/jquery.flexslider.min.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/js/jquery.infinitescroll.min.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/js/isotope.pkgd.min.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/js/pixastic.custom.min.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/js/jquery.fitvids.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.5.1"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/themes/genesis/lib/js/skip-links.js?ver=4.7.4"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.wootric.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://www.wootric.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.wootric.com/xmlrpc.php?rsd">
+<link rel="alternate" type="application/json+oembed" href="https://www.wootric.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wootric.com%2Fcompany%2Fprivacy">
+<link rel="alternate" type="text/xml+oembed" href="https://www.wootric.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wootric.com%2Fcompany%2Fprivacy&amp;format=xml">
+<script>jQuery(document).ready(function(){jQuery("form").append("<input type='hidden' name='input_-1' value='"+window.location.href+"'>");});</script><script type="text/javascript">
+	var trackcmp_email = "";
+	var trackcmp = document.createElement("script");
+	trackcmp.async = true;
+	trackcmp.type = "text/javascript";
+	trackcmp.src = "//trackcmp.net/visit?actid=&e="+encodeURIComponent(trackcmp_email)+"&r="+encodeURIComponent(document.referrer)+"&u="+encodeURIComponent(window.location.href);
+	var trackcmp_s = document.getElementsByTagName("script");
+	if (trackcmp_s.length) {
+		trackcmp_s[0].parentNode.appendChild(trackcmp);
+	} else {
+		var trackcmp_h = document.getElementsByTagName("head");
+		trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp);
+	}
+	</script><script async="" type="text/javascript" src="//trackcmp.net/visit?actid=&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170606212843id_%2Fhttps%253A%2F%2Fwww.wootric.com%2Fcompany%2Fprivacy"></script><style type="text/css">/*Custom CSS generated by the Genesis Custom Header plugin*/
+
+.gch-header-image {text-align: center;}</style><script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="8a95a1d34bd62d6befa58e684d7284e1ce1e6d8f2fbd3af59ac0a081ffe0e62f" async=""></script>
+<!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
+<script data-cfasync="false" type="text/javascript">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || []
+	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"admin account"});
+</script>
+<script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TVZCCL');</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by DuracellTomi --><link rel="pingback" href="https://www.wootric.com/xmlrpc.php">
+<script type="text/javascript">
+wootric_no_surveyed_cookie = true;
+
+var Wootric = {
+add_score_param_to_url: true,
+add_comment_param_to_url: true,
+thankYouMessages: {
+thank_you_setup_list: {
+promoter_thank_you_setup: 'Join our referral program today. You and a friend will each earn $10 towards your next order.'
+}
+},
+thankYouLinks: {
+thank_you_link_text_list: {
+promoter_thank_you_link_text: "Refer a friend to Wootric."
+},
+thank_you_link_url_list: {
+promoter_thank_you_link_url: 'http://blog.wootric.com'
+}
+}
+};
+
+window.wootricSettings = {
+email: "demo@wootric.com",
+account_token: 'NPS-deaf0756',
+modal_theme: 'light',
+modal_footprint: 'compact',
+social_message: 'Would you be willing to share your positive comments or refer a friend?',
+social_link_text: 'Refer a friend and earn $10!',
+social_link_url: 'http://wootric.com',
+};
+</script>
+
+<script src="https://use.typekit.net/yeu7pka.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<script type="text/javascript" src="/wp-content/js/runtime.js"></script>
+<script type="text/javascript" src="/wp-content/js/iOS_web_survey.js"></script>
+<style>
+.page-id-4921 .vc_custom_1495215413046{padding-top: 5px;}
+.page-id-4921 label {color: #9B9B9B;font-size: 20px!important;text-transform: uppercase;font-weight:normal!important}
+.page-id-4921 input[type=text],.page-id-4921 textarea{background-color: #f5f5f5; border-bottom: 1px solid #9B9B9B;margin-top:8px}
+body.page-id-4921 .gform_wrapper .top_label div.ginput_container {margin-top: 0px;}
+.page-id-4921 label.gfield_label_before_complex {
+    font-size: 28px!important;
+    text-transform: none;
+    font-weight: 300!important;
+    text-align:center;
+    display:block!important;
+    padding-bottom:20px;
+}
+
+@media (max-width: 756px) {
+.page-id-4921 .vc_col-sm-3 {width: 0%;}
+
+.page-id-4921 .vc_col-sm-6 {
+    width: 92%;
+}
+@media (max-width: 420px) {
+.page-id-4921 .vc_col-sm-6 {
+    width: 98%;
+}
+</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.wootric.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+<link rel="icon" href="https://s3.amazonaws.com/wootric-marketing/wp-content/uploads/2016/03/cropped-logo-51x51.png" sizes="32x32">
+<link rel="icon" href="https://s3.amazonaws.com/wootric-marketing/wp-content/uploads/2016/03/cropped-logo-285x285.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://s3.amazonaws.com/wootric-marketing/wp-content/uploads/2016/03/cropped-logo-285x285.png">
+<meta name="msapplication-TileImage" content="https://s3.amazonaws.com/wootric-marketing/wp-content/uploads/2016/03/cropped-logo-285x285.png">
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+ Click the help icon above to learn more.
+*/
+body .gform_wrapper .gform_body .gform_fields #field_9_1.gfield input[type=email] {width: 600px;}		</style>
+	<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1458960558414{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1466580746908{padding-left: 58px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+
+
+<script type="text/javascript"> /*{literal}<![CDATA[*/
+      if (window.wootricSettings) {
+          i = new Image;
+          i.src = "//d8myem934l1zi.cloudfront.net/pixel.gif?account_token=" + window.wootricSettings.account_token + "&email=" + encodeURIComponent(window.wootricSettings.email) + "&created_at=" + window.wootricSettings.created_at + "&url=" + encodeURIComponent(window.location) + "&random=" + Math.random()
+      }
+  window.lightningjs || function(c) {
+      function g(b, d) {
+          d && (d += (/\?/.test(d) ? "&" : "?") + "lv=1");
+          c[b] || function() {
+              var i = window,
+                  h = document,
+                  j = b,
+                  g = h.location.protocol,
+                  l = "load",
+                  k = 0;
+              (function() {
+                  function b() {
+                      a.P(l);
+                      a.w = 1;
+                      c[j]("_load")
+                  }
+                  c[j] = function() {
+                      function m() {
+                          m.id = e;
+                          return c[j].apply(m, arguments)
+                      }
+                      var b, e = ++k;
+                      b = this && this != i ? this.id || 0 : 0;
+                      (a.s = a.s || []).push([e, b, arguments]);
+                      m.then = function(b, c, h) {
+                          var d = a.fh[e] = a.fh[e] || [],
+                              j = a.eh[e] = a.eh[e] || [],
+                              f = a.ph[e] = a.ph[e] || [];
+                          b && d.push(b);
+                          c && j.push(c);
+                          h && f.push(h);
+                          return m
+                      };
+                      return m
+                  };
+                  var a = c[j]._ = {};
+                  a.fh = {};
+                  a.eh = {};
+                  a.ph = {};
+                  a.l = d ? d.replace(/^\/\//, (g == "https:" ? g : "http:") + "//") : d;
+                  a.p = {
+                      0: +new Date
+                  };
+                  a.P = function(b) {
+                      a.p[b] = new Date - a.p[0]
+                  };
+                  a.w && b();
+                  i.addEventListener ? i.addEventListener(l, b, !1) : i.attachEvent("on" + l, b);
+                  var q = function() {
+                      function b() {
+                          return ["<head></head><", c, ' onload="var d=', n, ";d.getElementsByTagName('head')[0].", d, "(d.", g, "('script')).", i, "='", a.l, "'\"></", c, ">"].join("")
+                      }
+                      var c = "body",
+                          e = h[c];
+                      if (!e) return setTimeout(q, 100);
+                      a.P(1);
+                      var d = "appendChild",
+                          g = "createElement",
+                          i = "src",
+                          k = h[g]("div"),
+                          l = k[d](h[g]("div")),
+                          f = h[g]("iframe"),
+                          n = "document",
+                          p;
+                      k.style.display = "none";
+                      e.insertBefore(k, e.firstChild).id = o + "-" + j;
+                      f.frameBorder = "0";
+                      f.id = o + "-frame-" + j;
+                      /MSIE[ ]+6/.test(navigator.userAgent) && (f[i] = "javascript:false");
+                      f.allowTransparency = "true";
+                      l[d](f);
+                      try {
+                          f.contentWindow[n].open()
+                      } catch (s) {
+                          a.domain = h.domain, p = "javascript:var d=" + n + ".open();d.domain='" + h.domain + "';", f[i] = p + "void(0);"
+                      }
+                      try {
+                          var r = f.contentWindow[n];
+                          r.write(b());
+                          r.close()
+                      } catch (t) {
+                          f[i] = p + 'd.write("' + b().replace(/"/g, String.fromCharCode(92) + '"') + '");d.close();'
+                      }
+                      a.P(2)
+                  };
+                  a.l && q()
+              })()
+          }();
+          c[b].lv = "1";
+          return c[b]
+      }
+      var o = "lightningjs",
+          k = window[o] = g(o);
+      k.require = g;
+      k.modules = c
+  }({});
+  window.wootric = lightningjs.require("wootric", "/libs/js/beacon.js");
+ /*]]>{/literal}*/ </script><style type="text/css">.tk-latienne-pro{font-family:"latienne-pro",sans-serif;}</style><style type="text/css">@font-face{font-family:latienne-pro;src:url(https://use.typekit.net/af/070ee9/000000000000000000014f25/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("woff2"),url(https://use.typekit.net/af/070ee9/000000000000000000014f25/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("woff"),url(https://use.typekit.net/af/070ee9/000000000000000000014f25/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:latienne-pro;src:url(https://use.typekit.net/af/058d18/000000000000000000014f24/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("woff2"),url(https://use.typekit.net/af/058d18/000000000000000000014f24/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("woff"),url(https://use.typekit.net/af/058d18/000000000000000000014f24/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:latienne-pro;src:url(https://use.typekit.net/af/bd67be/000000000000000000014f26/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("woff2"),url(https://use.typekit.net/af/bd67be/000000000000000000014f26/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("woff"),url(https://use.typekit.net/af/bd67be/000000000000000000014f26/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("opentype");font-weight:400;font-style:italic;}@font-face{font-family:latienne-pro;src:url(https://use.typekit.net/af/57ca61/000000000000000000014f29/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("woff2"),url(https://use.typekit.net/af/57ca61/000000000000000000014f29/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("woff"),url(https://use.typekit.net/af/57ca61/000000000000000000014f29/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=bi8j%2BxiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I%3D) format("opentype");font-weight:700;font-style:italic;}</style>
+
+</head>
+
+<body class="page-template-default page page-id-1592 page-child parent-pageid-155 custom-background header-full-width full-width-content wpb-js-composer js-comp-ver-5.1.1 vc_responsive" itemscope="" itemtype="http://schema.org/WebPage"><div id="lightningjs-wootric" style="display: none;"><div><iframe frameborder="0" id="lightningjs-frame-wootric"></iframe></div></div><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div><div class="site-container"><section><h2 class="screen-reader-text">Skip links</h2><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to content</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul></section>
+<header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="https://www.wootric.com/">Wootric</a></p><p class="site-description" itemprop="description">Boost customer happiness with Wootric</p></div></div></header><h2 class="screen-reader-text">Main navigation</h2>
+				<script type="text/javascript">
+					var ajax_url = "https://www.wootric.com/wp-admin/admin-ajax.php";
+					var hmenu_url = "https://www.wootric.com/wp-content/plugins/hmenu/";
+				</script>
+			<nav class="nav-primary" itemscope="" itemtype="http://schema.org/SiteNavigationElement" id="genesis-nav-primary" aria-label="Main navigation"><div class="wrap"> <script type="text/javascript"> jQuery(function(){ hmenu_activate_menu('1','https://www.wootric.com/company/privacy'); }); </script> <link rel="stylesheet" property="stylesheet" id="hmenu-1-general-css" href="https://www.wootric.com/wp-content/plugins/hmenu//_frontend_files/_menu_1/_css/hero_menu_styles.css" type="text/css" media="all"><link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"><div class="hmenu_wrapper_state_1"><div id="hmenu_load_1" style="display:none" class="hmenu_load_menu hmenu_unique_menu_1" data-menu-id="1"> <!-- BEGIN: MAIN --> <div id="hmenu_holder_1" class="hmenu_main_holder hmenu_main_bg_color" data-sticky="yes" data-activate="360" data-height="70"> <!-- BEGIN: INNER --> <div class="hmenu_inner_holder"> <div class="menu_responsive_label"></div> <!-- BEGIN: LEFT --> <div class="hmenu_left"> <!-- BEGIN: LOGO --> <div class="hmenu_logo"> <a href="https://www.wootric.com" target="_self"> <img class="logo_main" alt="" src="https://s3.amazonaws.com/wootric-marketing/wp-content/uploads/2017/04/Logo-website.png"> <img class="logo_sticky" alt="" src="https://s3.amazonaws.com/wootric-marketing/wp-content/uploads/2017/04/Logo-website.png"> <img class="logo_mobile" alt="" src="https://s3.amazonaws.com/wootric-marketing/wp-content/uploads/2017/04/Logo-website.png"> </a> </div> <div class="hmenu_grp_devider"></div> <!-- END: LOGO --> </div> <!-- END: LEFT --> <!-- BEGIN: CENTER --> <div class="hmenu_center"> </div> <!-- END: CENTER --> <!-- BEGIN: RIGHT --> <div class="hmenu_right"> <!-- BEGIN: NAV --> <div class="hmenu_navigation_holder"> <ul class="hmenu_navigation_root hmenu_hover_color hmenu_underline_hover"><li class=""><a title="" href="/product" target="_self"><div class="hmenu_wrap icon_hero_default_solid_e600 hmenu_nav_uni_35 icon_hero_default_thin_e600"><span>&nbsp;Product&nbsp;&nbsp;&nbsp;</span></div></a><div class="hmenu_item_devider"></div><div class="hmenu_submenu hmenu_sub " data-menu-level="0"><ul class="hmenu_navigation_root "><li class=""><a href="https://www.wootric.com/product" target="_self" title=""><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_34"><span>Net Promoter Score (NPS)</span></div></a></li><li class=""><a href="https://www.wootric.com/product/csat-customer-satisfaction-survey" target="_self" title=""><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_33"><span>Customer Satisfaction Score (CSAT)</span></div></a></li><li class=""><a href="https://www.wootric.com/product/ces-customer-effort-score-survey" target="_self" title=""><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_32"><span>Customer Effort Score (CES)</span></div></a></li><li class=""><a href="https://www.wootric.com/integrations" target="_self" title=""><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_44"><span>Integrations</span></div></a></li></ul></div></li><li class=""><a href="https://www.wootric.com/pricing" target="_self" title=""><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_31"><span> &nbsp;&nbsp;&nbsp; Pricing &nbsp; &nbsp;</span></div></a><div class="hmenu_item_devider"></div></li><li class=""><a href="https://demo.wootric.com/" target="_self" title=""><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_22"><span>&nbsp;&nbsp;Demo&nbsp;&nbsp;&nbsp;</span></div></a><div class="hmenu_item_devider"></div></li><li class=""><a href="https://www.wootric.com/company/customer-stories" target="_self" title=""><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_23"><span>Customers&nbsp;&nbsp;</span></div></a><div class="hmenu_item_devider"></div></li><li class=""><a href="https://www.wootric.com/resources-improve-cx-nps-csat-ces-customer-feedback" target="_self" title=""><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_46"><span>Resources</span></div></a><div class="hmenu_item_devider"></div></li><li class=""><a href="https://app.wootric.com/sign_in" target="_self" title=""><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_5"><span>Sign In</span></div></a><div class="hmenu_item_devider"></div></li><li class=""><a href="https://app.wootric.com/sign_up" target="_self" title=""><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_6"><span>Sign Up Free</span></div></a><div class="hmenu_item_devider"></div></li></ul> </div> <div class="hmenu_grp_devider"></div> <!-- END: NAV --> <!-- BEGIN: TOGGLE --> <div class="hmenu_toggle_holder hmenu_mobile_show" data-toggle="close"> <div class="hmenu_grp_devider"></div> <ul class="hmenu_hover_color"> <li><a><div class="hmenu_wrap icon_hero_default_thin_e645"></div></a></li> </ul> </div> <!-- END: TOGGLE --> </div> <!-- END: RIGHT --> </div> <!-- END: INNER --> <!-- BEGIN: SEARCH FULL INPUT --> <!-- END: SEARCH FULL INPUT --> </div> <!-- END: MAIN --> </div></div></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="post-1592 page type-page status-publish entry" itemscope="" itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy</h1> 
+</header><div class="entry-content" itemprop="text"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.5" data-vc-parallax-image="https://s3.amazonaws.com/wootric-marketing/wp-content/uploads/2016/03/customer-stories4.jpg" class="vc_row wpb_row vc_row-fluid vc_custom_1458960558414 vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving boomapps_vcrow"><div class="wpb_column vc_column_container vc_col-sm-12 boomapps_vccolumn"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  white">
+		<div class="wpb_wrapper">
+			<h1 style="text-align: center;">Privacy</h1>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1466580746908 boomapps_vcrow"><div class="wpb_column vc_column_container vc_col-sm-12 boomapps_vccolumn"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Wootric, Inc. Privacy Policy</p>
+<p>We at Wootric, Inc. (“Wootric,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. This privacy policy describes how Wootric, Inc collects and uses the personal information you provide on our Web site: www.wootric.om. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the Wootric Terms of Use.</p>
+<p>I. WHAT DOES THIS PRIVACY POLICY COVER?</p>
+<p>This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Website or Services. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.</p>
+<p>We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our Terms of Use). No one under age 13 may provide any personal information to us or on the Services.</p>
+<p>II. WHAT INFORMATION DOES WOOTRIC COLLECT?</p>
+<p>We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to personalize and improve the Services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for the Services, to analyze how users utilize the Website, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (described in this Section and in Section IV below). We collect the following types of information:</p>
+<p>A. Information You Provide to Us:</p>
+<p>Your Personal Information: We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, email address, and browser information. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.</p>
+<p>Your End User Customers’ Personal Information: In order to provide you with the Services, we also receive and store any information you choose to provide us with respect to your end user customers (“End User Customers”). The End User Customer information (“End User Customer Information”) we receive and store typically includes names and email addresses of your customers, but will consist of any information you choose to provide us with.</p>
+<p>If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Wootric, Inc stores this information for the sole purpose of sending this one-time email, and tracking the success of our referral program.</p>
+<p>Your friend may contact us at support@wootric.com to request that we remove this information from our database.</p>
+<p>B. Information Collected Automatically:</p>
+<p>Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or mobile device that allow us to recognize your browser or mobile device and tell us how and when pages in our Website are visited by you. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some of our Website’s features. If you click on a link to a third party website, such third party may also transmit cookies to you. This Privacy Policy does not cover the use of cookies by any third parties.</p>
+<p>When you visit the Website, whether as an Wootric customer or a non-registered user just browsing, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). For example, Log Data may include information such as your computer’s IP address, browser type or the webpage you were visiting before you came to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics. We use this information to monitor and analyze use of the Website and the Services and for the Website’s technical administration, to increase our Website’s functionality and user-friendliness, and to better tailor it to our visitors’ needs.</p>
+<p>Additionally, as part of our provision of the Services to you, if you install certain software code provided by us on your website, we will also track and collect End User Customer usage information on your website. We also use third parties to collect publicly available information relating to your End User Customers. For more information on how we collect and compile End User Customer Information, please see Section IV below.</p>
+<p>The use of cookies by our tracking utilities is not covered by our privacy policy. We do not have access or control over these cookies. Our tracking utilities use both session ID and persistent cookies to enable us to design a better experience for our customers.</p>
+<p>C. E-mail and Other Communications:</p>
+<p>We may contact you, by email or other means; for example, we may communicate with you about your use of the Website or Services. If you do not want to receive email or other mail from us, please indicate your preference by adjusting the settings on your account screen in the Website. Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.</p>
+<p>III. WHERE WE STORE YOUR PERSONAL INFORMATION</p>
+<p>If you are located outside the United States, the information that we collect from you may be transferred to, and stored and processed at, a destination in the United States. By submitting information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Privacy Policy.</p>
+<p>IV. WILL WOOTRIC SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?</p>
+<p>We neither rent nor sell your Personal Information or your End User Customers’ Personal Information in personally identifiable form to anyone. We share such Personal Information in personally identifiable form with third parties as described below.</p>
+<p>A. Trusted Third Parties: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide the Services to you. Unless we tell you differently, such third parties do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. This includes third party companies and individuals employed by us to facilitate our Services, including the provision of maintenance services, database management, Web analytics and general improvement of the Services.</p>
+<p>B. Business Transfers: We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Also, if we (or substantially all of our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party.</p>
+<p>C. Protection of Wootric and Others: We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or a court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Wootric, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
+<p>D. With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.</p>
+<p>V. IS THE PERSONAL INFORMATION SECURE?</p>
+<p>Your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.</p>
+<p>We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. The transmission of information via the Internet is not completely secure. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.</p>
+<p>When you enter your information on our site we encrypt the transmission of that information using secure socket layer technology (SSL).</p>
+<p>The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.</p>
+<p>VI. WHAT PERSONAL INFORMATION CAN I ACCESS?</p>
+<p>Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:</p>
+<p>name and password</p>
+<p>email address</p>
+<p>company domain</p>
+<p>location</p>
+<p>The information you can view, update, and delete may change as the Website changes. If you have any questions about viewing or updating information we have on file about you, please contact us at support@wootric.com. We will respond to your request to access within 30 days. Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: support@wootric.com.</p>
+<p>Testimonials</p>
+<p>We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. To request removal of your personal information from Testimonials or comments please contact us at support@wootric.com</p>
+<p>VII. WHAT CHOICES DO I HAVE?</p>
+<p>You can always opt not to disclose information to use, but keep in mind some information may be needed to register with us or to take advantage of some of our special features. You may be able to add, update, or delete information as explained in Section VI above. When you update information, however, we may maintain a copy of the unrevised information in our records. We will retain your information for as long as your account is active or as needed to provide you services. You may request deletion of your account by contacting us at support@wootric.com. Please note that some information may remain in our private records after your deletion of such information from your account. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.</p>
+<p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.</p>
+<p>To request removal of your personal information from our blog or community forum, contact us at support@wootric.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p>VIII. CHANGES TO THIS PRIVACY POLICY</p>
+<p>We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes or changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email prior to the change becoming effective. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted.</p>
+<p>IX. QUESTIONS OR CONCERNS</p>
+<p>If you have any questions or concerns regarding our privacy policies, please send us a detailed message support@wootric.com. We will make every effort to resolve your concerns.</p>
+<p>3616 18th St. Apt 1, San Francisco, CA 94110 USA</p>
+<p>Effective Date: January 1, 2014</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+</div></article></main></div></div><div class="footer-widgets gsfw-footer-widgets-5" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">PRODUCTS</h3>
+<div class="menu-footer-1-products-container"><ul id="menu-footer-1-products" class="menu"><li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://www.wootric.com/product" itemprop="url">Net Promoter Score (NPS)</a></li>
+<li id="menu-item-4364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4364"><a href="https://www.wootric.com/product/csat-customer-satisfaction-survey" itemprop="url">Customer Satisfaction (CSAT)</a></li>
+<li id="menu-item-4363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4363"><a href="https://www.wootric.com/product/ces-customer-effort-score-survey" itemprop="url">Customer Effort Score (CES)</a></li>
+<li id="menu-item-5054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5054"><a href="https://www.wootric.com/integrations" itemprop="url">Integrations</a></li>
+<li id="menu-item-4620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4620"><a href="https://www.wootric.com/pricing" itemprop="url">Pricing</a></li>
+</ul></div></div></section>
+</div><div class="footer-widgets-2 widget-area"><section id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">RESOURCES</h3>
+<div class="menu-footer-2-resources-container"><ul id="menu-footer-2-resources" class="menu"><li id="menu-item-1590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1590"><a href="https://www.wootric.com/blog/what-is-nps-the-concept-and-formula" itemprop="url">What is NPS?</a></li>
+<li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a href="https://demo.wootric.com/" itemprop="url">Demo Dashboard</a></li>
+<li id="menu-item-1591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1591"><a href="https://www.wootric.com/nps-in-saas" itemprop="url">Webinar</a></li>
+<li id="menu-item-1589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1589"><a href="http://help.wootric.com/help_center" itemprop="url">Support &amp; FAQ</a></li>
+<li id="menu-item-3080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3080"><a href="https://www.wootric.com/the-modern-guide-to-winning-customers-with-net-promoter-score" itemprop="url">E-BOOK: The Modern Guide to NPS</a></li>
+</ul></div></div></section>
+</div><div class="footer-widgets-3 widget-area"><section id="nav_menu-4" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">FOR DEVELOPERS</h3>
+<div class="menu-footer-3-developers-container"><ul id="menu-footer-3-developers" class="menu"><li id="menu-item-1585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1585"><a href="http://docs.wootric.com/" itemprop="url">Docs</a></li>
+<li id="menu-item-1586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1586"><a href="http://docs.wootric.com/api/" itemprop="url">API</a></li>
+<li id="menu-item-1587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1587"><a href="https://github.com/Wootric/WootricSDK-iOS" itemprop="url">iOS SDK</a></li>
+<li id="menu-item-1588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1588"><a href="https://github.com/Wootric/WootricSDK-Android" itemprop="url">Android SDK</a></li>
+<li id="menu-item-2722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2722"><a href="https://www.wootric.com/developers/security" itemprop="url">Security</a></li>
+</ul></div></div></section>
+</div><div class="footer-widgets-4 widget-area"><section id="nav_menu-5" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">COMPANY</h3>
+<div class="menu-footer-4-company-container"><ul id="menu-footer-4-company" class="menu"><li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://www.wootric.com/company/about" itemprop="url">About</a></li>
+<li id="menu-item-4151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4151"><a href="https://www.wootric.com/company/customer-stories" itemprop="url">Customer Stories</a></li>
+<li id="menu-item-2675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2675"><a href="https://www.wootric.com/blog" itemprop="url">Blog</a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://www.wootric.com/company/careers" itemprop="url">Careers</a></li>
+<li id="menu-item-1599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1599"><a href="https://www.wootric.com/company/press-news" itemprop="url">Press &amp; News</a></li>
+<li id="menu-item-1596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1596"><a href="https://www.wootric.com/contact-us" itemprop="url">Contact Us</a></li>
+</ul></div></div></section>
+</div><div class="footer-widgets-5 widget-area"><section id="text-2" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">STAY CONNECTED</h3>
+			<div class="textwidget"><div class="social-container"><a href="http://www.facebook.com/wootric" target="_new"><img src="/wp-content/uploads/2016/03/icon-facebook.png"></a> <a href="http://www.twitter.com/wootric" target="_new"><img src="/wp-content/uploads/2016/03/icon-twitter.png"></a>
+<a href="http://www.linkedin.com/company/wootric" target="_new"><img src="/wp-content/uploads/2016/03/icon-linkedin.png"></a>
+<a href="http://www.google.com/+Wootric" target="_new"><img src="/wp-content/uploads/2016/03/icon-g.png"></a></div></div>
+		</div></section>
+</div></div></div><footer class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter"><div class="wrap"><small>Copyright ©&nbsp;2017 | Wootric  | All rights reserved | <a href="/company/privacy">Privacy</a> | <a href="/company/terms-of-service">Terms of Service</a> <br><br>  <em>NPS is a registered trademark, and Net Promoter Score is a service mark, of Bain &amp; Company, Inc., Satmetrix Systems, Inc. and Fred Reichheld.</em></small><br> <br><a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a>
+</div></footer></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TVZCCL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('7746-102-10-6559');/*]]>*/</script><noscript><a href="https://www.olark.com/site/7746-102-10-6559/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code --><link rel="stylesheet" id="hmenu_userstyles-css" href="https://www.wootric.com/wp-content/plugins/hmenu/assets/css/frontend_styles.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="hmenu_backendiconsocial-css" href="https://www.wootric.com/wp-content/plugins/hmenu/_static_fonts/hero_static_fonts.css?ver=4.7.4" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var otw_bm_js_labels = {"otw_bm_loading_text":"Loading posts...","otw_bm_no_more_posts_text":"No More Posts Found"};
+var socialShareURL = "https:\/\/www.wootric.com\/wp-admin\/admin-ajax.php?action=social_share&nonce=dae2014056";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/otw-blog-manager/frontend/js/script.js?ver=4.7.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"page","leadinPluginVersion":"6.1.2"};
+/* ]]> */
+</script>
+<script type="text/javascript" async="" defer="" src="//js.hs-scripts.com/2203194.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.5"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.4.2"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-includes/js/wp-embed.min.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/hmenu//assets/js/frontend_script.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/hmenu//assets/js/frontend_dimensions.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js?ver=5.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"wootric"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.wootric.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.7.4"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"86fa73c6fa","applicationID":"17149346","transactionName":"ZwNRNUFRDRYAVEANVl5JcgJHWQwLTkdVA1w=","queueTime":0,"applicationTime":653,"atts":"S0RSQwlLHhg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('7746-102-10-6559');/*]]>*/</script><noscript><a href="https://www.olark.com/site/7746-102-10-6559/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code -->
+
+<script type="text/javascript"> 
+/* -----------------------------------------------
+/* Author : Vincent Garreau  - vincentgarreau.com
+/* MIT license: http://opensource.org/licenses/MIT
+/* Demo / Generator : vincentgarreau.com/particles.js
+/* GitHub : github.com/VincentGarreau/particles.js
+/* How to use? : Check the GitHub README
+/* v2.0.0
+/* ----------------------------------------------- */
+function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,function(e,a,t,i){return a+a+t+t+i+i});var t=/^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(e);return t?{r:parseInt(t[1],16),g:parseInt(t[2],16),b:parseInt(t[3],16)}:null}function clamp(e,a,t){return Math.min(Math.max(e,a),t)}function isInArray(e,a){return a.indexOf(e)>-1}var pJS=function(e,a){var t=document.querySelector("#"+e+" > .particles-js-canvas-el");this.pJS={canvas:{el:t,w:t.offsetWidth,h:t.offsetHeight},particles:{number:{value:400,density:{enable:!0,value_area:800}},color:{value:"#fff"},shape:{type:"circle",stroke:{width:0,color:"#ff0000"},polygon:{nb_sides:5},image:{src:"",width:100,height:100}},opacity:{value:1,random:!1,anim:{enable:!1,speed:2,opacity_min:0,sync:!1}},size:{value:20,random:!1,anim:{enable:!1,speed:20,size_min:0,sync:!1}},line_linked:{enable:!0,distance:100,color:"#fff",opacity:1,width:1},move:{enable:!0,speed:2,direction:"none",random:!1,straight:!1,out_mode:"out",bounce:!1,attract:{enable:!1,rotateX:3e3,rotateY:3e3}},array:[]},interactivity:{detect_on:"canvas",events:{onhover:{enable:!0,mode:"grab"},onclick:{enable:!0,mode:"push"},resize:!0},modes:{grab:{distance:100,line_linked:{opacity:1}},bubble:{distance:200,size:80,duration:.4},repulse:{distance:200,duration:.4},push:{particles_nb:4},remove:{particles_nb:2}},mouse:{}},retina_detect:!1,fn:{interact:{},modes:{},vendors:{}},tmp:{}};var i=this.pJS;a&&Object.deepExtend(i,a),i.tmp.obj={size_value:i.particles.size.value,size_anim_speed:i.particles.size.anim.speed,move_speed:i.particles.move.speed,line_linked_distance:i.particles.line_linked.distance,line_linked_width:i.particles.line_linked.width,mode_grab_distance:i.interactivity.modes.grab.distance,mode_bubble_distance:i.interactivity.modes.bubble.distance,mode_bubble_size:i.interactivity.modes.bubble.size,mode_repulse_distance:i.interactivity.modes.repulse.distance},i.fn.retinaInit=function(){i.retina_detect&&window.devicePixelRatio>1?(i.canvas.pxratio=window.devicePixelRatio,i.tmp.retina=!0):(i.canvas.pxratio=1,i.tmp.retina=!1),i.canvas.w=i.canvas.el.offsetWidth*i.canvas.pxratio,i.canvas.h=i.canvas.el.offsetHeight*i.canvas.pxratio,i.particles.size.value=i.tmp.obj.size_value*i.canvas.pxratio,i.particles.size.anim.speed=i.tmp.obj.size_anim_speed*i.canvas.pxratio,i.particles.move.speed=i.tmp.obj.move_speed*i.canvas.pxratio,i.particles.line_linked.distance=i.tmp.obj.line_linked_distance*i.canvas.pxratio,i.interactivity.modes.grab.distance=i.tmp.obj.mode_grab_distance*i.canvas.pxratio,i.interactivity.modes.bubble.distance=i.tmp.obj.mode_bubble_distance*i.canvas.pxratio,i.particles.line_linked.width=i.tmp.obj.line_linked_width*i.canvas.pxratio,i.interactivity.modes.bubble.size=i.tmp.obj.mode_bubble_size*i.canvas.pxratio,i.interactivity.modes.repulse.distance=i.tmp.obj.mode_repulse_distance*i.canvas.pxratio},i.fn.canvasInit=function(){i.canvas.ctx=i.canvas.el.getContext("2d")},i.fn.canvasSize=function(){i.canvas.el.width=i.canvas.w,i.canvas.el.height=i.canvas.h,i&&i.interactivity.events.resize&&window.addEventListener("resize",function(){i.canvas.w=i.canvas.el.offsetWidth,i.canvas.h=i.canvas.el.offsetHeight,i.tmp.retina&&(i.canvas.w*=i.canvas.pxratio,i.canvas.h*=i.canvas.pxratio),i.canvas.el.width=i.canvas.w,i.canvas.el.height=i.canvas.h,i.particles.move.enable||(i.fn.particlesEmpty(),i.fn.particlesCreate(),i.fn.particlesDraw(),i.fn.vendors.densityAutoParticles()),i.fn.vendors.densityAutoParticles()})},i.fn.canvasPaint=function(){i.canvas.ctx.fillRect(0,0,i.canvas.w,i.canvas.h)},i.fn.canvasClear=function(){i.canvas.ctx.clearRect(0,0,i.canvas.w,i.canvas.h)},i.fn.particle=function(e,a,t){if(this.radius=(i.particles.size.random?Math.random():1)*i.particles.size.value,i.particles.size.anim.enable&&(this.size_status=!1,this.vs=i.particles.size.anim.speed/100,i.particles.size.anim.sync||(this.vs=this.vs*Math.random())),this.x=t?t.x:Math.random()*i.canvas.w,this.y=t?t.y:Math.random()*i.canvas.h,this.x>i.canvas.w-2*this.radius?this.x=this.x-this.radius:this.x<2*this.radius&&(this.x=this.x+this.radius),this.y>i.canvas.h-2*this.radius?this.y=this.y-this.radius:this.y<2*this.radius&&(this.y=this.y+this.radius),i.particles.move.bounce&&i.fn.vendors.checkOverlap(this,t),this.color={},"object"==typeof e.value)if(e.value instanceof Array){var s=e.value[Math.floor(Math.random()*i.particles.color.value.length)];this.color.rgb=hexToRgb(s)}else void 0!=e.value.r&&void 0!=e.value.g&&void 0!=e.value.b&&(this.color.rgb={r:e.value.r,g:e.value.g,b:e.value.b}),void 0!=e.value.h&&void 0!=e.value.s&&void 0!=e.value.l&&(this.color.hsl={h:e.value.h,s:e.value.s,l:e.value.l});else"random"==e.value?this.color.rgb={r:Math.floor(256*Math.random())+0,g:Math.floor(256*Math.random())+0,b:Math.floor(256*Math.random())+0}:"string"==typeof e.value&&(this.color=e,this.color.rgb=hexToRgb(this.color.value));this.opacity=(i.particles.opacity.random?Math.random():1)*i.particles.opacity.value,i.particles.opacity.anim.enable&&(this.opacity_status=!1,this.vo=i.particles.opacity.anim.speed/100,i.particles.opacity.anim.sync||(this.vo=this.vo*Math.random()));var n={};switch(i.particles.move.direction){case"top":n={x:0,y:-1};break;case"top-right":n={x:.5,y:-.5};break;case"right":n={x:1,y:-0};break;case"bottom-right":n={x:.5,y:.5};break;case"bottom":n={x:0,y:1};break;case"bottom-left":n={x:-.5,y:1};break;case"left":n={x:-1,y:0};break;case"top-left":n={x:-.5,y:-.5};break;default:n={x:0,y:0}}i.particles.move.straight?(this.vx=n.x,this.vy=n.y,i.particles.move.random&&(this.vx=this.vx*Math.random(),this.vy=this.vy*Math.random())):(this.vx=n.x+Math.random()-.5,this.vy=n.y+Math.random()-.5),this.vx_i=this.vx,this.vy_i=this.vy;var r=i.particles.shape.type;if("object"==typeof r){if(r instanceof Array){var c=r[Math.floor(Math.random()*r.length)];this.shape=c}}else this.shape=r;if("image"==this.shape){var o=i.particles.shape;this.img={src:o.image.src,ratio:o.image.width/o.image.height},this.img.ratio||(this.img.ratio=1),"svg"==i.tmp.img_type&&void 0!=i.tmp.source_svg&&(i.fn.vendors.createSvgImg(this),i.tmp.pushing&&(this.img.loaded=!1))}},i.fn.particle.prototype.draw=function(){function e(){i.canvas.ctx.drawImage(r,a.x-t,a.y-t,2*t,2*t/a.img.ratio)}var a=this;if(void 0!=a.radius_bubble)var t=a.radius_bubble;else var t=a.radius;if(void 0!=a.opacity_bubble)var s=a.opacity_bubble;else var s=a.opacity;if(a.color.rgb)var n="rgba("+a.color.rgb.r+","+a.color.rgb.g+","+a.color.rgb.b+","+s+")";else var n="hsla("+a.color.hsl.h+","+a.color.hsl.s+"%,"+a.color.hsl.l+"%,"+s+")";switch(i.canvas.ctx.fillStyle=n,i.canvas.ctx.beginPath(),a.shape){case"circle":i.canvas.ctx.arc(a.x,a.y,t,0,2*Math.PI,!1);break;case"edge":i.canvas.ctx.rect(a.x-t,a.y-t,2*t,2*t);break;case"triangle":i.fn.vendors.drawShape(i.canvas.ctx,a.x-t,a.y+t/1.66,2*t,3,2);break;case"polygon":i.fn.vendors.drawShape(i.canvas.ctx,a.x-t/(i.particles.shape.polygon.nb_sides/3.5),a.y-t/.76,2.66*t/(i.particles.shape.polygon.nb_sides/3),i.particles.shape.polygon.nb_sides,1);break;case"star":i.fn.vendors.drawShape(i.canvas.ctx,a.x-2*t/(i.particles.shape.polygon.nb_sides/4),a.y-t/1.52,2*t*2.66/(i.particles.shape.polygon.nb_sides/3),i.particles.shape.polygon.nb_sides,2);break;case"image":if("svg"==i.tmp.img_type)var r=a.img.obj;else var r=i.tmp.img_obj;r&&e()}i.canvas.ctx.closePath(),i.particles.shape.stroke.width>0&&(i.canvas.ctx.strokeStyle=i.particles.shape.stroke.color,i.canvas.ctx.lineWidth=i.particles.shape.stroke.width,i.canvas.ctx.stroke()),i.canvas.ctx.fill()},i.fn.particlesCreate=function(){for(var e=0;e<i.particles.number.value;e++)i.particles.array.push(new i.fn.particle(i.particles.color,i.particles.opacity.value))},i.fn.particlesUpdate=function(){for(var e=0;e<i.particles.array.length;e++){var a=i.particles.array[e];if(i.particles.move.enable){var t=i.particles.move.speed/2;a.x+=a.vx*t,a.y+=a.vy*t}if(i.particles.opacity.anim.enable&&(1==a.opacity_status?(a.opacity>=i.particles.opacity.value&&(a.opacity_status=!1),a.opacity+=a.vo):(a.opacity<=i.particles.opacity.anim.opacity_min&&(a.opacity_status=!0),a.opacity-=a.vo),a.opacity<0&&(a.opacity=0)),i.particles.size.anim.enable&&(1==a.size_status?(a.radius>=i.particles.size.value&&(a.size_status=!1),a.radius+=a.vs):(a.radius<=i.particles.size.anim.size_min&&(a.size_status=!0),a.radius-=a.vs),a.radius<0&&(a.radius=0)),"bounce"==i.particles.move.out_mode)var s={x_left:a.radius,x_right:i.canvas.w,y_top:a.radius,y_bottom:i.canvas.h};else var s={x_left:-a.radius,x_right:i.canvas.w+a.radius,y_top:-a.radius,y_bottom:i.canvas.h+a.radius};switch(a.x-a.radius>i.canvas.w?(a.x=s.x_left,a.y=Math.random()*i.canvas.h):a.x+a.radius<0&&(a.x=s.x_right,a.y=Math.random()*i.canvas.h),a.y-a.radius>i.canvas.h?(a.y=s.y_top,a.x=Math.random()*i.canvas.w):a.y+a.radius<0&&(a.y=s.y_bottom,a.x=Math.random()*i.canvas.w),i.particles.move.out_mode){case"bounce":a.x+a.radius>i.canvas.w?a.vx=-a.vx:a.x-a.radius<0&&(a.vx=-a.vx),a.y+a.radius>i.canvas.h?a.vy=-a.vy:a.y-a.radius<0&&(a.vy=-a.vy)}if(isInArray("grab",i.interactivity.events.onhover.mode)&&i.fn.modes.grabParticle(a),(isInArray("bubble",i.interactivity.events.onhover.mode)||isInArray("bubble",i.interactivity.events.onclick.mode))&&i.fn.modes.bubbleParticle(a),(isInArray("repulse",i.interactivity.events.onhover.mode)||isInArray("repulse",i.interactivity.events.onclick.mode))&&i.fn.modes.repulseParticle(a),i.particles.line_linked.enable||i.particles.move.attract.enable)for(var n=e+1;n<i.particles.array.length;n++){var r=i.particles.array[n];i.particles.line_linked.enable&&i.fn.interact.linkParticles(a,r),i.particles.move.attract.enable&&i.fn.interact.attractParticles(a,r),i.particles.move.bounce&&i.fn.interact.bounceParticles(a,r)}}},i.fn.particlesDraw=function(){i.canvas.ctx.clearRect(0,0,i.canvas.w,i.canvas.h),i.fn.particlesUpdate();for(var e=0;e<i.particles.array.length;e++){var a=i.particles.array[e];a.draw()}},i.fn.particlesEmpty=function(){i.particles.array=[]},i.fn.particlesRefresh=function(){cancelRequestAnimFrame(i.fn.checkAnimFrame),cancelRequestAnimFrame(i.fn.drawAnimFrame),i.tmp.source_svg=void 0,i.tmp.img_obj=void 0,i.tmp.count_svg=0,i.fn.particlesEmpty(),i.fn.canvasClear(),i.fn.vendors.start()},i.fn.interact.linkParticles=function(e,a){var t=e.x-a.x,s=e.y-a.y,n=Math.sqrt(t*t+s*s);if(n<=i.particles.line_linked.distance){var r=i.particles.line_linked.opacity-n/(1/i.particles.line_linked.opacity)/i.particles.line_linked.distance;if(r>0){var c=i.particles.line_linked.color_rgb_line;i.canvas.ctx.strokeStyle="rgba("+c.r+","+c.g+","+c.b+","+r+")",i.canvas.ctx.lineWidth=i.particles.line_linked.width,i.canvas.ctx.beginPath(),i.canvas.ctx.moveTo(e.x,e.y),i.canvas.ctx.lineTo(a.x,a.y),i.canvas.ctx.stroke(),i.canvas.ctx.closePath()}}},i.fn.interact.attractParticles=function(e,a){var t=e.x-a.x,s=e.y-a.y,n=Math.sqrt(t*t+s*s);if(n<=i.particles.line_linked.distance){var r=t/(1e3*i.particles.move.attract.rotateX),c=s/(1e3*i.particles.move.attract.rotateY);e.vx-=r,e.vy-=c,a.vx+=r,a.vy+=c}},i.fn.interact.bounceParticles=function(e,a){var t=e.x-a.x,i=e.y-a.y,s=Math.sqrt(t*t+i*i),n=e.radius+a.radius;n>=s&&(e.vx=-e.vx,e.vy=-e.vy,a.vx=-a.vx,a.vy=-a.vy)},i.fn.modes.pushParticles=function(e,a){i.tmp.pushing=!0;for(var t=0;e>t;t++)i.particles.array.push(new i.fn.particle(i.particles.color,i.particles.opacity.value,{x:a?a.pos_x:Math.random()*i.canvas.w,y:a?a.pos_y:Math.random()*i.canvas.h})),t==e-1&&(i.particles.move.enable||i.fn.particlesDraw(),i.tmp.pushing=!1)},i.fn.modes.removeParticles=function(e){i.particles.array.splice(0,e),i.particles.move.enable||i.fn.particlesDraw()},i.fn.modes.bubbleParticle=function(e){function a(){e.opacity_bubble=e.opacity,e.radius_bubble=e.radius}function t(a,t,s,n,c){if(a!=t)if(i.tmp.bubble_duration_end){if(void 0!=s){var o=n-p*(n-a)/i.interactivity.modes.bubble.duration,l=a-o;d=a+l,"size"==c&&(e.radius_bubble=d),"opacity"==c&&(e.opacity_bubble=d)}}else if(r<=i.interactivity.modes.bubble.distance){if(void 0!=s)var v=s;else var v=n;if(v!=a){var d=n-p*(n-a)/i.interactivity.modes.bubble.duration;"size"==c&&(e.radius_bubble=d),"opacity"==c&&(e.opacity_bubble=d)}}else"size"==c&&(e.radius_bubble=void 0),"opacity"==c&&(e.opacity_bubble=void 0)}if(i.interactivity.events.onhover.enable&&isInArray("bubble",i.interactivity.events.onhover.mode)){var s=e.x-i.interactivity.mouse.pos_x,n=e.y-i.interactivity.mouse.pos_y,r=Math.sqrt(s*s+n*n),c=1-r/i.interactivity.modes.bubble.distance;if(r<=i.interactivity.modes.bubble.distance){if(c>=0&&"mousemove"==i.interactivity.status){if(i.interactivity.modes.bubble.size!=i.particles.size.value)if(i.interactivity.modes.bubble.size>i.particles.size.value){var o=e.radius+i.interactivity.modes.bubble.size*c;o>=0&&(e.radius_bubble=o)}else{var l=e.radius-i.interactivity.modes.bubble.size,o=e.radius-l*c;o>0?e.radius_bubble=o:e.radius_bubble=0}if(i.interactivity.modes.bubble.opacity!=i.particles.opacity.value)if(i.interactivity.modes.bubble.opacity>i.particles.opacity.value){var v=i.interactivity.modes.bubble.opacity*c;v>e.opacity&&v<=i.interactivity.modes.bubble.opacity&&(e.opacity_bubble=v)}else{var v=e.opacity-(i.particles.opacity.value-i.interactivity.modes.bubble.opacity)*c;v<e.opacity&&v>=i.interactivity.modes.bubble.opacity&&(e.opacity_bubble=v)}}}else a();"mouseleave"==i.interactivity.status&&a()}else if(i.interactivity.events.onclick.enable&&isInArray("bubble",i.interactivity.events.onclick.mode)){if(i.tmp.bubble_clicking){var s=e.x-i.interactivity.mouse.click_pos_x,n=e.y-i.interactivity.mouse.click_pos_y,r=Math.sqrt(s*s+n*n),p=((new Date).getTime()-i.interactivity.mouse.click_time)/1e3;p>i.interactivity.modes.bubble.duration&&(i.tmp.bubble_duration_end=!0),p>2*i.interactivity.modes.bubble.duration&&(i.tmp.bubble_clicking=!1,i.tmp.bubble_duration_end=!1)}i.tmp.bubble_clicking&&(t(i.interactivity.modes.bubble.size,i.particles.size.value,e.radius_bubble,e.radius,"size"),t(i.interactivity.modes.bubble.opacity,i.particles.opacity.value,e.opacity_bubble,e.opacity,"opacity"))}},i.fn.modes.repulseParticle=function(e){function a(){var a=Math.atan2(d,p);if(e.vx=u*Math.cos(a),e.vy=u*Math.sin(a),"bounce"==i.particles.move.out_mode){var t={x:e.x+e.vx,y:e.y+e.vy};t.x+e.radius>i.canvas.w?e.vx=-e.vx:t.x-e.radius<0&&(e.vx=-e.vx),t.y+e.radius>i.canvas.h?e.vy=-e.vy:t.y-e.radius<0&&(e.vy=-e.vy)}}if(i.interactivity.events.onhover.enable&&isInArray("repulse",i.interactivity.events.onhover.mode)&&"mousemove"==i.interactivity.status){var t=e.x-i.interactivity.mouse.pos_x,s=e.y-i.interactivity.mouse.pos_y,n=Math.sqrt(t*t+s*s),r={x:t/n,y:s/n},c=i.interactivity.modes.repulse.distance,o=100,l=clamp(1/c*(-1*Math.pow(n/c,2)+1)*c*o,0,50),v={x:e.x+r.x*l,y:e.y+r.y*l};"bounce"==i.particles.move.out_mode?(v.x-e.radius>0&&v.x+e.radius<i.canvas.w&&(e.x=v.x),v.y-e.radius>0&&v.y+e.radius<i.canvas.h&&(e.y=v.y)):(e.x=v.x,e.y=v.y)}else if(i.interactivity.events.onclick.enable&&isInArray("repulse",i.interactivity.events.onclick.mode))if(i.tmp.repulse_finish||(i.tmp.repulse_count++,i.tmp.repulse_count==i.particles.array.length&&(i.tmp.repulse_finish=!0)),i.tmp.repulse_clicking){var c=Math.pow(i.interactivity.modes.repulse.distance/6,3),p=i.interactivity.mouse.click_pos_x-e.x,d=i.interactivity.mouse.click_pos_y-e.y,m=p*p+d*d,u=-c/m*1;c>=m&&a()}else 0==i.tmp.repulse_clicking&&(e.vx=e.vx_i,e.vy=e.vy_i)},i.fn.modes.grabParticle=function(e){if(i.interactivity.events.onhover.enable&&"mousemove"==i.interactivity.status){var a=e.x-i.interactivity.mouse.pos_x,t=e.y-i.interactivity.mouse.pos_y,s=Math.sqrt(a*a+t*t);if(s<=i.interactivity.modes.grab.distance){var n=i.interactivity.modes.grab.line_linked.opacity-s/(1/i.interactivity.modes.grab.line_linked.opacity)/i.interactivity.modes.grab.distance;if(n>0){var r=i.particles.line_linked.color_rgb_line;i.canvas.ctx.strokeStyle="rgba("+r.r+","+r.g+","+r.b+","+n+")",i.canvas.ctx.lineWidth=i.particles.line_linked.width,i.canvas.ctx.beginPath(),i.canvas.ctx.moveTo(e.x,e.y),i.canvas.ctx.lineTo(i.interactivity.mouse.pos_x,i.interactivity.mouse.pos_y),i.canvas.ctx.stroke(),i.canvas.ctx.closePath()}}}},i.fn.vendors.eventsListeners=function(){"window"==i.interactivity.detect_on?i.interactivity.el=window:i.interactivity.el=i.canvas.el,(i.interactivity.events.onhover.enable||i.interactivity.events.onclick.enable)&&(i.interactivity.el.addEventListener("mousemove",function(e){if(i.interactivity.el==window)var a=e.clientX,t=e.clientY;else var a=e.offsetX||e.clientX,t=e.offsetY||e.clientY;i.interactivity.mouse.pos_x=a,i.interactivity.mouse.pos_y=t,i.tmp.retina&&(i.interactivity.mouse.pos_x*=i.canvas.pxratio,i.interactivity.mouse.pos_y*=i.canvas.pxratio),i.interactivity.status="mousemove"}),i.interactivity.el.addEventListener("mouseleave",function(e){i.interactivity.mouse.pos_x=null,i.interactivity.mouse.pos_y=null,i.interactivity.status="mouseleave"})),i.interactivity.events.onclick.enable&&i.interactivity.el.addEventListener("click",function(){if(i.interactivity.mouse.click_pos_x=i.interactivity.mouse.pos_x,i.interactivity.mouse.click_pos_y=i.interactivity.mouse.pos_y,i.interactivity.mouse.click_time=(new Date).getTime(),i.interactivity.events.onclick.enable)switch(i.interactivity.events.onclick.mode){case"push":i.particles.move.enable?i.fn.modes.pushParticles(i.interactivity.modes.push.particles_nb,i.interactivity.mouse):1==i.interactivity.modes.push.particles_nb?i.fn.modes.pushParticles(i.interactivity.modes.push.particles_nb,i.interactivity.mouse):i.interactivity.modes.push.particles_nb>1&&i.fn.modes.pushParticles(i.interactivity.modes.push.particles_nb);break;case"remove":i.fn.modes.removeParticles(i.interactivity.modes.remove.particles_nb);break;case"bubble":i.tmp.bubble_clicking=!0;break;case"repulse":i.tmp.repulse_clicking=!0,i.tmp.repulse_count=0,i.tmp.repulse_finish=!1,setTimeout(function(){i.tmp.repulse_clicking=!1},1e3*i.interactivity.modes.repulse.duration)}})},i.fn.vendors.densityAutoParticles=function(){if(i.particles.number.density.enable){var e=i.canvas.el.width*i.canvas.el.height/1e3;i.tmp.retina&&(e/=2*i.canvas.pxratio);var a=e*i.particles.number.value/i.particles.number.density.value_area,t=i.particles.array.length-a;0>t?i.fn.modes.pushParticles(Math.abs(t)):i.fn.modes.removeParticles(t)}},i.fn.vendors.checkOverlap=function(e,a){for(var t=0;t<i.particles.array.length;t++){var s=i.particles.array[t],n=e.x-s.x,r=e.y-s.y,c=Math.sqrt(n*n+r*r);c<=e.radius+s.radius&&(e.x=a?a.x:Math.random()*i.canvas.w,e.y=a?a.y:Math.random()*i.canvas.h,i.fn.vendors.checkOverlap(e))}},i.fn.vendors.createSvgImg=function(e){var a=i.tmp.source_svg,t=/#([0-9A-F]{3,6})/gi,s=a.replace(t,function(a,t,i,s){if(e.color.rgb)var n="rgba("+e.color.rgb.r+","+e.color.rgb.g+","+e.color.rgb.b+","+e.opacity+")";else var n="hsla("+e.color.hsl.h+","+e.color.hsl.s+"%,"+e.color.hsl.l+"%,"+e.opacity+")";return n}),n=new Blob([s],{type:"image/svg+xml;charset=utf-8"}),r=window.URL||window.webkitURL||window,c=r.createObjectURL(n),o=new Image;o.addEventListener("load",function(){e.img.obj=o,e.img.loaded=!0,r.revokeObjectURL(c),i.tmp.count_svg++}),o.src=c},i.fn.vendors.destroypJS=function(){cancelAnimationFrame(i.fn.drawAnimFrame),t.remove(),pJSDom=null},i.fn.vendors.drawShape=function(e,a,t,i,s,n){var r=s*n,c=s/n,o=180*(c-2)/c,l=Math.PI-Math.PI*o/180;e.save(),e.beginPath(),e.translate(a,t),e.moveTo(0,0);for(var v=0;r>v;v++)e.lineTo(i,0),e.translate(i,0),e.rotate(l);e.fill(),e.restore()},i.fn.vendors.exportImg=function(){window.open(i.canvas.el.toDataURL("image/png"),"_blank")},i.fn.vendors.loadImg=function(e){if(i.tmp.img_error=void 0,""!=i.particles.shape.image.src)if("svg"==e){var a=new XMLHttpRequest;a.open("GET",i.particles.shape.image.src),a.onreadystatechange=function(e){4==a.readyState&&(200==a.status?(i.tmp.source_svg=e.currentTarget.response,i.fn.vendors.checkBeforeDraw()):(console.log("Error pJS - Image not found"),i.tmp.img_error=!0))},a.send()}else{var t=new Image;t.addEventListener("load",function(){i.tmp.img_obj=t,i.fn.vendors.checkBeforeDraw()}),t.src=i.particles.shape.image.src}else console.log("Error pJS - No image.src"),i.tmp.img_error=!0},i.fn.vendors.draw=function(){"image"==i.particles.shape.type?"svg"==i.tmp.img_type?i.tmp.count_svg>=i.particles.number.value?(i.fn.particlesDraw(),i.particles.move.enable?i.fn.drawAnimFrame=requestAnimFrame(i.fn.vendors.draw):cancelRequestAnimFrame(i.fn.drawAnimFrame)):i.tmp.img_error||(i.fn.drawAnimFrame=requestAnimFrame(i.fn.vendors.draw)):void 0!=i.tmp.img_obj?(i.fn.particlesDraw(),i.particles.move.enable?i.fn.drawAnimFrame=requestAnimFrame(i.fn.vendors.draw):cancelRequestAnimFrame(i.fn.drawAnimFrame)):i.tmp.img_error||(i.fn.drawAnimFrame=requestAnimFrame(i.fn.vendors.draw)):(i.fn.particlesDraw(),i.particles.move.enable?i.fn.drawAnimFrame=requestAnimFrame(i.fn.vendors.draw):cancelRequestAnimFrame(i.fn.drawAnimFrame))},i.fn.vendors.checkBeforeDraw=function(){"image"==i.particles.shape.type?"svg"==i.tmp.img_type&&void 0==i.tmp.source_svg?i.tmp.checkAnimFrame=requestAnimFrame(check):(cancelRequestAnimFrame(i.tmp.checkAnimFrame),i.tmp.img_error||(i.fn.vendors.init(),i.fn.vendors.draw())):(i.fn.vendors.init(),i.fn.vendors.draw())},i.fn.vendors.init=function(){i.fn.retinaInit(),i.fn.canvasInit(),i.fn.canvasSize(),i.fn.canvasPaint(),i.fn.particlesCreate(),i.fn.vendors.densityAutoParticles(),i.particles.line_linked.color_rgb_line=hexToRgb(i.particles.line_linked.color)},i.fn.vendors.start=function(){isInArray("image",i.particles.shape.type)?(i.tmp.img_type=i.particles.shape.image.src.substr(i.particles.shape.image.src.length-3),i.fn.vendors.loadImg(i.tmp.img_type)):i.fn.vendors.checkBeforeDraw()},i.fn.vendors.eventsListeners(),i.fn.vendors.start()};Object.deepExtend=function(e,a){for(var t in a)a[t]&&a[t].constructor&&a[t].constructor===Object?(e[t]=e[t]||{},arguments.callee(e[t],a[t])):e[t]=a[t];return e},window.requestAnimFrame=function(){return window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||function(e){window.setTimeout(e,1e3/60)}}(),window.cancelRequestAnimFrame=function(){return window.cancelAnimationFrame||window.webkitCancelRequestAnimationFrame||window.mozCancelRequestAnimationFrame||window.oCancelRequestAnimationFrame||window.msCancelRequestAnimationFrame||clearTimeout}(),window.pJSDom=[],window.particlesJS=function(e,a){"string"!=typeof e&&(a=e,e="particles-js"),e||(e="particles-js");var t=document.getElementById(e),i="particles-js-canvas-el",s=t.getElementsByClassName(i);if(s.length)for(;s.length>0;)t.removeChild(s[0]);var n=document.createElement("canvas");n.className=i,n.style.width="100%",n.style.height="100%";var r=document.getElementById(e).appendChild(n);null!=r&&pJSDom.push(new pJS(e,a))},window.particlesJS.load=function(e,a,t){var i=new XMLHttpRequest;i.open("GET",a),i.onreadystatechange=function(a){if(4==i.readyState)if(200==i.status){var s=JSON.parse(a.currentTarget.response);window.particlesJS(e,s),t&&t()}else console.log("Error pJS - XMLHttpRequest status: "+i.status),console.log("Error pJS - File config not found")},i.send()};
+</script>
+
+<script type="text/javascript"> 
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * latienne-pro:
+ *   - http://typekit.com/eulas/000000000000000000014f25
+ *   - http://typekit.com/eulas/000000000000000000014f24
+ *   - http://typekit.com/eulas/000000000000000000014f26
+ *   - http://typekit.com/eulas/000000000000000000014f29
+ *
+ * © 2009-2016 Adobe Systems Incorporated. All Rights Reserved.
+ */
+if(!window.Typekit)window.Typekit={};window.Typekit.config={"a":"981431","c":[".tk-latienne-pro","\"latienne-pro\",sans-serif"],"dl":"AAAAHQAAAAoaWQcV","f":"//use.typekit.net/c/5bab2e/1w;latienne-pro,7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191,bjy:W:i4,bk1:W:i7,bjx:W:n4,bjw:W:n7/{format}{/extras*}","fc":[{"id":23550,"family":"latienne-pro","src":"{scheme}://{hostname}/af/070ee9/000000000000000000014f25/27/{format}{?primer,subset_id,fvd,token}","descriptors":{"weight":"400","style":"normal","primer":"7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191"}},{"id":23555,"family":"latienne-pro","src":"{scheme}://{hostname}/af/058d18/000000000000000000014f24/27/{format}{?primer,subset_id,fvd,token}","descriptors":{"weight":"700","style":"normal","primer":"7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191"}},{"id":23556,"family":"latienne-pro","src":"{scheme}://{hostname}/af/bd67be/000000000000000000014f26/27/{format}{?primer,subset_id,fvd,token}","descriptors":{"weight":"400","style":"italic","primer":"7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191"}},{"id":23559,"family":"latienne-pro","src":"{scheme}://{hostname}/af/57ca61/000000000000000000014f29/27/{format}{?primer,subset_id,fvd,token}","descriptors":{"weight":"700","style":"italic","primer":"7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191"}}],"fi":[23550,23555,23556,23559],"fn":["latienne-pro",["i4","i7","n4","n7"]],"hn":"use.typekit.net","ht":"tk","js":"1.18.13","kt":"yeu7pka","l":"typekit","p":"p.typekit.net","ps":1,"token":"bi8j+xiMfuuibezH46HU4y8EjwOv7EQJYRVHUEOMv6I=","type":"configurable"};
+/*{"k":"1.18.13","auto_updating":true,"last_published":"2016-06-22 00:01:27 UTC"}*/
+;(function(window,document,undefined){if(!document.querySelector){document.documentElement.className+=" wf-inactive";return;}function aa(a,b,c){return a.call.apply(a.bind,arguments)}function ba(a,b,c){if(!a)throw Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return a.apply(b,c)}}return function(){return a.apply(b,arguments)}}function k(a,b,c){k=Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native code")?aa:ba;return k.apply(null,arguments)}var m=Date.now||function(){return+new Date};function ca(a){this.g=a||"-"}ca.prototype.b=function(a){for(var b=[],c=0;c<arguments.length;c++)b.push(arguments[c].replace(/[\W_]+/g,"").toLowerCase());return b.join(this.g)};function da(){var a=[{name:"font-family",value:n.c[p+1]}];this.g=[n.c[p]];this.b=a}function ea(a){for(var b=a.g.join(","),c=[],d=0;d<a.b.length;d++){var e=a.b[d];c.push(e.name+":"+e.value+";")}return b+"{"+c.join("")+"}"};function r(a,b){return(a&65535)*b+(((a>>>16)*b&65535)<<16)};function t(a,b){this.b=b||Array(Math.ceil(a/32));if(!b)for(var c=0;c<this.b.length;c++)this.b[c]=0}t.prototype.set=function(a){if(Math.floor(a/32+1)>this.b.length)throw Error("Index is out of bounds.");var b=Math.floor(a/32);this.b[b]|=1<<a-32*b};t.prototype.has=function(a){if(Math.floor(a/32+1)>this.b.length)throw Error("Index is out of bounds.");var b=Math.floor(a/32);return!!(this.b[b]&1<<a-32*b)};function fa(a,b,c){this.b=a;this.i=b;this.g=new t(a,c)}var ga=[2449897292,4218179547,2675077685,1031960064,1478620578,1386343184,3194259988,2656050674,3012733295,2193273665];
+fa.prototype.has=function(a){if("string"!==typeof a&&"number"!==typeof a)throw Error("Value should be a string or number.");for(var b="number"===typeof a,c=0;c<this.i;c++){var d;if(b)d=r(a&4294967295,3432918353),d=d<<15|d>>>17,d=r(d,461845907),d^=ga[c]||0,d=d<<13|d>>>19,d=r(d,5)+3864292196,d^=4,d^=d>>>16,d=r(d,2246822507),d^=d>>>13,d=r(d,3266489909),d^=d>>>16,d=(d>>>0)%this.b;else{d=ga[c]||0;var e,f,g=a.length%4,h=a.length-g;for(f=0;f<h;f+=4)e=(a.charCodeAt(f+0)&4294967295)<<0|(a.charCodeAt(f+1)&
+4294967295)<<8|(a.charCodeAt(f+2)&4294967295)<<16|(a.charCodeAt(f+3)&4294967295)<<24,e=r(e,3432918353),e=e<<15|e>>>17,e=r(e,461845907),d^=e,d=d<<13|d>>>19,d=r(d,5)+3864292196;e=0;switch(g){case 3:e^=(a.charCodeAt(f+2)&4294967295)<<16;case 2:e^=(a.charCodeAt(f+1)&4294967295)<<8;case 1:e^=(a.charCodeAt(f+0)&4294967295)<<0,e=r(e,3432918353),e=e<<15|e>>>17,e=r(e,461845907),d^=e}d^=a.length;d=r(d^d>>>16,2246822507);d=r(d^d>>>13,3266489909);d=((d^d>>>16)>>>0)%this.b}if(!this.g.has(d))return!1}return!0};function ha(a){a.length%4&&(a+=Array(5-a.length%4).join("="));a=a.replace(/\-/g,"+").replace(/\_/g,"/");if(window.atob)a=window.atob(a);else{a=a.replace(/=+$/,"");if(1==a.length%4)throw Error("'atob' failed: The string to be decoded is not correctly encoded.");for(var b=0,c,d,e=0,f="";d=a.charAt(e++);~d&&(c=b%4?64*c+d:d,b++%4)?f+=String.fromCharCode(255&c>>(-2*b&6)):0)d="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".indexOf(d);a=f}c=[];for(b=0;b<a.length;b+=4)c.push(a.charCodeAt(b)<<
+24|a.charCodeAt(b+1)<<16|a.charCodeAt(b+2)<<8|a.charCodeAt(b+3)<<0);a=c.shift();b=c.shift();this.b=new fa(a,b,c)}ha.prototype.has=function(a){if(""===a)return!0;for(a=a.split(".");a.length;){var b=a.join("."),c="*."+b;if(this.b.has(b)||this.b.has(c)||this.b.has(encodeURIComponent(b))||this.b.has(encodeURIComponent(c)))return!0;a.shift()}return!1};function u(a,b,c,d){b=a.b.createElement(b);if(c)for(var e in c)c.hasOwnProperty(e)&&("style"==e?b.style.cssText=c[e]:b.setAttribute(e,c[e]));d&&b.appendChild(a.b.createTextNode(d));return b}function v(a,b,c){a=a.b.getElementsByTagName(b)[0];a||(a=document.documentElement);a.insertBefore(c,a.lastChild)}
+function ia(a,b){a.b.body?b():a.b.addEventListener?a.b.addEventListener("DOMContentLoaded",b):a.b.attachEvent("onreadystatechange",function(){"interactive"!=a.b.readyState&&"complete"!=a.b.readyState||b()})}function y(a){a.parentNode&&a.parentNode.removeChild(a)}
+function z(a,b,c){b=b||[];c=c||[];for(var d=a.className.split(/\s+/),e=0;e<b.length;e+=1){for(var f=!1,g=0;g<d.length;g+=1)if(b[e]===d[g]){f=!0;break}f||d.push(b[e])}b=[];for(e=0;e<d.length;e+=1){f=!1;for(g=0;g<c.length;g+=1)if(d[e]===c[g]){f=!0;break}f||b.push(d[e])}a.className=b.join(" ").replace(/\s+/g," ").replace(/^\s+|\s+$/,"")}function ja(a,b){for(var c=a.className.split(/\s+/),d=0,e=c.length;d<e;d++)if(c[d]==b)return!0;return!1}
+function A(a,b){var c=u(a,"style");c.setAttribute("type","text/css");c.styleSheet?(v(a,"head",c),c.styleSheet.cssText=b):(c.appendChild(document.createTextNode(b)),v(a,"head",c))}
+function ka(a,b,c){var d=a.b.getElementsByTagName("head")[0];if(d){var e=u(a,"script",{src:b}),f=!1;e.onload=e.onreadystatechange=function(){f||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(f=!0,c&&c(null),e.onload=e.onreadystatechange=null,"HEAD"==e.parentNode.tagName&&d.removeChild(e))};d.appendChild(e);setTimeout(function(){f||(f=!0,c&&c(Error("Script load timeout")))},5E3)}};function la(a,b,c){this.g=a.g.document.documentElement;this.j=b;this.m=c;this.b=new ca("-");this.o=!1!==b.events;this.i=!1!==b.classes}function B(a){if(a.i){var b=ja(a.g,a.b.b("wf","active")),c=[],d=[a.b.b("wf","loading")];b||c.push(a.b.b("wf","inactive"));z(a.g,c,d)}C(a,"inactive")}function C(a,b,c){if(a.o&&a.j[b])try{if(c)a.j[b](c.b,D(c));else a.j[b]()}catch(d){console.error('Typekit: Error in "'+b+'" callback',d)}if(a.m[b])if(c)a.m[b](c.b,D(c));else a.m[b]()};function ma(a,b,c){c=c||{};this.b=a;this.g=b;this.weight=c.weight||"400";this.style=c.style||"normal";this.A=c.primer||void 0;this.B=c.subset_id||void 0}function E(a){return("tk-"+a.b).slice(0,26)+"-"+D(a)}function F(a,b){return new ma(b,a.g,{weight:a.weight,style:a.style,A:a.A,B:a.B})}function D(a){return a.style.charAt(0)+a.weight.charAt(0)};function na(){var a=document,b=navigator.userAgent;if(/MSIE|Trident/.test(b)&&(a.documentMode?9>a.documentMode:1))b="i";else{a:{if(/AppleWebKit/.test(b)&&/Android/.test(b)&&!/OPR|Chrome|CrMo|CriOS/.test(b)&&(a=/Android ([^;)]+)/.exec(b))&&a[1]){a=parseFloat(a[1]);a=3.1<=a&&4.1>a;break a}a=!1}if(!a)a:{if(/Silk/.test(b)&&/Linux|Ubuntu|Android/.test(b)&&(b=/Silk\/([\d\._]+)/.exec(b))&&b[1]){a=2<=parseFloat(b[1]);break a}a=!1}b=a?"j":"k"}return b};function G(a){this.b=a}function H(a,b){return a.b.replace(/\{([^\{\}]+)\}/g,function(a,d){if("?"==d.charAt(0)){for(var e=d.slice(1).split(","),f=[],g=0;g<e.length;g++)b[e[g]]&&f.push(e[g]+"="+encodeURIComponent(b[e[g]]));return f.length?"?"+f.join("&"):""}return encodeURIComponent(b[d]||"")})};function I(){this.b=[]}function oa(a,b){for(var c=0;c<b.length;c++)a.b.push(b[c])}function J(a,b){for(var c=0;c<a.b.length;c++)b(a.b[c],c,a)}
+function qa(a,b){if("i"===b){var c={},d=new I;J(a,function(a){c[a.b]||(c[a.b]={});c[a.b][a.weight]||(c[a.b][a.weight]=[]);c[a.b][a.weight].push(a)});for(var e in c){for(var f=[400,300,200,100,500,600,700,800,900],g=0;g<f.length;g++){var h=f[g];if(c[e][h]){oa(d,c[e][h]);break}}f=[700,800,900,600,500,400,300,200,100];for(g=0;g<f.length;g++){var l=f[g];if(c[e][l]&&h!==l){oa(d,c[e][l]);break}}}J(a,function(a){a=F(a,a.b.replace(/(-1|-2)$/,"").slice(0,28)+"-"+D(a));d.b.push(a)});return d}return"x"===b?
+new I:a}function ra(a,b,c,d){for(var e=[],f=0;f<b.length;f++){var g=b[f],h=H(new G(a.g),{scheme:"https",hostname:c,format:g,primer:a.A,subset_id:a.B,fvd:D(a),extension:sa(g),token:d});"i"===g?e.push("url("+h+")"):e.push("url("+h+') format("'+ta(g)+'")')}return e.join(",")}
+function ua(a,b,c,d,e){if("x"===b)return"";var f=[];f.push("font-family:"+(e?E(a):a.b));b="k"===b?ra(a,["l","d","a"],c,d):ra(a,[b],c,d);f.push("src:"+b);f.push("font-weight:"+a.weight);f.push("font-style:"+a.style);return"@font-face{"+f.join(";")+";}"}function ta(a){switch(a){case "d":return"woff";case "i":return"eot";case "l":return"woff2";default:return"opentype"}}function sa(a){switch(a){case "d":return"woff";case "i":return"eot";case "l":return"woff2";default:return"otf"}}
+function K(a,b,c,d,e){var f=[];J(a,function(a){f.push(ua(a,b,c,d,e))});return f.join("")};function L(a,b){this.g=a;this.i=b;this.b=u(this.g,"span",{"aria-hidden":"true"},this.i)}function M(a){v(a.g,"body",a.b)}
+function N(a){return"display:block !important;position:absolute !important;top:-9999px !important;left:-9999px !important;font-size:300px !important;width:auto !important;height:auto !important;line-height:normal !important;margin:0 !important;padding:0 !important;font-variant:normal !important;white-space:nowrap !important;font-family:"+a.b+" !important;font-weight:"+a.weight+" !important;font-style:"+a.style+" !important;"};function va(a,b,c,d,e,f,g,h){this.C=a;this.G=b;this.u=c;this.b=d;this.v=g||"BESbswy";this.g={};this.H=e||3E3;this.F=h;this.w=f||null;this.i=new L(this.u,this.v);this.j=new L(this.u,this.v);this.m=new L(this.u,this.v);this.o=new L(this.u,this.v);a=this.F?E(this.b):this.b.b;this.i.b.style.cssText=N(F(this.b,a+",serif"));this.j.b.style.cssText=N(F(this.b,a+",sans-serif"));this.m.b.style.cssText=N(F(this.b,"serif"));this.o.b.style.cssText=N(F(this.b,"sans-serif"));M(this.i);M(this.j);M(this.m);M(this.o)}
+var O={J:"serif",I:"sans-serif"},P=null;function wa(){if(null===P){var a=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent);P=!!a&&(536>parseInt(a[1],10)||536===parseInt(a[1],10)&&11>=parseInt(a[2],10))}return P}va.prototype.start=function(){this.g.serif=this.m.b.offsetWidth;this.g["sans-serif"]=this.o.b.offsetWidth;this.D=m();xa(this)};function ya(a,b,c){for(var d in O)if(O.hasOwnProperty(d)&&b===a.g[O[d]]&&c===a.g[O[d]])return!0;return!1}
+function xa(a){var b=a.i.b.offsetWidth,c=a.j.b.offsetWidth,d;(d=b===a.g.serif&&c===a.g["sans-serif"])||(d=wa()&&ya(a,b,c));d?m()-a.D>=a.H?wa()&&ya(a,b,c)&&(!a.w||a.w.hasOwnProperty(a.b.b))?Q(a,a.C):Q(a,a.G):za(a):Q(a,a.C)}function za(a){setTimeout(k(function(){xa(this)},a),50)}function Q(a,b){setTimeout(k(function(){y(this.i.b);y(this.j.b);y(this.m.b);y(this.o.b);b(this.b)},a),0)};function Aa(a,b,c,d,e,f,g){this.i=a;this.u=b;this.b=d;this.m=c;this.g=e||3E3;this.o=f||void 0;this.j=g}Aa.prototype.start=function(){var a=this.m.g.document,b=this,c=m(),d=new Promise(function(d,e){function h(){m()-c>=b.g?e():a.fonts.load(b.b.style+" "+b.b.weight+" 300px "+(b.j?E(b.b):b.b.b),b.o).then(function(a){1<=a.length?d():setTimeout(h,25)},function(){e()})}h()}),e=new Promise(function(a,c){setTimeout(c,b.g)});Promise.race([e,d]).then(function(){b.i(b.b)},function(){b.u(b.b)})};function R(a,b,c,d){this.v=a;this.b=b;this.g=0;this.o=this.m=!1;this.w=c;this.u=d}var S=null;
+function Ba(a,b,c){var d={},e=b.b.length;if(!e&&c)B(a.b);else{a.g+=e;c&&(a.m=c);var f=[];J(b,function(b){var c=a.b;c.i&&z(c.g,[c.b.b("wf",b.b,D(b),"loading")]);C(c,"fontloading",b);c=null;if(null===S)if(window.FontFace){var e=/Gecko.*Firefox\/(\d+)/.exec(window.navigator.userAgent),q=/OS X.*Version\/10\..*Safari/.exec(window.navigator.userAgent)&&/Apple/.exec(window.navigator.vendor);S=e?42<parseInt(e[1],10):q?!1:!0}else S=!1;S?c=new Aa(k(a.i,a),k(a.j,a),a.v,b,a.w,"BESbswy\ue000\ue001\ue002\ue003\ue004\ue005\ue006",
+a.u):c=new va(k(a.i,a),k(a.j,a),a.v,b,a.w,d,"BESbswy\ue000\ue001\ue002\ue003\ue004\ue005\ue006",a.u);f.push(c)});for(b=0;b<f.length;b++)f[b].start()}}R.prototype.i=function(a){var b=this.b;b.i&&z(b.g,[b.b.b("wf",a.b,D(a),"active")],[b.b.b("wf",a.b,D(a),"loading"),b.b.b("wf",a.b,D(a),"inactive")]);C(b,"fontactive",a);this.o=!0;Ca(this)};
+R.prototype.j=function(a){var b=this.b;if(b.i){var c=ja(b.g,b.b.b("wf",a.b,D(a),"active")),d=[],e=[b.b.b("wf",a.b,D(a),"loading")];c||d.push(b.b.b("wf",a.b,D(a),"inactive"));z(b.g,d,e)}C(b,"fontinactive",a);Ca(this)};function Ca(a){!--a.g&&a.m&&(a.o?(a=a.b,a.i&&z(a.g,[a.b.b("wf","active")],[a.b.b("wf","loading"),a.b.b("wf","inactive")]),C(a,"active")):B(a.b))};function T(a,b){this.b=a;this.g=[];this.m=b;this.j=this.u=null;this.o=new I;this.i=null}T.prototype.supportsConfiguredBrowser=function(){return!0};T.prototype.init=function(){if(0<this.g.length){for(var a=[],b=0;b<this.g.length;b++)a.push(ea(this.g[b]));A(this.b,a.join(""))}};
+T.prototype.load=function(a,b,c){var d=this;c=c||{};a=c.timeout;var e=!!c.async,f=na(),g=qa(this.o,f);c=new la(this.b,c,{active:function(){if(e){var a=K(g,f,d.m,d.i,!1);A(d.b,a)}if(d.v){var a=d.v,b=d.b,c=new G("{scheme}://{hostname}/p.gif{?s,k,app,ht,h,f,a,js,_}"),h=(window.__adobewebfontsappname__||a.app||"").toString().substr(0,20),b=b.g.location.hostname||b.i.location.hostname,l=[],w=[];window.Typekit?(window.Typekit.fonts||(window.Typekit.fonts=[]),w=window.Typekit.fonts):window.TypekitPreview&&
+(window.TypekitPreview.fonts||(window.TypekitPreview.fonts=[]),w=window.TypekitPreview.fonts);for(var x=0;x<a.b.length;x++){for(var pa=!1,Y=0;Y<w.length;Y++)if(a.b[x]===w[Y]){pa=!0;break}pa||(l.push(a.b[x]),w.push(a.b[x]))}l.length&&Da(H(c,{scheme:"https",hostname:a.o,s:a.j,k:a.m,app:h,ht:a.i,h:b,f:l.join("."),a:a.g,js:a.version,_:(+new Date).toString()}))}},inactive:function(){if(e){var a=K(g,f,d.m,d.i,!1);A(d.b,a)}}});if(this.j){var h=location.hostname;if(!this.j.has(h)){console.error('Typekit: the domain "'+
+h+'" isn\'t in the list of published domains for kit "'+this.u+'".');B(c);return}}if(g.b.length){h=K(g,f,this.m,this.i,e);A(this.b,h);var l=new R(this.b,c,a,e);ia(d.b,function(){Ba(l,g,b)})}else B(c)};function U(a,b){this.j=a;this.g=b;this.b=[]}U.prototype.i=function(a){this.b.push(a)};U.prototype.load=function(a,b){var c=a,d=b||{};"string"==typeof c?c=[c]:c&&c.length||(d=c||{},c=[]);if(c.length)for(var e=this,f=c.length,g=0;g<c.length;g++)Ea(this,c[g],function(){--f||Fa(e,d)});else Fa(this,d)};function Ea(a,b,c){b=H(a.j,{id:b});ka(a.g,b,c)}
+function Fa(a,b){if(a.b.length){for(var c=new la(a.g,b,{}),d=0;d<a.b.length;d++)a.b[d].init();c.i&&z(c.g,[c.b.b("wf","loading")]);C(c,"loading");for(c=0;c<a.b.length;c++)a.b[c].load(null,c==a.b.length-1,b);a.b=[]}};function Da(a){var b=new Image(1,1),c=!1;b.src=a;b.onload=function(){c=!0;b.onload=null};setTimeout(function(){c||(b.src="about:blank",b.onload=null)},3E3)};var Ga=new function(){var a=window;this.g=this.i=a;this.b=this.g.document};window.Typekit||(window.Typekit={});if(!window.Typekit.load){var V=new U(new G("//"+(window.Typekit.config||{}).hn+"/{id}.js"),Ga);window.Typekit.load=function(){V.load.apply(V,arguments)};window.Typekit.addKit=function(){V.i.apply(V,arguments)}}var W,n=window.Typekit.config||{};W=new T(Ga,n.hn);
+W.v=new function(){var a=n.ps,b=n.ht,c=n.fi,d=n.a,e=n.kt,f=n.js,g=n.l;this.o=n.p;this.j=a;this.i=b;this.b=c||[];this.g=d||null;this.m=e||null;this.version=f||null;this.app=g||null};if(n.fc)for(var X=n.fc,Z=0;Z<X.length;Z++)W.o.b.push(new ma(X[Z].family,X[Z].src,X[Z].descriptors));if(n.dl){var Ha=n.dl;try{W.j=new ha(Ha)}catch(a){}}n.kt&&(W.u=n.kt);n.token&&(W.i=n.token);if(n.c)for(var p=0;p<n.c.length;p+=2)W.g.push(new da);window.Typekit.addKit(W);
+if(1===Math.round(30*Math.random())){var Ia=window.Typekit.load,Ja=[];window.Typekit.load=function(a){a=a||{};var b=a.active||function(){},c=a.fontactive||function(){},d=(new Date).getTime();a.active=function(){b();if(!window.XDomainRequest){var a=new Image,c=function(a){a=JSON.stringify({fonts:Ja,augmentations:[],font_loading:window.FontFace?"native":"non-native",active_duration:(new Date).getTime()-d,javascript_version:n.js,kit_type:"configurable",ad_blocker:a});if(!window.XDomainRequest){var b=
+new XMLHttpRequest;b.open("POST","https://performance.typekit.net/");b.send(a)}};a.src="https://p.typekit.net/p.gif?";a.onload=function(){for(var a=!1,b=0;b<document.styleSheets.length;b++)if(null===document.styleSheets[b].href&&/ghostery-purple-box/.test(document.styleSheets[b].ownerNode.textContent)){a=!0;break}c(a)};a.onerror=function(){c(!0)}}};a.fontactive=function(a,b){var g,h;c(a,b);a:{g=b.charAt(0);h=b.charAt(1);/[1-9]/.test(h)||(h=4);g="i"===g?"italic":"o"===g?"oblique":"normal";h+="00";
+for(var l=n.fc,q=0;q<l.length;q++)if(l[q].family===a&&l[q].descriptors.weight===h&&l[q].descriptors.style===g){g=l[q].id;break a}g=0}Ja.push({id:g,duration:(new Date).getTime()-d,dynamic:!1})};Ia(a)}}if(window.WebFont)try{window.Typekit.load()}catch(a){};}(this,document));
+</script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+
+</body></html>
