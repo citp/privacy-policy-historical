@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ordercup.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130154856id_/http%3A//www.ordercup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordercup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145125id_/http%3A//www.ordercup.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Ecommerce Shipping and Fulfillment: OrderCup
+# Privacy Policy | OrderCup
 
 This Privacy Policy applies to Kuberas’ products and services worldwide (Services). OrderCup and its related services (‘OrderCup) is part of the Services offered and operated by Kuberas, Inc.Kuberas is committed to protecting your personal privacy. This Policy outlines the type of information that is collected by Kuberas as a result of its Services and how we use and protect it. This Policy also tells you what to do if you do not want your Personal information collected when you visit our web site, and how you can change information you have already provided to us. This Policy applies only to the Kuberas’ Services listed here. For example, it does not apply to banners, advertisements, promotions or other services offered by third parties that we may participate in or sponsor.
 
