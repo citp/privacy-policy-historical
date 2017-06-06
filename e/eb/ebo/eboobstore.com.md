@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the eboobstore.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606233037id_/http%3A//www.eboobstore.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eboobstore.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211129id_/https%3A//secure.eboobstore.com/page/privacy-policy) for the most accurate reproduction.*
 
 # eBoobStore.com - Privacy Policy
-
-[](https://web.archive.org/home/?nats=MTAwNC42NC41MC41MC4yOS4wLjAuMC4w "Homepage") The Official Store of The SCORE Group
-
-MENU
-
-  
-
 
 ## Privacy Policy
 
