@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the remotedesktopmanager.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025164757id_/http%3A//remotedesktopmanager.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remotedesktopmanager.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230433id_/https%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Remote Desktop Manager
+# Privacy Policy - Devolutions
 
     
 
@@ -14,11 +14,11 @@ At Devolutions we know how important it is to protect your personal information.
 
 We collect two types of information: personal information and non-personal information. The types of information we collect depend on the nature of your interaction with us.
 
-  1. Personal information: personal information is information that can identify an individual or information about an identifiable individual. We may collect personal information such as: 
+  1. _Personal information_ : personal information is information that can identify an individual or information about an identifiable individual. We may collect personal information such as: 
     * your contact information – e.g., name, postal address, telephone number, and email address;
     * your personal preferences – e.g., product wish lists, language preferences, and marketing consent; and
     * your transaction information – e.g., products purchased, method of payment, amount paid.
-  2. Non-personal information: non-personal information does not identify you as an individual. For example, we may collect certain non-personal data when you visit our Website, such as the type of browser you are using or the referring URL, or we may collect and summarize customer information in a non-personal, aggregate format for statistical and research purposes. 
+  2. _Non-personal information_ : non-personal information does not identify you as an individual. For example, we may collect certain non-personal data when you visit our Website, such as the type of browser you are using or the referring URL, or we may collect and summarize customer information in a non-personal, aggregate format for statistical and research purposes.
 
 
 
@@ -47,9 +47,9 @@ Devolutions may use your personal information for a number of different business
 
 Devolutions will collect, use, or disclose your personal information only with your knowledge and consent, except where required or permitted by law. When you choose to provide us with your personal information you consent to the use of your personal information as identified in this Privacy Policy and as may be further identified at the time of collection.
 
-  * Express Consent: sometimes you will be asked to give your express consent, such as by checking a box to indicate your consent to receive marketing communications, or by providing your signature to indicate your acceptance of the use and disclosure terms presented on an application form.
-  * Implied Consent: other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you. 
-  * Withdrawing your consent: you may notify us at any time that you wish to withdraw or change your consent to our use and disclosure or your information. We will accommodate your request subject to legal and contractual restrictions related to your transactions.
+  * _Express Consent_ : sometimes you will be asked to give your express consent, such as by checking a box to indicate your consent to receive marketing communications, or by providing your signature to indicate your acceptance of the use and disclosure terms presented on an application form.
+  * _Implied Consent_ : other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you.
+  * _Withdrawing your consent_ : you may notify us at any time that you wish to withdraw or change your consent to our use and disclosure or your information. We will accommodate your request subject to legal and contractual restrictions related to your transactions.
 
 
 
@@ -61,11 +61,11 @@ If you have “opted in” or subscribed to one of our newsletters or mailing li
 
 Listed here are some further examples of the ways that we collect personal information directly from you and how we use it.
 
-Our Website: our Website can be browsed anonymously. However, to engage in certain special features or functions of our Website, or to order products and services from our Website, you may be asked to provide certain personal information, such as your name, email address, postal address, telephone number, or credit card information. We use this information to create your account, contact and correspond with you about your order, respond to your inquiries, and monitor functions of our Website that you choose to use, such as online forums.
+_Our Website_ : our Website can be browsed anonymously. However, to engage in certain special features or functions of our Website, or to order products and services from our Website, you may be asked to provide certain personal information, such as your name, email address, postal address, telephone number, or credit card information. We use this information to create your account, contact and correspond with you about your order, respond to your inquiries, and monitor functions of our Website that you choose to use, such as online forums.
 
-Online Forums: Certain pages of our Website facilitate interactive discussions between users and Devolutions staff acting on our behalf regarding products and services available for purchase through the Website. These public forums are accessible to all Website visitors so please use discretion when posting information to them and do not post personal information.
+_Online Forums_ : Certain pages of our Website facilitate interactive discussions between users and Devolutions staff acting on our behalf regarding products and services available for purchase through the Website. These public forums are accessible to all Website visitors so please use discretion when posting information to them and do not post personal information.
 
-Sign-Up for Newsletters or Updates: Devolutions may also offer a variety of newsletters and promotional communications. Should you choose to enrol we will collect your contact information, such as name and email address. This information will only be used to send you the newsletter and promotional announcements that you have requested. You may “unsubscribe” at any time by using the unsubscribe link included in the footer of the newsletter or by using the unsubscribe link included below under the heading “Unsubscribe”. Our subscriber list is never sold or rented to other parties.
+_Sign-Up for Newsletters or Updates_ : Devolutions may also offer a variety of newsletters and promotional communications. Should you choose to enrol we will collect your contact information, such as name and email address. This information will only be used to send you the newsletter and promotional announcements that you have requested. You may “unsubscribe” at any time by using the unsubscribe link included in the footer of the newsletter or by using the unsubscribe link included below under the heading “Unsubscribe”. Our subscriber list is never sold or rented to other parties.
 
     
 
@@ -73,13 +73,13 @@ Sign-Up for Newsletters or Updates: Devolutions may also offer a variety of news
 
 In some cases, we automatically collect certain information.
 
-Our Website: When using our Website, we may collect the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access our Website, the Internet address of the Web site from which you linked directly to our Website, the operating system you are using, the sections of the Website you visit, the Website pages read and images viewed, and the content you download from the Website. This information is used for Website and system administration purposes and to improve the Website.
+_Our Website_ : When using our Website, we may collect the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access our Website, the Internet address of the Web site from which you linked directly to our Website, the operating system you are using, the sections of the Website you visit, the Website pages read and images viewed, and the content you download from the Website. This information is used for Website and system administration purposes and to improve the Website.
 
-Cookies: The Website uses “cookies”, a technology that installs a small amount of information on a Web Site user's computer to permit the Website to recognize future visits using that computer. Cookies enhance the convenience and use of the Website. For example, the information provided through cookies is used to recognize you as a previous user of the Website (so you do not have to enter your language preference every time), to offer personalized Web page content and information for your use, to track your activity at the Website, to respond to your needs, and to otherwise facilitate your Website experience. You may choose to decline cookies if your browser permits, but doing so may affect your use of the Website and your ability to access certain features of the Website or engage in transactions through the Website.
+_Cookies_ : The Website uses “cookies”, a technology that installs a small amount of information on a Web Site user's computer to permit the Website to recognize future visits using that computer. Cookies enhance the convenience and use of the Website. For example, the information provided through cookies is used to recognize you as a previous user of the Website (so you do not have to enter your language preference every time), to offer personalized Web page content and information for your use, to track your activity at the Website, to respond to your needs, and to otherwise facilitate your Website experience. You may choose to decline cookies if your browser permits, but doing so may affect your use of the Website and your ability to access certain features of the Website or engage in transactions through the Website.
 
-Website Tracking Information: We may use web beacons or pixel tags to compile tracking information reports regarding Website user demographics, Website traffic patterns, and Website purchases. We may then provide these reports to advertisers and others. None of the tracking information in these reports can be connected to the identities or other personal information of individual users. For our own research purposes we may link tracking information with personal information voluntarily provided by Website users. Once such a link is made, all of the linked information is treated as personal information and will be used and disclosed only in accordance with this Privacy Policy.
+_Website Tracking Information_ : We may use web beacons or pixel tags to compile tracking information reports regarding Website user demographics, Website traffic patterns, and Website purchases. We may then provide these reports to advertisers and others. None of the tracking information in these reports can be connected to the identities or other personal information of individual users. For our own research purposes we may link tracking information with personal information voluntarily provided by Website users. Once such a link is made, all of the linked information is treated as personal information and will be used and disclosed only in accordance with this Privacy Policy.
 
-Links to Other Web Sites: Our Website may contain links to other Web sites or Internet resources which are provided solely for your convenience and information. When you click on one of those links you are contacting another Web site or Internet resource. Devolutions has no responsibility or liability for, or control over, those other Web sites or Internet resources or their collection, use and disclosure of your personal information. We encourage you to read the privacy policies of those other Web sites to learn how they collect and use your personal information.
+_Links to Other Web Sites_ : Our Website may contain links to other Web sites or Internet resources which are provided solely for your convenience and information. When you click on one of those links you are contacting another Web site or Internet resource. Devolutions has no responsibility or liability for, or control over, those other Web sites or Internet resources or their collection, use and disclosure of your personal information. We encourage you to read the privacy policies of those other Web sites to learn how they collect and use your personal information.
 
     
 
@@ -87,9 +87,9 @@ Links to Other Web Sites: Our Website may contain links to other Web sites or In
 
 Devolutions does not sell or rent its customers’ personal information to any other party. However, in the normal course of business we may share some of your personal information with third parties acting on our behalf or as permitted or required by law.
 
-Service Providers: Devolutions may use third parties to manage one of more aspects of its business operations, including the processing or handing of personal information. When we do use an outside company, we use contractual or other appropriate means to ensure that your personal information is used in a manner that is consistent with this Privacy Policy.
+_Service Providers_ : Devolutions may use third parties to manage one of more aspects of its business operations, including the processing or handing of personal information. When we do use an outside company, we use contractual or other appropriate means to ensure that your personal information is used in a manner that is consistent with this Privacy Policy.
 
-Legal Disclosure: Devolutions may disclose your information as permitted or required by law. For example, we may be compelled to release information by a court of law or other person or entity with jurisdiction to compel production of such information. If we have reasonable grounds to believe information could be useful in the investigation of improper or unlawful activity, we may disclose information to law enforcement agencies or other appropriate investigative bodies.
+_Legal Disclosure_ : Devolutions may disclose your information as permitted or required by law. For example, we may be compelled to release information by a court of law or other person or entity with jurisdiction to compel production of such information. If we have reasonable grounds to believe information could be useful in the investigation of improper or unlawful activity, we may disclose information to law enforcement agencies or other appropriate investigative bodies.
 
     
 
@@ -124,7 +124,7 @@ Canada
   
 We will respond to your request or investigate your concern as quickly as we can.
 
-Important Reminder about email communications:
+_Important Reminder about email communications:_
 
 Please remember that email sent over the public Internet is not secure. If you send an email directly to us from your own email account the contents will not be encrypted. We strongly recommend that you do not send sensitive information (like a credit card number) to us via unencrypted email. Devolutions is not responsible for any transmission by you of any personal information over the public Internet.
 
