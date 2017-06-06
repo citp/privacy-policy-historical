@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shiphero.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219101234id_/http%3A//www.shiphero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiphero.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180217id_/http%3A//www.shiphero.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Shiphero Mobile Ware House Management System |
+# Shiphero Ecommerce Warehouse Management System, Mobile Shipping & Inventory |
 
 ### Introduction
 
