@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317175214id_/http%3A//www.cohort.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051403id_/http%3A//www.cohort.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Cohort Global
+# Privacy Policy – Cohort Global
 
-#### About Cohort Digital
+**For consumer enquiries regarding promotions, competitions or to unsubscribe, please call our Consumer Care Manager on[1300 257 528](tel:1300 257 528) or email your contact details to [consumercare@cohort.com.au](mailto:consumercare@cohort.com.au)**
+
+**If you have a business enquiry, please contact your local Cohort office.**
+
+**About Cohort Digital**
 
 Cohort Digital (Cohort Australia Pty Ltd ABN 54 600 161 386) provides permission based marketing services to major high street and online brands. We provide a service designed to deliver sales leads from consumers who have consented to be contacted.
 
@@ -10,11 +14,11 @@ Cohort Digital has wealth of lifestyle and demographic data that we collect dire
 
 One of Cohort Digital’s key business objectives is commitment to open and transparent information practices – informing individuals about how we collect and use personal information and protect the information privacy of those individuals. Personal information is information about an identified individual or one who is reasonably identifiable.
 
-Cohort Digital complies with the  _Privacy Act_  1988 including the Australian Privacy Principles and other Australian regulations such as the  _Do Not Call Register Act_  2006 and the  _Spam Act_  2003, which govern how it must handle personal information ( **Privacy Act** ). Our Privacy Policy explains how we do this.
+Cohort Digital complies with the Privacy Act 1988 including the Australian Privacy Principles and other Australian regulations such as the Do Not Call Register Act 2006 and the Spam Act 2003, which govern how it must handle personal information (Privacy Act). Our Privacy Policy explains how we do this.
 
 Cohort Digital may change the Privacy Policy to reflect changes in our practices and privacy regulation. Any changes will come into effect when an updated Privacy Policy is posted to our website.
 
-#### How and what personal Information we collect, and why
+**How and what personal Information we collect, and why**
 
 **Direct Collection**
 
@@ -34,7 +38,7 @@ We may collect information about you from someone else but we will take reasonab
 
 When you visit our websites and you register or sign up we may set an anonymous third party cookie on your browser. When this cookie is set, all information that would make it personally identifiable is removed. The anonymous third party cookies allow advertisers to target or customise their online advertisements.
 
-#### Why we collect Personal Information and what is it used for?
+**Why we collect Personal Information and what is it used for?**
 
 Cohort Digital use the personal information we collect for various purposes, including:
 
@@ -50,7 +54,7 @@ Cohort Digital use the personal information we collect for various purposes, inc
 
 You may opt-out of receiving any Offers and information from Cohort Digital at any time simply by submitting a request in writing or under the relevant Offer or communication. You can opt out of receiving any Offers and information from a third party to whom we provide your information under the relevant Offer or communication, from that third party.
 
-#### To whom do we disclose the Personal Information?
+**To whom do we disclose the Personal Information?**
 
 We disclose personal information to our clients and advertisers, third party agents, service providers and contractors only for purposes consistent with the reasons for collecting the information set out in this Privacy Policy.
 
@@ -60,7 +64,7 @@ We may disclose personal information to any person or authority where we are req
 
 Other than set out in our Privacy Policy, we will not disclose your personal information without your prior consent.
 
-#### Our security and retention policies
+**Our security and retention policies**
 
 Cohort Digital is committed to ensuring security of personal information it holds. We implement a range of measures to protect personal information from misuse, interference and loss, and from unauthorised access, modification or disclosure. Cohort Digital holds personal information electronically and in hard copy form, both of our own premises and with the assistance of our service providers including the use of secure enterprise grade servers to store personal information.
 
@@ -68,7 +72,7 @@ If Cohort Digital no longer needs your personal information we will take steps t
 
 Cohort Digital notes that it does not have control over information while in transit over the Internet and it cannot guarantee security of personal information during transmission over the Internet. As well, our web site may include web links to other websites. We are not responsible for and do not endorse the content of those other websites or their privacy practices. We recommend you review the privacy policies of those websites.
 
-#### How to access, correct or delete your Personal Information
+**How to access, correct or delete your Personal Information**
 
 Cohort Digital works to ensure that all personal information about you that we collect, use or disclose is accurate, complete and up-to-date. Primarily, we do this by collecting information directly from you.
 
@@ -84,20 +88,18 @@ you can contact us on one of the channels below, and we will use reasonable effo
 
 We are required to provide our reasons if we refuse your request and, if you disagree, you are entitled to ask us to make a note of the request with your information. We may charge a reasonable fee to cover our costs of responding to your information requests.
 
-#### How to contact us
+**How to contact us**
 
 If you wish to make a complaint, request access to or correction of personal information that Cohort Digital holds please contact our Consumer Care Department on:
 
-  * #### [consumercare@cohort.com.au](mailto:consumercare@cohort.com.au); or
-
-  * #### 1300 257 528
-
+  * **[consumercare@cohort.com.au](mailto:consumercare@cohort.com.au); or**
+  * [**1300 257 528**](tel:1300 257 528)
 
 
 
-**We will respond to you to discuss any concerns within 2 working days of receipt of your email or phone  ** **call.**
+**We will respond to you to discuss any concerns within 2 working days of receipt of your email or phone call.**
 
-**Cohort Australia Pty Ltd  
-Suite 15.04, Ernst & Young Centre, 680 George Street  
-Sydney NSW 2000  
-Policy Date: 27th August 2015**
+**Cohort Australia Pty Ltd**  
+**Suite 15.04, Ernst & Young Centre, 680 George Street**  
+**Sydney NSW 2000**  
+**Policy Date: 27th August 2015**
