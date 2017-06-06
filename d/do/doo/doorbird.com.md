@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doorbird.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316151247id_/http%3A//www.doorbird.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doorbird.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073054id_/http%3A//www.doorbird.com/privacypolicy) for the most accurate reproduction.*
 
-# The smartphone and tablet WiFi video door station for iOS and Android
+# The smartphone and tablet IP Video Door Station for iOS and Android
 
 Privacy policy This Privacy Policy is intended to help you understand how Bird Home Automation GmbH its subsidiaries and affiliates ("Bird Home Automation," "we," "us" or “our”) collect, use and safeguard the information you provide with us on this website or through our Services (as defined in our “Terms of Use”). By using or accessing our Services, you signify your acknowledgment and assent to the Privacy Policy set forth below. If you do not agree to this policy, please do not use our Services. Bird Home Automation can revise this policy at any time by updating this posting, and your use after such change signifies your acceptance of the changed terms. Please check this policy periodically for changes. 
 
