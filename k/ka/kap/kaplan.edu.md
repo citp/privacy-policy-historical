@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kaplan.edu privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525113646id_/http%3A//www.kaplanuniversity.edu/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplan.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123213id_/http%3A//www.kaplanuniversity.edu/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Kaplan University
 
 ## Kaplan University User Agreement
 
-### Last Updated: August, 2015
+### Last Updated: December, 2016
 
 This is the User Agreement for Kaplan University (the "Site"), which is operated by Kaplan, Inc. ("Kaplan," "we," or "us").
 
@@ -249,6 +249,10 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 ###  **How to Contact Us**  
 
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email as follows: [KUPrivacy@kaplan.edu](mailto:KUPrivacy@kaplan.edu)
+
+### How to Unsubscribe
+
+If you no longer wish to receive our emails, there is an unsubscribe link located in the footer of all emails that we send.
 
 ###  **Security**  
 
