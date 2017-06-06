@@ -1,55 +1,36 @@
-> *The following text is extracted and transformed from the ozfreeonline.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211143039id_/http%3A//www.ozfreeonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozfreeonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153030id_/http%3A//ozfreeonline.com/privacy.php) for the most accurate reproduction.*
 
-# Oz Free Online - Classifieds, Cars, Realestate, Auctions, Employment, Free Sales
+# OZFreeOnline.com - Get Traffic from Posting Ads On Our AdBoard
 
-Oz Free Online Privacy Policy
+** Oz Free Online Privacy Policy**
 
-**Introduction**
+  
+Welcome to Oz Free Online (the "Site"). 
 
-We only collect personally identifying information about you when you specifically and knowingly provide it to us.
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Oz Free Online (collectively, "Services") ("Authorized Customers"). 
 
-**Basic Statement**
+"Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
 
-Personally identifying information that you provide will not be made available to third parties outside of our network without your explicit permission.
+What Personally Identifiable Information is collected? We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
 
-We collect personally identifying information about you only when you specifically and knowingly provide it to us. Your personally identifying information will be used to personalize your experience within us, or for such other purposes as are described at any point where we collect this information from you.
+How does the Site use Personally Identifiable Information? We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
 
-Information that personally identifies you will be kept strictly confidential unless you specifically authorize it to be made available, as in the case of profiles.
+How is Personally Identifiable Information stored? Personally Identifiable Information collected by Oz Free Online is securely stored and is not accessible to third parties. 
 
-Personally identifying information which you choose to provide to another party or Web site will be subject to their privacy policy. For example, if you send your resume to an employer or recruiter you found while searching our site, information you provide to that party is subject to their privacy policy rather than ours.
+What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at info@ozfreeonline.com 
 
-**How we gather information from users**
+Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, OzFreeOnline.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+How does Oz Free Online use login information? Oz Free Onlineuses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
-**What we do with the information we collect**
+How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at info@ozfreeonline.com 
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualised content and advertising. We respect your privacy and do not share your information with anyone.
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting info@ozfreeonline.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. We currently use the following companies to help us collect Aggregated Information:
+What happens if the Privacy Policy Changes? We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
-* Google Analytics  
-* Nielsen NetRatings  
-* StatCounter
+Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-**What Is Personally Identifying Information?**
+[Terms & Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php)
 
-Personally identifying information is information that can be explicitly used to identify and/or contact you as an individual. This includes, information like your real name, e-mail address, mailing address, phone number, etc. Information that, by itself, cannot be explicitly linked with your real identity is not considered personally identifying. Examples of this are favorite or bookmarked Web sites, or your preferences with respect to how you wish to see a given page or site set up according to the selections you choose.
-
-On occasion, we may ask you for personal information such as your name or address. We do this when you register for contests/promotions or services that require registration or subscription. We need to collect this information for fulfilling prizes, and for tracking/verifying compliance with our policies. It may also be needed for purposes of compliance with federal/state and local laws and/or for editorial and feedback solicitation purposes. When we intend to use your personal information, we tell you up front. This way you can decide whether you want to give us the information or not.
-
-**Links To Other Sites**
-
-Users should be aware that when you are on our site, you could be directed to other sites that are beyond our control. There are links to other sites that take you outside our service. This includes links from advertisers, sponsors and partners that may use the our logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data or solicit personal information. Always be aware of where you end up!
-
-Our policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond our control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
-
-**E-Mail To Us**
-
-When you send us e-mail, we will use your name and e-mail address only to respond to the concerns you write to us with. Your e-mail may be shared with appropriate people within the organization to help us respond to your concerns and improve the service.
-
-**Changes To This Policy**
-
-From time to time, we may introduce new products and services to its users and members. We reserve the right to modify this policy at any time by notifying customers, via our site, of a new privacy policy. You can send e-mail to support with any further questions.
-
-[OzFreeOnline.com General Privacy Policy](http://www.ozfreeonline.com/privacy.html)
+© Copyright 2015 _All Rights Reserved_
