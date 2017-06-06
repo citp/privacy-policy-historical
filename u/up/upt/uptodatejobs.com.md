@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uptodatejobs.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119083343id_/http%3A//uptodatejobs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptodatejobs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102520id_/http%3A//uptodatejobs.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - High Paying Jobs
+# Privacy Policy -
 
 All the information on http://www.uptodatejobs.com is published in good faith and is for general information regarding jobs and career only. We collect information about jobs from various websites in which we don’t have control. We do not make any warranties about the completeness, reliability and accuracy of this information provided in our portal. Any action you take upon the information on our website is strictly at your own risk. And we will not be liable for any losses and damages in connection with the use of our website.
 
