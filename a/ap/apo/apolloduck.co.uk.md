@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apolloduck.co.uk privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026023733id_/http%3A//www.apolloduck.co.uk/legal/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apolloduck.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111522id_/http%3A//www.apolloduck.co.uk/legal/privacy.phtml) for the most accurate reproduction.*
 
 # Boats for sale UK, used boats, new boat sales, free photo ads - Apollo Duck
 
@@ -24,4 +24,4 @@ It is possible to access and use Apollo Duck without the use of cookies, but som
 
 Cookies are additionally set by our advertising partner, Google. These are employed in the provision of the translation service on our sites, and in the placement of targeted banner advertising. Further information about Google's use of cookies can be obtained by clicking the 'AdChoices icon' in the top right corner of their skyscraper and banner adverts. 
 
-Copyright © 2016 Berkeley Publishing Ltd.
+Copyright © 2017 Berkeley Publishing Ltd.
