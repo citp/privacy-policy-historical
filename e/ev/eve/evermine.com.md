@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evermine.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201092754id_/https%3A//www.evermine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evermine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182458id_/https%3A//www.evermine.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | Evermine
 
