@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanindia.net privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026191857id_/http%3A//www.sanindia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanindia.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030520id_/http%3A//www.sanindia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sanindia.Net
 
