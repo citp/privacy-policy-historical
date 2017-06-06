@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mysmartsupport.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205092058id_/http%3A//mysmartsupport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartsupport.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162231id_/http%3A//mysmartsupport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Our Privacy Policy**
 
-Privacy Policy: This page confirms my ownership of the site and that this site adheres to Google AdSense program policies & Terms and Conditions.
-
-If you require any more information or have any questions about our privacy policy, please email us at [d85kumar@gmail.com](mailto:d85kumar@gmail.com)  
+Privacy Policy: This page confirms my ownership of the site and that this site adheres to Google AdSense program policies & Terms and Conditions.  
 At My Smart Support, the privacy of our visitors is of most importance to us. This privacy policy document outlines the types of personal information is received and collected by us  and how it is used.
 
 **In terms of Log Files :**  
