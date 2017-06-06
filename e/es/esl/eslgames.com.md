@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eslgames.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119145744id_/http%3A//eslgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslgames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040904id_/http%3A//eslgames.com/contact/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - ESL games
 
   
 Privacy Policy – www.eslgames.com  
