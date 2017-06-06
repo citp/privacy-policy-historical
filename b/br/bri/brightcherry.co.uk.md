@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightcherry.co.uk privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329235629id_/http%3A//www.brightcherry.co.uk/scribbles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcherry.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164639id_/https%3A//www.brightcherry.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 #### Definitions
 
-The terms “Bright Cherry”, “BrightCherry Limited”, “BrightCherry”, “Bright Cherry Web Design”, “we”, “us”, “our” and “ours” when used in these Terms and Conditions mean BrightCherry Limited. 
+The terms “Bright Cherry”, “BrightCherry Limited”, “BrightCherry”, “Bright Cherry Web Design”, “we”, “us”, “our” and “ours” when used in these Terms and Conditions mean BrightCherry Limited.
 
 The terms “you”, “your” and “yours” when used in these Terms and Conditions mean any user of this website.
 
@@ -20,7 +20,7 @@ If you have any questions concerning your personal information or regarding our 
 
 #### Collection of personal data
 
-We collect information from details you give us when you use our website or any of our services, and from any email messages you may send to us. 
+We collect information from details you give us when you use our website or any of our services, and from any email messages you may send to us.
 
 We may also collect email addresses via marketing events such as trade shows and exhibitions. In such cases, we assume that people providing their email addresses are opting in to receive email messages from us. Therefore, we do not include an email opt-out mechanism when collecting event leads.
 
