@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showsite.us privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604153621id_/http%3A//www.showsite.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showsite.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030908id_/http%3A//www.showsite.org/privacy-policy) for the most accurate reproduction.*
 
 # show site information- showsite.us
 
