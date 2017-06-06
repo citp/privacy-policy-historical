@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelearnings.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013071830id_/http%3A//www.lovelearnings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelearnings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070028id_/http%3A//www.lovelearnings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,10 +8,10 @@ If you require any more information or have any questions about our privacy poli
 
 At www.LoveLearnings.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.LoveLearnings.com and how it is used.
 
- **Log Files**  
+**Log Files**  
 Like many other Web sites, www.LoveLearnings.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **Cookies and Web Beacons**  
+**Cookies and Web Beacons**  
 www.LoveLearnings.com does not use cookies.
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
