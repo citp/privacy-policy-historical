@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the bd.com privacy policy that was archived on 2016-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125071724id_/http%3A//www.bd.com/legal/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bd.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606022241id_/https%3A//www.bd.com/legal/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KG4WWT"></script><script async="" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.12/jquery.mousewheel.min.js?_=1582518134299"></script>
+<!DOCTYPE html><html><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KG4WWT"></script><script async="" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.12/jquery.mousewheel.min.js?_=1582546707284"></script>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta charset="UTF-8">
 		<title>Privacy Statement and Consent to Use of Data | BD</title>
@@ -16,7 +16,7 @@
 		<script type="text/javascript" src="/prebuilt/js/select.js"></script>
 		<script type="text/javascript" src="/prebuilt/js/scrollbar.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.12/jquery.mousewheel.min.js"></script>
 		<script type="text/javascript" src="/prebuilt/js/scrolltabs.js"></script>
-		<script type="text/javascript" src="/prebuilt/js/jquery-scripts.js"></script><script async="" src="//web.archive.org/web/20161107122045/http://static.hotjar.com/c/hotjar-190969.js?sv=5"></script>
+		<script type="text/javascript" src="/prebuilt/js/jquery-scripts.js"></script><script async="" src="//web.archive.org/web/20170602211845/http://static.hotjar.com/c/hotjar-190969.js?sv=5"></script>
 		<script type="text/javascript" src="/prebuilt/js/jquery-igx-dev.js"></script>
 		<script type="text/javascript" src="//use.typekit.net/rrn8jpr.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -29,59 +29,87 @@
 		<div id="page">
 			<script type="text/javascript" src="/prebuilt/js/js.cookie.js"></script>
 
-<!-- begin cookes for utm -->
+<script language="javascript" type="text/javascript" src="/europe/includes/cookieconsent-pre.js"></script>
+
+<!-- begin cookies for utm -->
 <script>
 // Parse the URL
-function getParameterByName(name, url) {
-               if (!url) url = window.location.href;
-               name = name.replace(/[\[\]]/g, "\\$&");
-               var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-               results = regex.exec(url);
-            if( results === null )
-            return "";
-            else
-               return results = decodeURIComponent(results[2].replace(/\+/g, " "));
-                                                //return results === null ? "" : decodeURIComponent(results[2].replace(/\+/g, " "));
+ if ($.cookie("BDCookiesSettings") != null  && $.cookie("BDCookiesSettings") == 2) {
+ 
+			if($.cookie('utm_source')) {$.cookie('utm_source', null, {path:'/'})};
+			if($.cookie('utm_medium')) {$.cookie('utm_medium', null, {path:'/'})};
+			if($.cookie('utm_campaign')) {$.cookie('utm_campaign', null, {path:'/'})};
+			if($.cookie('utm_content')) {$.cookie('utm_content', null, {path:'/'})};
+	
+ 
+ } else{
+ 
+			function getParameterByName(name, url) {
+				if (!url) url = window.location.href;
+					name = name.replace(/[\[\]]/g, "\\$&");
+					var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+					results = regex.exec(url);
+				if( results === null )
+					return "";
+				else
+					return results = decodeURIComponent(results[2].replace(/\+/g, " "));
+				//return results === null ? "" : decodeURIComponent(results[2].replace(/\+/g, " "));
+			}
+			
+			// Give the URL parameters variable names
+			var source = getParameterByName('utm_source');
+			var medium = getParameterByName('utm_medium');
+			var campaign = getParameterByName('utm_campaign');
+			var content = getParameterByName('utm_content');
+			
+			
+			// Set the cookies
+			if (source !== ''){Cookies.set('utm_source', source,{ expires: 30, path: '/', domain: '.bd.com' });}
+			if (medium !== ''){Cookies.set('utm_medium', medium,{ expires: 30, path: '/', domain: '.bd.com' });}
+			if (campaign !== ''){Cookies.set('utm_campaign', campaign,{ expires: 30, path: '/', domain: '.bd.com' });}
+			if (content !== ''){Cookies.set('utm_content', content,{ expires: 30, path: '/', domain: '.bd.com' });}
+			
+			
+			// Grab the cookie value and set the form field values
+			$(document).ready(function(){
+						   $('input[name=utm_source]').val('utm_source');
+						   $('input[name=utm_medium]').val('utm_medium');
+						   $('input[name=utm_campaign]').val('utm_campaign');
+						   $('input[name=utm_content]').val('utm_content');
+			});
+			
 }
-
-// Give the URL parameters variable names
-var source = getParameterByName('utm_source');
-var medium = getParameterByName('utm_medium');
-var campaign = getParameterByName('utm_campaign');
-var content = getParameterByName('utm_content');
-
-
-// Set the cookies
-if (source !== ''){Cookies.set('utm_source', source,{ expires: 30, path: '/', domain: '.bd.com' });}
-if (medium !== ''){Cookies.set('utm_medium', medium,{ expires: 30, path: '/', domain: '.bd.com' });}
-if (campaign !== ''){Cookies.set('utm_campaign', campaign,{ expires: 30, path: '/', domain: '.bd.com' });}
-if (content !== ''){Cookies.set('utm_content', content,{ expires: 30, path: '/', domain: '.bd.com' });}
-
-
-// Grab the cookie value and set the form field values
-$(document).ready(function(){
-               $('input[name=utm_source]').val('utm_source');
-               $('input[name=utm_medium]').val('utm_medium');
-               $('input[name=utm_campaign]').val('utm_campaign');
-               $('input[name=utm_content]').val('utm_content');
-});
-
-
 </script>
 <!-- end cookies for utm -->
 
-
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KG4WWT"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<!--<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KG4WWT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>-->
+<script language="javascript">
+
+ if ($.cookie("BDCookiesSettings") != null  && $.cookie("BDCookiesSettings") == 2) {
+		
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KG4WWT');</script>
+})(window,document,'script','dataLayer','GTM-KG4WWT');
+    	//SE 1/17/17 - if cookies are set to no, it wont set cookies but will still collect some data for analytics
+		window['ga-disable-UA-63748649-1'] = true; 
+		document.cookie='UA-63748649-1=; expires=Thu, 18 Dec 2013 12:00:00 UTC; path=/';
+							
+} else{
+
+			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KG4WWT');	
+
+}  		 			
+				
+</script>
 <!-- End Google Tag Manager -->
-
-
 
 			<header>
 				<div class="container">
@@ -374,9 +402,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="pipe">|</span>
 								<a href="/sitemap.aspx">Site Map</a>
                                 <span class="pipe">|</span>
-								<a href="http://www1.bd.com/alerts-notices/">Alerts and Notices</a>
+								<a href="/alerts-notices/">Alerts and Notices</a>
 							</p>
-							<p class="fade">© 2016 BD. All rights reserved. Unless otherwise noted, BD, the BD Logo and all other trademarks are property of Becton, Dickinson and Company. </p>
+							<p class="fade">© 2017 BD. All rights reserved. Unless otherwise noted, BD, the BD Logo and all other trademarks are property of Becton, Dickinson and Company. </p>
 						</div>
 					</div>
 				</div>
