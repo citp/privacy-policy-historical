@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codewithchris.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022104349id_/http%3A//codewithchris.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codewithchris.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041102id_/https%3A//codewithchris.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy and Affiliate Disclosure
 
