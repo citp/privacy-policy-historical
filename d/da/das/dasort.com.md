@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dasort.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124150542id_/http%3A//dasort.com/privacy-and-return-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dasort.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075112id_/http%3A//dasort.com/privacy-and-return-policy) for the most accurate reproduction.*
 
-# Privacy and Return Policy - DaSort
+# Privacy and Return Policy – DaSort
 
 **Refund Policy (for Goods)**
 
