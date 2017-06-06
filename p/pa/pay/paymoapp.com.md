@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the paymoapp.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310164309id_/https%3A//www.paymoapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymoapp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173924id_/https%3A//www.paymoapp.com/privacy) for the most accurate reproduction.*
 
 # Paymo Privacy Policy
 
-### Privacy Policy
+##  Start Your Free Trial 
+
+×
+
+## Privacy Policy
 
 The right to be let alone is indeed the beginning of all freedom.
 
@@ -17,7 +21,7 @@ Your privacy is extremely important to us and we're committed to protect it. Any
 
 
 
-2. We will never sell, rent or share any information with any third parties
+2. We will never sell or rent any information with any third parties
 
 3. All your records are private, for your use and viewing only
 
