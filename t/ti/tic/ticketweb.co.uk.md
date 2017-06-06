@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketweb.co.uk privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114044738id_/http%3A//www.ticketweb.co.uk/help/helpdesk/privacypolicy.html%3Ftm_link%3Dtm_i_3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketweb.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052101id_/http%3A//www.ticketweb.co.uk/help/helpdesk/privacypolicy.html%3Ftm_link%3Dtm_i_3) for the most accurate reproduction.*
 
 # TicketWeb Privacy Policy
 
@@ -106,7 +106,7 @@ In addition to contacting us , you can **opt out** in the following ways:
 
 **Our sites and apps are not intended for children.**
 
-Our sites and apps are meant for adults. We do not knowingly collect personal information from children. If you are a parent or legal guardian and think your child has given us information, you can [contact us](https://web.archive.org/web/20161114044738id_/http%3A//www.ticketweb.co.uk/help/helpdesk/www.ticketweb.co.uk/help/helpdesk).
+Our sites and apps are meant for adults. We do not knowingly collect personal information from children. If you are a parent or legal guardian and think your child has given us information, you can [contact us](https://web.archive.org/web/20170606052101id_/http%3A//www.ticketweb.co.uk/help/helpdesk/www.ticketweb.co.uk/help/helpdesk).
 
 **We use standard security measures**
 
@@ -128,7 +128,7 @@ The transfer of your information for use in line with this Policy and [Cookies P
 
 **Feel free to contact us if you have any questions, complaints or require a copy of information we hold about you**
 
-If you have any questions or complaints about this Policy or any privacy concerns, or would like to request copies of the information we hold about you, please [contact us](https://web.archive.org/web/20161114044738id_/http%3A//www.ticketweb.co.uk/help/helpdesk/www.ticketweb.co.uk/help/helpdesk). Please do not include your credit card number or other financial or sensitive information in your email.
+If you have any questions or complaints about this Policy or any privacy concerns, or would like to request copies of the information we hold about you, please [contact us](https://web.archive.org/web/20170606052101id_/http%3A//www.ticketweb.co.uk/help/helpdesk/www.ticketweb.co.uk/help/helpdesk). Please do not include your credit card number or other financial or sensitive information in your email.
 
 To correct, amend or update information you have given us, or in order to withdraw a consent you have given us, you can contact us or log into your account and select the relevant option.
 
