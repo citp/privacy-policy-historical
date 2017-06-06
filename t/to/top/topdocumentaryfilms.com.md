@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdocumentaryfilms.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222044047id_/http%3A//topdocumentaryfilms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdocumentaryfilms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065641id_/http%3A//topdocumentaryfilms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Documentary Films
 
@@ -24,7 +24,7 @@ If you would like more information about this practice and to know your choices 
 
 5\. Affiliate links:
 
-Some of the links on this site are "Amazon affiliate links". This means when you click on one of those links, you will leave this site and land on an Amazon.com page. If you decide to purchase an item from Amazon.com, through our link, we will receive an affiliate commission. However, we only recommend products (documentaries) that we believe are worth purchasing and will add value to our visitors. If you want to know more about how Amazon.com uses your data visit [Amazon.com Privacy Notice](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. This means that some of the links on this site are "Amazon affiliate links". When you click on one of those links, you will leave this site and land on an Amazon.com page. If you decide to purchase an item from Amazon.com, through our link, we will receive an affiliate commission. However, we only recommend products (documentaries) that we believe are worth purchasing and will add value to our visitors. If you want to know more about how Amazon.com uses your data visit [Amazon.com Privacy Notice](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
 
 6\. Contacting the website:
 
