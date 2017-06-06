@@ -1,150 +1,117 @@
-> *The following text is extracted and transformed from the gayconnect.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022100403id_/http%3A//gayconnect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayconnect.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184358id_/https%3A//gayconnect.com/privacy) for the most accurate reproduction.*
 
 # GayConnect Privacy Policy
 
-Fair Information Practices 
+At GayConnect, we respect your privacy rights. This privacy policy is offered to our Users to help them understand what information we collect and how we use it when you use our Services.
 
-Fair information   
-Practices
+What information do we collect?
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.   
+All Users may be asked at some point to provide personally identifiable information (name, phone number, e-mail address, etc.) in order to access certain features, now existing or created in the future. 
 
+In addition, demographic, statistical or aggregated may be gathered for our business use, none of which contains any identifiable information about any individual or User. 
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+Information you provide to us.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+  * Information that you provide at the time of registering to use certain features of our Service.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Details of transactions you carry out through our Service. You may be required to provide financial information before placing an order through our Service.
 
-**When do we collect information?**
 
-We collect information from you when you fill out a form or enter information on our site.
 
-**How do we use your information?**
+Any User of GayConnect may make use of interactive messaging and comment features to post through the Service. Any information to be published or displayed on public areas of the Service, or transmitted to other users of the Service or third parties falls within the category of "User Generated Contribution." User Contributions are posted on and transmitted to others at your own risk according to the Acceptable Use Policies found in our Terms and Conditions.
 
-  
+Be aware, we cannot control the actions of other users of the Service with whom you may choose to share your User Generated Contributions. Therefore, we cannot and do not guarantee that your User Generated Contributions will not be viewed by unauthorized persons, or used in violation of our Terms of Service. Some users are able to cache or record User Generated Content in violation of our Terms of Service, and in some instances re-distribute it, or make use of it in manners which not licensed by you. If you become aware of such use, contact third parties and appropriate authorities to make them aware the use was not authorized.
 
+Information collected by automatic data collection technologies.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
+As you navigate through and interact with our Services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
-**•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * Details of your visits to our Service, including traffic data, location data, logs and other communication data and the resources that you access and use on the Service.
+  * Information about your computer or device and Internet connection, including your IP address, operating system and browser type.
 
-**•** To improve our website in order to better serve you.
 
-**•** To allow us to better service you in responding to your customer service requests.
 
- **How do we protect visitor information?**
+The information we collect automatically is statistical data. It helps us to improve our Services and to deliver a better and more personalized experience, including by enabling us to:
 
-  
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Service according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Service.
 
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. 
 
-We do not use an SSL certificate
+The technologies we use for this automatic data collection may include:
 
-**•** We only provide articles and information, and we never ask for personal or private information
+  1. **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Service. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Service.
+  2. **Flash Cookies.** Certain features of our Service may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Service. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+  3. **Web Beacons.** Portions of our the Service may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
- **Do we use 'cookies'?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+How We Use Your Information
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.   
+We use information that we collect about you or that you provide to us, including any personal information:
 
+  * To present our Services to you, or have our authorized third party affiliates provide support or services related to provision of our services and operation of our Site.
+  * To provide you with information, products or services that you have expressed an interest in, related to this Service, or those of our affiliates.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account or subscription.
+  * To inform you of obligations, rights or responsibilities arising from any transactions you have entered into for purposes of billing and disbursement.
+  * To notify you about changes to our Service.
+  * For any other purpose with your consent.
 
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
 
-However, you can still place orders .
 
-**Third Party Disclosure**
+Disclosure of Your Information
 
-  
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
+ 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+We may disclose personal information that we collect, or you provide as described in this privacy policy:
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  * Only to the extent necessary to fulfill any purposes or transaction for which you provide it among our trusted third party affiliates.
+  * For any other purpose disclosed by us when you provide the information.
+  * OR with your consent.
 
- **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
- **Google**
+In rare circumstances we may be required to disclose your personal information:
 
-  
+  * To comply with any court order, law or legal process, including responding to any government or regulatory request, including DMCA Notices.
+  * To enforce or apply our Service Agreement and other policies.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of GayConnect, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
 
-We have not enabled Google AdSense on our site but we may do so in the future.
+Minors and Children
 
- **California Online Privacy Protection Act**
+Our Services are intended for adults, and we do not direct any of our content or services at minors less than 18 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online. If we learn, or have reason to suspect, that a user is less than 18 years of age, we will promptly take any action we may deem appropriate, including without limitation conducting further inquiry/investigation and/or deleting that user's account.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf   
+Accessing and Correcting Your Information
 
+You can review and change any personal information you have submitted by logging into your account profile page. The Service Agreement requires that you keep all information up to date, however you may limit any information that is publicly shared.
 
-**According to CalOPPA we agree to the following:**
+If you need assistance in doing so, please contact [Privacy@gayconnect.com](mailto:Privacy@gayconnect.com "Contact us") to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-Users can visit our site anonymously
+ 
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+If you delete your User Contributions from the Service copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Users. Proper access and use of information provided on the Service, including User Contributions, is governed by our Terms and Conditions.
 
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+ 
 
-Users will be notified of any privacy policy changes:
+Your California Privacy Rights
 
-**•** On our Privacy Policy Page
+California Civil Code Section § 1798.83 permits users of our Service that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [Privacy@gayconnect.com](mailto:Privacy@gayconnect.com "Contact us")
 
-Users are able to change their personal information:
+Security
 
-**•** By emailing us
+We have security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we can make no assurances regarding our ability to prevent any such loss, misuse or alteration.
 
-**How does our site handle do not track signals?**
+Contacting us
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+If you have any questions about this Policy, or, our practices related to our Services, please submit your questions to [Privacy@gayconnect.com](mailto:Privacy@gayconnect.com "Contact us").
 
-**Does our site allow third party behavioral tracking?**
+Updates and changes
 
-It's also important to note that we do not allow third party behavioral tracking
-
- **COPPA (Children Online Privacy Protection Act)**
-
-  
-
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. 
-
-We do not specifically market to children under 13.
-
- **Fair Information Practices**
-
-  
-
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. 
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email
-
-**•** Within 7 business days
-
-We will notify the users via in site notification
-
-**•** Within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
- **Contacting Us**
-
-  
-
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-GayConnect.com
-
-info@gayconnect.com
-
-888-324-8545
-
-Last Edited on 2014-10-28
+We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
