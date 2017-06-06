@@ -1,43 +1,80 @@
-> *The following text is extracted and transformed from the setcom.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123150314id_/http%3A//www.setcom.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setcom.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092044id_/http%3A//sidpayment.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Setcom
+# Privacy - The New SID Instant EFT has Arrived!
 
-This Policy was last modified on June 16, 2012.
+##  SID Instant EFT Privacy Policy
 
-Setcom takes your privacy seriously. Please read the following to learn more about our Privacy Policy.
+This Policy was last modified on May 17th 2017.  
+This Privacy Policy describes how SID Instant EFT collects and uses the personal information you provide on our website: [www.sidpayment.com](http://www.sidpayment.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-## Overview
+#### Collection of Personal Information
 
-By accepting the Privacy Policy and the terms and conditions thereof when sharing any of your information with Setcom, you expressly consent to and authorize our use and disclosure of your personal information in the manner described in this Privacy Policy.
+We collect the following personal information from you:
 
-## Collection of Personal Information
+  * Contact Information such as name, email address, mailing address, phone number
+  * Financial Information such as bank or brokerage account numbers, types of investments
+  * Unique Identifiers such as user name, account number, password
 
-To provide you with account services and / or payment processing, we must obtain certain personal information, such as, without being limited to, name, email and/or phone number as well as your company information. For certain optional transactions, we will require selected financial information such as credit card details. For high value transactions, we are legally obliged to report certain mandatory personal identification information to the authorities. For verification purposes we reserve the right to request proof of identification in an offline format. Your IP address and access times are tracked against your user id for the dual purpose of preventing fraud and creating an audit trail when sending a payment or logging onto our secure server. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site and link the information we store in cookies to any personal identification information you submit while on our site.
 
-## Use of Personal Information
 
-We only use your personal information to service your account and to improve our services to you. However, we do share some financial information as part of normal business operations with banks or credit card processing and verification services. These entities may not use your information for secondary purposes, unless required by law. Although we make every effort to preserve your privacy we may be obliged to disclose your personal information by law, regulation or court order. Save for the above, UNDER NO CIRCUMSTANCES will information you provide to Setcom be transmitted in any way to a third party.
+As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-## Control of Personal Information
+#### Use of Personal Information
 
-If a merchant's personal identification information changes (such as your area code, phone number, email or postal address), you must request the relevant corrections and updates to your account by submitting a written request to Setcom via email. If a merchant no longer desires to use our services, you may request the closure of your account in writing. However, we cannot completely delete merchant information because of legal/regulatory and technical back up requirements.
+  * The information collected from you is used to process your order.
+  * The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc.
 
-## Communication
 
-Upon registration merchants will receive correspondence from our technical support team, who will provide integration details and guidance. Merchants will occasionally receive information on products, services and special deals via newsletter. Out of respect for the privacy of our merchants, we give you the option of choosing not to receive these types of communications by selecting the "Unsubscribe" option on any newsletter received.
 
-## Links
+#### 3rd Party Disclosure
 
-This website may contain links to other sites. Please be aware that Setcom is not responsible for the privacy practices of such other sites. We encourage our users to take care when they leave our site and to read the privacy statements of each and every website that collects personal identification information. This Privacy Statement applies solely to information collected by Setcom's website.
+Customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-## Security
+#### Cookies and Other Tracking Technologies
 
-Setcom has taken all reasonable measures to secure your account information from unauthorised access, use or disclosure. You must enter your login details each time you want to access the Setcom Merchant Portal. Never share your account details with anyone. If you are concerned that your password has been compromised, you can change it any time once you are logged on. Your account login, personal details and all money transactions are secured using Secure Socket Layer (SSL) technology with high security 128bit encryption.
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
-## Notification of Changes
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
 
-Changes to this privacy statement will be posted on our website so that you know what use is made of your information. If we intend using your personal identification information in a manner different from that stated at the time that you submit same, we will notify you via email. You will have the option of consenting to the use of your information in this new manner. However, if you have requested the closure of your Setcom account, you will not be contacted, nor will your information be used in this new manner.
+**Web Beacons**  
+Our web pages contain electronic images known as Web Beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-## Contact Information
+We use a third party to gather information about how you and others who use our website. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at [support@setcom.co.za](mailto:support@setcom.co.za)
+**Links to Other Websites**  
+Our website includes links to other websites whose privacy practices may differ from those of SID Instant EFT. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
+
+#### Private Information Security
+
+For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Setcom (Pty) Ltd, keeps this information encrypted and secure on your behalf.
+
+The security of your personal information is important to us. When you enter sensitive information on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+We wil retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@sidpayment.com](mailto:support@sidpayment.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+If you have any questions about security on our website, you can contact us at [support@sidpayment.com](mailto:support@sidpayment.com).
+
+#### Additional Policy Information
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at support@sidpayment.com.
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+#### Contact Information
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+**SID Instant EFT**
+
+Monte Circle, 2nd Floor, Block A  
+64 Montecasino Boulevard  
+Fourways, 2191
+
+**Email:** support@sidpayment.com  
+**Phone:** +27 (0)11 555 1101
