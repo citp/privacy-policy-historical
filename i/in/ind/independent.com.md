@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the independent.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121145211id_/http%3A//www.independent.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032027id_/http%3A//www.independent.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | The Santa Barbara Independent
 
 This is the web site of _Independent.com_.
 
-Our postal address is 122 W. Figueroa St.  
-Santa Barbara, CA, 93101
+Our postal address is 12 E. Figueroa St.  
+Santa Barbara, CA 93101
 
-We can be reached via e-mail at [webadmin@independent.com](mailto:webadmin@independent.com)   
+We can be reached via e-mail at [web@independent.com](mailto:web@independent.com)   
 or you can reach us by telephone at 805-965-5205
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
