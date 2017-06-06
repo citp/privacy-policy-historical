@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the traackr.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000646id_/http%3A//www.traackr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traackr.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073443id_/http%3A//www.traackr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to the www.traackr.com and Traackr Inc and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Traackr to the data practices described in this statement.
+Protecting your private information is our priority. This Statement of Privacy applies to www.traackr.com, Traackr Inc and Traackr UK Ltd and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Traackr to the data practices described in this statement.
 
 ## Collection of your Personal Information
 
