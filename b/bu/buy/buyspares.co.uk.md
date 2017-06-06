@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128095354id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133119id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
