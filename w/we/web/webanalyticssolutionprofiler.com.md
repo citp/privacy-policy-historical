@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanalyticssolutionprofiler.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602233203id_/http%3A//cardinalpath.com/privacy-copyright-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticssolutionprofiler.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173721id_/http%3A//cardinalpath.com/privacy-copyright-policies) for the most accurate reproduction.*
 
 # Privacy Policy | Cardinal Path
 
@@ -6,7 +6,7 @@
 
 Last updated: March 7, 2016
 
- **1. APPLICATION.**
+**1. APPLICATION.**
 
 This Privacy Policy (the “Policy”) applies to all online web properties, websites, and other online services owned or operated by Cardinal Path, Inc. and/or Cardinal Path LLC (collectively “Cardinal Path”), including:
 
@@ -20,7 +20,7 @@ d)  The webanalyticssolutionprofiler.com website and e-commerce interface.
 
 The websites noted above will be referred to collectively as “Online Properties”.
 
- **2.   DEFINITIONS.**
+**2.   DEFINITIONS.**
 
 For the purposes of this Policy:
 
@@ -34,7 +34,7 @@ data that could reveal commercially or personally sensitive information about an
 organization, corporation, business, or individual which, if revealed, could cause  
 irreparable harm to that organization, corporation, business, or individual.
 
- **2.  GENERAL POLICIES REGARDING INFORMATION COLLECTION AND USAGE.**
+**2.  GENERAL POLICIES REGARDING INFORMATION COLLECTION AND USAGE.**
 
 Cardinal Path takes their visitors’, users’, and clients’ privacy extremely seriously, and considers it an essential part of their commitment to corporate integrity and responsibility to ensure that Personally Identifiable Information and Confidential Information, is safeguarded, kept secure, and never used for purposes other than those which were explicitly stated and consented to at the time of collection.
 
@@ -44,7 +44,7 @@ Any Personally Identifiable Information or Confidential Information collected by
 
 Personally Identifiable Information or Confidential Information may be selectively disclosed where that  disclosure is required as a result of any requirements imposed by applicable national or sub-jurisdictional (ie. province or state) law or regulation, court order or other legal process, or enforceable and reasonable government request.
 
- **3.  POLICIES REGARDING INFORMATION COLLECTION SPECIFIC TO INDIVIDUAL PLATFORMS OR TOOLS.**
+**3.  POLICIES REGARDING INFORMATION COLLECTION SPECIFIC TO INDIVIDUAL PLATFORMS OR TOOLS.**
 
 a)   _Google Analytics_ is a web-based service which assists website owners and operators in learning about and understanding the usage patterns of visitors who use their websites by collecting information about which individual webpages were visited, how long users visited the website, which websites referred the most visitors, general geographic location of visitors and other similar anonymous statistics.
 
@@ -56,7 +56,7 @@ For additional details on Google’s own Privacy Policy, please visit http://www
 
 b)   _Google AdWords and Remarketing_
 
- _Google AdWords Remarketing_ is a web-based service relying on the _Google Display Network_ which improves the relevance of online advertisements to website visitors where those websites display advertisements from the _Google Display Network_.
+_Google AdWords Remarketing_ is a web-based service relying on the _Google Display Network_ which improves the relevance of online advertisements to website visitors where those websites display advertisements from the _Google Display Network_.
 
 In order to distinguish one visitor from another, Google AdWords may create several tracking cookies on a visitor’s computer.  Cardinal Path will only permit such cookies corresponding to remarketing lists for Cardinal Path services to be created on a visitor’s computer when that visitor has visited a section or webpage on a Cardinal Path Online Property that can reasonably be determined to be related to the services to be advertised using the Remarketing feature of Google AdWords.
 
@@ -154,11 +154,11 @@ i)  _Emails_
 
 Email campaigns will be used help identify visitor preferences to improve the user experience, and to better understand customer needs. By using this site you agree to having your historical web browsing activity connected to your email address, company, and other personal information. If you prefer to remain anonymous and untracked, Cardinal Path will respect your rights in this regard, and you may choose to opt-out of tracking here: https://tools.google.com/dlpage/gaoptout
 
- **4.  REVISIONS AND UPDATES TO POLICY**
+**4.  REVISIONS AND UPDATES TO POLICY**
 
 Due to the nature of this Policy and the Internet, Cardinal Path will not be able to contact individuals who have visited the website individually in order to notify them of changes to the Policy.  However, the most recent version of the Policy will be made continuously available, barring unforeseen technical issues, at the Privacy Policy webpages for each of the Online Properties owned and operated by Cardinal Path, and the most recent revision date will be posted on each such instance of the Privacy Policy.
 
- **5.  CARDINAL PATH CONTACT INFORMATION**
+**5.  CARDINAL PATH CONTACT INFORMATION**
 
 A Cardinal Path representative can be contacted with questions, comments, or suggestions regarding the Cardinal Path Privacy Policy through the Contact Form on the cardinalpath.com website at http://www.cardinalpath.com/contact/.
 
