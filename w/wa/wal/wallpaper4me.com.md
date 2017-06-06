@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaper4me.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104152647id_/http%3A//wallpapercraze.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaper4me.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043906id_/http%3A//wallpapercraze.com/site/privacy-policy) for the most accurate reproduction.*
 
 # WallpaperCraze.com |
 
