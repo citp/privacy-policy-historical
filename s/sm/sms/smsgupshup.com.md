@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smsgupshup.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213193953id_/http%3A//www.gupshup.io/developer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgupshup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160149id_/http%3A//www.gupshup.io/developer/privacy) for the most accurate reproduction.*
 
 # Gupshup - Privacy Policy
 
 _Updated as on 21 June 2016_
 
-This Privacy Policy governs the manner in which Gupshup BOTS collects, uses, maintains and discloses information collected from users (each, a "User", you ) of the [ https://www.gupshup.io/developer/privacy ](https://www.gupshup.io/developer/privacy) website ("Site"). This privacy policy applies to the Site and all products and services offered by Gupshup. 
+This Privacy Policy governs the manner in which Gupshup BOTS collects, uses, maintains and discloses information collected from users (each, a "User", you ) of the [ https://www.gupshup.io/developer/privacy ](https://www.gupshup.io/developer/privacy "Privacy") website ("Site"). This privacy policy applies to the Site and all products and services offered by Gupshup. 
 
 The application does not collect or send any kind of personally identifiable information, except for information required for connecting to Gupshup BOTs API services, the information retrieved from RSS feed, contact information for teams who have installed the application, and information about slash commands and requests sent explicitly by users to the application.
 
@@ -116,4 +116,4 @@ You agree not to use the Gupshup Services in a manner that would violate laws pr
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [ support@guphup.io ](mailto:support@guphup.io)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [ support@guphup.io ](mailto:support@guphup.io "support@guphup.io")
