@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cancelon.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812212937id_/http%3A//www.cancelon.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancelon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193023id_/https%3A//www.cancelon.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Cancelon Privacy Policy  
-This privacy policy (“Privacy Policy”) governs how Cancelon Ltd., its subsidiary Cancelon Inc., Cancelon UK and its other affiliates, (collectively, “Cancelon”, “we”, “our” or “us”) use Personal Information in connection with your use of the website www.Cancelon.com (“Site”).   
+This privacy policy (“Privacy Policy”) governs how Cancelon Ltd., its subsidiary Cancelon Inc., Cancelon UK and its other affiliates, (collectively, “Cancelon”, “we”, “our” or “us”) use Personal Information in connection with your use of the website www.Cancelon.com (“Site”). 
+
 1\. 1. Introduction. This Privacy Policy explains our online information practices and the choices you can make about the way your Personal Information is collected and used in connection with the Site. “Personal Information” means any information that may be used, either alone or in combination with other information, to personally identify an individual.  
 2\. Terms of Use. This Privacy Policy forms part of our Terms of Use which is available at www.Cancelon.com/page/User-Agreement (“Terms”).   
 3\. Consent and Modification. By using the Site, you consent to the terms of this Privacy Policy and to our collection, processing and sharing of Personal Information for the purposes set forth herein. If you do not agree to this Privacy Policy, please do not access or otherwise use the Site. We reserve the right, at our discretion, to change this Privacy Policy at any time, such change will be effective 10 days following posting of the revised Privacy Policy on the Site, and your continued use of the Site thereafter means that you accept those changes.  
