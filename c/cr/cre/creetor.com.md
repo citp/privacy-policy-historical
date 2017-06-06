@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creetor.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120073704id_/http%3A//www.creetor.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creetor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072415id_/http%3A//www.creetor.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Creetor - the Wonderland of Games
 
