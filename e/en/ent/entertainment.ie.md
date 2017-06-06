@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119131003id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084946id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Entertainment.ie
 
@@ -10,11 +10,11 @@ This statement relates to our privacy practices in connection with this website.
 
 #### General statement
 
-entertainment.ie fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission. Any personal information which you volunteer will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988 & 2003.
+entertainment.ie fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission. Any personal information which you volunteer will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988 & 2003 & 2011 European Communities Regulations.
 
 #### Collection and use of personal information
 
-entertainment.ie does not collect any personal data about you on this website, apart from information which you volunteer (for example by joining uLike, entering our competitions or taking part in our user forums). Any information which you provide in this way is not made available to any third parties, however, in the case of uLike members we may, in accordance with the Terms and Conditions of the service, send promotional emails on behalf of third parties but without allowing those third parties to have access to individual email addresses or mobile telephone numbers. 
+entertainment.ie does not collect any personal data about you on this website, apart from information which you volunteer (for example by joining uLike, entering our competitions or taking part in our user forums). Any information which you provide in this way is not made available to any third parties, however, in the case of uLike members we may, in accordance with the Terms and Conditions of the service, send promotional emails on behalf of third parties but without allowing those third parties to have access to individual email addresses or mobile telephone numbers. Some competitions may offer an opt-in to third party websites to receive offers and promotional material. You have the right to choose to opt in or not, and this does not affect your competition entry.
 
 #### Listings
 
@@ -36,7 +36,7 @@ Technical details in connection with visits to this website are logged by our in
 
 In addition we have implemented Google Analytics features based on Display Advertising ([Google Analytis Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357?hl=en)) You can customise Google Display Network ads using the [Ads Settings](https://www.google.ie/settings/ads). In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics. We will use the data provided by Google Analytics Demographics and Interest Reporting to develop the site and content around our users' interests. 
 
-entertainment.ie will make no attempt to identify individual visitors, or to associate the technical details listed above with any individual. It is the policy of entertainment.ie never to disclose such technical information in respect of individual website visitors to any third party (apart from our internet service provider, which records such data on our behalf and which is bound by confidentiality provisions in this regard), unless obliged to disclose such information by a rule of law. The technical information will be used only by entertainment.ie, and only for statistical and other administrative purposes. You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 & 2003.
+entertainment.ie will make no attempt to identify individual visitors, or to associate the technical details listed above with any individual. It is the policy of entertainment.ie never to disclose such technical information in respect of individual website visitors to any third party (apart from our internet service provider, which records such data on our behalf and which is bound by confidentiality provisions in this regard), unless obliged to disclose such information by a rule of law. The technical information will be used only by entertainment.ie, and only for statistical and other administrative purposes. You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 & 2003 & 2011 European Communities Regulations.
 
 #### Glossary of technical terms used
 
