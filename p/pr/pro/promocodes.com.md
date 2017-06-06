@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the promocodes.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005090609id_/http%3A//www.promocodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172117id_/http%3A//www.promocodes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Promocodes.com
 
 [ ](http://www.promocodes.com/ "back to homepage")
 
-10/5/2016 2:06:09 AM
+6/6/2017 10:21:17 AM
 
 ## Your privacy is important to us
 
