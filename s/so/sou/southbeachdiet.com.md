@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southbeachdiet.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119165715id_/http%3A//www.southbeachdiet.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbeachdiet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172626id_/http%3A//www.southbeachdiet.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | South Beach Diet
 
@@ -72,7 +72,7 @@ We share your information (other than payment information) with third-party vend
 
 We may also provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors.
 
-In addition, from time to time, we may make customer e-mail addresses and postal addresses available to other third party businesses whose products or services we believe might be of value to you. If you do not want us to share your information with other companies or organizations for their marketing purposes, please let us know by unsubscribing here. If you opt-out of promotional or newsletter emails from SouthBeach, we may continue to send you certain communications such as service announcements and administrative messages, relating to SouthBeach that are necessary to our relationship with you and your use of the Services.
+In addition, from time to time, we may make customer e-mail addresses and postal addresses available to other third party businesses whose products or services we believe might be of value to you. If you do not want us to share your information with other companies or organizations for their marketing purposes, please let us know by [unsubscribing here](https://web.archive.org/jsps_hmr/unsubscribe/updateSubscription.jsp). If you opt-out of promotional or newsletter emails from SouthBeach, we may continue to send you certain communications such as service announcements and administrative messages, relating to SouthBeach that are necessary to our relationship with you and your use of the Services.
 
 In addition to what we have described above, SouthBeach may also disclose your personal information to third parties in certain limited circumstances, as follows (1) as necessary if we believe that there has been a violation of our site Terms and Conditions, of the law, of our rights or of any third party; (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (3) if you have given permission for us to share your account information with other members of your household.
 
@@ -96,15 +96,15 @@ The SouthBeach Service and Properties are only intended for persons 18 years and
 
 **Notice to California Customers – Your California Privacy Rights**
 
-California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. Accordingly, as discussed above, if you wish to opt-out of our sharing of your information with third party businesses for the third parties’ direct marketing purposes, please unsubscribe here.
+California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. Accordingly, as discussed above, if you wish to opt-out of our sharing of your information with third party businesses for the third parties’ direct marketing purposes, please [unsubscribe here](https://web.archive.org/jsps_hmr/unsubscribe/updateSubscription.jsp).
 
 **Your Consent and Notification of Change**
 
 By using our Properties, telephone consultation, or mailing in requests for information, you consent to our collection and use of your information in accordance with this Policy. If you do not agree to the terms of this Privacy Policy, you should not use our Property.
 
-If at some point in the future, there is a change to our information usage practices that affect your personally identifiable information, we will notify you by e-mail or by posting the change on or through our Properties, depending on the change. Accordingly, you should, from time to time, check this Policy for changes. All amended terms automatically take effect 30 days after they are posted. Also, depending on the nature of the change, you may have the option to opt-out of the new information usage by unsubscribing here.
+If at some point in the future, there is a change to our information usage practices that affect your personally identifiable information, we will notify you by e-mail or by posting the change on or through our Properties, depending on the change. Accordingly, you should, from time to time, check this Policy for changes. All amended terms automatically take effect 30 days after they are posted. Also, depending on the nature of the change, you may have the option to opt-out of the new information usage by [unsubscribing here](https://web.archive.org/jsps_hmr/unsubscribe/updateSubscription.jsp).
 
-If you want to subscribe to our e-newsletter, we only require your e-mail address. You may unsubscribe at any time by following the opt-out directions in the newsletter or by unsubscribing here.
+If you want to subscribe to our e-newsletter, we only require your e-mail address. You may unsubscribe at any time by following the opt-out directions in the newsletter or by [unsubscribing here](https://web.archive.org/jsps_hmr/unsubscribe/updateSubscription.jsp).
 
 If you opt-out of promotional or newsletter emails from SouthBeach, we may continue to send you certain transactional communications, such as service announcements and administrative messages relating to your account with us, that are necessary to our relationship with you.
 
@@ -124,9 +124,9 @@ SouthBeach Diet, Inc.
 600 Office Center Drive  
 Fort Washington, PA 19034  
 Att: Legal Compliance  
-215-706-5300 
+888-415-1995 
 
-Privacy Policy effective October 28, 2016
+Privacy Policy effective March 27, 2017
 
 **Terms and Conditions**
 
