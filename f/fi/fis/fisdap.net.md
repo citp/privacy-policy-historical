@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fisdap.net privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017215933id_/https%3A//members.fisdap.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisdap.net privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607001625id_/https%3A//members.fisdap.net/privacy) for the most accurate reproduction.*
 
 # Fisdap - Privacy Policy
 
