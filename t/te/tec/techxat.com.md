@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techxat.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120051043id_/http%3A//techxat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techxat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155438id_/http%3A//techxat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
