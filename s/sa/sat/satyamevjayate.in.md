@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satyamevjayate.in privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125143029id_/http%3A//satyamevjayate.in/smj3-privacy-policy-2014.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satyamevjayate.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051808id_/http%3A//satyamevjayate.in/smj3-privacy-policy-2014.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
