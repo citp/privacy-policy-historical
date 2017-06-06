@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablesunlimited.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122201408id_/http%3A//www.cablestogo.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablesunlimited.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125256id_/http%3A//www.cablestogo.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | C2G
 
@@ -7,7 +7,7 @@
 C2G is the sole owner of the information collected on this website. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The information that customers share enables us to provide a more valuable shopping experience through personalization and performance monitoring. C2G collects information from our users at several different points on our website. 
 
   1. **Site Browsing:** We utilize Google Analytics, a web analysis service provided by Google, to understand how our site is performing with our guests. By browsing a page, data is sent to Google which is utilized to track and examine the use of wwww.cablestogo.com, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. We also have partnered with the Google Display Network by allowing Google to store a number in their browsers (using a "cookie") to remember a user's visits. This number uniquely identifies a web browser on a specific computer, not a specific person. Browsers may be associated with a demographic category, such as gender or age range; or interests based on the sites that were visited. Find Google's [privacy policy here](http://www.google.com/intl/en/policies/privacy/). 
-  2. **Registration Page:** In order to place an order on this website, a user must first complete the registration form. During registration, users are required to give their contact information (including name, email address, phone and fax number). This information is used to contact users about the services on our site for which they have expressed interest. There are also unique identifiers (such as customer number) that are not required, but requested so we can provide a more personalized experience on our site. Site registration is also required for "reseller access" which features information pertinent to resellers and requires the mailing, emailing, or faxing of a valid reseller certificate; and it is also required for "tax exempt business access" which features information relevant to our tax-exempt customers and requires the mailing, emailing, or faxing of a valid tax exemption certificate. Acceptance of reseller registration or tax exemption is not guaranteed, and is up to the discretion of C2G and its agents. 
+  2. **Registration Page:** During registration, users are required to give their contact information (including name, email address, phone and fax number). This information is used to contact users about the services on our site for which they have expressed interest. There are also unique identifiers (such as customer number) that are not required, but requested so we can provide a more personalized experience on our site. Site registration is also required for "reseller access" which features information pertinent to resellers and requires the mailing, emailing, or faxing of a valid reseller certificate; and it is also required for "tax exempt business access" which features information relevant to our tax-exempt customers and requires the mailing, emailing, or faxing of a valid tax exemption certificate. Acceptance of reseller registration or tax exemption is not guaranteed, and is up to the discretion of C2G and its agents. 
   3. **Order Form:** We request information from the user on our order form. Here a user must provide contact information (including name and billing address), financial information (including credit/debit card number and expiration date), and shipping information (which may be to a third party). This information is merely used for billing purposes and to fulfill a customer's order. If we have trouble processing an order, we will use this information to contact the customer. 
   4. **Email Newsletter:** If a user wishes to subscribe to our email newsletter, we ask for that person's email address. Customers, who have previously ordered from us within the past year and who have not unsubscribed from our email newsletter, may also receive this email newsletter. Those who choose to no longer receive this newsletter may [unsubscribe here](https://www.cablestogo.com/secure/subscriptions/unsubscribe), call Customer Service at [800.506.9607](tel:+18005069607) or email [customer-service@c2g.com](mailto:customer-service@c2g.com)
   5. **Other Emails:** For all new registrants, we send a welcome email to verify user-provided information. After a customer places an order, we will send an order confirmation email followed by an order shipment or order cancellation notification email. We occasionally may send website and service announcement update emails. Via email or phone, we will communicate with the user to provide requested services and to cover issues relating to their account. 
@@ -42,6 +42,8 @@ We partner with third-party service providers who perform work on our behalf, an
 These companies are not allowed to use personally identifiable information except for the purpose of providing these services, and do not retain, share, store or use personally identifiable information for any secondary purposes. We will not knowingly sell or rent your personal information to anyone without your express permission with the exception that we reserve the right to disclose your personal information when, in our judgment, we believe it is necessary or appropriate to prevent injury, harm or fraud to individuals or property; to report activities that we, in good faith, believe to be unlawful; to protect our rights or the rights of others; or to comply as required by law. 
 
 For the website to properly fulfill its obligation to our customers, it may be necessary for us to supplement the information we receive with data from third-party sources. For example, to determine if a customer qualifies for one of our credit cards, we may use the customer's name and social security number to request a credit report. Once we determine a customer's creditworthiness, this document is destroyed. 
+
+* * *
 
 ###  How You Can Change Your Information Including Removal From Marketing Communications 
 
@@ -94,3 +96,15 @@ From time to time, we may change our privacy statement. We will maintain the mos
 ###  Contacting the Website 
 
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact us at: 
+
+  * **C2G**
+  * 3555 Kettering Blvd.  
+Moraine OH 45439
+  * Toll-free: [800.506.9607](tel: +18005069607)
+  * Local: [937.224.8646](tel:+9372248646)
+  * Fax: 800.331.2841
+  * [webmaster@c2g.com](mailto:webmaster@c2g.com)
+
+
+
+Effective Date: Jan 26, 2016 
