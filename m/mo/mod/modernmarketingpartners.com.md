@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernmarketingpartners.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318194321id_/http%3A//www.modernmarketingpartners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernmarketingpartners.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160206id_/http%3A//www.modernmarketingpartners.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Modern Marketing Partners
 
