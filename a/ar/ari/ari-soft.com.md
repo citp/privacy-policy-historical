@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124171513id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175723id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
 
 You currently have **0 items** in your cart.
 
-  * 18/11/2016 Black Friday and Cyber Monday
+  * 14/04/2017 Happy Easter
 
-Don't wait BLACK FRIDAY, use **BF16** coupon code to get 35% discount for all our extensions right now. The discount is valid till 3 December.
+Wish a Happy Easter and give 30% discount for all our WordPress and Joomla! extensions. Use EASTER17 coupon code. The offer is valid till 17 April.
 
-  * 02/11/2016 "ARI Steam Quiz" plugin for WordPress
+  * 16/03/2017 Celebrate St. Patrick's Day together
 
-Create quizzes like BuzzFeed on WordPress sites with our new [ARI Stream Quiz](http://wp-quiz.ari-soft.com/ "ARI Stream Quiz for WordPress") plugin. It helps to increase traffic on your site, boost social sharing, your mailing lists will grow constantly.
+Get 25% discount for Joomla! and WordPress extensions with **PATRICK17** coupon code. Hurry up the offer is valid till 20 March.
 
 
   
