@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelogix.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202032925id_/http%3A//www.hotelogix.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelogix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171218id_/http%3A//www.hotelogix.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Hotelogix - Privacy Policies
 
