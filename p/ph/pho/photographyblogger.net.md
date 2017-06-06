@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographyblogger.net privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023141331id_/http%3A//photographyblogger.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographyblogger.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143440id_/http%3A//photographyblogger.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -55,5 +55,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 _This policy was last modified on August 9th, 2016._
 
 * * *
-
-Join 20,000+ Photography Blogger readers to receive weekly photography inspiration.
