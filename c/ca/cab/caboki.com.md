@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020620id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092032id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
 
 # Caboki.com Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=77d084e1-ea14-484c-8630-173af672ae2a "TRUSTe Privacy Certification")  
-**Effective: July 5 th, 2016**
+[](https://privacy.truste.com/privacy-seal/validation?rid=77d084e1-ea14-484c-8630-173af672ae2a)
+
+**Effective: April 22nd, 2017**
 
 We will never share, sell, barter, or rent your personal information such as your email address to any third party other than as disclosed within this privacy policy.
 
-Caboki LLC ("Caboki") values the protection of individual privacy. This privacy policy sets forth Caboki's privacy policy for the site, and governs the manner in which we collect, use, maintain and disclose information collected from our users. By using our site [www.caboki.com](http://www.caboki.com/), you agree to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the site.
+Caboki LLC ("Caboki") values the protection of individual privacy. This privacy policy sets forth Caboki’s privacy policy for the site, and governs the manner in which we collect, use, maintain and disclose information collected from our users. By using our site [www.caboki.com](http://www.caboki.com/), you agree to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the site.
 
-Caboki has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website [www.caboki.com](http://www.caboki.com/), and does not cover information that may be collected through software downloaded from the website.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ## How we gather information from users
 
@@ -27,10 +26,6 @@ We will send you service-related announcements on rare occasions when it is nece
 
 Based upon the personal information you provide us, we will send you a welcoming email to verify your account information and a newsletter sign up verification email. We will also communicate with you in response to your inquiries, to provide the services you request, and manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
-If you choose to use our referral service to tell a friend about our site, we will ask for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of the referral program.
-
-Your friend may contact us at [privacy@caboki.com](mailto:privacy@caboki.com) to request that we remove this information from our database.
-
 Like other web sites, we collect information to enhance your visit. We respect your privacy and do not share your information with anyone.
 
 Aggregated Information (information that does not personally identify you) may be used to enhance user experience. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive).
@@ -39,7 +34,7 @@ Aggregated Information (information that does not personally identify you) may b
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, processing your payment, or offering customer services. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-We may also disclose your information as required by law, such as to comply with a subpoena, or similar legal process, in response to a court order, at other times when we believe in good faith that disclosure is necessary to protect our rights, your safety or the safety of others, investigate fraud, or respond to a government request, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+In certain situations, Caboki may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also disclose your information as required by law, such as to comply with a subpoena, or similar legal process, in response to a court order, at other times when we believe in good faith that disclosure is necessary to protect our rights, your safety or the safety of others, investigate fraud, or respond to a government request, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
 If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
@@ -49,13 +44,13 @@ Caboki.com does not knowingly collect Personally Identifiable Information from o
 
 ## Access to Personal Information
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete inaccuracies, or request deletion of your account by making the change within the "my account" section of the site or by emailing us at [privacy@caboki.com](mailto:privacy@caboki.com). We will respond to your access request within 30 days.
+Upon request Caboki will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete inaccuracies, or request deletion of your account by making the change within the "my account" section of the site or by emailing us at [privacy@caboki.com](mailto:privacy@caboki.com). We will respond to your access request within 30 days.
 
 We will retain your information for as long as your account is active of as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@caboki.com](mailto:privacy@caboki.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Customer Reviews
 
-We post customer reviews/video reviews on our Web site which may contain personal information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial/video. To request removal of your personal information or video from our reviews, contact us at [privacy@caboki.com](mailto:privacy@caboki.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We post customer reviews/video reviews on our Web site which may contain personal information. We do obtain the customer’ consent via email prior to posting the testimonial to post their name along with their testimonial/video. To request removal of your personal information or video from our reviews, contact us at [privacy@caboki.com](mailto:privacy@caboki.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Surveys
 
@@ -69,25 +64,13 @@ We use a third party service provider to conduct these surveys or contests; that
 
 Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
+## Passive Collection
+
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. 
+
 ## Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by [www.caboki.com](http://www.caboki.com/) and our partners specify type e.g. marketing partners, affiliates, or analytics or service providers specify type e.g. online customer support provider, etc. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-## Log Files
-
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
-
-We do link this automatically-collected data to personally identifiable information.
-
-## LSO
-
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 To manage Flash LSOs please click here:
-
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+Caboki and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 ## Behavioral Targeting / Re-Targeting
 
