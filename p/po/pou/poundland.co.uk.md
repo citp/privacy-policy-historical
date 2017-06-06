@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042550id_/http%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092157id_/http%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Poundland
 
-Poundland Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our [ **terms of use**](https://web.archive.org/web/20161119042550id_/http://www.poundland.co.uk/legal/legal/terms-of-use/)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  We will not store or process any such personal data other than in accordance with the Data Protection Act 1998 (“the Act”).
+Poundland Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our [ **terms of use**](http://www.poundland.co.uk/wordpress/poundland/legal/terms-of-use/)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  We will not store or process any such personal data other than in accordance with the Data Protection Act 1998 (“the Act”).
 
 For the purpose of the Act the data controller is Poundland Limited, Wellmans Road, Willenhall, West Midlands, WV13 2QT, United Kingdom.
 
-## **Information we may collect from you**
+**Information we may collect from you**
 
 We may collect and process the following data about you:
 
 **Information that you give us**
 
-You may give us information about you by filling in forms on our website, [www.poundland.co.uk](http://www.poundland.co.uk/) (“Our Website”), or by corresponding with us by telephone, email or otherwise. This includes information you provide when you register to use Our Website, subscribe to our service, subscribe to our email newsletter, search for a product, place an order on Our Website, post material or request further services/ information. We may also ask you for information when you enter a competition, promotion or survey and when you report a problem with Our Website. The information you give us may include your name, address, email address, telephone number and financial and credit card information. If you contact us in writing, we may keep a record of that correspondence.
+You may give us information about you by filling in forms on our website, [www.poundland.co.uk](http://www.poundland.co.uk/) (“Our Website”), or by corresponding with us by telephone, email or otherwise. This includes information you provide when you register to use Our Website, subscribe to our service, subscribe to our email newsletter, search for a product, post material or request further services/ information. We may also ask you for information when you enter a competition, promotion or survey and when you report a problem with Our Website. The information you give us may include your name, address, email address, telephone number and financial and credit card information. If you contact us in writing, we may keep a record of that correspondence.
 
 **Information we collect about you**
 
@@ -38,7 +38,7 @@ We will use this information:
   * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
   * to provide you with regular email bulletins, promotional offers and/or information about our products and services.  We will only use your information for such marketing purposes if you have ‘opted in’ confirming that you agree and accept to receive post / SMS / email from us;
   * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-  * to provide you with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (email or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. If you are a new customer, we will contact you by electronic means only if you have consented to this;
+  * to provide you with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (email or SMS) with information about goods and services. If you are a new customer, we will contact you by electronic means only if you have consented to this;
   * to notify you about changes to our service;
   * to analyse market trends and use of Our Website.
 
@@ -75,7 +75,7 @@ We may combine this information with information you give us and information we 
 
 **Where we store your personal data**
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted and payment details will not be retained. Where we have given you (or where you have chosen) a password which enables you to access certain parts of Our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of Our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
 **Disclosure of your information**
 
@@ -83,7 +83,7 @@ We may share your personal information with any member of our group, which means
 
 We may share your information with selected third parties including:
 
-  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with you (for example, in the provision of delivery services and after-sale customer service);
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with you;
   * Analytics and search engine providers that assist us in the improvement and optimisation of Our Website.
 
 
@@ -92,23 +92,23 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
   * If Poundland Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligations, or in order to enforce or apply our [**terms of use**](http://www.poundland.co.uk/legal/terms-of-use/) and other agreements; or to protect the rights, property, or safety of Poundland Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligations, or in order to enforce or apply our [ **terms of use**](http://www.poundland.co.uk/legal/terms-of-use/) and other agreements; or to protect the rights, property, or safety of Poundland Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
-## **Use of cookies**
+**Use of cookies**
 
 Our Website uses cookies to distinguish you from other users of Our Website.  This helps us to provide you with a good experience when you browse Our Website and also allows us to improve Our Website. For detailed information regarding the cookies we use and the purposes for which we use them, see our Cookie policy (below).
 
-## **Links to other websites**
+**Links to other websites**
 
 Our Website may, from time to time, contain links to and from other websites. If you use the links to leave Our Website and visit a website operated by somebody else, you should note that we do not have any control over that website. Accordingly, we cannot accept responsibility for the protection and privacy of any information which you provide while visiting such sites. You should exercise caution and read the Privacy Policy applicable to the website in question before you submit any personal data to these websites.
 
-## **Security**
+**Security**
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to Our Website; any transmission is at your own risk. However, once we have received your information, we will take appropriate security measures to try to prevent unauthorised access.  For more information on the Data Protection Act 1998, please visit the website maintained by the Office of the Information Commissioner.
 
-## **Your Rights**
+**Your Rights**
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at:
 
@@ -122,7 +122,7 @@ United Kingdom
 
 Email:  [ **poundland.legal@poundland.co.uk**](mailto:poundland.legal@poundland.co.uk)
 
-## **Access to information**
+**Access to information**
 
 You have the right to access information we hold about you.  Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.  Any such requests should be sent to:
 
@@ -138,17 +138,17 @@ If you believe that any information we hold about you is incorrect or incomplete
 
 Any questions, comments and requests regarding this Privacy Policy are welcomed and should be sent to the address shown above.
 
-## **Terms of use**
+**Terms of use**
 
 Please also read Our Website [terms of use](http://www.poundland.co.uk/legal/terms-of-use/)
 
-## **Cookie Policy**
+**Cookie Policy**
 
 Our Website uses cookies to distinguish you from other users of Our Website. This helps us to provide you with a good experience when you browse Our Website and also allows us to improve Our Website. By continuing to browse Our Website, you are agreeing to our use of cookies.
 
 This Policy explains how we collect and use information about you using web cookies, and how this affects your privacy.
 
-## **What is a cookie?**
+**What is a cookie?**
 
 A cookie is a small file of letters and numbers that we store on your computer/ mobile device if you agree.
 
@@ -160,7 +160,7 @@ We use the following cookies:
 
 
 
-These are cookies that are required for the operation of Our Website. They include, for example, cookies that enable you to log into secure areas of Our Website, use a shopping basket or make use of e-billing services.
+These are cookies that are required for the operation of Our Website. They include, for example, cookies that enable you to log into secure areas of Our Website.
 
   * **Analytical/performance cookies**
 
@@ -180,7 +180,7 @@ These are used to recognise you when you return to Our Website. This enables us 
 
 These cookies record your visit to Our Website, the pages you have visited and the links you have followed. We will use this information to make Our Website and the advertising displayed on it more relevant to your interests.
 
-  * ** ** **Third Party Cookies**
+  * **  Third Party Cookies**
 
 
 
@@ -202,10 +202,10 @@ Our Website also uses a cookie from Twitter, to enable Twitter to identify the T
 
 Our Website also uses a cookie from eDigital Research Plc, to enable eDigital Research Plc to identify whether or not you have taken part in a survey run by Poundland previously through eDigital Research Plc.  If you disable this cookie you may be prompted to take a survey more than once. If you would like to read more about how eDigital Research Plc might use your information, please click here: <http://www.edigitalresearch.com/static/privacy>
 
-** ** **Can I opt out of cookies?**
+**  Can I opt out of cookies?**
 
 You may block cookies by activating the setting on your browser or from the site which allows you to refuse some or all cookies.  Please note that if you do this to block all cookies (including essential cookies), you may not be able to use the full functionality of Our Website.
 
-** ** **Privacy Policy and Terms of Use**
+**  Privacy Policy and Terms of Use**
 
-For more information please read our Privacy Policy (above) and our  **[Terms of Website Use](http://www.poundland.co.uk/legal/terms-of-use/).**
+For more information please read our Privacy Policy (above) and our [ **Terms of Website  Use**](http://www.poundland.co.uk/legal/terms-of-use/) **.**
