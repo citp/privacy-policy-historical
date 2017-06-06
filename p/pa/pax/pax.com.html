@@ -1,44 +1,40 @@
-<!--The following is the downloaded HTML source of the pax.com privacy policy that was archived on 2016-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160410231555id_/https%3A//www.paxvapor.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pax.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606171931id_/https%3A//www.paxvapor.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5WFJFG"></script><script type="text/javascript" async="" src="https://d3d6b97n2tsi13.cloudfront.net/pixel_code/orient_track.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYPUVdVCxABVVBVBAMOVg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" async="" src="https://js.bronto.com/c/b46bb73mdt9xo064pfhvtowazpq2kgokfgf5is6pnv06ucoeu2/6251c813f4534370351aa213b00461c643c41ce9c60713c4a616564f72eb8101/s/b.min.js"></script><script async="" src="//s.btstatic.com/tag.js#site=6EeDEhH"></script><script async="" src="//d.impactradius-event.com/A345660-5f3a-489f-81dd-fcdd5d8513c11.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5WFJFG"></script><script type="text/javascript" async="" src="https://d3d6b97n2tsi13.cloudfront.net/pixel_code/orient_track.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIHVV5WCBADXVBWAAQAVg=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
 <title>Privacy Policy | PAX</title>
-<meta name="description" content="PAX delivers the highest quality vape experience on the market - compact, simple, smart, and elegant. Learn about PAX 2 and the original PAX.">
+<meta name="description" content="Get the World's Best range of Loose-Leaf, Concentrate and Extract Vaporizers now! Pax are discreet, powerful, easy to use and fit in your pocket. Order from our website to secure yours now.">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
 <meta name="google-site-verification" content="MqSdCvpBiS8HU-Gem7rLrruEGrVYgg2o3IcbCNrxOmA">
 <meta name="google-site-verification" content="Uvrq0gCzn1qptJMrfFUFL_q6AW2yQnAT0jzaS8sqK4s">
-
-<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="p:domain_verify" content="ed290195bd95e0b3428d9a506bdfbf4b">
+<link rel="apple-touch-icon" sizes="57x57" href="/xapple-icon-57x57.png.pagespeed.ic.ZCtIHGVZE0.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/xapple-icon-60x60.png.pagespeed.ic.Q5yx_CEXVh.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/xapple-icon-72x72.png.pagespeed.ic.iL0xN9VoGo.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/xapple-icon-76x76.png.pagespeed.ic.l-x2s-9rdX.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/xapple-icon-114x114.png.pagespeed.ic.DczjNVmNld.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/xapple-icon-120x120.png.pagespeed.ic.pkocBK0_SV.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/xapple-icon-144x144.png.pagespeed.ic.ynYLfJTP0c.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/xapple-icon-152x152.png.pagespeed.ic.-oNhO7Od2P.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/xapple-icon-180x180.png.pagespeed.ic.JVXyIz1FgN.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/xandroid-icon-192x192.png.pagespeed.ic.uSJwflWF7w.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/xfavicon-32x32.png.pagespeed.ic.IZs_5AIiEV.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/xfavicon-96x96.png.pagespeed.ic.pgIQnfDgLB.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/xfavicon-16x16.png.pagespeed.ic.PaC4eQJm_r.png">
 <link rel="manifest" href="/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-
-<link rel="alternate" href="https://www.paxvapor.com/privacy-policy/" hreflang="en_US">
-
+<link rel="alternate" href="https://www.paxvapor.com/privacy-policy/" hreflang="en-US">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.paxvapor.com/skin/frontend/plm/default/images/PAX_Site_MetaData_Final.jpg">
 <meta property="og:image:secure_url" content="https://www.paxvapor.com/skin/frontend/plm/default/images/PAX_Site_MetaData_Final.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="866">
 <meta property="og:image:height" content="866">
-
-
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -47,214 +43,283 @@
 //]]>
 </script>
 <![endif]-->
-<script type="text/javascript">
-    var baseUrl = 'https://www.paxvapor.com/';
-</script>
-<link rel="stylesheet" type="text/css" href="//www.paxvapor.com/media/css/4ecd309b29754cb91468981e94db58fa.1460275506.css" media="print">
-<link rel="stylesheet" type="text/css" href="//www.paxvapor.com/media/css/5a529b8a7b482d4d6147e3b5049727b4.1460275506.css" media="all">
-<script type="text/javascript" src="https://www.paxvapor.com/js/jquery/modernizer.min.js" name="js99"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/jquery/jquery-1.10.2.min.js" name="js98"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/jquery/noConflict.js" name="js80"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/jquery/velocity.min.js" name="js70"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/jquery/jquery.validate.min.js" name="js60"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/lib/ccard.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/prototype/validation.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/pax/customvalidation.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/scriptaculous/builder.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/scriptaculous/dragdrop.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/scriptaculous/controls.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/scriptaculous/slider.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/varien/js.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/varien/form.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/varien/menu.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/mage/translate.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/mage/cookies.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/js/vonnda/cmjaffiliate/cmj.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/base/default/js/storeswitcher_cookies.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/base/default/js/storeswitcher.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/plm/default/js/spin.min.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/base/default/js/ubercart2.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/plm/default/js/bootstrap.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/plm/default/js/bootstrap.youtubepopup.min.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/plm/default/js/jquery.bxslider.min.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/plm/default/js/jquery.iosslider.min.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/plm/default/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/plm/default/js/magic.js"></script>
+<script type="text/javascript">var baseUrl='https://www.paxvapor.com/';</script>
+<link rel="stylesheet" type="text/css" href="//www.paxvapor.com/media/css/A.27dedf85a6ea781c2d1f1008f8f4b44d.1496706625.css.pagespeed.cf.XAGKSaxrpO.css" media="print">
+<link rel="stylesheet" type="text/css" href="//www.paxvapor.com/media/css/A.356579874ec2b15fce08b9dfc12fcbe6.1496706625.css.pagespeed.cf.H1vNRsVWzE.css" media="all">
+<script type="text/javascript" src="https://www.paxvapor.com/js/jquery/modernizer.min.js.pagespeed.jm.8_AaZFzzfM.js" name="js99"></script>
+<script type="text/javascript" src="https://www.paxvapor.com/js/jquery/jquery-1.10.2.min.js.pagespeed.jm.ZzSiN_5Whq.js" name="js98"></script>
+<script src="https://www.paxvapor.com/js/jquery/noConflict.js+velocity.min.js+jquery.validate.min.js.pagespeed.jc.lZTd3Y8fMx.js"></script><script>eval(mod_pagespeed_YbqLF4ypTn);</script>
+<script>eval(mod_pagespeed_hNVa_vAdDB);</script>
+<script>eval(mod_pagespeed_gFtABTmQSI);</script>
+<script type="text/javascript" src="https://www.paxvapor.com/js/prototype/prototype.js.pagespeed.jm.89RrHCH18_.js"></script>
+<script src="https://www.paxvapor.com/js/lib,_ccard.js+prototype,_validation.js+pax,_customvalidation.js+scriptaculous,_builder.js+scriptaculous,_effects.js.pagespeed.jc.7C1iP7YB_B.js"></script><script>eval(mod_pagespeed_OYsD7qMzWn);</script>
+<script>eval(mod_pagespeed_ZPgUua_PRB);</script>
+<script>eval(mod_pagespeed_DV4VgT65H5);</script>
+<script>eval(mod_pagespeed_TEdcehkKs_);</script>
+<script>eval(mod_pagespeed_r_ibTW1QyK);</script>
+<script src="https://www.paxvapor.com/js/scriptaculous/dragdrop.js+controls.js+slider.js.pagespeed.jc.f2Z72aLKRR.js"></script><script>eval(mod_pagespeed_1bS0hkGCuo);</script>
+<script>eval(mod_pagespeed_1UjgxPuU60);</script>
+<script>eval(mod_pagespeed__lmXqZbi8w);</script>
+<script src="https://www.paxvapor.com/js,_varien,_js.js+js,_varien,_form.js+js,_varien,_menu.js+js,_mage,_translate.js+js,_vonnda,_cmjaffiliate,_cmj.js+js,_vonnda,_cookies.js+skin,_frontend,_base,_default,_js,_storeswitcher_cookies.js+skin,_frontend,_base,_default,_js,_storeswitcher.js+skin,_frontend,_plm,_default,_js,_spin.min.js+skin,_frontend,_base,_default,_js,_ubercart2.js.pagespeed.jc.jidjX6eECm.js"></script><script>eval(mod_pagespeed_Llklq2klzg);</script>
+<script>eval(mod_pagespeed_SjE8mLcTMw);</script>
+<script>eval(mod_pagespeed_m$$S9RZi16);</script>
+<script>eval(mod_pagespeed_mZzZPpXShe);</script>
+<script>eval(mod_pagespeed_mPfPtUDB8b);</script>
+<script>eval(mod_pagespeed_sNkv2ntl2O);</script>
+<script>eval(mod_pagespeed_qtSuGk8mgS);</script>
+<script>eval(mod_pagespeed_154LCesQFz);</script>
+<script>eval(mod_pagespeed_MtjydNHeWY);</script>
+<script>eval(mod_pagespeed_iV9XsLGsE_);</script>
+<script src="https://www.paxvapor.com/skin/frontend/plm/default/js/bootstrap.js+bootstrap.youtubepopup.min.js+jquery.bxslider.min.js.pagespeed.jc.G-MjoDEXVf.js"></script><script>eval(mod_pagespeed_rzajmTzvXK);</script>
+<script>eval(mod_pagespeed_0TFi6pRa$E);</script>
+<script>eval(mod_pagespeed_4i9agIV_Wr);</script>
+<script src="https://www.paxvapor.com/skin/frontend/plm/default/js/jquery.iosslider.min.js+jquery.cookie.js+lazyload.min.js.pagespeed.jc.SEe5QhJORd.js"></script><script>eval(mod_pagespeed_nxBhHAL3ta);</script>
+<script>eval(mod_pagespeed_u3ow8RzLHh);</script>
+<script>eval(mod_pagespeed_9MMXknEigc);</script>
+<script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/plm/default/js/magic.js.pagespeed.jm.DkiLRRylvs.js"></script>
 <!--[if lt IE 7]>
 <script type="text/javascript" src="https://www.paxvapor.com/js/lib/ds-sleight.js"></script>
 <script type="text/javascript" src="https://www.paxvapor.com/skin/frontend/base/default/js/ie6.js"></script>
 <![endif]-->
-
-<script type="text/javascript">
-//<![CDATA[
-Mage.Cookies.path     = '/';
-Mage.Cookies.domain   = '.www.paxvapor.com';
-//]]>
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-optionalZipCountries = ["HK","IE","MO","PA"];
-//]]>
-</script>
-<!-- Universal Analytics Start -->
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        
-        ga('create', 'UA-17818875-1','auto');
-        ga('require', 'ec');
-        ga('require', 'displayfeatures');
-        ga('set', '&cu', 'USD');
-
-        
-        
-        
-        ga('send', 'pageview');
-    </script>
-<!-- Universal Analytics End -->
-<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7891132/805206/css/fonts.css"><script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script><script src="//configusa.veinteractive.com/tags/37D266AA/04B6/4846/B28E/824D9A4DEB73/tag.js" type="text/javascript" async=""></script>
-<meta name="google-site-verification" content="iqQBRgRERtywRxgfpfAAmExcFe7BU4GvKPLazIl5Ecc">    <script type="text/javascript">
-        var or_data = {acct_id: '10'};
-        (function(){
-            var ortrk = document.createElement('script');
-            ortrk.type = 'text/javascript';
-            ortrk.async = true;
-            ortrk.src = 'https:' == document.location.protocol ? "https://d3d6b97n2tsi13.cloudfront.net/pixel_code/orient_track.js" : "http://d3d6b97n2tsi13.cloudfront.net/pixel_code/orient_track.js";
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ortrk, s);
-        })();
-    </script>
-
-    </head>
-    <body class=" cms-page-view cms-privacy-policy">
-        <div id="wrapper">
-                <script type="text/javascript">
-        (function () {
-            var uvTemp = {"version":"1.2.2","page":{"type":"content","breadcrumb":[]},"user":{"has_transacted":false,"customer_group":0,"returning":false,"language":"en_US","autoship":0,"autoship_delivery_date":null,"autoship_pod_count":null}};
-            window.universal_variable = $H(window.universal_variable || {}).merge(uvTemp).toObject();
-        })();
-    </script>
-    <script type="text/javascript" src="//d3c3cq33003psk.cloudfront.net/opentag-112893-1521883.js" async="" defer=""></script>
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WFJFG"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-5WFJFG');</script>
-    <!-- End Google Tag Manager -->
-            <div class="hidden-xs">
-        <div class="navbar navbar-default dark">
-        <div class="container-fluid" style="max-width:1170px;">
-            <div class="navbar-header">
-                <button class="navbar-toggle collapsed" data-target=".navbar-collapse" data-toggle="collapse" type="button">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="https://www.paxvapor.com/">
-                    <img src="https://www.paxvapor.com/skin/frontend/plm/default/images/pax-logo.png">
-                </a>
-            </div>
-
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                                            <li>
-                            <a href="https://www.paxvapor.com/pax/">PAX</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="https://www.paxvapor.com/pax/">Learn More</a></li>
-                                <li><a href="https://www.paxvapor.com/pax/#pax-accessories">PAX Accessories</a></li>
-                            </ul>
-                        </li>
-                                        <li>
-                        <a href="https://www.paxvapor.com/pax-2/">PAX 2</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="https://www.paxvapor.com/pax-2/">Buy Now</a></li>
-                            <li><a href="https://www.paxvapor.com/pax-2/#para-pax2">Learn More</a></li>
-                            <li><a href="https://www.paxvapor.com/pax-2/#pax-2-accessories">PAX 2 Accessories</a></li>
-                            <li><a href="https://www.paxvapor.com/support/how-to-guide/">User Guide</a></li>
-                        </ul>
-                    </li>
-                                            <li>
-                            <a href="https://www.paxvapor.com/themadness/">The Weeknd PAX</a>
-                        </li>
-                                    </ul>
-                <ul class="nav navbar-nav navbar-right">
-                                            <li class="locator-nav">
-                            <a href="https://www.paxvapor.com/locate/">Store Locator</a>
-                        </li>
-                                        <li class="customer-care-nav">
-                                                    <a href="https://www.paxvapor.com/support/">Customer Care</a>
-                                                <ul class="dropdown-menu">
-                            <li><a href="https://www.paxvapor.com/register/">Product Registration</a></li>
-                            <li><a href="https://www.paxvapor.com/referral/">Referral Program</a></li>
-                            <li><a href="https://www.paxvapor.com/support/pax/">PAX 1 FAQ</a></li>
-                            <li><a href="https://www.paxvapor.com/support/how-to-guide/">PAX 2 FAQ</a></li>
-                            <li><a href="https://www.paxvapor.com/support/contact/">Contact</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="https://www.paxvapor.com/customer/account/">My Account</a>
-                    </li>
-                    <li>
-                                            </li>
-                    <li id="topcart">
-                        <a href="https://www.paxvapor.com/checkout/cart/">Cart <span></span></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="nav-spacer"></div>
+<script type="text/javascript">(function(){function initMageCookies(){Mage.Cookies.path='/';Mage.Cookies.domain='.www.paxvapor.com';}if(typeof waitForBundle!=='undefined'){waitForBundle(initMageCookies);}else{initMageCookies();}})();</script>
+<script type="text/javascript">optionalZipCountries=["HK","IE","MO","PA"];</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-17818875-1','auto');ga('require','ec');ga('require','displayfeatures');ga('set','&cu','USD');ga('send','pageview');</script>
+<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7891132/805206/css/fonts.css"><script type="text/javascript">var Translator=new Translate([]);</script> <script type="text/javascript">var or_data={acct_id:'10'};(function(){var ortrk=document.createElement('script');ortrk.type='text/javascript';ortrk.async=true;ortrk.src='https:'==document.location.protocol?"https://d3d6b97n2tsi13.cloudfront.net/pixel_code/orient_track.js":"http://d3d6b97n2tsi13.cloudfront.net/pixel_code/orient_track.js";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ortrk,s);})();</script>
+</head>
+<body class=" cms-page-view cms-privacy-policy">
+<div id="wrapper">
+<script type="text/javascript">(function(){var uvTemp={"version":"1.2.2","page":{"type":"content","breadcrumb":[]},"user":{"has_transacted":false,"customer_group":0,"returning":false,"language":"en_US"}};function initUniversalVariable(){window.universal_variable=$H(window.universal_variable||{}).merge(uvTemp).toObject();}if(typeof waitForBundle!=='undefined'){waitForBundle(initUniversalVariable);}else{initUniversalVariable();}})();</script>
+<script type="text/javascript" src="//d3c3cq33003psk.cloudfront.net/opentag-112893-1521883.js" async="" defer=""></script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WFJFG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5WFJFG');</script>
+<div class="hidden-xs">
+<div class="navbar navbar-default dark">
+<div class="container-fluid" style="max-width:1170px;">
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="https://www.paxvapor.com/">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/New_PAX_Black.svg">
+</a>
 </div>
-                <noscript>
-        <div class="global-site-notice noscript">
-            <div class="notice-inner">
-                <p>
-                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
-                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
-            </div>
-        </div>
-    </noscript>
-            
-                        <div class="wrapper title-band">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <div class="page-title">
-                                <h1>Privacy Policy</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="wrapper">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <h4>Effective Date: 09-15-2015</h4>
+<div class="navbar-collapse collapse">
+<ul class="nav navbar-nav">
+<li>
+<a>PRODUCTS</a>
+<ul class="dropdown-menu">
+<div class=" product-nav navbar navbar-default">
+<div class="product-nav-cell">
+<a id="BtnBuyPAX3Drop" onclick="ga('send', 'event', 'Button', 'Click', 'Buy PAX3 Drop');" href="https://www.paxvapor.com/pax-3/">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/xPAX_navigation_pax3.jpg.pagespeed.ic.LdqfcFby2a.jpg" height="auto" width="100%">
+<div>
+PAX 3 |
+<img class="icon" src="https://www.paxvapor.com/skin/frontend/plm/default/assets/looseleaf_icon.svg" height="auto" width="8%" style="margin-bottom:4px">
+<img class="icon" src="https://www.paxvapor.com/skin/frontend/plm/default/assets/oil_icon.svg" height="auto" width="8%" style="margin-bottom:4px">
+</div>
+</a>
+</div>
+<div class="product-nav-cell">
+<a id="BtnBuyPAX2Drop" onclick="ga('send', 'event', 'Button', 'Click', 'Buy PAX2 Drop');" href="https://www.paxvapor.com/pax-2/">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/xPAX_navigation_pax2.png.pagespeed.ic.QYWplwnbTG.png" height="auto" width="100%">
+<div>
+PAX 2 |
+<img class="icon" src="https://www.paxvapor.com/skin/frontend/plm/default/assets/looseleaf_icon.svg" height="auto" width="8%" style="margin-bottom:4px">
+</div>
+</a>
+</div>
+<div class="product-nav-cell">
+<a id="BtnBuyPAX1Drop" onclick="ga('send', 'event', 'Button', 'Click', 'Buy PAX1 Drop');" href="https://www.paxvapor.com/era/">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/xPAX_navigation_era.png.pagespeed.ic.-krLGeWAM1.png" height="auto" width="100%">
+<div>
+PAX ERA |
+<img class="icon" src="https://www.paxvapor.com/skin/frontend/plm/default/assets/oil_icon.svg" height="auto" width="8%" style="margin-bottom:4px">
+</div>
+</a>
+</div>
+<div class="product-nav-cell">
+<a id="BtnBuyAccessoriesDrop" onclick="ga('send', 'event', 'Button', 'Click', 'Buy Accessories Drop');" href="https://www.paxvapor.com/accessories/">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/xPAX_navigation_maintanencekit.png.pagespeed.ic.C3Dt892EBV.png" height="auto" width="100%">
+<div>
+ACCESSORIES
+</div>
+</a>
+</div>
+<div class="product-nav-cell">
+<a id="BtnVaporApp" onclick="ga('send', 'event', 'Button', 'Click', 'Vapor App');" href="https://www.paxvapor.com/pax-app/">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/xPAX_navigation_app.png.pagespeed.ic.OgftQmWWGs.png" height="auto" width="27%">
+<div>
+PAX VAPOR APP </div>
+</a>
+</div>
+<div>
+</div></div></ul>
+</li>
+<li>
+<a href="https://www.paxvapor.com/locate/">Store Locator</a>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li>
+<a href="https://www.paxvapor.com/support/pax-3-faq/">Support</a>
+</li>
+<li>
+<a href="https://www.paxvapor.com/customer/account/">My Account</a>
+</li>
+<li id="topcart">
+<div id="mobile-cart">
+<a href="https://www.paxvapor.com/checkout/cart/" style="padding:0px;">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/images/cart.svg">
+<span></span>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="nav-spacer"></div>
+</div>
+<div class="mobile-menu visible-xs">
+<div id="mobile-main-menu" class="mobile-slide-menu">
+<ul class="mobile-slide-links">
+<table>
+<tbody><tr>
+<td>
+<a id="mobile_BtnBuyPAX3Drop" onclick="ga('send', 'event', 'Button', 'Click', 'Mobile Buy PAX3 Drop');" href="https://www.paxvapor.com/pax-3/">
+<div class="mobile-dropdown-cell" style="color:black">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/xPAX_navigation_pax3.jpg.pagespeed.ic.LdqfcFby2a.jpg" height="auto" width="100%">
+<br>
+PAX 3 |
+<img class="icon" src="https://www.paxvapor.com/skin/frontend/plm/default/assets/looseleaf_icon.svg" height="auto" width="10%" style="margin-bottom:4px">
+<img class="icon" src="https://www.paxvapor.com/skin/frontend/plm/default/assets/oil_icon.svg" height="auto" width="10%" style="margin-bottom:4px">
+</div>
+</a>
+</td>
+<td>
+<a id="mobile_BtnBuyPAX2Drop" onclick="ga('send', 'event', 'Button', 'Click', 'Mobile Buy PAX2 Drop');" href="https://www.paxvapor.com/pax-2/">
+<div class="mobile-dropdown-cell" style="color:black">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/xPAX_navigation_pax2.png.pagespeed.ic.QYWplwnbTG.png" height="auto" width="100%">
+<br>
+PAX 2 |
+<img class="icon" src="https://www.paxvapor.com/skin/frontend/plm/default/assets/looseleaf_icon.svg" height="auto" width="10%" style="margin-bottom:4px">
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a id="mobile_BtnBuyPAX1Drop" onclick="ga('send', 'event', 'Button', 'Click', 'Mobile Buy PAX1 Drop');" href="https://www.paxvapor.com/era/">
+<div class="mobile-dropdown-cell" style="color:black">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/xPAX_navigation_era.png.pagespeed.ic.-krLGeWAM1.png" height="auto" width="100%">
+<br>
+PAX ERA |
+<img class="icon" src="https://www.paxvapor.com/skin/frontend/plm/default/assets/oil_icon.svg" height="auto" width="10%" style="margin-bottom:4px">
+</div>
+</a>
+</td>
+<td>
+<a id="mobile_BtnBuyAccessoriesDrop" onclick="ga('send', 'event', 'Button', 'Click', 'Mobile Buy Accessories Drop');" href="https://www.paxvapor.com/accessories/">
+<div class="mobile-dropdown-cell" style="color:black">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/xPAX_navigation_maintanencekit.png.pagespeed.ic.C3Dt892EBV.png" height="auto" width="100%">
+<br>
+ACCESSORIES
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a id="mobile_BtnVaporApp" onclick="ga('send', 'event', 'Button', 'Click', 'Mobile Vapor App');" href="https://www.paxvapor.com/pax-app/">
+<div class="mobile-dropdown-cell" style="color:black">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/xPAX_navigation_app.png.pagespeed.ic.OgftQmWWGs.png" height="auto" width="33%">
+<br>
+PAX VAPOR APP
+</div>
+</a>
+</td>
+<td>
+<a href="https://www.paxvapor.com/customer/account/">
+<div class="mobile-dropdown-cell" style="color:black">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/PAX_mobilenavigation_myaccount.png.pagespeed.ce.3v7XphGTfi.png" height="auto" width="35%" style="padding-bottom:4px; padding-bottom:18px;">
+<br>
+ACCOUNT
+</div>
+</a>
+</td>
+</tr>
+</tbody></table>
+</ul>
+</div>
+<div class="mobile-links">
+<div class="mobile-dropdown" style="background: #2E52DE; font-size: 14px;">
+<a class="mobile-logo mobile-anchor" data-menu="mobile-main-menu">
+<div class="mobile-anchor-expanded copy7" style="color:white;">
+SHOP
+</div>
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/PAX_mobilenavigation_close-01.svg" alt="PAX Logo">
+</a>
+</div>
+<div>
+<a class="outer-link copy6" href="https://www.paxvapor.com/locate/">LOCATE</a>
+</div>
+<div>
+<a class="navbar-brand" href="https://www.paxvapor.com/" style="display: flex; align-items: center; padding: 0px;">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/nav/New_PAX_Black.svg" height="auto" style="width: 100px;">
+</a>
+</div>
+<div>
+<a data-menu="mobile-accessory-menu" href="https://www.paxvapor.com/support/pax-3-faq/" class="mobile-anchor outer-link copy6">SUPPORT</a>
+</div>
+<div id="mobile-cart">
+<a href="https://www.paxvapor.com/checkout/cart/">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/images/cart.svg">
+<span></span>
+</a>
+</div>
+</div>
+</div>
+<div class="mobile-menu-spacer visible-xs"></div>
+<noscript>
+<div class="global-site-notice noscript">
+<div class="notice-inner">
+<p>
+<strong>JavaScript seems to be disabled in your browser.</strong><br/>
+You must have JavaScript enabled in your browser to utilize the functionality of this website. </p>
+</div>
+</div>
+</noscript>
+<div class="wrapper title-band">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="page-title">
+<h1>Privacy Policy</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrapper">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<h4>Effective Date: 09-15-2015</h4>
 <h4>Introduction</h4>
 <p>PAX Labs, Inc. (“PAX Labs,” “us” or “we”) recognizes the importance of protecting your personal information and privacy. This privacy policy addresses how information is collected, stored, and utilized through the <a href="/">www.PAXvapor.com</a> website (“Website”). In continuing to use the Website and/or by purchasing products from this Website, you are accepting the practices described in this Privacy Policy. If you do not agree with our policies and practices, your choice is to not use our Website.</p>
 <p>PAX Labs reserves the right to change this Privacy Policy at any time for any reason. If changes are made to our policies, account holders will receive a notification either via email or upon logging onto their account. For all other visitors to the Website, it is your sole responsibility to check the Privacy Policy Webpage when visiting our Website for any updates.</p>
 <p>This Privacy Policy applies to information we collect:</p>
 <ul>
-    <li>Automatically through this Website (e.g., when you click on a link to a different page of the Website); and</li>
-    <li>When you provide it using this Website (e.g., when you make a purchase or contact us through the Website).</li>
+<li>Automatically through this Website (e.g., when you click on a link to a different page of the Website); and</li>
+<li>When you provide it using this Website (e.g., when you make a purchase or contact us through the Website).</li>
 </ul>
 <p>This policy applies only to information collected by this Website. It does not apply to information collected by:</p>
 <ul>
-    <li>PAX Labs offline or through any other means, including on any other website operated by PAX Labs or its affiliates; or</li>
-    <li>Any third party, including our affiliates, including through any application or content (including advertising) that may link to or be accessible from the Website.</li>
+<li>PAX Labs offline or through any other means, including on any other website operated by PAX Labs or its affiliates; or</li>
+<li>Any third party, including our affiliates, including through any application or content (including advertising) that may link to or be accessible from the Website.</li>
 </ul>
 <h4>Information Collected</h4>
 <p>PAX Labs holds our customer base in the highest regards and is dedicated to providing the best experience on PAXvapor.com. In order to offer an enjoyable and premium experience on our Website it is necessary to collect both personal information, by which you may be personally identified (e.g., name, address and email), and information that is about you but that does not identify you individually (e.g., aggregate information on the number and frequency of visits to various pages of the Website).</p>
@@ -272,9 +337,9 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 <p>The products sold on this website are highly regulated by various governing agencies. It may become necessary to share the information that we collect with such agencies to comply with laws, a judicial proceeding, court order, or other legal requests.</p>
 <p>We also may disclose information that has been collected where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud and/or counterfeit, situations involving potential threats to the safety of any person, violations of our Terms &amp; Conditions or Privacy Policy, or as evidence in litigation in which PAX Labs is involved.</p>
 <h4>Age Verification</h4>
-<p>The products that we sell on our website are regulated and age-restricted. We are required and committed to preventing sales to anyone under the legal purchasing age. We will only send you marketing materials and information after you have certified that 1) you are a consumer of legal purchasing age; 2) that you wish to be added to our mailing list for the purpose of receiving offers and advertising from us; and 3) that you understand that providing false information may constitute a violation of the law.</p> 
+<p>The products that we sell on our website are regulated and age-restricted. We are required and committed to preventing sales to anyone under the legal purchasing age. We will only send you marketing materials and information after you have certified that 1) you are a consumer of legal purchasing age; 2) that you wish to be added to our mailing list for the purpose of receiving offers and advertising from us; and 3) that you understand that providing false information may constitute a violation of the law.</p>
 <p>Before we add you to our mailing list, we will verify your age through a non-affiliated third party company, Veratad Technologies, LLC (“Veratad”), to perform an age and identify verification check for adherence to this requirement. We utilize Veratad’s AgeMatch and IDMatch Verification services to perform these checks. Veratad uses billons of records from multiple trusted data sources to verify the information that you provide and ensure that you qualify to access and purchase products from PAXvapor.com. This process has been developed with the customer’s privacy in mind, and checks are secure with detailed information neither shared nor accessible.</p>
-<p>In some cases Veratad might not be able to verify your age and/or identity through their verification service. If you are unable to verify your age, you will be requested to upload a copy of your government ID that our support team can manually verify your date of birth. Photo IDs are uploaded to Veratad's secure database and all files are deleted within 72 hours or less.</p> 
+<p>In some cases Veratad might not be able to verify your age and/or identity through their verification service. If you are unable to verify your age, you will be requested to upload a copy of your government ID that our support team can manually verify your date of birth. Photo IDs are uploaded to Veratad's secure database and all files are deleted within 72 hours or less.</p>
 <h4>Rights with Respect to Your Data</h4>
 <p>You have the right to access personal data PAX Labs possesses about you. You may request that PAX Labs confirm whether it is processing any data about you and, if so, for what purposes and to which recipients (or categories of recipients) the data is disclosed. You may also request that PAX Labs provide you with the data about you that is being processed by PAX Labs and information as to the source of that data. To request this information, please contact us at <a href="mailto:legal@pax.com">legal@pax.com</a>.</p>
 <p>PAX Labs reserves the right to provide this information only at reasonable intervals and to the extent it is reasonably practical for PAX Labs to do so.</p>
@@ -284,253 +349,305 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 <h4>Security</h4>
 <p>Our Website supports the industry standard Secure Socket Layer (SSL) encryption which is applied to all data transmitted so it cannot be read by others. We are dedicated to ensure that the information you share with us is secure. In addition, if you are using a shared computer, we recommend that you log out of your account before ending your browser session. This will also ensure that your account will not be used by anyone other than yourself.</p>
 <h4>Contact Us</h4>
-<p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:legal@pax.com">legal@pax.com</a></p>                        </div>
-                    </div>
-                </div>
-            </div>
-                    </div>
-        <div id="footer">
-        
-    <div class="wrapper" id="newsletter-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-                    <div class="row-header">
-                        Keep up with PAX innovations, insider news, and promotions                    </div>
-                </div>
-            </div>
-            <div class="row connect-row">
-                <div class="col-xs-12">
-                    <form action="https://www.paxvapor.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail" class="newsletter-signup">
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-offset-1 col-sm-4">
-                                <div class="input-box">
-                                    <input type="text" name="email" id="newsletter" class="required-entry validate-email newsletter-email" placeholder="Email">
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-3">
-                                <div class="input-box">
-                                    <input type="text" name="zip" id="newsletter-zip" class="required-entry newsletter-zip" placeholder="Zip">
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-3">
-                                <button type="submit" title="Sign Up" class="btn btn-sm btn-color3"><span><span>Subscribe</span></span></button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12">
-                    <div class="social-row">
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-6">
-                                <div class="social-row-text">
-                                    Follow us <strong>@Paxvapor</strong>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-6">
-                                <div class="social-icons">
-                                    <a href="http://www.facebook.com/PAXvapor" target="_blank">
-                                        <span aria-hidden="true" data-icon="" class="support-icon"></span>
-                                    </a>
-                                    <a href="https://twitter.com/PAXvapor" target="_blank">
-                                        <span aria-hidden="true" data-icon="" class="support-icon"></span>
-                                    </a>
-                                    <a href="http://instagram.com/paxvapor" target="_blank">
-                                        <span aria-hidden="true" data-icon="" class="support-icon"></span>
-                                    </a>
-                                    <a href="https://www.youtube.com/channel/UCEBux4AjnJyZsQUK6BJiPSQ" target="_blank">
-                                        <span aria-hidden="true" data-icon="" class="support-icon"></span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-        <div class="wrapper">
-        <div class="footer">
-            <div class="container">
-                <div class="row">
-                                            <div class="col-xs-12 col-md-2">
-                            <dl>
-                                <dt>PAX</dt>
-                                <dd>
-                                    <ul class="mobile-dropdown">
-                                        <li><a href="https://www.paxvapor.com/pax/">Buy Now</a></li>
-                                        <li><a href="https://www.paxvapor.com/pax/#pax-features">Learn More</a></li>
-                                        <li><a href="https://www.paxvapor.com/pax/#pax-accessories">Accessories</a></li>
-                                        <li><a href="https://www.paxvapor.com/support/pax-user-guides/">User Guide</a></li>
-                                        <li>
-                                            <a href="https://www.paxvapor.com/compare-pax-models/">
-                                                Compare Models                                            </a>
-                                        </li>
-                                    </ul>
-                                </dd>
-                            </dl>
-                        </div>
-                                        <div class="col-xs-12 col-md-2">
-                        <dl>
-                            <dt>PAX 2</dt>
-                            <dd>
-                                <ul class="mobile-dropdown">
-                                    <li><a href="https://www.paxvapor.com/pax-2/">Buy Now</a></li>
-                                    <li><a href="https://www.paxvapor.com/pax-2/#para-pax2">Learn More</a></li>
-                                    <li><a href="https://www.paxvapor.com/pax-2/#pax-accessories">Accessories</a></li>
-                                    <li><a href="https://www.paxvapor.com/support/how-to-guide/">User Guide</a></li>
-                                    <li>
-                                        <a href="https://www.paxvapor.com/compare-pax-models/">
-                                            Compare Models                                        </a>
-                                    </li>
-                                </ul>
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="col-xs-12 col-md-2">
-                        <dl>
-                            <dt>About</dt>
-                            <dd>
-                                <ul class="mobile-dropdown">
-                                    <li><a href="https://www.paxvapor.com/about/">About</a></li>
-                                    <li><a href="https://signup.cj.com/member/signup/publisher.cj;jsessionid=abc-uGAPv-5MV-bW7m6-u?cid=4547952" target="_blank">Affiliate Program</a></li>
-                                    <li><a href="https://www.paxvapor.com/news/">News</a></li>
-                                                                                                                                                                                                <li><a href="https://www.paxvapor.com/news/cat/press/">Press</a></li>
-                                                                                                                                                                                                                                            <li><a href="https://www.paxvapor.com/news/cat/events/">Events</a></li>
-                                                                                                                                                                                            <li><a href="https://www.paxvapor.com/careers/">Careers</a></li>
-                                    <li><a href="https://www.paxvapor.com/retail/wholesale/">Retail &amp; Wholesale</a></li>
-                                    <li><a href="https://www.paxvapor.com/press-kit/">Press Kit</a></li>
-                                </ul>
-                            </dd>
-                        </dl>
-                    </div>
-
-                    <div class="col-xs-12 col-md-2">
-                        <dl>
-                            <dt>Customer Care</dt>
-                            <dd>
-                                <ul class="mobile-dropdown">
-                                                                        <li><a href="https://www.paxvapor.com/support/pax-vapor-tips-and-getting-started/">PAX</a></li>
-                                                                        <li><a href="https://www.paxvapor.com/support/how-to-guide/">PAX 2</a></li>
-                                    <li><a href="https://www.paxvapor.com/support/warranty/">Warranty</a></li>
-                                    <li><a href="https://www.paxvapor.com/support/shipping/">Shipping &amp; Returns</a></li>
-                                    <li><a href="https://www.paxvapor.com/support/orders/">Orders</a></li>
-                                    <li><a href="https://www.paxvapor.com/support/contact/">Contact</a></li>
-                                </ul>
-                            </dd>
-                        </dl>
-                    </div>
-                                       <div class="col-xs-12 col-md-2">
-                        <dl>
-                            <dt>Store Locator</dt>
-                            <dd>
-                                <ul class="mobile-dropdown">
-                                    <li><a href="https://www.paxvapor.com/locate/">Find a Retailer</a></li>
-                                </ul>
-                            </dd>
-                        </dl>
-                    </div>
-                                        <div class="col-xs-12 col-md-2">
-                        <dl>
-                            <dt>My Account</dt>
-                            <dd>
-                                <ul class="mobile-dropdown">
-                                    <li><a href="https://www.paxvapor.com/customer/account/">Sign In</a></li>
-                                    <li><a href="https://www.paxvapor.com/customer/account/create/">Create Account</a></li>
-                                    <li><a href="https://www.paxvapor.com/checkout/cart/">My Cart</a></li>
-                                    <li><a href="https://www.paxvapor.com/product-registration/">Product Registration</a></li>
-
-                                </ul>
-                            </dd>
-                        </dl>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="footer-copy text-center" style="background:url('https://www.paxvapor.com/skin/frontend/plm/default/assets/v2/bg.metallic.jpg') center center no-repeat;background-size:cover;">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-                        <p>©2016 PAX. ALL RIGHTS RESERVED.                        <a href="https://www.paxvapor.com/terms-and-condition/">Terms &amp; Conditions</a> |
-                        <a href="https://www.paxvapor.com/privacy-policy/">Privacy Policy</a></p>
-                                                    <p>NOT FOR SALE TO MINORS I CALIFORNIA PROPOSITION 65 WARNING: This product contains chemicals known to the state of California to cause cancer, or birth defects or other reproductive harm.</p>
-                            <p>Due to city and state regulations PAX promotions are prohibited in the following <a href="https://www.paxvapor.com/promo-restrictions/">areas</a>.</p>
-                                            </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="footer-warning">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 text-right">
-                        <div id="country-selector"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="mobile-menu visible-xs">
-        <div class="mobile-slide-menu">
-            <ul class="mobile-slide-links">
-                <li><a href="https://www.paxvapor.com/">Home</a></li>
-                <li><a href="https://www.paxvapor.com/checkout/cart/">My Cart</a></li>
-                <li><a href="https://www.paxvapor.com/customer/account/">My Account</a></li>
-                                <li><a href="https://www.paxvapor.com/support/">Support</a></li>
-                <li><a class="change_store_cookie">Store Switcher</a></li>
-                                <li><a href="https://www.paxvapor.com/about/">About</a></li>
-                <li><a href="https://www.paxvapor.com/news/">News</a></li>
-                <li><a href="https://www.paxvapor.com/news/cat/events/">Events</a></li>
-                                <li><a href="https://www.paxvapor.com/locate/">Retail Locator</a></li>
-                            </ul>
-        </div>
-        <div class="mobile-links">
-            <a class="mobile-logo">
-                <img src="https://www.paxvapor.com/skin/frontend/plm/default/images/pax-logo.png" alt="PAX Logo">
-            </a>
-                                    <div class="product-links">
-                                                <a href="https://www.paxvapor.com/pax/">PAX</a>
-                    <a href="https://www.paxvapor.com/pax-2/">PAX 2</a>
-                                    </div>
-    </div>
+<p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:legal@pax.com">legal@pax.com</a></p> </div>
 </div>
-
+</div>
+</div>
+</div>
+<div id="footer col-xs-12">
+<div class="wrapper" id="newsletter-footer">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="row-header copy2">
+Keep up with PAX innovations, insider news, and promotions </div>
+</div>
+</div>
+<div class="newsletter-footer">
+<div class="col-xs-12">
+<form action="https://www.paxvapor.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail" class="newsletter-signup">
+<div class="row">
+<div class="col-xs-12 col-sm-7">
+<div class="input-box">
+<input type="email" name="email" id="newsletter" class="required-entry validate-email newsletter-email" placeholder="Email">
+</div>
+</div>
+<div class="col-xs-12 col-sm-2">
+<button type="submit" title="Sign Up" class="btn primary-button" style="padding: 8px 50px;"><span><span>Subscribe</span></span></button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="wrapper">
+<div class="footer">
+<div class="container">
+<div class="col-xs-12">
+<div class="copy2" width="100%" style="padding-bottom:25px; text-align:center; color: white; padding-right: 15px;">
+AS SEEN IN </div>
+<div class="testemonial-icons">
+<div>
+<a target="_blank" href="http://www.techinsider.io/pax-vaporizer-hardware-specs-2016-3">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/footer/tech-insider-white.svg">
+</a>
+</div>
+<div>
+<a target="_blank" href="http://www.businessinsider.com/what-is-the-pax-vaporizer-2016-3?r=UK&amp;IR=T">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/footer/business-insider_white.svg">
+</a>
+</div>
+<div>
+<a target="_blank" href="https://www.engadget.com/2015/09/15/pax-european-launch/">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/footer/engadget-white.svg">
+</a>
+</div>
+<div class="desktop-only">
+<a target="_blank" href="https://techcrunch.com/2015/06/10/pax-labs-heats-up-with-46-7-million-in-series-c-funding/">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/footer/techcrunch_white.svg">
+</a>
+</div>
+<div class="desktop-only">
+<a target="_blank" href="http://mashable.com/2015/11/04/the-weeknd-vaporizer/#N1YGJGbGJ8qq">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/footer/Mashable-white.svg">
+</a>
+</div>
+</div>
+<hr style="margin: 25px 15px; color: white;">
+</div>
+<div class="col-xs-12 col-md-8 footer-nav">
+<div class="col-xs-12 col-md-2">
+<dl>
+<dt class="copy7">
+PAX Labs </dt>
+<dd class="copy8">
+<ul class="mobile-dropdown">
+<li><a href="https://www.paxvapor.com/about/">
+About </a></li>
+<li><a href="https://www.paxvapor.com/careers/">
+Careers </a></li>
+<li><a href="https://www.paxvapor.com/news/cat/press/">
+Press </a></li>
+<li><a href="https://www.paxvapor.com/press-kit/">
+Press Kit </a></li>
+<li><a href="https://www.paxvapor.com/blog/">
+Blog </a></li>
+</ul>
+</dd>
+</dl>
+</div>
+<div class="col-xs-12 col-md-2">
+<dl>
+<dt class="copy7">
+Products </dt>
+<dd class="copy8">
+<ul class="mobile-dropdown">
+<li><a href="https://www.paxvapor.com/pax-3/">
+PAX 3
+</a></li>
+<li><a href="https://www.paxvapor.com/pax-2/">
+PAX 2
+</a></li>
+<li><a href="https://www.paxvapor.com/era/">
+PAX Era
+</a></li>
+<li><a href="https://www.paxvapor.com/accessories/">
+Accessories
+</a></li>
+<li><a href="https://www.paxvapor.com/pax-app/">
+PAX Vapor App
+</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+<div class="col-xs-12 col-md-2">
+<dl>
+<dt class="copy7">Support</dt>
+<dd class="copy8">
+<ul class="mobile-dropdown">
+<li><a href="https://www.paxvapor.com/support/pax-3-faq/">User Guide</a></li>
+<li><a href="https://www.paxvapor.com/support/pax-3-faq/">FAQ</a></li>
+<li><a href="https://www.paxvapor.com/support/shipping/">Shipping &amp; Returns</a></li>
+<li><a href="https://www.paxvapor.com/support/warranty/">Warranty</a></li>
+<li><a href="https://www.paxvapor.com/support-ticket/">Contact</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+<div class="col-xs-12 col-md-2">
+<dl>
+<dt class="copy7">Account</dt>
+<dd class="copy8">
+<ul class="mobile-dropdown">
+<li><a href="https://www.paxvapor.com/customer/account/login/">Sign In</a></li>
+<li><a href="https://www.paxvapor.com/customer/account/create/">Create Account</a></li>
+<li><a href="https://www.paxvapor.com/register/">Register Product</a></li>
+<li><a href="https://www.paxvapor.com/support/orders/">Orders</a></li>
+<li><a href="https://www.paxvapor.com/checkout/cart/">My Cart</a></li>
+<li><a href="https://www.paxvapor.com/intellectual-property-list/">Intellectual Property</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+<div class="col-xs-12 col-md-2">
+<dl>
+<dt class="copy7">Retail</dt>
+<dd class="copy8">
+<ul class="mobile-dropdown">
+<li><a href="https://member.impactradius.com/advertiser-advertiser-info/PAX-Labs.brand" target="_blank">Affiliates</a></li>
+<li><a href="https://www.paxvapor.com/retail/wholesale/">Become a Retailer</a></li>
+<li><a href="https://www.paxvapor.com/distributors/">International</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 footer-right">
+<div>
+<div class="footer-link-header">
+Follow us <strong>@PAXVAPOR</strong>
+</div>
+<div class="social-icons" style="white-space: nowrap;">
+<a target="_blank" href="http://www.facebook.com/PAXvapor">
+<svg version="1.1" id="Facebook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">.st0{fill:#fff}</style>
+<path class="st0" d="M64,0C28.7,0,0,28.7,0,64c0,35.3,28.7,64,64,64s64-28.7,64-64C128,28.7,99.3,0,64,0z M99,95.1
+                                      	c0,2.1-1.7,3.9-3.9,3.9H77.3V71.9h9.1l1.4-10.6H77.3v-6.7c0-3.1,0.8-5.1,5.2-5.1l5.6,0V40c-1-0.1-4.3-0.4-8.2-0.4
+                                      	c-8.1,0-13.6,4.9-13.6,14v7.8h-9.1v10.6h9.1V99H32.9c-2.1,0-3.9-1.7-3.9-3.9V32.9c0-2.1,1.7-3.9,3.9-3.9h62.3c2.1,0,3.9,1.7,3.9,3.9
+                                      	V95.1z"></path>
+</svg>
+</a>
+<a target="_blank" href="https://twitter.com/PAXvapor">
+<svg version="1.1" id="Twitter" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">.st0{fill:#fff}</style>
+<path class="st0" d="M64,0C28.7,0,0,28.7,0,64c0,35.3,28.7,64,64,64s64-28.7,64-64C128,28.7,99.3,0,64,0z M92.5,49.4
+                                        	c0,0.6,0,1.3,0,1.9c0,19.4-14.8,41.8-41.8,41.8c-8.3,0-16-2.4-22.5-6.6c1.2,0.1,2.3,0.2,3.5,0.2c6.9,0,13.2-2.4,18.3-6.3
+                                        	c-6.4-0.1-11.9-4.4-13.7-10.2c0.9,0.2,1.8,0.3,2.8,0.3c1.3,0,2.6-0.2,3.9-0.5C36.1,68.6,31,62.7,31,55.5c0-0.1,0-0.1,0-0.2
+                                        	c2,1.1,4.2,1.8,6.7,1.8c-3.9-2.6-6.5-7.1-6.5-12.2c0-2.7,0.7-5.2,2-7.4c7.3,8.9,18.1,14.8,30.3,15.4c-0.3-1.1-0.4-2.2-0.4-3.4
+                                        	c0-8.1,6.6-14.7,14.7-14.7c4.2,0,8.1,1.8,10.7,4.6c3.3-0.7,6.5-1.9,9.3-3.6c-1.1,3.4-3.4,6.3-6.5,8.1c3-0.4,5.8-1.1,8.4-2.3
+                                        	C97.9,44.7,95.4,47.3,92.5,49.4z"></path>
+</svg>
+</a>
+<a target="_blank" href="http://instagram.com/paxvapor">
+<svg version="1.1" id="Instagram" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">.st0{fill:#fff}</style>
+<g>
+<circle class="st0" cx="64" cy="64" r="13.8"></circle>
+<path class="st0" d="M88.8,36.4h-8.3c-1.5,0-2.8,1.2-2.8,2.8v8.3c0,1.5,1.2,2.8,2.8,2.8h8.3c1.5,0,2.8-1.2,2.8-2.8v-8.3
+                                        		C91.6,37.7,90.3,36.4,88.8,36.4z"></path>
+<path class="st0" d="M86.1,64c0,12.2-9.9,22.1-22.1,22.1c-12.2,0-22.1-9.9-22.1-22.1c0-1.9,0.3-3.8,0.7-5.5h-6.2v30.3
+                                        		c0,1.5,1.2,2.8,2.8,2.8h49.6c1.5,0,2.8-1.2,2.8-2.8V58.5h-6.2C85.8,60.2,86.1,62.1,86.1,64z"></path>
+<path class="st0" d="M64,0C28.7,0,0,28.7,0,64c0,35.3,28.7,64,64,64s64-28.7,64-64C128,28.7,99.3,0,64,0z M99.8,91.6
+                                      		c0,4.6-3.7,8.3-8.3,8.3H36.4c-4.6,0-8.3-3.7-8.3-8.3V36.4c0-4.6,3.7-8.3,8.3-8.3h55.1c4.6,0,8.3,3.7,8.3,8.3V91.6z"></path>
+</g>
+</svg>
+</a>
+<a target="_blank" href="https://www.youtube.com/channel/UCEBux4AjnJyZsQUK6BJiPSQ">
+<svg version="1.1" id="YouTube" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">.st0{fill:#fff}</style>
+<g>
+<polygon class="st0" points="56.6,72.8 76,62.8 56.6,52.7 	"></polygon>
+<path class="st0" d="M64,0C28.7,0,0,28.7,0,64c0,35.3,28.7,64,64,64s64-28.7,64-64C128,28.7,99.3,0,64,0z M99.8,78.3
+                                          		c0,5.6-4.6,10.2-10.2,10.2H38.4c-5.6,0-10.2-4.6-10.2-10.2V49.7c0-5.6,4.6-10.2,10.2-10.2h51.2c5.6,0,10.2,4.6,10.2,10.2V78.3z"></path>
+</g>
+</svg>
+</a>
+<a target="_blank" href="https://www.pinterest.com/paxvapor/">
+<svg version="1.1" id="Pinterest" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">.st0{fill:#fff}</style>
+<path class="st0" d="M64,0C28.7,0,0,28.7,0,64c0,35.3,28.7,64,64,64s64-28.7,64-64C128,28.7,99.3,0,64,0z M69.5,80
+                                        	c-4.4,0-8.6-2.4-10.1-5.1c0,0-2.4,9.5-2.9,11.3c-1.8,6.5-7,12.9-7.4,13.5c-0.3,0.4-0.9,0.2-1-0.2c-0.1-0.8-1.5-9,0.1-15.7
+                                        	c0.8-3.3,5.3-22.4,5.3-22.4s-1.3-2.6-1.3-6.5c0-6.1,3.5-10.7,7.9-10.7c3.7,0,5.6,2.8,5.6,6.2c0,3.8-2.4,9.4-3.6,14.6
+                                        	c-1,4.4,2.2,7.9,6.5,7.9c7.8,0,13-10,13-21.9c0-9-6.1-15.8-17.1-15.8c-12.5,0-20.3,9.3-20.3,19.7c0,3.6,1.1,6.1,2.7,8.1
+                                        	c0.8,0.9,0.9,1.3,0.6,2.3c-0.2,0.8-0.6,2.6-0.8,3.3c-0.3,1-1.1,1.4-2.1,1c-5.8-2.4-8.4-8.7-8.4-15.7c0-11.7,9.9-25.7,29.4-25.7
+                                        	c15.7,0,26.1,11.4,26.1,23.6C91.7,67.9,82.8,80,69.5,80z"></path>
+</svg>
+</a>
+</div>
+</div>
+<div style="padding: 10px 0px 25px 0px;">
+<div class="footer-link-header">
+Download the PAX App
+</div>
+<div class="appstore-icons">
+<a target="_blank" href="https://appsto.re/us/DohVcb.i">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/app/applestore.svg">
+</a>
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.pax.app">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/app/googleplay.svg">
+</a>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12" style="display: flex; align-items: flex-end">
+<div>
+<a href="http://www.bbb.org/">
+<img src="https://www.paxvapor.com/skin/frontend/plm/default/assets/footer/BBB.svg" height="35px" style="padding:0px 30px;">
+</a>
+</div>
+<div id="country-selector" class="copy7"></div>
+</div>
+</div>
+<hr style="margin: 25px 28px; color: white;">
+</div>
+</div>
+<div class="text-center copy9" style="background:#515151">
+<div class="container">
+<div class="row">
+<div class="col-xs-offset-1 col-xs-10">
+<p>©2017 PAX Labs, Inc. ALL RIGHTS RESERVED. <a style="color: white;" href="https://www.paxvapor.com/terms-and-condition/">Terms &amp; Conditions</a> |
+<a style="color: white;" href="https://www.paxvapor.com/privacy-policy/">Privacy Policy</a></p>
+<p>NOT FOR SALE TO MINORS</p>
+<p>CALIFORNIA PROPOSITION 65 WARNING: This product contains chemicals known to the state of California to cause cancer and birth defects or other reproductive harm.</p>
+<p>©2012-2016 PAX Labs, Inc. ALL RIGHTS RESERVED. </p><p>PAX name, logo and tag lines are trademarks of PAX Labs, Inc. US and International Patents Pending.</p>
+<p>Patent: <a target="_blank" href="https://www.paxvapor.com/intellectual-property-list/" style="color: #FAF8F5 !important; text-decoration: none !important;">www.paxvapor.com/intellectual-property-list/</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 <div id="buy-modal" class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-sm">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title" id="mySmallModalLabel">
-                    <span aria-hidden="true" data-icon="" class="support-icon"></span> Added to Cart!                </h4>
-            </div>
-            <div class="modal-body clearfix">
-                <a class="left" data-dismiss="modal">Keep Shopping</a>
-                <a class="right" href="https://www.paxvapor.com/checkout/cart/">Checkout</a>
-            </div>
-        </div>
-    </div>
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<h4 class="modal-title" id="mySmallModalLabel">
+<span aria-hidden="true" data-icon="" class="support-icon"></span> Added to Cart! </h4>
 </div>
-
+<div class="modal-body clearfix">
+<a class="left" data-dismiss="modal" onclick="window.location.pathname === '/pax-2-accessory-bundle/' ?  window.history.back() : ''">Keep Shopping</a>
+<span class="right" onclick="window.location.href = location.protocol + '//' + location.hostname +
+      (location.port &amp;&amp; ':' + location.port) + '/' + 'checkout/onepage'">Checkout</span>
+</div>
+</div>
+</div>
+</div>
 <div id="registration-modal" class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-sm">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="mySmallModalLabel">
-                    Registration Details                </h4>
-            </div>
-            <div class="modal-body clearfix">
-
-            </div>
-        </div>
-    </div>
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+<h4 class="modal-title" id="mySmallModalLabel">
+Registration Details </h4>
 </div>
-                
+<div class="modal-body clearfix">
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">(function(a,b,c,d,e,f,g){e['ire_o']=c;e[c]=e[c]||function(){(e[c].a=e[c].a||[]).push(arguments)};f=d.createElement(b);g=d.getElementsByTagName(b)[0];f.async=1;f.src=a;g.parentNode.insertBefore(f,g);})('//d.impactradius-event.com/A345660-5f3a-489f-81dd-fcdd5d8513c11.js','script','ire',document,window);</script>
+<script type="text/javascript">(function(){var tagjs=document.createElement("script");var s=document.getElementsByTagName("script")[0];tagjs.async=true;tagjs.src="//s.btstatic.com/tag.js#site=6EeDEhH";s.parentNode.insertBefore(tagjs,s);}());</script>
+<noscript>
+<iframe src="//s.thebrighttag.com/iframe?c=6EeDEhH" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<script data-name="__br_tm" type="text/javascript">var _bsw=_bsw||[];_bsw.push(['_bswId','6251c813f4534370351aa213b00461c643c41ce9c60713c4a616564f72eb8101']);(function(){var bsw=document.createElement('script');bsw.type='text/javascript';bsw.async=true;bsw.src=('https:'==document.location.protocol?'https://':'http://')+'js.bronto.com/c/b46bb73mdt9xo064pfhvtowazpq2kgokfgf5is6pnv06ucoeu2/6251c813f4534370351aa213b00461c643c41ce9c60713c4a616564f72eb8101/s/b.min.js';var t=document.getElementsByTagName('script')[0];t.parentNode.insertBefore(bsw,t);})();</script>
+<script type="text/javascript">if(document.addEventListener){document.addEventListener('bronto:popup-submitted',function(e){new Ajax.Request('https://www.paxvapor.com/btnewsletter/index/submit/',{method:'post',parameters:{emailAddress:e.detail.email}});},false);}</script>
+<script type="text/javascript" src="//p.bm23.com/bta.js"></script>
+<script type="text/javascript">var bta=new __bta('aa23f21a59ea7e652426673b7d3f4d7d');</script>
+<script type="text/javascript">Event.observe(window,'load',function(){$$('input.validate-email').each(function(item){item.observe('change',function(event){captureEmail(item.value);});});});if(document.addEventListener){document.addEventListener('bronto:popup-created',function(e){$$('.popup-dialog input[id*=inputs-email]').each(function(item){item.observe('change',function(event){captureEmail(item.value);});});},false);}function captureEmail(emailAddress){var targetUrl='https://www.paxvapor.com/emailcapture/index/capture/';new Ajax.Request(targetUrl,{method:'post',parameters:{emailAddress:emailAddress}});}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a490711b1e","applicationID":"39147570","transactionName":"YgMHZhRXXUcCUU0PXltJJFESX1xaTFFUFR5FBwJXSUBaURQ=","queueTime":0,"applicationTime":347,"atts":"TkQEEFxNTkk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-<script src="//js.dmtry.com/channel.js#gid:4122;advid:1022;pid:1035807"></script><noscript><img width='0' height='0' src='//log.dmtry.com/redir/1/0/4122/1035807/0/1/192/0/1022/1.ver?at=v&d=PxConv'></noscript>
-            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"05e5e8766b","applicationID":"11173290","transactionName":"ZFJbZkNRW0RTAEFeCl0YeFFFWVpZHQBYREpDVl5XHkZcUkU=","queueTime":0,"applicationTime":463,"atts":"SBVYEAtLSEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-</div></body></html>
+</body></html>
