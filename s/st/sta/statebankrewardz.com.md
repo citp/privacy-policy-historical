@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the statebankrewardz.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218234434id_/http%3A//statebankrewardz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statebankrewardz.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607014608id_/http%3A//statebankrewardz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # StateBankRewardz | Your Privacy is Important to us at India's Most Rewarding Loyalty Program for State Bank Group Debit Card Customers
-
-[ ](http://www.sbi.co.in/)
-
-[ ](http://statebankrewardz.com/default.aspx)
-
-With effect from 1st December 2016, customers will no longer earn points for Demat transactions. Points earned before 1st December will remain in your State Bank Rewardz account and can be redeemed as per the standard process. | Dear Customer, for verification purposes, State Bank Rewardz will send a One Time Password (OTP) to your mobile number and email ID that is registered with your Bank. If you have not updated your contact information, please visit your Home Branch. 
 
 _Privacy Statement_
 
