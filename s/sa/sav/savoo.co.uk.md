@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the savoo.co.uk privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330165232id_/http%3A//www.savoo.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savoo.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080022id_/http%3A//savoo.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Statement**
 
-We at Savoo.co.uk (“Savoo”) respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and its [Terms and Conditions](http://www.bobbibrowncosmetics.com/customer_service/terms.tmpl).
+We at Savoo.co.uk (“Savoo”) respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and its [Terms Of Service](http://www.savoo.co.uk/info/terms/).
 
 This Privacy Policy describes the types of personal information we collect at Savoo, how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information or ask us any questions you may have about our use of your personal information.
 
@@ -12,7 +12,7 @@ Please note that this Privacy Policy governs only information provided to Savoo.
 
 **P3P**
 
-Savoo is in compliance with the current draft of the World Wide Web Consortium (W3C) Platform for Privacy Preferences (P3P) specification, [ _http://www.w3c.org/P3P_](http://www.w3c.org/P3P), dated April 16, 2002. This specification was developed to allow users to more easily evaluate the use of personal information collected by the web sites they visit. Thus, if your browser is Microsoft Internet Explorer Version 6, or later, your browser can electronically interpret the P3P version of our privacy policies.
+Savoo is in compliance with the current draft of the World Wide Web Consortium (W3C) Platform for Privacy Preferences (P3P) specification, <http://www.w3c.org/P3P>, dated April 16, 2002. This specification was developed to allow users to more easily evaluate the use of personal information collected by the web sites they visit. Thus, if your browser is Microsoft Internet Explorer Version 6, or later, your browser can electronically interpret the P3P version of our privacy policies.
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
@@ -34,9 +34,11 @@ With whom your Information may be shared**
 
 Savoo does not sell trade or rent your personal information to other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
-**Service Requests or Loan Products**  – If you submit a request for a loan product or service offered through this website we will share the personal information contained in your request form, such as your full name, physical address, telephone number, property location and self-assessed value, with lenders in our provider network strictly to process and fulfill your request. All lenders in our provider network, which include banks, mortgage lenders and brokers, have entered into marketing agreements with Savoo and are required to comply with federal and state privacy regulations. The lenders may contact you by telephone, email, or mail based on the information you provided to us in order to process and fulfill your request, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission or any state equivalent Do Not Call List. If one of the lenders contacts you by telephone and you wish not to be contacted again by that lender with respect to your inquiry, then you should specifically make a request to that lender not to contact you again. If the lender disregards your request and contacts you again, please let us know immediately by sending an email to Savoo [ _Customer Service_](http://savings.zendesk.com/home). Please note that the lenders may maintain the information you provided whether you elect to use their services or not.
+**Contests and Other Promotions** – From time to time, we may offer contests, sweepstakes or other promotions. If you enter one of these contests, sweepstakes or promotions, you’ll have to provide information about yourself (such as your name, address, telephone number and email address) so that we can administer and operate the contest, sweepstakes, or promotion (including contacting you if you win, fulfilling a prize, and publishing a winners’ list). If you don’t want us to collect the information requested in the registration form or to provide it to our co-sponsor(s) as described below, please do not enter the contest, sweepstakes or promotion.
 
-**Other Service or Products Requests**  – If you submit a request for a product or service other than a loan such telecommunication service, we will share the personal information contained in your request form such as your full name, telephone number and email address with our business partners to process and fulfill your request. Our business partners may contact you by telephone, email, or mail based on the information you provided to us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission or any state equivalent Do Not Call List. If one of our partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again.
+**Email Newsletters** – We may also offer you the opportunity to subscribe to email newsletters that we make available. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See “Updating your Information” below.
+
+**Mobile Applications and Location-Based Information** – Savoo may have the ability to use your geographic location to deliver content, services, and advertising tailored to your location. If you choose to enable Savoo to use your location information, then that information will be stored and used to deliver content, services, and advertising tailored to your location. Also, when you use a mobile device or browser to access Savoo, then your device and/or your browser may automatically collect and/or transmit your device’s unique identifier, IP address, location information, device make/model, wireless provider, and related information to us. We may use this information to deliver content, services, and advertising tailored to your location.
 
 **Vendors**  – We sometimes disclose the information we collect to companies that host certain services for us such as marketing distribution services on our behalf. These vendors only have access to personal information needed to perform their functions, and may not share it with others or use it for any other purpose. These companies are subject to confidentiality agreements with us and other legal restrictions that prohibit them from using the information except to market the specified Savoo products or services.  
 **  
@@ -46,9 +48,7 @@ As Permitted by Law**  – We may be required to share your personal informatio
 
 **Cookies and IP Addresses –  **To serve you faster and with better quality, we use “cookies” technology. Cookies are small bits of code, usually stored on a user’s computer hard drive, which enable a Web site to “personalize” itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or “click-stream”) data collected by us is used to optimize your experience by learning whether or not you successfully used Savoo. Cookies are not tied to your personal information. Additionally, we may capture click-stream data on some of our partner’s web sites, limited to the activity involved with the completion of offers listed on our web site This information is used to monitor the performance of our partners. We also allow select third-parties to set cookies on our website. For example, we use a tracking service, Revenue Science, that uses cookies to track non-personally identifiable information about our visitors. This aggregate visitor usage information collected on Savoo and used by the Revenue Science network for the purposes of delivering relevant advertising to our audience. Other examples include session cookies when accessing the Blog section of the website. These cookies simply track the session and are not tied to your personal information. We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
-**Clear Gifs**
-
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users’ personally identifiable information. We also use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section within any email you receive from us or unsubscribe from our homepage. ** **
+**Clear Gifs** – We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users’ personally identifiable information. We also use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section within any email you receive from us or unsubscribe from our homepage. ** **
 
 **Confidentiality and Security**
 
@@ -74,11 +74,11 @@ We are committed to protecting the privacy of children. Savoo’s services are n
 
 **Updating your Information**
 
-If you want to access or update the personal information you submitted to Savoo, please contact [_Customer Service_](http://savings.zendesk.com/home). In the alternative, you can write us at the address below and request that your personal information be updated.
+If you want to access or update the personal information you submitted to Savoo, please contact [Customer Service](http://savings.zendesk.com/home). In the alternative, you can write us at the address below and request that your personal information be updated.
 
 **Questions and Suggestions**
 
-If you have any questions, concerns or suggestions about our Privacy Policy, you may contact [ _Customer Service_](http://savings.zendesk.com/home), or you can send a letter to:  
+If you have any questions, concerns or suggestions about our Privacy Policy, you may contact [Customer Service](http://savings.zendesk.com/home), or you can send a letter to:  
 Savoo UK Ltd,  
 Attn: Customer Service  
 First Floor  
@@ -103,4 +103,6 @@ This privacy policy is not intended to and does not create any contractual or le
 
 **Effective Date October 18th, 2005**
 
-**Last updated on August 28th, 2015**
+**Last updated on April 29, 2016**
+
+—
