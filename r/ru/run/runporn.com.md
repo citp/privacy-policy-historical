@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the runporn.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119222121id_/http%3A//www.runporn.com/infpgs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runporn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095337id_/http%3A//www.runporn.com/infpgs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RunPorn.com
 
-Effective Date: November 19, 2016  
+Effective Date: June 06, 2017  
 Sites Covered: www.runporn.com 
 
 Pursuant to our [Terms of Use](http://www.runporn.com/infpgs/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
