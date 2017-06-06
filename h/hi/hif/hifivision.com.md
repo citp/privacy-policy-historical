@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hifivision.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229230801id_/http%3A//www.hifivision.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifivision.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070524id_/http%3A//www.hifivision.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - HiFiVision.com - Audio Video Hi-Fi Forum
 
@@ -23,7 +23,7 @@
   
 [Advertise Here](http://www.hifivision.com/ads/index.php?loc=view_adrates&uid=100000)
 
-All times are GMT +5.5. The time now is 04:38 AM.
+All times are GMT +5.5. The time now is 12:35 PM.
 
   
 
