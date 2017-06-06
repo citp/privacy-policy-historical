@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rignite.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325010434id_/http%3A//www.rignite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rignite.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022850id_/http%3A//www.rignite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | @RigniteInc
 
