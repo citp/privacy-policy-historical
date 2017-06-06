@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videograbby.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202195606id_/http%3A//www.videograbby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videograbby.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164511id_/http%3A//www.videograbby.com/privacy) for the most accurate reproduction.*
 
-# VideoGrabby: Youtube Downloader & Youtube to MP3 Converter - Privacy Policy
+# VideoGrabby: Youtube Downloader - Privacy Policy
 
 **Privacy Policy**
 
