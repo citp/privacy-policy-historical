@@ -1,39 +1,15 @@
-> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054530id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021628id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
 
-# Protecting Your Privacy on Theme Park Insider
+# Theme Park Insider's Privacy Policy
 
-Your privacy is important to you, and protecting that privacy is important to me, as a website publisher.
+Theme Park Insider is a public, global community covering theme parks and the themed entertainment and travel industries. Individuals who choose to register with the site may submit blog posts, comments, discussion threads and responses, location ratings, and a personal profile to the site. All information you submit to Theme Park Insider may be published on the site, so please do not submit any information to the site that you do not wish to share with the public. If you choose to submit information to Theme Park Insider, please read our [Rules for Writers](https://web.archive.org/ethics/) and for [Rules for Rating Attractions](http://www.themeparkinsider.com/news/response.cfm?ID=4190).
 
-### What information do we collect about you?
+If you do not register with the website, but choose to submit a comment on posts that allow anonymous comments, your comment, if chosen for publication, will be identified by the IP address of the connection through which you accessed ThemeParkInsider.com.
 
-As an interactive community where readers provide the bulk of the site's coverage, Theme Park Insider collects and publishes information about its readers when they contribute information to the site. We publish the names and hometowns of people who submit comments to the site, and collect the IP address of everyone who submits a vote, discussion topic or comment. (An IP address is a series of numbers that identifies the computer through which you accessed the Internet. It is not the same as your e-mail address. And for users on dial-up accounts, the IP address we collect is that of the computer you dialed into at your ISP when you logged on.)
+If you register with Theme Park Insider, we will send a system-generated password to the email address you provide. You must log in with this password within one week to establish your account with the site. Otherwise, all information you submit upon your registration attempt will be deleted. Once you log in, Theme Park Insider will set a "cookie" on your Web browser that will allow you to remain logged into the site indefinitely. You will not need to use the system-generated password again, unless you choose to log in from a different device, or you log out and wish to log in again.
 
-Theme Park Insider uses cookies to tell which readers are registered and who they are. (A "cookie" is a line of text in your browser's folder on your personal computer that includes that website's domain name and a unique user number. The cookie does not reveal any other information on your computer, including your name and passwords.) Registered members who submit content to the site are identified on the site by their name, while anonymous comments are identified by their submitters' IP address.
+Pages on Theme Park Insider will attempt to set cookies in your browser. Cookies are used on this site to determine if an individual requesting a page is a registered user, and if so, who they are. A cookie is a line of text in your browser's folder on your personal computer. When a cookie is set, a website writes a line of text to that folder which includes the website's domain name and a unique user number. The cookie cannot access any other information on your computer, including your name, email address and passwords.
 
-If you do not want your name and hometown published on Theme Park Insider, please do not register with the site. Theme Park Insider reserves the right to republish any comments or articles submitted to it in any medium at any time.
+We may use third-party advertising companies to serve ads when you visit our website. These companies may also set cookies and use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/policies/technologies/ads/).
 
-### No spam
-
-We do not rent, lease or sell our user database to anyone. Nor do we spam our readers, or anyone else, with unsolicited commercial messages. The only e-mails we send to our readers are registration confirmations and an optional weekly digest of new blog posts and discussion topics. If you are interested in getting that email digest, you can sign up by clicking the email icon at the bottom of the page.
-
-Registered users can send "blind" e-mails to other registered users via the site. We forward those messages without revealing the recipient's e-mail address. Also, those messages are always sent with the same subject line, allowing recipients to filter them.
-
-### No annoying ads
-
-Theme Park Insider does not, has not and will not serve pop-up or pop-under ads on the site. Nor will we try to install "spyware" or other software on your computer. The only ads we present on ThemeParkInsider.com are text and banner ads sold and served via Google's AdWords program. Companies advertising through Google's system may use cookies to track your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/policies/technologies/ads/).
-
-### Editorial integrity
-
-Our editorial independence is important to us, so that's why we ask all readers to abide by our [guidelines for writers](https://web.archive.org/ethics/) and for [rating attractions](http://www.themeparkinsider.com/news/response.cfm?ID=4190) before submitting comments and reviews to the site.
-
-### Readers' support
-
-As a community-driven website, we are only as successful as our readers allow us to be. That's why we invite our readers to link to http://www.themeparkinsider.com, or any other page on the site. Again, this site is a community. If you are uncomfortable participating as a public member of an online community, you are welcome to "lurk" and read the content of this site without adding any of your own. Otherwise, please be aware of the policies and practices described on this page before submitting any statements or content to the site.
-
-Thanks for visiting,  
-[Robert Niles](http://www.themeparkinsider.com/contact/), Founder and Editor, ThemeParkInsider.com
-
-  
-
-
-### Enter the Wizarding World of Harry Potter
+Information collected by Theme Park Insider may be transferred along with the other assets of Theme Park Insider to any subsequent owners of the site. Theme Park Insider is private property and its owners reserve the right to remove from the site any user and/or his or her information at any time. Theme Park Insider reserves the right to republish any comments or articles submitted to it in any medium at any time.
