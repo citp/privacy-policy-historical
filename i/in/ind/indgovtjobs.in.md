@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the indgovtjobs.in privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123070859id_/http%3A//www.indgovtjobs.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indgovtjobs.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112306id_/http%3A//www.indgovtjobs.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-###  [Privacy Policy](http://www.indgovtjobs.in/p/privacy-policy.html)
 
 **We collect but do not link personal and activity data.**
 
@@ -36,25 +34,3 @@ If you have any questions or concerns about our privacy policies, please contact
 **We take steps to protect personal information**
 
 We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error. Information we collect may be stored or processed on computers located in any country where we do business. 
-
-  
-
-
-## Popular Govt Jobs this Week
-
-  * Indian National candidates / Students, who have holding 10th and 12th Qualification get Government Jobs recent recruitment notification. 10t...
-
-  * Government Jobs Seekers, who Looking for Govt Jobs in India to get Latest Government Jobs Recruitment / Vacancies completely published in th...
-
-  * Railway Recruitment Boards (RRBs) offers Railway Jobs 2016 - 2017 List published in this page. RRBs calls eligible Indian Citizens through E...
-
-  * [ ](http://www.indgovtjobs.in/2013/08/bank-jobs-openings-august-2013.html)
-
-Indian Citizens who are looking for Latest Banking Jobs in Government public sector (Nationalized) banks, Govt undertaking Banks, Scheduled ...
-
-  * Engineering Graduates, who pursing final year or recently completed engineering degree holders get your discipline wise suitable Government ...
-
-
-
-
-[ ](https://www.blogger.com/rearrange?blogID=7242213784467625673&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=main "Edit")
