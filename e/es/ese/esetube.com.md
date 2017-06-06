@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the esetube.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125140923id_/http%3A//esetube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esetube.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184606id_/http%3A//esetube.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ethiopian Films & Movies Download
+# Privacy Policy | esetube.com
 
-This Privacy Policy governs the manner in which esetube collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://esetube.com/ website (“Site”).
+This Privacy Policy governs the manner in which esetube collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://esetube.com/ website (“Site”).
 
 ### Personal identification information
 
