@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroffice.co.uk privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423115639id_/http%3A//www.euroffice.co.uk/help/topic/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroffice.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054451id_/http%3A//www.euroffice.co.uk/help/topic/PrivacyPolicy) for the most accurate reproduction.*
 
 # What is Euroffice's privacy policy?
 
@@ -8,7 +8,7 @@ Our privacy policy is set out below. By providing personal data to us via our we
 
 Any definitions used in this Policy shall have the same meanings as provided in our terms and conditions.
 
-**1\. WHO WILL HOLD YOUR INFORMATION?**
+ **1\. WHO WILL HOLD YOUR INFORMATION?**
 
 > 1.1 Your information will be held by Euroffice Limited (“ **we** ”) is a company registered in England (Company No. 03877111) and our registered office is at Dome House, 48 Artillery Lane, London, E1 7LS. 
 > 
@@ -84,6 +84,8 @@ Any definitions used in this Policy shall have the same meanings as provided in 
 > 
 > 4.1.4.3 Your Credit Application Information will be used to help us determine whether or not to grant you a credit facility with us. In addition we may use your Payment Information to determine your credit worthiness and in the process of such determination we may make such Payment Information available to banks and credit agencies.
 > 
+> 4.1.4.5 If we refer any dispute between us to the [ODR Platform,](http://ec.europa.eu/consumers/odr/) and/or we agree to engage in any alternative dispute resolution (ADR) procedure with you through the Platform, then to the extent that your personal data is relevant to the dispute we may disclose it to the European Commission, as operator of the ODR Platform, and to any ADR provider appointed to deal with the dispute.
+> 
 > 4.1.4.4 We will share your Payment Information with banks in order to enable transactions to be completed.
 > 
 > 4.1.5 The period of use of the personal data supplied by you will not be longer than we deem necessary but may, be unlimited. 
@@ -94,7 +96,7 @@ Any definitions used in this Policy shall have the same meanings as provided in 
 > 
 > 5.2 We are committed to protecting the security of your personal information [and Payment Information]. We have in place a level of security appropriate to the nature of the data and the harm that might result from a breach of security. However, all publicly accessible websites are susceptible to malicious practices, and we accept no liability if security is breached.
 
-**6\. COOKIES**
+ **6\. COOKIES**
 
 > 6.1 This website uses “ **cookies** ”. Cookies are small pieces of information which are sent by a website to your web browser and remain on your computer until they are deleted. They help us to improve our site and to deliver a better and more personalised service. For full details on Cookies including what they are, how you can prevent them being used and how Euroffice uses cookies please view our cookies policy.
 > 
