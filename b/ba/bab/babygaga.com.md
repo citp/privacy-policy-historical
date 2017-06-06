@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babygaga.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225051312id_/http%3A//www.babygaga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babygaga.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131224id_/http%3A//www.babygaga.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BabyGaga BabyGaga
+# Babygaga Search Results
 
 BabyGaga.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for all of our Internet services, including Web and e-mail.
 
