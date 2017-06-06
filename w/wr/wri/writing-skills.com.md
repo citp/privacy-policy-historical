@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writing-skills.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316230433id_/http%3A//www.writing-skills.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writing-skills.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103918id_/http%3A//writing-skills.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Emphasis
 
@@ -8,7 +8,7 @@ If you have any questions about this privacy policy please contact us at [info@
 
 **Information collected**
 
-We collect personal information from visitors to emphbootstrap.wpengine.com (‘the Site’) through the use of online forms and every time you email us your details. We also collect information about the transactions you undertake including details of payment cards used. We collect additional information automatically about your visit to our website (see Cookie policy, below).
+We collect personal information from visitors to emjuly2015.wpengine.com (‘the Site’) through the use of online forms and every time you email us your details. We also collect information about the transactions you undertake including details of payment cards used. We collect additional information automatically about your visit to our website (see Cookie policy, below).
 
 Any personal information you provide via the Site may be used for the purposes outlined below. We may disclose this information to other companies in the Emphasis group and their subcontractors in connection with these purposes, but it will not be processed for other purposes or disclosed to other third parties without your express permission.
 
@@ -115,4 +115,4 @@ You can usually switch cookies off by adjusting your browser settings to stop it
 
 Please be aware though that turning off cookies will impair the performance of many websites.
 
-Cookie policy and audit created with the help of Attacat Internet Marketing http://www.attacat.co.uk/. If you would like more information, please [contact us](https://web.archive.org/web/20150316230433id_/http://www.writing-skills.com/contact/).
+Cookie policy and audit created with the help of Attacat Internet Marketing http://www.attacat.co.uk/. If you would like more information, please [contact us](https://web.archive.org/web/20170606103918id_/http%3A//contact/).
