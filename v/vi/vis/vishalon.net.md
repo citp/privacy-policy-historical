@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vishalon.net privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104011658id_/http%3A//www.vishalon.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vishalon.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141303id_/http%3A//www.vishalon.net/privacy) for the most accurate reproduction.*
 
 # Explore Vishal Monpara's cyber home
 
@@ -44,4 +44,4 @@ Vishal Monpara will occasionally update this Statement of Privacy to reflect com
 
 Contact Information
 
-Vishal Monpara welcomes your comments regarding this Statement of Privacy. If you believe that Vishal Monpara has not adhered to this Statement, please contact Vishal Monpara at [info@vishalon.net](mailto:info@vishalon.net). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Vishal Monpara welcomes your comments regarding this Statement of Privacy. If you believe that Vishal Monpara has not adhered to this Statement, please contact Vishal Monpara at [info@vishalon.net](mailto:info@vishalon.net). We will use commercially reasonable efforts to promptly determine and remedy the problem.
