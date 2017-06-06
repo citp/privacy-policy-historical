@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbonamassa.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924012005id_/https%3A//jbonamassa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbonamassa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164018id_/https%3A//jbonamassa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joe Bonamassa
 
