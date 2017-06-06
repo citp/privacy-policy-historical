@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favequilts.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122181111id_/http%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favequilts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181905id_/https%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FaveQuilts.com
 
@@ -75,7 +75,7 @@ Our website technology may pre-select certain offers for you to view based on th
 **Upsell**  
 We utilize customized post transactional or "upsell" technology to help advertisers generate sales, while providing you with a series of great offers we think may be of interest to you. The way it works is simple: once you purchase a product or service from one of our reward advertisers, you will be offered additional products or services that we think may be of interest to you. If you elect to purchase products or services from an advertiser in the post transactional channel, we will pass the information that you provided during the initial transaction to the subsequent advertiser, including but not limited to your credit card information. This information pass is done to enhance and simplify your purchasing experience. Your information will only be passed to an advertiser in the post transactional channel after you have elected to purchase their product or service. By electing to purchase their product or service you consent to the passing of your data to the third party advertiser in question.
 
-**Customer Service and Fulfillment**  
+ **Customer Service and Fulfillment**  
 We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence.
 
 **Credit Card Preauthorization**  
