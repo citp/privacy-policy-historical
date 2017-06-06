@@ -1,79 +1,111 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227134201id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230819id_/http%3A//www.metropolismag.com/about-metropolis/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Metropolis Magazine
+# Privacy Policy - Metropolis
 
-Bellerophon Publications, Inc., is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  
+This is the privacy policy (“Privacy Policy”) for the metropolismag.com website (the “Site”). The Site is made available by Bellerophon Publications, Inc.(the “Site Proprietor” or “we” or “us”). This Privacy Policy sets forth our policies regarding the collection, use, and disclosure of certain information relating to you and your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy.
 
+This Privacy Policy is incorporated into, and part of, the [Terms of Use](http://www.metropolismag.com/terms-of-use/), which govern your use of the Site in general.
 
-**Subscription**  
-We request information from the user on our subscription order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Our subscriber list is sometimes rented to direct-response mailers. If you would prefer that you only be contacted about _Metropolis_ -related billing and processing matters, please let us know by writing to us at _Metropolis_ Magazine, PO Box 3106, Langhorne, PA 19047-9899 or by calling us at (800) 344-3046.  
+This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Site, such as by phone, through postal mail and through other live or print media.
 
+**Age Requirement for Use of Site:** This Site is not intended for use by persons under the age of 18 years old. You must be 18 years old or older to provide any personal information to the Site, or to us through the Site.
 
-**Events & Conferences**  
-We request information from the user on our events & conference registration forms. A user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes. If we have trouble processing an order, this contact information is used to get in touch with the user.  
+**Domicile Requirement for Use of the Site:** You represent and warrant that you are domiciled in the United States. This Privacy Policy shall be interpreted under the laws of the United States.
 
+## Collecting Information:
 
-**Cookies**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.  
+**Personally Identifiable Information**
 
+This Site may request and collect certain personally identifiable information (”Personal Information”) from our users. “Personal Information” includes, for example, your name, mailing address, email address, telephone, wireless and/or fax number, other wireless device address, credit/debit card and other payment information, and other contact information and medical information through various means such as Site registration, magazine subscriptions, subscription renewals and account maintenance, e-newsletter subscriptions, product orders, medicine tracking tools, sweepstakes and contest entries (if any), surveys and other online forms, questions, comments and communications to the Site, including but not limited to a “contact us” or similar feature on our Site, as well as through our blog(s), and through contributions to a chat room, bulletin board, or other open forum area of the Site. We may also obtain Personal Information about you from other sources, such as third parties.
 
-Some of our business partners use cookies on our site (for example, advertisers and ad serving and reporting companies). However, we have no access to or control over these cookies of the information they collect.  
+**Non-Personally Identifiable Information**
 
+We may also collect certain non-personally identifiable information via the Site, such as Site usage activity and preferences, as well as demographic or profile data.
 
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad anonymous demographic information for aggregate use. IP addresses are not linked to personally identifiable information.  
+**Site Technology and website Usage Information**
 
+**Cookies**
 
-**Sharing**  
-We will share anonymous aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We reserve the right to transfer all information to our successors in business in connection with a transfer of our stock or assets or a new joint venture.  
+As with many websites, we may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a web server and stored on your computer’s hard drive. Cookies track where you travel on our Site and what you look at and purchase. They may store the information in your shopping cart, and/or your username and/or password. A cookie may enable us to relate your use of our Site to other information about you, including your Personal Information. All of these purposes serve to improve and personalize your experience on our Site.
 
+Most web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact, the display or function of the Site or certain areas or features of the Site.
 
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies enter into contracts with us which provide that they do not retain, share, store or use personally identifiable information for any secondary purposes.  
+**Clear GIFs**
 
+We also may use “clear GIFs” (aka, web bugs, email bugs, “web beacons” or “pixel tags”) in the Site and/or in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an email or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual’s viewing or receipt of a web page or message. A clear GIF may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personal Information.
 
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed under their contract with us to use personally identifiable information except for the purpose of providing these services.  
+**IP Address and Clickstream Data**
 
+Our server may automatically collect data about your server’s Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that’s automatically assigned to your computer by your Internet service provider whenever you’re on the Internet. When you request pages from our Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on this Site; the website you visit after this Site; the ads you see and/or click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Site or a referral site; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our server, administer our Site, and identify our users. We may also use such technologies to remember user preferences or minimize the need for you to re-enter information. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider. We may also link this information with your Personal Information.
 
-**Links**  
-This web site contains links to other sites. Please be aware that Metropolis is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this Web site.  
+Any or all of these activities with regard to website Usage Information may be performed on our behalf by our service providers.
 
+Third parties (including, but not limited to, software vendors, advertisers, content providers, and fulfillment companies) may also use certain “tracking” technologies by or through the Site. We have no control over what information such third parties track or collect, and we have no responsibility or liability for any tracking, data collection, or other activities of such third parties.
 
-**Talk2us**  
-If a user elects to email information to our Talk2Us pages, we reserve the right to use this information on the site. We also reserve the right to edit this information for appropriate content, correct spelling and syntax, and for the sake of brevity. If the user’s phone number, or email address is included, he may be contacted by an editor if that editor has questions regarding the content of his message. Otherwise, that user’s information will be kept confidential. Any responses to his message will be funneled through MetropolisMag.com.  
+## Usage and Sharing:
 
+We may use Personal Information collected on and through this Site for a variety of purposes in the course of our business and as otherwise set forth herein. For example, such information may be used to process your requests and orders, respond to your requests and inquiries, or to send you information about our and our business partners’ products and services and other information and materials that may be of interest to you. This information may also be used for internal record keeping, or to evaluate what portions of the Site are more popular than others, determine where visitors came from, where they go, and how long they stay on a particular page or the Site in general. We may match information collected from you through different means or at different times, including both Personal Information and website Usage Information, and use such information along with information obtained from other sources, including third parties.
 
-**Email to a Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Metropolis will automatically send the friend a one-time email inviting them to visit the site. Metropolis stores this information for the sole purpose of sending this one-time email. The friend may contact us at [webmaster@metropolismag.com](mailto:webmaster@metropolismag.com) to request the removal of this information from their database. Otherwise the information may be retained for the purpose of improving or further personalizing the site.  
+We may analyze user behavior as a measure of interest in, and use of, our Site and emails, both on an individual basis and in the aggregate. We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Site and emails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
 
+When you contribute to a public area or feature of our Site, such as our blog(s), or a chat room, bulletin board, list serve, wiki, or other open forum that we may make available on or through our Site, the information that you submit will be made available to other users, and sometimes to the general public. For this reason, we recommend that you do not submit any sensitive information, including your full name, home address, phone number, other information that would enable other users to locate you, or financial or medical information on these areas of our Site. Instead, make up a username that does not disclose your personal identity.
 
-**Email Registration**  
-Our email registration form is strictly optional. During registration, users are asked to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide unique identifiers, but encouraged so we can provide a more personalized experience on our site.  
+We may share this information with others, such as our affiliates, advertisers, third party service providers (such as website or database hosting companies, address list hosting companies, email service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf) for or through the Site and other business partners, and such third parties may use such information, among other purposes, to contact you.
 
+We may transfer, sell, or assign such information to third parties as a result of a sale, merger, consolidation, change in control, transfer of assets, reorganization, or liquidation. We also reserve the right to disclose any information concerning you to government authorities, and to other third parties when compelled to do so by government authorities, if required by law, including but not limited to in response to court orders and subpoenas, or to protect or defend our rights or the rights or well-being of our users or if you are involved (or are reasonably suspected to be involved) in any illegal activity, even without a subpoena, warrant, or court order.
 
-**Security**  
-This web site takes industry standard precautions to protect our users’ information. When users submit sensitive information via the web site, your information is protected both online and off-line.   
+We may provide visitors an opportunity to receive offers from other entities (aside from the Site Proprietor) who have services, products, and offers that we think might be of interest to you. Unless you elect not to receive such offers by following the instructions in the Right to Opt Out section below, we may from time to time provide your Personal Information to these entities so that they may send you these offers. If you change your mind and no longer want us to share your Personal Information with these types of third parties, follow the instructions to opt-out in the Right to Opt Out section below.
 
+Some of our contests, sweepstakes, and other offerings may be co-sponsored by another company. In those situations, the information we obtain from you in connection with such contest, sweepstakes, or offering may be shared with our co-sponsor, unless you instruct us not to by following the instructions in the Right to Opt Out section below. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. We are not responsible for how our co-sponsors may use your information.
 
-While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’  
+We may use third-party advertising companies to serve ads when you visit our Site. These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear gifs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or email message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your Personal Information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer website at [http://www.networkadvertising.org/consumer/](http://www.networkadvertising.org/consumer/).
 
+## Wireless Addresses:
 
-We also take commercially reasonable measures to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.    
+If the email address you provide to us is a wireless email address, you may not receive the correspondence you signed up for. If you find this to have occurred, please try to sign up again with a non-wireless email address.
 
+## Right to Opt-Out:
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
+You have the right to “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Site, you may have the opportunity to elect to, or not to: (1) receive promotional or marketing material from us in the future, or (2) have your Personal Information disclosed to or shared with third parties in the future. You may also make these requests by clicking here. (If you use more than one email address, please fill out the form separately for each address. You will need to re-enter the other required information as well.) You may also opt-out of our promotional emails by clicking on an opt-out link within the email you receive.
 
+However, please understand that your option not to receive promotional and marketing material: (a) shall not preclude us from corresponding with you, by email or otherwise, regarding your existing or past relationship with us (e.g., your magazine subscription, the status of your orders, or our responses to questions or inquiries you pose to us), and (b) shall not preclude us, including our employees, contractors, agents, and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Site. Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly.
 
-**Metropolis**  
-61 W. 23rd St.  
-New York, NY 10010  
-212-627-9977; 212-627-9988 (fax)  
-[talk2us@metropolismag.com](mailto:talk2us@metropolismag.com)  
+## Posting Information on or Through the Site:
 
+You are solely responsible for the information and other content you submit to, or post on or through, the Site, including without limitation to our blog(s). You understand that personal and other information (e.g., user name, email address, phone number) that you post on or through the Site (e.g., blog[s], chat rooms, bulletin boards) as well as your general communications with the Site are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the Site are encouraged to exercise caution when providing personal information about themselves.
 
-USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY POLICY
+You may be able to send information about our products and services to your friends and family members through our Site, by clicking on a “Refer a Friend” or similar button on the Site, or in an email that we have sent you, or otherwise. In some of these cases (unless you simply forward our email on your own), you may provide the name and email address of your friend or family member to us. In the event that you do submit personal information regarding a friend or family member to us, such information will be treated in accordance with this Privacy Policy and applicable law. You hereby warrant and represent that such third party has consented to your doing so, for use in accordance with this Privacy Policy and applicable law.
 
-[](http://www.addthis.com/bookmark.php?v=250&pub=metshare)
+## Security:
 
-  
+Due to the open nature of the Internet, we cannot guarantee that any information stored on our servers, or transmitted to or from a user, will be free from unauthorized access or intrusion by others, such as hackers. By using the Site, you acknowledge that you understand and agree to assume these risks.
 
+If you contact us by email, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit.
+
+You may be able to create an account on our Site with a username and password. If so, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee or agent. You agree to (a) immediately notify us of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify us when you desire to cancel your account on this Site. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.
+
+We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. **You consent to our use of email as a means of such notification. If you prefer for us to use another method to notify you in this situation, please email us at**[ **webmaster@metropolismag.com**](mailto:webmaster@metropolismag.com) **with the alternative contact information you wish to be used.**
+
+## Phishing:
+
+With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send email messages to consumers, purporting to represent a legitimate company such as a bank or online merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the email address from which the email appears to have been sent, and the domain name of the website requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information is received by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as “phishing.”
+
+If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a website that does not seem to be affiliated with our Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at webmaster@diabetesselfmanagement.com.
+
+## Consent to Processing:
+
+By providing any personal information to this Site, you fully understand and unambiguously consent to the transfer of such personal information to, and the collection and processing of such personal information in, the United States and other countries or territories.
+
+## Links:
+
+This Site may contain links or references to other websites outside of our control. Please be aware that we have no control over these sites, that these sites may collect Personal Information about you, and that our Privacy Policy does not apply to these sites.
+
+## Your Acceptance of this Policy:
+
+By using this Site, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time so visitors are encouraged to review this policy from time to time. We will notify users of this Site of such changes by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Site. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Site or sending you an email. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
+
+## Contact Us
+
+If you have any questions or comments regarding our privacy practices, you may contact us at [webmaster@metropolismag.com](mailto:webmaster@metropolismag.com). 
