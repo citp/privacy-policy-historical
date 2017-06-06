@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretmatureflirt.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213070244id_/http%3A//www.secretmatureflirt.com/privacy%3Fprid%3D44941%26p%3D362232%26nas%3D%26pi%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretmatureflirt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151959id_/http%3A//www.secretmatureflirt.com/privacy%3Fprid%3D44941%26p%3D362232%26nas%3D%26pi%3D) for the most accurate reproduction.*
 
 # Secret Mature Flirts and Sexcontacts
 
