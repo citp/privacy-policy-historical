@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsellco.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407220321id_/http%3A//www.xsellco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsellco.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182030id_/https%3A//www.xsellco.com/privacy) for the most accurate reproduction.*
 
 # XSellco Privacy and Cookies Policy | XSellco
 
@@ -52,7 +52,7 @@ XSellco also uses web analytics services, which currently include Google Analyti
 
 Google Analytics is a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies and similar technologies to analyse how users use the Site. The information generated about Site usage (including your shortened IP address) is transmitted to Google. This information is used to evaluate visitors’ use of the Site, compile statistical reports on Site activity, and provide other services related to the Site and internet use. Google may also collect information about Site visitors’ use of other websites. For more information about Google Analytics, or to opt out of Google Analytics, please go to <https://tools.google.com/dlpage/gaoptout>
 
-XSellco uses Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to our Site. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or permanently using a browser plugin.
+XSellco uses Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to our Site. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](https://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](https://www.google.com/settings/ads/onweb/) or permanently using a browser plugin.
 
 ## Cookies
 
@@ -67,7 +67,7 @@ We use cookies to:
 
 
 
-Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. Please note, however, that by blocking or deleting cookies used on the Site, you may not be able to take full advantage of the Site.
+Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting <https://en.wikipedia.org/wiki/HTTP_cookie> which includes additional useful information on cookies and how to block cookies using different types of browser. Please note, however, that by blocking or deleting cookies used on the Site, you may not be able to take full advantage of the Site.
 
 Cookies used by XSellco can be largely categorised as follows:
 
@@ -134,9 +134,8 @@ Please submit any questions, concerns or comments you have about this privacy po
 
 Chief Financial Officer  
 XSellco Software Limited  
-21 Clanwilliam Square  
-Grand Canal Quay  
-Dublin 2  
+15 - 17 Percy Place  
+Dublin 4  
 Ireland  
 
 
