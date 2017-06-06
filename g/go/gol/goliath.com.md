@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goliath.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033858id_/http%3A//www.goliath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goliath.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145222id_/http%3A//www.goliath.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Goliath
+# Privacy Policy – Goliath
 
 At Goliath.com, the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
