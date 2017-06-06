@@ -1,59 +1,95 @@
-> *The following text is extracted and transformed from the rayedwards.com privacy policy that was archived on 2007-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070226093306id_/http%3A//www.webcopywritingexplained.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayedwards.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171908id_/http%3A//rayedwards.com/privacy) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy | Ray Edwards
 
-PRIVACY POLICY  
+PRIVACY POLICY
 
+Last Revised: March 8, 2017
 
-  
-Last Updated: January 1, 2007
+Thank you for visiting an Ray Edwards International, Inc. web site, including rayedwards.com, writecopythatsells.com, or rayedwardspodcast.com, or any of our other web properties. You arrived at this Privacy Policy from one of the above sites, referred to herein as “this web site”.
 
-WebCopyWritingExplained.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
+This Privacy Policy is subject to change by Ray Edwards International, Inc. (hereinafter “Company”) at any time and at our discretion without notice by updating this posting.
 
-How we gather information from users
+We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at our web sites.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, WebCopyWritingExplained.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+Please read this Privacy Policy before using this web site or submitting any personal information. California residents, please also see the “Note To California Residents” Section for additional rights that apply to you.
 
-What we do with the information we collect
+By using this web site, you accept the privacy practices contained in this Privacy Policy. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+We take Children’s Privacy very seriously. Our Terms & Conditions only allow this web site to be accessed by persons eighteen (18) years or older. Due to the age restrictions of this web site, none of the information obtained by this web site falls within the Child Online Privacy Act (COPA). However, if your minor child has provided us with personally identifiable information, you may contact us at the phone number or mailing address listed in Section 8 herein if you want this information deleted from our records. We will then make reasonable efforts to remove your child’s information from the database that stores the information.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+Information We Collect
 
-We may use Personally Identifiable Information collected on WebCopyWritingExplained.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by WebCopyWritingExplained.com and other topics we think you might find of interest. 
+A. Personally Identifiable Information  
+In order to serve our customers, we collect personally identifiable information, like names, addresses, phone numbers, email addresses, and sometimes credit card information when such information is voluntarily submitted by our visitors. We will only use your personal information for the following purposes: (1) to deliver the products and/or services to you that you have requested; (2) to validate your compliance with the terms and conditions; (3) for content improvement and feedback purposes; (4) to reach you, when necessary, regarding your use of the web site or product(s), and (5) for the few situations described below to better serve you.
 
-Personally Identifiable Information collected by WebCopyWritingExplained.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+We will NEVER share your personally identifiable information with third parties unless you have given us explicit permission to do so, such as in order to fulfill a third party offer that you have accepted from us. By permitting us to collect this information, you will be able to receive information on other products and services that may be of interest to you, including related third party offers that we may send to you. You also enable us to personalize your experience with us so that we can provide you with the highest quality of service. We may also use this information to contact you about joint venture opportunities if it appears that you would be a suitable joint venture partner.
 
-Affiliated sites, linked sites and advertisements
+By submitting your email address on this web site, you agree to receive email from us. You can cancel your participation in any of these email lists at any time by clicking the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails.
 
-WebCopyWritingExplained.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a WebCopyWritingExplained.com page, certain content that is actually created or hosted by a third party. Also, through WebCopyWritingExplained.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. WebCopyWritingExplained.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+By submitting your email address, you also agree to allow us to use your email address for custom audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. WebCopyWritingExplained.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local “do not call” regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of WebCopyWritingExplained.com and this policy.
+B. Non-Personally Identifiable Information  
+We also may collect various types of non-personally identifiable information to help us make your experience more enjoyable, measure site activity to identify future improvements that should be made, and compile aggregate data to help serve site visitors better. For example, we may use such data to tailor our advertisements, develop proper survey questions, improve our business, etc.
 
-Children
+As another example, we may use session and persistent “cookies,” session logs, web beacons, GIF/pixel tags, banner ads, third-party click tracking analytics tools (such as Google Analytics), third party retargeting networks that may display our advertisements to you on other sites that you visit to remind you about us, and third party networks that serve user-requested emails (e.g., for a refer-a-friend email) to collect non-personally identifiable or other aggregated information about site visitors.
 
-WebCopyWritingExplained.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe WebCopyWritingExplained.com has any information from or about anyone under 13, please contact us at the address listed below.
+Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site. Third party retargeting networks may also use cookies to display our advertisements to you on other sites. You can opt-out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.
 
-Contacting Us.
+Emails or newsletters that we send electronically may use techniques such as web beacons or pixel tags to gather email metrics and information to improve the reader’s experience, such as the number of emails that are opened, whether they were forwarded or printed, the type of device from which they were opened, and the location (e.g. city, state, and county) associated with the applicable IP address.
 
-We can be reached by contacting:
+If you visit this site with an open ID (such as Facebook), you may also be sharing and integrating data with third-party social media sites, and we may track aggregate data about the number of visits to this site with an open ID, the number of items “liked” on this site, or items on this site that you choose to share with a third-party social media site.
 
-WebCopyWritingExplained.com
+Other parties such as advertising partners and analytics companies may also be collecting information about your online activity across various websites over time. The information collected by those third parties may include identifiers that allow those third parties to tailor the ads that they serve to your computer or other device.
 
-Email: support@webcopywritingexplained.com
+Because there is not yet a common understanding of how to interpret web browser-based “Do Not Track” signals other than cookies, we do not currently respond to “Do Not Track” signals that are undefined.
 
-Changes to this Policy
+Please note that you do have the option to configure most web browsers to NOT accept cookies. However, be aware that disabling cookies may keep you from having access to some functions or services on our web site or the web-hosted software that runs on our web site.
 
-WebCopyWritingExplained.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+Third Party Actions
 
-Governing law
+We do not control and are not liable for the actions of any third parties who we may promote and/or link to from this site. We pride ourselves in recommending quality companies, but have no control over the actions of those third parties, the content they provide, or their privacy practices. While we are not liable for any of the actions of those third parties, you should feel free to give us feedback from time to time on your experiences with any third parties to whom we work with so that we may enhance our future service to all customers.
 
-This policy and the use of this Site are governed by Washington law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Spokane, Washington, USA. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+Children’s Privacy
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Spokane, Washington, USA, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+We take Children’s Privacy very seriously. Due to the age restrictions of this web site, none of the information obtained by this web site falls within the Child Online Privacy Act (COPA) and we do not knowingly intend to collect personally identifiable information from children under 18 years of age. If your minor child has provided us with personally identifiable information, you may contact us at the phone number or mailing address listed in the section entitled “Contacting Us” if you want this information deleted from our records. We will then make reasonable efforts to remove your child’s information from the database that stores the information.
 
-WebCopyWritingExplained.com is controlled, operated and administered entirely within Washington. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+IP Addresses
 
-© 2007-2008 **Ray Edwards International, Inc.**
+We may use your IP address to help prevent fraud, to help diagnose problems with our server, to gather broad demographic information, and to offer you products and services.
+
+Commitment to Data Security
+
+All information collected from you is stored in a technically and physically secure environment. Furthermore, employees, contractors, and vendors who have access to your personally identifiable information in connection with providing services for us are required to keep the information confidential.
+
+We use SSL encryption to protect sensitive information online, and we do everything we can to protect user information offline. Unfortunately, no transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
+
+Contacting Us
+
+If you need to contact us, you can email us at support@rayedwards.com, call us at 509-624-2220, or send us a letter at: Ray Edwards International, Inc., 2910 E 57th Ave., Ste 5 PMB #330 Spokane, WA 99223
+
+We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
+
+Note To California Residents
+
+If you live in the State of California, under the California Civil Code, you have the right to request that companies who conduct business in California provide you with a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes.
+
+Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (often referred to as “unsubscribe”) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, that the company may instead provide you with information on how to exercise your disclosure choice options.
+
+This Site qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
+
+If you are a California resident and want to request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Please send an email to the Privacy Administrator at support@rayedwards.com, or you may contact us via regular mail at:
+
+Ray Edwards International, Inc.  
+Attention Ray Edwards  
+2910 E 57th Ave.  
+Ste 5 PMB #330  
+Spokane, WA 99223
+
+All requests sent via regular mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. Please include your zip code for our own recordkeeping.
+
+We do not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+
+© Ray Edwards International, Inc. 2006-2017
