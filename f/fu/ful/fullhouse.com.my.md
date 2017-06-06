@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fullhouse.com.my privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321014057id_/http%3A//propertyguru.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullhouse.com.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070212id_/http%3A//www.propertyguru.com.my/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PropertyGuru Malaysia
 
 **[English](http://www.propertyguru.com.my/privacy) | [Bahasa Malaysia](http://media.propertyguru.com.my/PrivacyPolicy_BM.html) version**  
   
@@ -105,7 +105,7 @@ We may amend this Privacy Policy at any time by posting a revised version on the
 
 9.2 All requests for information or requests for the amendment of information held by us shall be made by completing our standard Request for Information/Amendment of Information form (PDF available here at [http://www.propertyguru.com.my/privacy-request-form](http://media.propertyguru.com.my/pdf/Personal_Data_Request_Form_MY.pdf)), and sending a copy of the duly completed form to us via post or fax at:
 
- **PropertyGuru International (Malaysia) Sdn. Bhd.  
+**PropertyGuru International (Malaysia) Sdn. Bhd.  
 ** Level 3, Tower 3A, Avenue 3,  
 The Horizon, Bangsar South,  
 No. 8, Jalan Kerinchi,  
@@ -126,10 +126,10 @@ Fax Number:  (+603) 2279 7575
 
    • Request for information
 
-Item| Description| Fee  
+Item | Description | Fee  
 ---|---|---  
-1| Data access request for a data subject’s personal data with a copy of the personal data in an intelligible form| RM10  
-2| Data access request for a data subject’s personal data without a copy of the personal data in an intelligible form| RM2  
+1 | Data access request for a data subject’s personal data with a copy of the personal data in an intelligible form | RM10  
+2 | Data access request for a data subject’s personal data without a copy of the personal data in an intelligible form | RM2  
   
    • Request for amendment of personal information: RM 20 (including Malaysia's prevailing taxes)
 
