@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldlotteryclub.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231043108id_/https%3A//www.worldlotteryclub.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlotteryclub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183730id_/https%3A//www.worldlotteryclub.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | World Lottery Club
 
@@ -81,7 +81,7 @@ We and third parties on our behalf use information held about you in the followi
 
 We may also use your data to provide you with information about goods and services which may be of interest to you, and we may contact you about these by post, telephone or e-mail.   
 We may pass your data to selected third parties to allow such third parties to provide you with information about goods and services which may be of interest to you, and they may contact you about these by post, telephone or e-mail.   
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please telephone 0207 1000 200 (UK) or +44 207 1000 200 (outside UK) during office hours.
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please email support@wlcmail.com.
 
 ## DISCLOSURE OF YOUR INFORMATION
 
@@ -110,7 +110,7 @@ If you register with World Lottery Club or sign up for any of our newsletters or
 
 ## YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right by calling 0207 1000 200 (UK) or +44 207 1000 200 (outside UK) during office hours.  
+You have the right to ask us not to process your personal data for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right by emailing support@wlcmail.com.  
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 ## ACCESS TO INFORMATION
@@ -131,5 +131,4 @@ Douglas
 Isle of Man  
 IM1 1LD  
 British Isles  
-**Email:** support@wlcmail.com  
-**Phone:** 0208 099 70 70 (UK) or +44 (0) 208 099 70 70 (outside UK).
+**Email:** support@wlcmail.com
