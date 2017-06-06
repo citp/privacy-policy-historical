@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24kgame.com privacy policy that was archived on 2016-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160721034420id_/http%3A//www.24kgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24kgame.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093206id_/http%3A//www.24kgame.com/privacy) for the most accurate reproduction.*
 
 # 24kgame.com - Privacy Policy
 
