@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the legeeks.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113238id_/http%3A//www.legeeks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legeeks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075642id_/http%3A//www.legeeks.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Le Geeks
+# Privacy Policy - Le Geeks
 
 [LeGeeks.com](http://legeeks.org/ "Le Geeks") has a set of rules that you’ll have to follow,please do not violate it and read our policy before you use our information,If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at lg.legeeks@gmail.com.
 
