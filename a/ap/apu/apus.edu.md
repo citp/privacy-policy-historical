@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apus.edu privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103094811id_/http%3A//www.apus.edu/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apus.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123724id_/http%3A//www.apus.edu/privacy/index) for the most accurate reproduction.*
 
-# APUS Privacy Policy
+# Privacy Policy | American Public University System (APUS)
 
 _Date of Last Revision: November 2014_
 
@@ -48,7 +48,7 @@ Information you voluntarily submit to us is used to assist in providing informat
 
 Information may be shared with governmental and nongovernmental agencies that regulate our activities, including but not limited to the U.S. Department of Education, The Higher Learning Commission of the North Central Association of Colleges and Schools, agencies of the state of West Virginia, other state agencies, the U.S. Department of Veterans Affairs, other federal agencies, and/or the various military service branches.
 
-We may also provide personal information or information automatically collected as required to comply with a court-ordered subpoena or law enforcement investigation. We may also use or share personal information to prevent fraud, including the unauthorized use of our Online Services or violations of applicable policies and the [Terms of Use](http://apus.lamp.r2integrated.com/terms/).
+We may also provide personal information or information automatically collected as required to comply with a court-ordered subpoena or law enforcement investigation. We may also use or share personal information to prevent fraud, including the unauthorized use of our Online Services or violations of applicable policies and the [Terms of Use](http://www.apus.edu/terms/index).
 
 As described in the “Cookies and Automatically Collected Information” section above, information collected automatically is used for internal statistical purposes, to make improvements to our Online Services, and for other business-related reasons, such as marketing activities.
 
@@ -72,8 +72,8 @@ Our Online Services use Secure Sockets Layer (SSL) protocol for financial transa
 
 ## Non-U.S. Website Users
 
-By creating an account or logging-in to our Online Services from outside the United States, you will have agreed to the terms of this Privacy Policy and the [Terms of Use](http://apus.lamp.r2integrated.com/terms/). Your personal information and other information will be sent directly to the United States for processing where data protection and privacy regulations may be different than other parts of the world, such as the European Union, and which may not offer an equivalent level of protection to that in the European Union or certain other countries.
+By creating an account or logging-in to our Online Services from outside the United States, you will have agreed to the terms of this Privacy Policy and the [Terms of Use](http://www.apus.edu/terms/index). Your personal information and other information will be sent directly to the United States for processing where data protection and privacy regulations may be different than other parts of the world, such as the European Union, and which may not offer an equivalent level of protection to that in the European Union or certain other countries.
 
 ## Customer Service and how to Acquire Additional Information
 
-We are committed to providing every user -- including students, applicants, and other persons who contact us -- with prompt, high-quality support at all times. Email is the primary form of contact for users, including APUS students, and we encourage you to email us with questions, comments and concerns. You may also contact us by telephone. AMU and APU each have a [contact page](http://apus.lamp.r2integrated.com/contact-us/) listing essential email addresses, telephone numbers and fax numbers.
+We are committed to providing every user -- including students, applicants, and other persons who contact us -- with prompt, high-quality support at all times. Email is the primary form of contact for users, including APUS students, and we encourage you to email us with questions, comments and concerns. You may also contact us by telephone. AMU and APU each have a [contact page](http://www.apus.edu/about/contact/index) listing essential email addresses, telephone numbers and fax numbers.
