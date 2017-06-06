@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cultizm.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119090040id_/http%3A//www.cultizm.com/shop_content.php%3FcoID%3D35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultizm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204313id_/http%3A//www.cultizm.com/shop_content.php%3FcoID%3D35) for the most accurate reproduction.*
 
-# RAW Denim, Shoes and Accessories Online · CULTIZM Online-Shop - Privacy policy
+# CULTIZM - RAW DENIM. BEST BRANDS. - Privacy policy
 
 Personal information are processed by us according to the statutory provisions. Information about yourself, such as name, address, email address, telephone number, bank account, credit card number will only be used for contract performance.   
 You have the right to obtain information about your stored personnel data. If you have any questions or comments write us an email to info@cultizm.com
