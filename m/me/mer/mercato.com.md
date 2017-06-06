@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mercato.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229003417id_/http%3A//www.mercato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercato.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174732id_/https%3A//www.mercato.com/privacy) for the most accurate reproduction.*
 
 # Mercato - Privacy policy
 
-### Last Updated: 9/1/2015
+### Last Updated: 1/6/2015
 
-This Privacy Policy explains how information about you is collected, used and disclosed by Grocery Marketplace, Inc. ("Mercato," "we," "us" or "our"). This Privacy Policy applies to information we collect when you access or use our websites (collectively, "Sites") or when you otherwise interact with us.
+This Privacy Policy explains how information about you is collected, used and disclosed by Mercato, Inc. ("Mercato," "we," "us" or "our"). This Privacy Policy applies to information we collect when you access or use our websites (collectively, "Sites") or when you otherwise interact with us.
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the "Last Updated" date at the top of this policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our website or by sending you a notification). We encourage you to review our Privacy Policy whenever you access the Sites, or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
