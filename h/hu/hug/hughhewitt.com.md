@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the hughhewitt.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111091356id_/http%3A//www.hughhewitt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hughhewitt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164543id_/http%3A//www.hughhewitt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Hugh Hewitt Show
+
+[
+
+Hugh Hewitt Book Club 
+
+](http://www.hughhewitt.com/hugh-hewitt-book-club/)
+
+## Privacy Policy
 
 _Effective and Last Modified: January 31, 2015_
 
@@ -112,5 +120,45 @@ Parents can give written parental consent for their child to use Salem Websites,
   * **European Union and Other Foreign Nations.** This Salem Website is governed by and operated in accordance with the laws of the United States of America and is intended for enjoyment of residents of the United States. Salem makes no representation that this Website is governed by or operated in accordance with the laws of other nations. By using this Website and submitting Your Information, visitors from outside of the United States acknowledge that this Website is subject to U.S. law, consent to the transfer of personal data to the U.S. and waive any claims that may arise under their own national laws.
   * **In Summary.** We understand your privacy is important to you. Accordingly, we do not sell, trade, or rent Your Information to others subject to the provisions listed above. Please note, however, that Salem may use Your Information and may disclose it to select third-party vendors as described in the above provisions. If you never want to receive any announcements or special offers from us, please contact us by clicking the “Contact Us” link on our Website. Remember to list each of the email accounts you have given us.
   * **Your Consent and Changes to this Policy.** By using our Website, you consent to the collection and use of Your Information by Salem as set forth in this Privacy Policy. Additionally, your visit and any dispute over privacy are subject to this Privacy Policy and the Terms of Use applicable to this Website. Salem may at any time amend, modify, restate, or revise this Privacy Policy by updating this posting and you should therefore periodically visit this page to view the then current Privacy Policy that is in effect. If we make any material changes, we will revise the “Effective and Last Modified” date at the top of the Privacy Policy. Your continued use of this Website constitutes your agreement to this Privacy Policy and any updates. 
+
+
+
+#### 
+
+Listen Commerical FREE  |  On-Demand
+
+[Login](https://www.hughniverse.com/member/login.php?utm_source=hewitt-website&utm_campaign=login-link&utm_medium=sidebar-box) [Join](https://www.hughniverse.com/member/signup/?utm_source=hewitt-website&utm_campaign=join-link&utm_medium=sidebar-box)
+
+[ ](http://send.salemnational.com/trump-bday/hewitt/)
+
+[ ](https://ad.doubleclick.net/ddm/clk/322939647;152429730;n)
+
+Advertisement
+
+[ ](http://www.8888881172.com/)
+
+Advertisement
+
+[](http://m.washingtonspeakers.com/speakers/speaker.cfm?SpeakerID=23113&CFID=55398521&CFTOKEN=51860166)
+
+Friends and Allies of Rome 
+
+  * [Dennis Prager](http://www.dennisprager.com/)
+  * [Mike Gallagher](http://www.mikeonline.com/)
+  * [Michael Medved](http://www.michaelmedved.com/)
+  * [The Campaign Spot](http://www.nationalreview.com/campaign-spot)
+  * [The Corner](http://www.nationalreview.com/corner)
+  * [Fraters Libertas](http://www.fraterslibertas.com/)
+  * [Guy Benson](http://townhall.com/tipsheet/GuyBenson)
+  * [Hot Air](http://hotair.com/)
+  * [Instapundit](http://pajamasmedia.com/instapundit/)
+  * [John Hanlon Reviews: Latest Movie Reviews](http://www.johnhanlonreviews.com/)
+  * [Lileks](http://lileks.com/bleats/archive/)
+  * [Mark Steyn](http://www.steynonline.com/)
+  * [Power Line](http://www.powerlineblog.com/)
+  * [Shot In The Dark](http://www.shotinthedark.info/)
+  * [What the Prayer Really Says](http://wdtprs.com/blog/)
+  * [GregLhamon.com](http://greglhamon.com/)
+  * [GetFoundFast.com](https://getfoundfast.com/)
 
 
