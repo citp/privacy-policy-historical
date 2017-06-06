@@ -1,18 +1,20 @@
-<!--The following is the downloaded HTML source of the footlive.com privacy policy that was archived on 2016-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127120353id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footlive.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606125610id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="UTF-8">
     <title>Privacy Policy - Footlive.com</title>
+	
+	<meta name="robots" content="noindex,follow">
     <meta name="description" content="Privacy Policy - Footlive.com.">
-
-		<meta property="og:site_name" content="footlive.com">
+		
+			<meta property="og:site_name" content="footlive.com">
     <meta property="og:url" content="http://www.footlive.com/privacy-policy/">
     <meta property="og:title" content="Privacy Policy - Footlive.com">
         <meta property="og:description" content="Privacy Policy - Footlive.com.">
     	
     <link rel="stylesheet" href="/css/reset.css?v1">
-    <link rel="stylesheet" href="/css/style19.css">
+    <link rel="stylesheet" href="/css/style21.css">
     <link rel="stylesheet" href="/css/flags.css">
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
@@ -32,7 +34,7 @@
 	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 	
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>	
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>	
     <script type="text/javascript" src="/js/cookie.js"></script>
     <script type="text/javascript" src="/js/jplayer.js"></script>
     <script type="text/javascript" src="/js/pikaday.js"></script>
@@ -51,8 +53,8 @@
     var update={},game={},comp={},order=[],currentDate,addMinutes,api_error=0;
 	var myIP=false;
 	
-    var currentTime=1480248234000;
-var currentMessage="33f79b49587052a5e853db3c7e3c9b5d8b47b88b";var cetDifference=60;
+    var currentTime=1496753772000;
+var currentMessage="ef85b59d03e5fd2f40784a6cd5ad690d5a3ddad9";var cetDifference=120;
 var rootDir="/";
     
 	var timeZone=60;//+gmt minutes    
@@ -72,7 +74,7 @@ var rootDir="/";
 		"AET":"After ET",		//fin
 		"11M":"Penalties",		//live
 		"Canc":"Canceled",
-		"Pen":"After Pen",		//fin
+		"Pen":"After Pen.",		//fin
 		"Pst":"Postponed",
 		"Ssp":"Suspended",
 		"Susp":"Suspended",
@@ -104,7 +106,7 @@ var rootDir="/";
   
     function isDate(s)
     {
-		var sP=s.split("_");
+				var sP=s.split("_");
 		if(sP.length==2 && sP[0]=="dt"){
 			var dateP=sP[1].split("-");
 			if(dateP.length==3){
@@ -129,7 +131,7 @@ var rootDir="/";
 	var dateFormat={"0":"00","1":"01","2":"02","3":"03","4":"04","5":"05","6":"06","7":"07","8":"08","9":"09","10":"10","11":"11","12":"12","13":"13","14":"14","15":"15","16":"16","17":"17","18":"18","19":"19","20":"20","21":"21","22":"22","23":"23","24":"24","25":"25","26":"26","27":"27","28":"28","29":"29","30":"30","31":"31","32":"32","33":"33","34":"34","35":"35","36":"36","37":"37","38":"38","39":"39","40":"40","41":"41","42":"42","43":"43","44":"44","45":"45","46":"46","47":"47","48":"48","49":"49","50":"50","51":"51","52":"52","53":"53","54":"54","55":"55","56":"56","57":"57","58":"58","59":"59","60":"60"};
 	function buildGame(id)
 	{
-		  
+
 				
 		var str="";
 		str+="<table class='live' cellspacing=0 cellpadding=0><tr>";
@@ -223,20 +225,20 @@ var rootDir="/";
 
     function openStandings(id)
     {
-    	var popup=window.open(rootDir+"standings.php?id="+id,"popup","width=528,height=500,left=100,top=40,menubar=0,status=0,titlebar=0,toolbar=0,resizable=0");
-	popup.focus();
+		    	var popup=window.open(rootDir+"standings.php?id="+id,"popup","width=528,height=500,left=100,top=40,menubar=0,status=0,titlebar=0,toolbar=0,resizable=0");
+		popup.focus();
     }
     function openPopupOfGame(id)
     {
-    	var popup=window.open(rootDir+"popup.php?id="+id,"popup","width=618,height=600,left=100,top=40,menubar=0,status=0,titlebar=0,toolbar=0,resizable=0");
-	popup.focus();
+		    	var popup=window.open(rootDir+"popup.php?id="+id,"popup","width=618,height=600,left=100,top=40,menubar=0,status=0,titlebar=0,toolbar=0,resizable=0");
+		popup.focus();
     }
     var gameIsSelected={};
     
     
     function starClicked(gameId)
     {
-    	if(gameIsSelected[gameId]===1){
+		    	if(gameIsSelected[gameId]===1){
     		$("#star_"+gameId).html("<div class='starButton'></div>");
     		gameIsSelected[gameId]=0;
     		numberOfSelectedGames-=1;
@@ -255,7 +257,7 @@ var rootDir="/";
     var storaket=[",",""];
     function saveStarredGamesOnACookie()
     {
-    	var cookieStr="",isF=1;
+		    	var cookieStr="",isF=1;
     	$.each(gameIsSelected,function(gmId,isSelected){
 			if(isSelected===1){
 				cookieStr+=storaket[isF]+gmId;
@@ -268,7 +270,7 @@ var rootDir="/";
     }
    function loadStarredGamesFromACookie()
     {
-		numberOfSelectedGames=0;
+				numberOfSelectedGames=0;
 		var selList=$.cookie('selectedGames');
 		if(selList!=null)
 		{
@@ -286,7 +288,7 @@ var rootDir="/";
     }
 	function isset(variable)
     {
-    	return (typeof(variable) != "undefined" && variable !== null);
+		    	return (typeof(variable) != "undefined" && variable !== null);
     }   
     
     	
@@ -304,7 +306,7 @@ var rootDir="/";
 	var blinker="#ff0000";
 	function blink()
 	{
-		if(blinker=="#ff0000")
+				if(blinker=="#ff0000")
 			blinker="#fefefe";
 		else
 			blinker="#ff0000";
@@ -312,7 +314,7 @@ var rootDir="/";
 	}
 	
 	function minutePlusPlus(){
-
+		
 		for(var i=0;i<order.length;i++){
 
 			if(game[order[i]]["status"]=="1T"){
@@ -338,7 +340,7 @@ var rootDir="/";
 	
 
 	function processPopup(){
-		var utcDate=$("#popup").data("date");
+				var utcDate=$("#popup").data("date");
 		var gameId=parseInt($("#popup").data("id"));
 		var newDate=new Date(((window.addMinutesToTime*60)+parseInt(utcDate))*1000);
 		var newDateStr=dateFormat[newDate.getDate()]+"."+dateFormat[newDate.getMonth()+1]+"."+newDate.getFullYear();
@@ -444,7 +446,7 @@ var rootDir="/";
  
     function showNetworkError()
     {
-		$("#container").html("<div class='networkError'>Network Error: Please Refresh.</div>")
+				$("#container").html("<div class='networkError'>Network Error: Please Refresh.</div>")
     }   
     
 	var numberOfConsecutiveUpdateErrors=0;//in case of >= 6 show network error
@@ -538,7 +540,7 @@ var rootDir="/";
     
 	function dateFormatted(dt)
 	{
-		var date=dt.split("-");
+				var date=dt.split("-");
 		date[0]=parseInt(date[0]);
 		date[1]=parseInt(date[1]-1);
 		date[2]=parseInt(date[2]);
@@ -547,7 +549,7 @@ var rootDir="/";
 	}
     
     function compStarClicked(compId){
-    	var boomboom=[];
+		    	var boomboom=[];
     	var hashvich=0;
     	
     	
@@ -580,23 +582,19 @@ var rootDir="/";
 		}
     }
     
-    
-    
-    function checkboxClicked(id)
+	    function checkboxClicked(id)
     {
-    	
-    	
-    	if($("#compCheckbox_"+id).is(':checked')){
+		    	if($("#compCheckbox_"+id).is(':checked')){
 			showCompetition(id);
      	}
      	else{
 			hideCompetition(id);
      	}
     }
-    
+	    
     function hideCompetition(id)
     {
-		var x=0;
+				var x=0;
     	competitionIsShown[id]=0;
     	for(var i=0; i<order.length; i++){
     		if(game[order[i]]["comp_id"]==id){
@@ -614,11 +612,10 @@ var rootDir="/";
 
 		$(".compBoxDateView_"+id).hide();
     }
-    
-    
+ 	   
     function showCompetition(id)
     {
-    	var isCountryView=false;
+		    	var isCountryView=false;
 		if(selectedDate && selectedDate.substring(0,7)=="country")
 			isCountryView=true;
 
@@ -635,7 +632,7 @@ var rootDir="/";
     			}
 			$("#compName_"+id).show();
 		}
-    		else if(activeFilter===0){
+    	else if(activeFilter===0){
     			turnOffFilter();
 		}
 		else if(activeFilter==="livenow"){
@@ -650,21 +647,17 @@ var rootDir="/";
 		else if(activeFilter==="mygames"){
 			myGamesFilter();
 		}
-
-
-
     }	
 	
    
-	
-	function liveGamesFilter(){
+		function liveGamesFilter(){
     	var previousCompId=0;
     	var hashvich=0;
     	var hasAtLeastOneLiveGame=0;
 		for(var i=0;i<order.length;i++){
 
 
-			if(game[order[i]]["comp_id"]!=previousCompId){				//arachnutyune poxvec
+			if(game[order[i]]["comp_id"]!=previousCompId){
 				if(hashvich==0 && previousCompId!=0){	
 						$("#compName_"+previousCompId).hide();
 				}
@@ -704,9 +697,8 @@ var rootDir="/";
 		}
 	} 
 	
-	
-	function finishedGamesFilter(){
-		var previousCompId=0;
+		function finishedGamesFilter(){
+				var previousCompId=0;
     	var hashvich=0;
     	var hasAtLeastOneFinishedGame=0;
 		for(var i=0;i<order.length;i++){
@@ -750,9 +742,8 @@ var rootDir="/";
 
 	}
 	
-	
-	function notStartedGamesFilter(){
-		var previousCompId=0;
+		function notStartedGamesFilter(){
+				var previousCompId=0;
     	var hashvich=0;
     	var hasAtLeastOneNotStartedGame=0;
 		for(var i=0;i<order.length;i++){
@@ -795,11 +786,8 @@ var rootDir="/";
 
 	}
 
-	
-	
-	
-	function myGamesFilter(){
-		var previousCompId=0;
+		function myGamesFilter(){
+				var previousCompId=0;
 		var hashvich=0;
 		for(var i=0;i<order.length;i++){
 			if(game[order[i]]["comp_id"]!=previousCompId){				//arajnutyune poxvec
@@ -835,8 +823,8 @@ var rootDir="/";
 	var activeFilter=0;
     var filterIntervalId=0;
 	
-    function turnOffFilter(){
-		if(filterIntervalId!==0)
+	    function turnOffFilter(){
+				if(filterIntervalId!==0)
 			clearInterval(filterIntervalId);
     	var previousCompId=0;
     	for(var i=0;i<order.length;i++){
@@ -860,7 +848,7 @@ var rootDir="/";
     }
     var filterButtonId={"livenow":"filterButtonLive","results":"filterButtonFinished","calendar":"filterButtonNotStarted","mygames":"filterButtonMyGames"};
     function turnOnFilter(x){
-    	if(filterIntervalId!==0)
+		    	if(filterIntervalId!==0)
     		clearInterval(filterIntervalId);
 
 		if(activeFilter){//via js only
@@ -888,7 +876,7 @@ var rootDir="/";
     }
    
     function prepareThePlayer(){
-    	window.soundPlayerAdr=$("#jquery_jplayer_1").jPlayer({
+		    	window.soundPlayerAdr=$("#jquery_jplayer_1").jPlayer({
 		ready:function(){
 			$(this).jPlayer("setMedia", {
 		            mp3: rootDir+"sound/s.mp3",
@@ -902,11 +890,11 @@ var rootDir="/";
     }
 
     function playSound(){
-    	window.soundPlayerAdr.jPlayer("play");
+		    	window.soundPlayerAdr.jPlayer("play");
     }
 	
     function setCustomOffsetCookie(offset){
-		$("#timezoneUl").hide()
+				$("#timezoneUl").hide()
 		
 		if(offset==currentOffset){
 			return;
@@ -919,8 +907,8 @@ var rootDir="/";
 		location.reload();
     }
     function readCustomOffsetCookie(){
-		window.customOffset=$.cookie('customOffset');
-	window.compOffset=new Date().getTimezoneOffset();
+				window.customOffset=$.cookie('customOffset');
+		window.compOffset=new Date().getTimezoneOffset();
 		if(customOffset!=null){
 			if(customOffset==compOffset){
 				setCustomOffsetCookie(null);
@@ -934,9 +922,7 @@ var rootDir="/";
     }
 
     function buildTimezonePicker(){
-
-
-    
+		
     	var allOffsets=[
 		720,660,600,570,540,480,420,360,300,270,240,210,180,120,60,0,-60,-120,-180,-210,-240,-270,-300,-330,-345,-360,-390,-420,-480,-525,-540,-570,-600,-630,-660,-690,-720,-765,-780,-840
 		];
@@ -964,11 +950,11 @@ var rootDir="/";
     }
     	
 function showCalendarPicker(){
-		$(".pikadayContainer").show();
+				$(".pikadayContainer").show();
 	}
 
 function goToDate(dt){
-		var unixDt=dt.getFullYear()+"-";
+				var unixDt=dt.getFullYear()+"-";
 		var m=dt.getMonth()+1;
 		m=m<10?"0"+m:m;
 		var d=dt.getDate();
@@ -978,7 +964,7 @@ function goToDate(dt){
 	}
 
 function strToDate(dateStr){
-		var m=dateStr.split("-");
+				var m=dateStr.split("-");
 		if(m.length==3){
 			return new Date(parseInt(m[0]),parseInt(m[1])-1,parseInt(m[2]));
 		}else{
@@ -990,7 +976,7 @@ var weekday=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturd
 var month=["January","February","March","April","May","June","July","August","September","October","November","December"];
 
 function processVideoPage(){
-		var vdd=$(".videoPageDate");
+				var vdd=$(".videoPageDate");
 		$.each(vdd,function(i){
 			var el=$(this);
 			var utcDate=parseInt(el.data("date"))*1000
@@ -1004,7 +990,7 @@ function processVideoPage(){
 	}
 
 function processNews(){
-    	var allN=$(".newsItem");
+		    	var allN=$(".newsItem");
 		var prevDt="";
 		$.each(allN,function(i){
 			var el=$(this);
@@ -1028,23 +1014,28 @@ function processNews(){
 
    
 var requestAction=["privacy-policy"];
-var utcTimestamp=1480248234000;
+var utcTimestamp=1496753772000;
 var todaysDate="";
 
 	$(document).ready(function(){
 		readCustomOffsetCookie();
+						
 		if(requestAction[0]=="matchnew"){
 			buildTimezonePicker();
 			processPopup();
 			var fctBlink = setInterval("blink()",500);
 			//http://www.footlive.com/score/kaapo-vs-inter-turku-2016-03-22/
-		}else if(requestAction[0]=="teams" || requestAction[0]=="competitions" || requestAction[0]=="video" || requestAction[0]=="standings" || requestAction[0]=="search" || requestAction[0]=="h2h"){
-		}else if(requestAction[0]=="videopage"){
+		}
+		else if(requestAction[0]=="teams" || requestAction[0]=="competitions" || requestAction[0]=="video" || requestAction[0]=="standings" || requestAction[0]=="search" || requestAction[0]=="h2h"){
+		}
+		else if(requestAction[0]=="videopage"){
 			processVideoPage();
-		}else if(requestAction[0]=="soccer-news"){
+		}
+		else if(requestAction[0]=="soccer-news"){
 			processNews();
-		}else{
-						buildTimezonePicker();
+		}
+		else{
+									buildTimezonePicker();
 			numberOfSelectedGames=0;
 			processFeed();
 	
@@ -1073,9 +1064,9 @@ var todaysDate="";
 				});
 			}
 	
-			if(activeFilter)
-				turnOnFilter(activeFilter);
-	
+			if(activeFilter){
+								turnOnFilter(activeFilter);
+			}
 			var fctBlink = setInterval("blink()",500);
 			setInterval("minutePlusPlus()",60000);
 	
@@ -1086,8 +1077,8 @@ var todaysDate="";
 			prepareThePlayer();
 			
 		}
-			$("#container").show();
-			$("img.lazy").unveil(300);
+		$("#container").show();
+		$("img.lazy").unveil(300);
 			
 			
 			
@@ -1098,24 +1089,26 @@ var todaysDate="";
     </script>
 	
 <script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	  ga('create', 'UA-46714568-1', 'auto');
-	  ga('send', 'pageview');
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46714568-1', 'auto');
+  ga('send', 'pageview');
+
+
 	  
  </script>
 
 
-
 </head>
-<body>
+<body itemscope="" itemtype="http://schema.org/WebPage">
     <div class="page">
 		<header>
 						<div>
 				<div class="p_left">
-										<a href="http://www.footlive.com"><img src="http://www.footlive.com/logo-footlive.com.png" width="115px" height="60px" title="foot live" border="0" alt="footlive.com"></a>
+										<a href="http://www.footlive.com"><img src="http://www.footlive.com/logo-footlive.com.png" width="115" height="60" title="football live score, soccer live score, footlive.com" alt="football live score, soccer live score, footlive.com"></a>
 				</div>
 				<div class="p_left">
 									</div>
@@ -1142,12 +1135,13 @@ var todaysDate="";
 				<a href="/results/" id="filterButtonFinished" class="" title="Latest football scores">Results</a>
 				<!--<a href="calendar/" id="filterButtonNotStarted" class="">CALENDAR</a>-->
 				<a href="/mygames/" id="filterButtonMyGames" class="">My Games</a>
+				<!--<a href="youth/" id="youth" class="">Youth</a>-->
 				<a href="/team/" id="teams" class="" title="Football teams">Teams</a>
 				<a href="/competition/" id="competitions" class="" title="Football competitions">Competitions</a>
-				<a rel="nofollow" href="https://banners.livepartners.com/click.php?z=37796" id="betting" target="_blank">Betting</a>
+								<a rel="nofollow" href="http://betway.com/?s=bw41514&amp;mid=18535" id="betting" target="_blank">Betting</a>
 				<a href="/video/" id="video" class="" title="Football Highlights">Video</a>
 				<a href="/soccer-news/" id="news" class="" title="Soccer News">News</a>
-				<a href="/partners/" id="contact">Partners</a>
+				<a href="/partners/" id="partners">Links</a>
 				<a href="/contact/" id="contact">Contact</a>
 			</div>
 		</nav>
@@ -1160,135 +1154,23 @@ var todaysDate="";
 			(adsbygoogle = window.adsbygoogle || []).push({});
 			</script>
 		</div>
-		<div class="breadcrumb"><h2><a href="http://www.footlive.com/">Foot Live</a> &gt;  <a href="http://www.footlive.com/privacy-policy/">Privacy Policy</a></h2></div>
+		<div class="breadcrumb"> <ol itemprop="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+	<li style="display:inline-block;" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+	<a itemprop="item" href="http://www.footlive.com">
+	<span itemprop="name">Foot Live</span></a>
+	<meta itemprop="position" content="1">
+	</li> 
+	
+› <li style="display:inline-block;" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+			<a itemprop="item" href="http://www.footlive.com/privacy-policy/"> 
+			<span itemprop="name">Privacy Policy</span></a>
+			<meta itemprop="position" content="2">
+			</li> 
+			
+</ol>
+</div>
 		<section class="left">
-		<ul>
-			<li class="all" style="z-index:999;">
-				<a href="#" onclick="return false;">All countries +</a>
 				<ul>
-					<li class="yellow">A</li>
-					<li><a href="/livescore/albania/" title="Albania football results">Albania</a></li>
-					<li><a href="/livescore/algeria/" title="Algeria football results">Algeria</a></li>
-					<li><a href="/livescore/andorra/">Andorra</a></li>
-					<li><a href="/livescore/angola/">Angola</a></li>
-					<li><a href="/livescore/argentina/">Argentina</a></li>
-					<li><a href="/livescore/armenia/" title="Armenia football results">Armenia</a></li>
-					<li><a href="/livescore/australia/">Australia</a></li>
-					<li><a href="/livescore/austria/" title="Austria football results">Austria</a></li>
-					<li><a href="/livescore/azerbaijan/" title="Azerbaijan football results">Azerbaijan</a></li>
-					<li class="yellow">B</li>
-					<li><a href="/livescore/bahrain/">Bahrain</a></li>
-					<li><a href="/livescore/belarus/">Belarus</a></li>
-					<li><a href="/livescore/belgium/">Belgium</a></li>
-					<li><a href="/livescore/bolivia/">Bolivia</a></li>
-					<li><a href="/livescore/bosnia-herzegovina/">Bosnia-Herzegovina</a></li>
-					<li><a href="/livescore/brazil/">Brazil</a></li>
-					<li><a href="/livescore/bulgaria/">Bulgaria</a></li>
-					<li class="yellow">C</li>
-					<li><a href="/livescore/canada/">Canada</a></li>
-					<li><a href="/livescore/chile/">Chile</a></li>
-					<li><a href="/livescore/china/">China</a></li>
-					<li><a href="/livescore/colombia/">Colombia</a></li>
-					<li><a href="/livescore/costa-rica/">Costa Rica</a></li>
-					<li><a href="/livescore/croatia/">Croatia</a></li>
-					<li><a href="/livescore/cyprus/">Cyprus</a></li>
-					<li><a href="/livescore/czech-republic/">Czech Republic</a></li>
-					<li class="yellow">E</li>
-					<li><a href="/livescore/ecuador/">Ecuador</a></li>
-					<li><a href="/livescore/egypt/">Egypt</a></li>
-					<li><a href="/livescore/el-salvador/">El Salvador</a></li>
-					<li><a href="/livescore/england/">England</a></li>
-					<li><a href="/livescore/estonia/">Estonia</a></li>
-					<li class="yellow">F</li>
-					<li><a href="/livescore/faroe-islands/">Faroe Islands</a></li>
-					<li><a href="/livescore/finland/">Finland</a></li>
-					<li><a href="/livescore/france/">France</a></li>
-					<li class="yellow">G</li>
-					<li><a href="/livescore/georgia/">Georgia</a></li>
-					<li><a href="/livescore/germany/">Germany</a></li>
-					<li><a href="/livescore/grenada/">Grenada</a></li>
-					<li><a href="/livescore/guatemala/">Guatemala</a></li>
-					<li class="yellow">H</li>
-					<li><a href="/livescore/honduras/">Honduras</a></li>
-					<li><a href="/livescore/hong-kong/">Hong Kong</a></li>
-					<li><a href="/livescore/hungary/">Hungary</a></li>
-					<li class="yellow">I</li>
-					<li><a href="/livescore/iceland/">Iceland</a></li>
-					<li><a href="/livescore/india/">India</a></li>
-					<li><a href="/livescore/iran/">Iran</a></li>
-					<li><a href="/livescore/ireland/">Ireland</a></li>
-					<li><a href="/livescore/israel/">Israel</a></li>
-					<li><a href="/livescore/italy/">Italy</a></li>
-					<li class="yellow">J</li>
-					<li><a href="/livescore/japan/">Japan</a></li>
-					<li><a href="/livescore/jordan/">Jordan</a></li>
-					<li class="yellow">K</li>
-					<li><a href="/livescore/kazakhstan/">Kazakhstan</a></li>
-					<li><a href="/livescore/kenya/" title="Kenya football results">Kenya</a></li>
-					<li><a href="/livescore/kuwait/">Kuwait</a></li>
-					<li class="yellow">L</li>
-					<li><a href="/livescore/latvia/">Latvia</a></li>
-					<li><a href="/livescore/lebanon/">Lebanon</a></li>
-					<li><a href="/livescore/lithuania/">Lithuania</a></li>
-					<li><a href="/livescore/luxembourg/">Luxembourg</a></li>
-					<li class="yellow">M</li>
-					<li><a href="/livescore/macedonia/">Macedonia</a></li>
-					<li><a href="/livescore/malaysia/">Malaysia</a></li>
-					<li><a href="/livescore/malta/">Malta</a></li>
-					<li><a href="/livescore/mexico/">Mexico</a></li>
-					<li><a href="/livescore/moldova/">Moldova</a></li>
-					<li><a href="/livescore/montenegro/">Montenegro</a></li>
-					<li><a href="/livescore/morocco/">Morocco</a></li>
-					<li class="yellow">N</li>
-					<li><a href="/livescore/n-ireland/">N. Ireland</a></li>
-					<li><a href="/livescore/netherlands/">Netherlands</a></li>
-					<li><a href="/livescore/norway/">Norway</a></li>
-					<li class="yellow">O</li>
-					<li><a href="/livescore/oman/">Oman</a></li>
-					<li class="yellow">P</li>
-					<li><a href="/livescore/paraguay/">Paraguay</a></li>
-					<li><a href="/livescore/peru/">Peru</a></li>
-					<li><a href="/livescore/poland/">Poland</a></li>
-					<li><a href="/livescore/portugal/">Portugal</a></li>
-					<li class="yellow">Q</li>
-					<li><a href="/livescore/qatar/">Qatar</a></li>
-					<li class="yellow">R</li>
-					<li><a href="/livescore/romania/">Romania</a></li>
-					<li><a href="/livescore/russia/">Russia</a></li>
-					<li class="yellow">S</li>
-					<li><a href="/livescore/san-marino/">San Marino</a></li>
-					<li><a href="/livescore/saudi-arabia/">Saudi Arabia</a></li>
-					<li><a href="/livescore/scotland/">Scotland</a></li>
-					<li><a href="/livescore/senegal/">Senegal</a></li>
-					<li><a href="/livescore/serbia/">Serbia</a></li>
-					<li><a href="/livescore/singapore/">Singapore</a></li>
-					<li><a href="/livescore/slovakia/">Slovakia</a></li>
-					<li><a href="/livescore/slovenia/">Slovenia</a></li>
-					<li><a href="/livescore/south-africa/">South Africa</a></li>
-					<li><a href="/livescore/south-korea/">South Korea</a></li>
-					<li><a href="/livescore/spain/">Spain</a></li>
-					<li><a href="/livescore/sweden/">Sweden</a></li>
-					<li><a href="/livescore/switzerland/">Switzerland</a></li>
-					<li><a href="/livescore/syria/">Syria</a></li>
-					<li class="yellow">T</li>
-					<li><a href="/livescore/thailand/">Thailand</a></li>
-					<li><a href="/livescore/tunisia/">Tunisia</a></li>
-					<li><a href="/livescore/turkey/">Turkey</a></li>
-					<li class="yellow">U</li>
-					<li><a href="/livescore/u.a.e./">U.A.E.</a></li>
-					<li><a href="/livescore/usa/">USA</a></li>
-					<li><a href="/livescore/ukraine/">Ukraine</a></li>
-					<li><a href="/livescore/uruguay/">Uruguay</a></li>
-					<li><a href="/livescore/uzbekistan/">Uzbekistan</a></li>
-					<li class="yellow">V</li>
-					<li><a href="/livescore/venezuela/">Venezuela</a></li>
-					<li><a href="/livescore/vietnam/">Vietnam</a></li>
-					<li class="yellow">W</li>
-					<li><a href="/livescore/wales/">Wales</a></li>
-				</ul>
-			</li>
-		</ul>
-		<ul>
 			<li class="lfl"><a href="/livescore/england/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag uk"></div></div>England</a></li>
 			<li class="lfl"><a href="/livescore/italy/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag it"></div></div>Italy</a></li>
 			<li class="lfl"><a href="/livescore/france/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag fr"></div></div>France</a></li>
@@ -1296,6 +1178,7 @@ var todaysDate="";
 			<li class="lfl"><a href="/livescore/spain/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag es"></div></div>Spain</a></li>
 			<li class="lfl"><a href="/livescore/greece/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag gr"></div></div>Greece</a></li>
 			<li class="lfl"><a href="/livescore/portugal/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag pt"></div></div>Portugal</a></li>
+			<li><a href="/youth/"><div class="ballImage"></div>Youth Results</a></li>
 		</ul>
 		<ul>
 			<li><a href="#" onclick="$('#submenu_2').toggle();return false;"><div class="ballImage"></div>Europe (A-L)</a></li>
@@ -1313,6 +1196,7 @@ var todaysDate="";
 			<li><a href="/livescore/croatia/">Croatia</a></li>
 			<li><a href="/livescore/cyprus/">Cyprus</a></li>
 			<li><a href="/livescore/czech-republic/">Czech Republic</a></li>
+			<li><a href="/livescore/denmark/">Denmark</a></li>
 			<li><a href="/livescore/england/">England</a></li>
 			<li><a href="/livescore/estonia/">Estonia</a></li>
 			<li><a href="/livescore/faroe-islands/">Faroe Islands</a></li>
@@ -1339,7 +1223,7 @@ var todaysDate="";
 			<li><a href="/livescore/malta/">Malta</a></li>
 			<li><a href="/livescore/moldova/">Moldova</a></li>
 			<li><a href="/livescore/montenegro/">Montenegro</a></li>
-			<li><a href="/livescore/n-ireland/">N. Ireland</a></li>
+			<li><a href="/livescore/northern-ireland/">Northern Ireland</a></li>
 			<li><a href="/livescore/netherlands/">Netherlands</a></li>
 			<li><a href="/livescore/norway/">Norway</a></li>
 			<li><a href="/livescore/poland/">Poland</a></li>
@@ -1386,16 +1270,20 @@ var todaysDate="";
 			<li><a href="/livescore/bahrain/">Bahrain</a></li>
 			<li><a href="/livescore/china/">China</a></li>
 			<li><a href="/livescore/hong-kong/">Hong Kong</a></li>
+			<li><a href="/livescore/india/">India</a></li>
 			<li><a href="/livescore/iran/">Iran</a></li>
 			<li><a href="/livescore/japan/">Japan</a></li>
+			<li><a href="/livescore/kuwait/">Kuwait</a></li>
 			<li><a href="/livescore/lebanon/">Lebanon</a></li>
 			<li><a href="/livescore/malaysia/">Malaysia</a></li>
+			<li><a href="/livescore/qatar/">Qatar</a></li>
 			<li><a href="/livescore/saudi-arabia/">Saudi Arabia</a></li>
 			<li><a href="/livescore/singapore/">Singapore</a></li>
+			<li><a href="/livescore/syria/">Syria</a></li>
 			<li><a href="/livescore/south-korea/">South Korea</a></li>
 			<li><a href="/livescore/thailand/">Thailand</a></li>
-			<li><a href="/livescore/syria/">Syria</a></li>
-			<li><a href="/livescore/u.a.e./">U.A.E.</a></li>
+			<li><a href="/livescore/united-arab-emirates/">U.A.E.</a></li>
+			<li><a href="/livescore/uzbekistan/">Uzbekistan</a></li>
 		</ul>
 		<ul>
 			<li><a href="#" onclick="$('#submenu_6').toggle();return false;"><div class="ballImage"></div>Africa</a></li>
@@ -1413,11 +1301,12 @@ var todaysDate="";
 		</ul>
 		<ul id="submenu_7" style="display:none;">
 			<li><a href="/livescore/australia/">Australia</a></li>
+			<li><a href="/livescore/new-zealand/">New Zealand</a></li>
 		</ul>
 
 		<br><br><br>
 
-		<script type="text/javascript">
+				<script type="text/javascript">
 		<!--//<![CDATA[
 		   document.MAX_ct0 ='';
 		   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
@@ -1434,7 +1323,7 @@ var todaysDate="";
 		   }
 		   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 		   document.write ("'></scr"+"ipt>");
-		//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=276918&amp;nodis=1&amp;cb=14554811774&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20161127120353id_/http%3A//www.footlive.com/privacy-policy/"></script>
+		//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=276918&amp;nodis=1&amp;cb=59423858356&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20170606125610id_/http%3A//www.footlive.com/privacy-policy/"></script>
 
 						</section>
 
@@ -1552,7 +1441,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 </div>
 
 			</div>
-			
+						
 			<div class="top20 ads300600">
 				
 				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -1578,14 +1467,11 @@ If there are any questions regarding this privacy policy you may contact us usin
 		
 		<footer>
 			<p style="font-size:14px;margin-top:50px;padding:10px;border:1px solid black;">
-						Do you need to know the Spanish Liga live scores? Are you eager to see the results of the English Premier League? Footlive.com offers to all the soccer fans live scores, league tables and fixtures for leagues, cups and tournaments, and not only from the most popular football leagues as England’s Premier League, Spain’s La Liga, Italy’s Serie A, Germany’s Bundesliga, France’s Ligue 1, Greece’s Super League and Portugal’s Liga Sagres but also from a large range of football countries all over the world, including from North and South America, Asia and Africa. On Footlive.com, the football fan can follow his own selection of live scores, with all the live soccer informations as goal scorers, cards, substitutions, and the updated standings as well. No need to refresh web page as our soccer live score service is a real time one! Footlive.com football livescore provides you also with live scores, results, tables, goals, fixtures from international soccer tournaments like Champion’s League, Europa Cup, World Championship, European Championship, Africa Nations Cup and many others, even International Friendlies. 	
-			<br><br>
-			Whilst every effort is made to ensure that the information displayed here is correct and up to date, we are not liable for any errors and it is your responsibility to check for accuracy.
 			
+						<br><br> <a style="font-size:12px;" href="http://www.footlive.com/privacy-policy/">Privacy Policy</a>
 			</p>
 		</footer>
 		<br><br>
-		<a style="font-size:12px;" href="http://www.footlive.com/privacy-policy/">Privacy Policy</a>
     </div>
  
 <div id="bob"></div> 	
@@ -1596,7 +1482,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 				bottom:60px;
 			}
 			</style>
-			<script src="http://static4238.ovhcloudcdn.com/v1/AUTH_b86a6cf5fcd44612ac41fcce6fe6b733/default/cookiechoices.js"></script>
+			<script src="/cookies/cookiechoices.js"></script>
 			<style>
 				a#cookieChoiceDismiss {
 			  background-color: #303030;
@@ -1617,4 +1503,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 		 });
 		 </script>
 
-</body></html>
+<div id="cookieChoiceInfo" style="position: fixed; width: 100%; height: auto; background-color: rgb(238, 238, 238); margin: 0px; left: 0px; bottom: 0px; padding: 4px; z-index: 1000; text-align: center; font-size: 14px;"><div id="ffezfze" style="width: 1000px; background-color: rgb(238, 238, 238); margin: 0px auto; left: 0px; top: 0px; padding: 4px; z-index: 1000; text-align: center; font-size: 14px;"><span>This website uses cookies to enhance your browsing experience. By continuing to browse the site you are agreeing to accept our use of cookies.</span><a id="enSavoirPlus" href="http://www.footlive.com/privacy-policy/" style="margin-left: 8px;">Cookies Policy.</a><a id="cookieChoiceDismiss" href="#" style="margin-left: 24px;">OK</a></div></div></body></html>
