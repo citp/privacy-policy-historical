@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044901id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021637id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Privacy | British Newspaper Archive
 
-This Privacy Policy explains how we use information you provide us with or that we collect about you. We take your privacy extremely seriously, and will store all your personal information securely and in line with applicable data protection laws.
+This Privacy Policy explains how we use information you provide us with or that we collect about you. We take your privacy extremely seriously, and will store all your personal information securely and in line with applicable data protection laws. 
 
 **LAST UPDATED: January 26, 2015 (company name change)  **
 
