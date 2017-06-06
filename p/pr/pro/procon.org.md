@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the procon.org privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025210428id_/http%3A//www.procon.org/view.background-resource.php%3FresourceID%3D6259%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procon.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044030id_/http%3A//www.procon.org/view.background-resource.php%3FresourceID%3D6259%23privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer - ProCon.org
 
@@ -36,7 +36,7 @@ Privacy Policy and Disclaimer
 
 ProCon.org content is offered as a public benefit in accordance with our 501(c)(3) status. All the information on our sites can be viewed free of charge, and reprinting is allowed under the guidelines outlined in our [Terms of Use](http://www.procon.org/terms-of-use.php) policy. 
 
-The information on the ProCon.org websites has been compiled using the data available to us. We strive for accuracy but cannot be held responsible for any factual errors or mistakenly attributed quotations. We are human and sometimes make mistakes. We make every effort to correct any such errors promptly when they are brought to our attention. Please [Contact Us](https://web.archive.org/web/20161025210428id_/http%3A//www.procon.org/contact.asp) to report any errors on our sites. 
+The information on the ProCon.org websites has been compiled using the data available to us. We strive for accuracy but cannot be held responsible for any factual errors or mistakenly attributed quotations. We are human and sometimes make mistakes. We make every effort to correct any such errors promptly when they are brought to our attention. Please [Contact Us](https://web.archive.org/web/20170606210152id_/http://www.procon.org/contact.asp) to report any errors on our sites. 
 
 Just because we quote someone does not mean we in any way agree with them or support their perspective. ProCon.org's inclusion of links or references to outside sites or organizations is not intended to in any way endorse the views expressed or products/services offered by those third parties. Similarly, we bear no responsibility for the content or views expressed on sites that link to a ProCon.org website. 
 
