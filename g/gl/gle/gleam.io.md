@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821123630id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190146id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
 
 # Gleam Privacy Policy
 
 Here at Gleam we take privacy and security very seriously. This Privacy Policy governs the manner in which Gleam collects, uses, maintains and discloses information collected from users (each, a "User") of the https://gleam.io website ("Site"). This privacy policy applies to the Site and all products or services offered by Gleam.
 
-## Personally Identifable Information
+## Personally Identifiable Information
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to our newsletter, fill out a form, or in connection with other activities, services, features or resources we make available. Users may be asked for, as appropriate, email address. Users may, however, also visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
+Gleam discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organisations that (i) need to know that information in order to process it on Gleam’s behalf or to provide services available at Gleam’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organisations may be located outside of your home country; by using Gleam’s websites, you consent to the transfer of such information to them.
+
+Gleam will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organisations, as described above, Gleam discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Gleam believes in good faith that disclosure is reasonably necessary to protect the property or rights of Gleam, third parties or the public at large.
+
+If you are a registered user of an Gleam website and have supplied your email address, Gleam may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Gleam and our products. We primarily use Email, Twitter, Facebook and our Blog to communicate this type of information, so we expect to keep this type of communication to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Gleam takes all measures reasonably necessary to protect against the unauthorised access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
 ## Non-Personal Identification Information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilised and other similar information.
 
 ## Gleam Campaign Users
 
