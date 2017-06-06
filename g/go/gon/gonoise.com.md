@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonoise.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829165138id_/http%3A//www.gonoise.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonoise.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607005418id_/http%3A//www.gonoise.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Gonoise
 
