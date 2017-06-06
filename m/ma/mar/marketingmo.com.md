@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528235329id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055355id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing MO - A Comprehensive Marketing Planning App
 
@@ -6,7 +6,7 @@ We understand that you care how information about you is stored and shared. In o
 
 ## What information do we gather?
 
-The Marketing MO gathers collective information about our website visitors. An example of such is the number of visitors to the site, which areas of the site are visited most often and what services are most valued. We use this aggregated and anonymous data to help us determine how we can create a better overall experience for our visitors.
+Marketing MO gathers collective information about our website visitors. An example of such is the number of visitors to the site, which areas of the site are visited most often and what services are most valued. We use this aggregated and anonymous data to help us determine how we can create a better overall experience for our visitors.
 
 We receive and store certain types of information whenever users interact with us. For example, we use “cookies” to help us provide a more personalized experience. To help us make emails more useful and interesting, we may receive a confirmation when you open an email from Marketing MO if your computer supports such capabilities.
 
@@ -36,7 +36,7 @@ Marketing MO provides members with the opportunity to opt-out of receiving commu
 
 If you have any questions about our services or privacy statement, contact:
 
-**Moderandi Inc.**  
+**Qlutch Marketing,  Inc.**  
 7047 E. Greenway Pkwy., Ste 250  
 Scottsdale, Arizona 85254  
 P (480) 219-9695
