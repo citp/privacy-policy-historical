@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boutiquejapan.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123234127id_/http%3A//boutiquejapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boutiquejapan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104856id_/http%3A//boutiquejapan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,11 +45,15 @@ We adopt reasonable data collection, storage and processing practices and securi
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users’ personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We do not sell, trade, or rent Users’ personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers, including payment gateways and payment processors, to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
 In the event of a sale, acquisition or sale of all or a portion of our assets, we may be required to transfer business assets, including information that has been collected from Users. We will notify Users by email if they have provided it to us and/or a notice on our website.
 
 We may disclose your information if required to do so pursuant to judicial or governmental subpoenas, warrants, and orders, or as otherwise required by law. In addition, we retain the right to use, disclose and/or share your personal and non-personal information to investigate, prevent or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person whether or not there is a subpoena, court order or substantially similar legal procedure.
+
+**Payment processing**
+
+We use a third-party online payment gateway provider, Wufoo, to process credit card payments made on the Site. You will be providing credit or debit card information directly to Wufoo and not to us. Information that you supply to Wufoo in making a credit card payment is not within our control and is subject to Wufoo’s own privacy policy and terms and conditions, which are available on the [Wufoo site here](https://www.wufoo.com/payments/).
 
 **Third party websites**
 
@@ -75,4 +79,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, [please contact us here](http://boutiquejapan.com/contact-us/).
 
-_This document was last updated on October 22, 2014_
+_This document was last updated on March 18,  2017_
