@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234742id_/http%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110728id_/http%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -69,6 +69,10 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser whereas a persistent cookie remains on your hard drive for an extended period of time. We utilize cookies to help manage player logins, to protect against security issues and to remember player preferences. We do not set a persistent cookie to store your passwords, as we do not want anyone to be able to access your account other than you.
 
 Our site regularly uses Google Website Optimizer (GWO) to perform variation testing. GWO cookies are placed within site pages to determine page effectiveness in conversion. The results from this testing are used to create an improved product experience for our players. GWO does not collect personal information, only information related to the session. In the event that personal information is collected, Google requests your consent before sharing it. Further details can be found in the [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
+
+### Mouseflow
+
+We use Mouseflow web analytics service on this website to helps us research website issues and improve our visitors’ experience on our website. When enabled, Mouseflow records mouse clicks, mouse movements, scrolling activity and may record text you type in this website, excluding text input in password fields. For more information, see Mouseflow’s Privacy Policy at <http://mouseflow.com/privacy/>. You can choose to disable the Mouseflow service at <http://mouseflow.com/opt-out/>.
 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
