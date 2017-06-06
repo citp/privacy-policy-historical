@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allavsoft.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221033449id_/http%3A//www.allavsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allavsoft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043408id_/http%3A//www.allavsoft.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Allavsoft
 
