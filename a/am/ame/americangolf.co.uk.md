@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127201753id_/http%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145708id_/http%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
 
 # American Golf's Privacy Policy
 
-  
-
-
-### IMPORTANT: BY SUBMITTING DATA AND/OR USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
+IMPORTANT: BY SUBMITTING DATA AND/OR USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
 
 #### Privacy Policy
 
@@ -33,12 +30,12 @@ The information that you provide is sometimes supplemented with information that
 
 The purposes for which Personal Data is processed include the following:
 
-  * To respond to your requests and to fulfil your orders for products and services.
-  * To improve products and services, make your experience more efficient and relevant and provide you with a personalised service.
-  * To administer this website.
-  * To analyse and research website visitors' demographics, interests, and pages viewed based on the information provided during ordering, from server log files, or surveys.
-  * To contact you from time to time with information of new products and services or events that may be of interest to you. 
-
+* To respond to your requests and to fulfil your orders for products and services.
+* To improve products and services, make your experience more efficient and relevant and provide you with a personalised service.
+* To administer this website.
+* To analyse and research website visitors' demographics, interests, and pages viewed based on the information provided during ordering, from server log files, or surveys.
+* To contact you from time to time with information of new products and services or events that may be of interest to you. 
+  
 
 
 #### Opt-out choice
@@ -61,15 +58,14 @@ IP address may also be used to help diagnose problems with this website's server
 
 ## Disclosure of your Personal Data
 
-Your Personal Data will not be shared, sold or distributed with unrelated third parties, except under these circumstances:
-
-  * Personal Data may occasionally be transferred to third parties for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented.
-  * Personal Data will be transferred to third parties for further processing in order to fulfil orders placed by you via this Web Site and to provide an after sales service.
-  * Third parties are engaged to perform services or functions in order to manage and improve this website, merchandising, marketing and promotional efforts, communications or other services. Those third parties include authorized contractors, consultants, legal advisors and other companies (collectively, "agents"). They only have access to personal information needed to perform their functions, and may not share any personal information with others or use it for any other purposes than that which is contractually agreed. Where appropriate, before disclosing Personal Data to a third party, that third party is contractually required to take adequate precautions to protect that data and maintain confidentiality. Information about you may also be received from other sources (such as demographic information and purchase history) and it may be added to records about you in order to make marketing efforts more efficient.
-  * The information in this website's databases may be shared or transferred to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of the databases or this website, to take precautions against legal liability, or in the event of a sale, merger, reorganisation, dissolution or similar event.
-  * Where you have consented, your information may be disclosed to partners or other businesses who may contact you about their products or services that may interest you.
-  * During the purchase process, your information may be shared with certain intermediaries (e.g. UPS) strictly to process and ship your order. 
-
+* Your Personal Data will not be shared, sold or distributed with unrelated third parties, except under these circumstances:
+* Personal Data may occasionally be transferred to third parties for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented.
+* Personal Data will be transferred to third parties for further processing in order to fulfil orders placed by you via this Web Site and to provide an after sales service.
+* Third parties are engaged to perform services or functions in order to manage and improve this website, merchandising, marketing and promotional efforts, communications or other services. Those third parties include authorized contractors, consultants, legal advisors and other companies (collectively, "agents"). They only have access to personal information needed to perform their functions, and may not share any personal information with others or use it for any other purposes than that which is contractually agreed. Where appropriate, before disclosing Personal Data to a third party, that third party is contractually required to take adequate precautions to protect that data and maintain confidentiality. Information about you may also be received from other sources (such as demographic information and purchase history) and it may be added to records about you in order to make marketing efforts more efficient.
+* The information in this website's databases may be shared or transferred to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of the databases or this website, to take precautions against legal liability, or in the event of a sale, merger, reorganisation, dissolution or similar event.
+* Where you have consented, your information may be disclosed to partners or other businesses who may contact you about their products or services that may interest you. 
+* During the purchase process, your information may be shared with certain intermediaries (e.g. UPS) strictly to process and ship your order. 
+  
 
 
 #### Data integrity and security
