@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myamcat.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223180126id_/https%3A//www.myamcat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myamcat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165908id_/https%3A//www.myamcat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aspiring Minds
 
