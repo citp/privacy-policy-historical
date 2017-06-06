@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koyalwholesale.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211135100id_/http%3A//www.koyalwholesale.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koyalwholesale.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191105id_/https%3A//www.koyalwholesale.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Koyal Wholesale DIY Wedding Supplies & Personalized Party Decor
 
