@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filetrip.net privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125070639id_/https%3A//filetrip.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filetrip.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184435id_/https%3A//filetrip.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FileTrip
 
