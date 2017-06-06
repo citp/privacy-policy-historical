@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the ejmanager.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000913id_/http%3A//www.ejmanager.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejmanager.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104725id_/http%3A//www.ejmanager.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Online Journal Management System :: eJManager.com ::
+# Online Journal Management System
 
 **Privacy Policy**
 
-  
 This website ("Site") is owned and operated by eJManager® International Journal Management and Indexing System ("eJManager", "we", "us" or "our").   
 We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
 
