@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the test-guide.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922031423id_/http%3A//www.test-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the test-guide.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181418id_/https%3A//www.test-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | General - Test-Guide.com
 
 **What information do we collect?**
 
