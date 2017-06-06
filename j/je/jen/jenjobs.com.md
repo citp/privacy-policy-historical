@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209105703id_/http%3A//www.jenjobs.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054029id_/http%3A//jenjobs.com/privacy/policy) for the most accurate reproduction.*
 
 # Job Vacancy | Job Search | Online Jobs in Malaysia | Jawatan Kosong : JenJOBS
 
