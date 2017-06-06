@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccallpattern.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110014350id_/https%3A//mccallpattern.mccall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccallpattern.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171650id_/https%3A//mccallpattern.mccall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | McCall's Patterns
 
@@ -52,7 +52,7 @@ We do not solicit any personal information from children. If you are not 13 or o
 
 #### 7\. Disclaimer to Security
 
-By consenting to the [Terms of Use](https://web.archive.org/web/20161110014350id_/https%3A//mccallpattern.mccall.com/terms-use) of the Sites and the Privacy Policy, you consent that no data transmission over the Internet is completely secure. We cannot guarantee or warrant the security of any information you provide to us and you transmit such information to us at your own risk.
+By consenting to the [Terms of Use](https://web.archive.org/web/20170606171650id_/https%3A//mccallpattern.mccall.com/terms-use) of the Sites and the Privacy Policy, you consent that no data transmission over the Internet is completely secure. We cannot guarantee or warrant the security of any information you provide to us and you transmit such information to us at your own risk.
 
 #### 8\. Notification of Changes To This Privacy Policy
 
