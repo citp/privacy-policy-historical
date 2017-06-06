@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the computermania.co.za privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201200609id_/http%3A//www.computermania.co.za/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computermania.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163826id_/http%3A//computermania.co.za/Privacy) for the most accurate reproduction.*
 
-# Computer Mania > Home
+# Home
 
 Computer Mania is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Computer Mania site and governs data collection and usage. By using the Computer Mania site, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ Computer Mania will occasionally update this Statement of Privacy to reflect com
 
 Contact Information
 
-Computer Mania welcomes your comments regarding this Statement of Privacy. If you believe that Computer Mania has not adhered to this Statement, please contact Computer Mania at [paul.stephen@telkomsa.net](mailto:paul.stephen@telkomsa.net). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Computer Mania welcomes your comments regarding this Statement of Privacy. If you believe that Computer Mania has not adhered to this Statement, please contact Computer Mania at [support@contouronline.com](mailto:support@contouronline.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
