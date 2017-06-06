@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headhonchos.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007060953id_/http%3A//www.headhonchos.com/privacy-policy.html%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headhonchos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182954id_/https%3A//www.headhonchos.com/privacy-policy.html%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy of HeadHonchos.com
 
