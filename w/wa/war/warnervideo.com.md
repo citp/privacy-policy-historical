@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the warnervideo.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125211742id_/http%3A//www.wbshop.com/text/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnervideo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125610id_/http%3A//www.wbshop.com/text/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: October 26, 2016
+Last Updated: April 14, 2017
 
 * * *
 
-Welcome to our online shop! This shop is owned and operated by Araca Merchandise L.P.. Like you, everyone at Araca is a huge fan of entertainment. We specialize in creating online shops that help fans pursue their passion for collecting. Thank you for visiting and have a great time! 
+Welcome to our online shop! This shop is owned and operated by Araca Merchandise L.P. Like you, everyone at Araca is a huge fan of entertainment. We specialize in creating online shops that help fans pursue their passion for collecting. Thank you for visiting and have a great time! 
 
-Your privacy is important to us. Araca Merchandise L.P. and its affiliates (“Araca,” “we,” “us,” or “our”) provide this notice explaining our information practices and the choices you can make about the collection and use of the information while shopping in our online shops, including via mobile sites (collectively, the “Services”). For certain offerings of our Services, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you. 
+Your privacy is important to us. Araca Merchandise L.P. and its affiliates (“Araca,” “we,” “us,” or “our”) provide this notice explaining our information practices and the choices you can make about the collection and use of information while you are shopping in our online shops, including via mobile sites (collectively, the “Services”). For certain offerings of our Services, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you 
 
 By visiting our shop, you are accepting and consenting to the practices described in this Privacy Policy. Please read them carefully.
 
@@ -18,14 +18,14 @@ Information Collection
 
   * When you register for an account or engage with our Services, you provide personal information (e.g., name, address, e-mail, phone number, credit card information), and information about your interests in our products and services.
   * You may also provide us with information when interacting with our Services through or linking to third party social media sites, plug-ins, or applications.
-  * The information we collect may be combined with information from outside records.
+  * The information we collect may be combined with information from outside records
   * Our Services use cookies and other similar technology for site functionality and to improve your user experience.
 
 | 
 
 Your Choices
 
-  * You may update or correct your profile information through our [Account Settings page](https://web.archive.org/account/login.do?method=view) or by sending us an email to [privacy@bolderroad.com](mailto:privacy-%20@bolderroad.com)
+  * You may update or correct your profile information through our [Account Settings page](https://web.archive.org/account/login.do?method=view) or by sending us an email to [privacy@araca.com](mailto:privacy-%20@araca.com)
   * If you want to unsubscribe or receive fewer promotional e-mails, click the Update Your Preferences link included in our marketing emails, or simply follow the unsubscribe instructions in our marketing e-mails.
   * To reject certain cookies, choose the option in your browser settings to receive a notice before a cookie is stored on your device.
   * To opt-out of use of cookies by certain of our advertisers or technology vendors who help deliver ads tailored to your profile and preferences, visit [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/).
@@ -36,8 +36,8 @@ Your Choices
   
 Use of Information
 
-  * The information collected is used to fulfill your requests, track and ship orders, communicate with you, protect, maintain, improve, and provide our products and services, and to operate our business. This includes displaying personalized content and advertising to provide you with the products and messages we think you will find most interesting.
-  * We and our affiliates and business partners may also use this information to inform you of other products or services that may interest you.
+  * The information collected is used to fulfill your requests, track and ship orders, communicate with you, protect, maintain, improve, and provide our products and services, and to operate our business. This includes displaying personalized content and advertising to provide you with the products and messages we think you will find most interesting
+  * The information collected is used to fulfill your requests, track and ship orders, communicate with you, protect, maintain, improve, and provide our products and services, and to operate our business. This includes displaying personalized content and advertising to provide you with the products and messages we think you will find most interesting
 
 | 
 
@@ -63,11 +63,11 @@ Additional Information
 
 Contact us
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@bolderroad.com](mailto:privacy-%20@bolderroad.com) or at:
+If you have any questions about this Privacy Policy, please contact us at [privacy@araca.com](mailto:privacy-%20@araca.com) or at:
 
 Araca Merchandise L.P.  
-545 West 45th Street, Floor 10  
-New York, NY 10036   
+Attn: Privacy Resolution Team   
+459 Park Ave, San Fernando, CA 91340   
   
   
 
@@ -78,19 +78,19 @@ We collect information about you in a few different ways, including when you pro
 
 Information You Provide to Us. 
 
-We collect information that you voluntary give to us. When you create an account to browse and purchase products in the shop, you provide us information like your name, address, email address, telephone number, credit card and billing information. We may also collect content you choose to post to our Services, like comments, product reviews and ratings, and videos and photos. For example, you may upload a photo to the shop in order to customize merchandize you would like to purchase. We also collect information that you voluntarily give to us about other people. For example, you might submit a person's name and email address to share content or product recommendations through our “tell-a-friend” feature, or if you order a gift and want it sent directly to the recipient, you might submit the recipient's name, address, and telephone number. By submitting information to us about other people, you confirm that you have obtained permission from each of those people to share their information. 
+We collect information that you voluntarily give to us. When you create an account to browse and purchase products in the shop, you provide us information like your name, address, email address, telephone number, and credit card and billing information. We may also collect content you choose to post to our Services, like comments, product reviews and ratings, and videos and photos. For example, you may upload a photo to the shop in order to customize merchandise you would like to purchase. We also collect information that you voluntarily give to us about other people. For example, you might submit a person's name and email address to share content or product recommendations through our “tell-a-friend” feature; or if you order a gift and want it sent directly to the recipient, you might submit the recipient's name, address, and telephone number. By submitting information to us about other people, you confirm that you have obtained permission from each of those people to share their information. 
 
 Information We Collect from Your Interaction with the Service.
 
-We also collect certain information when you use our Services such as the type of browser you are using (e.g., Chrome, Firefox, Internet Explorer, Safari) and the version of your browser, the type of operating system you are using (e.g., Windows, Mac OS, iOS, Android), the domain name of your Internet service provider or mobile carrier, IP address, mobile device IP address (e.g., MAC address), unique device identifier, your precise location information, and certain usage information. 
+We also collect certain information when you use our Services, such as the type of browser you are using (e.g., Chrome, Firefox, Internet Explorer, Safari) and the version of your browser, the type of operating system you are using (e.g., Windows, Mac OS, iOS, Android), the domain name of your Internet service provider or mobile carrier, IP address, mobile device IP address (e.g., MAC address), unique device identifier, your precise location information, and certain usage information. 
 
 Information Provided or Collected Through Social Media.
 
 You can also engage with our Services through third party social media plug-ins and applications, such as those offered by Facebook, Twitter, Pinterest and others. You may also choose to link your account with us to third party social media sites, for example, through Facebook Connect. When you link your account or engage with such plug-ins or applications, you may allow us to have ongoing access to certain information from your social media account (e.g., name, e-mail address, profile photo, gender, birthday, location, your list of friends and their contact information, people you follow and/or who follow you, the posts or the 'likes' you make). 
 
-When you provide information to us from your social media account, it can help enable us to do things like personalize your online experience with us, and enable us to contact you through the social media sites or directly with the latest news, special offerings, and rewards. By providing such information, you consent to the use of the information in accordance with this Privacy Policy. 
+When you provide information to us from your social media account, it can help enable us to do things like personalize your online experience with us, and enable us to contact you, through the social media sites or directly, with the latest news, special offerings, and rewards. By providing such information, you consent to the use of the information in accordance with this Privacy Policy. 
 
-If you post information or content, such as by posting photos, commenting or reviewing products, or when you interact with our Services through social media plug-ins or other applications, depending on your privacy settings, this information may become public on the Internet. Therefore, we cannot prevent further use of this information. You can control what data you share through privacy settings available on some social media sites. For more information about how you can customize your privacy settings and how third party social media sites handle your personal information, please refer to their privacy help guides, privacy policies and terms of use. 
+If you post information or content, such as by posting photos, commenting or reviewing products, or when you interact with our Services through social media plug-ins or other applications, this information may, depending on your privacy settings, become public on the Internet. Therefore, we cannot prevent further use of this information. You can control what data you share through privacy settings available on some social media sites. For more information about how you can customize your privacy settings and how third party social media sites handle your personal information, please refer to their privacy help guides, privacy policies and terms of use. 
 
 Information From Other Sources.
 
@@ -98,7 +98,7 @@ We may, on occasion, combine information we receive online with outside records 
 
 Cookies and Other Technical Information.
 
-Our Services use “cookies” and other similar technology such as “Web beacons.” Cookies are text files containing small amounts of information which are downloaded to your device when you visit a site. Cookies are then sent back to the originating site on each subsequent visit, or to another site that recognizes that cookie. Cookies do a lot of different jobs, like remembering your preferences, and generally improve the user experience. You can find more information about cookies at [All About Cookies](http://www.allaboutcookies.org/). Web beacons are electronic images that often work in conjunction with cookies. 
+Our Services use “cookies” and other similar technology such as “Web beacons.” Cookies are text files containing small amounts of information which are downloaded to your device when you visit a site. Cookies are then sent back to the originating site on each subsequent visit, or to another site that recognizes that cookie. Cookies do a lot of different jobs, like remembering your preferences, and generally improve the user experience. You can find more information about cookies at [All About Cookies](http://www.allaboutcookies.org/). Web beacons are electronic images that often work in conjunction with cookies 
 
 Our Services use cookies for the following purposes: 
 
@@ -144,17 +144,17 @@ Communicating with You.
 
 We use the information we collect about you to communicate with you, including via email, phone, sms text message or push notifications, as you decide, for reasons such as: 
 
-  * confirm purchases you have made through our Services;
-  * confirm that your purchases have shipped;
-  * invite you to review purchases made via the Services;
-  * notify you of items left in your shopping cart;
-  * notify you when you have won a contest or sweepstakes;
-  * notify you when we make changes to our user agreements;
-  * fulfill a request by you for an online newsletter;
-  * provide you with product recommendations;
-  * provide you with access to personalized information based on your location;
-  * contact you about your account with us; and
-  * offer you other products, programs or services from us and our affiliates, business partners, and selected third parties that we believe may be of interest to you. 
+  * to confirm purchases you have made through our Services;
+  * to confirm that your purchases have shipped;
+  * to invite you to review purchases made via the Services;
+  * to notify you of items left in your shopping cart;
+  * to notify you when you have won a contest or sweepstakes;
+  * to notify you when we make changes to our user agreements;
+  * to fulfill a request by you for an online newsletter;
+  * to provide you with product recommendations;
+  * to provide you with access to personalized information based on your location;
+  * to contact you about your account with us; and
+  * to offer you other products, programs or services from us and our affiliates, business partners, and selected third parties that we believe may be of interest to you. 
 
 
 
@@ -179,7 +179,7 @@ We may transfer information about you in the event of or negotiation of a busine
 
 Service Providers.
 
-Our agents and contractors, such as our shipping partners, order management system and fraud prevention providers, may have access to personal information to help carry out the services they are performing for us, such as shipping orders, to facilitate the processing of orders, to host product reviews, and to prevent fraud. 
+Our agents and contractors, such as our shipping partners, order management system and fraud prevention providers, may have access to personal information to help carry out the services they are performing for us, such as shipping orders, processing orders, hosting product reviews, and preventing fraud. 
 
 Product Licensors and Other Third Parties.
 
@@ -191,7 +191,7 @@ While using the Service, third parties may present or serve advertisements, prov
 
 Video Purchasing Information.
 
-We may share the titles of the films or TV shows that you have purchased through our Services (e.g., DVDs or Blu-rays) with third party services, including our Product Licensors or business partners, in order to fulfill your order, create and track wish lists and order histories, to recommend products to you based on your interests, for research purposes, and to improve our Services. 
+We may share the titles of the films or TV shows that you have purchased through our Services (e.g., DVDs or Blu-rays) with third party services, including our Product Licensors or business partners, in order to fulfill your order, create and track wish lists and order histories, recommend products to you based on your interests, for research purposes, and to improve our Services 
 
 Linked Sites.
 
@@ -210,19 +210,19 @@ There are a number of ways you can learn about, control and make changes to how 
 
 Profile Information.
 
-You may update or correct your profile information through our [Account Settings page](https://web.archive.org/account/login.do?method=view) or by sending us an email to [privacy@bolderroad.com](mailto:privacy@bolderroad.com)
+You may update or correct your profile information through our [Account Settings page](https://web.archive.org/account/login.do?method=view) or by sending us an email to [privacy@araca.com](mailto:privacy@araca.com)
 
 Marketing Communications.
 
-We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, you can visit our Marketing Preference page where you may choose how often you would like to receive certain communications from us or where you may choose to unsubscribe from receiving certain communications from us. Additionally, you may follow the “unsubscribe” instructions provided in any marketing email you receive from us. You may also send us an email at [privacy@bolderroad.com](mailto:privacy@bolderroad.com) with your request, and we will edit your preferences accordingly. Please note, if you unsubscribe or opt out of communications, we may still send you non-promotional e-mails, such as e-mails about your account, order and shipping confirmations, notifications that you left something in your shopping cart, or in regards to our ongoing business relations. 
+We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, you can visit our Marketing Preference page where you may choose how often you would like to receive certain communications from us or where you may choose to unsubscribe from receiving certain communications from us. Additionally, you may follow the “unsubscribe” instructions provided in any marketing email you receive from us. You may also send us an email at [privacy@araca.com](mailto:privacy@araca.com) with your request, and we will edit your preferences accordingly. Please note, if you unsubscribe or opt out of communications, we may still send you non-promotional e-mails, such as e-mails about your account, order and shipping confirmations, notifications that you left something in your shopping cart, or in regard to our ongoing business relations 
 
 Cookies.
 
-Many web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you wish to reject cookies from our site, but wish to accept those from other sites, you may choose the option in your browser settings to receive a notice before a cookie is stored on your device. Please consult the “Help” section of your browser for more information. To find out more, please consult [All About Cookies](http://www.allaboutcookies.org/). If you choose to remove cookies or reject cookies, this could affect certain features of our Services and can remove opt-out cookies used to express your choice about online tracking and personalized ads. You can choose to opt-out of use of cookies by many of our advertisers, advertising technology vendors and other advertising-related services who help deliver ads tailored to your profile and preferences at the following: [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/). If you remove your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choices. You can avoid the use of cookies by Google Analytics relating to your use of our shop by downloading and installing the Browser Plugin available [here](https://tools.google.com/dlpage/gaoptout?hl=en-GB). 
+Many web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you wish to reject cookies from our site, but wish to accept those from other sites, you may choose the option in your browser settings to receive a notice before a cookie is stored on your device. Please consult the “Help” section of your browser for more information. To find out more, please consult [All About Cookies](http://www.allaboutcookies.org/). If you choose to remove or reject cookies, this could affect certain features of our Services and may result in removing opt-out cookies used to express your choice about online tracking and personalized ads. You can choose to opt-out of use of cookies by many of our advertisers, advertising technology vendors and other advertising-related services who help deliver ads tailored to your profile and preferences at the following: [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/). If you remove your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choices. You can avoid the use of cookies by Google Analytics relating to your use of our shop by downloading and installing the Browser Plugin available [here](https://tools.google.com/dlpage/gaoptout?hl=en-GB). 
 
 Video Purchasing Information.
 
-If you reside in the U.S., you may withdraw your consent for us to use and share your video purchasing information with certain third parties that are not incident to our ordinary course of business, on a specific title by title basis, or from any ongoing disclosures with such third parties, by emailing us at [privacy@bolderroad.com](mailto:privacy@bolderroad.com). 
+If you reside in the U.S., you may withdraw your consent for us to use and share your video purchasing information with certain third parties that are not incidental to our ordinary course of business, on a specific title by title basis, or from any ongoing disclosures with such third parties, by emailing us at [privacy@araca.com](mailto:privacy@araca.com). 
 
 Device Settings.
 
@@ -233,14 +233,14 @@ Devices and device system software provide certain opt-out choices that you can 
 
 ### California Residents.
 
-If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to [privacy@bolderroad.com](mailto:privacy@bolderroad.com). 
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to [privacy@araca.com](mailto:privacy@araca.com). 
 
   
 
 
 ### Security.
 
-Your security is important to us and we have put in place appropriate technical and organizational procedures designed to safeguard the information we collect through the Services. Unfortunately, no security system can be guaranteed to be 100% secure, so we cannot guarantee the security of the information you provide to us. To help protect your information, you should not share your account information or password, reuse your password on other websites, or use a password you have used on other websites. For more information on password protection practices click [here](http://oag.ca.gov/privacy/safe-password-practices). If you share your account information or password with others or allow others to access your account, you will be responsible for their actions. While you are responsible for maintaining the confidentiality and security of your account information, if you become aware of a security issue affecting our Services or any authorized use of your account, please let us know immediately by contacting us at [privacy@bolderroad.com](mailto:privacy@bolderroad.com). 
+Your security is important to us and we have put in place appropriate technical and organizational procedures designed to safeguard the information we collect through the Services. Unfortunately, no security system can be guaranteed to be 100% secure, so we cannot guarantee the security of the information you provide to us. To help protect your information, you should not share your account information or password, reuse your password on other websites, or use a password you have used on other websites. For more information on password protection practices click [here](http://oag.ca.gov/privacy/safe-password-practices). If you share your account information or password with others or allow others to access your account, you will be responsible for their actions. While you are responsible for maintaining the confidentiality and security of your account information, if you become aware of a security issue affecting our Services or any authorized use of your account, please let us know immediately by contacting us at [privacy@araca.com](mailto:privacy@araca.com). 
 
 ### General Audience Service.
 
@@ -248,7 +248,7 @@ We do not sell products for purchase by children. We sell products for purchase 
 
 ### International Transfers.
 
-We operate internationally, however our computer systems are currently based in the United States. Your personal information will be processed by us in the U.S. where data protection and privacy regulations may be different from those of your country of residence . If you use our Services from outside the U.S., you consent to the collection and/or processing in the U.S. of your personal information, which includes the use of cookies as described above. 
+We operate internationally, however our computer systems are currently based in the United States. Your personal information will be processed by us in the U.S. where data protection and privacy regulations may be different from those of your country of residence. If you use our Services from outside the U.S., you consent to the collection and/or processing in the U.S. of your personal information, which includes the use of cookies as described above. 
 
 ### Changes to this Policy.
 
@@ -259,9 +259,8 @@ From time to time, we may update this Privacy Policy. We will notify you about m
 
 ### How to Contact Us.
 
-Thank you so much for your interest in our online shops and for reading this policy. We hope you enjoy our Services. If you have any questions about this Privacy Policy, please contact us at [privacy@boldderroad.com](mailto:privacy@bolderroad.com) or at: 
+Thank you so much for your interest in our online shops and for reading this policy. We hope you enjoy our Services. If you have any questions about this Privacy Policy, please contact us at [privacy@araca.com](mailto:privacy@araca.com) or at: 
 
 Araca Merchandise L.P.  
-545 West 45th Street, Floor 10  
-New York, NY 10036  
-Attn: Privacy 
+Attn: Privacy Resolution Team  
+459 Park Ave, San Fernando, CA 91340 
