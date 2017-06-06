@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113181652id_/https%3A//www.skyneel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161159id_/https%3A//www.skyneel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
