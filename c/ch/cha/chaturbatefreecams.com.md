@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chaturbatefreecams.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323172710id_/http%3A//www.chaturbatefreecams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaturbatefreecams.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172401id_/http%3A//www.chaturbatefreecams.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Chaturbate Free Cams
 
 Effective Date: March 4, 2014
 
-Last Modified: March 4, 2014
+Last Modified: April 6, 2017
 
 This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“Chaturbate Free Cams,” “we,” “our”). By using our Services and/or registering with Chaturbate Free Cams, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as Chaturbate Free Cams adheres to the standards set forth more clearly below.
 
@@ -72,9 +72,9 @@ Use of our Service may require you to configure your browser settings to allow c
 
 Chaturbate Free Cams may from time to time share personal information with individuals or other companies. In the event that we share information with companies or individuals not a part of Chaturbate Free Cams, we will only do so in the following circumstances:
 
-  * If we have asked for and received your consent. You should be aware that when you register for a username, during the sign up process, you provide us with permission to share your personal information with trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to support@chaturbate.com indicating your intent to do so.
-  * For the purpose of processing personal information on our behalf, we may provide personal information to trusted persons or businesses. We will require these third-party processors to adopt appropriate confidentiality and security measures. Further, all third-party processors will be provided with a copy of this Privacy Policy and instructions that all processing of personal information must be done in accordance herewith.
-  * We have a good-faith belief that access, use, preservation, or disclosure of your personal information is reasonably necessary: (a) to satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) to enforce applicable Terms of Service, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; or (d) as required or permitted by law, to protect against harm to the rights, property or safety of Chaturbate Free Cams, its users, or the public.
+  * If we have asked for and received your consent. You should be aware that when you register for a username, during the sign up process, you provide us with permission to share your personal information with trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to support@chaturbate.com indicating your intent to do so. 
+  * For the purpose of processing personal information on our behalf, we may provide personal information to trusted persons or businesses. We will require these third-party processors to adopt appropriate confidentiality and security measures. Further, all third-party processors will be provided with a copy of this Privacy Policy and instructions that all processing of personal information must be done in accordance herewith. 
+  * We have a good-faith belief that access, use, preservation, or disclosure of your personal information is reasonably necessary: (a) to satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) to enforce applicable Terms of Service, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; or (d) as required or permitted by law, to protect against harm to the rights, property or safety of Chaturbate Free Cams, its users, or the public. 
 
 
 
