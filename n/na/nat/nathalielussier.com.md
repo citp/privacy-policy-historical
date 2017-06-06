@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nathalielussier.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405044317id_/http%3A//nathalielussier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nathalielussier.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222522id_/https%3A//nathalielussier.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nathalie Lussier
 
@@ -36,7 +36,7 @@ We use the information we receive from you as follows:
 We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
 
   * **Sharing Information with Affiliates and Other Third Parties**  
-We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
+We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website [hosting](http://nathalielussier.com/wpengine "WPEngine") companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
 
   * **Data Aggregation**  
 We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
@@ -55,5 +55,3 @@ We reserve the right to modify this Privacy Policy at any time. You should revie
 
 **Questions About Our Privacy Practices or This Privacy Policy**  
 If you have any questions about our Privacy Practices or this Policy, please contact us.
-
-[](https://www.pinterest.com/pin/create/button/)
