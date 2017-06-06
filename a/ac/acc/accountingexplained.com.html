@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the accountingexplained.com privacy policy that was archived on 2016-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161208092351id_/http%3A//accountingexplained.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accountingexplained.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606130029id_/http%3A//accountingexplained.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -34,13 +34,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div id="logo">
 <a href="/">Accounting<span>Explained</span></a>
 </div>
-<div id="menu">
-<ul>
-<li><a href="/financial/">Financial Accounting</a></li>
-<li><a href="/managerial/">Managerial Accounting</a></li>
-<li><a href="/misc/">Miscellaneous</a></li>
-</ul>
-</div>
 <form id="search" method="get" action="/search">
 <input id="stext" type="text" maxlength="200" name="q">
 </form>
@@ -55,6 +48,7 @@ Privacy Policy
 </div>
 <div id="page">
 <h1>Privacy Policy</h1>
+<div id="text">
 <p>Your privacy is imporatant to us. In order to enable you to protect your privacy we provide following points outlining our policy on the privacy of users of AccountingExplained.com:</p>
 <ol>
 <li><b>Server Logs:</b> Server logs are computer generated lists of visits to a website with record IP address of each visitors and pages which have been accessed from a particulate IP. Server logs do not record personal information such as name, address, email etc. We have made reasonable secruity measures to protect such information from reaching the hands of third parties.</li>
@@ -63,14 +57,15 @@ Privacy Policy
 <li><b>Analytics:</b> We may use server logs, javascripts to track user behavior on this website and collect demographical information about our visitos to improve our site performance.<br>
 <b>Note:</b> This does not include your personal information like name, email, address etc.</li>
 <li><b>Contact Form:</b> When you use the contact form on this website to send us a message, you are required to provide your name and email address. We use this information only to send you a reply. It is kept reasonably safe from third parties.</li>
-</ol>
+</ol></div>
 
 <div id="below">
 </div>
 </div>
 <div id="sidebar">
-<h2>Contents</h2>
-<ul id="chapters">
+<div id="menu">
+<ul id="subjects">
+<li><a href="">Financial Accounting</a><ul class="chapters">
 <li><a href="/financial/introduction/">Financial Accounting Intro</a></li>
 <li><a href="/financial/principles/">Accounting Principles</a></li>
 <li><a href="/financial/cycle/">Accounting Cycle</a></li>
@@ -93,6 +88,7 @@ Privacy Policy
 <li><a href="/financial/business-combinations/">Business Combinations</a></li>
 <li><a href="/financial/ratios/">Financial Ratio Analysis</a></li>
 <li><a href="/financial/specialized-ratios/">Specialized Ratios</a></li>
+</ul></li><li><a href="">Managerial Accounting</a><ul class="chapters">
 <li><a href="/managerial/introduction/">Managerial Accounting Intro</a></li>
 <li><a href="/managerial/costs/">Cost Classifications</a></li>
 <li><a href="/managerial/cost-systems/">Cost Accounting Systems</a></li>
@@ -105,10 +101,12 @@ Privacy Policy
 <li><a href="/managerial/inventory-management/">Inventory Management</a></li>
 <li><a href="/managerial/standard-costing/">Standard Costing</a></li>
 <li><a href="/managerial/performance/">Performance Measurement</a></li>
+</ul></li><li><a href="">Miscellaneous</a><ul class="chapters">
 <li><a href="/misc/tvm/">Time Value of Money</a></li>
 <li><a href="/misc/corporate-finance/">Corporate Finance</a></li>
 <li><a href="/misc/forms-of-business/">Forms of Business</a></li>
-</ul>
+</ul></li></ul>
+</div>
 <div id="likebox">
 <div class="fb-page" data-href="https://www.facebook.com/accounting.explained" data-width="228" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/accounting.explained"><a href="https://www.facebook.com/accounting.explained">Accounting Explained</a></blockquote></div></div>
 </div>
@@ -117,9 +115,25 @@ Privacy Policy
 <div id="footer">
 <p class="small">Copyright © 2011 - 2013 AccountingExplained.com | All Rights Reserved<br>No part of this website may be reproduced without a prior written permission.<br><a href="/contact">Contact Us</a> | <a href="/privacy">Privacy Policy</a> | <a href="/disclaimer">Disclaimer</a></p>
 </div>
-<script>$('table.formula').wrap("<div class='hscroll'></div>");$('math.MathML').wrap("<div class='math'><div class='mathjax'></div></div>");$('table.data').wrap("<div class='hscroll'></div>");$('#page img').wrap("<div class='hscroll'></div>");</script>
+<script>$('table.formula').wrap("<div class='hscroll'></div>");$('math.MathML').wrap("<div class='math'><div class='mathjax'></div></div>");$('table.data').wrap("<div class='hscroll'></div>");$('#text img').wrap("<div class='hscroll'></div>");</script>
 <script type="text/javascript">
 jQuery(document).ready(function(){jQuery('#stext').css("background","#FFF url('http://www.google.com/cse/images/google_custom_search_watermark.gif') no-repeat 5px center");jQuery('#stext').focus(function(){jQuery(this).css({"background-image":"none","opacity":"1"});});jQuery('#stext').blur(function(){if(!jQuery(this).val()){jQuery(this).css({"background":"#FFF url('http://www.google.com/cse/images/google_custom_search_watermark.gif') no-repeat 5px center","opacity":"0.75"});}});});
+</script>
+<script>
+(function($) {
+  var allPanels = $('#subjects > li > ul').hide();
+  $('#subjects > li > a').click(function() {
+      $this = $(this);
+      $target =  $this.next();
+      if(!$target.hasClass('active')){
+         allPanels.removeClass('active').slideUp(250);
+         $target.addClass('active').slideDown(250);
+      } else {
+      	 $target.removeClass('active').slideUp(250);
+      }
+    return false;
+  });
+})(jQuery);
 </script>
 
 </body></html>
