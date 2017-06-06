@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buybuybaby.com privacy policy that was archived on 2016-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161114192638id_/https%3A//www.buybuybaby.com/store/static/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buybuybaby.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606201424id_/https%3A//www.buybuybaby.com/store/static/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -225,7 +225,7 @@
 	
 	
  
-<iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script type="text/javascript" async="" src="//cdn.socialannex.com/partner/9411351/universal.js"></script><script type="text/javascript" async="" src="//d3oq49z2nwxwn1.cloudfront.net/yawa/52657396/yawa.min.js"></script><script async="" type="text/javascript" src="//sec.levexis.com/clients/bedbathbeyond/1.js"></script><script type="text/javascript">
+<iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script type="text/javascript" async="" src="//d3oq49z2nwxwn1.cloudfront.net/yawa/52657396/yawa.min.js"></script><script async="" type="text/javascript" src="//sec.levexis.com/clients/bedbathbeyond/1.js"></script><script type="text/javascript" async="" src="//cdn.socialannex.com/partner/9411351/universal.js"></script><script type="text/javascript">
 
 
 var SS_DC,
@@ -235,7 +235,6 @@ var SS_DC,
     if (dcPrefix !== '') {
         SS_DC = (dcPrefix === 'DC1' ? 'AN' : (dcPrefix === 'DC2' ? 'SD' : dcPrefix));
     }
-   		/* introduced for BBBI:3815 */
     	SS_EN =  'En'; 
 }());
 
@@ -340,21 +339,42 @@ window.BOOMR_config = {
   doc.write('<body onload="document._l();">');
   doc.close();
 })();
+(function() { 
+    BOOMR = window.BOOMR || {}; 
+    BOOMR.plugins = BOOMR.plugins || {}; 
+    BOOMR.plugins.BBB = { 
+        init: function() { 
+            BOOMR.subscribe("before_beacon", function() { 
+                if (BOOMR.window && BOOMR.window.SS_WATTS) { 
+                    BOOMR.addVar({ 
+                        "tp.ss.sid": BOOMR.window.SS_WATTS["site id"], 
+                        "tp.ss.rt": BOOMR.window.SS_WATTS["request time"], 
+                        "tp.ss.c": BOOMR.window.SS_WATTS["campaigns"], 
+                        "tp.ss.v": BOOMR.window.SS_WATTS["variations"], 
+                        "tp.ss.sg": BOOMR.window.SS_WATTS["servergroup name"], 
+                    }); 
+                } 
+            }); 
+        }, 
+        is_complete: function() { 
+            return true; 
+        } 
+    }; 
+})();
 </script>
 
 
 
 
-		<link rel="stylesheet" type="text/css" href="/_assets/global/css/bbb_combined.css?v=201611071049201506e1aDC2">
+		<link rel="stylesheet" type="text/css" href="/_assets/global/css/bbb_combined.css?v=2017050322373193ce969DC2">
 		<!--[if lte IE 9]>
-            <link rel="stylesheet" type="text/css" href="/_assets/global/css/global.min.css?v=201611071049201506e1aDC2" />
-            <link rel="stylesheet" type="text/css" href="/_assets/global/css/bbb_combined_IE.css?v=201611071049201506e1aDC2" />
+            <link rel="stylesheet" type="text/css" href="/_assets/global/css/global.min.css?v=2017050322373193ce969DC2" />
+            <link rel="stylesheet" type="text/css" href="/_assets/global/css/bbb_combined_IE.css?v=2017050322373193ce969DC2" />
         <![endif]-->
-		<link rel="stylesheet" type="text/css" href="/_assets/global/css/print.min.css?v=201611071049201506e1aDC2" media="print">
+		<link rel="stylesheet" type="text/css" href="/_assets/global/css/print.min.css?v=2017050322373193ce969DC2" media="print">
     
-<link rel="stylesheet" type="text/css" href="/_assets/bbbaby/css/theme.min.css?v=201611071049201506e1aDC2">
-
-
+		<link rel="stylesheet" type="text/css" href="/_assets/bbbaby/css/theme.min.css?v=2017050322373193ce969DC2">
+    
 
 <script type="text/javascript">
     <!--
@@ -379,7 +399,8 @@ window.BOOMR_config = {
                 name: 'United States of America'
             };
         
-    BBB.config.datePickerDateToday = new Date('11.14.2016'.replace(/\./g,'/'));
+    BBB.config.datePickerDateToday = new Date('06.06.2017'.replace(/\./g,'/'));
+	BBB.config.datePickerDateTomorrow=new Date(BBB.config.datePickerDateToday.getFullYear(), BBB.config.datePickerDateToday.getMonth(), BBB.config.datePickerDateToday.getDate()+1);
     BBB.config.datePickerMinDate = new Date(BBB.config.datePickerDateToday.getFullYear()-2, BBB.config.datePickerDateToday.getMonth(), BBB.config.datePickerDateToday.getDate());
     BBB.config.datePickerMaxDate = new Date(BBB.config.datePickerDateToday.getFullYear()+5, BBB.config.datePickerDateToday.getMonth(), BBB.config.datePickerDateToday.getDate());
     
@@ -652,15 +673,13 @@ window.BOOMR_config = {
 <script type="text/javascript" src="/store/_includes/end_script.jsp">
 
 </script>
-<style type="text/css">
-.bb #headerWrapper #mainMenu .menuItem a {font-size: 14px!important;}.iconGiftBG .icon-gift:before {color: #2793cd!important;}.iconGiftBG .icon-gift{margin: 4px 4px 0 7px!important;}.shopNavHoverPanel .shopNavLinks>li.iconGiftBG>a {color: #2793cd!important;}.bb .category #hero{height: 411px!important;}
-</style>
-        <script type="text/javascript" src="/_assets/global/js/mobileRedirect.min.js?v=201611071049201506e1aDC2"></script>
+<style type="text/css"> .bb #headerWrapper #mainMenu .menuItem a {font-size: 14px!important;}.iconGiftBG .icon-gift:before {color: #2793cd!important;}.iconGiftBG .icon-gift{margin: 4px 4px 0 7px!important;}.shopNavHoverPanel .shopNavLinks>li.iconGiftBG>a {color: #2793cd!important;}.bb .category #hero{height: 411px!important;} .bb #headerWrapper #topNavMenu>ul>li:first-child {display:none;}.bb #headerWrapper #topNavMenu>ul>li.last {display:block;}.bb #headerWrapper #topNavMenu>ul>li.last, #headerWrapper #topNavMenu>ul>li.last {border-left:1px solid #ccc;}.bb #ssOurBrands-textLinks, #ssOurBrands-textLinks {margin-left:10px;}.bb #ssOurBrands-textLinks #ssOurBrands-babySprite, .bb #ssOurBrands-textLinks #ssOurBrands-cpwmSprite, .bb #ssOurBrands-ctsSprite, .bb #ssOurBrands-textLinks #ssOurBrands-harmonSprite, .bb #ssOurBrands-textLinks #ssOurBrands-oakSprite, .bb #ssOurBrands-textLinks #ssOurBrands-kingsSprite {padding-right:6px!important;}/* Footer Styling */.bb #footer {background: none!important;background-color:#fefafc!important;}</style>
+        <script type="text/javascript" src="/_assets/global/js/mobileRedirect.min.js?v=2017050322373193ce969DC2"></script>
     
-            <script type="text/javascript" src="/_assets/global/js/thirdparty/tealeaf/tealeaf-w3c-prod-min.js?v=201611071049201506e1aDC2"></script> 
+            <script type="text/javascript" src="/_assets/global/js/thirdparty/tealeaf/tealeaf-w3c-prod-min.js?v=2017050322373193ce969DC2"></script> 
 
 
-        <script type="text/javascript" src="/_assets/global/js/jquery-1.7.1.min.js?v=201611071049201506e1aDC2"></script>
+        <script type="text/javascript" src="/_assets/global/js/jquery-1.7.1.min.js?v=2017050322373193ce969DC2"></script>
 
 
 
@@ -713,8 +732,10 @@ window.BOOMR_config = {
  
  
  
-        <link rel="stylesheet" type="text/css" href="/_assets/global/css/cms.min.css?v=201611071049201506e1aDC2">
-        <link rel="stylesheet" type="text/css" href="/_assets/bbbaby/css/cms.min.css?v=201611071049201506e1aDC2">
+ 
+ 
+        <link rel="stylesheet" type="text/css" href="/_assets/global/css/cms.min.css?v=2017050322373193ce969DC2">
+        <link rel="stylesheet" type="text/css" href="/_assets/bbbaby/css/cms.min.css?v=2017050322373193ce969DC2">
     
  
  
@@ -726,7 +747,7 @@ window.BOOMR_config = {
 	
  
  
-      <!-- <link href="/_assets/global/css/jquery.webui-popover.css?v=201611071049201506e1aDC2" rel="stylesheet" type="text/css" /> -->
+      <!-- <link href="/_assets/global/css/jquery.webui-popover.css?v=2017050322373193ce969DC2" rel="stylesheet" type="text/css" /> -->
 
     
 	
@@ -865,14 +886,7 @@ window.BOOMR_config = {
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	 	
+ 
 	
 	
 	
@@ -884,6 +898,20 @@ window.BOOMR_config = {
 	
 	
 	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 	
+	
+	
 	
 	
 	
@@ -970,6 +998,10 @@ window.BOOMR_config = {
  
  
  
+ 
+ 
+ 
+ 
    
  
   	
@@ -1027,8 +1059,15 @@ window.BOOMR_config = {
 	
 	
 	
-				<link rel="alternate" media="only screen and (max-width:640px)" href="https://m.buybuybaby.com/m/static/PrivacyPolicy/">
-			
+	
+	
+	
+	
+	
+					<link rel="alternate" media="only screen and (max-width:640px)" href="https://m.buybuybaby.com/m/static/PrivacyPolicy/">
+				
+	
+	
 	
 			
 	
@@ -1173,7 +1212,7 @@ window.BOOMR_config = {
 	<script type="text/javascript">
 		window.tmParam = {site_id:'BuyBuyBaby'};			
 		window.tmParam.customer_email = '';	
-		window.tmParam.profile_id = 'DC24013248123';
+		window.tmParam.profile_id = 'DC25390952599';
 		window.tmParam.GAAccount = 'GAAccountId';
 		window.tmParam.trackPageview = '_trackPageview';
 		window.tmParam.customer_country = 'US';
@@ -1275,37 +1314,111 @@ window.BOOMR_config = {
 								 
 			<script type="text/javascript">	 
 				(function(d,s){ 
-					var client = 'bedbathbeyond'; 
-					var siteId = 1; 
-					// do not edit 
-					var a=d.createElement(s),b=d.getElementsByTagName(s)[0]; 
-					a.async=true;a.type='text/javascript'; 
-					a.src='//sec.levexis.com/clients/'+client+'/'+siteId+'.js'; 
-					a.tagman='st='+(+new Date())+'&c='+client+'&sid='+siteId; 
-					b.parentNode.insertBefore(a,b); 
-					})
-					(document,'script'); 
+					function loadLevexisJS() {
+						var client = 'bedbathbeyond'; 
+						var siteId = 1; 
+						// do not edit 
+						var a=d.createElement(s),b=d.getElementsByTagName(s)[0]; 
+						a.async=true;a.type='text/javascript'; 
+						a.src='//sec.levexis.com/clients/'+client+'/'+siteId+'.js'; 
+						a.tagman='st='+(+new Date())+'&c='+client+'&sid='+siteId; 
+						b.parentNode.insertBefore(a,b);	
+					} 
+					
+					if (window.attachEvent) {
+				        window.attachEvent('onload', loadLevexisJS);
+				    }
+				    else {
+				        window.addEventListener('load', loadLevexisJS, false);
+				    }
+				})
+				(document,'script'); 
 			</script> 
 			
 	
 	
 
         <script type="text/javascript">
-        //<![CDATA[
-        var yawa_cmds = yawa_cmds || [];
-        var yourAmigoSiteId = 52657396;
-        (function() {
-        var _yawa = document.createElement("script"); _yawa.type ="text/javascript";
-        _yawa.async = true;     
-        _yawa.src = "//d3oq49z2nwxwn1.cloudfront.net/yawa/"+ yourAmigoSiteId +"/yawa.min.js";
-        var _yawa_s = document.getElementsByTagName("script")[0];
-        _yawa_s.parentNode.insertBefore(_yawa, _yawa_s);
-        }());
-        //]]>
+        function loadYawaJS() {
+        	//<![CDATA[
+        	var yawa_cmds = yawa_cmds || [];
+	        var yourAmigoSiteId = 52657396;
+	        (function() {
+	        var _yawa = document.createElement("script"); _yawa.type ="text/javascript";
+	        _yawa.async = true;     
+	        _yawa.src = "//d3oq49z2nwxwn1.cloudfront.net/yawa/"+ yourAmigoSiteId +"/yawa.min.js";
+	        var _yawa_s = document.getElementsByTagName("script")[0];
+	        _yawa_s.parentNode.insertBefore(_yawa, _yawa_s);
+	        }());
+	        //]]>
+        }
+        
+        if (window.attachEvent) {
+	        window.attachEvent('onload', loadYawaJS);
+	    }
+	    else {
+	        window.addEventListener('load', loadYawaJS, false);
+	    }
         </script>
     
+	<script type="text/javascript">
+	var BBB = BBB || {},
+		performanceApi = window.performance,
+		consoleTimeStamp = window.console ? window.console.timeStamp : null;
+
+	BBB.pageNameFromVar = "StaticPage";
+	BBB.currentPageName = "";
+	BBB.prevMarks = {};
+	
+	if (BBB.pageNameFromVar === "ProductDetails") {
+		BBB.currentPageName = "ProductDetailsPage";
+	} else if (BBB.pageNameFromVar === "SubCategoryDetails") {
+		BBB.currentPageName = "ProductListPage";
+	} else if (BBB.pageNameFromVar === "Search") {
+		BBB.currentPageName = "SearchResults";
+	}
+	BBB.currentPageMarks = BBB.mPulseZones[BBB.currentPageName];
+	
+	BBB.addPerfMarkForZones = function (zoneName, markName, notCaptureMark) {
+		var dontCaptureMark = notCaptureMark || false,
+			markIndex,
+			zoneItemsLength;
+		performanceApi = window.performance;
+		/* If page is not configured or window.performance api is not available do not proceed further */
+		if (BBB.currentPageName === "" || !(performanceApi && performanceApi.mark && performanceApi.measure)) {
+			return;
+		}
+		try {
+			if (BBB.currentPageMarks[zoneName]) {
+				markIndex = BBB.currentPageMarks[zoneName].indexOf(markName);
+				if (markIndex > -1) {
+					if(!dontCaptureMark) {
+						performanceApi.mark(markName);
+						BBB.prevMarks[zoneName] = markName;
+						if (consoleTimeStamp) {
+							consoleTimeStamp(zoneName + "_" + markName); //To capture marks in timeline view
+						}
+					}
+					BBB.currentPageMarks[zoneName].splice(markIndex, 1);
+					zoneItemsLength = BBB.currentPageMarks[zoneName].length;
+					if (zoneItemsLength === 0) {
+						performanceApi.measure(zoneName, 'navigationStart', BBB.prevMarks[zoneName]);
+					}
+				}
+			}
+		} catch (error) {
+			if (window.console) {
+				window.console.log("Correct mpulse zone configuration required.");
+			}
+		}
+	}
+	</script>
+
+ <style> #ssOurBrands-textLinks li a,.bb #ssOurBrands-textLinks li a{color:#666!important;font-size:11px!important;padding:5px 5px 0!important;font-weight:400!important;font-family:FuturaStdMedium!important;text-align:center;line-height:26px!important}.bb #headerWrapper #topNavMenu>ul>li a{background:0 0;color:#02689d!important;font-size:12px!important;font-family:Arial;font-weight:700}#headerWrapper #topNavMenu ul li:first-child,.bb #headerWrapper #topNavMenu ul li:first-child{min-width:90.19px}.bb #headerWrapper #promoArea.promoMargin{margin:12px 0 0 -32px!important}.bb #ssOurBrands-textLinks li a{color:#02689d!important;font-family:Helvetica,Arial,sans-serif!important} </style> 
  </head> 
-  <body id="themeWrapper" class="bb"> 
+  <body id="themeWrapper" class="bb">
+	<input type="hidden" value="StaticPage" id="PageType">
+    
         <a class="skip" href="#hero">Skip to Primary Content </a>
         
                 <a class="skip" href="#department-navigation">Skip to Navigation </a>
@@ -1314,7 +1427,7 @@ window.BOOMR_config = {
 	<div class="container_12 clearfix">
 		<div class="grid_12">
 			<p class="errHeading">JavaScript Disabled</p>
-            <p>buybuyBaby works best with JavaScript enabled. To learn how to enable JavaScript in the most popular web browsers <a title="Learn how to enable JavaScript in the most popular web browsers." class="bold" href="http://www.google.com/search?q=Learn+how+to+enable+JavaScript+in+the+most+popular+web+browsers" target="_blank">click here</a>.</p>
+            <p>buybuyBaby works best with JavaScript enabled. To learn how to enable JavaScript in the most popular web browsers <a title="Learn how to enable JavaScript in the most popular web browsers." class="bold" href="http://www.google.com/search?q=Learn+how+to+enable+JavaScript+in+the+most+popular+web+browsers" target="_blank">View PDF</a>.</p>
 		</div>
 	</div>
 </div>
@@ -1323,9 +1436,9 @@ window.BOOMR_config = {
 		<!-- 
         <div id="userNetworkInfo" class="hidden"> 
 		<ul> 
-			<li id="session_id">3hNkTj6yBjuTw0Mtc0pDQHYh-31fsk9E2A36r0hFPZJH5aQSBRgE!1145547778!1479151599282</li> 
-			<li id="jvm_name">DC2-bbby-app-92</li>
-			<li id="time">Mon Nov 14 02:26:39 EST 2016</li>	</ul>	</div> --> 
+			<li id="session_id">TbV_C0gQRxuDn5XRhKemKHJXGSQlT8nvsemEAUCdrxM0dueOS2k1!1126028137!1496780064784</li> 
+			<li id="jvm_name">DC2-bbby-app-40</li>
+			<li id="time">Tue Jun 06 04:14:24 EDT 2017</li>	</ul>	</div> --> 
 	<!--googleon: all--> 
 <input type="hidden" id="hiddenCssPath" value="">
 
@@ -1340,10 +1453,27 @@ var isDynUserCookieExists = 'false';
 </script>
 
 
+<!-- <script>
+	// adblock
+	var test = document.createElement('div');
+	test.innerHTML = '&nbsp;';
+	test.className = 'adsbox';
+	document.body.appendChild(test);
+	window.setTimeout(function() {
+		  if (test.offsetHeight === 0) {
+		    //document.body.classList.add('adblock');
+		    alert("ad blocker present");
+		  }
+		  test.remove();
+		}, 100);
+</script> -->
+
+
 		<div id="pageWrapper" class="PrivacyPolicy">
 			
  
  
+	
 	
 	
 	
@@ -1409,10 +1539,17 @@ var isDynUserCookieExists = 'false';
 	
 	
 	<input type="hidden" name="isInternationalCustomer" value="false">
+	<span class="visuallyhidden" aria-live="assertive" id="liveAnnounce"></span>
+	<input type="hidden" name="showRegistryRibbon" value="false">
 	
 	
 	
 	
+	
+	
+ 
+	
+ 
 	
 	
 	
@@ -1430,53 +1567,59 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
- 
- 
 	
-	
+ 
  
 	
 	
+ 
+	
+	
+	
+ 
 				
+                            
 	 <div id="headerWrapper" role="navigation">
+	 	 
+ 
+ 
+ 
+ 
+ 
+ 
         <div id="topNavHeader">
+        <input type="hidden" name="isAdBlockerDetected" id="isAdBlocker" value="false"> 
+        		
+			<div id="cookie-block-msg-wrapper" style="display:none;">
+				<div class="cookie-blocker-bg"><div class="cookie-blocker"><div class="cookie-blocker-msg"><span class="title">Please Enable Cookies</span><div class="cookie-blocker-msg-content">Cookies are required for our site to function properly. Please go to your browser settings and enable cookies.</div></div><div class="cookie-close-icon"><span class="icon icon-close" aria-hidden="true"></span></div></div></div>
+	</div>		 
+			
+			
        	 		<div class="container_12 posRel clearfix">
 	                <div class="grid_9 topNapWrap omega">
 	                    <div id="topNavMenu">
+	                        <div id="ssOurBrands-textLinks">
+	                        	
+ <ul class="widthHundred">
+<li id="ssOurBrands-babySprite"><a href="//www.bedbathandbeyond.com/" title="Bed Bath &amp; Beyond" target="_blank">Bed Bath &amp; Beyond<span class="icon-text">Opens a new window</span></a></li>
+
+<li id="ssOurBrands-cpwmSprite"><a href="http://www.worldmarket.com/" title="Cost Plus World Market" target="_blank">Cost Plus World Market<span class="icon-text">Opens a new window</span></a></li>
+
+<li id="ssOurBrands-ctsSprite"><a href="http://www.christmastreeshops.com/" title="Christmas Tree Shops" target="_blank">Christmas Tree Shops<span class="icon-text">Opens a new window</span></a></li>
+
+<li id="ssOurBrands-harmonSprite"><a href="http://www.harmondiscount.com/" title="Harmon Face Values" target="_blank">Harmon Face Values<span class="icon-text">Opens a new window</span></a></li>
+
+<li id="ssOurBrands-oakSprite"><a href="http://www.ofakind.com/?utm_source=logo&amp;utm_medium=BBB&amp;utm_campaign=Header_Logo_BBBY_Desktop" title="Of A Kind" target="_blank">Of A Kind<span class="icon-text">Opens a new window</span></a></li>
+
+<li id="ssOurBrands-kingsSprite"><a href="https://www.onekingslane.com/?utm_source=bedbath&amp;utm_medium=partnerships&amp;utm_campaign=logo" title="One Kings Lane" target="_blank">One Kings Lane<span class="icon-text">Opens a new window</span></a></li>
+
+<li id="ssOurBrands-pmallsSprite"><a href="http://www.PersonalizationMall.com/?did=314428&amp;utm_source=bbby&amp;utm_medium=text?" title="Personalization Mall" target="_blank">Personalization Mall<span class="icon-text">Opens a new window</span></a></li>
+</ul>
+	
+	
+							</div>
 	                        <ul class="clearfix">
 		                        
- 
-		                         <li>
-	                                <a href="#" id="shipToLink" title="International Shipping"> Ship To  <span class="flag flagus"></span> </a>
-	                            </li>
-	                            
- 
- 
- 
- 
-	                                    <li class="findStore"><a href="/store/selfservice/FindStore">Find A Store</a></li> 
- 
- 
- 
-	<li><a href="http://app.buybuybaby.com/prefs/pref.cfm?b=11">Sign Up For Offers</a></li>
-	
-	                            <li><a href="/store/static/GiftCardHomePage">Gift Cards</a></li> <li>	
-	
-	
-										<a href="/store/account/TrackOrder">
-									
- 
-	Track Order</a></li> 
-	                            <li><a href="/store/selfservice/ContactUs">Contact Us</a></li> 
-	
-	                            <li>
-									<div id="personalStoreLink">
-										<a href="/store/personalstore/">You May Like...</a>
-									</div>
-									<div class="clear"></div>
-									
-								</li>
-	                            
  
  
 						        	 <li class="last posRel clearfix">						        	 	
@@ -1558,62 +1701,112 @@ var isDynUserCookieExists = 'false';
  
  
  
+ 
+   
 
-                        <div class="grid_3 alpha">
+                        <div class="grid_2 alpha">
                         <div id="siteLogo" itemscope="" itemtype="http://schema.org/Organization">
                             
  
  
  
+	
  
  
  
  
-                                    <a itemprop="url" href="/" title="buybuy BABY"><img itemprop="logo" src="/_assets/global/images/logo/logo_bb_circle.png" height="122" width="127" alt="buybuy BABY"></a>
-                                
+ 
+ 
+ 
+                                    <a itemprop="url" href="/" title="buybuy BABY">
+                                        <img itemprop="logo" src="/_assets/global/images/logo/logo_bb_circle.png" onload="BBB.addPerfMarkForZones('ux-destination-verified', 'ux-image-logo-onload');" height="122" width="127" alt="buybuy BABY">
+                                        
+                                        	<script>BBB.addPerfMarkForZones('ux-destination-verified', 'ux-image-logo-inline');</script>
+                                        
+ </a> 
  
  </div> </div> 
  
  
                     <input type="hidden" name="akamaiCachingOn" class="akamaiCachingOn" value="TRUE">
-                   <div class="grid_5 alpha omega intlFreeShip hidden">
-                   		<div id="promoArea" class="promoExtraMargin">	  
+                   <div class="grid_10 alpha omega intlFreeShip hidden">
+                   		<div id="promoArea" class="promoMargin">	  
                             <div class="clear"></div>
                             
  
-	<style>
-#headerInformation .alpha.grid_5 {width: 390px !important;}
-#headerWrapper #promoArea.promoExtraMargin {margin: 24px 0  0 -95px !important;}
-.ropis p {margin: 5px 0; width: 291px; font-family: 'AmericanTypewriter';font-size: 17px;color: #f75e9f;text-align: left;line-height: 16px;-webkit-font-smoothing: antialiased; font-weight: normal;}
-.line2 {font-family: 'AmericanTypewriter';color: #0a76c0;font-size: 15px;font-weight: normal;display:block;}
-.right-caret {display: inline-block;margin-left: 3px;color: #0a76c0;}
-.ropis:hover {text-decoration: none;}
-.getDetails {font-family: 'Arial';color: #666;font-size: 10px;text-transform: none;-webkit-font-smoothing: subpixel-antialiased;line-height: 13px;display: block;}
-.freeShip {margin-top: 32px !important;}
-.freeShip:hover .getDetails, .ropis:hover .getDetails {text-decoration: underline;}
-</style>
-<!--<a href="/store/s/buybuybabytrends/?icid=Home_Nav_promo"><div class="fl ropis marTop_5">see what's<span class="line2"> trending now<span class="right-caret">&rsaquo;</span></span> 
-</div></a>-->
-<a href="/store/static/ShippingPolicies?icid=Home_Nav_promoSS1">
-	<div class="fl ropis">
-		<div>
-			<p><span style="font-family: AmericanTypewriter; font-weight: bold;">free shipping</span> on orders over <span style="font-family: AmericanTypewriter; font-weight: bold;">$75 </span><span class="getDetails fl">details</span></p>
-			<!-- <p><span style="font-family: AmericanTypewriter; font-weight: bold;">$6.99</span> flat-fee on orders under <span style="font-family: AmericanTypewriter; font-weight: bold;">$75</span></p>
-			<span class="getDetails fl">Learn More</span><span class="right-caret fl"></span> -->
-		</div>
-	</div>
-</a>
+	<a href="/store/static/ShippingPolicies?icid=Home_Nav_promo" onclick="s_objectID=&quot;https://www.bedbathandbeyond.com/store/static/ShippingPolicies?icid=Home_Nav_promo_1&quot;;return this.s_oc?this.s_oc(e):true">
+                       <div class="freeShip marTop_10"> 
+                       <span>Free Shipping </span> 
+                       <span class="line2">on Orders over <span class="futBold">$49</span></span> 
+                       <span class="getDetails">details</span>
+                       </div> 
+                       </a> 
+
+                       <a class="cb ropisHeader" href="/store/static/reserveonline" onclick="s_objectID=&quot;https://www.bedbathandbeyond.com/store/static/reserveonline_1&quot;;return this.s_oc?this.s_oc(e):true">
+                       <div class="ropis marTop_5"> 
+                       <span class="futBold">In Store Pickup <span class="getDetails">details</span>
+                       </span>
+                       </div> 
+                       </a>
+
  
  
  
- </div> </div> 
+ </div> 
+                	    <div id="linkArea" class="fr ">
+                       		<ul class="subNav2 active">
+                                
+                                
+ 
+ 
+ 
+ 
+	                                    <li class="findStore"><a href="/store/selfservice/FindStore">
+	                                     <span class="icon icon-store-icon marRight_5" aria-hidden="true"></span>
+	                                    Find A Store</a> </li> 
+ 
+ 
+ 
+ 
+ <li> 
+ 
+									<div id="personalStoreLink">
+										<a href="/store/personalstore/"><!-- You May Like... -->You May Like...</a>	</div>	
+	
+	
+	</li> 
+ 
+ 
+	<li><a target="_blank" href="https://offers.buybuybaby.com/SignupWidget/dynamic/BABUS-email-printable-offers?acq_source=1178" title="Sign Up For Offers" aria-label="Sign Up For Offers. Opens a new window.">Sign Up For Offers</a></li>
+	
+ 
+ 
+ <li>	
+	
+	
+										<a href="/store/account/TrackOrder">
+									
+ 
+	Track Order</a></li>	
+ 
+	                            <li><a href="/store/selfservice/ContactUs">Contact Us</a></li> 
+ 
+	                            <li><a href="/store/static/GiftCardHomePage">Gift Cards</a></li> 
+ 
+                       
+		                         <li>
+	                                <a href="#" id="shipToLink" title="International Shipping"> Ship To  <span class="flag flagus"></span> </a>
+	                            </li>
+	                            
+ </ul> </div> 
+ </div> 
  
  
  
 	
  
 	                    	<a id="department-navigation" name="content"></a>
-	                     	<div class="" id="collegeBridalArea">
+	                     	<div id="collegeBridalArea">
 							<style>
 							#headerWrapper #collegeBridalArea .shopLinkPanel ul.menuListDesc li a {font-size:12px; line-height:14px;}
 							</style>
@@ -1680,6 +1873,8 @@ var isDynUserCookieExists = 'false';
  
  
 
+
+
  
  
  
@@ -1740,6 +1935,10 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -1789,6 +1988,10 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -1838,6 +2041,10 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -1887,6 +2094,10 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -1936,6 +2147,10 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -1985,6 +2200,10 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -2034,6 +2253,10 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -2083,6 +2306,10 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -2132,6 +2359,10 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -2181,6 +2412,10 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -2232,6 +2467,10 @@ var isDynUserCookieExists = 'false';
  
 	
 	
+	
+	
+ 
+ 
  
  
  
@@ -2248,6 +2487,59 @@ var isDynUserCookieExists = 'false';
 	
 	
 													<a href="/store/category/gifts-more/32641/" data-contentid="tabData_32641" class=""> Gifts &amp; More</a>	
+	
+ </li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+	
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  		 
+							            <li class=" " data-clicked="false" data-panel="shopLinkPanelCat_32820">
+										
+	
+	
+	
+													<a href="/store/category/personalized-gifts/32820/" data-contentid="tabData_32820" class=""> Personalized Gifts</a>	
 	
  </li> 
  
@@ -2292,13 +2584,19 @@ var isDynUserCookieExists = 'false';
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
 	 
  
  
  
  
  
-   </ul>	</div>	</div><!-- .shopLink --> 
+   </ul>	</div>	</div><!-- .shopLink -->	  
  
  
                                 <div id="bridalGiftRegistryLink">
@@ -2327,151 +2625,14 @@ var isDynUserCookieExists = 'false';
                             	<input type="hidden" value="/store/_includes/header/searchFlyout.jsp" name="ajaxServiceURL">
 
                                 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-											<span id="defaultAllValue" class="hidden">All</span>
-											<span id="lblsearchByDept" class="visuallyhidden" aria-hidden="false">Search by Department dropdown</span>
-											<select id="searchByDept" class="hidden">
-											
-	
-	
-	
-	
-	
-	
-	
-	
-													<option value="0">All Departments</option>	
-												<option value="32571">Strollers</option>	
-	
-	
-	
-	
-	
-												<option value="32592">Car Seats</option>	
-	
-	
-	
-	
-	
-												<option value="30002">Gear &amp; Travel</option>	
-	
-	
-	
-	
-	
-												<option value="32609">Furniture</option>	
-	
-	
-	
-	
-	
-												<option value="30001">Bedding &amp; Decor</option>	
-	
-	
-	
-	
-	
-												<option value="30009">Nursing &amp; Feeding</option>	
-	
-	
-	
-	
-	
-												<option value="30003">Bath &amp; Potty</option>	
-	
-	
-	
-	
-	
-												<option value="30004">Health &amp; Safety</option>	
-	
-	
-	
-	
-	
-												<option value="30005">Toys &amp; Learning</option>	
-	
-	
-	
-	
-	
-												<option value="30007">Clothing &amp; Accessories</option>	
-	
-	
-	
-	
-	
-												<option value="32641">Gifts &amp; More</option>	
-	
-	</select>	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-									<input type="hidden" name="pageSize" value="1-48">
-									<input type="hidden" name="dimensionIds" value="4294967217-4294965885-">
-								
-	
-	
-	
- 
                                 
-                                <div class="searchDD">All</div> 
+                                
                                 <input type="hidden" name="searchURL" value="/store/s/">
                                 <input type="hidden" name="vendorParam" value="">
            
                                 <div class="searchFormInputWrapper">	
                                     <label id="lblsearchFormInput" class="txtOffScreen" for="searchFormInput">Search Products</label>
-                                	<input id="searchFormInput" aria-labelledby="lblsearchFormInput" type="text" value="" title="Search Products" name="searchBox" placeholder="What can we help you find?" autocomplete="off" aria-haspopup="true" aria-autocomplete="list">
+                                	<input id="searchFormInput" role="textbox" aria-labelledby="lblsearchFormInput" aria-owns="searchFormResults" type="text" value="" title="Search Products" name="searchBox" placeholder="What can we help you find?" autocomplete="off" autocorrect="off" aria-haspopup="true" aria-autocomplete="none">
                                 </div>
 								<div class="searchFormButtonWrapper fr">
                                 	<button type="submit" class="searchFormButton" value="submit your search" name="submit your search" role="button" title="Search" style="padding:8px">
@@ -2492,7 +2653,7 @@ var isDynUserCookieExists = 'false';
 								<input type="submit" class="hidden" value=" ">
 							</form>
 						</div>
-                        <div id="searchFormResults"></div>
+                        <div id="searchFormResults" role="listbox"></div>
                         
                     </div>
                 </div>
@@ -2534,103 +2695,38 @@ var isDynUserCookieExists = 'false';
                 	</div>
                 </div>
                 
- </div> </div>	 	  
+ </div> </div>	  
+ 
+                                      <div id="registryRibbonHeader"></div>
+                                 
  
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-	
-	
-	
-			
-	
- 
- 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
- 
- 
-			<input type="hidden" name="interactiveCheckListFlag" value="true">
-			<div id="loaderChecklistInt" class="hidden">
-			   <div class="loading-checklist">CHECKLIST LOADING</div>
-                              <img alt="Loader Image" src="/_assets/global/images/widgets/small_loader.gif" class="loading-image">
-			</div>
-		
-              
- 
-	
-	
-						<div id="navBottomNotes">
-							<div class="container_12 clearfix">
-								<div id="navBottomInfo" class="grid_12 clearfix">
-									<div id="navBottomInfoContent"></div>
-								</div>
-							</div>
-						</div>		
-					
-	
-	
- 
-	
-	
-
  </div> </div> 
  
  
  
  
+	                    <script>
+                        var otherCats = ["Jewelry", "Luggage", "Pet Care", "Sports Fan", "Audio"];
+                        var displayCat = otherCats[Math.floor(Math.random()*otherCats.length)];
+
+                        $(document).ready(function () {
+                        var supportsTouch = 'ontouchstart' in window || navigator.msMaxTouchPoints || navigator.userAgent.toLowerCase().match( /windows phone os 7/i );  //check for touch support
+
+                        if (supportsTouch) {
+			            $('.shopLink').on('touchstart', function () {
+                        $('#shopLinkPanelCat_10007').parent('li').find('a[data-contentid="tabData_10007"]').text(displayCat + ' & More');
+                        });
+                        }
+
+                    else {
+                        $('.shopLink').mouseenter(function() {
+				        $('#shopLinkPanelCat_10007').parent('li').find('a[data-contentid="tabData_10007"]').text(displayCat + ' & More');
+			            });
+                        }    
+                        });
+                        </script>  
+
 
 
  
@@ -2729,15 +2825,15 @@ var isDynUserCookieExists = 'false';
 
 <p>At buybuy BABY we are committed to protecting the privacy of our customers, and therefore we do not sell or rent the information our customers provide to any third party. Further, we do not share the information that you provide to us with any third parties for their direct marketing purposes without first providing you the opportunity to opt-in or opt-out of such sharing. You may request information about how we share information consistent with this Privacy Policy by contacting us at: <a href="mailto:privacy.information@buybuybaby.com">privacy.information@buybuybaby.com</a>.</p>
 
-<p>The www.buybuybaby.com web site (the <b>"Site"</b>) is owned by Buy Buy Baby, Inc. We refer to Buy Buy Baby, Inc. as the "Company," "<b>we</b>," "<b>us</b>" or "<b>our</b>." The Company’s parent, Bed Bath &amp; Beyond Inc. ("Bed Bath &amp; Beyond"), assists with the operation and maintenance of the Site.</p>
+<p>The www.buybuybaby.com web site (the <strong>"Site"</strong>) is owned by Buy Buy Baby, Inc. We refer to Buy Buy Baby, Inc. as the "Company," "<strong>we</strong>," "<strong>us</strong>" or "<strong>our</strong>." The Company’s parent, Bed Bath &amp; Beyond Inc. ("Bed Bath &amp; Beyond"), assists with the operation and maintenance of the Site.</p>
 
-<p>This page sets forth our policies regarding the use and disclosure of information we collect from or are able to obtain about the Site’s users. We refer to these policies as our "<b>Privacy Policy</b>." In addition to the lower case words "we", "us" and "our" defined above, you will notice that we capitalize certain words in this Privacy Policy even though the rules of grammar do not require that they be capitalized. We do this because these words have specific meanings in this Privacy Policy. These specific meanings are found where the capitalized words are placed in bold text and inside quotation marks.</p>
+<p>This page sets forth our policies regarding the use and disclosure of information we collect from or are able to obtain about the Site’s users. We refer to these policies as our "<strong>Privacy Policy</strong>." In addition to the lower case words "we", "us" and "our" defined above, you will notice that we capitalize certain words in this Privacy Policy even though the rules of grammar do not require that they be capitalized. We do this because these words have specific meanings in this Privacy Policy. These specific meanings are found where the capitalized words are placed in bold text and inside quotation marks.</p>
 
 <p>We hope this Privacy Policy will answer your questions regarding how we treat information gathered from our Site. If you have questions or concerns regarding this Privacy Policy, other than requests for our information sharing practices as described in the first paragraph above, please feel free to contact us at <a href="mailto:customer.service@buybuybaby.com">customer.service@buybuybaby.com</a>; or, if you wish to exclude the information that you provide to us from our direct marketing programs including e-mail, please refer to the section titled "How to Opt-Out," below.</p>
 
 <p>This Privacy Policy does not apply to information that you may provide to us, or that we may obtain through means other than the Site, such as by phone or postal mail. But please note that information including your name, billing address, shipping address, e-mail address, phone number, and credit card number that you provide to us through such means will be treated in accordance with the first paragraph above and our use of such information will be consistent with this Privacy Policy. By accessing and using the Site you are agreeing to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you are not authorized to use the Site. Furthermore, by providing us with information on this Site, you fully understand and unambiguously consent to the collection and processing of such information in the United States in accordance with this Privacy Policy.</p>
 
-<p>As we update and diversify our products and services, this Privacy Policy may change. We reserve the right, at our discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. Please check this page for updates periodically. If we make any material changes to this Privacy Policy, we will notify you here. We generally do not provide notice of changes to this Privacy Policy and your use of the Site following any posted changes will indicate your acceptance of such changes. <b>This Privacy Policy became effective in 1999, and was most recently changed on September 15, 2016.</b> The last change to this policy was:</p>
+<p>As we update and diversify our products and services, this Privacy Policy may change. We reserve the right, at our discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. Please check this page for updates periodically. If we make any material changes to this Privacy Policy, we will notify you here. We generally do not provide notice of changes to this Privacy Policy and your use of the Site following any posted changes will indicate your acceptance of such changes. <strong>This Privacy Policy became effective in 1999, and was most recently changed on September 15, 2016.</strong> The last change to this policy was:</p>
 
 <ul>
 <li>To clarify the opt-out procedure for email and postal mail.</li>
@@ -2757,13 +2853,13 @@ var isDynUserCookieExists = 'false';
 
 <h3>Site Usage Information</h3>
 
-<p>We (including through our third party service providers) may inactively collect from you information that is not in the same category as your name, billing address, shipping address, e-mail address, phone number, or credit card number. For example, we might track information about the date and time you access the Site, the type of web browser you use, and the web site from which you connect to our Site. We collect and use this and other information (such as demographic data) to analyze and develop our business strategy and to determine how you found out about us, your interests regarding our products and services and how to further improve our Site. We, or a third party, may also collect information from your activities on the Site as well as other sites for the purpose of providing advertisements and other content that is customized to your interests and preferences. This means that our ads may appear on participating web sites based upon your browsing activity. To accomplish all this, and also to allow us to offer our customers streamlined ordering and other useful features, we, as do many web sites, use and allow our third party advertising companies to use the technologies listed below and other similar technologies (the "<b>Tracking Technologies</b>"): </p>
+<p>We (including through our third party service providers) may inactively collect from you information that is not in the same category as your name, billing address, shipping address, e-mail address, phone number, or credit card number. For example, we might track information about the date and time you access the Site, the type of web browser you use, and the web site from which you connect to our Site. We collect and use this and other information (such as demographic data) to analyze and develop our business strategy and to determine how you found out about us, your interests regarding our products and services and how to further improve our Site. We, or a third party, may also collect information from your activities on the Site as well as other sites for the purpose of providing advertisements and other content that is customized to your interests and preferences. This means that our ads may appear on participating web sites based upon your browsing activity. To accomplish all this, and also to allow us to offer our customers streamlined ordering and other useful features, we, as do many web sites, use and allow our third party advertising companies to use the technologies listed below and other similar technologies (the "<strong>Tracking Technologies</strong>"): </p>
 
 <ul>
 
-<li><b>Cookies and Clear GIFs</b> - Cookies are pieces of information that are stored by your browser on your computer’s hard drive. Cookies make web surfing easier for you by saving your customer identification information (i.e., username, password, shopping cart information, etc.) while you’re at a site. Cookies also track where you travel on a site and what you look at and purchase. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual’s viewing or receipt of a web page or message. You can learn more about how third party advertising companies use cookies and clear GIFs, including how to opt-out, by clicking <a href="http://www.networkadvertising.org/choices" target="_blank"><strong>HERE</strong></a>. Please read the explanation carefully should you choose to opt-out using this method.</li>
-<li><b>IP Address Tracking and Clickstream Data</b> - In addition to cookies and clear GIFs, our servers automatically collect data about your server’s Internet address when you visit our Site. This information, known as an Internet Protocol address, or "<b>IP Address</b>", is a number that is automatically assigned to your computer by your Internet service provider whenever you are on the Internet. When you view pages from our Site, our servers may record or "log" your IP Address and sometimes your domain name. Our server also may record the page that linked you to us and related information including any ads you may have clicked on. Such information is known as "<b>Clickstream Data</b>". </li>
-<li><b>Email Interconnectivity</b> - If you receive email from us, we may use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases. </li>
+<li><strong>Cookies and Clear GIFs</strong> - Cookies are pieces of information that are stored by your browser on your computer’s hard drive. Cookies make web surfing easier for you by saving your customer identification information (i.e., username, password, shopping cart information, etc.) while you’re at a site. Cookies also track where you travel on a site and what you look at and purchase. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual’s viewing or receipt of a web page or message. Visit <a href="http://www.networkadvertising.org/choices" target="_blank" aria-label="Network Advertising Initiative Consumer Opt-Out. Opens a new window."><strong>www.networkadvertising.org/choices</strong></a> to learn more about how third-party advertising companies use cookies and clear GIFs, including how to opt-out. Please read the explanation carefully should you choose to opt-out using this method.</li>
+<li><strong>IP Address Tracking and Clickstream Data</strong> - In addition to cookies and clear GIFs, our servers automatically collect data about your server’s Internet address when you visit our Site. This information, known as an Internet Protocol address, or "<strong>IP Address</strong>", is a number that is automatically assigned to your computer by your Internet service provider whenever you are on the Internet. When you view pages from our Site, our servers may record or "log" your IP Address and sometimes your domain name. Our server also may record the page that linked you to us and related information including any ads you may have clicked on. Such information is known as "<strong>Clickstream Data</strong>". </li>
+<li><strong>Email Interconnectivity</strong> - If you receive email from us, we may use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases. </li>
 </ul>
 
 <p>In some cases, we may link the information collected through the Tracking Technologies with certain information that you provide to us. WE WANT TO BE SURE THAT YOU UNDERSTAND THAT ACCEPTING TRACKING TECHNOLOGIES ONTO YOUR COMPUTER IN NO WAY GIVES US ACCESS TO YOUR COMPUTER OR ANY ADDITIONAL INFORMATION ABOUT YOU. YOU MAY SET YOUR WEB BROWSER SOFTWARE TO REJECT TRACKING TECHNOLOGIES, BUT, IF YOU DO SO, CERTAIN FUNCTIONALITY OF THE SITE MAY BE AFFECTED. Third parties (including, but not limited to, software vendors, advertisers and fulfillment companies) may also use Tracking Technologies by or through the Site. WE HAVE NO CONTROL OVER WHAT INFORMATION SUCH THIRD PARTIES TRACK OR COLLECT. </p>
@@ -2788,7 +2884,7 @@ var isDynUserCookieExists = 'false';
 
 <h3>How Do We Use the Information that You Provide and We Collect?</h3>
 
-<p>We collect information from you for the purposes of fulfilling orders, processing returns and exchanges and providing you with the services you have chosen, providing a high level of customer service, providing you with information we believe may be of interest including mailing our circulars and special offers, for editorial and feedback purposes, for internal marketing and promotional purposes, for a statistical analysis of your behavior, for product development, for content improvement, for protection against fraud and error and to customize the content and layout of the Site (collectively, "<b>Information Usage Purposes</b>"). Notwithstanding the foregoing, we will not knowingly use a mobile phone number for marketing purposes without first obtaining your consent. In performing the Information Usage Purposes, we may combine information we collect on the Site with information we receive from other sources. We do not sell the information that you provide us and we do not disclose such information to any other party, except as set forth in this Privacy Policy. Unless otherwise provided in this Privacy Policy, information that you transmit to the Site or that we collect from the Site will be treated as non-confidential and non-proprietary and you agree that we may use any such information (together with any ideas, concepts, know-how, or techniques contained therein) in any manner, for any purpose, without credit or compensation to you. Without limiting the generality or application of the foregoing, the information that you publish on or through the Baby Registry is governed by specific terms available below under the heading "Baby Registry Information".</p>
+<p>We collect information from you for the purposes of fulfilling orders, processing returns and exchanges and providing you with the services you have chosen, providing a high level of customer service, providing you with information we believe may be of interest including mailing our circulars and special offers, for editorial and feedback purposes, for internal marketing and promotional purposes, for a statistical analysis of your behavior, for product development, for content improvement, for protection against fraud and error and to customize the content and layout of the Site (collectively, "<strong>Information Usage Purposes</strong>"). Notwithstanding the foregoing, we will not knowingly use a mobile phone number for marketing purposes without first obtaining your consent. In performing the Information Usage Purposes, we may combine information we collect on the Site with information we receive from other sources. We do not sell the information that you provide us and we do not disclose such information to any other party, except as set forth in this Privacy Policy. Unless otherwise provided in this Privacy Policy, information that you transmit to the Site or that we collect from the Site will be treated as non-confidential and non-proprietary and you agree that we may use any such information (together with any ideas, concepts, know-how, or techniques contained therein) in any manner, for any purpose, without credit or compensation to you. Without limiting the generality or application of the foregoing, the information that you publish on or through the Baby Registry is governed by specific terms available below under the heading "Baby Registry Information".</p>
 
 <h3>Sharing of Your Information With Our Partners; Transfer of Your Information</h3>
 
@@ -2853,7 +2949,7 @@ var isDynUserCookieExists = 'false';
 
 <h3>How We Respond to Do Not Track Signals</h3> 
 
-<p>We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.  You can change your privacy preferences regarding the use of Tracking Technologies through your browser.  However, as noted above in the Site Usage Information section, if you do adjust your privacy preferences, certain functionality of the site may be affected.  For more information on Do Not Track please visit <a href="http://www.allaboutdnt.org" target="_blank">http://www.allaboutdnt.org</a></p></div></div>
+<p>We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.  You can change your privacy preferences regarding the use of Tracking Technologies through your browser.  However, as noted above in the Site Usage Information section, if you do adjust your privacy preferences, certain functionality of the site may be affected.  For more information on Do Not Track, please visit <a href="http://www.allaboutdnt.org" target="_blank" aria-label="About Do Not Track. Opens a new window.">http://www.allaboutdnt.org</a></p></div></div>
 	
 	
 	
@@ -2919,11 +3015,19 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
 		 
 	
 	
 	
 	
+	
+ 
+ 
+ 
+	
+ 
+ 
 	
 	
 	
@@ -2955,7 +3059,7 @@ var isDynUserCookieExists = 'false';
 	
 	
                     <div class="clearfix cb">
-                        <form id="frmSignupSpecialEmail" class="post form" method="post" action="//app.buybuybaby.com/prefs/pref.cfm?wrap=n">
+                        <form id="frmSignupSpecialEmail" class="post form" method="post" action="https://offers.buybuybaby.com/SignupWidget/dynamic/BABUS-email-printable-offers?acq_source=1177">
                             <div class="input noMar clearfix">
                                 <div class="label">
                                     <label id="lbltxtSignupSpecialEmail" for="txtSignupSpecialEmail"> Email Sign Up For Special Offers</label>
@@ -2992,7 +3096,8 @@ var isDynUserCookieExists = 'false';
             </div>
             <div class="fl borderRight">
                 <div class="box grid_2 clearfix">
-                    <h3>Have a Question?</h3> <p>Help is always available at 1-877-3-BUY-BABY® <br> (1-877-328-9222). Please view our <a href="/store/static/EasyReturns">Returns Policy</a> if you aren't satisfied with your order.</p> </div> </div> 
+                    <h3>Contact Us</h3> <p><style>/* footer logo styling */ #footer #otherSites .otherSitesWrapper,.buyBuyBaby #footer #otherSites .otherSitesWrapper{padding:0}#footer #otherSites{margin:0}#footer #otherSitesTitle p{text-align:center;font-family:Arial;font-weight:700;color:#f12d81!important;text-transform:uppercase;margin:0 0 0 -50px;height:30px}#footer .ftLgRow{margin:0 auto 12px;height:35px;display: block; float: none; clear: both;}#ftLgRow1{width:790px;margin-left: 118px !important;}#ftLgRow2{width:672px;}#footer .ftLgRow a{margin:0 3.4em !important}#footer .ftLg{height:35px;position:relative}#footer #ftLgRow1 .alpha{margin-left:0!important}#footer #ftLgRow1 .omega{margin-right:0!important}#footer .ftLg span{position:absolute;left:0;top:0;width:100%;height:100%;background:url(//s7d9.scene7.com/is/image/BedBathandBeyond/commonLogo20170508%2D1x?$other$&fmt=png-alpha) no-repeat;-webkit-transition:opacity .3s ease-in-out;transition:opacity .3s ease-in-out}#footer .ftLg span:first-child{opacity:1}#footer .ftLg span:last-child,#footer .ftLg:hover>span:first-child{opacity:0}#footer .ftLg:hover>span:last-child{opacity:1}#footer #logoBBBY{width:74px}#footer #logoBBBY span:first-child{background-position:0 -923px}#footer #logoBBBY span:last-child{background-position:0 -970px}#footer #logoCpwm{width:82px}#footer #logoCpwm span:first-child{background-position:0 -93px}#footer #logoCpwm span:last-child{background-position:0 -139px}#footer #logoCt{width:72px}#footer #logoCt span:first-child{background-position:0 -186px}#footer #logoCt span:last-child{background-position:0 -234px}#footer #logoHarmon{width:98px}#footer #logoHarmon span:first-child{background-position:0 -278px}#footer #logoHarmon span:last-child{background-position:0 -322px}#footer #logoOak{width:75px}#footer #logoOak span:first-child{background-position:0 -368px}#footer #logoOak span:last-child{background-position:0 -415px}#footer #logoOkl{width:85px}#footer #logoOkl span:first-child{background-position:0 -471px}#footer #logoOkl span:last-child{background-position:0 -523px}#footer #logoPersonalize{width: 104px}#footer #logoPersonalize span:first-child{background-position: 0 -1080px}#footer #logoPersonalize span:last-child{background-position: 0 -1117px}#footer #logoChef {width: 32px;}#footer #logoChef span:first-child {background-position: 0 -1161px;}#footer #logoChef span:last-child {background-position: 0 -1210px;}#footer #logoDecorist {width: 80px;}#footer #logoDecorist span:first-child {background-position: 0 -1260px;}#footer #logoDecorist span:last-child {background-position: 0 -1299px;}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){#footer .ftLg span{background-image:url(//s7d9.scene7.com/is/image/BedBathandBeyond/commonLogo20170508%2D2x?$other$&fmt=png-alpha);background-size:221px 1350px}}</style>
+Phone:<br>1-877-3-BUY-BABY<br>(1-877-328-9222)</p><p><a href="/store/selfservice/ContactUs">Email</a></p><p><a href="http://buybuybabycom.custhelp.com/app/answers/list" target="_blank">FAQs<span class="icon-text">Opens a new window</span></a></p><p></p> </div> </div> 
 	
 	
 	
@@ -3000,6 +3105,24 @@ var isDynUserCookieExists = 'false';
             <div class="fl borderRight">
                 <div class="box grid_2 clearfix">
                      <h3>Customer Service</h3> 
+ 
+ 
+ 
+ 
+ 
+     <p><a href="https://www.bedbathrebates.com/" target="_blank" title="Rebates">Rebates<span class="icon-text">Opens a new window</span></a></p> 
+ 
+ 
+		 
+ 
+ 
+ 
+ 
+ 
+     <p><a href="https://d.comenity.net/buybuybaby/" target="_blank" title="Pay Your Credit Card">Pay Your Credit Card<span class="icon-text">Opens a new window</span></a></p> 
+ 
+ 
+		 
  
  
  
@@ -3023,15 +3146,6 @@ var isDynUserCookieExists = 'false';
  
  
  
-     <p><a href="https://app.buybuybaby.com/prefs/unsub.cfm" title="Email Frequency">Change Your Email Frequency</a></p> 
- 
- 
-		 
- 
- 
- 
- 
- 
      <p><a title="Price Match Guarantee" href="/store/static/pricematch">Price Match Guarantee</a></p> 
  
  
@@ -3042,6 +3156,26 @@ var isDynUserCookieExists = 'false';
  
  
      <p><a href="/store/static/ShippingPolicies" title="Shipping Info">Shipping Info</a></p> 
+ 
+ 
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+   
+ 
+ 
+		 
+ 
+ 
+ 
+ 
+ 
+     <p><a href="/store/static/homeservices" title="Home and Furniture Installation Services">Home and Furniture Installation Services</a></p> 
  
  
 		 
@@ -3131,9 +3265,7 @@ var isDynUserCookieExists = 'false';
  
  
  
- 
-	
-   
+     <p><a href="/store/static/accessibility" title="Accessibility">Accessibility</a></p> 
  
  
 		 
@@ -3153,6 +3285,7 @@ var isDynUserCookieExists = 'false';
 	<p><a href="/store/registry/adoptionchecklist2" title="Adoption Checklist: 12+">Adoption Checklist: 12+</a></p> 
 	<p><a href="/store/registry/PersonalizedInvitations" title="Personalized Invitations">Shop Personalized Invitations</a></p> 
 	<p><a title="Shop Gift Cards" href="/store/static/GiftCardHomePage">Shop Gift Cards</a></p> 
+	<p><a onclick="window.open('https://www.buybuybaby.com/store/account/check_balance.jsp','gc', 'scrollbars=no,top=500,left=500,width=415,height=175,menubar=no');return false" href="">Gift Card Balance<span class="icon-text">Opens a new window</span></a></p> 
 	<p><a title="Clearance" href="/store/category/clearance-savings/30010/">Shop all Clearance</a></p> 
 	<p><a title="Shop by Brand" href="/store/page/brands">Shop by Brand</a></p> 
  
@@ -3168,13 +3301,16 @@ var isDynUserCookieExists = 'false';
 	<p><a title="Media Relations" href="/store/static/MediaRelations">Media Relations</a></p>	
  
 	
-	<p><a href="//www.bedbathandbeyond.com/store/static/Careers" title="Careers" target="_blank">Careers</a></p>	
+	<p><a href="//www.bedbathandbeyond.com/store/static/careers" title="Careers" target="_blank">Careers<span class="icon-text">Opens a new window</span></a></p>	
  
 	
 	<p><a href="/store/static/TermsOfUse" title="Terms of Use">Terms of Use</a></p>	
  
 	
 	<p><a href="/store/selfservice/FindStore" title="Find A Store">Find A Store</a></p>	
+ 
+	
+	<p><a title="To The Trade" href="/store/static/tothetrade">To The Trade</a></p>	
  
  
  </div> </div> 
@@ -3240,10 +3376,8 @@ only screen and (                min-resolution: 2dppx) {
             <div class="container_12 clearfix">
                 <div id="otherSites" class="grid_12">
                     <div class="otherSitesWrapper">   
-                        <style>
-#footer #otherSites .otherSitesWrapper,.buyBuyBaby #footer #otherSites .otherSitesWrapper{padding:0}#footer #otherSites{margin:0}#footer #otherSitesTitle p{text-align:center;font-family:Arial;font-weight:700;color:#f12d81!important;text-transform:uppercase;margin:0 0 0 -50px;height:30px}#footer .ftLgRow{margin:0 0 12px;height:35px}#footer #ftLgRow1 a{margin:0 2.5em}#footer .ftLg{height:35px;position:relative}#footer #ftLgRow1 .alpha{margin-left:7.7em!important}#footer #ftLgRow1 .omega{margin-right:0!important}#footer .ftLg span{position:absolute;left:0;top:0;width:100%;height:100%;background:url(//s7d9.scene7.com/is/image/BedBathandBeyond/commonLogo20160720%2D1x?$other$&fmt=png-alpha) no-repeat;-webkit-transition:opacity .3s ease-in-out;transition:opacity .3s ease-in-out}#footer .ftLg span:first-child{opacity:1}#footer .ftLg span:last-child,#footer .ftLg:hover>span:first-child{opacity:0}#footer .ftLg:hover>span:last-child{opacity:1}#footer #logoBBBY{width:74px}#footer #logoBBBY span:first-child{background-position:0 -923px}#footer #logoBBBY span:last-child{background-position:0 -970px}#footer #logoCpwm{width:82px}#footer #logoCpwm span:first-child{background-position:0 -93px}#footer #logoCpwm span:last-child{background-position:0 -139px}#footer #logoCt{width:72px}#footer #logoCt span:first-child{background-position:0 -186px}#footer #logoCt span:last-child{background-position:0 22.195%}#footer #logoHarmon{width:98px}#footer #logoHarmon span:first-child{background-position:0 -278px}#footer #logoHarmon span:last-child{background-position:0 30.492%}#footer #logoOak{width:87px}#footer #logoOak span:first-child{background-position:0 -370px}#footer #logoOak span:last-child{background-position:0 -418px}#footer #logoOkl{width:85px}#footer #logoOkl span:first-child{background-position:0 -471px}#footer #logoOkl span:last-child{background-position:0 -523px}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){#footer .ftLg span{background-image:url(//s7d9.scene7.com/is/image/BedBathandBeyond/commonLogo20160720%2D2x?$other$&fmt=png-alpha);background-size:221px 1089px}}
-</style>
-<div class="grid_12" id="otherSitesTitle"><p>Our Brands</p></div><div class="grid_12 ftLgRow" id="ftLgRow1"><a href="//www.bedbathandbeyond.com/" target="_blank" title="Bed Bath &amp; Beyond. Opens a new window" class="fl ftLg alpha" id="logoBBBY" aria-label="Bed Bath &amp; Beyond. Opens a new window"><span></span><span></span></a><a href="http://www.worldmarket.com/" target="_blank" title="Cost Plus World Market. Opens a new window" class="fl ftLg" id="logoCpwm" aria-label="Cost Plus World Market. Opens a new window"><span></span><span></span></a><a href="http://www.christmastreeshops.com/" target="_blank" title="Christmas Tree Shops. Opens a new window" class="fl ftLg" id="logoCt" aria-label="Christmas Tree Shops. Opens a new window"><span></span><span></span></a><a href="http://www.harmondiscount.com" target="_blank" title="Harmon Face Values. Opens a new window" class="fl ftLg" id="logoHarmon" aria-label="Harmon Face Values. Opens a new window"><span></span><span></span></a><a href="http://www.ofakind.com/?utm_source=logo&amp;utm_medium=BBB&amp;utm_campaign=Footer_Logo_BABY_Desktop" target="_blank" title="Of a Kind. Opens a new window" class="fl ftLg" id="logoOak" aria-label="Of a Kind. Opens a new window"><span></span><span></span></a><a href="http://www.onekingslane.com/?utm_source=bedbath&amp;utm_medium=partnerships&amp;utm_campaign=buybuybabylogo" target="_blank" title="One Kings Lane. Opens a new window" class="fl ftLg omega" id="logoOkl" aria-label="One Kings Lane. Opens a new window"><span></span><span></span></a></div>
+                        <!-- CSS is in txt_footer_help-->
+<div class="grid_12" id="otherSitesTitle"><p>Our Brands</p></div><div class="grid_12 ftLgRow" id="ftLgRow1"><a href="//www.bedbathandbeyond.com/" target="_blank" title="Bed Bath &amp; Beyond. Opens a new window" class="fl ftLg alpha" id="logoBBBY" aria-label="Bed Bath &amp; Beyond. Opens a new window"><span></span><span></span></a><a href="http://www.worldmarket.com/" target="_blank" title="Cost Plus World Market. Opens a new window" class="fl ftLg" id="logoCpwm" aria-label="Cost Plus World Market. Opens a new window"><span></span><span></span></a><a href="http://www.christmastreeshops.com/" target="_blank" title="Christmas Tree Shops. Opens a new window" class="fl ftLg" id="logoCt" aria-label="Christmas Tree Shops. Opens a new window"><span></span><span></span></a><a href="http://www.harmondiscount.com" target="_blank" title="Harmon Face Values. Opens a new window" class="fl ftLg" id="logoHarmon" aria-label="Harmon Face Values. Opens a new window"><span></span><span></span></a><a href="http://www.ofakind.com/?utm_source=logo&amp;utm_medium=BBB&amp;utm_campaign=Footer_Logo_BABY_Desktop" target="_blank" title="Of a Kind. Opens a new window" class="fl ftLg" id="logoOak" aria-label="Of a Kind. Opens a new window"><span></span><span></span></a></div><div class="grid_12 ftLgRow" id="ftLgRow2"><a href="http://www.onekingslane.com/?utm_source=bedbath&amp;utm_medium=partnerships&amp;utm_campaign=buybuybabylogo" target="_blank" title="One Kings Lane. Opens a new window" class="fl ftLg" id="logoOkl" aria-label="One Kings Lane. Opens a new window"><span></span><span></span></a><a href="http://www.PersonalizationMall.com/?did=314642&amp;utm_source=baby&amp;utm_medium=text" target="_blank" title="Personalization Mall. Opens a new window" class="fl ftLg omega" id="logoPersonalize" aria-label="Personalization Mall. Opens a new window"><span></span><span></span></a><a href="http://www.chefcentral.com/" target="_blank" title="Chef Central. Opens a new window" class="fl ftLg" id="logoChef" aria-label="Chef Central. Opens a new window"><span></span><span></span></a><a href="https://www.decorist.com/?bbby" target="_blank" title="Decorist. Opens a new window" class="fl ftLg omega" id="logoDecorist" aria-label="Decorist. Opens a new window"><span></span><span></span></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="clear"></div>
@@ -3316,7 +3450,7 @@ only screen and (                min-resolution: 2dppx) {
                 
  
  
- © 2016 Buy Buy Baby, Inc.
+ © 2017 Buy Buy Baby, Inc.
  
  
  
@@ -3366,7 +3500,7 @@ only screen and (                min-resolution: 2dppx) {
 	
 	
 	
-		<span class="hidden">| Build : 2.09.14.002 | Build From : 201611071049201506e1a | Build Created On : GIT Build Date is Mon Nov  7 10:49:20 EST 2016</span>			
+		<span class="hidden">| Build : 2.09.14.002 | Build From : 2017050322373193ce969 | Build Created On : GIT Build Date is 12</span>			
 
             </p>
             <div class="clear"></div>
@@ -3403,12 +3537,6 @@ only screen and (                min-resolution: 2dppx) {
  
  
 	
-		 
-			<input id="showSDD" type="hidden" value="false">
-	 
-     		 
-             
-	
 	
 	
 	
@@ -3426,10 +3554,18 @@ only screen and (                min-resolution: 2dppx) {
 		
 		<!-- script src="//platform.twitter.com/oct.js" type="text/javascript"></script -->
 		<script type="text/javascript">
-		bbbLazyLoader.js('//platform.twitter.com/oct.js', function(){
-                        twttr.conversion.trackPid('l4ja9');
-                        BBB.twttrjs = true;
-                    });
+		function loadTwitterOctJS() {
+			bbbLazyLoader.js('//platform.twitter.com/oct.js', function(){
+                twttr.conversion.trackPid('l4ja9');
+                BBB.twttrjs = true;
+            });
+		}
+		if (window.attachEvent) {
+	        window.attachEvent('onload', loadTwitterOctJS);
+	    }
+	    else {
+	        window.addEventListener('load', loadTwitterOctJS, false);
+	    }
 		</script>
 		<noscript>
 			<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4ja9&p_id=Twitter" />
@@ -3602,6 +3738,9 @@ only screen and (                min-resolution: 2dppx) {
 
 
 
+
+
+
  
  
 
@@ -3611,6 +3750,7 @@ only screen and (                min-resolution: 2dppx) {
  
 
 
+
  
  
  
@@ -3621,7 +3761,11 @@ only screen and (                min-resolution: 2dppx) {
  
 
 
+
  
+
+
+
 
 
 
@@ -3640,13 +3784,34 @@ only screen and (                min-resolution: 2dppx) {
 
 
 
+
  
-        <script type="text/javascript" src="/_assets/global/js/bbb_combined_bottom.js?v=201611071049201506e1aDC2"></script>
+        <script type="text/javascript" src="/_assets/global/js/bbb_combined_bottom.js?v=2017050322373193ce969DC2"></script>
     
  
 
 
+
+
+
 	
+
+
+
+
+  
+        <script type="text/javascript">
+            bbbLazyLoader.js('/_assets/global/js/registryChecklist.min.js?v=2017050322373193ce969DC2');
+        </script>      
+     
+
+
+ 
+ 
+      <script type="text/javascript" src="/_assets/global/js/bbb_trends_min.js?v=2017050322373193ce969DC2"></script>
+    
+ 
+ 
 
 
 
@@ -3675,9 +3840,11 @@ only screen and (                min-resolution: 2dppx) {
 
 
 
- 
- 
- 
+
+
+
+
+
 
 
 
@@ -3703,6 +3870,7 @@ only screen and (                min-resolution: 2dppx) {
 	
  
  
+
 
 
 
@@ -3880,9 +4048,9 @@ only screen and (                min-resolution: 2dppx) {
 			BBB.fn.initMQ();
         }
         /*bbbLazyLoader.js('//www.mapquestapi.com/sdk/js/v7.0.s/mqa.toolkit.js?key=Gmjtd%7Clu6120u8nh%2C2w%3Do5-lwt2l', function() {
-            bbbLazyLoader.js('/_assets/global/js/extensions/store_locator_v2.min.js?v=201611071049201506e1aDC2', function() {
+            bbbLazyLoader.js('/_assets/global/js/extensions/store_locator_v2.min.js?v=2017050322373193ce969DC2', function() {
                 if($('html').hasClass('bedBathCA')) {
-                    bbbLazyLoader.js('/_assets/global/js/extensions/store_locator.js?v=201611071049201506e1aDC2', function() {
+                    bbbLazyLoader.js('/_assets/global/js/extensions/store_locator.js?v=2017050322373193ce969DC2', function() {
                         mapQuestStoreLocatorInitialize();
                     });
                 } else{
@@ -3897,8 +4065,8 @@ only screen and (                min-resolution: 2dppx) {
             });
         });*/
         BBB.fn.loadStoreLocatorLibrary = function () {
-            var mapQuestUSUrl = '/_assets/global/js/extensions/store_locator_v2.min.js?v=201611071049201506e1aDC2',
-                mapQuestCAUrl = '/_assets/global/js/extensions/store_locator.js?v=201611071049201506e1aDC2',
+            var mapQuestUSUrl = '/_assets/global/js/extensions/store_locator_v2.min.js?v=2017050322373193ce969DC2',
+                mapQuestCAUrl = '/_assets/global/js/extensions/store_locator.js?v=2017050322373193ce969DC2',
                 mapQuestThirdPartyUrl = '//www.mapquestapi.com/sdk/js/v7.0.s/mqa.toolkit.js?key=Gmjtd%7Clu6120u8nh%2C2w%3Do5-lwt2l';
 
             bbbLazyLoader.js(mapQuestThirdPartyUrl, function() {
@@ -3933,9 +4101,15 @@ only screen and (                min-resolution: 2dppx) {
         }
 
         if (loadStoreLocatorFlag) {
-            BBB.fn.loadStoreLocatorLibrary();
+        	if (window.attachEvent) {
+    	        window.attachEvent('onload', BBB.fn.loadStoreLocatorLibrary);
+    	    }
+    	    else {
+    	        window.addEventListener('load', BBB.fn.loadStoreLocatorLibrary, false);
+    	    }
         }
     </script>
+
 
 
 
@@ -4019,9 +4193,6 @@ only screen and (                min-resolution: 2dppx) {
  
 
     <script type="text/javascript">
-        /*****************************/
-        /* TODO: (mbhatia3) Temp solution/patch for "UAT-591" ... will be moved into a self contained module in "Jan-PS" */
-        /*****************************/
         var BBB = BBB || {};
         BBB.omnitureObj = {
             s_values_backup: {},
@@ -4122,11 +4293,11 @@ only screen and (                min-resolution: 2dppx) {
  
  
  
-                    <script type="text/javascript" src="/_assets/global/js/thirdparty/omniture/buybuybaby_s_code.js?v=201611071049201506e1aDC2"></script>
+                    <script type="text/javascript" src="/_assets/global/js/thirdparty/omniture/buybuybaby_s_code.js?v=2017050322373193ce969DC2"></script>
                 
  
  
-            <script type="text/javascript" src="/_assets/global/js/thirdparty/omniture/omniture_tracking.min.js?v=201611071049201506e1aDC2"></script>
+            <script type="text/javascript" src="/_assets/global/js/thirdparty/omniture/omniture_tracking.min.js?v=2017050322373193ce969DC2"></script>
             
  
  
@@ -4134,7 +4305,7 @@ only screen and (                min-resolution: 2dppx) {
 
  
  
-    <script type="text/javascript" src="/_assets/global/js/thirdparty/rkg/rkg_tracking.js?v=201611071049201506e1aDC2"></script>
+    <script type="text/javascript" src="/_assets/global/js/thirdparty/rkg/rkg_tracking.js?v=2017050322373193ce969DC2"></script>
     <script type="text/javascript">
         try {
             rkg_track_sid('buybuybaby');
@@ -4148,10 +4319,11 @@ only screen and (                min-resolution: 2dppx) {
 </script>
 
 
-<input type="hidden" id="profileId" value="DC24013248123">
+<input type="hidden" id="profileId" value="DC25390952599">
 
 
 	<input type="hidden" id="profileType" value="non registered user">
+
 
 
 
@@ -4178,13 +4350,9 @@ only screen and (                min-resolution: 2dppx) {
 
 
 
-<input type="hidden" id="primeRegistryToBeDone" value="false">
 <input type="hidden" id="address2ForQAS" value="">
 <script type="text/javascript">
-
     BBB.userCouponCount = '0';
-
-
 </script>
 
 
@@ -4193,18 +4361,24 @@ only screen and (                min-resolution: 2dppx) {
 
 
 
-	
-		<script type="text/javascript">
-		  bbbLazyLoader.js('//static.atgsvcs.com/js/atgsvcs.js', function() {
-				 bbbLazyLoader.js('//buybuybabycom.custhelp.com/rnt/rnw/javascript/vs/1/vsapi.js', '//buybuybabycom.custhelp.com/vs/1/vsopts.js', function() {
-					   bbbLazyLoader.js('https://d97597a698a9f0ab6a76-0a15db9954bbbdb6cd4ad63d2039d4ad.ssl.cf2.rackcdn.com/llscripts//launcher.js', function() {
-					   });
-				 });
-		  });
-       </script>
-	
-	
 
+<script>
+	(function() {
+    var isHelixChatOn = 'true' === 'true' || document.body.className.indexOf('helixChatOn') > -1;
+    if (isHelixChatOn) {
+      bbbLazyLoader.js('//static.atgsvcs.com/js/atgsvcs.js', function() {
+        ATGSvcs.setEEID('200106308157');
+        bbbLazyLoader.js('//buybuybabycom.custhelp.com/rnt/rnw/javascript/vs/1/vsapi.js', '//buybuybabycom.custhelp.com/vs/1/vsopts.js', function() {
+          bbbLazyLoader.js('https://d97597a698a9f0ab6a76-0a15db9954bbbdb6cd4ad63d2039d4ad.ssl.cf2.rackcdn.com/llscripts//launcher.js', function() {
+            console.log('Helix Chat loaded.');      
+          });
+        });
+      });
+    }
+  }());
+</script>
+<script type="text/javascript" src=""></script>
+<script type="text/javascript" src=""></script>
  
 
 
@@ -4229,101 +4403,145 @@ only screen and (                min-resolution: 2dppx) {
 	
 	
 
-<script type="text/javascript">
-    function placeOmnitureCode(){
-        s.pageType='';
-        s.channel='Company Info';
-        s.prop4='Company Info';
-    }
-    if (typeof s !== 'undefined') {
-        var omni_omniPageName='';
-        var omni_channel='';
-        var omni_prop1='';
-        var omni_prop2='';
-        var omni_prop3='';
-        var omni_prop4='';
-        var omni_prop5='';
-        var omni_evar1='';
-        if(omni_omniPageName.length>0){
-            s.pageName=omni_omniPageName;
-            s.channel=omni_channel;
-            s.prop1=omni_prop1;
-            s.prop2=omni_prop2;
-            s.prop3=omni_prop3;
-            s.prop4=omni_prop4;
-            s.prop5=omni_prop5;
-            s.eVar1=omni_evar1;
-            s.prop6='www.buybuybaby.com';
-            s.eVar9='www.buybuybaby.com';
-            s.events = '';
-            s.products = '';
-            s.server='www.buybuybaby.com';
-        }else{
-            var omni_pageTitleNew='Privacy Policy';
-            var omni_pageTitle='Privacy Policy';
-            var pageName = 'PrivacyPolicy';
-            var pageTitle = 'Privacy Policy';
-            s.pageName='Content Page>'+omni_pageTitleNew;
-            s.channel='Guides & Advice';
-            s.prop1='Content Page';
-            s.prop2='Content Page';
-            s.prop3='Content Page';
-            s.prop4='Guides & Advice';
-            s.prop6='www.buybuybaby.com';
-            s.eVar9='www.buybuybaby.com';
-            s.events = '';
-            s.products = '';
-            s.server='www.buybuybaby.com';
-            if(pageName=='GiftCardHomePage'){
-                s.pageType='';
-                s.pageName='Gift Card Homepage';
-                s.channel='Gift Cards';
-                s.prop1='Gift Cards';
-                s.prop2='Gift Cards';
-                s.prop3='Gift Cards';
-                s.prop4='';
-            }else if(pageName=='PrivacyPolicy' || pageName=='AboutUs' || pageName=='BabyAboutUs' || pageName=='MediaRelations' || pageName=='Careers' || pageName=='TermsOfUse' || pageName=='GlossaryPage' || pageName=='GlossaryPage' || pageName=='EasyReturns' || pageName=='ShippingPolicies' || pageName=='GiftPackagingPopUp' || pageName=='FAQ' || pageName=='SafetyAndRecalls' || pageName=='GiftCardPolicy' || pageName=='CorporateResponsibilityReport' || pageName=='CorporateSalesReport' || pageName=='CareersEOD'){
-                placeOmnitureCode();
-            }else if(pageName=='BabyShippingPolicies'){
-                s.pageName= 'Content Page > Registry Policies';
-                s.channel='Company Info';
-                s.prop4='Company Info';
-                s.pageType='';
-            }else if (pageName=='HealthyPregnancyGuide' || pageName=='PrenatalCare' || pageName=='TopTips' || pageName=='TipsSleep'){
-                s.pageType='';
-            }else if (pageName=='DestinationMaternityPage'){
-                s.pageName= 'Destination Maternity Welcome Page';
-                s.channel='Partnership Page';
-                s.prop4='Partnership Page';
-            }else if (pageName == 'SmartSleepHabits' || pageName == 'YouAreWhatYouEat' || pageName == 'SkinHealthWellness' || pageName == 'CollegeMedicineCabinetChecklist' ){
-                s.pageName= 'College > Insider Guides > The Guides > College Health Guide > ' + omni_pageTitle;
-                s.channel='College';
-                s.prop4='College';
-            }else if (pageName == 'CollegeHealthGuide'){
-                s.pageName= 'College > Insider Guides > The Guides > College Health Guide';
-                s.channel='College';
-                s.prop4='College';
-            }else if(pageName == 'WinterWellnessGuide' ){
-                s.pageName= 'Content Page > Healthy Women > Winter Wellness Guide';
-            }else if(pageName == 'HealthyTravelGuide'){
-                s.pageName= 'Content Page > Healthy Women > Healthy Travel Guide';
-            }else if(pageName == 'PlanAhead'){
-                s.pageName= 'Content Page > Healthy Women > Healthy Travel Guide > Plan Ahead';
-            }else if (pageTitle=='Catalogs'){
-                s.pageName= 'Circular Page>'+omni_pageTitleNew;
-                s.channel='Circular';
-                s.prop1='Circular';
-                s.prop2='Circular';
-                s.prop3='Circular';
-                s.prop4='Circular';
-            }else{
-            }
-        }
-        fixOmniSpacing();
-        var s_code = s.t();
-        if (s_code) document.write(s_code);
-    }
- 
 
-</script>
+	<script type="text/javascript">
+	
+		function placeOmnitureCode(){
+	        s.pageType='';
+	        s.channel='Company Info';
+	        s.prop4='Company Info';
+	    }
+	    function geturlparams( name, url ) {
+			if (!url) url = location.href;
+			name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+			var regexS = "[\\?&]"+name+"=([^&#]*)",
+			regex = new RegExp( regexS ),
+			results = regex.exec( url );
+			return results == null ? null : results[1];
+		}
+	    if (typeof s !== 'undefined') {
+	        var omni_omniPageName='';
+	        var omni_channel='';
+	        var omni_prop1='';
+	        var omni_prop2='';
+	        var omni_prop3='';
+	        var omni_prop4='';
+	        var omni_prop5='';
+	        var omni_evar1='';
+	        var omni_evar2='';
+	        var omni_evar3='';
+	        var omni_evar4='';
+	        var omni_evar5='';
+	        var omni_evar6='';
+	        var omni_evar7='';
+	        var omni_evar8='';
+	        
+	        if(omni_omniPageName.length>0){
+	            s.pageName=omni_omniPageName;
+	            s.channel=omni_channel;
+	            s.prop1=omni_prop1;
+	            s.prop2=omni_prop2;
+	            s.prop3=omni_prop3;
+	            s.prop4=omni_prop4;
+	            s.prop5=omni_prop5;
+	            if($('#advisor-container')[0]){
+	            	s.eVar1='smart assistant:'+omni_evar1;
+	            } else{
+		            s.eVar1=omni_evar1;	            
+	            }
+	            s.eVar2=omni_evar2;
+	            s.eVar3=omni_evar3;
+	            s.eVar4=omni_evar4;
+	            s.eVar5=omni_evar5;
+	            s.eVar6=omni_evar6;
+	            s.eVar7=omni_evar7;
+	            s.eVar8=omni_evar8; 
+	            s.prop6='www.buybuybaby.com';
+	            s.eVar9='www.buybuybaby.com';
+	            s.events = '';
+	            s.products = '';
+	            s.server='www.buybuybaby.com'; 
+	        	
+	        } else {
+	            var omni_pageTitleNew='Privacy Policy';
+	            var omni_pageTitle='Privacy Policy';
+	            var pageName = 'PrivacyPolicy';
+	            var pageTitle = 'Privacy Policy';
+	            s.pageName='Content Page>'+omni_pageTitleNew;
+	            s.channel='Guides & Advice';
+	            if(geturlparams('icid') && $('#advisor-container')[0]){
+	                s.eVar1='smart assistant:'+omni_pageTitleNew.toLowerCase();
+	            }
+	            s.prop1='Content Page';
+	            s.prop2='Content Page';
+	            s.prop3='Content Page';
+	            s.prop4='Guides & Advice';
+	            s.prop6='www.buybuybaby.com';
+	            s.eVar9='www.buybuybaby.com';
+	            s.events = '';
+	            s.products = '';
+	            s.server='www.buybuybaby.com';
+	            if(pageName=='GiftCardHomePage'){
+	                s.pageType='';
+	                s.pageName='Gift Card Homepage';
+	                s.channel='Gift Cards';
+	                s.prop1='Gift Cards';
+	                s.prop2='Gift Cards';
+	                s.prop3='Gift Cards';
+	                s.prop4='';
+	            }else if(pageName=='PrivacyPolicy' || pageName=='AboutUs' || pageName=='BabyAboutUs' || pageName=='MediaRelations' || pageName=='Careers' || pageName=='TermsOfUse' || pageName=='GlossaryPage' || pageName=='GlossaryPage' || pageName=='EasyReturns' || pageName=='ShippingPolicies' || pageName=='GiftPackagingPopUp' || pageName=='FAQ' || pageName=='SafetyAndRecalls' || pageName=='GiftCardPolicy' || pageName=='CorporateResponsibilityReport' || pageName=='CorporateSalesReport' || pageName=='CareersEOD'){
+	                placeOmnitureCode();
+	            }else if(pageName=='BabyShippingPolicies'){
+	                s.pageName= 'Content Page > Registry Policies';
+	                s.channel='Company Info';
+	                s.prop4='Company Info';
+	                s.pageType='';
+	            }else if (pageName=='HealthyPregnancyGuide' || pageName=='PrenatalCare' || pageName=='TopTips' || pageName=='TipsSleep'){
+	                s.pageType='';
+	            }else if (pageName=='DestinationMaternityPage'){
+	                s.pageName= 'Destination Maternity Welcome Page';
+	                s.channel='Partnership Page';
+	                s.prop4='Partnership Page';
+	            }else if (pageName == 'SmartSleepHabits' || pageName == 'YouAreWhatYouEat' || pageName == 'SkinHealthWellness' || pageName == 'CollegeMedicineCabinetChecklist' ){
+	                s.pageName= 'College > Insider Guides > The Guides > College Health Guide > ' + omni_pageTitle;
+	                s.channel='College';
+	                s.prop4='College';
+	            }else if (pageName == 'CollegeHealthGuide'){
+	                s.pageName= 'College > Insider Guides > The Guides > College Health Guide';
+	                s.channel='College';
+	                s.prop4='College';
+	            }else if(pageName == 'WinterWellnessGuide' ){
+	                s.pageName= 'Content Page > Healthy Women > Winter Wellness Guide';
+	            }else if(pageName == 'HealthyTravelGuide'){
+	                s.pageName= 'Content Page > Healthy Women > Healthy Travel Guide';
+	            }else if(pageName == 'PlanAhead'){
+	                s.pageName= 'Content Page > Healthy Women > Healthy Travel Guide > Plan Ahead';
+	            }else if (pageTitle=='Catalogs'){
+	                s.pageName= 'Circular Page>'+omni_pageTitleNew;
+	                s.channel='Circular';
+	                s.prop1='Circular';
+	                s.prop2='Circular';
+	                s.prop3='Circular';
+	                s.prop4='Circular';
+	                s.eVar1=omni_evar1;
+	                s.eVar2=omni_evar2;
+	                s.eVar3=omni_evar3;
+	                s.eVar4=omni_evar4;
+	                s.eVar5=omni_evar5;
+	                s.eVar6=omni_evar6;
+	                s.eVar7=omni_evar7;
+	                s.eVar8=omni_evar8; 
+	            }
+	            else if (document.getElementById("isFromImages")){
+	                s.prop1='UGC Content Page';
+	                s.pageName='UGC>'+omni_pageTitleNew;
+	            }else{
+	            }
+	        }
+	        fixOmniSpacing();
+	        var s_code = s.t();
+	        if (s_code) document.write(s_code);
+	    }
+	</script>
+
 </body></html>
