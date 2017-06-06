@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitpass.co.in privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126153301id_/http%3A//fitpass.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitpass.co.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180226id_/https%3A//fitpass.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Health and Fitness Privacy Policy | fitpass.co.in
 
@@ -124,6 +124,6 @@ Please note that some other features and services (such as creating customised s
 
         Attn: Mr. Ankur Verma
 
-Designation: Grievance Officer, Fitpass Business Ventures Pvt. Ltd.
+Designation: Grievance Officer, FITPASS Business Ventures Pvt. Ltd.
 
 Corporate Address: 2E/8, Third Floor, Jhandewalan Extension, Jhandewalan, New Delhi, Delhi 110055
