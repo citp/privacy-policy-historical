@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018111755id_/https%3A//www.outandaboutlive.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222248id_/https%3A//www.outandaboutlive.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
-# Out and About Live
+# Out and About Live - Motorhomes & Caravans For Sale plus MMM, Caravan & Camping magazines
 
-#### 
-
-**The Maltings, West Street, Bourne, Lincs. PE10  9PH**
+**The Maltings, West Street, Bourne, Lincs. PE10 9PH**
 
 **Tel:+44 (0)1778 391000 • Fax: +44 (0)1778 421706**
 
-  
-_**Last Updated: 8th July 2015.**_
+* * *
+
+**Last Updated: August 2016.**
 
 Warners Group Publications Plc ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/Information/termsconditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our **_[terms of use](https://web.archive.org/information/terms-of-use)_** and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Warners Group Publications Plc of The Maltings, West Street, Bourne PE10 9PH.
 
@@ -21,7 +20,11 @@ We may collect and process the following data about you:
 
 1.1
 
-information that you provide by filling in forms on our site **www.outandaboutlive.co.uk**. This includes information provided at the time of registering to use our Site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion and when you report a problem with our Site;
+information that you provide by filling in forms on our site 
+
+[_**www.outandaboutlive.co.uk**_](https://www.outandaboutlive.co.uk/)
+
+. This includes information provided at the time of registering to use our Site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion and when you report a problem with our Site;
 
 1.2
 
@@ -45,7 +48,11 @@ We may collect information about your computer, including where available your I
 
 2.2
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. You can [view our Cookie Policy here](https://web.archive.org/Information/Cookie-Policy). Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Site and to deliver a better and more personalised service. They enable us:
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. You can 
+
+_**[view our Cookie Policy here](https://web.archive.org/Information/Cookie-Policy)**_
+
+. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Site and to deliver a better and more personalised service. They enable us:
 
 2.2.1
 
@@ -77,7 +84,7 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 3.2
 
-[All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted.] Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+All information you provide to us is stored on our secure servers. Any card payment transactions will be encrypted by our payment gateway providers Sagepay and Paypal and are not stored on our servers. Bank details provided for the set-up of Direct Debits are transmitted via secure connections. Where you have chosen a password which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 3.3
 
@@ -109,27 +116,31 @@ to notify you about changes to our service.
 
 4.2
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
+We may also use your data, to provide you with information about goods and services which may be of interest to you. We may contact you about these by email, SMS, post or telephone in accordance with the contact preferences you have set on your account.
 
 4.3
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+If you are an existing customer you can amend your contact preferences via your my account / profile when logged in on the site or by contacting us via email, post or telephone.
 
 4.4
 
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+If you are a new customer you can set your preferences at the point of registration on the website.
 
 4.5
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).
+If you have an ongoing order with us eg. Subscription / membership or show order we may from time to time contact you about that product or an associated item.
 
 4.6
 
-[We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.]
+We do not pass on or sell data to third parties for marketing purposes.
 
 4.7
 
-We are using ADTECH technology, a service provided by ADTECH GmbH, for ad delivery. We and ADTECH use cookies (text files placed on your computer) to help with collecting information about your visits to this and other websites which may be used in order to provide advertisements about goods and services of interest to you. The information stored in the cookie is used to reference information for standard reporting purposes such as delivered advertising campaigns or banners on websites that are using ADTECH as their ad serving system. Cookie and IP address information of a request to the ADTECH ad serving system is always transferred to the responding data centers in the United States or within the European Union, but only the cookie information of the requested ad domain is stored within the standard records. IP address information is obfuscated after being used to identify attributes associated with the IP address such as location (country, city) or bandwidth. The obfuscating of the IP address leads to anonymisation of the data. Upon specific request of a customer, ADTECH provides a special functionality to store IP address information to identify fraudulent activities such as automated click generation systems. You have the option not to participate in ADTECH’s analysis by opting out of the use of ADTECH cookies, by selecting the appropriate setting on your browser or setting an ADTECH opt-out cookie provided on the following page <http://www.adtech.com/en/service/cookies.html>. Further information about ADTECH’s technology is available under <http://privacy.aol.com/>. By using this website you consent to the processing of data about you by ADTECH as described herein.
+We are using ADTECH technology, a service provided by ADTECH GmbH, for ad delivery. We and ADTECH use cookies (text files placed on your computer) to help with collecting information about your visits to this and other websites which may be used in order to provide advertisements about goods and services of interest to you. The information stored in the cookie is used to reference information for standard reporting purposes such as delivered advertising campaigns or banners on websites that are using ADTECH as their ad serving system. Cookie and IP address information of a request to the ADTECH ad serving system is always transferred to the responding data centers in the United States or within the European Union, but only the cookie information of the requested ad domain is stored within the standard records. IP address information is obfuscated after being used to identify attributes associated with the IP address such as location (country, city) or bandwidth. The obfuscating of the IP address leads to anonymisation of the data. Upon specific request of a customer, ADTECH provides a special functionality to store IP address information to identify fraudulent activities such as automated click generation systems. You have the option not to participate in ADTECH’s analysis by opting out of the use of ADTECH cookies, by selecting the appropriate setting on your browser or setting an ADTECH opt-out cookie provided on the following page **_<http://www.adtech.com/en/service/cookies.html>_**. Further information about ADTECH’s technology is available under 
+
+_**<http://privacy.aol.com/>**_
+
+. By using this website you consent to the processing of data about you by ADTECH as described herein.
 
 4.7.1
 
@@ -149,11 +160,19 @@ if Warners Group Publications Plc or substantially all of its assets are acquire
 
 5.3
 
-if We are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/Information/termsconditions) or [terms and conditions of supply](https://web.archive.org/Information/terms-and-conditions-of-sale) and other agreements; or to protect the rights, property, or safety of Warners Group Publications Plc, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+if We are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our 
+
+[_**terms of use**_](https://web.archive.org/information/terms-of-use)
+
+or 
+
+_**[terms and conditions of supply](https://web.archive.org/Information/terms-and-conditions-of-sale)**_
+
+and other agreements; or to protect the rights, property, or safety of Warners Group Publications Plc, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 6.1
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at _Data Manager, Warners Group Publications Plc, The Maltings, West Street, Bourne PE10 9PH_.
+You have the right to ask us not to process your personal data for marketing purposes. All online registration forms require you to opt in to marketing contact, we do not automatically opt you in to marketing and if you haven’t ticked to say you’d like to receive information from us by the available channels – email / SMS / post / telephone – you will not be contacted by us. You can also exercise the right at any time by contacting us at _Data Manager, Warners Group Publications Plc, The Maltings, West Street, Bourne PE10 9PH_.
 
 6.2
 
