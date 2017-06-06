@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northlight-images.co.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201024703id_/http%3A//www.northlight-images.co.uk/gallery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northlight-images.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102804id_/http%3A//www.northlight-images.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Northlight Images cookies and Privacy Policy
 
@@ -74,7 +74,7 @@ Please be aware that some of the advertisers on our site may use cookies and or 
 
 In particular, Google uses cookies in a variety of ways see:
 
-[ **How Google uses data when you use their partners’ sites or apps**](http://www.google.com/intl/en/policies/privacy/partners/)
+[**How Google uses data when you use their partners’ sites or apps**](http://www.google.com/intl/en/policies/privacy/partners/)
 
 You can usually alter your browser’s behaviour with regard to cookies, such as accepting cookies from sites visited, but declining 3rd party (advertiser’s) cookies.
 
