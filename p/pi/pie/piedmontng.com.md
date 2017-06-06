@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piedmontng.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110051739id_/http%3A//www.piedmontng.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piedmontng.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114844id_/http%3A//www.piedmontng.com/privacy.aspx) for the most accurate reproduction.*
 
 # Piedmont Natural Gas | Privacy Policy
 
@@ -67,4 +67,8 @@ Piedmont Natural Gas
 P.O. Box 33068  
 Charlotte, NC 28233 
 
-Other questions or concerns may be addressed by visiting our [Contact Us](http://www.piedmontng.com/about/aboutpng/contactus/contactus.aspx) page. | 
+Other questions or concerns may be addressed by visiting our [Contact Us](http://www.piedmontng.com/about/aboutpng/contactus/contactus.aspx) page.
+
+[Duke Energy/Piedmont Natural Gas Code of Conduct](https://www.duke-energy.com/_/media/pdfs/legal/duke-piedmont-code-of-conduct.pdf?la=en)
+
+| 
