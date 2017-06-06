@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the striderite.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220233928id_/http%3A//www.striderite.com/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the striderite.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054903id_/http%3A//www.striderite.com/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Stride Rite Privacy Policy
 
