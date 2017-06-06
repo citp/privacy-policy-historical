@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boldstreet.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217123941id_/http%3A//www.boldstreet.com/en/about/terms-use-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldstreet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135432id_/http%3A//www.boldstreet.com/en/about/terms-use-privacy) for the most accurate reproduction.*
 
 # Terms of Use & Privacy | Datavalet
 
