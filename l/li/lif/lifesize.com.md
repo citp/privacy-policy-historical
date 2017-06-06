@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesize.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115203155id_/http%3A//www.lifesize.com/en/company/legal-notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesize.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224746id_/http%3A//www.lifesize.com/en/company/legal-notices/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -139,7 +139,10 @@ We provide you the opportunity to opt-out of having your personal information us
 
 ### PROTECTION OF INFORMATION
 
-Lifesize is committed to the protection of your personal information. To ensure your personal information remains confidential, we communicate these privacy guidelines to every Lifesize employee. We also use a variety of security technologies and procedures, including SSL encryption, to help protect your personal information from unauthorized access, use, or disclosure. Any information that is collected is stored in a secured database.   
+Lifesize is committed to the protection of your personal information. To ensure your personal information remains confidential, we communicate these privacy guidelines to every Lifesize employee. We also use a variety of security technologies and procedures, including SSL encryption, to help protect your personal information from unauthorized access, use, or disclosure. Any information that is collected is stored in a secured database. 
+
+Unfortunately, no system in which personal information is transmitted via the internet can ensure complete security 100% of the time. A variety of factors may compromise the security of personal information, including unauthorized entry to or use of our Site, and hardware or software failures. Lifesize cannot guarantee the security of your information transmitted to our Site or through our services. Transmission of your personal information on our Site or through Lifesize’s products and services is at your own risk.
+
 Please also be aware that it remains your responsibility to take the following precautions when using this Site and Lifesize’s products and services:
 
   * Protect your log-in credentials, including your username and password;
