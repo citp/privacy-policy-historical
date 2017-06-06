@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the etsi.org privacy policy that was archived on 2016-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125174159id_/http%3A//www.etsi.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etsi.org privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606133931id_/http%3A//www.etsi.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><!--<![endif]--><head>
-  <base href="http://etsi.org/privacy">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><!--<![endif]--><head>
+  <base href="http://www.etsi.org/privacy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="ETSI Privacy">
   <meta name="description" content="ETSI Privacy">
@@ -57,12 +57,12 @@ window.addEvent('domready', function() {
   <meta name="twitter:title" content="Privacy">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="ETSI">
-<meta name="twitter:url" content="http://etsi.org/privacy">
+<meta name="twitter:url" content="http://www.etsi.org/privacy">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="/templates/etsidefault/images/main-logo2.png">
 <meta property="og:title" content="Privacy">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://etsi.org/privacy">
+<meta property="og:url" content="http://www.etsi.org/privacy">
 <meta property="og:image" content="/templates/etsidefault/images/main-logo2.png">
 <meta property="og:site_name" content="ETSI">
 <meta property="fb:admins" content="433209956789347">
@@ -113,7 +113,7 @@ window.addEvent('domready', function() {
     <script type="text/javascript">
         jQuery.noConflict();
     </script>
-  
+    
 <!-- BEGIN Advanced Google Analytics - http://deconf.com/advanced-google-analytics-joomla/ -->
 <script type="text/javascript">
 (function($){
@@ -320,7 +320,7 @@ jQuery('#articleActions').detach().appendTo(jQuery('.breadcrumb-bar'));
 <div class="footer">  
     <div class="footer-stabalizer">
       <div class="footer-info">
-          <div class="footer-iso"><p>© ETSI 2016, <a href="/iso-certification">ETSI is certified ISO 9001:2008</a></p></div>
+          <div class="footer-iso"><p>© ETSI 2017, <a href="/iso-certification">ETSI is certified ISO 9001:2008</a></p></div>
             <div class="social-media-icons">
               <a class="twitter" href="https://twitter.com/ETSI_STANDARDS" target="_new"><img src="/images/twitter_icon.png" onmouseover="this.src='/images/twitter_icon_blue.png';" onmouseout="this.src='/images/twitter_icon.png'"></a>
               <a class="facebook" href="https://www.facebook.com/etsi.standards" target="_new"><img src="/images/facebook_icon.png" onmouseover="this.src='/images/facebook_icon_blue.png';" onmouseout="this.src='/images/facebook_icon.png'"></a>
@@ -345,11 +345,16 @@ jQuery('#articleActions').detach().appendTo(jQuery('.breadcrumb-bar'));
   <script type="text/javascript" src="/templates/etsidefault/js/CollapsibleLists.compressed.js"></script>
   <script type="text/javascript">
          jQuery(document).ready(function($){
-                        jQuery('#subscribe-rf').click(function(){
-                            //var url = $(this).attr('href');
-                            showDialog('/custom/registerSelection.html');
-                            return false;
-                        });
+			jQuery('#subscribe-rf').click(function(){
+				//var url = $(this).attr('href');
+				showDialog('/custom/registerSelection.html');
+				return false;
+			});
+			jQuery('.modal-etsi').click(function(){
+                //var url = $(this).attr('href');
+                showDialog('/custom/registerSelection.html');
+                return false;
+            });
             jQuery("#mod-div").dialog({ 
                autoOpen: false,
                height: 450,
@@ -359,7 +364,25 @@ jQuery('#articleActions').detach().appendTo(jQuery('.breadcrumb-bar'));
             function showDialog(url){ 
               jQuery("#mod-div").load(url);
               jQuery("#mod-div").dialog("open");         
-            }                
+            }  
+			function GetParameterValues(param) {  
+                var url = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');  
+                for (var i = 0; i < url.length; i++) {  
+                    var urlparam = url[i].split('=');  
+                    if (urlparam[0] == param) {  
+                        return urlparam[1];  
+                    }  
+                }  
+            }
+			var accordianNb = GetParameterValues('accordian');
+            if(accordianNb !=null){
+				setTimeout(function(){
+                $('.jwts_toggleControl').eq(accordianNb).removeClass('jwts_toggleOff');
+                $('.jwts_toggleControl').eq(accordianNb).addClass('jwts_toggleOn');
+                $('.jwts_toggleContent').eq(accordianNb).css('height', 'auto'); 
+                window.scrollTo(0, $('.jwts_toggleContent').eq(accordianNb).offset().top);
+              }, 2000);
+            }           			
         });
     //video tracking
 (function($) {
