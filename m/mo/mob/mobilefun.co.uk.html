@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the mobilefun.co.uk privacy policy that was archived on 2016-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161117115834id_/http%3A//www.mobilefun.co.uk/blog/information/security-and-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobilefun.co.uk privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606172055id_/http%3A//www.mobilefun.co.uk/blog/information/security-and-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-R82T"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHWFRbGwoEU1JTAwc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://www.mobilefun.co.uk/blog/xmlrpc.php">
@@ -11,17 +11,18 @@
 <link rel="shortcut icon" type="image/x-icon" href="http://www.mobilefun.co.uk/favicon.ico">
 <title>Security and Privacy | Mobile Fun Blog</title>
 
-<!-- All in One SEO Pack 2.3.8 by Michael Torbert of Semper Fi Web Design[417,468] -->
+<!-- All in One SEO Pack 2.3.12.5 by Michael Torbert of Semper Fi Web Design[417,468] -->
 <meta name="description" content="We pledge to provide you with a safe, hassle-free online shopping experience! Mobile Fun is aware that you care how information about you is used and shared.">
 
 <link rel="canonical" href="http://www.mobilefun.co.uk/blog/information/security-and-privacy/">
 <!-- /all in one seo pack -->
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Mobile Fun Blog » Feed" href="http://www.mobilefun.co.uk/blog/feed/">
 <link rel="alternate" type="application/rss+xml" title="Mobile Fun Blog » Comments Feed" href="http://www.mobilefun.co.uk/blog/comments/feed/">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.mobilefun.co.uk\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.mobilefun.co.uk/blog/wp-includes/js/wp-emoji-release.min.js?ver=4.5.3" type="text/javascript"></script>
+		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-R82T"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.mobilefun.co.uk\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.mobilefun.co.uk/blog/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -36,52 +37,44 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="dazzling-bootstrap-css" href="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/inc/css/bootstrap.min.css?ver=4.5.3" type="text/css" media="all">
-<link rel="stylesheet" id="dazzling-icons-css" href="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/inc/css/font-awesome.min.css?ver=4.5.3" type="text/css" media="all">
-<link rel="stylesheet" id="dazzling-style-css" href="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/style.css?ver=4.5.3" type="text/css" media="all">
-<link rel="stylesheet" id="social-logos-css" href="http://www.mobilefun.co.uk/blog/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="http://www.mobilefun.co.uk/blog/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="http://www.mobilefun.co.uk/blog/wp-content/plugins/easy-bootstrap-shortcodes/styles/bootstrap.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-fa-icon-css" href="http://www.mobilefun.co.uk/blog/wp-content/plugins/easy-bootstrap-shortcodes/styles/font-awesome.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="mashnet-styles-css" href="http://www.mobilefun.co.uk/blog/wp-content/plugins/mashshare-networks/assets/css/mashnet.min.css?ver=2.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="quads-styles-css" href="http://www.mobilefun.co.uk/blog/wp-content/plugins/quick-adsense-reloaded/assets/css/quads.css?ver=1.5.1" type="text/css" media="all">
+<style id="quads-styles-inline-css" type="text/css">
+@media only screen and (min-width:1140px){.quads-maxads {display:none;}}
+@media only screen and (min-width:1024px) and (max:width:1140px) {.quads-maxads {display:none;}}
+@media only screen and (min-width:768px) and (max-width:1024px){.quads-maxads {display:none;}}
+@media only screen and (max-width:768px){.quads-maxads {display:none;}}
+@media only screen and (min-width:1140px){.quads-priority {display:none;}}
+@media only screen and (min-width:1024px) and (max:width:1140px) {.quads-priority {display:none;}}
+@media only screen and (min-width:768px) and (max-width:1024px){.quads-priority {display:none;}}
+@media only screen and (max-width:768px){.quads-priority {display:none;}}
+
+</style>
+<link rel="stylesheet" id="dazzling-bootstrap-css" href="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/inc/css/bootstrap.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="dazzling-icons-css" href="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/inc/css/font-awesome.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="dazzling-style-css" href="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/style.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="ebs_dynamic_css-css" href="http://www.mobilefun.co.uk/blog/wp-content/plugins/easy-bootstrap-shortcodes/styles/ebs_dynamic_css.php?ver=4.7.5" type="text/css" media="all">
 <script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/inc/js/bootstrap.min.js?ver=4.5.3"></script>
-<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/inc/js/main.js?ver=4.5.3"></script>
+<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-content/plugins/easy-bootstrap-shortcodes/js/bootstrap.min.js?ver=4.7.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mashnet = {"body":"","subject":"","pinterest_select":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-content/plugins/mashshare-networks/assets/js/mashnet.min.js?ver=2.4.2"></script>
+<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/inc/js/bootstrap.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/inc/js/main.js?ver=4.7.5"></script>
 <link rel="https://api.w.org/" href="http://www.mobilefun.co.uk/blog/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mobilefun.co.uk/blog/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.mobilefun.co.uk/blog/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.5.3">
-<link rel="shortlink" href="http://wp.me/PxeBC-qU">
+<meta name="generator" content="WordPress 4.7.5">
+<link rel="shortlink" href="http://www.mobilefun.co.uk/blog/?p=1668">
 <link rel="alternate" type="application/json+oembed" href="http://www.mobilefun.co.uk/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mobilefun.co.uk%2Fblog%2Finformation%2Fsecurity-and-privacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.mobilefun.co.uk/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mobilefun.co.uk%2Fblog%2Finformation%2Fsecurity-and-privacy%2F&amp;format=xml">
-
-<!-- Twitter Cards Meta By WPDeveloper.net -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@mobilefun">
-<meta name="twitter:creator" content="@mobilefun">
-<meta name="twitter:url" content="http://www.mobilefun.co.uk/blog/information/security-and-privacy/">
-<meta name="twitter:title" content="Security and Privacy">
-<meta name="twitter:description" content="We pledge to provide you with a safe, hassle-free online shopping experience! Mobile Fun is aware that you care how information about you is used and shared. We assure the highest level of safety [...]">
-<meta name="twitter:image" content="http://www.mobilefun.co.uk/blog/wp-content/uploads/2009/06/vseal.gif">
-<!-- Twitter Cards Meta By WPDeveloper.net -->
-
-<script type="text/javascript">
-	window._wp_rp_static_base_url = 'https://wprp.zemanta.com/static/';
-	window._wp_rp_wp_ajax_url = "http://www.mobilefun.co.uk/blog/wp-admin/admin-ajax.php";
-	window._wp_rp_plugin_version = '3.6';
-	window._wp_rp_post_id = '1668';
-	window._wp_rp_num_rel_posts = '4';
-	window._wp_rp_thumbnails = true;
-	window._wp_rp_post_title = 'Security+and+Privacy';
-	window._wp_rp_post_tags = [];
-	window._wp_rp_promoted_content = true;
-</script>
-<script type="text/javascript" src="https://wprp.zemanta.com/static/js/loader.js?version=3.6" async=""></script>
-<link rel="stylesheet" href="http://www.mobilefun.co.uk/blog/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/vertical.css?version=3.6">
-
-<link rel="dns-prefetch" href="//v0.wordpress.com">
-<link rel="dns-prefetch" href="//i0.wp.com">
-<link rel="dns-prefetch" href="//i1.wp.com">
-<link rel="dns-prefetch" href="//i2.wp.com">
-<style type="text/css">img#wpstats{display:none}</style><style type="text/css">a, #infinite-handle span {color:#353735}a:hover {color: #adafaf;}.btn-default, .label-default, .flex-caption h2, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus, .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a {background-color: #ccdc00; border-color: #ccdc00;} .btn.btn-default.read-more, .entry-meta .fa, .site-main [class*="navigation"] a, .more-link { color: #ccdc00}h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .entry-title {color: #353735;}.navbar.navbar-default {background-color: #ffffff;}.navbar-default .navbar-nav > li > a { color: #000000;}.dropdown-menu, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {background-color: #000000;}.navbar-default .navbar-nav .open .dropdown-menu > li > a { color: #cdde54;}#colophon {background-color: #353735;}#footer-area, .site-info {color: #adafaf;}#footer-area {background-color: #353735;}.site-info a, #footer-area a {color: #ccdc00;}.entry-content {font-family: verdana; font-size:14px; font-weight: normal; color:#6B6B6B;}table.t01 {
+<style type="text/css">a, #infinite-handle span {color:#353735}a:hover {color: #adafaf;}.btn-default, .label-default, .flex-caption h2, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus, .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a {background-color: #ccdc00; border-color: #ccdc00;} .btn.btn-default.read-more, .entry-meta .fa, .site-main [class*="navigation"] a, .more-link { color: #ccdc00}h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .entry-title {color: #353735;}.navbar.navbar-default {background-color: #ffffff;}.navbar-default .navbar-nav > li > a { color: #000000;}.dropdown-menu, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {background-color: #000000;}.navbar-default .navbar-nav .open .dropdown-menu > li > a { color: #cdde54;}#colophon {background-color: #353735;}#footer-area, .site-info {color: #adafaf;}#footer-area {background-color: #353735;}.site-info a, #footer-area a {color: #ccdc00;}.entry-content {font-family: verdana; font-size:14px; font-weight: normal; color:#6B6B6B;}table.t01 {
   display: block;
 }
 
@@ -306,18 +299,7 @@ div.nav-previous, div.nav-next {
 
 .scroll-to-top:hover {
 	background: #CCDC00;
-}</style>
-<!-- Jetpack Open Graph Tags -->
-<meta property="og:type" content="article">
-<meta property="og:title" content="Security and Privacy">
-<meta property="og:url" content="http://www.mobilefun.co.uk/blog/information/security-and-privacy/">
-<meta property="og:description" content="We pledge to provide you with a safe, hassle-free online shopping experience! Mobile Fun is aware that you care how information about you is used and shared. We assure the highest level of safety a…">
-<meta property="article:published_time" content="2009-06-04T09:47:32+00:00">
-<meta property="article:modified_time" content="2015-05-01T13:36:48+00:00">
-<meta property="og:site_name" content="Mobile Fun Blog">
-<meta property="og:image" content="https://secure.mobilefun.co.uk/graphics/secpay.jpg">
-<meta property="og:locale" content="en_US">
-<!--[if lt IE 9]>
+}</style><!--[if lt IE 9]>
 <script src="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/inc/js/html5shiv.min.js"></script>
 <script src="http://www.mobilefun.co.uk/blog/wp-content/themes/dazzling/inc/js/respond.min.js"></script>
 <![endif]-->
@@ -334,7 +316,7 @@ div.nav-previous, div.nav-next {
 </script>
 <script async="" type="text/javascript" src="//mobilefun.disqus.com/count.js"></script></head>
 
-<body class="page page-id-1668 page-child parent-pageid-1260 page-template-default group-blog">
+<body class="page-template-default page page-id-1668 page-child parent-pageid-1260 group-blog">
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-R82T"
@@ -387,12 +369,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<p><strong>We pledge to provide you with a safe, hassle-free online shopping experience!</strong></p>
 <p>Mobile Fun is aware that you care how information about you is used and shared. We assure <strong>the highest level of safety and security</strong> for our customers and have established state-of-the-art technological protection measures to ensure that all of our transaction processes, both online and offline, are extremely safe</p>
 <p>You can shop with confidence at Mobile Fun, knowing that your personal information, including name, address and credit card information, is protected by <strong>VeriSign Secure Site Technology</strong>. Our industry standard encryption ensures no one can access or &nbsp;use your personal information. But our security procedures don’t stop there: your order details are then encrypted with 1024-bit PGP technology before it is communicated to the Mobile Fun sales and despatch team.</p>
-<p><img class="size-full wp-image-29779 alignleft" title="vseal" src="http://i2.wp.com/www.mobilefun.co.uk/blog/wp-content/uploads/2009/06/vseal.gif?resize=100%2C58" alt="" data-recalc-dims="1"></p>
+<p><img class="size-full wp-image-29779 alignleft" title="vseal" src="http://www.mobilefun.co.uk/blog/wp-content/uploads/2009/06/vseal.gif" alt="" width="100" height="58"></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>All Internet host IP addresses are also recorded for security reasons when placing an order online, which may identify your computer and Internet connections, for fraud-prevention purposes.</p>
-<p><img src="http://i2.wp.com/secure.mobilefun.co.uk/graphics/secpay.jpg?resize=150%2C47&amp;ssl=1" alt="Secured by Secpay" data-recalc-dims="1"></p>
+<p><img src="https://secure.mobilefun.co.uk/graphics/secpay.jpg" alt="Secured by Secpay" width="150" height="47"></p>
 <p>&nbsp;</p>
 <p>When you shop at Mobile Fun, you can be sure that it’s going to be a hassle-free, rewarding online shopping experience!</p>
 <p><strong>Privacy Statement</strong></p>
@@ -411,7 +393,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>The following applies to any information you provide to us, for example during any registration or ordering process.<br>
 You authorise us to use, store or otherwise process any personal information which relates to and identifies you, including but not limited to your name, email address, telephone number and address, to the extent reasonably necessary to fulfill your order, market/communicate products and services and deal with any enquiries relating to the same whether by us, our partners, successors (including the purchaser of the whole or part of our business), associates or sub-contractors (together our ‘Partner Companies’). If you would like to request or review any part of your personal information held by Mobile Fun then click&nbsp;<a href="http://www.mobilefun.co.uk/blog/information/terms-and-conditions/request-for-subject-access-request-form/">submit a request form</a>.</p>
 <p>If you obtain or choose to buy products through our website or give us personal information then we may collect information about your buying behaviour and if you send us personal correspondance such as emails or letters then we may collect this information into a file specific to you. All such information collected by us shall be referred to in these terms and conditions as ‘Personal Information’
-</p><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this post:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1668" class="share-twitter sd-button share-icon" href="http://www.mobilefun.co.uk/blog/information/security-and-privacy/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1668" class="share-facebook sd-button share-icon" href="http://www.mobilefun.co.uk/blog/information/security-and-privacy/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1668" class="share-google-plus-1 sd-button share-icon" href="http://www.mobilefun.co.uk/blog/information/security-and-privacy/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon" href="http://www.mobilefun.co.uk/blog/information/security-and-privacy/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="http://www.mobilefun.co.uk/blog/information/security-and-privacy/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://www.mobilefun.co.uk/blog/information/security-and-privacy/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://www.mobilefun.co.uk/blog/information/security-and-privacy/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			</div><!-- .entry-content -->
+			</p></div><!-- .entry-content -->
 	</article><!-- #post-## -->
 
 				
@@ -433,22 +415,22 @@ You authorise us to use, store or otherwise process any personal information whi
 	</div>
 </form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Latest posts</h3>		<ul>
 					<li>
-				<a href="http://www.mobilefun.co.uk/blog/2016/11/5-toy-and-gadget-gift-ideas-for-christmas/">5 toy and gadget gift ideas for Christmas</a>
+				<a href="http://www.mobilefun.co.uk/blog/2017/06/how-to-install-a-whitestone-dome-glass-screen-protector/">How to install a Whitestone Dome Glass Screen Protector</a>
 						</li>
 					<li>
-				<a href="http://www.mobilefun.co.uk/blog/2016/11/oneplus-3t-specs-features-uk-price-release-date-and-accessories/">OnePlus 3T: specs, features, UK price, release date and accessories</a>
+				<a href="http://www.mobilefun.co.uk/blog/2017/05/does-xperia-xa1-have-micro-sd-storage/">Does Xperia XA1 have Micro SD storage?</a>
 						</li>
 					<li>
-				<a href="http://www.mobilefun.co.uk/blog/2016/11/top-10-christmas-stocking-fillers/">Top 10 Christmas stocking fillers</a>
+				<a href="http://www.mobilefun.co.uk/blog/2017/05/how-to-connect-xperia-xa1-xa1-ultra-to-tv/">How to connect Xperia XA1 / XA1 Ultra to TV</a>
 						</li>
 					<li>
-				<a href="http://www.mobilefun.co.uk/blog/2016/11/top-5-sim-free-phones-at-mobile-fun/">Top 5 sim-free phones at Mobile Fun</a>
+				<a href="http://www.mobilefun.co.uk/blog/2017/05/how-to-connect-xperia-xz-premium-to-tv/">How to connect Xperia XZ Premium to TV</a>
 						</li>
 					<li>
-				<a href="http://www.mobilefun.co.uk/blog/2016/11/complete-screen-and-touch-bar-protection-for-new-macbook-pros/">Complete screen and Touch Bar protection for new MacBook Pros</a>
+				<a href="http://www.mobilefun.co.uk/blog/2017/05/top-5-sony-xperia-xa1-cases-and-covers/">Top 5 Sony Xperia XA1 Cases and Covers</a>
 						</li>
 				</ul>
-		</aside>		<aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title">@MobileFun on Twitter</h3><a class="twitter-timeline" data-width="360" data-height="600" data-theme="light" data-link-color="#ccdc00" data-border-color="#e8e8e8" data-lang="EN" href="https://twitter.com/mobilefun">My Tweets</a></aside><aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+		</aside>		<aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
 	<li class="cat-item cat-item-311"><a href="http://www.mobilefun.co.uk/blog/category/android/">Android</a>
 </li>
 	<li class="cat-item cat-item-8208"><a href="http://www.mobilefun.co.uk/blog/category/apple/">Apple</a>
@@ -527,7 +509,7 @@ You authorise us to use, store or otherwise process any personal information whi
         (function () {
             var nodes = document.getElementsByTagName('span');
             for (var i = 0, url; i < nodes.length; i++) {
-                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
                     nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
                     url = nodes[i].parentNode.href.split('#', 1);
                     if (url.length == 1) { url = url[0]; }
@@ -543,112 +525,7 @@ You authorise us to use, store or otherwise process any personal information whi
         }());
         // ]]>
         </script>
-        	<div style="display:none">
-	</div>
+        <script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
 
-	<script type="text/javascript">
-		window.WPCOM_sharing_counts = {"http:\/\/www.mobilefun.co.uk\/blog\/information\/security-and-privacy\/":1668};
-	</script>
-		<script type="text/javascript">
-			var windowOpen;
-		jQuery(document).on( 'ready post-load', function(){
-			jQuery( 'a.share-twitter' ).on( 'click', function() {
-				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
-					windowOpen.close();
-				}
-				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
-				return false;
-			});
-		});
-		</script>
-				<script type="text/javascript">
-			var windowOpen;
-		jQuery(document).on( 'ready post-load', function(){
-			jQuery( 'a.share-facebook' ).on( 'click', function() {
-				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
-					windowOpen.close();
-				}
-				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
-				return false;
-			});
-		});
-		</script>
-				<script type="text/javascript">
-			var windowOpen;
-		jQuery(document).on( 'ready post-load', function(){
-			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
-				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
-					windowOpen.close();
-				}
-				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
-				return false;
-			});
-		});
-		</script>
-				<script type="text/javascript">
-			var windowOpen;
-		jQuery(document).on( 'ready post-load', function(){
-			jQuery( 'a.share-pocket' ).on( 'click', function() {
-				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
-					windowOpen.close();
-				}
-				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
-				return false;
-			});
-		});
-		</script>
-			<div id="sharing_email" style="display: none;">
-		<form action="/blog/information/security-and-privacy/" method="post">
-			<label for="target_email">Send to Email Address</label>
-			<input type="email" name="target_email" id="target_email" value="">
 
-			
-				<label for="source_name">Your Name</label>
-				<input type="text" name="source_name" id="source_name" value="">
-
-				<label for="source_email">Your Email Address</label>
-				<input type="email" name="source_email" id="source_email" value="">
-
-						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off">
-			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
-			
-			<img style="float: right; display: none" class="loading" src="http://www.mobilefun.co.uk/blog/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16">
-			<input type="submit" value="Send Email" class="sharing_send">
-			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
-
-			<div class="errors errors-1" style="display: none;">
-				Post was not sent - check your email addresses!			</div>
-
-			<div class="errors errors-2" style="display: none;">
-				Email check failed, please try again			</div>
-
-			<div class="errors errors-3" style="display: none;">
-				Sorry, your blog cannot share posts by email.			</div>
-		</form>
-	</div>
-<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201646"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2016Novaa"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var WPGroHo = {"my_hash":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.5.3"></script>
-<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-content/plugins/jetpack/_inc/twitter-timeline.js?ver=4.0.0"></script>
-<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-includes/js/wp-embed.min.js?ver=4.5.3"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var sharing_js_options = {"lang":"en","counts":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.mobilefun.co.uk/blog/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://stats.wp.com/e-201646.js" async="" defer=""></script>
-<script type="text/javascript">
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.1.1',blog:'7920972',post:'1668',tz:'0',srv:'www.mobilefun.co.uk'} ]);
-	_stq.push([ 'clickTrackerInit', '7920972', '1668' ]);
-</script>
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"35a8b36c83","applicationID":"9473146","transactionName":"M1VQNxNWXEAEABELCgofcwAVXl1dShMEBQA=","queueTime":0,"applicationTime":470,"atts":"HxJTQVtMT04=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
