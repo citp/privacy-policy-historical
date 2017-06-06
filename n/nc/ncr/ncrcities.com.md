@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the ncrcities.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124212250id_/http%3A//www.ncrcities.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncrcities.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105102id_/http%3A//www.ncrcities.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NCRCITIES.COM
 
-**Information collection and Use**
-
 When you register on the NCRCities.com , you may have to provide your personal or business information.
 
-**Personal Data**
-
+ **Personal Data**  
 NCRCities.com collects personal data from you when you add business contents on NCRCities.com, We provide you with the support and tools required to maintain and modify your directory listings; and to contact you about specials and new products.
 
 NCRCities.com collects personally identifiable data from you when you request corrections to, or deletions of, directory listings in order to process your request.
