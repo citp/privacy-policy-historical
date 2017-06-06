@@ -1,8 +1,26 @@
-> *The following text is extracted and transformed from the ts-dating.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129171518id_/http%3A//www.ts-dating.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ts-dating.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075706id_/http%3A//www.ts-dating.com/privacy-policy) for the most accurate reproduction.*
 
 # Transsexual Escorts & Shemale Dating - TS-Dating.com
 
-Total members: **90371** | Escorts: **4619** | Dating ads: **54948**
+---  
+  | 
+
+|  [NEXT TRANSSEXUAL PARTY](http://www.ts-dating.com/shemale-events)  
+---  
+  
+**Date:** Jun 6th, 2017 (Tue)
+
+**Date:** Jun 6th, 2017 (Tue) -- Jun 11th, 2017 (Sun)
+
+**Date:** Jun 7th, 2017 (Wed)
+
+**Date:** Jun 7th, 2017 (Wed) -- Jun 11th, 2017 (Sun)
+
+**Date:** Jun 8th, 2017 (Thu)  
+  
+|  |   
+  
+Total members: **110380** | Escorts: **4957** | Dating ads: **74339**
 
 The operative parties referred to in this policy are [www.ts-dating.com](http://www.ts-dating.com/) ("Site") and you, the user of this site
 
