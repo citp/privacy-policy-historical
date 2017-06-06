@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119223359id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183423id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
@@ -12,13 +12,13 @@
 
 [](http://www.smithstearns.com/)
 
-[](http://www.imgacademy.com/sports/bollettieri-tennis)
-
 [](http://www.advantagetennisacademy.com/)
 
 [](http://www.gammasports.com/)
 
 [](http://www.wilson.com/tennis/)
+
+[](http://www.kswiss.com/)
 
 [](http://www.tennisoncampus.com/)
 
@@ -134,17 +134,26 @@ Marietta, GA 30007-1912
 
 | 
 
-[](http://www.tennis-warehouse.com/player.html?ccode=NDJOKOVIC&from=tenrec)
+| [](http://www.tennis-warehouse.com/player.html?ccode=SQUERREY&from=tenrec) |   |  **[Sam Querrey](http://www.tennis-warehouse.com/player.html?ccode=SQUERREY&from=tenrec)** [Babolat Pure Aero Plus](http://www.tennis-warehouse.com/Babolat_Pure_Aero_Plus/descpageRCBAB-BPAP.html?from=tenrec)  
+Buy Now: $219.00  
+[Review](http://www.tennis-warehouse.com/reviews/BPAP/BPAPreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-BPAP.html?from=tenrec), [Demo](http://www.tennis-warehouse.com/demoselect.html?pcode=BPAP&productlist=BPAPd&from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYWMyTzJAMv4)  
+---|---|---  
+[](http://www.tennis-warehouse.com/player.html?ccode=EGULBIS&from=tenrec) |   |  **[Ernests Gulbis](http://www.tennis-warehouse.com/player.html?ccode=EGULBIS&from=tenrec)** [Wilson Burn 100 CV](http://www.tennis-warehouse.com/Wilson_Burn_100_CV/descpageRCWILSON-B100CV.html?from=tenrec)  
+Buy Now: $199.00  
+[Review](http://www.tennis-warehouse.com/reviews/B100CV/B100CVreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-B100CV.html?from=tenrec), [Demo](http://www.tennis-warehouse.com/demoselect.html?pcode=B100CV&productlist=B100CVd&from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCzkoxCv1LcI)  
+[](http://www.tennis-warehouse.com/player.html?ccode=KNISHIKORI&from=tenrec) |   |  **[Kei Nishikori](http://www.tennis-warehouse.com/player.html?ccode=KNISHIKORI&from=tenrec)** [Wilson Burn 95](http://www.tennis-warehouse.com/Wilson_Burn_95/descpageRCWILSON-B95.html?from=tenrec)  
+Was: $229.00   **Now: $119.00**  
+[Review](http://www.tennis-warehouse.com/reviews/B95/B95review.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-B95.html?from=tenrec), [Demo](http://www.tennis-warehouse.com/demoselect.html?pcode=B95&productlist=B95d&from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJnUejFx8kkw)  
+[](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec) |   |  **[Lucas Pouille](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec)** [Prince Textreme Tour 100P](http://www.tennis-warehouse.com/Prince_Textreme_Tour_100P/descpageRCPRINCE-T1HP.html?from=tenrec)  
+Buy Now: $199.00  
+[Review](http://www.tennis-warehouse.com/reviews/T1HP/T1HPreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-T1HP.html?from=tenrec), [Demo](http://www.tennis-warehouse.com/demoselect.html?pcode=T1HP&productlist=T1HPd&from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDxguLW75Jr0)  
+ 
 
-Click on [Novak Djokovic](http://www.tennis-warehouse.com/player.html?ccode=NDJOKOVIC&from=tenrec) to view and buy his equipment, apparel, and footwear.
+[**Advantage Tennis Academy Liveball Dril**](http://www.youtube.com/user/ATAtennis)
 
-   
+Advantage Tennis Academy's mission is to help players build on their dreams. Whether the dream is to earn a college scholarship or make it on ... 
 
-[**See Our Heart - 2XU - Heart Not Hype**](https://www.youtube.com/user/2xuaustralia)
-
-It's about heart not hype. The heart is our engine, it keeps us motivated, it pushes our boundaries, it fuels our muscles, it's passion for ... 
-
-See More
+[See More](https://web.archive.org/web/20170606183423id_/http%3a//www.tennisrecruiting.net/privacy.asp#?sessionid=26919B797BF7E7E4)
 
  
 
