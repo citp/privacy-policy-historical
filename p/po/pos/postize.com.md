@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postize.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072756id_/http%3A//postize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postize.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124336id_/http%3A//postize.com/privacy) for the most accurate reproduction.*
 
 # Postize - Shareable stories galore.
 
@@ -56,6 +56,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 #### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Postize http://postize.com admin [at] postize.com 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Postize http://postize.com hello [at] postize.com 
 
-This document was last updated on January 25 th, 2016 
+This document was last updated on June 2nd, 2017 
