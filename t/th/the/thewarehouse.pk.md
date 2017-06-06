@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the thewarehouse.pk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121065547id_/http%3A//www.thewarehouse.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewarehouse.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024236id_/http%3A//www.thewarehouse.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# TheWarehouse.pk Terms and Conditions | Online Shopping in Pakistan with privacy
+
+##### Spread the Word
+
+  * __Promote your favourite product
+  * __Earn commission on each sale
+  * __No design experience required
+
+
+
+[Join As Affiliate](http://www.thewarehouse.pk/affiliate-program)
 
 **Privacy and Confidentiality  **
 
