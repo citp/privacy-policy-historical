@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honda.ca privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120034948id_/http%3A//www.honda.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041040id_/https%3A//www.honda.ca/privacy) for the most accurate reproduction.*
 
 # Honda.ca Privacy Policy
 
@@ -37,7 +37,7 @@ Honda collects this information directly from you, our affiliates, Dealers, serv
 
   * **How Does Honda Use and Share Your Personal Information?**
 
-Honda may share your personal information with its affiliates, such as Honda Finance. Dealers or its service providers. Honda may disclose your personal information as required by law, in connection with a government inquiry, law enforcement activities or in litigation or dispute resolution. Honda will only send email, text or other electronic messages to you with your express consent (unless you have directed us not to do so), or with your implied consent if you have requested information, or if you have a service contract or existing product warranty with Honda.
+Honda may share your personal information with its affiliates, such as Honda Finance, dealers or its service providers. Honda may disclose your personal information as required by law, in connection with a government inquiry, law enforcement activities or in litigation or dispute resolution. Honda will only send email, text or other electronic messages to you with your express consent (unless you have directed us not to do so), or with your implied consent if you have requested information, or if you have a service contract or existing product warranty with Honda.
 
   * **Honda Safeguards Your Personal Information**
 
