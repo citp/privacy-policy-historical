@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downloadbull.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231065018id_/http%3A//downloadbull.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbull.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165919id_/http%3A//downloadbull.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Download Bull
+# Privacy Policy - Download Bull
 
   * 
 
@@ -85,10 +85,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 and we will promptly remove you from **ALL** correspondence.
 
 **Contacting Us**
-
-Islamabad, Punjab
-
-Pakistan
 
 asadniazi776@gmail.com
 
