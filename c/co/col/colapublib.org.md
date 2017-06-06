@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216134319id_/http%3A//www.colapublib.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063149id_/http%3A//www.colapublib.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | County of Los Angeles Public Library
 
@@ -12,7 +12,7 @@ As an initial matter, please be advised that we are subject to the public record
 
 ## If you read or download information:
 
-We may collect and store information for statistical purposes. For example, we may count the number of visitors to the different sections of our site to help us make them more useful.  We may also use this information to monitor your compliance with the [Terms of Use](https://web.archive.org/web/20161216134319id_/http%3A//www.colapublib.org/aboutus/termsofuse.php).  The information collected may include such items as the name and domain of the host from which you access the Internet, the Internet Protocol (IP) address of the computer you are using or your browser software and operating system. This information does not identify you personally.
+We may collect and store information for statistical purposes. For example, we may count the number of visitors to the different sections of our site to help us make them more useful.  We may also use this information to monitor your compliance with the [Terms of Use](https://web.archive.org/web/20170606063149id_/http%3A//www.colapublib.org/aboutus/termsofuse.php).  The information collected may include such items as the name and domain of the host from which you access the Internet, the Internet Protocol (IP) address of the computer you are using or your browser software and operating system. This information does not identify you personally.
 
 ## If you send email to this website:
 
@@ -44,7 +44,7 @@ We do not share personal information with third parties, except that we will pro
 
 ## Consequences of Failing to Provide Personal Information
 
-If you choose not to provide us with your name or other necessary personal information, you will not be able to pay your library fines or fees using this website.  If you have concerns about privacy and security on the Internet, you also have the option of visiting us in person as indicated in our [Terms of Payment](https://web.archive.org/web/20161216134319id_/http%3A//www.colapublib.org/aboutus/termsofpayment.php).
+If you choose not to provide us with your name or other necessary personal information, you will not be able to pay your library fines or fees using this website.  If you have concerns about privacy and security on the Internet, you also have the option of visiting us in person as indicated in our [Terms of Payment](https://web.archive.org/web/20170606063149id_/http%3A//www.colapublib.org/aboutus/termsofpayment.php).
 
 ## Use of Cookies
 
@@ -56,7 +56,7 @@ In certain instances you may be assigned a personal identification number (PIN) 
 
 ## Getting Access to Information; Changing Information
 
-For information on reviewing and/or making changes to the information about you that may be in our records, please send us an [e-mail](https://web.archive.org/contactus/askalibrarian.html) by selecting this option on our [Contact Us](https://web.archive.org/web/20161216134319id_/http%3A//www.colapublib.org/contactus/) page or call us using the information available at our [Contact Us](https://web.archive.org/web/20161216134319id_/http%3A//www.colapublib.org/contactus/) page.  
+For information on reviewing and/or making changes to the information about you that may be in our records, please send us an [e-mail](https://web.archive.org/contactus/askalibrarian.php) by selecting this option on our [Contact Us](https://web.archive.org/web/20170606063149id_/http%3A//www.colapublib.org/contactus/) page or call us using the information available at our [Contact Us](https://web.archive.org/web/20170606063149id_/http%3A//www.colapublib.org/contactus/) page.  
 
 
 ## Other County Departmental or Agency Websites; Non-Los Angeles County Websites (Third Party)
@@ -67,7 +67,7 @@ NOTE: When you use this website to pay your library fees and fines using a credi
 
 ## Disclaimer of Liability
 
-In addition to any other disclaimers in our [Terms of Use](https://web.archive.org/web/20161216134319id_/http%3A//www.colapublib.org/aboutus/termsofuse.php) or [Terms of Payment](https://web.archive.org/web/20161216134319id_/http%3A//www.colapublib.org/aboutus/termsofpayment.php), with respect to information available from this web page, neither the County of Los Angeles nor any of its employees, make any warranty, express or implied, including the warranty of merchantability and fitness for a particular purpose, or assume any liability or responsibility for the accuracy, completeness, or usefulness of such information.
+In addition to any other disclaimers in our [Terms of Use](https://web.archive.org/web/20170606063149id_/http%3A//www.colapublib.org/aboutus/termsofuse.php) or [Terms of Payment](https://web.archive.org/web/20170606063149id_/http%3A//www.colapublib.org/aboutus/termsofpayment.php), with respect to information available from this web page, neither the County of Los Angeles nor any of its employees, make any warranty, express or implied, including the warranty of merchantability and fitness for a particular purpose, or assume any liability or responsibility for the accuracy, completeness, or usefulness of such information.
 
 ## Privacy Regarding Registration and Circulation Records
 
@@ -87,7 +87,7 @@ From the [California Government Code](http://law.justia.com/california/codes/gov
 
 ## Terms of Use and Terms of Payment
 
-Please also visit our [Terms of Use](https://web.archive.org/web/20161216134319id_/http%3A//www.colapublib.org/aboutus/termsofuse.php) governing use of this website and our [Terms of Payment](https://web.archive.org/web/20161216134319id_/http%3A//www.colapublib.org/aboutus/termsofpayment.php) governing use of this website to pay your library fines and fees using a credit/debit card.
+Please also visit our [Terms of Use](https://web.archive.org/web/20170606063149id_/http%3A//www.colapublib.org/aboutus/termsofuse.php) governing use of this website and our [Terms of Payment](https://web.archive.org/web/20170606063149id_/http%3A//www.colapublib.org/aboutus/termsofpayment.php) governing use of this website to pay your library fines and fees using a credit/debit card.
 
 ## Changes to the Privacy Statement
 
