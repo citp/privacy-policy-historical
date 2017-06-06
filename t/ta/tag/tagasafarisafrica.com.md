@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tagasafarisafrica.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120135018id_/http%3A//tagasafarisafrica.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagasafarisafrica.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085950id_/http%3A//tagasafarisafrica.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# African Safaris | Privacy Policy | Taga Safaris
+# Privacy Policy | Taga Safaris
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -46,7 +46,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. http://support.google.com/adwordspolicy/answer/1316548?hl=en
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users.
 
 We have not enabled Google AdSense on our site but we may do so in the future.
 
