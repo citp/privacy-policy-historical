@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planethollywoodresort.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202185927id_/http%3A//www.totalrewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planethollywoodresort.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132006id_/http%3A//www.totalrewards.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Caesars Entertainment Corporation
 
@@ -171,7 +171,7 @@ If you are a customer who utilizes our credit or check cashing, counter check ac
 
 
 **Annual Notices**  
-We will inform you of our Privacy Policy at least once a year, as long as you are a current Financial Services customer of ours. If you no longer have a customer relationship with us, we will continue to follow our Privacy Policy, but you will not receive annual notices from us in the future. Our current form of notice with additional information about our privacy practices and choices you can make about how we share your information can be found [here](http://caesarscorporate.com/wp-content/uploads/2014/09/2015-GLBA-Final.pdf). If you prefer that we not share your personal information, please [click here](https://www.totalrewards.com/content/cet-tr/en/contact-us/preferences.html)‚ log in to your Total Rewards online account and then click on “Manage My Preferences.” You can update your sharing preferences on this page. Click “Save Changes” when you are finished. If you do not yet have a Total Rewards online account, [click here](https://www.totalrewards.com/mytotalrewards/#set-up) to create one.
+We will inform you of our Privacy Policy at least once a year, as long as you are a current Financial Services customer of ours. If you no longer have a customer relationship with us, we will continue to follow our Privacy Policy, but you will not receive annual notices from us in the future. Our current form of notice with additional information about our privacy practices and choices you can make about how we share your information can be found [here](http://caesarscorporate.com/privacy-notice). If you prefer that we not share your personal information, please [click here](https://www.totalrewards.com/content/cet-tr/en/contact-us/preferences.html)‚ log in to your Total Rewards online account and then click on “Manage My Preferences.” You can update your sharing preferences on this page. Click “Save Changes” when you are finished. If you do not yet have a Total Rewards online account, [click here](https://www.totalrewards.com/mytotalrewards/#set-up) to create one.
 
 **Material Changes to Our Privacy Policy**
 
