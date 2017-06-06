@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mdlottery.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202225618id_/http%3A//www.mdlottery.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlottery.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115243id_/http%3A//www.mdlottery.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Maryland Lottery - About Us – Privacy Policy
+# Maryland Lottery - About UsPrivacy Policy - www.mdlottery.com
 
 ### Privacy Policy
 
