@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmcrave.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127075521id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcrave.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170322id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Information for FilmCrave
 
@@ -12,7 +12,7 @@ FilmCrave.com also collects non-personal information such as IP address and brow
 
 In order to assist with users communication and facilitate the social-networking aspect of the website, information such as your personal profile, movie reviews and favorite movies will publicly shown across the website. All content personal content that could be used to identify a user's individually such as birth date, gender, name and email should be shown at the discretion of the user. Some of this information may be available to non-members and members alike. 
 
-FilmCrave.com may use some information such as movie reviews and top movie lists for other purposes such as advertising, marketing and print material. None of this information may be used in a way to identify a single user's identity. 
+FilmCrave.com may use some information such as movie reviews and top movie lists for other purposes such as advertising, marketing and print material. None of this information may be used in a way to identify a single user's identity.
 
 E-mail Communication  
 A user's email address may also be used to send updates, user notifications and newsletters. Some of this communication may be turned off by updating your preferences in the user profile. Emails may also be sent to non-members if a member invites a user to join the FilmCrave.com community. These emails are sent on the behalf of another member and we do not monitor the frequency or content of this email.
@@ -32,4 +32,4 @@ FilmCrave.com may have advertisements on the website that will use cookies to tr
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp 
 
 Changes to Privacy Policy  
-FilmCrave.com reserves the right to change this privacy policy at any time without notice. Any changes to this policy will be posted on the website for at least 30 days. The date of any and all changes will also be posted at the top of this page. We take you privacy seriously and if you have any issues, questions or concerns with this policy please [contact us](https://web.archive.org/web/20161127075521id_/http%3A//www.filmcrave.com/contact.php "Contact FilmCrave about our privacy policy"). 
+FilmCrave.com reserves the right to change this privacy policy at any time without notice. Any changes to this policy will be posted on the website for at least 30 days. The date of any and all changes will also be posted at the top of this page. We take you privacy seriously and if you have any issues, questions or concerns with this policy please [contact us](https://web.archive.org/web/20170606170322id_/http%3A//www.filmcrave.com/contact.php "Contact FilmCrave about our privacy policy"). 
