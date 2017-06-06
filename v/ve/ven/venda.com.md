@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venda.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129122436id_/http%3A//www.venda.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venda.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123227id_/http%3A//venda.com/privacy.html) for the most accurate reproduction.*
 
 # Venda Privacy Statement
 
@@ -8,7 +8,7 @@ In this Privacy Statement ( **"Statement"** ), NetSuite Inc. and its worldwide s
 
 References in this Statement to **"we,"** **"us"** or **"our"** are references to the NetSuite Group entity that is operating the relevant Website, or providing the applicable Services. Statements referring to **"you"** or **"your"** are references to the company or individual we are collecting personal information about. Our use of the term Services in this Statement has the same definition as in customer's applicable Services agreement with us, or the applicable NetSuite Group service ( **"Services"** ).
 
-If you have any questions regarding this Statement, please email us at [privacy@netsuite.com](mailto:privacy@netsuite.com) or see the "How to Contact Us" section below. 
+If you have any questions regarding this Statement, please email us at [Privacy_ww@oracle.com](mailto:Privacy_ww@oracle.com) or see the "How to Contact Us" section below. 
 
 ## Scope
 
@@ -154,14 +154,11 @@ If you wish to access, correct, amend or delete your personal information under 
 
 If you have any questions regarding this Statement or if you need to request access to or update, change or remove personal information that we control, you can do so by contacting:
 
-Denise Farnsworth at: [dfarnsworth@netsuite.com](mailto:dfarnsworth@netsuite.com) or [privacy@netsuite.com](mailto:privacy@netsuite.com)
-
-or by regular mail addressed to:
-
-Denise Farnsworth  
-Senior Director, Lead Privacy Counsel  
-2955 Campus Drive, Suite 100  
-San Mateo, CA 94403
+Chief Privacy Officer, Oracle Corporation  
+10 Van de Graaff Drive  
+Burlington, MA 01803  
+United States of America  
+[Privacy_ww@oracle.com](mailto:Privacy_ww@oracle.com)
 
 ## Amendments
 
