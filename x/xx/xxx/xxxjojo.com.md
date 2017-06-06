@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xxxjojo.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807213738id_/http%3A//www.xxxjojo.com/infpgs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxjojo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081259id_/http%3A//www.xxxjojo.com/infpgs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XXXJoJo.com
 
-Effective Date: August 07, 2015  
+Effective Date: June 06, 2017  
 Sites Covered: www.XXXJoJo.com 
 
 Pursuant to our [Terms of Use](http://www.xxxjojo.com/infpgs/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
