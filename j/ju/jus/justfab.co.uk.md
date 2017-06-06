@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfab.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122152015id_/http%3A//www.justfab.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfab.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165430id_/https%3A//www.justfab.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | JustFab
 
@@ -8,9 +8,9 @@ This privacy policy addresses the use of information we collect from you. By vis
 
 The Controller for the collecting, processing and using of personal data on www.justfab.co.uk (“Website” or “our Website”) is: 
 
-JustFab UK Ltd  
-8-10 Dryden Street  
-London, WC2E 9NA  
+JUSTFAB (UK) Ltd, a TechStyle Fashion Group company  
+38 St Martin’s Lane  
+London, WC2N 4ER  
 Email: support@justfab.co.uk
 
 ## 2\. Use of JustFab
@@ -97,7 +97,7 @@ If you visit a JustFab page which includes such a Plugin, your browser will esta
 
 ## 8\. Data Processing outside the EEA
 
-8.1 JustFab.co.uk is technically operated and administrated by our parent company, Just Fabulous, Inc., 2301 Rosecrans Avenue, Suite 4100, El Segundo, California in the United States of America (USA). Personal data collected will be transferred to the US servers of Just Fabulous Inc. We ensure that the data processing outside the EEA is compliant with EU Data Protection Directive 95/46/EC and with national law. Just Fabulous Inc. complies with the [U.S.-EUSafe Harbor Framework](http://www.export.gov/safeharbor/index.asp) and therefore obeys the European Law on Data Protection.
+8.1 Our Website is technically operated and administrated by our parent company, TechStyle, Inc., 800 Apollo Street, El Segundo, California in the United States of America (USA). Personal data collected will be transferred to the US servers of TechStyle Inc. We ensure that the data processing outside the EEA is compliant with EU Data Protection Directive 95/46/EC and with national law. TechStlye Inc. complies with the [U.S:- EU Privacy Shield Framework and therefore obeys the European Law on Data Protection](https://www.privacyshield.gov/welcome).
 
 8.2 We may disclose your personal information to third party service providers who help us operate our business and provide services to you. Such service providers may be located overseas, including outside the EEA. We require these service providers to comply with strict conditions governing with how your personal information is to be handled. Any disclosure of your personal information will be in compliance with the EU Data Protection Directive 95/46/EC and with national law. 
 
