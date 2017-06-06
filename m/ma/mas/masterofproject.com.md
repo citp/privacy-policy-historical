@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the masterofproject.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124171654id_/http%3A//masterofproject.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterofproject.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161507id_/http%3A//masterofproject.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Master of Project Academy
+
+## Get Certified at Your Pace
+
+### World's #1 Affordable & Flexible Leading Online Certification Training Provider.   
+100% Online and Self-Paced Certification Courses.
 
 ## Privacy Policy
 
@@ -23,6 +28,10 @@ In "Lifetime" pricing options, your PayPal or credit card will be charged only o
 **Subscription Cancellation**
 
 You can cancel your subscription to any course at any time you wish from your profile under "Subscriptions" menu. After you cancelled your subscription, you will still have access to the course until next charging date and you will be automatically unenrolled from the course on next charging date. 
+
+**30 Day Money Back Guarantee & Refund**
+
+Master of Project Academy provides 30 day money back guarantee and full refund in order to ensure 100% customer satisfaction.30 Day Money Back Guarantee policy of Master of Project Academy should be used in good faith by the members. If Master of Project Academy detects that any member exceeds 10% of total progress and fraudulent activities that shows the customer logged in several times and followed majority of the course, Master of Project Academy preserves the right to refuse refund. 
 
 **Non-personal identification information**
 
