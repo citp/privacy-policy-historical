@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearlogin.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118012838id_/http%3A//www.clearlogin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearlogin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102805id_/http%3A//www.clearlogin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clearlogin
 
@@ -13,6 +13,8 @@ Information about your computer hardware and software may be automatically colle
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Clearlogin’s public message boards, this information may be collected and used by others.
 
 Clearlogin encourages you to review the privacy statements of websites you choose to link to from Clearlogin so that you can understand how those websites collect, use and share your information. Clearlogin is not responsible for the privacy statements or other content on websites outside of the Clearlogin website.
+
+Clearlogin will never store identity provider credentials.  This includes, but is not limited to Active Directory, Amazon Web Services, Google Suite, and any other LDAP-based identity provider.  The only exception to this is Clearlogin Directory, since Clearlogin Inc. hosts this feature.
 
 ### Use of your Personal Information
 
