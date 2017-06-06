@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshpair.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322221207id_/http%3A//www.freshpair.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpair.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032017id_/http%3A//www.freshpair.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Security at Freshpair.com
 
@@ -68,7 +68,7 @@ Freshpair's privacy policy was last updated on August 2, 2012. Freshpair reserve
 
 ### Questions or comments
 
-Freshpair invites you to communicate with us should you have a question or would like to voice a concern regarding our privacy or security policies. Please email us at [info@freshpair.com](mailto:info@freshpair.com) and a customer service associate will respond to you in a timely manner. You may also call us at (866) 373-7472 or (212) 505-6900.
+Freshpair invites you to communicate with us should you have a question or would like to voice a concern regarding our privacy or security policies. Please email us at [info@freshpair.com](mailto:info@freshpair.com) and a customer service associate will respond to you in a timely manner. You may also call us at (347) 472-1242 
 
 ## security policy
 
