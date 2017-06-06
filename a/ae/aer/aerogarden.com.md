@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aerogarden.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121150333id_/http%3A//www.aerogarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerogarden.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020207id_/http%3A//www.aerogarden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**AeroGrow Global Information Privacy & Security Policy**
+**AeroGrow North American Information Privacy & Security Policy**
 
 AeroGrow is committed and accountable to comply with the AeroGrow Global Information Privacy & Security Policy and applicable law, including the Personal Information Protection and Electronic Documents Act (PIPEDA), to maintain the privacy of your personal information collected at this website. We encourage you to read this privacy statement carefully. 
 
