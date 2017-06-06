@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107121446id_/https%3A//www.era.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191435id_/https%3A//www.era.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
 
 # Homes for Sale, MLS Listings Search, Real Estate Agents -- ERA
 
