@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freenuts.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025045230id_/http%3A//freenuts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freenuts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153842id_/http%3A//freenuts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+> Looking for a simple, stable and significant VPS as your web hosting? Check out [DigitalOcean](https://m.do.co/c/648aae59d73b), only $5 per month, and you can get $10 in credit just for signing up now.
 
 This privacy policy will show you what of and how your data will be collected and used when visiting the FreeNuts.com website. 
 
