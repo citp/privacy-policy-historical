@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nobullying.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121192429id_/https%3A//nobullying.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobullying.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223320id_/https%3A//nobullying.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |NoBullying|Anti Bullying Information Center
+# Privacy Policy - NoBullying - Bullying & CyberBullying ResourcesNoBullying – Bullying & CyberBullying Resources
 
-NoBullying.com cares about your personal information and we take your privacy very seriously. By using NoBullying.com you agree to the following Privacy Policy. This policy covers the treatment of personal information that NoBullying.com collects when you are using the NoBullying.com website. This policy does not apply to practices of third parties that NoBullying.com has no control over.
+NoBullying.com cares about your personal information and we take your privacy very seriously. By using NoBullying.com you agree to the following Privacy Policy. This policy covers the treatment of personal information that NoBullying.com collects when you are using the [NoBullying.com](https://nobullying.com/) website. This policy does not apply to practices of third parties that NoBullying.com has no control over.
 
-NoBullying.com (“we”, “us”, “website”, “our” and “site”) is a trade mark owned by Treze Limited Liability Partnership, a company incorporated in Carnbane Business Centre, Carnbane Business Park, Newry, Co. Down, Northern Ireland, BT35 6QH. Registered at Companies House, Belfast. NI616114.
+NoBullying.com (“we”, “us”, “website”, “our” and “site”) is a trade mark owned by No More Bullying Ltd.
 
-This document relates to all services available through the domain www.NoBullying.com. and its sub domains and any officially linked social media support service, including but not limited to Facebook, Twitter, Linked-in, and You Tube.
+This document relates to all services available through the domain www.NoBullying.com. and its subdomains and any officially linked social media support service, including but not limited to Facebook, Twitter, LinkedIn, and YouTube.
 
 The terms (“Client(s)”, “user(s)” “you”, “your” and “Service Provider”) when used in these Terms mean any user of this website offering, providing, availing of service(s) or seeking to receive or provide service(s), also users participating in the NoBullying.com Referral Program. These users can be registered or non-registered.
 
@@ -56,11 +56,11 @@ Except in the cases above – we will contact you when your personal information
 
 We use Cookies to gather non personal information about your visits to our website. However, you may turn off these cookies as most of the browsers allow you to do so. If you want to know how to do this, go to your help menu on your browser. However, if you choose not to accept cookies, your user experience on our site may be affected. We use cookies to:
 
-estimate our audience size and usage pattern.
+  * estimate our audience size and usage pattern.
+  * store information about your preferences so we can customise our site according to your individual interests.
+  * speed up your searches.
 
-store information about your preferences so we can customise our site according to your individual interests.
 
-speed up your searches.
 
 **WHAT ARE COOKIES?**
 
@@ -116,7 +116,7 @@ Any third party including but not limited to users, service provider, advertiser
 
 Please note we may keep your personal information between our offices and third party partner servers which may be located globally. Where your personal data is transferred to a country outside of the European Economic Area, we will ensure the guardians of this date keep it confidential and in full accordance with applicable data laws.
 
-BY REGISTERING WITH NOBULLYING.COM YOU ARE CONFIRMING THAT YOU HAVE READ AND AGREED TO THIS PRIVACY POLICY AND AGREE TO ALL POINTS HELD WITHIN, INCLUDING TRANSFER OF DATA **ABROAD**.
+BY REGISTERING WITH NOBULLYING.COM YOU ARE CONFIRMING THAT YOU HAVE READ AND AGREED TO THIS PRIVACY POLICY AND AGREE TO ALL POINTS HELD WITHIN, INCLUDING TRANSFER OF DATA ABROAD.
 
 **CHANGE IN PRIVACY POLICY**
 
@@ -136,4 +136,6 @@ With your consent we may post your stories, experiences or insights on the websi
 
 **CONTACT US**
 
-If at any time you would like to contact us with your views about our privacy practices, or with any inquiry relating to your personal information, you can do so by sending an e-mail to us at support@NoBullying.com.
+If at any time you would like to contact us with your views about our privacy practices, or with any inquiry relating to your personal information, you can do so by sending an e-mail to us at support@NoBullying.com. Or you can fill in this [contact form here.](https://nobullying.com/contact-us/)
+
+Read more about the[ Terms of using NoBullying here.](https://nobullying.com/terms-and-conditions/)
