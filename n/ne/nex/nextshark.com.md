@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextshark.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023074248id_/http%3A//nextshark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextshark.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083937id_/http%3A//nextshark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,3 +66,6 @@ NextShark, Inc welcomes your questions or comments regarding this Statement of P
 NextShark, INC.  
 kuala lumpur, Malaysia  
 Effective as of July 08, 2013
+
+  
+
