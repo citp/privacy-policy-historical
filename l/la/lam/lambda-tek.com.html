@@ -1,0 +1,2597 @@
+<!--The following is the downloaded HTML source of the lambda-tek.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606212908id_/http%3A//www.lambda-tek.com/shop/%3Fregion%3DGB%26privacy%3D1) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>LambdaTek Component Shop | Privacy Policy</title>
+
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" src="https://embed.tawk.to/565d94b48c08b22952af4ec5/default" charset="UTF-8" crossorigin="*"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"66cf69e0a4",applicationID:"47040250",sa:1,agent:"js-agent.newrelic.com/nr-918.min.js"}</script><link href="../assets/img/tekuk-logo2.png" rel="icon" type="image/x-icon">
+<link href="../assets/css/testheader.css" rel="stylesheet">
+<link href="../assets/css/slick.css" rel="stylesheet">
+<link href="../assets/css/testlambda-tek.css" rel="stylesheet">
+<link href="../assets/css/ltek-cleanup.css" rel="stylesheet">
+
+
+<script>
+    var SECSCRIPTPATH = 'https://www.lambda-tek.com/shop/';
+    var region = 'GB';
+</script>
+<style>
+.divsearchbar2 {
+    margin-top: 4px;
+    }
+.featured_title{text-transform: capitalize;}
+.sidebarcattitle{font-size:1.2; text-transform: capitalize;}
+.menu-mobile:hover{color:white}  
+#SearchParameters.in, #SearchParameters.collapsing {
+	display: block!important;
+}
+@media screen and (max-width: 977px) and (min-width: 1px){
+.popupCatList {
+	opacity: 0;
+}
+}
+
+.menu-mobile{
+    padding: 0em;
+    font-size: 1em;
+    font-weight:bold;
+    color: white;
+    background: #337ab7;
+    padding-top: 10px;
+    border: 1px solid transparent;
+    padding-top:0.5em;
+}
+
+.hidemenu{color:white;paddin:3px;radius:4px 4px 0px 0px;}
+ 
+.menu-container {
+    width: 100%;
+    background: transparent;
+}
+
+.menu-mobile {
+    display: none;
+    padding: 0.2em;
+}
+
+.menu-mobile:after {
+    content: "\002b";
+    font-family: "Glyphicons Halflings";
+    font-size:0.9em;
+    padding: 0px 0px 0px 3px;
+   float:right;
+}
+
+.menu-dropdown-icon:before {
+    content: "\002b";
+    font-family: "Glyphicons Halflings";
+    font-size:1.1em;
+    display: none;
+    cursor: pointer;
+    float: right;
+    padding: 3px;
+    color: #f0f0f0;
+    background:transparent;
+}
+.menu-dropdown-icon.special:before {
+	content: "\2212";
+}
+
+.menu > ul {
+    margin: auto auto;
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    position: relative;
+        height: 44px;
+    /* IF .menu position=relative -> ul = container width, ELSE ul = 100% width */
+    box-sizing: border-box;
+}
+
+.menu > ul:before,
+.menu > ul:after {
+    content: "";
+    display: table;
+}
+
+.menu > ul:after {
+    clear: both;
+}
+
+.menu > ul > li {
+	
+    float: left;
+    width:100%;
+    max-width:9%;
+    background: #337ab7;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.menu > ul > li a {
+    min-height: 44px;
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+    text-decoration: none;
+    padding: 4px;
+    text-transform: capitalize;
+    display: block;
+    padding-top: 4px;
+   
+    color: white;
+    background: #337ab7;
+        border-left: 1px solid rgb(29, 71, 107);
+    border-right: 1px solid #4b94d4;
+
+}
+.menu > ul > li>a:hover {
+    background: #2c699c;
+     border-right: 1px solid #255e8e;
+     border-left: 1px solid #255e8e;
+    color:#f0f0f0;
+}
+
+.activelevel1 {
+    color: #337ab7!important;
+    background: #F0EFF0!important;
+    
+}
+
+.activelevel2 {
+    background:  #337ab7;
+    color:#f0f0f0;
+}
+
+
+.normal-sub li a {border-bottom:1px; border-bottom: 1px solid rgba(210, 210, 210, 0.29)!important;}
+.menu > ul > li > ul {
+    display: none;
+    width: 99%;
+    background: rgba(12, 30, 45, 0.77);
+    padding: 0.1em;
+    position: absolute;
+    z-index: 99;
+    left: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+    border: 1px solid rgba(51, 122, 183, 0.78);
+    border-top: 0px;
+    border-radius: 0px 0px 4px 4px;
+    padding-bottom: 2em;
+    padding-top: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    border-top: 1px solid #4191d6;
+    
+    -webkit-box-shadow: 0px 2px 2px 1px rgba(15,28,77,0.65);
+-moz-box-shadow: 0px 2px 2px 1px rgba(15,28,77,0.65);
+box-shadow: 0px 2px 2px 1px rgba(15,28,77,0.65);
+
+
+}
+.menu > ul > li > ul:before,
+.menu > ul > li > ul:after {
+    content: "";
+    display: table;
+}
+.menu > ul > li > ul:after {
+    clear: both;
+}
+.menu > ul > li > ul > li {
+    margin: 0;
+    
+    padding-bottom: 0;
+    list-style: none;
+    width: 33.3%;
+    background: none;
+    float: left;
+}
+.menu > ul > li > ul > li a {
+font-size:1em;
+text-transform: capitalize;
+min-height:1em;
+color: #f5f5f5;
+background:transparent;
+padding: 0.2em;
+width: 95%;
+display: block;
+border-left: none;
+border-right: none; 
+border-bottom: 1px solid rgba(210, 210, 210, 0.39);
+}
+
+.menu > ul > li > ul > li > a:hover {
+color:white;
+background: rgba(12, 30, 45, 0.97);
+radius:2px;
+font-weight:600;
+opacity:1;
+}
+.menu > ul > li > ul > li > ul {
+    display: block;
+    padding: 0;
+    margin: 0.3em 0 0;
+    list-style: none;
+    box-sizing: border-box;
+    display:none
+}
+.menu > ul > li > ul > li > ul:before,
+.menu > ul > li > ul > li > ul:after {
+    content: "";
+    display: table;
+}
+.menu > ul > li > ul > li > ul:after {
+    clear: both;
+}
+.menu > ul > li > ul > li > ul > li {
+    float: left;
+    width: 100%;
+    padding: 0px 0px;
+    margin: 0;
+    font-size: 0.9em;
+}
+.menu > ul > li > ul > li > ul > li a {
+text-transform: capitalize;
+    border: 0;
+    background:transparent;
+    
+    font-size:0.95em;
+    font-weight:400;
+    padding:3px;
+}
+.menu > ul > li > ul > li > ul > li a:hover {
+color:white;
+background-color:#337ab7;
+radius:2px;
+}
+.menu > ul > li > ul.normal-sub {
+    width: 9%;
+    left: auto;
+    padding: 1px;
+    overflow:hidden;
+}
+.menu > ul > li > ul.normal-sub > li {
+    width: 100%;
+}
+.menu > ul > li > ul.normal-sub > li a {
+    border: 0;
+    padding: 0.1em 0;
+}
+.clearance:hover{color:white!important;background:#acacac;}
+
+.clearance {
+    margin-bottom: 0px!important;
+    
+    }
+.clearance {background-color:#ff510d!important;  -webkit-border-top-left-radius: 4px;
+-webkit-border-top-right-radius: 4px;
+-moz-border-radius-topleft: 4px;
+-moz-border-radius-topright: 4px;
+border-top-left-radius: 4px;
+border-top-right-radius: 4px; }
+.slick-dots{display:none!important;}
+.nav>li>a{padding: 1px 4px!important;}
+.toolsli a {color:white} 
+.toolsli a:hover {background-color:#337ab7!important} 
+.toolsli {background-color: rgb(135, 176, 212)!important;}
+.hidemenu{display:none;font-size:1.2em;padding-top:3px;padding-bottom:3px;line-height:1.4em;  -webkit-border-top-left-radius: 4px;
+-webkit-border-top-right-radius: 4px;
+-moz-border-radius-topleft: 4px;
+-moz-border-radius-topright: 4px;
+border-top-left-radius: 4px;
+border-top-right-radius: 4px;
+    border-bottom: 2px solid rgba(28, 65, 97, 0.6);
+    }
+
+@media only screen and (max-width: 959px) {
+
+.sideMenu{font-size:1.2em}
+.activelevel1 {
+  font-weight:bold;  
+  -webkit-border-top-left-radius: 4px;
+-webkit-border-top-right-radius: 4px;
+-moz-border-radius-topleft: 4px;
+-moz-border-radius-topright: 4px;
+border-top-left-radius: 4px;
+border-top-right-radius: 4px;
+ 
+ 
+}
+	.hidemenu{display:block}
+    .menu-container {
+        width: 100%;
+    }
+    .menu-mobile {
+        display: block;
+    }
+    .menu-dropdown-icon:before {
+        display: block;
+    }
+    .menu > ul {
+        display: none;
+    }
+    .menu > ul > li {
+    	max-width:100%;
+        width: 100%;
+        float: none;
+        display: block;
+    }
+    .menu > ul > li a {
+    	min-height:31px;
+        padding: 3px;
+        width:inherit;
+        white-space: nowrap;
+        border-right: 0px solid #4b94d4;
+        display: table-caption;
+        text-decoration: underline;
+    }
+    
+    
+    .menu > ul > li {
+    border-bottom: 1px solid rgba(27, 78, 121, 0.45);
+    }
+    .menu > ul > li a {    
+       min-height: inherit;
+    padding: 3px;
+    width: inherit;
+    white-space: nowrap;
+    border-right: 0px solid #4b94d4;
+    display: table-caption;
+    text-decoration: underline;
+    padding: 0.5em 0.1em 0.2em 0.1em;
+    padding: 0.7em 0.2em 0.1em 0.2em;
+    
+    }
+    .clearance {
+    margin-bottom: initial!important;
+    
+    }
+    .menu > ul > li > ul {
+        position: relative;
+		
+    }
+    .menu > ul > li > ul.normal-sub {
+        width: 100%;
+    }
+    .menu > ul > li > ul > li a {
+    	 text-decoration: none ;
+    }
+    .menu > ul > li > ul > li {
+        float: none;
+        width: 100%;
+        margin-top: 4px;
+    }
+    .menu > ul > li > ul > li:first-child {
+        margin: 0;
+    }
+    .menu > ul > li > ul > li > ul {
+        position: relative;
+        
+    }
+    .menu > ul > li > ul > li > ul > li {
+        float: none;
+    }
+    .menu .show-on-mobile {
+        display: block;
+    }
+} 
+
+.desktoplogotxt{      display: block;
+    position: absolute;
+    top: 48px;
+    left: 82px;
+    font-size: 10px;
+    color: #373a8c;
+    font-family: fantasy;
+    }  
+</style>
+
+
+<style>
+    .faqHeader {
+        font-size: 27px;
+        margin: 20px;
+    }
+
+    .panel-heading [data-toggle=collapse]:after {
+        font-family: 'Glyphicons Halflings';
+        content: "\e072"; /* "play" icon */
+        float: right;
+        color: #F58723;
+        font-size: 18px;
+        line-height: 22px;
+        /* rotate "play" icon from > (right arrow) to down arrow */
+        -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+    }
+
+    .panel-heading [data-toggle=collapse].collapsed:after {
+        /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        transform: rotate(90deg);
+        color: #454444;
+    }
+</style>
+
+
+
+
+			<script>
+			function OnRevertToOld(responseText)
+			{
+				if (responseText.match(/^OK\t(.*)$/))
+				{
+					var d = new Date();
+					d.setDate(d.getDate() + 1);
+					setCookie("oldsite", "1", d, "/");
+					window.location.reload(false);
+				}
+			}
+			
+			function RevertToOld()
+			{
+				var reason = document.getElementById('RevertToOldReason').value;
+				if (reason != "")
+					GetAjaxData("/componentshop/sessionservice.pl?region="+region+"&command=RevertToOld&reason="+reason,"",OnRevertToOld,null,'VATnumber');
+			}
+			function ShowRevertToOldBox()
+			{
+				var parentelt = document.getElementById('switchsitebutton');
+				CreatePopup1('DiscountInfoBox',parentelt,0,parentelt,1);
+				GetAjaxData("/componentshop/shoputils.pl?region="+region+"&command=RevertToOldBox",'DiscountInfoBox');
+			}
+			</script>
+		</head>
+<body><p><input type="button" id="switchsitebutton" style="position:absolute;left:0px;z-index:5!important" class="btn btn-success btn-xs" value="revert back to old site" onclick="ShowRevertToOldBox();"></p>
+<!--FOOTER_CODE-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3313947-1', 'auto');
+  ga('send', 'pageview');
+  
+</script>
+
+<!-- BEGIN: Google Certified Shops -->
+<script type="text/javascript">
+  var gts = gts || [];
+
+  gts.push(["id", "504296"]);
+  gts.push(["badge_position", "BOTTOM_LEFT"]);
+  gts.push(["locale", "en_GB"]);
+  gts.push(["google_base_offer_id", ""]);
+  gts.push(["google_base_subaccount_id", "5818616"]);
+  gts.push(["google_base_country", "GB"]);
+  gts.push(["google_base_language", "en"]);
+
+  (function() {
+    var gts = document.createElement("script");
+    gts.type = "text/javascript";
+    gts.async = true;
+    gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(gts, s);
+  })();
+</script>
+<!-- END: Google Certified Shops -->
+	
+
+<div class="container" style="background-color: rgba(255, 255, 255, 0.42);">
+	<div class="row">
+		<div class="col-xs-3 col-sm-5 col-md-5 col-lg-4">
+			<a href="//www.lambda-tek.com/shop/">
+			<img class="mobilelogo" src="../assets/img/tekuk-logo2.png">
+			<img class="desktoplogo" src="../assets/img/logo-3.jpg"> </a>
+			<h6 class="desktoplogotxt hidden-xs hidden-sm">The Award Winning Electronics Store</h6>
+			</div>
+		<div class="col-xs-9 col-sm-7 col-md-7 col-lg-8">
+		
+		
+		<div style="display:block;">
+				<ul class="nav navbar-nav navbar-right headerlinks">
+					<!--BEGIN_LOGINLINK-->
+				<li>
+				<a href="https://www.lambda-tek.com/shop/?region=GB&amp;account=general">
+				<span class="glyphicon glyphicon-user"></span>
+				<span class="smallest">Login</span></a></li>
+				<!--END_LOGINLINK-->
+				
+				<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;contactus=1">
+				<span class="glyphicon glyphicon-envelope"></span>
+				<span class="smallest" style="white-space: nowrap">Contact us</span></a></li>
+				<!--BEGIN_SMALLCART-->
+				<li class="lambda-navbar-right hvr-sweep-to-right dropdown">
+				<a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="//www.lambda-tek.com/shop/?region=GB&amp;reviewcart=1$" role="button">
+				<span class="glyphicon glyphicon-shopping-cart"></span>
+				<span class="">Cart</span> <span class="badge price">£0.00</span>
+				</a>
+				<div id="cart-dropdown" class="dropdown-menu dropdown-menu-right smallcart">
+					<p>
+					<b>Items total: </b>
+					<span style="float: right">£0.00</span> <br>
+					
+					<br><a href="//www.lambda-tek.com/shop/?region=GB&amp;reviewcart=1">
+					<button class="btn btn-success  btn-block btn-sm">Go to Cart
+					</button></a>
+					</p><p></p>
+				</div>
+				</li>
+				<!--END_SMALLCART-->
+				</ul>
+			</div>
+			<br>
+			<br>
+			<ul class="nav navbar-nav navbar-right hidden-xs " style="display: flex; text-align: right;">
+				<li style="color: rgba(41, 61, 82, 0.74);">
+				</li>
+				<li class="chat">
+				
+<a href="#" onclick="Tawk_API.maximize();return false;">
+<img id="chatstatus" alt="Contact us" border="0" style="vertical-align:middle"></a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<nav>
+<div class="container menu-container">
+<div class="menu">
+<a href="#" class="menu-mobile hidemenu">PRODUCT CATEGORIES</a>
+					<ul>
+						
+						<li class="menu-dropdown-icon"><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=107">telecom &amp; navigation</a>
+						<ul id="outst">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=122">answering machines</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=123">mobile headsets</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1291">peripheral device cases</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1399">mobile device chargers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1568">screen protectors</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1715">two-way radios</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1893">smartphones</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2043">GPS receiver modules</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2778">power banks</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2804">mobile device dock stations</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2813">mobile device keyboards</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4117">mobile TV tuners</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=998">holders</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D117">telephones</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=117">telephones</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1511">telephone number indicators</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1642">telephone splitters</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1914">telephone mounts &amp; stands</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2727">telephone handsets</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D119">mobile phones</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1089">mobile phone starter kits</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=119">mobile phones</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1440">car kits</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1488">telephone hangers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1490">mobile phone faceplates</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D119">More   mobile phones</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D1653">IP phones</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1653">IP phones</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1858">IP add-on modules</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D910">navigators</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2781">navigator cases</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4099">navigator cables</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4101">navigator mounts &amp; holders</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=910">navigators</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D2756">GPS trackers</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+						</ul>
+						</li>
+						
+						<li class="menu-dropdown-icon"><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=150">computers</a>
+						<ul id="outst">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1062">PC/workstation barebones</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1508">server barebones</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=153">PCs/workstations</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=156">servers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2282">All-in-One PCs/workstations</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5022">open architecture modular systems</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5025">open architecture system management modules</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5400">stick PCs</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5467">kids' tablets</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5831">backpack PCs</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=896">thin clients</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D151">notebooks</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1284">notebook accessories</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1285">notebook cases</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=151">notebooks</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1514">notebook arms &amp; stands</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=152">notebook docks &amp; port replicators</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D151">More   notebooks</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D154">handheld mobile computers</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=154">handheld mobile computers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=203">stylus pens</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=888">handheld device accessories</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D1573">e-book readers</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1573">e-book readers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2775">e-book reader cases</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D159">POS terminals</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=159">POS terminals</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2093">customer displays</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D897">tablets</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2774">tablet cases</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3319">tablet security enclosures</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3625">tablet spare parts</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=897">tablets</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+						</ul>
+						</li>
+						
+						<li class="menu-dropdown-icon"><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2">software</a>
+						<ul id="outst">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=12">office suites</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1535">burning software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1624">document management software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1657">fonts software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1719">service management software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2444">infrastructure virtualization solutions</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=26">desktop publishing software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=27">presentation software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=28">word processors</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2843">finance accounting software</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=15">accounting software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1523">Enterprise Resource Planning (ERP) software</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=38">project management software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3912">video surveillance software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=42">spreadsheet software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5640">3D scanning software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=62">antivirus security software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=7">operating systems</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=803">software licenses/upgrades</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=836">software manuals</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=885">email clients</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=893">navigation software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=904">CRM software</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D21">multimedia software</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=21">multimedia software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=24">Optical Character Recognition (OCR) software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=25">voice recognition software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=31">Computer Aided Design (CAD) software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=32">graphics software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D21">More   multimedia software</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D55">computer utilities</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4">database software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=51">development software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=55">computer utilities</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=56">backup recovery software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=57">bar coding software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D55">More   computer utilities</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D67">networking software</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1057">application server software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1504">network management software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2446">virtualization software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=67">networking software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=73">terminal emulation software</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D67">More   networking software</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+						</ul>
+						</li>
+						
+						<li class="menu-dropdown-icon"><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D106">Components &amp; Storage</a>
+						<ul id="outst">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=106">Components &amp; Storage</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1762">CPU holders</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=178">decoders</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=189">multimedia kits</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2840">data storage devices</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1550">media duplicators</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1554">USB flash drives</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1563">internal solid state drives</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1823">external hard drives</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=208">optical jukeboxes &amp; changers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2840">More   data storage devices</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2844">system components</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=164">motherboards</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=173">audio cards</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=175">interface cards/adapters</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1756">RAID controllers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=182">networking cards</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2844">More   system components</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5984">All-in-One PC/workstation mounts &amp; stands</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D166">interface components</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1615">computer data switches</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=166">interface components</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1767">console servers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1768">serial converters/repeaters/isolators</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1769">serial servers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D166">More   interface components</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D236">chassis components</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1500">rack consoles</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1617">console extenders</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1623">computer liquid cooling</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1758">fan speed controllers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1909">computer case parts</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D236">More   chassis components</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D287">data storage mediums</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1066">blank DVDs</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1077">zip disks</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1398">audio/video cassettes</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1446">magneto optical disks</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1589">blank Blu-Ray discs</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D287">More   data storage mediums</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D830">computer cables</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1121">SCSI cables</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1158">USB cables</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1172">cable clamps</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1303">SATA cables</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1306">firewire cables</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D830">More   computer cables</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+						</ul>
+						</li>
+						
+						<li class="menu-dropdown-icon"><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D225">printers &amp; scanners</a>
+						<ul id="outst">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=225">printers &amp; scanners</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4972">printing equipment</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1594">disc publishers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1675">POS/mobile printers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1727">plastic card printers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=228">dot matrix printers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=230">large format printers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4972">More   printing equipment</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4973">scanning equipment</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4161">3D scanners</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D197">scanners</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D274">barcode readers</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=843">printer films</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1110">T-shirt transfers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=844">matt white films</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=848">polypropylene films</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=853">transparancy films</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D1305">print &amp; scan accessories</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1148">printer cables</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1305">print &amp; scan accessories</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1536">multi bin mailboxes</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1705">printer emulation upgrades</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1778">printer memory</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D1305">More   print &amp; scan accessories</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D373">printing supplies</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1024">toner collectors</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1837">thermal ribbon</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=373">printing supplies</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=375">laser toner &amp; cartridges</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=376">printer rollers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D373">More   printing supplies</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D692">printing media</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1010">printer labels</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1348">tractor feed paper</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1469">thermal paper</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1728">blank plastic cards</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1847">self adhesive flags</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D692">More   printing media</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+						</ul>
+						</li>
+						
+						<li class="menu-dropdown-icon"><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D242">networking</a>
+						<ul id="outst">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1008">network media converters</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1122">IP communication servers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=115">switchboard equipment</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=127">telephone rests</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1299">VPN security equipment</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1308">wave division multiplexers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=142">teleconferencing equipment</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=148">line conditioners</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1509">voice network modules</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1516">PoE adapters</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1524">network splitters</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1581">VoIP telephone adapters</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1613">telecommunication terminal units</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1616">network cable testers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1619">optical cross connects equipment</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1625">remote management adapters</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1626">content delivery networking equipment</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1643">network management devices</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1654">video conferencing systems</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1662">cellular wireless network equipment</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1687">speakerphones</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1724">remote power controllers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1773">cellular network devices</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1789">network interface processors</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1793">DECT base stations</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1869">network transceiver modules</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2030">services-ready engine (SRE) modules</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2049">network extenders</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=242">networking</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=244">wired routers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=246">media filters</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=248">Multistation Access Units (MAU)</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2503">Power Line Communication (PLC)</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2505">PowerLine network adapters</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2507">PowerLine switches</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=254">ISDN access devices</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2597">fiber optic adapters</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=262">bridges &amp; repeaters</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2737">telecom equipment installation/modification kits</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2759">networking equipment memory</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2908">modular headend equipment</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3898">network junction boxes</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3982">wireless routers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5744">video conferencing cameras</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5867">optical network terminals/units (ONTs/ONUs)</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=832">hardware firewalls</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=833">gateways/controllers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=880">telephony cables</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=909">WLAN access points</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=925">print servers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=961">network analyzers</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=992">GPRS equipment</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D114">telephone switching equipment</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=114">telephone switching equipment</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1531">patch panels</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1537">patch panels accessories</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=249">data service units</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D125">call management system</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=125">call management system</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D1539">PBX systems</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D137">network antennas</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=137">network antennas</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4982">network antenna accessories</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D253">modems</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=253">modems</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=256">modem teleadaptors</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D258">network switches</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1772">network switch modules</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=258">network switches</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=920">network switch components</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+						</ul>
+						</li>
+						
+						<li class="menu-dropdown-icon"><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D839">warranty &amp; support</a>
+						<ul id="outst" class="menu-dropdown-icon">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1545">data storage services</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1546">IT support services</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1592">maintenance &amp; support fees</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1620">manufacturing equipment repair services</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2847">workshops &amp; consultation services</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=787">installation services</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=788">warranty &amp; support extensions</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=839">warranty &amp; support</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=962">IT courses</a> 
+						    
+							</li>
+							
+						</ul>
+						</li>
+						
+						<li class="menu-dropdown-icon"><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=DCE">Consumer Electronics</a>
+						<ul id="outst">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3071">smart wearables</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D1630">sport watches</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D2647">smartwatches</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D2871">activity trackers</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=CE">Consumer Electronics</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D1058">audio &amp; home theatre</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1001">DVD players</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1058">audio &amp; home theatre</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1081">loudspeakers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1082">home cinema systems</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1083">radios</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D1058">More   audio &amp; home theatre</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D571">cameras &amp; camcorders</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1842">straps</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1918">instant print cameras</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2059">document cameras</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2896">camera glasses</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=571">cameras &amp; camcorders</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D571">More   cameras &amp; camcorders</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+						</ul>
+						</li>
+						
+						<li class="menu-dropdown-icon"><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=PE">Peripherals</a>
+						<ul id="outst">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=220">TVs &amp; monitors</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1056">flat panel wall mounts</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1078">LCD TVs</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1347">flat panel floor stands</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1513">digital photo frames</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1530">video splitters</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=220">More   TVs &amp; monitors</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=558">projectors</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1006">projection lenses</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1125">projector cases</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=559">laser pointers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=560">projector lamps</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=561">projection screens</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=558">More   projectors</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D191">data input devices</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1041">wrist rests</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1297">other input devices</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=191">data input devices</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=192">graphic tablets</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=195">mice</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D191">More   data input devices</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+						</ul>
+						</li>
+						
+						<li class="menu-dropdown-icon"><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=UNCLASSIFIED">Other</a>
+						<ul id="outst">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1170">not categorized</a> 
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1280">health &amp; beauty</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1282">makeup &amp; manicure cases</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1333">health &amp; personal care appliances</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1432">shaver accessories</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1562">digital body thermometers</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1991">manicure/pedicure implements</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1280">More   health &amp; beauty</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1575">fashion &amp; lifestyle</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1054">key tags</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1210">clothing care</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2876">belt holders</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3311">key finders</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3821">wristbands</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1575">More   fashion &amp; lifestyle</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1960">sports &amp; recreation</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1961">fitness, gymnastics &amp; weight training</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1962">bicycles &amp; accessories</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1990">camping, tourism &amp; outdoor</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2005">winter sports equipment</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2115">water sports equipment</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1960">More   sports &amp; recreation</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1965">vehicles &amp; accessories</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1966">motor vehicle accessories &amp; components</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2510">motor vehicle electronics</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2739">freight forwarder services</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5913">motor vehicles</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1980">baby &amp; children</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1987">baby safety</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2103">baby sleeping &amp; bedding</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2295">toys &amp; accessories</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2248">pet care</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3397">dog and cat food</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4407">pet toys</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=5819">pet grooming</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2830">home</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1883">work tools &amp; hardware</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2028">home décor</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2831">home furniture</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2868">home security &amp; automation</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3538">garden &amp; patio</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2830">More   home</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2833">computers &amp; electronics</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=206">data storage</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4971">office electronics</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2835">industrial &amp; lab equipment</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1228">personal safety &amp; protection</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1945">measuring, testing &amp; control</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2554">electrical equipment &amp; supplies</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2845">viewing &amp; observing</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4959">material handling equipment</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2835">More   industrial &amp; lab equipment</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2836">entertainment &amp; hobby</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1293">infotainment</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1666">gift cards &amp; certificates</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1732">musical instruments</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2834">video games &amp; consoles</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2838">action &amp; collectible figures</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2836">More   entertainment &amp; hobby</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3620">weapons &amp; ammunition</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=3576">firearm</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D1265">food, beverages &amp; tobacco</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1263">coffee &amp; tea</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=1265">food, beverages &amp; tobacco</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4150">beverages</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D300">office</a> 
+						    
+							<ul>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=2035">money handling products</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=300">office</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=363">storage accessories for office machines</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=415">boards</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=4579">display furniture</a></li>
+						    	
+							    <li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=D300">More   office</a></li>
+						    	
+						    	
+							</ul>
+						    
+							</li>
+							
+						</ul>
+						</li>
+						
+						<li class="menu-dropdown-icon">
+						<a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=CLEARANCE" class="clearance">Clearance</a>
+						<ul id="outst" class="menu-dropdown-icon">
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-106">
+							Components &amp; Storage</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-107">
+							telecom &amp; navigation</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-1170">
+							not categorized</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-150">
+							computers</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-1575">
+							fashion &amp; lifestyle</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-2">
+							software</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-225">
+							printers &amp; scanners</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-242">
+							networking</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-2830">
+							home</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-2833">
+							computers &amp; electronics</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-2835">
+							industrial &amp; lab equipment</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-2836">
+							entertainment &amp; hobby</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-300">
+							office</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-839">
+							warranty &amp; support</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-CE">
+							Consumer Electronics</a> </li>
+							
+							<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;catid=C-PE">
+							Peripherals</a> </li>
+							
+						</ul>
+						</li>
+						
+					</ul>
+			</div>
+ </div>
+</nav>
+<div class="container" style="z-index: 5!important">
+	<div class="divsearchbar2" "="">
+		<div class="col-sm-7" style="padding:0px; margin-top:3px;">
+			
+<ul class="panel pane-info nav navbar-nav hidden-xs " style="background:transparent;margin-bottom: 4px; display: block;min-width: 470px;padding-bottom: 2px;margin-top: 1px;font-size: 1.1em;">
+					<li class="dropdown toolsli">
+				<a class="dropdown-toggle" data-toggle="dropdown" href="../computing/gbindex.htm" target="_blank">
+				<b><span aria-hidden="true" class="glyphicon glyphicon-qrcode">
+				</span>PC Designer</b></a>
+				<ul class="dropdown-menu toolsdropdown">
+					<li>
+					<p>
+					<span aria-hidden="true" class="glyphicon glyphicon-qrcode toolsglyf">
+					</span></p>
+					<p><b class="blue">Are you a System Builder? </b>Assemble your 
+					PC and verify component compatability with our <span>
+					<strong>FREE</strong></span> online <b>PC Designer</b>!
+					<button class="btn btn-success btn-sm" onclick="location.href='../computing/gbindex.htm';" type="button" value="go">
+					<span aria-hidden="true" class="glyphicon glyphicon-qrcode">
+					</span>GO</button></p>
+					</li>
+				</ul>
+				</li>
+				<li class="dropdown toolsli">
+				<a class="dropdown-toggle" data-toggle="dropdown" href="/licensing/gbindex.htm" target="_blank">
+				<b>
+				<span aria-hidden="true" class="glyphicon glyphicon-list-alt">
+				</span>Licence Wizard</b> </a>
+				<ul class="dropdown-menu toolsdropdown">
+					<li>
+					<p>
+					<span aria-hidden="true" class="glyphicon glyphicon-list-alt toolsglyf">
+					</span></p>
+					<p><b>Looking for software licenses?</b> Use our License Wizard 
+					to find the correct product.
+					<button class="btn btn-success btn-sm" onclick="document.location.href='/licensing/gbindex.htm'" type="button" value="go">
+					<span aria-hidden="true" class="glyphicon glyphicon-list-alt">
+					</span>GO</button></p>
+					</li>
+				</ul>
+				</li>
+				<li class="dropdown toolsli">
+				<a class="dropdown-toggle" data-toggle="dropdown" href="//www.lambda-tek.com/shop/?region=GB&amp;configurators=1" target="_blank">
+				<b>
+				<span aria-hidden="true" class="glyphicon glyphicon-screenshot">
+				</span>Configurators</b></a>
+				<ul class="dropdown-menu toolsdropdown">
+					<li>
+					<p>
+					<span aria-hidden="true" class="glyphicon glyphicon-screenshot toolsglyf">
+					</span></p>
+					<p><b>From Replacement Lamps to Memory Upgrades</b> <strong>
+					Use one of our</strong><span class="style4"></span>&nbsp;configurators
+					<strong>to find the correct product.</strong>
+					<button class="btn btn-success btn-sm" onclick="document.location.href='//www.lambda-tek.com/shop/?region=GB&amp;configurators=1'" type="button" value="go">
+					<span aria-hidden="true" class="glyphicon glyphicon-screenshot">
+					</span>GO</button></p>
+					</li>
+				</ul>
+				</li>
+				<li class="dropdown toolsli">
+				<a class="dropdown-toggle" data-toggle="dropdown" href="//www.lambda-tek.com/shop/?GB&amp;searchString=prodType%3AESD&amp;hidesesarch=1" target="_blank">
+				<b>
+				<span aria-hidden="true" class="glyphicon glyphicon-save-file">
+				</span>Software Downloads</b></a>
+				<ul class="dropdown-menu toolsdropdown">
+					<li>
+					<p>
+					<span aria-hidden="true" class="glyphicon glyphicon-save-file toolsglyf">
+					</span></p>
+					<p><b class="blue">Immediately download your purchased software</b>Buy 
+					the license for your favourite commercial software, download 
+					it and activate it in a snap.
+					<button class="btn btn-success btn-sm" onclick="location.href='/shop/?region=GB&amp;searchString=prodType%3AESD&amp;hidesesarch=1';" type="button" value="go">
+					<span aria-hidden="true" class="glyphicon glyphicon-save-file">
+					</span>GO</button></p>
+					</li>
+				</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="col-sm-5">
+			<div>
+				<div class="mainsearchbar col-sm-12 col-md-7" style="padding-left: 1px; padding-right: 1px">
+					<form action="//www.lambda-tek.com/shop/" method="get" name="quicksearch" title="Enter keywords here.">
+						<div id="fields" class="control-group">
+							<div class="controls">
+								<div id="searchBoxArea" class="entry input-group">
+									<input name="region" type="hidden" value="GB">
+									<input id="searchBox" autocomplete="off" class="form-control" name="searchString" onkeyup="OpenSearchPopup(event)" placeholder="Search for Products Here" style="-webkit-border-radius: 5px 0px 0px 5px; border-radius: 5px 0px 0px 5px;" type="text" value="">
+									<span class="input-group-btn" style="-webkit-border-radius: 0px 0px 0px 0px; border-radius: 0px 0px 0px 0px;">
+									<button class="btn btn-success" style="-webkit-border-radius: 0px 5px 5px 0px; border-radius: 0px 5px 5px 0px;" type="submit">
+									<span class="glyphicon glyphicon-search">
+									</span></button></span>
+									<span id="progressbar"></span></div>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+			<div>
+				<div class="mainsearchbar hidden-sm hidden-xs col-md-5" style="padding-left: 1px; padding-right: 1px">
+					<form action="//www.lambda-tek.com/shop/" method="GET" name="prodsearch" title="Enter QuickCode Here and send products.">
+						<div id="fields" class="control-group">
+							<div class="controls">
+								<div id="searchBoxArea" class="entry input-group">
+									<input name="region" type="hidden" value="GB">
+									<div class="form-group has-feedback">
+										<input action="submit" class="form-control" name="prodID" placeholder="Quick Code Search" style="-webkit-border-radius: 5px 0px 0px 5px; border-radius: 5px 0px 0px 5px;" type="text">
+										<i class="glyphicon glyphicon-barcode form-control-feedback">
+										</i></div>
+									<span class="input-group-btn" style="-webkit-border-radius: 0px 0px 0px 0px; border-radius: 0px 0px 0px 0px;">
+									<button class="btn btn-success" style="-webkit-border-radius: 0px 5px 5px 0px; border-radius: 0px 5px 5px 0px;" type="submit">
+									<span class="glyphicon glyphicon-search">
+									</span></button></span></div>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+
+
+	<div class="container">
+		<div class="row">
+			
+		<aside id="SearchParameters" class="col-md-3 maxwidth100 SearchParameters" style="max-width: 312px; margin-top: 3px;">
+		
+			
+			
+			
+			<div class="row text-center hidden-xs hidden-sm">
+				<div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
+					<div class="panel panel-default">
+						<h3>Customer feedback</h3>
+						<a href="//www.lambda-tek.com/shop/?region=GB&amp;aboutus=1#Reviews">
+						<div style="display:block;height:150px;background-size: cover;background-image:url('/assets/img/LAMBDA-TEK-trust.jpg')"><h2>LambdaTek Reviews</h2></div>
+						
+						<p class="lead2">Trusted by our customers!</p>
+						</a>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<div class="panel panel-default">
+						<div id="BestSellers">
+							<div id="SubBestSellers">
+								<p align="center">
+								<img src="../assets/img/queens-award.jpg" style="padding: 0.2em; max-width: 200px">
+								</p>
+								<!--BEGIN_REGIONONLY_GB-->
+								<p><b>
+								<a href="//www.lambda-tek.com/shop/?region=GB&amp;news=1">
+								Read more here</a></b></p>
+								<p>
+								<a href="https://www.paypal.com/uk/webapps/helpcenter/helphub/topic/?topicID=PAYPAL_CREDIT_BASICS_HC">
+								</a></p><div style="display:block;height:286px;background-size: contain;background-repeat: no-repeat;background-image:url('/assets/img/paypalcredit-2.png')"><a href="https://www.paypal.com/uk/webapps/helpcenter/helphub/topic/?topicID=PAYPAL_CREDIT_BASICS_HC">
+								<h1 style="width:80%;display:block;color:white;font-size:40px;font-style: italic;font-family: 'pp-sans-big-light', Helvetica Neue, Arial, sans-serif;">Buy now, pay later with Paypal Credit</h1>
+								</a></div><a href="https://www.paypal.com/uk/webapps/helpcenter/helphub/topic/?topicID=PAYPAL_CREDIT_BASICS_HC">
+								
+								</a>
+								<p></p>
+								<!--END_REGIONONLY_GB-->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</aside>
+		
+			<div class="col-md-9">
+
+				<!--BEGIN_MAINCONTENT-->
+				<div class="container">
+					<h1 class="lambda-header">Privacy policy</h1>
+					
+					
+				<div class="container">
+    <div class="panel-group" id="accordion">
+						
+						<div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour0">1. Introduction</a>
+                </h4>
+            </div>
+            <div id="collapseFour0" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>The website at www.lambda-tek.com (the “Website”) is owned by LambdaTek (“we/us”). For the purposes of the Data Protection Act 1998, the data controller in respect of the Website is LambdaTek. We are committed to protecting the privacy of visitors to our Website and complying with all applicable laws in the use of the information we collect about you. This policy (together with our Terms and Conditions and any other documents referred to on it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. Please read the following policy carefully to understand our views and practices regarding your personal information and how we will treat it, including what type of information is collected and tracked on the Website, how the information is used, and with whom the information is shared.</p>
+                </div>
+            </div>
+        </div>	 
+						
+						<div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour1">2. The Information we collect</a>
+                </h4>
+            </div>
+            <div id="collapseFour1" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>We may collect two types of information from users of this Website: (i) “Personal Information” (including, but not limited to, your name, date of birth, address, telephone number (including mobile number), credit card information or e-mail address; and (ii) anonymous “Non-Personally Identifiable Information” (such as information about how many users log on to our Website). The Personal Information we may collect and process includes:
+<br>
+<br>• Personal details that you provide by filling in forms on our Website, information provided at the time of registering to use our Website, subscribing to our services or requesting further services, including, but not limited to, your name, date of birth, address, telephone number (including mobile number), credit card information or e-mail address;
+<br>• Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access;
+<br>• If you contact us, we may keep a record of that correspondence;
+<br>• Details of any transactions you carry out through our Website and of the fulfilment of orders; and
+<br>• Dealings with third parties who hold personal information on you (which could include organisations such as banks, credit card agencies). They may provide this information as a matter of ordinary business dealings, or we may ask them to do so.</p>
+                </div>
+            </div>
+        </div>	 
+						
+						<div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour2">3. Uses made of the information we collect, including disclosures to third parties</a>
+                </h4>
+            </div>
+            <div id="collapseFour2" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>The Personal Information you provide on the Website will be used, amongst other things, for the following purposes: 
+<br>
+<br>• To process your order (including payment authorisation);
+<br>• To ensure that content from our Website is presented in the most effective manner for you and your computer;
+<br>• To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes; 
+<br>• To notify you about changes to our services; 
+<br>
+<br>In addition to circumstances set out elsewhere in this privacy policy, we may also disclose the Personal Information provided by you or collected from you to any member of our group of companies. We will only share relevant information with these parties. All such providers are obliged to respect the confidentiality of this Personal Information. We may also disclose this Personal Information to third parties:
+<br>
+<br>• If LambdaTek or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; 
+<br>• If we are under a duty to disclose or share your Personal Information in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions and other agreements; or to protect the rights, property, or safety of LambdaTek, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; and
+<br>• For marketing purposes, as described in more detail under “Direct Marketing” below.</p>
+                </div>
+            </div>
+        </div>	 
+						
+						<div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour3">4. Direct Marketing</a>
+                </h4>
+            </div>
+            <div id="collapseFour3" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>We may also use your Personal Information, or with your consent, or upon being informed by third parties that you have consented to have us do so, permit selected third parties to use your Personal Information to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by e-mail, SMS, mail, telephone or other means.
+<br>
+<br>If you are an existing customer, we may contact you from time to time (by e-mail, mail, telephone, SMS or other means) with information about goods and services similar to those which were the subject of a previous sale to you.
+<br>
+<br>If you would like to opt-out of LambdaTek contacting you for marketing purposes, you can do so at any time by e-mailing us at info@lambda-tek.com.
+<br></p>
+                </div>
+            </div>
+        </div>	 
+						
+						<div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour4">5. Transfers to your information abroad</a>
+                </h4>
+            </div>
+            <div id="collapseFour4" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>The Personal Information we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfillment of an order on your behalf, the processing of your payment details or provision of support or other services. By submitting your Personal Information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Personal Information is treated securely and in accordance with this privacy policy.</p>
+                </div>
+            </div>
+        </div>	 
+						
+						<div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour5">6. Security</a>
+                </h4>
+            </div>
+            <div id="collapseFour5" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>While no data transmission over the Internet is 100% secure, the security of our system is very important to us. We seek to ensure that up-to-date data storage and security techniques are used to protect the Personal Information. All our employees and any third parties we engage to process the Personal Information are also obliged to respect the confidentiality of this Personal Information. The Personal Information is held on a secure online server utilising the Secure Socket Layer technology (SSL) standard.
+<br>
+<br></p>
+                </div>
+            </div>
+        </div>	 
+						
+						<div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour6">7. Cookies</a>
+                </h4>
+            </div>
+            <div id="collapseFour6" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>We may use technology to track the patterns of behaviour of registered and non-registered visitors to our site. This can include using a "cookie" which is a small file stored on your browser. The information collected in this way can be used to identify you unless you modify your browser to prevent this happening – guidance for which is set out below. We also aggregate this data to perform statistical analyses of the characteristics and behaviour of our Website visitors. Cookies are also used as a further means of ensuring private and secure purchase sessions are operated within the Website.
+<br>We may use third-party advertising companies to serve advertisements on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. Your browser can be modified to not accept cookies - guidance for which is provided in the paragraph below.
+<br>
+<br>You have the ability to accept or decline cookies by modifying the settings in your browser (for example, using Internet Explorer select 'internet options' from the 'tools' menu, then click 'security', followed by 'custom level' and select 'disable cookies'). However, you may not be able to use all the interactive features of our site if cookies are disabled. For more information about cookies, including how to set your internet browser to reject cookies, please go to www.allaboutcookies.org.</p>
+                </div>
+            </div>
+        </div>	 
+						
+						<div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour7">8. Your Rights</a>
+                </h4>
+            </div>
+            <div id="collapseFour7" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>We have a legal obligation to ensure that the Personal Information is kept accurate and up to date. Please assist us to comply with this obligation by informing us of any changes to the Personal Information. You have the right to request details of the information we hold about you and to delete or rectify any inaccurate information about you by sending us a written request stating your full name and your address. 
+<br>
+<br>Our Website may, from time to time, contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p>
+                </div>
+            </div>
+        </div>	 
+						
+						<div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour8">9. Change to our privacy policies</a>
+                </h4>
+            </div>
+            <div id="collapseFour8" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>We may amend this policy from time to time. If we make any substantial changes in the way we use Personal Information we will notify you by email or an announcement on the Website. You should check this page from time to time to ensure you are happy with any changes.</p>
+                </div>
+            </div>
+        </div>	 
+							 
+</div></div>
+
+
+
+					
+					
+					
+				</div>
+				<!--END_MAINCONTENT-->
+
+			</div>
+			<!--/col9-->
+		</div>
+		<!--/row-->
+	</div>
+	<!--/container-->
+
+	
+<hr style="margin:0.1em;padding: 0.1em; border-bottom: 1px solid #fafafa; border-top: 1px solid #aeaeae;">
+
+<footer id="footer">
+	<div class="footer-top">
+		<div class="container">
+			<div class="row">
+				<section class="col-lg-3 col-md-3 col-xs-12 col-sm-6 footer-one">
+					<h3>Important links</h3>
+					<ul class="list-unstyled">
+						<li><a href="//www.lambda-tek.com">LambdaTek Home</a> </li>
+						<li>
+						<a href="//www.lambda-tek.com/shop/?region=GB&amp;aboutus=1">About 
+						Us</a> </li>
+						<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;faq=1">Frequently 
+						Asked Questions</a> </li>
+						<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;tandc=1">Terms 
+						and Conditions</a> </li>
+						<li>
+						<a href="//www.lambda-tek.com/shop/?region=GB&amp;privacy=1">Privacy 
+						Policy</a> </li>
+						<li><a href="//www.lambda-tek.com/shop/?region=GB&amp;weee=1">Weee 
+						Directive</a> </li>
+						<li>
+						<a href="//www.lambda-tek.com/shop/?region=GB&amp;rssdeals=1">
+						<img alt="rss" border="0" src="/rss.gif"> RSS Daily Deals
+						</a></li>
+					</ul>
+				</section>
+				<section class="col-lg-3 col-md-3 col-xs-12 col-sm-6 footer-two">
+					<h3><b>Account links</b></h3>
+					<ul class="list-unstyled">
+						<!--BEGIN_LOGINLINK-->
+						<li>
+						<a href="https://www.lambda-tek.com/shop/?region=GB&amp;account=general">
+						Login / Register</a> </li>
+						<!--END_LOGINLINK-->
+						
+						<li>
+						<a href="//www.lambda-tek.com/shop/?region=GB&amp;submitreturn=1">
+						Return Items</a> </li>
+						<li>
+						<a href="//www.lambda-tek.com/shop/?region=GB&amp;contactus=1">Contact 
+						us</a> </li>
+					</ul>
+					
+					
+				</section>
+				<section class="col-lg-3 col-md-3 col-xs-12 col-sm-6 footer-three">
+					<h3><b>Lambda-Tek Tools</b></h3>
+					<ul class="">
+						<li>
+						<span aria-hidden="true" class="glyphicon glyphicon-qrcode footerglyf">
+						</span>
+						<a href="../computing/gbindex.htm" target="_blank">
+						PC Designer</a> </li>
+						<li>
+						<span aria-hidden="true" class=" glyphicon glyphicon-list-alt footerglyf">
+						</span>
+						<a href="/licensing/gbindex.htm" target="_blank">
+						Licence Wizard</a></li>
+						<li></li>
+						<li>
+						<span aria-hidden="true" class="glyphicon glyphicon-screenshot footerglyf">
+						</span>
+						<a href="//www.lambda-tek.com/shop/?region=GB&amp;configurators=1" target="_blank">
+						Configurators</a> </li>
+						<li>
+						<span aria-hidden="true" class="glyphicon glyphicon-save-file footerglyf">
+						</span>
+						<a href="//www.lambda-tek.com/shop/?GB&amp;searchString=prodType%3AESD&amp;hidesesarch=1" target="_blank">
+						Software Download </a></li>
+					</ul>
+				</section>
+				<section class="col-lg-3 col-md-3 col-xs-12 col-sm-6 footer-three">
+					<h3><b>Queens Award</b></h3>
+					<ul>
+						<li>
+						<img class="glyficon" src="../assets/img/queens-award-for-enterprise-inverse.png" style="float: left; max-width: 20px">
+						<a href="#" style="text-align: center; position: relative; top: 11px; padding-left: 4px;">
+						2015 | International Trade</a> </li>
+					</ul>
+					<hr>
+					<h3><b>Follow Us</b></h3>
+					<a href="https://www.facebook.com/LambdaTekComponentShop/" target="_blank">
+					<img class="socialicons" src="../assets/img/webicon-facebook.png"></a>
+					<a href="https://instagram.com/_u/lambdatek?r=sun1" target="_blank">
+					<img class="socialicons" src="../assets/img/webicon-instagram.png"></a>
+				</section>
+			
+			</div>
+		</div>
+	</div>
+	<div class="footer-bottom">
+		<div class="container">
+			<hr class="fixedhr"></div>
+	</div>
+	<div class="footer-bottom">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<img alt="Card Accepted" class="card_accepted" src="../assets/img/cardsaccepted2.jpg" style="max-width: 350px; width: 100%">
+					<br><br>© Copyright LambdaTek LTD 2001 - 2017 All rights 
+					reserved. VAT number: GB768440893. <br><small>LambdaTek 
+					is a trading name of LambdaTek LTD, a company registered in 
+					England and Wales. Company number: 07194136</small> </div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+<script src="../assets/js/jquery-1.11.0.min.js" type="text/javascript"></script>
+<script src="../assets/js/slick.min.js"></script>
+<script src="../assets/js/lambda-tek-slider.js"></script>
+
+
+<script src="../assets/js/bootstrap3.js"></script>
+<script src="../assets/js/componentshop.js"></script>
+<script src="../assets/js/cookies.js"></script>
+<script src="../assets/js/ajax.js"></script>
+<script src="../assets/js/popup.js"></script>
+<script src="../assets/js/shoppingcart.js?v=3"></script>
+<script src="../gbstrings.js?v=2" type="text/javascript"></script>
+<script src="../assets/js/lambda-tek.js"></script>
+
+
+<script>
+/*global $ */
+$(document).ready(function() {
+  "use strict";
+  $('.menu > ul > li:has( > ul)').addClass('menu-dropdown-icon');
+  //Checks if li has sub (ul) and adds class for toggle icon - just an UI
+  $('.menu > ul > li > ul:not(:has(ul))').addClass('menu-dropdown-icon');
+  //$('.menu > ul > li > ul:not(:has(ul))').addClass('normal-sub');
+  //desktop
+  $(".menu > ul > li").mouseenter(function(e) {
+    if ($(window).width() > 943) {
+        $(this).children("ul").stop(true, false).hide();
+        $(this).siblings("ul").hide();
+        e.preventDefault();
+    }
+  });
+  
+  $(".menu > ul > li").mouseleave(function(e) {
+        if ($(window).width() > 943) {
+            $(this).siblings("ul").hide();
+            e.preventDefault();
+        }
+      });
+  
+  
+  $(".menu > ul > li").hover(function(e) {
+    if ($(window).width() > 943) {
+        $(".menu > ul > li ~ ul").hide();
+        //$(this).children("ul").hide();
+        $(this).children("ul").stop(true, false).slideToggle(400);
+        e.preventDefault();
+    }
+  });
+  
+  
+  $(".menu-dropdown-icon").mouseout(function() {
+        if ($(window).width() > 943) {
+            $("menu-dropdown-icon ~ul").hide();
+    
+        }
+      });
+  //mobile
+  $(".menu > ul > li").click(function() {
+    if ($(window).width() <= 943) {
+      $(this).children("ul").toggle();
+      $(this).toggleClass('special');
+      $(this).siblings(".menu-dropdown-icon").toggle();
+      e.preventDefault();
+    }
+  });
+  //If width is less or equal to 943px dropdowns are displayed on click (thanks Aman Jain from stackoverflow)
+  $(".menu-mobile").click(function(e) {
+    $(".menu > ul").toggleClass('show-on-mobile');
+    e.preventDefault();
+  });
+  //when clicked on mobile-menu, normal menu is shown as a list, classic rwd menu story (thanks mwl from stackoverflow)
+//Change the icon to minus or + depends on click
+  $('.menu-dropdown-icon').on('click', function() {
+      $(this).toggleClass('special');
+  });
+  
+});
+
+</script>
+
+
+
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function()
+{
+	var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+	s1.async=true;
+	s1.src='https://embed.tawk.to/565d94b48c08b22952af4ec5/default';
+	s1.charset='UTF-8';
+	s1.setAttribute('crossorigin','*');
+	s0.parentNode.insertBefore(s1,s0);
+})();
+Tawk_API.onStatusChange = function (status)
+{
+	if (!document.getElementById('chatstatus')) return;
+	if(status === 'online')
+	{
+		document.getElementById('chatstatus').src = '/chat_online.png';
+	}
+	else if(status === 'away')
+	{
+		document.getElementById('chatstatus').src = '/chat_offline.png';
+	}
+	else if(status === 'offline')
+	{
+		document.getElementById('chatstatus').src = '/chat_offline.png';
+	}
+};
+
+</script>
+<!--End of Tawk.to Script-->
+
+
+</body></html>
