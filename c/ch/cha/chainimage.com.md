@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chainimage.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128160154id_/http%3A//chainimage.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainimage.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121411id_/http%3A//chainimage.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chainimage
 
