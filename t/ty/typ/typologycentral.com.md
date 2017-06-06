@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typologycentral.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216154142id_/http%3A//www.typologycentral.com/forums/faq.php%3Ffaq%3Dnew_member_resources%23faq_privacy_on_the_forum) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typologycentral.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060457id_/http%3A//www.typologycentral.com/forums/faq.php%3Ffaq%3Dnew_member_resources%23faq_privacy_on_the_forum) for the most accurate reproduction.*
 
 # About This Site
 
