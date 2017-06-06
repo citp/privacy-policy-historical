@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designcuts.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404160056id_/https%3A//www.designcuts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcuts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234009id_/https%3A//www.designcuts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Design Cuts
+# Privacy Policy - Design Cuts Design Cuts
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site. When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
@@ -73,7 +73,7 @@ ADDLESTONE
 WEYBRIDGE  
 KT15 2PS  
 Tel. 01932 268 809  
-(Please note Design Cuts do not use agencies for recruitment and do not require any third party help for any recruitment we undertake)
+(Please note Design Cuts do not use agencies for recruitment and do not require any third party help for any recruitment we undertake. If you require support or have a query, please email us.)
 
 ### Your Consent
 
