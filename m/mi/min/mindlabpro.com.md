@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindlabpro.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122171001id_/http%3A//www.mindlabpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindlabpro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033029id_/http%3A//www.mindlabpro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mind Lab Pro™
+# Privacy Policy | Mind Lab Pro®
 
 This privacy policy sets out how Opti-Nutra LTD uses and protects any information that you give Opti-Nutra LTD when you use this website. This policy only applies to information collected by MindLabPro.com.
 
@@ -13,9 +13,9 @@ This policy discusses:
 
 
 
-Opti-Nutra LTD is the sole owner of any information that is collected on MindLabPro.com. We do not sell or rent this information with any party. Information that you share with us is only used to respond to you and your questions, for example, placing an order, inquiring about shipping or asking a question about Mind Lab Pro.
+Opti-Nutra LTD is the sole owner of any information that is collected on MindLabPro.com. We do not sell or rent this information with any party. Information that you share with us is only used to respond to you and your questions, for example, placing an order, inquiring about shipping or asking a question about Mind Lab Pro®.
 
-If you share contact information with us, we may email you in the future with special offers related to Mind Lab Pro. You can opt out of emails like these at any time.
+If you share contact information with us, we may email you in the future with special offers related to Mind Lab Pro®. You can opt out of emails like these at any time.
 
 Opti-Nutra LTD is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
