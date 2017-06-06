@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121090229id_/http%3A//www.powerarchiver.com/powerarchiver-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131017id_/http%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
 
-# PowerArchiver – Privacy Policy | PowerArchiver – ZIP, RAR, ISO for Windows
+# ConeXware, Inc. Privacy Policy | PowerArchiver – ZIP, RAR, ISO for Windows
 
-## ConeXware Privacy Policy
+## ConeXware, Inc. Privacy Policy
 
 We at ConeXware, Inc. are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
-
-By participating in the Council of Better Business Bureau’s BBB _OnLine_ ® Privacy Program we have made a commitment to meet the programs’ strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [bbbonline.org](http://www.bbbonline.org/).
 
 ConeXware has established this Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
 
@@ -72,9 +70,9 @@ To the extent that you do provide us with Personal Information, ConeXware wishes
 
 If you wish to request access to, or review your Personal Information please [contact us](https://web.archive.org/contact/) via e-mail.
 
-Individual Customers have the right to know what Personal Data about them is included in the databases and to ensure that such Personal Information is accurate and relevant for the purposes for which ConeXware collected it. Individual Customers may review their own Personal Information stored in the databases and correct, erase, or block any data that is incorrect, as permitted by applicable law and ConeXware policies. Upon reasonable request and as required by the Privacy Shield principles, Avangate allows Individual Customers access to their Personal Information, in order to correct or amend such data where inaccurate. Individual Customers may edit their Personal Information by logging into their account profile or by contacting ConeXware by phone or email. In making modifications to their Personal Information, Data Subjects must provide only truthful, complete, and accurate information. To request erasure of Personal Information, Individual Customers should submit a written request [via e-mail](https://web.archive.org/contact/).
+Individual Customers have the right to know what Personal Data about them is included in the databases and to ensure that such Personal Information is accurate and relevant for the purposes for which ConeXware collected it. Individual Customers may review their own Personal Information stored in the databases and correct, erase, or block any data that is incorrect, as permitted by applicable law and ConeXware policies. Upon reasonable request and as required by the Privacy Shield principles, ConeXware allows Individual Customers access to their Personal Information, in order to correct or amend such data where inaccurate. Individual Customers may edit their Personal Information by logging into their account profile or by contacting ConeXware by phone or email. In making modifications to their Personal Information, Data Subjects must provide only truthful, complete, and accurate information. To request erasure of Personal Information, Individual Customers should submit a written request [via e-mail](https://web.archive.org/contact/).
 
-ConeXware will track each of the following and will provide notice to the appropriate parties under law and contract when either of the following circumstances arise: (a) legally binding request for disclosure of the Personal Information by a law enforcement authority unless prohibited by law or regulation; or (b) requests received from the Data Subject. If ConeXware receives a request for access to his/her Personal Information from an Individual Customer, then, unless otherwise required under law or by contract with such Individual Customer, ConeXware will refer such Data Subject to the Individual Customer.
+ConeXware will track each of the following and will provide notice to the appropriate parties under law and contract when either of the following circumstances arise: (a) legally binding request for disclosure of the Personal Information by a law enforcement authority unless prohibited by law or regulation;ava or (b) requests received from the Data Subject. If ConeXware receives a request for access to his/her Personal Information from an Individual Customer, then, unless otherwise required under law or by contract with such Individual Customer, ConeXware will refer such Data Subject to the Individual Customer.
 
 ConeXware will endeavor to respond in a timely manner to all reasonable written requests to view, modify, or inactivate Personal Information.
 
