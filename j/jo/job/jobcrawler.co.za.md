@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcrawler.co.za privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202085437id_/http%3A//www.jobcrawler.co.za/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcrawler.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034451id_/http%3A//www.jobcrawler.co.za/info/privacy.html) for the most accurate reproduction.*
 
 # jobcrawler.co.za
 
