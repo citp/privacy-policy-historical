@@ -1,76 +1,92 @@
-> *The following text is extracted and transformed from the lenspick.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322031401id_/https%3A//www.lenspick.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenspick.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175850id_/https%3A//www.lenspick.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Lenspick - Privacy Policy
 
-**Privacy Policy**
+## 1\. PRIVACY & SECURITY
 
-**1\. SECURITY AND PRIVACY**
+Venkart ECom Private Limited a company incorporated with Registrar of Companies (hereinafter referred to as ‘Company’). It identifies a registered user and thinks about how information is made use of and shared. We are pleased about the trust you bestowed upon us that we will act wisely. We ensure to be in charge of individual personal information. Nonetheless May not visit and use our website with no information on who you are or enlightening the essential information in relation to self. To the Company, the for the most part significant asset is our association with the user. We are devoted to uphold the privacy, reliability and security of any private information concerning the user of our website. We are pompous of practice of confidentiality and might of the safety of our website and wish that you recognize how the information is safeguarded and utilized to present the services. This notice depicts our privacy policy. By visiting our website, the user is accepting the confidentiality expressed in this Privacy Policy.
 
-  **Lens Pick** Online Services Private Limited, a private limited company duly incorporated under the provisions of the Companies Act, 1956 (hereinafter referred to as ‘Company’), Company knows that You (a visitor or a registered user) care how information about You is used and shared, and we appreciate Your trust that we will do so carefully and sensibly. We let you retain as much control as possible over your personal information. However, you may not visit and use our site at any time without telling us who you are or revealing the required information about yourself. To the Company. Our most important asset is our relationship with you. We are committed to maintaining the confidentiality, integrity and security of any personal information about our users of our site. We are proud of our privacy practices and the strength of our site security and want you to know how we protect your information and use it to provide to you the services. This notice describes our privacy policy. By visiting this Website, You are accepting the practices described in this Privacy Policy.
+### 1.1 Information provided
 
-  **1.** **Information You Give Us** : We receive any information you enter on our Website or give us in any other way, which is stored on the Company’s secure servers. To clarify, personal information means and includes name, email, website user account log in ID and password, mobile and landline phone numbers, gender, DOB, address, gift message and eye prescription, but excludes any Credit Card, Debit Card or Net-Banking Details, all of which are stored on the Company’s secure servers and/or in cookies on your computer.
+We accept all the individual information come into on our website or furnished in any additional way is accumulated on the Company’s protected servers. Individual information signifies and comprises name, address, mobile and landline phone numbers, email, DOB, gender, eye prescription, website, user ID, password, gift message and leaves out any Credit Card, Debit Card or Net-Banking details that are accumulated on the Company’s sheltered servers and on your workstation. 
 
-  You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that You provide for such purposes as responding to your requests, customizing future commercial transactions, and communicating with You and utilizing/disclosing, without prejudice to any of Your other rights, the same for any other, whether commercial or non-commercial purpose which the Company in its sole discretion considers necessary for its business purposes or otherwise.
+The user is at liberty not to make available definite information and may not enjoy benefits of most of the features in our website. This information is utilized with the intention to act in response to business communication, needs, customization and communication and unveil with no discrimination of any of the additional privileges in your purview and the Company in its exclusive prudence deems essential for its business rationale or else. When specific information is updated information we habitually maintain a copy of the previous edition for future reference & records.
 
-  You can add or update certain information. When you update information, we usually keep a copy of the prior version for our records.
+### 1.2 Mechanical Information
 
-  **2\. Automatic Information** **:** We receive and store certain types of information whenever You interact with us. Our server logs your activities for various diagnostic and analytical purposes. However, other than the IP address of your machine from where you are accessing the Service, there are no other personal information maintained by the Company in the logs.
+We obtain and stock up assured information at any time when the user interacts with us. Our servers log the actions for a variety of analytic and investigative purpose. IP address of the device from where the information is accessed for service no extra individual information retained in logs by the Company. 
 
-  **3\. E-mail Communications** : To help us make e-mails more useful and interesting, we may request to receive a confirmation when You open e-mail from Your end if Your computer supports such capabilities.
+### 1.3 Communication through E-mail
 
-  **4\. Sharing of Information Received by the Company:** You can tell when another business is involved along with us in processing Your transactions, and we share, use or, disclose customer information related to processing of those transactions with that business as needed to fulfill your order
+To assist us create e-mails handy and fascinating, we may appeal to collect authentication when releasing e-mail from your computer that chains such potential.
 
-  **5.Business Transfers:** As we continue to develop our business, we might be acquired completely or merge with any other company. In such transactions, customer information generally is one of the transferred business assets. In such a case, we will ensure the protection of Your information as per these policies and guidelines. You hereby specifically consent and grant permission to the disclosure, and transferring, of information to such third parties.
+### 1.4 Distribution of information
 
-  **6\. Protection of the Company and Others:** We release account and other personal information when we believe release is appropriate to comply with law; to enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Company, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and other similar matters. You hereby specifically consent and grant permission to disclosure and transferring of information to such third parties, as maybe required.
+The user can permit when we can utilize, distribute or process their transactions and reveal customer information with respect to dispensing of such dealings with that trade as required to complete the order.
 
-  **2\. SECURITY OF INFORMATION**    
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software during the part where you enter your credit card or net banking details, which encrypts information You input. We constantly re-evaluate our privacy and security policies and adapt them as necessary to deal with new challenges. We do not and will not sell or rent Your personal information to anyone, for any reason, at any time, unless it is in (i) in response to a valid legal request by a law enforcement officer or government agency or (ii) where You have given Your consent, or (iii) utilize the same for some statistical or other representation without disclosing personal data.
+### 1.5 Company Transfers
 
-  The information collected from you will be stored on the Company’s secured server and systems. The Company maintains secure and reasonable security practices and procedures which are proprietary and unique to the Company (“Security Practice”). Such Security Practice involves measures such as but not limited to password protection, limitation of access to specified personnel on a need to know basis, and security measures including encryption if required and other physical security measures to guard against unauthorized access to the server and systems and information residing on such server and systems. The Company’s Security Practice protects against unauthorized access to, or unauthorized alteration, disclosure or destruction of the information. The Company’s Security Practice contains managerial, technical, operational and physical security control measures which are commensurate with the information assets being protected and with the nature of business. You acknowledge and agree that the Security Practice and procedures as mentioned above are reasonable and are designed to protect the information provided by you.
+As we carry on expanding our company, may be attained entirely or combine by means of new company. In this connection, client information normally transmits its business belongings. We make sure the safety of information as per rule and guiding principles. We also obtain user permission and authorization for revelation and transmitting information to third party people. 
 
-  We only reveal those numbers of your account as required to enable us to access and provide you the required services relating to your accounts.
+### 1.6 Protection of the Company and Others
 
-  We make every effort to allow you to retain the anonymity of your personal identity and You are free to choose a Login ID email address and password that keeps Your personal identity anonymous. Access to Your Registration Information and your personal financial data is strictly restricted to those of our Company employees and contractors, strictly on a need to know basis, in order to operate, develop or improve the Service. These employees or contractors may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We make public description and supplementary individual information while we consider discharge of fitting to abide by law; to impose or be relevant to our agreements and other Terms and Conditions, defend or safety of Company property & the rights of our users or other people. It comprises swap over of information with new companies and businesses for protection from deceit and supplementary related material. The users here explicitly permit and award authorization to exposé and transfer information to these third parties as deemed necessary.
 
-  With the exception of a Login ID in the form of an email address, which may be provided on an anonymous basis, and Your Third Party Account Information, which is required for providing the services, the Company does not require any information from you that might constitute personally identifiable information.
+## 2\. SECURITY OF INFORMATION 
 
-  It is important for you to protect against unauthorized access to Your password and to Your computer. Be sure to sign off when finished using a shared computer.
+We put our effort to safeguard and protect user information whilst transition by utilizing SSL (Secured Sockets Layer) software where the user credit card & net banking information are entered in the encrypted form. Our Security & Privacy policies are regularly evaluated and acclimatized as essential to deal with new issues. Individual information is not sold for any reason to anyone at any given point of time other than and unless 1). There is a valid legal request by government agency or police, 2). User permission provided and 3). Used for few arithmetical or demonstration with no individual data exposure.
 
-  As described in this Agreement and with your consent, the Company will from time to time connect electronically to your online bank, credit card and other online financial accounts to process Your Order.
+The collected information is stored in the Company’s systems & servers that are safe guarded. The Company preserves its proprietary & exclusive protected and sensible procedures & practices of security. This practice of Security engages limitation of access to particular personnel on specific need, protection of passwords and security procedures with encrypted & Physical to safe guard next to unauthorized access to the systems & servers. 
 
-  Company will also use other third parties like courier companies to deliver products that you order on our website, to your delivery address.
+The Company’s Security Practice shields alongside unlawful right of entry or modification, revelation or obliteration of the information. It controls technical, operational, physical and managerial procedures of security power which are proportionate with assets of information being secluded and with the business environment. The user agrees and acknowledges that the Security procedures and practice are sensible and intended to guard the information provided by the user.
 
-  
-**3\. CONDITIONS OF USE, NOTICES, AND REVISIONS**    
-Please do read the detailed terms and conditions of the Company’s Website situated at terms and conditions. If you choose to visit this Website, Your visit and any dispute over privacy is subject to this Agreement, including limitations on damages, arbitration of disputes, and application of the law of the Republic of India. If you have any concern about privacy at this Website, please send us a thorough description to support@lenspick.com and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of Website Use may also change, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but You should check our Website frequently to see recent changes.
+We disclose details of user account as may be deemed to allow us to right of entry and offer requisite services connecting to user accounts.
 
-  **4\. GRIEVANCE OFFICER**  
- The Company would be glad to provide assistance to you in case You have any queries or have any issues pertaining to this Security and Privacy policy. Kindly contact **Mr. Subendra** at subendra.k@yahoo.com
+We construct each attempt to permit the user to preserve the secrecy of individual characteristics and is liberated to decide email address, Login ID and password that maintains private individuality unidentified. Access to user registration Information and private financial data is severely limited to our employees and contractors of the Company, severely on a requirement basis to function, build up or progress the Service. These workforce or service providers might be subject to regulation, counting extinction and illegal trial, if they be unsuccessful to assemble these responsibilities.
 
-**5\. LIST OF COOKIES WE COLLECT**    
-The table below lists the cookies we collect and what information they store.
+With the exemption of a Login ID in an email id, which could be given on an unidentified source, and the user’s third party account Information that is essential to present the services, the Company doesn’t necessitate some information from the user that may represent individually exclusive information.
 
-  COOKIE NAME                                     COOKIE Description  
-CARTS                                                  the association with your shopping cart.  
-CATEGORY INFO                                  Stores the category info on the page, that allows to display pages more quickly  
-COMPARE                                            The items that you have in the Compare Products list.  
-CUSTOMER                                           An encrypted version of your customer id with the store.  
-CUSTOMER AUTH                                 An indicator if you are currently logged into the store.  
-EXTERNAL NO CACHES                        A flag, which indicates whether caching is disabled or not.  
-FRONTEND                                           You session ID on the server.  
-GUEST VIEW                                        Allows guests to edit their orders.  
-LAST CATEGORY                                 The last category you visited.  
-LAST PRODUCT                                    The most recent product you have viewed.  
-NEW MESSAGE                                   Indicates whether a new message has been received.  
-NO CACHE                                           Indicates whether it is allowed to use cache.  
-PERSISTENT SHOPPING CARTS          A link to information about your cart and viewing history if you have asked the site.  
-POLL                                                    The ID of any polls you have recently voted in.  
-POLLN                                                  Information on what polls you have voted on.  
-RECENTLY COMPARED                        The items that you have recently compared.  
-STF                                                       Information on products you have emailed to friends.  
-STORE                                                  The store view or language you have selected.  
-USER ALLOWED SAVE COOKIE            Indicates whether a customer allowed using cookies.  
-VIEWED PRODUCT IDS                         The products that you have recently viewed.  
-WISH LIST                                             An encrypted list of products added to your Wish list.  
-WISH LIST CNT                                      The number of items in your Wish list.
+It is imperative for the user to guard alongside unlawful right to use the password and system. It is necessary to sign off when completed using a common system.
+
+As illustrated in the Agreement and with the user approval the Company will unite automatically to user’s online bank credit card and further financial accounts to execute the order.
+
+Company will as well employ additional third parties similar to courier companies to transport goods that the user orders on our website to be delivered to user’s address.
+
+## 3\. CONDITIONS OF USAGE, REVISIONS & NOTICES 
+
+Please carry out reading complete terms and conditions of the Company on the website www.lesnpick.com . If the user visits our website and any disagreement in excess of confidentiality is subject to the agreement together with restrictions on indemnity, adjudication of dispute and request of the law of the Republic of India. If the user has some apprehension in relation to confidentiality at our website, please mail us a detailed report to support@lenspick.com and we will undertake to find resolution to it.
+
+Our trade changes continuously. This notice and Terms & Conditions of Website usage possibly will also vary and utilization of information that we collect is focused on the Privacy Policy in significance at the time of usage. We might e-mail intermittent reminders of notices and conditions, except the user has inculcated not to. The user must ensure to visit our website often to perceive current modifications.
+
+## 4\. COMPLAINTS OFFICER 
+
+The Company makes available support to the user for any questions or concerns with respect to the policy of Security and Privacy. Please get in touch with Mr. Dileep C. Byra at dilpbyra@yahoo.com.
+
+## 5\. LIST OF OUR COLLECTED COOKIES
+
+Below table records cookies assembled and information stored in.
+
+CART| Connection with shopping cart  
+---|---  
+CATEGORY_INFO| Contains type of info that permits to exhibit pages swiftly  
+COMPARE| The items in the evaluate goods catalog  
+CURRENCY| Favored currency  
+CUSTOMER| Encrypted description of customer id  
+CUSTOMER_AUTH| A pointer indicating current log in  
+CUSTOMER_INFO| Encrypted customer cluster you  
+CUSTOMER_SEGMENT_IDS| Consists of Customer Segment ID  
+EXTERNAL_NO_CACHE| A standard specifying status of Cache  
+FRONT END| Permits guest to correct self orders  
+GUEST-VIEW| Last cluster visited  
+LAST_PRODUCT| most latest item viewed  
+NEW MESSAGE| Signifies a fresh message  
+NO_CACHE| Specifies not permitted to exercise cache  
+PERSISTENT_SHOPPING_CART| A connection to information to the cart and presentation of past records requested on the website  
+POLL| The ID of polls lately nominated in  
+POLLN| Information on polls designated  
+STF| Information on items emailed to associates  
+STORE| The store sight preferred  
+USER_ALLOWED_SAVE_COOKIE| Denotes customer permitted to exploit cookies  
+VIEWED_PRODUCT_IDS| Goods just sighted  
+WISH LIST| Encrypted list of items supplementary to wish list  
+WISH LIST_CNT| Number of goods in wish list
