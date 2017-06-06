@@ -1,107 +1,84 @@
-> *The following text is extracted and transformed from the michaelsaunders.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127231520id_/http%3A//www.michaelsaunders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelsaunders.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183640id_/http%3A//www.michaelsaunders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Luxury Sarasota Homes for Sale - Michael Saunders & Company®
 
-You can count on us to provide you with the responsive, professional service you deserve, and to protect your privacy and security along the way.
+_Last Modified: December 13, 2016_
 
-This document outlines the Privacy Policy, which describes how we use and protect your customer information. We believe that protecting your privacy is an integral part of the customer service we provide to you. This is the reason why we do not share customer information with outside parties whomay wish to market their products to you. We value your relationship…and we work diligently every day to honor the trust you place in us. 
+MichaelSaunders.com (our “Website”) is operated by Michael Saunders & Company, a Florida corporation ("MSC"). MSC wants to make your online experience pleasant, convenient and safe. Your privacy is very important to us. This privacy policy (“Privacy Policy”) describes the information we collect about you and how we use this information.
 
-## Overview of Our Commitment to You
+## What Kind of Information Does MSC Collect?
 
-  * We do not sell customer information to third parties.
-  * We do not share customer information with outside parties who may wish to market their products to you. You do not have to take any action or instruct us to keep your information confidential. We will protect your privacy automatically.
-  * We safeguard your customer information carefully. You have choices about how your information may be shared and used. We have made it easy to communicate your privacy preference to us. 
-  * We are committed to helping you protect your privacy every day. In this document, you’ll find tips to help you protect yourself from identity theft, and limit direct marketing from outside companies.
+Our primary goal in collecting information from you is to provide you with a positive experience while you use our Website, to hear your comments, to respond to your inquiries, and to provide you with access to our services. MSC may collect both personal information (“Personal Information”) and information about your use of the Website (“Non-personal Information”). Personal Information may include your name, street address, email address and telephone number. Non-personal Information may include both: 1) technical information, such as the type of Internet browser you use, the date and time you access the website, and your Internet protocol address; and, 2) service usage information, such as your site visits and page views, records and history about transactions and preferences, such as property listings you have searched, and the demographic, geographic, and psychographic information, and other feedback you supply to us. Also, when you register or create an online account/profile with us, contact customer service, participate in our surveys, or send us testimonials, feedback or submissions, you are providing us with your personal information.
 
-  
+## Cookies
 
+We also utilize cookies. Cookies are small files that we transfer to your computer’s hard drive through your web browser to enable us to recognize you when you return to our website. Cookies let us identify you to provide you a personalized experience on our website. We use cookie and web beacon technology to track which pages on our sites our visitors view. Most Internet browsers permit you to erase or block cookies. If you configure your browser to remove or reject cookies, though, you may not be able to use the full functionality of our Website.
 
-## How We Protect and Use Customer Information
+## How Does MSC Use My Information?
 
-  1. We begin by safeguarding the security and integrity of customer information. We are committed to protecting the security and integrity of customer information through procedures and technology designed for this purpose. For example: 
-    * We limit employee access to customer information to those who have a business reason to know this information. Employees are required to honor our code of conduct, which includes standards to protect customer confidentiality. They are subject to disciplinary action if they fail to do so.
-    * We maintain policies and procedures covering the proper physical security of workplaces and records.
-    * We require independent contractors and outside companies who work with us to adhere to strict privacy standards through their contracts with us.
-    * We use technological means (such as backup files, virus detection and eradication software, firewalls, and other computer software and hardware) to protect against unauthorized access or alterations to customer data.
-  2. We collect and maintain customer information as part of servicing your account and your customer relationship. In the course of serving you, we collect information about you from a variety of sources, such as: 
-    * Information you provide to us on applications or forms.
-    * Information we receive from an outside company.
-    * Information about your transactions or experiences with companies affiliated with us.
-  3. We do not share information with outside parties who may wish to market their products to you. We may disclose the information we collect, as described above, with nonaffiliated third parties that are acting on our behalf, including: 
-    * Companies that perform support services for us, such as data processors, technical systems consultants and programmers, check printers, or companies that help us market our products and services to you. We may also share certain information with companies that help us conduct surveys or marketing research.
-    * There are other situations when we may disclose to third parties the customer information we collect as permitted or required by law. Third parties could include government entities, courts or other entities (in response to subpoenas and other legal processes), and those with whom you have requested us to share information.
-  4. It is important to note that we **do not** share customer information with other companies for the purpose of marketing their products to you, unless you specifically request in advance that we do so. It is not necessary for you to instruct us not to share information with these outside companies, because we will automatically keep your information confidential.
-  5. Within our organization, we share information so that we can work together to serve you. We may disclose all of the information we collect, as described above, with our affiliated companies.
-  6. Web Logs and Network Monitoring   
-Michael Saunders & Company® maintains log files of all access to its site and also monitors network traffic for the purposes of site management. This information is used to help diagnose problems with the server and to carry out other administrative tasks. Log analysis tools are also used to create summary statistics to determine which information is of most interest to users, to identify system problem areas, or to help determine technical requirements.   
-Information such as the following is collected in these files: 
-    * **Hostname:** the hostname and/or IP address of the computer requesting access to the site.
-    * **User-Agent:** the type of browser, its version, and the operating system of the computer requesting access (e.g., Netscape 4 for Windows, IE 4 for Macintosh, etc.)
-    * **Referrer:** the web page the user came from.
-    * **System date:** the date and time on the server at the time of access
-    * **Full request:** the exact request the user made
-    * **Status:** the status code the server returned, e.g., fulfilled request, file not found
-    * **Content length:** the size, in bytes, of the file sent to the user
-    * **Method:** the request method used by the browser (e.g., post, get)
-    * **Universal Resource Identifier (URI):** the location of the particular resource requested. (More commonly known as a URL.)
-    * **Query string of the URI:** anything after a question mark in a URI. For example, if a keyword search has been requested, the search word will appear in the query string. 
-    * **Protocol:** the technical protocol and version used, i.e., http 1.0, ftp, etc. 
-The above information is not used in any way that would reveal personally identifying information to outside parties unless Michael Saunders & Company® is legally required to do so in connection with law enforcement investigations or other legal proceedings. 
-  7. Email and Form Information   
-If a member of the general public sends Michael Saunders & Company® an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. Such information is not used in any way that would reveal personally identifying information to outside parties unless System Administration is legally required to do so in connection with law enforcement investigations or other legal proceedings. If you choose to give us your phone number, you are giving us permission to call you in response to this request, even if this phone number is in the State and/or National Do Not Call Registry. 
-  8. Web Links on Michael Saunders & Company® web site.   
-This site may contain links to other sites. Michael Saunders & Company® is not responsible for the privacy practices or the content of such websites. 
-  9. Web Site Security   
-This site has security measures in place to protect from loss, misuse and alteration of the information. 
-  10. Web Browser Cookies   
-A “cookie” is a small file containing information that is placed on a user’s computer by a web server. Typically, these files are used to enhance the user’s experience of the site, to help users move between pages in a database, or to customize information for a user.  
-Any information that Michael Saunders & Company® webservers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless Michael Saunders & Compnay® is legally required to do so in connection with law enforcement investigations or other legal proceedings. 
+When we collect information from you, such information may be used for one or more of the following reasons:
+
+  * Process and complete your profile and any Website transactions
+  * identify your service and property listing preferences so that we can notify you of new or additional services and property listings that might be of interest to you
+  * improve service offerings and customer service
+  * notify you about new services, features, promotions and special offers that MSC or its affiliates thinks you will find valuable
+  * provide to you newsletters
+  * respond to your inquiries
+  * measure the advertising effectiveness of our online and other advertisements and offers
+  * customize the advertising, property listings and services you see
+  * conduct research
+  * help us understand Website activity and improve your use of our Website
+  * collect aggregated site-visitation statistics
+  * help us prevent fraud and minimize credit risk.
 
 
 
-## You Have Choices
+In order for us to maintain the accuracy of your Personal Information and improve our communication with you, we may also combine the information we collect with other public demographic information. On rare occasions we may also be required to disclose your information as is required by law pursuant to lawful requests such as subpoenas, court or agency orders, or as we may reasonably determine to be necessary to protect our rights or the rights of others, to avert harm to persons or property, or to enforce this Privacy Policy.
 
-We do not sell customer information or share it with outside third parties who may wish to market their products to you. We will protect your privacy automatically.
+## Does MSC Share My Information With Third Parties?
 
-If you choose to express a privacy preference (information sharing, or solicitation preference), it will remain in effect as long as you are a customer. If you have already recorded a privacy preference with us, there is no need to do so again. You may change your instructions at any time in the future.
+We may share certain Personal Information we collect about you with third parties who perform services for us or with whom we contract for the purposes described in this Privacy Policy. For example: we may use third parties to host our Website, operate certain features, send e-mails, print or mailings, authorize and process your payments, and analyze data and our advertising effectiveness. These third-party service providers are given the information they need to perform their designated functions and we do not authorize them to use or disclose your Personal Information for their own or any others’ marketing purposes.
 
-## How to Communicate a Preference to Us
+We may share Non-personal Information with select third parties on an anonymous basis (that is, in a way that does not connect your Non-personal Information to your Personal Information or disclose your Personal Information in any fashion).
 
-  * Call us at **1-888-552-5228**.
-  * Mail this response form to: 
-    * Michael Saunders and Company  
+If MSC, or substantially all of our assets, are sold, or MSC reorganizes or merges into another company, then customer information, including Personal Information, will likely be one of the transferred assets.
+
+On rare occasions, we may be required to disclose your Personal Information as required by law and as necessary to comply with a judicial proceeding, court order, or legal process served on us. Or we may need to do so to protect our customer’s rights.
+
+## Is My Information Secure With MSC?
+
+MSC uses security measures to protect the privacy of your Personal Information. However, transmissions over the Internet are not completely secure, and any information you send to or through our Website may be accessible by others. MSC cannot guarantee our security measures.
+
+## How Does MSC Protect Kids' Privacy?
+
+We are concerned about the safety of children when they use the Internet and will never knowingly request personally identifiable information from anyone under the age of 13. Users of our Website must be at least 18 years old. If you are under 18 years old, you should not provide information to us without the involvement of a parent or guardian. If a child has provided us with personal information, that child’s parent or guardian should contact us (see below) to delete such information from our records.
+
+## Sensitive Information
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health or medical condition or criminal background) on or through the Website or otherwise to us.
+
+## Notification of Changes
+
+MSC may make periodic changes to this privacy policy, and we will post the changes on the Website. Please take a look at the “Last Updated” legend at the top of this page to see when this Privacy Policy was last revised. We may also notify you by e-mail if there is a material change in our privacy practices or policies. Your continued use of our Website will constitute your acceptance of any such amendment.
+
+## How You Can Access, Change or Suppress Your Personal Information?
+
+To review, correct, update, suppress, delete, or otherwise limit our use of your Personal Information that you previously provided us, please email, call, or write us using the contact information listed below in the “Contact Us” section and clearly describe your request.
+
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database, or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. Note that despite our efforts, there may be residual information that will remain within our databases and other records that will not be removed or changed.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us as follows:
+
+  1. You may email us at: contact us
+  2. You may call us at 1-888-552-5228.
+  3. You may send mail to the following postal mail address:
+
+Michael Saunders & Company  
 Corporate Office  
 100 South Washington Blvd.  
-Sarasota, FL 34236   
+Sarasota, FL 34236
 
 
-  
 
-
-## Your Choices
-
-We may share information about you within our affiliated companies. However, you may instruct us not to share certain personal information as described in Section 4.
-
-[____] Do not share personal information about me other than my own transaction and experience information for any purpose and do not share any information about me for marketing purposes among affiliated companies.
-
-If you are satisfied with the current level of information you receive from us, you do not need to change your solicitation preferences at this time. If you choose not to hear from us, you may not be notified about new services with us that may benefit you. 
-
-**Please do not contact me for marketing purposes by:**
-
-[_____] Telephone [____] Mail 
-
-Complete the Name and Address section below ONLY if you have checked one or more of the boxes above. If you have not indicated a preference, no action will be taken.
-
-**Please print**
-
-Date ____/____/________ (mm/dd/yyyy)
-
-Name _____________________________________________________________
-
-Address __________________________________________________________
-
-City __________________________ State ____________ Zip ___________
-
-Phone number_______________________________
-
-© 2016 All rights reserved - Michael Saunders & Company®
