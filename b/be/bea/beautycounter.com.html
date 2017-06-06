@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beautycounter.com privacy policy that was archived on 2016-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161217041000id_/http%3A//www.beautycounter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beautycounter.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606105956id_/http%3A//www.beautycounter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" prefix="og: http://ogp.me/ns#"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,7 +9,7 @@
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href="http://cdn.beautycounter.com/media/favicon/default/Beautycounter_B_32x32.gif" type="image/x-icon">
 <link rel="shortcut icon" href="http://cdn.beautycounter.com/media/favicon/default/Beautycounter_B_32x32.gif" type="image/x-icon">
-<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PC6NBV"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/zJqxhvI66bv8hdVJAQZJWJDUm3SPFvbemg6XyiLt/widget.js"></script><script type="text/javascript" src="//fast.fonts.net/jsapi/439f46d2-2cab-4bac-8467-88987d4c454f.js"></script>
+<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://www.fullstory.com/s/fs.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PC6NBV"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/zJqxhvI66bv8hdVJAQZJWJDUm3SPFvbemg6XyiLt/widget.js"></script><script type="text/javascript" src="//fast.fonts.net/jsapi/439f46d2-2cab-4bac-8467-88987d4c454f.js"></script>
 <script type="text/javascript" src="//www.youtube.com/iframe_api"></script>
 <script type="text/javascript" src="//use.typekit.net/niv7nci.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -21,10 +21,10 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://cdn.beautycounter.com/media/css/u.96a107b571cd3a27789d8c2526e22c5a.1481935292.css" media="all">
-<script type="text/javascript" src="http://cdn.beautycounter.com/media/js/u.716548f6ea4e6ad9fe2b254fcc0f09ed.1481935292.js"></script>
+<link rel="stylesheet" type="text/css" href="http://cdn.beautycounter.com/media/css/u.96a107b571cd3a27789d8c2526e22c5a.1496732390.css" media="all">
+<script type="text/javascript" src="http://cdn.beautycounter.com/media/js/u.e476d3e5ae504323729471a0fd4dad68.1496732390.js"></script>
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://cdn.beautycounter.com/media/js/u.a6832c5e29e401d1f9b1e30f96b95a47.1481935292.js"></script>
+<script type="text/javascript" src="http://cdn.beautycounter.com/media/js/u.a6832c5e29e401d1f9b1e30f96b95a47.1496732390.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -196,13 +196,19 @@ if(videoModal){
 videoModal.innerHTML = '<a class=\"pixafy-modal-dismiss\" href=\"#\">close</a> <iframe id=\"autoplayvideo\" src=\"//www.youtube.com/embed/v9nXGVi5VtE?enablejsapi=1\" frameborder=\"0\" width=\"640\" height=\"360\"></iframe>';
 }
 }
-window.onload = replaceVideo;
+var oldOnLoad = window.onload; 
+window.onload = function() { 
+  if (typeof oldOnLoad === 'function') { 
+    oldOnLoad(); 
+  } 
+  replaceVideo(); 
+}; 
 </script>
 <!-- Viewport -->
 <meta name="viewport" content="width=device-width, user-scalable=no">
 
 <!-- IE Prevent Dev Mode -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQCVFBQGwYCXVVQBAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQCVFBQGwYCXVVQBAE="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
 
 </head>
 <body class="store  cms-page-view cms-privacy-policy">
@@ -223,45 +229,172 @@ window.onload = replaceVideo;
         <!-- END GOOGLE TAG MANAGER -->
         
 <div class="wrapper">
-    <div class="topPanelContentExtra">
-    <div class="top-panel-container">
-        <!--{BC_CONSULTANT_ATTRIBUTION_HEADER_d0f2ce665a7a719c153bfc81450b962a}--><!--/{BC_CONSULTANT_ATTRIBUTION_HEADER_d0f2ce665a7a719c153bfc81450b962a}-->    </div>
+    <div class="consultant-panel">
+    <div class="confirm">
+        <p class="title">Start a new order with:</p>
+        <p class="name"></p>
+        <div class="buttons">
+            <button id="confirm-yes">Yes, let's go</button>
+            <button id="confirm-no">No, Search Again</button>
+        </div>
+    </div>
+    <div class="back">
+        <img src="http://cdn.beautycounter.com/skin/frontend/enterprise/beautycounter/images/left-arrow.svg" alt="Back">
+    </div>
+    <div class="close">
+        <img src="http://cdn.beautycounter.com/skin/frontend/enterprise/beautycounter/images/close.svg" alt="Close">
+    </div>
+    <div class="logo"><img src="http://cdn.beautycounter.com/skin/frontend/enterprise/beautycounter/images/beautycounter-logo.svg" alt="Beautycounter"></div>
+    <div class="consultant-info">
+        <div class="title">
+            <p class="cap-title">You are shopping with:</p> <img class="consultant-information" src="http://cdn.beautycounter.com/skin/frontend/enterprise/beautycounter/images/info.png" alt="Info">
+        </div>
+        <div class="profile">
+            <div class="photo">
+                <div class="image-wrapper">
+                </div>
+            </div>
+            <div class="info">
+                <p class="name"></p>
+                <p class="contact"></p>
+                <p class="location"></p>
+                <hr>
+                <p class="title"></p>
+                <p class="active-date"></p>
+                <div class="start-shopping">
+                    <div class="cta">
+                        <button>Start Shopping</button>
+                    </div>
+                </div>
+            </div>
+            <div class="socials">
+                <p class="socials-title">Shop <span class="fname"></span>'s Socials</p>
+                <div class="socials-select mdl-selectfield">
+                    <select name="socials-select-dropdown" id="socials-select-dropdown">
+                    </select>
+                </div>
+                <div class="confirmed-social">
+                    <p><span class="social-name"></span><span class="change">Change</span></p>
+                    <!--<div class="cta">
+                        <button>Shop This Social</button>
+                    </div>-->
+                </div>
+            </div>
+        </div>
+        <div class="unfamiliar">
+            <div class="content">
+                <p class="title">Doesn't look familiar?</p>
+                <p><span class="link">Search for a different Consultant</span> or <a href="http://www.beautycounter.com/noconsultant" onclick="delete_attrcookie('ATTRIBUTION_ID');">shop without a Consultant</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="what-is-consultant" style="display:none">
+        <div class="back" style="display:block">
+        <img src="http://cdn.beautycounter.com/skin/frontend/enterprise/beautycounter/images/left-arrow.svg" alt="Back">
+        </div>
+        <div class="title">
+            <p class="cap-title">What is a Consultant: </p>
+        </div>
+         <div class="consultant-left-info">
+        
+        <p class="social-content">Think of a Consultant as a personal shopper who can work with you to provide recommendations and purchasing advice throughout your Beautycounter experience. If you want your Consultant to get credit for this order, please select their name from the search results.</p>
+        <div class="title">
+            <p class="cap-title">What is a Social: </p>
+        </div>
+        <p class="social-content">A Social is a gathering where people learn about the Beautycounter mission and can preview, sample, and order products.</p>
+             <p class="social-content"> Have you recently attended a Social? If so, select a Social from the dropdown menu.</p>
+        
+    </div>
+     
+    </div>
+    <div class="consultant-search">
+        <div class="title">
+            <p class="cap-title">
+                Shop with a different Consultant
+            </p>
+            <div class="search-wrapper">
+                <div class="search-input-wrapper">
+                    <form action="" autocomplete="off">
+                        <input id="consultant-search-input" type="text" placeholder="Search for your Consultant's name">
+                        <input type="submit" class="search-icon" alt="Search" value="">
+                    </form>
+                </div>
+                <div class="search-pre-loader" style="display:none;"><img src="http://cdn.beautycounter.com/skin/frontend/enterprise/beautycounter/images/search-pre-loader.gif"></div>
+                <p>Search for a different Consultant. Select a name from the search results, and you will be directed to
+                    their personal website to place your order. The next time you visit Beautycounter.com, you will shop
+                    with your original Consultant.
+                </p>
+                <p>If you would like to change your default Consultant, please contact <a href="mailto:info@beautycounter.com">Customer Care</a> or call <a href="tel:8889889108">(888)
+                        988-9108</a>.</p>
+            </div>
+            <div class="search-results">
+
+            </div>
+        </div>
+    </div>
 </div>
+<script>
+    var delete_cookie = function (name) {
+        document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    };
+</script>
+    <div class="topPanelContentExtra">
+    <!--{BC_CONSULTANT_ATTRIBUTION_HEADER_d0f2ce665a7a719c153bfc81450b962a}--><script>
+window['_fs_debug'] = false;
+window['_fs_host'] = 'www.fullstory.com';
+window['_fs_org'] = '3J83T';
+window['_fs_namespace'] = 'FS1';
+(function(m,n,e,t,l,o,g,y){
+if (e in m && m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].'); return;}
+g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
+o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){g(l,v)};
+g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+g.clearUserCookie=function(c,d,i){if(!c || document.cookie.match('fs_uid=[`;`]*`[`;`]*`[`;`]*`')){
+d=n.domain;while(1){n.cookie='fs_uid=;domain='+d+
+';path=/;expires='+new Date(0).toUTCString();i=d.indexOf('.');if(i<0)break;d=d.slice(i+1)}}};
+})(window,document,window['_fs_namespace'],'script','user');
+</script>
+
+<script>
+FS1.clearUserCookie;
+</script>
+<!--/{BC_CONSULTANT_ATTRIBUTION_HEADER_d0f2ce665a7a719c153bfc81450b962a}--></div>
 
     <div class="promo-panel-container">
         <div class="promo-panel">
             <div class="desktop owl-carousel">
-  <div class="banner">
-<p class="text-overflow"><a href="javascript:void(0)" onclick="jQuery.bc.showOfferPromoModal('footer_offer_promo')"><span>GET YOUR ORDER BY DECEMBER 23! CLICK FOR HOLIDAY SHIPPING DEADLINES.</span></a></p>
+<div class="banner">
+    <a class="text-overflow" href="http://www.beautycounter.com/cosmetics/lips/lip-gloss.html/">SHOP OUR NEW BARE SHIMMER LIP GLOSS</a>
+  </div>
+ <div class="banner">
+<p class="text-overflow"><a href="javascript:void(0)" onclick="jQuery.bc.showOfferPromoModal('footer_offer_promo')"><span>EXCLUSIVE FATHER'S DAY SET NOW AVAILABLE*</span></a></p>
     </div>
-  <div class="banner">
+<div class="banner">
     <a class="text-overflow" href="http://www.beautycounter.com/member-program/">FREE SHIPPING + REWARDS &amp; SAVINGS  <span>BECOME A BEAUTYCOUNTER MEMBER</span></a>
   </div>
-  <div class="banner">
-    <a class="text-overflow" href="http://www.beautycounter.com/holiday.html/"><span>SHOP SAFER HOLIDAY GIFT SETS</span></a>
-  </div>
-
 </div>
 <div class="tablet owl-carousel">
-  <div class="banner">
-<p class="text-overflow"><a href="javascript:void(0)" onclick="jQuery.bc.showOfferPromoModal('footer_offer_promo')"><span>GET YOUR ORDER BY DECEMBER 23! CLICK FOR HOLIDAY SHIPPING DEADLINES.</span></a></p>
+<div class="banner">
+    <a class="text-overflow" href="http://www.beautycounter.com/cosmetics/lips/lip-gloss.html/">SHOP OUR NEW BARE SHIMMER LIP GLOSS</a>
+  </div>
+ <div class="banner">
+<p class="text-overflow"><a href="javascript:void(0)" onclick="jQuery.bc.showOfferPromoModal('footer_offer_promo')"><span>EXCLUSIVE FATHER'S DAY SET NOW AVAILABLE*</span></a></p>
     </div>
   <div class="banner">
     <a class="text-overflow" href="http://www.beautycounter.com/member-program/">FREE SHIPPING + REWARDS &amp; SAVINGS  <span>BECOME A BEAUTYCOUNTER MEMBER</span></a>
   </div>
-  <div class="banner">
-    <a class="text-overflow" href="http://www.beautycounter.com/holiday.html/"><span>SHOP SAFER HOLIDAY GIFT SETS</span></a>
   </div>
-</div>
 <div class="phone owl-carousel">
-  <div class="banner">
-<p class="text-overflow"><a href="javascript:void(0)" onclick="jQuery.bc.showOfferPromoModal('footer_offer_promo')"><span>GET YOUR ORDER BY DECEMBER 23! CLICK FOR HOLIDAY SHIPPING DEADLINES.</span></a></p>
+<div class="banner">
+    <a class="text-overflow" href="http://www.beautycounter.com/cosmetics/lips/lip-gloss.html/">SHOP OUR NEW BARE SHIMMER LIP GLOSS</a>
+  </div>
+ <div class="banner">
+<p class="text-overflow"><a href="javascript:void(0)" onclick="jQuery.bc.showOfferPromoModal('footer_offer_promo')"><span>EXCLUSIVE FATHER'S DAY SET NOW AVAILABLE*</span></a></p>
     </div>
   <div class="banner">
     <a class="text-overflow" href="http://www.beautycounter.com/member-program/">BECOME A MEMBER, Free Shipping + More...</a>
-  </div>
-  <div class="banner">
-    <a class="text-overflow" href="http://www.beautycounter.com/holiday.html/"><span>SHOP SAFER HOLIDAY GIFT SETS</span></a>
   </div>
 </div>
 <style>
@@ -302,14 +435,16 @@ window.onload = replaceVideo;
   });
 </script>
 <!-- Modal Data - Start -->
-<div class="modal-data footer_offer_promo"><p>To get it by December 23, order by the following dates:</p>
-<p> • Ground Shipping | December 15, 10:00 AM PST</p>
-<p> • Priority Shipping | December 16, 10:00 AM PST</p>
-<p> • Expedited Shipping | December 19, 10:00 AM PST</p>
+<div class="modal-data footer_offer_promo"><p>*Clean Slate Charcoal Duo, which includes: Charcoal Cleansing Bar and Purifying Charcoal Bar (US: $48 SRP / CAN: $58 SRP), is available for a limited time only, while supplies last. Offer available to Consultants, Clients and Band of Beauty Members in the US &amp; Canada only. Consultant discount is not applicable. Offer available on Clean Slate Charcoal Duo, which includes: Charcoal Cleansing Bar and Purifying Charcoal Bar (US: $48 SRP / CAN: $58 SRP), is available for a limited time only, while supplies last. Offer available to Consultants, Clients and Band of Beauty Members in the US &amp; Canada only. Consultant discount is not applicable. Offer available on Beautycounter.com, Behind the Counter and Consultant Personal Websites only. If purchasing within an open Social for US &amp; CAN, the Social must be closed and submitted prior to 11:59 PM PST on June 14, 2017. Clean Slate Charcoal Duo will start shipping on Tuesday, June 6, 2017. To receive orders by June 18, 2017 (Father’s Day), cut-off dates for placing orders are as follow; For US ground shipping, orders must be placed by 10am PST on Sunday, June 11, 2017. For US expedited shipping, orders must be placed by 10am PST on Wednesday, June 14, 2017. For CAN ground shipping, orders must be placed by 10am PST on Thursday, June 8, 2017. Delivery dates and timeframes are estimated and not guaranteed. Offer not valid on previous purchases. Offer not transferable or interchangeable. We reserve the right to modify or replace any part of these terms and conditions without notice. Offer subject to change in Beautycounter’s sole discretion.
+</p>
 
-<p><a class="black-btn" href="http://www.beautycounter.com/holiday.html/">Shop Now</a></p></div>
-<div class="modal-data footer_offer_promo2"><p>*Offer available to Consultants, Clients and Band of Beauty Members in the US &amp; Canada only. Offer valid from 12:01 AM PST on December 13, 2016, until 11:59 PM PST on December 15, 2016, while supplies last. Spend $125 US / $150 CAN, before tax and shipping, and receive a FREE Enrich Body Butter (US: $39 value / CAN: $44 value). Consultants must meet qualifier after their savings is applied. Offer available on Beautycounter.com, Consultant Personal Websites and Behind the Counter. If purchasing within an open Social, the Social must be closed and submitted prior to 11:59 PM PST on December 15, 2016, to qualify for the GWP. Offer not transferable or interchangeable. Terms subject to change. </p>
-<a class="black-btn" href="http://www.beautycounter.com/skin-care.html/">Shop Now</a></div>
+<p><a class="black-btn" href="http://www.beautycounter.com/clean-slate-charcoal-duo.html">Shop Now</a></p></div>
+<div class="modal-data footer_offer_promo2"><p>*Perfectly Pink Set, which includes: Powder Blush Duo in Bloom/Tulip, Sheer Lipstick in Rose, No. 2 Plumping Facial Mist and a White Cosmetics Bag (US: $98 SRP / $135 value, CAN: $123 SRP / $169 value), is available for a limited time only, while supplies last. Offer available to Consultants, Clients and Band of Beauty Members in the US &amp; Canada only. Consultant discount is not applicable. Offer available on Beautycounter.com, Behind the Counter and Consultant Personal Websites only. If purchasing within an open Social for US &amp; CAN, the Social must be closed and submitted prior to 11:59 PM PST on May 12, 2017. To receive orders by May 14, 2017 (Mother’s Day), cut-off dates for placing orders are as follow; For US ground shipping, orders must be placed by 10am PST on Friday, May 5, 2017. For US priority shipping, orders must be placed by 10am PST on Tuesday, May 9, 2017. For US expedited shipping, orders must be placed by 10am PST on Wednesday, May 10, 2017. For CAN ground shipping, orders must be placed by 10am PST on Tuesday, May 2, 2017. Delivery dates and timeframes are estimated and not guaranteed. Offer not valid on previous purchases. Offer not transferable or interchangeable. Offer is subject to change, alteration or termination by Beautycounter at its sole discretion at any time.</p>
+<a class="black-btn" href="http://www.beautycounter.com/perfectly-pink-set.html/">Shop Now</a></div>
+<div class="modal-data footer_offer_promo3"><p>*Offer available to Consultants, Clients and Band of Beauty Members in the US &amp; Canada only. Consultant discount is not applicable. I'm Yours Valentine's Day Duo, which includes: Color Sweep Blush Duo in Bloom/Tulip and Sheer Lipstick in Rose (US: $52 SRP / $70 value, CAN: $64 SRP / $87 value), is available for a limited time only, while supplies last. Offer available on Beautycounter.com, Behind the Counter and Consultant Personal Websites only. If purchasing within an open Social for US &amp; CAN, the Social must be closed and submitted prior to 11:59 PM PST on February 12, 2017. To receive orders by February 14, 2017, cut-off dates for placing orders are as follow: For US Ground Shipping, orders must be placed by 10am PST on February 6, 2017. For US Expedited Shipping, orders must be placed by 10am PST on February 12, 2017. For CAN Ground Shipping, orders must be placed by 10am PST on February 3, 2017. Delivery dates and timeframes are estimated and not guaranteed. Offer not valid on previous purchases. Offer not transferable or interchangeable. Exceptions will not be granted. Terms subject to change.
+</p>
+
+<p><a class="black-btn" href="i-m-yours-valentine-s-day-duo-launch.html">Shop Now</a></p></div>
 
 <!-- Modal Data - End -->        </div>
     </div>
@@ -321,6 +456,7 @@ window.onload = replaceVideo;
                     <a href="https://join.beautycounter.com/Locate" class="links-a">Find a Consultant</a>
         <a href="http://www.beautycounter.com/join/" class="links-a">Become a Consultant</a>
     </div>
+<input type="hidden" name="current_store_id" id="current_store_id" value="1">
 <!--/{BC_CONSULTANT_ATTRIBUTION_HEADER_b51e6322f9beb042459ed23a135ab5ab}-->        </div>
         <div class="site-utility">
             <a href="#top-search" class="toggle-search desktop-only"></a>
@@ -449,7 +585,7 @@ window.onload = replaceVideo;
             <div class="nav-container">
                 <div class="nav-wrapper">
                     <div class="nav-inner store">
-                        <form id="search_mini_form_mobile" action="http://www.beautycounter.com/catalogsearch/result/" method="get">
+                        <!--{BC_CONSULTANT_ATTRIBUTION_HEADER_f51afab6c633fac094535b66cb21751c}--><!--/{BC_CONSULTANT_ATTRIBUTION_HEADER_f51afab6c633fac094535b66cb21751c}--><form id="search_mini_form_mobile" action="http://www.beautycounter.com/catalogsearch/result/" method="get">
     <div class="form-search">
         <button id="search-submit-btn" type="submit" title="Search" class="button"></button>
         <input id="search_mobile" type="text" name="q" value="" class="input-text" maxlength="128" placeholder="What are you looking for?">
@@ -464,12 +600,13 @@ window.onload = replaceVideo;
 </form>
 <div class="search-overwall"></div><!--{TOPMENU_62883418369025f051859d4b102a659f}--><div class="nav-container">
     <ul class="nav">
-        <li class="level0 nav-1 first level-top parent"><a href="http://www.beautycounter.com/skin-care.html" class="level-top"><span>Skin Care</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-1-1 first"><a href="http://www.beautycounter.com/skin-care/cleansers-exfoliators.html"><span>Cleansers &amp; Toners</span></a></li><li class="level1 nav-1-2"><a href="http://www.beautycounter.com/skin-care/skin-prep.html"><span>Skin Prep</span></a></li><li class="level1 nav-1-3"><a href="http://www.beautycounter.com/skin-care/moisturizers.html"><span>Moisturizers</span></a></li><li class="level1 nav-1-4"><a href="http://www.beautycounter.com/skin-care/oils.html"><span>Face Oils &amp; Serums</span></a></li><li class="level1 nav-1-5"><a href="http://www.beautycounter.com/skin-care/eyes.html"><span>Eye Care</span></a></li><li class="level1 nav-1-6"><a href="http://www.beautycounter.com/skin-care/sunscreen.html"><span>Sun Protection</span></a></li><li class="level1 nav-1-7"><a href="http://www.beautycounter.com/skin-care/lip-care.html"><span>Lip Care</span></a></li><li class="level1 nav-1-8 last parent"><a href="http://www.beautycounter.com/skin-care/shop-by-sets.html"><span>Collections</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/skin-care.html">View All</a></li></ul></div></li><li class="level0 nav-2 level-top parent"><a href="http://www.beautycounter.com/cosmetics.html" class="level-top"><span>Makeup</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-2-1 first"><a href="http://www.beautycounter.com/cosmetics/face.html"><span>Face</span></a></li><li class="level1 nav-2-2"><a href="http://www.beautycounter.com/cosmetics/eyes.html"><span>Eyes</span></a></li><li class="level1 nav-2-3"><a href="http://www.beautycounter.com/cosmetics/lips.html"><span>Lips</span></a></li><li class="level1 nav-2-4"><a href="http://www.beautycounter.com/cosmetics/makeup-removers.html"><span>Makeup Removers</span></a></li><li class="level1 nav-2-5"><a href="http://www.beautycounter.com/cosmetics/brushes-bags.html"><span>Brushes &amp; Bags</span></a></li><li class="level1 nav-2-6 last"><a href="http://www.beautycounter.com/cosmetics/collections.html"><span>Collections</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/cosmetics.html">View All</a></li></ul></div></li><li class="level0 nav-3 level-top parent"><a href="http://www.beautycounter.com/body-hair.html" class="level-top"><span>Bath &amp; Body</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-3-1 first"><a href="http://www.beautycounter.com/body-hair/moisturizers.html"><span>Moisturizers</span></a></li><li class="level1 nav-3-2"><a href="http://www.beautycounter.com/body-hair/body-wash-scrubs.html"><span>Body Wash &amp; Scrubs</span></a></li><li class="level1 nav-3-3"><a href="http://www.beautycounter.com/body-hair/hair-care.html"><span>Hair Care</span></a></li><li class="level1 nav-3-4"><a href="http://www.beautycounter.com/body-hair/sunscreen.html"><span>Sun Protection</span></a></li><li class="level1 nav-3-5"><a href="http://www.beautycounter.com/body-hair/hands.html"><span>Hand Care</span></a></li><li class="level1 nav-3-6 last parent"><a href="http://www.beautycounter.com/body-hair/shop-by-sets.html"><span>Collections</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/body-hair.html">View All</a></li></ul></div></li><li class="level0 nav-4 level-top parent"><a href="http://www.beautycounter.com/kids.html" class="level-top"><span>Family</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-4-1 first"><a href="http://www.beautycounter.com/kids/baby.html"><span>Baby</span></a></li><li class="level1 nav-4-2"><a href="http://www.beautycounter.com/kids/kids.html"><span>Kids</span></a></li><li class="level1 nav-4-3 last"><a href="http://www.beautycounter.com/kids/collections.html"><span>Collections</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/kids.html">View All</a></li></ul></div></li><li class="level0 nav-5 level-top parent"><a href="http://www.beautycounter.com/holiday.html" class="level-top"><span>Holiday Gifts</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-5-1 first"><a href="http://www.beautycounter.com/holiday/gift-sets.html"><span>Gift Sets</span></a></li><li class="level1 nav-5-2"><a href="http://www.beautycounter.com/holiday/for-her.html"><span> For Her </span></a></li><li class="level1 nav-5-3"><a href="http://www.beautycounter.com/holiday/for-him.html"><span>For Him</span></a></li><li class="level1 nav-5-4"><a href="http://www.beautycounter.com/holiday/for-everyone.html"><span>For Everyone</span></a></li><li class="level1 nav-5-5"><a href="http://www.beautycounter.com/holiday/for-kids-babies.html"><span> For Kids &amp; Babies</span></a></li><li class="level1 nav-5-6"><a href="http://www.beautycounter.com/holiday/35-under.html"><span>$35 &amp; under</span></a></li><li class="level1 nav-5-7"><a href="http://www.beautycounter.com/holiday/under-50.html"><span>Under $50</span></a></li><li class="level1 nav-5-8"><a href="http://www.beautycounter.com/holiday/under-75.html"><span>Under $75</span></a></li><li class="level1 nav-5-9 last"><a href="http://www.beautycounter.com/holiday/under-110.html"><span>Under $110</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/holiday.html">View All</a></li></ul></div></li><li class="level0 nav-6 last level-top parent"><a href="http://www.beautycounter.com/our-story" class="level-top"><span>Our Story</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-6-1 first"><a href="http://www.beautycounter.com/our-story/our-story"><span>Our Founder</span></a></li><li class="level1 nav-6-2"><a href="http://www.beautycounter.com/our-story/our-story#ourmission"><span>Our Safety Mission</span></a></li><li class="level1 nav-6-3"><a href="http://www.beautycounter.com/our-story/ingredient-glossary"><span>Ingredients Glossary</span></a></li><li class="level1 nav-6-4"><a href="http://www.beautycounter.com/our-story/press"><span>Press</span></a></li><li class="level1 nav-6-5"><a href="http://www.beautycounter.com/our-story/events"><span>Events</span></a></li><li class="level1 nav-6-6 last"><a href="http://www.beautycounter.com/our-story/careers"><span>Careers</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/our-story">View All</a></li></ul></div></li>    </ul>
+        <li class="level0 nav-1 first level-top parent"><a href="http://www.beautycounter.com/skin-care.html" class="level-top"><span>Skin Care</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-1-1 first"><a href="http://www.beautycounter.com/skin-care/beautycounterplus.html"><span>Beautycounter+</span></a></li><li class="level1 nav-1-2"><a href="http://www.beautycounter.com/skin-care/cleansers-exfoliators.html"><span>Cleansers</span></a></li><li class="level1 nav-1-3"><a href="http://www.beautycounter.com/skin-care/toners-mists.html"><span>Toners &amp; Mists </span></a></li><li class="level1 nav-1-4"><a href="http://www.beautycounter.com/skin-care/masks.html"><span>Masks</span></a></li><li class="level1 nav-1-5"><a href="http://www.beautycounter.com/skin-care/moisturizers.html"><span>Moisturizers</span></a></li><li class="level1 nav-1-6"><a href="http://www.beautycounter.com/skin-care/oils.html"><span>Face Oils &amp; Serums</span></a></li><li class="level1 nav-1-7"><a href="http://www.beautycounter.com/skin-care/eye-lip-care.html"><span>Eye &amp; Lip Care </span></a></li><li class="level1 nav-1-8"><a href="http://www.beautycounter.com/skin-care/sunscreen.html"><span>Sun Protection</span></a></li><li class="level1 nav-1-9 last parent"><a href="http://www.beautycounter.com/skin-care/shop-by-sets.html"><span>Sets &amp; Collections </span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/skin-care.html">View All</a></li></ul></div></li><li class="level0 nav-2 level-top parent"><a href="http://www.beautycounter.com/cosmetics.html" class="level-top"><span>Makeup</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-2-1 first"><a href="http://www.beautycounter.com/cosmetics/face.html"><span>Face</span></a></li><li class="level1 nav-2-2"><a href="http://www.beautycounter.com/cosmetics/eyes.html"><span>Eyes</span></a></li><li class="level1 nav-2-3"><a href="http://www.beautycounter.com/cosmetics/lips.html"><span>Lips</span></a></li><li class="level1 nav-2-4"><a href="http://www.beautycounter.com/cosmetics/makeup-removers.html"><span>Makeup Removers</span></a></li><li class="level1 nav-2-5"><a href="http://www.beautycounter.com/cosmetics/brushes-bags.html"><span>Brushes &amp; Bags</span></a></li><li class="level1 nav-2-6 last"><a href="http://www.beautycounter.com/cosmetics/collections.html"><span>Collections</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/cosmetics.html">View All</a></li></ul></div></li><li class="level0 nav-3 level-top parent"><a href="http://www.beautycounter.com/body-hair.html" class="level-top"><span>Bath &amp; Body</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-3-1 first"><a href="http://www.beautycounter.com/body-hair/moisturizers.html"><span>Moisturizers</span></a></li><li class="level1 nav-3-2"><a href="http://www.beautycounter.com/body-hair/body-wash-scrubs.html"><span>Body Wash &amp; Scrubs</span></a></li><li class="level1 nav-3-3"><a href="http://www.beautycounter.com/body-hair/hair-care.html"><span>Hair Care</span></a></li><li class="level1 nav-3-4"><a href="http://www.beautycounter.com/body-hair/sunscreen.html"><span>Sun Protection</span></a></li><li class="level1 nav-3-5"><a href="http://www.beautycounter.com/body-hair/hands.html"><span>Hand Care</span></a></li><li class="level1 nav-3-6 last parent"><a href="http://www.beautycounter.com/body-hair/shop-by-sets.html"><span>Collections</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/body-hair.html">View All</a></li></ul></div></li><li class="level0 nav-4 level-top parent"><a href="http://www.beautycounter.com/kids.html" class="level-top"><span>Family</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-4-1 first"><a href="http://www.beautycounter.com/kids/baby.html"><span>Baby</span></a></li><li class="level1 nav-4-2"><a href="http://www.beautycounter.com/kids/kids.html"><span>Kids</span></a></li><li class="level1 nav-4-3 last"><a href="http://www.beautycounter.com/kids/collections.html"><span>Collections</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/kids.html">View All</a></li></ul></div></li><li class="level0 nav-5 level-top parent"><a href="http://www.beautycounter.com/best-sellers.html" class="level-top"><span>Best Sellers</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-5-1 first last"><a href="http://www.beautycounter.com/best-sellers/bestsellers.html"><span>Best Sellers</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/best-sellers.html">View All</a></li></ul></div></li><li class="level0 nav-6 last level-top parent"><a href="http://www.beautycounter.com/our-story" class="level-top"><span>Our Story</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-6-1 first"><a href="http://www.beautycounter.com/our-story/our-story"><span>Our Founder</span></a></li><li class="level1 nav-6-2"><a href="http://www.beautycounter.com/our-story/our-story#ourmission"><span>Our Safety Mission</span></a></li><li class="level1 nav-6-3"><a href="http://www.beautycounter.com/our-story/ingredient-glossary"><span>Ingredients Glossary</span></a></li><li class="level1 nav-6-4"><a href="http://www.beautycounter.com/our-story/events"><span>Events</span></a></li><li class="level1 nav-6-5 last"><a href="http://www.beautycounter.com/our-story/careers"><span>Careers</span></a></li><li class="level1 view-all"><a href="http://www.beautycounter.com/our-story">View All</a></li></ul></div></li>    </ul>
 </div>
 <!--/{TOPMENU_62883418369025f051859d4b102a659f}--><!--{BC_CONSULTANT_ATTRIBUTION_HEADER_b51e6322f9beb042459ed23a135ab5ab}--><div class="consultant-attribution-wrapper">
                     <a href="https://join.beautycounter.com/Locate" class="links-a">Find a Consultant</a>
         <a href="http://www.beautycounter.com/join/" class="links-a">Become a Consultant</a>
     </div>
+<input type="hidden" name="current_store_id" id="current_store_id" value="1">
 <!--/{BC_CONSULTANT_ATTRIBUTION_HEADER_b51e6322f9beb042459ed23a135ab5ab}--><ul class="links">
                         <li class="first last"><a href="https://www.beautycounter.com/customer/account/" title="Sign In">Sign In</a></li>
             </ul>
@@ -494,7 +631,7 @@ window.onload = replaceVideo;
                 </li>
                         <ul>
     </ul></ul></div>
-</div><!--{BC_CONSULTANT_ATTRIBUTION_HEADER_f51afab6c633fac094535b66cb21751c}--><!--/{BC_CONSULTANT_ATTRIBUTION_HEADER_f51afab6c633fac094535b66cb21751c}-->                    </div>
+</div>                    </div>
                 </div>
                 <div class="nav-overwall mobile-only"></div>
             </div>
@@ -507,15 +644,7 @@ window.onload = replaceVideo;
 </div>
 <div class="top-container-wrapper">
     </div>
-        <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->                <div class="baby-masthead">
-<div class="baby-mobile"><img src="http://cdn.beautycounter.com/media/wysiwyg/masthead.jpg" alt="Beautycounter.com | Baby Shop"></div>
-<div class="baby-tablet"><img src="" data-1x="http://cdn.beautycounter.com/media/wysiwyg/masthead-tablet.jpg" data-2x="http://cdn.beautycounter.com/media/wysiwyg/masthead-tablet.jpg" alt="Beautycounter.com | Baby Shop"></div>
-<div class="baby-desktop"><img src="" data-1x="http://cdn.beautycounter.com/media/wysiwyg/masthead-desktop.jpg" data-2x="http://cdn.beautycounter.com/media/wysiwyg/masthead-desktop.jpg" alt="Beautycounter.com | Baby Shop"></div>
-<div class="baby-header-overlay">
-   <h3>baby has <em>arrived</em></h3>
-   <p>The collection designed for newborns and beyond. Simple, fewer ingredients from the start.</p>
-</div>
-</div>        <div class="main col1-layout">
+        <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->                        <div class="main col1-layout">
             <div class="col-main">
                 <div class="ampromo-notification" style="display:none;">
     <h2 class="promo-title modern-regular"><span>
@@ -579,49 +708,39 @@ Santa Monica, California 90404</p>
 	<li><a href="http://www.beautycounter.com/kids.html">Family</a></li>
 </ul>            </div>
             <div class="col column-links collapsable-tablet">
-                <ul>
-	<li><a href="http://www.beautycounter.com/our-story/">Our Story</a></li>
-	<li><a href="http://www.beautycounter.com/our-story/#ourfounder">Our Founder</a></li>
-	<li><a href="http://www.beautycounter.com/our-story/#ourmission">Our Safety Mission</a></li>
-	<li><a href="http://www.beautycounter.com/ingredient-glossary/">Ingredients</a></li>
-	<li><a href="http://www.beautycounter.com/the-never-list/">The Never List</a></li>
-	<li><a href="http://www.beautycounter.com/our-team/">Team</a></li>
-	<li><a href="http://www.beautycounter.com/press/">Press</a></li>
-	<li><a href="http://www.beautycounter.com/events/">Events</a></li>
-	<li><a href="http://www.beautycounter.com/careers/">Careers</a></li>
-	<li><a href="http://www.beautycounter.com/know-everything/">The Asterisk Blog</a></li>
-	<li><a href="http://www.beautycounter.com/target">Target</a></li>
-	<li><a href="http://www.beautycounter.com/pop-up-nantucket/">Pop Up Shop</a></li>
-</ul>
-<style>
-/* target promos broke on checkout */
-.amcarousel #ampromo-carousel-content {
-    width: auto;
-    height: auto;
-}
-#magento-facade h1.leads{
-    z-index: 1;
-}
-.our-team-wrapper .team-wrapper .page-title{
-    display: none;
-}
-.checkout-cart-index .item-msg.error{
-    color: red;
-    font-weight: bold;
-    letter-spacing: 1px;
-}
+                <ul> 
+<li><a href="http://www.beautycounter.com/our-story/">Our Story</a></li> 
+<li><a href="http://www.beautycounter.com/our-story/#ourfounder">Our Founder</a></li> 
+<li><a href="http://www.beautycounter.com/our-story/#ourmission">Our Safety Mission</a></li> 
+<li><a href="http://www.beautycounter.com/ingredient-glossary/">Ingredients</a></li> 
+<li><a href="http://www.beautycounter.com/the-never-list/">The Never List™</a></li>
+<li><a href="http://www.beautycounter.com/transparency/">Transparency</a></li>
+<li><a href="http://www.beautycounter.com/our-team/">Team</a></li>  
+<li><a href="http://www.beautycounter.com/events/">Events</a></li> 
+<li><a href="http://www.beautycounter.com/careers/">Careers</a></li> 
+<li><a href="http://www.beautycounter.com/know-everything/">The Asterisk Blog</a></li> 
+<li><a href="http://www.beautycounter.com/target/">Target</a></li> 
+<li><a href="http://www.beautycounter.com/pop-up-nantucket/">Pop Up Shop</a></li> 
+</ul> 
+<style> 
+#magento-facade h1.leads{ 
+    z-index: 1; 
+} 
+.our-team-wrapper .team-wrapper .page-title{ 
+    display: none; 
+} 
 
-</style>
-<script type="text/javascript">
-	var neverlistheader = '<li class="level0 last-before level-top never-list-nav"><a href="http://www.beautycounter.com/the-never-list/" class="level-top"><span>The Never List</span></a></li>';
-	var betterbeautyheader = '<li class="level0 last-after level-top blog-nav"><a href="http://www.beautycounter.com/know-everything/" class="level-top"><span>The Asterisk Blog</span></a></li>';
-	var seasonalshopheader = '<li class="level0 level-top parent seasonal-nav"><a href="javascript:void(0)" class="level-top"><span>Seasonal Shops</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-5-1 first"><a href="http://www.beautycounter.com/baby-shop/"><span>Baby Shop</span></a></li></ul></div></li>';
-	var ourstorynav = jQuery('.nav .level0.last');
-	if(ourstorynav.length){
-		jQuery(neverlistheader).insertBefore(ourstorynav);
-		//jQuery(seasonalshopheader).insertBefore(jQuery('.nav .last-before'));
-		jQuery(betterbeautyheader).insertAfter(ourstorynav);
-	}
+</style> 
+<script type="text/javascript"> 
+var neverlistheader = '<li class="level0 last-before level-top never-list-nav"><a href="http://www.beautycounter.com/the-never-list/" class="level-top"><span>The Never List&trade;</span></a></li>'; 
+var betterbeautyheader = '<li class="level0 last-after level-top blog-nav"><a href="http://www.beautycounter.com/know-everything/" class="level-top"><span>The Asterisk Blog</span></a></li>'; 
+var seasonalshopheader = '<li class="level0 level-top parent seasonal-nav"><a href="javascript:void(0)" class="level-top"><span>Seasonal Shops</span></a><div class="sub-container"><ul class="level0"><li class="level1 nav-5-1 first"><a href="http://www.beautycounter.com/baby-shop/"><span>Baby Shop</span></a></li></ul></div></li>'; 
+var ourstorynav = jQuery('.nav .level0.last'); 
+if(ourstorynav.length){ 
+jQuery(neverlistheader).insertBefore(ourstorynav); 
+//jQuery(seasonalshopheader).insertBefore(jQuery('.nav .last-before')); 
+jQuery(betterbeautyheader).insertAfter(ourstorynav); 
+} 
 </script>            </div>
             <div class="col column-links collapsable-phone">
                 <ul>
@@ -670,7 +789,7 @@ Santa Monica, California 90404</p>
         <div class="form-subscribe">
         <div class="field-row">
             <div class="v-fix">
-                <input name="email" type="text" id="newsletter" placeholder="Subscribe with your email" class="input-text required-entry validate-email">
+                <input name="add_me_to_bc" type="text" id="newsletter" placeholder="Subscribe with your email" class="input-text required-entry validate-email">
             </div>
             <button id="btn-newsletter" type="button" class="button btn-newsletter" title="Sign Up">Sign Up<span class="fa fa-angle-right"></span></button>
         </div>
@@ -721,7 +840,7 @@ Santa Monica, California 90404</p>
         </div>
         <div class="footer-bottom cf">
             <div class="copyright">
-                <p>© 2016 COUNTERBRANDS LLC. ALL RIGHTS RESERVED. </p><a href="/terms-of-use">TERMS OF USE</a><a href="/privacy-policy">PRIVACY POLICY</a>            </div>
+                <p>© 2017 COUNTERBRANDS LLC. ALL RIGHTS RESERVED. </p><a href="/terms-of-use">TERMS OF USE</a><a href="/privacy-policy">PRIVACY POLICY</a>            </div>
         </div>
     </div>
 </div>
@@ -753,7 +872,7 @@ Santa Monica, California 90404</p>
         <div class="form-subscribe">
         <div class="field-row">
             <div class="v-fix">
-                <input name="email" type="text" id="newsletter_modal" placeholder="Subscribe with your email" class="input-text required-entry validate-email">
+                <input name="add_me_to_bc" type="text" id="newsletter_modal" placeholder="Subscribe with your email" class="input-text required-entry validate-email">
             </div>
             <button id="btn-newsletter_modal" type="button" class="button btn-newsletter" title="Sign Up">Sign Up<span class="fa fa-angle-right"></span></button>
         </div>
@@ -804,7 +923,7 @@ Santa Monica, California 90404</p>
 
     <script type="text/javascript">
 
-        var pageLoads = 3;
+        var pageLoads = 10;
 
         jQuery.bc.newsletter.newsletterCookie('bcNewsletterSplash', pageLoads, 30, false, true);
 
@@ -820,6 +939,6 @@ Santa Monica, California 90404</p>
 
 
 <!--{WISHLISTS_d6769d83192e1c77ec5198ac3fec7a63}--><!--/{WISHLISTS_d6769d83192e1c77ec5198ac3fec7a63}--></div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bca62b8798","applicationID":"5294230","transactionName":"M1JaYkcAXBYEWkNbCwoYeVVBCF0LSlpaQUsUVl9TGhdbABI=","queueTime":0,"applicationTime":356,"atts":"HxVZFA8aTxg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bca62b8798","applicationID":"5294230","transactionName":"M1JaYkcAXBYEWkNbCwoYeVVBCF0LSlpaQUsUVl9TGhdbABI=","queueTime":0,"applicationTime":515,"atts":"HxVZFA8aTxg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
