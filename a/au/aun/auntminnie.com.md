@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407000052id_/http%3A//privacy.auntminnie.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131514id_/http%3A//privacy.auntminnie.com/%3Fwf%3D7008) for the most accurate reproduction.*
 
 # Radiology, News, Education, Service
 
@@ -30,7 +30,8 @@ We may also use cookies on our site. Cookies are small pieces of information sto
 
 If you send us correspondence, such as emails or letters, or if other users or third parties send us correspondence about your use of our services, we may collect such information into a file specific to you. We use information in the file we maintain about you, and other information we obtain from your current and past use of the service, to resolve disputes, troubleshoot problems and enforce our user agreement. 
 
-Your Email Address and Personalized Content If your registration form indicates that you want to receive email updates about AuntMinnie, as part of our service we may send to you periodic emails and newsletters containing information about us, updates on new product and service features, product and service usage tips, information about third party services that are likely to be of interest to our customers, and customer satisfaction questions. Right now, we think we will send these emails weekly. 
+Your Email Address and Personalized Content  
+If your registration form indicates that you want to receive email updates about AuntMinnie, as part of our service we may send to you periodic emails and newsletters containing information about us, updates on new product and service features, product and service usage tips, information about third party services that are likely to be of interest to our customers, and customer satisfaction questions. Right now, we think we will send these emails weekly. 
 
 If your registration form indicates that you want AuntMinnie to share your name with advertisers, or if you otherwise expressly indicate to us that you would like to receive information about products and services from third parties, we may disclose your name and email address to these parties. 
 
