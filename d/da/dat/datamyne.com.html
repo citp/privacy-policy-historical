@@ -1,30 +1,31 @@
-<!--The following is the downloaded HTML source of the datamyne.com privacy policy that was archived on 2016-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161128163447id_/http%3A//www.datamyne.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the datamyne.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606081343id_/http%3A//www.datamyne.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
 		<title>Privacy Policy | Datamyne</title>
 		<meta charset="UTF-8">
-	  	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYBVFNSGwcDV1JWDwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=s(n,"nr@wrapped",function(){return c(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&c.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,x.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,x=document.createTextNode(w);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],c])}f(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],c),l}finally{f(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<n.length;s++)c=n[s],a=t[c],r(a)||(t[c]=e(a,f?c+o:o,i,c))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",c=t("gos"),s=t(12),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!w++){var t=g.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(v,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;g.proto=n?"https://":"http://",c("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=g.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var m=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},y=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:m,features:{},xhrWrappable:y};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader",2,7]);</script>
+	  	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYBVFNSGwcDV1JWDwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="alexaVerifyID" content="X2SAYjFQ2GBr0ab_PRbgN_UUUDU">		
+        <meta name="alexaVerifyID" content="X2SAYjFQ2GBr0ab_PRbgN_UUUDU">	
+        <meta name="msvalidate.01" content="E0EE97C83D6670C405657F2143C1B5F1">	
 		<link rel="pingback" href="http://www.datamyne.com/multisite/xmlrpc.php">
 		<link rel="shortcut icon" href="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/images/favicon.ico">
 		<!-- CSS -->		
 		<link rel="stylesheet" type="text/css" media="all" href="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/style.css">
 		<!-- IE Compat -->
-		<!--[if IE]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+		<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 		<!-- IE --><!--[if lte IE 9]><link rel="stylesheet" href="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/css/ie.css" type="text/css" media="screen" /><![endif]-->
 		<!--[if IE 7]><link rel="stylesheet" href="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/css/ie7.css" type="text/css" media="screen" /><![endif]-->
 		<!--[if IE 8]><link rel="stylesheet" href="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/css/ie8.css" type="text/css" media="screen" /><![endif]-->
-		<!-- JM Twitter Cards by Julien Maury 7.6.0 -->
+		<!-- JM Twitter Cards by Julien Maury 7.9 -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:creator" content="@">
 <meta name="twitter:site" content="@datamyne">
 <meta name="twitter:title" content="Privacy Policy">
 <meta name="twitter:description" content="DATAMYNE INC. PRIVACY POLICYThis Privacy Policy (the&nbsp;Privacy Policy) applies to information collected by Datamyne Inc. (Datamyne) through or in connection with the operation of Datamyne’s website">
-<!-- /JM Twitter Cards by Julien Maury 7.6.0 -->
+<!-- /JM Twitter Cards by Julien Maury 7.9 -->
 
-<!-- This site is optimized with the Yoast SEO plugin v3.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.datamyne.com/privacy-policy/">
 <link rel="publisher" href="https://plus.google.com/+Datamyne">
 <meta property="og:locale" content="en_US">
@@ -42,13 +43,12 @@
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//fast.fonts.net">
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Datamyne » Privacy Policy Comments Feed" href="http://www.datamyne.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.datamyne.com\/multisite\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.datamyne.com/multisite/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.datamyne.com\/multisite\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.datamyne.com/multisite/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -63,28 +63,37 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="imgmap_style-css" href="http://www.datamyne.com/multisite/wp-content/plugins/imagemapper/imgmap_style.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="bwg_frontend-css" href="http://www.datamyne.com/multisite/wp-content/plugins/photo-gallery/css/bwg_frontend.css?ver=1.3.18" type="text/css" media="all">
-<link rel="stylesheet" id="bwg_sumoselect-css" href="http://www.datamyne.com/multisite/wp-content/plugins/photo-gallery/css/sumoselect.css?ver=1.3.18" type="text/css" media="all">
-<link rel="stylesheet" id="bwg_font-awesome-css" href="http://www.datamyne.com/multisite/wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css?ver=4.6.3" type="text/css" media="all">
-<link rel="stylesheet" id="bwg_mCustomScrollbar-css" href="http://www.datamyne.com/multisite/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css?ver=1.3.18" type="text/css" media="all">
-<link rel="stylesheet" id="bwg_googlefonts_0-css" href="https://fonts.googleapis.com/css?family=ABeeZee|Abel|Abril+Fatface|Aclonica|Acme|Actor|Adamina|Advent+Pro|Aguafina+Script|Akronim|Aladin|Aldrich|Alef|Alegreya|Alegreya+SC|Alegreya+Sans|Alex+Brush|Alfa+Slab+One|Alice|Alike|Alike+Angular|Allan|Allerta|Allerta+Stencil|Allura|Almendra|Almendra+Display|Almendra+SC|Amarante|Amaranth|Amatic+SC|Amethysta|Amiri|Amita|Anaheim|Andada|Andika|Angkor|Annie+Use+Your+Telescope|Anonymous+Pro|Antic|Antic+Didone|Antic+Slab|Anton|Arapey|Arbutus|Arbutus+Slab|Architects+Daughter|Archivo+Black|Archivo+Narrow|Arimo|Arizonia|Armata|Artifika|Arvo|Arya|Asap|Asar|Asset|Astloch|Asul|Atomic+Age|Aubrey|Audiowide|Autour+One|Average|Average+Sans|Averia+Gruesa+Libre|Averia+Libre|Averia+Sans+Libre|Averia+Serif+Libre|Bad+Script|Balthazar|Bangers|Basic|Battambang|Baumans|Bayon|Belgrano|BenchNine|Bentham|Berkshire+Swash|Bevan|Bigelow+Rules|Bigshot+One|Bilbo|Bilbo+Swash+Caps|Biryani|Bitter|Black+Ops+One|Bokor|Bonbon|Boogaloo|Bowlby+One|Bowlby+One+SC|Brawler|Bree+Serif|Bubblegum+Sans|Bubbler+One|Buda|Buda+Light+300|Buenard|Butcherman|Butterfly+Kids|Cabin|Cabin+Condensed|Cabin+Sketch|Caesar+Dressing|Cagliostro|Calligraffitti|Cambay|Cambo|Candal|Cantarell|Cantata+One|Cantora+One|Capriola|Cardo|Carme|Carrois+Gothic|Carrois+Gothic+SC|Carter+One|Caudex|Caveat+Brush|Cedarville+Cursive|Ceviche+One|Changa+One|Chango|Chau+Philomene+One|Chela+One|Chelsea+Market|Chenla|Cherry+Cream+Soda|Chewy|Chicle|Chivo|Chonburi|Cinzel|Cinzel+Decorative|Clicker+Script|Coda|Coda+Caption|Codystar|Combo|Comfortaa|Coming+Soon|Concert+One|Condiment|Content|Contrail+One&amp;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic" type="text/css" media="all">
-<link rel="stylesheet" id="bwg_googlefonts_150-css" href="https://fonts.googleapis.com/css?family=Convergence|Cookie|Copse|Corben|Courgette|Cousine|Coustard|Covered+By+Your+Grace|Crafty+Girls|Creepster|Crete+Round|Crimson+Text|Croissant+One|Crushed|Cuprum|Cutive|Cutive+Mono|Damion|Dancing+Script|Dangrek|Dawning+of+a+New+Day|Days+One|Dekko|Delius|Delius+Swash+Caps|Delius+Unicase|Della+Respira|Denk+One|Devonshire|Dhurjati|Didact+Gothic|Diplomata|Diplomata+SC|Domine|Donegal+One|Doppio+One|Dorsa|Dosis|Dr+Sugiyama|Droid+Sans|Droid+Sans+Mono|Droid+Serif|Duru+Sans|Dynalight|EB+Garamond|Eagle+Lake|Eater|Economica|Eczar|Ek+Mukta|Electrolize|Elsie|Elsie+Swash+Caps|Emblema+One|Emilys+Candy|Engagement|Englebert|Enriqueta|Erica+One|Esteban|Euphoria+Script|Ewert|Exo|Exo+2|Expletus+Sans|Fanwood+Text|Fascinate|Fascinate+Inline|Faster+One|Fasthand|Fauna+One|Federant|Federo|Felipa|Fenix|Finger+Paint|Fira+Mono|Fjalla+One|Fjord+One|Flamenco|Flavors|Fondamento|Fontdiner+Swanky|Forum|Francois+One|Freckle+Face|Fredericka+the+Great|Fredoka+One|Freehand|Fresca|Frijole|Fruktur|Fugaz+One|GFS+Didot|GFS+Neohellenic|Gabriela|Gafata|Galdeano|Galindo|Gentium+Basic|Gentium+Book+Basic|Geo|Geostar|Geostar+Fill|Germania+One|Gidugu|Gilda+Display|Give+You+Glory|Glass+Antiqua|Glegoo|Gloria+Hallelujah|Goblin+One|Gochi+Hand|Gorditas|Goudy+Bookletter+1911|Graduate|Grand+Hotel|Gravitas+One|Great+Vibes|Griffy|Gruppo|Gudea|Gurajada|Habibi|Halant|Hammersmith+One|Hanalei|Hanalei+Fill|Handlee|Hanuman|Happy+Monkey|Headland+One|Henny+Penny|Herr+Von+Muellerhoff|Hind|Holtwood+One+SC|Homemade+Apple|Homenaje|IM+Fell+DW+Pica|IM+Fell+DW+Pica+SC|IM+Fell+Double+Pica|IM+Fell+Double+Pica+SC|IM+Fell+English|IM+Fell+English+SC|IM+Fell+French+Canon|IM+Fell+French+Canon+SC|IM+Fell+Great+Primer|IM+Fell+Great+Primer+SC|Iceberg|Iceland&amp;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic" type="text/css" media="all">
-<link rel="stylesheet" id="bwg_googlefonts_300-css" href="https://fonts.googleapis.com/css?family=Imprima|Inconsolata|Inder|Indie+Flower|Inika|Inknut+Antiqua|Irish+Grover|Istok+Web|Italiana|Italianno|Itim|Jacques+Francois|Jacques+Francois+Shadow|Jaldi|Jim+Nightshade|Jockey+One|Jolly+Lodger|Josefin+Sans|Josefin+Slab|Joti+One|Judson|Julee|Julius+Sans+One|Junge|Jura|Just+Another+Hand|Just+Me+Again+Down+Here|Kadwa|Kameron|Kanit|Karla|Kaushan+Script|Kavoon|Keania+One|Kelly+Slab|Kenia|Khand|Khmer|Khula|Kite+One|Knewave|Kotta+One|Koulen|Kranky|Kreon|Kristi|Krona+One|Kurale|La+Belle+Aurore|Laila|Lakki+Reddy|Lancelot|Lateef|Lato|League+Script|Leckerli+One|Ledger|Lekton|Lemon|Libre+Baskerville|Life+Savers|Lilita+One|Lily+Script+One|Limelight|Linden+Hill|Lobster|Lobster+Two|Londrina+Outline|Londrina+Shadow|Londrina+Sketch|Londrina+Solid|Lora|Love+Ya+Like+A+Sister|Loved+by+the+King|Lovers+Quarrel|Luckiest+Guy|Lusitana|Lustria|Macondo|Macondo+Swash+Caps|Magra|Maiden+Orange|Mako|Mandali|Marcellus|Marcellus+SC|Marck+Script|Margarine|Marko+One|Marmelad|Martel|Martel+Sans|Marvel|Mate|Mate+SC|Maven+Pro|McLaren|Meddon|MedievalSharp|Medula+One|Megrim|Meie+Script|Merienda|Merienda+One|Merriweather|Merriweather+Sans|Metal|Metal+Mania|Metamorphous|Metrophobic|Michroma|Milonga|Miltonian|Miltonian+Tattoo|Miniver|Miss+Fajardose|Modak|Modern+Antiqua|Molengo|Molle:400i|Monda|Monofett|Monoton|Monsieur+La+Doulaise|Montaga|Montez|Montserrat|Montserrat+Alternates|Montserrat+Subrayada|Moul|Moulpali|Mountains+of+Christmas|Mouse+Memoirs|Mr+Bedfort|Mr+Dafoe|Mr+De+Haviland|Mrs+Saint+Delafield|Mrs+Sheppards|Muli|Mystery+Quest|NTR|Neucha|Neuton|New+Rocker|News+Cycle|Niconne|Nixie+One|Nobile|Nokora|Norican&amp;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic" type="text/css" media="all">
-<link rel="stylesheet" id="bwg_googlefonts_450-css" href="https://fonts.googleapis.com/css?family=Nosifer|Nothing+You+Could+Do|Noticia+Text|Noto+Sans|Noto+Serif|Nova+Cut|Nova+Flat|Nova+Mono|Nova+Oval|Nova+Round|Nova+Script|Nova+Slim|Nova+Square|Numans|Nunito|Odor+Mean+Chey|Offside|Old+Standard+TT|Oldenburg|Oleo+Script|Oleo+Script+Swash+Caps|Open+Sans|Open+Sans+Condensed:300|Oranienbaum|Orbitron|Oregano|Orienta|Original+Surfer|Oswald|Over+the+Rainbow|Overlock|Overlock+SC|Ovo|Oxygen|Oxygen+Mono|PT+Mono|PT+Sans|PT+Sans+Caption|PT+Sans+Narrow|PT+Serif|PT+Serif+Caption|Pacifico|Palanquin|Palanquin+Dark|Paprika|Parisienne|Passero+One|Passion+One|Pathway+Gothic+One|Patrick+Hand|Patrick+Hand+SC|Patua+One|Paytone+One|Peddana|Peralta|Permanent+Marker|Petit+Formal+Script|Petrona|Philosopher|Piedra|Pinyon+Script|Pirata+One|Plaster|Play|Playball|Playfair+Display|Playfair+Display+SC|Podkova|Poiret+One|Poller+One|Poly|Pompiere|Pontano+Sans|Poppins|Port+Lligat+Sans|Port+Lligat+Slab|Pragati+Narrow|Prata|Preahvihear|Press+Start+2P|Princess+Sofia|Prociono|Prosto+One|Puritan|Purple+Purse|Quando|Quantico|Quattrocento|Quattrocento+Sans|Questrial|Quicksand|Quintessential|Qwigley|Racing+Sans+One|Radley|Rajdhani|Raleway|Raleway+Dots|Ramabhadra|Ramaraja|Rambla|Rammetto+One|Ranchers|Rancho|Ranga|Rationale|Ravi+Prakash|Redressed|Reenie+Beanie|Revalia|Rhodium+Libre|Ribeye|Ribeye+Marrow|Righteous|Risque|Roboto|Roboto+Condensed|Roboto+Mono|Roboto+Slab|Rochester|Rock+Salt|Rokkitt|Romanesco|Ropa+Sans|Rosario|Rosarivo|Rouge+Script|Rozha+One|Rubik|Rubik+Mono+One|Rubik+One|Ruda|Rufina|Ruge+Boogie|Ruluko|Rum+Raisin|Ruslan+Display|Russo+One|Ruthie|Rye|Sacramento|Sahitya|Sail|Salsa|Sanchez|Sancreek|Sansita+One|Sarina|Sarpanch|Satisfy&amp;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic" type="text/css" media="all">
-<link rel="stylesheet" id="bwg_googlefonts_600-css" href="https://fonts.googleapis.com/css?family=Scada|Schoolbell|Seaweed+Script|Sevillana|Seymour+One|Shadows+Into+Light|Shadows+Into+Light+Two|Shanti|Share|Share+Tech|Share+Tech+Mono|Shojumaru|Short+Stack|Siemreap|Sigmar+One|Signika|Signika+Negative|Simonetta|Sintony|Sirin+Stencil|Six+Caps|Skranji|Slabo+13px|Slackey|Smokum|Smythe|Sniglet|Snippet|Snowburst+One|Sofadi+One|Sofia|Sonsie+One|Sorts+Mill+Goudy|Source+Code+Pro|Source+Sans+Pro|Source+Serif+Pro|Special+Elite|Spicy+Rice|Spinnaker|Spirax|Squada+One|Sree+Krushnadevaraya|Stalemate|Stalinist+One|Stardos+Stencil|Stint+Ultra+Condensed|Stint+Ultra+Expanded|Stoke|Strait|Sue+Ellen+Francisco|Sumana|Sunshiney|Supermercado+One|Sura|Suranna|Suravaram|Suwannaphum|Swanky+and+Moo+Moo|Syncopate|Tangerine|Taprom|Tauri|Teko|Telex|Tenali+Ramakrishna|Tenor+Sans|Text+Me+One|The+Girl+Next+Door|Tienne|Tillana|Timmana|Tinos|Titan+One|Titillium+Web|Trade+Winds|Trocchi|Trochut|Trykker|Tulpen+One|Ubuntu|Ubuntu+Condensed|Ubuntu+Mono|Ultra|Uncial+Antiqua|Underdog|Unica+One|UnifrakturCook:700|UnifrakturMaguntia|Unkempt|Unlock|Unna|VT323|Vampiro+One|Varela|Varela+Round|Vast+Shadow|Vibur|Vidaloka|Viga|Voces|Volkhov|Vollkorn|Voltaire|Waiting+for+the+Sunrise|Wallpoet|Walter+Turncoat|Warnes|Wellfleet|Wendy+One|Wire+One|Work+Sans|Yanone+Kaffeesatz|Yantramanav|Yellowtail|Yeseva+One|Yesteryear|Zeyada&amp;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic" type="text/css" media="all">
-<link rel="stylesheet" id="smpl_shortcodes-css" href="http://www.datamyne.com/multisite/wp-content/plugins/smpl-shortcodes/assets/css/smpl-shortcodes.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="spu-public-css-css" href="http://www.datamyne.com/multisite/wp-content/plugins/popups/public/assets/css/public.css?ver=1.6.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="main_css-css" href="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/css/main-3.css?ver=1.0" type="text/css" media="screen">
+<link rel="stylesheet" id="imgmap_style-css" href="http://www.datamyne.com/multisite/wp-content/plugins/imagemapper/imgmap_style.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="smpl_shortcodes-css" href="http://www.datamyne.com/multisite/wp-content/plugins/smpl-shortcodes/assets/css/smpl-shortcodes.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="spu-public-css-css" href="http://www.datamyne.com/multisite/wp-content/plugins/popups/public/assets/css/public.css?ver=1.7.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="main_css-css" href="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/css/main-2.css?ver=1.0" type="text/css" media="screen">
 <link rel="stylesheet" id="responsive_css-css" href="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/css/responsive.css?ver=1.0" type="text/css" media="screen">
-<link rel="stylesheet" id="fb_css-css" href="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/fancybox/jquery.fancybox.css?v=2.1.2&amp;ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="fb_css-css" href="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/fancybox/jquery.fancybox.css?v=2.1.2&amp;ver=4.7.5" type="text/css" media="all">
 <link rel="stylesheet" id="slb_core-css" href="http://www.datamyne.com/multisite/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0" type="text/css" media="all">
-<link rel="stylesheet" id="cyclone-template-style-dark-0-css" href="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/dark/style.css?ver=2.12.4" type="text/css" media="all">
-<link rel="stylesheet" id="cyclone-template-style-default-0-css" href="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/default/style.css?ver=2.12.4" type="text/css" media="all">
-<link rel="stylesheet" id="cyclone-template-style-standard-0-css" href="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/standard/style.css?ver=2.12.4" type="text/css" media="all">
-<link rel="stylesheet" id="cyclone-template-style-thumbnails-0-css" href="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/thumbnails/style.css?ver=2.12.4" type="text/css" media="all">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.4 - Universal enabled - https://www.monsterinsights.com/ -->
-<script type="text/javascript">
+<link rel="stylesheet" id="tablepress-default-css" href="http://www.datamyne.com/multisite/wp-content/plugins/tablepress/css/default.min.css?ver=1.8" type="text/css" media="all">
+<link rel="stylesheet" id="cyclone-template-style-dark-0-css" href="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/dark/style.css?ver=2.13.0" type="text/css" media="all">
+<link rel="stylesheet" id="cyclone-template-style-default-0-css" href="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/default/style.css?ver=2.13.0" type="text/css" media="all">
+<link rel="stylesheet" id="cyclone-template-style-standard-0-css" href="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/standard/style.css?ver=2.13.0" type="text/css" media="all">
+<link rel="stylesheet" id="cyclone-template-style-thumbnails-0-css" href="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/thumbnails/style.css?ver=2.13.0" type="text/css" media="all">
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.1.11 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	var disableStr = 'ga-disable-UA-497097-1';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -94,66 +103,48 @@ img.emoji {
 	__gaTracker('set', 'forceSSL', true);
 	__gaTracker('require', 'displayfeatures');
 	__gaTracker('send','pageview');
-
 </script>
 <!-- / Google Analytics by MonsterInsights -->
 <script type="text/javascript" src="http://www.datamyne.com/multisite/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.datamyne.com/multisite/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var userSettings = {"url":"","uid":"0","time":"1480365903","secure":""};
+var userSettings = {"url":"","uid":"0","time":"1496755014","secure":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-includes/js/utils.min.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/imagemapper/script/jquery.imagemapster.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-includes/js/utils.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/imagemapper/script/jquery.imagemapster.min.js?ver=4.7.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var imgmap = {"ajaxurl":"http:\/\/www.datamyne.com\/multisite\/wp-admin\/admin-ajax.php","pulseOption":"never","admin_logged":"","alt_dialog":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/imagemapper/imagemapper_script.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/photo-gallery/js/bwg_frontend.js?ver=1.3.18"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var bwg_objectsL10n = {"bwg_select_tag":"Select Tag."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=1.3.18"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/photo-gallery/js/jquery.mobile.js?ver=1.3.18"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.3.18"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js?ver=0.4.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var bwg_objectL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/photo-gallery/js/bwg_gallery_box.js?ver=1.3.18"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/imagemapper/imagemapper_script.js?ver=4.7.5"></script>
 <script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/smpl-shortcodes/assets/js/smpl-shortcodes.js?ver=1"></script>
-<script type="text/javascript" src="http://fast.fonts.net/jsapi/10d5e023-de0b-49ad-974c-51c07a570c46.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/css3-mediaqueries.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/global.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/modernizr.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/modernizr.custom.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/dtmrespond.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/fancybox/jquery.fancybox.js?v=2.1.3&amp;ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/fancybox/helpers/jquery.fancybox-media.js?v=1.0.5&amp;ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/fancybox/fancybox-config.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/wp-image-zoooom/assets/js/jquery.image_zoom.min.js?ver=1.4"></script>
+<script type="text/javascript" src="http://fast.fonts.net/jsapi/10d5e023-de0b-49ad-974c-51c07a570c46.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/css3-mediaqueries.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/global.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/modernizr.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/modernizr.custom.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/dtmrespond.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/fancybox/jquery.fancybox.js?v=2.1.3&amp;ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/fancybox/helpers/jquery.fancybox-media.js?v=1.0.5&amp;ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/themes/datamyne-master/js/fancybox/fancybox-config.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/wp-image-zoooom/assets/js/jquery.image_zoom.min.js?ver=1.10"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var IZ = {"with_woocommerce":"0","exchange_thumbnails":"1","woo_categories":"0","lazy_load":"0","options":{"lensShape":"round","zoomType":"lens","lensSize":400,"borderSize":1,"borderColour":"#ffffff","cursor":"default","lensFadeIn":1,"lensFadeOut":1}};
+var IZ = {"with_woocommerce":"0","exchange_thumbnails":"1","woo_categories":"0","enable_mobile":"","options":{"lensShape":"round","zoomType":"lens","lensSize":400,"borderSize":1,"borderColour":"#ffffff","cursor":"default","lensFadeIn":1,"lensFadeOut":1},"woo_slider":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/wp-image-zoooom/assets/js/image_zoom-init.js?ver=1.4"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/wp-image-zoooom/assets/js/image_zoom-init.js?ver=1.10"></script>
 <link rel="https://api.w.org/" href="http://www.datamyne.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.datamyne.com/multisite/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.datamyne.com/multisite/wp-includes/wlwmanifest.xml"> 
-
 <link rel="shortlink" href="http://www.datamyne.com/?p=2663">
 <link rel="alternate" type="application/json+oembed" href="http://www.datamyne.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.datamyne.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.datamyne.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.datamyne.com%2Fprivacy-policy%2F&amp;format=xml">
 
-<!-- Bad Behavior 2.2.19 run time: 2.126 ms -->
+<!-- Bad Behavior 2.2.19 run time: 3.315 ms -->
 <script type="text/javascript">
 <!--
 function bb2_addLoadEvent(func) {
@@ -174,7 +165,7 @@ bb2_addLoadEvent(function() {
 			var myElement = document.createElement('input');
 			myElement.setAttribute('type', 'hidden');
 			myElement.name = 'bb2_screener_';
-			myElement.value = '1480365902 162.158.78.158 52.4.48.181';
+			myElement.value = '1496755014 172.68.143.176 207.241.231.149';
 			document.forms[i].appendChild(myElement);
 		}
 	}
@@ -188,12 +179,13 @@ bb2_addLoadEvent(function() {
 			}
 		</style>
         <!-- Start Alexa Certify Javascript -->
-		<!-- <script type="text/javascript">
+		<script type="text/javascript">
 		_atrk_opts = { atrk_acct:"/Kv7i1aoZM00oB", domain:"datamyne.com",dynamic: true};
 		(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-		</script> -->
-		<!-- <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=/Kv7i1aoZM00oB" style="display:none" height="1" width="1" alt="" /></noscript> -->
-		<!-- End Alexa Certify Javascript -->
+		</script>
+		<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=/Kv7i1aoZM00oB" style="display:none" height="1" width="1" alt="" /></noscript>
+		<!-- End Alexa Certify Javascript -->  
+       
         <!-- Start Lead Forensics Script -->
         <!-- <script type="text/javascript" src="http://rng-snp-003.com/js/36579.js" ></script> -->
 <!-- <noscript><img src="http://rng-snp-003.com/36579.png" style="display:none;" /></noscript> -->
@@ -460,7 +452,7 @@ bb2_addLoadEvent(function() {
 
 	<div class="pad clearfix">
 
-		<logo><a href="http://www.datamyne.com">Datamyne</a></logo>
+		<logo2><a href="http://www.datamyne.com">Datamyne</a></logo2>
 
 		<span class="tagline">Making trade data work for you</span>
 
@@ -534,7 +526,7 @@ bb2_addLoadEvent(function() {
 
 			</div>
 
-		<input type="hidden" name="bb2_screener_" value="1480365902 162.158.78.158 52.4.48.181"></form>
+		<input type="hidden" name="bb2_screener_" value="1496755014 172.68.143.176 207.241.231.149"></form>
 
 	</div>
     
@@ -597,7 +589,7 @@ The personally identifiable information that we collect through or in connection
 <p align="left">
 5.&nbsp;<strong><span style="text-decoration: underline;">Links to Other Websites</span></strong>&nbsp;The Site may contain links to websites that are not affiliated with Datamyne and that may or may not have similar practices in place to protect the privacy of information that you supply.&nbsp;&nbsp;We encourage you to review the privacy statements of each of the sites that are linked to or accessed from the Site so that you will be aware of how each visited site collects, uses, and distributes such information.&nbsp;&nbsp;We are not responsible for the privacy practices employed by third-party sites.</p>
 <p align="left">
-6.&nbsp;<strong><span style="text-decoration: underline;">DoubleClick DART Cookie</span>.&nbsp;&nbsp;</strong>Google, as a third party vendor, uses cookies to serve ads on the Site.&nbsp; Google’s use of the DART cookie enables it to serve ads to our users based on their visit to the Site and other sites on the Internet.&nbsp; Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL:&nbsp;<a href="http://www.google.com/privacy_ads.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.google.com/privacy_ads.html', 'http://www.google.com/privacy_ads.html');" target="_blank">http://www.google.com/privacy_ads.html</a>.</p>
+6.&nbsp;<strong><span style="text-decoration: underline;">DoubleClick DART Cookie</span>.&nbsp;&nbsp;</strong>Google, as a third party vendor, uses cookies to serve ads on the Site.&nbsp; Google’s use of the DART cookie enables it to serve ads to our users based on their visit to the Site and other sites on the Internet.&nbsp; Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL:&nbsp;<a href="http://www.google.com/privacy_ads.html" target="_blank">http://www.google.com/privacy_ads.html</a>.</p>
 					</div> <!-- /FREEBOX -->	
 				</div> <!-- /PAD -->
 				
@@ -627,36 +619,36 @@ The personally identifiable information that we collect through or in connection
 		        		
 		<article class="clearfix">
 			<time class="top-right-10">
-				<span class="day">23</span>
-				<span class="month">Nov</span>
+				<span class="day">30</span>
+				<span class="month">May</span>
 			</time>
 			<div class="text-wrap">
-				<h3><a href="http://www.datamyne.com/blog/news/industry-coverage/american-shipper-looks-maersks-south-korean-strategy/">American Shipper Looks at Maersk’s South Korean Strategy</a></h3>
-				<p>Why did Korea Line close a deal to buy Hanjin Shipping’s...</p>
+				<h3><a href="http://www.datamyne.com/blog/markets/new-zealand-wine-gaining-us-market-share-premium-strategy/">New Zealand Wine Gaining U.S. Market Share on Premium Strategy</a></h3>
+				<p>New Zealand has a clear shot at its target of $2...</p>
 			</div>
 		</article>
 		
 				
 		<article class="clearfix">
 			<time class="top-right-10">
-				<span class="day">22</span>
-				<span class="month">Nov</span>
+				<span class="day">26</span>
+				<span class="month">May</span>
 			</time>
 			<div class="text-wrap">
-				<h3><a href="http://www.datamyne.com/blog/markets/playing-whack-mole-us-steel-imports/">Playing Whack-a-Mole with US Steel Imports</a></h3>
-				<p>“It can be like whack-a-mole,” one steelmaker exec told us recently....</p>
+				<h3><a href="http://www.datamyne.com/blog/news/industry-coverage/dominican-rep-commitment-evs-drives-imports-america-economia/">Dominican Rep. Commitment to EVs Drives Imports:  América Economía</a></h3>
+				<p>The Dominican Republic is the leading Latin American importer and fifth-ranked...</p>
 			</div>
 		</article>
 		
 				
 		<article class="clearfix">
 			<time class="top-right-10">
-				<span class="day">07</span>
-				<span class="month">Nov</span>
+				<span class="day">19</span>
+				<span class="month">May</span>
 			</time>
 			<div class="text-wrap">
-				<h3><a href="http://www.datamyne.com/blog/news/industry-coverage/latimes-uses-datamyne-track-hanjin-impact-us-retail/">LATimes Uses Datamyne to Track Hanjin Impact on US Retail</a></h3>
-				<p>The last Hanjin Shipping vessel dropping off goods in California has...</p>
+				<h3><a href="http://www.datamyne.com/blog/trade-data/closely-watched-data-u-s-electric-vehicle-imports-exports/">Closely Watched Data: U.S. Electric Vehicle Imports–Exports</a></h3>
+				<p>Electric vehicle market watchers can get a sharper view of cross-border...</p>
 			</div>
 		</article>
 		
@@ -693,7 +685,8 @@ The personally identifiable information that we collect through or in connection
 	<div class="pad clearfix">
 		<div class="col-1">
 			<logo><a href="#">Datamyne</a></logo>
-			<p class="credits">Copyright 2008 - 2016, Datamyne, Inc.<br>
+			<p class="credits"><strong>©</strong>2017, The Descartes Systems Group Inc.<br>
+            <a href="https://www.descartes.com/" target="_blank">www.descartes.com</a><br>
 			All Rights Reserved. | <a href="http://www.datamyne.com/privacy-policy/">Privacy Policy</a>
 			</p>
 		</div>
@@ -765,10 +758,7 @@ piCId = '1584';
 
 <!--//////////////////////////////// GLOBAL SCRIPTS ////////////////////////////////-->
 
-<!--////////////////////////Leadlander_Script//////////////////////////////-->
-<script type="text/javascript" language="javascript">llactid=14280</script>
-<script type="text/javascript" language="javascript" src="http://t5.trackalyzer.com/trackalyze.js"></script>
-<!--////////////////////////Leadlander_Script//////////////////////////////-->
+
 
 <!-- GOOGLE REMARKETING -->
 <script type="text/javascript">
@@ -822,28 +812,19 @@ var google_remarketing_only = true;
 <script type="text/javascript" src="http://www.datamyne.com/multisite/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.datamyne.com/multisite/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.datamyne.com/multisite/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-admin/js/editor.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-admin/js/editor.min.js?ver=4.7.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var spuvar = {"is_admin":"","disable_style":"","safe_mode":"","ajax_mode":"","ajax_url":"http:\/\/www.datamyne.com\/multisite\/wp-admin\/admin-ajax.php","ajax_mode_url":"http:\/\/www.datamyne.com\/multisite\/?spu_action=spu_load&lang=","pid":"2663","is_front_page":"","is_category":"","site_url":"http:\/\/www.datamyne.com\/multisite","is_archive":"","is_search":"","seconds_confirmation_close":"5"};
-var spuvar_social = [""];
+var spuvar = {"is_admin":"","disable_style":"","safe_mode":"","ajax_mode":"1","ajax_url":"http:\/\/www.datamyne.com\/multisite\/wp-admin\/admin-ajax.php","ajax_mode_url":"http:\/\/www.datamyne.com\/multisite\/?spu_action=spu_load&lang=","pid":"2663","is_front_page":"","is_category":"","site_url":"http:\/\/www.datamyne.com\/multisite","is_archive":"","is_search":"","seconds_confirmation_close":"5"};
+var spuvar_social = [];
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/popups/public/assets/js/min/public-min.js?ver=1.6.0.1"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.12.4"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js?ver=2.12.4"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.swipe.min.js?ver=2.12.4"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.tile.min.js?ver=2.12.4"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.video.min.js?ver=2.12.4"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/dark/script.js?ver=2.12.4"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/thumbnails/script.js?ver=2.12.4"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/js/client.js?ver=2.12.4"></script>
-<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/popups/public/assets/js/min/public-min.js?ver=1.7.1.1"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.13.0"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/dark/script.js?ver=2.13.0"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/templates/thumbnails/script.js?ver=2.13.0"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-content/plugins/cyclone-slider-2/js/client.js?ver=2.13.0"></script>
+<script type="text/javascript" src="http://www.datamyne.com/multisite/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
 <script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"360bb7035c","applicationID":"4333483","transactionName":"Z1MEY0cDWxZSVxANVl4ZJ1RBC1oLHEQFA1w=","queueTime":0,"applicationTime":485,"ttGuid":"","agentToken":"","atts":"SxQHFQ8ZSBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
-
-Object Caching 997/1067 objects using disk
-
- Served from: www.datamyne.com @ 2016-11-28 15:45:03 by W3 Total Cache --></body></html>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"360bb7035c","applicationID":"4333483","transactionName":"Z1MEY0cDWxZSVxANVl4ZJ1RBC1oLHEQFA1w=","queueTime":0,"applicationTime":705,"ttGuid":"","agentToken":"","atts":"SxQHFQ8ZSBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
