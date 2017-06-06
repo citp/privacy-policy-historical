@@ -1,31 +1,45 @@
-> *The following text is extracted and transformed from the bellelily.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815130455id_/http%3A//www.bellelily.com/article-45.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellelily.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165419id_/http%3A//www.bellelily.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy_Privacy Policy_top article category_Fashion clothing - cheap wholesale clothing online stores - bellelily.com
+# Privacy Policy
 
-Bellelily.com respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. To better serve you and to make you understand how your information is used on our site, we have explained our privacy policy below.
+**Privacy Policy & Security**
 
-**1.The information we collect**  
-We believe it’s important for you to know what types of information we collect when you use our site. The information includes your Email, Name, Company Name, Street Address, Post Code, City, Country, Telephone Number, Password and so on. We collect this information in several different ways; to begin with, we use cookies that are needed to compile and aggregate non-personally identifiable information about the visitors to our web site. Personally identifiable information consists of information that is unique to you, such as credit card number and bank account numbers. The information is unique to you.
+**Privacy policy**
 
-**2.The use of information**  
-Help us make this site easier for you to use by not having to enter information more than once.  
-Helps you quickly locate information, products, and services.  
-Helps us create content on this site that is most relevant to you.  
-Alert you to new information, products, and services that we offer.  
-**Registration and Ordering:**  
-During registration, you will be prompted to provide us your name, shipping and billing address, phone number, email address and credit card number. In addition, we may also ask you for your country so that we can comply with applicable laws and regulations, and we might also ask for your gender. These types of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we may use the personal information you provide us with to contact you.  
-**Email Addresses:**  
-You register for placing an order and receiving free promotional notices; we notify you when we receive a new brand, or new product style; to get there great offers, you simply sign up for our email newsletter. Your participation in a contest is completely voluntary, and you may choose whether to participate and disclose information to us.
+To avoid misunderstandings and to provide you a 100% safe and secure shopping experience, we want you to be familiar with our Privacy Policy:
 
-**3\. Privacy Security**  
+**1\. The information we collect**
+
+Personal data is information about the identity of a person, such as name, address, birth date or e-mail address. They come up, for example, when you sign a contract, When ordering goods only the personal data are collected that you provide to us voluntarily. The supplied personal data will be used and processed solely for the designated purpose or within the framework of the respective business relationship. We will only disclose data to government agencies, unless otherwise required by law.
+
+**2\. The use of information**
+
+1\. You will not need to enter information more than once;
+
+2\. You can quickly locate information, products, and services;
+
+3\. Help us create content on this site that is most relevant to you;
+
+4\. Remind you to new information, products, and services that we offer.
+
+**Registration and Ordering:**
+
+During registration, you will be prompted to provide us your name, shipping and billing address, phone number, e-mail address and credit card number. In addition, we may also ask you for your country so that we can comply with applicable laws and regulations, and we might also ask for your gender. These types of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we may use the personal information you provide us with to contact you.
+
+**Customer information held by the company is confidential, except:**
+
+1\. When the company has your consent to share the information;
+
+2\. When disclosing your personal information to provide you with requested products and services;
+
+3\. According to legal requirements, the company has the authority to make law or comply with legal directives, but the company will provide the appropriate jurisdiction;
+
+4\. In case of emergency, to safeguard the interests of users and the public;
+
+5\. In the case that other companies need to open, edit or disclose personal information in the situation.
+
+**3.Contact  **
+
+**Privacy Security**
+
 We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. We use the latest in encryption technology, and all employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access, to other individuals or entities.
-
-**What kind of email do you send to the customer?**  
-We send email content to our customers that may include following:  
-Transaction mail, Shipping notification, Weekly deal, Promotion, Activity,
-
-**Address and Email**  
-service@bellelily.com
-
-**How do I unsubscribe?**  
-You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
