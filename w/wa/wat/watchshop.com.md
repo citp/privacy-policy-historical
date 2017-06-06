@@ -1,43 +1,103 @@
-> *The following text is extracted and transformed from the watchshop.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233904id_/http%3A//www.watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchshop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042241id_/http%3A//www.watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Watch Shop operates a comprehensive policy for privacy and security. We aim to store the minimal amount of information possible to allow you to make purchases and offer you recommendations. 
 
-We do not disclose, rent or lease any information submitted to us to 3rd parties for marketing purposes, except as stated in this policy. We do not use any of your data for any reason, except as stated in this policy, but to successfully ship your order to you. You have the option to sign up for an account in the checkout process. This means that your user data is stored on our servers. 
+## 1\. GENERAL
 
-We may, sometimes, employ 3rd party companies for marketing purposes. In these cases, we may pass your name and email address on to a trusted 3rd party provider. Examples include sending e-mail newsletters, feedback requests and analysing data. The companies involved will not sell or lease your data, and will not market to you themselves. We make extensive efforts to ensure that any provider who receives your details operates a secure privacy policy so that your details will not be redistributed.
+**1.1** Watch Shop is a trading division of Aurum Group Limited registered in England and Wales under company number 00146087, registered office Aurum House, 2 Elland Road, Braunstone, Leicester, LE3 1TT. Any reference to " **we** " " **us** " " **our** " is a reference to this entity. For the purposes of data protection legislation, we are the data controller.
 
-We store your name, address and telephone number if you register for an account with us.  This is optional, but enables you to place further orders without having to enter your details again. Your details are also stored in relation to unregistered orders.
+**1.2** We are committed to protecting and respecting your privacy. This policy (together with our [Terms of Website Use](https://web.archive.org/terms-of-website-usage-a170.html) and any other documents referred to on it) set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-We do not store your credit card information.  It is processed over a secure SSL/256 bit encryption system which goes through the payment provider Sagepay.  We do not handle or store this data, therefore it cannot be 'hacked' from our servers. Watch Shop staff do not have visibility of credit card numbers.
+## 2\. INFORMATION WE MAY COLLECT ABOUT YOU
 
-Optionally, you can supply us with a telephone number when ordering.  This is generally only used if we are unable to contact you via email.
+We may collect and process the following data about you: 
 
-If you wish, you can contact us to have your profile deleted at any point in time.
+**2.1** Information that you provide by filling in forms on our site (" **Site** "). This includes information provided at the time of registering to use our Site, subscribing to our service (i.e. information provided during the check-out process when purchasing goods) or requesting further services. We may also ask you for information when you report a problem with our Site.
 
-All sensitive information is processed over a secure servers.
+**2.2** If you contact us, we may keep a record of that correspondence.
 
-We do not send marketing emails to random personal email address (spam), however from time to time we may send newsletters and special offers to registered customer email addresses. All of which include a facility for you to unsubscribe from such service by clicking on the link at the bottom of every newsletter sent. You can unsubscribe from our newsletter using this process anytime. To subscribe for the newsletter, you must opt in. Either in the checkout, or elsewhere on the site.
+**2.3** We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them; and
 
-During the checkout process we may temporarily store your email address. This is not used for marketing purposes unless you opt into the newsletter. We may send you follow up email(s) if you do not complete the checkout process to remind you of the items in your cart for future reference and allow you to complete the purchase more easily.
+**2.4** Details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access (see section 4 on Cookies below).
 
-All of our data collection and storage conforms to the requirements of the Data Protection Act, 1998. 
+## 3\. IP ADDRESSES
 
-Cookies are small text files which are stored on your computer by your browser when you visit web pages. We use cookies to allow us to store tracking information to make your user experience better. Cookie storage reasons include: Items in your shopping basket, usage statistics, and your favourite products. This information is not shared, and expires after a reasonable period of time. 
+We may collect information about your device, including where available your Internet Protocol address, for reasons of fraud protection. We may also collect information about your device’s operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
 
-We collect and store data in cookies which is sent securely to remarketing companies, whose algorithms may determine if you will see advertising related to your browsing on other websites. You are able to opt out of these adverts at any time (more information below).
+## 4\. COOKIES
 
-Cookies are necessary to purchase items at Watch Shop. They are used to identify items in your shopping bag, shortlist, and also your browsing history so we can make better recommendations. The cookies themselves do not store any personal identifiable information. Instead, they store a 'key' on your computer which then identifies information stored temporarily on our own server. You can disable cookies in your browser to prevent this, however you will not be able to use the primary functionality of this website. You can disable cookies in your browser's settings. If you are unsure how to do this, follow this link: [Disable browser cookies](http://www.aboutcookies.org/Default.aspx'page=1). 
+Our Site uses cookies to distinguish you from other users of our Site. This helps Us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our[Cookie Policy](https://web.archive.org/cookie-policy-a169.html). 
 
-When placing an order, your email address will sent to a 3rd party feedback company called Feefo. Feefo may follow up your order with one email asking to give your feedback about your purchasing experience. Feefo won't spam you and won't pass your details onto any other party. You can read Feefo's full privacy policy at the following link: [Feefo's privacy policy](http://feefo.com/page/Privacy+Policy)
+## 5\. WHERE WE STORE YOUR PERSONAL DATA
 
-We use Google Analytics to track visitor numbers and behaviour. This service is to help us continually improve our service and does not track any personally identifiable information. If you wish to opt out of this, you should disable cookies in your browser. 
+**5.1** All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-After visiting Watch Shop you may find advertising banners on other websites associated with your browsing history. The technology behind these services are based on cookies. This is a service offered to suggest alternate styles or items which may be of interest to you. This is an anonymous service and no personal or identifiable information is recorded by this advertising method, however if you do not wish to view these type of adverts you can opt out of these services at the following links:
+**5.2** Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk.
 
-[Opt out of Criteo retargetting](http://www.criteo.com/us/privacy-policy)
+**5.3** Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-[Opt out of Google Display Network retargetting](https://www.google.com/settings/ads/onweb/)
+## 6\. USES MADE OF THE INFORMATION
 
-To contact us about our privacy policy please use the Contact us button at the top of the website. 
+We may use information held about you in the following ways:
+
+**6.1** To provide you with information, or services that you requested from us.
+
+**6.2** To carry out our obligations arising from any contracts or arrangements entered into between you and us.
+
+**6.3** To allow you to participate in interactive features of our service, when you choose to do so.
+
+**6.4** To ensure that content from our Site is presented in the most effective manner for you and for your device.
+
+**6.5** To assist you with completion of a purchase.
+
+**6.6** To improve our Site and service.
+
+**6.7** To notify you about changes to our goods or our services.
+
+**6.8** To undertake fraud checks.
+
+**6.9** To advertise product reviews on our website and marketing materials (subject to obtaining your prior consent where necessary).
+
+## 7\. MARKETING
+
+**7.1** In addition to the uses described in section 6 above, we may use your data, or employ a third party organisation to act on our behalf, to provide you with information about our goods and services which we think may be of interest to you. We will only contact you by email about goods and services similar to those which were the subject of a previous enquiry or order from you.
+
+**7.2** We will only share your data with third parties (including our group companies) for their own marketing purposes and with your consent.
+
+**7.3** If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data or contact us on [helpdesk@watchshop.com](mailto:helpdesk@watchshop.com). You can unsubscribe from receiving our marketing emails by clicking the unsubscribe button contained in each email. You can unsubscribe from our newsletter at any time by clicking on the link at the bottom of every newsletter sent.
+
+## 8\. DISCLOSURE OF YOUR INFORMATION
+
+We may disclose your personal information to third parties including:
+
+**8.1** Postal service organisations to assist in the delivery of goods you have ordered.
+
+**8.2** Organisations that provide customer feedback services.
+
+**8.3** Group companies for marketing purposes as described in section 7 above.
+
+**8.4** Organisations to assist in the completion of a purchase of goods from us.
+
+**8.5** In the event that we sell our business and/or assets, in which case we may disclose your personal data to the prospective buyer of our business or assets; and if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms Of Website Use](https://web.archive.org/terms-of-website-usage-a170.html) and other agreements; or to protect our rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+## 9\. WEBSITE LINKS
+
+Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. Please note that if you follow a link to any of these websites, such websites will apply different terms to the collection and privacy of your personal data and we do not accept any responsibility or liability for these policies. Please check before you submit any personal data to these websites. 
+
+## 10\. ACCESS TO INFORMATION AND UPDATING AND CORRECTING YOUR INFORMATION
+
+**10.1** Data protection legislation gives you the right to access information held about you. If you would like a copy of some or all of your personal information, please send an email to [helpdesk@watchshop.com](mailto:helpdesk@watchshop.com). Any access request may be subject to a reasonable fee to meet our costs in providing you with details of the information we hold about you.
+
+**10.2** We want to ensure that your personal information is accurate and up to date. If any information that you have provided to us changes, for example if you change your email address or name, please let us know the correct details by sending an email to [helpdesk@watchshop.com](mailto:helpdesk@watchshop.com) or a letter to Customer Services Manager c/o SDK, PO Box 8174, Reading, Berkshire, RG6 9PE. You may ask us to correct information you think is inaccurate, ask for your information to be deleted or only be used for certain purposes.
+
+## 11\. CHANGES TO OUR PRIVACY POLICY
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. 
+
+## 12\. CONTACT
+
+Questions, comments and requests regarding this privacy policy should be addressed to [helpdesk@watchshop.com](mailto:helpdesk@watchshop.com) or Customer Services Manager c/o SDK, PO Box 8174, Reading, Berkshire, RG6 9PE. 
+
+Last Updated: March 2017
