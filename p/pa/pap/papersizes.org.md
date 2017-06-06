@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the papersizes.org privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407030959id_/http%3A//www.papersizes.org/cookies-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papersizes.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155146id_/http%3A//www.papersizes.org/cookies-privacy.htm) for the most accurate reproduction.*
 
 # Paper Sizes - Cookies & Privacy Policy
-
-[](http://www.tamanosdepapel.com/)[](http://www.formatsdepapier.com/)
 
 Paper Sizes (papersizes.org) respects all information passed to us via our website and maintain a strict privacy policy.
 
