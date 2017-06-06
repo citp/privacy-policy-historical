@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humanrightscareers.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122192437id_/http%3A//www.humanrightscareers.com/impressum-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrightscareers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184750id_/http%3A//www.humanrightscareers.com/impressum-privacy-policy) for the most accurate reproduction.*
 
-# Impressum / Privacy Policy – Human Rights Careers
+# Legal Notice / Privacy Policy – Human Rights Careers
 
 **Information in accordance with section 5 TMG**
 
@@ -30,7 +30,7 @@ Quelle: twiggs translations
 
 Last updated: February 21, 2016
 
-Human Rights Careers (“us”, “we”, or “our”) operates the www.humanrights.careers website (the “Service”).
+Human Rights Careers (“us”, “we”, or “our”) operates the www.humanrightscareers.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -66,10 +66,7 @@ These third-parties may also collect information regarding the performance of th
 
 You can opt-out of interest-based advertisements served by these third-parties by following the instructions below. When you opt-out, you’ll still see advertisements, but they may be less relevant because they aren’t based on your interests.
 
-  * Google and the DoubleClick CookieGoogle, as a third-party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick Cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet. 
-
-You may opt-out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
-
+  * Google and the DoubleClick CookieGoogle, as a third-party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick Cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.You may opt-out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
 
 
 
