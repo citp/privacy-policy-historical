@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattsmarketingblog.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227201227id_/http%3A//mattsmarketingblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattsmarketingblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021632id_/http%3A//mattsmarketingblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Internet Marketing Secrets, Affiliate Marketing Blog, Affiliate Internet Marketing
 
