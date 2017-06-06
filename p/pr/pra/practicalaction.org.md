@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalaction.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202184858id_/http%3A//practicalaction.org/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalaction.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183635id_/http%3A//practicalaction.org/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies | Privacy and cookies | Practical Action
 
@@ -68,7 +68,7 @@ We don’t store your payment details at Practical Action. Other information pro
 
 ####  Our commitment to supporters
 
-We promise not to sell or take part in arrangements which share the details of supporters, enquirers or any other data. We do not ‘cold call’ or use telemarketing to recruit new supporters. [Our Supporter Charter](http://practicalaction.org/support/my-practical-action/supporter-charter)
+We promise not to sell or take part in arrangements which share the details of supporters, enquirers or any other data. We do not ‘cold call’ or use telemarketing to recruit new supporters. [Our Supporter Charter](https://practicalaction.org/support/my-practical-action/supporter-charter)
 
                                  If you decide to support us, we may contact you from time to time. We’ll use the channel you have said you prefer, to update you on projects you’ve supported, new projects we think you might want to support or just to gain your feedback to see whether we can improve anything.
 
