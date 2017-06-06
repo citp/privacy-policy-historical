@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comicbooksgalaxy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119200546id_/http%3A//comicbooksgalaxy.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbooksgalaxy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074821id_/http%3A//comicbooksgalaxy.com/our-privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy | Comic Books Galaxy
+# Our Privacy Policy | CBG
 
 This Privacy Policy was last modified on November 10, 2014.  
 comicbooksgalaxy.com (“us”, “we”, or “our”) operates www.comicbooksgalaxy.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.  
