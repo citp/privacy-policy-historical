@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instidy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001746id_/http%3A//instidy.com/instidy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instidy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133140id_/http%3A//instidy.com/instidy/privacy-policy) for the most accurate reproduction.*
 
 # instidy.com - Instagram Analytics
 
