@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203080348id_/http%3A//www.imoutdoors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070826id_/http%3A//www.imoutdoors.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Outdoor Sportsman Group
 
@@ -129,7 +129,7 @@ We believe that choice in how and when you are contacted is key to customer sati
 2\. If you are a subscriber to one of our magazines, you may be able to log on and update or change your contact or account information by contacting us at <http://www.outdoorsg.com/about/contact/>.  
 3\. You may unsubscribe to any of our online email updates by following the unsubscribe instructions in the body of any message.  
 4\. You may write to us and update your contact information or ask that we not share your personal contact information with third parties.   See the mailing address and fax number at the bottom of this privacy policy.  In those instances, we will retain your information in a “do not promote” file in our database.  
-5\. You may also contact us at  ** _[privacycoordinator@imoutdoors.com](mailto:privacycoordinator@imoutdoors.com)_**.
+5\. You may also contact us at  ** _[privacycoordinator@outdoorsg.com](mailto:privacycoordinator@outdoorsg.com)_**.
 
 We will try to implement your opt-out requests promptly, but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for email; please forgive any delay.
 
@@ -151,7 +151,7 @@ In developing our business, we might sell certain assets, or the company, or par
 
 ### YOUR CALIFORNIA PRIVACY RIGHTS
 
-Under California Law SB 27, California residents are afforded expanded rights to information about shared personal information, or are required to have the free ability to opt-in or opt-out of such sharing.  This privacy policy fully affords you the rights not to have your personal information shared by us.  If you have any questions about your ability to opt-out of information sharing by us, please see “How Can You Control Your Personal Information” (above) or contact us by email at: ** _[privacycoordinator@imoutdoors.com](mailto:privacycoordinator@imoutdoors.com)_**.
+Under California Law SB 27, California residents are afforded expanded rights to information about shared personal information, or are required to have the free ability to opt-in or opt-out of such sharing.  This privacy policy fully affords you the rights not to have your personal information shared by us.  If you have any questions about your ability to opt-out of information sharing by us, please see “How Can You Control Your Personal Information” (above) or contact us by email at: ** _[privacycoordinator@outdoorsg.com](mailto:privacycoordinator@outdoorsg.com)_**.
 
 ## VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES
 
@@ -163,7 +163,7 @@ We will occasionally update this Privacy Policy.  We recommend that you check t
 
 ## CONTACT INFORMATION
 
-If you have any questions about this Privacy Policy or our privacy practices, please email us at  ** _[privacycoordinator@imoutdoors.com](mailto:privacycoordinator@imoutdoors.com)_**. Please include the URL of the website and/or name of the publication involved in your request.   Or you can contact us by mail at:
+If you have any questions about this Privacy Policy or our privacy practices, please email us at  ** _[privacycoordinator@outdoorsg.com](mailto:privacycoordinator@outdoorsg.com)_**. Please include the URL of the website and/or name of the publication involved in your request.   Or you can contact us by mail at:
 
 Privacy Coordinator  
 Outdoor Sportsman Group Integrated Media  
