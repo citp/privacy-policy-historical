@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the poshmark.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129224544id_/https%3A//poshmark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poshmark.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183006id_/https%3A//poshmark.com/privacy) for the most accurate reproduction.*
 
-# Poshmark
+# Privacy Policy - Poshmark
 
-**_PRIVACY POLICY_**   
+**_PRIVACY POLICY_**  
 
 
-This Privacy Policy was last updated on July 24, 2014.
+This Privacy Policy was last updated on July 24, 2014.   
+
 
 **_Our Policy_ :**
 
@@ -78,17 +79,27 @@ This Privacy Policy does not apply to any Personal Data collected by Poshmark ot
 
 Poshmark does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Poshmark through the Services, please contact us, and we will endeavor to delete that information from our databases. 
 
+**_Links to Other Web Sites_ :**
+
 This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by Poshmark (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that Poshmark endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
 
 **_Integrating Third Party Services within the Services_** : 
 
 One of the special features of the Service is that it allows you to enable various online third party services, such as Facebook and other social media and networking services, payment service providers etc. ("Third Party Services"), to be directly integrated into your Poshmark experience. To take advantage of this feature, we will ask you to provide us your username and password for the relevant Third Party Services. By enabling such Third Party Services, you are allowing us to pass your log-in information to these service providers for this purpose. When you add a Third Party Service account to the Service, we will collect your login information and other relevant information necessary to enable the Service to access that Third Party Service and your data contained within that Third Party Service. As part of such integration, such Third Party Services will provide us with access to certain information that you have provided to such Third Party Services, and we will use, store and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Third Party Services use, store and disclose your information is governed solely by the policies of such third parties, and Poshmark shall have no liability or responsibility for the privacy practices or other actions of any Third Party Service that may be enabled within the Service. 
 
+**_Security_** **:**
+
 Poshmark takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way. 
+
+**_Other Terms and Conditions_ :**
 
 Your access to and use of the Services is subject to the Poshmark Terms of Service located at [http://www.poshmark.com/terms](https://web.archive.org/terms). 
 
+**_Changes to Poshmark's Privacy Policy_ :**
+
 The Services and our business may change from time to time. As a result, at times it may be necessary for Poshmark to make changes to this Privacy Policy. Poshmark reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
+
+**_Access to Information; Contacting Poshmark_ :**
 
 To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. 
 
