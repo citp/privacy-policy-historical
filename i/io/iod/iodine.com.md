@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122054919id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050328id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Iodine.com
+
+## We lock personally identifying information to protect you
+
+### We unlock real-life experience data for medical research
 
 #### This policy is effective as of September 5, 2015
 
@@ -134,13 +138,13 @@ If we ask you for personally identifying information, you’ll see the [ __]. Th
 
 We won’t share Private Data with anyone unless it’s permitted in this Privacy Policy. If not, we’ll ask your permission first.
 
-If you see the [], the information you’re submitting is Private Data.
+If you see the [ __], the information you’re submitting is Private Data.
 
 We only share Private Data with your permission, or in some standard ways that we tell you about very clearly in this Privacy Policy
 
 ###### Shared Data
 
-“Shared Data” is any information you provide that isn’t Private Data. If you don’t see the [], the information you’re submitting is Shared Data.
+“Shared Data” is any information you provide that isn’t Private Data. If you don’t see the [ __], the information you’re submitting is Shared Data.
 
 Shared Data may include:
 
@@ -154,11 +158,11 @@ Your User Submissions are shared with everyone because you post them publicly on
 
 We also share Shared Data with trusted third parties (including academic and commercial organizations, collaborators, and customers) for specific purposes, such as medical research. We refer to these trusted third parties as our “Partners.” You can opt out of sharing your Shared Data with our Partners, but only if you submit that Shared Data via the Site. You cannot opt-out of sharing your Shared Data with our Partners if you submit that Shared Data via an Iodine App.
 
-Even if you have an Iodine Account, your opt-out is not associated with a particular login or user account. Therefore, if you opt out via the Site, we’ll track your opt-out choice by placing a cookie on your device that will tell us that you have opted out. If you delete the Iodine cookie from your device, please remember that you’ll have to opt out again on Iodine to opt out of sharing any new Shared Data that you submit after deleting the cookie. You can hover over the [] on the Site to check your opt-out status.
+Even if you have an Iodine Account, your opt-out is not associated with a particular login or user account. Therefore, if you opt out via the Site, we’ll track your opt-out choice by placing a cookie on your device that will tell us that you have opted out. If you delete the Iodine cookie from your device, please remember that you’ll have to opt out again on Iodine to opt out of sharing any new Shared Data that you submit after deleting the cookie. You can hover over the [ __] on the Site to check your opt-out status.
 
 While using Iodine, you might share multiple pieces of real-life information that could identify you, if combined. It’s also possible to include personally identifying information in free-text fields this information will still be treated as Shared Data, so be careful. It’s your choice whether to provide Shared Data and what to include when you post publicly.
 
-If you don’t see the [], the information you’re submitting is Shared Data.
+If you don’t see the [ __], the information you’re submitting is Shared Data.
 
 Shared Data includes anything you post publicly on Iodine.
 
@@ -197,7 +201,7 @@ We may share information (including Private Data) with government, law enforceme
 
 We might share information if we think it’s required by law or to protect Iodine and our users—for example, to investigate if someone tries to hack our site or any Iodine app.
 
-###### In the event of a business transition
+###### In the event of a business trans
 
 If Iodine, Inc. has a business merger, acquisition, reorganization, sale of assets, or bankruptcy, all of our assets will be sold or transferred, including any information you’ve shared with us.
 
@@ -246,7 +250,7 @@ You can opt-out of all communications from Iodine by sending an e-mail to [priva
 
 ###### Links to other sites
 
-Our services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy, not ours. To protect your information, we recommend that you carefully review the privacy policies of other websites and services that you access.
+Our services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party’s privacy policy, not ours. To protect your information, we recommend that you carefully review the privacy policies of other websites and services that you access.
 
 Be careful when visiting third-party websites, even if you access them through Iodine. Our Privacy Policy doesn’t apply to third-party websites.
 
