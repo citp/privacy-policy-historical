@@ -1,70 +1,77 @@
-> *The following text is extracted and transformed from the onlinevolunteering.org privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014035640id_/http%3A//www.onlinevolunteering.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinevolunteering.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203833id_/https%3A//www.onlinevolunteering.org/en/privacy-policy) for the most accurate reproduction.*
 
-# UNV Online Volunteering
+# Privacy policy | UNV Online Volunteering service
 
-## Privacy Policy
+**I. Overview**
 
-**Overview**
+The United Nations Volunteers (UNV) programme is committed to respecting the privacy of its Users and to providing a safe, secure User experience. This Privacy Policy sets forth the online data collection and usage policies and practices that apply to the Online Volunteering service platform which is comprised of  [www.onlinevolunteering.org](https://www.onlinevolunteering.org/) and its affiliated extensions (an “Extension”) with the URL format [AffiliateName].onlinevolunteering.org (collectively, the “Platform”).  By using the Platform  the User consents to the policies and practices described in this Privacy Policy.
 
-UNV is committed to respecting the privacy of its Users. and to providing a safe, secure User experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the Online Volunteering site (www.onlinevolunteering.org) (the “Site”). By using this Site, you consent to the policies and practices described in this Statement.
+This Platform contains links to other websites over which UNV has no control. UNV is not responsible for the privacy policies or practices of other websites to which the User chooses to link from this Platform. UNV encourages the User to review the privacy policies of those other websites so s/he can understand how they collect, use and share her/his information. This Privacy Policy applies solely to the information UNV collects on this Platform.  
+ 
 
-Our Site contains links to other websites over which we have no control. UNV is not responsible for the privacy policies or practices of other websites to which you choose to link from this Site. We encourage you to review the privacy policies of those other websites so you can understand how they collect, use and share your information. This Privacy Statement applies solely to the information we collect on this Site.
+**II. Collection and Retention of Information**
 
-  
-**Collection and Retention of Information**
+In some areas of the Platform, and in order to become a Registered User of the Online Volunteering service, UNV requests or may request that the User provides personal information, including name, address, e-mail address, contact information, and any other information from which her/his identity is discernible. In other areas, UNV collects or may collect demographic information that is not unique to the User such as nationality, country of residence, age, gender, degree, area of expertise and employment status. Sometimes UNV collects or may collect a combination of the two types of information. An example of an area on the Platform where UNV collects personal or combined personal and demographic data is the registration page.
 
-In some areas of the Site, and in order to become a registered user of Online Volunteering, UNV requests or may request that you provide personal information, including your name, address, e-mail address, telephone number, contact information, and any other information from which your identity is discernible. In other areas, UNV collects or may collect demographic information that is not unique to you such as your country of residence, age, gender, and employment status. Sometimes we collect or may collect a combination of the two types of information. An example of an area on the Site where we collect personal or combined personal and demographic data is the registration page.
+UNV also gathers or may gather certain information about the User’s use of this Platform, such as what areas the User visits and what services s/he accesses. Moreover, there is information about the User’s computer hardware and software that may be collected by UNV. This information can include without limitation the IP address, browser type, domain names, access times and referring website addresses.
 
-We also gather or may gather certain information about your use of our Site, such as what areas you visit and what services you access. Moreover, there is information about your computer hardware and software that may be collected by UNV. This information can include without limitation your IP address, browser type, domain names, access times and referring website addresses.
+UNV retains indefinitely all the information it gathers about the User in an effort to make her/his use of this Platform more efficient, practical and relevant. Of course, the User can correct or update her/his personal information at any time. Moreover the User can withdraw from the Platform, in which event UNV will remove the User’s account profile information except for an archival copy, which is not accessible on the Internet.  
+ 
 
-We retain indefinitely all the information we gather about you in an effort to make your use of our Site more efficient, practical and relevant. Of course, you can correct or update your personal information at any time. Moreover you can withdraw from the UNV’s Online Volunteering service, in which event we will remove your account profile information except for an archival copy, which is not accessible on the Internet.
+**III. Use of Information**
 
-**Use of Information by UNV**
+UNV uses the information it gathers on the Platform, whether personal, demographic, collective or technical, for the purpose of operating and improving the Platform, fostering a positive User experience and facilitating the connection of Online Volunteers to Organizations as set forth in this Privacy Policy.User information, Organization information, and online volunteering opportunities are managed as follows:
 
-We use the information we gather on the Site, whether personal, demographic, collective or technical, for the purpose of operation and improving the Site, fostering a positive User experience and facilitating the connection of Online Volunteers to Host Organizations (Groups) as set forth in this Privacy Statement. 
+All Registered Users maintain their information at the User profile page.   
+The Platform eliminates automatically Users registered with an invalid email address.
 
-User information, Host Organization information, and assignments are managed as follows:
+Organizations as well as Organization opportunity postings may be published anywhere on the Platform, including extensions, subject to their approval by the Site Administrator or Extension Administrator and according to the agreement signed between UNV and the organization managing an Extension. 
 
-All Registered Users maintain their information at the Member Profile page accessible from the OV area of the site.   
-The Site eliminates automatically Registered Users registered with an invalid email address.
+The Organization Owner can modify the organization’s opportunity postings, take them offline/online or delete them.
 
-Host Organizations as well as Host Organization assignments are published on the Site subject to their approval by the Site Administrator.   
-The Host Organization Owner can modify his/her assignment postings, take assignments offline/online or delete his/her assignment postings.   
-We have an area where you can submit feedback. Any feedback you submit in this area becomes our property, and we can use such feedback in connection with the Site or contact you for further information.
+Organizations and Online Volunteers can submit feedback. Any feedback submitted in this area becomes the property of UNV and can be used by UNV and Extension Administrators in connection with the Platform or to contact Registered Users for further information.
 
-**Disclosure of Information to Others**
+Occasionally, Registered Users may be invited to participate in awards, contests and surveys. Information and content collected from these awards, contests and surveys becomes the property of UNV and Registered Users are granting UNV a license to use, copy, process, adapt, publish, transmit, host and display such information and content as set forth in this Privacy Policy.
 
-We do not disclose to third parties your personal information, combined personal and demographic information or information about your use of the Site (such as areas you visit or services you access), except that:
+Registered Users may create other content on the Platform, for example blog posts or pictures. Such content becomes the property of UNV .
 
-(a) In case you apply for an online assignment, certain registered Users affiliated with the organization that posted the assignment will be able to access part of your personal profile such as your name, email address, city and country of residence as well as any additional information you may submit with your application.  
-(b) We may disclose such information to companies and individuals we employ to perform functions on our behalf. Examples may include hosting our web servers, and analyzing data. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.  
-(c) We may disclose such information if legally required to do so, subject to our privileges and immunities, if requested to do so by our internal governing and oversight bodies, including Member States, or if necessary in our sole discretion to protect UNV property or rights, prevent a crime or protect the safety of Users or the public.
+UNV reserves the right to remove content on the Platform that violates this Privacy Policy or the Terms of Use or that UNV otherwise believes to be harmful.
 
-**Use of Cookies**
+**IV. Disclosure of Information to Others**
 
-UNV ‘s Online Volunteering service uses “cookies” to help personalize and maximize your online experience and time online. A cookie is a text file that is placed on your hard drive by a web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a web server in the domain that issued the cookie to you.
+UNV does not disclose to third parties User’s personal information, combined personal and demographic information or information about her/his use of the Platform (such as areas User visits or services User accesses), except that:
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize pages or register, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. 
+(a) In case the User applies for an online volunteering opportunity, certain Registered Users affiliated with the Organization that posted the opportunity will be able to access part of the User’s personal profile such as name, email address and personal web pagesas well as any additional information the User may submit with his/her application.
 
-You may have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline all cookies, if you prefer. Alternatively, you may be able to modify your browser settings to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you chose to decline cookies, however, that may hinder performance and negatively impact your experience on the Site.
+(b) In case the User is an owner of an Organization account on the Platform or has been delegated opportunity management rights by the Organization owner, Registered Users applying to an opportunity posted by the Organization will be able to access part of the User’s personal profile such as name and email address.
 
-**Updating Your Information**
+(c) In case the User belongs to the User base of an Online Volunteering Service extension, the Extension Administrators may have access to personal information as well as combined personal and demographic information as necessary to perform their functions, but they may not share that information with any other third party.
 
-All Registered Users can correct, update or change their account profile at any time from the Member Profile page accessible from the MyOV area of the site.
+(d) UNV may disclose such information to companies and individuals UNV employs to perform functions on its behalf. Examples may include hosting the web servers, and analyzing data. These companies and individuals will have access to the User’s personal information as necessary to perform their functions, but they may not share that information with any other third party.
 
-**Security**
+(e) UNV may disclose such information, subject to UNV privileges and immunities, if requested to do so by UNV’s internal governing and oversight bodies, including Member States, or if necessary in UNV’s sole discretion to protect UNV property or rights, prevent a crime or protect the safety of Users or the public. 
 
-UNV ‘s Online Volunteering service has implemented reasonable technical and organization measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
+**V. Use of Cookies**
 
-We attempt to limit access to your personal information to relevant Registered Users, but we cannot guarantee that other parties will not gain access to it. For example, Users may have retained a copy of your information in their own file system or databases. We are not responsible for the retention, use or privacy of this information in these instances.
+The Platform uses “cookies” to help personalize and maximize the User’s online experience and time online. A cookie is a text file that is placed on the User’s hard drive by a web page server. Cookies are not used to run programs or deliver viruses to the User’s computer. Cookies are uniquely assigned to the User’s computer, and can only be read by a web server in the domain that issued the cookie to the User.
 
-**Changes to this Privacy Statement**
+One of the primary purposes of cookies is to provide a convenience feature to save the User time. The purpose of a cookie is to tell the web server that the User has returned to a specific page. For example, if the User personalizes pages or registers, a cookie helps UNV to recall the User’s specific information (such as user name, password and preferences). Because of the use of cookies, UNV can deliver faster and more accurate results and a more personalized site experience.
 
-If we decide to change our Privacy Statement, we will post those changes here, so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about the UNV Privacy Statement, please feel free to email us at info@onlinevolunteering.org.  
+The User may have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but the User can usually modify her/his browser settings to decline all cookies, if the User prefers. Alternatively, the User may be able to modify her/his browser settings to notify her/him each time a cookie is tendered and permit the User to accept or decline cookies on an individual basis. If the User chooses to decline cookies, however, that may hinder performance and negatively impact the User experience on the Platform.  
+ 
 
+**VI. Updating Registered User Information**
 
-| 
+All Registered Users can correct, update or change their profile at any time from the User profile page accessible from the User account area of the Platform.  
+ 
 
-**OV Newsletter**
+**VII. Security**
 
-To receive our newsletter with monthly tips, news and experience reports, [join](https://web.archive.org/membership/join.php) the Online Volunteering service. 
+UNV has implemented reasonable technical and organization measures designed to secure the User’s personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, UNV cannot guarantee that unauthorized third parties will never be able to defeat those measures or use the User’s personal information for improper purposes.
+
+UNV attempts to limit access to the User’s personal information to relevant Registered Users, but UNV cannot guarantee that other parties will not gain access to it. For example, Users may have retained a copy of the User’s information in their own file system or databases. UNV is not responsible for the retention, use or privacy of this information in these instances.  
+ 
+
+**VIII. Changes to the Privacy Policy**
+
+Users should check this page periodically to review this Privacy Policy. UNV may, in its sole discretion, modify or revise the Privacy Policy at any time by updating this page.
