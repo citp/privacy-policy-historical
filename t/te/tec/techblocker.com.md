@@ -1,100 +1,71 @@
-> *The following text is extracted and transformed from the techblocker.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190150id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblocker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040938id_/http%3A//techblocker.com/en/privacy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Tech Blocker
 
-**GoDaddy Respects Your Privacy**
+Privacy Policy - Tech Blocker
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+General
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Techblocker is strongly committed to protect your privacy and provide a safe online experience for all of our users and registered customers while offering the highest quality products and services to them. We may gather certain types of information about and from you to fulfill your request and serve your needs better, we feel you should fully understand the terms and conditions covering the collection and use of this information. This privacy statement discloses what information we may gather, how we may use it and how to correct or change it. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Please read the [Privacy Policy](https://web.archive.org/web/20170606040938id_/http%3A//techblocker.com/en/privacy.html) completely, as well as our [Terms and Conditions](https://web.archive.org/web/20170606040938id_/http%3A//techblocker.com/en/termsofuse.html) for use of information we may gather. Should you have any questions in this regard, feel free to contact us. 
 
-**Information Collection and Use**
+What Information we may collect about you?
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+You can visit our website, read product descriptions and other materials, and check on offerings without giving us any personally identifiable information. Since we provide our customers and newsletter subscribers with the most efficient and enhanced personalized service, we may request information about you under occasional circumstances. For your convenience and to serve you better, a customer account includes all the collected personal information we may have; however, you can update or correct your contact information or change your preferences about receiving newsletter and other information from us.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We collect personally identifiable information; such as name, mailing address and e-mail address when you register one of our products or place an order (see the section below for more information on placing orders). Website visitors may register to receive our newsletter by submitting their name and e-mail address.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Placing Orders
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+If you wish to place an order for our products, you can generally enter the requisite details. In addition to the customary information that may be required to fill your order (full name, address, phone number, ship-to name and address etc.), collection of additional information such as your credit card number and credit card expiration date, is dependent on option of payment as we offer online and offline subscribers additional options such as check, money order and credit card order by fax or phone.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Use of Programs
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+In connection with the installation and use of Techblocker applications we may collect certain information concerning the use of application or the services, including certain personal data and information about your PC. This may include, information about your installed software and hardware, your IP address, your operating system, about your version of installed Techblocker application including its product key, and about the use of individual functions of that Techblocker application including the relevant times. Some applications are dependent on use of Web Services for their functioning and they do send such relevant data with each use.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Purpose of Data Collection
 
-**Security**
+Applications and Services can use the aforementioned information to send product recommendations, product updates and important customer service notifications directly to your computer. Furthermore, the data is used for the purposes of product and market analysis which enables us to improve individual products and the range of products and services.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+Sharing of Data with Third Party
 
-**Updating Your Information**
+The aforementioned data may be shared with third party vendors and partners and it will be governed by their privacy policy, which will be provided to you when you accept any offer by them. Consent for the Collection, Storage, Use and Distribution of the Data You hereby agree to the collection and use of the such information or data by Techblocker. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+What we may do with the information we collect?
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We use information you provide to fulfill your request and improve our products and services. We may use personal information to display or send personalized content to our website visitors as well as to send newsletter, product features, promotional material, special offers and other updates to our customers and newsletter subscribers. A subscriber may, at any time, opt out of receiving such information. We also use collected information to evaluate and administer our products and services, resolve customers' issues like respond to any problems that may arise such as product delivery failures, difficulties in navigating our sites or accessing certain features as well as to gauge user trends to determine what products are most popular with users.
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We allow users of our website to email us their queries. We do not retain any email address (unless you are a member who already has voluntarily provided your email address) of either the sender or recipient of such e-mail or links after they are sent.
 
-      iii.      You may call us at: (480) 505-8800
+How do we share Personal Information?
 
-       iv.      You may fax us at: (480) 505-8844
+We will never share or sell your email address, or any other information collected, to any third parties. 
 
-**Sending Emails**
+Credit Card Companies:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+As in any transaction, your credit card company will have all relevant information about the name of the affiliate, products purchased, date and total cost. Techblocker will not otherwise provide any personal data to your credit card company.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Tech Blocker extension General notes
 
-**Compliance with Laws and Law Enforcement**
+The general privacy policy of Techblocker is to evade procuring more data than is required for the extensions and the Techblocker website to function correctly. The data gathered is anonymized, if possible, and erased when it is not required any more. It is never shared with any third party. This following policy gives the details of data that is collected from extension and the subsequent processing applied to it. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Periodical Extension checks
 
-**Third Party Service Providers**
+The user's browser periodically checks for updates on all extensions including Techblocker. During this routine update information such as browser version, extension version, operating system and the user's IP address, are transmitted. Techblocker nightly build updates, as well as updates for Techblocker for Firefox. All such updates are handled by the Techblocker Website and the data submitted is subject to its privacy policy. Updates to stable Techblocker for Firefox releases are handled by the Addons.Mozilla.Org website and are subject to the Firefox Privacy Policy.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Subscription downloads
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If the user adds filter subscriptions to the Techblocker installation, he/she will be requested to regularly retrieve updates for the subscription. All such updates will lead to the hosting website receiving the user's IP address as well certain other relevant information such Techblocker version, browser name and version. All such information/data is the prerogative of the website concerned.
 
-**Supplementation of Information**
+In addition, if the subscription download fails on multiple occasions respectively, the updated address of the filter list will be requested from the Techblocker website domain. During updates, transmitted data would include the Techblocker version in use, subscription address and any information about the error encountered. This data helps to identify issues that have not been reported by subscription maintainers and is subject to the usual Techblocker website privacy policy.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Issue reporter
 
-**Contests/Surveys**
+Techblocker lets the user send issue reports which will be temporarily stored on the Techblocker.com domain. Issue reports contain information required to solve issues including the browser version, address of the web page where the problem is visible, items which can be blocked on any particular web page, matching filters and active subscriptions.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+For further information in Issue reporter, please visit Techblocker.com [Privacy Policy](https://web.archive.org/web/20170606040938id_/http%3A//techblocker.com/en/privacy.html).
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Other
 
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Tech Blocker is the property of [HalfAppIt, LLC](http://www.halfappit.com/). 
