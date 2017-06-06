@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cradlepoint.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615001931id_/https%3A//cradlepoint.com/legalprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cradlepoint.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043827id_/https%3A//cradlepoint.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal/Privacy Statement | Cradlepoint
-
-### Privacy Policy
+# Privacy Policy | Cradlepoint
 
 This Privacy Policy describes our practices regarding information we gather from you while you visit the Cradlepoint, Inc. U.S. Web site, cradlepoint.com, and information we gather from you while you use Cradlepoint products.
 
@@ -22,4 +20,4 @@ There are other instances in which Cradlepoint may divulge your personal informa
 
 Personal information that you provide that does not constitute Registration Information also resides on a secure server and is accessible only to selected Cradlepoint personnel and contractors via password. Since this information is not accessible by you, you will not be asked to select a password in order to view or modify such information.
 
-**Changes to the Statement of Privacy** Cradlepoint reserves the right to change its practices concerning information gathered from visitors to its Web site. If such changes occur, this Statement of Privacy will be updated. Cradlepoint welcomes your comments regarding this Statement of Privacy; please contact us by e-mail at: privacy@cradlepoint.com.
+**Changes to the Statement of Privacy** Cradlepoint reserves the right to change its practices concerning information gathered from visitors to its Web site. If such changes occur, this Statement of Privacy will be updated. Cradlepoint welcomes your comments regarding this Statement of Privacy; please contact us at: [privacy@cradlepoint.com](mailto:privacy@cradlepoint.com).
