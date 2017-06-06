@@ -1,13 +1,29 @@
-> *The following text is extracted and transformed from the utc.edu privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120001120id_/http%3A//www.utc.edu/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utc.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183220id_/http%3A//www.utc.edu/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
-We know that your privacy is very important to you. When you place orders on our site, all of your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (SSL) technology. SSL technology causes your browser to encrypt your order information before transmitting it to our secure server. SSL technology, an industry standard, is designed to prevent someone other than operators of our Sites from capturing and viewing your personal information. 
+We know that your privacy is very important to you.
 
-We collect only the domain name, but not the e-mail address of visitors to the UTC WEBSITE. We will collect the e-mail addresses of those who communicate with us via e-mail or those who create accounts on the UTC WEBSITE. We also collect aggregate information on what pages users access or visit, information volunteered by the user, such as survey information and/or site registrations. 
+### Information we collect 
 
-The administrators of the UTC WEBSITE are making every effort to minimize and safeguard the personal information associated with each user account that resides on the system. Only the user's Name, City/Town, State and Country will be displayed to other users. 
+We collect the domain name and IP address, but not the e-mail address of visitors to www.utc.edu. We will collect the e-mail addresses of those who communicate with us via e-mail or those who create accounts on www.utc.edu. We also collect aggregate information on what pages users access or visit, information volunteered by the user, such as survey information and/or website account registrations. 
 
-Some pages on the UTC WEBSITE display social media content. “Sharing” features of social media content share anonymous browsing data (for users not logged in to social media services), and/or personally identifiable data (for users logged in to those services).
+### Social Media content & sharing
 
-Those using the system should be careful to do nothing that might compromise the privacy of users. All information posted within the UTC WEBSITE should conform to the [University of Tennessee's Privacy of Student Records Policy](https://web.archive.org/records/student-rights-responsibilities/ferpa.php). 
+Some pages on www.utc.edu display social media content. “Sharing” features of social media content share anonymous browsing data (for users not logged in to social media services), and/or personally identifiable data (for users logged in to those services).
+
+### Web forms and voluntary submission of information
+
+Some pages on www.utc.edu contain web forms to collect information from the user. The information collected is used by UTC academic and business units, and is not stored in a secure manner. Users should not submit sensitive personal, financial, business or academic information via web forms. 
+
+### Third party data collection 
+
+www.utc.edu and blog.utc.edu use cookies to store user preferences, session information, and device capabilities such as screen dimensions. 
+
+Our analytics and quality assurance provider, SiteImprove, uses cookies and web beacons to track user behavior to help us improve content and user experience, and provide measurement services. 
+
+Third parties, including Google, YouTube, and Facebook, use cookies, web beacons, and other technologies to collect or receive information from this website and elsewhere on the internet, and use that information to provide measurement services and targeted advertising. 
+
+Users can opt-out of the collection and use of information for ad targeting by blocking third party cookies and tracking mechanisms via browser or operating system settings, browser plugins, or using a service such as <http://www.aboutads.info/choices> or <http://www.youronlinechoices.eu/>. 
+
+Those using the system should be careful to do nothing that might compromise the privacy of users. All information posted within the UTC websites should conform to the [University of Tennessee's Privacy of Student Records Policy](https://web.archive.org/records/student-rights-responsibilities/ferpa.php). 
