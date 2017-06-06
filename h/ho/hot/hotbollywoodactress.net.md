@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotbollywoodactress.net privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327215936id_/http%3A//www.hotbollywoodactress.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotbollywoodactress.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080355id_/http%3A//hotbollywoodactress.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
