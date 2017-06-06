@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiantimesdaily.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002004602id_/http%3A//www.indiantimesdaily.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiantimesdaily.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034738id_/http%3A//indiantimesdaily.com/privacypolicy) for the most accurate reproduction.*
 
 # Indian Times Daily | News & Resources for Indo-Canadians
 
