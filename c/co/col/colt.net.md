@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the colt.net privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212045328id_/http%3A//www.colt.net/data-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colt.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025155id_/http%3A//www.colt.net/data-privacy-statement) for the most accurate reproduction.*
 
 # Data Privacy Statement - Colt
 
 ## Data Privacy
-
-Colt is committed to protecting the privacy of the visitors to its websites (the “Websites”). In order to provide you with details of our products and services, we may need to collect information about you. This Privacy Statement explains how we use any personal information we might collect when you visit a Website. It also explains our use of cookies. Third party websites accessed via our Websites are not covered by this Privacy Statement and Colt accepts no responsibility or liability in respect of third party sites.
 
 We review this Privacy Statement regularly. Occasionally we may need to make changes or additions to this Statement that may affect how we handle your data.   We will indicate on this page when the Privacy Statement has changed so please refer to this link for the latest version.
 
@@ -64,9 +62,9 @@ The data controller is Colt Technology Services Group Limited and, where applica
 
 The Group Data Protection Adviser  
 Colt Technology Services Group Limited  
-Beaufort House  
-15 St Botolph Street  
-LONDON EC3A 7QN  
+Colt House  
+20 Great Eastern Street  
+LONDON EC2A 3EH  
 United Kingdom
 
 ## Cookie Usage
