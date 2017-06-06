@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the streamlivesex.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914200721id_/http%3A//streamlivesex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamlivesex.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214030id_/https%3A//streamlivesex.com/privacy-policy) for the most accurate reproduction.*
 
 # StreamLiveSex – Live Private Chat With Amateurs - Privacy Policy
-
-The following document is presented in its original language.
 
 We know that protecting your privacy is very important to you.
 
@@ -14,7 +12,7 @@ We also retain copies of statements published on the site and correspondence sen
 
 **Cookies**
 
-The site may track a user’s activity by issuing Cookies when entering the site. Cookies are small pieces of data or parts of a file that a server downloads to your personal computer or mobile when you visit a website. These files are stored by your web browser onto your hard drive. Cookies may anonymously record information such as your identification code, customized preferences, or a record of pages visited in order to simplify subsequent interactions with that website by you on the website and related web pages.
+The site may track a user’s activity by issuing Cookies when entering the site. Cookies are small pieces of data or parts of a file that a server downloads to your personal computer or mobile when you visit a website. These files are stored by your web browser onto your hard drive. Cookies may anonymously record information such as your identification code, customized preferences, or a record of pages visited in order to simplify subsequent interactions with that website by you on the website and related web pages. The site uses cookies to improve your browsing experience. By using this site, you consent to the use of cookies.
 
 To streamline navigation on our site we use both Session ID cookies and Persistent cookies. Session ID cookies only last for the duration of your visit to our website and expire when you close your browser while persistent cookies may remain on your hard drive for an extended period of time.
 
