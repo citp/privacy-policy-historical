@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rubratings.com privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816151522id_/http%3A//rubratings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubratings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185415id_/http%3A//rubratings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Join the Hottest Site for Body Rubs
+# Privacy Policy | Join the Hottest Site for Body Rubs and Massage Providers
 
 _updated 5/6/2016_
 
@@ -60,3 +60,7 @@ We use “cookies” on this site. A cookie is a piece of data stored on a site 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
 If you feel that we are not abiding by this privacy policy, please contact us through our support form on the city listing sites.
+
+RubRatings Ltd  
+71-75 Shelton St Covent Garden  
+London, UK WC2H 9JQ
