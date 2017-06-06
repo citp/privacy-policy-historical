@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125074541id_/http%3A//www.slideroom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061731id_/http%3A//www.slideroom.com/privacy.html) for the most accurate reproduction.*
 
 # SlideRoom - Privacy Policy
 
-This statement applies with respect to the information that we collect from the Product Website at [http://www.SlideRoom.com](http://slideroom.com/) and Accounts provided to our Clients and their applicants. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
+This statement applies with respect to the information that we collect from the Product Website at [http://www.SlideRoom.com](http://slideroom.com/) and Accounts provided to our Clients and their applicants. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
 ###  I. INFORMATION COLLECTED
 
@@ -24,49 +24,49 @@ SlideRoom uses third party vendor re-marketing tracking cookies, including the G
 
 ###  V. SECURITY
 
-Learning Machine uses industry standard security measures to protect the loss, misuse, disclosure, and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all commercially reasonable steps to secure your personal information.
+SlideRoom uses industry standard security measures to protect the loss, misuse, disclosure, and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all commercially reasonable steps to secure your personal information.
 
 ###  VI. ONWARD TRANSFER
 
-Learning Machine may be required to disclose personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Learning Machine is potentially liable.
+SlideRoom may be required to disclose personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, SlideRoom is potentially liable.
 
-Learning Machine will only disclose your personal information with the third party that you purposefully select to submit that information to. Whenever your application is submitted to third party, that organization and only that organization will be able to view all information associated with your SlideRoom account, as well as all information included in your surveys, applications, or forms you submit to that organization.
+SlideRoom will only disclose your personal information with the third party that you purposefully select to submit that information to. Whenever your application is submitted to third party, that organization and only that organization will be able to view all information associated with your SlideRoom account, as well as all information included in your surveys, applications, or forms you submit to that organization.
 
 If we ever were to engage in any onward transfers of your data with any third parties for a purpose other than which it was originally collected or subsequently authorized, we would provide you with an opt-out choice to limit the use and disclosure of your personal data.
 
 ### VII. EU DATA PROTECTION
 
-Learning Machine complies with the EU-US Privacy Shield Framework set forth by the Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Learning Machine has certified that it adheres to the EU-US Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement, and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the EU-US Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/list>
+SlideRoom complies with the EU-US Privacy Shield Framework set forth by the Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SlideRoom has certified that it adheres to the EU-US Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement, and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the EU-US Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/list>
 
-In compliance with the EU-US Privacy Shield, Learning Machine commits to resolve complaints about your privacy and our collection or use of your personal information. European citizens with inquiries or complaints regarding this privacy policy should first contact Learning Machine by emailing to support@slideroom.com or by mailing notice to our physical office:
+In compliance with the EU-US Privacy Shield, SlideRoom commits to resolve complaints about your privacy and our collection or use of your personal information. European citizens with inquiries or complaints regarding this privacy policy should first contact SlideRoom by emailing to support@slideroom.com or by mailing notice to our physical office:
 
-Learning Machine  
+SlideRoom  
 Attn: EU-US Privacy Shield Issues  
 12001 N. Central Expy, Suite 1025  
 Dallas, TX 75243
 
-Learning Machine has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SlideRoom, please visit the BBB EU Privacy Shield web site at <http://www.bbb.org/EU-privacy-shield/file-a-complaint/> for more information and to file a complaint.
+SlideRoom has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SlideRoom, please visit the BBB EU Privacy Shield web site at <http://www.bbb.org/EU-privacy-shield/file-a-complaint/> for more information and to file a complaint.
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-Learning Machine is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
+SlideRoom is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
 
 ### VIII. US-Swiss Safe Harbor
 
-Learning Machine also complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.  Learning Machine has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/swiss>
+SlideRoom also complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. SlideRoom has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/swiss>
 
-In compliance with the US-Swiss Safe Harbor Principles, Learning Machine commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Learning Machine by emailing support@slideroom.com or by mailing notice to our physical office:
+In compliance with the US-Swiss Safe Harbor Principles, SlideRoom commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact SlideRoom by emailing support@slideroom.com or by mailing notice to our physical office:
 
-Learning Machine  
+SlideRoom  
 Attn: US-Swiss Safe Harbor Issues  
 12001 N. Central Expy, Suite 1025  
 Dallas, TX 75243
 
-Learning Machine has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20161125074541id_/http%3A//www.slideroom.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+SlideRoom has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20170606061731id_/http%3A//www.slideroom.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ### IX. RIGHT TO ACCESS
 
-The SlideRoom service allows its users the right to access their data or modify information previously provided. This may be done through accessing your user account in the ‘my account’ section of the SlideRoom website. Learning Machine acknowledges that EU individuals have the right to access the personal information that we maintain about them. An EU individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to the organization they applied to, or to SlideRoom directly. If requested to remove data, we will respond within a reasonable timeframe.
+The SlideRoom service allows its users the right to access their data or modify information previously provided. This may be done through accessing your user account in the ‘my account’ section of the SlideRoom website. SlideRoom acknowledges that EU individuals have the right to access the personal information that we maintain about them. An EU individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to the organization they applied to, or to SlideRoom directly. If requested to remove data, we will respond within a reasonable timeframe.
 
 ### X. PUBLIC FORUMS
 
@@ -74,4 +74,4 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 
 ### XI. CONTACTING US
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact support@slideroom.com.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact support@slideroom.com.
