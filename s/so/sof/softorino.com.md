@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softorino.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905194531id_/https%3A//softorino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softorino.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195454id_/https%3A//softorino.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Softorino Inc.
+# Privacy policy | Softorino
 
 ##  This privacy policy sets out how any information you give us while using softorino.com is used and protected. 
 
