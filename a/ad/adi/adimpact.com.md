@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adimpact.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216150105id_/http%3A//www.adimpact.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adimpact.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044917id_/http%3A//www.adimpact.com/privacy.html) for the most accurate reproduction.*
 
 # Adimpact - Privacy Policy
 
@@ -46,4 +46,4 @@ Our Site contains links to other websites. The fact that we link to a website is
 
 The Site is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at our [Support Ticket System](https://web.archive.org/support/). We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
 
-© 2005-2015 ALDnet, Inc. | [Terms](https://web.archive.org/terms.html) | [Privacy](https://web.archive.org/privacy.html)
+© 2005-2017 ALDnet, Inc. | [Terms](https://web.archive.org/terms.html) | [Privacy](https://web.archive.org/privacy.html)
