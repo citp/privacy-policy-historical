@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kwconnect.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015227id_/https%3A//www.kwconnect.com/kwu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwconnect.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065735id_/https%3A//www.kwconnect.com/kwu/privacy) for the most accurate reproduction.*
 
 # Welcome to KWConnect!
-
-## **KWConnect Privacy Policy**
 
 Keller Williams Realty, Inc. ("KWRI") has developed a password-protected, secure intranet training Website (the "Intranet") that allows our franchisees and their independent contractors ("Associates") and employees to view, download and print all or portions of confidential documents and materials, to download approved advertising materials, to communicate with us and others, and to perform other functions that pertain to the operations of our franchisees, Associates and their businesses. Below is the Privacy Policy which informs you of our collection and usage policies and practices that apply to information collected through KWRI's Intranet. Please read and review the Privacy Policy carefully. By using and accessing the Intranet, you expressly acknowledge that you have read, understand and agree to be bound by the Privacy Policy. IF YOU DO NOT AGREE WITH THE TERMS SET FORTH IN THIS PRIVACY POLICY, PLEASE DO NOT USE THE INTRANET. KWRI reserves the right, in its sole discretion, to modify, alter or otherwise update this Privacy Policy at any time. Such modifications shall be effective immediately upon posting. By using the Intranet after we have posted the modifications, you agree to be bound by the revised Privacy Policy.
 
