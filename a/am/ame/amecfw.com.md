@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amecfw.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044811id_/http%3A//www.amecfw.com/utilities/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amecfw.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121618id_/http%3A//www.amecfw.com/utilities/cookies-and-privacy) for the most accurate reproduction.*
 
-# Cookies and privacy | Cookies | Amec Foster Wheeler
+# Cookies and privacy | Cookies | Amec Foster Wheeler | Amec Foster Wheeler
 
 ### Privacy
 
@@ -28,7 +28,7 @@ By using our website, you agree that we can place these types of cookies on your
 If you would rather cookies weren’t stored on your device please read further down to find out how to control and delete them or visit the [About Cookies](http://www.aboutcookies.org/) website which provides comprehensive information on how to do this on a variety of browsers.   
 Read on for more information about cookies.
 
-**What is a cookie?**  
+ **What is a cookie?**  
 A cookie is a small text file downloaded onto your computer or device when you access a website. These cookies allow a website to recognise a user’s device.
 
 Their purpose is to help organise and store browsing information. Some cookies, such as automatic log-ins, are very useful.
