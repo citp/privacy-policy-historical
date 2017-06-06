@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelscent.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208044823id_/http%3A//www.jewelscent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelscent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095207id_/http%3A//www.jewelscent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JewelScent
 
