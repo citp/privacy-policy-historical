@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecounterburger.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201221423id_/http%3A//www.thecounterburger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecounterburger.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143639id_/http%3A//www.thecounterburger.com/privacy) for the most accurate reproduction.*
 
 # The Counter : Custom Built Burgers : Privacy
 
