@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxkinky.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121151917id_/http%3A//www.xxxkinky.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxkinky.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131954id_/http%3A//www.xxxkinky.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
