@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kotakanime.net privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205091210id_/http%3A//www.kotakanime.net/p/privacy-policy-for-httpkotakanime.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kotakanime.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143821id_/http%3A//www.kotakanime.net/p/privacy-policy-for-httpkotakanime.html) for the most accurate reproduction.*
 
 # Privacy Policy - KotakAnime
 
