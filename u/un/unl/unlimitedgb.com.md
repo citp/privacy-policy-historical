@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlimitedgb.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323015143id_/https%3A//www.unlimitedgb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlimitedgb.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172958id_/https%3A//www.unlimitedgb.com/privacy.html) for the most accurate reproduction.*
 
 # | Web Hosting India - Unlimited GB Bandwidth - Unlimited Domains<
 
