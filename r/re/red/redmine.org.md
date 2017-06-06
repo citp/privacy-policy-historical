@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redmine.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003136id_/http%3A//www.redmine.org/projects/redmine/wiki/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redmine.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055522id_/https%3A//www.redmine.org/projects/redmine/wiki/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy - Redmine
 
@@ -71,5 +71,4 @@ Gravatars are loaded from the Gravatar web-server using a URL containing an MD5 
 
 ## Privacy Policy Changes¶
 
-This privacy policy is subject to change without notice and was last updated on Month, Day, Year.  
-Older versions are archived in the history of this page.
+This privacy policy is subject to change without notice. The date of the last update as well as all older versions of this page are archived in the history of this page.
