@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129055429id_/http%3A//www.ocweekly.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202829id_/http%3A//www.ocweekly.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Orange County News and Events | OC Weekly
 
-### OC Weekly, LP
+### OC Weekly News, Inc.
 
 This Privacy Policy is effective as of February 15, 2012.
 
-This Privacy Policy describes the practices that OC Weekly, LP ("OC Weekly") follows with respect to the collection, maintenance and use of information submitted on ocweekly.com (the "Site"). This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of OC Weekly. By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us.
+This Privacy Policy describes the practices that OC Weekly News, Inc. ("OC Weekly") follows with respect to the collection, maintenance and use of information submitted on ocweekly.com (the "Site"). This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of OC Weekly. By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us.
 
 If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time. Your continued use of the Site following the posting of changes to these terms means that you accept those changes. We will give you notice of the revised Privacy Policy by posting the revised policy on the Site and by revising the "effective date" set forth above.
 
