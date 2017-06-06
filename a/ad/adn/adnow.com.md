@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adnow.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122004129id_/http%3A//www.adnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adnow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183700id_/https%3A//adnow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - native advertising
+# AdNow | Privacy policy - native advertising
 
-__By using this site, you agree to use cookie files for analytics, personalized content and advertising. More about our[Cookie Policy](https://web.archive.org/cookie-policy.html)
+__By using this site, you agree to use cookie files for analytics, personalized content and advertising. More about our[Cookie Policy](https://web.archive.org/cookie-policy)
 
 Adnow.com (hereinafter "Company") is an online advertising platform specializing in providing internet advertising campaigns. To provide Clients with internet advertising services COMPANY uses its own technology platform “Adnow” (hereinafter “Adnow”).
 
@@ -38,7 +38,7 @@ The COMPANY’s Customers can use their own database, which may contain personal
 
 5\. Confidentiality
 
-The COMPANY shall not pass by any means or/ and under any circumstances received user information to third parties, except for the provision of this information to such third parties, which operates on behalf of the COMPANY and solely for the provision of Internet Advertising Services by Adnow.com. The COMPANY may provide third parties with information about Users in anonymous form only and solely in the cases stipulated by the legislation of the England and Wales.
+The COMPANY shall not pass by any means or/ and under any circumstances received user information to third parties, except for the provision of this information to such third parties, which operates on behalf of the COMPANY and solely for the provision of Internet Advertising Services by Adnow.com. The COMPANY may provide third parties with information about Users in anonymous form only and solely in the cases stipulated by the legislation of the England and Wales. We do not store credit cards details on our side. We are using certified payment service provider services in order to process customer`s payments. In accordance with the recommendations of Payment Card Industry Security Standards Council, customer card details are protected using Transport Layer encryption — TLS 1.2 and application layer with algorithm AES and key length 256 bit.
 
 6\. The right of “Opt-Out”.
 
