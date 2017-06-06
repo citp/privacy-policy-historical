@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425203536id_/https%3A//www.iboss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114640id_/http%3A//www.iboss.com/privacy-policy) for the most accurate reproduction.*
 
-# iboss Privacy Policy
+# iboss Privacy Policy | iboss
 
 _Last updated: 10/10/2013_
 
