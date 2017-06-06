@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rm.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207024159id_/http%3A//www.rm.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153205id_/http%3A//www.rm.com/about/privacy) for the most accurate reproduction.*
 
-# privacy
+# Privacy Policy - RM Education
 
 RM has created this privacy statement in order to demonstrate our firm commitment to the privacy of our customers, candidates and visitors to our site. The following discloses our information gathering and dissemination practices for this website, www.rm.com our ecommerce pages on shops.rm.com, our group corporate pages on rmplc.com, and our support and account pages - support.rm.com and account.rm.com respectively. See the information at the bottom of this policy for information specific to careers.rm.com. 
 
