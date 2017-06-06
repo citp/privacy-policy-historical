@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snip.ly privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030727id_/http%3A//snip.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snip.ly privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113007id_/http%3A//snip.ly/privacy) for the most accurate reproduction.*
 
 # Sniply: Social Media Conversion | Terms of Service
 
@@ -65,5 +65,3 @@ This Privacy Policy may be updated from time to time for any reason; each versio
 This Privacy Policy is effective as of March 1, 2014.
 
 If you have any thoughts or questions about this Privacy Policy please [let us know](mailto:hello@snip.ly).
-
-Loading...
