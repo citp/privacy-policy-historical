@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myvikingjourney.com privacy policy that was archived on 2016-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160413234959id_/https%3A//www.myvikingjourney.com/Help/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myvikingjourney.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606214328id_/https%3A//www.myvikingjourney.com/Help/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
     <meta name="description" content="Personalize and manage your Viking cruise experience on our new website, MyVikingJourney.com.">
@@ -19,8 +19,8 @@
             }
         });
     </script>
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="/bundles/main_css?v=2_IoQLTi_vJMvycnDCSeRnOcVGc9YgGiFpRLDVzW1QE1" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/bundles/main_css?v=BgFVVBoTZjaFXd4Rjjld52Vloq7XS7lmLgBJOZxvHz81" rel="stylesheet">
 
     <!-- HTML5 shim for IE backwards compatibility -->
     <!--[if lt IE 9]>
@@ -38,13 +38,15 @@
     </script><script src="/Scripts/jquery-1.11.1.min.js" type="text/javascript"></script>
     <script src="/bundles/jquery_bundle?v=f3uo-RQYHgw6MSf4O2heCHLryhNRVrcIy8vWftiz9541"></script>
 
-    <script src="/bundles/knockout?v=vanJSutFAbUZq5UsxQ3EFdW7IV4iherkASPDd4CuSWs1"></script>
+    <script src="/bundles/knockout?v=daBYZaWvXTAyseZCPSGwXycTtnNxlbwvTp8k2gpQIEM1"></script>
 
-    <script src="/bundles/utils?v=CVMnrxZBjiAYoWJrE497ezxTn2Hod686w-NBF95LS-Y1"></script>
+    <script src="/bundles/utils?v=RHvqkGUs1izdf4dYvj0seYYCLwdG_7bKfKt0Rz9Kes41"></script>
 
     <script src="/bundles/vikingGlobal?v=-pedbhu0aS_tarHhlGBjYGI-NE_MPjB0Mz8NrVL6ByE1"></script>
 
-    <script src="/bundles/navigation_scripts?v=7NoaQdsuHOWht05OlPrJATCN4tjO0KYQGipKYYHQQ4Q1"></script>
+    <script src="/bundles/navigation_scripts?v=eJ_KYalh09NSkDHmc5ISGrS9cqB_dmnW3kqBsFLQsRA1"></script>
+
+    <script src="/bundles/facebookLogin?v=y7jBb8o4MKvQHlmSty1eRLms0z3M7wNOcx3QnsJujKI1"></script>
 
     <script type="text/javascript">
         if (typeof (viking) !== 'undefined' && typeof (viking.utils) !== 'undefined' && typeof (viking.utils.applicationPath) !== 'undefined') {
@@ -79,21 +81,28 @@
 <body onunload="">
     
 
-    <a class="header-logo header-logo-white pull-right hidden-xs" href="/" title="Home">
-        <img src="/content/my_cruise/images/vc-logo-white.png" class="img-responsive" alt="">
-    </a>
-    <a class="header-logo header-logo-white-small visible-xs" href="/" title="Home">
-        <img src="/content/my_cruise/images/vc-logo-white.png" class="img-responsive" alt="">
-    </a>
+                                <a class="header-logo header-logo-white pull-right hidden-xs" href="/" title="Home">
+                                    <img src="/content/my_cruise/images/vc-logo-white.png" class="img-responsive" alt="">
+                                </a>
+                                <a class="header-logo header-logo-white-small visible-xs" href="/" title="Home">
+                                    <img src="/content/my_cruise/images/vc-logo-white.png" class="img-responsive" alt="">
+                                </a>
 <script type="text/javascript">
+    var FBAPPJSON = {"FbAppId":"1720316938241385","FbIdExists":false,"ApiVersion":"v2.6","LoggedIn":false};
     $(function () {
         var options = {
             cartTotal: '0',
             notificationTotal: '0',
             updateBookingNumberUrl: '/Navigation/AssignBooking',
-            addBookingNumberUrl: '/Account/AddBooking'
+            addBookingNumberUrl: '/Account/AddBooking',
+            cartNotificationMgr: window.CartNotificationManager
         }
         header.methods.init(options);
+        $('.log-out-link').on('click', function(){
+            // logout of facebook
+            if(typeof FacebookManager != 'undefined')
+                FacebookManager.CallLogout();
+        })
     });
 </script>
 
@@ -172,7 +181,7 @@ We also use cookies to improve the performance of our advertising on other websi
 
 
         </div>
-    <div id="loading-modal" class="modal fade loading-modal" data-backdrop="static" data-keyboard="false">
+    <div id="loading-modal" class="modal fade loading-modal" data-keyboard="false">
     <div class="modal-dialog modal-lg">
     </div>
 </div>
@@ -199,24 +208,65 @@ We also use cookies to improve the performance of our advertising on other websi
     <div class="footer-stripe">
     </div>
 </footer>
+    <div id="modalUnpaidCartItemsAlert" class="modal fade rivers-modal viking-modal-lg" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <a href="#" data-dismiss="modal" class="pull-right gif-no-confirm">
+                    <span aria-hidden="true">
+                        <img style="height: 15px" src="/content/my_cruise/images/close.png" alt="">
+                    </span><span class="sr-only">Close</span>
+                </a>
+                <div class="clearfix"></div>
+            </div>
+            <div class="modal-body container-fluid">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <h3 class="rivers">Important Reminder</h3>
+                        <hr>
+                    </div>
+                </div>
+                <div class="alerts-container">
+                    <div class="row gray-row">
+                        <div class="col-xs-12">
+                            <p>
+                                You have <span data-bind="text: NumberOfItems()">1</span> item<span data-bind="visible: HasMultiple() == true">s</span> 
+                                in your shopping cart that still require<span data-bind="visible: HasMultiple() == false">s</span> payment.<br>
+                                <span class="text-brand-danger">No reservations are made until payment is received.</span><br>
+                                Would you like to go to your cart now or pay for your items later?
+                            </p>
+                            <div class="text-center cart-checkout-button-container" style="float:right;">
+                                <a id="pay-later" href="#" data-bind="click: PayLaterLink" class="action-link gif-no-confirm">
+                                    <span>NO THANKS, I'LL PAY LATER</span> <span class="icon icon-chevron-right"></span>
+                                </a>
+                                <a class="btn btn-default btn-primary text-center btn-rivers btn-primary-rivers gif-no-confirm" href="/Cart/Checkout" style="margin-left:25px;">
+                                    CHECKOUT
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/scripts/my_cruise/Cart/CartNotificationManager.js"></script>
+
     <div id="iTBW"></div>
     <div id="ViPixels">
         
 			<!-- SiteCatalyst code version: H.23.8. Copyright 1996-2011 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
             <script type="text/javascript" language="JavaScript">
-            <!--
+
             var theOmniDate=new Date();
             var currentOmniYear=(theOmniDate.getFullYear());
-            s.visEvent=s.getVisitStart('s_visit');
-
             
             s.AddEvents='';
                     s.pageType='';
-                
-                    s.prop11='MVJ';
-                    
+                s.prop11='MVJ';
             s.server='WEB'; // Server
             s.channel='mvj:us:help'; // Channel
+            s.basePageName='mvj:us:help:privacy'; // Base Page Name
             s.pageName='mvj:us:help:privacy'; // Page Name
             
                     s.prevPopPage=s.getPreviousValue(s.popPage,'gpv_pnp'); // Previous Popup Page
@@ -231,25 +281,22 @@ We also use cookies to improve the performance of our advertising on other websi
             s.prop28='us'; // Country Website
             s.prop29=''; // IP Country
             s.prop30='3.8'; // Js Release Version
+            s.prodline = 'vrc';
             s.prop32=location.href.toLowerCase().replace('http://','').replace('https://','').replace('www2.','').replace('www.','');
             s.prop33=s.getAndPersistValue(s.emailProfileID,'t_emailid', 0); // Email ID
             /* Conversion Variables */
             
-            s.events='event30' + ((s.visEvent) ? s.AddEvents : ''); 
-                    s.eVar56='false'; // Is Pricing Page
-                    s.prop39='D=v56'; // Is Pricing Page
-                    
+            s.events='event30';//Is Pricing Page
+s.eVar56='false';s.prop39='D=v56';
             s.eVar21='D=c20'; // Previous Page
             s.eVar6='D=c11'; // site
-            if (s.visEvent) {
-                s.campaign='';  // Campaign 
-                s.eVar25='D=v0';  // Campaign (Week)
-                s.eVar26='D=v0';  // Campaign (Month)
+                s.temp_campaign='';  // Campaign 
+                s.temp_eVar25='D=v0';  // Campaign (Week)
+                s.temp_eVar26='D=v0';  // Campaign (Month)
                 
-                s.eVar34='D=c23'; // Visitor Type
+                s.temp_eVar34='D=c23'; // Visitor Type
                 s.uniSrcPath='typed-unknown'; // Unified Source Pathing prefix
                 s.chnlPath='typed-unknown'; // Channel Source Pathing prefix
-            }
             
             s.prop34='D=' + '"' + s.getAndPersistValue(s.uniSrcPath,'t_camppath', 0) + ':"' + '+pageName'; // Unified Source Pathing
             s.prop35='D=' + '"' + s.getAndPersistValue(s.chnlPath,'t_chnlpath', 0) + ':"' + '+pageName'; // Channel Pathing
@@ -260,6 +307,7 @@ We also use cookies to improve the performance of our advertising on other websi
             s.eVar41='D=c27'; // Day
             s.eVar42='D=c28'; // Country Website
             s.eVar66=s.getQueryParam('segment'); // Segment
+            s.eVar95=s.getQueryParam('utm_id'); // Utm_id
             
             s.eVar48='D=pageName'; // Page Name
             
@@ -281,16 +329,16 @@ Start of DoubleClick Floodlight Tag: Please do not remove
 Activity name of this tag: Webvisitors VikingRiverCruises 
 URL of the webpage where the tag is expected to be placed: 
 This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag. 
-Creation Date: 10/22/2014 
+Creation Date: 10/22/2014 Updated Date: 04/04/2016
 -->
 
 <script type="text/javascript">
 var axel = Math.random() + "";
 var a = axel * 10000000000000;
-document.write('<iframe src="http://4498751.fls.doubleclick.net/activityi;src=4498751;type=siteactv;cat=Webvi00;u1=OceanCruisesMyCruise;u7=us;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="http://4498751.fls.doubleclick.net/activityi;src=4498751;type=siteactv;cat=Webvi00;u1=OceanCruisesMyCruise;u7=us;ord=6796779782316.118?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+document.write('<iframe src="https://4498751.fls.doubleclick.net/activityi;src=4498751;type=siteactv;cat=Webvi00;u1=OceanCruisesMyCruise;u7=us;u8=Privacy;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script><iframe src="https://4498751.fls.doubleclick.net/activityi;src=4498751;type=siteactv;cat=Webvi00;u1=OceanCruisesMyCruise;u7=us;u8=Privacy;ord=4112132486749.782?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
-<iframe src="http://4498751.fls.doubleclick.net/activityi;src=4498751;type=siteactv;cat=Webvi00;u1=OceanCruisesMyCruise;u7=us;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<iframe src="https://4498751.fls.doubleclick.net/activityi;src=4498751;type=siteactv;cat=Webvi00;u1=OceanCruisesMyCruise;u7=us;u8=Privacy;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
 <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
 
@@ -303,7 +351,7 @@ document.write('<iframe src="http://4498751.fls.doubleclick.net/activityi;src=44
         }
         if (location.pathname == '/') {
             document.body.className = document.body.className + 'full-screen';
-        }
+        }        
     </script>
 
 </body></html>
