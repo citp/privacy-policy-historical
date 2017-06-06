@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dicardiology.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716031357id_/http%3A//www.scrantongillette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dicardiology.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195154id_/http%3A//www.scrantongillette.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scranton Gillette Communications
 
