@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericstips.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230191439id_/http%3A//www.ericstips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericstips.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132135id_/http%3A//www.ericstips.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Eric's Tips
 
