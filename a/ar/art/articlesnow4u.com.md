@@ -1,43 +1,39 @@
-> *The following text is extracted and transformed from the articlesnow4u.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130210204id_/http%3A//www.articlesnow4u.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesnow4u.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021310id_/http%3A//articlesnow4u.com/pages/9/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## PRIVACY POLICY
+Articlesnow4u.com (" **Articlesnow4u** ") operates Articlesnow4u.com and may operate other websites. It is Articlesnow4u's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-### Introduction
+**Website Visitors**
 
-We Articlesnow4u.com are incorporated in England carrying on business as a Article Directory and we are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
+Like most website operators, Articlesnow4u collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Articlesnow4u's purpose in collecting non-personally identifying information is to better understand how Articlesnow4u's visitors use its website. From time to time, Articlesnow4u may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-### We are committed to protecting your privacy
+Articlesnow4u also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Articlesnow4u.com blogs/sites. Articlesnow4u only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. 
+**Gathering of Personally-Identifying Information**
 
-### Information Collected
+Certain visitors to Articlesnow4u's websites choose to interact with Articlesnow4u in ways that require Articlesnow4u to gather personally-identifying information. The amount and type of information that Articlesnow4u gathers depends on the nature of the interaction. For example, we ask visitors who sign up at Articlesnow4u.com to provide a username and email address. Those who engage in transactions with Articlesnow4u are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Articlesnow4u collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Articlesnow4u. Articlesnow4u does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website. 
+**Aggregated Statistics**
 
-[Data in relation to credit card payments is processed by www.paypal.com on a secure website linked to ours and they have their own privacy policy.]
+Articlesnow4u may collect statistics about the behavior of visitors to its websites. Articlesnow4u may display this information publicly or provide it to others. However, Articlesnow4u does not disclose personally-identifying information other than as described below.
 
-### Information Use
+**Protection of Certain Personally-Identifying Information**
 
-We use the information collected primarily to process the task for which you visited the website. Data collected in the UK is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. 
+Articlesnow4u discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Articlesnow4u's behalf or to provide services available at Articlesnow4u's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Articlesnow4u's websites, you consent to the transfer of such information to them. Articlesnow4u will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Articlesnow4u discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Articlesnow4u believes in good faith that disclosure is reasonably necessary to protect the property or rights of Articlesnow4u, third parties or the public at large. If you are a registered user of an Articlesnow4u website and have supplied your email address, Articlesnow4u may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Articlesnow4u and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Articlesnow4u takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-### Cookies 
+**Cookies**
 
-Your Internet browser has the in-built facility for storing small files - "cookies" - that hold information which allows a website to recognise your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired. 
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Articlesnow4u uses cookies to help Articlesnow4u identify and track visitors, their usage of Articlesnow4u website, and their website access preferences. Articlesnow4u visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Articlesnow4u's websites, with the drawback that certain features of Articlesnow4u's websites may not function properly without the aid of cookies.
 
-### Disclosing Information
+**Business Transfers**
 
-We do not disclose any personal information obtained about you from this website to third parties except when we need to do so in order to complete the transaction - e.g. when arranging for a courier company to deliver goods that you have ordered. We may also use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent. 
+If Articlesnow4u, or substantially all of its assets, were acquired, or in the unlikely event that Articlesnow4u goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Articlesnow4u may continue to use your personal information as set forth in this policy.
 
-We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals. 
+**Ads**
 
-### Changes to this Policy
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Articlesnow4u and does not cover the use of cookies by any advertisers.
 
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval. 
+**Privacy Policy Changes**
 
-### Contacting Us
-
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [webmaster@articlesnow4u.com](mailto:webmaster@articlesnow4u.com). You can also correct any factual errors in that information or require us to remove your details form any list under our control. 
-
-Privacy Policy written by [ContractStore Ltd - Business Contracts](http://www.contractstore.com/).
+Although most changes are likely to be minor, Articlesnow4u may change its Privacy Policy from time to time, and in Articlesnow4u's sole discretion. Articlesnow4u encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Articlesnow4u.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
