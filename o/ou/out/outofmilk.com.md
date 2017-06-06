@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outofmilk.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202195002id_/https%3A//www.outofmilk.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofmilk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140933id_/http%3A//www.outofmilk.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Out of Milk - Privacy
 
 #### Last Updated : May 31, 2016
 
-This privacy policy (this “ **Policy** ”) describes the collection of personal information by Capigami, Inc., a Delaware corporation (“ **Capigami** ,” “ **we** ,” or “ **us** ”) from users of our website at www.capigami.com and www.outofmilk.com (collectively, the “ **Website** ”), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our “ **Service** ”). This Policy also describes our use and disclosure of such information. By using our Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the Capigami Terms of Use **<http://www.outofmilk.com/Terms.aspx>** and End User License Agreement **<http://www.outofmilk.com/EULA.aspx>** for the mobile-device, software applications that we may provide as part of the Service (“ **Apps** ”).
+This privacy policy (this “ **Policy** ”) describes the collection of personal information by Bonial International GmbH, a Delaware corporation (“ **Bonial International GmbH** ,” “ **we** ,” or “ **us** ”) from users of our website at www.bonial.com and www.outofmilk.com (collectively, the “ **Website** ”), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our “ **Service** ”). This Policy also describes our use and disclosure of such information. By using our Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the Bonial International GmbH Terms of Use **<http://www.outofmilk.com/Terms.aspx>** and End User License Agreement **<http://www.outofmilk.com/EULA.aspx>** for the mobile-device, software applications that we may provide as part of the Service (“ **Apps** ”).
 
 #### Personal Information
 
@@ -18,7 +18,7 @@ Personal Information does not include “aggregate” or other non-personally id
 
 We collect information that our users provide to us in a variety of ways on our Service. These include the following:
 
-1\. **User Accounts:** Our Service may give you the ability to register for a Capigami account or to create an account on the applicable Service. If we offer user account functionality on the Service, we will collect the Personal Information that you provide to us in the course of registering for an account or updating your account. This information may include, for example, name, email address, zip code, country, and related demographic information about you. We may indicate that some Personal Information is required for you to register for the account, while some may be optional.
+1\. **User Accounts:** Our Service may give you the ability to register for a Bonial International GmbH account or to create an account on the applicable Service. If we offer user account functionality on the Service, we will collect the Personal Information that you provide to us in the course of registering for an account or updating your account. This information may include, for example, name, email address, zip code, country, and related demographic information about you. We may indicate that some Personal Information is required for you to register for the account, while some may be optional.
 
 2\. **List Information.** When you use our Service, we collect information about the lists you create and the content you include on these lists.
 
@@ -72,7 +72,7 @@ Some features on our Service may allow you to upload, post, or otherwise transmi
 
 **Business Transfers**
 
-Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of Capigami assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
+Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of Bonial International GmbH assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
 
 **To Protect our Interests**
 
@@ -114,6 +114,6 @@ We may occasionally update this Policy. When we do, we will also revise the “l
 
 If you have any questions or comments about this Policy, please contact us using the following contact information:
 
-Capigami, Inc.  
-322 Ritch St.  
-San Francisco, CA 94105 support@capigami.com
+Bonial International GmbH  
+Warschauer Straße 70a   
+10243 Berlin support@capigami.com
