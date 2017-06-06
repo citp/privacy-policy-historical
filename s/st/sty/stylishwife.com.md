@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylishwife.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125024547id_/http%3A//www.stylishwife.com/our-privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylishwife.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101942id_/http%3A//www.stylishwife.com/our-privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy - Stylishwife
 
