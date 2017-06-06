@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ims-ghaziabad.ac.in privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217051919id_/http%3A//ims-ghaziabad.ac.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ims-ghaziabad.ac.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043209id_/http%3A//ims-ghaziabad.ac.in/privacy.php) for the most accurate reproduction.*
 
 # IMS Ghaziabad Group of Institution
 
