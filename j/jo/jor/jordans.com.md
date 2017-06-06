@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218035324id_/http%3A//www.jordans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025221id_/http%3A//www.jordans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement for jordans.com
 
@@ -59,6 +59,12 @@ We receive and store certain types of information when you interact with our web
 
 
 We operate cameras in stores for security and operational purposes, such as to measure traffic patterns. When used for operational purposes, we do not use these cameras to identify you personally. 
+
+### Location Based Services
+
+We use Location Based Services (LBS) to understand traffic patterns in venues. The location data we capture helps us to understand venues, such as how long customers stand in line and how they generally move around an area, enhancing operational efficiency and improving user experience.
+
+If you would like to find out more about the data we collect through Mobile Location Analytics MLA, take a look at our solution providers [location analytics policy](http://purple.ai/location-analytics-policy "Purple WiFi"), alternatively you can [opt out of location analytics](http://purple.ai/location-analytics-optout "Purple WiFi Opt Out"). 
 
 ### How We Use Your Information
 
