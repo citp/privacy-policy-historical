@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reservationcounter.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105052642id_/https%3A//www.reservationcounter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reservationcounter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074030id_/https%3A//www.reservationcounter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Reservation Counter
 
@@ -6,7 +6,7 @@
 
 Reservation Counter's Privacy Policy was updated on September 26, 2016.
 
-Thanks for using Reservation Counter. We've developed a policy that explains how and why we use the information that comes through our site. It applies to the services available through the ReservationCounter.com website, its mobile site, and all other applications and online communications, which we refer to as our â€œSite" in this policy. We respect your expectations and take your privacy seriously.
+Thanks for using Reservation Counter. We've developed a policy that explains how and why we use the information that comes through our site. It applies to the services available through the ReservationCounter.com website, its mobile site, and all other applications and online communications, which we refer to as our "Site" in this policy. We respect your expectations and take your privacy seriously.
 
  **The Basics**
 
@@ -77,7 +77,7 @@ As described in more detail below, our Site uses cookies to store your preferenc
 
 
 
- **Opting Out of Cookies:** We provide you with choice over the use of cookies as described in this Privacy Policy. However, our Site is not currently configured to respond to Do Not Track signals. If you'd rather we didn't use ReservationCounter.com cookies when you visit us, click here for how to configure your browser settings to reject cookies. 
+ **Opting Out of Cookies:** We provide you with choice over the use of cookies as described in this Privacy Policy. However, our Site is not currently configured to respond to Do Not Track signals. If you'd rather we didn't use ReservationCounter.com cookies when you visit us, [click here](https://web.archive.org/privacy/#about_cookies) for how to configure your browser settings to reject cookies. 
 
 If you would like to opt-out of third-party cookies, here are some options:
 
@@ -85,7 +85,7 @@ If you would like to opt-out of third-party cookies, here are some options:
   * If you would like to disable the display of advertisements served by Criteo, please click here: <http://www.criteo.com/privacy/full-privacy-text/>.
   * If you would like to generally (i.e. not just for this Site) opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance's (DAA) Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website or [click here](http://preferences-mgr.truste.com/). If you are located in the European Union, please [click here](http://www.youronlinechoices.eu/) to opt out.
   * In order to control the collection of data for analytical purposes by Google Analytics, you may want to visit the following link: <https://tools.google.com/dlpage/gaoptout>.
-  * If you wish to block other cookies, including those being served by companies that are not part of the NAI or DAA, click here for how to configure your browser settings to reject cookies. You can also delete all cookies that are already on your computer's hard drive by searching for and deleting files with "cookie" in it.
+  * If you wish to block other cookies, including those being served by companies that are not part of the NAI or DAA, [click here](https://web.archive.org/privacy/#about_cookies) for how to configure your browser settings to reject cookies. You can also delete all cookies that are already on your computer's hard drive by searching for and deleting files with "cookie" in it.
 
 
 
