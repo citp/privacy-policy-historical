@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixxmix.us privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207042601id_/http%3A//www.mixxmix.us/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixxmix.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165634id_/http%3A//mixxmix.us/member/privacy.html) for the most accurate reproduction.*
 
-# MIXXMIX | Shop Korean fashion casual style clothing, bag, shoes, acc and jewelry for all
+# mixxmix | Shop Korean Fashion for Women. 5% Off New Arrivals.
 
 'MIXXMIX' (hereinafter referred to as the "Company") is committed in protecting your personal information and in complying with the Consumer Protection in Electronic Commerce Act. The Privacy Policy covers the purposes and ways of collecting your personal information and on how your information is secured by Company.
 
