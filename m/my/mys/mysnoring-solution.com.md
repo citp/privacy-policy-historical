@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysnoring-solution.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603145854id_/https%3A//mysnoring-solution.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysnoring-solution.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184606id_/https%3A//mysnoring-solution.com/privacy.html) for the most accurate reproduction.*
 
 # An Effective Anti-Snoring Solution | My Snoring Solution
 
@@ -59,7 +59,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20160603145854id_/https%3A//mysnoring-solution.com/returns.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20170606184606id_/https%3A//mysnoring-solution.com/returns.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ### Your consent
 
