@@ -1,130 +1,8 @@
-> *The following text is extracted and transformed from the footlive.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127120353id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125610id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Footlive.com
 
 [](http://www.footlive.com/)
-
-  * All countries +
-    * A
-    * [Albania](https://web.archive.org/livescore/albania/ "Albania football results")
-    * [Algeria](https://web.archive.org/livescore/algeria/ "Algeria football results")
-    * [Andorra](https://web.archive.org/livescore/andorra/)
-    * [Angola](https://web.archive.org/livescore/angola/)
-    * [Argentina](https://web.archive.org/livescore/argentina/)
-    * [Armenia](https://web.archive.org/livescore/armenia/ "Armenia football results")
-    * [Australia](https://web.archive.org/livescore/australia/)
-    * [Austria](https://web.archive.org/livescore/austria/ "Austria football results")
-    * [Azerbaijan](https://web.archive.org/livescore/azerbaijan/ "Azerbaijan football results")
-    * B
-    * [Bahrain](https://web.archive.org/livescore/bahrain/)
-    * [Belarus](https://web.archive.org/livescore/belarus/)
-    * [Belgium](https://web.archive.org/livescore/belgium/)
-    * [Bolivia](https://web.archive.org/livescore/bolivia/)
-    * [Bosnia-Herzegovina](https://web.archive.org/livescore/bosnia-herzegovina/)
-    * [Brazil](https://web.archive.org/livescore/brazil/)
-    * [Bulgaria](https://web.archive.org/livescore/bulgaria/)
-    * C
-    * [Canada](https://web.archive.org/livescore/canada/)
-    * [Chile](https://web.archive.org/livescore/chile/)
-    * [China](https://web.archive.org/livescore/china/)
-    * [Colombia](https://web.archive.org/livescore/colombia/)
-    * [Costa Rica](https://web.archive.org/livescore/costa-rica/)
-    * [Croatia](https://web.archive.org/livescore/croatia/)
-    * [Cyprus](https://web.archive.org/livescore/cyprus/)
-    * [Czech Republic](https://web.archive.org/livescore/czech-republic/)
-    * E
-    * [Ecuador](https://web.archive.org/livescore/ecuador/)
-    * [Egypt](https://web.archive.org/livescore/egypt/)
-    * [El Salvador](https://web.archive.org/livescore/el-salvador/)
-    * [England](https://web.archive.org/livescore/england/)
-    * [Estonia](https://web.archive.org/livescore/estonia/)
-    * F
-    * [Faroe Islands](https://web.archive.org/livescore/faroe-islands/)
-    * [Finland](https://web.archive.org/livescore/finland/)
-    * [France](https://web.archive.org/livescore/france/)
-    * G
-    * [Georgia](https://web.archive.org/livescore/georgia/)
-    * [Germany](https://web.archive.org/livescore/germany/)
-    * [Grenada](https://web.archive.org/livescore/grenada/)
-    * [Guatemala](https://web.archive.org/livescore/guatemala/)
-    * H
-    * [Honduras](https://web.archive.org/livescore/honduras/)
-    * [Hong Kong](https://web.archive.org/livescore/hong-kong/)
-    * [Hungary](https://web.archive.org/livescore/hungary/)
-    * I
-    * [Iceland](https://web.archive.org/livescore/iceland/)
-    * [India](https://web.archive.org/livescore/india/)
-    * [Iran](https://web.archive.org/livescore/iran/)
-    * [Ireland](https://web.archive.org/livescore/ireland/)
-    * [Israel](https://web.archive.org/livescore/israel/)
-    * [Italy](https://web.archive.org/livescore/italy/)
-    * J
-    * [Japan](https://web.archive.org/livescore/japan/)
-    * [Jordan](https://web.archive.org/livescore/jordan/)
-    * K
-    * [Kazakhstan](https://web.archive.org/livescore/kazakhstan/)
-    * [Kenya](https://web.archive.org/livescore/kenya/ "Kenya football results")
-    * [Kuwait](https://web.archive.org/livescore/kuwait/)
-    * L
-    * [Latvia](https://web.archive.org/livescore/latvia/)
-    * [Lebanon](https://web.archive.org/livescore/lebanon/)
-    * [Lithuania](https://web.archive.org/livescore/lithuania/)
-    * [Luxembourg](https://web.archive.org/livescore/luxembourg/)
-    * M
-    * [Macedonia](https://web.archive.org/livescore/macedonia/)
-    * [Malaysia](https://web.archive.org/livescore/malaysia/)
-    * [Malta](https://web.archive.org/livescore/malta/)
-    * [Mexico](https://web.archive.org/livescore/mexico/)
-    * [Moldova](https://web.archive.org/livescore/moldova/)
-    * [Montenegro](https://web.archive.org/livescore/montenegro/)
-    * [Morocco](https://web.archive.org/livescore/morocco/)
-    * N
-    * [N. Ireland](https://web.archive.org/livescore/n-ireland/)
-    * [Netherlands](https://web.archive.org/livescore/netherlands/)
-    * [Norway](https://web.archive.org/livescore/norway/)
-    * O
-    * [Oman](https://web.archive.org/livescore/oman/)
-    * P
-    * [Paraguay](https://web.archive.org/livescore/paraguay/)
-    * [Peru](https://web.archive.org/livescore/peru/)
-    * [Poland](https://web.archive.org/livescore/poland/)
-    * [Portugal](https://web.archive.org/livescore/portugal/)
-    * Q
-    * [Qatar](https://web.archive.org/livescore/qatar/)
-    * R
-    * [Romania](https://web.archive.org/livescore/romania/)
-    * [Russia](https://web.archive.org/livescore/russia/)
-    * S
-    * [San Marino](https://web.archive.org/livescore/san-marino/)
-    * [Saudi Arabia](https://web.archive.org/livescore/saudi-arabia/)
-    * [Scotland](https://web.archive.org/livescore/scotland/)
-    * [Senegal](https://web.archive.org/livescore/senegal/)
-    * [Serbia](https://web.archive.org/livescore/serbia/)
-    * [Singapore](https://web.archive.org/livescore/singapore/)
-    * [Slovakia](https://web.archive.org/livescore/slovakia/)
-    * [Slovenia](https://web.archive.org/livescore/slovenia/)
-    * [South Africa](https://web.archive.org/livescore/south-africa/)
-    * [South Korea](https://web.archive.org/livescore/south-korea/)
-    * [Spain](https://web.archive.org/livescore/spain/)
-    * [Sweden](https://web.archive.org/livescore/sweden/)
-    * [Switzerland](https://web.archive.org/livescore/switzerland/)
-    * [Syria](https://web.archive.org/livescore/syria/)
-    * T
-    * [Thailand](https://web.archive.org/livescore/thailand/)
-    * [Tunisia](https://web.archive.org/livescore/tunisia/)
-    * [Turkey](https://web.archive.org/livescore/turkey/)
-    * U
-    * [U.A.E.](https://web.archive.org/livescore/u.a.e./)
-    * [USA](https://web.archive.org/livescore/usa/)
-    * [Ukraine](https://web.archive.org/livescore/ukraine/)
-    * [Uruguay](https://web.archive.org/livescore/uruguay/)
-    * [Uzbekistan](https://web.archive.org/livescore/uzbekistan/)
-    * V
-    * [Venezuela](https://web.archive.org/livescore/venezuela/)
-    * [Vietnam](https://web.archive.org/livescore/vietnam/)
-    * W
-    * [Wales](https://web.archive.org/livescore/wales/)
-
 
   * [England](https://web.archive.org/livescore/england/)
   * [Italy](https://web.archive.org/livescore/italy/)
@@ -133,6 +11,7 @@
   * [Spain](https://web.archive.org/livescore/spain/)
   * [Greece](https://web.archive.org/livescore/greece/)
   * [Portugal](https://web.archive.org/livescore/portugal/)
+  * [Youth Results](https://web.archive.org/youth/)
 
 
   * Europe (A-L)
@@ -266,5 +145,3 @@ This document was last updated on August 06, 2016
 ### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. <http://www.footlive.com/contact/>
-
-[Privacy Policy](http://www.footlive.com/privacy-policy/)
