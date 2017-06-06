@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omeleto.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023005125id_/http%3A//omeleto.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omeleto.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161618id_/http%3A//omeleto.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Omeleto
 
