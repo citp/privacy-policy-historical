@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mykidstime.com privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902041133id_/http%3A//www.mykidstime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykidstime.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151653id_/https%3A//www.mykidstime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyKidsTime
 
