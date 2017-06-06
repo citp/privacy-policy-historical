@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwarwings.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119135950id_/http%3A//worldwarwings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwarwings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033209id_/http%3A//worldwarwings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World War Wings
 
@@ -94,11 +94,11 @@ THIS POLICY WAS LAST MODIFIED ON **23 January  2016**
 
 IF THERE ARE ANY QUESTIONS REGARDING THIS PRIVACY POLICY YOU MAY CONTACT US USING THE INFORMATION BELOW.
 
-TRMI Inc. / dba WorldWarWings.com  
+Society Of Rock Inc. / dba WorldWarWings.com  
 832 5TH AVE. #6  
 SAN DIEGO, CA 92101  
 UNITED STATES OF AMERICA  
-admin [@] countryrebel [dot] com  
+support [@] worldwarwings [dot] com  
 (949) 212-9195
 
 ### PRIVACY POLICY CUSTOMER PLEDGE
