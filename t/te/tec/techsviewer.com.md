@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsviewer.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101164319id_/http%3A//techsviewer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsviewer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224944id_/https%3A//techsviewer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techsviewer
 
@@ -19,6 +19,10 @@ We adopt appropriate data collection, storage and processing practices and secur
 **Sharing your personal information**
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Third party websites**
 
