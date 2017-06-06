@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the kinhr.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601212512id_/https%3A//kinhr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinhr.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182939id_/https%3A//kinhr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kin HR
-
-## Privacy Policy
-
-Last updated: February 4, 2016
 
 This privacy policy (“ **Privacy Policy** ”) provides our policies and procedures for collecting, using, and disclosing your information. Users can access the services provided by Kin Workplace Solutions, LLC (“ **Kin** ”, “ **we** ” or “ **our** ”) through our website [www.kinhr.com](http://kinhr.com/) (the “ **Services** ”). This Privacy Policy governs your access of the Services, regardless of what type of device or application you use to access them. By using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses of information described in this Privacy Policy. The term “ **Information** ” refers to all of the different forms of data, content, and information described below.
 
@@ -31,6 +27,10 @@ We use “cookies” to collect Information and improve our Services. A cookie i
 #### Log Data.
 
 When you use the Services, we automatically record Information from the device you use, its software, and your activity using the Services. This may include the device’s Internet Protocol (“ **IP** ”) address, browser type, the web page(s) visited before you came to our website, Information you search for on our website, locale preferences, identification numbers associated with your devices, your mobile carrier, date and time stamps associated with transactions, system configuration, metadata concerning your Files, and other interactions with the Services.
+
+#### Integrations.
+
+Kin may allow third party integrators (“ **Integrators** “) to create applications and/or tools that supplement or enhance the Services (the “ **Integrations** “). If you choose to access any such Integrations, the Integrators will access (via API) and use information you provide solely for the purpose of supplementing or enhancing the Services through the Integrations.
 
 ### 2\. How We Use Your Information
 
