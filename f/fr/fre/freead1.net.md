@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freead1.net privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012075852id_/http%3A//freead1.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freead1.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160541id_/http%3A//freead1.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Freead1.net can not guarantee the accuracy, integrity and actuality of the conte
 
  **\- Google Privacy Policy**
 
-The Google Privacy Policy describes how Google and its subsidiaries treat personal information when you use Google services, including information provided when you use [FreeAd1.net](http://www.freead1.net/ "FreeAd1.net - Free Classified Ads").
+The Google Privacy Policy describes how Google and its subsidiaries treat personal information when you use Google services, including information provided when you use [FreeAd1.net](http://freead1.net/ "FreeAd1.net - Free Classified Ads").
 
 * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website.
 
@@ -54,6 +54,6 @@ Personal information provided to Freead1.net may be requested for deletion at an
 
  **\- Responsible authority**
 
-Questions regarding data privacy and protection should be addressed to [contact form](https://web.archive.org/web/20161012075852id_/http%3A//freead1.net/contact "Contact").
+Questions regarding data privacy and protection should be addressed to [contact form](https://web.archive.org/web/20170606160541id_/http%3A//freead1.net/contact "Contact").
 
-Copyright © 2009 - 2016 Freead1.net. All rights reserved.
+Copyright © 2009 - 2017 Freead1.net. All rights reserved.
