@@ -1,45 +1,29 @@
-> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013124830id_/https%3A//www.careerjunction.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192402id_/https%3A//www.careerjunction.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerJunction
 
   1. Introduction
-
   2. Information Collection & Use
-
   3. Job Seeker Registration
-
   4. Recruiter Registration
-
   5. Cookies
-
   6. Log Files
-
   7. Sharing
-
   8. Legal Disclaimer
-
   9. Links
-
   10. Communications
-
   11. Security and Data Storage
-
   12. Access and Choice
-
   13. Social Media Widgets
-
   14. Choice/Opt Out
-
   15. Notification Of Changes
-
   16. Contact Us
 
 
 
+This privacy policy applies to [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) owned and operated by Interactive Junction Holdings (Pty) Ltd. ("CareerJunction", "We", "Us", "Our"). This privacy policy describes how Interactive Junction Holdings (Pty) Ltd. collects and uses the personal information you provide on our web site: [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and our mobile site [http://careerjunction.mobi](https://web.archive.org/web/20170606192402id_/https%3A//www.careerjunction.co.za/careerjunction.mobi). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-This privacy policy applies to [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) owned and operated by Interactive Junction Holdings (Pty) Ltd. ("CareerJunction", "We", "Us", "Our"). This privacy policy describes how Interactive Junction Holdings (Pty) Ltd. collects and uses the personal information you provide on our web site: [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and our mobile site [http://careerjunction.mobi](https://web.archive.org/web/20161013124830id_/https%3A//www.careerjunction.co.za/careerjunction.mobi). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-Interactive Junction Holdings (Pty) Ltd. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and our mobile site [http://careerjunction.mobi](https://web.archive.org/web/20161013124830id_/https%3A//www.careerjunction.co.za/careerjunction.mobi).
+Interactive Junction Holdings (Pty) Ltd. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and our mobile site [http://careerjunction.mobi](https://web.archive.org/web/20170606192402id_/https%3A//www.careerjunction.co.za/careerjunction.mobi).
 
 If you have questions or concerns regarding this policy, you should first [Contact Us](https://web.archive.org/about). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -58,39 +42,22 @@ In order to use the functionality of this website, a user must first complete th
 We request the following information in our CV form:
 
   * Full Name
-
   * Date of Birth
-
   * ID Number
-
   * Affirmative Action Job Seeker (African/Coloured/Indian/Disabled/Female)
-
   * Phone Number
-
   * Additional Phone Number (optional)
-
   * Email Address
-
   * Location
-
   * Languages
-
   * Education Details
-
   * Employment History
-
   * Skills
-
   * Associations
-
   * Achievements
-
   * My Next Job
-
   * Availability
-
   * Searchability
-
 
 
 
@@ -131,13 +98,9 @@ The information these providers make available may be presented in a "framed" fo
 We may also disclose your personal information:
 
   * as required by law, such as to comply with a subpoena, or similar legal process
-
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-
   * if CareerJunction is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-
   * to any other third party with your prior consent to do so
-
 
 
 
