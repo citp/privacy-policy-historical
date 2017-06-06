@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005542id_/http%3A//www.mbarendezvous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115738id_/http%3A//www.mbarendezvous.com/privacy-policy) for the most accurate reproduction.*
 
 # MBA Rendezvous - Privacy Policy
+
+## Privacy Policy
+
+by - 
 
 ## **Privacy Policy**
 
@@ -45,3 +49,9 @@ From time to time we may make changes to our privacy policy If we make changes, 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [info@mbarendezvous.com](mailto:info@mbarendezvous.com)
+
+[ ](http://liqvd.com/clients/nmat/NMAT-OG-Contest-2017/?utm_source=MBArande&utm_medium=Banners&utm_campaign=OfficialGuide)
+
+[](http://www.mbarendezvous.com/mba-institute/gitam-school-of-international-business)
+
+[ ](http://www.mbarendezvous.com/mba-institute/vels-university)
