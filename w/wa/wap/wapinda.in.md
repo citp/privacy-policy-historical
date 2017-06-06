@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapinda.in privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120184216id_/http%3A//www.wapinda.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapinda.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084338id_/http%3A//www.wapinda.in/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -7,6 +7,8 @@ Privacy Policy for **wapinda.in**
 Privacy Policy,
 
 The privacy of our visitors to **www.wapinda.in** is important to us.
+
+wapinda is only search music tool. wapinda.in doesn't publish any music.If you want to remove any content from website, please report to us using [contact us form ](http://www.wapinda.in/contact)with legal document. So we can remove it immediatly. 
 
 At **wapinda.in** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit wapinda.in, and how we safeguard your information. We never sell your personal information to third parties.
 
