@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4hosting.in privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604190426id_/http%3A//www.go4hosting.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4hosting.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214112id_/https%3A//www.go4hosting.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Go4Hosting
 
@@ -34,4 +34,4 @@ We engage other companies and individuals to perform enhanced services on our be
 
 **Modification on this Policy**  
 Go4hosting may modify its Privacy Policy at any time by placing a revised copy of the privacy Policy at its web site at:   
-<http://www.go4hosting.in/privacy-policy>
+[http://www.go4hosting.in/privacy-policy](https://www.go4hosting.in/privacy-policy)
