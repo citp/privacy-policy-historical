@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reply.io privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005056id_/http%3A//reply.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reply.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052320id_/http%3A//reply.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reply
 
@@ -18,9 +18,9 @@ Our Privacy Promise:
 
 Additional questions? Don’t hesitate to send us an [email](mailto:oleg@reachout.io).
 
-Reply (www.replyapp.io) is committed to maintaining the privacy and security of any personal information of the users of the Reply website. This Privacy Policy defines how Reply protects any personal information that is collected by Reply. For the purpose of this Privacy Policy, “Personal Information” means information about an identifiable individual but does not include aggregated information that cannot be associated with a specific individual.
+Reply (www.reply.io) is committed to maintaining the privacy and security of any personal information of the users of the Reply website. This Privacy Policy defines how Reply protects any personal information that is collected by Reply. For the purpose of this Privacy Policy, “Personal Information” means information about an identifiable individual but does not include aggregated information that cannot be associated with a specific individual.
 
-For the purpose of this Agreement, “Website” refers to the Company’s service which can be accessed via our website at www.replyapp.io, which is further described in our [Terms of Service](https://web.archive.org/terms-of-service). The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of The Website. By accepting our Privacy Policy and [Terms of Service](https://web.archive.org/terms-of-service), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+For the purpose of this Agreement, “Website” refers to the Company’s service which can be accessed via our website at www.reply.io, which is further described in our [Terms of Service](https://web.archive.org/terms-of-service). The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of The Website. By accepting our Privacy Policy and [Terms of Service](https://web.archive.org/terms-of-service), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 ## Information We Collect
 
