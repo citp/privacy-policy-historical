@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aafp.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234923id_/http%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aafp.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145124id_/http%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ While the AAFP hopes that the information in this Policy helps you understand ho
 
 #### Email opt-out
 
-All of the AAFP’s marketing emails and some of its informational emails include a link for unsubscribing. Registered users on the AAFP’s websites also can log in to the “My Account” section to change their email preferences. The AAFP will apply your unsubscribe request as quickly as possible. However, because there may be email campaigns already in progress, you may continue to receive emails from the AAFP for a few days. The AAFP requires up to 10 days to apply your unsubscribe request. After this time, you should no longer receive marketing or informational emails from the AAFP. You may still receive emails regarding your transactions (e.g., confirmation that you have placed an order)
+All of the AAFP’s marketing emails and some of its informational emails include a link for unsubscribing. Registered users on the AAFP’s websites also can log in to the “[My Account](https://nf.aafp.org/myacademy/home)” section to change their email preferences. The AAFP will apply your unsubscribe request as quickly as possible. However, because there may be email campaigns already in progress, you may continue to receive emails from the AAFP for a few days. The AAFP requires up to 10 days to apply your unsubscribe request. After this time, you should no longer receive marketing or informational emails from the AAFP. You may still receive emails regarding your transactions (e.g., confirmation that you have placed an order)
 
 #### Direct mail opt-out
 
