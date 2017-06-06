@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thingworx.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021170126id_/https%3A//www.thingworx.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingworx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173448id_/https%3A//www.thingworx.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ThingWorx : ThingWorx
+# Privacy Policy
 
 **PTC, Inc.**  and its subsidiaries and affiliates (“We” or “PTC”) are committed to protecting and respecting your privacy.
 
@@ -98,7 +98,7 @@ To Other Third Parties. We may also transfer or disclose personal data to other 
   * To trusted businesses or persons to process it for us, solely on our behalf and in accordance with our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If any PTC, Inc. entity, or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use of PTC.com](http://www.thingworx.com/legal-policies/using-this-site/usingoursite) and other agreements; or to protect the rights, property, or safety of PTC, Inc., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use of PTC.com and other agreements; or to protect the rights, property, or safety of PTC, Inc., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
   * To government agencies or other third parties as authorized by applicable law: (i) to comply with legal, regulatory, or reporting requirements (such as reporting to tax authorities and employment regulators), (ii) in the event we are required to respond to a court order, subpoena, discovery request, or other legal process, or if, in our good faith opinion, such disclosure is required by law, (iii) at the request of governmental authorities conducting an audit or investigation, (iv) to verify or enforce compliance with applicable employee policies, laws, rules, or regulations, (v) in connection with corporate restructurings or potential acquisitions, mergers, or sales, or (vi) whenever we believe disclosure is necessary to limit the legal liability, or to protect or enforce the rights, interests, or safety, of you, the Company, our subsidiaries and affiliates, other employees, or third parties.
 
 
