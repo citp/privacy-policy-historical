@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the megamillions.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119012902id_/http%3A//www.megamillions.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the megamillions.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606113928id_/http%3A//www.megamillions.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="dyn detail-page contents"><head> 
     <meta charset="utf-8">
@@ -7,13 +7,15 @@
     <link href="/Themes/MegaMillions/Styles/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="/Themes/MegaMillions/Styles/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
 <link href="/Themes/MegaMillions/Styles/site.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20160408165631/http://www.googletagservices.com/tag/js/gpt.js"></script><script src="/Modules/Orchard.jQuery/scripts/jquery-1.9.1.js" type="text/javascript"></script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20170921194756/http://www.googletagservices.com/tag/js/gpt.js"></script><script src="/Themes/MegaMillions/Scripts/mmglobal.js" type="text/javascript"></script>
 <!--[if lt IE 9]>
 <script src="/Modules/MegaMillions.WhereToPlay/scripts/html5.js" type="text/javascript"></script>
 <![endif]-->
 <meta content="Orchard" name="generator">
 <meta content="IE=edge,chrome=1" name="X-UA-Compatible">
 <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0" name="viewport">
+<meta content="NO-CACHE" http-equiv="Pragma">
+<meta content="NO-CACHE" http-equiv="Cache-Control">
 <link href="/Themes/MegaMillions/Content/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
     <script>(function(d){d.className="dyn"+d.className.substring(6,d.className.length);})(document.documentElement);</script> 
@@ -332,36 +334,90 @@
 
 </article>
 <article class="widget-WinningNumbersBanner widget-sub-navigation widget-current-winning-numbers-widget widget">
-    
-
-<div class="nav-banner">
+    <div class="nav-banner" style="visibility:hidden;">
     <div class="nav-banner-section">
         <div>Next Estimated Jackpot:</div>
-        <div class="jackpot">
-                    <div class="amount">$82</div>
-                    <div class="footer">MILLION</div>
+        <div class="jackpot" id="lsb-ndj">
         </div>
     </div>
     <div class="nav-banner-section">
-        <div>Next Drawing: 11 pm ET</div>
-        <div class="next-drawing">FRIDAY<br>11/18/2016</div>
+        <div id="lsb-ndt"></div>
+        <div class="next-drawing" id="lsb-ndd"></div>
     </div>
     <div class="nav-banner-section">
-        <div>11/15/2016<br>Winning Numbers:</div>
+        <div id="lsb-hdd"></div>
         <div>
-            <div class="ball white">9</div>
-            <div class="ball white">17</div>
-            <div class="ball white">23</div>
-            <div class="ball white">57</div>
-            <div class="ball white">71</div>
-            <div class="ball gold">6</div>
+            <div class="ball white" id="lsb-wb1"></div>
+            <div class="ball white" id="lsb-wb2"></div>
+            <div class="ball white" id="lsb-wb3"></div>
+            <div class="ball white" id="lsb-wb4"></div>
+            <div class="ball white" id="lsb-wb5"></div>
+            <div class="ball gold" id="lsb-mb"></div>
         </div>
-        <div class="nav-banner-megaplier">
-            MEGAPLIER<br>
-            3x
-        </div>
+        <div class="nav-banner-megaplier" id="lsb-mp"></div>
     </div>
 </div>
+<script type="text/javascript">
+
+    function roundToTwo(num) {
+        return +(Math.round(num + "e+2") + "e-2");
+    }
+    function randomString(length, chars) {
+        var result = '';
+        for (var i = length; i > 0; --i) result += chars[Math.floor(Math.random() * chars.length)];
+        return result;
+    }
+
+    $(document).ready(function () {
+        var rString = randomString(7, '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ');
+        $.getJSON("/Media/Static/winning-numbers/winning-numbers.json?rt=" + rString,
+            function (json) {
+                // populate the next draw info
+                var nextDraw = json.nextDraw;
+                if (nextDraw.IsPending) {
+                    $("#lsb-ndj").html('<div class="pending">Pending</div>');
+                } else {
+                    var tempEstimatedJackpotAmt;
+                    if (nextDraw.NextJackpotAnnuityAmount >= 999500000) {
+                        tempEstimatedJackpotAmt = nextDraw.NextJackpotAnnuityAmount / 1000000000;
+                        $("#lsb-ndj").html('<div class="amount">$' + roundToTwo(tempEstimatedJackpotAmt) + '</div><div class="footer">BILLION</div>');
+                    } else {
+                        tempEstimatedJackpotAmt = nextDraw.NextJackpotAnnuityAmount / 1000000;
+                        $("#lsb-ndj").html('<div class="amount">$' + tempEstimatedJackpotAmt + '</div><div class="footer">MILLION</div>');
+                    }
+                }
+                var nmom = moment(nextDraw.NextDrawDate + "+00:00");
+                var ndow = nmom.tz("America/New_York").format("dddd").toUpperCase();
+                if (ndow == "INVALID DATE") {
+                    if (moment().format("dddd").toUpperCase() == "TUESDAY") {
+                        nmom = moment().startOf("hour").add(3, "days");
+                    } else {
+                        nmom = moment().startOf("hour").add(4, "days");
+                    }
+                    ndow = nmom.tz("America/New_York").format("dddd").toUpperCase();
+                }
+                $("#lsb-ndd").html(ndow + "<br />" + nmom.tz("America/New_York").format("l"));
+                $("#lsb-ndt").html("Next Drawing: " + nmom.tz("America/New_York").format("h") + " pm ET");
+
+                // now show the previous draw info
+                var latestDraw = json.numbersList[0];
+                var ldNumbers = [latestDraw.WhiteBall1, latestDraw.WhiteBall2, latestDraw.WhiteBall3, latestDraw.WhiteBall4, latestDraw.WhiteBall5]
+                ldNumbers.sort(function (a, b) { return a - b });
+                $("#lsb-wb1").html(ldNumbers[0]);
+                $("#lsb-wb2").html(ldNumbers[1]);
+                $("#lsb-wb3").html(ldNumbers[2]);
+                $("#lsb-wb4").html(ldNumbers[3]);
+                $("#lsb-wb5").html(ldNumbers[4]);
+                $("#lsb-mb").html(latestDraw.MegaBall);
+                $("#lsb-mp").html("MEGAPLIER<br />" + latestDraw.Megaplier + "x");
+                nmom = moment(latestDraw.DrawDate + "-11:00");
+                $("#lsb-hdd").html(nmom.format("l") + "<br />Winning Numbers:");
+                // display the banner
+                $(".nav-banner").css("visibility", "visible");
+            }
+        );
+    });
+</script>
 </article>
 <article class="widget-SocialMediaShare widget-sub-navigation widget-social-media-share-widget widget">
     <div>
@@ -1138,7 +1194,7 @@
                                 <div id="leftFooter" class="span5 offset1">
                                     <div class="zone zone-left-footer">
 <article class="widget-left-footer widget-html-widget widget">
-    <p>©2016 Mega Millions.</p>
+    <p>©2017 Mega Millions.</p>
 </article></div>
                                 </div>
 
@@ -1175,27 +1231,19 @@
 
 
 
-<script src="/Modules/MegaMillions.WhereToPlay/scripts/bootstrap-collapse.js" type="text/javascript"></script>
-<script src="/Modules/MegaMillions.WhereToPlay/scripts/sideCollapse.js" type="text/javascript"></script>
-<script src="/Modules/MegaMillions.WhereToPlay/scripts/respond.js" type="text/javascript"></script>
-<script src="/Themes/MegaMillions/scripts/shoutz.js" type="text/javascript"></script>
 
 
 
-        <script type="text/javascript">
-
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-30026580-1']);
-            _gaq.push(['_setDomainName', 'megamillions.com']);
-            _gaq.push(['_trackPageview']);
-
-            (function () {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            })();
-
-</script>
+    <script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function ()
+        { (i[r].q = i[r].q || []).push(arguments) }
+        , i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-90819322-1', 'auto');
+    ga('send', 'pageview');
+    </script>
 
     <!-- Casale Media: Pop Under -->
     <script type="text/javascript"><!--
@@ -1204,7 +1252,7 @@
     var casaleHost = ' type="text/javascript" src="http://as.casalemedia.com/s?s=';
     document.write('<scr' + 'ipt' + casaleHost + '126302&amp;u=');
     document.write(casaleU + '&amp;f=1&amp;id=' + casaleR + '"><\/scr' + 'ipt>');
-    //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=126302&amp;u=https%3A//web.archive.org/web/20161119012902id_/http%253A//www.megamillions.com/privacy-policy&amp;f=1&amp;id=1802460380.9193237"></script>
+    //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=126302&amp;u=https%3A//web.archive.org/web/20170606113928id_/http%253A//www.megamillions.com/privacy-policy&amp;f=1&amp;id=1802460146.9275806"></script>
     <!-- DO NOT MODIFY -->
 
 </body></html>
