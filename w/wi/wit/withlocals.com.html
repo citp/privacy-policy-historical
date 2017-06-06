@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the withlocals.com privacy policy that was archived on 2016-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161025001228id_/https%3A//www.withlocals.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the withlocals.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606190757id_/https%3A//www.withlocals.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:ng="http://angularjs.org" lang="en"><head><meta property="twitter:account_id" content="4503599628054411">
     <meta charset="utf-8">
@@ -11,7 +11,7 @@
     <meta property="twitter:account_id" content="4503599628054411">
     <meta name="p:domain_verify" content="195eb4047cae2f2941c30639cf67e6db">
     <meta property="fb:app_id" content="380224722079164">
-    <meta name="version" content="1.112.4-b6eda49">
+    <meta name="version" content="1.147.0-e61985b">
     <meta name="MobileOptimized" content="width">
     <meta name="HandheldFriendly" content="true">
 
@@ -78,16 +78,16 @@
       if (!window.withlocals) {
         window.withlocals = {};
       }
-      window.withlocals.version = '1.112.4-b6eda49';
+      window.withlocals.version = '1.147.0-e61985b';
       window.withlocals.config = {
   "cloudinary" : {
     "cloud_name" : "withlocals-com",
     "secure_distribution" : "d3in73vatfjyy.cloudfront.net",
     "secure" : true
   },
-  "version" : "1.112.4",
-  "build" : "b6eda49",
-  "codename" : "Searching Soya",
+  "version" : "1.147.0",
+  "build" : "e61985b",
+  "codename" : "Daily Donner-Kebab",
   "stripe" : {
     "pk" : "pk_live_cWRH1iBFozXgorqa2yxSVIFP"
   },
@@ -246,6 +246,13 @@
     "open" : true
   }, {
     "continent" : "Asia",
+    "title" : "United Arab Emirates",
+    "code" : "ae",
+    "landmark" : "",
+    "urltitle" : "united-arab-emirates",
+    "open" : true
+  }, {
+    "continent" : "Asia",
     "title" : "Vietnam",
     "code" : "vn",
     "landmark" : "https://d3axlphjo2wj6x.cloudfront.net/images/countries/vietnam.svg",
@@ -272,20 +279,12 @@
     "urltitle" : "jakarta",
     "country" : "Indonesia"
   }, {
-    "title" : "Bandung",
-    "urltitle" : "bandung",
-    "country" : "Indonesia"
-  }, {
     "title" : "Kuala Lumpur",
     "urltitle" : "kuala-lumpur",
     "country" : "Malaysia"
   }, {
     "title" : "Penang",
     "urltitle" : "penang",
-    "country" : "Malaysia"
-  }, {
-    "title" : "Kota Kinabalu",
-    "urltitle" : "kota-kinabalu",
     "country" : "Malaysia"
   }, {
     "title" : "Kathmandu",
@@ -334,10 +333,6 @@
   }, {
     "title" : "Chiang Rai",
     "urltitle" : "chiang-rai",
-    "country" : "Thailand"
-  }, {
-    "title" : "Nakhon Sawan",
-    "urltitle" : "nakhon-sawan",
     "country" : "Thailand"
   }, {
     "title" : "Ho Chi Minh City",
@@ -447,6 +442,14 @@
     "title" : "Budapest",
     "urltitle" : "budapest",
     "country" : "Hungary"
+  }, {
+    "title" : "Dubai",
+    "urltitle" : "dubai",
+    "country" : "United Arab Emirates"
+  }, {
+    "title" : "Abu Dhabi",
+    "urltitle" : "abu-dhabi",
+    "country" : "United Arab Emirates"
   } ]
 };
       window.cdn = 'cdn.withlocals.com';
@@ -478,7 +481,7 @@
       window._trackJs = {
           token: '3b2af3ceb8c64ed39d67b97a98b8e3d9'
           ,userId : ''
-          ,version : '1.112.4-b6eda49'
+          ,version : '1.147.0-e61985b'
           , enabled: !!(window.location.host.indexOf('localbeta') < 0)
           , application : window.withlocals.environment,
           network: { error: false },
@@ -563,7 +566,7 @@
           window.giveImplicitConsent();
           if(document.getElementsByClassName("cc_more_info")[0]){
             acceptButton.click();
-          }  
+          }
         }
       });
 
@@ -584,6 +587,17 @@
       setTimeout(function(){
         addClickListener();
       },100)
+    }
+  }
+
+  window.setAsInAppBrowser = function() {
+    console.log("[InAppBrowser] - setAsInAppBrowser");
+    localStorage.setItem("inAppBrowser", true);
+    window.giveImplicitConsent();
+    var acceptButton = document.getElementsByClassName('cc_btn_accept_all')[0];
+    window.localStorage.setItem('download-android-banner', true);
+    if (acceptButton) {
+      acceptButton.click();
     }
   }
 
@@ -684,7 +698,7 @@
             <i class="icon-sort-down"></i>
           </a>
 
-          <a class="brand" href="/" title="Withlocals">Withlocals</a>
+          <a class="brand" href="https://www.withlocals.com/" title="Withlocals">Withlocals</a>
 
           <nav class="nav-collapse collapse user-menu" collapse="isCollapsed">
             <ul class="nav pull-right">
@@ -693,23 +707,23 @@
               Call us +31 20 2613 477
               </a></li>
 
-              <li><a class="btn-link btn" ng-click="becomeAHost()" ng-href="#" href="/welcome/host/">
+              <li><a class="btn-link btn" ng-click="becomeAHost()" ng-href="#" href="https://www.withlocals.com/welcome/host/">
               
                 Become a Host
               
               </a></li>
 
-              <li><a class="btn-link btn" href="/info/how-it-works/">How it Works</a></li>
+              <li><a class="btn-link btn" href="https://www.withlocals.com/info/how-it-works/">How it Works</a></li>
 
 
     			  	<li class="dropdown login-dropdown
               
                " ng-class="{'show':isNotLoggedIn,'ng-hide':isLoggedIn}">
-                <a class="btn btn-link" href="/login/" ng-href="#" ng-click="signIn()">Sign in</a></li>
+                <a class="btn btn-link" href="https://www.withlocals.com/login/">Sign in</a></li>
 
               <li class="signup-link
               
-               " ng-class="{'show':isNotLoggedIn,'ng-hide':isLoggedIn}"><a class="btn btn-link" href="/signup/" ng-href="#" ng-click="signUp()">Join Withlocals</a></li>
+               " ng-class="{'show':isNotLoggedIn,'ng-hide':isLoggedIn}"><a class="btn btn-link" href="https://www.withlocals.com/signup/">Join Withlocals</a></li>
 
 
 
@@ -757,41 +771,41 @@
                             <p>Become yourself again</p>
                           </a>
 
-                          <a href="/dashboard/messages/" class="btn btn-info">
+                          <a href="https://www.withlocals.com/dashboard/messages/" class="btn btn-info">
                             <i class="icon-globe pull-left"></i>
                             <span>Messages</span>
                           </a>
 
-                          <a href="/dashboard/bookings/" class="btn btn-info">
+                          <a href="https://www.withlocals.com/dashboard/bookings/" class="btn btn-info">
                             <i class="icon-file-text pull-left"></i>
                             <span>My bookings</span>
                           </a>
 
-                          <a href="/admin/" ng-show="user.is_admin" class="btn btn-info goto-admin">
+                          <a href="https://www.withlocals.com/admin/" ng-show="user.is_admin" class="btn btn-info goto-admin">
                             <i class="icon-bolt pull-left"></i>
                             <p>Administration</p>
                           </a>
 
                           
 
-                          <a href="/dashboard/agenda/" ng-show="user.is_host" class="btn btn-info">
+                          <a href="https://www.withlocals.com/dashboard/agenda/" ng-show="user.is_host" class="btn btn-info">
                             <i class="icon-calendar pull-left"></i>
                             <span>Your agenda</span>
                           </a>
 
-                          <a href="/manage/profile/" class="btn btn-info">
+                          <a href="https://www.withlocals.com/manage/profile/" class="btn btn-info">
                             <i class="icon-edit pull-left"></i>
                             <span>Edit profile</span>
                           </a>
 
-                          <a href="/info/how-it-works/" class="btn btn-info">
+                          <a href="https://www.withlocals.com/info/how-it-works/" class="btn btn-info">
                             <i class="icon-help-sign pull-left"></i>
                             <span>Help</span>
                           </a>
 
                           
 
-                          <a href="/logout/" ng-href="#" ng-click="logout()" analytics="" cat="Log out" lo="" action="Log out" vo="3" nio="4" class="btn btn logout">
+                          <a href="https://www.withlocals.com/logout/" ng-href="#" ng-click="logout()" analytics="" cat="Log out" lo="" action="Log out" vo="3" nio="4" class="btn btn logout">
                             <i class="icon-off pull-left"></i>
                             <p>Log out</p>
                           </a>
@@ -831,47 +845,49 @@
     </div>
 
     <ul class="menu" ng-class="{'show' : expanded}">
-      <li><a href="/experiences//" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('') }}"> Somewhere in Asia</a></li>
+      <li><a href="https://www.withlocals.com/experiences//" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('') }}"> Somewhere in Asia</a></li>
       
-        <li><a href="/experiences/belgium/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('belgium') }}"><img class="flags flag-be">Belgium</a></li>
+        <li><a href="https://www.withlocals.com/experiences/belgium/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('belgium') }}"><img class="flags flag-be">Belgium</a></li>
       
-        <li><a href="/experiences/cambodia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('cambodia') }}"><img class="flags flag-kh">Cambodia</a></li>
+        <li><a href="https://www.withlocals.com/experiences/cambodia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('cambodia') }}"><img class="flags flag-kh">Cambodia</a></li>
       
-        <li><a href="/experiences/czech-republic/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('czech-republic') }}"><img class="flags flag-cz">Czech Republic</a></li>
+        <li><a href="https://www.withlocals.com/experiences/czech-republic/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('czech-republic') }}"><img class="flags flag-cz">Czech Republic</a></li>
       
-        <li><a href="/experiences/france/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('france') }}"><img class="flags flag-fr">France</a></li>
+        <li><a href="https://www.withlocals.com/experiences/france/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('france') }}"><img class="flags flag-fr">France</a></li>
       
-        <li><a href="/experiences/germany/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('germany') }}"><img class="flags flag-de">Germany</a></li>
+        <li><a href="https://www.withlocals.com/experiences/germany/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('germany') }}"><img class="flags flag-de">Germany</a></li>
       
-        <li><a href="/experiences/greece/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('greece') }}"><img class="flags flag-gr">Greece</a></li>
+        <li><a href="https://www.withlocals.com/experiences/greece/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('greece') }}"><img class="flags flag-gr">Greece</a></li>
       
-        <li><a href="/experiences/hungary/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('hungary') }}"><img class="flags flag-hu">Hungary</a></li>
+        <li><a href="https://www.withlocals.com/experiences/hungary/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('hungary') }}"><img class="flags flag-hu">Hungary</a></li>
       
-        <li><a href="/experiences/india/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('india') }}"><img class="flags flag-in">India</a></li>
+        <li><a href="https://www.withlocals.com/experiences/india/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('india') }}"><img class="flags flag-in">India</a></li>
       
-        <li><a href="/experiences/indonesia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('indonesia') }}"><img class="flags flag-id">Indonesia</a></li>
+        <li><a href="https://www.withlocals.com/experiences/indonesia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('indonesia') }}"><img class="flags flag-id">Indonesia</a></li>
       
-        <li><a href="/experiences/italy/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('italy') }}"><img class="flags flag-it">Italy</a></li>
+        <li><a href="https://www.withlocals.com/experiences/italy/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('italy') }}"><img class="flags flag-it">Italy</a></li>
       
-        <li><a href="/experiences/malaysia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('malaysia') }}"><img class="flags flag-my">Malaysia</a></li>
+        <li><a href="https://www.withlocals.com/experiences/malaysia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('malaysia') }}"><img class="flags flag-my">Malaysia</a></li>
       
-        <li><a href="/experiences/nepal/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('nepal') }}"><img class="flags flag-np">Nepal</a></li>
+        <li><a href="https://www.withlocals.com/experiences/nepal/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('nepal') }}"><img class="flags flag-np">Nepal</a></li>
       
-        <li><a href="/experiences/the-netherlands/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('the-netherlands') }}"><img class="flags flag-nl">the Netherlands</a></li>
+        <li><a href="https://www.withlocals.com/experiences/the-netherlands/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('the-netherlands') }}"><img class="flags flag-nl">the Netherlands</a></li>
       
-        <li><a href="/experiences/philippines/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('philippines') }}"><img class="flags flag-ph">Philippines</a></li>
+        <li><a href="https://www.withlocals.com/experiences/philippines/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('philippines') }}"><img class="flags flag-ph">Philippines</a></li>
       
-        <li><a href="/experiences/portugal/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('portugal') }}"><img class="flags flag-pt">Portugal</a></li>
+        <li><a href="https://www.withlocals.com/experiences/portugal/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('portugal') }}"><img class="flags flag-pt">Portugal</a></li>
       
-        <li><a href="/experiences/singapore/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('singapore') }}"><img class="flags flag-sg">Singapore</a></li>
+        <li><a href="https://www.withlocals.com/experiences/singapore/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('singapore') }}"><img class="flags flag-sg">Singapore</a></li>
       
-        <li><a href="/experiences/spain/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('spain') }}"><img class="flags flag-es">Spain</a></li>
+        <li><a href="https://www.withlocals.com/experiences/spain/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('spain') }}"><img class="flags flag-es">Spain</a></li>
       
-        <li><a href="/experiences/sri-lanka/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('sri-lanka') }}"><img class="flags flag-lk">Sri Lanka</a></li>
+        <li><a href="https://www.withlocals.com/experiences/sri-lanka/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('sri-lanka') }}"><img class="flags flag-lk">Sri Lanka</a></li>
       
-        <li><a href="/experiences/thailand/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('thailand') }}"><img class="flags flag-th">Thailand</a></li>
+        <li><a href="https://www.withlocals.com/experiences/thailand/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('thailand') }}"><img class="flags flag-th">Thailand</a></li>
       
-        <li><a href="/experiences/vietnam/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('vietnam') }}"><img class="flags flag-vn">Vietnam</a></li>
+        <li><a href="https://www.withlocals.com/experiences/united-arab-emirates/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('united-arab-emirates') }}"><img class="flags flag-ae">United Arab Emirates</a></li>
+      
+        <li><a href="https://www.withlocals.com/experiences/vietnam/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('vietnam') }}"><img class="flags flag-vn">Vietnam</a></li>
       
     </ul>
   </div>
@@ -939,6 +955,8 @@
       <option value="sri-lanka">Sri Lanka</option>
     
       <option value="thailand">Thailand</option>
+    
+      <option value="united-arab-emirates">United Arab Emirates</option>
     
       <option value="vietnam">Vietnam</option>
     
@@ -1235,48 +1253,50 @@
 
 <div class="row">
       <div class="span3">
-        <h3><a href="/locations/">Locations</a></h3>
+        <h3><a href="https://www.withlocals.com/locations/">Locations</a></h3>
         <ul>
           
-                <li><a href="/locations/belgium/"><i>•</i>Belgium</a></li>
+                <li><a href="https://www.withlocals.com/locations/belgium/"><i>•</i>Belgium</a></li>
           
-                <li><a href="/locations/cambodia/"><i>•</i>Cambodia</a></li>
+                <li><a href="https://www.withlocals.com/locations/cambodia/"><i>•</i>Cambodia</a></li>
           
-                <li><a href="/locations/czech-republic/"><i>•</i>Czech Republic</a></li>
+                <li><a href="https://www.withlocals.com/locations/czech-republic/"><i>•</i>Czech Republic</a></li>
           
-                <li><a href="/locations/france/"><i>•</i>France</a></li>
+                <li><a href="https://www.withlocals.com/locations/france/"><i>•</i>France</a></li>
           
-                <li><a href="/locations/germany/"><i>•</i>Germany</a></li>
+                <li><a href="https://www.withlocals.com/locations/germany/"><i>•</i>Germany</a></li>
           
-                <li><a href="/locations/greece/"><i>•</i>Greece</a></li>
+                <li><a href="https://www.withlocals.com/locations/greece/"><i>•</i>Greece</a></li>
           
-                <li><a href="/locations/hungary/"><i>•</i>Hungary</a></li>
+                <li><a href="https://www.withlocals.com/locations/hungary/"><i>•</i>Hungary</a></li>
           
-                <li><a href="/locations/india/"><i>•</i>India</a></li>
+                <li><a href="https://www.withlocals.com/locations/india/"><i>•</i>India</a></li>
           
-                <li><a href="/locations/indonesia/"><i>•</i>Indonesia</a></li>
+                <li><a href="https://www.withlocals.com/locations/indonesia/"><i>•</i>Indonesia</a></li>
           
-                <li><a href="/locations/italy/"><i>•</i>Italy</a></li>
+                <li><a href="https://www.withlocals.com/locations/italy/"><i>•</i>Italy</a></li>
           
-                <li><a href="/locations/malaysia/"><i>•</i>Malaysia</a></li>
+                <li><a href="https://www.withlocals.com/locations/malaysia/"><i>•</i>Malaysia</a></li>
           
-                <li><a href="/locations/nepal/"><i>•</i>Nepal</a></li>
+                <li><a href="https://www.withlocals.com/locations/nepal/"><i>•</i>Nepal</a></li>
           
-                <li><a href="/locations/the-netherlands/"><i>•</i>the Netherlands</a></li>
+                <li><a href="https://www.withlocals.com/locations/the-netherlands/"><i>•</i>the Netherlands</a></li>
           
-                <li><a href="/locations/philippines/"><i>•</i>Philippines</a></li>
+                <li><a href="https://www.withlocals.com/locations/philippines/"><i>•</i>Philippines</a></li>
           
-                <li><a href="/locations/portugal/"><i>•</i>Portugal</a></li>
+                <li><a href="https://www.withlocals.com/locations/portugal/"><i>•</i>Portugal</a></li>
           
-                <li><a href="/locations/singapore/"><i>•</i>Singapore</a></li>
+                <li><a href="https://www.withlocals.com/locations/singapore/"><i>•</i>Singapore</a></li>
           
-                <li><a href="/locations/spain/"><i>•</i>Spain</a></li>
+                <li><a href="https://www.withlocals.com/locations/spain/"><i>•</i>Spain</a></li>
           
-                <li><a href="/locations/sri-lanka/"><i>•</i>Sri Lanka</a></li>
+                <li><a href="https://www.withlocals.com/locations/sri-lanka/"><i>•</i>Sri Lanka</a></li>
           
-                <li><a href="/locations/thailand/"><i>•</i>Thailand</a></li>
+                <li><a href="https://www.withlocals.com/locations/thailand/"><i>•</i>Thailand</a></li>
           
-                <li><a href="/locations/vietnam/"><i>•</i>Vietnam</a></li>
+                <li><a href="https://www.withlocals.com/locations/united-arab-emirates/"><i>•</i>United Arab Emirates</a></li>
+          
+                <li><a href="https://www.withlocals.com/locations/vietnam/"><i>•</i>Vietnam</a></li>
           
 
         </ul>
@@ -1284,35 +1304,35 @@
       <div class="span3 information">
         <h3>Info</h3>
         <ul>
-          <li><a href="/info/how-it-works/for-hosts/"><i>•</i>How it works for hosts</a></li>
-          <li><a href="/info/how-it-works/for-travelers/"><i>•</i>How it works for travelers</a></li>
-          <li><a href="/info/faq/"><i>•</i>FAQ</a></li>
-          <li><a href="/info/privacy-policy/"><i>•</i>Privacy Policy</a></li>
-          <li><a href="/info/contact/"><i>•</i>Contact</a></li>
-          <li><a href="/partners/"><i>•</i>Become a partner</a></li>
-          <li><a href="/become-an-ambassador/"><i>•</i>Become an ambassador</a></li>
-          <li><a href="/info/terms-and-conditions/"><i>•</i>Terms &amp; Conditions</a></li>
+          <li><a href="https://www.withlocals.com/info/how-it-works/for-hosts/"><i>•</i>How it works for hosts</a></li>
+          <li><a href="https://www.withlocals.com/info/how-it-works/for-travelers/"><i>•</i>How it works for travelers</a></li>
+          <li><a href="https://www.withlocals.com/info/faq/"><i>•</i>FAQ</a></li>
+          <li><a href="https://www.withlocals.com/info/privacy-policy/"><i>•</i>Privacy Policy</a></li>
+          <li><a href="https://www.withlocals.com/info/contact/"><i>•</i>Contact</a></li>
+          <li><a href="https://www.withlocals.com/partners/"><i>•</i>Become a partner</a></li>
+          <li><a href="https://www.withlocals.com/become-an-ambassador/"><i>•</i>Become an ambassador</a></li>
+          <li><a href="https://www.withlocals.com/info/terms-and-conditions/"><i>•</i>Terms &amp; Conditions</a></li>
 
         </ul>
       </div>
       <div class="span3 about">
         <h3>Withlocals</h3>
        <ul>
-          <li><a href="/about/withlocals/"><i>•</i>About</a></li>
-          <li><a href="/about/why/"><i>•</i>Why</a></li>
-          <li><a href="/about/jobs/"><i>•</i>Jobs</a></li>
-          <li><a href="/about/team/"><i>•</i>Team</a></li>
-          <li><a href="/app/"><i>•</i>Withlocals App</a></li>
+          <li><a href="https://www.withlocals.com/about/withlocals/"><i>•</i>About</a></li>
+          <li><a href="https://www.withlocals.com/about/why/"><i>•</i>Why</a></li>
+          <li><a href="https://www.withlocals.com/about/jobs/"><i>•</i>Jobs</a></li>
+          <li><a href="https://www.withlocals.com/about/team/"><i>•</i>Team</a></li>
+          <li><a href="https://www.withlocals.com/app/"><i>•</i>Withlocals App</a></li>
         </ul>
       </div>
       <div class="span3 social">
         <h3>Go social</h3>
         <ul class="social">
-           <li class="social-icon facebook"><a href="https://www.facebook.com/WithLocals" target="_blank">Facebook</a></li>
-           <li class="social-icon twitter"><a href="https://twitter.com/withlocals" target="_blank">Twitter</a></li>
-           <li class="social-icon google"><a href="https://plus.google.com/+Withlocals/" target="_blank">Google+</a></li>
-           <li class="social-icon instagram"><a href="http://instagram.com/withlocals" target="_blank">Instagram</a></li>
-           <li class="social-icon pinterest"><a href="https://www.pinterest.com/withlocals/" target="_blank">Pinterest</a></li>
+           <li class="social-icon facebook"><a href="https://www.facebook.com/WithLocals" target="_blank" rel="noopener">Facebook</a></li>
+           <li class="social-icon twitter"><a href="https://twitter.com/withlocals" target="_blank" rel="noopener">Twitter</a></li>
+           <li class="social-icon google"><a href="https://plus.google.com/+Withlocals/" target="_blank" rel="noopener">Google+</a></li>
+           <li class="social-icon instagram"><a href="http://instagram.com/withlocals" target="_blank" rel="noopener">Instagram</a></li>
+           <li class="social-icon pinterest"><a href="https://www.pinterest.com/withlocals/" target="_blank" rel="noopener">Pinterest</a></li>
         </ul>
       </div>
 </div>
@@ -1320,14 +1340,14 @@
 
   </div>
 
-  <p class="wl-version">Version 'Searching Soya' (1.112.4-b6eda49, Host www.withlocals.com)</p>
+  <p class="wl-version">Version 'Daily Donner-Kebab' (1.147.0-e61985b, Host www.withlocals.com)</p>
 
 </footer>
 
 
 
     
-        <script src="https://cdn.withlocals.com/assets/javascripts/659534ef81f62ff3ef435c53d004edff-external.js" type="text/javascript" crossorigin=""></script>
+        <script src="https://cdn.withlocals.com/assets/javascripts/ac8670dfc7c16220f26fb26b06282bb3-external.js" type="text/javascript" crossorigin=""></script>
     
 
     
@@ -1355,7 +1375,7 @@
     <link href="https://fonts.googleapis.com/css?family=Pacifico|Material+Icons|Open+Sans:300,400,600" rel="stylesheet" type="text/css">
 
     
-        <script type="text/javascript" src="https://cdn.withlocals.com/assets/javascripts/fe9aaf2ca267f535fc0cb7967287c2db-Withlocals.js" crossorigin=""></script>
+        <script type="text/javascript" src="https://cdn.withlocals.com/assets/javascripts/95559f2b881cdfb9f3c7205822270f6f-Withlocals.js" crossorigin=""></script>
     
     <script>
     var dataLayer = [{'gtm.start': new Date().getTime(), event: 'gtm.js'}];
@@ -1370,12 +1390,12 @@ if(isConsentGiven() === true){
     ga('set', 'anonymizeIp', true);
   }
 ga('create', 'UA-40929715-1', 'auto');
+ga('require', 'GTM-58L5WRC');
 ga('require', 'ec');
 ga('send', 'pageview');
 
 </script>
 <script async="" src="//www.google-analytics.com/analytics.js"></script>
-<link rel="prefetch" href="https://www.google-analytics.com/plugins/ua/ec.js">
 <!-- End Google Analytics -->
 
 <!-- Snowplow starts plowing -->
