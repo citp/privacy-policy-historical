@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clutchprep.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616181947id_/https%3A//www.clutchprep.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clutchprep.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606171728id_/https%3A//www.clutchprep.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><!--
    ____ _       _       _       ____
@@ -13,9 +13,9 @@
 
 --><!--[if IE 8 ]> <html class="no-js ie ie8" lang="en" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"> <![endif]--><!--[if IE 9 ]> <html class="no-js ie ie9" lang="en" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"> <![endif]--><!--[if (gte IE 10)|!(IE)]><!--><!--<![endif]--><head>
 <meta charset="utf-8">
-
-<script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T6BN4S"></script><script type="text/javascript" async="" src="//d3qxef4rp70elm.cloudfront.net/m.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"50b40ccc2c","applicationID":"2619455","transactionName":"cgxYFkFfWQ0GQRsWEFAXXwFsQFQGBkAbFRZYFVcBSm9FDg9aVxw=","queueTime":4,"applicationTime":59,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQECU1NXGwEGVVhWAgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,-1!==o.indexOf("dev")&&(c.dev=!0),-1!==o.indexOf("nr_dev")&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{l?l-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,l=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(d){"stack"in d&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(l+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&l>0&&(l-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,l],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a),s=t("gos"),f=XMLHttpRequest,u="addEventListener",l="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=s(n,"nr@wrapped",function(){return c(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&c.inPlace(n,["handleEvent"],"fn-")}}),a.on(l+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",l="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+l),a.inPlace(window,[s],s+l),a.inPlace(window,[f,"clearImmediate"],f+l),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){l.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),l.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),l=t(14)(u),d=NREUM.o,p=d.XHR,h=d.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,l.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],l=u.length,d=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;l>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(12),a=t(13);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var c=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],f="api-";i(c,function(t,e){newrelic[e]=r(f+e,"api")}),i(s,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){l([u,"",[r,a,o],c])}f(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw f(e+"err",[r,a,d],c),d}finally{f(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<n.length;s++)c=n[s],a=t[c],r(a)||(t[c]=e(a,f?c+o:o,i,c))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){l([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=d(n),c=a.length,s=0;c>s;s++)a[s].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function l(t,e){m[t]=d(t).concat(e)}function d(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:l,emit:n,get:p,listeners:d,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",c=t("gos"),s=t(12),f={},u={},l=e.exports=o();l.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=w.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(v,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;w.proto=n?"https://":"http://",c("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=w.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=window,u=f.document,l="addEventListener",d="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var m=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},y=p&&h&&h[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:m,features:{},xhrWrappable:y};u[l]?(u[l]("DOMContentLoaded",i,!1),f[l]("load",r,!1)):(u[d]("onreadystatechange",o),f[d]("onload",r)),c("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,7]);</script>
+  
+<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T6BN4S"></script><script type="text/javascript" async="" src="//d3qxef4rp70elm.cloudfront.net/m.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"50b40ccc2c","applicationID":"2619455","transactionName":"cgxYFkFfWQ0GQRsWEFAXXwFsQFQGBkAbFRZYFVcBSm9FDg9aVxw=","queueTime":3,"applicationTime":11,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQECU1NXGwEGVVhWAgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
 
   <title>Privacy Policy | Clutch Prep</title>
 <meta content="Our videos prepare you to succeed in your college classes. Let us help you simplify your studying. If you are having trouble with Chemistry, Organic, Physics," name="description">
@@ -24,7 +24,7 @@
 <meta content="Privacy Policy" property="og:title">
 <meta content="website" property="og:type">
 <meta content="https://www.clutchprep.com" property="og:url">
-<meta content="https://d9577jy9n4orp.cloudfront.net/assets/200x200-logo-4dfd51482d04ca18431c74b912a73252845e6e818a3215c9c3a17650b45734fb.jpg" property="og:image">
+<meta content="https://cdn-assets1.clutchprep.com/assets/200x200-logo-4dfd51482d04ca18431c74b912a73252845e6e818a3215c9c3a17650b45734fb.jpg" property="og:image">
 <meta content="Our videos prepare you to succeed in your college classes. Let us help you simplify your studying. If you are having trouble with Chemistry, Organic, Physics, Calculus, or Statistics, we got your back! Our videos will help you understand concepts, solve your homework, and do great on your exams." property="og:description">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,18 +34,22 @@
   <meta name="msapplication-config" content="none">
   <link rel="publisher" href="https://plus.google.com/107614756823183140129">
 
+  <meta name="apple-itunes-app" content="app-id=1124169809, app-argument=https://clutchprep.com/dashboard">
+
   <link href="//fonts.googleapis.com/css?family=Lato:400,700,700italic,900,400italic,300" rel="stylesheet" type="text/css">
   <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="//releases.flowplayer.org/7.0.1/skin/skin.css">
 
-    <link href="https://d9577jy9n4orp.cloudfront.net/assets/page-ff383eeaa3e0d61eea478bf45a51be8536843894c1f28e4db683235686bb6fe3.css" media="all" rel="stylesheet">
+    <link href="https://cdn-assets1.clutchprep.com/assets/page-05c7ea354f066d2d5181462aae49df612d41dd0257784e32e65fd92b19c8d2ab.css" media="all" rel="stylesheet">
+  <script src="//api.filepicker.io/v2/filepicker.js" type="text/javascript"></script>
+  <script>filepicker.setKey('ATl5oRBotRiesyxyoj3vGz');</script>
 
 
 
-
-    <script>window['CKEDITOR_BASEPATH'] = "https://d3maq4teewwjil.cloudfront.net/ckeditor/";</script>
+    <script>window['CKEDITOR_BASEPATH'] = "https://cdn.clutchprep.com/ckeditor2/";</script>
 
   <meta content="authenticity_token" name="csrf-param">
-<meta content="sOtcp649w52ioUrxX40JhFNMilntBgz6dIONHgQ0DMo=" name="csrf-token">
+<meta content="bzKpKL0gtFYCUeLnTOZ/KZv8dKTWgoAqbEiVZs+vQNE=" name="csrf-token">
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
@@ -53,9 +57,37 @@
 
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
   <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+  <script src="https://js.pusher.com/3.2/pusher.min.js"></script>
 
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.2/css/select2.min.css" rel="stylesheet">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.2/js/select2.min.js"></script>
+  <script src="//releases.flowplayer.org/7.0.2/commercial/flowplayer.min.js"></script>
+  <script src="//releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
+
+    <script src="//client.h-cdn.com/bext/svc/cdn/pub/hls.js"></script>
+    <script src="//client.h-cdn.com/bext/svc/cdn/pub/flowplayer_hls_engine.js"></script>
+    <script async="" crossorigin="anonymous" src="//player.h-cdn.com/loader.js?customer=clutchprep"></script>
+
+    <script src="https://cdn.ravenjs.com/3.14.2/raven.min.js"></script>
+    <script>
+      Raven.config('https://380e8685272741869aecfc7dd30bbb17@sentry.io/165040', { release: 'v3120' }).install();
+    </script>
+
+  <script type="text/javascript">
+
+    flowplayer.conf = {
+      key: '$512206430871778,$764873846100581',
+      logo: false,
+      rtmp: "rtmp://s23cv8bgmbqgqx.cloudfront.net:1935/cfx/st/", // flash streaming URL
+      share: false, // hide share button
+      speeds: [1.0, 1.25, 1.5, 1.75, 2.0],
+      analytics: 'UA-47874734-4',
+      swf: '//client.h-cdn.com/flowplayerhls.6.0.5.hola.swf', // from holacdn
+      swfHls: '//client.h-cdn.com/flowplayerhls.6.0.5.hola.swf', // from holacdn
+    };
+
+    window.cdnUrl = "//cdn.clutchprep.com/";
+    window.videoCdnUrl = "//bcdn-video.clutchprep.com/";
+
+  </script>
 
   <script>
     if (window.location.hash == "#_=_")
@@ -194,17 +226,21 @@
 
   </script>
 
-    <script src="https://d9577jy9n4orp.cloudfront.net/assets/homepage-164a080baff3f9747cb34f30ce00d806a3e6277cadde31643f4ab15ba13f9d8b.js"></script>
+  <!-- Algolia -->
+  <script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.4/typeahead.bundle.min.js"></script>
 
-  <script>jwplayer.key="oMCOV0OMCG5RBENvLa8xS+axdG6wrs5oJEI2Cg==";</script>
+    <script src="https://cdn-assets0.clutchprep.com/assets/homepage-79fcf4ce0ff17c43dd53ab8cf30eb07c2a0bdb12f177d8f62df268123432a0ca.js"></script>
 
-    <link rel="shortcut icon" href="https://d9577jy9n4orp.cloudfront.net/assets/favicon-b363a6d13747d5547536b438a2a0ac807f8877687c5f64e57249d9711f5d62d7.ico">
+
+
+    <link rel="shortcut icon" href="https://cdn-assets0.clutchprep.com/assets/favicon-b363a6d13747d5547536b438a2a0ac807f8877687c5f64e57249d9711f5d62d7.ico">
     <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://d9577jy9n4orp.cloudfront.net/assets/icons/apple-touch-icon-144-precomposed-a548bcf49eb7f3c774902abe37c6f3ccb131792d95e6196e6df7445aae40e799.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://d9577jy9n4orp.cloudfront.net/assets/icons/apple-touch-icon-114-precomposed-b49a42b9f7fdab237a26b3459ada49ce94ae7dad1a1ed8717caff411c80da519.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://d9577jy9n4orp.cloudfront.net/assets/icons/apple-touch-icon-72-precomposed-418fca0e2ebed4b391300a1a7e6d1235c17867d3c5d52ef77c04b530e83d840f.png">
-                    <link rel="apple-touch-icon-precomposed" href="https://d9577jy9n4orp.cloudfront.net/assets/icons/apple-touch-icon-57-precomposed-01ba5267a9d4d05d1e97fc7552da788b93800b83b060cb38aac7712185034cd9.png">
-                                <link rel="apple-touch-icon" href="https://d9577jy9n4orp.cloudfront.net/assets/icons/apple-touch-icon-57-precomposed-01ba5267a9d4d05d1e97fc7552da788b93800b83b060cb38aac7712185034cd9.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://cdn-assets2.clutchprep.com/assets/icons/apple-touch-icon-144-precomposed-a548bcf49eb7f3c774902abe37c6f3ccb131792d95e6196e6df7445aae40e799.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn-assets2.clutchprep.com/assets/icons/apple-touch-icon-114-precomposed-b49a42b9f7fdab237a26b3459ada49ce94ae7dad1a1ed8717caff411c80da519.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn-assets3.clutchprep.com/assets/icons/apple-touch-icon-72-precomposed-418fca0e2ebed4b391300a1a7e6d1235c17867d3c5d52ef77c04b530e83d840f.png">
+                    <link rel="apple-touch-icon-precomposed" href="https://cdn-assets0.clutchprep.com/assets/icons/apple-touch-icon-57-precomposed-01ba5267a9d4d05d1e97fc7552da788b93800b83b060cb38aac7712185034cd9.png">
+                                <link rel="apple-touch-icon" href="https://cdn-assets0.clutchprep.com/assets/icons/apple-touch-icon-57-precomposed-01ba5267a9d4d05d1e97fc7552da788b93800b83b060cb38aac7712185034cd9.png">
 
 
 
@@ -238,7 +274,7 @@
 <![endif]-->
 
 </head>
-<body class="static_pages privacy_policy guest ">
+<body class="static_pages privacy_policy guest show-chat ">
 
 <script>
 // Detect if using ie + version
@@ -263,176 +299,150 @@ if(ie < 9) {
 }
 </script>
 
-<script>
-  dataLayer = [];
-</script>
 
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T6BN4S"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-T6BN4S');</script>
-<!-- End Google Tag Manager -->
+  <script>
+    dataLayer = [];
+  </script>
+
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T6BN4S"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-T6BN4S');</script>
+  <!-- End Google Tag Manager -->
 
 
 
-<script>
-  
+  <script>
+    
 
-</script>
+  </script>
 
-<nav class="navbar navbar-fixed-top navbar-inverse " id="nav">
 
-  <div class="navbar-inner">
-    <div class="container">
 
-      <div class="navbar-header">
 
-        <a href="/" class="navbar-brand">Clutch Prep</a>
-      </div>
 
+<style type="text/css">
+  .number-badge[data-count]:after{
+    position: absolute;
+    right: -4px;
+    top: -4px;
+    content: attr(data-count);
+    font-size: 10px;
+    padding: .6em;
+    border-radius: 999px;
+    line-height: 6px;
+    color: white;
+    background: #fa3e3e;
+    text-align: center;
+    min-width: 17px;
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+    -webkit-font-smoothing: subpixel-antialiased;
+  }
+  #chatrooms i.fa-question[data-count]:after {
+    right: initial;
+    left: -8px;
+    top: -3px;
+  }
+
+  .unlocks-badge[data-count]:after{
+    position: absolute;
+    right: 13px;
+    top: 31px;
+    content: attr(data-count);
+    font-size: 10px;
+    padding: .6em;
+    border-radius: 999px;
+    line-height: 6px;
+    color: white;
+    background: #04a8f6;
+    text-align: center;
+    min-width: 17px;
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+    -webkit-font-smoothing: subpixel-antialiased;
+    transition: 0.25s;
+  }
+
+  .zero-unlocks-badge[data-count]:after{
+    position: absolute;
+    right: 13px;
+    top: 31px;
+    content: attr(data-count);
+    font-size: 10px;
+    padding: .6em;
+    border-radius: 999px;
+    line-height: 6px;
+    color: white;
+    background: #f44242;
+    text-align: center;
+    min-width: 17px;
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+    -webkit-font-smoothing: subpixel-antialiased;
+    transition: 0.25s;
+  }
+/*
+  .fa-key:hover{
+    color: #04a8f6;
+  }*/
+
+  .move-up {
+    transform: translate(0,-150px);
+    -webkit-transform: translate(0,-150px) ;
+    -o-transform: translate(0,-150px) ; 
+    -moz-transform: translate(0,-150px) ;
+    transition-duration: 2s;
+  }
+
+  /*.alt-move-up {
+    transform: translate(0,-150px);
+    -webkit-transform: translate(0,-150px) ;
+    -o-transform: translate(0,-150px) ; 
+    -moz-transform: translate(0,-150px) ;
+    transition-duration: 2s;
+  }*/
+</style>
+
+
+
+
+
+
+
+
+  <nav class="navbar navbar-fixed-top navbar-inverse " id="nav">
+
+    <div class="navbar-inner">
+      <div class="container">
+
+        <div class="navbar-header">
+          <div class="hidden-sm hidden-md hidden-lg">
+            <!-- <button type="button" class="navbar-toggle js-show-core-topics-nav">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="fa fa-bar"></span>
+              <span class="fa fa-bar"></span>
+              <span class="fa fa-bar"></span>
+            </button> -->
+            <a href="/register" class="btn btn-xs btn-success sign-up-for-free">Sign Up for Free!</a>
+          </div>
+
+          <a href="/" class="navbar-brand">Clutch Prep</a>
+        </div>
 
         <ul class="nav navbar-nav pull-right collapse navbar-collapse">
-          <!-- PUT YOUR SIGN IN HERE -->
           <li class="register-sign-in-li"><a href="#log_in_modal" class="sign-in register-sign-in" data-toggle="modal">Sign In</a></li>
           <li><a href="/register" class="btn btn-success register-nav-btn">Sign Up for Free!</a></li>
-
         </ul>
 
 
+      </div>
+
     </div>
-
-  </div>
-</nav>
+  </nav>
 
 
-<div class="modal fade ask_tutor_question_explanation" id="ask_tutor_question_explanation" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-        <h4 class="modal-title">Want to ask your tutor a question?</h4>
-      </div>
-      <div class="modal-body">
-        <div class="row">
-          <div class="col-md-12">
-            <ul>
-              <li>Leave a comment or question below a specific video.</li>
-              <li>Your tutor will get back to you within 1 business day.</li>
-              <li>You will get a notification once the tutor replies!</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<script>
-$(document).ready(function(){
-  $('#ask_tutor_question_explanation').on('shown.bs.modal', function() {
-    mixpanel.track('Shown modal window', {'Modal': 'Ask tutor questions explanation'});
-  });
-
-  $('#ask_tutor_question_explanation').on('hidden.bs.modal', function() {
-    mixpanel.track('Closed modal window', {'Modal': 'Ask tutor questions explanation'});
-  });
-});
-</script>
-<div class="modal fade email_customer_support" id="email_customer_support" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-        <h4 class="modal-title">Customer Support</h4>
-      </div>
-      <div class="modal-body">
-        <div class="row">
-          <div class="col-md-12">
-            <p>If you need help with anything you can email us at <a href="mailto:help@clutchprep.com">help@clutchprep.com</a> and we'll get back to you as soon as we can - we promise!</p>
-          </div>
-        </div>
-      </div>
-      <!-- <div class="modal-footer">
-        <button type="button" class="btn btn-success" data-dismiss="modal" aria-hidden="true">Close</button>
-      </div> -->
-    </div>
-  </div>
-</div>
-
-<script>
-$(document).ready(function(){
-  $('#ask_tutor_question_explanation').on('shown.bs.modal', function() {
-    mixpanel.track('Shown modal window', {'Modal': 'Email customer support'});
-  });
-
-  $('#ask_tutor_question_explanation').on('hidden.bs.modal', function() {
-    mixpanel.track('Closed modal window', {'Modal': 'Email customer support'});
-  });
-});
-</script>
-
-
-
-<script>
-$(document).ready(function(){
- $('.email-support').on("click", function() {
-    mixpanel.track('Clicked on Link', { 'Link': "Email supports" });
-  });
-
-  $('a.js-notification-mark-all-as-read').on('click', function(e) {
-    e.preventDefault();
-
-    var $button = $(this);
-    var $notifications = $button.closest('.notifications');
-
-    mixpanel.track('Clicked on Link', { 'Link': "Mark all notifications as read" });
-
-    $.ajax({
-        type: "POST",
-        url: "/notifications/mark_read_all_notifications.json",
-        data: { },
-        dataType: 'json'
-    }).done(function( response ) {
-
-      $notifications.find('a.notification-link').remove();
-      $button.addClass('hide');
-
-      $notifications.find('p.nothing-new').parent().removeClass('hide');
-      $('#notification-icon span.count').remove();
-      $notifications.find('span.title').text('Notifications');
-
-    });
-
-  });
-
-  $('a.notification-unread').on('click', function(e) {
-    e.preventDefault();
-
-    var $button         = $(this);
-    var notification_id = $button.attr('data-notification-id');
-    var url             = $button.attr('href');
-
-    mixpanel.track('Clicked on Link', { 'Link': "Individual notification", 'Notification': notification_id });
-
-    $.ajax({
-        type: "POST",
-        url: "/notifications/mark_read_notification.json",
-        data: { notification_id: notification_id },
-        dataType: 'json'
-    }).done(function( response ) {
-
-      window.location.href = url;
-
-    });
-
-  });
-
-});
-</script>
 
 <div class="privacy_policy">
   <div class="container">
@@ -528,76 +538,80 @@ $(document).ready(function(){
   </div>
 </div>
 
-<script src="https://cdn.smooch.io/smooch.min.js"></script>
-
-
-<script>
-
-  var START_TIME_IN_UTC = ""
-  var END_TIME_IN_UTC = ""
-
-  var d = new Date();
-  var utcTime = d.getUTCHours();
-  var weekend = /^Sat|Sun/.test(d.toUTCString());
-  var businessHours = utcTime > 13 && utcTime < 21
-
-  if (!weekend && businessHours) {
-    Smooch.init({
-      appToken: '5fqna7ciw6xi9n0vstj4kyz9d',
-      emailCaptureEnabled: true
-    });
-  }
-
-</script>
-
 
   <footer class="footer">
     <div class="container">
 
       <div class="row">
 
-        <div class="col-md-8">
-          <ul class="footer-links">
-            <li><a href="/blog/">Blog</a></li>
-            <li><a href="/about-us">About Us</a></li>
-            <li><a href="/jobs">Jobs</a></li>
-            <li><a href="/frequently-asked-questions">FAQ</a></li>
-            <li><a href="mailto:help@clutchprep.com">help@clutchprep.com</a></li>
-            <!-- <li><a href="http://blog.clutchprep.com">Blog</a></li> -->
-            <li><a href="https://www.facebook.com/clutchprep" target="_blank"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="https://twitter.com/clutchprep" target="_blank"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="https://plus.google.com/+Clutchprep" target="_blank"><i class="fa fa-google"></i></a></li>
-            <li><a href="https://instagram.com/clutchprep/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+        <div class="col-md-2 col-sm-4 col-xs-6">
+          <ul class="footerLinks">
+            <li class="footerLinks-title">Library</li>
+            <li><a href="/chemistry">Chemistry</a></li>
+            <li><a href="/organic-chemistry">Organic Chem</a></li>
+            <li><a href="/physics">Physics</a></li>
+            <li><a href="/calculus">Calculus</a></li>
+            <li><a href="/statistics">Statistics</a></li>
+            <li><a href="/biology">Biology</a></li>
+            <li><a href="/cell-biology">Cell Biology</a></li>
+            <li><a href="/physiology">Physiology</a></li>
           </ul>
         </div>
 
-        <div class="col-md-4">
-          <a href="https://mixpanel.com/f/partner" class="mixpanel_btn" style="display: none;"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a>
-          <span class="copyright">© 2016 Clutch Learning, Inc.</span>
+        <div class="col-md-2 col-sm-4 col-xs-6">
+          <ul class="footerLinks">
+            <li class="footerLinks-title">Schools</li>
+            <li><a href="/ucf">UCF</a></li>
+            <li><a href="/usf">USF</a></li>
+            <li><a href="/ucsd">UCSD</a></li>
+            <li><a href="/tamu">TAMU</a></li>
+            <li><a href="/fiu">FIU</a></li>
+            <li><a href="/utexas">UT Austin</a></li>
+            <li><a href="/fsu">FSU</a></li>
+            <li><a href="/schools">More..</a></li>
+          </ul>
         </div>
 
-          <div class="col-xs-12">
-            <ul class="footer-links subject-links">
-              <li>Subjects:</li>
-              <li><a href="/chemistry">Chemistry</a></li>
-              <li><a href="/organic">Organic Chemistry</a></li>
-              <li><a href="/physics">Physics</a></li>
-              <li><a href="/calculus">Calculus</a></li>
-              <li><a href="/statistics">Statistics</a></li>
-              <li><a href="/biology">Biology</a></li>
-            </ul>
-          </div>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+          <ul class="footerLinks">
+            <li class="footerLinks-title">About</li>
+            <li><a href="mailto:help@clutchprep.com">Email Us</a></li>
+            <li><a href="/about-us">About Us</a></li>
+            <li><a href="/blog/">Blog</a></li>
+            <li><a href="/jobs">Jobs</a></li>
+            <li><a href="/frequently-asked-questions">FAQ</a></li>
+            <li><a href="https://shop.clutchprep.com">Store</a></li>
+            <!-- commenting out as per christy's reqeuest, until she is available -->
+            <!-- <li class="text">Call: (866) 797-0383</li> -->
+            <li class="text">Text: (786) 220-6149</li>
+          </ul>
+        </div>
 
-        <div class="col-xs-12">
-          <ul class="footer-links policy-links">
+        <div class="col-md-2 col-sm-4 col-xs-6">
+          <ul class="footerLinks">
+            <li class="footerLinks-title">Social</li>
+            <li><a href="https://www.facebook.com/clutchprep" target="_blank">Facebook</a></li>
+            <li><a href="https://twitter.com/clutchprep" target="_blank">Twitter</a></li>
+            <li><a href="https://www.youtube.com/user/ClutchPrep" target="_blank">Youtube</a></li>
+            <li><a href="https://instagram.com/clutchprep/" target="_blank">Instagram</a></li>
+            <li><a href="https://plus.google.com/+Clutchprep" target="_blank">Google+</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-3 col-sm-4 col-xs-12">
+          <ul class="footerLinks">
+            <li class="footerLinks-title">Legal</li>
             <li><a href="/terms-of-service">Terms of Service</a></li>
             <li><a href="/privacy-policy">Privacy Policy</a></li>
             <li><a href="/copyright-policy">Copyright Policy</a></li>
+            <li class="copyright">© 2017 Clutch Learning, Inc.</li>
+            <li class="disclaimer">Clutch Prep is not sponsored or endorsed by any college or university.</li>
           </ul>
         </div>
 
       </div>
     </div>
+
   </footer>
 
 
@@ -607,6 +621,7 @@ $(document).ready(function(){
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
           <h4 class="modal-title">Sign In</h4>
         </div>
         <div class="modal-body">
@@ -632,7 +647,7 @@ $(document).ready(function(){
               <div class="col-md-12">
                 <div class="row">
 
-                  <form accept-charset="UTF-8" action="/sessions" class="form-horizontal" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="sOtcp649w52ioUrxX40JhFNMilntBgz6dIONHgQ0DMo="></div>
+                  <form accept-charset="UTF-8" action="/sessions" class="form-horizontal" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="bzKpKL0gtFYCUeLnTOZ/KZv8dKTWgoAqbEiVZs+vQNE="></div>
 
                     <div class="form-group">
                       <label class="control-label col-md-3" for="session_email">Email</label>
@@ -666,7 +681,6 @@ $(document).ready(function(){
 
 
 
-
   <script>
     $(document).ready(function() {
       $('body').on('click', 'a.js-login-link', function(e) {
@@ -685,6 +699,6 @@ $(document).ready(function(){
 
 </script>
 
-
+  
 
 </body></html>
