@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the freedownloadscenter.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120095842id_/http%3A//freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloadscenter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135048id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 | 
 
-[Change MBOX Files into PDF File ](http://www.freedownloadscenter.com/Reviews/r10663.html)
+[idoo USB Encryption ](http://www.freedownloadscenter.com/Reviews/r11053.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r10663.html)
+[](http://www.freedownloadscenter.com/Reviews/r11053.html)
 
-**Change MBOX Files into PDF File** is a professional application with the capabilities to convert MBOX files to PDF format. 
+**idoo USB Encryption** is the most reliable encryption utility with total privacy for your external hard drive or flash drive. 
 
-[Prism Plus Edition ](http://www.freedownloadscenter.com/Reviews/r10664.html)
+[KryptoFiler ](http://www.freedownloadscenter.com/Reviews/r11054.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r10664.html)
+[](http://www.freedownloadscenter.com/Reviews/r11054.html)
 
-**Prism Plus Edition** is a fully functional video conversion software with speed and performance.
+**KryptoFiler** is a free-to-use, safe and reliable encryption and decryption tool with features and capability. 
 
 Reviews newsletter 
 
