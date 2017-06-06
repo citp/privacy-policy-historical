@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dogbreedinfo.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203134931id_/http%3A//dogbreedinfo.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogbreedinfo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183244id_/http%3A//dogbreedinfo.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Dog Breed Info Centers® - Privacy Policy
 
 Dog Breed Info Center® (“we” or “us”) is committed to respecting your privacy. Please read the following privacy policy (“Policy”) to understand what information we collect from you, how we protect such information, and how you can choose to limit or change what information we collect. This Policy governs any services provided by Dog Breed Info Center® and the websites located at Dogbreedinfo.com, BreederInfocenter.com, Rescueinfocenter.com, and Maguirefarm.com (collectively, “DBIC”). We may provide access to DBIC through use of mobile devices, Internet web sites, or through other platforms; and with such access, you warrant and represent that you have read, understand, and agree to all terms and conditions stated herein. If you do not agree with any of the terms and conditions in this policy, do not use or access DBIC.
 
-If there is a conflict between the terms of this Policy and the Terms of Service, then this Policy shall control. If you have any questions regarding this Policy or DBIC, please [contact us](http://www.dogbreedinfo.com/contact/index.php).
+If there is a conflict between the terms of this Policy and the Terms of Service, then this Policy shall control. If you have any questions regarding this Policy or DBIC, please [contact us](https://web.archive.org/web/20170606183244id_/http%3A//dogbreedinfo.com/contact/index.php).
 
 Please note that this Policy only applies to DBIC. It does not apply to any information that you share with any third party or on any other external forum or communication node (for example, Twitter, Facebook, Pinterest, Google+, iMessage, a website, a blog, an e-mail, etc.) made available through DBIC. In other words, we are not responsible for the privacy practices of any entity or service that we neither own nor completely manage or control. 
 
@@ -24,7 +24,7 @@ To submit photographs, you must agree to the terms of DBIC’s Photo Submission 
 
 __DBIC’s Classified Ads service__
 
-DBIC provides a Classified Ads service, available through the websites at dogbreedinfo.com, breederinfocenter.com, and rescueinfocenter.com. Any use of the Classified Ads service is subject to separate Terms and Conditions, available at [https://www.breederinfocenter.com/terms-and-conditions](https://www.breederinfocenter.com/terms-and-conditions/) and [https://www.rescueinfocenter.com/terms-and-conditions](https://www.rescueinfocenter.com/terms-and-conditions/) (for users searching the ads) and at <http://www.dogbreedinfo.com/advertising.htm> (for advertisers). When an advertiser registers with the Classified Ads service, we collect information including the advertiser’s name, e-mail address, username and password. When an advertiser submits an advertisement, we collect information specific to that advertisement, such as the name of the name, age and location of the dog, and other descriptive information about the dog. Use of personally identifiable information submitted in connection with the Classified Ads service is subject to this Privacy Policy. In the event of a conflict between the Classified Ad Service’s Terms and Conditions and this Privacy Policy, the Privacy Policy will control.
+DBIC provides a Classified Ads service, available through the websites at dogbreedinfo.com, breederinfocenter.com, and rescueinfocenter.com. Any use of the Classified Ads service is subject to separate Terms and Conditions, available at [https://www.breederinfocenter.com/terms-and-conditions](https://www.breederinfocenter.com/terms-and-conditions/) and [https://www.rescueinfocenter.com/terms-and-conditions](https://www.rescueinfocenter.com/terms-and-conditions/) (for users searching the ads) and at [https://www.dogbreedinfo.com/advertising.htm](https://web.archive.org/web/20170606183244id_/http%3A//dogbreedinfo.com/advertising.htm) (for advertisers). When an advertiser registers with the Classified Ads service, we collect information including the advertiser’s name, e-mail address, username and password. When an advertiser submits an advertisement, we collect information specific to that advertisement, such as the name of the name, age and location of the dog, and other descriptive information about the dog. Use of personally identifiable information submitted in connection with the Classified Ads service is subject to this Privacy Policy. In the event of a conflict between the Classified Ad Service’s Terms and Conditions and this Privacy Policy, the Privacy Policy will control.
 
 __User-provided information for Contact Form, Newsletter, Surveys/Quizzes, and other services.__
 
@@ -62,7 +62,7 @@ You may opt out of Google's use of cookies by visiting [Google's Ads Settings](h
 
 #### 6.0 Age Restrictions
 
-DBIC is not meant to be used by anyone under age 13. If you are under age 13, you may not submit photographs to DBIC. If you are a parent of a child under age 13 who is using DBIC, please use your own name and contact information when submitting information to DBIC (for example, if you are uploading a photograph of your dog). If you have any questions, please [contact us](http://www.dogbreedinfo.com/contact/index.php).
+DBIC is not meant to be used by anyone under age 13. If you are under age 13, you may not submit photographs to DBIC. If you are a parent of a child under age 13 who is using DBIC, please use your own name and contact information when submitting information to DBIC (for example, if you are uploading a photograph of your dog). If you have any questions, please [contact us](https://web.archive.org/web/20170606183244id_/http%3A//dogbreedinfo.com/contact/index.php).
 
 #### 7.0 Necessary Disclosures
 
@@ -74,6 +74,6 @@ Notwithstanding the forgoing policies and precautions that we exercise, we expre
 
 #### 9.0 Other Legal Notices.
 
-Any dispute over privacy is subject to this Policy and our Terms of Service. If you have any concern about your privacy in connection with this Policy, please send us a thorough description from our [Contact](http://www.dogbreedinfo.com/contact/index.php) form, and we will try to resolve it.
+Any dispute over privacy is subject to this Policy and our Terms of Service. If you have any concern about your privacy in connection with this Policy, please send us a thorough description from our [Contact](https://web.archive.org/web/20170606183244id_/http%3A//dogbreedinfo.com/contact/index.php) form, and we will try to resolve it.
 
 Last revised: 8-15-2016
