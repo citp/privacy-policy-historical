@@ -1,47 +1,75 @@
-> *The following text is extracted and transformed from the dwtricks.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028204359id_/http%3A//www.dwtricks.com/any-of-information-we-collect-you-may) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwtricks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225502id_/https%3A//dwtricks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy -
+# Privacy Policy
 
-Any of the information we collect from you may be used in one of the following ways:
+This Privacy Policy governs the manner in which DwTricks collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://dwtricks.com website (“Site”).
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+### Personal identification information
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-; To administer a contest, promotion, survey or other site feature
+### Non-personal identification information
 
-**Do we use cookies?**
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-We do not use cookies.
+### Web browser cookies
 
-**Do we disclose any information to outside parties?**
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing,advertising, or other uses.
+### How we use collected information
 
-**Third party links**
+Gadgetsay may collect and use Users personal information for the following purposes:
 
-Occasionally, at our discretion, we may include or offer third party products or services on ourwebsite. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site.  welcome any feedback about these sites.
+  *  _To run and operate our Site_  
+We may need your information display content on the Site correctly.
+  *  _To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  *  _To send periodic emails_
 
-**Childrens  Online Privacy Protection ActCompliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do notcollect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Online Privacy Policy Only**
+### How we protect your information
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**Online Privacy Policy Only**
+### Sharing your personal information
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-**Terms and Conditions**
+### Electronic newsletters
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.dwtricks.com](http://www.dwtricks.com/)
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc.
 
-**Your Consent**
+### Third party websites
 
-**Changes to our Privacy Policy**
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site.
 
-If we decide to change our privacy policy, we will post those changes on this page.
+Gadgetsay.com can contract with any site but if any faulty charges found on another site the contract will be canceled, if the payment is already made to Gadgetsay then they will pay back the same amount to the contractor. And the contract becomes void.
+
+In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+### Google Adsense
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+### Compliance with children’s online privacy protection act
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+### Changes to this privacy policy
+
+Gadgetsay has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This policy was generated using [Privacy Policies.com](http://privacypolicies.com/)
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+
+This document was last updated on June 06, 2016
