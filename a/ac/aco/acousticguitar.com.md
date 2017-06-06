@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123103258id_/http%3A//stringletter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153511id_/http%3A//stringletter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stringletter
+# Stringletter » Privacy Policy
 
 String Letter Publishing recognizes the importance of protecting the privacy of information provided to us. Accordingly, we strive for compliance with all federal and state privacy laws and follow industry best practices in order to best serve our community. The following guidelines have been created to demonstrate our commitment to privacy. It applies to all of our publications, books, events and properties.
 
