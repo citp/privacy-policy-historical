@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the vitalbmx.com privacy policy that was archived on 2016-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206041804id_/http%3A//www.vitalbmx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitalbmx.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606111451id_/http%3A//www.vitalbmx.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="bmx" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="b+XYFxVf/Q0MO3Mqm8toRbOjishYC9Naf9pLuWF59ZM=" name="csrf-token">
+<meta content="leSbIyns9YrFJYidy1DWRjE2w5Yz9WDPjADZBFC4zcs=" name="csrf-token">
 <!--[if lte IE 8]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -23,7 +23,7 @@
 <script src="/assets/isMobile-139cc0876bca4b3a0b04ba75c612eb1d.js" type="text/javascript"></script>
 
 <script type="text/javascript" charset="utf-8">
-  var isDST = false;
+  var isDST = true;
   $j = jQuery.noConflict();
   $j.vitalOptions = {
     userCardAutoPopup: 'on'
@@ -169,16 +169,17 @@
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 <link href="/assets/fancybox/jquery.fancybox-1.3.1-72cd4254f9fd953117285e2c4106cedf.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/assets/fancybox/jquery.fancybox-patch-f4d36e69503b6525f0625dd6ee6225e5.css" media="screen" rel="stylesheet" type="text/css">
-<script src="/assets/fancybox/jquery.fancybox-1.3.1-e7c397426d65644e4efa604470a52cb0.js" type="text/javascript"></script>
-<script src="/assets/vital.apps-a59eb1dc8805755403a4b7a3b799e6a8.js" type="text/javascript"></script>
-<script src="/assets/jquery_ujs-16865685ce1d1df07b3c2d72568c482f.js" type="text/javascript"></script>
+<script src="/assets/fancybox/jquery.fancybox-1.3.1-8e61dddde3e0bfb396bdd722260c431f.js" type="text/javascript"></script>
+<script src="/assets/vital.apps-b732c499e47a92fabc7d416371e828a9.js" type="text/javascript"></script>
+<script src="/assets/jquery_ujs-c0ea06d4a75c40af07dadcaeb3b7e166.js" type="text/javascript"></script>
 <script src="/assets/advertisement-632bdd1b461e22fb96c22d29cd1c2941.js" type="text/javascript"></script></head><body id="privacy_policy" class="small_scrn"><div id="tester" class="banner" style="display:none;">an advertisement</div>
-<script src="/assets/jquery.role-687a11fa0c2e3e86d362e2cc9d3e8a98.js" type="text/javascript"></script>
-<script src="/assets/arrive.min-7888c99d400fddbcba4ee712216d4121.js" type="text/javascript"></script>
-<script src="/assets/toe/toe.min-d6c831e5c08ae0b7d081f6558b8d4d12.js" type="text/javascript"></script>
+<script src="/assets/jquery.role-347954ea7b37d013d2f5d10dd87f94a8.js" type="text/javascript"></script>
+<script src="/assets/arrive.min-5293e5663b710d43c1deffb6f9f9310a.js" type="text/javascript"></script>
+<script src="/assets/toe/toe.min-ca28a7205d3a3581855e3c054eb51c20.js" type="text/javascript"></script>
+<script src="/assets/URI-17207692f355f6c83655a32e9fc3a7c1.js" type="text/javascript"></script>
 
 <link href="/assets/password_strength-ca60937da105d6a84c0881220e9b5e8a.css" media="screen" rel="stylesheet" type="text/css">
-<script src="/assets/password_strength-dd42a93aa1ff7d7f48a44362433cb83d.js" type="text/javascript"></script>
+<script src="/assets/password_strength-b940461340702606a18d1332de81974c.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -190,7 +191,7 @@ $j(document).ajaxSend(function(e, xhr, options) {
 
 //]]>
 </script>
-<script src="/assets/uk_site/jquery.cookie-606b1cd0b98ed97abb06ce370cce30c5.js" type="text/javascript"></script>
+<script src="/assets/uk_site/jquery.cookie-f98b0e3ad7dbbd3ee863ec6c18509a5c.js" type="text/javascript"></script>
 <script type="text/javascript" charset="utf-8">
 if (window.location.pathname == '/') {
     var float_ad = false;
@@ -266,6 +267,21 @@ $j(document).ready(function() {
 			(thisSrc.indexOf('vital') !== -1 && thisSrc.indexOf('/video_frame_sources/') !== -1)
 		) ) {
 		  $j(this).wrap('<div class="playerWrapper"></div>');
+		}
+	});
+	
+	//Iframe Fullscreen
+	$j('.content_inner iframe').each(function() {
+		console.log($j(this).attr('src'));
+		var attr = $j(this).attr('allowfullscreen');		
+		if (attr == false || attr == '' || !attr) {		    
+		    thisSrc = $j(this).attr('src');
+		    if( thisSrc && (thisSrc.indexOf('youtube') !== -1 || 
+		    	thisSrc.indexOf('vimeo') !== -1 ||
+		    	thisSrc.indexOf('redbull.com') !== -1 || 
+		    	(thisSrc.indexOf('vital') !== -1 && thisSrc.indexOf('/v/') !== -1) || (thisSrc.indexOf('vital') !== -1 && thisSrc.indexOf('/video_frame_sources/') !== -1)) ) {
+		    	$j(this).attr('allowfullscreen','true');
+		    }
 		}
 	});
 });
@@ -427,10 +443,39 @@ $j(document).ready(function() {
 var intCookie1 = '';
 var intCookie2 = '';
 
+function sponsoredPopup() {
+	$j('body').append('<div class="sponsoredOuter"><div class="sponsoredPop cf"></div><div class="sponsoredBg"></div></div>')
+	thisPop = $j('.sponsoredPop');
+	thisPop.append('<div><img src="/assets/bmx_popup_sponsored_posts.jpg"></div>');
+	thisPop.append('<div class="mainContent"></div>');
+	thisPop.append('<i class="fa fa-times closeThis"></i>');
+	thisPop.find('.mainContent').append('<h2>Sponsored Posts</h2>');
+	thisPop.find('.mainContent').append('<ul><li>Get more exposure for your content on the Vital homepage</li><li>Any content can be promoted: your products in the product guide, videos, user product reviews, slideshows, bike checks, Vital product reviews, etc.</li><li>Your post will be stickied at top of our homepage newsfeed for 12 hours</li><li>Price is $100</li><li><a target="_blank" href="mailto:ttoth@vitalmedianet.com">Contact us for availability</a></li></ul>');
+	//Close Functs
+	$j('.sponsoredBg, .sponsoredPop .closeThis').click(function() {
+		$j('.sponsoredOuter').remove();
+	});
+}
+
+//Bot Check
+var allowAdvFuncts = "false";
+$j(window).scroll(function() { allowAdvFuncts = true });
+$j(window).resize(function() { allowAdvFuncts = true });
+//$j('body').click(function() { allowAdvFuncts = true }); -- Triggers false positives
+$j('body').hover(function() { allowAdvFuncts = true });
+$j('body').focus(function() { allowAdvFuncts = true });
+$j('body').bind('touchstart', function() { allowAdvFuncts = true });
+$j(document).keydown(function() { allowAdvFuncts = true });
+$j(document).mousedown(function() { allowAdvFuncts = true });
+$j(document).mousemove(function() { allowAdvFuncts = true });
+$j(document).mouseleave(function() { allowAdvFuncts = true });
+setInterval(function() {
+	console.log("allowAdvFuncts: "+allowAdvFuncts);
+}, 1000);
 </script>
 
 <script src="http://www.vitalbmx.com/partials/user_j?following_url=privacy_policies&amp;notif_id="></script>
-<link href="/assets/120111_main.min-5cd88deb3a3cc1af3cf99b9445ba79fb.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/120111_main.min-d3f8d35bf726b4f035993c6696bd4c72.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE]><link href="/assets/ie-1bc487bf5a3ab2bb04f275d4516cbec6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <link href="/assets/120305_comments.min-711bbb7452777a48b900e3a527717086.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
@@ -440,7 +485,7 @@ var intCookie2 = '';
 
 
 
-<link href="/assets/120103_bmx-f37c1a26ce1f995f3068cdbaae726bfa.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/120103_bmx-e387fdded0db956da56cb90a9c3fb3eb.css" media="screen" rel="stylesheet" type="text/css">
 
 
 <link href="https://plus.google.com/113723584621793382880" rel="publisher">
@@ -670,7 +715,7 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         <a href="/forums/main">Forum</a>
       </li>
       <li id="main_nav_store">
-        <a href="http://store.vitalbmx.com/" rel="nofollow" target="_blank">Store</a>
+        <a href="http://store.vitalmedianet.com/category/vital-bmx" rel="nofollow" target="_blank">Store</a>
       </li>
     </ul>
   </div>
@@ -741,7 +786,7 @@ else vitalPage.showWallpaperAd();
 
 //]]>
 </script>
-  <div class="content">
+  <div class="content cf">
     
     <div id="notice" style="display: none">
   
@@ -762,7 +807,8 @@ else vitalPage.showWallpaperAd();
 </script>
     
     
-  	<div class="content_inner">
+  	
+  	<div class="content_inner    ">
   	  
 <div id="main-content" class="privacy_policy">
 <h2>Privacy Policy</h2>
@@ -860,7 +906,6 @@ Irvine, CA 92612
     
 <div class="sidebar normal">
   <div class="ad" data-buster="busterWrap" data-scroll-buster="true">
-  
     <div class="gad-inner" id="BMX_desktop_features_main_side">
     <script type="text/javascript">
       googletag.cmd.push(function() { googletag.display('BMX_desktop_features_main_side'); });
@@ -916,7 +961,7 @@ Irvine, CA 92612
     <span>Edition: <a href="http://www.vitalbmx.com?perm=1">Int'l</a> | <a href="http://uk.vitalbmx.com?perm=1">UK</a></span>
     <span>Version: <a href="http://www.vitalbmx.com/privacy-policy?mobile=false">Desktop</a> | <a href="http://m.vitalbmx.com/privacy-policy?mobile=true">Mobile</a></span>
   </label>
-  <label>© 2016 Vital Media Network, Inc.</label>
+  <label>© 2017 Vital Media Network, Inc.</label>
 </div>
 </div>
 <!-- // footer -->
@@ -935,6 +980,136 @@ Irvine, CA 92612
 vitalPage.adjustBgAdHeight();
 prepOutboundLinks();
 </script>
+<!-- Survey -->
+<div id="floatover" class="hide bmx">
+  <div class="fb_logo"> 
+    <a href="#" id="floatover_close">[X] Close</a> 
+  </div> 
+  <div class="fb_content" id="surveyContent"> 
+    <script>
+    var surveyContent = '\
+    <p>Hello Vital BMX Visitor,</p> \
+    <p>We’re conducting a survey and would appreciate your input. Your answers will help Vital and the BMX industry better understand what riders like you want. Survey results will be used to recognize top brands. Make your voice heard!</p> \
+    <p>Five lucky people will be selected at random to win a Vital BMX t-shirt.</p> \
+    <p>Thanks in advance,</p> \
+    <p>The Vital BMX Crew</p> \
+    <p align="center"><a href="http://www.surveymonkey.com/s/XXXXXXX" onclick="" target="_blank" id="survey_button"><span>Take Survey</span></a></p> \
+    ';
+    //Append content via JS to stop Facebook using content in previews
+    $j('#surveyContent').html(surveyContent);
+    </script>
+  </div> 
+</div> 
+<style type="text/css"> 
+div#floatover {
+	width:400px; 
+	overflow:hidden; 
+	padding:0px;
+	position: absolute;
+	top: 156px;
+	left: -223px;
+	margin-left:-223px;
+	z-index: 1000;
+	background-color: #fff;
+	-webkit-box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.5);
+	-moz-box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.5);
+	box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.5);
+}
+div#floatover div.fb_logo { width:400px; height:58px; line-height:58px; background:#000 url(http://assets.vitalmedianet.com/images/floatover_sprite.gif) 0 -116px no-repeat; }
+div#floatover div.fb_logo a, div#floatover div.fb_logo a:hover { color:#fff !important; background-color:#000 !important; float:right; padding-right:15px; }
+div#floatover div.fb_content { padding:15px; font-size:14px; }
+div#floatover div.fb_content p { line-height:1.3em; padding-bottom:11px; }
+div#floatover div.fb_content p a#survey_button { margin: 0px auto; display:block; width:98px; height:23px; background:url(http://assets.vitalmedianet.com/images/floatover_sprite.gif) 0 -174px no-repeat; }
+div#floatover div.fb_content p a:hover#survey_button { background-position:-294px -174px; }
+div#floatover div.fb_content p a#survey_button span { visibility:hidden; }
+/* site-specific styles */
+div#floatover.bmx div.fb_logo { background-position: 0 -116px; }
+div#floatover.mtb div.fb_logo { background-position: 0 -58px; }
+div#floatover.mx div.fb_logo { background-position: 0 0; }
+div#floatover.bmx div.fb_content p a#survey_button { background:#0077bb url(http://assets.vitalmedianet.com/images/floatover_sprite.gif) 0 -174px no-repeat; }
+div#floatover.mtb div.fb_content p a#survey_button { background:#990000 url(http://assets.vitalmedianet.com/images/floatover_sprite.gif) -98px -174px no-repeat; }
+div#floatover.mx div.fb_content p a#survey_button { background:#228b22 url(http://assets.vitalmedianet.com/images/floatover_sprite.gif) -196px -174px no-repeat; }
+
+.mobileSurvey{
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+.mobileSurvey div#floatover{
+	margin: 0 !important;
+	top: 90px;
+	left: auto !important;
+	position: relative;
+	margin: 0px auto !important;
+	height: auto;
+	width: 80%;
+	background-image: none;
+	background-color: #fff;
+	-webkit-box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.5);
+	-moz-box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.5);
+	box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.5);
+	z-index: 20;
+	padding: 10px;
+}
+
+.mobileSurvey div#floatover div.fb_logo{
+	width: 100%;
+}
+
+</style> 
+<script type="text/javascript">
+$j(document).ready(function() {
+var survey_cookie = 'audience_survey_2017';
+var survey_cookie_clicks = 'survey_cookie_clicks_2017';
+var survey_urls = {
+	'bmx': 'https://www.surveymonkey.com/r/VitalBMX_2017',
+	'mtb': 'https://www.surveymonkey.com/r/VitalMTB_2017',
+	'mx': 'https://www.surveymonkey.com/r/VitalMX_2017'
+}
+$j('#survey_button').attr('href', survey_urls[vitalPage.getSite()]);
+
+if(!!Cookie.get == false){
+	Cookie = Cookie2;
+	console.log('needs cookie2');
+}
+
+if (!!Cookie && !!Cookie.get) {
+	var site_survey_cookie = Cookie.get(survey_cookie);
+	var site_survey_click_count = Cookie.get(survey_cookie_clicks) ? Cookie.get(survey_cookie_clicks) : 0;
+  console.log(site_survey_cookie);
+	console.log(site_survey_click_count);
+	if (site_survey_cookie == null) {
+    if (site_survey_click_count < 11111) {
+      $j('#floatover').show().animate({left: "50%"}, 1500);
+    }
+	}
+	$j('#floatover_close').click(function(event) {
+		event.preventDefault();
+		Cookie.set(survey_cookie, 'hide', 72*3600);
+		Cookie.set(survey_cookie_clicks, site_survey_click_count + 1, 365*86400);
+		$j('#floatover').fadeOut();
+	});
+	$j('#survey_button').click(function() {
+		$j.get('/api/survey_clicks/click', function() {
+			Cookie.set(survey_cookie, 'hide', 365*86400);
+			$j('#floatover').fadeOut();
+		});
+	});
+}
+
+$j().ready(function() {
+ $j(window).scroll(function(){     
+   $j("#floatover")
+     .stop()
+     .animate({"marginTop": ($j(window).scrollTop() + 30) + "px"}, "fast" );     
+ });
+});
+});
+</script>
+<!-- // Survey -->
+
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
@@ -970,7 +1145,7 @@ qacct:"p-5bUjnbj6Bo8KU"
 </script>
 
 <!-- Handlebars templates -->
-<script type="text/x-handlebars-template" id="user-widget-new-tmpl"><div class="user_widget"><div class="user_widget__inner"><div class="widget_header"><div class="widget_header__userpic"><a href="{{url}}" title="View{{nickname}}'s profile"><img alt="{{nickname}}" src="{{userpic}}" width="48" height="48"></a></div><div class="widget_header__username"><p class="cmmnt_username"><a href="{{url}}" title="View{{nickname}}'s profile">{{nickname}}</a></p><p class="cmmnt_timestamp timestamp">Member since:{{member_since}}</p></div><div class="x_close_link"><a title="Hide">Close</a></div></div><div class="widget_section">{{#if location}}<p>Location: <strong>{{location}}</strong></p>{{/if}}{{#if summary.stories}}<p>Posts: <a href="{{url}}#stories">{{summary.stories}}</a></p>{{/if}}{{#if summary.friends}}<p>Friends: <a href="{{url}}#friends">{{summary.friends}}</a></p>{{/if}}{{#if summary.photos}}<p>Photos: <a href="{{url}}#photos">{{summary.photos}}</a></p>{{/if}}{{#if summary.videos}}<p>Videos: <a href="{{url}}#videos">{{summary.videos}}</a></p>{{/if}}{{#if summary.setup_link}}<p>Bike Check: <a href="{{summary.setup_link}}">view</a></p>{{/if}}{{#if summary.forum_new_topics}}<p>Forum topics started: <a href="{{url}}#forum">{{summary.forum_new_topics}}</a></p>{{/if}}{{#if summary.forum_replies}}<p>Forum replies: <a href="{{url}}#forum">{{summary.forum_replies}}</a></p>{{/if}}{{#if summary.comments}}<p>Comments: <a href="{{url}}#comments">{{summary.comments}}</a></p>{{/if}}{{#if summary.reviews}}<p>Reviews: <a href="{{url}}#reviews">{{summary.reviews}}</a></p>{{/if}}{{#if summary.profile_comments}}<p>Profile comments: <a href="{{url}}#profile-comments">{{summary.profile_comments}}</a></p>{{/if}}</div>{{#if send_message_url}}<div class="widget_section"><p><a href="{{send_message_url}}" class="admin_link"><span>Send Message</span></a></p></div>{{/if}}</div></div></script>
+<script type="text/x-handlebars-template" id="user-widget-new-tmpl"><div class="user_widget"><div class="user_widget__inner"><div class="widget_header"><div class="widget_header__userpic"><a href="{{url}}" title="View{{nickname}}'s profile"><img alt="{{nickname}}" src="{{userpic}}" width="48" height="48"></a></div><div class="widget_header__username"><p class="cmmnt_username"><a href="{{url}}" title="View{{nickname}}'s profile">{{nickname}}</a></p><p class="cmmnt_timestamp timestamp">Member since:{{member_since}}</p></div><div class="x_close_link"><a title="Hide">Close</a></div></div><div class="widget_section">{{#if location}}<p>Location: <strong>{{location}}</strong></p>{{/if}}{{#if summary.stories}}<p>Posts: <a href="{{url}}#stories">{{summary.stories}}</a></p>{{/if}}{{#if summary.friends}}<p>Friends: <a href="{{url}}#friends">{{summary.friends}}</a></p>{{/if}}{{#if summary.photos}}<p>Photos: <a href="{{url}}#photos">{{summary.photos}}</a></p>{{/if}}{{#if summary.videos}}<p>Videos: <a href="{{url}}#videos">{{summary.videos}}</a></p>{{/if}}{{#if summary.setup_link}}<p>Bike Check: <a href="{{summary.setup_link}}">view</a></p>{{/if}}{{#if summary.forum_new_topics}}<p>Forum topics started: <a href="{{url}}#forum">{{summary.forum_new_topics}}</a></p>{{/if}}{{#if summary.forum_replies}}<p>Forum replies: <a href="{{url}}#forum">{{summary.forum_replies}}</a></p>{{/if}}{{#if summary.comments}}<p>Comments: <a href="{{url}}#comments">{{summary.comments}}</a></p>{{/if}}{{#if summary.reviews}}<p>Reviews: <a href="{{url}}#reviews">{{summary.reviews}}</a></p>{{/if}}{{#if summary.profile_comments}}<p>Profile comments: <a href="{{url}}#profile-comments">{{summary.profile_comments}}</a></p>{{/if}}</div>{{#if send_message_url}}<div class="widget_section"><p><a href="{{send_message_url}}" class="admin_link" rel="nofollow"><span>Send Message</span></a></p></div>{{/if}}</div></div></script>
 
 
 
