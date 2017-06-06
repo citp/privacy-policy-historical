@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickooz.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228025830id_/http%3A//clickooz.com/privacy-p24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickooz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171940id_/http%3A//clickooz.com/privacy-p24) for the most accurate reproduction.*
 
 # Privacy - Clickooz Classifieds India, Online Indian Free Local Classified Ads Websites
 
@@ -58,7 +58,7 @@ You may use personal information gathered from Clickooz only to follow up with a
 
 Access, Modification, and Deletion:
 
-You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at support@clickooz.com to review any personal information we store that is not available on Clickooz. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
+You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at Info @clickooz.com to review any personal information we store that is not available on Clickooz. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
 
 .......
 
@@ -76,4 +76,4 @@ Users who use any of the features on Clickooz agree and accept that they have be
 
 We may update, upgrade, modify (partially &/or fully) this policy at any time.
 
-Send questions about this policy to privacy@clickooz.com
+Send questions about this policy to info @clickooz.com
