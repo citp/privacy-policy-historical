@@ -1,28 +1,24 @@
-> *The following text is extracted and transformed from the pinger.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230144010id_/http%3A//pinger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinger.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231758id_/https%3A//wp.pinger.com/privacy-policy) for the most accurate reproduction.*
 
-# Pinger: Text and Talk Free with Textfree
+# Privacy Policy - Pinger
 
 #### **Overview**
 
-This Privacy Policy describes how Pinger treats information that it collects and receives related to your use of Pinger's products, services, and websites. Our primary goal in collecting information is to provide and improve our products and services.
+This Privacy Policy describes how Pinger treats information that it collects and receives related to your use of Pinger's products, services, and websites. Our primary goal in collecting information is to provide and improve our products and services.
 
 #### **Children's Personal Information**
 
-All Pinger products, services and websites are not intended for children under the age of 13, so children under the age of 13 should not use them at any time.
+All Pinger products, services and websites are not intended for children under the age of 13, so children under the age of 13 should not use them at any time.
 
-Pinger does not knowingly collect any information from children under the age of 13. In the event that Pinger discovers that it has received personal information from a child under the age of 13, Pinger will promptly delete such personal information in a secure manner.
-
-#### **Safe Harbor Frameworks**
-
-Pinger complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland (the "Safe Harbor Frameworks"). Pinger has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Pinger's certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+Pinger does not knowingly collect any information from children under the age of 13. In the event that Pinger discovers that it has received personal information from a child under the age of 13, Pinger will promptly delete such personal information in a secure manner.
 
 #### **Information Pinger Collects and Uses**
 
-Pinger collects information when you use and access Pinger's products, services and website. We categorize the information we collect into three categories (collectively referred to as "Customer Information"): Personal Information, App Data and Share Data.
+Pinger collects information when you use and access Pinger's products, services and website. We categorize the information we collect into three categories (collectively referred to as "Customer Information"): Personal Information, App Data and Share Data.
 
-"Personal Information" is information about you that is personally identifiable, including your full name, business or residential address, email address, land-line or existing mobile phone number, or billing information.
+"Personal Information" is information about you that is personally identifiable, including your full name, business or residential address, email address, land-line or existing mobile phone number, or billing information.
 
-"App Data" is information about the nature of your usage of Pinger's website and products and services and non-personal information. App Data can include: IP addresses, domain servers, referring/exit pages, operating system information, unique device identifiers, such as UDID and/or Ethernet MAC address, date/time stamp, clickstream data and information about actions taken by you through interaction with Pinger's products and/or advertising displayed within Pinger products, messages sent and received using Pinger services, information about those messages (date, duration, recipients, size, attachments), type of device, location information, age, gender, type of web browser, one or more cookies that identify your browser, and telecommunications carrier information.
+"App Data" is information about the nature of your usage of Pinger's website and products and services and non-personal information. App Data can include: IP addresses, domain servers, referring/exit pages, operating system information, unique device identifiers, such as UDID and/or Ethernet MAC address, date/time stamp, clickstream data and information about actions taken by you through interaction with Pinger's products and/or advertising displayed within Pinger products, messages sent and received using Pinger services, information about those messages (date, duration, recipients, size, attachments), type of device, location information, age, gender, type of web browser, one or more cookies that identify your browser, and telecommunications carrier information.
 
 "Share Data" is data and information you provide for use with Pinger's products or services, such as text, audio, and photos you make available through the Apps or contacts you add or import for use with Pinger products, and which may be made available to third parties by your actions when using Pinger products or services.
 
@@ -46,7 +42,7 @@ If you provide your phone number as part of a request for information about Ping
 
 (vi) Pinger may share your Customer Information with a third party if you have consented to receive information from that third party through Pinger products or services. Such third parties will handle, store, retain and access such user information in accordance with the terms and conditions of their agreements with you, if any, as well as their own privacy policies and as authorized and agreed upon by you as part of agreements for use of our products and services. It is your responsibility to carefully review such agreements and privacy policies. You acknowledge that Pinger shall have no liability to you for sharing of such information to such third parties as authorized by you and Pinger disclaims any and all liability relating thereto. If Pinger desires to use Personal Information for any purposes other than those described in this Privacy Policy, we will offer you the opportunity to opt out of such use for those other purposes.
 
-#### **Cookies  and Tracking**
+#### **Cookies and Tracking**
 
 When you visit Pinger or use Pinger applications, we may send cookies to your computer that uniquely identify your browser or use tracking pixels, agents or other visitor identification technology (collectively, “Tags”) that collect App Data. We may also include Tags in promotional materials in order to determine whether messages have been opened and acted upon.
 
@@ -54,7 +50,7 @@ We use and share App Data as provided above.
 
 Most browsers allow you to disable cookies or set your browser to alert you when cookies are being sent to your computer. If you disable cookies, you may not be able to utilize certain Pinger products and services.
 
-We use analytics tools provided by Google, Flurry, adjust, Mixpanel and others (“Analytics Tools”) which also use Tags to collect and analyze information about your use of our desktop and mobile applications. We use that information to collect App Data, which we use as provided above. That information is also used by the Analytics Tools providers according to their privacy policies. You can find more details about how Google uses data it collects here: [http://www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). To learn how Flurry collects, uses, and stores such information, see the Flurry privacy policy at[https://policies.yahoo.com/us/en/yahoo/privacy/index.htm](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm). You may choose to opt out of the Flurry services via the Flurry Opt-Out Page, available at[https://dev.flurry.com/secure/optOut.do](https://dev.flurry.com/secure/optOut.do). Mixpanel’s use of information is set forth in the “Privacy Policy” section of its Terms of Use available at [https://mixpanel.com/terms/](https://mixpanel.com/terms/). You may choose to opt out of the Mixpanel cookie at any time at [https://mixpanel.com/optout/](https://mixpanel.com/optout/).
+We use analytics tools provided by Google, Flurry, adjust, Mixpanel and others (“Analytics Tools”) which also use Tags to collect and analyze information about your use of our desktop and mobile applications. We use that information to collect App Data, which we use as provided above. That information is also used by the Analytics Tools providers according to their privacy policies. You can find more details about how Google uses data it collects here: [http://www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). To learn how Flurry collects, uses, and stores such information, see the Flurry privacy policy at [https://policies.yahoo.com/us/en/yahoo/privacy/index.htm](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm). You may choose to opt out of the Flurry services via the Flurry Opt-Out Page, available at [https://dev.flurry.com/secure/optOut.do](https://dev.flurry.com/secure/optOut.do). Mixpanel’s use of information is set forth in the “Privacy Policy” section of its Terms of Use available at [https://mixpanel.com/terms/](https://mixpanel.com/terms/). You may choose to opt out of the Mixpanel cookie at any time at [https://mixpanel.com/optout/](https://mixpanel.com/optout/).
 
 You hereby expressly consent that we is entitled to place Tags for the above-mentioned uses on your computer or device and to use the information gathered from Tags as provided in this Privacy Policy.
 
@@ -66,7 +62,7 @@ We have physical, electronic, and procedural safeguards to protect the loss, mis
 
 #### **Links to Third Party Sites**
 
-As a convenience to you, we may provide links and/or connections to third-party web sites or services from within our website or our products or services. Pinger is not responsible for the privacy practices or content of these third-party sites.
+As a convenience to you, we may provide links and/or connections to third-party web sites or services from within our website or our products or services. Pinger is not responsible for the privacy practices or content of these third-party sites.
 
 #### **Access/Removal of Your Personal Information**
 
@@ -78,10 +74,10 @@ Pinger reserves the right, at our discretion, to change, update or modify this P
 
 #### **Contact Us**
 
-If you have any questions or concerns regarding this Privacy Policy, please send us an email at [info@pinger.com](mailto:info@pinger.com) or write to us at Pinger, Inc. 97 S. 2nd St, Ste. 210, San Jose, CA 95113. If we receive formal privacy-related complaints, it is our policy to use reasonable efforts to communicate with the complaining party about its concerns to resolve privacy complaints.
+If you have any questions or concerns regarding this Privacy Policy, please send us an email at [info@pinger.com](mailto:info@pinger.com) or write to us at Pinger, Inc. 97 S. 2nd St, Ste. 210, San Jose, CA 95113. If we receive formal privacy-related complaints, it is our policy to use reasonable efforts to communicate with the complaining party about its concerns to resolve privacy complaints.
 
-#### **Dispute Resolution**
+#### **Interest-Based Advertiser Opt Outs**
 
-If you have any complaints regarding our compliance with the Safe Harbor Frameworks, you must first contact us (as provided above). If contacting us does not resolve your complaint, Pinger will cooperate with JAMS pursuant to the JAMS International Mediation Rules. The dispute resolution process shall be conducted in English.
+Pinger is not a member of any self-regulatory bodies for interest-based advertising like the DAA and NAI, but some of our advertisers and advertising services providers are members of self-regulatory bodies and require that we provide you with the following out links to the NAI and DAA opt out programs: for the NAI, see [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices), and for the DAA, see [http://www.aboutads.info](http://www.aboutads.info/).
 
-Last updated August 26, 2016
+Last updated May 12, 2017
