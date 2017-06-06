@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masslottery.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624020107id_/http%3A//www.masslottery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masslottery.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043205id_/http%3A//www.masslottery.com/privacy.html) for the most accurate reproduction.*
 
-# Massachusetts State Lottery - Privacy Policy
+# Privacy Policy| MA State Lottery
 
 Welcome to the Massachusetts State Lottery web site. Your privacy, and the security of your personal information, is important to us. When you visit this web site, we may collect the following information about your visit: 
 
