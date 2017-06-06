@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fashos.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319174819id_/http%3A//www.fashos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212521id_/https%3A//www.fashos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](http://www.fashos.com/ "Fashos.com")
+[ ](https://www.fashos.com/ "Fashos.com")
 
 You have no items in your shopping cart.
 
