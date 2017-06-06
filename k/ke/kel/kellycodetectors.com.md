@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126114813id_/http%3A//www.kellycodetectors.com/catalog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000333id_/https%3A//www.kellycodetectors.com/catalog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-Protecting your private information is our priority. This Statement of Privacy applies to the [www.kellycodetectors.com ](http://www.metaldetectors.com/)and Kellycodetectors.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Kellycodetectors.com include [www.kellycodetectors.com ](http://www.metaldetectors.com./)The Kellycodetectors.com website is a retail ecommerce site. By using the Kellycodetectors.com website, you consent to the data practices described in this statement.
+Protecting your private information is our priority. This Statement of Privacy applies to the [www.kellycodetectors.com ](https://www.kellycodetectors.com/)and Kellycodetectors.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Kellycodetectors.com include [www.kellycodetectors.com ](https://www.kellycodetectors.com/)The Kellycodetectors.com website is a retail ecommerce site. By using the Kellycodetectors.com website, you consent to the data practices described in this statement.
 
 **Collection of your Personal Information**
 
@@ -50,7 +50,7 @@ Kellycodetectors.com does not knowingly collect personally identifiable informat
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Kellycodetectors.com by contacting us here:
 
 • Web page: [www.kellycodetectors.com  
-](http://www.metaldetectors.com/)• Email: [support@kellycodetectors.com  
+](https://www.kellycodetectors.com/)• Email: [support@kellycodetectors.com  
 ](mailto:support@kellycodetectors.com)• Phone: 1-888-535-5926
 
 **Changes to this Statement**
