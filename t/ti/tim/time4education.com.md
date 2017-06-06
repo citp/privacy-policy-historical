@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the time4education.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000536id_/http%3A//time4education.com/local/timecms/page.php%3Fid%3D134) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4education.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064328id_/http%3A//www.time4education.com/local/timecms/page.php%3Fid%3D134) for the most accurate reproduction.*
 
-# Privacy Statement
+# 
 
 Page path
 
-  * [Home](http://time4education.com/) / ►
+  * [Home](http://www.time4education.com/) / ►
   * Privacy Statement
 
 
