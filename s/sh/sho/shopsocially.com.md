@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shopsocially.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229105016id_/http%3A//shopsocially.com/platform/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopsocially.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161744id_/https%3A//www.shopsocially.com/platform/privacy-policy) for the most accurate reproduction.*
 
 # ShopSocially Customer Loyalty Program | Referral Marketing | Privacy Policy
+
+[](https://zinrelo.com/)
 
 ShopSocially is a service offered by Velocita, Inc. d/b/a ShopSocially (“ShopSocially”), a California Corporation located at 339 N. Bernardo Avenue, Mountain View, CA 94043. This privacy policy applies to individual users who use ShopSocially or its related services to share data across social channels.
 
