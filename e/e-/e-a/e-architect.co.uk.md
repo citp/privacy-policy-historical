@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the e-architect.co.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126154134id_/http%3A//www.e-architect.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-architect.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183200id_/http%3A//www.e-architect.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - e-architect
-
-Published by updated on December 28, 2015
 
 _World Buildings across the Globe, Cookies_
 
@@ -57,7 +55,7 @@ _photograph : Peter Cook_
 [](https://web.archive.org/images/jpgs/architects/guggenheim_abu_dhabi_museum_s260509.jpg)  
 _image from Saadiyat_
 
-[Barcelona Pavilion](http://www.e-architect.co.uk/barcelona/barcelona-pavilion)  
+[Barcelona Pavilion](https://www.e-architect.co.uk/barcelona/barcelona-pavilion)  
 [](https://web.archive.org/images/jpgs/barcelona/barcelona_pavilion_14.jpg)  
 _photograph : Adrian Welch_
 
