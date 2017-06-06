@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macewan.ca privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120171046id_/http%3A//www.macewan.ca/wcm/Forms/Privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macewan.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150541id_/http%3A//www.macewan.ca/wcm/Forms/Privacy/index.htm) for the most accurate reproduction.*
 
 # Popup Form
 
@@ -36,4 +36,4 @@ Questions or concerns regarding management of MacEwan websites and the informati
 
 Questions or concerns regarding privacy protection may be directed to: Information Management and Privacy Office; phone: 780-497-5423; Email: [Privacy@MacEwan.ca](mailto:Privacy@MacEwan.ca?subject=Privacy%20Inquiry); website: [www.MacEwan.ca/FOIP](http://www.macewan.ca/foip). 
 
-The personal information on this form is collected under s.33(c) of the Freedom of Information and Protection of Privacy Act, for the purpose of facilitating your communication with MacEwan University. Questions concerning this collection should be directed to the Information Management and Privacy Coordinator, MacEwan University, 10700 - 104 Avenue, Edmonton, AB T5J 4S2; tel.: 780-497-5423. 
+The personal information on this form is collected under s.33(c) of the Freedom of Information and Protection of Privacy Act and will be protected under Part 2 of that Act for the purpose of facilitating your communication with MacEwan University. Questions concerning this collection should be directed to Privacy and Information Management at MacEwan University at 10700 – 104 Avenue, Edmonton, AB. T5J 4S2 or by email at privacy@macewan.ca. 
