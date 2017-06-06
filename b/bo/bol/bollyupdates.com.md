@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollyupdates.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123125530id_/http%3A//www.bollyupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyupdates.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172846id_/http%3A//www.bollyupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bollywood Updates
 
@@ -24,7 +24,7 @@ Google’s use of the DART cookie enables it to serve ads to our users based on 
 This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Advertisers**  
-We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense (including their [partners](https://www.google.com/adsense/support/bin/answer.py?answer=94149&ctx=sibling)), Chitika and Adbrite etc. . Please check their websites for respective privacy policies.
+We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense (including their [partners](https://www.google.com/adsense/support/bin/answer.py?answer=94149&ctx=sibling)), Amazon and Flipkart etc. . Please check their websites for respective privacy policies.
 
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: admin [at] bollyupdates.com
