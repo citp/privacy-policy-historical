@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indypl.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122173042id_/http%3A//www.indypl.org/using/eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indypl.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083326id_/http%3A//www.indypl.org/using/eprivacy) for the most accurate reproduction.*
 
 # E-Privacy Statement | The Indianapolis Public LIbrary
 
@@ -28,7 +28,7 @@ Credit card details collected via electronic forms on IndyPL web sites are encry
 
 ## Use of Personal Information
 
-IndyPL collects personal information for the purpose of operating the web site and delivering requested services. IndyPL does not sell, rent, or otherwise distribute or disclose this information to outside companies or organizations unless legally required to do so.
+IndyPL collects personal information for the purpose of operating the web site and delivering requested services. IndyPL does not sell, rent, or otherwise distribute or disclose this information to outside companies or organizations unless legally required to do so or with the consumer's consent.
 
 ### Non-Persistent Cookies
 
@@ -48,4 +48,4 @@ IndyPL's web site contains links to other web sites. IndyPL is not responsible f
 
 Further questions? Contact the [IndyPL Webmaster](https://web.archive.org/about/contact/webmaster/ "Contact the Webmaster").
 
-_Revised May 1, 2006_
+_Revised December 20, 2016_
