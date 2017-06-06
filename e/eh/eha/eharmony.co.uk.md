@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the eharmony.co.uk privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113080550id_/http%3A//www.eharmony.co.uk/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115329id_/http%3A//www.eharmony.co.uk/privacy/policy) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/eharmony-com/validation?rid=7e6c9c9c-9ee3-450b-b322-08ef61337e39 "TRUSTe online privacy certification")
-
-eHarmony, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.eharmony.co.uk. By displaying the TRUSTe trustmark, this website has agreed to notify you of: 
-
-1\. Any personally identifiable information of yours or third party personal identification is collected from you through the eHarmony.co.uk ("eHarmony") website; 
-
-2\. The organization collecting the information; 
-
-3\. How the information is used; 
-
-4\. With whom the information may be shared; 
-
-5\. What choices are available to you regarding collection, use and distribution of the information; 
-
-6\. The kinds of security procedures that are in place to protect the loss, misuse or alteration of information under eHarmony's control; and
-
-7\. How you can correct any inaccuracies in the information.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by writing to eHarmony UK Ltd., BM Box 5904, London WC1N3XXUK, or by sending an email to at [privacy@eHarmony.co.uk](mailto:privacy@eharmony.co.uk). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ## General Information
 
@@ -32,6 +14,8 @@ For the purpose of the Act, the data controller is eHarmony UK Ltd. of _BM Box 5
 
   
 
+
+* * *
 
 ## What Information We Collect
 
@@ -61,7 +45,6 @@ We may use third-party advertising agencies or other service providers to serve 
 ---|---|---  
 _utma | 3rd Party Persistent | Google analytics  
 EHOcean | 3rd Party Session | Marketing campaign performance tracking  
-mbox | 3rd Party Persistent | Marketing Display Preference  
   * _Your Cookie Choices._ You may choose to accept or reject cookies by changing your internet browser setting. However, we rely on cookies for the proper operation of our website and if your browser is set to reject all cookies, the website will not function properly. Users who refuse cookies assume all responsibility for any resulting loss of functionality. Click the “help” menu in your browser’s toolbar for information on how to change your settings. For additional information about managing cookies, please visit http://www.allaboutcookies.org/. Keep in mind that cookies are unique to each computer. In order to opt-out of data collection by the use of cookies on any of your other devices, you will be required to repeat this process on each device. 
 
 
@@ -146,6 +129,10 @@ eHarmony provides members with the opportunity to correct, update, or delete per
 
 
 
+## Dispute Resolution
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
 ## Acceptance of Privacy Statement
 
 Your use of our website(s), including any dispute concerning privacy, is subject to this privacy statement and the applicable [Terms and Conditions of Service](https://web.archive.org/about/terms/). 
@@ -154,6 +141,6 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Effective Date
 
-This privacy statement was last revised on May 2, 2013.
+This privacy statement was last revised on December 7, 2016.
 
 eHarmony.co.uk uses cookies to enhance your onsite experience. Please see our [Cookie Policy](https://web.archive.org/about/terms-cookie-policy/) for additional details. close
