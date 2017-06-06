@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownaudio.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508204240id_/http%3A//www.crownaudio.com/en-US/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownaudio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160429id_/http%3A//www.crownaudio.com/en-US/privacy_policy.html) for the most accurate reproduction.*
 
 # Crown Audio - Professional Power Amplifiers
 
