@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadrouteindia.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202222432id_/http%3A//www.roadrouteindia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrouteindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022124id_/http%3A//www.roadrouteindia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Road Route Map| Route Map India| Driving Directions| Shortest Route| Driving Distance| Route Planner| Distance Between
 
@@ -13,14 +13,3 @@ The personal information is purely used to analyze trends, study the site and tr
 Users of our site, www.roadroutemap.com, may be permitted to submit comment for publication in various areas of the website of road route map. You will be deemed to consent to these guidelines, and these terms and conditions, if you choose to post any comments to the site. We, or authorized third parties, reserve the right to refuse to publish, cut, crop or edit your content at our or their sole discretion. We may remove your content from use at any time. We warrant that the content you submit to us is not obscene, ominous, libelous, deceitful, harassing, misleading, offensive, invasive of another's privacy, defamatory of any person or otherwise illegal. 
 
 Roadrouteindia.com reserves the right to amend or modify this Privacy Policy at any time, as and when the need arises. We request you to visit our website www.roadroutemap.com periodically for contemporary information and changes. 
-
-**Notice** : Undefined variable: file in **/home/anufavourite/public_html/roadrouteindia.com/include/footer.php** on line **13**
-
-**Notice** : Undefined variable: file in **/home/anufavourite/public_html/roadrouteindia.com/include/footer.php** on line **13**
-
-**Notice** : Undefined variable: file in **/home/anufavourite/public_html/roadrouteindia.com/include/footer.php** on line **13**
-
-**Notice** : Undefined variable: file in **/home/anufavourite/public_html/roadrouteindia.com/include/footer.php** on line **13**
-
-**Notice** : Undefined variable: file in **/home/anufavourite/public_html/roadrouteindia.com/include/footer.php** on line **13**  
-__TOP
