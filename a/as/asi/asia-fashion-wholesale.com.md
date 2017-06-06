@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asia-fashion-wholesale.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325010423id_/http%3A//help.asia-fashion-wholesale.com/content/11/158/en/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asia-fashion-wholesale.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102950id_/http%3A//help.asia-fashion-wholesale.com/content/11/158/en/privacy-policy.htm) for the most accurate reproduction.*
 
 # FAQ of Asia-Fashion-Wholesale.com - Privacy Policy
 
