@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxpresso.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224105823id_/http%3A//www.luxpresso.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxpresso.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160950id_/http%3A//www.luxpresso.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Luxpresso.com
 
