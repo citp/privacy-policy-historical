@@ -1,15 +1,19 @@
-> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122171923id_/http%3A//www.gorkana.com/about-gorkana/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105155id_/http%3A//www.gorkana.com/about-gorkana/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gorkana
 
 **1\. Introduction**  
-1.1 Gorkana and its affiliates (“Gorkana”, “we” or “us”) are committed to protecting and respecting your privacy. This policy explains how we obtain and use the information we collect about visitors to our website at www.gorkana.com, our customers and our media contacts; your rights under applicable data protection legislation; and the procedures we have in place to safeguard your information. This includes information on how we use cookies. This policy includes specific information about data regarding journalists and other media contacts that we collect and use in our Media Database which is dealt with separately under the heading [“Media Database”](http://www.gorkana.com/pr-products/media-database/).
+1.1 Gorkana and its affiliates (“Gorkana”, “we” or “us”) are committed to protecting and respecting your privacy.
+
+This policy explains how we obtain and use the information we collect about visitors to our website at www.gorkana.com, our customers and our media contacts; your rights under applicable data protection legislation; and the procedures we have in place to safeguard your information. This includes information on how we use cookies.
+
+This policy includes specific information about data regarding journalists and other media contacts that we collect and use in our Media Database which is dealt with separately under the heading [“Media Database”](http://www.gorkana.com/pr-products/media-database/).
 
 1.2 Please read this policy carefully to understand Gorkana’s views and practices regarding your information and how we will treat it.
 
 1.3 By using our websites and other services you are indicating that you agree to this policy and that you consent to our use of cookies in accordance with the terms of this policy.
 
-1.4 For the purposes of European data protection laws, the data controller is Gorkana Group Limited of 28-42 Banner Street, London, EC1Y 8QE.
+1.4 For the purposes of European data protection laws, the data controller is Gorkana Group Limited of 5 Churchill Place, Canary Wharf, London, E14 5HU .
 
 **What personal information do we collect about you?**  
 2.1 We may collect and retain in our records some or all of the following data about you (although this is not an exhaustive list):  
