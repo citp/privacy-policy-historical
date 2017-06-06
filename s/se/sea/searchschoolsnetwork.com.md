@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchschoolsnetwork.com privacy policy that was archived on 2016-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160724172801id_/http%3A//www.searchschoolsnetwork.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchschoolsnetwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023443id_/http%3A//www.searchschoolsnetwork.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Site Info - Privacy Policy
 
