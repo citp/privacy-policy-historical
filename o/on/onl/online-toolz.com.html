@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the online-toolz.com privacy policy that was archived on 2016-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161212230223id_/http%3A//www.online-toolz.com/pages/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the online-toolz.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606111301id_/http%3A//online-toolz.com/pages/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -7,9 +7,9 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=0.5">
-	<meta name="keywords" content="Free, Online, Tools, Editors, Convertors, Validation and Generation, Software, Developers, MD5, PHP, Javascript, SHA1, Base64, Encoding, Decoding, Text, Binary, Unicode, Html, Entities, String, Date, functions, Password, Encryption, Decryption, Character ">
 	<meta property="fb:page_id" content="166373223416290">
 	<meta property="og:image" content="http://online-toolz.com/images/online-toolz-wordcloud.png">
+	<link rel="manifest" href="/manifest.json">
 	<link rel="shortcut icon" href="/favicon.ico">
 	
 	<style>
@@ -17,7 +17,10 @@
 	BODY{
 		padding: 0px 0px 0px 0px;
 		margin: 0px 0px 0px 0px;
+
 		background-color: #ededed;
+
+	
 	}
 	#header{
 		background-color: #212121;
@@ -42,17 +45,44 @@
 	    width: 210px;
 	    padding: 0px 8px 5px 10px;
 	}
+	
 	#share-area { display:none }
 	DIV#tool-container { margin-top: 40px; }
 	#top-sharing {position: absolute; top: 15px; left: 230px; display:none }
 	H1 {color: #1960A8;}
+
 	TABLE#body-table td#right-column { padding-left: 20px;}
+
 	TABLE#content-table td#content-right-column { padding-left: 50px; }
+
+	#aux-sections{
+		max-width:600px;
+		margin:20px 0px;
+		
+	}
+	.aux-section-title{
+		background:#212121;
+		color:#fff;
+		font-weight: bold;
+		font-size:24px;
+		padding:5px;
+	}
+	.aux-section-subarea{
+		padding:20px 0px 50px 0px;
+		font-size:20px;
+
+	}
+	.aux-section-subarea A{
+		text-decoration: none;
+	}
+	.aux-section-subarea A:HOVER{
+		color:#000;
+	}
+
+
+	
 	<!-- End Pre CSS Rendering -->
 
-	<!-- Temp Styles -->
-
-	<!-- End Temp Styles -->	
 	</style>
  
     
@@ -65,7 +95,8 @@ window.google_analytics_uacct = "UA-16835414-5";
 
 
 </head>
-<body onload="onLoad()">
+		<body onload="onLoad()" style="background-color: #fff;">
+
 <div id="header">
 <table border="0" id="header-table">
 <tbody><tr>
@@ -98,112 +129,166 @@ window.google_analytics_uacct = "UA-16835414-5";
 <td id="left-column" style="background-color: #9FC37F;">
   
 <div id="left-menu">
-<div id="menu-title"><img src="/images/darrow.png"></div>
-<input type="text" onkeyup="searchLinks()" placeholder="Search" id="tool-search-field">
+<div id="menu-title"><img src="/images/darrow.png" alt=""></div>
+<input type="text" onkeyup="searchLinks()" placeholder="Search 80+ Tools" id="tool-search-field">
 <ul id="menu">
 
 
 
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/json-formatter.php" target="_blank"><b>JSON Formatter</b> <!-- <img src="/images/new.png"/> --></a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/json-formatter.php" target="_blank"><b>JSON Formatter</b> <!-- <img src="/images/new.png"/> --></a></li>
 
  
-    <li class="menu-item"><a href="http://encryption.online-toolz.com/tools/text-encryption-decryption.php" target="_blank">Text <b>Encryption</b> - Decryption</a></li>		
+    <li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://encryption.online-toolz.com/tools/text-encryption-decryption.php" target="_blank">Text <b>Encryption</b> - Decryption</a></li>		
     
-	<li class="menu-item"><a href="http://online-toolz.com/tools/html-editor-wysiwyg.php" target="_blank"><b>HTML Editor (WYSIWYG)</b></a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/html-editor-wysiwyg.php" target="_blank"><b>HTML Editor (WYSIWYG)</b></a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/character-map.php" target="_blank" tags="character, letter, symbol, tic, U+, ascii, Unicode, mark, arrow"><b>Character Map</b></a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/character-map.php" target="_blank" tags="character, letter, symbol, tic, U+, ascii, Unicode, mark, arrow"><b>Character Map</b></a></li>
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/notepad.php" target="_blank"><b>Notepad</b></a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/notepad.php" target="_blank"><b>Notepad</b></a></li>
 	
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/scientific-calculator.php" target="_blank" tags="Radix, Base, Log, Decimal, Degree, KM, CM, FT">Scientific <b>Calculator</b></a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/scientific-calculator.php" target="_blank" tags="Radix, Base, Log, Decimal, Degree, KM, CM, FT">Scientific <b>Calculator</b></a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/unit-converter.php" target="_blank"><b>Unit</b> Converter</a></li>
+	<!--  <li class="menu-item" ><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/unit-converter.php" target="_blank" ><b>Unit</b> Converter</a></li> -->
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/currency-converter.php" target="_blank"><b>Currency</b> Converter</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/currency-converter.php" target="_blank"><b>Currency</b> Converter</a></li>
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/random-text-generator.php" target="_blank">Random <b>Text</b> Generator</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/random-text-generator.php" target="_blank">Random <b>Text</b> Generator</a></li>
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/css-compressor.php" target="_blank"><b>CSS</b> Compressor</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/css-compressor.php" target="_blank"><b>CSS</b> Minifier</a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/javascript-minifier.php" target="_blank">Javascript <b>Minifier</b></a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/javascript-minifier.php" target="_blank" tags="js">Javascript <b>Minifier</b></a></li>
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/javascript-obfuscator.php" target="_blank">Javascript <b>Obfuscator</b></a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/javascript-obfuscator.php" target="_blank" tags="js">Javascript <b>Obfuscator</b></a></li>
 
 
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/md5-generator.php" target="_blank"><b>MD5</b> Generator</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/md5-generator.php" target="_blank"><b>MD5</b> Generator</a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/sha1-generator.php" target="_blank"><b>SHA1</b> Generator</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/sha1-generator.php" target="_blank"><b>SHA1</b> Generator</a></li>
 
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/php-url-encoder-decoder.php" target="_blank">PHP URL <b>Encoder</b>- Decoder</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/php-url-encoder-decoder.php" target="_blank">PHP URL <b>Encoder</b>- Decoder</a></li>
 		
-	<li class="menu-item"><a href="http://online-toolz.com/tools/javascript-escape-functions.php" target="_blank">JS <b>Escape</b> Functions</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/javascript-escape-functions.php" target="_blank">JS <b>Escape</b> Functions</a></li>
 		
-	<li class="menu-item"><a href="http://online-toolz.com/tools/text-base64-convertor.php" target="_blank">Text - <b>Base64</b> Conversion</a></li> 	
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/text-base64-convertor.php" target="_blank">Text - <b>Base64</b> Conversion</a></li> 	
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/text-hex-convertor.php" target="_blank">Text - <b>Hex</b> Conversion</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/text-hex-convertor.php" target="_blank">Text - <b>Hex</b> Conversion</a></li>
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/text-binary-convertor.php" target="_blank">Text - <b>Binary</b> Conversion </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/text-binary-convertor.php" target="_blank">Text - <b>Binary</b> Conversion </a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/hex-binary-convertor.php" target="_blank">Hex - <b>Binary</b> Conversion</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/hex-binary-convertor.php" target="_blank">Hex - <b>Binary</b> Conversion</a></li>
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/text-html-entities-convertor.php" target="_blank"><b>Text</b> - HTML Entites Conversion</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/text-html-entities-convertor.php" target="_blank"><b>Text</b> - HTML Entites Conversion</a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/text-unicode-entities-convertor.php" target="_blank"><b>Unicode</b> Encode/Decode</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/text-unicode-entities-convertor.php" target="_blank"><b>Unicode</b> Encode/Decode</a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/unicode-html-entities-convertor.php" target="_blank"><b>Unicode</b> - HTML Entites Conversion</a></li>	
-
-
-	<li class="menu-item"><a href="http://online-toolz.com/tools/string-functions.php" target="_blank"><b>String</b> Functions</a></li>	
-
-	<li class="menu-item"><a href="http://online-toolz.com/tools/character-functions.php" target="_blank"><b>Character</b> Functions</a></li>	
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/unicode-html-entities-convertor.php" target="_blank"><b>Unicode</b> - HTML Entites Conversion</a></li>	
 
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/date-functions.php" target="_blank"><b>Date</b> Functions</a></li>		
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/string-functions.php" target="_blank" tags="word count, reverse, lower, upper, hidden, split, length"><b>String</b> Functions</a></li>	
+
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/character-functions.php" target="_blank"><b>Character</b> Functions</a></li>	
 
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/xpath-editor.php" target="_blank"><b>XPATH</b> Tester</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/date-functions.php" target="_blank" tags="Timestamp"><b>Timestamp to Date</b> Functions</a></li>		
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/xslt-transformation.php" target="_blank"><b>XSLT</b> Transformation</a></li>
 
-	<li class="menu-item"><a href="http://online-toolz.com/tools/xml-validator.php" target="_blank"><b>XML</b> Validator</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/xpath-editor.php" target="_blank"><b>XPATH</b> Tester</a></li>
+
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/xslt-transformation.php" target="_blank"><b>XSLT</b> Transformation</a></li>
+
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/xml-validator.php" target="_blank"><b>XML</b> Validator</a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/xml-formatter.php" target="_blank"><b>XML</b> Formatter</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/xml-formatter.php" target="_blank"><b>XML</b> Formatter</a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/html-validator.php" target="_blank"><b>HTML</b> Validator</a></li>	
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/html-validator.php" target="_blank"><b>HTML</b> Validator</a></li>	
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/html-formatter.php" target="_blank"><b>HTML</b> Formatter</a></li>	
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/html-formatter.php" target="_blank"><b>HTML</b> Formatter</a></li>	
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/regexp-editor.php" target="_blank"><b>RegExp</b> Editor</a></li>		
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/regexp-editor.php" target="_blank"><b>RegExp</b> Editor</a></li>		
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/json-editor.php" target="_blank"><b>JSON</b> Editor</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/json-editor.php" target="_blank"><b>JSON</b> Editor</a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/xml-json-convertor.php" target="_blank"><b>JSON</b> to XML Conversion</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/xml-json-convertor.php" target="_blank"><b>JSON</b> to XML Conversion</a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/color-chooser.php" target="_blank"><b>Color</b> Chooser</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/color-chooser.php" target="_blank"><b>Color</b> Chooser</a></li>
 		
-	<li class="menu-item"><a href="http://online-toolz.com/tools/password-generator.php" target="_blank"><b>Password</b> Generator</a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/password-generator.php" target="_blank"><b>Password</b> Generator</a></li>
 	
-	<li class="menu-item"><a href="http://online-toolz.com/tools/verify-email.php" target="_blank"><b>Verify Email</b> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/verify-email.php" target="_blank"><b>Verify Email</b> </a></li>
 
-    <li class="menu-item"><a href="http://online-toolz.com/tools/online-privacy-ip-browser-info.php" target="_blank"><b>Browser &amp; IP Information</b> </a></li>
+    <li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/online-privacy-ip-browser-info.php" target="_blank"><b>What is my IP ?</b> </a></li>
  
-    <li class="menu-item"><a href="http://online-toolz.com/tools/word-cloud-generator.php" target="_blank"><b>Word Cloud Generator</b> </a></li>
+    <li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/word-cloud-generator.php" target="_blank"><b>Word Cloud Generator</b> </a></li>
  
-    <li class="menu-item"><a href="http://online-toolz.com/tools/linux-command-examples.php" target="_blank"><b>Linux Command Examples</b> </a></li>
+    <li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/linux-command-examples.php" target="_blank"><b>Linux Command Examples</b> </a></li>
     
-    
-	<li class="menu-item"><a href="http://online-toolz.com/tools/r-packages.php" target="_blank"><b>R Packages List</b> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('LOC',this)" href="http://online-toolz.com/tools/r-packages.php" target="_blank"><b>R Packages List</b> </a></li>
 	
-
+	
+	<!--  External -->
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://www.diffchecker.com/diff" target="_new"><b>Text Diff</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://www.hurl.it/" target="_new" tags="REST, curl, wget"><b>HTTP API Tester</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.brokenlinkcheck.com/" target="_new"><b>Broken Link Checker</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.convertcsv.com/csv-to-xml.htm" target="_new"><b>CSV to XML Convertor</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://www.base64-image.de/" target="_new"><b>Image To Base64 Convertor</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://codebeautify.org/base64-to-image-converter" target="_new"><b>Base64 To Image Convertor</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://codebeautify.org/string-builder" target="_new"><b>Code Block to String</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://wordcounter.net/" target="_new"><b>Word Counter</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://jsonformatter.curiousconcept.com/" target="_new"><b>JSON Validator </b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://codebeautify.org/xmlviewer" target="_new" tags="RSS, formatter"><b>XML Viewer </b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_new"><b>CSS Validator </b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://esprima.org/demo/validate.html" target="_new" tags="js"><b>Javascript Validator </b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.freeformatter.com/xml-escape.html" target="_new"><b>XML Escape</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.unitconverters.net/common-converters.html" target="_new"><b>Unit Convertors</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.convertcsv.com/html-table-to-csv.htm" target="_new"><b>HTML to CSV</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://www.tools4noobs.com/online_tools/credit_card_validate/" target="_new"><b>Credit Card Validator</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.getcreditcardnumbers.com" target="_new"><b>Credit Card Random Generator</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://jsbeautifier.org/" target="_new" tags="js"><b>Javascript Formatter</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://www.compilejava.net/" target="_new"><b>Java Editor</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.csvjson.com/csv2json" target="_new"><b>CSV to JSON Convertor</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://sqlfiddle.com/" target="_new" tags="SQL Fiddle"><b>SQL Editor</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://jsfiddle.net" target="_new" tags="JSFiddle, js"><b>Javascript Editor</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://textmechanic.com/text-tools/basic-text-tools/delimited-column-extractor/" target="_new" tags="awk, text extractor"><b>Delimited Column Extractor</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://awk.js.org/" target="_new" tags="linux"><b>AWK Online</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://textmechanic.com/text-tools/basic-text-tools/remove-duplicate-lines" target="_new" tags="clean"><b>Duplicates Remover</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://codebeautify.org/remove-empty-lines" target="_new" tags="clean"><b>Empty Lines Remover</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://www.gillmeister-software.com/online-tools/text/remove-line-breaks.aspx" target="_new" tags="clean"><b>Remove &amp; Replace Line Breaks</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://textmechanic.com/text-tools/basic-text-tools/sort-text-lines/" target="_new"><b>Sort Text</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://www.w3schools.com/colors/colors_converter.asp" target="_new" tags="rgb, hex, cmyk, hsl, hwb, NCol"><b>Color Converter</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://www.tools4noobs.com/online_tools/encrypt/" target="_new"><b>Advanced Encryption</b> <span class="external_star_mark">*</span> </a></li>
+    <li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.cleancss.com/css-beautify/" target="_new"><b>CSS Beautifier </b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://www.tools4noobs.com/online_tools/number_spell_words/" target="_new"><b>Number to words </b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.whatsmyserp.com/serpcheck.php" target="_new"><b>SERP Checker </b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://wordtohtml.net/" target="_new"><b>Word to HTML</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://tools.seochat.com/tools/html-to-php-converter/" target="_new"><b>HTML to PHP Convertor</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.freeformatter.com/hmac-generator.html" target="_new" tags="md5,sha"><b>HMAC Generator</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://codebeautify.org/excel-to-xml" target="_new"><b>EXCEL to XML Converter</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.cleancss.com/python-beautify" target="_new"><b>Python Formatter</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://www.tutorialspoint.com/online_ruby_formatter.htm" target="_new"><b>Ruby Formatter</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://codebeautify.org/c-formatter-beautifier" target="_new"><b>C Formatter</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="http://codebeautify.org/cpp-formatter-beautifier" target="_new"><b>C++ Formatter</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://hashkiller.co.uk/md5-decrypter.aspx" target="_new"><b>MD5 Decrypter</b> <span class="external_star_mark">*</span> </a></li>
+	<li class="menu-item"><a onclick="log_menuclick('EXT',this)" href="https://hashkiller.co.uk/sha1-decrypter.aspx" target="_new"><b>SHA1 Decrypter</b> <span class="external_star_mark">*</span> </a></li>
+																	
+	
+	
+	
+	
+	
+	<div><span class="external_star_mark">*</span> External</div>
+	<br>
+	<a href="#" id="feedback" style="display:block;color:#fff;text-decoration:none;font-size:16px;padding:10px">Report Broken Link</a> 
 
 	
 </ul>
 
 </div>
+
+
 </td>
 <td id="right-column">
  <div id="content-area">
@@ -215,9 +300,9 @@ window.google_analytics_uacct = "UA-16835414-5";
 	    	<h2> Share </h2>
 	    	
 	    	<p>
-	    		http://www.online-toolz.com/pages/privacy.php	    	</p>
-			<img class="sharingLogosTop" src="/images/facebook.png" onclick="handleShare('FACEBOOK')">
-			<img class="sharingLogosTop" src="/images/twitter.png" onclick="handleShare('TWITTER')">
+	    		http://online-toolz.com/pages/privacy.php	    	</p>
+			<img class="sharingLogosTop" src="/images/facebook.png" alt="Facebook Share" onclick="handleShare('FACEBOOK')">
+			<img class="sharingLogosTop" src="/images/twitter.png" alt="Twitter Share" onclick="handleShare('TWITTER')">
 			
 		</div>
 		 	
@@ -295,17 +380,14 @@ Should You have any questions regarding the Privacy Policy, You may contact Onli
 
 
   <div id="footer"> <div id="footer-content">
+	<hr class="function-separator">
 	
-		<!--  <table>
-		<tr>
-			<td>
-				<input type="button" id="bookmarkit" class="cta_but" value="Bookmark Now" />
-			</td>
-			
-		</tr>
-		</table>
-		-->
-<div id="top-sharing2" style="position:relative;height:150px;left:-10px;padding:10px;width:600px;border-radius:0px;max-height:none;background:none">
+		    
+  	
+  
+	
+				
+<div id="top-sharing2" style="position:relative;height:150px;left:-10px;padding:10px;width:600px;border-radius:0px;max-height:none;background:none;margin-top: 60px;">
 
 				<!--<a href="#" id="all-tools-link" onmouseover="showMenu()" onclick="showMenu()">All Tools</a>-->
 				
@@ -333,15 +415,20 @@ Should You have any questions regarding the Privacy Policy, You may contact Onli
  <span id="copyright">
  Copyright © 2011 OnlineToolz, All Rights reserved.  |   <a href="/pages/disclaimer.php">Disclaimer</a> | <a href="/pages/privacy.php">Privacy</a>  | <a href="/pages/sitemap.php">Sitemap</a>  | <a href="/pages/contact.php">Contacts</a>
  </span>
-<br>
+	<hr class="function-separator">
 
 </div>
 </div>
   
-  
+  <div id="bottom_ads" style="text-align: left;max-width:900px;margin:20px 0px;">
+
+		  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-0985376056570866" data-ad-slot="5126417733" data-ad-format="auto"></ins>
+
+     
+
 
  </div>
-</td><td>
+</div></td><td>
 </td></tr>
 </tbody></table>
 </div>
@@ -353,11 +440,11 @@ Should You have any questions regarding the Privacy Policy, You may contact Onli
 		
 
 
-<!--
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
--->
 
-<link rel="stylesheet" type="text/css" href="/css/master.min.css?x=20">
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<link rel="stylesheet" type="text/css" href="/css/master.min.css?x=21">
 
 <script type="text/javascript" src="/libs/all.scripts.php?x=4"></script>
 
@@ -385,6 +472,65 @@ function share_fun()
     	}
 }
 
+
+function log_menuclick(menu_item_type_id,anch_obj)
+{
+
+	
+    	if ( typeof ga === "function" )
+  		{
+  			ga('send', 'event', "MENU_CLICK", anch_obj.innerText, menu_item_type_id);
+  		}
+    	 
+}
+
+function log_section_click(section_type,text)
+{
+	//alert(typeof ga);
+	//alert(typeof ga);
+    	//if ( typeof ga === "function" )
+  		//{
+      
+  			ga('send', 'event', "AUX_SECTION_CLICK", section_type, text);
+  		//}
+    	 
+}
+
+function exp_log(variation,action_val){
+
+
+	$.ajaxSetup({
+		url:  "/functions/doLogExp.php",
+		global: false,
+		type: "POST"
+		
+	  });
+
+		if(action_val == undefined){
+			action_val = 0;
+		}
+
+		session_id = 'akqn2curel1phfennnpppn8mf3';
+				
+		$.ajax({
+			
+	 	 data: 'variation='+variation+"&session_id="+session_id+"&action_val="+action_val,
+		 timeout: 10000,
+		 success: function(response){
+			
+				
+			 	 	
+			  },
+	 		 error: function (xhr, ajaxOptions, thrownError) {
+	 		 		
+		    
+		        
+		      }
+		    });
+	
+	
+	
+}
 
 function postInit()
 {
@@ -414,11 +560,13 @@ function postInit()
 	 $("#share").click(function() 
 	 {
 	    share_fun();
+	    //exp_log('',1);
 	 });
 
  	$("#share2").click(function() 
 	 {
 	    share_fun();
+	    //exp_log('',1);
 	 });
 			 
 
@@ -426,6 +574,7 @@ function postInit()
 		  {
 		   
 		    bookmark(2);
+			//exp_log('',1);
 		    return false;
 		  });
 
@@ -433,6 +582,7 @@ function postInit()
 		  {
 		   
 		    bookmark(1);
+			//exp_log('',1);
 		    return false;
 		  });
 
@@ -453,6 +603,8 @@ function postInit()
 			},1000);
 		});
 
+
+		//exp_log('');
 
 
 }
