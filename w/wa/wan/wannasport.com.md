@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wannasport.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323185943id_/http%3A//wannasport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wannasport.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151348id_/http%3A//wannasport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Sports News
 
