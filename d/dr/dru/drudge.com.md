@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drudge.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120180249id_/http%3A//www.drudge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drudge.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172032id_/http%3A//www.drudge.com/privacy-policy) for the most accurate reproduction.*
 
 # Drudge Retort: Privacy Policy
 
@@ -6,19 +6,19 @@
 
 Menu
 
-[Front Page](http://www.drudge.com/)  
-[Breaking News](http://www.drudge.com/weblog)  
-[Comments](http://www.drudge.com/comments)  
-[Flagged Comments](http://www.drudge.com/flagged-comments)  
-[Recently Flagged](http://www.drudge.com/recent-flags)  
-[User Blogs](http://www.drudge.com/discussion)  
-[Write a Blog Entry](http://www.drudge.com/create-entry)  
-[Create a Poll](http://www.drudge.com/create-poll)  
-[Edit Account](http://www.drudge.com/edit-account)  
-[Weekly Digest](http://www.drudge.com/weekly-digest)  
-[Stats Page](http://www.drudge.com/stats)  
+[Front Page](https://www.drudge.com/)  
+[Breaking News](https://www.drudge.com/weblog)  
+[Comments](https://www.drudge.com/comments)  
+[Flagged Comments](https://www.drudge.com/flagged-comments)  
+[Recently Flagged](https://www.drudge.com/recent-flags)  
+[User Blogs](https://www.drudge.com/discussion)  
+[Write a Blog Entry](https://www.drudge.com/create-entry)  
+[Create a Poll](https://www.drudge.com/create-poll)  
+[Edit Account](https://www.drudge.com/edit-account)  
+[Weekly Digest](https://www.drudge.com/weekly-digest)  
+[Stats Page](https://www.drudge.com/stats)  
 [RSS Feed](http://feeds.drudge.com/retort)  
-[Back Page](http://www.drudge.com/backpage)  
+[Back Page](https://www.drudge.com/backpage)  
 
 
 Subscriptions
@@ -41,8 +41,6 @@ Links
 [Workbench](http://workbench.cadenhead.org/)  
 [URouLette.Com](http://www.uroulette.com/)  
 [Cool.CC](http://cool.cc/)  
-[CoyotesBlog.Com](http://coyotesblog.com/)  
-[RangersBlog.Com](http://rangersblog.com/)  
 
 
 | 
