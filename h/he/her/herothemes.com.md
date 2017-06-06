@@ -1,139 +1,35 @@
-> *The following text is extracted and transformed from the herothemes.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020121504id_/https%3A//herothemes.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herothemes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230415id_/https%3A//herothemes.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HeroThemes
+# HeroThemes Privacy Policy
 
-BACKGROUND:
+It is HeroTheme’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-This Policy applies as between you, the User of this Web Site and Hero Themes the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
+### Website Visitors
 
-1\. Definitions and Interpretation
+Like most website operators, HeroThemes collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. HeroThemes’ purpose in collecting non-personally identifying information is to better understand how HeroThemes’ visitors use its website. From time to time, HeroThemes may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-In this Policy the following terms shall have the following meanings:
+HeroThemes also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on HeroThemes blogs/sites. HeroThemes only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-“Account”
+### Gathering of Personally-Identifying Information
 
-means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;
+Certain visitors to HeroThemes’ websites choose to interact with HeroThemes in ways that require HeroThemes to gather personally-identifying information. The amount and type of information that HeroThemes gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [HeroThemes](https://herothemes.com/) to provide a username and email address. Those who engage in transactions with HeroThemes are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, HeroThemes collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with HeroThemes. HeroThemes does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-“Content”
+### Aggregated Statistics
 
-means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
+HeroThemes may collect statistics about the behavior of visitors to its websites. HeroThemes may display this information publicly or provide it to others. However, HeroThemes does not disclose personally-identifying information other than as described below.
 
-“Cookie”
+### Protection of Certain Personally-Identifying Information
 
-means a small text file placed on your computer by Hero Themes when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Where e-commerce facilities are provided, Cookies may be used to store your preferences and historical usage. Further details are contained in Clause 10 of this Policy;
+HeroThemes discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on HeroThemes’ behalf or to provide services available at HeroThemes’ websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using HeroThemes’ websites, you consent to the transfer of such information to them. HeroThemes will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, HeroThemes discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when HeroThemes believes in good faith that disclosure is reasonably necessary to protect the property or rights of HeroThemes, third parties or the public at large. If you are a registered user of an HeroThemes website and have supplied your email address, HeroThemes may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with HeroThemes and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. HeroThemes takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-“Data”
+### Cookies
 
-means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. HeroThemes uses cookies to help HeroThemes identify and track visitors, their usage of HeroThemes website, and their website access preferences. HeroThemes visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using HeroThemes’ websites, with the drawback that certain features of HeroThemes’ websites may not function properly without the aid of cookies.
 
-“Hero Themes”
+### Business Transfers
 
-means Hero Themes, the provider of this site
+If HeroThemes, or substantially all of its assets, were acquired, or in the unlikely event that HeroThemes goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of HeroThemes may continue to use your personal information as set forth in this policy.
 
-“Service”
+### Privacy Policy Changes
 
-means collectively any online facilities, tools, services or information that Hero Themes makes available through the Web Site either now or in the future;
-
-“System”
-
-means any online communications infrastructure that Hero Themes makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
-
-“User” / “Users”
-
-means any third party that accesses the Web Site and is not employed by Hero Themes and acting in the course of their employment; and
-
-“Web Site”
-
-means the website that you are currently using (http://www.herothemes.com) and any sub-domains of this site. unless expressly excluded by their own terms and conditions.
-
-2\. Data Collected
-
-Without limitation, any of the following Data may be collected:
-
-  * name;
-  * date of birth;
-  * gender;
-  * job title;
-  * profession;
-  * contact information such as email addresses and telephone numbers;
-  * demographic information such as post code, preferences and interests;
-  * financial information such as credit / debit card numbers;
-  * IP address (automatically collected);
-  * web browser type and version (automatically collected);
-  * operating system (automatically collected);
-  * a list of URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected); and
-  * Cookie information (see Clause 10 below).
-
-
-
-3\. Our Use of Data
-
-Any personal Data you submit will be retained by Hero Themes for as long as you use the Services and Systems provided on the Web Site. Data that you may submit through any communications System that we may provide may be retained for a longer period of up to 12 months, or as required by regulation or law.
-
-Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. This does not include our affiliates and / or other companies within our group.
-
-All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998 . Fore more details on security, see Clause 9 below.
-
-Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:
-
-internal record keeping;
-
-improvement of our products / services;
-
-transmission by email of promotional materials that may be of interest to you;
-
-contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update the Web Site.
-
-4\. Third Party Web Sites and Services
-
-Hero Themes may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services may have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that Hero Themes requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998 .
-
-5\. Changes of Business Ownership and Control
-
-Hero Themes may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
-
-In the event that any Data submitted by Users will be transferred in such a manner, you will be contacted in advance and informed of the changes. When contacted you will be given the choice to have your Data deleted or withheld from the new owner or controller.
-
-6\. Controlling Access to your Data
-
-Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:
-
-use of Data for direct marketing purposes; and
-
-sharing Data with third parties.
-
-7\. Your Right to Withhold Information
-
-You may access certain areas of the Web Site without providing any Data at all. However, to use all Services and Systems available on the Web Site you may be required to submit Account information or other Data.
-
-You may restrict your internet browser’s use of Cookies. For more information see Clause 10 below.
-
-8\. Accessing your own Data
-
-You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.
-
-You have the right to ask for a copy of your personal Data on payment of a small fee.
-
-9\. Security
-
-Data security is of great importance to Hero Themes and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.:
-
-10\. Cookies
-
-Hero Themes may set and access Cookies on your computer. All Cookies used by the Web Site are used in accordance with the provisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011. Hero Themes has carefully chosen these Cookies and uses them to facilitate certain functions and features of the Web Site. We also use Cookies for analytics purposes. These Cookies track your movements and activities on the Web Site and are designed to give us a better understanding of our users, thus enabling us to improve the Web Site and our services.
-
-Based on your browser preferences (see below), this Web Site sets Cookies on your computer. None of the Cookies set by the Web Site jeopardise your privacy in any way and no personal data is collected. By giving your consent to the setting of our Cookies you are enabling us to provide the best possible experience and service to you through our Web Site. If you wish to deny your consent to the placing of Cookies, certain features of the Web Site may not function fully or as intended.
-
-Certain features of the Web Site depend upon Cookies to function and are deemed, within the law, to be strictly necessary. You will not be asked for your consent to place these Cookies however you may still disable cookies via your web browser’s settings, as set out in sub-Clause 10.4.
-
-You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
-
-You may delete Cookies at any time however you may lose any information that enables you to access the Web Site more quickly.
-
-The Web Site uses the third-party Cookies. These Cookies are not integral to the services provided by the Web Site to you and may be blocked at your choosing via your internet browser’s privacy settings or via your response to the request for consent detailed in sub-Clause 10.2.
-
-It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your browser if you are unsure as to how to adjust your privacy settings.
-
-11\. Changes to this Policy
-
-Hero Themes reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
+Although most changes are likely to be minor, HeroThemes may change its privacy policy from time to time, and in HeroThemes’ sole discretion. HeroThemes encourages visitors to frequently check this page for any changes to its privacy policy. If you have a HeroThemes account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.
