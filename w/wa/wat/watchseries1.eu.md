@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchseries1.eu privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818230355id_/http%3A//watchseries1.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchseries1.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141656id_/http%3A//watchseries1.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WatchSeries1
 
