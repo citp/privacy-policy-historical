@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616210808id_/http%3A//pages.ebay.co.uk/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175201id_/http%3A//pages.ebay.co.uk/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
@@ -108,11 +108,17 @@ This Privacy Notice describes our collection, use, disclosure, retention and pro
 
 **By using our Services and/or registering for an account with us, you are accepting the terms of this Privacy Notice and our  [User Agreement](http://pages.ebay.co.uk/help/policies/user-agreement.html), and you are consenting to our collection, use, disclosure, retention and protection of your personal information as described in this Privacy Notice. **If you do not provide the information we require, we may not be able to provide all of our Services to you. 
 
-If you reside in the United States, you are contracting with eBay Inc., 2065 Hamilton Avenue, San Jose, CA 95125, USA. If you reside outside of the United States, you are contracting with one of our international eBay companies:
+  * If you reside in the United States, you are contracting with eBay Inc., 2065 Hamilton Avenue, San Jose, CA 95125, USA. If you reside outside of the United States, you are contracting with one of our international eBay companies:
+
+
 
   * If you reside in a country within the European Union you are contracting with eBay Europe S.à.r.l., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg
 
   * If you reside in India, you are contracting with eBay India Private Limited, 14th Floor, North Block, R-Tech Park, Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra, India
+
+  * If you reside in Canada, starting on 1 July 2017, you are contracting with eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada.
+
+  * If you reside in the UK, starting on 1 August 2017, you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom.
 
   * If you reside in any other country, you are contracting with eBay International AG, Helvetiastrasse 15/17, 3005 Bern, Switzerland
 
