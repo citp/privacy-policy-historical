@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the civicx.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121021123id_/http%3A//www.civicx.com/help/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civicx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134439id_/http%3A//www.civicx.com/help/terms) for the most accurate reproduction.*
 
 # Terms of Service, Rules and Privacy Policy | 2016+ Honda Civic Forum (10th Gen) - Type R Forum, Si Forum - CivicX.com
 
-[](https://web.archive.org/web/20161121021123id_/http%3A//www.civicx.com/help/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20170606134439id_/http%3A//www.civicx.com/help/misc/quick-navigation-menu "Open quick navigation")
 
 **2016+ Honda Civic Forum (10th Gen) - Type R Forum, Si Forum - CivicX.com**
 
-[Home](http://www.civicx.com/) [Help](https://web.archive.org/web/20161121021123id_/http%3A//www.civicx.com/help/help/) >
+[Home](http://www.civicx.com/) [Help](https://web.archive.org/web/20170606134439id_/http%3A//www.civicx.com/help/help/) >
 
 **TERMS OF SERVICE**
 
@@ -78,10 +78,10 @@ Conditions of Use, Notices, and Revisions
 
 If you choose to visit CIvicX, your visit and any dispute over privacy is subject to this Notice and our Terms of Services, including limitations on damages, resolution of disputes, and application of the law of the state of New York. If you have any concern about privacy at CivicX, please send us a thorough description via our Contact Us button at the bottom of our forums pages, and we will try to resolve it. Our business changes constantly. This Notice and the Terms of Service will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-[](https://web.archive.org/web/20161121021123id_/http%3A//www.civicx.com/help/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20170606134439id_/http%3A//www.civicx.com/help/misc/quick-navigation-menu "Open quick navigation")
 
 **2016+ Honda Civic Forum (10th Gen) - Type R Forum, Si Forum - CivicX.com**
 
-[Home](http://www.civicx.com/) [Help](https://web.archive.org/web/20161121021123id_/http%3A//www.civicx.com/help/help/) >
+[Home](http://www.civicx.com/) [Help](https://web.archive.org/web/20170606134439id_/http%3A//www.civicx.com/help/help/) >
 
 [ ](http://www.civicx.com/)
