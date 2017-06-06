@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshoemart.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103085211id_/http%3A//www.theshoemart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshoemart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110806id_/http%3A//www.theshoemart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheShoeMart.com
 
