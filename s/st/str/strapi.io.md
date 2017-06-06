@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strapi.io privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111080004id_/http%3A//strapi.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strapi.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134328id_/http%3A//strapi.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Strapi - Node.js Framework based on Koa
 
