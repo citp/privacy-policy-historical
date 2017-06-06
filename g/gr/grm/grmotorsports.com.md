@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grmotorsports.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016062243id_/http%3A//grassrootsmotorsports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grmotorsports.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042154id_/https%3A//grassrootsmotorsports.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
