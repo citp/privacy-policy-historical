@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfido.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120122727id_/http%3A//www.artfido.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfido.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082614id_/http%3A//www.artfido.com/privacy-policy) for the most accurate reproduction.*
 
 # artFido | Buy Art Online | Privacy Policy
 
@@ -67,7 +67,7 @@ B |
     * the National Privacy Principles.
   * However, given artFido's size and business, the National Privacy Principles didn't cover us.
   * But that wasn't good enough for Us. To show how committed We are to protecting Your privacy rights, We successfully applied to 'opt-in' to the National Privacy Principles scheme. We didn't have to, but We wanted to, because Your privacy is just as important to Us as it is to You. 
-    * You can access the Assistant Privacy Commissioner's acceptance letter addressed to artFido [here](https://web.archive.org/web/20161120122727id_/http%3A//www.artfido.com/privacy%20letter.jpg).
+    * You can access the Assistant Privacy Commissioner's acceptance letter addressed to artFido [here](https://web.archive.org/web/20170606082614id_/http%3A//www.artfido.com/privacy%20letter.jpg).
   * The 'opt-in' register includes a list of all the businesses like Us who have willingly chosen to be covered by the National Privacy Principles. 
     * You can access the register here [www.oaic.gov.au/privacy-portal/resources_privacy/optin-register.html#a](http://www.oaic.gov.au/privacy-portal/resources_privacy/optin-register.html#a).
 
