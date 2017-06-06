@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201111127id_/https%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173602id_/https%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
 
 # Caring.com Privacy Policy | Caring.com
 
