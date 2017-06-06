@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovewithfood.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108100455id_/https%3A//lovewithfood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovewithfood.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191202id_/https%3A//lovewithfood.com/privacy) for the most accurate reproduction.*
 
 # Love With Food
 
