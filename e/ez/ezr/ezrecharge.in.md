@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezrecharge.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119204624id_/http%3A//ezrecharge.in/helpdocx/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezrecharge.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032756id_/http%3A//ezrecharge.in/helpdocx/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ezRecharge.in
 
@@ -36,4 +36,4 @@ If at any point the Site decides to use personally identifiable information in a
 
 Users will have a choice to allow/disallow the Site the use of their information in this different manner, and the Site will then use information in accordance with the privacy policy under which the information was collected. The Site encourages the User to periodically review this page for the latest information on Site's privacy practices. 
 
-For any queries/complaints, please contact us at 9884-93-2273 (9884-WE-CARE) or support@ezrecharge.in 
+For any queries/complaints, please contact us at support@ezrecharge.in 
