@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the narwhale.io privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825183102id_/http%3A//narwhale.io/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narwhale.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133137id_/http%3A//narwhale.io/pages/privacy.html) for the most accurate reproduction.*
 
-# 
+# contact narwhale.io
 
 ## Privacy Policy for Narwhale.io
 
