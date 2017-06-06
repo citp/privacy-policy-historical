@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220191938id_/http%3A//justfreestuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606220849id_/http%3A//www.justfreestuff.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Just Free Stuff is committed to user privacy. This policy outlines our personal 
 
 This policy covers justfreestuff.com, Please be advised that our advertisers all have their own, possibly different, policies. Should you click through one of our links and travel to one of our advertisers, we encourage you to read the privacy policies provided on the advertisers sites, and those of all web sites you visit.
 
-Below is a summary of justfreestuff.com’s online privacy policy.
+Below is a summary of justfreestuff.com's online privacy policy.
 
 Types and uses of personal information.
 
@@ -24,14 +24,14 @@ Used to raise and respond to issues and inquiries of all types. Also used to dis
 
 We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites.
 
-**Children’s privacy**
+**Children's privacy**
 
-We do not knowingly collect personal information from children under the age of 18. If we learn that we have personal information on a child under the age of 18, we will delete that information from our systems. JustFreeStuff encourages parents to go online with their kids. Here are a few tips to help make a child’s online experience safer:
+We do not knowingly collect personal information from children under the age of 18. If we learn that we have personal information on a child under the age of 18, we will delete that information from our systems. JustFreeStuff encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
 
 Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc.  
 Know the sites your kids are visiting and which sites are appropriate.  
-Look for Web site privacy policies. Know how your child’s information is treated.  
-Check out the FTC’s site(1) for more tips on protecting children’s privacy online.
+Look for Web site privacy policies. Know how your child's information is treated.  
+Check out the FTC's site(1) for more tips on protecting children's privacy online.
 
 **Cookies**
 
