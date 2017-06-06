@@ -1,57 +1,47 @@
-> *The following text is extracted and transformed from the hitwise.com.au privacy policy that was archived on 2014-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140203235649id_/http%3A//www.experian.com.au/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwise.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025347id_/http%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
 
-# Experian Australia | Privacy statement
+# Privacy Policy - Connexity
 
-#### Contact us
+Last modified on: May 5th 2016
 
-##### Need to ask a question? 
+Welcome to the website of Connexity, Inc. (hereinafter: “Connexity”). This policy aims to inform you as to the type, extent and purpose of the collection and use of personal data during your visit our website. If you have any questions, you can contact us at any time by email or by post. You can find our contact information in our Imprint. 
 
-### About this statement
+The information here can be read at any time on our website, at <http://connexity.com/privacy-policy/> or via the link to “Privacy Policy”. 
 
-This privacy policy statement sets out the data processing practices carried out through your use of this web site by Experian Australia Pty Ltd.("Experian").
+## Data Controller
 
-If you have any requests concerning your personal information or any queries with regard to these practices please [email us](mailto:sharon.booth@au.experian.com).
+The data controller for the collection, processing and use of data in connection with the use of our internet site is Connexity, Inc., 12200 West Olympic Boulevard, Suite 300, Los Angeles, CA 90064, California, USA, Tel: (310) 571-1235. 
 
-To read our privacy policy for Experian Australia Credit Services please [click here](https://web.archive.org/legal/credit-services-privacy.html "Credit Services Privacy Policy").
+## General
 
-#### Links
+The use of our website does not require any prior registration and/or other provision of personal data. Whilst you are visiting our website, we collect and process information which is automatically sent to us by you (see clause 3) and/or personal data which you send to us voluntarily, in particular via our contact form (see clause 4) or when ordering our newsletter
 
-This privacy policy only covers Experian Australia's web site at [www.experian.com.au](http://www.experian.com.au/). Additional web sites within the Group are governed by their respective privacy statements. We are not responsible for the data policies or procedures or the content of other linked web sites outside of the Group.
+## Automatically collected data during visits to the website
 
-#### Information collected
+When you visit our website or use our services, the device and the internet browser you are using to access the site automatically send log files to our servers. These log files contain, in particular, the name of the file accessed (internet page), the volume of data transmitted, the type and version of the browser used, the operating system (type and version), the date and time of the visit, the referrer URL (website containing the link through which you arrived at our site) as well as the IP address of the requesting computer. Once it is no longer technically required for the provision of access to the website, the IP address is only stored for statistics purposes in an abbreviated (anonymized) form. 
 
-We collect personal information from visitors to this web site through the use of enquiry forms and every time you e-mail us your details. Other than this, we do not store or capture personal information but simply log your IP address (this is the technical standard which ensures messages get from one host to another and that the messages are understood) which is automatically recognised by the web server.
+The aforementioned, automatically transmitted data is collected and analyzed solely for the purpose of enabling a normal and optimized presentation of the information and for the purpose of statistical analysis. It is not possible for us to associate the data transmitted to the server with specific natural persons, i.e. it is not possible to identify you directly on the basis of the data transmitted automatically. However, we advise you that it is theoretically possible, with the assistance of your access provider and for a certain time, to identify the owner of the internet connection through which you access our website, on the basis of the communicated IP address. Your access provider can inform you of the length of time they store and use associated IP addresses. 
 
-#### Use of personal information
+## Contact form 
 
-We process personal information collected via this web site for the purposes of: -
+You have the possibility of communicating with us via the contact form available on our website. The use of that contact form as well as the provision of personal data on that form is, naturally, wholly voluntary. Any personal data communicated by you in that way will be used for the sole purpose of processing your enquiry, insofar as you have not expressly consented to a use beyond that purpose. 
 
-  * Identifying potential customers or subscribers. 
-  * Providing you with the services that you have subscribed to or registered for 
-  * Dealing with your requests and enquiries. 
-  * Carrying out customer and marketing research. 
-  * Providing you with information about products and services offered by Experian Australia 
+## Newsletter
 
+On our website, you have the possibility of registering to receive our Newsletter or email update, which is sent out monthly by email. This communication contains information and news on our products and services. In order to register to receive that newsletter or email, a separate declaration of consent is required, including the provision of an email address, which is stored solely for the purpose of sending the newsletter to the specified address. The consent to store and use the email address for the purpose of sending the publication may be revoked at any time by the person concerned, directly via a link at the end of every newsletter, via the Connexity website or by sending a message to Connexity. 
 
+## Disclosure to third parties
 
-We DO NOT sell personal information collected through this site or use your personal information for any other purposes than those stated above.
+Any disclosure to third parties of personal data communicated during use of our website will only occur under observance of the strict requirements of applicable national law. This would only be if you have consented to the disclosure of such data, if we are entitled to such disclosure under the statutory provisions and/or if such disclosure is required on the basis of laws, regulations, official or court orders. Disclosure to third parties for the purposes of advertising will not occur. 
 
-#### Cookies
+## Links to external websites
 
-Cookies may be used by us to provide you with customised information from our web site. A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our web site. Cookies may also allow us to make our web site more user friendly by, for example, allowing us to save your password so that you do not have to re-enter it every time to visit our web site.
+Our website contains links to third party websites. We advise that we have no influence on whether any external website observes the relevant data protection rules. We are responsible as the provider of our own content according to the general laws. We do not accept responsibility for third party content, which is made available via links, and do not adopt their content as our own. 
 
-We use cookies so that we can give you a better experience when you return to our web site. Most web browsers automatically accept cookies. You do not have to accept cookies, and you should read the information that came with your browser software to see how you can set up your browser to notify you when you receive a cookie, this will give you the opportunity to decide whether to accept it. If you disable cookies from your browser you may not be able to access certain features of a particular web site.
+## Access to information, rectification, blocking and erasure
 
-#### Security
+You have the right to demand information from us, free of charge, as to the personal data we have stored about you, the recipients or categories of recipient to which we have disclosed that data as well as the purpose of storage. Beyond that, you have, where applicable, the right to rectification, blocking or erasure of personal data within the statutory requirements. You can find contact information in the website’s Imprint.
 
-We endeavour to take all reasonable steps to protect your personal information. All the data collected by us is stored on a secure server. The secure server software encrypts all information you input before it is sent to us.
+## Connexity shopping data use in Online Behavioral Advertising (“OBA”)
 
-#### Disclosures
-
-We will only disclose personal information to reputable companies and suppliers we engage to process data on our behalf, (which may include companies within the Group).
-
-#### Internet-based Transfers
-
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing this web site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
-
-If you would like us to update your information please let us know. We may occasionally ask you to do this and you have the right to access and update your data at any time by accessing this system. Data will not be kept for longer than is necessary and will be removed from our database at your request. If you wish Experian Australia to delete your profile, please contact us.
+Connexity believes that relevant advertising is a good thing for consumers, and so we leverage shopping and other data we know about consumer to help power more relevant advertising across the Internet. Our OBA is cookie based and does not collect or use any personally identifiable information. We do collect and share behavioral data (such as what products you viewed, what categories you browsed, or what stores and brands you visited). This information can power both advertising on our own platform as well as advertising on other third party platforms. If you want to learn about ways to opt out of OBA, please visit our [opt out page](http://connexity.com/opt-out/).
