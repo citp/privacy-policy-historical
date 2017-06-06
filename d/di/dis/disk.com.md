@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disk.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205094631id_/http%3A//www.disk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183701id_/http%3A//www.disk.com/resources/learn/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Disk.com
+# Privacy Policy | Corporate Disk Company - Disk.com
 
 Corporate Disk Company strongly believes in protecting your privacy while providing you with exceptional service.  
 Here is an explanation of our privacy policy and how we safeguard the personal information provided to us on our Web site.
@@ -23,7 +23,7 @@ We do send email updates on the latest Corporate Disk Company products, special 
 
 ### **Email**
 
-All email offers from Corporate Disk Company will tell you how to decline further emails. At any time, you may request to discontinue receiving these offers from us by emailing us at info@disk.com. Please provide us with the specific email address you want to opt out. If you don’t you know we will screw it up.
+All email offers from Corporate Disk Company will tell you how to decline further emails. At any time, you may request to discontinue receiving these offers from us by emailing us at [info@disk.com](mailto:info@disk.com). Please provide us with the specific email address you want to opt out. If you don’t you know we will screw it up.
 
 ### **Data Security**
 
