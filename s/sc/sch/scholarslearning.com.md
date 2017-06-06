@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarslearning.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031221353id_/https%3A//www.scholarslearning.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarslearning.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190727id_/https%3A//www.scholarslearning.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Scholars Learning Privacy Policy Benefit for cbse Students
 
