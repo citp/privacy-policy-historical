@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the roommates.com privacy policy that was archived on 2016-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161113004712id_/http%3A//www.roommates.com/privacy.rs) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roommates.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606034147id_/http%3A//www.roommates.com/privacy.rs) for the most accurate reproduction.-->
 
 <html><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><script src="https://js-agent.newrelic.com/nr-995.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!d){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[y[n]];return f&&f.push([b,n,r,i]),i}}function p(e,t){w[e]=v(e).concat(t)}function v(e){return w[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var w={},y={},b={on:p,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a};return b}function i(){return new r}function a(){d=!0,s=p.backlog={}}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o(),d=!1;p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=b.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(w,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-995.min.js"},y=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a(),origin:m,features:{},xhrWrappable:y};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 		<title>Roommates.com - Privacy Statement</title>
 		<meta name="description" content="Roommates.com is a roommate finder and roommate search service. Roommates.com offers an effective way for you to find roommates and rooms for rent.">
 		<meta name="keywords" content="roommates,roommate,roomate,roommate search,roommate finder,the roommate service,roommate wanted,rooms for rent,find a roommate">		
@@ -166,7 +166,7 @@ function confirmChecked (form,action)
 			</div>
 			<div class="full info roommate-counter">
 				<!-- begin roommates counter -->
-				November 12th:  56,673 Roommates Available								<!-- end roommates counter -->
+				June 5th:  69,257 Roommates Available								<!-- end roommates counter -->
 			</div>
 			<div class="full content">
 				<div class="static-750">
@@ -185,9 +185,9 @@ function confirmChecked (form,action)
 <tbody><tr> 
 	<td class="small">
 		<i>
-		Thanks for providing a great service. Your site was the most useful resource I encountered because of the room mail feature. Being able to make preliminary, semi-anonymous contacts with prospective roommates not only speeds the process of finding a roommate, but also allows for more selectivity in choosing someone who will work well with one's circumstances. -Alexandra 
+		I just wanted to express my thanks to you guys for helping me find a "killer pad." I am moving back home and was going to spend loads of money to get my own apt. I chose to try Roommates.com, spent some time e-mailing prospects in respective filters that were easy to set up....MAN, WHAT A RESPONSE! I had a real choice on places, with pictures and everything...and I found a beautiful Italian Villa with a REALLY cool owner, the right price/deposit...and we have agreed on a deal! I am so excited to know that I have a place set up (that is beautiful) before I go out there and have to hotel it...spending twice as much whilst I look for a place and am busy working. Thank you sooooooo much! I owe so much to Roommates.com! - Jason 
 				<hr style="border: none; border-top: 1px solid #d9deca; margin-top: 20px; margin-bottom: 20px">	
-			I was first signed up with a competitor of yours... however, I grew tired of writing to people I did not get responses from (couldn't tell how old the listings were) and was getting closer to D-Day when I decided to sign up for your service. I think the room-mail feature is great. It allows you to remain confidential until you're more comfortable and I loved the resources page you made available. I was able to use several of the links you provided. Of course, best of all...I found my new roommate and renter here! Thanks Much - Michelle 
+			I would like to say of the three services I utilized, yours was the most professional. You do a really solid job of providing the information to all parties, your follow up with potential matches, and providing the email outlet for easy communications. Once again thanks &amp; I will refer you to any friends or coworkers that could utilize your service. Sincerely, Kirt 
 		</i>
 		<br><br>
 		<a href="testimonials.rs">More testimonials...</a>
@@ -255,9 +255,9 @@ function confirmChecked (form,action)
 <p>We believe you should have the ability to access and edit the PII that you have provided to us. You may change any of your PII in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this Site. You may also access and correct your personal information and privacy preferences by emailing or writing us at:</p>
 
 <p>Roommates.com<br>
-10115 E. Bell Rd<br>
-Ste 107 PMB 195<br>
-Scottsdale, AZ 85260<br>
+7904 E Chaparral Rd<br> 
+Ste A110 PMB 473<br>
+Scottsdale, AZ  85250<br>
 Attn: Privacy Compliance Officer<br>
 Email: support@roommates.com</p>
 
@@ -297,9 +297,9 @@ Email: support@roommates.com</p>
 <p>Roommates.com</p>
 
 <p>Attn: Privacy Compliance Officer<br>
-10115 E. Bell Rd<br>
-Ste 107 PMB 195<br>
-Scottsdale, AZ 85260</p>
+7904 E Chaparral Rd<br> 
+Ste A110 PMB 473<br>
+Scottsdale, AZ  85250</p>
 
 <p>&nbsp;</p>
 
@@ -320,7 +320,7 @@ Scottsdale, AZ 85260</p>
 	        			<a href="http://www.instagram.com/Roommatesdotcom" title="Follow us on Instagram" target="_blank"><img src="/images/instagram-64.png" height="32" width="32" class="social-icon"></a>
 	    			</div>
 		        	<div class="col-6 text-right padding-top-6">
-		        		<a href="http://www.roommates.com">© 2016 Roommates.com</a>
+		        		<a href="http://www.roommates.com">© 2017 Roommates.com</a>
 		        	</div>
 		        </div>
 		        <div class="col-12">
@@ -373,5 +373,5 @@ Scottsdale, AZ 85260</p>
                 }
             });            
 		</script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"faf074e8fb","applicationID":"8621670","transactionName":"MwBRZUZYXxIEVxdaWApKZkNdFkETDEICUE5KF0A=","queueTime":0,"applicationTime":4,"atts":"H0dSEw5CTBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"faf074e8fb","applicationID":"8621670","transactionName":"MwBRZUZYXxIEVxdaWApKZkNdFkETDEICUE5KF0A=","queueTime":0,"applicationTime":1,"atts":"H0dSEw5CTBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
