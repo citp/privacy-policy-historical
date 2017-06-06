@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117164319id_/https%3A//www.gwr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144858id_/https%3A//www.gwr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Great Western Railway
+# Privacy Policy | Great Western Railway
 
 [ Great Western Railway](https://web.archive.org/) ( **"GWR", "we" or "us"** ) is committed to protecting and respecting your privacy.
 
