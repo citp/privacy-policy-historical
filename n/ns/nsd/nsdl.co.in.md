@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsdl.co.in privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406130004id_/https%3A//nsdl.co.in/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsdl.co.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185642id_/https%3A//nsdl.co.in/about/privacy-policy.php) for the most accurate reproduction.*
 
 # NSDL
 
