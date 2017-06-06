@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activekids.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155348id_/http%3A//www.activenetwork.com/information/privacy-policy-active-com-9-14-11.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activekids.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054300id_/http%3A//www.activenetwork.com/information/privacy-policy-active-com-9-14-11.htm) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
@@ -29,8 +29,6 @@ Active Network, LLC and its affiliated companies and subsidiaries (collectively,
 We also offer mobile applications that provide information about events in your area, permit you to register for races, allow you to make camping reservations, create and/or download training programs, and you can enjoy many of the benefits of our websites in addition to other services (collectively, “Applications”). In general, our Applications operate on an open network; that means that any information that you post to these Applications may be available to other users of the same application, and, in some instances, on our websites.
 
 In this Privacy Policy (“Policy”), we describe the information that we collect from visitors to and users of our websites (“Sites”), our blogs, our Applications, and our online products and services (collectively, “Services”). By visiting our Sites or using any of our Services, you agree that your personal information will be handled as described in this Policy, which is incorporated by reference into the ACTIVE Terms of Use, available at <http://www.activenetwork.com/information/terms-of-use>.
-
-ACTIVE has received TRUSTe’s Privacy Seal signifying that this Policy and our practices have been reviewed for compliance with the TRUSTe program which is viewable by clicking the TRUSTe seal, located at the bottom of the websites to which this certification covers. The TRUSTe certification covers only information that is collected through the following ACTIVE websites: Active.com, Activenetwork.com, eTeamz.com, Activegiving.com, and Reserveamerica.com and through our flagship technology platform, ACTIVEWorks®. The Children’s Privacy Seal program covers only information that is collected through [www.active.com](http://www.active.com/). The TRUSTe programs do not cover information that may be collected through downloadable software, the Applications or mobile devices. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@activenetwork.com](mailto:privacy@activenetwork.com). If you are not satisfied with our response you can contact TRUSTe [here](https://www.truste.com/).
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@activenetwork.com](mailto:privacy@activenetwork.com). If you are not satisfied with our response you can contact TRUSTe [here](https://www.truste.com/).
 
@@ -172,7 +170,7 @@ Active Network, LLC complies with the U.S. – Swiss Safe Harbor Framework as se
 
 **EU-U.S. Privacy Shield**
 
-Active Network, LLC participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Active Network, LLC is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles.  To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.commerce.gov/page/eu-us-privacy-shield).
+Active Network, LLC participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Active Network, LLC is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles.  To learn more about the Privacy Shield Framework, visit [www.privacyshield.gov](http://www.privacyshield.gov/).
 
 Active Network, LLC is responsible for the processing of personal data it receives under the Privacy Shield Framework, and subsequent transfers to a third party acting as an agent on its behalf.  Active Network, LLC complies with the Privacy Shield principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
@@ -180,7 +178,7 @@ With respect to personal data received or transferred pursuant to the Privacy Sh
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the Privacy Shield [website](https://www.commerce.gov/page/eu-us-privacy-shield), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **CHILDREN UNDER 13**
 
