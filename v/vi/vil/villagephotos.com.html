@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the villagephotos.com privacy policy that was archived on 2016-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202040127id_/http%3A//village.photos/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the villagephotos.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606085530id_/http%3A//village.photos/privacy.aspx) for the most accurate reproduction.-->
 
 <html lang="en-us"><head><title>
 	Privacy and Acceptable Use Policies | Village.Photos
@@ -74,9 +74,14 @@
     </style><link rel="canonical" href="http://village.photos/privacy.aspx"></head>
 <body id="page-top">
     <form method="post" action="./privacy.aspx" id="form">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFgYCAQ8WAh4HVmlzaWJsZWhkAgIPFgIfAGgWCGYPDxYCHwBoZGQCAQ8WAh8AaGQCAg8WAh8AaGQCAw8PFgIfAGhkZAIFD2QWAgICDxYCHwBoZGRoWeShuC75JuczBFDbK60hLACRChs53/UdlIgrvAKKPQ==">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFgYCAQ8WAh4HVmlzaWJsZWhkAgIPFgIfAGgWCGYPDxYCHwBoZGQCAQ8WAh8AaGQCAg8WAh8AaGQCAw8PFgIfAGhkZAIED2QWAgICDxYCHwBoZGTJrAgG3DjCq1RiI5RUBSmd9Cx+WleRzmk9x/0O1DPKGw==">
+</div>
 
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+</div>
     <div class="page">
         <div id="fb-root">
         </div>
@@ -105,7 +110,6 @@
                 </div>
             </div>
         </nav>
-        
         
     <section class="container">
         <h1>
@@ -242,6 +246,8 @@
         <div class="footer bg-dark" style="padding: 2em; margin-top: 8em;">
             <div class="container">
                 <div class="row">
+                    <div class="col-md-12"><p>Help support our free services. <a href="bitcoin:1JVmdY7knfocG1Yhr3sTgovwUjsPZECvow">Donate using Bitcoin!</a></p></div>
+
                     <div class="col-md-6">
                         <a href="mailto:support@village.photos" title="Contact Us">Contact Us</a><br>
                         <a href="/help.aspx" target="_help" title="Help and Frequently Asked Questions">Help
@@ -270,14 +276,14 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 text-center" style="padding: 2em;">
-                        © 2014-2016 <a href="http://marketamp.com" title="MarketAmp.com" target="marketamp" rel="nofollow">MarketAmp.com</a>
+                        © 2014-2017 <a href="http://marketamp.com" title="MarketAmp.com" target="marketamp" rel="nofollow">MarketAmp.com</a>
                     </div>
                 </div>
             </div>
         </div>
     </section></div>
     
-     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+     <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
          (function (i, s, o, g, r, a, m) {
              i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
                  (i[r].q = i[r].q || []).push(arguments)
@@ -295,6 +301,7 @@
     <script async="" src="https://apis.google.com/js/platform.js" type="text/javascript" defer="defer"></script>
     <!-- jQuery -->
     <script src="/vendor/jquery/jquery.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
     <!-- Plugin JavaScript -->
@@ -304,7 +311,28 @@
     <!-- Theme JavaScript -->
     <script src="/js/creative.js"></script>
     
+        <script type="text/javascript">
+            /*Facebook JSDK*/
+            var eventCounter = 0;
+            window.fbAsyncInit = function () {
+                FB.init({
+                    appId: '855152657842853',
+                    xfbml: true,
+                    version: 'v2.1'
+                });
+            };
+
+            (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) { return; }
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+    
     </form>
+
 
 
 </body></html>
