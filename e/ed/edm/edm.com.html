@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the edm.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119131849id_/http%3A//edm.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edm.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606141831id_/http%3A//edm.com/privacy) for the most accurate reproduction.-->
 
-<html lang="en" class="privacy"><head><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://edm.com/js/prebid.js"></script>
+<html lang="en" class="privacy"><head><script defer="" type="text/javascript" src="https://revboostprocdnadsprod.azureedge.net/scripts/latest/min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://edm.com/js/prebid.js"></script>
 <title>EDM.com - The Latest Electronic Dance Music News, Reviews &amp; Artist Releases | EDM.com</title>
 <meta name="description" content="The world's foremost authority on EDM : free music downloads, artist interviews, industry news, curated playlists, trending charts, and more.">
 
@@ -36,7 +36,7 @@
 <meta name="google-signin-cookiepolicy" content="single_host_origin">
 
 <meta name="pusher_channel" content="edm">
-<meta name="csrf_token" id="csrf_token" content="dsSv9OvpakVNIrA2HfX1WzQgkWgQgKplPyNYX73b">
+<meta name="csrf_token" id="csrf_token" content="Bqnt5pwoMeEzARQEeSFMiWFA0mVnVkGodqVSqb22">
 
 <link rel="shortcut icon" href="http://edm.com/images/favicon.png">
 <link rel="icon" type="image/png" href="http://edm.com/images/favicon.ico" sizes="16x16">
@@ -46,14 +46,18 @@
 <link rel="icon" type="image/png" href="http://edm.com/images/edm_152.png" sizes="152x152">
 <link rel="icon" type="image/png" href="http://edm.com/images/edm_180.png" sizes="180x180">
 <link rel="icon" type="image/png" href="http://edm.com/images/edm_192.png" sizes="192x192">
-<link media="all" type="text/css" rel="stylesheet" href="http://edm.com/css/main.min.css">
+<link media="all" type="text/css" rel="stylesheet" href="http://edm.com/css/main.min.css?v=20170607">
 
 <style>
 	.aggregation_modal{
 		z-index: 1400 !important;
 	}
-</style>
-<script type="text/javascript" async="" src="https://cdn.pushcrew.com/js/455db780fb1dce759021318842e8b120.js"></script><script type="text/javascript">
+
+	#div-gpt-ad-1485253499736-0, #div-gpt-ad-1484652403708-0{
+    	margin: 0 auto;
+    }
+    </style>
+<script type="text/javascript" async="" src="https://cdn.pushcrew.com/js/455db780fb1dce759021318842e8b120.js"></script><script>
 	(function(p,u,s,h){
 		p._pcq=p._pcq||[];
 		p._pcq.push(['_currentTime',Date.now()]);
@@ -105,6 +109,24 @@
 		var pbjsTargetEl = document.getElementsByTagName( "head" )[ 0 ];
 		pbjsTargetEl.insertBefore( pbjsEl, pbjsTargetEl.firstChild );
 	})();
+
+	var refreshVariable = 0;
+	function refreshSlot(slot) {
+	  var codes = [];
+      	  for (var i = 0; i<slot.length; i++)
+	     codes.push(slot[i].getSlotElementId());
+	     pbjs.que.push(function() {
+	       pbjs.requestBids({
+	          timeout: PREBID_TIMEOUT,
+	          adUnitCodes: codes,
+	          bidsBackHandler: function() {
+		    refreshVariable++;
+		    googletag.pubads().clearTargeting();
+	            pbjs.setTargetingForGPTAsync(codes);
+		    googletag.pubads().setTargeting("ImpressionNumber",refreshVariable.toString());
+		    googletag.pubads().refresh(slot);
+	}});});}
+
 
 	pbjs.que.push( function()
 	{
@@ -224,28 +246,48 @@
 	} );
 </script>
 <script>
+  dfpSlots = [];
+
 	googletag.cmd.push( function()
 	{
 		googletag.defineOutOfPageSlot( '/97868948/edm_interstitial', 'edm_interstitial' ).addService( googletag.pubads() );
-		googletag.defineSlot( '/97868948/edm_1D', [ [ 728, 90 ], [ 970, 90 ], [ 970, 250 ] ], 'edm_1D' ).addService( googletag.pubads() );
-		googletag.defineSlot( '/97868948/edm_2D', [ [ 300, 250 ], [ 300, 600 ], [ 160, 600 ], [ 300, 1050 ] ], 'edm_2D' ).addService( googletag.pubads() );
-		googletag.defineSlot( '/97868948/edm_3D', [ [ 300, 250 ], [ 336, 280 ] ], 'edm_3D' ).addService( googletag.pubads() );
+		dfpSlots[0] = googletag.defineSlot( '/97868948/edm_1D', [ [ 728, 90 ], [ 970, 90 ], [ 970, 250 ] ], 'edm_1D' ).addService( googletag.pubads() );
+		dfpSlots[1] = googletag.defineSlot( '/97868948/edm_2D', [ [ 300, 250 ], [ 300, 600 ], [ 160, 600 ], [ 300, 1050 ] ], 'edm_2D' ).addService( googletag.pubads() );
+		dfpSlots[2] = googletag.defineSlot( '/97868948/edm_3D', [ [ 300, 250 ], [ 336, 280 ] ], 'edm_3D' ).addService( googletag.pubads() );
+		googletag.defineSlot('/97868948/EDM_Teads', [1, 1], 'div-gpt-ad-1478706790311-0').addService(googletag.pubads());
 
 		pbjs.que.push( function()
 		{
 			pbjs.setTargetingForGPTAsync();
 		} );
+                
 
+		setInterval(function(){refreshSlot(dfpSlots);}, 60000);
+
+		googletag.pubads().setTargeting("ImpressionNumber",refreshVariable.toString());
 		googletag.pubads().setCentering( true );
 		googletag.pubads().collapseEmptyDivs( true );
 		googletag.pubads().enableSingleRequest();
 		googletag.enableServices();
 	} );
-</script>			<!--
-			END OF AdSense
-		-->
+
+
+	googletag.cmd.push(function() {
+	    dfpSlots[3] = googletag.defineSlot('/97868948/EDM_ADN_InArticle', [300, 250], 'div-gpt-ad-1485253499736-0').addService(googletag.pubads());
+	    dfpSlots[4] = googletag.defineSlot('/97868948/EDM_ADN_AboveComment', [300, 250], 'div-gpt-ad-1484652403708-0').addService(googletag.pubads());
+	    googletag.defineOutOfPageSlot('/97868948/EDM_ADN_Adsupply', 'div-gpt-ad-1484724402118-0').addService(googletag.pubads());
+	    googletag.defineSlot('/97868948/EDM_ADN_Interstitial', [1, 1], 'div-gpt-ad-1484652403708-2').addService(googletag.pubads());
+	    googletag.defineSlot('/97868948/EDM_Sticky_1x1', [1, 1], 'div-gpt-ad-1484652403708-3').addService(googletag.pubads());
+	    googletag.enableServices();
+
+
+	});
+</script>		<!--
+		END OF AdSense
+	-->
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class=" desktop-device ">
+
 <header id="app-subscription" style="z-index: 1200;">
 	<div class="hamburger_menu">
 		<span></span>
@@ -290,10 +332,10 @@
 																			
 										<li>
 											<div class="article_prw row">
-												<a href="http://edm.com/articles/2016/11/18/grey-billboard-interview" title="Inside Grey's 'Starving': How a Cold Email to Skrillex Spurred a Dance Hit With Hailee Steinfeld" data-aggregation="582fe791e709bb46033c03c1">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/582fe791e709bb46033c03c1-M.jpg')"></div>
+												<a href="http://edm.com/articles/2017/6/5/autograf-exclusiveinterview" title="Autograf Talks about Corona Electric Beach and their Upcoming Plans for the Year [INTERVIEW]">
+													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/592dc81ae709bb33df500eb1-M.jpg')"></div>
 													<div class="text_ctn col-xs-7">
-														<span class="article_title">Inside Grey's 'Starving': How a Cold Email to Skrillex Spurred a Dance Hit With Hailee Steinfeld</span>
+														<span class="article_title">Autograf Talks about Corona Electric Beach and their Upcoming Plans for the Year [INTERVIEW]</span>
 													</div>
 												</a>
 											</div>
@@ -302,10 +344,10 @@
 																			
 										<li>
 											<div class="article_prw row">
-												<a href="http://edm.com/articles/2016/11/18/efam-black-friday" title="Electric Family Announces Black Friday Limited Edition Release">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/582fbbbce709bb27432707a1-M.jpg')"></div>
+												<a href="http://edm.com/articles/2017/6/5/david-guetta-ibiza-lineup" title="David Guetta Has Plans For 'BIG' Supporting Talent at Ushuaïa Residency">
+													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/5935c3e3e709bb0e4524a7a1-M.jpg')"></div>
 													<div class="text_ctn col-xs-7">
-														<span class="article_title">Electric Family Announces Black Friday Limited Edition Release</span>
+														<span class="article_title">David Guetta Has Plans For 'BIG' Supporting Talent at Ushuaïa Residency</span>
 													</div>
 												</a>
 											</div>
@@ -314,10 +356,10 @@
 																			
 										<li>
 											<div class="article_prw row">
-												<a href="http://edm.com/articles/2016/11/18/slander-duality" title="Slander releases Duality EP featuring NGHTMRE and Yookie">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/582f7bc5e709bb7c260bd8f1-M.jpg')"></div>
+												<a href="http://edm.com/articles/2017/6/5/limitless-summer-remix-competition" title="Take it From the Bedroom to the Main Stage With Our Limitless Summer Remix Competition!">
+													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/59319a3be709bb7e9335d4c1-M.jpg')"></div>
 													<div class="text_ctn col-xs-7">
-														<span class="article_title">Slander releases Duality EP featuring NGHTMRE and Yookie</span>
+														<span class="article_title">Take it From the Bedroom to the Main Stage With Our Limitless Summer Remix Competition!</span>
 													</div>
 												</a>
 											</div>
@@ -326,10 +368,10 @@
 																			
 										<li>
 											<div class="article_prw row">
-												<a href="http://edm.com/articles/2016/11/18/sfx-new-ceo" title="Randy Phillips Confirmed for SFX 2.0 " data-aggregation="582f3664e709bb4ef202ea41">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/582f3664e709bb4ef202ea41-M.jpg')"></div>
+												<a href="http://edm.com/articles/2017/6/5/denon-prime-series" title="Tiesto, Among Others, Are Changing Their Tech Rider to this New Denon DJ Equipment">
+													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/59357f7ce709bb602e7c84d1-M.jpg')"></div>
 													<div class="text_ctn col-xs-7">
-														<span class="article_title">Randy Phillips Confirmed for SFX 2.0 </span>
+														<span class="article_title">Tiesto, Among Others, Are Changing Their Tech Rider to this New Denon DJ Equipment</span>
 													</div>
 												</a>
 											</div>
@@ -338,10 +380,10 @@
 																			
 										<li>
 											<div class="article_prw row">
-												<a href="http://edm.com/articles/2016/11/17/pegabord-nerds" title="Pegboard Nerds Talk Gaming, Travel Hacks &amp; Favorite Non-EDM Artists [INTERVIEW]">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/582e49a7e709bb2cb0599791-M.jpg')"></div>
+												<a href="http://edm.com/articles/2017/6/5/madden-new-music" title="Madeon Announces New Music is Coming, and it's Nothing Like His Previous Works">
+													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/59355fd2e709bb47ce5a9c31-M.jpg')"></div>
 													<div class="text_ctn col-xs-7">
-														<span class="article_title">Pegboard Nerds Talk Gaming, Travel Hacks &amp; Favorite Non-EDM Artists [INTERVIEW]</span>
+														<span class="article_title">Madeon Announces New Music is Coming, and it's Nothing Like His Previous Works</span>
 													</div>
 												</a>
 											</div>
@@ -350,10 +392,10 @@
 																			
 										<li>
 											<div class="article_prw row">
-												<a href="http://edm.com/articles/2016/11/17/dillon-francis-crossfit" title="DJ Dillon Francis Brings CrossFit on Tour" data-aggregation="582e58ffe709bb375a6e0161">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/582e58ffe709bb375a6e0161-M.jpg')"></div>
+												<a href="http://edm.com/articles/2017/6/5/bonobo-vr-outliers" title="Bonobo Jumps Into the Virtual Reality Experience With Video for 'Outliers' [WATCH]">
+													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/59356235e709bb47ce5a9c32-M.jpg')"></div>
 													<div class="text_ctn col-xs-7">
-														<span class="article_title">DJ Dillon Francis Brings CrossFit on Tour</span>
+														<span class="article_title">Bonobo Jumps Into the Virtual Reality Experience With Video for 'Outliers' [WATCH]</span>
 													</div>
 												</a>
 											</div>
@@ -362,6 +404,11 @@
 																	</ul>
 							</div>
 													</li>
+											<li class="nav-charts">
+																							<a title="Article charts section" href="http://edm.com/charts">
+									<span class="li_tier1">CHARTS</span>
+								</a>
+																												</li>
 											<li class="nav-watch">
 																							<a title="tv.edm.com" href="http://tv.edm.com">
 									<span class="li_tier1">VIDEOS</span>
@@ -369,9 +416,14 @@
 																												</li>
 										<!--// section -->
 
-					<li class="nav-music">
-						<a title="Listen" href="http://edm.com/playlists">
-							<span class="li_tier1">MUSIC</span>
+					<li class="nav-playlists">
+						<a title="Playlists" href="http://edm.com/playlists">
+							<span class="li_tier1">PLAYLISTS</span>
+						</a>
+					</li>
+					<li class="nav-competiton">
+						<a title="Competition" href="http://edm.com/competition">
+							<span class="li_tier1">COMPETITION</span>
 						</a>
 					</li>
 					
@@ -438,31 +490,76 @@
 
 
 <div class="topleaderboard">
-		<div class="advertisement_ctn">
-		<div id="edm_1D" style="min-height: 90px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('edm_1D'); });
-</script>
+		<div class="spotlight">
+		<div class="spotlight__track">
+			<div class="spotlight__track--header">
+				<h2 class="spotlight__track--header-title">
+					SPOTLIGHT TRACK
+				</h2>
+			</div>
+			<!--
+				Soundcloud Player
+			-->
+							<div class="spotlight__track--player">
+					<div class="player__artwork" style="background-image: url(https://i1.sndcdn.com/artworks-000208759205-wl9e7t-t300x300.jpg)"></div>
+					<div class="player__content">
+						<h2>Invisible</h2>
+						<h3>TeZATalks</h3>
+						<div class="controls">
+							<div class="controls__play" id="spotlight-play" data-duration="226031" data-stream="https://api.soundcloud.com/tracks/308717858/stream">
+								<span><i class="fa fa-play-circle"></i></span>
+							</div>
+							<div class="controls__bar">
+								<div class="controls__bar--seeker">
+									<span class="controls__bar--seeker-current"></span>
+								</div>
+								<span class="controls__bar--duration">
+									<span class="controls__bar--duration-text">0:00</span> / 3:46
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+
+									</div>	
+
+		<!--
+			Download and Social options
+		-->
+		<div class="spotlight__download">
+			<div class="spotlight__download--info">
+				<h3>Follow</h3>
+				<h2>TeZATalks</h2>
+			</div>
+			<div class="spotlight__download--social">
+									<a href="https://soundcloud.com/Tezatalks" target="_blank"><i class="fa fa-soundcloud"></i></a>
+																	<a href="https://twitter.com/Tezatalks" target="_blank"><i class="fa fa-twitter"></i></a>
+													<a href="https://www.facebook.com/Tezatalks" target="_blank"><i class="fa fa-facebook"></i></a>
+													<a href="https://www.instagram.com/Tezatalks/" target="_blank"><i class="fa fa-instagram"></i></a>
+							</div>
+					</div>	
+
+		
+		
+		<!--
+			Submission
+		-->
+		<div class="spotlight__submission" id="spotlight-contact" data-type="spotlight">
+			<a href="#" data-type="spotlight">
+				<i class="fa fa-plus-circle" data-type="spotlight"></i>
+			</a>
+			<span>
+				Spotlight<br>
+				Your Track
+			</span>
+		</div>		
+	</div>
 </div>
-</div></div>
 <div class="fs_wrapper">
 
 
-<div id="tv-popup">
-	<span id="tv-close">x</span>
-	<ul>
-		<li><img src="https://storage.googleapis.com/cloud.edm.com/assets/edm-logo.svg"></li>
-		<li>
-			<h4>Check out our new</h4>
-			<h3>Video Section</h3>
-		</li>
-		<li>
-			<a title="tv.edm.com" href="http://tv.edm.com">
-				tv.edm.com
-			</a>
-		</li>
-	</ul>
-</div>
+
+
 	<main class="container-fluid">
 		
 	<article>
@@ -599,7 +696,7 @@ googletag.cmd.push(function() { googletag.display('edm_1D'); });
 				<div class="newsletter_social">
 					<div class="newsletter">
 						<p class="blue_hl">Subscribe for your<br>dose of EDM news</p>
-						<form method="POST" action="http://edm.com/privacy" accept-charset="UTF-8"><input name="_token" type="hidden" value="dsSv9OvpakVNIrA2HfX1WzQgkWgQgKplPyNYX73b">
+						<form method="POST" action="http://edm.com/privacy" accept-charset="UTF-8"><input name="_token" type="hidden" value="Bqnt5pwoMeEzARQEeSFMiWFA0mVnVkGodqVSqb22">
 						<input id="nwsltr_sbsrb" placeholder="Enter your email" name="newsletter" type="email">
 						<button type="submit" id="subscribenwsbtn">Submit</button>
 						</form>
@@ -653,7 +750,7 @@ googletag.cmd.push(function() { googletag.display('edm_1D'); });
 		</div>
 		<div class="col-xs-12">
 			<div class="copyright">
-				<p>© 2016 EDM.COM  | <a href="http://edm.com/privacy">Privacy and Cookies</a>   | <a href="http://edm.com/tos">Terms of Service</a></p>
+				<p>© 2017 EDM.COM  | <a href="http://edm.com/privacy">Privacy and Cookies</a>   | <a href="http://edm.com/tos">Terms of Service</a></p>
 			</div>
 		</div>
 
@@ -671,7 +768,7 @@ googletag.cmd.push(function() { googletag.display('edm_1D'); });
 	<aggregationmodal :modalopen.sync="modalopen" :content="content" :loaded="loaded"></aggregationmodal>
 </div>
 <div class="contact_modal" :class="{open: modalopen}" id="contact_modal">
-	<contactmodal :modalopen.sync="modalopen"></contactmodal>
+	<contactmodal :modalopen.sync="modalopen" ,="" department.sync="department"></contactmodal>
 </div>
 
 					
@@ -705,7 +802,134 @@ googletag.cmd.push(function() { googletag.display('edm_1D'); });
 	ga( 'create', 'UA-32952086-6', 'auto' );
 	ga( 'send', 'pageview' );
 </script>
+					<script src="/js/soundmanager2-nodebug-jsmin.js"></script>
+					<script>
+window.player;
+window.seekBarPercent;
+window.spotLightDuration = 0;
+window.seekBarPosition = 0;
+window.seeBarInterval;
 
+var seek_current_width     = jQuery(document).find('.controls__bar--seeker-current');
+var seek_current_text      = jQuery(document).find('.controls__bar--duration');
+var seek_current_indicator = jQuery(document).find('.controls__bar--duration-text');
+
+function seekBarFunc() {
+	seeBarInterval = setInterval(function(){
+		seekBarPosition = (player.position / spotLightDuration) * 100;
+		seek_current_width.css('width', seekBarPosition + '%');
+
+		var tc = timecode();
+		seek_current_indicator.text(tc);
+	}, 1000);
+}
+
+function seekBarEnd() {
+	var tc = timecode(spotLightDuration);
+	seek_current_width.css('width', '100%');
+	seek_current_indicator.text(tc);
+}
+
+function timecode(duration) {
+	duration = duration || player.position;
+	var min = (duration / 1000 / 60) << 0;
+	var sec = Math.floor((duration / 1000) % 60);
+
+	return min + ':' + pad(sec);
+}
+
+function pad ( val ) { return val > 9 ? val : "0" + val; }
+
+jQuery('#spotlight-play').on('click', function(e){
+	e.preventDefault();
+	var that = jQuery(this);
+	var url = that.attr('data-stream') + '?consumer_key=2b68f72307a8a81a458ec812bd0a6e37';
+	spotLightDuration = parseInt(that.attr('data-duration'));
+
+	if(typeof player == 'object' && player.playState == 1)
+	{
+		if(player.paused)
+		{
+			try{
+				player.resume();
+			}catch(err){
+			}
+		}
+		else
+		{
+			try{
+				player.pause();
+			}catch(err){
+			}
+		}
+	}
+	else
+	{
+		createSound(that, url);
+	}
+});
+
+function createSound(that, url){
+	player = soundManager.createSound({
+		id: 'track_232323',
+		url: url,
+		onplay: function() {
+			if(typeof that === 'object')
+			{
+				that.find('i')
+					.removeClass('fa-play-circle')
+					.addClass('fa-pause-circle');
+
+					seekBarFunc();
+			}
+		},
+		onresume: function() {
+			if(typeof that === 'object')
+			{
+				that.find('i')
+					.removeClass('fa-play-circle')
+					.addClass('fa-pause-circle');
+
+					seekBarFunc();
+			}
+		},
+		onpause: function() {
+			if(typeof that === 'object')
+			{
+				that.find('i')
+					.removeClass('fa-pause-circle')
+					.addClass('fa-play-circle');
+
+					clearInterval(seeBarInterval);
+			}
+		},
+		onfinish: function() {
+			if(typeof that === 'object')
+			{
+				that.find('i')
+					.removeClass('fa-pause-circle')
+					.addClass('fa-play-circle');
+
+					clearInterval(seeBarInterval);
+
+					seekBarEnd();
+			}
+		}
+	});
+
+	window.setTimeout(function(){
+		player.play();
+
+		var parent = jQuery('.controls__bar');
+
+		if(!parent.hasClass('playing'))
+		{
+			parent.addClass('playing');
+		}
+
+	}, 500);
+}
+</script>				
 <!-- Facebook Pixel -->
 <script type="text/javascript">
 	adroll_adv_id = "2CFMRAPDIZERNKTA52A6ZI";
@@ -747,49 +971,41 @@ googletag.cmd.push(function() { googletag.display('edm_1D'); });
 	/></noscript>
 <!-- End Facebook Pixel Code -->
 
-<div id="edm_interstitial" style="width: 1px; height: 0px"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('edm_interstitial'); });</script></div>
+<div id="edm_interstitial" style="width: 1px; height: 0px">
+<script>googletag.cmd.push(function() { googletag.display('edm_interstitial'); });</script>
+</div>
+
+
+
+
+<!-- /97868948/EDM_ADN_Adsupply -->
+<div id="div-gpt-ad-1484724402118-0">
 <script>
-	checkCookie();
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1484724402118-0'); });
+</script>
+</div>
 
-	jQuery('#tv-close').click(function(e){
-		e.preventDefault();
-		jQuery(this).parent().hide();
-	})
+<!-- /97868948/EDM_ADN_Interstitial -->
+<div id="div-gpt-ad-1484652403708-2" style="height:1px; width:1px;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1484652403708-2'); });
+</script>
+</div>
 
-	function setCookie(cname, cvalue, exdays) {
-	    var d = new Date();
-	    d.setTime(d.getTime() + (exdays*24*60*60*1000));
-	    var expires = "expires="+d.toUTCString();
-	    document.cookie = cname + "=" + cvalue + "; " + expires;
-	}
+<!-- /97868948/EDM_Sticky_1x1 -->
 
-	function getCookie(cname) {
-	    var name = cname + "=";
-	    var ca = document.cookie.split(';');
-	    for(var i = 0; i < ca.length; i++) {
-	        var c = ca[i];
-	        while (c.charAt(0) == ' ') {
-	            c = c.substring(1);
-	        }
-	        if (c.indexOf(name) == 0) {
-	            return c.substring(name.length, c.length);
-	        }
-	    }
-	    return "";
-	}
-
-	function checkCookie() {
-	    var popup = getCookie("edm-tv-popup");
-	    if (popup != "")
-	    {
-	        
-	    } else
-	    {
-	    	jQuery('#tv-popup').show()
-	        setCookie("edm-tv-popup", 'yes', 365);
-	    }
-	}
-
+<!-- RBP Code -->
+<script>
+	(function () {
+	    var node = document.getElementsByTagName('script')[0],
+		rvbP = document.createElement('script');
+	    window.CMT = { appId: '8494cffb-9aed-4320-a0f0-d4567b6d072f' };
+	    rvbP.defer = true;
+	    rvbP.type = 'text/javascript';
+	    rvbP.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+			'//revboostprocdnadsprod.azureedge.net/scripts/latest/min.js';
+	    node.parentNode.insertBefore(rvbP, node);
+	})();
 </script>
 
 
