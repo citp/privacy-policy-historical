@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uquiz.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419013349id_/http%3A//uquiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uquiz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181737id_/https%3A//uquiz.com/privacy-policy) for the most accurate reproduction.*
 
-# uQuiz.com - Make Quizzes, Send them Viral
+# uQuiz.com - Free Online Quiz Maker for your Website or Blog
 
 ## Collection of Information
 
