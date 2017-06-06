@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxdc.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119062225id_/http%3A//www.fox5dc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxdc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112808id_/http%3A//www.fox5dc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WTTG
 
