@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webclicks.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114192737id_/http%3A//webclicks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webclicks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104331id_/http%3A//webclicks.com/privacy) for the most accurate reproduction.*
 
 # Webclicks - Privacy Policy
 
