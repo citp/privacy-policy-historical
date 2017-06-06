@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120102437id_/http%3A//www.alternativeapparel.com/support/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055751id_/http%3A//www.alternativeapparel.com/support/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alternative Apparel
 
@@ -6,7 +6,7 @@
 
 Alternative collects customer information in an effort to improve our customer's shopping experience and to communicate with our customers about our products, services and promotions.  We collect information such as your name, e-mail and/or postal address, as well as credit card numbers that you provide to us when you place an order.
 
-Alternative may use the personal information collected online to process and fulfill your order.  We also collect e-mail addresses at various locations within the site (including when you place an order) so that we can send you any necessary e-mail messages related to your purchase such as an order confirmation.
+Alternative may use the personal information collected online to process and fulfill your order.  We also collect e-mail addresses at various locations within the site (including when you place an order) so that we can send you any necessary e-mail messages related to your purchase such as an order confirmation and Alternative marketing promotions. You can unsubscribe from these at any time by clicking the unsubscribe link at the bottom of the email.
 
 In addition, we maintain a record of your product interests, purchases and additional information that might enable us to enhance and personalize your shopping experience.  We also monitor site use and traffic patterns to improve our web site design and the products and services we offer.  Alternative recognizes that it must maintain and use customer information responsibly.
 
