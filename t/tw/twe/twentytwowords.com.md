@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twentytwowords.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208182550id_/http%3A//brainjoltmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twentytwowords.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041452id_/http%3A//brainjoltmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Brainjolt
 
@@ -26,7 +26,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ### Third party links
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
 ### California Online Privacy Protection Act Compliance
 
