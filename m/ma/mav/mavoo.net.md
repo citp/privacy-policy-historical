@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mavoo.net privacy policy that was archived on 2016-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160217005408id_/http%3A//mavoo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mavoo.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020425id_/http%3A//mavoo.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,7 +88,7 @@ This Privacy Policy does not create rights enforceable by third parties or requi
 
 Whom can you ask if you have privacy-related questions?
 
-Questions regarding this Privacy Policy should be directed here - [privacy@LinkFeed.net](mailto:privacy@LinkFeed.net)
+Questions regarding this Privacy Policy should be directed here - [privacy@LinkFeed.org](mailto:privacy@LinkFeed.org)
 
 END OF DOCUMENT
 
