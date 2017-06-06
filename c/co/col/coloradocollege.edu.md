@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloradocollege.edu privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117164643id_/https%3A//www.coloradocollege.edu/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradocollege.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213952id_/https%3A//www.coloradocollege.edu/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement • Colorado College
 
