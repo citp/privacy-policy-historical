@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concertvault.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128093556id_/http%3A//www.concertvault.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concertvault.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131129id_/http%3A//www.concertvault.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Wolfgang's Vault Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy is incorporated into and is subject to our Terms of Use. You
 
 #### Information we collect
 
-We collect information (such as your name, email address, phone number and credit card number) that you provide when you register to listen to music on the Concert Vault, place an order at either Wolfgang's Vault or the Concert Vault, save your information with us or participate in a promotion or survey. We also maintain a record of your music preferences, product interests and your purchases from our website.
+We collect information (such as your name, email address, phone number and credit card number) that you provide when you register to listen to music or place an order on Daytrotter, save your information with us or participate in a promotion or survey. We also maintain a record of your music preferences, product interests and your purchases from our website.
 
 We have implemented Google Analytics' Demographics and Interests cookies, which we use to analyze the interests of people who visit Concert Vault. We use this information to make both the types of articles we publish and the types of advertising we serve more relevant to our visitors' interests. You can prevent us from collecting this information through Google Analytics' free opt-out browser add-on.
 
@@ -16,7 +16,7 @@ We have implemented Google Analytics' Demographics and Interests cookies, which 
 
 In the Concert Vault we use your information to support the personalized services the Concert Vault offers - for example, keeping a list of your favorite concerts, and rating individual concerts. We also use your email address to keep you informed of new additions to the Concert Vault.
 
-When you make an online purchase from either the Concert Vault or Wolfgang's Vault, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you via phone, postal mail or email if we have other questions regarding your order. In addition, you will be automatically signed up to receive email updates about our products, services, promotions and additions to our websites.
+When you make an online purchase from either the Concert Vault or Wolfgang's Vault, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you via phone, postal mail or email if we have other questions regarding your order. In addition, you will be automatically signed up to receive email updates about our products, services, promotions and additions to all of our websites, including [Wolfgang's](https://www.wolfgangs.com/), [Concert Vault](http://www.concertvault.com/), [Paste Magazine](https://www.pastemagazine.com/) and [Daytrotter](http://www.daytrotter.com/).
 
 You can be removed from our email list by following the directions on any email that we send to you, or by clicking on the "MY ACCOUNT" link at the top of any page on our website. Please note that it may take up to 72 hours to remove you from our list.
 
