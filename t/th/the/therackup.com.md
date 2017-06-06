@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the therackup.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207223616id_/http%3A//www.therackup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therackup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230211id_/http%3A//www.therackup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | theRACKUP.com
+# Privacy Policy | theRACKUP | www.therackup.com
 
 TheRackUp.com (hereafter, “us,” “we”, “our” or the “Website”), is committed to protecting your privacy. This Website Privacy Policy (“Privacy Policy”) is provided in order to ensure the confidence of users and of visitors to (hereafter, “you” or “your”) this Website (defined below).
 
