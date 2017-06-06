@@ -1,79 +1,74 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203210311id_/http%3A//www.episerver.com/legal-agreements/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607004625id_/http%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Episerver
 
-Episerver AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the website www.Episerver.com. This policy does not apply to other online or offline Episerver AB sites, products or services. By visiting this website, you consent to the principles for collection and usage of information described in this privacy statement.
+Episerver AB, Episerver Inc., and together with its affiliates (“Episerver”) takes your privacy seriously and is committed to protecting your privacy rights. This Episerver Privacy Policy (the "Policy") sets forth the principles that Episerver adheres to with respect to transfers of Personal Data from the European Union to the United States. In order to further its commitment to protect your privacy, Episerver is currently registering for Privacy Shield certification. The terms in this Policy follow Privacy Shield Principles, and the Privacy Shield Principles shall govern in the event of a conflict.  To learn more about the Privacy Shield program, please visit <https://www.privacyshield.gov/>.  Further, upon request, Episerver may enter into a data processing agreement, based upon the EU Model Contract Clauses with customers.
 
-## Handling Personal Information
+### **  
+SCOPE**
 
-### General
+This Policy applies to all Personal Data received by Episerver in the United States from the European Union in any tangible and/or electronic medium.
 
-The Personal Data Act (1998:204 Swedish law) came into force 1 October 1998 and was fully applied 1 October 2001. The act prevents the violation of personal integrity by processing personal data. Your permission is required for us to handle your personal information. Episerver AB, company number 556208-3435, Regeringsgatan 67, 103 86 Stockholm, Sweden is responsible for the information provided to Episerver AB and its subsidiaries.
+### **  
+DEFINITIONS**
 
-### Use of Your Personal Information
+For purposes of this Policy, the following definitions shall apply:
 
-By filling in web forms, providing registration details or, in any other way, providing Episerver AB with personal information, you thereby approve the following conditions for the handling of your personal information. The personal information collected by Episerver AB is used to be able to fulfill our commitment to you as a user of Episerver AB's services, and to be able to maintain our customer registry. The information may also be used for customized information and for marketing purposes. Your personal information may be shared with Episerver AB's partners, in certain cases outside the European Union, so that they will be able to send you information about their products and services. Episerver AB can also distribute or deliver the personal information registry to a third party, if that third party either partly or fully takes over Episerver AB's business activities.
+"Agent" means any third party that uses Personal Data provided by Episerver to perform tasks on behalf of and under the instructions of Episerver.
 
-Episerver AB handles suitable personal information, e.g. name, address, e-mail address, telephone number, to be able to provide any services without specific permission.
+“Department” means the Department of Commerce or its designee.
 
-## Cookies on the web site
+"Episerver" means Episerver, AB., Episerver Inc., and its affiliates, predecessors, successors, subsidiaries, divisions and groups.
 
-A cookie is a small text file that visited websites save on your computer. Cookies are used to provide visitors access to various functions. The information in the cookie can be used to track your internet usage. Under the Electronic Communications Act, all visitors to a website with cookies must have access to information stating that the website contains cookies and the purpose for which cookies are used.
+"Personal Data" means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person and includes any information or set of information that identifies or could be used by or on behalf of Episerver to identify an individual.
 
-### Name of cookies, domains and purposes
+### **PRIVACY PRINCIPLES**
 
-Name | Domain | Purpose  
----|---|---  
-Episerver.CMO.LPO | [www.Episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for [Episerver CMO](https://web.archive.org/partners/add-on-store/Episerver-CMO/)  
-ASP.NET_SessionId | [www.Episerver.com](http://www.episerver.com/) | This session cookie is essential for the website to operate and is set upon your arrival to the site. This cookie is deleted when you close the browser.  
-BIGipServerwww.Episerver.com  
-_HTTP_Pool | [www.Episerver.com](http://www.episerver.com/) | Used for load balancing purposes.  
-.EPiTrace | [www.Episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for Episerver Live Monitor  
-PREF | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
-_utma | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
-_utmb | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
-_utmc | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
-_utmz | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
-_twitter_sess | [www.twitter.com](http://www.twitter.com/) | Share this on Twitter. Third-party cookie used to push links from the site to Twitter.  
-munchkin.marketo.net/munchkin.js | [www.marketo.com](http://www.marketo.com/) | Marketo. Third-party cookie used to collect information about how visitors use the website.  
-  
-### Cookies are used in the following situations on this web site
+**NOTICE AND PURPOSE OF COLLECTION:** Episerver customers determine the types of data they submit to Episerver to process on their behalf in the course of using Episerver services. Episerver has no direct relationship with the individuals whose information it receives from its customers or their business partners.  Episerver does not control such information, does not select or determine the specific types of data that it processes, and does not determine the purpose for which it is processed. 
 
-  * If you choose to show the website in english and then for example choose change to swedish or other language, a cookie will be sent to remember your choice of language. 
-  * If you answer/send in a form, a cookie will be sent to remember that you have sent a form.
-  * The website uses cookies in order to collect information about how the pages are used.
-  * Information about what server your PC is connected to, what type of browser, how often you have been visiting our website, what pages you have visited etc is stored. The information is used for the purpose of analyzing statistics regarding the use of the website.
+In other instances, Episerver may collect Personal Data when performing expert services at its customers’ request,  to provide customer support, in general support of its customer relationships, which may include but are not limited to marketing activities, fulfilling product orders, to improve product offerings, customer surveys, questionnaires, responses to comments, etc., to download software and/or gain access to and/or enable certain products or services, for internal business processes, such as financial processing, responding to informational requests, and to comply with applicable laws.
 
+Episerver also receives human resource-related personal information from its partners and affiliates and may share such information with the same in the ordinary course of business and for general employee administration purposes.
 
+Where Episerver receives Personal Data from its subsidiaries, affiliates or other entities in the European Union, it will use such information in accordance with the privacy notices provided by such entities and the choices made by the individuals to whom such Personal Data relates.
 
-### To avoid cookies at the web site, you can as a visitor
+**ACCESS** : Individuals may access their Personal Data by sending a request to Episerver at the notices address below.  Episerver will provide the choices and means to individuals and may limit the use and disclosure of their Personal Data upon request.
 
-  * Choose not to accept cookies in your browser settings, but then the web site will not be fully functional.
-  * Avoid to answer forms.
-  * End your visit at the website.
+In some cases, Episerver has limited access to data we process on behalf of our customers in connection with our services. Therefore, requests to access, correct, amend, remove and/or limit the use and disclosure of Personal Data that Episerver processes on behalf of its customers should include the name of the Episerver customer who submitted your Personal Data to Episerver. We will forward such requests to the identified customer to respond directly to you and we will provide any necessary assistance in that customer’s response to your request.
 
+**COMPELLED DISCLOSURE** :  Episerver may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
+**DISPUTE RESOLUTION** :  Any questions or concerns regarding the use or disclosure of Personal Data should be directed to the notices address given below. Episerver will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Data in accordance with the principles contained in this Policy. For complaints that cannot be resolved between Episerver and the complainant, Episerver has agreed to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Privacy Shield Principles.   Under certain conditions, as more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, individuals may be able to invoke binding arbitration before the Privacy Shield Panel jointly created by the U.S. Department of Commerce and the European Commission.
 
-## Analytics Tools for the Website
+**CHOICE** : Episerver will offer individuals the opportunity to choose (opt-out) whether their Personal Data is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
 
-### Google Analytics
+For sensitive information (i.e., Personal Data specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual), the commission or alleged commission by the individual of any offense; or any proceedings for any offense committed, or alleged to have been committed, by the individual, the disposal of such proceedings or the sentence of any court in such proceedings. Episerver will obtain affirmative express consent (opt in) from individuals if such information is to be (i) disclosed to a third party or (ii) used for a purpose other than those for which it was originally collected or subsequently authorized by the individuals through the exercise of opt-in choice.  Individuals may withdraw their consent at any time. In addition, Episerver will treat as sensitive any Personal Data received from a third party where the third party identifies and treats it as sensitive. 
 
-On this website the web analytics tool [Google Analytics](http://www.google.com/analytics "Google Analytics") is used to get an overall picture of how visitors use the site.
+**DATA INTEGRITY** : Episerver will take reasonable steps to ensure that Personal Data is relevant to its intended use, accurate, complete, and current. Episerver will not process Personal Data in a way that is incompatible with the purposes for which it has been collected or subsequently authorized by the individual and will take reasonable steps to ensure that Personal Data is reliable for its intended use, accurate, complete, and current for so long as Episerver holds such information.  Episerver will only hold such information for so long as it serves the purpose as described herein. 
 
-Google Analytics uses cookies to collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits. The purpose is to help us improve the usability of the website. The information generated through your website usage is redirected to and stored by Google Inc. IP addresses are stored, but cannot be distinguished individually.
+**TRANSFERS TO AGENTS:** If Episerver transfers data to a third party agent, Episerver will: (i) transfer such data only for limited and specified purposes; (ii) ascertain that the agent is obligated to provide at least the same level of privacy protection as is required by the Principles; (iii) take reasonable and appropriate steps to ensure that the agent effectively processes the Personal Data transferred in a manner consistent with Episerver’s obligations under the Principles; (iv) require the agent to notify Episerver if it makes a determination that it can no longer meet its obligation to provide the same level of protection as is required by the Principles; (v) upon notice, including under (iv), take reasonable and appropriate steps to stop and remediate unauthorized processing; and (vi) provide a summary or a representative copy of the relevant privacy provisions of its contract with that agent to the Department upon request.  Episerver will facilitate the exercise of data subject rights under (GDPR) Articles 15 to 22. In the cases referred to in Article 11(2), the controller shall not refuse to act on the request of the data subject for exercising his or her rights under Articles 15 to 22, unless the controller demonstrates that it is not in a position to identify the data subject.
 
-Google can transfer the collected information to a third party if it is required by law or in case a third party processes the information on Google’s account. Google cannot link IP addresses with other data held by Google.
+**SECURITY** : Episerver will take all reasonable and appropriate organizational and technical measures to protect Personal Data from loss, misuse, unauthorized and unlawful access, disclosure, alteration and destruction, taking into due account the risks involved in the processing and the nature of the Personal Data.
 
-### Episerver CMO
+**ENFORCEMENT AND COMPLIANCE** : Episerver will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that Episerver determines is in violation of this policy will be subject to disciplinary action up to and including termination of employment.  Upon its certification, Episerver will respond promptly to inquiries and requests by the Department for information relating to the Privacy Shield and/or to complaints regarding compliance with the Principles referred by EU Member State authorities through the Department.  Episerver is subject to the investigatory and enforcement powers of the Federal Trade Commission with respect to its compliance with the EU-U.S. Privacy Shield Framework. If Episerver becomes subject to an FTC or court order based on non-compliance, Episerver will make public any relevant Privacy Shield-related sections of any compliance or assessment report submitted to the FTC, to the extent consistent with confidentiality requirements.  Episerver may be required to disclose Personal Data in response to a lawful request by public authorities, including to meet national security or law enforcement requests.
 
-To be able to optimize the content of the website we are using [Episerver CMO](https://web.archive.org/partners/add-on-store/Episerver-CMO/) for campaign handling and optimization. Episerver CMO collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits.
+**ONWARD TRANSFER LIABILITY:**   If a third-party processes Personal Data on behalf of Episerver in a manner inconsistent with the Privacy Shield Principles, Episerver could be liable unless Episerver can prove that it is not responsible for the event giving rise to any damage.
 
-## Changes to this Privacy Statement
+**CONTACT INFORMATION**
 
-We may occasionally update this privacy statement. When we do, we will also update the updated date at the bottom of the page. You will be informed of any important changes either via a message in a prominent place on the website's home page, or via notification sent directly to you. Please review the privacy statement at regular intervals to keep up-to-date with information on how we protect the personal information we collect. Your continued use of this service means that you accept the privacy statement and any updates.
+Questions or comments regarding this Policy should be submitted to Episerver by mail.
 
-## Contact Information
+[legal@episerver.com](mailto:legal@episerver.com)
 
-If you require further information about Episerver AB's privacy statement, contact our Personal Data Act via e-mail: [info@Episerver.com](mailto:info@Episerver.com)
+or write to –
 
-_Updated:  _
+Episerver Inc.  
+c/o Legal Department  
+542 Amherst Ave  
+Nashua, NH 03063
+
+**CHANGES TO THIS PRIVACY POLICY**
+
+This Policy may be amended from time to time, consistent with the requirements of the Principles. Appropriate public notice will be given concerning such amendments.
+
+**EFFECTIVE DATE:  January 20, 2017**
