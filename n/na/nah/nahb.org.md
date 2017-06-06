@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126155750id_/https%3A//www.nahb.org/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112356id_/http%3A//www.nahb.org/en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -16,7 +16,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, tho
 
 We collect aggregate information on what pages our visitors access or visit. We also collect information volunteered by visitors, such as information provided in registration of services, member login, online surveys, job service postings, etc. Information we collect may be used to notify visitors about updates to our Web site and may be used by NAHB to contact visitors for marketing purposes. However, NAHB does not sell to or trade e-mail lists with third parties.
 
-Users who provide their e-mail address will receive Nation's Building News Online, the official electronic newspaper of NAHB.  This electronic newsletter has an [opt out](http://www.magnetmail.net/actions/nahb_subscription_manage.cfm?user_id=nbnonline) feature if you would like to unsubscribe at any time.
+Users who provide their e-mail address will receive Monday Morning Briefing, the official electronic newspaper of NAHB. 
 
 ### Other Web Sites and Links
 
