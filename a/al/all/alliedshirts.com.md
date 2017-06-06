@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alliedshirts.com privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303224816id_/http%3A//www.alliedshirts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedshirts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124046id_/http%3A//www.alliedshirts.com/privacy-policy) for the most accurate reproduction.*
 
-# Allied Shirts
+# Custom T-Shirts - Allied Shirts Privacy Policy
 
 **Effective Date: October 8, 2012**
 
@@ -28,9 +28,7 @@ Allied Shirts will disclose your personal information, without notice, only if r
 
 **Use of Cookies**
 
-The Allied Shirts web site may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie
-
-to you.
+The Allied Shirts web site may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you register with the Allied Shirts site or services, a cookie helps Allied Shirts to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Allied Shirts web site, the information you previously provided can be retrieved, so you can easily use the Allied Shirts features that you customized.
 
