@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonmarche.co.uk privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222104727id_/http%3A//www.bonmarche.co.uk/privacy-and-cookies/privacy-and-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonmarche.co.uk privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607012443id_/http%3A//www.bonmarche.co.uk/privacy-and-cookies/privacy-and-cookies.html) for the most accurate reproduction.*
 
 # Privacy & Cookies | Bonmarché
 
