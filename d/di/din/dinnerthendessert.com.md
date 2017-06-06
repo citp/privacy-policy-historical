@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinnerthendessert.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129104042id_/http%3A//dinnerthendessert.com/privacy-and-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinnerthendessert.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094143id_/http%3A//dinnerthendessert.com/privacy-and-copyright) for the most accurate reproduction.*
 
 # Privacy and Copyright - Dinner, then Dessert
 
@@ -46,7 +46,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Advertising**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, including [Gourmet Ads](http://www.gourmetads.com/) and [Sovrn](http://www.sovrn.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data.  The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Dinner, then Dessert disclaims all liability in connection therewith.
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, including [AdThrive](http://www.adthrive.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data.  The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Dinner, then Dessert disclaims all liability in connection therewith.
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
@@ -71,7 +71,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 —–
 
-This privacy policy is subject to change without notice and was last updated on January 15, 2016. If you have any questions feel free to email me at contact@dinnerthendessert.com.
+This privacy policy is subject to change without notice and was last updated on June 2, 2017. If you have any questions feel free to email me at contact@dinnerthendessert.com.
 
 * * *
 
@@ -94,3 +94,11 @@ Dinner, then Dessert does not allow for its original recipes and pictures to be
 If you have an interest in posting one of my photos, text from my post or my recipes on another site, you must first contact me for and obtain permission.
 
 If my recipe inspired you to make your own version, please reference my recipe and provide a link to it in your post. I would love for you to share if one of my recipes has inspired you, but if you do that I expect proper credit be sent back to me.  Some of my favorite recipes are inspired by other blogs, but I am always thorough in referencing them to show my love. Thanks for doing the same 🙂
+
+If you need to reach me feel free to reach me for business purposes please use the following contact information:
+
+Dinner, then Dessert Inc.  
+2351 Sunset Blvd.  
+Suite 170-950  
+Rocklin, CA 95765  
+(916) 625-6965
