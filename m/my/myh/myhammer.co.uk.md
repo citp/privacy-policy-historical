@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120130842id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075436id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Find a Tradesman or Handyman For Any Job - For Free!
 
@@ -194,6 +194,6 @@ Top of Page
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number and VAT Number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us at [privacy@myhammer.co.uk](mailto:privacy@myhammer.co.uk) or mail us at: [MY-HAMMER Aktiengesellschaft, Mauerstraße 79, 10117 Berlin, Germany](https://web.archive.org/showPage.php?id=impressum).
+If you have any questions about security on our Web site, you can email us at [privacy@myhammer.co.uk](mailto:privacy@myhammer.co.uk) or mail us at: [MY-HAMMER Aktiengesellschaft, Franklinstraße 28/29, 10587 Berlin, Germany](https://web.archive.org/showPage.php?id=impressum).
 
 Top of Page
