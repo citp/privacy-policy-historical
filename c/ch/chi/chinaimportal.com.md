@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaimportal.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023094128id_/http%3A//www.chinaimportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaimportal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131450id_/http%3A//www.chinaimportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chinaimportal.com
 
@@ -151,11 +151,19 @@ We use analytics and customization cookies to gather information on how the webs
 
 These cookies allow visitors like you to share our pages and content through third-party social networking websites.
 
-Notice that we don’t use **advertising cookies**. Advertising cookies are used to ensure that websites only show you selected advertises (according to your browsing habits and past purchases). 
+#### Remarketing Cookies
+
+We use remarketing cookies from Google Adwords and Facebook. Remarketing cookies allow us to show our advertisements on Google and Facebook networks to people that visit our Website.
+
+Google may show our ads either on websites that you visit (and that joined Google Adsense program), or on websites owned by Google such as Google.com, Youtube.com, and others. 
+
+Facebook may show our ads either on Facebook.com or on websites owned by Facebook, such as Instagram and others. 
 
 #### How can you manage or disable cookies?
 
 You can set or amend your web browser controls to accept or refuse cookies whenever you like, but please remember if you do choose to reject cookies, your access to some of the functionality and areas of our Website may be restricted.
+
+Specifically, you can opt out from Google remarketing cookies [here](http://www.google.com/settings/ads), and from Facebook remarketing cookies [here](https://www.facebook.com/ads/preferences/edit/).
 
 ### Third party links
 
@@ -194,4 +202,4 @@ If we decide to change our Privacy Policy, we will post the changes on this page
 
 If there are any questions regarding this privacy policy you may contact us [through our contact form](http://www.chinaimportal.com/contact-us/ "Contact Us") or by sending an email to info@chinaimportal.com.
 
-**Last Modification: 10 October 2016**
+**Last Modification: 28 February 2017**
