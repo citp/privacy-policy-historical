@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaosgroup.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109194838id_/https%3A//www.chaosgroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaosgroup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170426id_/https%3A//www.chaosgroup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chaos Group
 
@@ -10,8 +10,9 @@ By submitting your personal data to us, you give your permission for its process
 ### In what connection is your personal data collected with?  
  
 
-Your personal data may be collected in relation to the access and use of our website, the licenses acquisition by you for the use of our products, and in relation to the provision of services to you.  
- 
+Your personal data may be collected in relation to the access and use of our website, the licenses acquisition by you for the use of our products, and in relation to the provision of services to you.
+
+Aiming to protect your consumer rights from harmful misinterpretation of your messages exchanged via our communication systems tools, and/or improper performance of your order(s), we set our systems to receive and retain copy of any communication you might have with third parties while using our website and our communication system tools. We will handle any information collected thereby, with the due care and according to our obligations of a personal data controller.
 
 ### Special Notice - if you are under 14 years old  
  
@@ -65,7 +66,7 @@ Except as set out in this privacy policy, we will not disclose any personally id
 ### Collection of non-personal information  
  
 
-We may automatically collect non-personal information about you such as the type of internet browsers you use or the website from which you linked to our website. You cannot be identified from this information and it is only used to assist us in providing an effective service on this website.  
+We may automatically collect non-personal information about you such as your country, OS, screen resolution, type of internet browser you are using and their versions, or the website from which you landed on our website and your interactions with the website such as clicks, scroll, etc. You cannot be identified from this information and it is only used to assist us in providing an effective service on this website.  
  
 
 ### Keeping our records accurate  
@@ -114,4 +115,4 @@ From time to time we may make changes to this privacy policy. If we make any sub
 If you would like to know more about our privacy policy please contact us using the following email: [contacts@chaosgroup.com](mailto:contacts@chaosgroup.com)  
  
 
-_Last updated on 19.08.2016_
+_Last updated on March 2, 2017_
