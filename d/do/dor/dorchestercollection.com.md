@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dorchestercollection.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015151735id_/https%3A//www.dorchestercollection.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorchestercollection.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121325id_/https%3A//www.dorchestercollection.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dorchester Collection
 
