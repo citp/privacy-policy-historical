@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyboykisses.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021173205id_/https%3A//www.ladyboykisses.com/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyboykisses.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145819id_/https%3A//www.ladyboykisses.com/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # LadyboyKisses
 
