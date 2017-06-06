@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hotlegsandfeet.com privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907151621id_/http%3A//hotlegsandfeet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotlegsandfeet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041459id_/http%3A//hotlegsandfeet.com/legal/privacy) for the most accurate reproduction.*
 
-# Hot Legs And Feet - Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 **Agreement**
 
