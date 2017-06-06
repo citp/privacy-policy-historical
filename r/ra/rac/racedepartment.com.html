@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the racedepartment.com privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118231104id_/http%3A//www.racedepartment.com/forum/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the racedepartment.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606091707id_/http%3A//www.racedepartment.com/forum/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs XenBase LoggedOut Sidebar LeftSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs XenBase LoggedOut Sidebar   LeftSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
@@ -18,14 +18,15 @@
 
 	<title>Privacy Policy | RaceDepartment</title>
 	
+	
 	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
-	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=18&amp;dir=LTR&amp;d=1479372895">
-	<link rel="stylesheet" href="css.php?css=facebook,google,login_bar,nat_public_css,pagenode,sonnb_xengallery_icons,sonnb_xengallery_widget,sonnb_xengallery_widget_video,twitter,xb,xb_footer_layouts,xb_quicksearch_nav,xb_scroll_buttons,xb_social_links&amp;style=18&amp;dir=LTR&amp;d=1479372895">
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=36&amp;dir=LTR&amp;d=1496776800">
+	<link rel="stylesheet" href="css.php?css=facebook,google,login_bar,nat_public_css,notices,pagenode,panel_scroller,rd_featured_widget,sonnb_xengallery_navbar_template,twitter,xb,xb_footer_layouts,xb_quicksearch_nav,xb_scroll_buttons,xb_social_links,xb_top_bar&amp;style=36&amp;dir=LTR&amp;d=1496776800">
 
 
 	
 	
-		<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">
+		<link href="//fonts.googleapis.com/css?family=Oswald|Open+Sans:400,700" rel="stylesheet" type="text/css">
 	
 	
 	
@@ -33,61 +34,60 @@
 	
 	
 	
-
 	
-<!-- Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	<script>
 
-ga('create', 'UA-4830345-3', 'www.racedepartment.com');
-ga('send', 'pageview');
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-4830345-3', 'auto');
+	ga('send', 'pageview');
 
 </script>
-<!-- End Google Analytics -->
-
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>	
 	
 		<script>if (!window.jQuery) { document.write('<scr'+'ipt type="text/javascript" src="http://js.racedepartment.com/jquery/jquery-1.11.0.min.js"><\/scr'+'ipt>'); }</script><script type="text/javascript" src="http://js.racedepartment.com/jquery/jquery-1.11.0.min.js"></script>
 		
-	<script src="http://js.racedepartment.com/xenforo/xenforo.js?_v=48a7a79c"></script>
+	<script src="http://js.racedepartment.com/xenforo/xenforo.js?_v=11230cb2"></script>
 
 
 
 <script type="text/javascript">
-//<![CDATA[
-jQuery(document).ready(function($){
+jQuery(document).ready(function ($){
 
-var aboveHeight = $('#logoBlock').outerHeight() + 0;
+var xbFloatHeight = $('.navFloatwrapper').outerHeight();
+var xbHeaderHeight = $('#header').outerHeight();
 
+if ($('#moderatorBar').length) {
+	var xbModeratorHeight = $('#moderatorBar').outerHeight();
+} else {
+	var xbModeratorHeight = 0;
+}
 
+var xbFloatAdjustments = xbFloatHeight - parseInt('40px', 10) ;
+var xbStartFloat = $('.navFloatwrapper').offset().top;
 
-var navwrapper = $('.navFloatwrapper').outerHeight();
-$(window).scroll(function(){
-    if ($(window).scrollTop() > aboveHeight){
-    $('.navFloatwrapper').addClass('fixed');
-    
-    
-    $('.tabLinks').addClass('displaynone');
-    
-    } else {
-    $('.navFloatwrapper').removeClass('fixed');
-    
-    
-    $('.tabLinks').removeClass('displaynone');
-    
-    }
+$(window).load(function () {
+	xbSartFloat();
 });
-
-
-
-
+		
+$(window).scroll(function (event) {
+       xbSartFloat();
+});
+		
+function xbSartFloat() {
+	if (($(window).scrollTop()) > xbStartFloat) {
+		$(".navFloatHelper").css('min-height', xbFloatHeight);
+		$('#header').addClass('fixed');
+	} else {
+		$(".navFloatHelper").css('min-height', '0');
+		$('#header').removeClass('fixed');
+	}
+}	
 
 });
-
-//]]>
 
 </script>
 
@@ -97,10 +97,112 @@ $(window).scroll(function(){
 
 
 
+<script type="text/javascript">
+$(function() {
+    $('.xbOffCanvasToggle').on('click', function() {
+        $('.xbOffCanvasContainer').toggleClass("marginLeft");
+    });
+    
+    $('.xbOffCanvasSidebarToggle').on('click', function() {
+        $('.xbOffCanvasContainer').toggleClass("marginRight");
+    });
+    
+    $('.xbOffCanvasMask').on('click', function() {
+        $('.xbOffCanvasContainer').removeClass("marginLeft marginRight");
+    });
+
+    $('.publicTabs li').has('.xbOffCanvasSubMenu').prepend('<span class="xbOffCanvasArrow"><i class="xbOffCanvasExpand fa fa-chevron-down"></i></span>');
+
+    $('.xbOffCanvasArrow').click(function() {
+        $(this).siblings('.xbOffCanvasSubMenu, .secondaryContent.blockLinksList').slideToggle('fast');
+        $(this).children('.xbOffCanvasExpand').toggleClass('fa-flip-vertical ');
+    });
+
+});
+</script>
+
+<!-- Start GPT Async Tag -->
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var gptadslots = [];
+  var googletag = googletag || {cmd:[]};
+</script>
+<script>
+  googletag.cmd.push(function() {
+
+var mapping = googletag.sizeMapping().
+// a viewport size, while the second is a list of allowed ad sizes.
+addSize([320, 400], [320, 50]).
+// Smaller tablet
+addSize([550, 200], []).
+// Landscape tablet
+addSize([750, 200], [728, 90]).
+// Desktop
+addSize([1050, 200], [728, 90]).
+build();
+
+var mapping1 = googletag.sizeMapping().
+// a viewport size, while the second is a list of allowed ad sizes.
+addSize([320, 400], [300, 250]).
+// Smaller tablet
+addSize([550, 200], [300, 250]).
+// Landscape tablet
+addSize([750, 200], [300, 250]).
+// Desktop
+addSize([1050, 200], [[300, 250]]).
+build();
 
 
+var mapping2 = googletag.sizeMapping().
+// a viewport size, while the second is a list of allowed ad sizes.
+addSize([320, 400], []).
+// Smaller tablet
+addSize([550, 200], []).
+// Landscape tablet
+addSize([750, 200], [300, 250]).
+// Desktop
+addSize([1050, 200], [[300, 250]]).
+build();
 
-	
+var mapping4 = googletag.sizeMapping().
+// a viewport size, while the second is a list of allowed ad sizes.
+addSize([320, 400], [[300, 250],[320, 50]]).
+// Smaller tablet
+addSize([550, 200], []).
+// Landscape tablet
+addSize([750, 200], []).
+// Desktop
+addSize([1050, 200], []).
+build();
+
+
+    //Adslot 1 declaration
+    gptadslots.push(googletag.defineSlot('/31834495/RaceDepartment_Homepage_Top_LB', [[728,90]], 'div-gpt-ad-5892995-1').defineSizeMapping(mapping)
+                             .addService(googletag.pubads()));
+    //Adslot 2 declaration
+    gptadslots.push(googletag.defineSlot('/31834495/RaceDepartment_Homepage_Left_MPU1', [[300,250]], 'div-gpt-ad-5892995-2')
+                             .addService(googletag.pubads()));
+    //Adslot 3 declaration
+    gptadslots.push(googletag.defineSlot('/31834495/RaceDepartment_Homepage_Left_MPU2', [[300,250]], 'div-gpt-ad-5892995-3').defineSizeMapping(mapping2)
+                             .addService(googletag.pubads()));
+    //Adslot 4 declaration
+    gptadslots.push(googletag.defineSlot('/31834495/RaceDepartment_Homepage_Right_MPU1', [[300,250]], 'div-gpt-ad-5892995-4').defineSizeMapping(mapping1)
+                             .addService(googletag.pubads()));
+    //Adslot 5 declaration
+    gptadslots.push(googletag.defineSlot('/31834495/RaceDepartment_Homepage_Right_MPU2', [[300,250]], 'div-gpt-ad-5892995-5').defineSizeMapping(mapping2)
+                             .addService(googletag.pubads()));
+    //Adslot 6 declaration
+    gptadslots.push(googletag.defineSlot('/31834495/RaceDepartment_Homepage_Left_MPU3', [[300,250]], 'div-gpt-ad-5892995-6').defineSizeMapping(mapping2)
+                             .addService(googletag.pubads()));
+    //Adslot 7 declaration
+    gptadslots.push(googletag.defineSlot('/31834495/RaceDepartment_Homepage_Bottom_LB', [[728,90]], 'div-gpt-ad-5892995-7').defineSizeMapping(mapping4)
+                             .addService(googletag.pubads()));
+    
+    googletag.pubads().setCentering(true);
+    googletag.enableServices();
+  });
+</script>
+<!-- End GPT Async Tag -->
 	
 	
 	<link rel="apple-touch-icon" href="http://www.racedepartment.com/styles/xenbase/xenforo/logo.og.png">
@@ -127,21 +229,22 @@ $(window).scroll(function(){
 
 
 
+<div class="xbOffCanvasContainer">
+
+
 
 	
 		
 
-
-	<script>
-	XenForo.LoginBar = function(a){};
-	</script>
 
 
 <div id="loginBar">
 	<div class="pageWidth">
 		<div class="pageContent">	
 			<h3 id="loginBarHandle">
-				<label for="LoginControl"><a href="login/" class="OverlayTrigger concealed noOutline">Log in or Sign up</a></label>
+				
+				<label for="LoginControl"><a href="login/" class="concealed noOutline">Log in</a></label>  / <a href="register/">Register</a>
+				
 			</h3>
 			
 			<span class="helper"></span>
@@ -155,458 +258,63 @@ $(window).scroll(function(){
 
 
 
+<div class="xbTopBar">
+	<div class="pageWidth">
+		
+		
+			<ul class="xbLeftside">
+				<li>"At least all four wheels are pointing more or less in the same direction at the moment." - Martin Brundle</li>
+			</ul>
+		
+		
+		
+		<ul class="xbRightside">
+			<li class="mainTopLink xbNewPostLink"><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+			
+			
+				
+					<li class="mainTopLink xbContactUs"><a href="misc/contact" class="OverlayTrigger" data-overlayoptions="{&quot;fixed&quot;:false}">Contact Us</a></li>
+				
+			
+						
+			
+			
+			
+			
+			
+			<li class="mainTopLink">
+
+
+<ul class="xbSocialLinks">
+	
+	<li class="xbslTwitter"><a href="https://twitter.com/racedepartment" target="_blank" title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></li>
+	<li class="xbslFacebook"><a href="https://www.facebook.com/racedepartment" target="_blank" title="Facebook"><i class="fa fa-facebook fa-fw"></i></a></li>
+	<li class="xbslYoutube"><a href="http://www.youtube.com/subscription_center?add_user=racedepartment" target="_blank" title="Youtube"><i class="fa fa-youtube-play fa-fw"></i></a></li>
+	
+	
+	
+	<li class="xbslSteam"><a href="http://steamcommunity.com/groups/racedepartment" target="_blank" title="Steam"><i class="fa fa-steam fa-fw"></i></a></li>
+	
+	
+	
+	
+	<li class="xbslInstagram"><a href="https://www.instagram.com/racedepartment/" target="_blank" title="Instagram"><i class="fa fa-instagram fa-fw"></i></a></li>
+	
+	
+	
+	
+	
+	
+	
+	
+</ul>
+</li>
+		</ul>		
+	</div>
+</div>
+
 
 <div id="headerMover">
-<div class="xbBodyhelper"></div>
-	<div id="headerProxy"></div>
-
-<div id="content" class="pagenode_container">
-	<div class="pageWidth">
-		<div class="pageContent">
-			
-			<!-- main content area -->
-
-			
-			
-				
-			<div class="breadBoxTop ">
-			
-			
-
-<nav>
-	
-
-	<fieldset class="breadcrumb">
-		<a href="misc/quick-navigation-menu?selected=node-353" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><!--Jump to...--></a> 
-			
-		<div class="boardTitle"><strong>RaceDepartment</strong></div>
-		
-		<span class="crumbs">
-			
-				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-					<a href="http://www.racedepartment.com/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Home</span></a>
-					<span class="arrow"><span></span></span>
-				</span>
-			
-			
-			
-				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-					<a href="http://www.racedepartment.com/forums/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Forums</span></a>
-					<span class="arrow"><span>&gt;</span></span>
-				</span>
-			
-			
-			
-				
-					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-						<a href="http://www.racedepartment.com/categories/general-forums.3/" class="crumb" rel="up" itemprop="url"><span itemprop="title">General Forums</span></a>
-						<span class="arrow"><span>&gt;</span></span>
-					</span>
-				
-			
-		</span>
-	</fieldset>
-</nav>
-			</div>
-			
-
-			
-				<div class="mainContainer">
-					<div class="mainContent">
-					
-						<div class="extraSidebarParent">
-						<div class="extraSidebarHelper">
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-					
-						<!--[if lt IE 8]>
-							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
-						<![endif]-->
-
-						
-						
-
-						
-						
-						
-						
-						
-												
-							<!-- h1 title, description -->
-							<div class="titleBar">
-								
-								<h1>Privacy Policy
-									
-									</h1>
-								
-								
-							</div>
-						
-						
-						
-						
-						
-						
-						<!-- main template -->
-						
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="pageNodeContent">
-
-	
-
-	
-	<article><div class="messageText ugc baseHtml">
-<p><strong>What information do we collect?</strong><br>
-We collect information from you when you register on our site.</p>
-
-<p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.</p>
-
-<p><strong>What do we use your information for?</strong><br>
-Any of the information we collect from you may be used in one of the following ways:<br>
-</p><ul><li>To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.<br>
-</li><li>To administer a contest, promotion, survey or other site feature<br>
-</li><li>To send periodic emails<br>
-</li><li>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</li></ul>
-<strong>Do we use cookies?</strong><br>
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.<p></p>
-
-<p>Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..</p>
-
-<p>If you do not wish us to collect any information via cookies we advise you to not browse or log in to our website(s) and forum(s).</p>
-
-<p><strong>Do we disclose any information to outside parties?</strong><br>
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
-
-<p><strong>Third party links</strong><br>
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
-
-<p>We use third-party advertising companies (i.e. Google Adsense and Skimlinks) to serve ads or affiliate links when you visit our web site as a guest (or in some occassions as a registered member). These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
-
-<p><strong>California Online Privacy Protection Act Compliance</strong><br>
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
-
-<p>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.</p>
-
-<p><strong>Childrens Online Privacy Protection Act Compliance</strong><br>
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
-
-<p><strong>Online Privacy Policy Only</strong><br>
-This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
-
-<p><strong>Terms of Service</strong><br>
-Please also visit our <a href="pages/terms-of-service/">Terms of Service</a> section establishing the use, disclaimers, and limitations of liability governing the use of our website at</p>
-
-<p><strong>Your Consent</strong><br>
-By using our site, you consent to our <a href="pages/privacy-policy/">websites privacy policy</a>.</p>
-
-<p><strong>Changes to our Privacy Policy</strong><br>
-If we decide to change our privacy policy, we will post those changes on this page.</p>
-
-<p>This policy was last modified on September 14 2013</p>
-
-<p><strong>Contacting Us</strong><br>
-If there are any questions regarding this privacy policy you may contact us using the information below.</p>
-
-<p>The Netherlands</p>
-
-<p><a href="http://www.racedepartment.com/">www.racedepartment.com</a></p>
-
-<p>Contact us for questions: info[at]racedepartment.com</p>
-</div></article>
-	
-	
-	<div class="bottomContent">
-
-		
-			<div class="pageCounter">
-				<dl class="pairsInline pageStats">
-					<dt>Published:</dt> <dd>May 29, 2014</dd>
-					<dt>Page Views:</dt> <dd>34,362</dd>
-				</dl>
-			</div>
-		
-	
-		
-	
-	</div>
-	
-</div>
-						
-						
-						
-						
-							<!-- login form, to be moved to the upper drop-down -->
-							
-
-
-
-
-
-
-
-<form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
-
-	
-		<ul id="eAuthUnit">
-			
-				
-				
-					
-					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Log in with Facebook</span></a></li>
-				
-				
-				
-					
-					<li><a href="register/twitter?reg=1" class="twitterLogin" tabindex="110"><span>Log in with Twitter</span></a></li>
-				
-				
-				
-					
-					<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="959053346676-gah98dlvk1k7c6j3j3l2j1f6lsflvpn1.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=khlw5H5tHHQjj3m-"><span>Log in with Google</span></span></li>
-				
-				
-			
-		</ul>
-	
-
-	<div class="ctrlWrapper">
-		<dl class="ctrlUnit">
-			<dt><label for="LoginControl">Your name or email address:</label></dt>
-			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101"></dd>
-		</dl>
-	
-	
-		<dl class="ctrlUnit">
-			<dt>
-				<label for="ctrl_password">Do you already have an account?</label>
-			</dt>
-			<dd>
-				<ul>
-					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105">
-						No, create an account now.</label></li>
-					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler">
-						Yes, my password is:</label></li>
-					<li id="ctrl_registered_Disabler">
-						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102">
-						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Forgot your password?</a></div>
-					</li>
-				</ul>
-			</dd>
-		</dl>
-	
-		
-		<dl class="ctrlUnit submitUnit">
-			<dt></dt>
-			<dd>
-				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginphrase="Log in" data-signupphrase="Sign up">
-				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103"> Stay logged in</label>
-			</dd>
-		</dl>
-	</div>
-
-	<input type="hidden" name="cookie_check" value="1">
-	<input type="hidden" name="redirect" value="/pages/privacy-policy/">
-	<input type="hidden" name="_xfToken" value="">
-
-</form>
-						
-							
-						</div>
-						</div>
-						<div class="extraSidebar">
-	<div class="section" align="center">
-<div align="center" style="max-height: 250px;">
-<script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=272033&amp;u=racedepartment&amp;width=300&amp;height=250"></script>
-</div>
-	</div>
-	<div class="section" align="center">
-<div align="center" style="max-height: 250px;">
-<script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=308193&amp;u=racedepartment&amp;width=300&amp;height=250"></script>
-</div>
-	</div>
-	<div class="section" align="center">
-<div class="xengallerySidebar" style="display: inline-block;">
-		<div class="videosSidebar   " id="scrollable_widget_497" style="">
-			<ul>
-				
-					
-					
-						
-							<li style="max-width: 100%;width: 300px; height: 169px;">
-	<a class="thumbnail " href="media/videos/formula-3-at-johannesburg.21491/?_source=widget&amp;widget_id=497" title="Formula 3 at Johannesburg" style="max-width: 100%;width: 300px; height: 169px;">
-		<img title="Formula 3 at Johannesburg" alt="Formula 3 at Johannesburg" src="data/videos/l/23/23286-1479391346-c1d12de20210d8c1b35c367536e1c255.jpg" style="left: -0.2222222222222px; width: 300.44444444444px; height: 169px;">
-		<span class="icon video">&nbsp;</span>
-	</a>
-	
-	
-</li>
-						
-					
-					
-				
-			</ul>
-		</div>
-	</div>
-	</div>
-	<div class="section" align="center">
-<div class="xengallerySidebar" style="display: inline-block;">
-		<div class="videosSidebar   " id="scrollable_widget_494" style="">
-			<ul>
-				
-					
-					
-						
-							<li style="max-width: 100%;width: 300px; height: 169px;">
-	<a class="thumbnail " href="media/videos/assetto-corsa-1-9-ferrari-643-1991-1-9-3.21518/?_source=widget&amp;widget_id=494" title="Assetto Corsa 1.9 (Ferrari 643 - 1991-1.9.3)" style="max-width: 100%;width: 300px; height: 169px;">
-		<img title="Assetto Corsa 1.9 (Ferrari 643 - 1991-1.9.3)" alt="Assetto Corsa 1.9 (Ferrari 643 - 1991-1.9.3)" src="data/videos/l/23/23313-1479508257-c1d12de20210d8c1b35c367536e1c255.jpg" style="left: -0.2222222222222px; width: 300.44444444444px; height: 169px;">
-		<span class="icon video">&nbsp;</span>
-	</a>
-	
-	
-</li>
-						
-					
-						
-							<li style="max-width: 100%;width: 300px; height: 169px;">
-	<a class="thumbnail " href="media/videos/rfactor-2-macau-grand-prix-gt4.21517/?_source=widget&amp;widget_id=494" title="rFactor 2 -  Macau Grand Prix - GT4 -" style="max-width: 100%;width: 300px; height: 169px;">
-		<img title="rFactor 2 -  Macau Grand Prix - GT4 -" alt="rFactor 2 -  Macau Grand Prix - GT4 -" src="data/videos/l/23/23312-1479503869-c1d12de20210d8c1b35c367536e1c255.jpg" style="left: -0.2222222222222px; width: 300.44444444444px; height: 169px;">
-		<span class="icon video">&nbsp;</span>
-	</a>
-	
-	
-</li>
-						
-					
-						
-							<li style="max-width: 100%;width: 300px; height: 169px;">
-	<a class="thumbnail " href="media/videos/dirt-rally-rfpe-project-0-4-ford-rs200-on-snow.21516/?_source=widget&amp;widget_id=494" title="Dirt Rally - RFPE Project 0.4 - Ford RS200 - ON SNOW" style="max-width: 100%;width: 300px; height: 169px;">
-		<img title="Dirt Rally - RFPE Project 0.4 - Ford RS200 - ON SNOW" alt="Dirt Rally - RFPE Project 0.4 - Ford RS200 - ON SNOW" src="data/videos/l/23/23311-1479501068-c1d12de20210d8c1b35c367536e1c255.jpg" style="left: -0.2222222222222px; width: 300.44444444444px; height: 169px;">
-		<span class="icon video">&nbsp;</span>
-	</a>
-	
-	
-</li>
-						
-					
-						
-							<li style="max-width: 100%;width: 300px; height: 169px;">
-	<a class="thumbnail " href="media/videos/dirt-rally-finland-kakaristo-volskwagen-polo-rally-6-56-350.21515/?_source=widget&amp;widget_id=494" title="Dirt Rally Finland Kakaristo Volskwagen Polo Rally 6:56:350" style="max-width: 100%;width: 300px; height: 169px;">
-		<img title="Dirt Rally Finland Kakaristo Volskwagen Polo Rally 6:56:350" alt="Dirt Rally Finland Kakaristo Volskwagen Polo Rally 6:56:350" src="data/videos/l/23/23310-1479500671-c1d12de20210d8c1b35c367536e1c255.jpg" style="left: -0.2222222222222px; width: 300.44444444444px; height: 169px;">
-		<span class="icon video">&nbsp;</span>
-	</a>
-	
-	
-</li>
-						
-					
-					
-				
-			</ul>
-		</div>
-	</div>
-	</div>
-</div>
-						
-					</div>
-					
-				</div>
-				
-				<!-- sidebar -->
-				<aside>
-					<div class="sidebar">
-						
-						
-						
-
-
-						<div align="center" style="margin: 10px 0; max-height: 250px;">
-<script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=272034&amp;u=racedepartment&amp;width=300&amp;height=250"></script>
-</div><div align="center" style="margin: 10px 0; max-height: 250px;">
-<script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=305371&amp;u=racedepartment&amp;width=300&amp;height=250"></script>
-</div>
-						
-						
-					</div>
-				</aside>
-			
-			
-			
-						
-			<div class="breadBoxBottom">
-
-<nav>
-	
-
-	<fieldset class="breadcrumb">
-		<a href="misc/quick-navigation-menu?selected=node-353" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><!--Jump to...--></a> 
-			
-		<div class="boardTitle"><strong>RaceDepartment</strong></div>
-		
-		<span class="crumbs">
-			
-				<span class="crust homeCrumb">
-					<a href="http://www.racedepartment.com/" class="crumb"><span>Home</span></a>
-					<span class="arrow"><span></span></span>
-				</span>
-			
-			
-			
-				<span class="crust selectedTabCrumb">
-					<a href="http://www.racedepartment.com/forums/" class="crumb"><span>Forums</span></a>
-					<span class="arrow"><span>&gt;</span></span>
-				</span>
-			
-			
-			
-				
-					<span class="crust">
-						<a href="http://www.racedepartment.com/categories/general-forums.3/" class="crumb"><span>General Forums</span></a>
-						<span class="arrow"><span>&gt;</span></span>
-					</span>
-				
-			
-		</span>
-	</fieldset>
-</nav></div><div id="waindigoCopyrightNotice" class="footerLegal" style="clear:both"><div class="pageContent"><span class="muted">Certain <a href="http://www.waindigo.com/" class="concealed">XenForo add-ons by Waindigo</a>™ ©2011-2014 <a href="http://waindigo.com" class="concealed">Waindigo Enterprises Ltd</a>.</span></div></div>
-			
-			
-			
-			
-				
-<div class="xbScrollButtons" style="display:none;">
-	<div class="xbScrollUpButton" id="xb_ScrollUp"><i class="fa fa-chevron-up"></i></div>
-	<div class="xbScrollDownButton" id="xb_ScrollDown"><i class="fa fa-chevron-down"></i></div>
-</div>
-			
-			
-			
-		</div>
-	</div>
-	
-</div>
-
 <header>
 	
 
@@ -614,39 +322,21 @@ If there are any questions regarding this privacy policy you may contact us usin
 <div id="header">
 	
 		<div id="logoBlock">
-	<div class="pageWidth">
-		<div class="pageContent">
+		<div class="pageWidth">
+			<div class="pageContent">
 			
-
-
-
-<ul class="xbSocialLinks">
-	
-	<li class="xbslTwitter"><a href="https://twitter.com/racedepartment" target="_blank" title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></li>
-	<li class="xbslFacebook"><a href="https://www.facebook.com/racedepartment" target="_blank" title="Facebook"><i class="fa fa-facebook-square fa-fw"></i></a></li>
-	<li class="xbslYoutube"><a href="http://www.youtube.com/subscription_center?add_user=racedepartment" target="_blank" title="Youtube"><i class="fa fa-youtube fa-fw"></i></a></li>
-	
-	
-	
-	
-	<li class="xbslTwitch"><a href="http://www.twitch.tv/racedepartment" target="_blank" title="Twitch"><i class="fa fa-twitch fa-fw"></i></a></li>
-	
-	
-	
-	<li class="xbslInstagram"><a href="https://www.instagram.com/racedepartment/" target="_blank" title="Instagram"><i class="fa fa-instagram fa-fw"></i></a></li>
-	
-	
-</ul>
 
 			
 			<div id="logo">
 				<a href="http://www.racedepartment.com/">
 					<span></span>
 					
-					<img src="styles/xenbase/xenforo/rdlogo2.png" alt="RaceDepartment">
+					<img src="styles/xenbase/xenforo/rdlogo2.png" class="desktopLogo" alt="RaceDepartment">
+					
 					
 				</a>
 			</div>
+			
 			
 			<span class="helper"></span>
 		</div>
@@ -655,17 +345,31 @@ If there are any questions regarding this privacy policy you may contact us usin
 		<div class="navigationWrapper">
 
 
+<div class="navFloatHelper"></div>
 <div class="navFloatwrapper">
 
 
-<div id="navigation" class="withSearch">
+<div id="navigation" class="">
 	<div class="pageContent">
 		<nav>
 
 <div class="navTabs">
-<div class="xbMaxwidth">
+<div class="navTabsInner">
+<div class="xbMaxwidth">	
 	
+	<div class="xbOffCanvasControls">
+		<a onclick="return false;" class="slideLeft xbOffCanvasToggle" href="#"><i class="fa fa-bars fa-fw"></i> <span class="menuText">Menu</span></a>
+		<a href="find-new/posts" rel="nofollow" class="xbOffCanvasNew Tooltip" title="Recent Posts"> <i class="fa fa-commenting fa-fw"></i><span>Recent Posts</span></a>
+	</div>
+		
+				
 	<ul class="publicTabs">
+	
+	
+
+	
+
+		
 	
 		<!-- home -->
 		
@@ -737,6 +441,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 					</div>
 					<ul class="secondaryContent blockLinksList">
 					
+
+
 						
 						<li><a href="search/?type=post">Search Forums</a></li>
 						
@@ -817,6 +523,16 @@ If there are any questions regarding this privacy policy you may contact us usin
 			</li>
 			
 		
+			
+				<li class="navTab pember PopupClosed">
+					<a href="http://www.racedepartment.com/pember/membership-new" class="navLink">Premium</a>
+					<div class="xbTabPopupArrow">
+						<span class="arrow"><span></span></span>
+					</div>
+					
+				</li>
+			
+		
 		
 		
 		
@@ -858,13 +574,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 		
 		
 			
-				<li class="navTab nodetab342 PopupClosed">
-					<a href="http://www.racedepartment.com/link-forums/premium.342/" class="navLink">Premium</a>
-					
-				</li>
-			
-		
-			
 			
 			<li class="navTab rdCalExtTab  Popup PopupControl PopupClosed">
 			
@@ -904,7 +613,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 			
 		<li class="navTab searchMini Popup PopupControl PopupClosed">		
 			<a href="search/" rel="Menu" class="navLink NoPopupGadget"><i class="fa fa-search"></i> Search</a>
-					<div class="Menu">
+					<div class="Menu xbSearchPopup">
 						
 <div id="searchBar" class="pageWidth">
 	
@@ -912,15 +621,11 @@ If there are any questions regarding this privacy policy you may contact us usin
 		<form action="search/search" method="post" class="formPopup">
 			
 			<div class="primaryControls">
-				<!-- block: primaryControls -->
-				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Search..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery">				
-				<!-- end block: primaryControls -->
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Search..." title="Enter your search and hit enter" id="QuickSearchQuery">	
+							
 			</div>
 			
-			<div class="secondaryControls">
-				<div class="controlsWrapper">
-				
-					<!-- block: secondaryControls -->
+			<div class="secondaryContent secondaryControls">				
 					<dl class="ctrlUnit">
 						<dt></dt>
 						<dd><ul>
@@ -943,15 +648,24 @@ If there are any questions regarding this privacy policy you may contact us usin
 					
 					
 				</div>
-				<!-- end block: secondaryControls -->
-				<div class="ctrlUnit submitUnit">
+				<div class="ctrlUnit sectionFooter submitUnit">
 
 						<input type="submit" value="Search" class="button primary Tooltip" title="Find Now">
 						<a href="search/" class="button moreOptions Tooltip" title="Advanced Search">More...</a>
-				</div>
+				
 
+				<div id="commonSearches"><span class="button"><i class="fa fa-caret-down" aria-hidden="true"></i></span>
+				<ul class="primaryContent blockLinksList">
+									
+				<!-- block: useful_searches -->
+				<li><a href="find-new/posts?recent=1" rel="nofollow">Recent Posts</a></li>
+				
+				<!-- end block: useful_searches -->
+				</ul>
+				</div>
 				
 				</div>
+				
 			
 			<input type="hidden" name="_xfToken" value="">
 		</form>		
@@ -962,6 +676,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 		</li>
 			
 		
+		
+		
 
 		<!-- responsive popup -->
 		<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">	
@@ -970,40 +686,56 @@ If there are any questions regarding this privacy policy you may contact us usin
 			
 			<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
 		</li>
+		
+		
 			
 		<!-- no selection -->
 		
 		
 	</ul>
 	
-		
-		
-		
-		
-		
+
 	
 		
+				
+		
+		
+	<ul class="visitorTabs">
+		
+			
+			
+						
+			<li class="navTab PopupClosed xbGuestLogin">
+					<label for="LoginControl"><a href="login/" class=" navLink"><i class="fa fa-sign-in fa-fw"></i> <span class="xbVisitorText">Log in</span></a></label>
+			</li>
+			
+			<li class="navTab PopupClosed xbGuestRegister">
+					<a href="register/" class="navLink"><i class="fa fa-user-plus fa-fw"></i> <span class="xbVisitorText">Register</span></a>
+			</li>
+			
+			
+			
+			
+			
+			
+		
+		
+	</ul>
+			
+				
+</div>
+</div>
 
-		
-		
-		<ul class="visitorTabs">
-	<li class="navTab PopupClosed">
-		<h3 id="loginBarHandle">
-			<label for="LoginControl"><a href="login/" class="OverlayTrigger navLink">Log in or Sign up</a></label>
-		</h3>
-	</li>
-</ul>
-		
 </div>
-</div>
+
+
+
 <span class="helper"></span>
 			
 		</nav>	
 	</div>
 </div>
 
-	
-		
 	
 
 
@@ -1019,6 +751,581 @@ If there are any questions regarding this privacy policy you may contact us usin
 	
 </header>
 
+
+
+<div id="content" class="pagenode_container">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+			
+			
+			<!-- main content area -->
+			
+			
+
+			
+			
+			
+				<div class="mainContainer">
+					<div class="mainContent">
+					
+						<div class="extraSidebarParent">
+						<div class="extraSidebarHelper">
+							
+						<div style="margin-top: 10px;">
+<!-- Async AdSlot 1 for Ad unit 'RaceDepartment_Homepage_Top_LB' ### Size: [[728,90]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[0]]) -->
+<div id="div-gpt-ad-5892995-1">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-5892995-1'); });
+  </script>
+</div>
+<!-- End AdSlot 1 -->
+</div>
+						
+						
+						
+							
+						<div class="breadBoxTop ">
+							
+							
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		
+		<a href="misc/quick-navigation-menu?selected=node-353" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><!--Jump to...--></a> 
+			
+		<div class="boardTitle"><strong>RaceDepartment</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://www.racedepartment.com/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Home</span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+			
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://www.racedepartment.com/forums/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="http://www.racedepartment.com/categories/general-forums.3/" class="crumb" rel="up" itemprop="url"><span itemprop="title">General Forums</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav>
+						</div>
+						
+						
+						
+						
+						
+					
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+
+
+
+
+
+<div class="PanelScroller Notices" data-vertical="0" data-speed="400" data-interval="4000">
+	<div class="scrollContainer">
+		<div class="PanelContainer">
+			<ol class="Panels">
+				
+					<li class="panel Notice DismissParent notice_notice_cookies " data-notice="notice_cookies">
+	
+	<div class="baseHtml noticeContent">This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies. <a href="help/cookies"><b>Learn More</b>.</a></div>
+	
+	
+</li>
+				
+					<li class="panel Notice DismissParent notice_175 " data-notice="175">
+	
+	<div class="baseHtml noticeContent">If you have any questions, please don't hesitate to ask. There's no such thing as a stupid question.</div>
+	
+	
+		<a href="account/dismiss-notice?notice_id=175" title="Dismiss Notice" class="DismissCtrl Tooltip" data-offsetx="7" data-tipclass="flipped"><i class="fa fa-times" aria-hidden="true"></i></a>
+</li>
+				
+			</ol>
+		</div>
+	</div>
+	
+	<div class="navContainer">
+		<span class="navControls Nav JsOnly">
+			
+				<a id="nnotice_cookies" href="/pages/privacy-policy/#nnotice_cookies" class="current">
+					<span class="arrow"><span></span></span>
+					<!--1 -->Cookies</a>
+			
+				<a id="n175" href="/pages/privacy-policy/#n175">
+					<span class="arrow"><span></span></span>
+					<!--2 -->Got a question?</a>
+			
+		</span>
+	</div>
+</div>
+
+
+
+						
+						
+						
+						
+						
+												
+							<!-- h1 title, description -->
+							<div class="titleBar">
+								
+								<h1>Privacy Policy
+									
+									</h1>
+								
+								
+							</div>
+						
+						
+						
+						
+						
+						
+						<!-- main template -->
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="pageNodeContent">
+
+	
+
+	
+	<article><div class="messageText ugc baseHtml">
+<p><strong>What information do we collect?</strong><br>
+We collect information from you when you register on our site.</p>
+
+<p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.</p>
+
+<p><strong>What do we use your information for?</strong><br>
+Any of the information we collect from you may be used in one of the following ways:<br>
+</p><ul><li>To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.<br>
+</li><li>To administer a contest, promotion, survey or other site feature<br>
+</li><li>To send periodic emails<br>
+</li><li>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</li></ul>
+<strong>Do we use cookies?</strong><br>
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.<p></p>
+
+<p>Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..</p>
+
+<p>If you do not wish us to collect any information via cookies we advise you to not browse or log in to our website(s) and forum(s).</p>
+
+<p><strong>Do we disclose any information to outside parties?</strong><br>
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+
+<p><strong>Third party links</strong><br>
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+
+<p>We use third-party advertising companies (i.e. Google Adsense, Amazon, Sovrn) to serve ads or affiliate links when you visit our web site as a guest (or in some occasions as a registered member). These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>. <br>
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+
+</p><p><strong>California Online Privacy Protection Act Compliance</strong><br>
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+
+<p>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.</p>
+
+<p><strong>Childrens Online Privacy Protection Act Compliance</strong><br>
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+
+<p><strong>Online Privacy Policy Only</strong><br>
+This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+
+<p><strong>Terms of Service</strong><br>
+Please also visit our <a href="pages/terms-of-service/">Terms of Service</a> section establishing the use, disclaimers, and limitations of liability governing the use of our website at</p>
+
+<p><strong>Your Consent</strong><br>
+By using our site, you consent to our <a href="pages/privacy-policy/">websites privacy policy</a>.</p>
+
+<p><strong>Changes to our Privacy Policy</strong><br>
+If we decide to change our privacy policy, we will post those changes on this page.</p>
+
+<p>This policy was last modified on September 14 2013</p>
+
+<p><strong>Contacting Us</strong><br>
+If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+
+<p>The Netherlands</p>
+
+<p><a href="http://www.racedepartment.com/">www.racedepartment.com</a></p>
+
+<p>Contact us for questions: info[at]racedepartment.com</p>
+</div></article>
+	
+	
+	<div class="bottomContent">
+
+		
+			<div class="pageCounter">
+				<dl class="pairsInline pageStats">
+					<dt>Published:</dt> <dd>May 29, 2014</dd>
+					<dt>Page Views:</dt> <dd>46,847</dd>
+				</dl>
+			</div>
+		
+	
+		
+	
+	</div>
+	
+</div>
+						
+						<!-- Async AdSlot 7 for Ad unit 'RaceDepartment_Homepage_Bottom_LB' ### Size: [[728,90]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[6]]) -->
+<div id="div-gpt-ad-5892995-7">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-5892995-7'); });
+  </script>
+</div>
+<!-- End AdSlot 7 -->
+						
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
+
+	
+		<ul id="eAuthUnit">
+			
+				
+				
+					
+					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Log in with Facebook</span></a></li>
+				
+				
+				
+					
+					<li><a href="register/twitter?reg=1" class="twitterLogin" tabindex="110"><span>Log in with Twitter</span></a></li>
+				
+				
+				
+					
+					<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="959053346676-gah98dlvk1k7c6j3j3l2j1f6lsflvpn1.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=-MchKIE4inlFdx-f"><span>Log in with Google</span></span></li>
+				
+				
+			
+		</ul>
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Your name or email address:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101"></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Do you already have an account?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105">
+						No, create an account now.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler">
+						Yes, my password is:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102">
+						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Forgot your password?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginphrase="Log in" data-signupphrase="Sign up">
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103"> Stay logged in</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1">
+	<input type="hidden" name="redirect" value="/pages/privacy-policy/">
+	<input type="hidden" name="_xfToken" value="">
+
+</form>
+						
+							
+						
+						
+									
+						<div class="breadBoxBottom">
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		
+		<a href="misc/quick-navigation-menu?selected=node-353" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><!--Jump to...--></a> 
+			
+		<div class="boardTitle"><strong>RaceDepartment</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="http://www.racedepartment.com/" class="crumb"><span>Home</span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+			
+			
+				<span class="crust selectedTabCrumb">
+					<a href="http://www.racedepartment.com/forums/" class="crumb"><span>Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust">
+						<a href="http://www.racedepartment.com/categories/general-forums.3/" class="crumb"><span>General Forums</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav></div><div id="waindigoCopyrightNotice" class="footerLegal" style="clear:both"><div class="pageContent"><span class="muted">Certain <a href="http://www.waindigo.com/" class="concealed">XenForo add-ons by Waindigo</a>™ ©2011-2014 <a href="http://waindigo.com" class="concealed">Waindigo Enterprises Ltd</a>.</span></div></div>
+						
+						
+						
+							
+						</div>
+						</div>
+						<div class="extraSidebar" align="center" style="text-align: left;">
+	<div class="section">
+<div align="center" style="margin-bottom: 15px; background: rgb(254, 254, 254); box-shadow: 0 1px 2px rgba(0,0,0,.1);">
+<!-- Async AdSlot 4 for Ad unit 'RaceDepartment_Homepage_Right_MPU1' ### Size: [[300,250]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[3]]) -->
+<div id="div-gpt-ad-5892995-4">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-5892995-4'); });
+  </script>
+</div>
+<!-- End AdSlot 4 -->
+</div>
+	</div>
+	<div class="section">
+<div align="center" style="margin-bottom: 15px; background: rgb(254, 254, 254); box-shadow: 0 1px 2px rgba(0,0,0,.1);">
+<!-- Async AdSlot 5 for Ad unit 'RaceDepartment_Homepage_Right_MPU2' ### Size: [[300,250]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[4]]) -->
+<div id="div-gpt-ad-5892995-5">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-5892995-5'); });
+  </script>
+</div>
+<!-- End AdSlot 5 -->
+</div>
+	</div>
+
+	<div class="section">
+
+	</div>
+
+	<div class="section">
+
+	</div>
+	<div class="section">
+
+<div class="featuredWidget">
+	<ul>
+		
+			<li style="height:200px;">
+				<a class="thumbnail" title="DiRT 4 Launch Trailer Revealed Ahead of Release 9th June" href="threads/dirt-4-launch-trailer-revealed-ahead-of-release-9th-june.136720/">
+					<img style="height:169px; top: -0px; width: 100%;" title="DiRT 4 Launch Trailer Revealed Ahead of Release 9th June" src="data/featured_threads/icons/136/136720.jpg?1496786912">
+				</a>
+				<div class="title">
+					<a href="threads/dirt-4-launch-trailer-revealed-ahead-of-release-9th-june.136720/">
+						DiRT 4 Launch Trailer Revealed Ahead of Release 9th June
+						<div style="float: right;">
+						<span class="fa fa-comment-o"></span> 23
+						</div>
+					</a>
+				</div>
+			</li>
+		
+			<li style="height:200px;">
+				<a class="thumbnail" title="Le Mans Week Coming to the AC Racing Club 10th - 17th June" href="threads/le-mans-week-coming-to-the-ac-racing-club-10th-17th-june.136616/">
+					<img style="height:169px; top: -0px; width: 100%;" title="Le Mans Week Coming to the AC Racing Club 10th - 17th June" src="data/featured_threads/icons/136/136616.jpg?1496785097">
+				</a>
+				<div class="title">
+					<a href="threads/le-mans-week-coming-to-the-ac-racing-club-10th-17th-june.136616/">
+						Le Mans Week Coming to the AC Racing Club 10th - 17th June
+						<div style="float: right;">
+						<span class="fa fa-comment-o"></span> 8
+						</div>
+					</a>
+				</div>
+			</li>
+		
+			<li style="height:200px;">
+				<a class="thumbnail" title="IndyCar at Indianapolis Sunday 11th June in rFactor 2" href="threads/indycar-at-indianapolis-sunday-11th-june-in-rfactor-2.136667/">
+					<img style="height:169px; top: -0px; width: 100%;" title="IndyCar at Indianapolis Sunday 11th June in rFactor 2" src="data/featured_threads/icons/136/136667.jpg?1496781852">
+				</a>
+				<div class="title">
+					<a href="threads/indycar-at-indianapolis-sunday-11th-june-in-rfactor-2.136667/">
+						IndyCar at Indianapolis Sunday 11th June in rFactor 2
+						<div style="float: right;">
+						<span class="fa fa-comment-o"></span> 24
+						</div>
+					</a>
+				</div>
+			</li>
+		
+			<li style="height:200px;">
+				<a class="thumbnail" title="Assetto Corsa Xbox One Update to Launch by &quot;End of Next Week&quot;" href="threads/assetto-corsa-xbox-one-update-to-launch-by-end-of-next-week.136715/">
+					<img style="height:169px; top: -0px; width: 100%;" title="Assetto Corsa Xbox One Update to Launch by &quot;End of Next Week&quot;" src="data/featured_threads/icons/136/136715.jpg?1496781014">
+				</a>
+				<div class="title">
+					<a href="threads/assetto-corsa-xbox-one-update-to-launch-by-end-of-next-week.136715/">
+						Assetto Corsa Xbox One Update to Launch by "End of Next Week"
+						<div style="float: right;">
+						<span class="fa fa-comment-o"></span> 1
+						</div>
+					</a>
+				</div>
+			</li>
+		
+			<li style="height:200px;">
+				<a class="thumbnail" title="Forza Horizon 3 Mountain Dew Car Pack Released" href="threads/forza-horizon-3-mountain-dew-car-pack-released.136713/">
+					<img style="height:169px; top: -0px; width: 100%;" title="Forza Horizon 3 Mountain Dew Car Pack Released" src="data/featured_threads/icons/136/136713.jpg?1496780949">
+				</a>
+				<div class="title">
+					<a href="threads/forza-horizon-3-mountain-dew-car-pack-released.136713/">
+						Forza Horizon 3 Mountain Dew Car Pack Released
+						<div style="float: right;">
+						<span class="fa fa-comment-o"></span> 1
+						</div>
+					</a>
+				</div>
+			</li>
+		
+			<li style="height:200px;">
+				<a class="thumbnail" title="iRacing Updated, Ford GT and Ferrari 488 and Myrtle Beach Released" href="threads/iracing-updated-ford-gt-and-ferrari-488-and-myrtle-beach-released.136714/">
+					<img style="height:169px; top: -0px; width: 100%;" title="iRacing Updated, Ford GT and Ferrari 488 and Myrtle Beach Released" src="data/featured_threads/icons/136/136714.jpg?1496780873">
+				</a>
+				<div class="title">
+					<a href="threads/iracing-updated-ford-gt-and-ferrari-488-and-myrtle-beach-released.136714/">
+						iRacing Updated, Ford GT and Ferrari 488 and Myrtle Beach Released
+						<div style="float: right;">
+						<span class="fa fa-comment-o"></span> 3
+						</div>
+					</a>
+				</div>
+			</li>
+		
+	</ul>	
+</div>
+		
+		</div>
+	<div class="section">
+
+		</div>
+</div>
+						
+					</div>
+										
+				</div>
+				
+				<!-- sidebar -->
+				<aside>
+					<div class="sidebar">
+						
+						
+
+
+						
+						<div align="center" style="margin: 10px 0 15px 0; background: rgb(254, 254, 254); box-shadow: 0 1px 2px rgba(0,0,0,.1);">
+<!-- Async AdSlot 2 for Ad unit 'RaceDepartment_Homepage_Left_MPU1' ### Size: [[300,250]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+<div id="div-gpt-ad-5892995-2">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-5892995-2'); });
+  </script>
+</div>
+<!-- End AdSlot 2 -->
+</div><div align="center" style="margin-bottom: 15px; background: rgb(254, 254, 254); box-shadow: 0 1px 2px rgba(0,0,0,.1);">
+<!-- Async AdSlot 3 for Ad unit 'RaceDepartment_Homepage_Left_MPU2' ### Size: [[300,250]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
+<div id="div-gpt-ad-5892995-3">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-5892995-3'); });
+  </script>
+</div>
+<!-- End AdSlot 3 -->
+</div>
+						
+						
+					</div>
+				</aside>
+				
+			
+				
+			
+						
+			
+			
+			
+				
+<div class="xbScrollButtons" style="display:none;">
+	<div class="xbScrollUpButton" id="xb_ScrollUp"><i class="fa fa-chevron-up"></i></div>
+	
+</div>
+			
+			
+			
+		</div>
+	</div>
+	
+</div>
+
 </div>
 
 <footer>
@@ -1029,8 +1336,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 	<div class="pageContent">
 		<div class="pageWidth">
 			<dl class="choosers">
-			
-				
+							
 			</dl>
 			
 			
@@ -1039,10 +1345,13 @@ If there are any questions regarding this privacy policy you may contact us usin
 				
 					<li><a href="misc/contact" class="OverlayTrigger" data-overlayoptions="{&quot;fixed&quot;:false}"><i class="fa fa-envelope-o fa-fw"></i> <span>Contact Us</span></a></li>
 				
-				<li><a href="pages/jobs/"><i class="fa fa-life-ring fa-fw"></i> <span>Jobs</span></a></li>
 				<li><a href="help/"><i class="fa fa-life-ring fa-fw"></i> <span>Help</span></a></li>
 				<li><a href="http://www.racedepartment.com/" class="homeLink"><i class="fa fa-home fa-fw"></i> <span>Home</span></a></li>
 				
+			
+				<li><a href="http://www.racedepartment.com/pages/terms-of-service/"><i class="fa fa-gavel fa-fw"></i> <span>Terms of Service</span></a></li>
+				<li><a href="http://www.racedepartment.com/forum/pages/privacy-policy/"><i class="fa fa-user-secret fa-fw"></i> <span>Privacy Policy</span></a></li>
+			
 				<li><a href="forums/-/index.rss" rel="alternate" class="globalFeed" target="_blank" title="RSS feed for RaceDepartment"><i class="fa fa-rss fa-fw"></i></a></li>
 			
 			</ul>
@@ -1061,27 +1370,34 @@ If there are any questions regarding this privacy policy you may contact us usin
 		
 			<li class="footerBlock footerBlockOne">
 				
-				<div align="center">
+				<div class="footerBlock footerList">
+<ul>
+<li><a href="https://www.fasttracksims.com/" target="_blank"><img src="/styles/xenbase/images/footerfasttracksims.jpg" target="_blank"></a></li>
+
+	<li>
 <a href="http://www.ricmotech.com/SearchResults.asp?Cat=1845&amp;Click=5757" target="_blank">
 <img src="/styles/xenbase/images/footerricmotech.jpg" target="_blank">
 </a>
-
+	</li>
+	<li>
 <a href="http://www.rseat.net" target="_blank">
 <img src="/styles/xenbase/images/footerrseat.jpg" target="_blank">
 </a>
-	
+	</li>
+	<li>
 <a href="http://www.prosimu-shop.com/en/simulator-t1000/53-t1000.html" target="_blank">
 <img src="/styles/xenbase/images/footerprosimu.png" target="_blank">
 </a>
+	</li>
 	
-<a href="http://www.derekspearedesigns.com/" target="_blank">
-<img src="/styles/xenbase/images/footerderekspeare.png">
-</a>
-	
-<a href="http://www.vesaro.com/" target="_blank">
-<img src="/styles/xenbase/images/footervesaro.png" target="_blank">
-</a>
-</div>
+	<li>
+<a href="http://www.racedepartment.com/misc/contact" target="_blank">
+<img src="/styles/xenbase/images/footerrd.jpg" target="_blank">
+</a>	
+	</li>
+
+	</ul>
+	</div>
 
 
 			</li>
@@ -1097,19 +1413,13 @@ If there are any questions regarding this privacy policy you may contact us usin
 </div>
 
 
+
+
 <div class="footerLegal">
 	<div class="pageWidth">
-		<div class="pageContent">
-			<ul id="legal">
-			
-				<li><a href="http://www.racedepartment.com/pages/terms-of-service/">Terms of Service</a></li>
-				<li><a href="http://www.racedepartment.com/forum/pages/privacy-policy/">Privacy Policy</a></li>
-			
-			</ul>
-			
+		<div class="pageContent">		
 			<div id="copyright"><a href="https://xenforo.com" class="concealed">Forum software by XenForo™ <span>©2010-2016 XenForo Ltd.</span></a>   </div>
 			
-		
 			
 			
 			<span class="helper"></span>
@@ -1121,6 +1431,152 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 
 
+
+
+
+<div class="xbOffCanvasContent xbOffCanvasMask"></div>
+<div class="xbOffCanvas slideLeft publicTabs">
+	<ul class="xbOffCanvasList">
+		
+		
+		<!-- home -->
+		
+		
+		<!-- extra tabs: home -->
+		
+		
+			
+			<li class="navTab ctaFt ">
+				<a href="http://www.racedepartment.com/" class="navLink">Home</a>
+
+				<div class="xbOffCanvasSubMenu">
+					<ul class="secondaryContent blockLinksList">
+	
+	<li><a href="search/?type=post">Search Forums</a></li>
+	
+	
+	
+		<li><a href="recent-activity/">Recent Activity</a></li>
+	
+	
+	<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+</ul>
+				</div>
+			</li>
+			
+		
+		
+		
+		
+		<!-- forums -->
+		
+			<li class="navTab forums selected">
+				<a href="http://www.racedepartment.com/forums/" class="navLink">Forums</a>
+					<div class="xbOffCanvasSubMenu">
+					<ul>
+					
+						
+						<li><a href="search/?type=post">Search Forums</a></li>
+						
+						<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+					
+					</ul>
+					</div>
+			</li>
+		
+		
+		
+		<!-- extra tabs: middle -->
+		
+		
+			
+			<li class="navTab sonnb_xengallery ">
+				<a href="http://www.racedepartment.com/media/" class="navLink">RaceTube</a>
+					<div class="xbOffCanvasSubMenu">
+						
+					</div>
+			</li>
+			
+		
+			
+			<li class="navTab resources ">
+				<a href="http://www.racedepartment.com/downloads/" class="navLink">Downloads</a>
+					<div class="xbOffCanvasSubMenu">
+						<ul class="secondaryContent blockLinksList">
+	<li><a href="search/?type=resource_update">Search Resources</a></li>
+	<li><a href="downloads/authors">Most Active Authors</a></li>
+	<li><a href="downloads/reviews">Latest Reviews</a></li>
+	
+	
+	
+</ul>
+					</div>
+			</li>
+			
+		
+			
+				<li class="navTab pember ">
+					<a href="http://www.racedepartment.com/pember/membership-new" class="navLink">Premium</a>
+				</li>
+			
+		
+		
+		
+		
+		<!-- members -->
+		
+			<li class="navTab members ">
+				<a href="http://www.racedepartment.com/members/" class="navLink">Members</a>
+					<div class="xbOffCanvasSubMenu">
+					<ul>
+					
+						<li><a href="members/">Notable Members</a></li>
+						
+						<li><a href="online/">Current Visitors</a></li>
+						<li><a href="recent-activity/">Recent Activity</a></li>
+						
+					
+					</ul>
+					</div>
+			</li>
+						
+
+		<!-- extra tabs: end -->
+		
+		
+			
+			<li class="navTab rdCalExtTab ">			
+				<a href="/calendar/upcoming-races" class="navLink">Calendar</a>
+					<div class="xbOffCanvasSubMenu">
+						<ul class="secondaryContent blockLinksList">
+	<li>
+		<a href="/calendar/upcoming-races">Upcoming Races</a>
+	</li>
+	<li>
+		<a href="/calendar">Full Calendar</a>
+	</li>
+</ul>
+					</div>			
+			</li>
+			
+		
+		
+
+		
+
+		<li class="navTab xbOffCanvasExtraLink">		
+	<a href="search/" rel="Menu" class="navLink NoPopupGadget"><i class="fa fa-search"></i> Search</a>
+</li>
+
+
+	</ul>
+</div>
+
+
+
+</div>
+
+
 <script>
 
 
@@ -1129,9 +1585,9 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1479510450,
-		today: 1479427200,
-		todayDow: 5
+		now: 1496840024,
+		today: 1496790000,
+		todayDow: 3
 	},
 	_lightBoxUniversal: "0",
 	_enableOverlays: "1",
@@ -1143,18 +1599,20 @@ jQuery.extend(true, XenForo,
 		closeSpeed: 100,
 		mask:
 		{
-			color: "rgb(40, 40, 40)",
+			color: "rgb(45, 45, 45)",
 			opacity: "0.6",
 			loadSpeed: 200,
 			closeSpeed: 100
 		}
 	},
 	_ignoredUsers: [],
-	_loadedScripts: {"nat_public_css":true,"pagenode":true,"xb":true,"login_bar":true,"facebook":true,"twitter":true,"google":true,"sonnb_xengallery_widget_video":true,"sonnb_xengallery_icons":true,"sonnb_xengallery_widget":true,"xb_scroll_buttons":true,"xb_social_links":true,"xb_quicksearch_nav":true,"xb_footer_layouts":true},
+	_loadedScripts: {"nat_public_css":true,"pagenode":true,"xb":true,"login_bar":true,"xb_top_bar":true,"xb_social_links":true,"sonnb_xengallery_navbar_template":true,"xb_quicksearch_nav":true,"notices":true,"panel_scroller":true,"facebook":true,"twitter":true,"google":true,"rd_featured_widget":true,"xb_scroll_buttons":true,"xb_footer_layouts":true},
 	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
 	_csrfToken: "",
 	_csrfRefreshUrl: "login/csrf-token-refresh",
-	_jsVersion: "48a7a79c"
+	_jsVersion: "11230cb2",
+	_noRtnProtect: false,
+	_noSocialLogin: false
 });
 jQuery.extend(XenForo.phrases,
 {
@@ -1214,13 +1672,13 @@ $(function() {
         // clicking the "down" button will make the page scroll to the $elem's height
     $('#xb_ScrollDown').click(
         function (e) {
-            $('html, body').animate({scrollTop: $elem.height()}, 800);
+            $('html, body').animate({scrollTop: $elem.height()}, 700);
         }
     );
         // clicking the "up" button will make the page scroll to the top of the page
     $('#xb_ScrollUp').click(
         function (e) {
-            $('html, body').animate({scrollTop: '0px'}, 800);
+            $('html, body').animate({scrollTop: '0px'}, 700);
         }
     );
  });
@@ -1304,7 +1762,7 @@ $(function() {
 
 
 
-<!--XenBase Current Version : 1.4.5 -->
+<!--XenBase Current Version : 1.5.11 -->
 <!--Style Version :  -->
 
 
