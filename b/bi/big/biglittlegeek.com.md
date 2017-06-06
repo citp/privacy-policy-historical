@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biglittlegeek.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120221306id_/http%3A//www.biglittlegeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biglittlegeek.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053400id_/http%3A//www.biglittlegeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BigLittleGeek
 
