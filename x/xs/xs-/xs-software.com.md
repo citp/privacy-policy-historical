@@ -1,13 +1,18 @@
-> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125215109id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131619id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XS Software | Welcome
 
 Partnership
 
-What we do
+Our products
 
-    Development, publishing, and distribution of browser based online games
-    Operate in 80+ countries
+    Massive multiplayer games united in a single portal
+    Original game play and fascinating design
+    Different genres for every type of player
+    40+ languages
+    25 million registered players
+    2,000,000 active players
+    Easy localizable games. Code/Design/Text completely separate
 
 Featured game
 
