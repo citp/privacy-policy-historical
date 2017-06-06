@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeko.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122160204id_/http%3A//www.eyeko.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeko.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084631id_/http%3A//www.eyeko.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,7 +72,7 @@ Answers to common questions are on the right, if your question is not answered p
 
 3.5 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party's direct marketing.
 
-3.6 All our website financial transactions are handled through our payment services provider, Sagepay. You can review the provider's privacy policy at https://www.sagepay.co.uk/policies/privacy-policy. We will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
+3.6 All our website financial transactions are handled through our payment services provider, Braintree (Part of the Paypal Group). You can review the provider's privacy policy at https://www.paypal.com/uk/webapps/mpp/ua/privacy-full. We will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
 
 **4.Disclosing personal information**
 
@@ -214,6 +214,6 @@ Answers to common questions are on the right, if your question is not answered p
 
 14.1 This website is owned and operated by M Beauty.
 
-14.3 Our principal place of business is at M Beauty Ltd, 77 Beak Street, London W1F 9DB.
+14.3 Our principal place of business is at M Beauty Ltd, 16 Lonsdale Road, London NW6 6RD.
 
 14.4 You can contact us by writing to the business address given above, by using our website contact form or by email to [hello@eyeko.com](mailto:hello@eyeko.com).
