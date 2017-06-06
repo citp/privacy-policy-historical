@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkcart.info privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121081523id_/http%3A//www.bookmarkcart.info/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkcart.info privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180150id_/http%3A//www.bookmarkcart.info/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › BookmarkCart.info : Get backlinks by storing bookmarking sites | Best place to promote social news and networking news | Promote your website using effective search engine techniques
 
