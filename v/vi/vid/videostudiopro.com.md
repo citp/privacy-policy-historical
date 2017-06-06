@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videostudiopro.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111063101id_/http%3A//www.videostudiopro.com/en/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videostudiopro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070956id_/http%3A//www.videostudiopro.com/en/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Corel Privacy Policy
+# Privacy Policy - Corel VideoStudio Pro
 
 At Corel, we recognize and value our customers' privacy. As such, Corel is committed to ensuring that its customers are informed how their personal information will be used and kept secure. This privacy policy applies to information collected by Corel and its affiliates ("Corel") through the websites, products and services that display this privacy policy, including products and services that may be provided by Corel off-line. This privacy policy applies to all Corel products and services currently offered by Corel.
 
