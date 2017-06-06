@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browsergamez.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209131544id_/http%3A//sevengames.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsergamez.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022503id_/http%3A//sevengames.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy note
 
