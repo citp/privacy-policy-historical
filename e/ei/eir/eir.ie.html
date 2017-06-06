@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the eir.ie privacy policy that was archived on 2016-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125010525id_/https%3A//www.eir.ie/privacystatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eir.ie privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606191209id_/https%3A//www.eir.ie/privacystatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-
 
 
 <meta charset="utf-8">
@@ -77,96 +76,8 @@
   <script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/validation/jquery.validate.min.js" type="text/javascript"></script>
   <script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/validation/additional-methods.js" type="text/javascript"></script>
 
-<!-- BEGIN LivePerson code -->
-
-  
-  <script type="text/javascript">
-
-    // ########################################################################
-    // ================== 1: VARIABLE DEFINITION =============================
-    // ########################################################################
-    // Variables are JavaScript objects that are passed in an array
-    // Each object must contain: scope, name, value
-    // Names and values should be strings
-    // A LivePerson variable can be defined in one of three different scopes:
-    //   'page' - exists on the current page only
-    //   'session' - exists for the current visitor session
-    //   'visitor' - persists between browser sessions
-
-    // Not all variables will be required by the LP Mobile deployment, use the mobile:true/false flag to specificy this
-    var arrLPvars = [
-      { scope:'page', name:'unit', value:'eircom-sales', mobile:true },
-      // Other possible value for unit : meteor-service / eircom-sme-sales / eircom-sales / Eircom-Service-TechnicalSupport
-      { scope:'session', name:'language', value:'english', mobile:true },
-
-      // eircom-sales unit variables :
-
-      { scope:'page', name:'Section', value:'Broadband', mobile:true }
-    ];
-
-    // ########################################################################
-    // ==================== 2: LP MOBILE CONFIG ===============================
-    // ########################################################################
-    var _LP_CFG_ = {
-      app_id : "36014936",  
-      options: {
-        skill: "eircom-sales-mobile", 
-
-        // the following function is for sending custom variables + values to the LivePerson Servers when the chat begins
-        extras: function() { // A static dictionary or a function that returns a dictionary of custom variables 
-
-          var extras = {};
-          var i, varsCount = arrLPvars.length;
-
-          // This will run through the array of variables and add those flagged with mobile:true to the dictionary
-          if (arrLPvars) {
-            for (i = 0; i < varsCount; i++) {
-              if (arrLPvars[i].mobile) {
-                extras[arrLPvars[i].name] = arrLPvars[i].value;
-              }
-            };
-          }
-          return extras;
-        },
-        onChatDisabled: function(els) {
-          $(".lp-ribbon-click").hide();           
-        },
-        onChatEnabled: function(els) {
-          $(".lp-ribbon-click").show();
-        }
-      }
-    };
-
-    // ########################################################################
-    // ==================== 2: LP DESKTOP SETUP ===============================
-    // ########################################################################
-    // Start by defining the required objects
-    var lpTag = lpTag || {}, lpMTagConfig = lpMTagConfig || {}; lpTag.vars = lpTag.vars  || []; lpTag.dbs = lpTag.dbs || [];
-    lpTag.section = 'eircom-sales';
-    // the section value have to match the unit value.
-
-    // ---------- i: Sending variable array when the page loads --------------
-    lpTag.vars.push(arrLPvars);
-
-  </script>
-  
-  
-  
-  <style>
-    
-    .lpButton {display:none}
-    @media only screen and (min-width:640px) {
-      .lpButton {position: fixed;right: 0;top: 210px;z-index: 10000;display:block}
-      
-    }
-  </style>  
-  
-  <!--[if lte IE 9]>
-    <style>.lpButton {position: fixed;right: 0;top: 210px;z-index: 10000;display:block}</style>
-  <![endif]-->
-  
-<!-- BEGIN LivePerson Monitor -->
-    <script type="text/javascript" src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/le-mtagconfig.js"></script>
+  <!-- BEGIN LivePerson code -->
+<script type="text/javascript" src="/opencms/export/system/modules/net.eir.opencms/resources/js/external/le-mtagconfig.js"></script>
 <!-- END LivePerson code -->
 
 	<!-- Maxymiser script start -->
@@ -174,7 +85,7 @@
 	<!-- Maxymiser script end -->
 
   
-<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=36014936"></script><style type="text/css">.fancybox-margin{margin-right:0px;}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head> 
+<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=18014920"></script><style type="text/css">.fancybox-margin{margin-right:0px;}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head> 
 <body style="">
 
 <!-- Google Tag Manager -->
@@ -437,6 +348,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>eircom Limited is registered with the Data Protection Commissioner as a Data Controller and all handling and processing of your personal data is strictly in accordance with the data protection principles contained in the Data Protection Acts, 1988-2003.</p>
 <p>The eir.ie servers are located in a secure facility and any access to your personal data is strictly controlled and limited only to persons who are authorised and have appropriate security clearance to access the servers.</p>
 <p>Credit card details are transmitted&nbsp;by eir in an encrypted form to provide extra security for your online transactions.</p>
+</div>
+</div>
+<div class="row content-block">
+<div class="large-12 columns col-single col-single--last col-single--bt">
+<h3 class="brand-broadband">Credit Insights:</h3>
+<p>If you are a new Customer on or after 30<sup>th</sup> of November 2016 or if you are an existing Customer who enters into a new contract with eir on or after 30<sup>th</sup> of November 2016 please note if you allow your account to fall into arrears by not paying your bills in full and on time, information on your payment performance may be shared with other service providers of landline, broadband and mobile services through the provision of the information to a database operated by the service providers called Credit Insights.</p>
+<p>Other providers of services who also supply information on payment performance of their customers to the Credit Insights database may check this information when you apply for their services in the future to help them assess your credit worthiness. The information shared with Credit Insights includes name, address, date of birth, account details to include account history and balance owed, and will be held on the database for 6 years from the date of the notification of the arrears.</p>
 </div>
 </div>
 <div class="row content-block">
