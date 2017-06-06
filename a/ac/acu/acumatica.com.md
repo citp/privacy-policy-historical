@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acumatica.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128143000id_/https%3A//www.acumatica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acumatica.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201044id_/http%3A//acumatica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Acumatica
+# Privacy Policy | Acumatica Cloud ERP
 
 **Last Updated November 12, 2015**
 
@@ -43,3 +43,5 @@ Acumatica welcomes your comments regarding this privacy statement. If you have q
 Acumatica Privacy, Acumatica, Inc., 11235 SE 6th Street Suite 140, Bellevue WA, 98004
 
 © 2016 Acumatica, Inc. All rights reserved.
+
+Read [Acumatica Privacy Policy for Mobile Apps](https://web.archive.org/privacy-policy/mobile/).
