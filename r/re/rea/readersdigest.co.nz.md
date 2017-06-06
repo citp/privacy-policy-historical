@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.co.nz privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119100543id_/http%3A//www.readersdigest.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.nz privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607005253id_/http%3A//www.readersdigest.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest New Zealand
 
@@ -6,7 +6,7 @@
 
 **General statement**
 
-Reader's Digest (New Zealand) Limited (RD) recognises the importance of protecting your privacy and the security of your information and we want you to be as comfortable as possible when dealing with us.
+Direct Publishing Pty Ltd (Trading as Reader’s Digest New Zealand or RD) recognises the importance of protecting your privacy and the security of your information and we want you to be as comfortable as possible when dealing with us.
 
 This Privacy Policy explains how we protect the privacy of your information that we collect from you across our business and the choices you have concerning the use of such information, among other important issues. This Privacy Policy is compliant with the New Zealand privacy legislation. Please read this Privacy Policy carefully as it will apply to any information we collect about you, in whatever fashion.
 
@@ -82,7 +82,7 @@ We are happy to provide you with details of information held about you on our cu
 If you have any questions regarding any matters related to your privacy, if you wish to cease receiving materials from RD, or if you believe there has been a breach of your privacy and wish to make a complaint or enquiry, please contact us on:
 
 **The Privacy Office**  
-Reader's Digest (New Zealand) Limited  
+Reader's Digest (New Zealand)  
 PO Box 90489 Victoria Street West Auckland 1142
 
 **Email**  
