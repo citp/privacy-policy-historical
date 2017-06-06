@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desiznworld.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121202725id_/http%3A//desiznworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiznworld.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145604id_/http%3A//desiznworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Desiznworld
 
 We are aware of that privacy of your personal information is important. Here is the policy on what type of information we obtain when you visit our site, and how we preserve your information. We by no means, sell your information to others. We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. We are not responsible for the republishing of the content found on this blog on other Web sites or media without our permission.  
 This privacy policy is subject to change without notice. Google, as advertiser/vendor, uses cookies to provide ads on your site. User may find out more about Google policy by visiting the Google ad and content network privacy policy.
