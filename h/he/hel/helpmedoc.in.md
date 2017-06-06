@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpmedoc.in privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201031200id_/https%3A//www.lazoi.com/Common/frmPrivacyAndPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpmedoc.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164400id_/https%3A//www.lazoi.com/Common/frmPrivacyAndPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
