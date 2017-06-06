@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brayola.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203195236id_/http%3A//brayola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brayola.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171220id_/https%3A//brayola.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Brayola
 
-This privacy statement explains the privacy practices of Brayola for users of the Site. If not specifically defined herein, capitalized terms have the meaning given to them in the Brayola Terms of Service, which is available at [brayola.com/terms](http://brayola.com/terms). 
+This privacy statement explains the privacy practices of Brayola for users of the Site. If not specifically defined herein, capitalized terms have the meaning given to them in the Brayola Terms of Service, which is available at [brayola.com/terms](https://web.archive.org/terms). 
 
 ##  Brayola’s Commitment to Privacy 
 
@@ -71,4 +71,4 @@ Brayola reserves the right to change this privacy statement at any time, but wil
 
 This Privacy Policy was last updated in March 2016.
 
-[__Free Shipping](https://web.archive.org/shopifylogin?returnurl=http%3A%2F%2Fshop.brayola.com%2Fpages%2Ffree-shipping) [__1.844.443.5021 (Mon-Fri 9am - 5pm EST)](tel://1.844.443.5021) __Give Us Some Love  
+[__Free Shipping](https://shop.brayola.com/pages/free-shipping) [__1.844.443.5021 (Mon-Fri 9am - 5pm EST)](tel://1.844.443.5021) __Give Us Some Love  
