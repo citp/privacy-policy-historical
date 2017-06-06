@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212175543id_/http%3A//www.movietickets.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161536id_/http%3A//www.movietickets.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - MovieTickets.com
 
@@ -15,7 +15,7 @@ MovieTickets.com, Inc. ("MovieTickets.com") is committed to your privacy. This P
   3. **_How We Share Information_** : We may share the information we collect from and about you with our service providers; with third parties (for purpose of order fulfilment, if it is a co-branded service or promotion, or if you opt-in to receive information from the third party); when necessary to protect our rights, sell or purchase assets, or comply with judicial process; and in aggregate or non-personally identifiable form.
   4. **_Information Security_** : We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Service visitors and users.
   5. **_Your Access and Control_** : We provide you with the opportunity to opt-out of receiving future marketing communications; unsubscribe from promotional materials; update, correct, or delete your information; and request a copy of your information.
-  6. **_Your Legal Rights_** : This Privacy Statement contains an arbitration clause and class action waiver.  By using this website, you confirm your consent to the Privacy Statement and agree that any disputes and claims you may have against us related to or arising under this Privacy Statement will be resolved in arbitration.  You are giving up your right to bring claims in court, to have those claims heard by a judge or jury, and to file claims on behalf of anyone by yourself and your family. 
+  6. **_Your Legal Rights_** : This Privacy Statement contains an arbitration clause and class action waiver.  By using this website, you confirm your consent to the Privacy Statement and agree that any disputes and claims you may have against us related to or arising under this Privacy Statement will be resolved in arbitration.  You are giving up your right to bring claims in court, to have those claims heard by a judge or jury, and to file claims on behalf of anyone but yourself and your family. 
 
 
 
