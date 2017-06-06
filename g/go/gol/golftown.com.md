@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the golftown.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225949id_/http%3A//www.golftown.com/CustomerSupport.aspx%3Fsection%3Dprivacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golftown.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042539id_/http%3A//www.golftown.com/CustomerSupport.aspx%3Fsection%3Dprivacysecurity) for the most accurate reproduction.*
 
 # Customer Support @ Golf Town Online
-
-**PRIVACY & SECURITY**
 
 **Overview**   
 We know that your privacy on the Internet is very important to you. That's why protecting your information is of the utmost importance to Golf Town. As a result, we have prepared this Privacy and Security Policy to let you know how we will and will not use the information you entrust to us. 
@@ -11,20 +9,10 @@ This Privacy Policy describes the information Golf Town collects in connection w
 
 Unless you provide it to us voluntarily, Golf Town does not collect any personally identifiable information about you (including, but not limited to, your name, address, telephone number, and email address) in connection with your use of this Site. 
 
-**PRIVACY POLICY**
-
 **WHAT INFORMATION DO WE ASK YOU TO SUBMIT?**  
 In order to accommodate your information request, we may ask you to submit your name, address, telephone number, email address, and other information. 
 
 In order to offer you an individualized online experience we collect various types of information such as: 
-
-  * domain names of visitors to our Web site;
-  * e-mail addresses of those who e-mail us;
-  * information on how many visits each page receives;
-  * user-specific information on what pages consumers visit; and
-  * information volunteered by the consumer, such as survey information and/or site registrations.
-
-
 
 This information is used solely for our internal purposes in managing the Site and improving its functionality. 
 
@@ -38,12 +26,6 @@ Golf Town will not sell your personal information to any organization, for any p
 
 **TO WHOM DO WE DISCLOSE YOUR INFORMATION?**  
 Subject to applicable law, we and our Service Providers (as defined below) disclose and share your personal information: 
-
-  * among Golf Town and its Affiliates;
-  * to unaffiliated third parties that are under contract to perform services for or on behalf of Golf Town (Service Providers), and are required to uphold and maintain Golf Town's policies with respect to privacy and the treatment of your personally identifiable information (e.g., vendors hosting the career or investor relations aspects of this Site); and
-  * to other persons as permitted by applicable law or regulation.
-
-
 
 Any access to such information will be limited to the purpose for which such information was provided to us or our Service Providers. Golf Town, its Affiliates and Service Providers are located throughout the world. Accordingly, your information may be sent to our service providers in other countries. 
 
@@ -78,49 +60,15 @@ Std msg & Data rates may apply. 10msgs/month.
 **Text STOP to 79012 to stop. Text HELP for help.**  
 To opt-in for Golf Town mobile alerts and be entered to win a $100 Golf Town gift card or $1000 shopping spree, text JOIN to 79012   
 T&C/Privacy policy: [www.golftown.com/PrivacyEN](http://www.golftown.com/PrivacyEN)   
-For support, call (800) 815-2943 Supported Carriers: Aliant Mobility, NorthernTel mobility, Videotron, Bell Mobility, Rogers Wireless, Virgin Mobile Canada, Fido, SaskTel Mobility, WIND Mobile, Mobilicity, Telebec Mobilite, MTS, Eastlink, Public Mobile, and TELUS Mobility.   
+For support, call 1-844-360-9969. Supported Carriers: Aliant Mobility, NorthernTel mobility, Videotron, Bell Mobility, Rogers Wireless, Virgin Mobile Canada, Fido, SaskTel Mobility, WIND Mobile, Mobilicity, Telebec Mobilite, MTS, Eastlink, Public Mobile, and TELUS Mobility.   
 If your mobile operator is not participating, you will not receive a reply to your messages. Some operators may not support some services at the prices offered. Pre-paid users may not be able to participate. Check with your mobile operator.
 
 **GOLF TOWN SMS CONTEST: WIN A $100 GIFT CARD!**  
 Beginning in December 1, 2015, Golf Town will award one $100 Golf Town gift card per month, selected from all first-time Golf Town mobile alert subscribers in the prior month. New subscribers must be signed up by 11:59 p.m. on the 23rd day of each month to be eligible. Each monthly drawing will take place on or around the 5th day of the following month Eligibility: **NO PURCHASE REQUIRED TO ENTER FOR A CHANCE TO WIN A PRIZE. A PURCHASE DOES NOT IMPROVE YOUR CHANCE OF WINNING. CONTEST ENTRANTS AND PRIZE RECIPIENTS MUST BE BOTH (A) LEGAL RESIDENTS OF CANADA AND (B) OF THE AGE OF MAJORITY IN HIS/HER PROVINCE/TERRITORY OF RESIDENCE. VOID WHERE PROHIBITED BY LAW. CONTEST SUBJECT TO ALL APPLICABLE PROVINCIAL, FEDERAL AND LOCAL LAWS AND REGULATIONS.** Any litigation respecting the conduct or organization of a publicity contest may be submitted to the RÃƒgie des alcools, des courses et des jeux for a ruling. Any litigation respecting the awarding of a prize may be submitted to the board only for the purpose of helping the parties reach a settlement. Officers, directors and employees of Sponsor, and its respective parent companies, subsidiaries, affiliates, divisions, advertising and promotion, fulfillment, travel partners and/or judging agencies (all such individuals and entities collectively referred to herein as, the "Related Entities", and their immediate families are not eligible to enter the Contest or win a prize. By participating in this Contest, each entrant waives, discharges and releases Sponsor and its officers, directors, partners, members and agents from any and all liability associated with this Contest.
 
-**TO ENTER WITHOUT PURCHASE:** Send a letter using proper postage as required to Golfsmith International, Inc. 11000 North IH-35, Austin, Texas 78753, attention 'Golf Town Mobile Alert Sweepstakes', containing a 3 x 5 index card with the words "I hereby enter the Golf Town Mobile Alert Sweepstakes" and your name, full mailing address, email address and phone number legibly written on the 3 x 5 index card. Mailed in entries must be received or postmarked no later than the 23rd of each month. Only entries by first time subscribers will be considered.
+**TO ENTER WITHOUT PURCHASE:** Send a letter using proper postage as required to Golf Town Limited, 610 Applewood Crescent, #302 Vaughan, ON. L4K 0E3, attention Golf Town Mobile Alert Sweepstakes, containing a 3 x 5 index card with the words "I hereby enter the Golf Town Mobile Alert Sweepstakes" and your name, full mailing address, email address and phone number legibly written on the 3 x 5 index card. Mailed in entries must be received or postmarked no later than the 23rd of each month. Only entries by first time subscribers will be considered.
 
 **CANADIAN RESIDENTS:** Before a Canadian resident wins any prize, that person must correctly answer, within a five (5) minute time period, a mathematical skill-testing question (without the benefit of any calculating devices) as administered, supervised and warranted by Sponsor or its representatives before prize will be awarded, as per Canadian law. 
 
 **FOR MONTHLY $100 GIFT CARD PRIZE:**  
-Sponsor will randomly select two (2) Potential $100 monthly gift card prize winners from all eligible entries received, a potential winner and an alternate winner if the first potential winner cannot be reached. Potential Winners will be notified by e-mail, phone and/or Mail with an affidavit of eligibility and a liability and (where imposing such condition is legal) a publicity release, and a non-disclosure agreement, which Potential Winners must return to the Sponsor within five (5) business days of notification. To receive a list of winners, send a stamped self-addressed envelope to: Golfsmith International, Inc., Attn: Mobile Alert Sweepstakes Winner's List, 11000 North IH-35, Austin, Texas 78753 within thirty (30) days of the expiration of the Sweepstakes Period, December 25, 2016.
-
-**PGA CHAMPIONSHIP SWEEPS**
-
- **TO ENTER (NO PURCHASE REQUIRED):** Enter the Golf Town TaylorMade PGA Championship Sweepstakes to win a Limited Edition PGA Championship Staff Bag. To enter like & share on Facebook. To be eligible to win all participants must post their entry starting Thursday, July 28 at 8am CST. All entries must be received by 10pm CST Sunday, July 31th, 2016. All entries become property of Golf Town.
-
-**TO ENTER BY MAIL (NO PURCHASE REQUIRED):** Send a letter using proper postage as required to: Golf Town 2016 TaylorMade PGA Championship Sweepstakes, c/o Golfsmith International, Inc., 11000 North IH-35, Austin, Texas 78753, containing a 3 x 5 index card with the words: "I hereby enter the Golf Town 2016 TaylorMade PGA Championship Sweepstakes" and your name, address, email address and phone number legibly written on the 3 x 5 index card. Mailed-in entries must be received or postmarked no later than the end of the Sweepstakes Period, July 31th, 2016. 
-
-**ELIGIBILITY:** NO PURCHASE REQUIRED TO ENTER FOR A CHANCE TO WIN A PRIZE. A PURCHASE DOES NOT IMPROVE YOUR CHANCE OF WINNING. SWEEPSTAKES ENTRANTS AND PRIZE RECIPIENTS MUST BE BOTH (A) LEGAL RESIDENTS OF CANADA AND (B) OF THE AGE OF MAJORITY IN HIS/HER PROVINCE/TERRITORY OF RESIDENCE. VOID WHERE PROHIBITED BY LAW. SWEEPSTAKES SUBJECT TO ALL APPLICABLE PROVINCIAL, FEDERAL AND LOCAL LAWS AND REGULATIONS. Residents of Quebec are not eligible. Officers, directors, employees and agents of Sponsor, and its respective parent companies, subsidiaries, affiliates, divisions, advertising and promotion, fulfillment, travel partners and/or judging agencies (all such individuals and entities collectively referred to herein as, the 'Related Entities', and their immediate families are not eligible to enter the sweepstakes or win a prize. By participating in this sweepstakes, each entrant waives, discharges and releases Sponsor and its officers, directors, partners, members and agents from any and all liability associated with this sweepstakes.
-
-**CANADIAN RESIDENTS:** Before a Canadian resident wins any prize, that person must correctly answer, within a five (5) minute time period, a mathematical skill-testing question (without the benefit of any calculating devices) as administered, supervised and warranted by Sponsor or its representatives before a prize will be awarded, as per Canadian law.
-
-**WINNER SELECTION:** Employees of Golf Town will judge the sweepstakes and submissions will be judged on their creativity and originality. All decisions of the judges are final.
-
-**PRIZES:** The selected winner will receive a Limited Edition PGA Championship Staff Bag. Prizes cannot be exchanged for cash value.
-
-**WINNER NOTIFICATION:** Potential Winners will be notified by e-mail, phone and/or mail with an affidavit of eligibility and liability, and (where imposing such condition is legal) a publicity release, and a non-disclosure agreement, which Potential Winners must return to the Sponsor within five (5) business days of notification. Inability to contact a winner may result in disqualification and selection of an alternate winner.
-
-**GENERAL CONDITIONS:**
-
-  * Participants hereby grant Golf Town and Golfsmith International, Inc. (collectively "Sponsor") a non-exclusive, perpetual, worldwide license to broadcast, publish, store, reproduce, distribute, syndicate, and otherwise use and exhibit the Submission (along with their names, voices, performance and/or likenesses) in all media now known, and which may later come into being, for purposes of trade or advertising without further compensation.
-  * Sponsor is under no obligation to use any Submission or return the Submissions to participants.
-  * Winners will be required to execute and return a Certificate of Eligibility, Consent and General Release form within fourteen (14) days of notification. Non-compliance within this time period may result in disqualification and selection of an alternate winner. Any and all tax liability is the sole responsibility of the winner.
-
-
-
-**USE OF INFORMATION:** All entries become the property of Sponsor. Sponsor reserves the right to use any and all information related to the sweepstakes, including submissions provided by the entrants, for editorial, marketing and any other purpose, unless prohibited by law. 
-
-**NOT ENDORSED BY FACEBOOK:** This promotion is in no way sponsored, endorsed or administered by, or associated with Facebook, Twitter, Instagram, Pinterest, or any other social network.
-
-**CONDUCT:** All sweepstakes participants agree to be bound by these Official Rules. Sponsor reserves the right to disqualify any person it finds to be tampering with the entry process, the operation of its web site or is otherwise in violation of these rules
-
-**LIMITATIONS OF LIABILITY:** Sponsor is not responsible for late, lost or misdirected email or for any computer, online, telephone or technical malfunctions that may occur. If for any reason, the sweepstakes is not capable of running as planned, including infection by computer virus, bugs, tampering, unauthorized intervention or technical failures of any sort, Sponsor may cancel, terminate, modify or suspend the sweepstakes. Entrants further agree to release Sponsor from any liability resulting from, or related to participation in the sweepstakes.
-
-**WINNERS LIST:** To receive a list of winners, send a stamped self-addressed envelope to: Golf Town 2016 TaylorMade PGA Championship Giveaway Sweepstakes Winner's List, c/o Golfsmith International, Inc., 11000 North IH-35, Austin, Texas 78753 within thirty (30) days of the expiration of the Sweepstakes Period, July 31th, 2016.
+Sponsor will randomly select two (2) Potential $100 monthly gift card prize winners from all eligible entries received, a potential winner and an alternate winner if the first potential winner cannot be reached. Potential Winners will be notified by e-mail, phone and/or Mail with an affidavit of eligibility and a liability and (where imposing such condition is legal) a publicity release, and a non-disclosure agreement, which Potential Winners must return to the Sponsor within five (5) business days of notification. To receive a list of winners, send a stamped self-addressed envelope to: Golf Town Limited, Attn: Mobile Alert Sweepstakes Winner’s List, 610 Applewood Crescent, #302 Vaughan, ON. L4K 0E3 within thirty (30) days of the expiration of the Sweepstakes Period, December 25, 2016.
