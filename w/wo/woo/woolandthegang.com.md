@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolandthegang.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114091634id_/https%3A//www.woolandthegang.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolandthegang.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171526id_/https%3A//www.woolandthegang.com/privacy) for the most accurate reproduction.*
 
 # Privacy | WOOL AND THE GANG
 
@@ -55,7 +55,7 @@ If you wish to verify the details you have submitted to WOOL AND THE GANG you ma
 
 ## Contacting us
 
-WOOL AND THE GANGL LTD (at the address below) is the data controller for the purpose of the Data Protection Act 1998 (the Act). You have the right to access the information that WOOL AND THE GANG holds about you and your right of access can be exercised in accordance with the Act. You may lodge an access request for free, but depending upon the personal information you request, we may impose a charge to recover our costs in providing you with details of the information we hold about you. We will notify you of any such change upon receiving your access request, and confirm whether you wish to proceed and pay such charge.
+WOOL AND THE GANGL LTD (at the address below) is the data controller for the purpose of the Data Protection Act 1998 (the Act). You have the right to access the information that WOOL AND THE GANG holds about you and your right of access can be exercised in accordance with the Act. You may lodge an access request for free, but depending upon the personal information you request, we may impose a charge to recover our costs in providing you with details of the information we hold about you. We will notify you of any such charge upon receiving your access request, and confirm whether you wish to proceed and pay such charge.
 
 We love hearing from our Gang of customers (even when things aren’t perfect). We appreciate the time you spend providing us with the knowledge that we need to ensure you are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement, or if you would like us to stop processing your information, please do not hesitate to contact one of The Gang here at WOOL AND THE GANG, who will be happy to answer any questions you may have.
 
@@ -70,3 +70,5 @@ UK
 E8 2EB
 
 Company registration: 8332008 
+
+Should dispute arise regarding the interpretation of the present privacy terms, the English version shall prevail.
