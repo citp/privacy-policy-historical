@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethiotender.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228072636id_/http%3A//ethiotender.com/copyright.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiotender.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170338id_/http%3A//www.ethiotender.com/copyright.php) for the most accurate reproduction.*
 
 # E-Tender Copyright and Privacy Policy
 
@@ -36,7 +36,7 @@ The contents of this site, including but not limited to the text and images here
 
 4\. Contact Information
 
-If you have questions or concerns regarding E-Tender: please contact us by sending an e-mail to: [contact@ethiotender.com](mailto:contact@ethiotender.com) / [marketing@ethiotender.com](mailto:marketing@ethiotender.com)
+If you have questions or concerns regarding E-Tender: please contact us by sending an e-mail to: [info@ethiotender.com](mailto:info@ethiotender.com)
 
 You may also contact us:
 
@@ -44,7 +44,7 @@ You may also contact us:
 
 
 
-            +251 11 466 2694 / +251 91 134 3426 / +251 91 143 9458
+            +251 11 466 2694 / +251 91 143 9458
 
   * **By Fax:**
 
