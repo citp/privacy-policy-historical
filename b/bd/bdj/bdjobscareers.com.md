@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdjobscareers.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216154637id_/http%3A//www.bdjobscareers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdjobscareers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093134id_/http%3A//www.bdjobscareers.com/privacy-policy) for the most accurate reproduction.*
 
 # BD Jobs Careers Bangladesh | Our Website Privacy Policy
 
