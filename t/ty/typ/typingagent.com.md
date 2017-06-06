@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typingagent.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119120632id_/http%3A//typingagent.com/show.php%3Fid_pag%3D31%26inc%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typingagent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111404id_/http%3A//typingagent.com/show.php%3Fid_pag%3D31%26inc%3D1) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -56,7 +56,9 @@ If you have any questions about your privacy or security measures at Typing Agen
 
 **Company Headquarters:**  
 Typing Agent, LLC  
-144 Railroad Ave Suite #220 Edmonds, WA 98020 Tel: 425.880.2500  
+51 West Dayton, Suite #302  
+Edmonds, WA 98020  
+Tel: 425.880.2500  
 Fax: 1.866.271.9646  
 Email: [support@tyingagent.com](mailto:support@tyingagent.com)  
 This website is © 2015 by Typing Agent. All rights reserved
