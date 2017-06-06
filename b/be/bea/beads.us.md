@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beads.us privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206020236id_/http%3A//www.beads.us/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beads.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174305id_/https%3A//www.beads.us/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Guarantee - beads.us
 
-Milky Way Jewelry Ltd. ( [beads.us](http://www.beads.us/) ) is serious about privacy. How do we do this Milky Way Jewelry Ltd. uses a secure server (128-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
+Milky Way Jewelry Ltd. ( [beads.us](https://www.beads.us/) ) is serious about privacy. How do we do this Milky Way Jewelry Ltd. uses a secure server (128-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
 
 ## What exactly does Ironclad Guarantee mean?
 
@@ -12,7 +12,7 @@ If the return is due to an error we have made we will gladly refund the delivery
 
 If the item is either faulty or damaged please contact our Returns team who will arrange for a replacement or refund.
 
-Before returning goods, please contact us first to discuss the issues you are having We advise you[Submit a support ticket](http://my.beads.us/Submit_ticket.php)to get help .
+Before returning goods, please contact us first to discuss the issues you are having We advise you[Submit a support ticket](https://my.beads.us/Submit_ticket.php)to get help .
 
 And here's all we ask Returned items must be unaltered, in original packaging and must include the original invoice. It's that easy! Just remember to keep your invoices and store your items in their original packaging.
 
@@ -36,6 +36,6 @@ If, at any time, you have questions or concerns about beads.us privacy policy, p
 
 beads.us does not use any type of pop-up advertising on our web site. Our true feelings about this ugly advertising is that each of us should have the choice whether or not we want to view what is offered. 
 
-The only pop-up messages on our web site are for help desk related issues, and these only pop-up if you request them. When you visit [beads.us](http://www.beads.us/) , you are free from aggressive advertising.
+The only pop-up messages on our web site are for help desk related issues, and these only pop-up if you request them. When you visit [beads.us](https://www.beads.us/) , you are free from aggressive advertising.
 
 beads.us recommends safe-surfing online. To protect your computer from adware and popups, we suggest that you visit this page and begin using a safe-surfing program that is right for you. 
