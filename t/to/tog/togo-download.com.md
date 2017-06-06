@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the togo-download.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119073545id_/http%3A//www.togo-download.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togo-download.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054207id_/http%3A//www.togo-download.com/en/privacypolicy) for the most accurate reproduction.*
 
 # togo-download.com - The latest software for free
 
 ## Privacy Policy
-
-_**We may use third parties’ technology to operate and manage the download and installation process of our products. For the terms of service and privacy policy of the InstallCore technology that may be used by us, please see here:<http://www.installcore.com/legal/terms-of-service/>**_
 
 This Privacy Policy regulates important questions concerning the privacy of the users of this website. The Company protects and guarantees security in the collection and processing of the data that is affected through this website as well as the compliance with the current policy with regards to data protection. The following paragraphs inform about the Company’s procedures of data collection and processing.
 
