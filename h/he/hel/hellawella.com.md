@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellawella.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227002537id_/http%3A//www.hellawella.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellawella.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155202id_/http%3A//www.hellawella.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HellaWella
 
@@ -56,4 +56,4 @@ This Privacy Policy may be modified from time to time; notice of changes will ap
 
 If you have concerns or questions about any aspect of this policy, please e-mail our Privacy Policy Coordinator at [info@hellawella.com](mailto:info@hellawella.com). We welcome your feedback.
 
-For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](https://web.archive.org/web/20161227002537id_/http%3A//www.hellawella.com/For%20information%20about%20opting%20out%20of%20Gourmet%20Ads%20and%20ad%20serving%20partners%20please%20visit%20http://www.gourmetads.com/about/privacy-policy)
+For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](https://web.archive.org/web/20170606155202id_/http%3A//www.hellawella.com/For%20information%20about%20opting%20out%20of%20Gourmet%20Ads%20and%20ad%20serving%20partners%20please%20visit%20http://www.gourmetads.com/about/privacy-policy)
