@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034033id_/http%3A//www.iii.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090508id_/http%3A//www.iii.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | interactive investor
-
-Version: 26/05/2012
 
 ### Introduction
 
@@ -50,8 +48,8 @@ Please refer to our [Cookie Policy](http://www.iii.co.uk/cookies)
 
   12. We may intercept, record and/or monitor any communication(s) (including telephone calls or other electronic communications) between you and us. We may do so in order to resolve queries in the future and for the purposes of ensuring security, staff training and complying with our regulatory and legal responsibilities.
   13. In the case of communications by email you should note that as emails are not currently encrypted (and may therefore be intercepted by third parties) and as the identity of the sender cannot be confirmed you must NOT provide your security details by email and should avoid providing any Personal Data to us by email. We will not provide Personal Data to you be email.
-  14. We have certain responsibilities under the Money Laundering Regulations 2003 and the FSA Rules to verify the identity of clients and may need to make certain enquiries and obtain certain information from you for that purpose. You confirm that all information you supply will be accurate and that we may disclose such information as we consider necessary to comply with any reporting or legal and regulatory requirements.
-  15. You agree that we may disclose to the FSA and to any other regulatory authority to which we are subject and to any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them), or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients.
+  14. We have certain responsibilities under the Money Laundering Regulations 2003 and the FCA Rules to verify the identity of clients and may need to make certain enquiries and obtain certain information from you for that purpose. You confirm that all information you supply will be accurate and that we may disclose such information as we consider necessary to comply with any reporting or legal and regulatory requirements.
+  15. You agree that we may disclose to the FCA and to any other regulatory authority to which we are subject and to any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them), or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients.
 
 
 
@@ -73,8 +71,10 @@ EC1 8AA
 
 You can contact us by:
 
-  * By telephone: 0845 200 3637
+  * By telephone: 0345 200 3637
   * By writing to us at: Interactive Investor, Standon House, 21 Mansell Street, London E1 8AA
   * By email: [help@iii.co.uk](mailto:help@iii.co.uk)
 
 
+
+Reviewed: February 2017
