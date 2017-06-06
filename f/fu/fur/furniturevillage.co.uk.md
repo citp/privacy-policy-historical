@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126162250id_/http%3A//www.furniturevillage.co.uk/customer-service/privacy/privacy-policy-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022919id_/http%3A//www.furniturevillage.co.uk/customer-service/privacy/privacy-policy-cookies.html) for the most accurate reproduction.*
 
 # Privacy policy and cookies - Furniture Village
 
