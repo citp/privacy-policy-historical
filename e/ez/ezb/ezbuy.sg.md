@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezbuy.sg privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124092408id_/https%3A//ezbuy.sg/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezbuy.sg privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172412id_/https%3A//ezbuy.sg/Help/PrivacyPolicy) for the most accurate reproduction.*
 
 # Most efficient, cost effective and reliable agent.
 
@@ -42,8 +42,6 @@ Our website may contain links to enable you to visit other websites of interest 
 
 ezbuy reserves the right to modify and change the Privacy Policy at any time provided the changes are published on our site. 
 
-**Complain about breaches of policy**
+**Complaint about breaches of policy**
 
 Please contact us as set below if you have any questions about this Privacy Policy, any queries about our business practices, or any of your dealings with us, or our treatment of your personal information. Email: support@ezbuy.com 
-
-**Update on 2015-09-16**
