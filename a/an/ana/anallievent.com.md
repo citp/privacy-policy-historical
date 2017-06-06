@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anallievent.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123132005id_/http%3A//www.anallievent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anallievent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071649id_/http%3A//www.anallievent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - An Alli Event
+# Privacy & Disclosure Policy - An Alli Event
 
 Privacy Policy of An Alli Event
 
@@ -55,3 +55,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 This policy was last modified on 05/27/2014
 
 This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/). 
+
+**Disclosure**
+
+I, Alli Smith, am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
