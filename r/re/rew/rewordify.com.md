@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rewordify.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119135131id_/http%3A//rewordify.com/helpprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewordify.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111400id_/http%3A//rewordify.com/helpprivacy.php) for the most accurate reproduction.*
 
 # Rewordify.com | Help Center
 
-You can also read our [Terms Of Use](https://web.archive.org/web/20161119135131id_/http%3A//rewordify.com/helpsiterules.php).
+You can also read our [Terms Of Use](https://web.archive.org/web/20170606111400id_/http%3A//rewordify.com/helpsiterules.php).
 
-We protect children's privacy. Read our [COPPA compliance statement](https://web.archive.org/web/20161119135131id_/http%3A//rewordify.com/helpcoppa.php).
+We protect children's privacy. Read our [COPPA compliance statement](https://web.archive.org/web/20170606111400id_/http%3A//rewordify.com/helpcoppa.php).
 
 We take your privacy very seriously at Rewordify.com, and we protect it with the following policies:
 
@@ -22,4 +22,4 @@ We take your privacy very seriously at Rewordify.com, and we protect it with the
 
 **Anonymous browsing data is collected.** We do collect _anonymous_ information about what users do on our site, such as which pages they visit, what geographical area they're from, etc. We do this so we can improve our site. Nothing we collect is connected in any way with your account.
 
-You can also read our [Terms Of Use](https://web.archive.org/web/20161119135131id_/http%3A//rewordify.com/helpsiterules.php).
+You can also read our [Terms Of Use](https://web.archive.org/web/20170606111400id_/http%3A//rewordify.com/helpsiterules.php).
