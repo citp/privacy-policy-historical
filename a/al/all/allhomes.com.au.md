@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allhomes.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124223952id_/http%3A//www.allhomes.com.au/ah/ah0120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhomes.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181443id_/https%3A//www.allhomes.com.au/ah/ah0120) for the most accurate reproduction.*
 
 # Privacy Policy | allhomes
 
@@ -176,13 +176,13 @@ We reserve the right to revise this Privacy Policy or any part of it from time t
 
 If you have any questions about this Privacy Policy, please contact Allhomes’ Privacy Officer: 
 
-  1. by email to [customersupport@allhomes.com.au](mailto:customersupport@allhomes.com.au)
+  1. by email to [support@allhomes.com.au](mailto:support@allhomes.com.au)
   2. by writing to: 
     * Privacy Officer
     * All Homes
     * PO Box 4930
     * Kingston ACT 2604
-  3. by telephone: 02 6296 4814
+  3. by telephone: 1300 ALL HOMES (1300 255 466)
   4. by fax: 02 6296 4818
 
 
