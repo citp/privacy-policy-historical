@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorkanajobs.co.uk privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228141313id_/http%3A//www.gorkanajobs.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorkanajobs.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111143id_/http%3A//www.gorkanajobs.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # GorkanaJobs.com | Privacy Policy
 
@@ -15,10 +15,11 @@ More information can be found [here](http://gorkana.com/privacy/):
 If you have any questions, comments or suggestions regarding our use of your data, privacy and the Website, or if you wish to withdraw consents you have given (as described below) to any use of your personal information, please contact us at [privacy@gorkana.com](mailto:privacy@gorkana.com) or write to:
 
 Data Protection Officer  
-Gorkana Group  
-Discovery House  
-28-42 Banner Street  
-London EC1Y 8QE
+Gorkana  
+5 Churchill Place  
+Canary Wharf  
+London  
+E14 5HU
 
 **What sort of data do we collect?**  
 Gorkana collects personal and professional data from you for use on the Website enabling fellow users of the Website to access information about you, your employer or business. This data consists of information such as your name, place of work, address (which may also be a home address if you provide us with that information), telephone number and e-mail address.
