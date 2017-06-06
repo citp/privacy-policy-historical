@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107210640id_/http%3A//www.titanpoker.com/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055722id_/http%3A//www.titanpoker.com/about-us/privacy.html) for the most accurate reproduction.*
 
 # Information about the Privacy Policy of Titan Poker
 
@@ -20,7 +20,7 @@ You may notify us of your wish to unsubscribe at any time by:
 
 \- Click on the unsubscribe link shown in all Titan Poker email offers and follow the instructions.
 
-\- Call us by Telephone Number: +632-756-7927
+\- Call us by Telephone Number: +359 2422 5406
 
 \- online chat
 
