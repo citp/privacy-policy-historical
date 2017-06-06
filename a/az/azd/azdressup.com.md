@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azdressup.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206165830id_/http%3A//www.azdressup.com/plus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdressup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154700id_/http%3A//www.azdressup.com/plus/privacy-policy.html) for the most accurate reproduction.*
 
 # Welcome to Azdressup
 
