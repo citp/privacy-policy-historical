@@ -1,40 +1,39 @@
-> *The following text is extracted and transformed from the infosecinstitute.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520101456id_/http%3A//www.infosecinstitute.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosecinstitute.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215104id_/https%3A//www.infosecinstitute.com/privacy-policy) for the most accurate reproduction.*
 
-# InfoSec Institute Privacy Policy
+# Privacy & Cancellation Policies
 
-**Privacy Notice**
+This privacy notice discloses the privacy practices for (http://www.infosecinstitute.com, http://www.infosecinstitute.org, http://www.infoecinstitute.net, and http://www.intenseschool.com). This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
-This privacy notice discloses the privacy practices for _(http://www.infosecinstitute.com, [http://www.infosecinstitute.org](http://www.infosecinstitute.org/), [http://www.infoecinstitute.net](http://www.infosecinstitute.net/), and [http://www.intenseschool.com](http://www.intenseschool.com/infosec-institute.php))_. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
-
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
-  2. What choices are available to you regarding the use of your data. 
-  3. The security procedures in place to protect the misuse of your information. 
-  4. How you can correct any inaccuracies in the information. 
+  * What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
+  * What choices are available to you regarding the use of your data.
+  * The security procedures in place to protect the misuse of your information. 4. How you can correct any inaccuracies in the information.
 
 
 
-**Information Collection, Use, and Sharing**   
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
+## Information Collection, Use, and Sharing
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. 
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+**Cancellations or Exceptions:**
 
-**Your Access to and Control Over Information**   
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
-
-  * Change/correct any data we have about you. 
-  * Express any concern you have about our use of your data. 
+  * No Shows: 100% forfeiture
 
 
 
-**Security**   
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+**Cancellations:**
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page 
+  *  30 days prior to start of class: 30% penalty of full price.
+  *  Within 15 days of start of class: 50% penalty of full price.
+  *  Outside of 31 days of start of class: 20% penalty of full price.
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-InfoSec Institute complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  InfoSec Institute has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view InfoSec Institute’s certification, please visit <http://www.export.gov/safeharbor/>
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at _708-689-0131_ or _via email: privacy [at] infosecinstitute.com_.**
+**Reschedules:**
+
+  * First time outside of 30 days: No penalty.
+  * First time within 30 days: 20% penalty of full price.
+  * Any further reschedules regardless of timeframe will result in a penalty that will be determined by the nature of the reschedule
+
+
+
+PMP is a registered mark of the Project Management Institute, Inc. PMP is a registered mark of the Project Management Institute, Inc. ITIL® is a registered trade mark of AXELOS Limited IT Infrastructure Library® is a registered trade mark of AXELOS Limited The Swirl logo™ is a registered trade mark of AXELOS Limited InfoSec has no affiliation with Red Hat, Inc. The Red Hat trademark is used for identification purposes only and is not intended to indicate affiliation with or approval by Red Hat, Inc.
