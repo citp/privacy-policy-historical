@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azimo.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224040621id_/https%3A//azimo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azimo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204740id_/https%3A//azimo.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Azimo - International Money Transfer - Send Money Online with Azimo
 
