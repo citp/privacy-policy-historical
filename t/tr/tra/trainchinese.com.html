@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119125637id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606174148id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -7,17 +7,23 @@
     <meta http-equiv="Cache-control" content="max-age=600, private">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="language" content="en">
+    <meta http-equiv="content-language" content="en">
+    <meta name="language" content="en">
+    <meta name="robots" content="index">
     <meta name="description" content="Privacy policy - Chinese dictionary and flashcards with audio and stroke by stroke writing for beginners and advanced learners. Learn online and offline on your PC, iPhone, iPad or Android phone.">
     <meta name="author" content="Molatra Ltd">
     <meta name="apple-itunes-app" content="app-id=333830076">
+    
+    <link href="http://www.trainchinese.com/v2/mprivacy.php?rAp=0" rel="canonical">
+    
+    
     <link rel="icon" href="../v1/a_user/images/favicon.ico" type="/image/x-icon">
-
+    <link rel="alternate" hreflang="es" href="http://www.trainchinese.com/v2/mprivacy.php?rAp=0&amp;tcLanguage=es">
+    <link rel="alternate" hreflang="ru" href="http://www.trainchinese.com/v2/mprivacy.php?rAp=0&amp;tcLanguage=ru">
+    <link rel="alternate" hreflang="en" href="http://www.trainchinese.com/v2/mprivacy.php?rAp=0">
     <title>train chinese dictionary and flashcards|Privacy policy</title>
 
-    <!-- Bootstrap Core CSS 
-    link href="css/bootstrap.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
 
     <!-- Custom CSS -->
@@ -28,9 +34,8 @@
     <!--[if lt IE 9]>
         <script src="js/html5shiv.js"></script>
         <script src="js/respond.min.js"></script>
-
-        
     <![endif]-->
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script> var tcrAp=0; </script>
     
 </head>
 <body>
@@ -105,26 +110,60 @@
 
     <!-- Language selection -->
         <script type="text/javascript">
-        function tcNewLanguage(targetLanguage){ var exdate=new Date(); exdate.setDate(exdate.getDate() + 100);
-	       var c_value=escape(targetLanguage) + '; expires='+exdate.toUTCString(); 
-	       document.cookie="tcLanguage=" + c_value; window.location.reload(true);}
+        function tcNewLanguage(targetLanguage){ 
+            alertWait();
+            var exdate=new Date(); 
+            exdate.setDate(exdate.getDate() + 100);
+            var c_value=escape(targetLanguage) + ';expires='+exdate.toUTCString(); 
+            document.cookie="tcLanguage=" + c_value; 
+           
+           var url= window.location.href;
+           if(url.endsWith('/v2')){
+                url = url+'/index.php?rAp=0';}
+           if(url.endsWith('/v2/')){
+                url = url+'index.php?rAp=0';}
+           var targetParam = 'tcLanguage='+targetLanguage;
+           if(targetLanguage=='en')
+                targetParam='';
+           if(url.includes('tcLanguage=en')){
+                url=url.replace('tcLanguage=en', targetParam);
+           }else if(url.includes('tcLanguage=es')){
+                url=url.replace('tcLanguage=es', targetParam);
+           }else if(url.includes('tcLanguage=ru')){
+                url=url.replace('tcLanguage=ru', targetParam);
+           }else if(url.includes('#')){
+                var a = url.split('#');
+                if(a[0].includes('?')){
+                    url=a[0]+'&'+targetParam+'#'+a[1];
+                }else 
+                    url=a[0]+'?'+targetParam+'#'+a[1]; 
+           }else if(url.includes('?')){
+                url=url+'&'+targetParam;
+           }else{
+                url=url+'?'+targetParam;
+           }
+           url = url.replace('&&','&').replace('&#','#').replace('?#','#').replace('?&','?');
+           if(url.endsWith('&')){url = url.slice(0, -1);}
+           if(url.endsWith('?')){url = url.slice(0, -1);}
+           window.open(url,'_parent');}
         </script>
         <div style="background-color:#AA0000;padding:0 5px; height:1.8em; 	overflow:hidden ">           
                 <span class="text-left ">                     <button type="button" class="btn-link-nav" onclick="tcNewLanguage('es')">Español</button>                   <button type="button" class="btn-link-nav" onclick="tcNewLanguage('ru')">Pусский</button>
                 </span>
                 <span class="text-right pull-right">
-                        <button type="button" class="btn-link-nav hidden-xs" onclick="window.open('indexRegister.php','_parent')">Create an account</button>
-                        <button title="Sign in" type="button" class="btn-link-nav" onclick="TClogin('')"> <span class="glyphicon glyphicon-log-in visible-xs"></span> <span class="hidden-xs">Sign in</span>     </button>
+                        <button type="button" class="btn-link-nav hidden-xs" onclick="window.open('https://www.trainchinese.com/v2/indexRegister.php?rAp=0&amp;tcLanguage=en','_parent')">Create an account</button>
+                        <button title="Sign in" type="button" class="btn-link-nav" onclick="TClogin('')"> 
+                        <span class="glyphicon glyphicon-log-in visibleSM"></span> <span class="hideXXSS">Sign in</span>     </button>
                 </span>                           
         </div>
         
      <!-- navigation -->
-     
+
      <nav class="navbar navbar-default navbar-static-top">
       <div class="container">
         <div class="navbar-header">
           
-          <a href="index.php" class="navbar-brand"><img class="nav_logo" src="images/text_logo_300.png" alt="Trainchinese"></a>
+          <a href="index.php?rAp=0" class="navbar-brand"><img class="nav_logo" src="images/text_logo_300.png" alt="Trainchinese"></a>
         <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
@@ -133,11 +172,11 @@
           </button>
         </div>
         <div class="navbar-collapse collapse" id="navbar">
-          <ul class="nav navbar-nav navbar-right">           
-            <li class="text-center"><a href="index.php">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="text-center"><a href="index.php?rAp=0">
                     <div style="height:65px;padding-top:10px;" class="hidden-xs hidden-sm">
                         <span style="color:#D43802; font-size:40px;" class="glyphicon glyphicon-home"></span></div>
-                     &nbsp;</a>
+                     Home</a>
                      </li>
             <li class="text-center">
                 <a href="contents.php?rAp=0">
@@ -149,7 +188,7 @@
         <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65" src="images/training.png" alt=""></div>
                     Training</a></li>
             <li class="text-center">
-                <a href="viewApps.php?rAp=0 "> 
+                <a href="viewApps.php?rAp=0"> 
                 <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65" src="images/applications.png" alt=""></div> 
                 Apps</a></li>
             <li class="text-center">
@@ -160,32 +199,38 @@
                 <div style="height:65px;padding-top:10px;" class="hidden-xs hidden-sm">
                 <span style="color:#D43802; font-size:40px;" class="glyphicon glyphicon-cog"></span></div>
                 Settings</a></li>        
-              </ul>
-            
-          
+          </ul>
         </div><!--/.nav-collapse -->
-      </div>
+      </div>        
       
       <!-- search box -->
       <div style="padding: 10px;">
         <div class="container" id="searchContainer">
-            <form class="row" action="search.php" method="get">
-                <div class="input-group col-md-offset-1 col-md-10"> 
-                    <input type="text" id="searchWord" name="searchWord" class="form-control" value="" placeholder="Chinese, Pinyin or English">
+            <form id="searchForm" class="row" action="search.php" method="get">
+                <div id="searchFormInputGroup" class="input-group col-md-offset-1 col-md-10"> 
+                    <input type="text" id="searchWord" style=" font-family:'Helvetica Neue',Helvetica,Arial,sans-serif,'','','',''; " name="searchWord" class="form-control" value="" placeholder="Chinese, Pinyin or English">
+                          
+                        
+                                      
                     <span class="input-group-addon" style="cursor:pointer;color:#AAA;" onmouseout="this.style.color='#AAA'" onmouseover="this.style.color='black'" onclick="$('#searchWord').val('');$('#searchWord').focus()">
                         <span class="glyphicon glyphicon-remove"></span>
                     </span>
-                    <input type="hidden" name="rAp" value="0">
-                    <input type="hidden" id="SrchHeight" name="height" value="0">
-                    <input type="hidden" id="SrchWidth" name="width" value="0">
                     
                     <div class="input-group-btn">
                         <button class="btn btn-search2" type="submit"><span class="hidden-xs"> Search dictionary</span>
                             <span class="hidden-sm hidden-md hidden-lg">Search</span></button>
                     </div>
+                    
+                     
+                    <input type="hidden" name="rAp" value="0">
+                    <input type="hidden" id="SrchHeight" name="height" value="0">
+                    <input type="hidden" id="SrchWidth" name="width" value="0">
+                    <input type="hidden" name="tcLanguage" value="en">
+                    
                 </div>
-            </form> 
-        </div>   
+            </form>
+        </div><!-- end searchContainer -->
+          
       </div>
       
     </nav>
@@ -194,35 +239,89 @@
         <div class="row">
             <div class="col-lg-12">
 
-					<h3>Privacy policy from Molatra Ltd applicable to the www.trainchinese.com website</h3>
-					<p>Molatra Ltd, is committed to protecting the privacy of the users of trainchinese.com. The following outlines our privacy and data protection policy. This privacy policy tells you about our online collection and use of data. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at www.trainchinese.com and trough our applications fro different kind of platforms (lika Android iOS, Java).</p>
+					<h3>Privacy policy from Molatra Ltd applicable to the www.trainchinese.com website and to the trainchinese apps</h3>
+					<p>Molatra Ltd, is committed to protecting the privacy of the users of trainchinese.com. The following outlines our privacy and data protection policy. This privacy policy tells you about our online collection and use of data. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at www.trainchinese.com and trough our applications fro different kind of platforms (like Android, iOS, Java).</p>
 					<p>Third party partners of trainchinese.com and other websites you may access via trainchinese.com have different privacy policies and are not subject to this privacy policy. We recommend that you read the privacy statement of each such website to find out how they protect your personal information.</p>
 
 					<h4>Collection and Use of User Information </h4>
-					<p>When you register at trainchinese, we collect personal details about you.</p>
+					<p>When you register at trainchinese, we collect personal details about you to create an account.</p>
 
-					<p>Your e-mail address is collected via our registration form, while other personal data such as Name, Country of residence, Your Photograph, The Languages you speak, Level of Chinese etc. is voluntary information collected in separate forms. When you visit the site, we also collect web site usage information and information about your computer and internet connection, including your computer's IP address, the type and version of browser and operating system you use, if you arrived at trainchinese.com via a link from another website, the URL of the linking page. We use this information to ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by most of our visitors and to improve the customer experience. Additionally we keep detailed information on your training activities particularly words, phrases you are learning or have learned. This information is kept in such a way that it can only be accessed by you (identified by your username/email address and password). We may use above mentioned information for in-house research to improve our understanding of customer needs in developing trainchinese.</p>
+					<p>Your e-mail address is collected via our registration form, while other personal data such as name, country of residence, other languages you speak, level of Chinese etc. is voluntary information collected in separate forms. 
+            When you visit the site, we also collect web site usage information and information about your computer and internet connection, thee type and version of browser and operating system you use, if you arrived at trainchinese.com via a link from another website, the URL of the linking page. 
+            We use this information to ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by most of our visitors and to improve the customer experience. 
+            Additionally we keep detailed information on your training activities particularly words, phrases you are learning or have learned. This information is kept in such a way that it can only be accessed by you (identified by your username/email address and password). 
+            We may use above mentioned information for in-house research to improve our understanding of customer needs in developing trainchinese.</p>
+                    <p>With your account, we keep detailed information on the vocabulary you decided to learn and your training activities particularly words, phrases you are learning or have learned. 
+    This information is also synchronized between our apps and our server so that you always have access to your newest data set.</p>
+                    
+                    <p>When you enter your trainchinese account data into one of our apps, then the data is transmitted using secure connections (SSL) to our servers for verification. 
+        Depending on the type of app once your identity has been verified some of your training information will be made accessible to the app.</p>
+                    <p>Your personal information is kept on our servers in such a way that it can only be accessed by you (identified by your username/email address and password). 
+    We have appropriate measures in place to ensure that users' personal details are not misused, accidentally destroyed, lost or altered within our server environment.</p>
 
 					<h4>Cookies</h4>
 					<p>trainchinese uses cookies to save some temporary data which is used for keeping some session variables in your browser when you are using the site.</p>
 
 					<h4>E-mails</h4>
-					<p>trainchinese does send newsletters to inform you of new products or services or other information that may be of interest. If you do not wish to receive such communications, you may follow the 'unsubscribe' instructions included within each of these email communications.</p>
-
-					<h4>Security Policy</h4>
-					<p>trainchinese has appropriate measures in place to ensure that users' personal details are not misused, accidentally destroyed, lost or altered within our server environment.</p>
+					<p>trainchinese does send newsletters to inform you of new products or services or other information that may be of interest. 
+    If you do not wish to receive such communications, you may follow the 'unsubscribe' instructions included within each of these email communications.</p>
+                    
+                    <h4>Device and app version</h4>
+                    <p>On our server, we keep record of the app versions for the apps where you included your trainchinese account data. 
+We use your device information to create an anonymous token that identifies the device. 
+We need this information in case you use several devices to know which one is being synchronized and also to be able to check this data in case that you report problems.</p>
 
 					<h4>Updating Customer Details</h4>
 					<p>It is important to us that we have your correct contact information so that you don't miss out on further correspondence or experience problems with the delivery of products. </p>
+                    
+                    <h4>Use of camera of device</h4>
+                    <p>The OCR (Optical Character Recognition) enables the Trainchinese Dictionary and flashcards app to read texts from pictures. 
+Pictures may be taken using the camera or by selecting form existing photographs on the device. 
+Those pictures are only processed locally on the device and are not sent to any website or server.</p>
 
 					<h4>Electronic Payment System</h4>
-					<p>Molatra Ltd. is engaging the services of third parties to process your credit card information on our behalf. These companies keep your credit card information confidential and protect your credit card information through the use of industry-standard Secure Sockets Layer (SSL) encryption technology. We do not have access of your credit card data as this is processed and stored exclusively by such third parties.</p>
+					<p>Molatra Ltd is engaging the services of third parties to process your credit card information on our behalf. These companies keep your credit card information confidential and protect your credit card information through the use of industry-standard Secure Sockets Layer (SSL) encryption technology. We do not have access of your credit card data as this is processed and stored exclusively by such third parties.</p>
 
 					<h4>Sharing of personal information</h4>
 					<p>We do not sell, trade or rent your Personally Identifiable Information collected on our Site to others.</p>
+                    
+                    <h4>Deleting personal information</h4>
+                    <p>On simple request, we will delete your trainchinese account and your associated data stored on our servers. That data cannot be recovered. 
+Your public contributions to Word discussions and/or Q&amp;A will survive deletion and will keep the reference to you trainchinese user name.</p>
 
 					<h4>Children and Parental Consent</h4>
 					<p>Molatra Ltd does not seek to collect any information from or engage in any transactions with persons under the age of 13. Our policy is to request that minors (the legal age of majority and therefore the age of minors is determined by local law where you reside) do not make purchases or engage in other legal acts on our services without the consent of a parent or legal guardian.</p>
+                    
+                    <h4>Advertisements</h4>
+                    <p>Google may use the advertising ID from the device on which the ad is serving to generate interests and demographics. 
+Interests, demographics, and other data may be used by Google to serve better targeted ads to the user. </p>
+                    <p>To complement personalized advertising (formerly known as interest-based advertising), 
+Google Ads Settings lets users view and edit their interests and demographics. 
+Some users may choose to opt out of personalized ads.</p>
+                    
+                    <h4>Crashlytics</h4>
+                    <p>Most of the apps provided by Moltatra Ltd. make use of Crashlytics, a business division of Google Inc., 
+(herein referred to as “Crashlytics”) that offers a suite of services to provide mobile application developers with information 
+about the functioning of publicly released and beta versions of their mobile applications. The information collected by the Services is used 
+to provide Developers with insight into the functionality of and engagement with their applications, including any problems that occur.</p>
+                    <p>The Services automatically collect certain information that does not personally identify End Users who access or use mobile applications 
+that use the Services. This information includes, but is not limited to, device state information, unique device identifiers, device hardware and OS information, 
+information relating to how an application functions, and the physical location of a device at the time of a crash.</p>
+                    <p>A detailed description of the privacy policy by Crashlytics can be found at: http://try.crashlytics.com/terms/</p>
+                    
+                    <h4>Google Analytics</h4>
+					<p>The trainchinese.com website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).
+ Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. 
+ The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. 
+ Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. 
+ Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. 
+ On behalf of the website provider Google will use this information for the purpose of evaluating your use of the website, 
+ compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider. 
+ Google will not associate your IP address with any other data held by Google. 
+ You may refuse the use of cookies by selecting the appropriate settings on your browser. 
+ However, please note that if you do this, you may not be able to use the full functionality of this website. 
+ Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under https://tools.google.com/dlpage/gaoptout?hl=en-GB.</p>
+                    <p>For the trainchinese.com website you can disable the collection of data <button type="button" class="btn btn-default" onclick="switchAnalytics(1)">Disable Google Analytics</button></p>
 
 					<h4>Changes to this statement</h4>
 					<p>Due to changes in legislation and best practice or enhancements to functionality and content on trainchinese.com we may make changes to our privacy policy and will reflect those changes in this statement, so you should check here from time to time. </p>
@@ -235,6 +334,7 @@
     
 
         <div style="height:15px;"></div>
+        
         <footer class="footer">
         <div class="container">
         <div style="height:10px;">
@@ -243,28 +343,26 @@
  
              
 <ul class="list-inline">
-<li><a href="http://twitter.com/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="Follow us on Twitter"><img src="../v1/a_user/images/ico/twitter2.gif" alt="">  </a></li>
+<li><a href="http://twitter.com/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="Follow us on Twitter"><img src="images/ico/twitter2.gif" alt="">  </a></li>
 
-<li><a href="http://www.facebook.com/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="Become a fan on Facebook"><img src="../v1/a_user/images/ico/facebook.gif" alt="">  </a></li>
+<li><a href="http://www.facebook.com/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="Become a fan on Facebook"><img src="images/ico/facebook.gif" alt="">  </a></li>
 
-<li><a href="https://plus.google.com/103759614617335004530" target="_blank" data-toggle="tooltip" title="" data-original-title="Add us on Google+"><img src="../v1/a_user/images/ico/gplus-16.png" alt="">  </a></li>
+<li><a href="https://plus.google.com/103759614617335004530" target="_blank" data-toggle="tooltip" title="" data-original-title="Add us on Google+"><img src="images/ico/gplus-16.png" alt="">  </a></li>
 
-<li><a href="http://www.linkedin.com/company/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="Follow us on LinkedIn"><img src="../v1/a_user/images/ico/linkin19x19.png" alt=""></a></li>
-
-<li><a type="application/rss+xml" rel="alternate" href="../RSSfeeds/newsfeed.xml" target="_blank" data-toggle="tooltip" title="" data-original-title="RSS feed"><img src="../v1/a_user/images/ico/feed.png" alt=""> </a></li>
+<li><a href="http://www.linkedin.com/company/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="Follow us on LinkedIn"><img src="images/ico/linkin19x19.png" alt=""></a></li>
 </ul> 
 
              
              <ul class="list-inline">  
-               <li><a href="mterms.php?rAp=0" target="_parent">Terms and Conditions</a></li>
-               <li><a href="mprivacy.php?rAp=0" target="_parent">Privacy Policy</a></li>
-               <li><a href="maboutus.php?rAp=0" target="_parent">About us</a></li>
-               <li><a href="feedback.php?rAp=0" target="_parent">Contact</a></li>
-               <li><a href="mlinks.php?rAp=0" target="_parent">Links</a></li>
+               <li><a href="mterms.php?rAp=0&amp;tcLanguage=en" target="_parent">Terms and Conditions</a></li>
+               <li><a href="mprivacy.php?rAp=0&amp;tcLanguage=en" target="_parent">Privacy Policy</a></li>
+               <li><a href="maboutus.php?rAp=0&amp;tcLanguage=en" target="_parent">About us</a></li>
+               <li><a href="feedback.php?rAp=0&amp;tcLanguage=en" target="_parent">Contact</a></li>
+               <li><a href="mlinks.php?rAp=0&amp;tcLanguage=en" target="_parent">Links</a></li>
                
-               <li><a href="mTestimonials.php?rAp=0" target="_parent">Testimonials</a></li>
+               <li><a href="mTestimonials.php?rAp=0&amp;tcLanguage=en" target="_parent">Testimonials</a></li>
              </ul>
-                            <p>©2008-2016 Molatra Ltd.</p>  
+                            <p>©2008-2017 Molatra Ltd.</p>  
 	       
         </div>
 
@@ -277,12 +375,20 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min2.js"></script>
-        
-    <script>
- 
- 
+   
+    <script src="tesseract.js-master/dist/tesseract.js"></script>
+   
+    
+   
+    <script> 
 $(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip(); 
+    if(!checkSpeechRecognition()){ // speechRec writingRec  noSpeechRec
+        $('.speechRec').css('display','none');  
+    }else{
+        $('.noSpeechRec').css('display','none'); 
+    }  
+    $('[data-toggle="tooltip"]').tooltip();     
+    $('[data-toggle="popover"]').each(function(){ $(this).prop('title',$(this).prop('title')+'&#160;<button class="close" type="button" aria-label="close" onclick="hidePopover($(this))">×</span>');  }  );
     $('[data-toggle="popover"]').popover();
     var url = window.location.href;
         $('.nav'). find( 'li' ).removeClass('active');
@@ -303,7 +409,8 @@ $(document).ready(function(){
     $('li a[href*="'+url+'"]').parents('li').addClass('active');
 });
 
-function alertpopup(title,content,footer){
+  
+    function alertpopup(title,content,footer){
     $('#popupTitle').html(title);
     $('#popupContent').html(content);
     if(footer=='')
@@ -335,10 +442,10 @@ function TClogin(msg,uname,pw,rememberMe){
         rememberMe='checked';
     
     $('#popupTitle').html('Sign in');
-    $('#popupContent').html(msg+'   <form class="form" action="index.php" method="post" accept-charset="iso-8859-1" enctype="ISO-8859-1" >     <input type="hidden" name="difTimeMin" id="difTimeMin" value="" />     <div class="form-group">       <label for="uname">Nickname or email</label>       <input type="text" class="form-control" id="uname" name="uname" value="'+uname+'" placeholder="Nickname or email"/>     </div>     <div class="form-group">       <label for="pass"> Password </label>       <input type="password" class="form-control" id="pass" name="pass" value="'+pw+'"  placeholder="Password"/>     </div>  				     <div class="checkbox">       <label>       <input type="checkbox" name="rememberMe" value="1" checked="checked"/> &#160;&#160;&#160;&#160;Remember me       </label>     </div>     <input type="hidden" id="goTo" name="goTo" value="" />         <button type="submit" class="btn btn-primary" name="go" >sign in</button>           &#160;&#160;&#160;&#160;     <a type="button" class="btn btn-default" href="indexResetPassword.php?tcLanguage=en">     forgot password?</a>   </form>');
+    $('#popupContent').html(msg+'   <form class="form" action="https://www.trainchinese.com/v2/index.php" method="post" accept-charset="iso-8859-1" enctype="ISO-8859-1" >     <input type="hidden" name="difTimeMin" id="difTimeMin" value="" />     <div class="form-group">       <label for="uname">Nickname or email</label>       <input type="text" class="form-control" id="uname" name="uname" value="'+uname+'" placeholder="Nickname or email"/>     </div>     <div class="form-group">       <label for="pass"> Password </label>       <input type="password" class="form-control" id="pass" name="pass" value="'+pw+'"  placeholder="Password"/>     </div>  				     <div class="checkbox">       <label>       <input type="checkbox" name="rememberMe" value="1" checked="checked"/> &#160;&#160;&#160;&#160;Remember me       </label>     </div>     <input type="hidden" id="goTo" name="goTo" value="" />     <input type="hidden" id="tcLanguage" name="tcLanguage" value="en" />     <button type="submit" class="btn btn-primary" name="go" >sign in</button>           &#160;&#160;&#160;&#160;     <a type="button" class="btn btn-default" href="https://www.trainchinese.com/v2/indexResetPassword.php?tcLanguage=en">     forgot password?</a>   </form>');
     $('#goTo').val(location.href);    
     
-    $('#popupFooter').html('<a type="button" class="btn btn-default" href="indexRegister.php">Not a user?</a>');
+    $('#popupFooter').html('<a type="button" class="btn btn-default" href="https://www.trainchinese.com/v2/indexRegister.php?rAp=0&tcLanguage=en">Not a user?</a>');
         var d = new Date();
         document.getElementById("difTimeMin").value=d.getTimezoneOffset();
     if(!$('#alertpopup').data('bs.modal') ||  !$('#alertpopup').data('bs.modal').isShown){
@@ -350,7 +457,8 @@ function TClogin(msg,uname,pw,rememberMe){
 }
 
 function showWordDetails(wordId,storePage){
-    window.open("wordDetails.php?rAp=0&wordId="+wordId,"_parent");
+    alertWait();
+    window.open("wordDetails.php?rAp=0&wordId="+wordId+"&tcLanguage=en","_parent");
 }
 
 function checkAll(elem){
@@ -383,6 +491,53 @@ function submitAjaxForm(id,hideModal) {
         $('#'+hideModal).modal('hide');   
 }
 
+function checkSpeechRecognition(){
+    if(window.hasOwnProperty('webkitSpeechRecognition')) return true;  
+    if(window.hasOwnProperty('SpeechRecognition')) return true;
+    return false;
+}
+function startDictation(lang) {
+    // Speech recognition
+    if (window.hasOwnProperty('webkitSpeechRecognition')) {
+        // chrome
+        document.getElementById('speechRecognition').style.backgroundColor='red';
+        var recognition = new webkitSpeechRecognition();
+        recognition.continuous = false;
+        recognition.interimResults = false;
+        recognition.lang = lang; // zh en-US
+        recognition.start();
+        recognition.onresult = function(e) {
+            document.getElementById('searchWord').value = e.results[0][0].transcript;
+            // console.log('Confidence: ' + event.results[0][0].confidence);
+            document.getElementById('speechRecognition').style.backgroundColor='white';
+            recognition.stop(); 
+            document.getElementById('searchForm').submit();        
+        };
+        recognition.onerror = function(e) {
+            recognition.stop();
+            document.getElementById('speechRecognition').style.backgroundColor='white';
+        }
+    }else if(window.hasOwnProperty('SpeechRecognition')){
+        // firefox
+        document.getElementById('speechRecognition').style.backgroundColor='red';
+        var recognition = new SpeechRecognition();
+        recognition.continuous = false;
+        recognition.interimResults = false;
+        recognition.lang = lang; // zh en-US
+        recognition.start();
+        recognition.onresult = function(e) {
+            document.getElementById('searchWord').value = e.results[0][0].transcript;
+            // console.log('Confidence: ' + event.results[0][0].confidence);
+            document.getElementById('speechRecognition').style.backgroundColor='white';
+            recognition.stop();            
+        };
+        recognition.onerror = function(e) {
+            recognition.stop();
+            document.getElementById('speechRecognition').style.backgroundColor='white';
+        }
+    }
+}
+
 function checkLocalStorage() {
     try {
     return 'localStorage' in window && window['localStorage'] !== null;
@@ -391,22 +546,78 @@ function checkLocalStorage() {
   }
 }
 
+function removeFromStorage(name){
+    var bytesCleared=0;
+    if(!checkLocalStorage())
+        return 0;
+    var a = localStorage.getItem(name);
+    if(a!=null){
+        bytesCleared += a.length;
+        localStorage.removeItem(name);
+    }
+    a = localStorage.getItem(name+'t');
+    if(a!=null){
+        bytesCleared += a.length;
+        localStorage.removeItem(name+'t');
+    }
+    return bytesCleared;
+}
+
+function clearOldStoreData(maxNumSecOld){
+    if( typeof (maxNumSecOld)=='undefined')
+        maxNumSecOld=86400; // 1 day
+    var arrToClear=[];
+    var k=0;
+    for (var i = 0; i < localStorage.length; i++){
+        if(typeof (localStorage[localStorage.key(i)+'t'])!='undefined' && localStorage[localStorage.key(i)+'t']<((Date.now() / 1000 | 0)-maxNumSecOld)) 
+            arrToClear[k++]=localStorage.key(i);  
+        else if(!localStorage.key(i).endsWith(tcLanguage+'') && !localStorage.key(i).endsWith(tcLanguage+''+'t') &&  localStorage.key(i).substr(0,13)!='completeLists') 
+            arrToClear[k++]=localStorage.key(i);      
+    }
+    var bytesCleared=0;
+     for (var i = 0; i < arrToClear.length; i++){
+        bytesCleared+=removeFromStorage(arrToClear[i])
+     }
+     if(bytesCleared<20000 && maxNumSecOld>3600)
+        bytesCleared+=clearOlsStoreData(3600);
+     return bytesCleared;        
+}
+
 function store(varName,value){
- if(!checkLocalStorage())
-    return false;
-  localStorage[varName] = value; 
-  localStorage[varName+'t']=Date.now() / 1000 | 0; // seconds  
+    varName+='';
+    if(!checkLocalStorage())
+        return false;
+    try {
+        localStorage[varName] = value; 
+        localStorage[varName+'t']=Date.now() / 1000 | 0; // seconds  
+    } catch (e) {
+        clearOldStoreData();
+    }
 }
 function getStore(varName,maxNumSecOld){
-     if(!checkLocalStorage())
+    if( typeof (maxNumSecOld)=='undefined')
+        maxNumSecOld=3600; 
+    varName+='';
+    if(!checkLocalStorage())
         return '';
-    if(typeof (localStorage[varName+'t']!='undefined') && localStorage[varName+'t']>(Date.now() / 1000 | 0)-maxNumSecOld) 
+    if(typeof (localStorage[varName+'t'])!='undefined' && localStorage[varName+'t']>((Date.now() / 1000 | 0)-maxNumSecOld)) 
         return localStorage[varName];
    else
-    return '';
+        return '';
 }
+function hidePopover(t){ t.parent().parent().popover('hide');}
 
-
+function switchAnalytics(onOff){
+           document.cookie="NoAnalytics=" + escape(onOff)+";expires=Fri, 31 Dec 9999 23:59:59 GMT;"; 
+           window.location.reload(true);
+}
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-89274792-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
 
 </script>
 
