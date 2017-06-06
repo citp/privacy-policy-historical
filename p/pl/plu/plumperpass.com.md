@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the plumperpass.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232956id_/http%3A//www.plumperpass.com/t1/%3Fprivacy%26uvar%3DMC4wLjAuMC4wLjAuMC4wLjA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumperpass.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124628id_/http%3A//www.plumperpass.com/t1/%3Fprivacy%26uvar%3DMC4wLjAuMC4wLjAuMC4wLjA) for the most accurate reproduction.*
 
 # Plumper Pass - The Best In BBW, Plumper, Chubby & Fat Porn
 
-We realize that purchasing a membership requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we will work to protect the security and privacy of any personal information you provide to us. This includes your name, address, phone number, email address, and credit-card information, in addition to any other personal information that can be linked to you, personally. We believe that you have a right to know, before purchasing a membership at one of our websites, exactly what information we might collect from you, why we collect it and how we use it. Sensational Video Inc. is the owner and operator of this website and does not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit. We collect only the personal information you allow us to collect, and then it is used only to help us serve you better. 
+We realize that purchasing a membership requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we will work to protect the security and privacy of any personal information you provide to us. This includes your name, address, phone number, email address, and credit-card information, in addition to any other personal information that can be linked to you, personally. We believe that you have a right to know, before purchasing a membership at one of our websites, exactly what information we might collect from you, why we collect it and how we use it. 
+
+Sensational Video Inc. is the owner and operator of this website and does not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit. We collect only the personal information you allow us to collect, and then it is used only to help us serve you better. 
 
 ### 1\. Personal information collected
 
@@ -38,7 +40,7 @@ We reserve the right to change, modify or amend this privacy policy at any time.
 
 ### 8\. How to contact Sensational Video
 
-If you have comments or questions regarding our privacy policy, please [contact us](https://web.archive.org/web/20161118232956id_/http%3A//www.plumperpass.com/t1/%3Fprivacy%26uvar%3DMC4wLjAuMC4wLjAuMC4wLjA?support). We will address any issue to the best of our abilities. Thank you for your support of our policies. 
+If you have comments or questions regarding our privacy policy, please [contact us](https://web.archive.org/web/20170606124628id_/http%3A//www.plumperpass.com/t1/%3Fprivacy%26uvar%3DMC4wLjAuMC4wLjAuMC4wLjA?support). We will address any issue to the best of our abilities. Thank you for your support of our policies. 
 
 ### 9\. Effective Date:
 
