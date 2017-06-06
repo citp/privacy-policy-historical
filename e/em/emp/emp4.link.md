@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emp4.link privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421071559id_/http%3A//www.emp4.link/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emp4.link privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081908id_/http%3A//www.emp4.link/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Emp4 MP4 Centre
 
