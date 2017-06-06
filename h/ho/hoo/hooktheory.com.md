@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hooktheory.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803134416id_/http%3A//www.hooktheory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooktheory.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185724id_/https%3A//www.hooktheory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hooktheory
 
@@ -14,7 +14,7 @@ This privacy policy describes our practices for handling both non-identifying an
 
 "Personal information" is information that others, like hooktheory.com, can use to identify you. To create your user account at hooktheory.com, you will need to provide information that identifies you so that we can ensure that others cannot access your hooktheory.com account. You will be asked to provide only your e-mail address.
 
-Please note that Hooktheory does not knowingly collect personal information from children under the age of 13. If we learn that we have collected such information we will delete it from our database. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using hooktheory.com, you are representing that you are at least 18, or that you are at least 13 years old and have your parents' permission to use the service. 
+Please note that Hooktheory does not knowingly collect personal information from children under the age of 13. If we learn that we have collected such information we will delete it from our library. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using hooktheory.com, you are representing that you are at least 18, or that you are at least 13 years old and have your parents' permission to use the service. 
 
 Upon request we provide users with access to all information that is maintained on them by Hooktheory.
 
