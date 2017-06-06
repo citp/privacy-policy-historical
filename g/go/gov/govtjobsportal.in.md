@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the govtjobsportal.in privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120114846id_/http%3A//www.govtjobsportal.in/p/ads-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobsportal.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071141id_/http%3A//www.govtjobsportal.in/p/ads-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Govt Jobs, Recruitments in India
+# Privacy Policy - Govt Jobs, Recruitment in India 2017 -10th, 12th Pass Government Jobs
 
 ###  [Privacy Policy](http://www.govtjobsportal.in/p/ads-privacy-policy.html)
+
+**SHARE WITH YOUR FRIENDS**
 
 **DISCLAIMER:** Any piece of content on this website don't infringe legal rights or laws of any Governmental/Private/NGO firm. Our sole purpose is to provide more user friendly information to the end user of our website that helps him to find the right job. There could be some inadvertent errors in the website but we try out best to avoid those. We cannot be held responsible for such errors, however if you find any errors or wrong information on our web portal, please write it to us we will change it ASAP.
 
@@ -23,5 +25,3 @@ Our first priority is to respect and protect the privacy of our users and we don
 **Third-party Advertising** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy/ads/).
-
-**Related Government Jobs**
