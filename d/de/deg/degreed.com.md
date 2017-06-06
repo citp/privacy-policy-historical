@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreed.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329180608id_/https%3A//degreed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreed.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164327id_/https%3A//degreed.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Degreed
 
@@ -38,7 +38,7 @@ Where possible, the Degreed servers automatically recognize each User's Internet
 
 ## Use of Information Obtained by Degreed
 
-When a User registers with Degreed, he or she creates a unique Degreed Profile and establishes individualized privacy settings. Notwithstanding the specified privacy settings established by the User, the User's name and photo, are publicly displayed on the Site. Each User is able to edit and update the information provided in his or her Degreed Profile. We may, on occasion, email our Users to send notifications about new features on the site. Each User shall be allowed opt-in to such emails.
+When a User registers with Degreed, he or she creates a unique Degreed Profile and establishes individualized privacy settings. Each User is able to edit and update the information provided in his or her Degreed Profile. We may, on occasion, email our Users to send notifications about new features on the site. Each User shall be allowed opt-in to such emails.
 
 Degreed will not use User personal Degreed Profile information except as described above, or as otherwise provided by law. We disclose information if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property of our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
 
@@ -50,11 +50,47 @@ We provide Users with 24 hour access to their Degreed Profile after input by the
 
 Degreed does not intend to collect information from children under the age of 13 or knowingly allow those individuals to create profiles. All Degreed Profiles stored are for Users ages 13 or older and those seeking higher education who state their age to be 13 years or older.
 
-## Cookies
+##  Degreed’s use of cookies and similar technologies 
 
-We use cookie technology within Degreed.com. We use cookies for remembering User names and passwords and for tracking click streams. Also, third party vendors, including Google, use cookies to serve ads based on a User's prior visits to Degreed.com. Google's use of the DoubleClick cookie enables it and its partners to serve ads based on your visit to Degreed.com and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. If you click on an advertisement, you will be leaving the Degreed.com Site and entering the advertiser's website. Be aware that Degreed has no control over the practices of other websites. Your computer may receive cookies from other websites and you will not be protected by Degreed's Privacy Policy. These sites may place a cookie on your computer for the purposes of ad tracking and presentation. Degreed is in compliance with the California Online Privacy Protection Act, and we are exempt from the requirements of California's "Shine the Light" law because Degreed does not share personally identifiable visitor information with its advertising services for direct marketing purposes. We do not control third parties' collection or use of your information to serve interest-based advertising. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp), a coalition of online advertising networks that provides an opportunity for consumers to opt-out of targeted advertising by member companies. It should be noted that opting out does not mean you will not see advertisements online, but these advertisements will not be targeted based on your online user interest profile.
+Like most websites, Degreed uses cookies and other similar technologies, such as local storage, to provide a better user experience. These cookies are safe and secure, and will never contain sensitive information. 
 
-We do not utilize cookies to track Users activities in any other way. Cookies cannot obtain personally identifiable information such as email addresses, or any other information stored on our Users hard drives. Cookies are pieces of data normally stored by your browser, and you can quite easily prevent cookie data from being sent by adjusting your browser settings; however Degreed will not function properly if Cookies are not enabled. One of the primary purposes of cookies is to provide a convenience feature to save time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize Degreed pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience.
+##  What are cookies? 
+
+Cookies are small pieces of text that a website asks your browser to store. Other technologies, including data we store on your web browser or device, identifiers associated with your device, and other software, are used for similar purposes. 
+
+##  How we use cookies 
+
+One of the primary purposes of cookies is convenience: to save you time. One purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize Degreed pages or register for services, a cookie helps us to recall your specific information (such as username or other preferences). Because of our use of cookies, we can deliver faster and more accurate results, and a more personalized experience. 
+
+Further, Degreed may use third party analytics services on the platform (such as Google Analytics) for purposes of gathering information described below. Please note that third party analytics companies use cookies and similar tracking technologies to help us analyze your use of the platform. As such, such third parties may have access to information collected through these means. 
+
+Aggregate and non-personally identifiable information collected through cookies is routinely analyzed for purposes of identifying the use of Degreed.com, including but not limited to, information such as employment statistical data, what pages are being visited most, what domains our visitors are coming from (i.e. google.com), when our servers are busiest, and what websites are referring users to us. This information helps us to improve our services and to evaluate our marketing efforts. We only use such data anonymously and aggregately. This information may be shared with third parties, but only in the aggregate. The treatment of non-personally identifiable information is subject to change in accordance with the then applicable law. Degreed owns all rights in and to this anonymous and aggregated data. 
+
+Degreed uses cookies to: 
+
+  * • facilitate user authentication, including single-sign-on
+  * • identify users
+  * • remember users' custom preferences
+  * • improve Degreed’s products and services
+
+  
+The Degreed site uses cookies when you view the site from a computer browser, a mobile browser, or when using any of the Degreed browser extensions. 
+
+We do not utilize cookies to track user activities in any other way. Cookies cannot obtain personally identifiable information such as email addresses, passwords, or any information stored on our user's hard drives. 
+
+Further, Degreed may use third party analytics services on the platform (such as Google Analytics) for purposes of gathering information described below. Please note that third party analytics companies use cookies and similar tracking technologies to help us analyze your use of the platform. As such, such third parties may have access to information collected through these means. 
+
+Aggregate and non-personally identifiable information collected through cookies is routinely analyzed for purposes of identifying the use of Degreed.com, including but not limited to, information such as employment statistical data, what pages are being visited most, what domains our visitors are coming from (i.e. google.com), when our servers are busiest, and what websites are referring users to us. This information helps us to improve our services and to evaluate our marketing efforts. We only use such data anonymously and aggregately. This information may be shared with third parties, but only in the aggregate. The treatment of non-personally identifiable information is subject to change in accordance with the then applicable law. Degreed owns all rights in and to this anonymous and aggregated data. 
+
+##  What are my privacy options? 
+
+##  Cookies on other websites 
+
+Users may be directed to other websites through links within Degreed. Degreed has no control over the practices of other websites not owned or controlled by Degreed. Your computer may receive cookies from other websites and such websites are not subject to Degreed's Privacy Policy. Third-party vendors, including Google, use cookies to serve ads based on a User's prior visits to Degreed.com. Google's use of the DoubleClick cookie enables it and its partners to serve ads based on your visit to Degreed.com and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google Ads Settings](https://support.google.com/ads/answer/2662922?hl=en). 
+
+Other sites may place a cookie on your computer for the purposes of ad tracking and presentation. Degreed is in compliance with the California Online Privacy Protection Act, and we are exempt from the requirements of California's "Shine the Light" law because Degreed does not share personally identifiable visitor information with its advertising services for direct marketing purposes. 
+
+We do not control third-parties' collection or use of your information to serve interest-based advertising. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the [Network Advertising Initiative](http://optout.networkadvertising.org/), a coalition of online advertising networks that provides an opportunity for consumers to opt-out of targeted advertising by member companies. It should be noted that opting out does not mean you will not see advertisements online, but these advertisements will not be targeted based on your online user interest profile. 
 
 ## International Users
 
