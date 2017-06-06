@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globinch.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127125726id_/http%3A//www.globinch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globinch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071337id_/http%3A//www.globinch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Globinch
 
@@ -29,3 +29,5 @@ You should consult the respective privacy policies of these third-party ad serve
 If you have any questions, concerns, or comments about our privacy policy you may contact us using [Feedback Form](https://web.archive.org/contact-globinch/)
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+Sign up for our newsletter to receive great articles! 
