@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtech.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220183135id_/https%3A//www.playtech.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171608id_/https%3A//www.playtech.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | PlayTech
 
