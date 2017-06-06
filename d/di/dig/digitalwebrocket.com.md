@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalwebrocket.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102138id_/https%3A//digitalwebrocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalwebrocket.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215717id_/https%3A//digitalwebrocket.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Digital Web Rocket
+# Privacy – Digital Web Rocket
 
 Privacy Policy
 
