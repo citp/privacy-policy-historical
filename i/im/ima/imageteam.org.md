@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imageteam.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119112824id_/http%3A//imageteam.org/page-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageteam.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122855id_/http%3A//www.imageteam.org/page-Policy.html) for the most accurate reproduction.*
 
 # Policy - ImageTeam.org|Free Image Hosting
 
