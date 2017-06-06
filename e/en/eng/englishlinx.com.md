@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishlinx.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020220id_/http%3A//englishlinx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishlinx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123816id_/http%3A//englishlinx.com/privacy.html) for the most accurate reproduction.*
 
 # Englishlinx.com | Our Privacy Policies at Englishlinx.com
 
@@ -39,7 +39,7 @@ Custom Search
   
 
 
-[](http://pubads.g.doubleclick.net/gampad/clk?id=321359689&iu=/192633929/EL-IXL-160x600)
+[](https://www.ixl.com/promo?partner=educatorsnetwork&phrase=el-160x600&utm_source=englishlinx.com&utm_medium=banner&utm_campaign=160x600)
 
   
   
