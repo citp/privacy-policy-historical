@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229063254id_/http%3A//www.nab.com.au/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163635id_/https%3A//www.nab.com.au/common/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - NAB
 
@@ -11,7 +11,9 @@ The types of information that we collect and hold about you could include:
   * financial details such as your tax file number;
   * health and biometric information (e.g. fingerprints, voice patterns) where permitted;
   * your location or activity including IP address, and whether you’ve accessed third party sites;
-  * credit information such as details relating to credit history, credit capacity, and eligibility for credit (‘credit worthiness’); and
+  * credit information such as details relating to credit history, credit capacity, and eligibility for credit (‘credit worthiness’); 
+  * US Tax Identification Number, if you are a US citizen or resident for tax purposes;
+  * Tax Identification Number, if you are a resident of any other country (except Australia and US), for tax purposes; and
   * other information we think is necessary.
 
 
