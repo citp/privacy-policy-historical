@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ltretire.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025082429id_/http%3A//ltretire.com/wp-content/uploads/2015/09/CRS-5560-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ltretire.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132033id_/http%3A//ltretire.com/wp-content/uploads/2017/02/CRS-5560-Privacy-Policy.pdf) for the most accurate reproduction.*
 
-# 
+# FACTS
 
-                                                                                                                    Rev. 09/2015
+                                                                                                                    Rev. 01/2017
                          WHAT DOES LT Trust Company
    FACTS                 DO WITH YOUR PERSONAL INFORMATION?
    Why?                  Financial companies choose how they share your personal information. Federal law gives
@@ -39,8 +39,8 @@
                                                                               No                       We don’t share
     information about your creditworthiness
     For nonaffiliates to market to you                                        No                       We don’t share
-  Questions?             Call 1-800-492-0165 or go to www.LTRetire.com
-CRS-5560                                                                                                         #07INN100660
+  Questions?             Call 1-800-831-8675 or go to www.LTRetire.com
+CRS-5560                                                                                                          #07INN104944
 
 
     Page 2
@@ -70,10 +70,8 @@ CRS-5560                                                                        
     Definitions
     Affiliates                       Companies related by common ownership or control. They can be
                                      financial and nonfinancial companies.
-                                             LTC Investment Services, a financial company
-                                             Fringe Benefit Administrators, a financial company
-                                             Independent Pension Consultants, a financial company
-                                             Plan Strategies Incorporated, a financial company
+                                          •   LT Plan Services
+                                          •   Plan Strategies Incorporated, a financial company
     Nonaffiliates                    Companies not related by common ownership or control. They can be
                                      financial and nonfinancial companies.
                                              LT Trust Company does not share with nonaffiliates so they
@@ -81,4 +79,4 @@ CRS-5560                                                                        
     Joint marketing                  A formal agreement between nonaffiliated financial companies that
                                      together market financial products or services to you.
                                              LT Trust Company does not jointly market.
-CRS-5560                                                                                          #   NN
+CRS-5560                                                                                             #07INN104944
