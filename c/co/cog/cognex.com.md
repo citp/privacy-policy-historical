@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cognex.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126154021id_/http%3A//www.cognex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognex.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093809id_/http%3A//cognex.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Cognex
 
@@ -24,7 +24,7 @@ We at Cognex respect your privacy and recognize your need for appropriate protec
 
 In general, you may visit [www.cognex.com](http://www.cognex.com/) without telling us who you are or revealing any personal information about yourself. However, at times, we may request that you share personal information with us in order to obtain access to certain features of our site or to request additional information from us. If you choose to provide personal information, we assure you that we will take appropriate steps to protect the information you share with us from unauthorized access or disclosure. If you choose not to provide the information we request, you can still visit most of our web site, but you may be unable to access certain areas, options, or services.
 
-Cognex will use your information to better understand your needs for machine vision products and to support your customer relationship with Cognex. Among other things, Cognex will utilize your information to alert you to product upgrades and updated product information or to send you other literature and/or information that you request. From time to time, Cognex may contact you via phone, email, or postal mail with information about various products and services. If you do not want to receive such communication, simply tell us when you give us your personal information. Or, at any time you can easily opt-out of receiving further marketing information from Cognex by contacting us via email at [mktg@cognex.com](mailto:mktg@cognex.com).
+Cognex will use your information to better understand your needs for machine vision products and to support your customer relationship with Cognex. Among other things, Cognex will utilize your information to alert you to product upgrades and updated product information or to send you other literature and/or information that you request. From time to time, Cognex may contact you via phone, email, or postal mail with information about various products and services. If you do not want to receive such communication, simply tell us when you give us your personal information. Or, at any time you can easily opt-out of receiving further marketing information from Cognex by contacting us via email at [contactus@cognex.com](mailto:contactus@cognex.com).
 
 You should know that some of our web pages utilize "cookies" so that we can better serve you with more tailored information when you visit our site. Cookies are identifiers that a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you.
 
@@ -32,4 +32,4 @@ Cognex will not sell, trade, or rent to any third party information you provide 
 
 If Cognex decides to change this Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-If you have any comments or questions regarding our privacy policy, please contact us at [privacy@cognex.com](mailto:privacy@cognex.com). We will address any issue to the best of our abilities.
+If you have any comments or questions regarding our privacy policy, please contact us at [legal@cognex.com](mailto:legal@cognex.com). We will address any issue to the best of our abilities.
