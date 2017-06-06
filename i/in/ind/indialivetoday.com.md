@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indialivetoday.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119040351id_/http%3A//www.indialivetoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialivetoday.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125740id_/http%3A//www.indialivetoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | India Live Today
 
@@ -9,7 +9,10 @@ If you require any more information or have any questions about our privacy poli
 At www.indialivetoday.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.indialivetoday.com and how we use it.
 
 Log Files  
-Like many other Web sites, www.indialivetoday.com/ makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, www.indialivetoday.com/ makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  
+
+
+[buy Windows 10 product Key](http://www.microsoftwarestore.com/windows-10-c-22.html) I give you trial product but once you are satisfied and you have enough money , I highly recommend you to buy windows 10 product key to [microsoftwarestore.com](http://www.microsoftwarestore.com/) If you have problem with windows 10 and want to repair or reinstall , you must have windows 10 product key or serial key
 
 Cookies and Web Beacons  
 www.indialivetoday.com/ uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
