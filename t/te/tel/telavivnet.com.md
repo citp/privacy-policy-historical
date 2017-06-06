@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telavivnet.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921024338id_/http%3A//www.telavivnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telavivnet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024855id_/http%3A//www.telavivnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy ⋆ Tel Aviv Net
 
