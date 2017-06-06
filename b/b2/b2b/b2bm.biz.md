@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2bm.biz privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410042537id_/https%3A//www.b2bmarketing.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bm.biz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171038id_/https%3A//www.b2bmarketing.net/en-gb/privacy) for the most accurate reproduction.*
 
 # Privacy | B2B Marketing
 
@@ -14,9 +14,9 @@ Capitalised words in this Policy unless otherwise indicated shall have the same 
 
 ## 1\. Data Collected
 
-1.1 Membership Data
+1.1 Membership Data inc Events
 
-To set up a B2B Marketing Membership you are required to complete the registration process. This process requires you to provide certain personal information such as your name, email address, telephone number, company name and job title as well as information about your company such as country and industry sector.  B2B Marketing may also collect user profile information such as age, gender, postcode, and areas which B2B Marketing thinks may be of special interest to you. For the avoidance of doubt, Members acknowledge and confirm that all information they supply in their Member profile will be viewable by all Users of the Website via the Member Directory.
+To set up a B2B Marketing account, in order for you to become a Member or an event delegate, you are required to complete the registration process. This process requires you to provide certain personal information such as your name, email address, telephone number, company name and job title as well as information about your company such as country and industry sector. B2B Marketing may also collect user profile information such as age, gender, postcode, and areas which B2B Marketing thinks may be of special interest to you. For the avoidance of doubt, Members acknowledge and confirm that all information they supply in their Member profile will be viewable by all Users of the Website via the Member Directory.
 
 1.2 User Communications
 
