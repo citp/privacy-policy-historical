@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solunet-infomex.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115192946id_/https%3A//secure.odovo.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solunet-infomex.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181328id_/https%3A//secure.odovo.com/home/privacypolicy) for the most accurate reproduction.*
 
 # 
 
