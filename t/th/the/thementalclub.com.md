@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thementalclub.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227195131id_/http%3A//thementalclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thementalclub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064945id_/http%3A//thementalclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Policy - The Mental Club
 
