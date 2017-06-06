@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sounddrain.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116135256id_/http%3A//sounddrain.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sounddrain.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101629id_/http%3A//sounddrain.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
