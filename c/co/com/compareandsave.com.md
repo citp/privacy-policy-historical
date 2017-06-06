@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706015826id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074243id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | compareandsave.com
 
