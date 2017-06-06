@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janjua.tv privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202075109id_/http%3A//www.janjua.tv/resources/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janjua.tv privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041904id_/http%3A//janjua.tv/resources/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy - JanJua.tv
 
