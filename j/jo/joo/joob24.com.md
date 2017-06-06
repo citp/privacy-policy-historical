@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joob24.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023055420id_/http%3A//canada.joob24.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joob24.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050206id_/http%3A//canada.joob24.com/terms) for the most accurate reproduction.*
 
 # Terms
 
@@ -7,7 +7,7 @@ By using the Service, the User agrees to the Terms of Service and privacy policy
 
 ### 1\. References
 
-Canada.joob24.com is a free service. 
+Canada.joob24.com is a free service, provided by Dreamingjob Limited, the owner of the Brand and Website. 
 
 ### 2\. What is Canada.joob24.com?
 
@@ -20,22 +20,22 @@ As better explained at the point “Privacy & Cookies” in this page. The User 
 ### 3\. Limitations of Liability
 
 Canada.joob24.com is NOT a job agency and does not perform any consulting activities aimed at the personnel recruitment by companies.   
-Canada.joob24.com's activity is to merely collect and make Ads posted by advertisers more accessible to Users, keeping them informed about new ads related to job categories choosen by them. 
+Canada.joob24.com's activity is to merely collect and make Ads posted by advertisers more accessible to Users, keeping them informed about new ads related to job categories chosen by them. 
 
 The sole responsible for the content of the job is the Advertiser of the announcement. Canada.joob24.com is in no way involved in the negotiations between Advertisers and Users and exercises no control over the quality, safety or legality of the job opportunities, nor the truthfulness of the information sent by the Users to Advertisers. 
 
 User indemnifies and expressly releases Canada.joob24.com from any liability, within the limits allowed by law, with respect to any damages or claims, of its own or of third parties, resulting from ads published on the Site or sent to them via email. 
 
-When you sign up for the Job Alert service by providing your email address, the User is responsible for the security of authentication, determined by Canada.joob24.com Cookie. This cookie will remain active and will automatically recognize the User's browser until he clicks the link "Sign Out", which prevents the automatic identification on the next visit. The links contained in e-mails related to the service Job Alert include automatic identification of the User, as described in "Privacy & Cookies". 
+When you sign up for the Job Alert service by providing your email address, you are as a User responsible for the security of authentication, determined by Canada.joob24.com Cookie. This cookie will remain active and will automatically recognize the User's browser until he clicks the link "Sign Out", which prevents the automatic identification on the next visit. The links contained in e-mails related to the service Job Alert include automatic identification of the User, as described in "Privacy & Cookies". 
 
 ### 4\. Copyright
 
-The mark "Canada.joob24.com" is the exclusive property of Canada.joob24.com and / or its licensors and is protected by trademark laws and related international treaties.   
+The mark "Canada.joob24.com" is the exclusive property of Dreamingjob Limited and / or its licensors and is protected by trademark laws and related international treaties.   
 The images, texts and distinctive signs (such as trademarks, domain names, etc.) of third parties that appear on the site belong to their respective owners and are used only to represent the ownership of the ads. 
 
 ### 5\. Jurisdiction
 
-This contract, taking into account the exceptions provided by the law for consumer protection, is subject to the Swiss law and to the exclusive jurisdiction of the Court of Lugano (Switzerland). 
+This contract, taking into account the exceptions provided by the law for consumer protection, is subject to the laws of United Kingdom. 
 
 ### 6\. Changes to the current Terms of use
 
@@ -53,7 +53,7 @@ Canada.joob24.com uses different kinds of cookies and similar technologies:
 
   * **Analytical Cookies** : Google Analytics (Google, Inc.) is a web analysis by Google, that allows Canada.joob24.com to receive information about how Users use the Website, how they have reached it, the number of unique Users and the duration of visits. In this way, Canada.joob24.com can be more efficient and implement improvements on its Website that make it easier for Users to reach it and access it. You can obtain more information about Google Analytics through this link: [www.google.com/analytics/terms/us.html](http://www.google.com/analytics/terms/us.html). This cookie is not necessary in order to browse the Website.
 
-  * **Behavioural Advertising Cookies** : Criteo (Criteo, S.A.), Google Adwords (Google, Inc.), Adsense(Google, Inc.), DoubleClick(Google, Inc.) and Facebook(Facebook Inc.) are behavioural advertising tools that Canada.joob24.com uses on its Website. Every time a User visits the Portal, he is assigned a persistent cookie that, during a set period of time, stores information about his behaviour through the observation of his browsing habits on the Website, which allows Canada.joob24.com to identify the User and display certain advertising according to it. Once Users abandon the Website, they will be shown advertising for the type of products or services for which they have shown interest. In the same way, if he navigates through other websites in which Canada.joob24.com's services are advertised, we inform you that the visualisation of these advertisements is managed through data obtained via a cookie to which we have access in order to follow up on the advertising campaign related to the mentioned advertisement as well as to display certain advertising. You can obtain more information through this link:
+  * **Behavioural Advertising Cookies** : Criteo (Criteo, S.A.), Google Adwords (Google, Inc.), Adsense(Google, Inc.), DoubleClick(Google, Inc.) and Facebook(Facebook Inc.) are behavioural advertising tools that Canada.joob24.com uses on its Website. Every time a User visits the Portal, he is assigned a persistent cookie that, during a set period of time, stores information about his behaviour through the observation of his browsing habits on the Website, which allows Canada.joob24.com to identify the User and display certain advertising according to it. Once Users abandon the Website, they will be shown advertising for the type of products or services for which they have shown interest. In the same way, if they navigate through other websites in which Canada.joob24.com's services are advertised, we inform you that the visualisation of these advertisements is managed through data obtained via a cookie to which we have access in order to follow up on the advertising campaign related to the mentioned advertisement as well as to display certain advertising. You can obtain more information through this link:
 
     * Criteo, managed by Criteo SA: [www.criteo.com/privacy](http://www.criteo.com/privacy)
 
@@ -72,7 +72,7 @@ In the same way, the User can activate:
 
   * Private browsing, through which his browser ceases to store his browsing history, Website passwords, cookies and other information about pages he visits.
 
-  * The no tracking feature, through which the browser asks the Websites visited to not track browsing habits in order to, for example, serve relevant advertising on visited websites.
+  * The No Tracking feature, through which the browser asks the Websites visited to not track browsing habits in order to, for example, serve relevant advertising on visited websites.
 
 
 
@@ -107,17 +107,17 @@ Canada.joob24.com handles all personal data of Users and guests in full accordan
 
 ### 9\. Uploading of Curriculum Vitae
 
-Canada.joob24.com, for some Country, allows his Users to upload the Curriculum Vitae in an electronic format. For the Curriculum Vitae, Canada.joob24.com doesn't require confidential data, such as health, religious beliefs and political opinions and urges its Users not to upload them. 
+Canada.joob24.com, for some Country, allows its Users to upload the Curriculum Vitae in an electronic format. For the Curriculum Vitae, Canada.joob24.com doesn't require confidential data, such as health, religious beliefs and political opinions and urges its Users not to upload them. 
 
 ### 10\. Manner and place of retention of personal data 
 
-We handle your data according to the law,taking all appropriate security measures aimed to prevent unauthorized access, disclosure, alteration, or unauthorized destruction of Personal Data. The retention is done with tools, both manual and computerized and / or telematic, with organizational procedures and with logic strictly related to the stated purposes. Personal Data are handled at the registered office of the Data Controller and, according to services provided by third parties, also the ones outside the Counrty and/or outside the European Union The Data are kept for the time necessary to perform the service you have requested, and deleted at the fading of the purposes for which they were collected and treated. 
+We handle your data according to the law,taking all appropriate security measures aimed to prevent unauthorized access, disclosure, alteration, or unauthorized destruction of Personal Data. The retention is done with tools, both manual and computerized and / or telematic, with organizational procedures and with logic strictly related to the stated purposes. Personal Data are handled at the registered office of the Data Controller and, according to services provided by third parties, also the ones outside the Country and/or outside the European Union The Data are kept for the time necessary to perform the service you have requested, and deleted at the fading of the purposes for which they were collected and treated. 
 
 ### 11\. Users Rights
 
-You have the right to contact Canada.joob24.com, at the given contact addresses, to obtain:
+You have the right to contact Dreamingjob Limited, at the given contact addresses, to obtain:
 
-  1. the confirmation of the existence of their Personal Data and, if so, the list of Personal Data in possession of Canada.joob24.com;
+  1. the confirmation of the existence of their Personal Data and, if so, the list of Personal Data in possession of Dreamingjob Limited;
   2. information on the terms and purposes of the processing of your Personal Information;
   3. updating or modification of your Personal Information;
   4. the deletion of your Personal Data, including the deactivation of the service Job Alert.
