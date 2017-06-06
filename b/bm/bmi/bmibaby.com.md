@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bmibaby.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014060914id_/https%3A//www.bmiregional.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmibaby.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000325id_/https%3A//www.flybmi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BMI Regional bmi regional airlines
+# Privacy Policy bmi regional airlines
 
 ## All personal information held by bmi regional in the UK is governed by the UK Data Protection Act. Any changes to this privacy policy will be updated on this page.
 
@@ -52,4 +52,4 @@ We may pass on your details to nominated market research companies, solely for t
 
 Following the preparation by the European Commission of a list of air carriers subject to an operating ban within the European Union, all air carriers operating in the European Union are required to bring passengers’ attention to the list on their websites. In compliance with this formality, the current list and further related information can be found on the [European Commission website](http://ec.europa.eu/index_en.htm). We would like to reassure our passengers that the publication of this list is simply a formality and that any contract of carriage you enter into with us will not involve a flight with a carrier on the banned list.
 
-We use cookies to ensure that we give you the best experience on our website. Ok[Read more](https://www.bmiregional.com/cookies/)
+We use cookies to ensure that we give you the best experience on our website. Ok[Read more](https://www.flybmi.com/cookies/)
