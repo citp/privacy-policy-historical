@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mathantics.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005845id_/http%3A//mathantics.com/index.php/help/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathantics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044417id_/http%3A//mathantics.com/privacy) for the most accurate reproduction.*
 
-# Math Antics - Math Video Lessons for Free plus more
+# Math Antics | Math Video Lessons for Free plus more
 
 This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information by Math Plus Motion LLC ("we", "us"). As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing the Math Antics Site ("Site") you consent to these policies.
 
@@ -30,7 +30,7 @@ Third party vendors, including Google, use cookies to serve ads based on your pr
 
 Google's use of the DART cookie enables it and its partners to serve ads to you based on your visit to Math Antics and/or other sites on the Internet.
 
-You may opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+You may opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](https://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Disclosure of Personal Information
 
@@ -52,6 +52,6 @@ As we update and expand our services, we may make changes to this policy. You sh
 
 ## Contact
 
-If you have questions concerning this privacy policy, please [contact us](http://mathantics.com/index.php/contactus/to/questions/Privacy%20Policy).
+If you have questions concerning this privacy policy, please contact us at [questions@mathantics.com](mailto:questions@mathantics.com?subject=Math%20Antics%20Question) .
 
 Last updated: January 2011
