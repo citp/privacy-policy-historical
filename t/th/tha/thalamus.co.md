@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thalamus.co privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107024037id_/http%3A//thalamus.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thalamus.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120933id_/http%3A//www.thalamus.co/privacy) for the most accurate reproduction.*
 
 # Thalamus Privacy Policy
 
-Thalamus, Inc (“us”, “we”, “our” or the “Service”) operates  [http://thalamus.co/](https://web.archive.org/) (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of this site. 
+Thalamus, Inc (“us”, “we”, “our” or the “Service”) operates  [http://www.thalamus.co/](https://web.archive.org/) (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of this site. 
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at  [http://thalamus.co/terms](https://web.archive.org/terms)
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at  [http://www.thalamus.co/terms](https://web.archive.org/terms)
 
 ## WHAT INFORMATION DO WE COLLECT?
 
@@ -102,7 +102,7 @@ If Thalamus is involved in a merger, acquisition or asset sale, we will continue
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://thalamus.co/terms](https://web.archive.org/terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.thalamus.co/terms](https://web.archive.org/terms)
 
 ### Your Consent
 
