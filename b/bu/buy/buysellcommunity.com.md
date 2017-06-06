@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126194904id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101008id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Ottawa Classifieds - Privacy Policy
+# Buy & Sell Classifieds - Privacy Policy
 
 **Our Commitment to Privacy**
 
