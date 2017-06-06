@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eagleget.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212015027id_/http%3A//www.eagleget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagleget.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023951id_/http%3A//www.eagleget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EagleGet
+
+**The following privacy policy applies to both EagleGet and iTab.**
 
 When do we collect information?
 
