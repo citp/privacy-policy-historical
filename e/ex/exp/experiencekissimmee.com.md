@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the experiencekissimmee.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128191352id_/http%3A//www.experiencekissimmee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencekissimmee.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043204id_/http%3A//www.experiencekissimmee.com/privacy) for the most accurate reproduction.*
 
 # Things To Do - Experience Kissimmee - Orlando Florida Area - Fun Family Events - Kissimmee
+
+[](http://www.experiencekissimmee.com/)
+
+[Theme Parks](https://web.archive.org/theme-parks/ "Theme Parks")
+
+[](https://web.archive.org/theme-parks/)
+
+You enter, you look about, you know today is going to be a wonderful day. Whether you're visiting for the first time, or the hundredth, you feel it ... the anticipation, the expectation. [...more »](https://web.archive.org/theme-parks/)
+
+[Offers](https://web.archive.org/offers/ "Offers")
+
+[](https://web.archive.org/offers/)
+
+Find special hotel packages, deals and coupons to use during your visit to Kissimmee. Many of Kissimmee's businesses, restaurants and attractions welcome you with valuable discounts, coupons and offers. Check back often for the latest special deals designed to make your visit to Kissimmee a great one. [...more »](https://web.archive.org/offers/)
 
 **Experience Kissimmee** values your privacy. That's why we're doing everything we can to protect your personal information. This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe. By visiting this website, you are accepting the practices described in this Privacy Policy.
 
