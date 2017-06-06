@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blu-ray.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030092751id_/http%3A//www.blu-ray.com/link/link.php%3Furl%3Dhttp%3A//www.blu-ray.com/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blu-ray.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181346id_/http%3A//www.blu-ray.com/link/link.php%3Furl%3Dhttp%3A//www.blu-ray.com/contact/privacy.php) for the most accurate reproduction.*
 
 # Blu-ray.com - Privacy Policy
 
