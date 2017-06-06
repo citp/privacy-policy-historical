@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatib.us privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122071229id_/http%3A//www.chatib.us/welcome/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatib.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145030id_/http%3A//www.chatib.us/welcome/privacy_policy) for the most accurate reproduction.*
 
 # Free Chat Rooms,Free Online Chat With No Registration 2016
 
