@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203192808id_/http%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100618id_/http%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – 2016 NAB Show New York & SMPTE News by Broadcast Beat. Official Broadcaster of NAB Show.
+# Privacy Policy – 2017 NAB Show News by Broadcast Beat. Official Broadcaster of NAB Show, Producer of NAB Show LIVE
 
 What information does Broadcast Beat Magazine collect?
 
