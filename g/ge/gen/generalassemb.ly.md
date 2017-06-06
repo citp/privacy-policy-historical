@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the generalassemb.ly privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428005120id_/https%3A//generalassemb.ly/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalassemb.ly privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182617id_/https%3A//generalassemb.ly/privacy_policy) for the most accurate reproduction.*
 
 # General Assembly
 
 **Effective Date: December 15, 2013**   
-**Last Updated: February 15, 2016**
+**Last Updated: September 29, 2016**
 
 ### TABLE OF CONTENTS
 
   * INTRODUCTION
   * THE CATEGORIES OF INFORMATION GENERAL ASSEMBLY COLLECTS
   * HOW GENERAL ASSEMBLY COLLECTS YOUR INFORMATION
-  * COOKIES, AUTOMATIC DATA COLLECTION AND RELATED TECHNLOGIES
+  * COOKIES, AUTOMATIC DATA COLLECTION AND RELATED TECHNOLOGIES
   * NOTICE TO JOB APPLICANTS
   * HOW GENERAL ASSEMBLY USES YOUR INFORMATION
   * NOTICE TO CALIFORNIA RESIDENTS
@@ -18,7 +18,7 @@
   * SECURITY OF YOUR INFORMATION
   * CHILDREN'S PRIVACY
   * EXTERNAL LINKS
-  * INTERNATIONAL USERS
+  * EU AND INTERNATIONAL USERS
   * UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
   * CHANGES TO OUR PRIVACY POLICY AND PRACTICES
   * CONTACT INFORMATION
@@ -29,7 +29,7 @@
 
 This privacy policy ( **"Privacy Policy"** ) is incorporated by reference into the General Assembly [Terms of Use](https://generalassemb.ly/terms_of_service). The terms **"General Assembly," "we," and "us"** include General Assembly Space, Inc., a Delaware corporation, General Assembly Space, Limited, a United Kingdom limited company, General Assembly Limited, a Hong Kong limited company, General Assembly Australia Pty Ltd., an Australian proprietary limited company, and General Assembly Space Academy Pte. Ltd., a Singapore private limited company. 
 
-This Privacy Policy explains how General Assembly may collect, use, disclose and secure the personally identifiable information ( **"Personal Information"** ) that we obtain through the General Assembly website (the **“Site”** ) and the General Assembly Service, which includes all General Assembly online and offline products and services (the **"Service"** ). By using the Site or the Service you are authorizing us to gather and retain data related to the provision of the Site and Service in accordance with this Privacy Policy. 
+This Privacy Policy explains how General Assembly may collect, use, disclose and secure the personally identifiable information ( **"Personal Information"** ) that we obtain through the General Assembly website (the **“Site”** ) and the General Assembly Service, which includes all General Assembly online and offline products and services (the **"Service"** ). By using the Site or the Service you are authorizing us to gather and retain data related to the provision of the Site and Service in accordance with this Privacy Policy, and (for non-EU residents) you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of New York and the adjudication of any disputes arising in connection with General Assembly or the Site or Service will be in accordance with the [Terms of Use](https://generalassemb.ly/terms_of_service). 
 
 ### THE CATEGORIES OF INFORMATION GENERAL ASSEMBLY COLLECTS 
 
@@ -97,7 +97,9 @@ We use Personal Information in the following ways:
 
 
 
-**How to opt-out of future communications.** If you do not want us to contact you with marketing communications or other information regarding our products and services (or if you agreed to be contacted for such purposes at the point Personal Information was collected by us but you no longer wish to be contacted or have your information used in such way), you can let us know by following the unsubscribe instructions on any communications sent to you. You can also unsubscribe at any time by contacting us at legal@ga.co. Please note that if you have registered an account on the Site or Service or are registered for a Course, we reserve the right to send you certain communications relating to your account, your registration, and your use of the Site and Service such as messages relating to account management, customer service and system maintenance. These transactional account messages may be unaffected if you choose to opt-out of marketing communications. 
+**How to opt-out of future communications.** If you do not want us to contact you with marketing communications or other information regarding our products and services (or if you agreed to be contacted for such purposes at the point Personal Information was collected by us but you no longer wish to be contacted or have your information used in such way), you can let us know by following the unsubscribe instructions on any communications sent to you. You can also unsubscribe at any time by contacting us at hello@ga.co.
+
+Please note that if you have registered an account on the Site or Service or are registered for a Course, we reserve the right to send you certain communications relating to your account, your registration, and your use of the Site and Service such as messages relating to account management, customer service and system maintenance. These transactional account messages may be unaffected if you choose to opt-out of marketing communications. 
 
 ### NOTICE TO CALIFORNIA RESIDENTS
 
@@ -133,34 +135,34 @@ Unfortunately, no electronic data transmission or storage of information can be 
 
 ### CHILDREN'S PRIVACY
 
-Our Site and the Service are not intended for nor directed toward children under the age of 13 and we do not knowingly collect Personal Information from children under 13 years of age. If you believe that your child may have provided us with Personal Information without your consent, you may alert us at legal@ga.co. If we learn that we have inadvertently collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child's account.
+Our Site and the Service are not intended for nor directed toward children under the age of 13 and we do not knowingly collect Personal Information from children under 13 years of age. If you believe that your child may have provided us with Personal Information without your consent, you may alert us at privacy@ga.co. If we learn that we have inadvertently collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child's account.
 
 ### EXTERNAL LINKS
 
 The Site or Service may, from time to time, contain links to external websites. We have no control over these third parties and we are not responsible for the content of such websites or for the privacy policies or practices of such third parties. You should review the privacy policy carefully for any third party website that you visit.
 
-### INTERNATIONAL USERS
+### EU AND INTERNATIONAL USERS
 
-The Site and the Service are operated in the United States. If you are located outside of the United States, please be aware that the information we collect about you, including Personal Information, will be transferred to the United States. If you are located in the United Kingdom, for purposes of the Data Protection Act 1998, General Assembly Space, Limited is the data controller with respect to any information collected by it in the United Kingdom and then transferred to General Assembly Space, Inc. in the United States. By using the Site or Service, you consent to the transfer, processing and storage of your information, including Personal Information, in the United States in accordance with this Privacy Policy.
+The Site and the Service are operated in the United States. If you are located outside of the United States, please be aware that the information we collect about you, including Personal Information, will be transferred to the United States. By using the Site or Service, you consent to the transfer, processing and storage of your information, including Personal Information, in the United States in accordance with this Privacy Policy.
 
-By choosing to visit the Site or use the Service, or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of New York and the adjudication of any disputes arising in connection with General Assembly or the Site or Service will be in accordance with the [Terms of Use](https://generalassemb.ly/terms_of_service). 
+If you are located in the United Kingdom, for purposes of the Data Protection Act 1998, General Assembly Space, Limited is the data controller with respect to any information collected by it in the United Kingdom and then transferred to General Assembly Space, Inc. in the United States. 
+
+General Assembly and its affiliated entities and subsidiaries adhere to the US-EU Privacy Shield Principles, which can be found here: https://www.privacyshield.gov. GA is committed to following Privacy Shield principles, including those regarding collection, use, retention, notice, choice, onward transfer, and security, for all personal data received from individuals in the EU and Switzerland in reliance on the Privacy Shield. As part of our participation in the Privacy Shield certification program, we agree to resolve disputes you have with us in connection with our policies and practices through cooperation with the EU data protection authorities (DPA) and compliance with advice as presented by EU DPA panels, in accordance with Privacy Shield principles. For more information on the dispute resolution process, please contact us at privacy@ga.co. As explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. General Assembly is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Please see elsewhere in this Policy for more information on: types of personal data collected, purposes for data collection, types of third parties receiving personal data and purposes of disclosure to such parties, GA’s liability for onward transfer of personal data, rights of individuals to access data, choices for individuals regarding limitation and disclosure of data, and GA’s obligation to disclose data in response to valid national security and law enforcement requests. 
 
 ### UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
 
-If you would like to obtain a copy of the Personal Information held about you by us, or update or correct any information that you have provided to us through your use of the Site or Service, or otherwise, or if you have any questions or suggestions for improving this Privacy Policy, please send an email to legal@ga.co. 
+If you would like to obtain a copy of the Personal Information held about you by us, or update, correct, or delete any information that you have provided to us through your use of the Site or Service, or otherwise, or if you have any questions or suggestions for improving this Privacy Policy, please send an email to privacy@ga.co. If you have questions about unsubscribing from email or other communications, you may send an email to hello@ga.co. 
 
 ### CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
-We reserve the right to revise this Privacy Policy at any time, without prior notice to you. You are responsible for periodically reviewing this Privacy Policy to check for any changes. 
-
-**Posting of Revised Privacy Policy.** We will post any revisions to the Privacy Policy on this web page, and the revised version will be effective when it is posted. The date the Privacy Policy was last revised is identified at the top of the page. 
-
-**New Uses of Personal Information.** From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law. 
+From time to time, we may revise or update our Privacy Policy. We will notify you of any changes by posting updates to the Privacy Policy on this web page. The date the Privacy Policy was last revised is identified at the top of the page. 
 
 ###  CONTACT INFORMATION 
+
+If you have any further questions about this Privacy Policy or General Assembly’s privacy practices, please contact us at the information below: 
 
 General Assembly  
 902 Broadway, 4th Floor  
 New York, New York, 10010
 
-[legal@ga.co](https://web.archive.org/web/20160428005120id_/https%3A//generalassemb.ly/legal@ga.co)
+[privacy@ga.co](https://web.archive.org/web/20170606182617id_/https%3A//generalassemb.ly/privacy@ga.co)
