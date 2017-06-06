@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgoals.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119075417id_/http%3A//www.globalgoals.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgoals.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103501id_/http%3A//www.globalgoals.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Global Goals
 
@@ -6,7 +6,7 @@ This Policy applies as between you, the User of this Website and Project Everyon
 
 ## 1\. Definitions and Interpretation
 
-In this Policy the following terms shall have the following meanings: 
+In this Policy the following terms shall have the following meanings:
 
 **“Data”** means collectively all information that you submit to the Project Everyone via the Website. This definition shall, where applicable, incorporate the definitions provided in the Data Protection Act 1998;  
 **“Cookie”** means a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in Clause 12;  
@@ -35,17 +35,19 @@ Without limitation, any of the following Data may be collected by this Website f
   10. web browser type and version (automatically collected)
   11. operating system (automatically collected)
   12. a list of URLs starting with a referring site, your activity on this Website, and the site you exit to (automatically collected)
+  13. school or organisation
+  14. country
 
 
 
 ## 4\. Our Use of Data
 
   1. Any personal Data you submit will be retained by Project Everyone for up to 2 years.
-  2. Unless we are obliged or permitted by law to do so, and subject to Clause 5, your Data will not be disclosed to third parties. 
+  2. Unless we are obliged or permitted by law to do so, and subject to Clause 5, your Data will not be disclosed to third parties.
   3. All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. Fore more details on security see Clause 11 below.
   4. Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website. Specifically, Data may be used by us for the following reasons: 
     1. internal record keeping;
-    2. contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update the Website. 
+    2. contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update the Website.
 
 
 
@@ -58,12 +60,12 @@ Without limitation, any of the following Data may be collected by this Website f
 
 ## 6\. Links to Other Websites
 
-This Website may, from time to time, provide links to other websites. Project Everyone has no control over such websites and is in no way responsible for the content thereof. This Policy does not extend to your use of such websites. Users are advised to read the privacy policy or statement of other websites prior to using them. 
+This Website may, from time to time, provide links to other websites. Project Everyone has no control over such websites and is in no way responsible for the content thereof. This Policy does not extend to your use of such websites. Users are advised to read the privacy policy or statement of other websites prior to using them.
 
 ## 7\. Changes of Business Ownership and Control
 
   1. Project Everyone may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of www.globalgoals.org. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was originally supplied to us.
-  2. In the event that any Data submitted by Users is to be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
+  2. In the event that any Data submitted by Users is to be transferred in such a manner, you will not be contacted in advance and informed of the changes.
 
 
 
@@ -71,7 +73,7 @@ This Website may, from time to time, provide links to other websites. Project Ev
 
   1. Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following: 
     1. use of Data for direct marketing purposes; and
-    2. sharing Data with third parties. 
+    2. sharing Data with third parties.
 
 
 
@@ -92,10 +94,7 @@ You have the right to ask for a copy of any of your personal Data held by Projec
   2. All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.
   3. Before the Website places any Cookies on your computer, subject to sub-Clause 11.4 and sub-Clause 11.7, you will be presented with a prompt requesting your consent to set those Cookies. By giving your consent to the placing of Cookies you are enabling Project Everyone to provide the best possible experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended.
   4. Certain features of the Website depend upon Cookies to function. UK and EU Cookie Law deems these Cookies to be “strictly necessary”. These Cookies are shown below. Your consent will not be sought to place these Cookies. You may still block these cookies by changing your internet browser’s settings as detailed below.
-  5. This Website places the following Cookies: 
-
-This website currently doesn’t use any “strictly necessary” cookies.
-
+  5. This Website places the following Cookies:This website currently doesn’t use any “strictly necessary” cookies.
   6. This Website uses analytics services provided by Google Analytics. Website analytics refers to a set of tools used to collect and analyse usage statistics, enabling us to better understand how Users use the Website. This, in turn, enables us to improve the Website. You do not have to allow us to use these Cookies, as detailed below, however whilst our use of them does not pose any risk to your privacy or your safe use of the Website it does enable us to continually improve our business.
   7. The analytics services used by this Website use Cookies to gather the required information. Certain of these Cookies may be placed immediately when you decide to visit the Website and it may not be possible to obtain your prior consent. You may remove these Cookies and prevent future use of them by following the steps set out below.
   8. The analytics services used by this Website use the following Cookies: 
