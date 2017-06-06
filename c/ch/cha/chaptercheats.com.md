@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124135220id_/http%3A//www.chaptercheats.com/includes/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182533id_/http%3A//www.chaptercheats.com/includes/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,5 +34,5 @@ Email: admin[at]chaptercheats[dot]com
 **Note:**  
 This privacy policy is subject to change at any time, without any given notice.
 
-© 1999-2016,  
-[www.chaptercheats.com](http://www.chaptercheats.com/)
+© 1999-2017,  
+[www.chaptercheats.com](https://www.chaptercheats.com/)
