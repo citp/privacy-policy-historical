@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232836id_/http%3A//www.visitlondon.com/about-us/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052752id_/http%3A//www.visitlondon.com/about-us/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy - visitlondon.com
 
