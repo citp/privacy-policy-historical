@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313220649id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191126id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | TINYpulse
+
+## Our Privacy Policy
 
 **Last updated: March 17, 2014**
 
@@ -8,13 +10,13 @@
 
 This privacy policy applies to all the products, services and websites offered by Delight Labs LLC and any affiliated entity or d/b/a (collectively "TINYhr") except where otherwise noted. We refer to those products, services and websites collectively as the “services” in this policy. Some services have supplementary privacy statements that explain in more detail our specific privacy practices in relation to them. Unless otherwise noted, our services are provided by Delight Labs LLC inside of the United States.
 
-**Questions?** For questions regarding our privacy policy or practices, contact TINYhr emailing [support@TINYhr.com](mailto:support@TINYhr.com).
+**Questions?** For questions regarding our privacy policy or practices, contact TINYhr emailing [support@TINYpulse.com](mailto:support@TINYpulse.com).
 
 ## IF YOU OR SOMEONE YOU INVITED ANSWERS SURVEYS:
 
-  * **Surveys are administered by TINYhr.** We host the surveys on our websites and collect the responses submitted. If you have any questions about a survey you are taking, please contact [support@TINYhr.com](mailto:support@TINYhr.com) or your organization’s manager who signed you up for this service.
+  * **Surveys are administered by TINYhr.** We host the surveys on our websites and collect the responses submitted. If you have any questions about a survey you are taking, please contact [support@TINYpulse.com](mailto:support@TINYpulse.com) or your organization’s manager who signed you up for this service.
   * **Are your responses anonymous?** By default, yes. TINYhr does not reveal which responses were associated with which email or IP address. From time to time, if the response rate is low, the survey administrator may be able to determine the identity of the individual(s) who responded. Moreover, some responses may proactively disclose their identity. Since TINYhr does not change or edit the responses, in such instance, the survey administrator will find out who submitted that particular response.
-  * If you think a survey violates our Terms of Use or may be engaging in illegal activity, please email [support@TINYhr.com](mailto:support@TINYhr.com).
+  * If you think a survey violates our Terms of Use or may be engaging in illegal activity, please email [support@TINYpulse.com](mailto:support@TINYpulse.com).
 
 
 
@@ -48,7 +50,7 @@ TINYhr is used by **manager(s)** (people who are able to access the results of s
       * **To provide you with personalized content.** We may store user preferences, such as your default language, in cookies to personalize the content you see. We also use cookies to ensure that users can’t retake certain surveys that they have already completed.
       * **To improve our services.** We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users.
     * **Blogs and Forums.** Our website offers publicly accessible blogs and may offer community forums in the future. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site.
-    * **Safety of Minors and COPPA.** Our services are not intended for and may not be used by minors. "Minors" are individuals under the age of majority in their place of residence (or under 13 in the United States). TINYhr does not knowingly collect personal data from minors or allow them to register. If it comes to our attention that we have collected personal data from a minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us [atsupport@TINYhr.com](mailto:atsupport@TINYhr.com).
+    * **Safety of Minors and COPPA.** Our services are not intended for and may not be used by minors. "Minors" are individuals under the age of majority in their place of residence (or under 13 in the United States). TINYhr does not knowingly collect personal data from minors or allow them to register. If it comes to our attention that we have collected personal data from a minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us at [support@TINYpulse.com](mailto:support@TINYpulse.com).
   6. **We don't sell your survey data. **
   7. **When might we disclose your **** data**** to third parties?** Only for a limited number of reasons. Mostly commonly, we share your information with our service providers who help us to provide our services to you. We contractually bind these service providers to keep your information confidential and to use it only for the purpose of providing their services to us. For example, we use payment processors who help us to process credit card transactions. By using our services, you authorize TINYhr to sub-contract in this manner on your behalf. Rarer circumstances include when we need to share information if required by law, or in a corporate restructuring or acquisition context (see below for more details).
   8. **Sharing your surveys for research and related purposes.** We may provide aggregated, "blind" data to third parties or researchers to conduct research. We may also provide such information to third parties for overall forecasting, trend research, or other purposes.
@@ -84,7 +86,7 @@ TINYhr is used by **manager(s)** (people who are able to access the results of s
       * **To provide you with personalized content.** We may store user preferences, such as your default language, in cookies to personalize the content you see. We also use cookies to ensure that users can’t retake certain surveys that they have already completed.
       * **To improve our services.** We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users.
     * **Blogs and Forums.** Our website offers publicly accessible blogs and may offer community forums in the future. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site.
-    * **Safety of Minors and COPPA.** Our services are not intended for and may not be used by minors. "Minors" are individuals under the age of majority in their place of residence (or under 13 in the United States). TINYhr does not knowingly collect personal data from minors or allow them to register. If it comes to our attention that we have collected personal data from a minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us [atsupport@TINYhr.com](mailto:atsupport@TINYhr.com).
+    * **Safety of Minors and COPPA.** Our services are not intended for and may not be used by minors. "Minors" are individuals under the age of majority in their place of residence (or under 13 in the United States). TINYhr does not knowingly collect personal data from minors or allow them to register. If it comes to our attention that we have collected personal data from a minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us at [ support@TINYpulse.com](mailto:support@TINYpulse.com).
 
 
 
