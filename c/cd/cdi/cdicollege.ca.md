@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cdicollege.ca privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118053946id_/http%3A//www.cdicollege.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdicollege.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150010id_/http%3A//www.cdicollege.ca/british-columbia/privacy-policy) for the most accurate reproduction.*
 
-# CDI College Privacy Policy
+# CDI College | British Columbia | CDI College Privacy Policy | Career Training
 
 Your privacy is important to us. To better protect your privacy, we've developed this notice explaining our online information practices and the choices you can make about the way your information is collected and used within our sites and services. Please read on for more details about our privacy policy.
 
