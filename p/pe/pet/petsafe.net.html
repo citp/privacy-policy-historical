@@ -1,29 +1,30 @@
-<!--The following is the downloaded HTML source of the petsafe.net privacy policy that was archived on 2015-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150509142405id_/http%3A//www.petsafe.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petsafe.net privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606043330id_/http%3A//www.petsafe.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <meta http-equiv="X-UA-Compatible" content="IE=9">
     <title>Privacy Policy</title>
 <meta name="description" content="">
 <link rel="canonical" href="http://www.petsafe.net/privacy">
+    
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="width">
     <meta http-equiv="cleartype" content="on">
+    <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width,maximum-scale=1.0,initial-scale=1,user-scalable=no">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P65R"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQIBWVNSGwcGVVNRBwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P65R"></script><script src="https://use.typekit.net/dfm6xct.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
     <link rel="stylesheet" href="//d3taa8h1p8788q.cloudfront.net/media/css/vendors/bootstrap.min.css" type="text/css">
     <!--[if gte IE 9]><!-->
-    <link rel="stylesheet" href="//d3taa8h1p8788q.cloudfront.net/media/css/styles.min.1505070.css" type="text/css">
+    <link rel="stylesheet" href="//d3taa8h1p8788q.cloudfront.net/media/css/styles.min.1706051.css" type="text/css">
     <!--<![endif]-->
-
     <!--[if IE 9]>
     <link rel="stylesheet" href="//d3taa8h1p8788q.cloudfront.net/media/css/ie9.css" type="text/css" />
     <![endif]-->
     <!--[if lte IE 8]>
     <script type="text/javascript" src="//d3taa8h1p8788q.cloudfront.net/media/js/ie/modernizr-1.7.min.js"></script>
-    <link rel="stylesheet" href="//d3taa8h1p8788q.cloudfront.net/media/css/styles.nomq.min.1505070.css" type="text/css" />
+    <link rel="stylesheet" href="//d3taa8h1p8788q.cloudfront.net/media/css/styles.nomq.min.1706051.css" type="text/css" />
     <![endif]-->
     <!--[if lte IE 9]>
     <link rel="stylesheet" href="//d3taa8h1p8788q.cloudfront.net/media/css/ie9-.css" type="text/css" />
@@ -31,9 +32,10 @@
     <!--[if IE 7]>
     <link rel="stylesheet" href="//d3taa8h1p8788q.cloudfront.net/media/css/ie7.css" type="text/css" />
     <![endif]-->
-    <script src="//d3taa8h1p8788q.cloudfront.net/media/js/shared.header.min.1505070.js"></script>
+    <script src="//d3taa8h1p8788q.cloudfront.net/media/js/shared.header.min.1706051.js"></script>
     
-<script src="//dev.visualwebsiteoptimizer.com/j.php?a=29100&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150509142405id_%2Fhttp%253A%2F%2Fwww.petsafe.net%2Fprivacy&amp;r=0.6395923639269854" type="text/javascript"></script></head>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<script src="//dev.visualwebsiteoptimizer.com/j.php?a=29100&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170606043330id_%2Fhttp%253A%2F%2Fwww.petsafe.net%2Fprivacy&amp;r=0.3475975943705112" type="text/javascript"></script></head>
 <body id="">
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P65R"
@@ -57,6 +59,7 @@
 	document.body.appendChild(e);
     }
 </script>
+<div class="remodal-bg">
 	<!-- Start Visual Website Optimizer Asynchronous Code -->
 <script type="text/javascript">
     var _vwo_code=(function(){
@@ -68,6 +71,7 @@
                 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 </script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
+
 <header>
     <div class="bounds">
         <a href="http://www.petsafe.net" id="logo">PetSafe</a>
@@ -78,58 +82,25 @@
     <div id="nav-mobile-search" class="lvl1 dd utility-nav-item">
         <a href="#" id="mobile-search"></a>
         <div class="flyout" id="small-mobile-search">
-            <form action="http://www.petsafe.net/search">
+            <form action="//www.petsafe.net/search">
                 <input type="text" name="q" placeholder="Search PetSafe">
                 <input type="image" id="small-mobile-search-submit" src="//d3taa8h1p8788q.cloudfront.net/media/images/btn-newsletter-submit.png">
             </form>
         </div>
     </div>
-    <div class="utility-nav-item ccc-contact" style="color:#ffffff;padding-right:10px;font-family:'museo-sans', sans-serif;">1-866-738-4379</div>
+    <div class="utility-nav-item ccc-contact" style="color:#ffffff;padding-right:10px;padding-top:1px;font-family:'museo-slab', sans-serif;">1-866-738-4379</div>
     <div class="utility-nav-item ccc-contact">
-        <script type="text/javascript">
-            jQuery(document).ready(function(){
-                jQuery('.chat-new-window').click(function (event) {
-                    event.preventDefault();
-                    var $this = jQuery(this);
-                    var url = $this.attr("href");
-                    var windowName = "popUp";
-                    var windowSize = $this.data("popup");
-                    window.open(url, windowName, windowSize);
-                });
-            });
-        </script>
-        <a href="http://chat.petsafe.net/Chat/CPChatRequest.htm?PetSafeChat" style="background:none;" class="chat-new-window" data-popup="width=636, height=645" onclick="dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'Chat', 'gtmAction': 'OpenChat', 'gtmLabel': 'Chat Now'});">
+        <a href="http://chat.petsafe.net/Chat/CPChatRequest.htm?PetSafeChat" style="background:none;" class="chat-new-window chat-link" data-popup="width=636, height=645" onclick="dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'Chat', 'gtmAction': 'OpenChat', 'gtmLabel': 'Chat Now'});">
         <img src="//d3taa8h1p8788q.cloudfront.net/media/images/Chat-white.png">
         <span style="color:#ffffff;">Live Chat</span>
         </a>
     </div>
-    <div class="utility-nav-item"><a href="http://store.petsafe.net/checkout/cart" rel="nofollow" id="nav-cart">Cart</a></div>
+    <div class="utility-nav-item"><a href="http://store.petsafe.net/checkout/cart/" rel="nofollow" id="nav-cart">Cart</a></div>
     <div class="utility-nav-item"><a href="http://store.petsafe.net/customer/account/" id="nav-myaccount" rel="nofollow">My Account</a></div>
-    <div class="fullsize lvl1 dd utility-nav-item about-us-tab">
-        <a href="http://www.petsafe.net/about-us" class="trigger1 about-us-trigger">About Us</a>
-        <div class="flyout" id="support-flyout">
-            <div class="flyout-col">
-                <ul> 
-<li class="first"><a href="http://www.petsafe.net/about-us">About PetSafe</a></li> 
-<li><a href="http://www.petsafe.net/about-us/working-at-petsafe">Working at PetSafe</a></li> 
-<li><a href="http://www.petsafe.net/support/wholesaler-info">Wholesale Info</a></li> 
-<li><a href="http://www.petsafe.net/where-to-buy/authorized-retailers">Authorized Retailers</a></li> 
-<li><a href="http://www.petsafe.net/about-us/press-releases">Press Releases</a></li> 
-<li><a href="http://www.petsafe.net/about-us/board-of-directors">Board of Directors</a></li> 
-<li><a href="http://www.petsafe.net/about-us/community-outreach">Community Outreach</a></li> 
-<li><a href="http://www.petsafe.net/about-us/testimonials">Testimonials</a></li> 
-<li><a href="http://www.petsafe.net/about-us/contests">Contests</a></li> 
-<li><a href="http://www.petsafe.net/about-us/research-projects">Animal Behavior Studies</a></li> 
-<li><a href="https://radiosystemscorp.sharefile.com/">Investor Relations</a></li> 
-</ul>
-            </div>
-        </div>
-    </div>
-    <div class="utility-nav-item"><a href="http://www.petsafe.net/where-to-buy" id="where-to-buy" class="swtb">Where to Buy</a></div>
+    <div class="utility-nav-item"><a href="http://www.petsafe.net/where-to-buy" id="where-to-buy" class="swtb">Find a Retailer</a></div>
     <div class="utility-nav-item"><a href="http://www.petsafe.net/support/policies-and-terms/shipping-policy">
         <img class="free-shipping-utility-img" src="//d3taa8h1p8788q.cloudfront.net/media/images/free-shipping-small.png">
-        <p class="free-shipping-utility-copy">FREE SHIPPING<br>
-            <span class="free-shipping-utility-subcopy">On orders over $50. <em>Some exclusions apply.</em></span></p>
+        <p class="free-shipping-utility-copy">FREE SHIPPING<br><span class="free-shipping-utility-subcopy">on orders over $50.</span></p>
     </a>
     </div>
 </div>
@@ -154,18 +125,15 @@
                 <div class="flyout">
                     <ul>
 	<li class="first"><a href="http://www.petsafe.net/support"><h4>Manuals &amp; Product Support</h4></a></li>
-	<li><a href="http://www.petsafe.net/support/contact-us"><h4>Contact Us</h4></a></li>
-	<li><a href="http://www.petsafe.net/support/wholesaler-info"><h4>Wholesale Info</h4></a></li>
 	<li><a href="http://www.petsafe.net/support/downloads"><h4>Software Updates</h4></a></li>
 	<li><a href="http://www.petsafe.net/support/product-registration"><h4>Product Registration</h4></a></li>
-	<li><a href="http://www.petsafe.net/support/policies-and-terms/warranty-information"><h4>Warranty Info</h4></a></li>
 	<li><a href="http://www.petsafe.net/support/policies-and-terms"><h4>Returns &amp; Policies</h4></a></li>
-	<li><a href="http://www.petsafe.net/support/policies-and-terms/alerts-and-safety-information"><h4>Alerts &amp; Safety Info</h4></a></li>
+	<li><a href="http://www.petsafe.net/support/contact-us"><h4>Contact Us</h4></a></li>
 </ul>
                 </div>
             </div>
 
-            <div class="nav-dropdown-container nav-learn lvl1"><a href="http://www.petsafe.net/pet-products" class="trigger1">Learn</a>
+            <div class="nav-dropdown-container nav-learn lvl1"><a href="http://www.petsafe.net/learn" class="trigger1">Learn</a>
                 <div class="flyout">
                     <ul class="flyout-col learn-col">
     <li>
@@ -277,200 +245,206 @@
 
             <div class="nav-dropdown-container nav-shop lvl1"><a href="http://store.petsafe.net" class="trigger1">Shop</a>
                 <div class="flyout">
-                    <div class="non-mobile">
-    <div class="shop-main-categories">
-        <div class="nav-list-wrapper">
-            <ul>
-                <li class="nav-shop-category-group">
-                    <ul>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/fencing/wireless-fences">
-                                <span class="nav-shop-sprite nav-shop-sprite-wirelessFence"></span>
-                                <span class="category-name">Wireless Fences</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/fencing/in-ground-fences">
-                                <span class="nav-shop-sprite nav-shop-sprite-inGroundFence"></span>
-                                <span class="category-name">In-Ground Fences</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/doors">
-                                <span class="nav-shop-sprite nav-shop-sprite-kennels"></span>
-                                <span class="category-name">Doors</span>
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="nav-shop-category-group">
-                    <ul>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/collars-leashes-harnesses">
-                                <span class="nav-shop-sprite nav-shop-sprite-harnessesAndLeashes"></span>
-                                <span class="category-name">Harnesses &amp; Leashes</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/bark-control">
-                                <span class="nav-shop-sprite nav-shop-sprite-barkCollars"></span>
-                                <span class="category-name">Bark Collars &amp; Deterents</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/training-behavior/remote-trainers">
-                                <span class="nav-shop-sprite nav-shop-sprite-dogTraining"></span>
-                                <span class="category-name">Dog Training Collars</span>
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="nav-shop-category-group">
-                    <ul>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/training-behavior/pet-proofing">
-                                <span class="nav-shop-sprite nav-shop-sprite-petProofing"></span>
-                                <span class="category-name">Pet Proofing</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/pet-tech-cameras">
-                                <span class="nav-shop-sprite nav-shop-sprite-petTech"></span>
-                                <span class="category-name">Pet Tech &amp; Cameras</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/training-behavior/clicker-trainers">
-                                <span class="nav-shop-sprite nav-shop-sprite-clickers"></span>
-                                <span class="category-name">Clicker Training</span>
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="nav-shop-category-group">
-                    <ul>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/litter-boxes">
-                                <span class="nav-shop-sprite nav-shop-sprite-litterBoxes"></span>
-                                <span class="category-name">Litter Boxes</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/house-training">
-                                <span class="nav-shop-sprite nav-shop-sprite-houseTraining"></span>
-                                <span class="category-name">House Training</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/house-training">
-                                <span class="nav-shop-sprite nav-shop-sprite-petCleanup"></span>
-                                <span class="category-name">Pet Cleanup</span>
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="nav-shop-category-group">
-                    <ul>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/fountains">
-                                <span class="nav-shop-sprite nav-shop-sprite-petFountains"></span>
-                                <span class="category-name">Fountains</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/feeders">
-                                <span class="nav-shop-sprite nav-shop-sprite-petFeeders"></span>
-                                <span class="category-name">Feeders</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/dog-clothes">
-                                <span class="nav-shop-sprite nav-shop-sprite-petDoors"></span>
-                                <span class="category-name">Dog Clothes</span>
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="nav-shop-category-group last">
-                    <ul>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/toys">
-                                <span class="nav-shop-sprite nav-shop-sprite-smartToys"></span>
-                                <span class="category-name">Toys</span>
-                            </a>
-                        </li>
-                        <li class="nav-shop-category">
-                            <a href="http://store.petsafe.net/treats">
-                                <span class="nav-shop-sprite nav-shop-sprite-treats"></span>
-                                <span class="category-name">Treats</span>
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div class="flyout-col accessories-col">
-        <div class="nav-list-wrapper">
-            <h4 class="nav-list-heading"><a href="http://store.petsafe.net/accessories">Accessories &amp; Parts</a></h4>
-            <ul>
-                <li><a href="http://store.petsafe.net/accessories/batteries">Batteries</a></li>
-                <li><a href="http://store.petsafe.net/accessories/l/collars">Collars</a></li>
-                <li><a href="http://store.petsafe.net/accessories/l/collar-straps">Collar Straps</a></li>
-                <li><a href="http://store.petsafe.net/accessories/doors">Door Flaps &amp; Install Kits</a></li>
-                <li><a href="http://store.petsafe.net/accessories/litter-boxes">Litter Trays &amp; Accessories</a></li>
-                <li><a href="http://store.petsafe.net/accessories/house-training">Pee Pads &amp; Pet Loo Accessories</a></li>
-                <li><a href="http://store.petsafe.net/accessories/fountains">Fountain Filters &amp; Pumps</a></li>
-                <li><a href="http://store.petsafe.net/accessories/training-behavior/pet-proofing">Pet Proofing Barriers &amp; Mats</a></li>
-                <li><a href="http://store.petsafe.net/accessories/l/replacement-parts-kits">Replacement Parts &amp; Kits</a></li>
-                <li class="nav-list-all-item"><a href="http://store.petsafe.net/accessories/">All Accessories</a></li>
-            </ul>
-        </div>
-    </div>
-    <div class="flyout-col accessories-row">
-        <div class="nav-list-wrapper">
-            <h4 class="nav-list-heading"><a href="http://store.petsafe.net/accessories">Accessories &amp; Parts</a></h4>
-            <ul class="category-subnav">
-                <li><a href="http://store.petsafe.net/accessories/batteries">Batteries</a></li>
-                <li><a href="http://store.petsafe.net/accessories/l/collars">Collars</a></li>
-                <li><a href="http://store.petsafe.net/accessories/doors">Door Flaps</a></li>
-                <li><a href="http://store.petsafe.net/accessories/fountains">Filters</a></li>
-                <li><a href="http://store.petsafe.net/accessories/litter-boxes">Litter Trays</a></li>
-                <li><a href="http://store.petsafe.net/accessories">View All</a></li>
-            </ul>
-        </div>
-    </div>
-    <div class="nav-shop-logos">
-        <a class="nav-shop-logos-sprite busyBuddy" href="http://www.petsafe.net/busybuddy">Busy Buddy</a>
-        <a class="nav-shop-logos-sprite drinkWell" href="http://www.petsafe.net/drinkwell">Drinkwell</a>
-        <a class="nav-shop-logos-sprite scoopFree" href="http://www.petsafe.net/scoopfree">Scoop Free</a>
-        <a class="nav-shop-logos-sprite indigo" href="http://www.petsafe.net/indigo">indigo</a>
-        <a class="nav-shop-logos-sprite frolicat" href="http://store.petsafe.net/toys/l/frolicat-trade">FroliCat</a>
-        <a class="nav-shop-logos-sprite petLoo" href="http://www.petsafe.net/petloo">Pet Loo</a>
-    </div>
-</div>
-<div class="mobile">
-    <ul class="flyout-col">
-        <li><a href="http://store.petsafe.net/accessories"><h4>Accessories &amp; Parts</h4></a></li>
-        <li><a href="http://store.petsafe.net/fencing/wireless-fences"><h4>Wireless Fences</h4></a></li>
-        <li><a href="http://store.petsafe.net/fencing/in-ground-fences"><h4>In-Ground Fences</h4></a></li>
-        <li><a href="http://store.petsafe.net/collars-leashes-harnesses"><h4>Harnesses &amp; Leashes</h4></a></li>
-        <li><a href="http://store.petsafe.net/bark-control"><h4>Bark Collars &amp; Deterrents</h4></a></li>
-        <li><a href="http://store.petsafe.net/training-behavior/remote-trainers"><h4>Dog Training Collars</h4></a></li>
-        <li><a href="http://store.petsafe.net/training-behavior/pet-proofing"><h4>Pet Proofing</h4></a></li>
-        <li><a href="http://store.petsafe.net/pet-tech-cameras"><h4>Pet Tech &amp; Cameras</h4></a></li>
-        <li><a href="http://store.petsafe.net/training-behavior/clicker-trainers"><h4>Clicker Training</h4></a></li>
-        <li><a href="http://store.petsafe.net/litter-boxes"><h4>Litter Boxes</h4></a></li>
-        <li><a href="http://store.petsafe.net/house-training"><h4>House Training</h4></a></li>
-        <li><a href="http://store.petsafe.net/house-training"><h4>Pet Cleanup</h4></a></li>
-        <li><a href="http://store.petsafe.net/fountains"><h4>Fountains</h4></a></li>
-        <li><a href="http://store.petsafe.net/feeders"><h4>Feeders</h4></a></li>
-        <li><a href="http://store.petsafe.net/doors"><h4>Doors</h4></a></li>
-        <li><a href="http://store.petsafe.net/toys"><h4>Toys</h4></a></li>
-        <li><a href="http://store.petsafe.net/treats"><h4>Treats</h4></a></li>
-        <li><a href="http://store.petsafe.net/dog-clothes"><h4>Dog Clothes</h4></a></li>
-    </ul>
+                    <div class="non-mobile"> 
+    <div class="shop-main-categories"> 
+        <div class="nav-list-wrapper"> 
+            <ul> 
+                <li class="nav-shop-category-group"> 
+                    <ul> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/fencing/wireless-fences"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-wirelessFence"></span> 
+                                <span class="category-name">Wireless Fences</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/fencing/in-ground-fences"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-inGroundFence"></span> 
+                                <span class="category-name">In-Ground Fences</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/doors"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-kennels"></span> 
+                                <span class="category-name">Doors</span> 
+                            </a> 
+                        </li> 
+                    </ul> 
+                </li> 
+                <li class="nav-shop-category-group"> 
+                    <ul> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/collars-leashes-harnesses"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-harnessesAndLeashes"></span> 
+                                <span class="category-name">Harnesses &amp; Leashes</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/bark-control"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-barkCollars"></span> 
+                                <span class="category-name">Bark Collars &amp; Deterrents</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/training-behavior/remote-trainers"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-dogTraining"></span> 
+                                <span class="category-name">Dog Training Collars</span> 
+                            </a> 
+                        </li> 
+                    </ul> 
+                </li> 
+                <li class="nav-shop-category-group"> 
+                    <ul> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/training-behavior/pet-proofing"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-petProofing"></span> 
+                                <span class="category-name">Pet Proofing</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/pet-tech-cameras"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-petTech"></span> 
+                                <span class="category-name">Pet Tech</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/training-behavior/clicker-trainers"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-clickers"></span> 
+                                <span class="category-name">Clicker Training</span> 
+                            </a> 
+                        </li> 
+                    </ul> 
+                </li> 
+                <li class="nav-shop-category-group"> 
+                    <ul> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/litter-boxes"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-litterBoxes"></span> 
+                                <span class="category-name">Litter Boxes</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/house-training"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-houseTraining"></span> 
+                                <span class="category-name">House Training</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/house-training"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-petCleanup"></span> 
+                                <span class="category-name">Pet Cleanup</span> 
+                            </a> 
+                        </li> 
+                    </ul> 
+                </li> 
+                <li class="nav-shop-category-group"> 
+                    <ul> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/fountains"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-petFountains"></span> 
+                                <span class="category-name">Fountains</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/feeders"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-petFeeders"></span> 
+                                <span class="category-name">Feeders</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/dog-clothes"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-petDoors"></span> 
+                                <span class="category-name">Dog Clothes</span> 
+                            </a> 
+                        </li> 
+                    </ul> 
+                </li> 
+                <li class="nav-shop-category-group last"> 
+                    <ul> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/toys"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-smartToys"></span> 
+                                <span class="category-name">Toys</span> 
+                            </a> 
+                        </li> 
+                        <li class="nav-shop-category"> 
+                            <a href="http://store.petsafe.net/treats"> 
+                                <span class="nav-shop-sprite nav-shop-sprite-treats"></span> 
+                                <span class="category-name">Treats</span> 
+                            </a> 
+                        </li> 
+                         
+                    </ul> 
+                </li> 
+            </ul> 
+        </div> 
+    </div> 
+    <div class="flyout-col accessories-col"> 
+        <div class="nav-list-wrapper"> 
+            <h4 class="nav-list-heading"><a href="http://store.petsafe.net/accessories">Accessories &amp; Parts</a></h4> 
+            <ul> 
+                <li><a href="http://store.petsafe.net/accessories/batteries">Batteries</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/l/collars">Collars</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/l/collar-straps">Collar Straps</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/doors">Door Flaps &amp; Install Kits</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/litter-boxes">Litter Trays &amp; Accessories</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/house-training">Pee Pads &amp; Pet Loo Accessories</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/fountains">Fountain Filters &amp; Pumps</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/training-behavior/pet-proofing">Pet Proofing Barriers &amp; Mats</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/l/replacement-parts-kits">Replacement Parts &amp; Kits</a></li> 
+                <li class="nav-list-all-item"><a href="http://store.petsafe.net/accessories/">All Accessories</a></li> 
+            </ul> 
+			<p>&nbsp;</p>
+			 <h4 class="nav-list-heading"><a href="http://store.petsafe.net/clearance">Clearance</a></h4> 
+				
+			
+        </div> 
+    </div> 
+    <div class="flyout-col accessories-row"> 
+        <div class="nav-list-wrapper"> 
+            <h4 class="nav-list-heading"><a href="http://store.petsafe.net/accessories">Accessories &amp; Parts</a></h4> 
+            <ul class="category-subnav"> 
+                <li><a href="http://store.petsafe.net/accessories/batteries">Batteries</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/l/collars">Collars</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/doors">Flaps</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/fountains">Filters</a></li> 
+                <li><a href="http://store.petsafe.net/accessories/litter-boxes">Litter</a></li> 
+                <li><a href="http://store.petsafe.net/accessories">View All</a></li> 
+            </ul> 
+			 <h4 class="nav-list-heading"><a href="http://store.petsafe.net/clearance">Clearance</a></h4> 
+        </div> 
+    </div> 
+    <div class="nav-shop-logos"> 
+        <a class="nav-shop-logos-sprite busyBuddy" href="http://www.petsafe.net/busybuddy">Busy Buddy</a> 
+        <a class="nav-shop-logos-sprite drinkWell" href="http://www.petsafe.net/drinkwell">Drinkwell</a> 
+        <a class="nav-shop-logos-sprite scoopFree" href="http://www.petsafe.net/scoopfree">Scoop Free</a> 
+        <a class="nav-shop-logos-sprite indigo" href="http://www.petsafe.net/indigo">indigo</a> 
+
+        <a class="nav-shop-logos-sprite petLoo" href="http://www.petsafe.net/petloo">Pet Loo</a> 
+    </div> 
+</div> 
+<div class="mobile"> 
+    <ul class="flyout-col"> 
+        <li><a href="http://store.petsafe.net/accessories"><h4>Accessories &amp; Parts</h4></a></li> 
+        <li><a href="http://store.petsafe.net/fencing/wireless-fences"><h4>Wireless Fences</h4></a></li> 
+        <li><a href="http://store.petsafe.net/fencing/in-ground-fences"><h4>In-Ground Fences</h4></a></li> 
+        <li><a href="http://store.petsafe.net/collars-leashes-harnesses"><h4>Harnesses &amp; Leashes</h4></a></li> 
+        <li><a href="http://store.petsafe.net/bark-control"><h4>Bark Collars &amp; Deterrents</h4></a></li> 
+        <li><a href="http://store.petsafe.net/training-behavior/remote-trainers"><h4>Dog Training Collars</h4></a></li> 
+        <li><a href="http://store.petsafe.net/training-behavior/pet-proofing"><h4>Pet Proofing</h4></a></li> 
+        <li><a href="http://store.petsafe.net/pet-tech-cameras"><h4>Pet Tech</h4></a></li> 
+        <li><a href="http://store.petsafe.net/training-behavior/clicker-trainers"><h4>Clicker Training</h4></a></li> 
+        <li><a href="http://store.petsafe.net/litter-boxes"><h4>Litter Boxes</h4></a></li> 
+        <li><a href="http://store.petsafe.net/house-training"><h4>House Training</h4></a></li> 
+        <li><a href="http://store.petsafe.net/house-training"><h4>Pet Cleanup</h4></a></li> 
+        <li><a href="http://store.petsafe.net/fountains"><h4>Fountains</h4></a></li> 
+        <li><a href="http://store.petsafe.net/feeders"><h4>Feeders</h4></a></li> 
+        <li><a href="http://store.petsafe.net/doors"><h4>Doors</h4></a></li> 
+        <li><a href="http://store.petsafe.net/toys"><h4>Toys</h4></a></li> 
+        <li><a href="http://store.petsafe.net/treats"><h4>Treats</h4></a></li> 
+        <li><a href="http://store.petsafe.net/dog-clothes"><h4>Dog Clothes</h4></a></li> 
+		<li><a href="http://store.petsafe.net/clearance"><h4>Clearance</h4></a></li> 
+    </ul> 
 </div>
                 </div>
             </div>
@@ -482,121 +456,159 @@
 </header>
 
 	
-<div class="bounds">
-    <div id="category-heading">
-        <h1 id="category-title">Privacy Policy</h1>
-    </div>
-    <div class="content no-hero generic-content" id="cols">
-	    <h2 class="generic-header">
+			<div class="bounds">
+			    <div id="category-heading">
+			        <h1 id="category-title">Privacy Policy</h1>
+			    </div>
+			    <div class="content no-hero generic-content" id="cols">
+					
+				    <h2>
 	Privacy Policy</h2>
-<h3>
-	<em>This document was last updated February 23, 2009.</em><b>&nbsp;</b><b>&nbsp;</b></h3>
 <p>
-	Thank you for visiting www.petsafe.net ("Website" or "Site").&nbsp; The purpose of this Privacy Policy is to inform you about the types of information Radio Systems Corporation ("Radio Systems," "we," "us" or "our") gathers about you when you visit this Website, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.&nbsp; By your use of this Website, you signify your assent to this Privacy Policy and our <a href="Terms-of-Use">Terms of Use</a>.&nbsp; By your use of this Site following posted changes to either the Privacy Policy or <a href="Terms-of-Use">Terms of Use</a>, you signify your assent to those changes.&nbsp; Other Radio Systems' websites may operate under their own and different Privacy Policies and we encourage you to review them.</p>
+	<strong>This document was last updated August 9, 2016.</strong></p>
 <p>
-	<b>1. Children's Privacy:</b> We take children's privacy seriously.&nbsp; This Website is not directed to children.&nbsp; We do not seek to collect personal information about children through our Website.&nbsp; We ask that minors (under the age of 18) do not submit any personal information to us.<span>&nbsp; </span>If we learn that someone under the age of 18 has submitted information to us through any part of our Website, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties.&nbsp; Since we do not seek to collect any personal information about children, and we delete information collected inadvertently as soon as we discover that a child has submitted it, we typically retain no information about children that can be reviewed or deleted.&nbsp; If a parent requests review or deletion of information about their child before we have discovered and removed the information, we will of course honor that request.</p>
+	Thank you for visiting <a href="http://www.petsafe.net/">www.petsafe.net</a>. (“Website” or “Site”) The purpose of this Privacy Policy is to inform you how Radio Systems Corporation and its affiliates ("RSC," "we," "us" or "our") gathers, uses and shares information about you. We appreciate your trust that we will do so cautiously. This Privacy Policy applies to all RSC Services, Websites, and Mobile Applications (“Service(s)”) By using any of our Services you are accepting the practices described in this Privacy Policy.</p>
 <p>
-	<b>2. Personal Information We Collect:</b> Our primary goal in collecting personal information from you is to provide you with a smooth, efficient and customized experience while using our Website.&nbsp; This allows us to provide services and features that most likely meet your needs and to customize our services to make your experience easier and quicker.</p>
+	<strong>Are Children Allowed to Use RSC Services?</strong> RSC does not sell Products or Services for purchase by children. If you are under 18 you may use our Site only with the involvement of a parent or guardian.</p>
 <p>
-	You can browse part of this Website without telling us who you are or revealing any personal information about yourself.&nbsp; However, we will gather and store certain information from your visit automatically including:</p>
+	<strong>What Personal Information About Customers Do We Gather?</strong> Our primary goal in collecting personal information from you is to provide you with a smooth, efficient and customized experience. This allows us to provide Services and features that most likely meet your needs and to customize our Services in order to improve your experience. Here are the types of information we gather.</p>
+<p>
+	<strong>Information You Give Us</strong><br>
+	We receive and store any information you give us in any way. You must provide information when you search, buy, post, participate in a contest or questionnaire, or communicate with Our Customer Care Center. For example, you provide information when you search for a product, place an order through our Site, provide information in Your Account, provide reviews, and participate in Discussion Boards. As a result of those actions, you might supply us with such information as your name, address, phone numbers, email address, and credit card information. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information you provide to us for such purposes as to fulfill your requests for information, our products, programs and services, to respond to your inquiries, to communicate with you, and to offer you other products, advertisements, programs or services that we believe may be of interest to you.</p>
+<p>
+	<strong>Automatic Information</strong><br>
+	We receive and store certain types of information whenever you interact with us. This includes any interaction you may have with us using your computer or mobile device (collectively, “Device”) We use cookies and we obtain certain types of information when your web browser accesses our Site. A cookie is a small data file which we use to collect information about how our Website is used. A cookie file can contain information such as a session ID that the website uses to track the pages you visited, but the only personal information a cookie can contain is information you supply yourself. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address.&nbsp; We only use cookies to gather information indicated in this Privacy Policy and do not use cookies to gather personal identifying information about you without your consent.</p>
+<p>
+	If you prefer not to receive cookies while browsing our Website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to access or use this entire Website. Examples of the information we collect and analyze include:</p>
 <ul>
 	<li>
-		<b>Your computer’s internet protocol (IP) address.</b></li>
+		Your Device’s internet protocol (IP) address.</li>
 	<li>
-		<b>The domain from which you access the internet.</b></li>
+		Your Device’s unique device ID.</li>
 	<li>
-		<b>The kind of browser or computer you use.</b></li>
+		The domain from which you access the internet.</li>
 	<li>
-		<b>The address of the internet site, banner or email from which you selected or entered a link that brought you to this Website.</b></li>
+		The kind of browser or Device you use.</li>
 	<li>
-		<b>The number of links you click within this Website.</b></li>
+		The address of the internet site, banner or email from which you selected or entered a link that brought you to this Website.</li>
 	<li>
-		<b>The state or country from which you accessed this Website.</b></li>
+		The number of links you click within this Website.</li>
 	<li>
-		<b>The date and time of your visit and how long you spent visiting the Website.</b></li>
+		The state or country from which you accessed this Website.</li>
 	<li>
-		<b>The pages you viewed on the Website.</b></li>
+		The date and time of your visit and how long you spent visiting the Website.</li>
 	<li>
-		<b>Your computer’s operating system.</b></li>
+		The pages you viewed on the Website. Your Device’s operating system.</li>
+	<li>
+		Purchase history.</li>
+	<li>
+		Interactions within the Website or App you are using.</li>
 </ul>
 <p>
-	We require you to create an account prior to purchasing items through the Website register your product for warranty purposes, to register for any contest or other content submission.&nbsp; We ask that you provide us with certain information during the registration process. If you cannot do so, you will not be able to complete the registration process, and therefore you will not be able to access and use certain information, material and services.</p>
+	<br>
+	<strong>Does RSC Share the Information it Receives?</strong> RSC shares customer information only as described below.</p>
 <p>
-	<b>3. How We Use the Information:</b> We may use the information you provide about yourself to fulfill your requests for information, our products, programs and services, to respond to your inquiries, to communicate with you, and to offer you other products, advertisements, programs or services that we believe may be of interest to you.</p>
+	<strong>Third Party Service Providers.</strong><br>
+	In order to provide you with our Products and Services we may hire other companies or individuals (“Third Party” or “Third Parties”) to perform functions on our behalf. We may share your information with Third Parties including Third Party affiliates, our sales representatives and business partners. We may also reveal customer data to these Third Parties to invoice for goods or services purchased through this Website or to ship orders. These companies do not retain, share, store or use personally identifiable information for any secondary purpose. We do not sell information about you to Third Parties.</p>
 <p>
-	We sometimes use the non-personally identifiable information that we collect to improve the design content of the Website.&nbsp; We may also use this information in the aggregate to analyze website usage, as well as to resolve disputes, troubleshoot problems and enforce our <a href="/customer-care/policies-terms/terms-of-use">Terms of Use</a>.&nbsp;</p>
+	<strong>Business Transfers.</strong><br>
+	As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the terms in any pre-existing Privacy Policy. In the unlikely event that RSC or substantially all its assets are acquired, customer information will be one of the transferred assets.</p>
 <p>
-	To accomplish the above, we may share your information with third parties including third party affiliates, our sales representatives and business partners.&nbsp; We may also reveal customer data to these third parties to invoice for goods or services purchased through this Website or to ship orders.<span>&nbsp; </span>These companies do not retain, share, store or use personally identifiable information for any secondary purpose.<span>&nbsp; </span>We do not sell information about you to third parties.</p>
+	<strong>How Secure is my Information?</strong> Perfect security does not exist on the internet and we cannot guarantee anyone complete security. Although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will remain private and would never be disclosed in a manner that is inconsistent with this Privacy Policy. You understand that third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collected from this Website. It is important for you to protect against unauthorized access to your password and to your computer.&nbsp;</p>
 <p>
-	<b>4. Use of Cookies:</b> A cookie is a small data file which we use to collect information about how our Website is used.&nbsp; A cookie file can contain information such as a session ID that the website uses to track the pages you visited, but the only personal information a cookie can contain is information you supply yourself.<span>&nbsp; </span>A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address.<span>&nbsp; </span>We only use cookies to gather information indicated in this Privacy Policy and do not use cookies to gather personal identifying information about you without your consent.</p>
+	<strong>What Choices Do I Have?</strong> You may choose not to provide information, even though it might be needed to make a purchase or to take advantage of such RSC Services.</p>
 <p>
-	If you prefer not to receive cookies while browsing our Website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence.&nbsp; You can also refuse all cookies by turning them off in your browser, although you may not be able to access or use this entire Website.</p>
+	You can access or correct information. In order to ensure the accuracy of the personal information you have provided when creating an account with us or registering a product, you may change such information at any time by <a href="https://store.petsafe.net/customer/account">clicking here</a>. To the extent this information is stored in other databases, we cannot always ensure that such correction or deletion will reach the other databases, but we will use reasonable efforts to ensure that your information is removed from or is correct in our records.</p>
 <p>
-	<b>5. Legal Requests:</b>&nbsp; Radio Systems cooperates with law enforcement and other third parties to enforce laws, intellectual property and other rights.&nbsp; In response to a verified request relating to a criminal investigation or other alleged improper or illegal activity, we may disclose information relevant to the investigation including, but not limited to, name, address, telephone number, e-mail address, IP address, user history and complaints.</p>
+	If you do not want to receive email communications or other mail from us please adjust your <a href="https://store.petsafe.net/customer/subscription/">Communication Preferences</a>. Note if you change your Preferences and do not receive legal notices from us such as this Privacy Policy, the notices will still govern your use of our Services and it is your responsibility to review them for changes.</p>
 <p>
-	Without limiting the above, we will not otherwise disclose your personal information to law enforcement or other third parties, except as specifically outlined in this Privacy Policy, without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of this information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.&nbsp; In addition, we may transfer information about you if we are acquired by or merge with another company.</p>
+	If you prefer not to receive cookies while using our Services, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to access or use this entire Site.</p>
 <p>
-	<b>6. Security:</b> Perfect security does not exist on the internet and we cannot guarantee anyone complete security.&nbsp; Although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will remain private and would never be disclosed in a manner that is inconsistent with this Privacy Policy.<span>&nbsp; </span>You understand that third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collected from this Website.</p>
+	<strong>Links to Other Websites.</strong> This Website may contain links to other sites. Please be aware that RSC is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Site. This Privacy Policy applies solely to information collected on this Website.</p>
 <p>
-	<b>7. How You Can Access or Correct Information:</b> In order to ensure the accuracy of the personal information you have provided when creating an account with us or registering a product, you may change such information at any time by clicking <a href="/customer-care/product-support/product-registration">here</a>.&nbsp; To the extent this information is stored in other databases, we cannot always ensure that such correction or deletion will reach the other databases, but we will use reasonable efforts to ensure that your information is removed from or is correct in our records.</p>
-<p>
-	<strong>8. </strong><b>Links:</b> This Website may contain links to other sites.<span>&nbsp; </span>Please be aware that Radio Systems is not responsible for the privacy practices of such other sites.&nbsp; We encourage our users to be aware when they leave our Site.&nbsp; This Privacy Policy applies solely to information collected on this Website.</p>
-<p>
-	<b>9.&nbsp; How to Contact Us:</b> You may write us at: Privacy Policy Officer, Radio Systems Corporation, 10427 PetSafe Way, Knoxville, TN 37932, or you may send an e-mail by <a href="/customer-care/contact-us">clicking here</a>. If you have questions regarding our Privacy Policy or use of your information.</p>
-    </div>
-</div>
-
-            <footer class="small_footer">
-    <div class="bounds">
-        <div class="half bg">
-            <h3 class="fl">Connect With Us:</h3>
-            <div class="social-buttons">
-                <a href="http://www.facebook.com/petsafebrand" target="_blank" class="btn-footer-fb" onclick="dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'Outbound Links', 'gtmAction': 'Social Media Footer Icon', 'gtmLabel': 'Facebook'});">Facebook</a>
-                <a href="http://www.twitter.com/petsafe" target="_blank" class="btn-footer-tw" onclick="dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'Outbound Links', 'gtmAction': 'Social Media Footer Icon', 'gtmLabel': 'Twitter'});">Twitter</a>
-                <a href="http://www.petsafe.net/learn" target="_blank" class="btn-footer-blog" onclick="dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'Outbound Links', 'gtmAction': 'Social Media Footer Icon', 'gtmLabel': 'Blog'});">Blog</a>
-            </div>
-        </div>
-        <div class="footer-newsletter_small fl half">
-            <img src="" data-defer-src="//d3taa8h1p8788q.cloudfront.net/media/images/footer-blog-bg.png" id="newsletter-bg-img">
-            <div class="news_text-wrap">
-                <h3>Join our Newsletter</h3>
-                <p>Sign up today for the latest news, promotions, and more from PetSafe.</p>
-            </div>
-            <form action="http://email.petsafe.net/public/webform/process/" method="post" id="newsletter-validate-detail-footer">
-                <input type="hidden" name="fid" value="1vyp1x078f0dtdxpad36ntzv6u3qy">
-				<input type="hidden" name="sid" value="fd2f6751a803b10394376bcbf1a51918">
-				<input type="hidden" name="delid" value="">
-				<input type="hidden" name="subid" value="">
-				<input type="hidden" name="td" value="">
-				<input type="hidden" name="formtype" value="addcontact">
-                <script type="text/javascript">
-                    var fieldMaps = {};
-                </script>
-
-                <div class="form-group">
-	                <input type="email" id="newsletter-input" class="text field fb-email" size="35" name="100209" value="" placeholder="Enter your email">
-					<input type="hidden" name="100828[196206]" value="true">
-            	
-                    <button id="newsletter-submit" type="submit" class="btn-yellow btn-no-arrow smaller" name="Submit">
-                        <span>Sign Up</span>
-                    </button>
-                </div>
-            </form>
-        </div>
-        <div class="cf"></div>
-    </div>
+	<strong>How do I Contact RSC?</strong> You may write us at: Privacy Policy Officer, Radio Systems Corporation, 10427 PetSafe Way, Knoxville, TN 37932, or you may send an e-mail by <a href="http://www.petsafe.net/support/contact-us">clicking here</a>. If you have questions regarding our Privacy Policy or use of your information.</p>
+					
+			    </div>
+			</div>
+		
+    <footer class="small_footer">
+    <div class="footer-newsletter_small-wrap"> 
+    <div class="footer-newsletter_small"> 
+        <div class="news_text-wrap"> 
+            <h3>Join Our Newsletter</h3> 
+            <p>Sign up today for the latest news, promotions, and more from PetSafe® brand.</p> 
+        </div> 
+        <form action="https://www.petsafe.net/site/email-proxy" method="post" accept-charset="utf-8" id="newsletter-validate-detail-footer" novalidate="novalidate"> 
+            <script type="text/javascript"> 
+                var fieldMaps = {}; 
+            </script> 
+            <div class="form-group"> 
+                <input type="email" id="newsletter-input" class="text field fb-email" size="35" name="email" value="" placeholder="Ex. chester@petsafe.net"> 
+                <button id="newsletter-submit" type="submit" class="btn-yellow btn-no-arrow smaller" name="Submit"> 
+                    <span>Sign Up</span> 
+                </button> 
+<small data-validator-for="email" class="help-block" style="display:none;"></small> 
+<small data-validator-for="submit" class="help-block" style="display:none;">We're sorry, we can't connect to our email system right now. <br>Please try again later or contact Customer Care.</small> 
+            </div> 
+</form> 
+    </div> 
+</div> 
 </footer>
 <div id="legal">
     <div class="bounds">
-        <img src="" data-defer-src="//d3taa8h1p8788q.cloudfront.net/media/images/ProtectTeachLove-R.png" class="r">
-        <p style="line-height:16px;">Customer Care: Call 1-866-738-4379 or <a href="http://www.petsafe.net/support/contact-us">send us an email.</a></p>
-        <p>
-            ©2015 Radio Systems Corporation. All Rights Reserved. —
-            <a href="http://www.petsafe.net/trademarks">Trademarks</a>
-            <a href="http://www.petsafe.net/privacy">Privacy Statement</a>
-            <a href="http://www.petsafe.net/support/wholesaler-info">Wholesale Information</a>
-            <a target="_blank" rel="nofollow" href="https://petsafe.affiliatetechnology.com/" onclick="dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'Outbound Links', 'gtmAction': 'Affiliates', 'gtmLabel': 'Affiliates Footer Icon'});">Affiliates</a>
-        </p>
+        <div class="legal-wrap">
+            <div class="footer-links">
+    <h3>Customer Care</h3>
+    <h3 class="footer-phone">1-866-<wbr>738-<wbr>4379</h3>
+    <ul>
+        <li><a href="http://chat.petsafe.net/Chat/CPChatRequest.htm?PetSafeChat" class="chat-new-window chat-link" data-popup="width=636, height=645" onclick="dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'Chat', 'gtmAction': 'OpenChat', 'gtmLabel': 'Chat Now'});">Live Chat</a></li>
+        <li><a href="//www.petsafe.net/support/contact-us">Send an Email</a></li>
+        <li><a href="//www.petsafe.net/support">Manuals &amp; Support</a></li>
+        <li><a href="//www.petsafe.net/support/product-registration">Register a Product</a></li>
+        <li><a href="//www.petsafe.net/where-to-buy/authorized-retailers">Authorized Online Retailers</a></li>
+        <li><a href="//www.petsafe.net/support/door-flap-finder">Door Flap Finder</a></li>
+    </ul>
+</div>
+            <div class="footer-links">
+    <h3>Store</h3>
+    <ul>
+        <li><a href="http://store.petsafe.net/fencing/wireless-fences">Wireless Fences</a></li>
+        <li><a href="http://store.petsafe.net/fencing/in-ground-fences">In-Ground Fences</a></li>
+        <li><a href="http://store.petsafe.net/litter-boxes">Litter Boxes</a></li>
+        <li><a href="http://store.petsafe.net/bark-control/collars">Bark Collars</a></li>
+        <li><a href="http://store.petsafe.net/accessories/batteries">Batteries</a></li>
+    </ul>
+</div>
+            <div class="footer-links">
+    <h3>About Us</h3>
+    <ul>
+        <li><a href="//www.petsafe.net/about-us">About PetSafe</a></li>
+        <li><a href="//www.petsafe.net/about-us/working-at-petsafe">Careers</a></li>
+        <li><a href="//www.petsafe.net/barkforyourpark">Bark for Your Park</a></li>
+        <li><a href="//www.petsafe.net/about-us/community-outreach">Community Outreach</a></li>
+    </ul>
+</div>
+            <div class="footer-links connect">
+    <h3>Connect With Us</h3>
+    <a href="http://www.facebook.com/petsafebrand"><img class="social-foot-icon" src="//d3taa8h1p8788q.cloudfront.net/media/images/facebook-circle-icon.png" alt="PetSafe Facebook"></a>
+    <a href="http://www.twitter.com/petsafe"><img class="social-foot-icon" src="//d3taa8h1p8788q.cloudfront.net/media/images/twitter-circle-icon.png" alt="PetSafe Twitter"></a>
+    <a href="https://www.instagram.com/petsafe/"><img class="social-foot-icon" src="//d3taa8h1p8788q.cloudfront.net/media/images/instagram-circle-icon.png" alt="PetSafe Instagram"></a>
+<div style="height: 15px;"></div>
+    <a href="https://www.pinterest.com/petsafe/"><img class="social-foot-icon" src="//d3taa8h1p8788q.cloudfront.net/media/images/pinterest-circle-icon.png" alt="PetSafe Pinterest"></a>
+    <a href="https://www.youtube.com/user/petsafebrand/"><img class="social-foot-icon" src="//d3taa8h1p8788q.cloudfront.net/media/images/youtube-circle-icon.png" alt="PetSafe Instagram"></a>
+    <a class="footer-blog-link" href="//www.petsafe.net/learn">PawPrint Blog</a>
+    <div id="gts-container"></div>
+</div>
+            <div class="rsc-wrap">
+    <img src="" data-defer-src="//d3taa8h1p8788q.cloudfront.net/media/images/ProtectTeachLove-R.png" class="#">
+    <p class="legal-links">©2017 <a href="http://www.radiosystemscorporation.com/">Radio Systems Corporation</a>. All Rights Reserved.
+        <a href="http://www.petsafe.net/privacy">Privacy</a> <span class="legal-divide">|</span>
+        <a href="http://www.petsafe.net/support/wholesaler-info">Wholesalers</a> <span class="legal-divide">|</span>
+<a href="https://radiosystemscorp.sharefile.com/">Investors</a> <span class="legal-divide">|</span>
+        <a target="_blank" rel="nofollow" href="https://petsafe.affiliatetechnology.com/" onclick="dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'Outbound Links', 'gtmAction': 'Affiliates', 'gtmLabel': 'Affiliates Footer Icon'});">Affiliates</a>
+    </p>
+</div>
+        </div>
     </div>
 </div>
 <div id="add-ons-popup" class="window magento" style="display: none; opacity: 1; ">
@@ -611,19 +623,18 @@
         <div class="trigger"></div>
     </div>
 </div>
-<script type="text/javascript">
+<script type="text/javascript">//<![CDATA[
 var popovers = {
   "static-correction": {
-    "title": "What is Static Correction?",
-    "content": "<p>Static correction is a very mild, harmless electric stimulation that gets your pet&rsquo;s attention. Pets experience a light tingling sensation on the skin that gets their attention or startles them and interrupts their behavior. Electronic collars and other static products are training aids that allow you to redirect and teach your pet safely and effectively.</p><ul><li>Teach your pet quickly and safely</li><li>Electronic collars, not &ldquo;shock collars&rdquo;</li><li>Mild, safe, and effective when used correctly</li><li>Tone option for training or as a warning</li><li>Adjustable levels for proper correction</li></ul><p><a href=\"http://www.petsafe.net/support-topic/what-is-static-correction\" target=\"_blank\">Click here to read more.</a></p>"
+    "title": "<h3>What Is Static Correction?</h3>",
+    "content": "<p>Static correction is a mild, harmless electric stimulation. Pets experience a light tingling sensation on the skin that gets their attention or interrupts their behavior. Once known as \"shock collars,\" electronic collars are now much more advanced training aids to help you teach your pet safely and effectively.</p><ul class=\"dark-gray-checks\"><li>Teach your pet quickly</li><li>Safe &amp; effective when used correctly</li><li>Tone option for training or warning</li><li>Adjustable levels for proper correction</li></ul><p><a href=\"http://www.petsafe.net/support-topic/what-is-static-correction\" target=\"_blank\"><u>Learn More</u></a></p>"
   }
 }
-</script>
+//]]></script>
 <script type="text/javascript">
    
 </script> 
-    
-<div id="intl-site-notice" class="lifted-shadow" style="display: none;">
+    <div id="intl-site-notice" style="display: none;">
     <div class="top">
         <p>
             You're browsing our US site. Would you like to visit our International site?
@@ -632,12 +643,14 @@ var popovers = {
     <div class="bottom">
         <p>
              <span>
-                 <a href="//intl.petsafe.net/international" id="intl-site-notice-btn-yes" class="btn btn-default btn-lg">Yes</a>
+                 <a href="//intl.petsafe.net/international?redirect=intl_notice" id="intl-site-notice-btn-yes" class="btn btn-default btn-lg">Yes</a>
                  <a href="#" id="intl-site-notice-btn-no" class="btn btn-default btn-lg">No</a>
              </span>
         </p>
     </div>
 </div>
+</div>
+
 
 
 
@@ -645,27 +658,26 @@ var popovers = {
     var Rsc = Rsc || {};
     Rsc.ee = Rsc.ee || {};
     Rsc.ee.site_url = 'http://www.petsafe.net';
+    Rsc.ee.store_url = 'http://store.petsafe.net';
     Rsc.ee.site_url_no_protocol = '//www.petsafe.net';
-</script>
 
-<script type="text/javascript" src="//use.typekit.net/fku5qgf.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<script type="text/javascript" src="//d3taa8h1p8788q.cloudfront.net/media/js/shared.footer.min.1505070.js"></script>
-<script type="text/javascript" src="//d3taa8h1p8788q.cloudfront.net/media/js/ee.footer.min.1505070.js"></script>
+    Rsc.messages = Rsc.messages || {};
+    Rsc.messages.holiday_hours = '';
+</script>
+<script type="text/javascript" src="//d3taa8h1p8788q.cloudfront.net/media/js/shared.footer.min.1706051.js"></script>
+<script type="text/javascript" src="//d3taa8h1p8788q.cloudfront.net/media/js/ee.footer.min.1706051.js"></script>
 
 <!--[if lt IE 9]>
 <script src="//d3taa8h1p8788q.cloudfront.net/media/js/ie/respond.min.js"></script>
 <script>document.createElement("nav");document.createElement("footer");document.createElement("header");</script>
 <![endif]-->
 
-                
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8308602bf0","applicationID":"4612300","transactionName":"ZwcDbRBWXEQDBUxZDl5NIFoWXl1ZTSN9HwheBgRB","queueTime":0,"applicationTime":384,"ttGuid":"","agentToken":"","atts":"S0AAG1hMT0o=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
 
 
 
-
-
-
+	
+		
+				
+	
 <script type="text/javascript" src="//browser-update.org/update.js"></script></body></html>
