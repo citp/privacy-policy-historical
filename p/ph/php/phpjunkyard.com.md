@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpjunkyard.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322085046id_/http%3A//www.phpjunkyard.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpjunkyard.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221450id_/https%3A//www.phpjunkyard.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -12,7 +12,7 @@ Klemen Stirn is the sole owner of the information collected on PHPJunkyard. Klem
 
 #### Order
 
-[2checkout Inc.](https://web.archive.org/web/20160322085046id_/http%3A//www.phpjunkyard.com/go/go.cgi?14) is authorized payment processor for PHPJunkyard. They request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
+[2checkout Inc.](https://web.archive.org/web/20170606221450id_/https%3A//www.phpjunkyard.com/go/go.cgi?14) is authorized payment processor for PHPJunkyard. They request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
 
 ### Information Use
 
@@ -109,4 +109,4 @@ If, however, we are going to use users’ personally identifiable information in
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 privacy@phpjunkyard.com  
-http://www.phpjunkyard.com
+https://www.phpjunkyard.com
