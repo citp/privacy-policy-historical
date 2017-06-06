@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020163957id_/https%3A//www.cfainstitute.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171957id_/https%3A//www.cfainstitute.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx) for the most accurate reproduction.*
 
 # CFA Institute Privacy Policy
 
-**Last updated: January 2016**
+**Last updated: October 2016**
 
 This privacy policy (" **Privacy Policy** ") describes how CFA Institute gathers and protects certain individually identifiable information (" **Personal Information** ") and how CFA Institute may use, process, transfer, and share Personal Information. CFA Institute, located at 915 East High Street, Charlottesville, VA, 22902, owns and operates this website (the " **Site** "). This Privacy Policy applies to Personal Information that we collect through the Site, as well as offline collections of Personal Information about CFA Institute and CIPM Association members (" **Members** "), CFA®, CIPM®, and Investment FoundationsTM Program candidates, and participants and attendees at CFA Institute events.
 
@@ -108,15 +108,15 @@ The Site may offer opportunities to engage in social networking, interact with o
 
 [Back to top](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#top)
 
-## Your Preferences
+## Your Communication Preferences
 
-You may change your account preferences at any time by visiting the [Manage Account](https://web.archive.org/account) (account login required) section of the CFA Institute website and updating your online profile by selecting **Edit** under **Newsletters & Alerts**, or by contacting us using the information provided under the "Contact Us" section of this Policy. ([Back to Third Party Products and Services](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#third))
+You may change your preferences for how we contact you at any time by visiting [Your Account](https://web.archive.org/account) (account login required) on the CFA Institute website and updating your online profile by selecting **News & Communications**, or by contacting us using the information provided under the "Contact Us" section of this Policy. ([Back to Third Party Products and Services](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#third))
 
 In order to provide you with superior service, we may contact you to resolve a problem even if you have asked us not to contact you for other purposes. For example, if you are a Member and we cannot deliver your Annual Dues Bill and Professional Conduct Statement, we may contact you to verify delivery details.
 
-## Accessing and Updating Personal Information
+## Accessing and Updating Your Personal Information
 
-You may request access and the opportunity to modify or delete certain portions of your Personal Information to the extent required by applicable law by contacting CFA Institute as described in the "Contact Us" Section at the end of this Privacy Policy. Please note that we may require additional information to authenticate your identity.
+You may view your Personal Information on file with us at any time by visiting [Your Account](https://web.archive.org/account) (account login required) on the CFA Institute website, where you may change some of your Personal Information. You may also request access and the opportunity to modify or delete certain portions of your Personal Information to the extent required by applicable law by submitting the [Identification Information Change Request form](https://web.archive.org/Forms/name_change.pdf), or by contacting CFA Institute as described in the "Contact Us" Section at the end of this Privacy Policy. Please note that we may require additional information to authenticate your identity.
 
 ## Security
 
