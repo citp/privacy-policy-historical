@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the grammar-monster.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121041109id_/http%3A//www.grammar-monster.com/admin/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammar-monster.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092520id_/http%3A//www.grammar-monster.com/admin/privacy_policy.htm) for the most accurate reproduction.*
 
 # Grammar Monster Privacy Policy
-
-Our most common search themes: 
-
-apostrophe
-
-semicolon
-
-adjective
-
-verb
 
 We collect information from you when you fill out a form to register for our newsletter. When registering for our newsletter, you will be asked to enter your name and e-mail address.
 
@@ -29,5 +19,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 This policy was last modified on 29 August 2014. 
 
 If there are any questions regarding this Privacy Policy, you can [contact us using this form](http://www.grammar-monster.com/admin/contact_us.htm). 
-
-[](https://www.grammarly.com/?q=grammar&utm_source=placement&utm_medium=cpc&utm_content=ad1&utm_term=grammarmonster)
