@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122184741id_/http%3A//www.mypivots.com/page/details/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082827id_/http%3A//www.mypivots.com/page/details/privacy) for the most accurate reproduction.*
 
 # Privacy
 
