@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsprings.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227194409id_/https%3A//www.graphicsprings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsprings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191322id_/https%3A//www.graphicsprings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GraphicSprings
 
