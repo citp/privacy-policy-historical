@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the recordlocator.net privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030021032id_/https%3A//www.truthfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordlocator.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172210id_/https%3A//www.truthfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # TruthFinder - Privacy Policy
-
-## Privacy Policy
 
 This Privacy Statement describes the information collection, use, and disclosure practices of TruthFinder, hosted at, hosted at www.truthfinder.com (the “Site”).
 
