@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109025649id_/https%3A//www.nestle.in/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204457id_/https%3A//www.nestle.in/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Nestlé India
 
@@ -30,7 +30,7 @@ Return to top
 
 ## 2\. Data collected by Nestlé
 
-Nestlé may collect personal data about you from a variety of sources, including through: 
+Nestlé may collect personal data about you from a variety of sources, including through:
 
 Online and electronic interactions with us, including via Nestlé websites, mobile applications, text messaging programs or through Nestlé branded pages or applications on third party social networks (e.g. Facebook) (Nestlé Sites);
 
@@ -54,8 +54,6 @@ This is data that you provide to us with your consent for a specified purpose, i
 ## 2.2 Data that we collect when you interact with Nestlé Sites
 
 We use cookies and other tracking technology which collect certain kinds of information when you interact with Nestlé Sites.
-
-We use cookies and other tracking technology which collect certain kinds of information when you interact with Nestlé Sites. 
 
 ## 2.3 Data collected from other sources 
 
@@ -98,7 +96,7 @@ If you opt-in to receiving SMS, your mobile service provider’s policy for rece
   * Social features – to offer you a number of social features, including the following:
     1. _Website community features on a Nestlé Site -_
 
-When you visit a Nestlé Site with a community feature and upload or share recipes, pictures, videos, artwork or other content, Nestlé may use and display the personal data that you share on such sites. 
+When you visit a Nestlé Site with a community feature and upload or share recipes, pictures, videos, artwork or other content, Nestlé may use and display the personal data that you share on such sites.
 
     2. _Website viral features_
 
@@ -108,7 +106,7 @@ This typically requires the collection and use of personal contact information (
     3. _Third party social networking_
 
 Nestlé may use your personal data from when you interact with third party social networking features such as “Facebook Connect” or “Facebook Like”. These features may be integrated on Nestlé Sites including for purposes such as running contests and allowing you to share content with friends.   
-If you use these features, Nestlé may have the ability to obtain certain personal data about you from your social networking information. You can learn more about how these features work, and the profile data Nestlé may obtain about you, by visiting the website of the relevant third party social network. 
+If you use these features, Nestlé may have the ability to obtain certain personal data about you from your social networking information. You can learn more about how these features work, and the profile data Nestlé may obtain about you, by visiting the website of the relevant third party social network.
 
     4. _Other specific purposes_
 
@@ -207,7 +205,7 @@ _IP addresses_
 An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. We may record IP Addresses for the following purposes: (i) troubleshoot technical concerns, (ii) maintain website safety and security (iii) better understand how our websites are utilized, and (iv) to better tailor content to your needs depending on the country you are in. 
 
 _Log Files_  
-We (or a third party on our behalf) may collect information in the form of logs files that record website activity and gather statistics about a user’s browsing habits. These entries are generated anonymously, and help us gather (among other things) (i) a user’s browser type and operating system, (ii) information about a user’s session (such as the URL they came from, the date and time they visited our website, and which pages they've viewed on our website and for how long), and, (iii) other similar navigational or click-stream data (e.g. site traffic reporting and unique visitor counts). 
+We (or a third party on our behalf) may collect information in the form of logs files that record website activity and gather statistics about a user’s browsing habits. These entries are generated anonymously, and help us gather (among other things) (i) a user’s browser type and operating system, (ii) information about a user’s session (such as the URL they came from, the date and time they visited our website, and which pages they've viewed on our website and for how long), and, (iii) other similar navigational or click-stream data (e.g. site traffic reporting and unique visitor counts).
 
 **7.1.5 Manage your cookies/preferences**
 
@@ -226,9 +224,9 @@ Return to top  
 
 In order to keep your personal data secure, Nestlé has implemented a number of security measures, including: 
 
-  * **Secure operating environments -** Nestlé stores your data in secure operating environments and only accessible to Nestlé employees, agents and contractors on a need-to-know basis. Nestlé also follows generally accepted industry standards in this respect. 
+  * **Secure operating environments -** Nestlé stores your data in secure operating environments and only accessible to Nestlé employees, agents and contractors on a need-to-know basis. Nestlé also follows generally accepted industry standards in this respect.
   * Encryption for payment information - Nestlé uses industry-standard encryption to provide protection for sensitive financial information, such as credit card information sent over the Internet (e.g. when you make payments through Nestlé’s online stores). 
-  * Prior authentication for account access - Nestlé requires its registered consumers to verify their identity (e.g. login ID and password) before they can access or make changes to their account. This is aimed to prevent unauthorized accesses. 
+  * Prior authentication for account access - - Nestlé requires its registered consumers to verify their identity (e.g. login ID and password) before they can access or make changes to their account. This is aimed to prevent unauthorized accesses. 
 
 
 
@@ -248,17 +246,17 @@ Nestlé acts as “data controller” for the personal data it processes in the 
 
 Return to top
 
-## phone at +91 124 238 93 00   
-email at [WeCare@in.nestle.com](mailto:WeCare@in.nestle.com,) 
+**Phone -** +91 124 238 93 00 
 
-## mail at
+**Email -**[Generic.INDataPrivacy01@IN.nestle.com](mailto:Generic.INDataPrivacy01@IN.nestle.com)
 
-Corporate Office  
+**Mail -**  
+Data Privacy  
 Nestlé India Ltd.  
 Nestlé House, Jacaranda Marg M Block  
 DLF City Phase II, National Highway 8  
 Gurgaon 122 002, India
 
-**Copyright © November 2014 Nestlé**
+**Copyright © April 2017 Nestlé**
 
 Return to top
