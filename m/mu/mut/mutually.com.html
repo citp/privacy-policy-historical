@@ -1,0 +1,405 @@
+<!--The following is the downloaded HTML source of the mutually.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606040937id_/http%3A//mutually.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=270804553364817&amp;version=v2.3"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<script type="text/javascript" src="//thor.rtk.io/RLlP/jita.js?dfp=1" async="" defer=""></script>
+	<title>  Privacy Policy</title>
+	<meta http-equiv="Content-Language" content="en_US">
+	<meta http-equiv="imagetoolbar" content="no">
+	<meta property="fb:app_id" content="">
+	<meta property="fb:pages" content="181774778686553, 275208989572969, 1469919536589860, 435159066683689, 282317932166834, 281961363188, 326342277507239, 206196219413551, 456206864430347">
+	<link rel="stylesheet" data-them="" href="http://mutually.com/wp-content/themes/Arbitrage/style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="http://mutually.com/wp-content/themes/Arbitrage/responsive.css" type="text/css" media="all">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<script>
+;(function($){
+
+  $.fn.customerPopup = function (e, intWidth, intHeight, blnResize) {
+    
+    // Prevent default anchor event
+    e.preventDefault();
+    
+    // Set values for window
+    intWidth = intWidth || '500';
+    intHeight = intHeight || '300';
+    strResize = (blnResize ? 'yes' : 'no');
+
+    // Set title and open popup with focus on it
+    var strTitle = ((typeof this.attr('title') !== 'undefined') ? this.attr('title') : 'Social Share'),
+        strParam = 'width=' + intWidth + ',height=' + intHeight + ',resizable=' + strResize,            
+        objWindow = window.open(this.attr('href'), strTitle, strParam).focus();
+  }
+  
+  /* ================================================== */
+  
+  $(document).ready(function ($) {
+    $('.box').on("click", function(e) {
+      $(this).customerPopup(e);
+    });
+  });
+    
+}(jQuery));
+</script>	
+<style>
+	.header, .footer, .widget-title, .search-field:focus, .header-nav ul li:hover > ul{background: ;}
+	h1, h3, .scroll .fa{color: #2e3192;}
+	h1, h3{color: #2e3192;}
+	.scroll .fa:hover{color: #1b1464;}
+	.header-nav a, .fa, .footer, .footer a, .logo-text, .search-field, .widget-title, .text_first, .text_second, .search-field:focus, .search-form ::-webkit-input-placeholder{color: #2e3192;}
+	.header-nav a:hover, .logo-text:hover{color: #1b1464; background: ;}
+	a{color: #2e3192;}
+	a:hover{color: #1b1464;}
+	.fa:hover{color: ;}
+	.logo-icon{background: ;}
+	.post-thumb, .post-thumb-small, .post-thumb-medium{background: #ffffff;}
+	.p-btn, .n-btn{background: ;}
+	.p-btn:hover, .n-btn:hover{background: #2e3192;}
+</style>	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>
+$(window).scroll(function() {
+    if ($(this).scrollTop() > 50 ) {
+        $('.scrolltop:hidden').stop(true, true).fadeIn();
+    } else {
+        $('.scrolltop').stop(true, true).fadeOut();
+    }
+	var bottomColor = $(window).height() - 70;
+}); 
+$(function(){$(".scroll").click(function(){$("html,body").animate({scrollTop:$(".thetop").offset().top},"1000");return false})})
+</script>	
+<!-- Social Warfare v2.2.6 http://warfareplugins.com -->
+<style>@font-face {font-family: "sw-icon-font";src:url("http://mutually.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.eot?ver=2.2.6");src:url("http://mutually.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.eot?ver=2.2.6#iefix") format("embedded-opentype"),url("http://mutually.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.woff?ver=2.2.6") format("woff"), url("http://mutually.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.ttf?ver=2.2.6") format("truetype"),url("http://mutually.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.svg?ver=2.2.6#1445203416") format("svg");font-weight: normal;font-style: normal;}</style>
+<!-- Social Warfare v2.2.6 http://warfareplugins.com -->
+
+<link rel="dns-prefetch" href="//mutually.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<meta property="og:description" content=""><meta property="og:type" content="article"><meta property="og:url" content="http://mutually.com/privacy-policy/"><meta property="og:site_name" content="Mutually"><meta property="og:image" content=""><script type="text/javascript" src="//thor.rtk.io/RLlP/jita.js?dfp=1" async="" defer=""></script>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/mutually.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://mutually.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.3" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="batch_css-css" href="http://mutually.com/wp-content/plugins/batchmove/css/batch.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://mutually.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-lightbox-nivo-css" href="http://mutually.com/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.css?ver=1.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-lightbox-nivo-default-css" href="http://mutually.com/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/default.css?ver=1.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="widgetopts-styles-css" href="http://mutually.com/wp-content/plugins/widget-options/assets/css/widget-options.css" type="text/css" media="all">
+<link rel="stylesheet" id="wprps_slick_style-css" href="http://mutually.com/wp-content/plugins/wp-responsive-recent-post-slider/assets/css/slick.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="wprps_recent_post_style-css" href="http://mutually.com/wp-content/plugins/wp-responsive-recent-post-slider/assets/css/recent-post-style.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="wtpsw-slick-slider-style-css" href="http://mutually.com/wp-content/plugins/wp-trending-post-slider-and-widget/assets/css/slick.css?ver=1.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="wtpsw-public-style-css" href="http://mutually.com/wp-content/plugins/wp-trending-post-slider-and-widget/assets/css/wtpsw-public.css?ver=1.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="social_warfare-css" href="http://mutually.com/wp-content/plugins/social-warfare/css/style.min.css?ver=2.2.6" type="text/css" media="all">
+<link rel="stylesheet" id="recent-posts-widget-with-thumbnails-public-style-css" href="http://mutually.com/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=5.0" type="text/css" media="all">
+<link rel="stylesheet" id="wordpress-popular-posts-css" href="http://mutually.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4" type="text/css" media="all">
+<script type="text/javascript" src="http://mutually.com/wp-content/plugins/batchmove/js/batch.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://mutually.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://mutually.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://mutually.com/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.js?ver=1.7.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var rlArgs = {"script":"nivo","selector":"lightbox","customEvents":"","activeGalleries":"1","effect":"fade","clickOverlayToClose":"1","keyboardNav":"1","errorMessage":"The requested content cannot be loaded. Please try again later.","woocommerce_gallery":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://mutually.com/wp-content/plugins/responsive-lightbox/js/front.js?ver=1.7.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cssTarget = "img.";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://mutually.com/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://mutually.com/wp-content/themes/Arbitrage/js/bootstrap.js?ver=1"></script>
+<link rel="https://api.w.org/" href="http://mutually.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mutually.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mutually.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.7.3">
+<link rel="canonical" href="http://mutually.com/privacy-policy/">
+<link rel="shortlink" href="http://mutually.com/?p=311497">
+<link rel="alternate" type="application/json+oembed" href="http://mutually.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmutually.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://mutually.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmutually.com%2Fprivacy-policy%2F&amp;format=xml">
+<meta property="fb:app_id" content="270804553364817">				<!-- WordPress Popular Posts v3.3.4 -->
+				<script type="text/javascript">
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						/* Create XMLHttpRequest object and set variables */
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'http://mutually.com/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=7e299b1b51&wpp_id=311497';
+						/* Set request method and target URL */
+						xhr.open( "POST", url, true );
+						/* Set request header */
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						/* Hook into onreadystatechange */
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						/* Send request */
+						xhr.send( params );
+
+					}
+
+				</script>
+				<!-- End WordPress Popular Posts v3.3.4 -->
+				<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96107234-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://pixel.adsafeprotected.com/jload?anId=7094&amp;campId=Mutually_tracking&amp;pubId=&amp;chanId=&amp;placementId=Mutually"></script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var comscore = comscore || [];
+  _comscore.push({ c1: "2", c2: "24619672" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=24619672&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+#RTK_W70o{
+	height:250px; 
+	width:300px; 
+	overflow:hidden; 
+	display:none
+}		</style>
+		<link href="https://fonts.googleapis.com/css?family=Raleway:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script src="http://mutually.com/wp-content/themes/Arbitrage/js/custom.js"></script>
+	<link rel="stylesheet" href="http://mutually.com/wp-content/themes/Arbitrage/functions/font-awesome/css/font-awesome.min.css">
+	<meta property="og:title" content="Privacy Policy | ">
+</head>
+<body>
+
+
+
+
+
+<script type="text/javascript" src="http://ads.ayads.co/ajs.php?zid=17890"></script>
+	<div class="thetop"></div>
+	<div class="scrolltop" style="z-index:999999;">
+	    <div class="scroll icon"><i class="fa fa-4x fa-arrow-circle-up"></i></div>
+	</div>
+	<div class="header">
+		<div class="header-container">
+				
+	<a href="http://mutually.com/" title="Mutually" rel="home">
+    	<div class="logo-image">
+        	<img src="http://mutually.com/wp-content/uploads/2017/04/mutually-2.svg" alt="Mutually">
+        </div>
+    </a>
+
+				<div class="header-left">
+					<div class="header-nav"><ul id="menu-main-menu" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://mutually.com/./cringe/cringechannel/">The Cringe Channel</a></li>
+<li id="menu-item-322176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-322176"><a href="http://mutually.com/./funny/pettymemes/">Petty Memes</a></li>
+<li id="menu-item-322175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-322175"><a href="http://mutually.com/./funny/firememes/">Fire Memes</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="http://mutually.com/./funny/moreofafunnyone/">More Of A Funny One</a></li>
+</ul></div>				</div>
+				
+<!-- 				<form id="category-select" class="category-select" action="http://mutually.com/" method="get"> -->
+				    <!-- font icon-->
+					<div class="fa fa-bars mobile_nav_toggle"></div>
+					<!-- select dropdown -->
+																														<!-- input fallback -->
+<!-- 					<noscript>
+						<input type="submit" value="View" />
+					</noscript>
+				</form>  -->
+				
+				<div class="header-right">		
+										<div class="search-form">	
+						<form role="search" method="get" class="search-form" action="http://mutually.com/">
+	<label>
+		<div class="fa fa-search" style="content:'';top:30px;right:5px;font-size:35px;z-index:1000;position: absolute;cursor:pointer;">
+		</div>
+		<input type="search" class="search-field" placeholder="Search Site..." value="" name="s" title="Search">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>					</div>
+				</div>
+		</div>
+    </div>
+<div class="clear"></div>
+<div class="wrapper">	<div class="post-content">
+			<div class="single-title">
+			<h1><span>Privacy Policy</span></h1>
+		</div>
+		<div class="clear"></div>
+		<div class="single">
+			<p>Our team here at mutually.com is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.</p>
+<p>General</p>
+<p>Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;</p>
+<p>    for special promotions which may be offered on occasion on our sites in conjunction with a third party service provider in order to fulfill any deals or promotions that the user signed up for</p>
+<p>    to third party service providers we have partnered with so we may provide services our users requested</p>
+<p>    following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase</p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp</p>
+<p>Cookies</p>
+<p>To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.</p>
+<p>Disclosure of User Information for Legal Purposes</p>
+<p>Federal and state laws requires that from time to time we may be obligated to share personal user information (review Cookies section) that are pursuant to judicial subpoenas or warrants. We also reserve the right to use and share personal information we collect in order to investigate and prevent any activity deemed illegal, fraudulent or may cause physical harm to another person.</p>
+<p>External Links</p>
+<p>Our site’s pages will contain links to third party websites that may be unrelated to the content we have created and own. Please understand that we are not responsible for the privacy practices of any and all third party companies and websites. It is always recommended to review the privacy policies of all websites you enter to ensure you are fully protected under the law.</p>
+<p>Children</p>
+<p>Federal law mandates that we cannot collect any personally identifiable information that originates from a child under the age of thirteen without full consent from that child’s parent of guardian. Therefore we will never collect any information if we know or deem the user to be under the age of thirteen.</p>
+<p>Advertising</p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp</p>
+<div class="swp-content-locator"></div>		</div>	
+					</div> 
+	
+<div class="sidebar">	
+					<div class="widget-1 widget-first widget-odd extendedwopts-show extendedwopts-desktop clear"></div>			<div class="textwidget"><!-- Zone: Mutually 300x250 Size: 300x250 -->
+<script type="text/javascript" src="//s.gweini.com/gweiniClientV1.php?ClientID=PUB_ID&amp;group=GPMutually"></script>
+<div id="APST04010543MUTUAL3001"></div>
+<script>
+    var gweini = gweini || {};
+    gweini.adStack = gweini.adStack || [];
+</script>
+<script type="text/javascript">
+    gweini.adStack.push({
+        placement_id: "APST04010543MUTUAL3001",
+        zone_id: "APST04010543MUTUAL3001"
+    });
+    if(typeof gweini.writeAds !== "undefined"){
+        gweini.writeAds();
+    }
+</script>
+
+<script async="" type="text/javascript" src="https://cdn.connatix.com/min/connatix.renderer.infeed.min.js" data-connatix-token="97c1ca0c-2969-4908-bbe4-eecb0fd7372f"></script></div>
+		
+<!-- WordPress Popular Posts Plugin v3.3.4 [W] [daily] [views] [regular] -->
+<div class="widget-2 widget-even top-viewed-posts clear"></div>
+<h3 class="widget-title">Most popular</h3>
+<ul class="wpp-list">
+<li><a href="http://mutually.com/cringe/cringechannel/2017/06/04/terrible-memes-part-5/" title="Terrible Memes Part 5" target="_self"><img src="http://mutually.com/wp-content/uploads/wordpress-popular-posts/335470-featured-300x182.jpg" width="300" height="182" title="Terrible Memes Part 5" alt="Terrible Memes Part 5" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://mutually.com/cringe/cringechannel/2017/06/04/terrible-memes-part-5/" title="Terrible Memes Part 5" class="wpp-post-title" target="_self">Terrible Memes Part 5</a>  <span class="post-stats"><span class="wpp-views">14,023 views</span> | <span class="wpp-date">posted on June 4, 2017</span> | <span class="wpp-category">under <a href="http://mutually.com/./cringe/cringechannel/" class="cat-id-3">The Cringe Channel</a></span></span> </li>
+<li><a href="http://mutually.com/cringe/cringechannel/2017/06/03/internets-white-knights1/" title="Internet’s White Knights" target="_self"><img src="http://mutually.com/wp-content/uploads/wordpress-popular-posts/344195-featured-300x182.jpg" width="300" height="182" title="Internet’s White Knights" alt="Internet’s White Knights" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://mutually.com/cringe/cringechannel/2017/06/03/internets-white-knights1/" title="Internet’s White Knights" class="wpp-post-title" target="_self">Internet’s White Knights</a>  <span class="post-stats"><span class="wpp-views">12,555 views</span> | <span class="wpp-date">posted on June 3, 2017</span> | <span class="wpp-category">under <a href="http://mutually.com/./cringe/cringechannel/" class="cat-id-3">The Cringe Channel</a></span></span> </li>
+<li><a href="http://mutually.com/cringe/cringechannel/2017/06/04/thats-deep-part-2/" title="That’s Deep Part 2" target="_self"><img src="http://mutually.com/wp-content/uploads/wordpress-popular-posts/339616-featured-300x182.jpg" width="300" height="182" title="That’s Deep Part 2" alt="That’s Deep Part 2" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://mutually.com/cringe/cringechannel/2017/06/04/thats-deep-part-2/" title="That’s Deep Part 2" class="wpp-post-title" target="_self">That’s Deep Part 2</a>  <span class="post-stats"><span class="wpp-views">11,873 views</span> | <span class="wpp-date">posted on June 4, 2017</span> | <span class="wpp-category">under <a href="http://mutually.com/./cringe/cringechannel/" class="cat-id-3">The Cringe Channel</a></span></span> </li>
+<li><a href="http://mutually.com/cringe/cringechannel/2017/06/04/pick-up-rejections/" title="Pick Up Rejections" target="_self"><img src="http://mutually.com/wp-content/uploads/wordpress-popular-posts/340081-featured-300x182.png" width="300" height="182" title="Pick Up Rejections" alt="Pick Up Rejections" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://mutually.com/cringe/cringechannel/2017/06/04/pick-up-rejections/" title="Pick Up Rejections" class="wpp-post-title" target="_self">Pick Up Rejections</a>  <span class="post-stats"><span class="wpp-views">11,579 views</span> | <span class="wpp-date">posted on June 4, 2017</span> | <span class="wpp-category">under <a href="http://mutually.com/./cringe/cringechannel/" class="cat-id-3">The Cringe Channel</a></span></span> </li>
+<li><a href="http://mutually.com/cringe/cringechannel/2017/06/04/body-mods/" title="Body Mods" target="_self"><img src="http://mutually.com/wp-content/uploads/wordpress-popular-posts/335344-featured-300x182.jpg" width="300" height="182" title="Body Mods" alt="Body Mods" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://mutually.com/cringe/cringechannel/2017/06/04/body-mods/" title="Body Mods" class="wpp-post-title" target="_self">Body Mods</a>  <span class="post-stats"><span class="wpp-views">10,154 views</span> | <span class="wpp-date">posted on June 4, 2017</span> | <span class="wpp-category">under <a href="http://mutually.com/./cringe/cringechannel/" class="cat-id-3">The Cringe Channel</a></span></span> </li>
+<li><a href="http://mutually.com/cringe/cringechannel/2017/06/04/giant-swords/" title="Giant Swords" target="_self"><img src="http://mutually.com/wp-content/uploads/wordpress-popular-posts/339680-featured-300x182.jpg" width="300" height="182" title="Giant Swords" alt="Giant Swords" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://mutually.com/cringe/cringechannel/2017/06/04/giant-swords/" title="Giant Swords" class="wpp-post-title" target="_self">Giant Swords</a>  <span class="post-stats"><span class="wpp-views">10,139 views</span> | <span class="wpp-date">posted on June 4, 2017</span> | <span class="wpp-category">under <a href="http://mutually.com/./cringe/cringechannel/" class="cat-id-3">The Cringe Channel</a></span></span> </li>
+<li><a href="http://mutually.com/cringe/cringechannel/2017/06/04/dating-site/" title="Dating Site" target="_self"><img src="http://mutually.com/wp-content/uploads/wordpress-popular-posts/336490-featured-300x182.jpg" width="300" height="182" title="Dating Site" alt="Dating Site" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://mutually.com/cringe/cringechannel/2017/06/04/dating-site/" title="Dating Site" class="wpp-post-title" target="_self">Dating Site</a>  <span class="post-stats"><span class="wpp-views">9,635 views</span> | <span class="wpp-date">posted on June 4, 2017</span> | <span class="wpp-category">under <a href="http://mutually.com/./cringe/cringechannel/" class="cat-id-3">The Cringe Channel</a></span></span> </li>
+<li><a href="http://mutually.com/cringe/cringechannel/2017/06/04/ridiculous-fake-products-part-2/" title="Ridiculous fake products part 2" target="_self"><img src="http://mutually.com/wp-content/uploads/wordpress-popular-posts/339739-featured-300x182.jpg" width="300" height="182" title="Ridiculous fake products part 2" alt="Ridiculous fake products part 2" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://mutually.com/cringe/cringechannel/2017/06/04/ridiculous-fake-products-part-2/" title="Ridiculous fake products part 2" class="wpp-post-title" target="_self">Ridiculous fake products part 2</a>  <span class="post-stats"><span class="wpp-views">8,929 views</span> | <span class="wpp-date">posted on June 4, 2017</span> | <span class="wpp-category">under <a href="http://mutually.com/./cringe/cringechannel/" class="cat-id-3">The Cringe Channel</a></span></span> </li>
+<li><a href="http://mutually.com/cringe/cringechannel/2017/06/04/multiple-panel-cringe-part-7/" title="Multiple Panel Cringe Part 7" target="_self"><img src="http://mutually.com/wp-content/uploads/wordpress-popular-posts/336149-featured-300x182.jpg" width="300" height="182" title="Multiple Panel Cringe Part 7" alt="Multiple Panel Cringe Part 7" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://mutually.com/cringe/cringechannel/2017/06/04/multiple-panel-cringe-part-7/" title="Multiple Panel Cringe Part 7" class="wpp-post-title" target="_self">Multiple Panel Cringe Part 7</a>  <span class="post-stats"><span class="wpp-views">7,260 views</span> | <span class="wpp-date">posted on June 4, 2017</span> | <span class="wpp-category">under <a href="http://mutually.com/./cringe/cringechannel/" class="cat-id-3">The Cringe Channel</a></span></span> </li>
+<li><a href="http://mutually.com/cringe/cringechannel/2017/06/04/bad-cosplays-part-2/" title="Bad cosplays part 2" target="_self"><img src="http://mutually.com/wp-content/uploads/wordpress-popular-posts/339747-featured-300x182.jpg" width="300" height="182" title="Bad cosplays part 2" alt="Bad cosplays part 2" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://mutually.com/cringe/cringechannel/2017/06/04/bad-cosplays-part-2/" title="Bad cosplays part 2" class="wpp-post-title" target="_self">Bad cosplays part 2</a>  <span class="post-stats"><span class="wpp-views">7,129 views</span> | <span class="wpp-date">posted on June 4, 2017</span> | <span class="wpp-category">under <a href="http://mutually.com/./cringe/cringechannel/" class="cat-id-3">The Cringe Channel</a></span></span> </li>
+
+</ul>
+
+<!-- End WordPress Popular Posts Plugin v3.3.4 -->
+<div class="widget-3 widget-last widget-odd clear"></div><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-311513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311513"><a href="http://mutually.com/contact/">Contact</a></li>
+<li id="menu-item-311501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311501"><a href="http://mutually.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-311502" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-311497 current_page_item menu-item-311502"><a href="http://mutually.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>			<div class="clear"></div>
+				
+</div><div class="clear"></div>
+
+<div class="clear"></div>
+</div><!-- Wrapper End -->
+
+<div class="footer">
+	<div class="footer-container">
+		<div class="footer-copy">
+			@ 2017 Mutually.
+		</div>
+		<div class="footer-nav">
+			<div class="menu-footer-menu-container"><ul id="menu-footer-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311513"><a href="http://mutually.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311501"><a href="http://mutually.com/terms-of-service/">Terms of Service</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-311497 current_page_item menu-item-311502"><a href="http://mutually.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>		</div>
+	</div>
+</div>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-ypbCjnmP59mtw"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-ypbCjnmP59mtw.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/mutually.com\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://mutually.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8"></script>
+<script type="text/javascript" src="http://mutually.com/wp-content/plugins/social-warfare/js/script.min.js?ver=2.2.6"></script>
+<script type="text/javascript" src="http://mutually.com/wp-content/themes/Arbitrage/functions/subscribe/mcsw.js?ver=0.9"></script>
+<script type="text/javascript" src="http://mutually.com/wp-includes/js/wp-embed.min.js?ver=4.7.3"></script>
+<script type="text/javascript">var swpClickTracking = false; var swp_nonce = "e9ba6baa94";</script><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=270804553364817&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+ 
+<script type="text/javascript" src="http://ads.ayads.co/ajs.php?zid=17890"></script>
+<script type="text/javascript" src="http://ads.ayads.co/ajs.php?zid=18011"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6c7408eef2","applicationID":"40812101","transactionName":"ZlYEN0ECW0QFVkdYW18cJwBHClpZS0VSVlE=","queueTime":0,"applicationTime":776,"atts":"ShEHQQkYSEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: _ @ 2017-06-06 04:09:38 by W3 Total Cache --></body></html>
