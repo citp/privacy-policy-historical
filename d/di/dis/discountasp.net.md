@@ -1,19 +1,30 @@
-> *The following text is extracted and transformed from the discountasp.net privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215155916id_/http%3A//discountasp.net/userpolicy_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountasp.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130017id_/http%3A//discountasp.net/userpolicy_privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at DiscountASP.NET
 
-This Privacy Policy applies to DiscountASP.NET owned and operated by Host Collective, Inc. DiscountASP.NET (we, us, our) understands that the privacy of your data is important to our customers (you, your). This Privacy Policy sets out how we collect and use certain information that our customers have told us is important to them. This Privacy Policy covers web sites with the URL www.discountasp.net that are managed by DiscountASP.NET and used to market services or provide support for services. 
+This Privacy Policy applies to DiscountASP.NET owned and operated by Host Collective, Inc. DiscountASP.NET (we, us, our) understands that the privacy of your data is important to our customers (you, your, Client). This Privacy Policy sets out how we collect and use certain information that our customers have told us is important to them. This Privacy Policy covers web sites with the URL www.discountasp.net that are managed by DiscountASP.NET and used to market services or provide support for services. 
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=359c65df-748f-4693-a3c0-b200440a936a "TRUSTe Privacy Certification")
+This Privacy Policy covers our collection, use and disclosure of information we collect through our service. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged DiscountASP.NET. 
 
-DiscountASP.NET has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers the website www.DiscountASP.NET, and does not cover information that may be collected through any software downloaded from the website. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [support@discountasp.net](mailto:support@discountasp.net) or DiscountASP.NET Compliance Department, Attn: Michael Phillips, 2700 E. Foothill Blvd. Suite 201, Pasadena, CA 91107. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). 
+[](https://privacy.truste.com/privacy-seal/validation?rid=359c65df-748f-4693-a3c0-b200440a936a)
 
-DiscountASP.NET complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. DiscountASP.NET has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DiscountASP.NET’s certification, please visit <http://www.export.gov/safeharbor>. 
+**EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**   
+DiscountASP.NET and its parent company Host Collective, Inc. and subsidiary company, Everleap, participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list). 
+
+DiscountASP.NET is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. DiscountASP.NET complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, DiscountASP.NET is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, DiscountASP.NET may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 **Information we collect**
 
 **Order Information**  
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form (Order Information). For our web hosting services, you must first provide your domain name or a domain name you wish to purchase. Then we will collect your contact information (such as name, company, email, address and phone number) and financial information (such as credit card number, expiration date). We collect the same information for services that do not require a domain name. 
+
+We collect information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients. 
 
 We use this information for billing purposes and to fill your orders, to market new products and services to you, and to send you general information (like newsletters) that we think you will be interested in. This Order Information may be aggregated to create an administrative record that includes information related to the products and services provided to you, how you use those services, problems related to the services and notations from our staff about our relationship with you, among other things. 
 
@@ -62,7 +73,11 @@ We provide you the opportunity to ‘opt-out’ of having your personally identi
 If you contact us about a problem/issue or with a question, we may ask you for specific information related to this contact (Customer Inquiry Information). We use Customer Inquiry Information to identify you individually. It is used throughout our business to provide services to you. Customer Inquiry Information may be associated with your Order Information to provide services to you. Customer Inquiry Information is shared with third parties to identify and fix problems with services when we are not capable of doing so ourselves. For more information on who we may share your information with, please see the “Other Disclosures” section below. 
 
 **Updating/Accessing/Amending/Correcting Personally Identifiable Information**  
-If your personally identifiable information changes, you may correct, update, or delete inaccuracies through the Control Panel located at [https://my.discountasp.net](https://my.discountasp.net/) for web hosting customers and at [https://mytfs.discountasp.net](https://mytfs.discountasp.net/) for Team Foundation Server hosting customers. If you are having trouble accessing the Control Panel, our customer support team can assist and they can be contacted at [support@discountasp.net](mailto:support@discountasp.net). We will respond to your request to access within a reasonable timeframe. 
+Upon request DiscountASP.NET will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes, you may correct, update, or delete inaccuracies through the Control Panel located at [https://my.discountasp.net](https://my.discountasp.net/) for web hosting customers and at [https://mytfs.discountasp.net](https://mytfs.discountasp.net/) for Team Foundation Server hosting customers. If you are having trouble accessing the Control Panel, our customer support team can assist and they can be contacted at [support@discountasp.net](mailto:support@discountasp.net). 
+
+DiscountASP.NET acknowledges that you have the right to access your personal information. DiscountASP.NET has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients, and you seek to access, correct, amend, or delete inaccurate data, then direct your query to DiscountASP.NET’s Client (the data controller). 
+
+We will respond to your request to access within a reasonable timeframe. 
 
 **Other disclosures**  
 DiscountASP.NET does not share, sell, rent or trade your personally identifiable information with third parties other than as disclosed within this Privacy Policy. 
@@ -72,7 +87,7 @@ In the course of providing the services to you, we use the services of third par
 
 When you order a new domain name, we will share your name, address, email and phone number with our domain registrar partner as necessary for the third party to provide that service. 
 
-These third parties are prohibited from using your personally identifiable information for promotional purposes. We are required to comply with relevant laws, regulations and judicial orders. Information covered by this Privacy Policy, as well as other categories of information, may be disclosed to third parties if we determine that such a disclosure is required by law, such as to comply with a subpoena, judicial proceeding, court order, or legal process served on our web site; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety and the safety of others, investigate fraud, or respond to a government request. 
+In certain situations, DiscountASP.NET may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. These third parties are prohibited from using your personally identifiable information for promotional purposes. We are required to comply with relevant laws, regulations and judicial orders. Information covered by this Privacy Policy, as well as other categories of information, may be disclosed to third parties if we determine that such a disclosure is required by law, such as to comply with a subpoena, judicial proceeding, court order, or legal process served on our web site; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety and the safety of others, investigate fraud, or respond to a government request. 
 
 It is possible that we may need to provide personally identifiable information to third party vendors that we use in order to provide our services – for example, we provide Microsoft based web hosting. It is possible that should we encounter an issue or bug with Microsoft software that can only be resolved by Microsoft, we may need to share personally identifiable information with Microsoft in order to replicate, troubleshoot and resolve the issue. Similarly, we offer email services using SmarterTools SmarterMail product. It is possible that we could encounter an email issue that must be researched by SmarterTools in order to provide us with a resolution, thus requiring us to provide SmarterTools with personally identifiable information. In these situations, we first ask the customer if we can share personally identifiable information with the third party. 
 
@@ -105,4 +120,11 @@ Our web site includes social media features, such as the Facebook Like button an
 **Changes in this Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes at http://discountasp.net/userpolicy_privacy.aspx, the control panel, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We encourage you to periodically review this page for the latest information on our privacy practices. We reserve the right to modify this privacy policy at any time, so please review it frequently. Before we make material changes to this policy, we will notify you by email. 
 
-Last Updated on September 14, 2015 
+**Contact Information**  
+DiscountASP.NET  
+417 East Huntington Drive  
+Suite 200  
+Monrovia, CA 91016  
+[Contact Form](https://web.archive.org/contact-sales.aspx)
+
+Last Updated on May 8, 2017 
