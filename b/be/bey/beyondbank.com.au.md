@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119193325id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034358id_/https%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Your privacy is important to us | Beyond Bank
 
