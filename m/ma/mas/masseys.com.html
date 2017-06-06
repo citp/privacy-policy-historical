@@ -1,0 +1,1285 @@
+<!--The following is the downloaded HTML source of the masseys.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606171447id_/https%3A//www.masseys.com/customer-service/faqs/detail/privacy-policy/_/A-1564) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script src="//tags.tiqcdn.com/utag/mason/masseys/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQQDUVRUGwoAVlVVAAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script><link rel="icon" type="image/png" href="/static/zy/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/static/zy/images/favicon-16x16.png" sizes="16x16">
+<title>Privacy Policy</title>
+<link rel="canonical" href="https://www.masseys.com/customer-service/faqs">
+<meta name="robots" content="index,follow">
+ 
+<link rel="stylesheet" href="/static/common/libraries/bootstrap/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="/static/common/libraries/jQuery/css/jquery-ui.min.css" type="text/css">
+<link rel="stylesheet" href="/static/common/libraries/fontAwesome/css/font-awesome.min.css" type="text/css">
+<link rel="stylesheet" href="/static/common/css/app.css" type="text/css">
+<link rel="stylesheet" href="/static/zy/css/app.css" type="text/css">
+<script type="text/javascript" src="/static/common/libraries/jQuery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript">
+//provided by CA
+function availableSwatches(colorId) {
+var colors = document.getElementById("productList").value;
+if (colors.indexOf("|" + colorId + "|") > -1) {
+return true;
+} else {
+return false;
+}
+}
+</script>
+ 
+ 
+</head>
+<body>
+<script type="text/javascript">
+	var utag_data = 
+{
+	"site_currency":"USD",
+	"site_region":"en_US",
+	"page_type":"generic",
+	"page_name":"FaqDetail"
+}
+</script>
+<script type="text/javascript">
+	(function(a,b,c,d){
+	a='//tags.tiqcdn.com/utag/mason/masseys/prod/utag.js';
+	b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+	a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+	})();
+</script>
+ 
+<a href="#skip-content" class="textBrowserOnly">Skip To Content</a>
+<header aria-label="pageHeader" role="banner">
+<div class="container-fluid site-width">
+<input id="headerAjaxUrl" value="/common/ZY/header.jsp" type="hidden">
+<input id="redirectUrl" value="%2Fcustomer-service%2Ffaqs%2Fdetail%2Fprivacy-policy%2F_%2FA-1564" type="hidden">
+<input id="sessionLogoutAttr" value="" type="hidden">
+<nav class="row text-small top-nav " id="headerContainer">
+<input type="hidden" id="currentSite" value="ZYSite">
+<div class="col-md-5 visible-lg visible-md">&nbsp;</div>
+<div class="col-md-7 text-right pd0">
+<ul class="list-inline " id="ajaxHeader">
+<li class="visible-sm-inline-block visible-xs-inline-block account-link-wrapper user-icon-tab" data-hasdropdown="" data-setup="false">
+<a class="account-link" href="#"><span class="fa fa-user text-center"></span>Account</a>
+</li>
+<li class="visible-lg-inline-block visible-md-inline-block">
+<a href="/account/login.jsp">Sign In</a>
+</li>
+<li class="visible-lg-inline-block visible-md-inline-block account-link-includes">
+<a href="/account/login.jsp" class="visible-xs visible-sm">Sign In</a>
+<a href="/account/login.jsp">Register</a>
+</li>
+<li class="visible-lg-inline-block visible-md-inline-block" data-hasdropdown="" data-setup="false">
+<a href="#">Need Help? <span class="glyphicon glyphicon-chevron-down"></span></a>
+<ul class="dropdown-menu" data-width-initailized="false">
+<li><a href="/customer-service">All FAQs</a></li>
+<li><a style="padding-left:30px;" href="/customer-service/faqs/credit-plan-information/_/N-0Z179f9t6">Credit Plan Information</a></li>
+<li><a style="padding-left:30px;" href="/customer-service/faqs/detail/shipping-info/_/A-1546">Shipping Information</a></li>
+<li><a style="padding-left:30px;" href="/customer-service/faqs/order-status-shipping-and-tracking/_/N-0Z12zuaj7">Order Status</a></li>
+<li><a href="/contact-us">Contact Us</a></li>
+</ul>
+<ul class="textBrowserOnly">
+<li><a href="/customer-service">All FAQs</a></li>
+<li><a href="/customer-service/faqs/credit-plan-information/_/N-0Z179f9t6">Credit Plan Information</a></li>
+<li><a href="/customer-service/faqs/detail/shipping-info/_/A-1546">Shipping Information</a></li>
+<li><a href="/customer-service/faqs/order-status-shipping-and-tracking/_/N-0Z12zuaj7">Order Status</a></li>
+<li><a href="/contact-us">Contact Us</a></li>
+</ul>
+</li>
+<li class="visible-lg-inline-block visible-md-inline-block"><a href="/account/orderstatus.jsp">Order Status</a></li>
+<li class="visible-lg-inline-block visible-md-inline-block"><button class="linkBtn" id="signupemail-modal-link" onclick="showEmailSignup()">Email Signup</button></li>
+<li id="miniCartDropDown" class="mini-cart-container text-center" data-hasdropdown="" data-setup="false">
+<a href="/cart/cart.jsp" class="cart-link"><span class="fa fa-shopping-cart"></span><span> Cart <span class="item-count" id="itemcountspan">0</span></span> <span class="glyphicon glyphicon-chevron-down"></span></a>
+ 
+<ul class="dropdown-menu" id="miniCartFlyout" data-width-initailized="false">
+<li>
+<div class="pd20 no-item">
+Your shopping cart is empty.
+</div>
+</li>
+<script type="text/javascript">
+function submit(form) {
+form.submit();
+}
+</script>
+</ul>
+ 
+</li>
+</ul>
+</div>
+</nav>
+<form id="logOutForm" action="/cartridges/PageSlot/PageSlot.jsp;jsessionid=5WXKxTGiuNiifdfqkUdeBskY.d384f58a-8250-3e11-b535-150660204a12?_DARGS=/cartridges/FaqDetailPage/FaqDetailPage.jsp.logOutForm" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input value="2080783628911747698" type="hidden"> </div>
+<input name="/atg/userprofiling/ProfileFormHandler.logoutSuccessURL" value="/customer-service/faqs/detail/privacy-policy/_/A-1564" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.logoutSuccessURL" value=" " type="hidden">
+<input name="/atg/userprofiling/ProfileFormHandler.logout" value="submit" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.logout" value=" " type="hidden">
+<div style="display:none"><input name="_DARGS" value="/cartridges/FaqDetailPage/FaqDetailPage.jsp.logOutForm" type="hidden"> </div></form>
+<div class="row mb20">
+<div class="col-md-4 col-xs-12 col-xs-sm-text-center logo-cover">
+<a href="http://www.masseys.com" title="Masseys"><img src="/static/zy/images/logo.png" alt="Masseys" title="Masseys"></a>
+</div>
+<div class="col-md-5 col-sm-8 col-sm-offset-2 col-md-offset-0 col-xs-12" role="search">
+<form class="form-inline search-form text-center" action="/" id="headerSearchBox">
+<div class="form-group">
+<label for="searchBox" class="textBrowserOnly">Enter search term or item #</label>
+<input type="text" placeholder="Enter search term or item #" id="searchBox" class="form-control search-box pull-left headerSearchBox searchBox" name="Ntt" title="Enter search term or item #" autocomplete="off">
+<span class="pull-left custom-submit-btn"><span class="fa fa-search"></span></span>
+<input type="submit" aria-label="Top Search Button" aria-hidden="true" value="Search" class="hidden" disabled="disabled">
+<button type="submit" class="textBrowserOnly">Search</button>
+<div class="suggestions text-left hide"></div></div>
+</form>
+</div>
+<div class="col-md-3 text-right visible-lg visible-md">
+</div>
+</div>
+</div>
+<nav class="container-fluid main-nav normal">
+<div class="site-width row">
+<div class="col-xs-12">
+<a href="#" class="visible-xs visible-sm mobile-menu-link">
+<span class="fa fa-bars"></span>Menu</a>
+<ul class="list-inline">
+<li data-hasdropdown="" style="height: auto; line-height: normal;" data-setup="false"><a href="/womens/_/N-epmeuj" class="capital-text"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block visible-sm-inline-block"></span>women's</a>
+<div class="dropdown-menu" data-width-initailized="false">
+<ul class="pull-left">
+<li>
+<a href="/womens/womens-shoes/_/N-1ddqfm6"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Women's Shoes</a>
+<ul>
+<li> <a href="/womens/womens-shoes/boots/_/N-1t9lyky">Boots</a></li>
+<li> <a href="/womens/womens-shoes/espadrilles/_/N-119mfos">Espadrilles</a></li>
+<li> <a href="/womens/womens-shoes/flats/_/N-n30qjs">Flats</a></li>
+<li> <a href="/womens/womens-shoes/lace-ups/_/N-hfeb66">Lace-ups</a></li>
+<li> <a href="/womens/womens-shoes/loafers-and-slip-ons/_/N-1ncj7z5">Loafers + Slip-ons</a></li>
+<li> <a href="/womens/womens-shoes/pumps/_/N-1cj9zlt">Pumps</a></li>
+<li> <a href="/womens/womens-shoes/sandals/_/N-mqale9">Sandals</a></li>
+<li> <a href="/womens/womens-shoes/slippers/_/N-184bfw0">Slippers</a></li>
+<li> <a href="/womens/womens-shoes/sneakers/_/N-1417sp0">Sneakers</a></li>
+<li> <a href="/womens/womens-shoes/wedges/_/N-1z537c">Wedges</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/womens/womens-clothing/_/N-1132rwr"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Women's Clothing</a>
+<ul>
+<li> <a href="/womens/womens-clothing/bottoms/_/N-10hv157">Bottoms</a></li>
+<li> <a href="/womens/womens-clothing/dresses-and-suits/_/N-3wv0ag">Dresses + Suits</a></li>
+<li> <a href="/womens/womens-clothing/intimates/_/N-1e3173e">Intimates</a></li>
+<li> <a href="/womens/womens-clothing/leggings/_/N-ndey9c">Leggings</a></li>
+<li> <a href="/womens/womens-clothing/outerwear/_/N-1adqiwq">Outerwear</a></li>
+<li> <a href="/womens/womens-clothing/tops/_/N-1c2e15">Tops</a></li>
+<li> <a href="/womens/womens-clothing/womens-plus/_/N-1oakn4d">Women's Plus</a></li>
+<li> <a href="/womens/womens-clothing/all-womens-clothing/_/N-s3m88o">All Women's Clothing</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/womens/womens-accessories/_/N-116ja9q"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Women's Accessories</a>
+<ul>
+<li> <a href="/womens/womens-accessories/bags/_/N-5uaufz">Bags</a></li>
+<li> <a href="/womens/womens-accessories/gloves-and-mittens/_/N-f8myym">Gloves + Mittens</a></li>
+<li> <a href="/womens/womens-accessories/hats/_/N-1qcvqba">Hats</a></li>
+<li> <a href="/womens/womens-accessories/jewelry-and-watches/_/N-1t35szk">Jewelry + Watches</a></li>
+<li> <a href="/womens/womens-accessories/perfume/_/N-1izxb9m">Perfume</a></li>
+<li> <a href="/womens/womens-accessories/scarves/_/N-1h0c3iq">Scarves</a></li>
+<li> <a href="/womens/womens-accessories/socks/_/N-1mpet4i">Socks</a></li>
+<li> <a href="/womens/womens-accessories/wallets-and-wristlets/_/N-ahvu0j">Wallets + Wristlets</a></li>
+<li> <a href="/womens/womens-accessories/all-womens-accessories/_/N-sq9r3a">All Women's Accessories</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/womens/shop-by-lifestyle/_/N-mfhfxa"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Shop By Lifestyle</a>
+<ul>
+<li> <a href="/womens/shop-by-lifestyle/athletic/_/N-ivjm11">Athletic</a></li>
+<li> <a href="/womens/shop-by-lifestyle/casual/_/N-13o6ezf">Casual</a></li>
+<li> <a href="/womens/shop-by-lifestyle/dress/_/N-1rto2lz">Dress</a></li>
+<li> <a href="/womens/shop-by-lifestyle/outdoor/_/N-ms9ehi">Outdoor</a></li>
+<li> <a href="/womens/shop-by-lifestyle/work-and-service/_/N-1g57m06">Work + Service</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/trending-now"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Trending Now</a>
+<ul>
+<li> <a href="/sandals">Sandal Shop</a></li>
+<li> <a href="/womens/womens-clothing/_/N-1132rwrZ1o5yz9q">Suits + Sets</a></li>
+<li> <a href="/womens/womens-shoes/sandals/_/N-mqale9?Ns=product.siteValues.lastBirthDate%7C1">Sandals</a></li>
+<li> <a href="/?Ntt=COGNAC&amp;searchcategory=link">Cognac</a></li>
+</ul>
+</li>
+<li><a href="/womens/womens-shoes/_/N-1ddqfm6Z12ehhzjZjfsgu3Zi7rid9">Narrow Shoes</a> </li>
+<li><a href="/womens/womens-shoes/_/N-1ddqfm6Z1bitt6qZ1owa4eb">Wide Shoes</a> </li>
+</ul>
+<ul class="pull-left">
+<li><a href="/all/women-s/_/N-epmeuj">All</a> </li>
+<li><a href="/all/women-s/_/N-epmeuj?Ns=product.siteValues.lastBirthDate%7C1">New</a> </li>
+<li><a href="/all/womens/_/N-epmeuj?Ns=product.bestSellerScore%7C1">Best Selling</a> </li>
+<li><a href="/all/womens/_/N-epmeujZ1ar2441">Online Exclusive</a> </li>
+</ul>
+<ul class="pull-left visible-lg visible-md">
+<li class="pdtb0 banner"><p><a href="/brands/havaianas/_/N-1qfiw23" title="Shop Women's Havaianas"><img alt="Shop Women's Havaianas" height="310" src="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY052917_L1_Women" width="191"></a></p></li>
+</ul>
+</div>
+</li>
+<li data-hasdropdown="" style="height: auto; line-height: normal;" data-setup="false"><a href="/mens/_/N-106uv6h" class="capital-text"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block visible-sm-inline-block"></span>men's</a>
+<div class="dropdown-menu" data-width-initailized="false">
+<ul class="pull-left">
+<li>
+<a href="/mens/mens-shoes/_/N-1g3anyz"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Men's Shoes</a>
+<ul>
+<li> <a href="/mens/mens-shoes/boots/_/N-kwpe8y">Boots</a></li>
+<li> <a href="/mens/mens-shoes/lace-ups/_/N-1vzyk0f">Lace-ups</a></li>
+<li> <a href="/mens/mens-shoes/loafers-and-slip-ons/_/N-f88kvl">Loafers + Slip-ons</a></li>
+<li> <a href="/mens/mens-shoes/sandals/_/N-5s5z33">Sandals</a></li>
+<li> <a href="/mens/mens-shoes/slippers/_/N-6xj763">Slippers</a></li>
+<li> <a href="/mens/mens-shoes/sneakers/_/N-17tcyhe">Sneakers</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/mens/mens-clothing/_/N-wt066w"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Men's Clothing</a>
+<ul>
+<li> <a href="/mens/mens-clothing/outerwear/_/N-1xr0m0m">Outerwear</a></li>
+<li> <a href="/mens/mens-clothing/pants/_/N-ovsoqh">Pants</a></li>
+<li> <a href="/mens/mens-clothing/shirts/_/N-2s0btv">Shirts</a></li>
+<li> <a href="/mens/mens-clothing/shorts/_/N-1nb1zc0">Shorts</a></li>
+<li> <a href="/mens/mens-clothing/all-mens-clothing/_/N-1sxpdgl">All Men's Clothing</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/mens/mens-accessories/_/N-981hr9"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Men's Accessories</a>
+<ul>
+<li> <a href="/mens/mens-accessories/bags/_/N-19zryza">Bags</a></li>
+<li> <a href="/mens/mens-accessories/belts/_/N-vfj7ta">Belts</a></li>
+<li> <a href="/mens/mens-accessories/cologne/_/N-tbylk">Cologne</a></li>
+<li> <a href="/mens/mens-accessories/gloves-and-mittens/_/N-sjrww">Gloves + Mittens</a></li>
+<li> <a href="/mens/mens-accessories/hats/_/N-9fd0qm">Hats</a></li>
+<li> <a href="/mens/mens-accessories/scarves/_/N-ayy4im">Scarves</a></li>
+<li> <a href="/mens/mens-accessories/socks/_/N-1cbexnf">Socks</a></li>
+<li> <a href="/mens/mens-accessories/wallets/_/N-38gkw">Wallets</a></li>
+<li> <a href="/mens/mens-accessories/watches/_/N-dccowo">Watches</a></li>
+<li> <a href="/mens/mens-accessories/all-mens-accessories/_/N-inztt4">All Men's Accessories</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/mens/shop-by-lifestyle/_/N-zdz29n"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Shop By Lifestyle</a>
+<ul>
+<li> <a href="/mens/shop-by-lifestyle/athletic/_/N-c7kpt1">Athletic</a></li>
+<li> <a href="/mens/shop-by-lifestyle/casual/_/N-1u70hb6">Casual</a></li>
+<li> <a href="/mens/shop-by-lifestyle/dress/_/N-1whxooj">Dress</a></li>
+<li> <a href="/mens/shop-by-lifestyle/outdoor/_/N-furc9n">Outdoor</a></li>
+<li> <a href="/mens/shop-by-lifestyle/work-and-service/_/N-17fu2jn">Work + Service</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/_/N-1w4xgj9?Ntt=TRENDING&amp;searchcategory=link"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Trending Now</a>
+<ul>
+<li> <a href="/mens/mens-shoes/boots/_/N-kwpe8yZ13wgdk8">Chukka Boots</a></li>
+<li> <a href="/mens/mens-shoes/sandals/_/N-5s5z33">Sandals</a></li>
+<li> <a href="/fall-boots">Boot Shop</a></li>
+<li> <a href="/_/N-1w4xgj9?Ntt=RUNNING&amp;searchcategory=link">Running</a></li>
+</ul>
+</li>
+<li><a href="/mens/mens-shoes/_/N-1g3anyzZ12ehhzj">Narrow Shoes</a> </li>
+<li><a href="/mens/mens-shoes/_/N-1g3anyzZ1bitt6qZ1owa4eb">Wide Shoes</a> </li>
+</ul>
+<ul class="pull-left">
+<li><a href="/all/men-s/_/N-106uv6h">All</a> </li>
+<li><a href="/all/mens/_/N-106uv6h?Ns=product.siteValues.lastBirthDate%7C1">New</a> </li>
+<li><a href="/all/mens/_/N-106uv6h?Ns=product.bestSellerScore%7C1">Best Selling</a> </li>
+<li><a href="/all/mens/_/N-106uv6hZ1ar2441">Online Exclusive</a> </li>
+</ul>
+<ul class="pull-left visible-lg visible-md">
+<li class="pdtb0 banner"><p><a href="/all/mens/levis/_/N-106uv6hZ163d3v4" title="Shop Men's Levi's"><img alt="Shop Men's Levi's" height="310" src="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY010917_L1_Men2" width="191"></a></p></li>
+</ul>
+</div>
+</li>
+<li data-hasdropdown="" style="height: auto; line-height: normal;" data-setup="false"><a href="/kids/_/N-1soutac" class="capital-text"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block visible-sm-inline-block"></span>kids'</a>
+<div class="dropdown-menu" data-width-initailized="false">
+<ul class="pull-left">
+<li>
+<a href="/kids/kids-shoes/_/N-1vk0dmy"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Kids' Shoes</a>
+<ul>
+<li> <a href="/kids/kids-shoes/adjustable-shoes/_/N-1gdejy5">Adjustable Shoes</a></li>
+<li> <a href="/kids/kids-shoes/boots/_/N-b33uma">Boots</a></li>
+<li> <a href="/kids/kids-shoes/flats/_/N-egs97s">Flats</a></li>
+<li> <a href="/kids/kids-shoes/sandals/_/N-1o4g27o">Sandals</a></li>
+<li> <a href="/kids/kids-shoes/slippers/_/N-1juww73">Slippers</a></li>
+<li> <a href="/kids/kids-shoes/sneakers/_/N-a47b22">Sneakers</a></li>
+<li> <a href="/kids/kids-shoes/wedges/_/N-1p1qlhc">Wedges</a></li>
+</ul>
+</li>
+<li><a href="/kids/girls-shoes/_/N-a16r7d">Girls' Shoes</a> </li>
+<li><a href="/kids/boys-shoes/_/N-1n4tdbd">Boys' Shoes</a> </li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/kids/kids-clothing/_/N-wad325"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Kids' Clothing</a>
+<ul>
+<li> <a href="/kids/kids-clothing/boys-clothing/_/N-1mito26">Boys' Clothing</a></li>
+<li> <a href="/kids/kids-clothing/girls-clothing/_/N-1yr5j2c">Girls' Clothing</a></li>
+<li> <a href="/kids/kids-clothing/all-kids-clothing/_/N-ixkfna">All Kids' Clothing</a></li>
+</ul>
+</li>
+<li>
+<a href="/kids/kids-accessories/_/N-1obdiqt"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Kids' Accessories</a>
+<ul>
+<li> <a href="/kids/kids-accessories/bags/_/N-ihnao">Bags</a></li>
+<li> <a href="/kids/kids-accessories/gloves-and-mittens/_/N-1np57jg">Gloves + Mittens</a></li>
+<li> <a href="/kids/kids-accessories/hats/_/N-d07a7u">Hats</a></li>
+<li> <a href="/kids/kids-accessories/scarves/_/N-u932ot">Scarves</a></li>
+<li> <a href="/kids/kids-accessories/socks/_/N-1lszs1j">Socks</a></li>
+<li> <a href="/kids/kids-accessories/all-kids-accessories/_/N-glze0m">All Kids' Accessories</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/kids/shop-by-lifestyle/_/N-jh6x4l"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Shop By Lifestyle</a>
+<ul>
+<li> <a href="/kids/shop-by-lifestyle/athletic/_/N-r2dkhw">Athletic</a></li>
+<li> <a href="/kids/shop-by-lifestyle/casual/_/N-1mcp0b7">Casual</a></li>
+<li> <a href="/kids/shop-by-lifestyle/dress/_/N-1xgg2y9">Dress</a></li>
+<li> <a href="/kids/shop-by-lifestyle/outdoor/_/N-1y3nujk">Outdoor</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/_/N-dzjzv9Zgn16zw?Ntt=TRENDING&amp;searchcategory=link"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Trending Now</a>
+<ul>
+<li> <a href="/?Ntt=STAR+WARS&amp;searchcategory=link">Star Wars</a></li>
+<li> <a href="/all/kids/_/N-1soutacZvimd2qZ12xooosZ162v8ptZ16st6hcZdpr8k6Z1ta97mZdib7xrZ15wt35eZ1wlo41uZi9057aZ1nb41f4Zuj6b62">Cartoon Friends</a></li>
+<li> <a href="/kids/kids-shoes/sandals/_/N-1o4g27o">Sandals</a></li>
+<li> <a href="/?Ntt=cars&amp;searchcategory=link">Cars</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li><a href="/all/kids-/_/N-1soutac">All</a> </li>
+<li><a href="/all/kids-/_/N-1soutac?Ns=product.siteValues.lastBirthDate%7C1">New</a> </li>
+<li><a href="/all/kids/_/N-1soutac?Ns=product.bestSellerScore%7C1">Best Selling</a> </li>
+<li><a href="/all/kids-/_/N-1soutacZ1ar2441">Online Exclusives</a> </li>
+</ul>
+<ul class="pull-left visible-lg visible-md">
+<li class="pdtb0 banner"><p><a href="/brands/adidas/_/N-1efifuuZdzjzv9Zgn16zw" title="Shop Kids' adidas"><img alt="Shop Kids' adidas" height="310" src="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY051517_L1_Kids" width="191"></a></p></li>
+</ul>
+</div>
+</li>
+<li data-hasdropdown="" style="height: auto; line-height: normal;" data-setup="false"><a href="/clothing/_/N-bmgyfl" class="capital-text"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block visible-sm-inline-block"></span>clothing</a>
+<div class="dropdown-menu" data-width-initailized="false">
+<ul class="pull-left">
+<li>
+<a href="/clothing/womens-clothing/_/N-kc7got"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Women's Clothing</a>
+<ul>
+<li> <a href="/clothing/womens-clothing/dresses-and-suits/_/N-1f0px7m">Dresses + Suits</a></li>
+<li> <a href="/clothing/womens-clothing/intimates/_/N-w927r8">Intimates</a></li>
+<li> <a href="/clothing/womens-clothing/leggings/_/N-1yukm3i">Leggings</a></li>
+<li> <a href="/clothing/womens-clothing/outerwear/_/N-9x5y6g">Outerwear</a></li>
+<li> <a href="/clothing/womens-clothing/pants/_/N-q4qvdt">Pants</a></li>
+<li> <a href="/clothing/womens-clothing/shirts-and-tops/_/N-1xzscos">Shirts + Tops</a></li>
+<li> <a href="/clothing/womens-clothing/shorts/_/N-5t09x9">Shorts</a></li>
+<li> <a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzo">Women's Plus (16W-32W)</a></li>
+<li> <a href="/clothing/womens-clothing/all-womens-clothing/_/N-rucqh7">All Women's Clothing</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/clothing/mens-clothing/_/N-ftouwp"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Men's Clothing</a>
+<ul>
+<li> <a href="/clothing/mens-clothing/outerwear/_/N-1broq9t">Outerwear</a></li>
+<li> <a href="/clothing/mens-clothing/pants/_/N-ogk4s4">Pants</a></li>
+<li> <a href="/clothing/mens-clothing/shirts/_/N-j4s31f">Shirts</a></li>
+<li> <a href="/clothing/mens-clothing/shorts/_/N-t52nva">Shorts</a></li>
+<li> <a href="/clothing/mens-clothing/big-and-tall/_/N-12rvslf">Big + Tall</a></li>
+<li> <a href="/clothing/mens-clothing/all-mens-clothing/_/N-15gmuum">All Men's Clothing</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/clothing/kids-clothing/_/N-1e7ow07"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Kids' Clothing</a>
+<ul>
+<li> <a href="/clothing/kids-clothing/outerwear/_/N-1su3nkz">Outerwear</a></li>
+<li> <a href="/clothing/kids-clothing/pants/_/N-14a33ac">Pants</a></li>
+<li> <a href="/clothing/kids-clothing/shirts-and-tops/_/N-62ge9z">Shirts + Tops</a></li>
+<li> <a href="/clothing/kids-clothing/shorts/_/N-2basud">Shorts</a></li>
+<li> <a href="/clothing/kids-clothing/boys-clothes/_/N-1qxynx9">Boys' Clothes</a></li>
+<li> <a href="/clothing/kids-clothing/girls-clothes/_/N-j1gwmu">Girls' Clothes</a></li>
+<li> <a href="/clothing/kids-clothing/all-kids-clothing/_/N-dkz4z2">All Kids' Clothing</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/all/clothing/_/N-bmgyfl"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Shop By Lifestyle</a>
+<ul>
+<li> <a href="/all/clothing/_/N-bmgyflZggsjll">Athletic</a></li>
+<li> <a href="/all/clothing/_/N-bmgyflZirz9bf">Casual</a></li>
+<li> <a href="/all/clothing/_/N-bmgyflZn9de7">Dress</a></li>
+<li> <a href="/all/clothing/_/N-bmgyflZ121jr8s">Outdoor</a></li>
+</ul>
+</li>
+<li>
+<a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzo"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Women's Plus (16W - 32W)</a>
+<ul>
+<li> <a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzoZpnru12">Tops</a></li>
+<li> <a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzoZ1nke3hz">Bottoms</a></li>
+<li> <a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzoZ8d0qlhZ1o5yz9q">Dresses</a></li>
+<li> <a href="/womens/womens-clothing/intimates/_/N-1e3173eZ132f2qsZ130ouu1Zgk3j08">Intimates</a></li>
+<li> <a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzoZ129c2oxZ1p95rcqZe4vwkx">Outerwear</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/trending-now"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Trending Now</a>
+<ul>
+<li> <a href="/all/clothing/_/N-bmgyflZy15jkt">Cami's + Tanks</a></li>
+<li> <a href="/all/clothing/_/N-bmgyflZ1t6os46">Athletic Clothing</a></li>
+<li> <a href="/?Ntt=2PRETTYPRINTS&amp;searchcategory=link">Pretty Prints</a></li>
+<li> <a href="/?Ntt=COLD+SHOULDER&amp;searchcategory=link">Cold Shoulder</a></li>
+<li> <a href="/?Ntt=COLORED+DENIM&amp;searchcategory=link">Colored Denim</a></li>
+<li> <a href="/?Ntt=2DENIMLACE&amp;searchcategory=link">Denim + Lace</a></li>
+</ul>
+</li>
+<li><a href="/all/clothing/_/N-bmgyfl">All</a> </li>
+<li><a href="/all/clothing/_/N-bmgyfl?Ns=product.siteValues.lastBirthDate%7C1">New</a> </li>
+<li><a href="/all/clothing/_/N-bmgyfl?Ns=product.siteValues.grossSalesRank%7C1">Best Selling</a> </li>
+<li><a href="/all/clothing/_/N-bmgyflZ1ar2441">Online Exclusive</a> </li>
+</ul>
+<ul class="pull-left visible-lg visible-md">
+<li class="pdtb0 banner"><p><a href="/clothing/womens-clothing/_/N-kc7gotZci7yfaZ1jk3exe" title="Shop Women's Black and White Clothing"><img alt="Shop Women's Black and White Clothing" height="310" src="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY050817_L1_Clothing" width="191"></a></p></li>
+</ul>
+</div>
+</li>
+<li data-hasdropdown="" style="height: auto; line-height: normal;" data-setup="false"><a href="/shoes" class="capital-text"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block visible-sm-inline-block"></span>shoes</a>
+<div class="dropdown-menu" data-width-initailized="false">
+<ul class="pull-left">
+<li>
+<a href="/womens/womens-shoes/_/N-1ddqfm6"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Women's</a>
+<ul>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6Z1t6os46">Athletic Shoes</a></li>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6Zirz9bf">Casual Shoes</a></li>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6Zn9de7">Dress Shoes</a></li>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6Z121jr8s">Outdoor Shoes</a></li>
+<li> <a href="/womens/womens-shoes/boots/_/N-1t9lyky">Boots</a></li>
+<li> <a href="/womens/womens-shoes/flats/_/N-n30qjs">Flats</a></li>
+<li> <a href="/womens/womens-shoes/loafers-and-slip-ons/_/N-1ncj7z5">Loafers + Slip-ons</a></li>
+<li> <a href="/womens/womens-shoes/pumps/_/N-1cj9zlt">Pumps</a></li>
+<li> <a href="/womens/womens-shoes/sandals/_/N-mqale9">Sandals</a></li>
+<li> <a href="/womens/womens-shoes/slippers/_/N-184bfw0">Slippers</a></li>
+<li> <a href="/womens/womens-shoes/sneakers/_/N-1417sp0">Sneakers</a></li>
+<li> <a href="/womens/womens-shoes/wedges/_/N-1z537c">Wedges</a></li>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6">All Women's Shoes</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/mens/mens-shoes/_/N-1g3anyz"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Men's</a>
+<ul>
+<li> <a href="/mens/mens-shoes/_/N-1g3anyzZ1t6os46">Athletic Shoes</a></li>
+<li> <a href="/mens/mens-shoes/_/N-1g3anyzZirz9bf">Casual Shoes</a></li>
+<li> <a href="/mens/mens-shoes/_/N-1g3anyzZn9de7">Dress Shoes</a></li>
+<li> <a href="/mens/mens-shoes/_/N-1g3anyzZ121jr8s">Outdoor Shoes</a></li>
+<li> <a href="/mens/mens-shoes/boots/_/N-kwpe8y">Boots</a></li>
+<li> <a href="/mens/mens-shoes/loafers-and-slip-ons/_/N-f88kvl">Loafers + Slip-ons</a></li>
+<li> <a href="/mens/mens-shoes/sandals/_/N-5s5z33">Sandals</a></li>
+<li> <a href="/mens/mens-shoes/slippers/_/N-6xj763">Slippers</a></li>
+<li> <a href="/mens/mens-shoes/sneakers/_/N-17tcyhe">Sneakers</a></li>
+<li> <a href="/mens/mens-shoes/_/N-1g3anyz">All Men's Shoes</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/kids/girls-shoes/_/N-a16r7d"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Girls'</a>
+<ul>
+<li> <a href="/kids/girls-shoes/_/N-a16r7dZ1t6os46">Athletic Shoes</a></li>
+<li> <a href="/kids/girls-shoes/_/N-a16r7dZirz9bf">Casual Shoes</a></li>
+<li> <a href="/kids/girls-shoes/_/N-a16r7dZn9de7">Dress Shoes</a></li>
+<li> <a href="/kids/girls-shoes/_/N-a16r7dZ121jr8s">Outdoor Shoes</a></li>
+<li> <a href="/kids/kids-shoes/adjustable-shoes/_/N-1gdejy5Zdzjzv9">Adjustable Shoes</a></li>
+<li> <a href="/kids/girls-shoes/_/N-a16r7dZ5bj1ca">Boots</a></li>
+<li> <a href="/kids/girls-shoes/_/N-a16r7dZocvgwe">Flats</a></li>
+<li> <a href="/kids/girls-shoes/_/N-a16r7dZn9ux4c">Sandals</a></li>
+<li> <a href="/kids/girls-shoes/_/N-a16r7dZyl1af7">Slippers</a></li>
+<li> <a href="/kids/girls-shoes/_/N-a16r7dZ1vumti8">Sneakers</a></li>
+<li> <a href="/kids/girls-shoes/_/N-a16r7d">All Girls' Shoes</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/kids/boys-shoes/_/N-1n4tdbd"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Boys'</a>
+<ul>
+<li> <a href="/kids/boys-shoes/_/N-1n4tdbdZ1t6os46">Athletic Shoes</a></li>
+<li> <a href="/kids/boys-shoes/_/N-1n4tdbdZirz9bf">Casual Shoes</a></li>
+<li> <a href="/kids/boys-shoes/_/N-1n4tdbdZn9de7">Dress Shoes</a></li>
+<li> <a href="/kids/boys-shoes/_/N-1n4tdbdZ121jr8s">Outdoor Shoes</a></li>
+<li> <a href="/kids/kids-shoes/adjustable-shoes/_/N-1gdejy5Zgn16zw">Adjustable Shoes</a></li>
+<li> <a href="/kids/boys-shoes/_/N-1n4tdbdZ5bj1ca">Boots</a></li>
+<li> <a href="/kids/boys-shoes/_/N-1n4tdbdZn9ux4c">Sandals</a></li>
+<li> <a href="/kids/boys-shoes/_/N-1n4tdbdZyl1af7">Slippers</a></li>
+<li> <a href="/kids/boys-shoes/_/N-1n4tdbdZ1vumti8">Sneakers</a></li>
+<li> <a href="/kids/boys-shoes/_/N-1n4tdbd">All Boys' Shoes</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/_/N-dzjzv9Zgn16zw?Ntt=TRENDING&amp;searchcategory=link"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Trending Now</a>
+<ul>
+<li> <a href="/sandals">Sandal Shop</a></li>
+<li> <a href="/womens/womens-shoes/espadrilles/_/N-119mfos">Espadrilles</a></li>
+<li> <a href="/brands/ugg/_/N-94tvyq">UGG</a></li>
+<li> <a href="/finder/_/N-t0fzd9">Canvas</a></li>
+</ul>
+</li>
+<li><a href="/_/N-13x4lh5Z12ehhzj">Narrow Shoes</a> </li>
+<li><a href="/_/N-13x4lh5Z1bitt6q">Wide Shoes</a> </li>
+<li><a href="/shoes/_/N-13x4lh5">All</a> </li>
+<li><a href="/_/N-13x4lh5?Ns=product.siteValues.lastBirthDate%7C1">New</a> </li>
+<li><a href="/_/N-13x4lh5?Ns=product.bestSellerScore%7C1">Best Selling</a> </li>
+<li><a href="/_/N-13x4lh5Z1ar2441?Ns=product.siteValues.lastBirthDate%7C1">Online Exclusive</a> </li>
+</ul>
+<ul class="pull-left visible-lg visible-md">
+<li class="pdtb0 banner"><p><a href="/brands/propet/_/N-16ba2an" title="Shop Propet Shoes"><img alt="Shop Propet Shoes" height="310" src="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY050117_L1_Shoes" width="191"></a></p></li>
+</ul>
+</div>
+</li>
+<li data-hasdropdown="" style="height: auto; line-height: normal;" data-setup="false"><a href="/accessories/_/N-1i9n1c8" class="capital-text"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block visible-sm-inline-block"></span>accessories</a>
+<div class="dropdown-menu" data-width-initailized="false">
+<ul class="pull-left">
+<li>
+<a href="/accessories/shop-by-style/_/N-gx0ua0"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Shop By Style</a>
+<ul>
+<li> <a href="/accessories/shop-by-style/bags/_/N-1637hju">Bags</a></li>
+<li> <a href="/accessories/shop-by-style/belts/_/N-l91p0f">Belts</a></li>
+<li> <a href="/accessories/shop-by-style/fragrances/_/N-1sls8tc">Fragrances</a></li>
+<li> <a href="/accessories/shop-by-style/gloves-and-mittens/_/N-833ryv">Gloves + Mittens</a></li>
+<li> <a href="/accessories/shop-by-style/hats/_/N-1i7d89n">Hats</a></li>
+<li> <a href="/accessories/shop-by-style/intimates/_/N-1u8ubi3">Intimates</a></li>
+<li> <a href="/accessories/shop-by-style/jewelry-and-watches/_/N-1gm1syo">Jewelry + Watches</a></li>
+<li> <a href="/accessories/shop-by-style/leggings/_/N-nuwe86">Leggings</a></li>
+<li> <a href="/accessories/shop-by-style/scarves/_/N-j6c2ik">Scarves</a></li>
+<li> <a href="/accessories/shop-by-style/shoe-care/_/N-1s3m864">Shoe Care</a></li>
+<li> <a href="/accessories/shop-by-style/socks/_/N-th3yzs">Socks</a></li>
+<li> <a href="/accessories/shop-by-style/wallets-and-wristlets/_/N-1suysul">Wallets + Wristlets</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/accessories/bags/_/N-18sadg"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Bags</a>
+<ul>
+<li> <a href="/accessories/bags/backpacks/_/N-1us7gmc">Backpacks</a></li>
+<li> <a href="/accessories/bags/handbags/_/N-c2kste">Handbags</a></li>
+<li> <a href="/accessories/bags/sport-and-duffle/_/N-1eibdxe">Sport + Duffle</a></li>
+<li> <a href="/accessories/bags/all-bags/_/N-1miv00o">All Bags</a></li>
+</ul>
+</li>
+<li>
+<a href="/accessories/shop-by-gender/_/N-1ey6uho"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Shop By Gender</a>
+<ul>
+<li> <a href="/accessories/shop-by-gender/womens/_/N-vkzel3">Women's</a></li>
+<li> <a href="/accessories/shop-by-gender/mens/_/N-kcqkln">Men's</a></li>
+<li> <a href="/accessories/shop-by-gender/kids/_/N-1v9gjx7">Kids'</a></li>
+</ul>
+</li>
+</ul>
+<ul class="pull-left">
+<li><a href="/accessories/_/N-1i9n1c8">All</a> </li>
+<li><a href="/accessories/_/N-1i9n1c8?Ns=product.siteValues.lastBirthDate%7C1">New</a> </li>
+<li><a href="/accessories/_/N-1i9n1c8?Ns=product.siteValues.grossSalesRank%7C1">Best Selling</a> </li>
+<li><a href="/accessories/_/N-1i9n1c8Z1ar2441">Online Exclusives</a> </li>
+</ul>
+<ul class="pull-left visible-lg visible-md">
+<li class="pdtb0 banner"><p><a href="/accessories/bags/_/N-18sadg" title="Shop Bags"><img alt="Shop Bags" height="310" src="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY022717_L1_Accessories" width="191"></a></p></li>
+</ul>
+</div>
+</li>
+<li data-hasdropdown="" style="height: auto; line-height: normal;" data-setup="false"><a href="/brands" class="capital-text"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block visible-sm-inline-block"></span>brands</a>
+<div class="dropdown-menu" data-width-initailized="false">
+<ul class="pull-left">
+<li>
+<a href="/?Ntt=ZYTOPBRANDS&amp;searchcategory=link"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Top Brands</a>
+<ul>
+<li> <a href="/brands/adidas/_/N-1efifuu">adidas</a></li>
+<li> <a href="/brands/array/_/N-1j4nopq">ARRAY</a></li>
+<li> <a href="/brands/bearpaw/_/N-ajmblm">BEARPAW</a></li>
+<li> <a href="/brands/birkenstock/_/N-1p8d7bw">Birkenstock</a></li>
+<li> <a href="/brands/clarks/_/N-m9u3mn">Clarks</a></li>
+<li> <a href="/brands/crocs/_/N-1k1aysa">Crocs</a></li>
+<li> <a href="/brands/easy-spirit/_/N-6n9pr9">Easy Spirit</a></li>
+<li> <a href="/brands/easy-street/_/N-84gdl2">Easy Street</a></li>
+<li> <a href="/brands/keen/_/N-ubmdr3">KEEN</a></li>
+<li> <a href="/brands/k-jordan/_/N-1irjmku">K Jordan</a></li>
+<li> <a href="/brands/minnetonka/_/N-u2s8a1">Minnetonka</a></li>
+<li> <a href="/brands/naturalizer/_/N-j0vpn2">Naturalizer</a></li>
+<li> <a href="/brands/new-balance/_/N-bgbs96">New Balance</a></li>
+</ul></li>
+</ul>
+<ul class="pull-left">
+<li>
+<ul>
+<li> <a href="/?Ntt=ROXY&amp;searchcategory=link">Roxy</a></li>
+<li> <a href="/?Ntt=SKECHERS&amp;searchcategory=link">Skechers</a></li>
+<li> <a href="/brands/sperry-top-sider/_/N-1cddikz">Sperry Top-Sider</a></li>
+<li> <a href="/brands/stacy-adams/_/N-w2eenx">Stacy Adams</a></li>
+<li> <a href="/?Ntt=STEVE+MADDEN&amp;searchcategory=link">Steve Madden</a></li>
+<li> <a href="/brands/timberland/_/N-nb5s7h">Timberland</a></li>
+<li> <a href="/brands/ugg/_/N-94tvyq">UGG®</a></li>
+<li> <a href="/brands/under-armour/_/N-17mm97w">Under Armour</a></li>
+<li> <a href="/?Ntt=VOLATILE&amp;searchcategory=link">Volatile</a></li>
+</ul>
+</li>
+<li><a href="/brands">All Brands</a> </li>
+</ul>
+<ul class="pull-left visible-lg visible-md">
+<li class="pdtb0 banner"><p><a href="/?Ntt=BEACON&amp;searchcategory=link" title="Shop Beacon"><img alt="Shop Beacon" height="310" src="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY051517_L1_Brands" width="191"></a></p></li>
+</ul>
+</div>
+</li>
+<li data-hasdropdown="" style="height: auto; line-height: normal;" data-setup="false"><a href="/?Ntt=EXTENDED&amp;searchcategory=link" class="capital-text"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block visible-sm-inline-block"></span>extended sizing</a>
+<div class="dropdown-menu" data-width-initailized="false">
+<ul class="pull-left">
+<li>
+<a href="/womens/womens-shoes/_/N-1ddqfm6"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Women's Shoes</a>
+<ul>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6Zi7rid9">Super Slim (SS, A4)</a></li>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6Zjfsgu3">Slim (S, A3)</a></li>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6Z12ehhzj">Narrow (N, A2, A)</a></li>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6Zpri1ls">Medium (M, B)</a></li>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6Z1bitt6q">Wide (W, C, D, E)</a></li>
+<li> <a href="/womens/womens-shoes/_/N-1ddqfm6Z1owa4eb">Extra Wide (WW, XW, E2, E3, E4)</a></li>
+</ul>
+</li>
+<li>
+<a href="/mens/mens-shoes/_/N-1g3anyz"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Men's Shoes</a>
+<ul>
+<li> <a href="/mens/mens-shoes/_/N-1g3anyzZ12ehhzj">Narrow (N, A2, A, B, C)</a></li>
+<li> <a href="/mens/mens-shoes/_/N-1g3anyzZpri1ls">Medium (M, D)</a></li>
+<li> <a href="/mens/mens-shoes/_/N-1g3anyzZ1bitt6q">Wide (W, E)</a></li>
+<li> <a href="/mens/mens-shoes/_/N-1g3anyzZ1owa4eb">Extra Wide (WW, XW, E2, E3, E4, E5, E6)</a></li>
+</ul>
+</li>
+<li><a href="/kids/girls-shoes/_/N-a16r7dZ1bitt6q">Girl's Wide</a> </li>
+<li><a href="/kids/boys-shoes/_/N-1n4tdbdZ1bitt6q">Boy's Wide</a> </li>
+</ul>
+<ul class="pull-left">
+<li>
+<a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzo"><span class="glyphicon glyphicon-menu-right visible-xs-inline-block visible-sm-inline-block"></span>
+Women's Plus (16W - 32W)</a>
+<ul>
+<li> <a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzoZpnru12">Tops</a></li>
+<li> <a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzoZ1nke3hz">Bottoms</a></li>
+<li> <a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzoZ129c2ox">Dresses</a></li>
+<li> <a href="/clothing/womens-clothing/womens-plus-16w-32w-/_/N-b8vxzoZ1ikncom">Intimates</a></li>
+<li> <a href="/womens/womens-clothing/outerwear/_/N-1adqiwqZ132f2qsZq6spd0Z115wp70Z14mmekaZfv9j4xZ1n72pbv">Outerwear</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li data-hasdropdown="" style="height: auto; line-height: normal;" data-setup="false"><a href="/sale/_/N-1wb20k4" class="capital-text"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block visible-sm-inline-block"></span>sale</a>
+<div class="dropdown-menu" data-width-initailized="false">
+<ul class="pull-left">
+<li><a href="/sale/womens/_/N-1wb20k4Z8txn59">Women's</a> </li>
+<li><a href="/sale/mens/_/N-1wb20k4Z1w4xgj9">Men's</a> </li>
+<li><a href="/sale/boys/_/N-1wb20k4Zgn16zw">Boys'</a> </li>
+<li><a href="/sale/girls/_/N-1wb20k4Zdzjzv9">Girls'</a> </li>
+<li><a href="/sale/accessories/_/N-1wb20k4Z1p8f6wb">Accessories</a> </li>
+<li><a href="/sale/athletic/_/N-1wb20k4Z1t6os46Zggsjll">Athletic</a> </li>
+<li><a href="/sale/boots/_/N-1wb20k4Z5bj1ca">Boots</a> </li>
+<li><a href="/sale/casuals/_/N-1wb20k4Zirz9bf">Casuals</a> </li>
+<li><a href="/sale/clothing/_/N-1wb20k4Z1knyyqk">Clothing</a> </li>
+<li><a href="/sale/dress/_/N-1wb20k4Zn9de7">Dress</a> </li>
+<li><a href="/sale/handbags/_/N-1wb20k4Zflj8pn">Handbags</a> </li>
+<li><a href="/sale/outdoor/_/N-1wb20k4Z121jr8s">Outdoor</a> </li>
+<li><a href="/sale/sandals/_/N-1wb20k4Zn9ux4c">Sandals</a> </li>
+<li><a href="/sale/_/N-1wb20k4">All Sale</a> </li>
+</ul>
+<ul class="pull-left visible-lg visible-md">
+<li class="pdtb0 banner"><p><a href="/sale/_/N-1wb20k4" title="Shop Sale"><img alt="Shop Sale" height="310" src="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY050117_L1_Sale" width="191"></a></p></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="site-width row">
+<div class="col-xs-12 new-search-section">
+<a href="javascript:void(0);" class="visible-xs visible-sm search-menu-link">
+<span class="fa fa-search"></span>Search</a>
+</div>
+</div>
+</nav>
+<style type="text/css">.first-banner{background-color:#d7d7d7;padding:0px 22px 0px 22px!important;max-width:1280px;margin:0 auto;float:none;display:block;overflow:hidden;max-height:40px;border:solid green 0px;}.first-banner div{display:inline-block;}.first-banner .banner-inside-wrapper{display:block;width:100%;max-width:800px;margin:0 auto;}.first-banner .buy-now-pay-later-text,.first-banner .venture-credit-text{color:#4a4a4a;font-weight:normal!important;height:40px;line-height:41px}.first-banner .buy-now-pay-later-text{font-size:22px;}.first-banner .venture-credit-text{font-size:18px;}.first-banner .btn-primary-flat{background-color:#ffffff;font-size:14px;border-radius:5px;color:#4a4a4a!important;font-weight:normal!important;padding:5px 7px;border:1px solid #ffffff;float:right;margin-left:20px;margin-top:4px;margin-right:0px;}.first-banner .btn-primary-flat:active,.first-banner .btn-primary-flat:visited{background-color:#ffffff!important;color:#8f8c8a!important;border:1px solid #c3c3c3;}.first-banner .btn-primary-flat:hover{background-color:#7f7e7c!important;color:#ffffff!important;border:1px solid #7f7e7c;}.banner-text-wrapper:hover .buy-now-pay-later-text a{color:#149a9b;}.banner2{margin:0 auto;float:none;display:block;position:relative;max-width:1280px;}@media (max-width: 850px) {.first-banner .buy-now-pay-later-text{font-size:18px;}.first-banner .venture-credit-text{font-size:15px;}}@media (max-width: 766px) {.first-banner .buy-now-pay-later-text,.first-banner .venture-credit-text span{display:none;}.first-banner .venture-credit-text{font-size:18px;}.first-banner .banner-inside-wrapper{max-width:530px;}}@media (max-width: 580px) {.credit-button-2{display:none;}}@media (max-width: 400px) {.first-banner{padding:0px 9px 0px 9px!important;}.first-banner .btn-primary-flat{font-size:13px;padding:6px 5px;margin-left:10px;}.first-banner .banner-inside-wrapper{max-width:275px;}}</style>
+<div class="site-width first-banner banner-low-monthly col-xs-12">
+<div class="banner-inside-wrapper">
+<div class="banner-text-wrapper">
+<div class="buy-now-pay-later-text"><a href="/customer-service/faqs/detail/about-masseys-credit/_/A-1567">BUY NOW, PAY LATER</a></div>
+<div class="venture-credit-text"><a href="/customer-service/faqs/detail/about-masseys-credit/_/A-1567"><span>&nbsp;with&nbsp;</span>Masseys Credit</a></div>
+</div>
+<a class="btn btn-primary-flat credit-button-2" href="/account/creditservice/creditservicehistory.jsp">Check My Balance&nbsp;&nbsp;<i class="fa fa-caret-right">&nbsp;</i></a> <a class="btn btn-primary-flat " href="/account/creditservice/creditservicepayment.jsp">Make a Payment&nbsp;&nbsp;<i class="fa fa-caret-right">&nbsp;</i></a></div>
+</div>
+<div class="page-content site-width">
+<div class="banner2 site-width giveawayBanner"><img alt="Enter For a Chance to Win a $500 Shopping Spree!" border="0" class="responsive" data-interchange-medium="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY060517_GlobalBanner_D&amp;recipeName=Category" data-interchange-medium-usemapid="#ZYGiveawayBanner_D" data-interchange-small="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY060517_GlobalBanner_T&amp;recipeName=Category" data-interchange-small-usemapid="#ZYGiveawayBanner_T" data-interchange-x-small="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY060517_GlobalBanner_M&amp;recipeName=Category" data-interchange-x-small-usemapid="#ZYGiveawayBanner_M" src="https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12021529&amp;imageId=ZY060517_GlobalBanner_D&amp;recipeName=Category" usemap="#ZYGiveawayBanner_D"><map name="ZYGiveawayBanner_D"><area coords="2,1,1277,39" href="/summer-kickoff-giveaway" shape="rect" title="Enter For a Chance to Win a $500 Shopping Spree!"></map><map name="ZYGiveawayBanner_T"><area coords="1,2,990,38" href="/summer-kickoff-giveaway" shape="rect" title="Enter For a Chance to Win a $500 Shopping Spree!"></map><map name="ZYGiveawayBanner_M"><area coords="1,2,640,53" href="/summer-kickoff-giveaway" shape="rect" title="Enter For a Chance to Win a $500 Shopping Spree!"></map></div>
+</div>
+ 
+</header>
+<span id="skip-content"> </span>
+<div class="page-content site-width search faq-landing-page-new">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3 col-md-3 left-content">
+<div class="left-content">
+<div class="refine">
+<div class="bold left-nav-heading">Support Topics</div>
+<ul class="list-unstyled ">
+<li><a href="/customer-service/faqs/credit-plan-information/_/N-0Z179f9t6">Credit Plan Information</a></li>
+<li><a href="/customer-service/faqs/order-status-shipping-and-tracking/_/N-0Z12zuaj7">Order Status, Shipping &amp; Tracking</a></li>
+<li><a href="/customer-service/faqs/payment-information/_/N-0Z199qudx">Payment Information</a></li>
+<li><a href="/customer-service/faqs/pricing-and-promotions/_/N-0Z17mlhf3">Pricing &amp; Promotions</a></li>
+<li><a href="/customer-service/faqs/returns-and-exchanges/_/N-0Z15h17o5">Returns &amp; Exchanges</a></li>
+<li><a href="/customer-service/faqs/security-and-privacy/_/N-0Z6ycu1t">Security &amp; Privacy</a></li>
+<li><a href="/customer-service/faqs/sizing-information/_/N-0Z1asivdq">Sizing Information</a></li>
+<li><a href="/customer-service/faqs/website-technical-questions/_/N-0Zzaflns">Website Technical Questions</a></li>
+</ul>
+</div>
+<div class="hidden-xs">
+<div class="refine">
+<div class="bold left-nav-heading">Helpful Links</div>
+<ul class="list-unstyled ">
+<li><a href="/customer-service">FAQs</a></li>
+<li><a href="/contact-us">Contact Us</a></li>
+<li><a href="/customer-service/faqs/detail/about-us/_/A-1598">About Masseys</a></li>
+<li><a href="/customer-service/faqs/detail/about-masseys-credit/_/A-1567">Masseys Credit</a></li>
+<li><a href="/customer-service/faqs/detail/apply-for-masseys-credit/_/A-1607">Apply For Credit</a></li>
+<li><a href="/customer-service/faqs/detail/masseys-credit-terms/_/A-1565">Credit Terms &amp; Conditions</a></li>
+<li><a href="/account/orderstatus.jsp">Order Status</a></li>
+<li><a href="/catalog-online">Online Catalog</a></li>
+<li><a href="/content/requestcatalog.jsp">Catalog Request</a></li>
+<li><a href="/common/sitemap.jsp">Site Map</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-9 col-md-9 right-content category-landing-details no-r-pad-sm">
+<div class="return-policy">
+<h2>Privacy Policy</h2>
+</div>
+<div class="return-policy-heading">
+What is Masseys' privacy policy?
+</div>
+<p class="return-para-text"></p><p><span style="FONT-WEIGHT: bold">Our Commitment to Privacy</span><br>
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.<br>
+<br>
+<span style="FONT-WEIGHT: bold">The Information We Collect:</span><br>
+Masseys® and its parent company Mason® Companies, Inc. value and respect your privacy. We collect information about you through our websites and catalog orders in an effort to improve your shopping experience and to communicate our products, services, and promotions to you.<br>
+<br>
+This notice applies to all information collected or submitted on the Masseys website. On some pages, you can order products, make requests, and register to receive catalogs or mailings. The types of personal information collected at these pages are:<br>
+<br>
+Name<br>
+Address<br>
+Email address<br>
+Phone number<br>
+*Credit/Debit Card Information (This is only when you place an order)<br>
+<br>
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's name and address. In this circumstance, the types of personal information collected are only the name and address of the other person.<br>
+<br>
+<span style="FONT-WEIGHT: bold">Communication Consent</span><br>
+You authorized us, our affiliates, agents, and others calling at our request or on our behalf to contact you at any number or email address you have provided to us or have used to contact us or which is lawfully obtained by or on our behalf for the servicing, management and/or collection of your account. We may contact you in any manner consistent with the information we have obtained, including e-mail, telephone calls and text messages. We may use automated technology for the purpose of contacting you, including but not limited to automatic dialing or similar equipment. We may monitor or record calls from you to us and calls from us to you. When you give us your mobile telephone number we may contact you at that number using automated dialing equipment and we can leave pre-recorded or other messages, even if you are charged for it by your provider.<br>
+<br>
+<span style="FONT-WEIGHT: bold">The Way We Use Information:</span><br>
+We use the information you provide when placing an order to complete that order. From time to time, we may share information we have collected among our other divisions and, under certain circumstances, with third parties that provide services on our behalf or with carefully screened companies whose products or services we feel may interest you. If you do not wish us to share this information, please relay your request along with your mailing address to us by phone toll free at 1-866-229-2316 or write to us at:<br>
+<br>
+Masseys<br>
+1251 1st Avenue<br>
+Chippewa Falls, WI 54729<br>
+<br>
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out.<br>
+<br>
+<span style="FONT-WEIGHT: bold">Third Party Advertising</span><br>
+We may contract with third-party companies who use cookies to measure the performance of a marketing effort on our behalf. We may share your personally identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous.<br>
+<br>
+To learn about opt-out programs that this and other third-party advertising companies participate in as well as the effects of opting out, please visit the following websites: http://www.networkadvertising.org/choices/, http://www.aboutads.info/choices/.</p>
+<p>Bazaarvoice’s use of any data collected through its cookies is subject to the <a style="TEXT-DECORATION: underline" href="http://go.bazaarvoice.com/FDbGe00Sd0P0M30S000DyEi">Bazaarvoice Privacy Policy</a> and is reflected in our <a style="TEXT-DECORATION: underline" href="http://go.bazaarvoice.com/kP0ee0E000M03GySbD0Ti0D">Service Descriptions</a>.<br>
+<br>
+<span style="FONT-WEIGHT: bold">Cookies</span><br>
+Masseys.com uses cookies (small text files placed on your device) to help enhance your shopping experience on our website. Cookies allow us to personalize and streamline your shopping experience. We realize that some shoppers choose to not allow cookies, so we have created our site to not be dependent on them. If you choose to not allow cookies, you will be able to select a product and complete a purchase on our site, but you will not be able to take advantage of some of our advanced functionality. Please be aware that your privacy and security are our top concerns - we do not store any personally identifiable or sensitive information in the cookie.<br>
+<br>
+If you would like more information about cookies and how to manage them, please see the following websites: http://www.microsoft.com/info/cookies.mspx, http://computer.howstuffworks.com/cookie.htm<br>
+<br>
+<span style="FONT-WEIGHT: bold">Analytics</span><br>
+Masseys.com collects and analyzes certain information about its customers and their browsing and purchasing patterns. To learn more about Google Analytics’ privacy practices and the opt-out choices it offers, please visit the following websites: https://support.google.com/analytics/answer/6004245, https://tools.google.com/dlpage/gaoptout/.<br>
+<br>
+<span style="FONT-WEIGHT: bold">Our Commitment to Data Security features Secure Site Class 3 Authentication by VeriSign®</span><br>
+Masseys uses VeriSign, which offers state-of-the-art, completely dependable security infrastructure and is the most trusted, recognized, security brand on the web. Secure Site by VeriSign provides the ultimate in credibility for online transactions. You can be confident each purchase is backed by the most reliable, secure operations infrastructure, comprehensive security, trust, and authentication practices. VeriSign authentication procedures have withstood the most rigorous scrutiny from independent third-party auditors. In fact, VeriSign is the only Certificate Authority in the world to have passed an extensive independent Type #SAS 70 audit by KPMG, the global accounting and consulting firm. (The Statement of Auditing Standard 70, Type #SAS 70, was established by the American Institute of Certified Public Accountants to certify trusted practices.) For more information visit <a style="TEXT-DECORATION: underline" href="http://www.verisign.com/" target="_blank">VeriSign</a>.<br>
+<br>
+Masseys has taken several steps to ensure Your Credit Card Transactions are Secure GUARANTEED. Our servers use Secure Socket Layer (SSL) advanced encryption. Masseys uses state-of-the-art technology to protect your personal information and privacy. All credit card transactions are secured by 128-bit encryption. As an added measure, in the unlikely event of a credit card fraud, there is still no risk to you. The Fair Credit Act states that your credit card company can hold you liable for a maximum of $50.00 in fraudulent charges. Masseys.com will reimburse for any charges up to the $50.00 maximum your credit card company can charge you if those charges result from an order you placed on our secure server. You can enjoy shopping worry free at Masseys.<br>
+<br>
+<span style="FONT-WEIGHT: bold">How We Use Your Email Address</span><br>
+When you provide us your email address, we will email you as necessary to process your order, respond to a request, or to provide customer service. After you place an order at Masseys.com, you will receive an email confirmation. If you receive one of our Masseys gift cards will also receive an email notifying you of the gift and instructions on how to use the card.<br>
+Masseys may also send promotional emails about products, offers, or services that we think you may be interested in. Masseys will only send promotional emails to people who wish to receive them. Instructions on how to unsubscribe can be found in each of our email mailings.<br>
+<br>
+Masseys and our parent company Mason® Companies, Inc. value and respect your privacy. We collect information about you through our websites and when you place an order with us in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. As described in this policy, from time to time, we may share your information among our other titles and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.<br>
+<br>
+<span style="FONT-WEIGHT: bold">Our Commitment to Children's Privacy</span><br>
+Protecting the privacy of the very young is especially important. Therefore, we comply with the Children's Online Privacy Protection Act (COPPA), do not permit registration by, and will not knowingly collect personally identifiable information from anyone under the age of 13. No part of our website is structured to attract anyone under 13 years of age.<br>
+<br>
+<span style="FONT-WEIGHT: bold">How You Can Access Or Correct Your Information</span><br>
+You can access all your personally identifiable information that we collect online and maintain by contacting us either by phone at 1-866-229-2316 or writing to us at:<br>
+<br>
+Masseys<br>
+1251 1st Avenue<br>
+Chippewa Falls, WI 54729<br>
+<br>
+We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.<br>
+<br>
+<span style="FONT-WEIGHT: bold">Changes To This Privacy Policy Statement</span><br>
+From time to time, we may use the information you provide to us for in ways not mentioned above in this Privacy Notice. If our policies change at some point of time, we will post the changes on the Privacy Notice page of our website. From time to time, you should check this page for more information on how we use the data we collect.<br>
+<br>
+<span style="FONT-WEIGHT: bold">How To Contact Us</span><br>
+Should you have other questions or concerns about these security and privacy policies, please call us at 1-866-229-2316 or send us an email at service@masseys.com<br>
+<br>
+<br>
+<span style="FONT-WEIGHT: bold">OTHER LEGAL INFORMATION</span><br>
+<br>
+Product Information<br>
+The products displayed at this Site are available while supplies last. The prices displayed at this Site are quoted in U.S. dollars.<br>
+<br>
+Links To Other Web Sites And Services<br>
+This Site may contain links to outside services or resources that Masseys does not control. Any concern about these services and resources should be directed to that outside Site. First, try to work this out with the Linked Site. If you are not able to resolve it, please let us know.<br>
+<br>
+Terms Of Use<br>
+We welcome you to the Masseys website. The rules that apply to your use of our Site are set forth in on this webpage. By using our Site you are agreeing to those rules. We reserve the right to change the rules from time to time. Your ongoing use of the Site means that you agree to the rules as changed.<br>
+<br>
+Property Rights<br>
+The entire Site as a whole is protected by copyright and trade dress laws. All rights, ownership and interest in are owned by Masseys and its parent companies. All identified trademarks appearing at the site are trademarks of Masseys and its parent companies and all affiliated trademarks of other companies are used with permission. One or more patents may apply to this web site, including without limitations: US Patent Nos. 5,528,490; 5,761,649; 7,908,173; and 7,908,176. Excepting trademarks and brand names of third parties for merchandise depicted on the Site, or as otherwise noted, all images, materials, designs, photographs, illustrations, icons, videos and other materials that are part of this Site are copyrights, trademarks, trade dress and/or other intellectual properties owned, controlled or licensed by Masseys and its parent companies. Our Site as a whole, and its contents, are intended solely for personal, non-commercial use by Site users. It is permissible to download or copy contents and other materials subject to downloaded capability displayed on the Site for personal use only. No right, title or interest in any downloaded images or materials or software is transferred to you as a result of any personal copying or downloading. As a Site user, you may not reproduce (except for personal use as noted above), publish, transmit, distribute, display, modify, create derivative works from, sell or participate in any sale of, or otherwise utilize in any way, in whole or in part, any of the Contents, the Site, or any related software without the express written permission of Masseys.<br>
+<br>
+<br>
+Identity Theft Prevention Program, known as our Red Flag Policy<br>
+The risk to our customers, employees and business partners from data loss and identity theft is of significant concern. All of our employees and business partners share in the responsibility of reducing this risk and protecting applicable information for which they have access or custodianship.<br>
+<br>
+The purpose of the program is to establish an designed to detect, prevent and mitigate identity theft in connection with the opening of a covered account or an existing covered account and to provide for continued administration of the Program in compliance with Part 681 of Title 16 of the Code of Federal Regulations implementing Sections 114 and 315 of the Fair and Accurate Credit Transactions Act (FACTA) of 2003. For further information on "Red Flag" requirements go to http://www.ftc.gov/bcp/edu/microsites/redflagsrule/faqs.shtm</p><p></p>
+</div>
+</div>
+</div>
+</div>
+ 
+<footer aria-label="pageFooter" role="contentinfo">
+<div class="container-fluid site-width">
+<nav data-top="16">
+<style type="text/css">.footer-masseys-logo{width:120px;vertical-align:middle;}a:hover .fa-instagram,a:hover .fa-facebook{color:#818181;}.footer-block{display:block;}.footer-block br{display:none;}.first-icon-footer{padding-left:25px;}@media (max-width: 767px){footer nav>ul>li>ul>li>a{width:100%;display:block;padding:7px 42px!important;}footer nav>ul>li>ul>li>img{margin:7px 42px!important;}footer nav>ul>li>ul>li{padding:0px 0px!important;}.footer-block br{display:block;}footer nav p{position:relative! important;}.first-icon-footer{padding-left:0px;}}</style>
+<ul class="list-inline">
+<li class="hovered"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block">&nbsp;</span><h3>Shop By Category</h3>
+<ul class="list-group">
+<li><a href="/womens/_/N-epmeuj">Women's</a></li>
+<li><a href="/mens/_/N-106uv6h">Men's</a></li>
+<li><a href="/kids/_/N-1soutac">Kids'</a></li>
+<li><a href="/clothing/_/N-bmgyfl">Clothing</a></li>
+<li><a href="/bags/_/N-1e7od2t">Bags</a></li>
+<li><a href="/accessories/_/N-1i9n1c8">Accessories</a></li>
+<li><a href="/?Ntt=EXTENDED&amp;searchcategory=link">Extended Sizing</a></li>
+<li><a href="/brands">Brands</a></li>
+<li><a href="/sale/_/N-1wb20k4">Sale</a></li>
+</ul>
+</li>
+<li><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block">&nbsp;</span><h3>Credit &amp; Payment</h3>
+<ul class="list-group">
+<li><a href="/account/creditservice/creditservicepayment.jsp">Make a Payment</a></li>
+<li><a href="/account/creditservice/creditservicehistory.jsp">Check My Balance</a></li>
+<li><a href="/customer-service/faqs/detail/about-masseys-credit/_/A-1567">About Masseys Credit</a></li>
+<li><a href="/customer-service/faqs/detail/masseys-credit-terms/_/A-1565">Credit Terms</a></li>
+<li><a href="/customer-service/faqs/detail/apply-for-masseys-credit/_/A-1607">Apply for Credit</a></li>
+</ul>
+</li>
+<li><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block">&nbsp;</span><h3>Customer Service</h3>
+<ul class="list-group">
+<li><a href="/account/orderstatus.jsp">Order Status</a></li>
+<li><a href="/account/orderhistory.jsp">Order History</a></li>
+<li><a href="/customer-service">FAQs</a></li>
+<li><a href="/customer-service/faqs/detail/shipping-info/_/A-1546">Shipping Info</a></li>
+<li><a href="/customer-service/faqs/detail/return-policy/_/A-1531">Return Policy</a></li>
+<li><a href="/account/wishlist.jsp">Wishlist</a></li>
+<li><a href="/common/sitemap.jsp">Site Map</a></li>
+<li><a href="/contact-us">Contact Us</a></li>
+</ul>
+</li>
+<li style="padding-left: 25px;"><span class="glyphicon glyphicon-chevron-right visible-xs-inline-block">&nbsp;</span><h3>Our Company</h3>
+<ul class="list-group">
+<li><a href="/customer-service/faqs/detail/about-us/_/A-1598">About Us</a></li>
+<li><a href="/content/requestcatalog.jsp">Catalog Request</a></li>
+<li><a href="/catalog-online">Online Catalog</a></li>
+<li><a href="/customer-service/faqs/detail/privacy-policy/_/A-1564">Privacy Policy</a></li>
+</ul>
+</li>
+</ul>
+<p class="footer-block">*Subject to final credit approval.
+<br>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<span class="first-icon-footer" style="font-size:34px; vertical-align:middle;">
+<a href="https://www.instagram.com/masseys" target="_blank"><i class="fa fa-instagram">&nbsp;</i></a>
+</span>
+<span style="padding-left:5px;padding-right:5px; font-size:28px; vertical-align:middle;">
+<a href="https://www.facebook.com/masseyscredit" target="_blank">
+<i class="fa fa-facebook">&nbsp;</i></a>
+</span>
+<a href="/" target="_blank"> <img class="footer-masseys-logo" alt="Masseys Logo" src="https://www.masseys.com/custom/zy/content/svg/MasseysLogoSVG.svg"></a>
+</p>
+</nav>
+<div class="box-model">
+<ul class="list-group">
+<li class="sign-up-box clearfix">
+<strong aria-hidden="true">Sign Up for Email</strong>
+<h3 class="textBrowserOnly">Sign Up for Email</h3>
+<form id="emailSignUpFooter" novalidate="true" action="/cartridges/PageSlot/PageSlot.jsp;jsessionid=5WXKxTGiuNiifdfqkUdeBskY.d384f58a-8250-3e11-b535-150660204a12?_DARGS=/common/footer.jsp.emailSignUpFooter" class="clearfix" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input value="2080783628911747698" type="hidden"> </div><div class="clearfix form-group">
+<label for="signupEmailTxt" class="textBrowserOnly">Enter your email address:</label>
+<input id="signupEmailTxt" maxlength="100" placeholder="Enter your email address" data-required="true" name="/com/mason/content/MasonContentFormHandler.value.email" value="" data-val-regex-pattern="^[-0-9a-zA-Z.+_*!^#$%!'&amp;]+@[-0-9a-zA-Z.+_]+\.[a-zA-Z]{2,4}$" class="form-control pull-left" onkeypress="if (event.keyCode === 13) { $('#signInEmailFooter').click(); return false; }" type="email"><input name="_D:/com/mason/content/MasonContentFormHandler.value.email" value=" " type="hidden"><input name="/com/mason/content/MasonContentFormHandler.emailSignup" value="submit" type="hidden"><input name="_D:/com/mason/content/MasonContentFormHandler.emailSignup" value=" " type="hidden"><span aria-hidden="true" class="pull-left custom-submit-btn" id="signInEmailFooter">+</span>
+<input name="/com/mason/content/MasonContentFormHandler.emailSignup" value="Sign Up" class="hidden" type="submit"><input name="_D:/com/mason/content/MasonContentFormHandler.emailSignup" value=" " type="hidden"></div>
+<div class="alert alert-danger hide" data-for="signupEmailTxt">
+<span class="sprite-icon error"></span>
+<span class="invalid hide message">Enter a valid email address.</span>
+<span class="empty hide message">Enter an email address.</span>
+</div>
+<div class="alert alert-success hide" data-for="signupEmailTxt">
+<span class="sprite-icon success"></span>
+<span class="hide message">
+Thank you for signing up!</span>
+<span class="hide message">
+ 
+</span>
+</div>
+<div style="display:none"><input name="_DARGS" value="/common/footer.jsp.emailSignUpFooter" type="hidden"> </div></form></li>
+<li class="antivirus-logos">
+<style type="text/css">@media (max-width: 767px) {footer .antivirus-logos{bottom:30px!important;}}</style>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding-right: 15px;"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.masseys.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
+<td><script src="https://cdn.ywxi.net/js/inline.js?w=90"></script></td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+</div>
+</div>
+<div class="footer-note">
+<style type="text/css">@media (max-width: 430px) {footer .hideFooterPipe{display:none;}}@media (min-width: 430px) {footer .footerCopyright br{display:none;}}</style>
+<div class="container-fluid site-width text-center footerCopyright">©<script>var dteNow = new Date();
+	var intYear = dteNow.getFullYear();
+	document.write(intYear);</script>2020 Masseys<br>
+<span class="hideFooterPipe">|</span> 1-866-229-2316 | <a href="/contact-us">Contact Us</a></div>
+</div>
+<div id="modal_emailSignup" class="modal fade">
+<div class="modal-dialog forgotpassword email-signup">
+<div class="modal-content">
+<div class="modal-header header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+ 
+<div id="welcomeTitle">
+<h4 class="modal-title bold" id="emailSignupTitle">Sign Up for Email</h4>
+</div>
+ 
+<div id="successTitle">
+<h4 class="modal-title bold" id="emailSignupTitle">Thank you!</h4>
+</div>
+</div>
+<div class="modal-body box" id="emailSignupBodyId">
+<div class="row error-msg hidden" id="oopsEmailSignUp">
+<div class="col-sm-12">
+<div class="alert alert-danger">
+<span class="sprite-icon error">cross icon</span>
+Oops. We’re missing some information. Please complete all required fields.</div>
+</div>
+</div>
+<div id="successMessage">
+<p>Thank you for signing up!.<br>
+Stay tuned for style inspirations, exclusive sales, and special offers!</p>
+<div class="clearfix">
+<div class="col-xs-12 no-lr-pad-xs mbtn"><a class="btn btn-secondary" href="/">Continue Shopping </a></div>
+</div>
+</div>
+</div>
+<div id="welcomeMessageId">
+<div id="formErrorMessages"></div>
+<div class="title-label bold">The Perks of Being an Email-Insider:</div>
+<ul>
+<li>Style inspirations and trend highlights!</li>
+<li>Exclusive access to sales and promotions!</li>
+<li>Be the first to know about new products!</li>
+</ul>
+<div class="row">
+<p class="col-sm-12 title-label bold"><label for="emailsignupemailaddr">Email Address:</label></p>
+<form id="emailsignupFormId" name="emailSignupFormName" action="/cartridges/PageSlot/PageSlot.jsp;jsessionid=5WXKxTGiuNiifdfqkUdeBskY.d384f58a-8250-3e11-b535-150660204a12?_DARGS=/content/emailSignup.jsp.emailsignupFormId" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input value="2080783628911747698" type="hidden"> </div>
+<div class="col-sm-8">
+<input id="emailsignupemailaddr" data-val-regex="Enter a valid email address." data-val-required="Enter an email address." data-required="true" name="/com/mason/content/MasonContentFormHandler.value.email" value="" data-val-regex-pattern="^[-0-9a-zA-Z.+_*!^#$%!'&amp;]+@[-0-9a-zA-Z.+_]+\.[a-zA-Z]{2,4}$" class="form-control" type="email"><input name="_D:/com/mason/content/MasonContentFormHandler.value.email" value=" " type="hidden"><span class="alert alert-danger transparent hidden">
+Enter an email address.</span>
+</div>
+<div class="col-sm-4">
+<input name="/com/mason/content/MasonContentFormHandler.emailSignup" value="submit" type="hidden"><input name="_D:/com/mason/content/MasonContentFormHandler.emailSignup" value=" " type="hidden">
+<button type="submit" class="btn btn-secondary" id="emailSignup_Submit"><span>Sign Up</span> <span class="glyphicon glyphicon-menu-right btn-arrow"></span></button>
+</div>
+<div style="display:none"><input name="_DARGS" value="/content/emailSignup.jsp.emailsignupFormId" type="hidden"> </div></form></div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="myExcludedBrandModal" class="modal fade">
+<div class="modal-dialog excluded-brands">
+<div class="modal-content">
+<div class="modal-header header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h4 class="modal-title bold">Excluded Brands</h4>
+<div class="row">
+<div class="col-sm-8 sub-title">The following brands are
+excluded from promotions.</div>
+</div>
+</div>
+<div class="modal-body box">
+<div class="row">
+<div class="col-sm-4 col-xs-6">
+<ul>
+<li>Ahnu**</li>
+<li>Alegria**</li>
+<li>Altra**</li>
+<li>Ariat**</li>
+<li>Asics**</li>
+<li>Avenger</li>
+<li>Baggallini</li>
+<li>Bed:Stu</li>
+<li>Birkenstock**</li>
+<li>Blondo</li>
+<li>Blue by Betsey Johnson</li>
+<li>Bogs</li>
+<li>Born</li>
+<li>Bulova</li>
+<li>Caravelle By Bulova</li>
+<li>Carhartt</li>
+<li>Clarks**</li>
+</ul>
+</div>
+<div class="col-sm-4 col-xs-6">
+<ul>
+<li>Columbia</li>
+<li>Comfortiva</li>
+<li>Dansko**</li>
+<li>Dickies Scrubs</li>
+<li>Dockers</li>
+<li>EMU Australia</li>
+<li>Florsheim</li>
+<li>Franco Sarto Artist Collection</li>
+<li>Freebird by Steven</li>
+<li>Free People</li>
+<li>Frye Company</li>
+<li>Haflinger</li>
+<li>Hi-Tec</li>
+<li>Hobo</li>
+<li>Hoka One One</li>
+<li>Irish Setter</li>
+<li>Isola</li>
+</ul>
+</div>
+<div class="col-sm-4 col-xs-6">
+<ul>
+<li>Justin Boots</li>
+<li>Justin Original Workboots</li>
+<li>KEEN**</li>
+<li>Kenneth Cole Reaction for Kids**</li>
+<li>Kristin Cavallari</li>
+<li>Madden</li>
+<li>Madden Girl</li>
+<li>Magnum</li>
+<li>Merrell</li>
+<li>Minnetonka</li>
+<li>Montana</li>
+<li>Munro</li>
+<li>Naot</li>
+<li>Nautilus</li>
+<li>New Balance**</li>
+<li>Nunn Bush</li>
+<li>OluKai</li>
+</ul>
+</div>
+<div class="col-sm-4 col-xs-6">
+<ul>
+<li>Orthaheel</li>
+<li>OTBT</li>
+<li>Reebok**</li>
+<li>Reef</li>
+<li>Report</li>
+<li>Report Signature</li>
+<li>Rockport**</li>
+<li>Sakroots</li>
+<li>Sanuk**</li>
+<li>Saucony</li>
+<li>Sbicca</li>
+<li>Simple</li>
+<li>Skechers Performance Golf</li>
+<li>Skidbuster</li>
+<li>Sofft</li>
+<li>Softspots</li>
+<li>Sorel</li>
+</ul>
+</div>
+<div class="col-sm-4 col-xs-6">
+<ul>
+<li>Sperry Top-Sider</li>
+<li>Stacy Adams</li>
+<li>Steve Madden</li>
+<li>Steven by Steve Madden</li>
+<li>Superga</li>
+<li>Taos</li>
+<li>The Sak</li>
+<li>Timberland**</li>
+<li>TOMS</li>
+<li>UGG</li>
+<li>Under Armour</li>
+<li>Very Volatile</li>
+<li>Vionic with Orthaheel Technology</li>
+<li>Volatile Adult</li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+<p>Promotion valid on internet orders only. Only one offer or discount of any type may be used at one time. No credits given or adjustments made on previous purchases. This offer is not redeemable for cash. Enter the promo code in the Promotion Code box, then click on "apply code" to receive the discount. Promotion not valid after expiration date.</p>
+<p>**Certain brand styles are excluded from promotions. Add item to cart and apply promo code to see if promo code is valid on the style.</p>
+<div><strong>Contact Us For Additional Assistance</strong>
+<p>Call Us: 1-866-229-2316 or <a href="/contact-us" style="text-decoration: underline;">Email Us</a></p>
+<p>We are available to assist you from 6 a.m. – Midnight CST, 7 days a week.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div></footer>
+ 
+ 
+<input type="hidden" id="contextRoot" value="">
+ 
+<script type="text/javascript" src="/static/common/libraries/jQuery/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/static/common/libraries/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" async="" src="/static/common/libraries/jQuery/touchwipe.min.js"></script>
+<script type="text/javascript" src="/static/common/libraries/rwdImageMaps/jquery.rwdImageMaps.min.js"></script>
+<script type="text/javascript" src="/static/common/js/app_base_unified.js"></script>
+<script type="text/javascript" src="/static/zy/js/app_unified.js"></script>
+<script language="javascript">
+$(document).ready(function(event) {
+$(".headerSearchBox").endecaSearchSuggest({
+minAutoSuggestInputLength : 3,
+autoSuggestServiceUrl : '/cartridges/SearchBox/TaisAutoSuggest.jsp',
+collection : "/content/Shared/Auto-Suggest Panels",
+searchUrl : '',
+refinements : '',
+navFilter : "",
+containerClass : "suggestions text-left hide",
+defaultImage : '/img/no_image_auto_suggest.gif;jsessionid=5WXKxTGiuNiifdfqkUdeBskY.d384f58a-8250-3e11-b535-150660204a12'
+});
+$(".faqSearchBox").endecaSearchSuggest({
+minAutoSuggestInputLength : 3,
+autoSuggestServiceUrl : '/cartridges/FaqSearchBox/TaisAutoSuggest.jsp',
+collection : "/content/Shared/Auto-Suggest Panels",
+searchUrl : '',
+refinements : '',
+navFilter : "",
+containerClass : "suggestions text-left hide",
+defaultImage : '/img/no_image_auto_suggest.gif;jsessionid=5WXKxTGiuNiifdfqkUdeBskY.d384f58a-8250-3e11-b535-150660204a12'
+});
+$('.searchBox').on('keydown', function(e) {
+var code = e.keyCode || e.which;
+var $c = $(this);
+var searchItems = $c.parent().siblings('.dimSearchSuggContainer').find('.searchItems ul');
+var selectedOption = searchItems.find('li.selected'), nextSelection;
+if (code === 13) {
+if ($c.val() != "") {
+if (selectedOption.length != 0) {
+var $a = selectedOption.find('a');
+$c.val($a.text());
+window.location.href = $a.attr('href');
+} else
+$('#searchForm').submit();
+} else {
+$("#serarchError").removeClass("hidden").html("Please enter a search term");
+return false;
+}
+} else if (code == 40 || code == 38) {
+if (code == 40) {
+if (selectedOption.length == 0) {
+nextSelection = searchItems.children(':first');
+} else {
+nextSelection = selectedOption.next();
+if (nextSelection.length == 0)
+nextSelection = selectedOption;
+selectedOption.removeClass('selected');
+}
+} else {
+nextSelection = selectedOption.prev();
+if (nextSelection.length == 0)
+nextSelection = selectedOption;
+selectedOption.removeClass('selected');
+}
+nextSelection.addClass('selected');
+}
+});
+});
+</script>
+ 
+<div id="fb-root"></div>
+<div aria-hidden="true" id="webbieVisibleOnly" class="textBrowserOnly"></div>
+ 
+<script type="text/javascript">
+jNgApp.setGoogleAddressAutocomplete("AIzaSyBnPw5NejqjuFjy6p91Wo2l1dwEAKPGuH0");
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"9024775","applicationTime":63,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"639890d9ef","transactionName":"NgcDZRZXWkMFV0MMCw9NK2I0GVdRFkBFDAAGBxIeNFdTVTdYWBFLMQMGVDdaW0RKXkQV","agent":"","errorBeacon":"bam.nr-data.net"}</script>
+
+</body></html>
