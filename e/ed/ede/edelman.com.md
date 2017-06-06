@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the edelman.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219073550id_/http%3A//www.edelman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edelman.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044128id_/http%3A//www.edelman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Edelman
+
+**_Privacy Policy for the Daniel J. Edelman Holdings, Inc. Family of Companies_**
+
+Daniel J. Edelman Holdings, Inc. includes Daniel J. Edelman, Inc., StrategyOne, Inc. d/b/a Edelman Intelligence, Zeno Group, Assembly Media, United Entertainment Group Holdings, LLC (UEG), The K Group Public Relations Company, d/b/a Krispr Communications, Edible, Inc., Edelman Miami Latin America Corp., The H & W Group, d/b/a Salutem, The R Group Public Relations Company, d/b/a Revere, First & 42nd, Inc., and all operating companies under the Edelman family of companies (collectively referred to as “Edelman” in this document).
 
 At Edelman, we are strongly committed to protecting privacy. Edelman has adopted global privacy principles which guide how we manage and protect personal data and demonstrate how fair information practices are embedded in our culture. Read more on our [Global Privacy Principles](http://www.edelman.com/privacy-policy/global-privacy-principles/).
 
@@ -35,7 +39,7 @@ For example, if you provide your name, mailing address, telephone and/or email a
 
 We use non-identifying and aggregate information about the use of the Site to improve the navigation, content, and design of the Site. This information may include, for example, the most and least requested pages, analyzing traffic regarding specific features, and the number of users from the U.S. and other countries, among other things.
 
-When personal information is transferred to outside service providers, it is done under a contract which requires the companies to use the shared information only for the limited purposes for which it is provided to them in providing services to Edelman, and to agree to hold the information securely and confidentially in accordance with this privacy policy, applicable law and any applicable Privacy Shield privacy principles (see Users Located in European Union below).
+Edelman complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.  When personal information is transferred to outside service providers, it is done under a contract which requires the companies to use the shared information only for the limited purposes for which it is provided to them in providing services to Edelman, and to agree to hold the information securely and confidentially in accordance with this privacy policy, applicable law and any applicable Privacy Shield privacy principles (see Users Located in European Union below).
 
 Edelman will not sell or distribute personally identifiable information collected from you outside of Edelman without your consent (subject to the limited exceptions stated in this policy).
 
@@ -49,7 +53,7 @@ From time-to-time we may request personally identifiable information from you vi
 
 **_Exceptions_**
 
-Edelman may preserve and has the right to disclose any information about you or your use of the Site without your prior permission if Edelman has a good faith belief that such action is necessary to: (a) protect and defend the rights, property or safety of Edelman or its clients or their respective partners, employees, affiliates, other users of the Site, or the public; (b) enforce the Terms of Use for the Site; or (c) respond to claims related to your use of the Site.   We may also disclose information as we deem necessary to satisfy any applicable law, regulation, legal process or lawful governmental request or in the event of a sale or potential sale of Edelman or one of its business units.
+Edelman may preserve and has the right to disclose any information about you or your use of the Site without your prior permission if Edelman has a good faith belief that such action is necessary to: (a) protect and defend the rights, property or safety of Edelman or its clients or their respective partners, employees, affiliates, other users of the Site, or the public; (b) enforce the Terms of Use for the Site; or (c) respond to claims related to your use of the Site.   We may also disclose information as we deem necessary to satisfy any applicable law, regulation, legal process or lawful governmental request (including to meet national security or law enforcement requirements) or in the event of a sale or potential sale of Edelman or one of its business units.
 
 **_Interactive Areas_**
 
@@ -65,7 +69,7 @@ Edelman understands the need to protect the privacy of children.  The Site is n
 
 **_How You Can Access or Correct Your Information_**
 
-You may update or remove the information you provided to us by contacting us – see “How to Contact Us” below. To protect your privacy and security, we will also take reasonable steps to verify your identity before updating or removing your information. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business. Information stored as part of this backup process will be deleted in due course on a regular schedule.
+You may access, update or remove the information you provided to us by contacting us – see “How to Contact Us” below. To protect your privacy and security, we will also take reasonable steps (including seeking additional information or documentation) to verify your identity before updating or removing your information. Upon receiving your email with the request to update or remove your information, our privacy team will log the receipt of your request and will contact the appropriate data holder within the company in order to enable them to process your request. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business. Information stored as part of this backup process will be deleted in due course on a regular schedule.
 
 **_Links to Other Websites_**
 
@@ -79,19 +83,21 @@ Information provided through this Site may be uploaded to a cloud and transferre
 
 Edelman has self-certified with the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries in connection with the Privacy Shield Principles as part of the Privacy Shield program.  To learn more about the Privacy Shield program, and to view Edelman’s certification, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/).
 
-Edelman has agreed to cooperate in investigations by, and comply with the advice of, the Federal Trade Commission and appropriate EU authorities in managing any dispute.  If you have questions or complaints regarding the use or disclosure of Personal Information in compliance with the principles of this privacy policy, you should contact us first.  If contacting us does not resolve your concern or complaint, you may raise your complaint with the relevant data protection regulator where you live or work.
+**Internal and Independent Recourse Mechanisms**
+
+In compliance with the Privacy Shield Principles, Edelman commits to resolve complaints about our collection or use of your personal information.  Edelman is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.  Further, with respect to citizens to the European Union Edelman has agreed to cooperate in investigations by, and comply with the advice of, the Federal Trade Commission and appropriate EU data protection authorities (“DPA”) in managing and resolving any dispute or complaint and provide the relevant DPA with written confirmation of the action taken.  If you have questions or complaints regarding the use or disclosure of Personal Information in compliance with the principles of this privacy policy, you should contact us first at [privacy@edelman.com](mailto:privacy@edelman.com) and we will contact you promptly to attempt to resolve your concerns or complaint.  If contacting us does not resolve your concern or complaint, you may raise your complaint with the relevant DPA where you live or work  (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm> for contact information). As further explained in the [Privacy Shield Framework Annex I](https://www.privacyshield.gov/article?id=ANNEX-I-introduction), a binding arbitration option is available in the event that residual complaints are not resolved by any other means.
 
 **_Notification of Changes_**
 
 As we provide more services and/or functionality on our Site and as privacy laws and regulations evolve, it may be necessary to revise or update our Privacy Policy.  We will put an “Updated” note on the link to the Privacy Policy on the Site’s home page so that you will be able to check regarding changes which may be of particular relevance to you.
 
-**_Accessing and updating your information; Opting out_**
+**_Accessing and updating your information; Limiting or Opting out_**
 
-Visitors who would like to correct, update or delete any personally identifiable information may contact us with a request to do so at [feedback@edelman.com](mailto:feedback@edelman.com).
+Visitors who would like to access, correct, update or delete any personally identifiable information may contact us with a request to do so at [feedback@edelman.com](mailto:feedback@edelman.com).
 
-Similarly, Site users who wish to subscribe or unsubscribe to our marketing and informational communications can do so by using the subscribe/unsubscribe options contained in our emails or by sending an email to [privacy@edelman.com](mailto:privacy@edelman.com).
+Similarly, Site users who wish to subscribe or unsubscribe to our marketing and informational communications or limit our use of any personally identifiable information in any way can do so by using the subscribe/unsubscribe options contained in our emails or by sending an email to [privacy@edelman.com](mailto:privacy@edelman.com).
 
-We may take a reasonable period of time to respond to any request to update or modify any information, or to opt out of or unsubscribe from any communications.  If you request the deletion or modification of your personal information maintained by us, such information may be retained for a period of time in our backup systems as a precaution against system failures.  Some information may be retained for longer periods as required by law, contract or auditing requirements.
+We may take a reasonable period of time to respond to any request to update or modify any information, limit use of information or to opt out of or unsubscribe from any communications.  If you request the deletion,  modification or limitation of use of your personal information maintained by us, such information may be retained for a period of time in our backup systems as a precaution against system failures.  Some information may be retained for longer periods as required by law, contract or auditing requirements.    In some circumstances we will not be able to limit use of your personal information without unsubscribing you from communications or deleting your information.
 
 **_Jobs and Internships_**
 
@@ -101,6 +107,6 @@ The Edelman jobs and internships website can be linked to from this Site.  A se
 
 If you ever have any questions about this Privacy Policy, please contact us at [feedback@edelman.com](mailto:feedback@edelman.com).
 
-This privacy policy was last updated on September 30, 2016
+This privacy policy was last updated on February 22, 2017.
 
-© 2016 Daniel J. Edelman, Holdings Inc. All rights reserved.
+© 2017 Daniel J. Edelman, Holdings Inc. All rights reserved.
