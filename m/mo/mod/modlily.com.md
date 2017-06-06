@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modlily.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201233836id_/http%3A//www.modlily.com/privacy-policy-a91.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modlily.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174251id_/https%3A//www.modlily.com/privacy-policy-a91.html) for the most accurate reproduction.*
 
 # Privacy Policy | modlily.com
 
@@ -43,4 +43,4 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
  **Choice and Opt-Out**
 
-If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by submitting a ticket [**here**](http://www.modlily.com/support.php).
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by submitting a ticket [**here**](https://www.modlily.com/support.php).
