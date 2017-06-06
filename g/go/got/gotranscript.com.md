@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotranscript.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227055703id_/https%3A//gotranscript.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotranscript.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235918id_/https%3A//gotranscript.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | GoTranscript
+# Privacy policy
 
 Privacy policy
 
@@ -32,6 +32,10 @@ We are committed not to disclose your personal information to third parties unle
 ## Verifying, updating, and erasing your personal information
 
 When we communicate with our clients, we always strive to keep their identity data updated in our database. If we happen to find that the information has changed, we ask our clients for the most recent information and erase the obsolete data.
+
+## Payments
+
+We do not store credit card details nor do we share financial details with any 3rd parties.
 
 ## DISCLAIMER
 
