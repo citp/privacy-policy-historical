@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the heysigmund.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405095425id_/http%3A//www.heysigmund.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heysigmund.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103532id_/http%3A//www.heysigmund.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hey Sigmund - Karen Young
 
-## Privacy Policy
+### Privacy Policy
 
 **HEY SIGMUND  **(“we” or “us”) know how important it is that your personal information is handled respectfully and appropriately.  This Privacy Policy (the “Policy”) discloses the privacy practices for  **HEY SIGMUND**  and is intended to notify you of the following:
 
@@ -13,7 +13,7 @@
 
 
 
-**What Information Is Collected?**
+##### What Information Is Collected?
 
 **Internet Traffic Data**
 
@@ -28,7 +28,7 @@ Google uses cookies to enable it and its partners to serve ads that may be more 
 
 You may opt out of the use of cookies for ads based on your browsing history by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
 
-**Personal Information**
+##### Personal Information
 
 **Information Collection, Use, and Sharing**  
 We are the sole owners of the information collected on the Site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell, rent or otherwise share this information with any other individual or business entity, except as reasonably necessary to provide products, materials, or services to you.
@@ -48,6 +48,6 @@ While we use encryption to protect sensitive information transmitted online, we 
 **Third Parties**  
 Please be aware that some of our business partners may use cookies or other methods of tracking and targeting use on our site (advertisers, for example).  However, we have no access to or control over these cookies and this Privacy Policy does not extend to such third parties.  Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects Identifier Information.
 
-**Updates**
+##### Updates
 
 Our Privacy Policy may change from time to time but whenever we tweak, we’ll post an update on this page.
