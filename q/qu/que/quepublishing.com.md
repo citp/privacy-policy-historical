@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quepublishing.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119202133id_/http%3A//www.quepublishing.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quepublishing.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034815id_/http%3A//www.quepublishing.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Que
 
@@ -62,10 +62,6 @@ We communicate with users on a regular basis to provide requested services and i
 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as ZIP code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-### Email A Friend
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. QuePublishing.com will automatically send the friend a one-time email inviting them to visit the site. QuePublishing.com stores this information for the sole purpose of sending this one-time email. The friend may contact QuePublishing.com at [customer-service@informit.com](mailto:customer-service@informit.com) to request the removal of this information from the database.
-
 ### Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
@@ -80,7 +76,7 @@ If a user's personally identifiable information changes (such as your postal add
 
 ### Choice/Opt-out
 
-Users can always make an informed choice as to whether they should proceed with certain services offered by Que Publishing. If you choose to remove yourself from our mailing list(s) simply visit the following page and uncheck any communication you no longer want to receive: [/www.quepublishing.com/u.aspx](https://web.archive.org/u.aspx). If you choose to remove yourself from the abandoned cart email, simply click the unsubscribe link at the bottom of any abandoned cart reminder email.
+Users can always make an informed choice as to whether they should proceed with certain services offered by Que Publishing. If you choose to remove yourself from our mailing list(s) simply visit the following page and uncheck any communication you no longer want to receive: [www.quepublishing.com/u.aspx](https://web.archive.org/u.aspx). If you choose to remove yourself from the abandoned cart email, simply click the unsubscribe link at the bottom of any abandoned cart reminder email.
 
 ### Notification of Changes
 
