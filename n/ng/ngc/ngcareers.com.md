@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngcareers.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715130739id_/https%3A//ngcareers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngcareers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163945id_/https%3A//ngcareers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ngcareers
 
