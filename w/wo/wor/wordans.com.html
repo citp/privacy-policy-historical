@@ -1,275 +1,322 @@
-<!--The following is the downloaded HTML source of the wordans.com privacy policy that was archived on 2016-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325042246id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wordans.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606183945id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us" xml:lang="en-us" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html lang="en-us" xml:lang="en-us" xmlns="http://www.w3.org/1999/xhtml"><!-- <![endif]--><head>
 <title>
 Privacy Policy - Wordans.com
 </title>
- 
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-<script src="https://js-agent.newrelic.com/nr-892.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"09eb8d17f5","applicationID":"10880727","transactionName":"JllYQkMJCV1UShgBXhZGWldISRVQVl0=","queueTime":0,"applicationTime":82,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcDWVZWGwIAXFlSAAMA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(3),c=t(13),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(3),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
+<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"09eb8d17f5","applicationID":"10880727","transactionName":"JllYQkMJCV1UShgBXhZGWldISRVQVl0=","queueTime":0,"applicationTime":288,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcDWVZWGwIAXFlSAAMA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
 <meta content="74XVS9wjAO3w3haVIXvRKVLzNN3poCrRAxyw/qdQc8k=" name="verify-v1">
 <meta content="true" name="MSSmartTagsPreventParsing">
 <meta content="none" name="msapplication-config">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="yes" name="mobile-web-app-capable">
+<meta content="Wordans" name="apple-mobile-web-app-title">
+<meta content="Wordans" name="application-name">
+<link href="/app-icon.png" rel="icon">
+<link href="/app-icon.png" rel="apple-touch-icon">
+<link href="/manifest.json" rel="manifest">
 <link href="https://www.wordans.com/feeds/open_search.xml" rel="search" title="Content search" type="application/opensearchdescription+xml">
 <meta content="4095216204aecd40" name="y_key">
 <meta content="3d590d2eeab2aff4" name="y_key">
 <meta content="C1459B6832548867626F0D6B69D8EE72" name="msvalidate.01">
 <meta content="Wordans.com" name="og:site_name">
+
+
+
+
+
+
 <meta content="en-US" http-equiv="Content-Language">
-<meta content="Make custom tees online. Expert t-shirt printing for single &amp; bulk orders. Find personalized gifts or sell your designs online. Ready to ship in 24 hrs." name="description">
-<meta content="custom t-shirts, t shirts design, t shirt printing, custom shirts, design shirts, personalized tees, t shirts online, custom clothing, logo shirts, cheap custom t-shirts, tees USA" name="keywords">
-<meta content="Copyright Wordans - 2016" name="copyright">
+<meta content="Low cost apparel for everyone. We offer bulk discounts and have no minimum. Buy clothing at wholesale prices." name="description">
+<meta content="Copyright Wordans - 2017" name="copyright">
 <meta content="www.wordans.com" name="author">
 <meta content="General" name="Rating">
 <meta content="INDEX,FOLLOW, ALL" name="Robots">
-<!--[if lte IE 6]>
-<link href='/stylesheets/ven_ie6.css' rel='stylesheet' type='text/css'>
-<![endif]-->
-<!--[if lt IE 8]>
-<link href='/stylesheets/ie.css' rel='stylesheet' type='text/css'>
-<![endif]-->
-<link href="http://feeds.feedburner.com/PopularTees" rel="alternate" title="Most Popular T-Shirts at Wordans" type="application/rss+xml">
-<link href="https://www.wordans.com/assets501/responsive.css" media="screen" rel="stylesheet" type="text/css">
-<script src="https://www.wordans.com/assets501/responsive.js" type="text/javascript"></script>
-<script type="text/javascript">
+
+
+<link href="https://wordans-mxelda46illwc0hq.netdna-ssl.com/assets561/smarty.css" media="screen" rel="stylesheet" type="text/css">
+<script src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/assets561/smarty.js" type="text/javascript"></script>
+
+
+  <script type="text/javascript">
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
     ga('create', 'UA-61751963-4', 'auto');
+    
     ga('send', 'pageview');
 
   </script>
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4049911"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4049911&Ver=2" height="0" width="0" style="display:none; visibility: hidden;"/></noscript>
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5164450"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5164450&Ver=2" height="0" width="0" style="display:none; visibility: hidden;"/></noscript>
- 
-<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
-<script type="text/javascript">twttr.conversion.trackPid('nukqb', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
-<noscript>
-<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nukqb&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
-<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nukqb&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
-</noscript>
- 
-<script type="text/javascript">
-  !function(){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="//config1.veinteractive.com/tags/28694cc3/3802/41b7/aa24/e9f33132b90d/tag.js";var b=document.getElementsByTagName("head")[0];if(b)b.appendChild(a,b);else{var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}();
-  </script><script type="text/javascript" async="" src="//config1.veinteractive.com/tags/28694cc3/3802/41b7/aa24/e9f33132b90d/tag.js"></script>
-<script type="text/javascript">
+
+  <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5164450"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5164450&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+    <!-- Twitter single-event website tag code -->
+    <script type="text/javascript">
+      jQuery.getScript("https://platform.twitter.com/oct.js").done(function(){
+        twttr.conversion.trackPid('nukqb', { tw_sale_amount: 0, tw_order_quantity: 0 });
+      });
+    </script>
+    <noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nukqb&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+    <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nukqb&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+    </noscript>
+    <!-- End Twitter single-event website tag code -->
+
+
+
+<script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '972245969480360');
 fbq('track', "PageView");
-fbq('track', 'ViewContent');
 </script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=972245969480360&ev=PageView&noscript=1"/></noscript>
-<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=972245969480360&ev=PageView&noscript=1" /></noscript>
+
+
 </head>
-<body>
-<script>
-  if(jQuery.browser.msie && jQuery.browser.version == 8.0){
-    document.createElement('header');
-    document.createElement('nav');
-    document.createElement('section');
-    document.createElement('article');
-    document.createElement('aside');
-    document.createElement('footer');
-
-    jQuery(document).ready(function(){
-      jQuery(".navbar-inner.white .container").css("width","1170px");
-      jQuery(".span10.redbar-class.ie_8_fix").css("width","950px");
-      jQuery("label.ie_8_fix").show();
-
-      jQuery("label.ie_8_fix").css("margin-bottom","3px");
-      jQuery("label.ie_8_fix").css("text-transform","uppercase");
-      jQuery("#inputs_field.ie_8_fix_container input").css("background","#ededed");
-      jQuery("#inputs_field.ie_8_fix_container input").css("height","18px");
-      jQuery("#inputs_field.ie_8_fix_container input").css("padding","2px");
-      jQuery("#inputs_field.ie_8_fix_container input").css("color","black");
-      jQuery("#inputs_field_login.ie_8_fix_container input").css("background","#ededed");
-      jQuery("#inputs_field_login.ie_8_fix_container input").css("height","18px");
-      jQuery("#inputs_field_login.ie_8_fix_container input").css("padding","2px");
-      jQuery("#inputs_field_login.ie_8_fix_container input").css("color","black");
-      jQuery(".facebook .box_facebook").css("background","#d5d5d5 url('/stylesheets/fancybox/facebook.png') no-repeat");
-      jQuery(".facebook .box_facebook").css("background-position","center");
-      jQuery(".google .box_google").css("background","#d5d5d5 url('/stylesheets/fancybox/google.png') no-repeat");
-      jQuery(".google .box_google").css("background-position","center");
-      jQuery(".twitter .box_twitter").css("background","#d5d5d5 url('/stylesheets/fancybox/twitter.png') no-repeat");
-      jQuery(".twitter .box_twitter").css("background-position","center");
-
-    });
-  }
-</script>
-<header class="navbar navbar-fixed-top">
-<div class="navbar-inner top_header_blank white">
+<body class="enable-animation smoothscroll">
+<div id="wrapper">
+<div id="topBar">
 <div class="container">
-<div class="row">
-<div class="span1"></div>
-<div class="span11 pull-right">
-<button class="btn btn-navbar pull-right" data-target=".nav-collapse" data-toggle="collapse" type="button">
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-<ul class="top_header pull-left">
-<li class="dropdown special-mobile">
-<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="maincountry" title="USA custom T-shirts">
-USA
-<img alt="" height="5" src="https://www.wordans.com/wvc-1457366129/images/arrow-top-menu-black.png" width="10">
-</a>
-<ul class="dropdown-menu country_selector">
-<li>
-<a href="https://www.wordans.com/?src=select" hreflang="en-us" rel="alternate" title="USA English custom T-shirts"><div class="flag_us"></div>
-USA English
-</a></li>
-<li>
-<a href="https://es.wordans.com/?src=select" hreflang="en-us" rel="alternate" title="USA Spanish custom T-shirts"><div class="flag_us"></div>
-USA Spanish
-</a></li>
-<li>
-<a href="https://fr.wordans.ca/?clicked_canada=1&amp;src=select" hreflang="fr-ca" rel="alternate" title="Canada custom T-shirts"><div class="flag_ca"></div>
-Canada Français
-</a></li>
-<li>
-<a href="https://www.wordans.ca/" hreflang="en-ca" rel="alternate" title="Canada custom T-shirts"><div class="flag_ca"></div>
-Canada English
-</a></li>
-<li>
-<a href="https://www.wordans.fr/?src=select" hreflang="fr-fr" rel="alternate" title="France custom T-shirts"><div class="flag_fr"></div>
-France
-</a></li>
-<li>
-<a href="https://www.wordans.co.uk/?src=select" hreflang="en-gb" rel="alternate" title="United Kingdom custom T-shirts"><div class="flag_gb"></div>
-United Kingdom
-</a></li>
-<li>
-<a href="https://www.wordans.com.au/?src=select" hreflang="en-au" rel="alternate" title="Australia custom T-shirts"><div class="flag_au"></div>
-Australia
-</a></li>
-<li>
-<a href="https://www.wordans.be/?src=select" hreflang="fr-be" rel="alternate" title="Belgique custom T-shirts"><div class="flag_be"></div>
-Belgique
-</a></li>
-<li>
-<a href="https://www.wordans.ch/?src=select" hreflang="fr-ch" rel="alternate" title="Suisse custom T-shirts"><div class="flag_ch"></div>
-Suisse Français
-</a></li>
-<li>
-<a href="https://de.wordans.ch/?src=select" hreflang="de-ch" rel="alternate" title="Suisse custom T-shirts"><div class="flag_ch"></div>
-Suisse Deutsch
-</a></li>
-<li>
-<a href="https://www.wordans.es/?src=select" hreflang="es-es" rel="alternate" title="España custom T-shirts"><div class="flag_es"></div>
-España
-</a></li>
-<li>
-<a href="https://www.wordans.nl/?src=select" hreflang="en-nl" rel="alternate" title="Netherlands custom T-shirts"><div class="flag_nl"></div>
-Netherlands
-</a></li>
-<li>
-<a href="https://www.wordans.at/?src=select" hreflang="de-at" rel="alternate" title="Österreich custom T-shirts"><div class="flag_at"></div>
-Österreich
-</a></li>
-<li>
-<a href="https://www.wordans.com.br/?src=select" hreflang="pt-br" rel="alternate" title="Brasil custom T-shirts"><div class="flag_br"></div>
-Brasil
-</a></li>
-<li>
-<a href="https://www.wordans.ie/?src=select" hreflang="en-ie" rel="alternate" title="Ireland custom T-shirts"><div class="flag_ie"></div>
-Ireland
-</a></li>
-<li>
-<a href="https://www.wordans.co.nz/?src=select" hreflang="en-nz" rel="alternate" title="New Zealand custom T-shirts"><div class="flag_nz"></div>
-New Zealand
-</a></li>
-<li>
-<a href="https://www.wordans.de/?src=select" hreflang="de-de" rel="alternate" title="Germany custom T-shirts"><div class="flag_de"></div>
-Germany
-</a></li>
-</ul>
-</li>
-<li class="dropdown" id="user_dropdown">
+<ul class="top-links list-inline pull-right">
+<li class="text-welcome" id="user_dropdown">
 <a class="dropdown-toggle" data-toggle="dropdown" href="#" title="Hello">
+<i class="fa fa-user hidden-xs"></i>
+<strong class="text-uppercase">
 Hello <span class="red"></span>
-<img alt="" height="5" src="https://www.wordans.com/wvc-1457366129/images/arrow-top-menu-black.png" width="10">
+</strong>
+<i class="glyphicon caret"></i>
 </a>
 <ul class="dropdown-menu">
 <li class="header_account header_account_v2">
-<a href="/myaccount/profile/profile" rel="nofollow">My Account</a>
-<a href="/shop" rel="nofollow">My Shop</a>
-<a href="/myaccount/carts" rel="nofollow">My Carts</a>
-<a href="/myaccount/designs" rel="nofollow">My Saved Designs</a>
-<a href="/myaccount/orders" rel="nofollow">My Orders</a>
-<a href="/affiliate" class="user_affiliate_element">Wordans Representative
-<div class="newicon">NEW</div>
+<a href="/myaccount/profile/profile" rel="nofollow"><i class="fa fa-user"></i>
+My Account
+</a></li>
+<li>
+<a href="/myaccount/carts" rel="nofollow"><i class="fa fa-cart-plus"></i>
+My Carts
+</a></li>
+<li>
+<a href="/myaccount/orders" rel="nofollow"><i class="fa fa-list-ul"></i>
+My Orders
+</a></li>
+<li>
+<a href="/myaccount/stock_notifications" rel="nofollow"><i class="fa fa-lightbulb-o"></i>
+Stock Notifications
+</a></li>
+<li>
+<a href="/myaccount/wishlist" rel="nofollow"><i class="fa fa-heart-o"></i>
+My wishlist
+</a></li>
+<li>
+<a href="/affiliate" class="user_affiliate_element"><i class="fa fa-smile-o"></i>
+Wordans Representative
+<span class="alert-success">
+NEW
+</span>
 </a></li>
 <li class="header_disconnect header_account_v2">
 <a class="container_account lastone" data-method="delete" href="/logout" onclick="javascript:resetCookies();" rel="nofollow">
+<i class="fa fa-power-off"></i>
 Logout
 </a>
 </li>
 </ul>
 </li>
 <li class="header_account header_account_v2" id="header_account_for_hover1">
-<a class="container_account" data-toggle="modal" href="#signinModal" onclick="javascript:checkUsernameCookie();" role="button">
-<i class="icon-user"></i>
-Login
-</a>
+<a class="container_account" data-toggle="modal" href="#signinModal" onclick="javascript:checkUsernameCookie();" role="button">LOGIN</a>
 </li>
 <li class="header_account header_account_v2" id="header_account_for_hover2">
 <a class="lastone container_account" data-toggle="modal" href="#signupModal" role="button">
 Join now
 </a>
 </li>
-<li class="header_cart_v2">
-<a class="container_cart" href="https://www.wordans.com/checkout2/show_cart" rel="no_follow">
-<span class="checkout" style="">
-<i class="icon-shopping-cart"></i>
-Cart
-(
-<span class="red"></span>
-)
-</span>
-</a>
-</li>
 </ul>
-</div>
-<div class="clearfix"></div>
-<div class="span2" style="width:200px;">
-<a class="black blank brand en-US" href="https://www.wordans.com">
-<h2>
-The best prices in
-<span>
+<ul class="top-links list-inline">
+<li class="hidden-xs">
+<a href="/display/faqs">Help Center</a>
+</li>
+<li class="country-selector">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="maincountry" title="USA custom T-shirts">
+<span class="hidden-sm hidden-xs">
 USA
+
 </span>
-</h2>
+<span>
+<div class="flag_us"></div>
+</span>
+<span class="caret"></span>
 </a>
-</div>
-<div class="span12 redbar-class ie_8_fix">
-<div class="nav-collapse collapse">
-<ul class="nav pull-left white">
-<li class="dropdown">
-<a class="dropdown-toggle menu" data-hover="dropdown" href="/create-custom-t-shirt">
-Custom
-</a>
-<ul class="dropdown-menu">
-<li><a href="/custom-t-shirts">T-Shirts</a></li>
-<li><a href="/custom-tank-tops">Tank Tops</a></li>
-<li><a href="/custom-sweats-fleece">Sweats &amp; Fleece</a></li>
-<li><a href="/custom-pants">Pants &amp; Shorts</a></li>
-<li><a href="/custom-long-sleeves">Long sleeves</a></li>
-<li><a href="/custom-cap">Headwear</a></li>
-<li><a href="/custom-apron">Apron</a></li>
-<li><a href="/custom-underwear">Underwear</a></li>
-<li><a href="/create-custom-t-shirt">More</a></li>
+<ul class="dropdown-langs dropdown-menu">
+<li>
+<a href="https://www.wordans.com/?src=select" rel="nofollow" title="Wordans USA English"><div class="flag_us"></div>
+USA English
+</a></li>
+<li>
+<a href="https://es.wordans.com/?src=select" rel="nofollow" title="Wordans USA Español"><div class="flag_us"></div>
+USA Español
+</a></li>
+<li>
+<a href="https://fr.wordans.ca/?clicked_canada=1&amp;src=select" rel="nofollow" title="Wordans Canada"><div class="flag_ca"></div>
+Canada Français
+</a></li>
+<li>
+<a href="https://www.wordans.ca/" rel="nofollow" title="Wordans Canada"><div class="flag_ca"></div>
+Canada English
+</a></li>
+<li>
+<a href="https://www.wordans.fr/?src=select" rel="nofollow" title="Wordans France"><div class="flag_fr"></div>
+France
+</a></li>
+<li>
+<a href="https://www.wordans.co.uk/?src=select" rel="nofollow" title="Wordans United Kingdom"><div class="flag_gb"></div>
+United Kingdom
+</a></li>
+<li>
+<a href="https://www.wordans.com.au/?src=select" rel="nofollow" title="Wordans Australia"><div class="flag_au"></div>
+Australia
+</a></li>
+<li>
+<a href="https://www.wordans.be/?src=select" rel="nofollow" title="Wordans Belgique Français"><div class="flag_be"></div>
+Belgique Français
+</a></li>
+<li>
+<a href="https://nl.wordans.be/?src=select" rel="nofollow" title="Wordans België Nederlands"><div class="flag_be"></div>
+België Nederlands
+</a></li>
+<li>
+<a href="https://www.wordans.ch/?src=select" rel="nofollow" title="Wordans Suisse Français"><div class="flag_ch"></div>
+Suisse Français
+</a></li>
+<li>
+<a href="https://de.wordans.ch/?src=select" rel="nofollow" title="Wordans Schweiz Deutsch"><div class="flag_ch"></div>
+Schweiz Deutsch
+</a></li>
+<li>
+<a href="https://it.wordans.ch/?src=select" rel="nofollow" title="Wordans Svizzera Italiana"><div class="flag_ch"></div>
+Svizzera Italiana
+</a></li>
+<li>
+<a href="https://www.wordans.es/?src=select" rel="nofollow" title="Wordans España"><div class="flag_es"></div>
+España
+</a></li>
+<li>
+<a href="https://www.wordans.nl/?src=select" rel="nofollow" title="Wordans Nederland"><div class="flag_nl"></div>
+Nederland
+</a></li>
+<li>
+<a href="https://www.wordans.at/?src=select" rel="nofollow" title="Wordans Österreich"><div class="flag_at"></div>
+Österreich
+</a></li>
+<li>
+<a href="https://www.wordans.com.br/?src=select" rel="nofollow" title="Wordans Brasil"><div class="flag_br"></div>
+Brasil
+</a></li>
+<li>
+<a href="https://www.wordans.ie/?src=select" rel="nofollow" title="Wordans Ireland"><div class="flag_ie"></div>
+Ireland
+</a></li>
+<li>
+<a href="https://www.wordans.co.nz/?src=select" rel="nofollow" title="Wordans New Zealand"><div class="flag_nz"></div>
+New Zealand
+</a></li>
+<li>
+<a href="https://www.wordans.de/?src=select" rel="nofollow" title="Wordans Deutschland"><div class="flag_de"></div>
+Deutschland
+</a></li>
+<li>
+<a href="https://www.wordans.se/?src=select" rel="nofollow" title="Wordans Sweden"><div class="flag_se"></div>
+Sweden
+</a></li>
+<li>
+<a href="https://www.wordans.dk/?src=select" rel="nofollow" title="Wordans Denmark"><div class="flag_dk"></div>
+Denmark
+</a></li>
+<li>
+<a href="https://www.wordans.pt/?src=select" rel="nofollow" title="Wordans Portugal"><div class="flag_pt"></div>
+Portugal
+</a></li>
+<li>
+<a href="https://www.wordans.it/?src=select" rel="nofollow" title="Wordans Italy"><div class="flag_it"></div>
+Italy
+</a></li>
+<li>
+<a href="https://www.wordans.fi/?src=select" rel="nofollow" title="Wordans Finland"><div class="flag_fi"></div>
+Finland
+</a></li>
+<li>
+<a href="https://intl-en.wordans.com/?src=select" rel="nofollow" title="Wordans International English"><div class="flag_in"></div>
+International English
+</a></li>
+<li>
+<a href="https://intl-fr.wordans.com/?src=select" rel="nofollow" title="Wordans International Français"><div class="flag_in"></div>
+International Français
+</a></li>
+<li>
+<a href="https://intl-es.wordans.com/?src=select" rel="nofollow" title="Wordans International Español"><div class="flag_in"></div>
+International Español
+</a></li>
+<li>
+<a href="https://intl-de.wordans.com/?src=select" rel="nofollow" title="Wordans International Deutsch"><div class="flag_in"></div>
+International Deutsch
+</a></li>
+<li>
+<a href="https://intl-nl.wordans.com/?src=select" rel="nofollow" title="Wordans International Nederlands"><div class="flag_in"></div>
+International Nederlands
+</a></li>
 </ul>
 </li>
+</ul>
+</div>
+</div>
+<div class="sticky clearfix" id="header">
+<!-- SEARCH BAR -->
+<div class="search-box over-header">
+<a class="glyphicon glyphicon-remove" href="#" id="closeSearch"></a>
+<form action="javascript:window.location=global_search('https://www.wordans.com/');" class="sb_wrapper" data-method="get" onsubmit="return true;">
+<input id="type_search" name="type_search" type="hidden" value="13">
+<input class="form-control blank_search_box" id="search" placeholder="SEARCH" type="text">
+</form>
+</div>
+<header id="topNav">
+<div class="container">
+<!-- Mobile Menu Button -->
+<button class="btn btn-mobile navbar-toggle offcanvas-toggle" data-target="#navbar-offcanvas" data-toggle="offcanvas">
+<i class="fa fa-bars"></i>
+</button>
+<!-- Buttons -->
+<ul class="pull-right nav nav-pills nav-second-main">
+<!-- Search -->
+<li class="search">
+<a href="javascript:;">
+<i class="fa fa-search"></i>
+</a>
+</li>
+<!-- Cart -->
+<li class="quick-cart">
+<a href="https://www.wordans.com/checkout2/show_cart" rel="nofollow">
+<span class="badge badge-aqua btn-xs badge-corner checkout cart-qty-icon">0</span>
+<i class="fa fa-shopping-cart"></i>
+</a>
+</li>
+</ul>
+<!-- Logo -->
+<a class="en-US logo pull-left" href="https://www.wordans.com" title="Logo Wordans"></a>
+<!-- Top Menu -->
+<div class="navbar-collapse pull-right navbar-offcanvas" id="navbar-offcanvas">
+<nav class="nav-main">
+<ul class="nav nav-pills nav-main" id="topMain">
 <li class="dropdown">
-<a class="dropdown-toggle menu" data-hover="dropdown" href="/wholesale-clothing">
+<a class="dropdown-toggle" href="#">
 Wholesale
 </a>
 <ul class="dropdown-menu">
@@ -288,494 +335,2303 @@ Wholesale
 <li><a href="/wholesale-clothing/shirts">Shirts</a></li>
 <li><a href="/wholesale-clothing/tank-tops">Tank Tops</a></li>
 <li><a href="/wholesale-clothing/long-sleeves">Long sleeves</a></li>
+<li><a href="/wholesale-clothing/onesie">Onesie</a></li>
 <li><a href="/wholesale-clothing/athletic-wear">Athletic Wear</a></li>
 <li><a href="/wholesale-clothing/workwear">Workwear</a></li>
-<li><a href="/wholesale-clothing/jacket">Jacket </a></li>
+<li><a href="/wholesale-clothing/sport">Sport</a></li>
+<li><a href="/wholesale-clothing/jacket">Jacket</a></li>
+<li><a href="/wholesale-clothing/polo-shirts">Polo shirts</a></li>
 <li><a href="/wholesale-clothing/pajamas">Pajamas</a></li>
+<li><a href="/wholesale-clothing/promotional-objects">Promotional Objects</a></li>
 <li><a href="/wholesale-clothing">More</a></li>
 </ul>
 </li>
-<li>
-<a href="/display/shipping_information" title="95% of all orders leave us within 48H">Shipping Information</a>
-</li>
-<li>
-<a href="/order" rel="nofollow">My Order</a>
-</li>
+<li><a href="/display/shipping_information" title="95% of all orders leave us within 48H">Shipping Information</a></li>
+<li><a href="/order" rel="nofollow">My Order</a></li>
 </ul>
-<ul class="nav pull-right">
-<li class="mobile480" style="margin-left: 1px;margin-top: 5px;">
-<form action="javascript:window.location=global_search('https://www.wordans.com/');" class="cf form-wrapper sb_wrapper" data-method="get" id="ui_element" onsubmit="return true;">
-<input id="type_search" name="type_search" type="hidden" value="13">
-<span class="sb_down"></span>
-<input class="blank_search_box input_search_header sb_input" id="search" type="text">
-<button class="sb_input" type="submit">
-<i class="icon-search"></i>
-</button>
-</form>
-</li>
-</ul>
-<div class="clearfix"></div>
-</div>
-</div>
-</div>
+</nav>
 </div>
 </div>
 </header>
-<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal hide fade" id="signupModal" role="dialog" style="border-radius:0;" tabindex="-1">
-<button aria-hidden="true" class="close" data-dismiss="modal" style="margin:10px;" type="button">×</button>
-<div class="clearfix"></div>
-<div class="modal-body" style="position:relative"></div>
 </div>
-<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal hide fade" id="signinModal" role="dialog" style="border-radius:0;" tabindex="-1">
-<button aria-hidden="true" class="close" data-dismiss="modal" style="margin:10px;" type="button">×</button>
-<div class="clearfix"></div>
-<div class="modal-body" style="position:relative"></div>
-</div>
-<script src="https://www.wordans.com/wvc-1457366129/javascripts/jquery.accordion.js" type="text/javascript"></script>
-<section class="sidebar_page">
+<section class="content marketplace-header hidden-xs hidden-sm">
+<header>
 <div class="container">
-<div class="row-fluid">
-<div class="span8">
-<div class="row-fluid">
-<div class="span12" id="contact_container">
+<div class="navbar-collapse navbar-offcanvas">
+<ul class="nav navbar-nav" id="marketplace-menu">
+<li class="sales-link" style="">
+<a href="/wholesale-clothing?select=sale"><span class="padding-10" style="display: inline-block;">
+Clearance<font color="#f4281f">!</font>
+</span>
+<img alt="Up to 90% Off" src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wvc-1496749786/images/responsive/menu_sale_icon.png" style="height: 42px;">
+</a></li>
+
+<li class="dropdown mega-menu">
+<a href="/brands/wholesale-brands" class="category_brands dropdown-toggle">Brands</a>
+<div class="dropdown-menu container">
+<div class="cat-row-1 categories col-md-3">
+<div class="category marque">
+<h4>A-B</h4>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/american-apparel-b30">American Apparel
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/alstyle-apparel-b499">Alstyle Apparel
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/alternative-apparel-b4569">Alternative Apparel
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/anvil-b9315">Anvil
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/augusta-sportswear-b21299">Augusta Sportswear
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/all-sport-b23150">All Sport
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/bella-canvas-b47">Bella+Canvas
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/boxercraft-b16579">Boxercraft
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/badger-b21253">Badger
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/burnside-b21254">Burnside
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/bayside-b21330">Bayside
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/big-accessories-b23162">Big Accessories
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/bella-canvas-fast-fashion-b23829">Bella+Canvas Fast Fashion
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/beach-nik-b32302">Beach-Nik
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class="cat-row-2 categories col-md-3">
+<div class="category marque">
+<h4>C-G</h4>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/c2-sport-b21257">C2 Sport
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/carmel-towel-company-b21260">Carmel Towel Company
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/champion-b21311">Champion
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/comfort-colors-b21528">Comfort Colors
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/charles-river-apparel-b34709">Charles River Apparel
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/dri-duck-b22696">Dri Duck
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/doggie-skins-b23174">Doggie Skins
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/district-made-b23809">District Made
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/district-b23812">District
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/delta-b23854">Delta
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/engel-b32299">Engel
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/fruit-of-the-loom-b6348">Fruit of the Loom
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/flexfit-b16294">Flexfit
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/featherlite-b21266">FeatherLite
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/gildan-b34">Gildan
+</a></div>
+</div>
+</div>
+</div>
+<div class="cat-row-3 categories col-md-3">
+<div class="category marque">
+<h4>H-R</h4>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/hanes-b48">Hanes
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/hilton-b21272">Hilton
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/independent-trading-co-b21275">Independent Trading Co.
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/jerzees-b16792">Jerzees
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/j-america-b21733">J. America
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/liberty-bags-b21278">Liberty Bags
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/lat-b21734">LAT
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/mega-cap-b21281">Mega Cap
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/mv-sport-b21758">MV Sport
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/next-level-b21317">Next Level
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/outdoor-cap-b16301">Outdoor Cap
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/port-company-b23800">Port &amp; Company
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/precious-cargo-b23806">Precious Cargo
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/rabbit-skins-b17071">Rabbit Skins
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/russell-outdoors-b23815">Russell Outdoors
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class="cat-row-4 categories col-md-3">
+<div class="category marque">
+<h4>S-Z</h4>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/sportsman-b16307">Sportsman
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/sierra-pacific-b21798">Sierra Pacific
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/sport-tek-b23803">Sport-Tek
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/tie-dye-b17074">Tie-Dye
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/threadfast-b23792">Threadfast
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/true-timber-b32298">True Timber
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/valubag-b21242">Valubag
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/valucap-b21293">Valucap
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/wordans-promo-b32293">Wordans Promo
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+<div class="control-group-line">
+<div class="control-group">
+<a href="/wholesale-clothing/yupoong-b16316">Yupoong
+</a></div>
+</div>
+</div>
+</div>
+</div>
+
+</li>
+<li class="dropdown mega-menu">
+<a href="/wholesale-clothing/t-shirts-c2729" class="category_2729">T-Shirts</a>
+<div class="dropdown-menu container">
+<div class="row">
+<div class="cat-row-1 categories col-md-3">
+<div class="category">
+<h4>
+Gender
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/baby-g16549">Baby (5)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/men-g27">Men (414)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/women-g24">Women (357)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/kids-g10">Kids (154)</a>
+</div>
+</div>
+</div>
+<div class="cat-row-1 categories col-md-3">
+<div class="category">
+<h4>
+Style
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/camo-s21633">Camo (44)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/tie-dye-s21669">Tie-Dye (60)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/sublimation-s21675">Sublimation (10)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/tall-sizes-s21676">Tall sizes (7)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/v-neck-s21679">V-Neck (113)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/triblend-s21682">Triblend (39)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/sleeveless-s21747">Sleeveless (10)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/pocket-s21753">Pocket (33)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/ringer-s21754">Ringer (21)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/baby-s21770">Baby (20)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/scoopneck-s21902">Scoopneck (36)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/burnout-s21905">Burnout (8)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/tank-top-s21951">Tank top (19)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/long-sleeves-s21954">Long sleeves (23)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/short-sleeved-s22034">Short Sleeved (52)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/polos-s22991">Polos (129)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/usa-made-s23245">USA-Made (3)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/sport-s23540">Sport (3)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/henley-s23817">Henley  (2)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/raglan-s23820">Raglan (5)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/performance-s23830">Performance (56)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/poly-cotton-s23847">Poly/cotton (2)
+</a></div>
+</div>
+</div>
+<div class="cat-row-2 categories col-md-3">
+<div class="category">
+<h4>
+Weight
+</h4>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy90LXNoaXJ0cy1jMjcyOS93ZWlnaHQtMC01');">Up to 5oz. (382)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy90LXNoaXJ0cy1jMjcyOS93ZWlnaHQtNS02');">From 5 to 6oz. (151)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy90LXNoaXJ0cy1jMjcyOS93ZWlnaHQtNi05OTk5');">6oz. and over (133)</span>
+</a>
+</div>
+</div>
+<div class="category">
+<h4>
+Options
+</h4>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy90LXNoaXJ0cy1jMjcyOS90ZWFyLWF3YXktbzI=');">Tear Away (136)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy90LXNoaXJ0cy1jMjcyOS9vcmdhbmljLW81');">Organic (39)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy90LXNoaXJ0cy1jMjcyOS90YWdsZXNzLW82');">Tagless (42)</span>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-3 categories cat-row-3 col-brands">
+<div class="category marque">
+<h4>
+Brands
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/american-apparel-b30">American Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/gildan-b34">Gildan</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/bella-canvas-b47">Bella+Canvas</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/hanes-b48">Hanes</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/alstyle-apparel-b499">Alstyle Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/alternative-apparel-b4569">Alternative Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/fruit-of-the-loom-b6348">Fruit of the Loom</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/anvil-b9315">Anvil</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/new-balance-b12738">New Balance</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729/boxercraft-b16579">Boxercraft</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/t-shirts-c2729">More</a>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<footer>
+<div class="row products">
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-5000-25320" class="product-small"><div class="image-holder">
+<img alt="Gildan 5000 - Heavy Cotton T-Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/28/25320/25320_small.jpg?1440801929" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 5000 - Heavy Cotton T-Shirt
+</div>
+<div class="price">
+$1.54
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-8000-25374" class="product-small"><div class="image-holder">
+<img alt="Gildan 8000 - Gildan® Adult DryBlend® T-Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/28/25374/25374_small.jpg?1440803942" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 8000 - Gildan® Adult DryBlend® T-Shirt
+</div>
+<div class="price">
+$1.77
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-2000-25742" class="product-small"><div class="image-holder">
+<img alt="Gildan 2000 - Ultra Cotton™ T-Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/31/25742/25742_small.jpg?1441031560" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 2000 - Ultra Cotton™ T-Shirt
+</div>
+<div class="price">
+$2.07
+</div>
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+</div>
+
+</li>
+<li class="dropdown mega-menu">
+<a href="/wholesale-clothing/sweats-fleece-c3668" class="category_3668">Sweats &amp; Fleece</a>
+<div class="dropdown-menu container">
+<div class="row">
+<div class="cat-row-1 categories col-md-3">
+<div class="category">
+<h4>
+Gender
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/baby-g16549">Baby (1)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/men-g27">Men (324)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/women-g24">Women (117)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/kids-g10">Kids (46)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/accessories-g1994">Accessories (2)</a>
+</div>
+</div>
+</div>
+<div class="cat-row-1 categories col-md-3">
+<div class="category">
+<h4>
+Style
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/camo-s21630">Camo (11)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/pants-s21642">Pants (34)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/tie-dye-s21663">Tie-Dye (8)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/zip-s21743">Zip (135)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/cardigan-s21744">Cardigan (7)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/hoodies-s21819">Hoodies (143)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/crewneck-s21820">Crewneck (59)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/v-neck-s21947">V neck (4)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/zip-neck-s21948">Zip neck (44)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/fleece-s23529">Fleece (13)
+</a></div>
+</div>
+</div>
+<div class="cat-row-2 categories col-md-3">
+<div class="category">
+<h4>
+Weight
+</h4>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9zd2VhdHMtZmxlZWNlLWMzNjY4L3dlaWdodC0wLTc=');">Up to 7oz. (72)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9zd2VhdHMtZmxlZWNlLWMzNjY4L3dlaWdodC03LTk=');">From 7 to 9oz. (114)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9zd2VhdHMtZmxlZWNlLWMzNjY4L3dlaWdodC05LTk5OTk=');">9oz. and over (211)</span>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-3 categories cat-row-3 col-brands">
+<div class="category marque">
+<h4>
+Brands
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/american-apparel-b30">American Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/gildan-b34">Gildan</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/bella-canvas-b47">Bella+Canvas</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/hanes-b48">Hanes</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/alstyle-apparel-b499">Alstyle Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/alternative-apparel-b4569">Alternative Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/fruit-of-the-loom-b6348">Fruit of the Loom</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/anvil-b9315">Anvil</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/vanheusen-b16285">VanHeusen</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668/boxercraft-b16579">Boxercraft</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/sweats-fleece-c3668">More</a>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<footer>
+<div class="row products">
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-18500-25233" class="product-small"><div class="image-holder">
+<img alt="Gildan 18500 - Heavy Blend™ Hooded Sweatshirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/28/25233/25233_small.jpg?1440799442" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 18500 - Heavy Blend™ Hooded Sweatshirt
+</div>
+<div class="price">
+$9.42
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/jerzees-996mr-25940" class="product-small"><div class="image-holder">
+<img alt="JERZEES 996MR - NuBlend® Hooded Sweatshirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/31/25940/25940_small.jpg?1441042765" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+JERZEES 996MR - NuBlend® Hooded Sweatshirt
+</div>
+<div class="price">
+$9.26
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-18000-25212" class="product-small"><div class="image-holder">
+<img alt="Gildan 18000 - Heavy Blend™ Crewneck Sweatshirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/28/25212/25212_small.jpg?1440798918" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 18000 - Heavy Blend™ Crewneck Sweatshirt
+</div>
+<div class="price">
+$4.69
+</div>
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+</div>
+
+</li>
+<li class="dropdown mega-menu">
+<a href="/wholesale-clothing/jackets-c3669" class="category_3669">Jackets</a>
+<div class="dropdown-menu container">
+<div class="row">
+<div class="cat-row-1 categories col-md-4">
+<div class="category">
+<h4>
+Gender
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/men-g27">Men (264)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/women-g24">Women (167)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/kids-g10">Kids (20)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/accessories-g1994">Accessories (1)</a>
+</div>
+</div>
+</div>
+<div class="cat-row-1 categories col-md-5">
+<div class="category">
+<h4>
+Style
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/tall-sizes-s21576">Tall Sizes (3)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/windbreaker-s22217">windbreaker (24)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/sport-jackets-s22220">sport jackets (32)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/soft-shell-s22223">Soft Shell (75)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/fleece-jackets-s22226">Fleece jackets (52)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/nylon-jackets-s22229">Nylon jackets (11)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/vests-s22232">Vests (18)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/insulated-s22235">Insulated (35)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/down-jackets-s22238">Down jackets (7)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/track-s22889">Track (3)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/microfleece-s22895">Microfleece (13)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/rain-jacket-s22898">Rain Jacket (12)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/thermal-s22904">Thermal (3)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/canvas-s22916">Canvas (5)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/reflective-s22921">Reflective (3)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/hardshell-s22927">Hardshell (2)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/workwear-s22943">Workwear (1)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/twill-s22945">Twill (1)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/bomber-s22986">Bomber (1)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/blazer-s23041">Blazer (1)
+</a></div>
+</div>
+</div>
+<div class="col-md-3 categories cat-row-3 col-brands">
+<div class="category marque">
+<h4>
+Brands
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/bella-canvas-b47">Bella+Canvas</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/kariban-b6351">Kariban</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/stormtech-b16663">Stormtech</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/badger-b21253">Badger</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/burnside-b21254">Burnside</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/featherlite-b21266">FeatherLite</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/hilton-b21272">Hilton</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/independent-trading-co-b21275">Independent Trading Co.</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/liberty-bags-b21278">Liberty Bags</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669/ml-kishigo-b21284">ML Kishigo</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/jackets-c3669">More</a>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<footer>
+<div class="row products">
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/kariban-k647-57991" class="product-small"><div class="image-holder">
+<img alt="Kariban K647 - Adult Unlined Windbreaker" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2016/11/9/57991/57991_small.jpg?1478691610" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Kariban K647 - Adult Unlined Windbreaker
+</div>
+<div class="price">
+$6.36
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/harriton-m775-29471" class="product-small"><div class="image-holder">
+<img alt="Harriton M775 - Nylon Staff Jacket" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/9/21/29471/29471_small.jpg?1455041539" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Harriton M775 - Nylon Staff Jacket
+</div>
+<div class="price">
+$15.11
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/sierra-pacific-3061-27330" class="product-small"><div class="image-holder">
+<img alt="Sierra Pacific 3061 - Full-Zip Fleece Jacket" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/9/1/27330/27330_small.jpg?1441183614" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Sierra Pacific 3061 - Full-Zip Fleece Jacket
+</div>
+<div class="price">
+$5.29
+</div>
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+</div>
+
+</li>
+<li class="dropdown mega-menu">
+<a href="/wholesale-clothing/long-sleeves-c16378" class="category_16378">Long sleeves</a>
+<div class="dropdown-menu container">
+<div class="row">
+<div class="cat-row-1 categories col-md-3">
+<div class="category">
+<h4>
+Gender
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/men-g27">Men (111)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/women-g24">Women (76)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/kids-g10">Kids (25)</a>
+</div>
+</div>
+</div>
+<div class="cat-row-1 categories col-md-3">
+<div class="category">
+<h4>
+Style
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/camo-s21636">Camo (12)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/tie-dye-s21672">Tie-Dye (5)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/baby-s21773">Baby (1)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/pocket-s21884">Pocket (9)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/v-neck-s21887">V neck (18)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/raglan-s21890">Raglan (42)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/scoopneck-s21892">Scoopneck (13)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/hooded-s21893">Hooded (9)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/buttons-s21896">Buttons (4)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/burnout-s21898">Burnout (1)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/thermal-s21901">Thermal (11)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/long-sleeves-s21942">Long sleeves (20)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/usa-made-s23242">USA-Made (1)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/performance-s23833">Performance (9)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/henley-s23834">Henley (1)
+</a></div>
+</div>
+</div>
+<div class="cat-row-2 categories col-md-3">
+<div class="category">
+<h4>
+Options
+</h4>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9sb25nLXNsZWV2ZXMtYzE2Mzc4L3RlYXItYXdheS1vMg==');">Tear Away (29)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9sb25nLXNsZWV2ZXMtYzE2Mzc4L29yZ2FuaWMtbzU=');">Organic (13)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9sb25nLXNsZWV2ZXMtYzE2Mzc4L3RhZ2xlc3MtbzY=');">Tagless (11)</span>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-3 categories cat-row-3 col-brands">
+<div class="category marque">
+<h4>
+Brands
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/american-apparel-b30">American Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/gildan-b34">Gildan</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/bella-canvas-b47">Bella+Canvas</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/hanes-b48">Hanes</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/alternative-apparel-b4569">Alternative Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/fruit-of-the-loom-b6348">Fruit of the Loom</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/anvil-b9315">Anvil</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/new-balance-b12738">New Balance</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/boxercraft-b16579">Boxercraft</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378/jerzees-b16792">Jerzees</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/long-sleeves-c16378">More</a>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<footer>
+<div class="row products">
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-5700-38202" class="product-small"><div class="image-holder">
+<img alt="Gildan 5700 - Heavy Cotton Three-Quarter Raglan Sleeve T-Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2016/1/6/38202/38202_small.jpg?1471468212" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 5700 - Heavy Cotton Three-Quarter Raglan Sleeve T-Shirt
+</div>
+<div class="price">
+$4.83
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-2400-25745" class="product-small"><div class="image-holder">
+<img alt="Gildan 2400 - Ultra Cotton™ Long Sleeve T-Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/31/25745/25745_small.jpg?1441031991" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 2400 - Ultra Cotton™ Long Sleeve T-Shirt
+</div>
+<div class="price">
+$3.71
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/bella-canvas-3200-24789" class="product-small"><div class="image-holder">
+<img alt="Bella+Canvas 3200 - Unisex Three-Quarter Sleeve Baseball Raglan" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/28/24789/24789_small.jpg?1440789744" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Bella+Canvas 3200 - Unisex Three-Quarter Sleeve Baseball Raglan
+</div>
+<div class="price">
+$6.77
+</div>
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+</div>
+
+</li>
+<li class="dropdown mega-menu">
+<a href="/wholesale-clothing/polo-shirts-c22095" class="category_22095">Polo shirts</a>
+<div class="dropdown-menu container">
+<div class="row">
+<div class="cat-row-1 categories col-md-4">
+<div class="category">
+<h4>
+Gender
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/men-g27">Men (115)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/women-g24">Women (49)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/kids-g10">Kids (18)</a>
+</div>
+</div>
+</div>
+<div class="cat-row-2 categories col-md-5">
+<div class="category">
+<h4>
+Weight
+</h4>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9wb2xvLXNoaXJ0cy1jMjIwOTUvd2VpZ2h0LTAtNQ==');">Up to 5oz. (20)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9wb2xvLXNoaXJ0cy1jMjIwOTUvd2VpZ2h0LTUtNg==');">From 5 to 6oz. (43)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9wb2xvLXNoaXJ0cy1jMjIwOTUvd2VpZ2h0LTYtOTk5OQ==');">6oz. and over (73)</span>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-3 categories cat-row-3 col-brands">
+<div class="category marque">
+<h4>
+Brands
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/gildan-b34">Gildan</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/bella-canvas-b47">Bella+Canvas</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/hanes-b48">Hanes</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/alternative-apparel-b4569">Alternative Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/columbia-b4784">Columbia</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/anvil-b9315">Anvil</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/jerzees-b16792">Jerzees</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/adidas-b17592">Adidas</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/badger-b21253">Badger</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095/featherlite-b21266">FeatherLite</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-shirts-c22095">More</a>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<footer>
+<div class="row products">
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-8800-25748" class="product-small"><div class="image-holder">
+<img alt="Gildan 8800 - DryBlend™ Jersey Sport Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/31/25748/25748_small.jpg?1441032205" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 8800 - DryBlend™ Jersey Sport Shirt
+</div>
+<div class="price">
+$4.59
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/jerzees-437wr-25856" class="product-small"><div class="image-holder">
+<img alt="JERZEES 437WR - Ladies Spotshield™ 50/50 Sport Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/31/25856/25856_small.jpg?1441040580" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+JERZEES 437WR - Ladies' Spotshield™ 50/50 Sport Shirt
+</div>
+<div class="price">
+$5.79
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-2800-25281" class="product-small"><div class="image-holder">
+<img alt="Gildan 2800 - Ultra Cotton™ Jersey Sport Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/28/25281/25281_small.jpg?1440800992" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 2800 - Ultra Cotton™ Jersey Sport Shirt
+</div>
+<div class="price">
+$3.80
+</div>
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+</div>
+
+</li>
+<li class="dropdown mega-menu">
+<a href="/wholesale-clothing/athletic-wear-c16555" class="category_16555">Athletic Wear</a>
+<div class="dropdown-menu container">
+<div class="row">
+<div class="cat-row-1 categories col-md-4">
+<div class="category">
+<h4>
+Gender
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/men-g27">Men (284)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/women-g24">Women (173)</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/kids-g10">Kids (120)</a>
+</div>
+</div>
+</div>
+<div class="cat-row-1 categories col-md-5">
+<div class="category">
+<h4>
+Style
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/t-shirts-s21639">T-shirts (120)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/long-sleeves-s21645">Long Sleeves (78)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/pants-shorts-s21648">Pants &amp; Shorts (124)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/jackets-s21654">Jackets (74)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/polo-shirt-s21657">Polo shirt (53)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/tank-tops-s23179">Tank tops (30)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/sport-bras-s23182">Sport bras (2)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/hoodies-s23185">Hoodies (17)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/baseball-pants-s23187">Baseball pants (3)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/sleeveless-jerseys-s23190">Sleeveless Jerseys (8)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/baseball-jerseys-s23192">Baseball Jerseys (9)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/soccer-jerseys-s23193">Soccer Jerseys (1)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/football-jerseys-s23196">Football Jerseys (14)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/sport-socks-s23199">Sport Socks (3)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/wind-shirt-s23823">Wind Shirt (11)
+</a></div>
+</div>
+</div>
+<div class="col-md-3 categories cat-row-3 col-brands">
+<div class="category marque">
+<h4>
+Brands
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/gildan-b34">Gildan</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/bella-canvas-b47">Bella+Canvas</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/hanes-b48">Hanes</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/alternative-apparel-b4569">Alternative Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/anvil-b9315">Anvil</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/new-balance-b12738">New Balance</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/boxercraft-b16579">Boxercraft</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/jerzees-b16792">Jerzees</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/adidas-b17592">Adidas</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555/badger-b21253">Badger</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/athletic-wear-c16555">More</a>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<footer>
+<div class="row products">
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/hanes-482l-59335" class="product-small"><div class="image-holder">
+<img alt="Hanes 482L - Adult Cool Dri Long Sleeve Performance Tee" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2016/11/9/59335/59335_small.jpg?1478705553" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Hanes 482L - Adult Cool Dri Long Sleeve Performance Tee
+</div>
+<div class="price">
+$9.44
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-42000-25290" class="product-small"><div class="image-holder">
+<img alt="Gildan 42000 - Core Performance® Adult Short Sleeve T-Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/28/25290/25290_small.jpg?1440801191" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 42000 - Core Performance® Adult Short Sleeve T-Shirt
+</div>
+<div class="price">
+$3.49
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/augusta-sportswear-360-22604" class="product-small"><div class="image-holder">
+<img alt="Augusta Sportswear 360 - V-Neck Jersey with Striped Sleeves" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/27/22604/22604_small.jpg?1440696112" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Augusta Sportswear 360 - V-Neck Jersey with Striped Sleeves
+</div>
+<div class="price">
+$7.93
+</div>
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+</div>
+
+</li>
+<li class="dropdown mega-menu">
+<a href="/wholesale-clothing/headwear-c2732" class="category_2732">Headwear</a>
+<div class="dropdown-menu container">
+<div class="row">
+<div class="cat-row-1 categories col-md-5">
+<div class="category">
+<h4>
+Style
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/toque-s21740">Toque (26)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/baseball-hats-s21750">Baseball hats (38)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/camo-s21778">Camo (73)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/mesh-s21790">Mesh (45)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/flat-bill-s21870">Flat Bill (8)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/twill-s21873">Twill (96)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/visor-s21876">Visor (17)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/sport-s21879">Sport (17)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/fidel-s21882">Fidel (4)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/beany-s22090">Beany (28)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/hat-s22106">Hat (7)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/driver-caps-s23235">Driver Caps (1)
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/reflective-s23239">Reflective (1)
+</a></div>
+</div>
+</div>
+<div class="cat-row-2 categories col-md-4">
+<div class="category">
+<h4>
+Options
+</h4>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9oZWFkd2Vhci1jMjczMi9vcmdhbmljLW81');">Organic (3)</span>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-3 categories cat-row-3 col-brands">
+<div class="category marque">
+<h4>
+Brands
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/alternative-apparel-b4569">Alternative Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/anvil-b9315">Anvil</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/flexfit-b16294">Flexfit</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/kati-b16298">Kati</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/outdoor-cap-b16301">Outdoor Cap</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/sportsman-b16307">Sportsman</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/yupoong-b16316">Yupoong</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/rabbit-skins-b17071">Rabbit Skins</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/adidas-b17592">Adidas</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732/hyp-b21236">HYP</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/headwear-c2732">More</a>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<footer>
+<div class="row products">
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/valucap-vc300a-23531" class="product-small"><div class="image-holder">
+<img alt="Valucap VC300A - Adult Bio-Washed Unstructured Cap" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/27/23531/23531_small.jpg?1440707963" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Valucap VC300A - Adult Bio-Washed Unstructured Cap
+</div>
+<div class="price">
+$2.39
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/yupoong-6006-27756" class="product-small"><div class="image-holder">
+<img alt="Yupoong 6006 - Five-Panel Classic Trucker Cap" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/9/1/27756/27756_small.jpg?1441203185" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Yupoong 6006 - Five-Panel Classic Trucker Cap
+</div>
+<div class="price">
+$3.29
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/yupoong-6606-27777" class="product-small"><div class="image-holder">
+<img alt="Yupoong 6606 - Retro Trucker" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/9/1/27777/27777_small.jpg?1471473990" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Yupoong 6606 - Retro Trucker
+</div>
+<div class="price">
+$3.39
+</div>
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+</div>
+
+</li>
+<li class="dropdown mega-menu">
+<a href="/wholesale-clothing" class="category_0">Other</a>
+<div class="dropdown-menu container">
+<div class="row">
+<div class="cat-row-1 categories col-md-3">
+<div class="category">
+<h4>
+Categories
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/pants-shorts-c2731">Pants &amp; Shorts
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/apron-c2734">Apron
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/dress-c2735">Dress
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/skirt-c2736">Skirt
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/bags-c2737">Bags
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/underwear-c3185">Underwear
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/polo-sport-shirts-c3667">Polo &amp; Sport Shirts
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/accessories-c3670">Accessories
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/shirts-c3671">Shirts
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/tank-tops-c6859">Tank Tops
+</a></div>
+</div>
+</div>
+<div class="cat-row-1 categories col-md-3">
+<div class="category" style="padding-top: 47px;">
+<div class="control-group">
+<a href="/wholesale-clothing/onesie-c16552">Onesie
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/workwear-c16558">Workwear
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/sport-c21796">Sport
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/jacket-c21922">Jacket
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/pajamas-c22369">Pajamas
+</a></div>
+<div class="control-group">
+<a href="/wholesale-clothing/promotional-objects-c32306">Promotional Objects
+<span class="alert-danger">NEW</span>
+</a></div>
+</div>
+</div>
+<div class="cat-row-2 categories col-md-3">
+<div class="category">
+<h4>
+Options
+</h4>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy90ZWFyLWF3YXktbzI=');">Tear Away (246)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9vcmdhbmljLW81');">Organic (104)</span>
+</a>
+</div>
+<div class="control-group">
+<a>
+<span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy90YWdsZXNzLW82');">Tagless (202)</span>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-3 categories cat-row-3 col-brands">
+<div class="category marque">
+<h4>
+Brands
+</h4>
+<div class="control-group">
+<a href="/wholesale-clothing/american-apparel-b30">American Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/gildan-b34">Gildan</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/bella-canvas-b47">Bella+Canvas</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/hanes-b48">Hanes</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/alstyle-apparel-b499">Alstyle Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/alternative-apparel-b4569">Alternative Apparel</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/columbia-b4784">Columbia</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/dickies-b6345">Dickies</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/fruit-of-the-loom-b6348">Fruit of the Loom</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing/kariban-b6351">Kariban</a>
+</div>
+<div class="control-group">
+<a href="/wholesale-clothing">More</a>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<footer>
+<div class="row products">
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-5000-25320" class="product-small"><div class="image-holder">
+<img alt="Gildan 5000 - Heavy Cotton T-Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/28/25320/25320_small.jpg?1440801929" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 5000 - Heavy Cotton T-Shirt
+</div>
+<div class="price">
+$1.54
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-18500-25233" class="product-small"><div class="image-holder">
+<img alt="Gildan 18500 - Heavy Blend™ Hooded Sweatshirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/28/25233/25233_small.jpg?1440799442" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 18500 - Heavy Blend™ Hooded Sweatshirt
+</div>
+<div class="price">
+$9.42
+</div>
+</div>
+</a>
+</div>
+<div class="product-small col-md-4">
+<a href="/wholesale-clothing/gildan-8000-25374" class="product-small"><div class="image-holder">
+<img alt="Gildan 8000 - Gildan® Adult DryBlend® T-Shirt" class="img-responsive" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wordansfiles/models/2015/8/28/25374/25374_small.jpg?1440803942" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+</div>
+<div class="infos-holder">
+<div class="description">
+Gildan 8000 - Gildan® Adult DryBlend® T-Shirt
+</div>
+<div class="price">
+$1.77
+</div>
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+</div>
+
+</li>
+</ul>
+</div>
+</div>
+</header>
+</section>
+
+<div class="modal fade" id="signupModal" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body"></div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="signinModal" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body"></div>
+</div>
+</div>
+</div>
+
+<script src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wvc-1496749786/javascripts/jquery.accordion.js" type="text/javascript"></script>
+<style>
+  .sidebar_page h1 {
+    font-size: 20px;
+  }
+  
+  .sidebar_page h2 {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  .sidebar_page h3 {
+    font-size: 15px;
+  }
+  
+  .sidebar_page li {
+    font-family: 'Century Gothic', 'Raleway', Arial, sans-serif;
+  }
+</style>
+<section class="sidebar_page" style="padding-top: 0px;">
+<div class="container">
+<div class="row white_section">
+<div class="col-md-9 col-md-push-3" style="padding-top: 15px; padding-bottom: 20px;">
 <h1>
 Privacy Policy
 </h1>
-<br>
 <div class="clearfix"></div>
 <h2 style="text-align: left">
-Wordans.com ("Wordans") is committed to protecting your online privacy</h2>
+	Wordans.com ("Wordans") is committed to protecting your online privacy</h2>
 <p style="text-align: left">
-We have created this privacy policy to make sure you know what information we collect and how we use it. By using our web site, you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Wordans Website will be subject to the then current privacy policy.</p>
+	We have created this privacy policy to make sure you know what information we collect and how we use it. By using our web site, you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Wordans Website will be subject to the then current privacy policy.</p>
 <h2 style="text-align: left">
-About uploading and posting information on the Wordans Website</h2>
+	About uploading and posting information on the Wordans Website</h2>
 <p style="text-align: left">
-At the time you register for a My Wordans account, you will choose and provide us with a user name and password. When you upload a design, post a comment or message on the Wordans Website your user name is visible to other users. Additionally, if your comment or message contains personal information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload is not considered personally identifiable information subject to this Privacy Policy.</p>
+	At the time you register for a My Wordans account, you will choose and provide us with a user name and password. When you upload a design, post a comment or message on the Wordans Website your user name is visible to other users. Additionally, if your comment or message contains personal information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload is not considered personally identifiable information subject to this Privacy Policy.</p>
 <p style="text-align: left">
-<span style="font-weight: bold">Always use caution when you post such information.</span></p>
+	<span style="font-weight: bold">Always use caution when you post such information.</span></p>
 <h2 style="text-align: left">
-What information do we collect?</h2>
+	What information do we collect?</h2>
 <h3 style="text-align: left">
-Information Provided by You</h3>
+	Information Provided by You</h3>
 <p style="text-align: left">
-You may provide us with certain personally identifiable information when you:</p>
+	You may provide us with certain personally identifiable information when you:</p>
 <ul>
-<li style="text-align: left">
-register for a MyWordans account</li>
-<li style="text-align: left">
-order products or gift certificates</li>
-<li style="text-align: left">
-request customer support or send us any other communication</li>
-<li style="text-align: left">
-sign up for newsletters, email alerts, and special offers</li>
-<li style="text-align: left">
-set up a Designer, Partner, or Citizen account</li>
-<li style="text-align: left">
-enter sweepstakes or contests</li>
-<li style="text-align: left">
-sign up for, or redeem, special offers</li>
-<li style="text-align: left">
-respond to surveys</li>
-<li style="text-align: left">
-use our Email-to-a-Friend or Refer-A-Friend features</li>
-<li style="text-align: left">
-approve your child's request to open a My Wordans account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA).</li>
+	<li style="text-align: left">
+		register for a MyWordans account</li>
+	<li style="text-align: left">
+		order products or gift certificates</li>
+	<li style="text-align: left">
+		request customer support or send us any other communication</li>
+	<li style="text-align: left">
+		sign up for newsletters, email alerts, and special offers</li>
+	<li style="text-align: left">
+		set up a Designer, Partner, or Citizen account</li>
+	<li style="text-align: left">
+		enter sweepstakes or contests</li>
+	<li style="text-align: left">
+		sign up for, or redeem, special offers</li>
+	<li style="text-align: left">
+		respond to surveys</li>
+	<li style="text-align: left">
+		use our Email-to-a-Friend or Refer-A-Friend features</li>
+	<li style="text-align: left">
+		approve your child's request to open a Wordans account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA).</li>
 </ul>
 <p>
-&nbsp;</p>
+	&nbsp;</p>
 <div style="text-align: left">
-&nbsp;</div>
+	&nbsp;</div>
 <div style="text-align: left">
-Such information may include your name, email address, billing address, shipping address, and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Wordans Website or our promotions.</div>
-<p>
-&nbsp;</p>
+	Such information may include your name, email address, billing address, shipping address, and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Wordans Website or our promotions.</div>
 <h3 style="text-align: left">
-Information Collected by Cookies</h3>
+	Information Collected by Cookies</h3>
 <p style="text-align: left">
-Wordans uses cookies on the Wordans Website. A cookie is a small text file on your computer which a website sends to your computer to allow the website to store information which uniquely identifies their users. Wordans's cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time.</p>
+	Wordans uses cookies on the Wordans Website. A cookie is a small text file on your computer which a website sends to your computer to allow the website to store information which uniquely identifies their users. Wordans's cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time.</p>
 <p style="text-align: left">
-That token is then linked to the user information in our secured databases. You can always reset your browser to refuse all cookies or to display a message when a cookie is being sent. If you reset your browser, some of the Wordans Website features and functionality may not be available to you.</p>
+	That token is then linked to the user information in our secured databases. You can always reset your browser to refuse all cookies or to display a message when a cookie is being sent. If you reset your browser, some of the Wordans Website features and functionality may not be available to you.</p>
 <h3 style="text-align: left">
-Information Collected by Web Beacons and Log Files</h3>
+	Information Collected by Web Beacons and Log Files</h3>
 <p style="text-align: left">
-Wordans collects certain non-personally identifiable information through the use of web beacons and log files. Such information may include your IP address, browser type, site usage, and whether you opened emails you received from us.</p>
+	Wordans collects certain non-personally identifiable information through the use of web beacons and log files. Such information may include your IP address, browser type, site usage, and whether you opened emails you received from us.</p>
 <h2 style="text-align: left">
-How do we secure your information?</h2>
+	How do we secure your information?</h2>
 <p style="text-align: left">
-When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your My Wordans account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select.</p>
+	When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your Wordans account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select.</p>
 <p style="text-align: left">
-We operate internationally and all of our computer systems are currently based in Canada. As a result, your personal data will be processed by us in Canada where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this privacy policy and you consent to the transfer of all information you provide to the United States.</p>
+	We operate internationally and all of our computer systems are currently based in Canada. As a result, your personal data will be processed by us in Canada where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this privacy policy and you consent to the transfer of all information you provide to the United States.</p>
 <h2 style="text-align: left">
-How do we use information?</h2>
+	How do we use information?</h2>
 <p style="text-align: left">
-We use the personally identifiable information you provide to:</p>
+	We use the personally identifiable information you provide to:</p>
 <ul>
-<li style="text-align: left">
-provide the features and functionality of the Wordans Website</li>
-<li style="text-align: left">
-fulfill your requests for our products and services</li>
-<li style="text-align: left">
-pay royalties and referral fees</li>
-<li style="text-align: left">
-communicate with you about the status of your orders and other inquiries about our products and services</li>
-<li>
-<div style="text-align: left">
-send you information about our products and services&nbsp;</div>
-<div style="text-align: left">
-provide notices about the results of sweepstakes, contest, and other promotions.</div>
-</li>
+	<li style="text-align: left">
+		provide the features and functionality of the Wordans Website</li>
+	<li style="text-align: left">
+		fulfill your requests for our products and services</li>
+	<li style="text-align: left">
+		pay royalties and referral fees</li>
+	<li style="text-align: left">
+		communicate with you about the status of your orders and other inquiries about our products and services</li>
+	<li>
+		<div style="text-align: left">
+			send you information about our products and services&nbsp;</div>
+		<div style="text-align: left">
+			provide notices about the results of sweepstakes, contest, and other promotions.</div>
+	</li>
 </ul>
 <p>
-&nbsp;</p>
+	&nbsp;</p>
 <div style="text-align: left">
-&nbsp;</div>
+	&nbsp;</div>
 <div style="text-align: left">
-We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your MyWordans account settings.</div>
+	We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your MyWordans account settings.</div>
 <p>
-&nbsp;</p>
+	&nbsp;</p>
 <p style="text-align: left">
-We do not use your email address or other personally identifiable information to send marketing messages without your consent. Similarly, if you email a product to a friend or refer a friend to the Wordans Website or our promotions, we will use your friend's email to send them the e-mail you requested. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted.</p>
+	We do not use your email address or other personally identifiable information to send marketing messages without your consent. Similarly, if you email a product to a friend or refer a friend to the Wordans Website or our promotions, we will use your friend's email to send them the e-mail you requested. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted.</p>
 <p style="text-align: left">
-We use non-personally identifiable information to monitor the use and performance of the Wordans Website so that we can learn more about how people use the Wordans Website and improve our products and services.</p>
+	We use non-personally identifiable information to monitor the use and performance of the Wordans Website so that we can learn more about how people use the Wordans Website and improve our products and services.</p>
 <h2 style="text-align: left">
-Does Wordans disclose the information it collects to outside parties?</h2>
+	Does Wordans disclose the information it collects to outside parties?</h2>
 <p style="text-align: left">
-Generally, Wordans does not share personal information about you with other people or nonaffiliated companies without your consent except that:</p>
+	Generally, Wordans does not share personal information about you with other people or nonaffiliated companies without your consent except that:</p>
 <p style="text-align: left">
-Wordans provides information to its agents and trusted service providers and contractors for limited purposes, such as:</p>
+	Wordans provides information to its agents and trusted service providers and contractors for limited purposes, such as:</p>
 <ul>
-<li style="text-align: left">
-fulfilling customer orders and processing credit card transactions</li>
-<li style="text-align: left">
-offering certain products and services</li>
-<li style="text-align: left">
-communicating with customers</li>
-<li style="text-align: left">
-providing customer service</li>
-<li style="text-align: left">
-managing information on our behalf</li>
-<li style="text-align: left">
-enhancing the Wordans Website features and functionality.</li>
+	<li style="text-align: left">
+		fulfilling customer orders and processing credit card transactions</li>
+	<li style="text-align: left">
+		offering certain products and services</li>
+	<li style="text-align: left">
+		communicating with customers</li>
+	<li style="text-align: left">
+		providing customer service</li>
+	<li style="text-align: left">
+		managing information on our behalf</li>
+	<li style="text-align: left">
+		enhancing the Wordans Website features and functionality.</li>
 </ul>
 <p style="text-align: left">
-In such cases, we require that these parties agree to use the information solely for the purpose for which we provided it to them and in accordance with our privacy policy.</p>
+	In such cases, we require that these parties agree to use the information solely for the purpose for which we provided it to them and in accordance with our privacy policy.</p>
 <p style="text-align: left">
-If you sign up for a promotion (e.g., a contest or sweepstakes offer) or enroll in a service we offer in partnership with a third party, we may provide information (such as your name, email address, and account activity) to such third parties.</p>
+	If you sign up for a promotion (e.g., a contest or sweepstakes offer) or enroll in a service we offer in partnership with a third party, we may provide information (such as your name, email address, and account activity) to such third parties.</p>
 <p style="text-align: left">
-From time-to-time, Wordans may provide its contributors with the first name and city/state/country of residence of Wordans customers who have purchased such contributor's products.</p>
+	From time-to-time, Wordans may provide its contributors with the first name and city/state/country of residence of Wordans customers who have purchased such contributor's products.</p>
 <p style="text-align: left">
-Wordans may also release information (including your name, addresses, telephone number, and account activity) when we, in our sole discretion believe that such release is necessary or appropriate to:</p>
+	Wordans may also release information (including your name, addresses, telephone number, and account activity) when we, in our sole discretion believe that such release is necessary or appropriate to:</p>
 <ul>
-<li style="text-align: left">
-comply with law</li>
-<li style="text-align: left">
-comply with subpoenas, warrants, court orders, government investigations, or other legal process</li>
-<li style="text-align: left">
-enforce or apply the terms of any of our user or license agreements</li>
-<li style="text-align: left">
-investigate or respond to allegations of fraud, intellectual property infringement, or other unlawful activity</li>
-<li style="text-align: left">
-investigate fraud or similar claims</li>
-<li style="text-align: left">
-protect the rights, property or safety of Wordans, or our users.</li>
+	<li style="text-align: left">
+		comply with law</li>
+	<li style="text-align: left">
+		comply with subpoenas, warrants, court orders, government investigations, or other legal process</li>
+	<li style="text-align: left">
+		enforce or apply the terms of any of our user or license agreements</li>
+	<li style="text-align: left">
+		investigate or respond to allegations of fraud, intellectual property infringement, or other unlawful activity</li>
+	<li style="text-align: left">
+		investigate fraud or similar claims</li>
+	<li style="text-align: left">
+		protect the rights, property or safety of Wordans, or our users.</li>
 </ul>
 <p style="text-align: left">
-In the event that Wordans is acquired by, or merged with, another company Wordans reserves the right to transfer all information we have collected from our users in connection with such acquisition or merger.</p>
+	In the event that Wordans is acquired by, or merged with, another company Wordans reserves the right to transfer all information we have collected from our users in connection with such acquisition or merger.</p>
 <p style="text-align: left">
-Wordans may disclose non-personally-identifiable information to third parties in aggregate form to potential business partners and investors.</p>
+	Wordans may disclose non-personally-identifiable information to third parties in aggregate form to potential business partners and investors.</p>
 <h2 style="text-align: left">
-What about Children's Privacy?</h2>
+	What about Children's Privacy?</h2>
 <p style="text-align: left">
-Children under the age of thirteen are allowed to upload graphics and images and to order products with their parent's consent. To order products, the child must indicate his or her age, submit his or her name and his or her mailing address and shipping address if different from the mailing address together with a valid credit card number. This is the only information collected from a child.</p>
+	Children under the age of thirteen are allowed to upload graphics and images and to order products with their parent's consent. To order products, the child must indicate his or her age, submit his or her name and his or her mailing address and shipping address if different from the mailing address together with a valid credit card number. This is the only information collected from a child.</p>
 <p style="text-align: left">
-This information is used to fulfill the requested order; confirm shipment; complete record keeping including royalty entitlements and pay royalty fees, if any, and to advise the child concerning new Wordans products, services or policies.</p>
+	This information is used to fulfill the requested order; confirm shipment; complete record keeping including royalty entitlements and pay royalty fees, if any, and to advise the child concerning new Wordans products, services or policies.</p>
 <p style="text-align: left">
-Parents of children under the age of 13 have the option to consent to the collection of this information from their children or not. Such consent will not be used as consent for the dissemination of any of this information and the information will not be released by Wordans to third parties without the parents' consent except as may be required by law or upon court order.</p>
+	Parents of children under the age of 13 have the option to consent to the collection of this information from their children or not. Such consent will not be used as consent for the dissemination of any of this information and the information will not be released by Wordans to third parties without the parents' consent except as may be required by law or upon court order.</p>
 <p style="text-align: left">
-Personal information at Wordans is kept confidential and is disclosed only with the consent of the Wordans user or as set forth in this Privacy Policy. We do not engage in the selling of the habits, behavior, buying patterns, or demographic information of our users. Wordans does not condition a child's participation in any on-line activity on the granting of any unnecessary information beyond that actually needed in connection with that activity.</p>
+	Personal information at Wordans is kept confidential and is disclosed only with the consent of the Wordans user or as set forth in this Privacy Policy. We do not engage in the selling of the habits, behavior, buying patterns, or demographic information of our users. Wordans does not condition a child's participation in any on-line activity on the granting of any unnecessary information beyond that actually needed in connection with that activity.</p>
 <p style="text-align: left">
-Parents can review any information Wordans has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from the Wordans records or to forbid any use of such information, you may send a request to Wordans Customer Support by logging into Wordans, going to:</p>
+	Parents can review any information Wordans has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from the Wordans records or to forbid any use of such information, you may send a request to Wordans Customer Support by logging into Wordans, going to:</p>
 <p style="text-align: left">
-Contact Us, and sending an email relating to Parental Notification. Alternatively, you may contact the Wordans Privacy Representative by phone, email, or letter at:</p>
+	Contact Us, and sending an email relating to Parental Notification. Alternatively, you may contact the Wordans Privacy Representative by phone, email, or letter at:</p>
 <p>
-&nbsp;</p>
+	&nbsp;</p>
 <div style="text-align: left">
-Wordans.Com, Inc.</div>
+	Wordans.com</div>
 <div style="text-align: left">
-Attn: Privacy</div>
+	Attn: Privacy</div>
 <div style="text-align: left">
-5605 avenue de Gaspé<br>
-Suite 504</div>
+	7240 rue Waverly<br>
+	Bureau 113</div>
 <div style="text-align: left">
-Montreal, QC&nbsp;</div>
+	Montreal, QC&nbsp;</div>
 <h2 style="text-align: left">
-How can I change, delete, or update my information?</h2>
+	How can I change, delete, or update my information?</h2>
 <p style="text-align: left">
-Most of your account information can be changed in the My Wordans section of the Wordans Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at questions@Wordans.com. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.</p>
+	Most of your account information can be changed in the My Account section of the Wordans Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at questions@wordans.com. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.</p>
 <p style="text-align: left">
-The current version of the Wordans Privacy Policy was designated effective as of 10/30/2006.</p>
+	The current version of the Wordans Privacy Policy was designated effective as of 10/30/2006.</p>
+
 </div>
-</div>
-</div>
-<div class="span4 sidebar pp_encart_d">
-<div class="container-fluid">
-<div class="row-fluid need_assist_bloc">
-<div class="span12">
-<h2>
-<div class="title-line"></div>
-<span>
-Need assistance
-</span>
-<div class="clearfix"></div>
-</h2>
-</div>
-<div class="clearfix"></div>
-<div class="row-fluid need_assistance">
-<div class="span12">
+<div class="col-md-3 col-md-pull-9">
+<style>
+  .sidebar_blank {
+    padding: 20px 20px 20px 20px;
+  }
+  
+  .sidebar_blank h3 {
+    border-bottom: 1px solid #4f4f4f;
+    font-size: 14px;
+  }
+  
+  .sidebar_blank {
+    color: #4f4f4f;
+  }
+  
+  .sidebar_blank ul li a {
+    color: #4f4f4f;
+  }
+  
+  .sidebar_blank ul {
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  
+  .sidebar_blank ul.social {
+    margin-top: 20px;
+  }
+  
+  .sidebar_blank ul.social li a {
+    color: #cccccc;
+  }
+</style>
+<div class="sidebar_blank">
+<div class="row">
+<div class="col-md-12 col-sm-3">
+<h3>About</h3>
 <ul>
-<li class="question">
-questions@wordans.com
+<li><a href="/who-are-we">Who are we</a></li>
+<li><a href="/payment-methods">Payment Methods</a></li>
+<li><a href="/display/shipping_information">Shipping Methods</a></li>
+<li><a href="/display/faqs">FAQ</a></li>
+<li><a href="/display/contact">Contact</a></li>
+</ul>
+</div>
+<div class="col-md-12 col-sm-3">
+<h3>Our advantages</h3>
+<ul>
+<li><a href="/bulk-discounts">Quantity Discounts</a></li>
+<li><a href="/brands/wholesale-brands">Our brands</a></li>
+<li><a href="/display/page/best-prices">Best Price Guarantee</a></li>
+</ul>
+</div>
+<div class="col-md-12 col-sm-3">
+<h3>Order</h3>
+<ul>
+<li><a href="/order">Track your order</a></li>
+</ul>
+</div>
+<div class="col-md-12 col-sm-3">
+<h3>Find us on:</h3>
+<ul class="social">
+<li class="col-md-4">
+<a href="http://facebook.com/wordans" target="_blank" title="Facebook">
+<i class="fa fa-facebook fa-2x"></i>
+</a>
 </li>
- 
- 
- 
+<li class="col-md-4">
+<a href="https://twitter.com/WordansInc" target="_blank" title="Twitter">
+<i class="fa fa-twitter fa-2x"></i>
+</a>
+</li>
+<li class="col-md-4">
+<a href="http://instagram.com/wordans" target="_blank" title="Instagram">
+<i class="fa fa-instagram fa-2x"></i>
+</a>
+</li>
 </ul>
 </div>
 </div>
-<div class="clearfix"></div>
 </div>
-<div class="clearfix"></div>
-<div class="row-fluid follow_us">
-<div class="span12">
-<h2>
-<div class="title-line"></div>
-<span>
-Follow us!
-</span>
-</h2>
-</div>
-<div class="clearfix"></div>
-<div class="row-fluid">
-<ul class="thumbnails">
-<li class="span3">
-<div class="thumbnail_social">
-<a href="http://facebook.com/wordans" class="social-facebook" target="_blank"></a>
-</div>
-</li>
-<li class="span3">
-<div class="thumbnail_social">
-<a href="https://plus.google.com/u/0/b/111453156858168184617/111453156858168184617/posts" class="social-google" target="_blank"></a>
-</div>
-</li>
-<li class="span3">
-<div class="thumbnail_social">
-<a href="https://twitter.com/WordansFashion" class="social-twitter" target="_blank"></a>
-</div>
-</li>
-</ul>
+
 </div>
 </div>
-<div class="clearfix"></div>
-</div>
-</div>
+<section class="info-bar info-bar-clean margin-bottom-20">
+<div class="container">
+<div class="row">
+<div class="col-md-4">
+<a href="/brands/wholesale-brands"><img alt="Icon-reward" class="pull-left" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wvc-1496749786/images/responsive/icon-reward.png" height="54" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="54">
+<h3>The largest catalog</h3>
+<p>With more than 95 brands</p>
+<br class="hidden-md hidden-lg">
+</a></div>
+<div class="col-md-4">
+<a href="/bulk-discounts"><img alt="Icon-thumb" class="pull-left" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wvc-1496749786/images/responsive/icon-thumb.png" height="54" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="54">
+<h3>Volume discounts</h3>
+<p>Up to 40% off</p>
+<br class="hidden-md hidden-lg">
+</a></div>
+<div class="col-md-4">
+<a href="/display/page/best-prices"><img alt="Icon-thunder" class="pull-left" data-src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wvc-1496749786/images/responsive/icon-thunder.png" height="54" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="54">
+<h3>We guarantee</h3>
+<p>The lowest prices</p>
+</a></div>
 </div>
 </div>
 </section>
-<div aria-hidden="true" aria-labelledby="newsletter_popup" class="hide modal fade" id="newsletter_visitor_popup" role="dialog" tabindex="-1">
+
+</div>
+</section>
+
+</div>
+<div aria-hidden="true" aria-labelledby="newsletter_popup" class="modal fade" id="newsletter_visitor_popup" role="dialog" tabindex="-1">
 <div class="modal-dialog">
 <div class="modal-content">
 <button aria-hidden="true" class="close" data-dismiss="modal" type="button">×</button>
-<img alt="Newsletter_popup" src="https://www.wordans.com/wvc-1457366129/images/responsive/newsletter_popup.png" style="z-index: 2000px;">
+<img alt="Newsletter_popup" src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wvc-1496749786/images/responsive/newsletter_popup.png" style="z-index: 2000px;">
 <div id="newsletter_popup_content">
-<h4 class="modal-title" id="newsletter_popup">Stay connected!</h4>
+<div class="modal-title" id="newsletter_popup_title">Stay connected!</div>
 <p id="newsletter_visitor_popup_alert">
 Receive a 5% discount on your next order by subscribing
 </p>
 <div class="newsletter_form_container">
 <div id="newsletter_message_popup"></div>
-<form accept-charset="UTF-8" action="/display/subscribe_new_newsletter" condition="checkNewsletterForm();return false;" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-<input class="newsletter_field" name="type" type="hidden" value="popup">
-<input class="newsletter_field" id="email_newsletter" name="email_newsletter" placeholder="Your email" type="text">
+<form accept-charset="UTF-8" action="/display/subscribe_new_newsletter" condition="checkNewsletterForm();return false;" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div><input class="newsletter_field" name="type" type="hidden" value="popup">
+<input class="newsletter_field" id="email_newsletter" name="email_newsletter" placeholder="Your email" required="" type="email">
 <input class="b_black newsletter_signup smallActionButton" type="submit" value="Sign up!">
-</form>
+<br>
+<div class="margin-bottom-10">
+<div class="modal-title" id="newsletter_popup_title">Follow us on</div>
+<a href="http://facebook.com/wordans" class="social-icon social-icon-round social-icon-dark social-facebook" data-placement="top" data-toggle="tooltip" target="_blank" title="Facebook"><i class="icon-facebook"></i>
+<i class="icon-facebook"></i>
+</a><a href="http://twitter.com/WordansInc" class="social-icon social-icon-round social-icon-dark social-twitter" data-placement="top" data-toggle="tooltip" target="_blank" title="Twitter"><i class="icon-twitter"></i>
+<i class="icon-twitter"></i>
+</a><a href="http://instagram.com/wordans" class="social-icon social-icon-round social-icon-dark social-instagram" data-placement="top" data-toggle="tooltip" target="_blank" title="Instagram"><i class="icon-instagram"></i>
+<i class="icon-instagram"></i>
+</a></div>
+</form></div>
 </div>
 </div>
 </div>
 </div>
-</div>
-<footer class="responsive_footer_blank">
-<div class="container-fluid prefooter">
-<div class="container">
+
+<footer id="footer">
+<div class="container padding-top-40 padding-bottom-30">
 <div class="row">
-<div class="span12">
-<ul>
-<li><a href="/" title="Home">Home</a></li>
-<li><a href="/affiliate/become_affiliate" target="_blank">Affiliation</a></li>
-<li><a href="/display/contact" title="How to Contact Wordans">Contact Us</a></li>
-<li><a href="/display/shipping_information" title="95% of all orders leave us within 48H">Shipping Info</a></li>
-<li><a href="/display/sitemap_html" title="www.wordans.ca Site Map">Site Map</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="container-fluid middlefooter">
-<div class="container">
-<div class="row">
-<div class="span3 footer_block">
-<div class="footer_customer">
-<h4>
+<div class="col-md-3 col-sm-6 hidden-xs">
+<h4 class="text-uppercase">
 We Are Local
 </h4>
-<ul>
+<ul class="footer-links list-unstyled">
 <li>
-<a href="/local-screen-printing/usa">T-Shirt Screen Printing</a>
+<span data-crypt="true" onclick="decode64AndRedirect('L2JyYW5kcy93aG9sZXNhbGUtYnJhbmRz');">Shop By Brand</span>
 </li>
-<li>
-<a href="/local-wholesale-t-shirt">Local Wholesale T-shirts</a>
-</li>
-<li>
-<a href="/brands/wholesale-brands">Shop By Brand</a>
-</li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZw==');">Wholesale Clothing</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy90LXNoaXJ0cy1jMjcyOQ==');">Wholesale T-shirts</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9oZWFkd2Vhci1jMjczMg==');">Wholesale Headwear</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy93b3Jrd2Vhci1jMTY1NTg=');">Wholesale Workwear</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L3dob2xlc2FsZS1jbG90aGluZy9hdGhsZXRpYy13ZWFyLWMxNjU1NQ==');">Wholesale Athletic Wear</span></li>
 </ul>
-<div class="clearfix"></div>
+<img alt="Advertising Specialty Institute" src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wvc-1496749786/images/asiLogo.png" style="max-height: 50px;">
+<div class="margin-left-20">
+<small>asi member #363639</small>
 </div>
-<div class="clearfix"></div>
 </div>
-<div class="span3 footer_block image_list">
-<h4>
-Find Us
-</h4>
-<ul class="social">
-<li><a href="http://facebook.com/wordans" class="facebook" target="_blank">Facebook</a></li>
-<li><a href="https://twitter.com/WordansInc" class="twitter" target="_blank">Twitter</a></li>
-<li><a href="http://instagram.com/wordans" class="instagram" target="_blank">Instagram</a></li>
-</ul>
-</div>
-<div class="span3 footer_block">
-<div class="footer_customer">
-<h4>
+<div class="col-md-3 col-sm-6">
+<h4 class="text-uppercase">
 About
 </h4>
-<ul>
-<li><a href="/payment-methods">Payment methods</a></li>
-<li><a href="/display/about_us">About Us</a></li>
-<li><a href="/display/shipping_information">Shipping Information</a></li>
-<li><a href="/display/contact">Contact</a></li>
-<li><a href="/display/return_policy">Return Policy</a></li>
-<li><a href="/display/terms_conditions">Terms &amp; Conditions</a></li>
+<ul class="footer-links list-unstyled">
+<li><span data-crypt="true" onclick="decode64AndRedirect('L3BheW1lbnQtbWV0aG9kcw==');">Payment methods</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L2Rpc3BsYXkvYWJvdXRfdXM=');">About Us</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L2FmZmlsaWF0ZS9iZWNvbWVfZXh0X2FmZmlsaWF0ZQ==');">Affiliate Programme</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L2Rpc3BsYXkvc2hpcHBpbmdfaW5mb3JtYXRpb24=');">Shipping Information</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L2Rpc3BsYXkvY29udGFjdA==');">Contact</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L2Rpc3BsYXkvcmV0dXJuX3BvbGljeQ==');">Return Policy</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L2Rpc3BsYXkvdGVybXNfY29uZGl0aW9ucw==');">Terms &amp; Conditions</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('L2Rpc3BsYXkvcGFnZS9iZXN0LXByaWNlcw==');">Best Price Guarantee</span></li>
+<li><span data-crypt="true" onclick="decode64AndRedirect('aHR0cDovL3d3dy5yZXNlbGxlcnJhdGluZ3MuY29tL3N0b3JlL3N1cnZleS9Xb3JkYW5z');">Satisfied? Leave feedback</span></li>
 </ul>
 </div>
-</div>
-<div class="span3 footer_block">
-<h4>
+<div class="col-md-3 col-sm-6">
+<h4 class="text-uppercase">
 Contact us 24/7
 </h4>
-<div class="phone_number">
-<i class="icon_phone"></i>
-<span>
-<a href="/display/contact">1 866 843 2319</a>
+<address>
+<ul class="list-unstyled">
+<li class="footer-sprite phone">
+<span data-crypt="true" onclick="decode64AndRedirect('L2Rpc3BsYXkvY29udGFjdA==');">1 866 843 2319</span>
+</li>
+<li class="footer-sprite email">
+<span data-crypt="true" onclick="decode64AndRedirect('bWFpbHRvOmNvbnRhY3RAd29yZGFucy5jb20=');">contact@wordans.com</span>
+</li>
+<li class="margin-bottom-20">
+<i class="fa fa-random size-18 margin-right-8"></i>
+<span data-crypt="true" onclick="decode64AndRedirect('L29yZGVy');" rel="nofollow">Order Tracking</span>
+</li>
+<li class="margin-bottom-20">
+<i class="fa fa-question-circle" style="font-size: 120%;"></i>
+<span data-crypt="true" onclick="decode64AndRedirect('L2Rpc3BsYXkvZmFxcw==');">FAQs</span>
+</li>
+<li class="footer-sprite address">
+Wordans USA
+<br>
+136 NE 4th Ave
+<br>
+Deerfield Beach, FL 33441
+</li>
+<div class="hidden-sm hidden-xs">
+<a href="https://www.resellerratings.com" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=47791','name','height=760,width=780,scrollbars=1');
+return false;">
+<img style="border:none;" src="//seals.resellerratings.com/seal.php?seller=47791" oncontextmenu="alert('Copying Prohibited by Law - ResellerRatings seal is a Trademark of Answers.com'); return false;"></a>
+</div>
+</ul>
+</address>
+</div>
+<div class="col-md-3 col-sm-6">
+<h4 class="text-uppercase">
+Find Us
+</h4>
+<span class="social-icon social-icon-light social-facebook" data-crypt="true" onclick="decode64AndRedirect('aHR0cDovL2ZhY2Vib29rLmNvbS93b3JkYW5z');" target="_blank"><i class="icon-facebook"></i>
+</span><span class="social-icon social-icon-light social-twitter" data-crypt="true" onclick="decode64AndRedirect('aHR0cDovL3R3aXR0ZXIuY29tL1dvcmRhbnNJbmM=');" target="_blank"><i class="icon-twitter"></i>
+</span><span class="social-icon social-icon-light social-instagram" data-crypt="true" onclick="decode64AndRedirect('aHR0cDovL2luc3RhZ3JhbS5jb20vd29yZGFucw==');" target="_blank"><i class="icon-instagram"></i>
+</span><span class="social-icon social-icon-light social-wordpress" data-crypt="true" onclick="decode64AndRedirect('aHR0cDovL3d3dy53b3JkYW5zLmNvbS9ibG9nLw==');" target="_blank" title="Blog"><i class="icon-wordpress"></i>
+</span><div class="newsletter_container">
+<div class="newsletter_form_container2">
+<form accept-charset="UTF-8" action="/display/subscribe_new_newsletter" condition="checkNewsletterForm();return false;" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div><div class="input-group">
+<span class="input-group-addon">
+<i class="fa fa-envelope"></i>
+</span>
+<input class="form-control newsletter_field" id="email_newsletter" name="email_newsletter" placeholder="Your email" required="" type="email">
+<span class="input-group-btn">
+<button class="btn btn-success newsletter_signup" type="submit">Sign up!</button>
 </span>
 </div>
-<div class="clearfix"></div>
-<div class="email hide">
-<a href="/display/contact">Email Us</a>
-</div>
-<img alt="Xintury - IT for Equity" src="https://www.wordans.com/wvc-1457366129/images/responsive/img_layout/xintury-white.png" style="margin-top: 15px;" width="120">
-<br>
-<br>
-<div class="newsletter_container">
-<div class="newsletter_form_container2">
-<form accept-charset="UTF-8" action="/display/subscribe_new_newsletter" condition="checkNewsletterForm();return false;" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-<input class="newsletter_field" id="email_newsletter" name="email_newsletter" placeholder="Your email" type="text">
-<input class="b_black newsletter_signup smallActionButton" type="submit" value="Sign up!">
-</form>
-</div>
+</form></div>
 <div id="newsletter_message"></div>
-</div>
-</div>
-<div class="footer_contact"></div>
-</div>
-<div class="clearfix"></div>
-</div>
-<div class="clearfix"></div>
-</div>
-<div class="clearfix"></div>
-<div class="container-fluid postfooter" style="height: auto;">
-<div class="container">
-<div class="row">
-<div class="span12" style="margin-left: 0px;">
-<center>
-<a href="/payment-methods"><img alt="UPS, USPS, Discover, Paypal, Mastercard, Visa, Amex" src="https://www.wordans.com/wvc-1457366129/images/responsive/img_layout/footer_us.png" style="margin-top: 8px;margin-bottom: 8px;" width="860"></a>
-</center>
+<div class="margin-top-10"><span class="padding-bottom-15" data-crypt="true" onclick="decode64AndRedirect('L29yZGVy');" rel="nofollow">Where is my order?</span></div>
+<div class="margin-top-20 margin-bottom-10">
+<script src="https://widget.resellerratings.com/widget/javascript/review/Wordans.js"></script>
 </div>
 </div>
 </div>
 </div>
-<div class="container-fluid lastfooter">
-<div class="container">
-<div class="row">
-<div class="span12">
-copyright 2016 - WORDANS.COM
-- All Right reserved. -
-<a href="/display/page/privacy-policy" id="privacyLink_text" rel="nofollow" title="Wordans T-shirt Privacy Policy">Privacy Policy</a>
--
-<a href="/display/page/terms-conditions" rel="nofollow" title="Wordans T-shirt Terms &amp; Conditions">Terms &amp; Conditions</a>
-</div>
+<div class="row margin-top-40 hidden-xs hidden-sm">
+<div class="col-md-8 col-md-offset-2 margin-bottom-0">
+<span data-crypt="true" onclick="decode64AndRedirect('L3BheW1lbnQtbWV0aG9kcw==');"><img alt="UPS, USPS, Discover, Paypal, Mastercard, Visa, Amex" class="img-responsive" src="https://wordans-mxelda46illwc0hq.netdna-ssl.com/wvc-1496749786/images/responsive/layout/footerUs.png" style="margin-top: 8px;margin-bottom: 8px;" width="860"></span>
 </div>
 </div>
 </div>
 </footer>
-<script src="/blank_products/autocomplete"></script>
-<style>.ui-autocomplete{z-index:1031;font-size:12px;max-height:400px;overflow-y:auto;overflow-x:hidden;}</style>
-<div style="position:absolute; bottom: 0px;">
- 
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 955977703;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/955977703/?value=0&amp;guid=ON&amp;script=0"/>
+<div class="col-md-12 text-center text-uppercase">
+Copyright 2017 - WORDANS.COM
+ - All Right reserved. - 
+<span data-crypt="true" id="privacyLink_text" onclick="decode64AndRedirect('L2Rpc3BsYXkvcGFnZS9wcml2YWN5LXBvbGljeQ==');" rel="nofollow" title="Wordans T-shirt Privacy Policy">Privacy Policy</span>
+ - 
+<span data-crypt="true" onclick="decode64AndRedirect('L2Rpc3BsYXkvcGFnZS90ZXJtcy1jb25kaXRpb25z');" rel="nofollow" title="Wordans T-shirt Terms &amp; Conditions">Terms &amp; Conditions</span>
 </div>
-</noscript>
+<script src="/blank_products/autocomplete" async="" defer=""></script>
+<style>
+.ui-autocomplete { z-index: 1031; font-size: 12px; max-height: 400px; overflow-y: auto; overflow-x: hidden; }
+</style>
+
+
+
+
+<div style="position:absolute; bottom: 0px;">
+
+
+
+
+
+  <!-- Code Google de la balise de remarketing -->
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 864523016;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+  </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+  </script>
+  <noscript>
+  <div style="display:inline;">
+  <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/864523016/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+  </noscript>
+
+
+</div>
+
+<div class="unsupported-container container hide">
+<div class="row">
+<div class="col-xs-6 col-xs-offset-3 padding-50 margin-top-80">
+<div class="en-US logo"></div>
+<p class="padding-top-20 main-message">
+<strong>Unsupported version of browser</strong>
+</p>
+<p class="padding-20">We suggest you to change it or upgrade to a higher version. Please contact us to <a href="mailto:contact@wordans.com">contact@wordans.com</a> if you are seeing this message with a recent browser version.</p>
+</div>
+</div>
 </div>
 <script>
-  //<![CDATA[
-    function do_search(base_url, search_val) {
-       var url = base_url;
-    
-       if(url == undefined || url == null){
-         var url = '';
-       }
-    
-       var search_terms = search_val.replace(/<\/?[^>]+>/gi, '').replace(/\+/, '').replace(/\?/, '').replace("%", '').replace(/ +/, '+').replace("/", '+');
-    
-       if (search_terms[0] == "+") {
-         search_terms = search_terms.substring(1);
-       }
-       if (search_terms[search_terms.length - 1] == "+") {
-         search_terms = search_terms.substring(0, search_terms.length - 1);
-       }
-    
-      return '/wholesale-clothing?q=' + search_terms;
-    }
-    
-    function form_search(base_url, form) {
-      return do_search(base_url, jQuery(this).find("input[type=text]").value.toLowerCase());
-    }
-    
-    function global_search(base_url) {
-      return do_search(base_url, jQuery("#search").val().toLowerCase());
-    }
-  //]]>
+  function do_search(base_url, search_val) {
+     var url = base_url;
+  
+     if(url == undefined || url == null){
+       var url = '';
+     }
+  
+     var search_terms = search_val.replace(/<\/?[^>]+>/gi, '').replace(/\+/, '').replace(/\?/, '').replace("%", '').replace(/ +/, '+').replace("/", '+');
+  
+     if (search_terms[0] == "+") {
+       search_terms = search_terms.substring(1);
+     }
+     if (search_terms[search_terms.length - 1] == "+") {
+       search_terms = search_terms.substring(0, search_terms.length - 1);
+     }
+  
+    return '/wholesale-clothing?q=' + search_terms;
+  }
+  
+  function form_search(base_url, form) {
+    return do_search(base_url, jQuery(this).find("input[type=text]").value.toLowerCase());
+  }
+  
+  function global_search(base_url) {
+    return do_search(base_url, jQuery("#search").val().toLowerCase());
+  }
 </script>
 
-<link href="//fonts.googleapis.com/css?family=Raleway:400,700,900" rel="stylesheet" type="text/css">
+
 
 </body></html>
