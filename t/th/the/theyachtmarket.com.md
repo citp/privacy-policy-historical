@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theyachtmarket.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127222515id_/http%3A//www.theyachtmarket.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyachtmarket.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075303id_/http%3A//www.theyachtmarket.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | TheYachtMarket
 
@@ -30,7 +30,7 @@ We hope that once you understand the measures we take to help ensure secure tran
 
 ## 4) Cookies
 
-For details on our use of cookies please [visit our cookies page here](https://web.archive.org/web/20161127222515id_/http%3A//www.theyachtmarket.com/legal/Cookies.aspx). 
+For details on our use of cookies please [visit our cookies page here](https://web.archive.org/web/20170606075303id_/http%3A//www.theyachtmarket.com/legal/Cookies.aspx). 
 
 TheYachtMarket.com Ltd is a company registered in England. Registered number 4666162.
 
