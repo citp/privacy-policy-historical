@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boldmethod.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126224457id_/https%3A//www.boldmethod.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldmethod.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062452id_/https%3A//www.boldmethod.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boldmethod
 
