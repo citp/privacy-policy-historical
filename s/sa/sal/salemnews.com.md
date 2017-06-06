@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salemnews.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202055236id_/http%3A//www.salemnews.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061119id_/http%3A//www.salemnews.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | salemnews.com
 
@@ -71,3 +71,7 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: Community Newspaper Holdings, Inc., Attn: Matthew I. Ipsan, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
 [](http://click.oo155.com/ViewLandingPage.aspx?pubids=2885|-6|5|69&digest=RzFLQ4slbPRIYbrzkREzHA&sysid=1&mobile=0)
+
+[](http://www.salemnews.com/magazines)
+
+Our magazines highlight people, places and events in our North Shore communities.
