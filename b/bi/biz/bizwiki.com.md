@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizwiki.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113211051id_/http%3A//www.bizwiki.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwiki.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074543id_/http%3A//www.bizwiki.com/privacy.htm) for the most accurate reproduction.*
 
 # Bizwiki | Privacy Policy
 
