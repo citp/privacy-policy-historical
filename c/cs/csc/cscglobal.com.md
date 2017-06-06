@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the cscglobal.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223130623id_/https%3A//www.cscglobal.com/service/csc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cscglobal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175301id_/https%3A//www.cscglobal.com/service/csc/privacy) for the most accurate reproduction.*
 
-# Privacy | Corporation Service Company
+# Privacy
 
-  * [Home](https://www.cscglobal.com/service/)
-  * [CSC](https://www.cscglobal.com/service/csc)
-  * Privacy 
+### CSC Privacy Policy
 
-
-
-### Corporation Service Company Privacy Policy
-
-At Corporation Service Company® (CSC® or we), we value your relationship and respect your trust. As a result, we have chosen to comply with the United States (U.S.) - European Union (EU) Privacy Shield Framework regarding the collection, use, and retention of personal data transferred from the European Union countries to the U.S. (Privacy Shield Framework). CSC has certified that it adheres to the Privacy Shield Principles of Notice, Choice, and Accountability for Onward Transfer, Security, Data Integrity, and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Program, and to view CSC’s certification, please visit <https://www.privacyshield.gov/>.
+At CSC®, we value your relationship and respect your trust. As a result, we have chosen to comply with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, regarding the collection, use, and retention of personal data transferred from the European Union countries and Switzerland to the U.S. CSC has certified that it adheres to the Privacy Shield Principles of Notice, Choice, and Accountability for Onward Transfer, Security, Data Integrity, and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Program, and to view CSC’s certification, please visit <https://www.privacyshield.gov/>.
 
 To view CSC’s Privacy Shield Framework Compliance Statement for Data Privacy, please click here: [https://www.cscglobal.com/service/csc/privacy.](https://www.cscglobal.com/service/csc/privacy#shield)
-
-CSC complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland to the U.S. CSC has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the U.S.-Swiss Safe Harbor and to view our certification page, please visit: <http://www.export.gov/safeharbor/>
 
 CSC is subject to the investigatory and enforcement authority of the United States Federal Trade Commission.
 
@@ -22,7 +14,7 @@ CSC is subject to the investigatory and enforcement authority of the United Stat
 
 This Privacy Policy explains how we handle and protect your personal and company data, how we gather this data, and how we manage this data to serve you. We may change this Policy from time to time as the need arises to accurately reflect how we gather and manage your personal data.
 
-All changes to this Policy will be effective upon posting to this website without any other notice to you. Use of the website following such changes constitutes your acceptance of the revised Privacy Policy then in effect. We encourage you to frequently visit this Privacy Statement for modifications. This Policy is effective as of September 30, 2016.
+All changes to this Policy will be effective upon posting to this website without any other notice to you. Use of the website following such changes constitutes your acceptance of the revised Privacy Policy then in effect. We encourage you to frequently visit this Privacy Statement for modifications. This Policy is effective as of May 20, 2017.
 
 1\. **Personal data**
 
@@ -52,7 +44,7 @@ We also periodically gather certain information automatically and store it in lo
 
 4.3. **Cookies**
 
-Corporation Service Company is committed to transparency when it comes to the technologies we use, and we’ve outlined below how we use cookies when you visit our website.Corporation Service Company is committed to transparency when it comes to the technologies we use, and we’ve outlined below how we use cookies when you visit our website.
+CSC is committed to transparency when it comes to the technologies we use, and we’ve outlined below how we use cookies when you visit our website.CSC is committed to transparency when it comes to the technologies we use, and we’ve outlined below how we use cookies when you visit our website.
 
 4.3.1. **What are cookies?**
 
@@ -62,11 +54,11 @@ By using our site, you consent to our cookie settings and agree that you underst
 
 Cookies can be removed from your browser in two ways: automatically (when they expire), or when you manually delete them. We’ve included more details below to help you understand what kinds of cookies we use and how you can manage them.
 
-4.3.2. **Why does Corporation Service Company use cookies?**
+4.3.2. **Why does CSC use cookies?**
 
 CSC’s primary reason for using cookies is to make our website work more effectively.
 
-4.3.3. **What kinds of cookies does Corporation Service Company use and why?**
+4.3.3. **What kinds of cookies does CSC use and why?**
 
   * Session cookies: These temporary cookies expire and are automatically erased whenever you close your browser. We use session cookies to grant our customers access to content and to enable commenting.
   * Persistent cookies: These usually have an expiration date in the distant future and remain in your browser until they expire or you manually delete them. Persistent cookies may be used for a variety of purposes including remembering our users’ preferences and choices when using our site or to target advertising.
@@ -77,7 +69,7 @@ CSC’s primary reason for using cookies is to make our website work more effect
 
 4.3.4. **What other cookies might you encounter on the CSC website?**
 
-We may also use third-party cookies on the site. In keeping with our policies, these session or persistent cookies are set only by trusted partners of Corporation Service Company.
+We may also use third-party cookies on the site. In keeping with our policies, these session or persistent cookies are set only by trusted partners of CSC.
 
 The third-party cookies we may use on our website may track site performance and usage, monitor chat sessions or a users’ location, or compile reports that help us improve the site. When you access our website, in certain jurisdictions, as required by law, you will receive a clear notice advising you that we intend to use cookies and that you must click an “I accept” box in order for cookies to be placed.
 
@@ -89,7 +81,7 @@ When you access our website outside of Europe, our system will automatically iss
 
 We do not use flash cookies (sometimes known as local shared objects or LSOs).
 
-4.3.6. **Does Corporation Service Company use cookies to sell customer information?**
+4.3.6. **Does CSC use cookies to sell customer information?**
 
 No.
 
@@ -146,9 +138,11 @@ Log files give us a general picture of who is visiting our website and which pag
 
 In some instances, we may be asked to disclose certain personal data pursuant to a court order, subpoena, search warrant, or law enforcement request. We may also disclose your information in order to enforce our terms of use or to protect the rights, property, or the personal safety of (in each case) us, our staff, customers, and others. In addition, we may disclose your information in order to permit us to pursue available remedies or limit the damages that we may sustain, to respond to an emergency, or in the event that we sell (or propose to sell) any property, business or assets, we may disclose your information to the prospective buyer under a confidentiality agreement. Please note that CSC may be required to release an individual’s personal information in response to lawful requests by public authorities, including to meet national security and law enforcement requirements.
 
-6.1. **Corporation Service Company affiliates and service providers**
+6.1. **CSC affiliates and service providers**
 
-We may disclose your personal data on a need-to-know basis to any member of our company group. Some affiliates of Corporation Service Company have their own websites with their own unique privacy policies, tailored to the services they provide. We encourage you to read those privacy policies carefully when you visit those affiliated sites.
+We may disclose your personal data on a need-to-know basis to any member of our company group to include the following: Corporation Service Company (CSC), CSC Corporate Domains Inc., Delaware Trust Company, CSC Entity Services LLC, Corptax Inc.,Tax Compliance Inc., The Company Corporation, eBrand Secure LLC.
+
+Some affiliates of CSC have their own websites with their own unique privacy policies, tailored to the services they provide. We encourage you to read those privacy policies carefully when you visit those affiliated sites.
 
 From time to time, we may engage our affiliated entities or other carefully selected third parties to provide services on our behalf, in particular to collect, process, and use your personal data as required to provide services to you. We may disclose your information to such service providers in compliance with applicable data protection law, and provided that they agree to use your information only for the purposes of providing the services. We will not disclose your personal data to a third party data controller without complying with the Privacy Shield Principles including those relating to notice and choice unless otherwise required by law.
 
@@ -166,7 +160,7 @@ We will promptly process your request, but you may continue to receive some comm
 
 8\. **Website links to other sites**
 
-For your convenience, our website may contain links to websites that are owned or operated by third parties not affiliated with Corporation Service Company. We can make no promises or guarantees regarding personal data collection or privacy practices on websites that are not owned or operated by Corporation Service Company. We strongly suggest that you review each such third parties’ privacy policies before providing any personal data to them. These other sites may send their own cookies to users, collect data, or solicit personal data. You should contact these entities directly if you have any questions about their use of the information that they collect.
+For your convenience, our website may contain links to websites that are owned or operated by third parties not affiliated with CSC. We can make no promises or guarantees regarding personal data collection or privacy practices on websites that are not owned or operated by CSC. We strongly suggest that you review each such third parties’ privacy policies before providing any personal data to them. These other sites may send their own cookies to users, collect data, or solicit personal data. You should contact these entities directly if you have any questions about their use of the information that they collect.
 
 9\. **Steps we take to ensure your privacy**
 
@@ -178,7 +172,7 @@ We use firewalls to secure the perimeter of our information network and monitor 
 
 9.2. **Data security**
 
-An authentication and authorization mechanism based on user identification (ID) and password is used to restrict access to information on Corporation Service Company’s websites. Each authenticated user only has access to the information that he or she is authorized to use. We use physical, administrative, and technical procedures to limit access to personal information.
+An authentication and authorization mechanism based on user identification (ID) and password is used to restrict access to information on CSC’s websites. Each authenticated user only has access to the information that he or she is authorized to use. We use physical, administrative, and technical procedures to limit access to personal information.
 
 9.3. **Transaction security**
 
@@ -226,55 +220,21 @@ CSC users who report suspected or known security events that may jeopardize the 
 
 Any questions, complaints, access requests, and any other issues arising under the Privacy Shield Framework should be directed first to CSC’s Information Security and Privacy Team directly at [InformationSecurity@cscglobal.com](mailto:InformationSecurity@cscglobal.com).
 
-In compliance with the EU-U.S. Privacy Shield Principles, CSC commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact CSC at [InformationSecurity@cscglobal.com](mailto:InformationSecurity@cscglobal.com).
+In compliance with the EU ans Swiss-U.S. Privacy Shield Principles, CSC commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact CSC at [InformationSecurity@cscglobal.com](mailto:InformationSecurity@cscglobal.com).
 
-CSC has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles to BBB EU Privacy Shield, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-Privacy-Shield/for-eu-consumers/ for more information and to file a complaint.
+CSC has further committed to refer unresolved privacy complaints under the EU-U.S. and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU Privacy Shield, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-Privacy-Shield/for-eu-consumers/ for more information and to file a complaint.
 
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. For additional information, see https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
+If your complaint is not satisfactorily addressed, and your inquiry or complaint involves human resource data transferred from the EU in the context of the employment relationship, you may have your complaint considered by an independent recourse mechanism: for EU/EEA Data Subjects, a panel established by the EU data protection authorities ("DPA Panel"), and for Swiss Data Subjects, the Swiss Federal Data Protection and Information Commissioner ("FDPIC"). To do so, you should contact the state or national data protection or labor authority in the jurisdiction where you work. CSC agrees to cooperate with the relevant national DPAs and to comply with the decisions of the DPA Panel and the FDPIC.
 
-CSC commits to cooperate with the panel established by the EU data protection authorities and to comply with the advice given by the panel with regard to human resources data transferred from the EU in the context of the employment relationship.
+Should your complaint remain fully or partially unresolved after a review by CSC, BBB EU Privacy Shield and the relevant DPA, you may be able to, under certain conditions, seek arbitration before the Privacy Shield Panel. For more information, please visit [www.privacyshield.gov](https://www.cscglobal.com/service/www.privacyshield.gov).
 
 14\. **Controller and local representatives**
 
-Corporation Service Company, 2711 Centerville Road, Wilmington, DE 19808, United States, acts as controller in the meaning of the Directive 95/46/EC when collecting, processing, and using personal data collected through this website. Our local representative in the United Kingdom is Corporation Service Company (UK) Limited, 40 Bank Street, 29th Floor, London E14 5DS, United Kingdom. Our local representative in Germany is Corporation Service Company (DBS) GmbH, Borsigstrasse 20, 65205 Wiesbaden, Germany.
+CSC, 251 Little Falls Drive, Wilmington, DE 19808, United States, acts as controller in the meaning of the Directive 95/46/EC when collecting, processing, and using personal data collected through this website. Our local representative in the United Kingdom is Corporation Service Company (UK) Limited, 40 Bank Street, 29th Floor, London E14 5DS, United Kingdom. Our local representative in Germany is Corporation Service Company (DBS) GmbH, Borsigstrasse 20, 65205 Wiesbaden, Germany.
 
 Complaints or concerns about this Policy should be directed to our legal department who can be contacted at +1 (302) 636-5400. We will investigate and attempt to resolve such complaints in accordance with the principles contained in this Policy.
 
-<https://www.cscglobal.com/service/csc/safe-harbor>
-
-**U.S. - Swiss Safe Harbor Compliance Statement**
-
-**U.S. - Swiss Safe Harbor Compliance Statement for Data Privacy**
-
-At Corporation Service Company (CSC), we recognize the importance of securing the private information of our customers, employees, and business partners, and we strive to safeguard the personal information (defined below) we collect and use. This U.S. - Swiss Safe Harbor Compliance Statement for Data Privacy (Statement) sets out the privacy principles published by the U.S. Department of Commerce as part of the Safe Harbor Framework relating to personal information transferred from Switzerland to the United States.
-
-CSC complies with the U.S. - Swiss Safe Harbor Framework regarding the collection, use, and retention of personal information from Switzerland. CSC certifies that it adheres to the U.S. - Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view CSC’s certification, please visit www.export.gov/safeharbor/.
-
-CSC complies with these principles insofar as they are applicable to CSC’s business. CSC shall not be responsible for the compliance of its customers in Switzerland or the data privacy laws and regulations of any country.
-
-**Definitions**
-
-Certain words and phrases are defined within this Statement. In addition, the words set out below have the following meaning:
-
-  * “Personal information” or “personal data” means any information or set of information that identifies an individual, or could be used by or on behalf of CSC to identify an individual. Personal information does not include information which is encrypted or anonymous.
-
-
-
-**Seven Safe Harbor privacy principles**
-
-  1. Notice – Companies collecting personal data must notify data subjects that they are collecting their personal data, and state the purpose for collecting such data. The company must identify to whom the data will be disclosed and provide notice about how data subjects can contact the company with complaints or questions and how disclosure of their personal information can be limited.
-  2. Choice – The data subjects must be given a clear and conspicuous choice to opt-out of allowing their information to be disclosed to third parties or used for a purpose which is incompatible with the purpose for which it was originally collected or subsequently authorized by the individual. For sensitive information, data subjects must be given the affirmative or explicit choice whether their information is given to a third party or purpose other than its original purpose or the purpose authorized subsequently by the individual.
-  3. Onward transfer of data to third parties – Where a company or organization wishes to transfer information to a third party, it must apply the “notice” and “choice” principles. Where a company or organization wishes to transfer to a third party acting as agent, it may do so if it first either ascertains that the third party subscribes to the Safe Harbor, is subject to the Swiss or some other qualifying rule, or enters into a written agreement with the third party requiring the third party to provide at least the same level of privacy protection as is required by the Safe Harbor. If a company meets this requirement, it will not be held responsible if the third party handles data in a way contrary to any restrictions or representations, unless the company knew or should have known that the third party would process the data in such a contrary way and took no reasonable steps to prevent or stop such activity. As an alternative, the organization can enter into a written agreement with the third party requiring that the third party provide at least the same level of privacy protection as is required by these principles.
-  4. Access – Companies must allow data subjects to access their personal data and to correct erroneous information, unless the burden of providing access is greater than the risks associated with the erroneous information or giving access to the information would violate another person’s rights. This requirement is subject to the reasonableness standard. In the event a data subject corrects their personal data, the Company will ensure such changes are updated in the corresponding records storage at CSC.
-  5. Security – Companies must take reasonable measures to protect personal information from tampering, destruction, loss, misuse, alteration, disclosure, unauthorized access, and any other potential abuses.
-  6. Data integrity – Companies collecting personal data must have reasonable procedures designed to keep the information reliable, accurate, complete, current, and relevant for the lawful purposes for which it was collected.
-  7. Enforcement – Three elements are required to satisfy this principle: (a) readily affordable and independent recourse mechanisms so that each individual’s complaints and disputes can be investigated and resolved, and damages awarded where the applicable law or private sector initiatives so provide; (b) procedures for verifying that the commitments companies make to adhere to the Safe Harbor Principles have been implemented; and (c) obligations to remedy problems arising out of failure to comply with the principles. Sanctions must be sufficiently rigorous to ensure compliance by the organization.
-
-
-
-In compliance with the U.S.-Swiss Safe Harbor Principles, CSC commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact CSC at [InformationSecurity@cscglobal.com](mailto:InformationSecurity@cscglobal.com).
-
-CSC has further committed to refer unresolved privacy complaints under the U.S. - Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+At CSC, we recognize the importance of securing the private information of our customers, employees, and business partners, and we strive to safeguard the personal information.
 
 With regard to unresolved privacy complaints involving human resources data, CSC will cooperate and comply with the advice of the Swiss Federal Data Protection and Information Commissioner regarding employee data of Swiss citizens collected in the context of the employment relationship.
 
@@ -285,5 +245,3 @@ See https://www.cscglobal.com/service/csc/privacy for details of:
   * CSC’s chosen Independent Recourse Mechanism for the investigation of unresolved complaints regarding CSC’s compliance with the Privacy Shield Framework and Principles, including contact details for such Independent Recourse Mechanism.
 
 
-
-**Our commitment to protecting your privacy is summarized in the policy below.**
