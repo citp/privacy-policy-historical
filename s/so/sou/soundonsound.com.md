@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230412id_/http%3A//www.soundonsound.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123907id_/http%3A//www.soundonsound.com/information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sound On Sound
+# Privacy Policy |
 
 Sound On Sound Ltd is part of the SOS Publications Group (collectively, "SOS", "we" or "our"), and we understand the importance of our customers' privacy. This Privacy Policy tells you what information we collect about you when you visit this website (our "Site") or use an online application or mobile device app. Our Privacy Policy also tells you how we use, share and protect this information; what choices you have about how this information is used; and how you can access and update this information.
 
 This Privacy Policy relates to the following SOS-owned websites and mobile device apps:
 
-[soundonsound.com](http://soundonsound.com/)
+  * [soundonsound.com](http://soundonsound.com/)
+  * [sos-smartguides.com](http://sos-smartguides.com/)
+  * [sosawards.com](http://sosawards.com/)
+  * All of our Apple iOS device apps
+  * All of our Android device apps
 
-[sos-smartguides.com](http://sos-smartguides.com/)
 
-[sosawards.com](http://sosawards.com/)
-
-All of our Apple iOS device apps
-
-All of our Android device apps
-
-All of our Windows device apps
 
 These sites/device apps are owned and run by the SOS Publications group of companies. Some services and/or features mentioned below may not be available on all our sites/device apps.
 
@@ -30,7 +26,7 @@ SOS gathers two types of information about users: data that users provide throug
 
 If you are interested in obtaining information, products or services from SOS, or in participating in certain activities on this Site or via one of our apps, you may need to provide us with information about yourself. For example:
 
-  * If you order a product from us, we ask for your name, postal address, email address, telephone number and your credit card number.
+  * If you order a product from us, we ask for your name, postal address, email address, telephone number and your credit/debit card number.
   * If you are ordering a product as a gift for another person, we will ask you for that person's name, postal address and phone number in order to enable us to deliver the gift to the recipient.
   * If you participate in an activity such as a Survey or Competition, we may also ask you to provide other types of information such as gender, personal interests or future buying preferences which we may associate with personally identifiable information that we have obtained about you.
 
