@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youripfast.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008023627id_/http%3A//www.findyouripfast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youripfast.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064122id_/http%3A//find.youripfast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
