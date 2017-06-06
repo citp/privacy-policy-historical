@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phplivesupport.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107192435id_/http%3A//www.osicodesinc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phplivesupport.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104732id_/http%3A//www.osicodesinc.com/privacy.php) for the most accurate reproduction.*
 
 # OSI Codes Inc. - Privacy Policy
 
@@ -60,6 +60,6 @@ Changes to our Privacy Policy
 
 If changes to our privacy policy is made, we will update the Privacy Policy modification date below. 
 
-Privacy policy last updated on Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/vhosts/osicodesinc.com/privacy.php on line 98 Aug 22, 2016
+Privacy policy last updated on Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/vhosts/osicodesinc.com/privacy.php on line 99 Apr 7, 2017
 
 Contact Us
