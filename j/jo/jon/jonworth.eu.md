@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jonworth.eu privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508182713id_/https%3A//jonworth.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonworth.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163139id_/https%3A//jonworth.eu/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies – Jon Worth
+# Privacy & Cookies - Jon Worth Euroblog
 
 I am strongly committed to protecting the privacy of users of this website, and do all that I can to protect user information.
 
@@ -67,3 +67,5 @@ _
 ii) Log files_
 
 Log files allow me to record visitors’ use of the site. These logs are automatically generated from all our visitors, which I use to make improvements to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information about you.
+
+This blog uses a small number of cookies for basic functionality. Accept [Find out more](https://jonworth.eu/privacy/)
