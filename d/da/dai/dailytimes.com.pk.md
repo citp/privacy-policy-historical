@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dailytimes.com.pk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132252id_/http%3A//dailytimes.com.pk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytimes.com.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173248id_/http%3A//dailytimes.com.pk/policy) for the most accurate reproduction.*
 
-# Dailytimes | Privacy Policy
+# DailyTimes | Privacy Policy
 
 **Privacy policy:**  
 Privacy Policy of Daily Times deals with the collection, use and disclosure of Personal Information when you use our Service. The information gathered when you interact with the Daily Times Services falls into two categories: 1) Personal information, which includes personal information you supply when you subscribe, order, complete a survey, register for one of our sites, enter a contest or provide your email address and 2) Non-personal information collected through technology, which includes tracking information collected by us as well as third parties. ****
 
-At dailytimes.com.pk, users data is collected for the following reasons.  
+At dailytimes.com, users' data is collected for the following reasons.  
 
   * Privacy policy provides personalised services unique to individual users.
   * Privacy policy monitors and improves the services offered.
@@ -23,6 +23,8 @@ At dailytimes.com.pk, users data is collected for the following reasons.  
   * We facilitate our users by making the data online; that is through internet they can access data on our site from any part of the world through internet. ****
 
 
+
+**How we use your information**
 
 **What information do we collect?**  
 We collect our users' information after they register and start using our website. We also collect information through cookies, sales promotions that users enter. Similarly, we also collect information through Apps that our users download. 
@@ -47,6 +49,9 @@ We collect our users' information after they register and start using our websit
 
             We may use demographic and preference information to allow advertising on the Daily Times Service to be targeted to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We disclose information to third parties only in aggregate or de-identified form.
 
+**Logging in using social networking credentials**  
+As a user, if you log in to Daily Times through your Facebook account, you allow the Daily Times to access your user details which include your name, email address, date of birth and location. In this way, Daily Times forms an account of the user by taking details from the social media.  If you remove the Daily Times app from your Facebook settings, our access to this additional information will cease. Same is the case with Twitter too. 
+
 **Use of children's data:**  
 Daily Times does not knowingly collect or store any personal information about children under the age of 16. 
 
@@ -68,13 +73,13 @@ Without cookies, as a user, you might not be able to use all our services on the
 
 **About our advertising**
 
-As far as advertisement is concerned on our website, we focus on targeted advertising in which we try to entertain our users with those advertisements which are according to their interests. As our users browse dailytimes.com.pk.pk, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages our users are interested in. This information which we collect about behavior on your computer enables us to group it with other computers that show similar behavior. We can then display advertising to your computer, which is based on these interests. For instance if you have been reading a lot about fashion we may decide to show you more adverts of fashion.
+As far as advertisement is concerned on our website, we focus on targeted advertising in which we try to entertain our users with those advertisements which are according to their interests. As our users browse dailytimes.com, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages our users are interested in. This information which we collect about behavior on your computer enables us to group it with other computers that show similar behavior. We can then display advertising to your computer, which is based on these interests. For instance if you have been reading a lot about fashion we may decide to show you more adverts of fashion.
 
 **Other Advertising**  
-dailytimes.com.pk.pk contains contextual affiliate links from which we may earn revenue. Our articles are neither influenced by advertisers nor are they written for the promotion of their products except when clearly branded as a 'sponsored feature' or 'advertisement feature' or 'sponsor's content'.
+Dailytimes.com contains contextual affiliate links from which we may earn revenue. Our articles are neither influenced by advertisers nor are they written for the promotion of their products except when clearly branded as a 'sponsored feature' or 'advertisement feature' or 'sponsor's content'.
 
 **Legal information and how to contact us**  
-For the purposes of data protection please contact muhammad.asim@dailytimes.com.pk
+For the purposes of data protection please contact Asimzoom@gmail.com
 
 If you would like to obtain a copy of the personal data we hold on you, or have any queries regarding DMG use of personal data please contact the Data Protection Manager at the above address.  
 **Changes to the privacy policy:**  
