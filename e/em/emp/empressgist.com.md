@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the empressgist.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214033453id_/http%3A//empressgist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empressgist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063208id_/http%3A//empressgist.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | EMPRESS GIST
+# PRIVACY POLICY – EMPRESS GIST
 
 1\. All User information supplied by Users of Empressgist.com as defined under this Terms & Conditions is covered by the Data Protection Act 1998.  
 2\. Users can amend information provided at any time by contacting admin@Empressgist.com.  
@@ -13,7 +13,7 @@
 9\. Empressgist.com Limited reserves the right to update and change this Privacy Policy at any time. However, Empressgist.com Limited will not use information submitted by a User under this current notice in a way not currently described herein without also notifying the User of such change, and giving the User an opportunity to opt-out, or otherwise prevent that new use of your information.  
 10\. If you have any questions concerning this Privacy Policy or would like us to amend or do away with your details please contact us at admin@Empressgist.com
 
-**Cookies & 3rd Party Advertisements**
+ **Cookies & 3rd Party Advertisements**
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
