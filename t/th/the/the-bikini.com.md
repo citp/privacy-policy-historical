@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123181156id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103849id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # the-Bikini.com Information page. Micro bikinis for sexy women
 
@@ -6,21 +6,6 @@
   
   
   
-  
-  
-
-
-Intimate Shaver
-
-The ultimate intimate areas shaving tool for men and women!  
-  
-
-
-The [Body Bare](http://www.personalshavers-affiliates.com/b.asp?ID=1005 "get a perfect shave now") will shave your pubic area closer, easier and most importantly safer than anything else on the market...period! .
-
-It does not bite, cause bumps, discomfort or ingrown hairs. This is the BEST WOMEN or MEN'S razor in the world!   
-[ ](http://www.personalshavers-affiliates.com/b.asp?ID=1005 "perfect intimate shave")
-
   
   
 
@@ -91,4 +76,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20161123181156id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20170606103849id_/http%3A//www.the-bikini.com/contact/). 
