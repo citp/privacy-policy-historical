@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roommates.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113004712id_/http%3A//www.roommates.com/privacy.rs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roommates.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034147id_/http%3A//www.roommates.com/privacy.rs) for the most accurate reproduction.*
 
 # Roommates.com - Privacy Statement
 
@@ -59,9 +59,9 @@ We may also provide Aggregate Information about our customers’ sales, traffic 
 We believe you should have the ability to access and edit the PII that you have provided to us. You may change any of your PII in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this Site. You may also access and correct your personal information and privacy preferences by emailing or writing us at:
 
 Roommates.com  
-10115 E. Bell Rd  
-Ste 107 PMB 195  
-Scottsdale, AZ 85260  
+7904 E Chaparral Rd  
+Ste A110 PMB 473  
+Scottsdale, AZ 85250  
 Attn: Privacy Compliance Officer  
 Email: support@roommates.com
 
@@ -101,6 +101,6 @@ If you have any questions, concerns or inquiries about our Privacy Policy, or ou
 Roommates.com
 
 Attn: Privacy Compliance Officer  
-10115 E. Bell Rd  
-Ste 107 PMB 195  
-Scottsdale, AZ 85260
+7904 E Chaparral Rd  
+Ste A110 PMB 473  
+Scottsdale, AZ 85250
