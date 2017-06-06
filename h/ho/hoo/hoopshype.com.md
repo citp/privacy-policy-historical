@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoopshype.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233834id_/http%3A//hoopshype.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopshype.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030402id_/http%3A//hoopshype.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HoopsHype
 
