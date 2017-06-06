@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lawyersclubindia.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120170442id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyersclubindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111246id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# PRIVACY POLICY Lawyersclubindia - Law, Lawyers, Advocates, Law Firms,Legal Help, Legal Experts,Judgements, Social Network for Lawyers, Legal Community, Law Help, Indian Lawyers
+# PRIVACY POLICY
 
 At Lawyersclubindia.com, we value our Site Visitors and Store Members, and respect your right to privacy. We do not engage in SPAM, nor do we share the personal contact information of our stores, visitors, or their friends, relatives, and associates with third parties. The following information provides more detail about our Privacy Policy.
 
@@ -11,8 +11,7 @@ Since Lawyersclubindia.com is only a guide service for Site Visitors using the I
 
 Any other personally identifiable information, including names, addresses, telephone numbers and email addresses, received by Lawyersclubindia.com from Site Visitors is exclusively and voluntarily submitted on the part of the visitor via email. Personally identifiable information provided in such correspondence is not stored at our website, is only used for responding to the respective query, and is otherwise not used for marketing promotions, SPAM or any other purpose. Site Visitors who do not want their personally identifiable information made available to Lawyersclubindia.com should not submit such information. 
 
-**  
-Site Usage, Searches and Click-Throughs**  
+**Site Usage, Searches and Click-Throughs**  
 Statistics about site usage, searches and click-throughs gathered by Lawyersclubindia.com are collected in an aggregate format only. This information is used to assess traffic to the website, and to report search and click-through information to individual Store Members. 
 
 **Log Files**  
