@@ -1,11 +1,28 @@
-> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221051645id_/http%3A//www.kinesissurvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042549id_/http%3A//www.kinesissurvey.com/privacy-policy) for the most accurate reproduction.*
 
 # Kinesis Privacy Policy
 
-This privacy policy is effective May 1, 2013. 
+This privacy policy is effective May 1, 2013.
 
 **Purpose and Scope**  
 This policy discloses what information Kinesis Survey Technologies LLC gathers about you when you visit kinesissurvey.com. It describes how we use that information and how you can control it. It does NOT pertain to information gathered within survey instruments or by joining survey panels that may utilize our software. For information about how the data in a particular survey or panel is being used, please contact email support for that particular site/project.
+
+### Privacy Shield Policy
+
+FVW complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member companies. FVW has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+
+The United States Federal Trade Commission (FTC) is the enforcement authority with jurisdiction over this compliance with the Privacy Shield.
+
+In compliance with the EU-US Privacy Shield Principles, FVW commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact FVW at:
+
+Privacy Officer  
+FocusVision Worldwide, Inc.  
+1266 East Main Street  
+Stamford, CT 06902
+
+FVW has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
 **Information About What Kinesis Survey Technologies LLC Gathers and Tracks**  
 Kinesis Survey Technologies LLC collects two kinds of information about users:
@@ -60,17 +77,14 @@ You can review and validate the information, that we have collected about you vi
 **Use of Kinesis Software by Licensees-Protection of Data by Kinesis**  
 Kinesis Survey Technologies, LLC licenses software to businesses that conduct market research on consumers and business decision makers. The Kinesis software provides the researcher with tools to program and deploy online and mobile surveys and provides the tools necessary to build, maintain, and reward panels of individual participants.
 
-  The companies that license the Kinesis software can program and deploy online and mobile surveys and manage online panels. They invite individuals to give their opinions on a wide variety of research subjects. The invitees may come from an established research panel, a customer list, a purchased email list, banner ads, or other recruiting methods. Personal data such as name, email and physical address, age, gender, profession, income, and other demographic data are often collected in order to support research conclusions about certain subsets of survey respondents and to be able to fulfill rewards for participation that are often a part of the research process.
+The companies that license the Kinesis software can program and deploy online and mobile surveys and manage online panels. They invite individuals to give their opinions on a wide variety of research subjects. The invitees may come from an established research panel, a customer list, a purchased email list, banner ads, or other recruiting methods. Personal data such as name, email and physical address, age, gender, profession, income, and other demographic data are often collected in order to support research conclusions about certain subsets of survey respondents and to be able to fulfill rewards for participation that are often a part of the research process.
 
-  The Kinesis software is most often hosted in the US at a secure data center in Austin, TX. Kinesis Survey Technologies LLC has arranged for this hosting as part of the service customers receive when licensing Kinesis software. Therefore, EU citizens that participate in research panels and surveys prepared and managed by companies that license Kinesis software may have personal data stored on servers located in the US at the Austin, TX data center.
+The Kinesis software is most often hosted in the US at a secure data center in Austin, TX. Kinesis Survey Technologies LLC has arranged for this hosting as part of the service customers receive when licensing Kinesis software. Therefore, EU citizens that participate in research panels and surveys prepared and managed by companies that license Kinesis software may have personal data stored on servers located in the US at the Austin, TX data center.
 
-  When licensees deploy surveys and panels we will not access or allow unauthorized access to licensee created data or provide it to any third parties unless specifically requested by the licensee or required to by law.
+When licensees deploy surveys and panels we will not access or allow unauthorized access to licensee created data or provide it to any third parties unless specifically requested by the licensee or required to by law.
 
-  Kinesis Survey Technologies LLC utilizes a PCI level 1 compliant with SAS70 type 2 certification data center and extensive hardware and managerial procedures to protect from unauthorized access, copying, manipulation, or forwarding of data stored on our servers. We require our licensees to comply with CAN-SPAM and other professional standards when using Kinesis services and software. Kinesis Survey Technologies LLC reserves the right to suspend access should it come to our attention that a licensee is violating US or other country privacy or other laws of which we are aware (such as EU safe harbor principals) in its use of Kinesis software. Kinesis Survey Technologies LLC cannot be held responsible should it not discover or become aware that its software use by a licensee may violate US or other country laws.
-
+Kinesis Survey Technologies LLC utilizes a PCI level 1 compliant with SAS70 type 2 certification data center and extensive hardware and managerial procedures to protect from unauthorized access, copying, manipulation, or forwarding of data stored on our servers. We require our licensees to comply with CAN-SPAM and other professional standards when using Kinesis services and software. Kinesis Survey Technologies LLC reserves the right to suspend access should it come to our attention that a licensee is violating US or other country privacy or other laws of which we are aware (such as EU safe harbor principals) in its use of Kinesis software. Kinesis Survey Technologies LLC cannot be held responsible should it not discover or become aware that its software use by a licensee may violate US or other country laws.  
 **US/EU Safe Harbor Adherence**
-
- ****
 
 **Kinesis Survey Technologies LLC adheres to the Safe Harbor framework developed by the Department of Commerce in coordination with the European Commission**. The Safe Harbor framework promotes data security and privacy protection and includes procedures to insure that the terms and conditions are adhered to and supported by those companies who have agreed to the terms and conditions of Safe Harbor and have formally certified as such. Kinesis Survey Technologies LLC has secured the services of The Better Business Bureaus (BBB EU Safe Harbor Program) to provide an independent recourse mechanism should a complaint remain unresolved regarding Kinesis Survey Technologies LLC’s compliance with the standards set forth in the safe harbor framework.
 
