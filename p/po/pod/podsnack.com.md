@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podsnack.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024215747id_/http%3A//www.snacktools.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podsnack.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215125id_/http%3A//www.snacktools.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # SnackTools | Creative web applications
 
