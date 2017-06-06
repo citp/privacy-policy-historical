@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnaplan.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122035918id_/http%3A//apnaplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnaplan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053019id_/http%3A//apnaplan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for ApnaPlan | ApnaPlan.com – Personal Finance Investment Ideas
 
