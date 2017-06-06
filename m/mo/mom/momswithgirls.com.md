@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momswithgirls.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608170309id_/http%3A//www.momswithgirls.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswithgirls.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050633id_/http%3A//www.momswithgirls.com/privacy-statement) for the most accurate reproduction.*
 
 # Moms With Girls Privacy Statement
 
@@ -119,7 +119,7 @@ Note, the Moms With Girls website is controlled and operated by HDGroup, LLC, 
 
 ## 8\. Access and Changes to Your Personal Information; Data Integrity.
 
-You may access your Personal Information by logging into your Moms With Girls account. Moms With Girls may limit access where providing such access is unreasonably burdensome or expensive or as otherwise permitted. You may change any of your Personal Information by editing your profile or by sending an [e-mail](https://web.archive.org/web/20160608170309id_/http://www.momswithgirls.com/privacy-statement/webmaster@misso.com) to Moms With Girls.  You may request deletion of your Personal Information by Moms With Girls, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete the account information, it will be deleted from the active database, but may remain in our archives. Moms With Girls takes reasonable steps to ensure that your Personal Information is relevant for the purposes for which it is to be used, reliable for its intended use, and accurate, complete and current. Moms With Girls depends on you to update and correct your Personal Information to the extent necessary for the purposes for which it was collected and subsequently authorized by you. 
+You may access your Personal Information by logging into your Moms With Girls account. Moms With Girls may limit access where providing such access is unreasonably burdensome or expensive or as otherwise permitted. You may change any of your Personal Information by editing your profile or by sending an [e-mail](https://web.archive.org/web/20170606050633id_/http://www.momswithgirls.com/privacy-statement/webmaster@misso.com) to Moms With Girls.  You may request deletion of your Personal Information by Moms With Girls, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete the account information, it will be deleted from the active database, but may remain in our archives. Moms With Girls takes reasonable steps to ensure that your Personal Information is relevant for the purposes for which it is to be used, reliable for its intended use, and accurate, complete and current. Moms With Girls depends on you to update and correct your Personal Information to the extent necessary for the purposes for which it was collected and subsequently authorized by you. 
 
 ## 9\. Privacy Statement Updates
 
@@ -133,4 +133,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 If you have any questions or concerns about **Mom** **s With Girls’ Privacy Statement** , please contact us: [pbrindak@missoandfriends.com](mailto:pbrindak@missoandfriends.com)
 
-### Comments
+[](https://www.pinterest.com/pin/create/button/)
