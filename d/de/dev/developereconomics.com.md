@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developereconomics.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325122104id_/http%3A//www.developereconomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developereconomics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190814id_/https%3A//www.developereconomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Developer Economics
 
@@ -40,7 +40,7 @@ We only collect information which is necessary for the operation of our web site
 
 ### 6\. External Web Sites
 
-****This privacy policy only applies to our web site(s). Our web site(s) may contain links to external web sites. Please note that we are not responsible for the privacy practices of other web sites. We recommend that you check the privacy policy of any other web sites you may visit through our web sites.
+ ****This privacy policy only applies to our web site(s). Our web site(s) may contain links to external web sites. Please note that we are not responsible for the privacy practices of other web sites. We recommend that you check the privacy policy of any other web sites you may visit through our web sites.
 
 ### 7\. Changes to Privacy Policy
 
