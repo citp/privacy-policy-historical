@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeview.com.au privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119002349id_/http%3A//www.freeview.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeview.com.au privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606060807id_/http%3A//www.freeview.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -27,9 +27,11 @@
     <link type="text/css" rel="stylesheet" href="/css/font-awesome.css">
     <link type="text/css" rel="stylesheet" href="/css/main.css">
     <link type="text/css" rel="stylesheet" href="/css/flickity.css">
+    <link type="text/css" rel="stylesheet" href="/css/jquery.smartbanner.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/css/jasny-bootstrap.min.css">
     <!-- STYLESHEETS -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,100,100italic,200,200italic,300,300italic,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" rel="stylesheet" type="text/css">
+
     <script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -46,8 +48,18 @@
     
 
 
+
+
 </head>
-<body ng-app="freeViewApp" ng-controller="mainController" scrolltvguide="">
+<body ng-app="freeViewApp" ng-controller="mainController"> <!-- scrolltvguide-->
+    <!--
+    <div class="apps-accordion" ng-class="{'show':tvGuideShow}">
+        <img src="/images/assets/cross.png" class="close-ac" ng-click="closeAppsAccordion()">
+        <ul>
+	       <li><a href="https://itunes.apple.com/au/app/freeview-fv/id1157860275?mt=8"/><img src="http://freeviewcdn.azureedge.net/images/assets/Apple.png"/></a></li>
+	       <li><a href="https://play.google.com/store/apps/details?id=au.com.freeview.fv&hl=en"/><img src="http://freeviewcdn.azureedge.net/images/assets/google.png"/></a></li>
+	    </ul>
+    </div> -->
     <div class="region-accordion" ng-class="{'show':accordionShow}">
 	     <img src="/images/assets/cross.png" class="close-ac" ng-click="closeAccordion()">
 	     <p><span>UNLOCK CONTENT </span>SELECT YOUR REGION TO VIEW WHATS'ON</p>
@@ -71,15 +83,14 @@
 
     <nav id="top-nav" class="navbar-collapse hidden-xs">
 	    <ul class="nav navbar-nav nav-menu">
-                <li class="page-item"><a href="/">Home</a></li>
-                <li class="page-item"><a href="/freeviewplus/">FreeviewPlus</a></li>
-                <li class="page-item"><a href="/freeviewfv/">FreeviewFV</a></li>
+                    <li class="page-item"><a href="/">Home</a></li>
+                    <li class="page-item"><a href="/freeview-plus/">Freeview Plus</a></li>
+                    <li class="page-item"><a href="/freeviewfv/">Freeview FV</a></li>
                     <li class="nav-logo-li"><a href="/" class="nav-logo"><img src="/images/logo.png" alt=""></a></li>
-                <li class="page-item"><a href="/tv-guide/">TV guide</a></li>
-                <li class="page-item"><a href="/catch-up/">Catch up</a></li>
-                <li class="page-item"><a href="/about/">About</a></li>
-                <li class="page-item"><a href="/contact/">Contact</a></li>
-            
+                    <li class="page-item"><a href="/tv-guide/">TV guide</a></li>
+                    <li class="page-item"><a href="/catch-up/">Catch up</a></li>
+                    <li class="page-item"><a class="faq" href="/about/#/menu0" target="">FAQ</a></li>
+                    <li class="page-item"><a class="news" href="/about/#/menu1">News &amp; Events</a></li>
         </ul>
 	    <ul class="social-icon nav navbar-nav">
                 <li>
@@ -99,12 +110,12 @@
       </button>
       <ul class="nav navmenu-nav">
               <li class="page-item"><a href="/">Home</a></li>
-              <li class="page-item"><a href="/freeviewplus/">FreeviewPlus</a></li>
-              <li class="page-item"><a href="/freeviewfv/">FreeviewFV</a></li>
+              <li class="page-item"><a href="/freeview-plus/">Freeview Plus</a></li>
+              <li class="page-item"><a href="/freeviewfv/">Freeview FV</a></li>
               <li class="page-item"><a href="/tv-guide/">TV guide</a></li>
               <li class="page-item"><a href="/catch-up/">Catch up</a></li>
-              <li class="page-item"><a href="/about/">About</a></li>
-              <li class="page-item"><a href="/contact/">Contact</a></li>
+              <li class="page-item"><a href="/about/#/menu0">FAQ</a></li>
+              <li class="page-item"><a href="/about/#/menu1">News &amp; Events</a></li>
       </ul>
     </nav>
     <div class="navbar navbar-default navbar-fixed-top navbar-freeview navbar-collapse">
@@ -215,7 +226,9 @@
 	    <div class="modal-content">
 	      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><img src="http://freeviewcdn.azureedge.net/images/assets/cross-ads.png"></span></button>
 	      <div class="modal-body ads">
-	        <img src="http://freeviewcdn.azureedge.net/images/assets/ad_nocross_nobuttons.jpg">
+	        <!--<img src="http://freeviewcdn.azureedge.net/images/assets/ad_nocross_nobuttons.jpg"/>-->
+            <img src="/images/assets/popup-banner.png" class="globalAds">
+            <img src="/images/assets/banner-tvguide.png" class="tvGuideAds">
 	        <ul class="storeLink">
 	        	<li><a href="https://itunes.apple.com/au/app/freeview-fv/id1157860275?mt=8"><img src="http://freeviewcdn.azureedge.net/images/assets/Apple.png"></a></li>
 	        	<li><a href="https://play.google.com/store/apps/details?id=au.com.freeview.fv&amp;hl=en"><img src="http://freeviewcdn.azureedge.net/images/assets/google.png"></a></li>
@@ -244,127 +257,99 @@
         <div class="channel-logo-container">
                     <div class="channel-logo">
                         <a href="http://www.abc.net.au/tv/" onclick="trackOutboundChannelLink('http://www.abc.net.au/tv/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1836/abc_wbg_75.png" alt="ABC_WBG_75.png"></a>
-
+                    </div>
+                    <div class="channel-logo">
+                        <a href="http://www.abc.net.au/tv/" onclick="trackOutboundChannelLink('http://www.abc.net.au/tv/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/2214/abc-hd.png" alt="ABC-HD.png"></a>
                     </div>
                     <div class="channel-logo">
                         <a href="http://www.abc.net.au/tv/channels/abc2.htm" onclick="trackOutboundChannelLink('http://www.abc.net.au/tv/channels/abc2.htm'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1837/abc2_wbg_75.png" alt="ABC2_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://www.abc.net.au/abcforkids/" onclick="trackOutboundChannelLink('http://www.abc.net.au/abcforkids/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1838/abckids_wbg_75.png" alt="ABCKids_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://www.abc.net.au/abc3/" onclick="trackOutboundChannelLink('http://www.abc.net.au/abc3/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1839/abcme_wbg_75.png" alt="ABCMe_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
-                        <a href="http://www.abc.net.au/news/abcnews24/" onclick="trackOutboundChannelLink('http://www.abc.net.au/news/abcnews24/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1809/abcnews_wbg_75.png" alt="ABCNews_WBG_75.png"></a>
-
+                        <a href="http://www.abc.net.au/news/abcnews24/" onclick="trackOutboundChannelLink('http://www.abc.net.au/news/abcnews24/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/2164/abc_news_24_wbg_75.png" alt="ABC_News_24_WBG_75.png"></a>
                     </div>
                     <div class="channel-logo">
                         <a href="http://www.sbs.com.au/" onclick="trackOutboundChannelLink('http://www.sbs.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1816/sbs_wbg_75.png" alt="SBS_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://www.sbs.com.au/guide/channel/SBSHD/" onclick="trackOutboundChannelLink('http://www.sbs.com.au/guide/channel/SBSHD/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1818/sbshd_wbg_75.png" alt="SBSHD_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://www.sbs.com.au/ondemand/channels/sbs-two" onclick="trackOutboundChannelLink('http://www.sbs.com.au/ondemand/channels/sbs-two'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1866/viceland_75x75.jpg" alt="Viceland_75x75.jpg"></a>
-
+                    </div>
+                    <div class="channel-logo">
+                        <a href="http://www.sbs.com.au/ondemand/channels/sbs-two" onclick="trackOutboundChannelLink('http://www.sbs.com.au/ondemand/channels/sbs-two'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/2200/untitled-2.png" alt="Untitled-2.png"></a>
                     </div>
                     <div class="channel-logo">
                         <a href="http://www.sbs.com.au/ondemand/channels/food-network" onclick="trackOutboundChannelLink('http://www.sbs.com.au/ondemand/channels/food-network'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1822/sbsfood_wbg_75.png" alt="SBSFood_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://www.sbs.com.au/nitv/" onclick="trackOutboundChannelLink('http://www.sbs.com.au/nitv/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1819/sbsnitv_wbg_75.png" alt="SBSNITV_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://au.tv.yahoo.com/" onclick="trackOutboundChannelLink('https://au.tv.yahoo.com/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1831/7_wbg_75.png" alt="7_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://au.tv.yahoo.com/" onclick="trackOutboundChannelLink('https://au.tv.yahoo.com/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1829/7hd_wbg_75.png" alt="7HD_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://au.tv.yahoo.com/plus7/browse/channel/7two/" onclick="trackOutboundChannelLink('https://au.tv.yahoo.com/plus7/browse/channel/7two/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1865/7two_wbg_75x75.jpg" alt="7two_WBG_75x75.jpg"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://au.tv.yahoo.com/plus7/browse/channel/7mate/" onclick="trackOutboundChannelLink('https://au.tv.yahoo.com/plus7/browse/channel/7mate/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1832/7mate_wbg_75.png" alt="7Mate_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://au.tv.yahoo.com/plus7/browse/channel/7mate/" onclick="trackOutboundChannelLink('https://au.tv.yahoo.com/plus7/browse/channel/7mate/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1830/7mate_wbg2_75.png" alt="7Mate_WBG2_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://au.tv.yahoo.com/" onclick="trackOutboundChannelLink('https://au.tv.yahoo.com/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1828/7flix_wbg_75.png" alt="7Flix_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://www.racing.com/" onclick="trackOutboundChannelLink('https://www.racing.com/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1815/racing_wbg_75.png" alt="Racing_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://www.9now.com.au/" onclick="trackOutboundChannelLink('https://www.9now.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1833/9_wbg_75.png" alt="9_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://www.9now.com.au/" onclick="trackOutboundChannelLink('https://www.9now.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1834/9hd_wbg_75.png" alt="9HD_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://www.9now.com.au/" onclick="trackOutboundChannelLink('https://www.9now.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1811/go_wbg_75.png" alt="Go_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://www.9now.com.au/" onclick="trackOutboundChannelLink('https://www.9now.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1813/gem_wbg_75.png" alt="Gem_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://www.9now.com.au/" onclick="trackOutboundChannelLink('https://www.9now.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1812/life_wbg_75.png" alt="Life_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://www.nbntv.com.au/" onclick="trackOutboundChannelLink('http://www.nbntv.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1814/nbn_wbg_75.png" alt="NBN_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://www.9now.com.au/" onclick="trackOutboundChannelLink('https://www.9now.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1810/extra_wbg_75.png" alt="Extra_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://tenplay.com.au/" onclick="trackOutboundChannelLink('http://tenplay.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1820/ten_wbg_75.jpg" alt="Ten_WBG_75.jpg"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://tenplay.com.au/" onclick="trackOutboundChannelLink('http://tenplay.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1824/tenhd_wbg_75.png" alt="TenHD_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://tenplay.com.au/channel-one#One" onclick="trackOutboundChannelLink('http://tenplay.com.au/channel-one#One'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1826/tenone_wbg_75.png" alt="TenOne_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://tenplay.com.au/channel-one#Eleven" onclick="trackOutboundChannelLink('http://tenplay.com.au/channel-one#Eleven'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1823/teneleven_wbg_75.png" alt="TenEleven_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="https://www.itvsn.com.au/" onclick="trackOutboundChannelLink('https://www.itvsn.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1827/tentvsn_wbg_75.png" alt="TenTVSN_WBG_75.png"></a>
-
                     </div>
                     <div class="channel-logo">
                         <a href="http://tenplay.com.au/" onclick="trackOutboundChannelLink('http://tenplay.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1825/tenspree_wbg_75.png" alt="TenSpree_WBG_75.png"></a>
-
-                    </div>
-                    <div class="channel-logo">
-                        <a href="http://www.tendarwin.com.au/" onclick="trackOutboundChannelLink('http://www.tendarwin.com.au/'); return false;" target="_blank"><img src="http://freeviewcdn.azureedge.net//media/1821/tendarwin_wbg_75.png" alt="TenDarwin_WBG_75.png"></a>
-
                     </div>
             <div class="square">  </div>
             <div class="square hidden-xs">  </div>
@@ -372,7 +357,7 @@
             <div class="square hidden-xs">  </div>
             <div class="square hidden-xs">  </div>
 
-            </div>
+        </div>
     </div>
 
 <script>
@@ -391,17 +376,17 @@
 			<div class="col-md-2 col-sm-2">
 			    <div class="newsletter-form">
                     <h2>Newsletter</h2>
-                    <form id="newsletterForm" action="http://freeviewaustralia.createsend.com/t/d/s/xdkul/" method="post">
+                    <form id="newsletterForm" action="http://freeviewaustralia.createsend.com/t/d/s/xdkul/" method="post" novalidate="novalidate" class="bv-form"><button type="submit" class="bv-hidden-submit" style="display: none; width: 0px; height: 0px;"></button>
                         <div class="form-group">
                             <input type="text" placeholder="First Name" id="fieldName" name="cm-name" required="" data-error="Please
-                            enter a First Name">
-                        </div>
+                            enter a First Name" data-bv-field="cm-name">
+                        <small class="help-block" data-bv-validator="notEmpty" data-bv-for="cm-name" data-bv-result="NOT_VALIDATED" style="display: none;">Please fill in this field</small><small class="help-block" data-bv-validator="regexp" data-bv-for="cm-name" data-bv-result="NOT_VALIDATED" style="display: none;">Please enter a valid name</small></div>
                         <div class="form-group">
-                            <input type="text" placeholder="Last Name" id="fielddiltdi" name="cm-f-diltdi" required="">
-                        </div>
+                            <input type="text" placeholder="Last Name" id="fielddiltdi" name="cm-f-diltdi" required="" data-bv-field="cm-f-diltdi">
+                        <small class="help-block" data-bv-validator="notEmpty" data-bv-for="cm-f-diltdi" data-bv-result="NOT_VALIDATED" style="display: none;">Please fill in this field</small><small class="help-block" data-bv-validator="regexp" data-bv-for="cm-f-diltdi" data-bv-result="NOT_VALIDATED" style="display: none;">Please enter a valid name</small></div>
                         <div class="form-group">
-                            <input type="email" placeholder="Email Address" id="fieldEmail" name="cm-xdkul-xdkul" required="">
-                        </div>
+                            <input type="email" placeholder="Email Address" id="fieldEmail" name="cm-xdkul-xdkul" required="" data-bv-field="cm-xdkul-xdkul">
+                        <small class="help-block" data-bv-validator="emailAddress" data-bv-for="cm-xdkul-xdkul" data-bv-result="NOT_VALIDATED" style="display: none;">Please enter a valid Email Address</small><small class="help-block" data-bv-validator="notEmpty" data-bv-for="cm-xdkul-xdkul" data-bv-result="NOT_VALIDATED" style="display: none;">Please enter a value</small></div>
                         <input type="submit" value="SUBSCRIBE" placeholder="Email Address">
                     </form>
                 </div>
@@ -413,7 +398,7 @@
 	
 
 <section class="news-section">
-    <span>LATEST NEWS:</span><p><a href="/about/news-and-events/states-of-undress/">States of Undress | Friday 18 November 2016</a></p>
+    <span>LATEST NEWS:</span><p><a href="/about/news-and-events/offspring-s7/">Offspring | Tuesday 06 June 2017</a></p>
 </section>
 	<!-- End Red Bar News -->
 
@@ -438,11 +423,11 @@
 
     <div class="col-md-4 col-sm-4">
         <ul>
-		        <li><a href="/freeviewplus/">FreeviewPlus</a></li>
+		        <li><a href="/freeview-plus/">Freeview Plus</a></li>
 		        <li><a href="/tv-guide/">TV Guide</a></li>
 		        <li><a href="/catch-up/">Catch Up</a></li>
 		        <li><a href="/about/">About</a></li>
-		        <li><a href="/freeviewplus-terms-of-use/">FreeviewPlus Terms of Use</a></li>
+		        <li><a href="/freeviewplus-terms-of-use/">Freeview Plus Terms of Use</a></li>
 		        <li><a href="/contact/">Contact Us</a></li>
 		        <li><a href="/privacy-policy/">Privacy Policy</a></li>
 	    </ul>
@@ -466,8 +451,8 @@
 <!-- End Footer -->
 
 <!-- SCRIPTS -->
-<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="/bower_components/jquery/dist/jquery.min.js"></script>
+<!--<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>-->
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/angularjs-slider/2.8.0/rzslider.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-cookies.js"></script>
@@ -497,7 +482,7 @@
 
 <script type="text/javascript" src="/scripts/chosen.jquery.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery.bxslider.min.js"></script>
-
+<script type="text/javascript" src="/scripts/jquery.smartbanner.js"></script>
 
 <!-- SCRIPTS -->
 
@@ -507,5 +492,48 @@
 
 
 <!-- END ADDITIONAL SCRIPTS -->
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+ var pvar = { cid: "au-freeview", content: "0", server: "secure-au" };
+ var trac = nol_t(pvar);
+ trac.record().post();
+</script>
+<noscript>
+   <div>
+     <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=au-freeview&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+   </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<script type="text/javascript">
+    if ($(window).width() < 768) {
+
+        var android = location.href.match(/#android$/) || navigator.userAgent.match(/Android/i) != null;
+        $.smartbanner({
+            title: 'Freeview FV', // What the title of the app should be in the banner (defaults to <title>)
+            author: 'Freeview Australia Limited', // What the author of the app should be in the banner (defaults to <meta name="author"> or hostname)
+            price: 'GET', // Price of the app
+            appStoreLanguage: 'us', // Language code for App Store
+            inAppStore: 'On the App Store', // Text of price for iOS
+            inGooglePlay: 'In Google Play', // Text of price for Android
+            icon: android ? '//lh3.googleusercontent.com/oZn0MO4FoIS-2KRMOU4AuzyWQntb1jrvXDowQQke_ROpGHD7UZI1pASRRHoJNiGjag=w300-rw' : 'http://is5.mzstatic.com/image/thumb/Purple111/v4/f9/77/fb/f977fb21-8cf6-f34e-b0b6-8ab16da3f61b/source/175x175bb.jpg', // The URL of the icon (defaults to <link>)
+            iconGloss: true, // Force gloss effect for iOS even for precomposed (true or false)
+            button: 'VIEW', // Text on the install button
+            scale: 'auto', // Scale based on viewport size (set to 1 to disable)
+            speedIn: 300, // Show animation speed of the banner
+            speedOut: 400, // Close animation speed of the banner
+            daysHidden: 1, // Duration to hide the banner after being closed (0 = always show banner)
+            daysReminder: 1, // Duration to hide the banner after "VIEW" is clicked (0 = always show banner)
+            force: android ? 'android' : 'ios', // Choose 'ios', 'android' or 'windows'. Don't do a browser check, just always show this banner
+            hideOnInstall: false, // Hide the banner after "VIEW" is clicked.
+            layer: false, // Display as overlay layer or slide down the page
+            iOSUniversalApp: true, // If the iOS App is a universal app for both iPad and iPhone, display Smart Banner to iPad users, too.      
+            appendToSelector: 'body' //Append the banner to a specific selector
+        });
+
+    }
+
+</script>
 
 </body></html>
