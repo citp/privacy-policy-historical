@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localwineevents.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113021640id_/http%3A//www.localwineevents.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localwineevents.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190912id_/http%3A//www.localwineevents.com/about/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy: LocalWineEvents.com : Wine, Food, Beer, Or Spirits
 
