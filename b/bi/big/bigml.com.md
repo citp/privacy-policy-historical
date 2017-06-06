@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bigml.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701061407id_/https%3A//bigml.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigml.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211314id_/https%3A//bigml.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BigML.com
+# Terms of Service | BigML.com
 
-Last updated: January 17th, 2012 
+Welcome to BigML!
 
-## Welcome to BigML!
+PLEASE READ THIS POLICY CAREFULLY BEFORE USING THE SERVICES OFFERED BY BIGML INC (“BIGML”)
 
-PLEASE READ THIS POLICY CAREFULLY BEFORE USING THE SERVICES OFFERED BY BIGML INC (“BIGML”).
+Last updated: January 17th, 2012
 
 Your privacy is important to BigML. We have developed a Privacy Policy that covers the information BigML collects and stores, how BigML uses personal information, how BigML shares, transfers or discloses, your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions. 
 
