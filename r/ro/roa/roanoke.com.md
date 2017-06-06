@@ -1,216 +1,101 @@
-> *The following text is extracted and transformed from the roanoke.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617232202id_/http%3A//www.roanoke.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roanoke.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162739id_/http%3A//www.roanoke.com/site/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy, terms and conditions | roanoke.com
+# Privacy Policy | Site | roanoke.com
 
-Updated Jan. 10, 2013
+For each visitor to the Web site, BH MEDIA's servers automatically collect information about which pages are visited and the domain name of visitors. This information is used for internal review, to tailor information to individual visitors and for Web site traffic audits. We also provide this information (as well as information from third-party market researchers) about our users on an aggregated, anonymous basis to our advertisers.
 
-This Privacy Policy discloses the privacy practices for roanoke.com and all associated websites owned and operated by Times-World LLC, based in Southwestern Virginia. For the purposes of this Privacy Policy, unless otherwise noted, all references to “roanoke.com” include smithmountainlake.com, roanoketimes.com and all roanoke.com-powered websites.
+BH MEDIA may place a "cookie" on the browser of your computer. The cookie itself does not contain any personally identifying information. A cookie may be used to tell when your computer has contacted the Web site. BH MEDIA uses the information for editorial purposes and for other purposes such as delivery of features and advertisements, so BH MEDIA can customize delivery of information to you without compromising privacy. For example, cookies may be used to ensure that you will not see the same banner advertisement too often in a single session.
 
-We’ve adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, as are underlying business models. We will regularly re-evaluate this policy, and we reserve the right to change these guidelines at any time. Any such changes will be posted on this page in a timely manner. Please note that roanoke.com may contain links to other websites for your convenience and information. We are not responsible for the privacy practices or the content of those sites. We encourage you to review the privacy policy of any company before submitting your personal information.
+BH MEDIA may, in the course of providing services through its Web sites, ask you to disclose voluntarily certain information about yourself. This could include information that identifies you or your household. Any information in BH MEDIA's possession solely as a result of your use of the Web site and that is associated with you or your household is considered "Personal Information." It consists of both information supplied by you (e.g. name, address, telephone number and e-mail address) and information collected about how you use the Web site (e.g. the fact that you have bought merchandise through the Web site). 'Personal Information' does not include statistical data about large numbers of users, none of whom are identifiable, nor does it include information that you have posted for public view on the Web site or otherwise publicly disclosed.
 
-This statement and the policies outlined here are not intended to and do not give you any contractual or other legal rights. For questions or comments regarding this policy, please contact us at [customer@roanoke.com](mailto:customer@roanoke.com) or by mail at: Online Editor, The Roanoke Times, 201 W. Campbell Ave. Roanoke, Va. 24010.
+Like many other commercial sites, our site may utilize an electronic file called a Web beacon to count users who have visited a page or recognize users by accessing certain cookies. Our site and/or the Web sites of advertisers and merchants with which we have a relationship may use Web beacons (a) for auditing purposes and to collect information from the Web sites of certain advertisers or merchants; (b) to report anonymous individual and/or aggregate information about our users from such advertisers or merchants. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with such advertisers or merchants. You may choose to opt-out by contacting us in accordance with the information set forth at the bottom of this policy.
 
-  
+How does the Web site use the information it gathers?
 
+Information collected on the Web site, including traffic patterns and user behavior, is used primarily for the following purposes:
 
-### How and why we collect information from users
+    Internal research. The Web site is continuously assessing how visitors use the site. This data assists us in making decisions about how to improve the site and to better serve our users. Research data are aggregated and do not include data about specific individuals. We may share aggregated research (but not individual user information) with our advertisers or business partners. Additionally, the Web site may use your information to contact you to ask for your participation in a focus group, survey, or some other type of research effort.
 
-We collect limited amounts and types of personal information from users of our sites. The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your email address and 2) tracking information collected as you navigate through our sites.
+    To customize your experience on the Web site. As the Web site improves its service, it may offer users more opportunities to customize content and other aspects of the site. Information provided by you may be used to assist in the customization process, if you elect to participate in these features.
 
-  
+    To tailor advertising efforts. Most of the information and services available to you at the Web site are free. In order to continue providing services free of charge, the Web site sells advertising. Advertisers prefer to target their communication toward audiences who are most likely to be interested in their products. The information gathered on the Web site helps us advise advertisers in general terms about certain aspects of site visitors (e.g. how visitors use the site, general demographic attributes of visitors, usage patterns on various parts of our site, etc.). This information helps both advertisers and the Web site make better decisions about where to place advertising. This information may also be used to send targeted marketing, such as emails, to users that we think would be interested in such marketing. Visitors who choose to conduct financial transactions with advertisers on the Web site may also provide specific data to those advertisers during the process of their transactions. Additionally, any information provided during the purchase on the Web site of products or services will result in the collection of certain information required to complete the transaction.
 
+    To use third party service providers. We provide some services and products through third parties. These third party service providers may perform functions on our behalf, like sending out and distributing promotional emails. We may share your personally identifiable information with such service providers as necessary to allow those service providers to fulfill orders, send mail or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Web site, troubleshoot, or provide customer service. We may also collect personal information from individuals and companies with whom we have business relationships ("Affiliates") and may share your information with service providers to accomplish our administrative tasks. For example, when you order a service, the third party payment processor we use releases your credit card information to the card-issuing bank to confirm payment for the service. The use of your personally identifiable information by these third parties is governed by the privacy policies of these third parties and is not subject to our control.
 
-### Personal information
+More specifically, here is how the Web site may use information you provide:
 
-How we collect and store user personal information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our sites without providing any information. Other pages may prompt you to provide information, such as when you register for services or access to portions of our sites, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription, complete a survey or make a purchase. You may also provide information when you participate in a promotion, sweepstakes, contest or voting and polling activities or when you post comments to blogs, message boards and chat rooms and other interactive areas of our sites. We and/or our third-party partners may use this information to process and maintain your account and compile demographic statistics about our users. Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose personal information on our sites, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of roanoke.com and this policy.
+    E-mail addresses. If you supply the Web site with your e-mail address, either by registering on the site, by communicating with us via e-mail, or signing up for promotional offers or emails we may, from time to time, send you information that we believe would be of interest to you via e-mail. This information may be from the Web site or sent by us on behalf of one of our quality advertisers. Note: If we send you e-mail on behalf of another company, your personally identifiable information is not disclosed to that company unless you purchase a product or service from that company in which case it may need your information to fulfill your purchase. Rather, the company provides us with the information it wants to send, and we prepare and send the e-mail directly to you. We may use a third party service provider to manage or send emails on our behalf, but that third party is only authorized to use your information as necessary to send our email to you and it is not authorized to sell or transfer your information.
 
-  
+    Postal addresses. If you supply the Web site with your postal address, we may send you periodic mailings with information on new products, coming events, surveys or other research materials, or other information we think might be of interest to you.
 
+    Telephone numbers. If you provide your telephone number or cell phone number, the Web site may call or text you regarding orders you have placed online, to tell you about new products, services, or coming events, or to offer other information that may interest you. Additionally, the Web site or one of its agents may call you for research purposes.
 
-### Email newsletters
+    Sale transaction information. From time to time, we provide offers from our advertisers who, as part of their offer, request information on customers who purchased their offer in order to allow the advertiser to fulfill the purchase. In those cases, we share some of your personally identifiable information with that advertiser. Sharing this Information may allow that advertiser to market directly to you should it choose to do so. However, we will only share personally identifiable information with an advertiser if you provide us that information and enter into a transaction with that advertiser on or through our Web site. We are not responsible or liable for the actions of such advertiser.
 
-If you choose to receive them, roanoke.com will periodically send you email newsletters or promotional email about services offered by roanoke.com and our advertisers.
+    Business transfer. We may also share your information in the case our business is sold or transferred. If this occurs, the successor company would acquire the information we maintain, including personally identifiable information.
 
-  
+Except as necessary to process your requests or orders placed with advertisers or merchants featured on the Web site, or as otherwise described above, BH MEDIA does not rent, sell, barter or give away any lists containing Personal Information for use by any outside company. BH MEDIA also respects the privacy of data on your personal computer and does not access, read, upload or store data contained in or derived from your private files without your authorization.
 
+Facebook Connect
 
-### Mobile messaging service
+Our Web site may allow users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends' News Feeds. If you are logged into our Web site and Facebook, when you click on "Connect with Facebook" your profiles will merge if the email addresses match. If the email addresses don't match, we ask you if you want to merge them and you must enter your Web site password to validate that they control that account. If you are already logged into our Web site but not logged into Facebook, when you click on "Connect with Facebook" you will be prompted to enter your Facebook credentials or to "Sign up for Facebook." By proceeding you are allowing the Web site to access your information and you are agreeing to the Facebook Terms of Use in your use of our Web site. Similar access to your information may occur if the Web site allows users to access other social applications similar to Facebook.
 
-Roanoke.com uses the information collected from your interaction with our sites by Text Messaging Service (SMS) (“SMS Service”) solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed to Third Parties, except as required by law, nor will we use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage, and their practices are governed by their own privacy policies.
+Conversely, if you are not currently registered as an the Web site user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join the Web site. Once you register on our Web site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into "My Profile" and clicking on "My Facebook Profile." Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.
 
-  
+NewsRight
 
+This Web site uses services provided by NewsRight, LLC. NewsRight is based in the United States and collects content usage information and may use cookies and/or clear GIFs in conjunction with this activity. Your continued readership of this site means you accept the privacy policy of NewsRight. Please refer to the NewsRight privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx>for further information.
 
-### Aggregate information collected
+Links
 
-Like most websites, we also collect and aggregate information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use “cookie” technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our sites. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the sites and to take advantage of most personalized services offered. Additionally we may not be able to customize the sites’ features according to your preferences.
+The BH MEDIA site contains links to other sites. BH MEDIA is not responsible for the privacy practices or the content of such Web sites, including any sites that may indicate a special relationship or partnership with BH MEDIA (such as co-branded pages or "powered by" or "in cooperation with" relationships). BH MEDIA does not disclose personally identifiable information or unique identifiers to those responsible for the linked sites. The linked sites, however, may collect personal information from you that is not subject to BH MEDIA's control. To ensure protection of your privacy, always review the privacy policy of the sites you may visit by linking from the BH MEDIA site.
 
-  
+Opt Out Procedures
 
+You always may opt out of receiving future mailings or other information from BH MEDIA. If the mailing does not have an e-mail cancellation form, send us an e-mail the type of information that you no longer desire to receive.
 
-### Third-party advertising companies
+You may opt out of any or all contacts from the Web site at any time. All e-mails sent to you from the Web site will allow you to opt out of any further e-mail from us. You may e-mail us at [DKlemencic@worldmediaenterprise.com](mailto:DKlemencic@worldmediaenterprise.com) to opt out of our email programs. You may also write or call us at the following address and phone number to notify us regarding use of your information: 333 Franklin Street, Richmond, VA 23219; phone: 804.649.6588.
 
-We use an advertising server to display ads on roanoke.com. In addition, advertisers may elect to use third-party advertising companies to serve ads onto our websites. In the course of serving these advertisements, the third-party advertisers may place or recognize a unique “cookie” on your browser. We do not have access to these cookies or any information that they may contain. We do not control the placement or the acceptance of cookies from domains other than roanoke.com.
+When you register on the Web site, you will be given the opportunity to opt out of further communication from us.
 
-We use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. We and some third-party vendors, including Google, use first-party and third-party cookies together to inform, optimize, and serve ads based on someone’s past visits to your website. To learn more about advertising targeting technology or to opt out from being tracked by participating advertising companies, visit [http://www.aboutads.info](http://www.aboutads.info/).
+You may accept certain kinds of contact and decline others. For example, you may choose to accept e-mails, but not postal mail or telephone calls.
 
-  
+If, at any time in the future, the Web site decides to use information provided by you in a way not described here, we will contact you beforehand to explain the use of the information and give you the opportunity to decline that use.
 
+Children's Privacy
 
-### Third-party analytic systems
+The following additional terms, conditions and notices apply to use of the Web site by children under the age of 13 years whenever BH MEDIA becomes aware that a user is in that age range:
 
-Roanoke.com is currently using Google Analytics to track and analyze aggregated usage and volume statistical information from our visitors and customers to help us administer our websites and constantly improve their quality. All data collected is owned and used by roanoke.com, and we reserve the right to publish non-personally identifiable, summary information regarding its website visitors for promotional purposes and as a representative audience for advertisers. We reserve the right to change the vendors who provide us with usage data.
+    Users under 13 years of age may not submit or post information on the Web site without the consent of the user's parent or legal guardian. Prior to collecting any personal information about a child under 13, BH MEDIA makes reasonable efforts to obtain consent from the child's parent after informing the parent about the types of information BH MEDIA will collect, how it will be used, and under what circumstances it will be disclosed.
 
-  
+    Although BH MEDIA will apply these children's terms and conditions whenever it becomes aware that a user who submits Personal Information is less than 13 years old, no method is foolproof. BH MEDIA strongly encourages parents and guardians to supervise their children's online activities and consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent children from disclosing online their name, address, and other personal information without parental permission.
 
+    "Personal information" collected from children may include any of the information defined above as "Personal Information" with respect to general users of the Web site and may be used by BH MEDIA for the same purposes. Except as necessary to process a child's requests or orders placed with advertisers or merchants featured on the Web site, BH MEDIA does not rent, sell, barter or give away any lists containing a child's Personal Information for use by any outside company.
 
-### Credit cards
+    If a child enters a game, contest or other activity sponsored by BH MEDIA on the Web site, the child may be required by BH MEDIA to provide the minimum Personal Information reasonably necessary for the child to participate in such activity.
 
-Credit card information will be provided to third parties only to provide products and services that you order. We may use the contact information you provide to contact you about your account and/or to send you necessary information directly related to the product(s) or service(s) for which you have registered. Times-World LLC maintains compliance with the Payment Card Industry Data Security Standards (PCI-DSS) for all payment card transactions that occur within the roanoke.com domain. With your permission, we may use your contact information to inform you of new features and special offers from us. We will not provide your contact information to unaffiliated third parties without your express permission. As part of the registration process, you have the option to inform us that you do not wish to receive information about other special offers and promotions.
+    A child's parent or legal guardian may request BH MEDIA to provide a description of the Personal Information that BH MEDIA has collected from the child, as well as instruct BH MEDIA to cease further use, maintenance and collection of Personal Information from the child.
 
-  
+    If a child voluntarily discloses his or her name, e-mail address or other personally-identifying information on chat areas, bulletin boards or other forums or public posting areas, such disclosures may result in unsolicited messages from other parties.
 
+Cancellation & Refund Policies
 
-### Affiliated sites, linked sites and advertisements
+A subscription to any of our products can be cancelled at any time. Subscriber refunds will be issued within two weeks of cancellation for the entire credit balance on the account at the time of cancellation. Refunds will be issued per the original method of payment. 
 
-We expect our partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our sites may have their own privacy and data collection policies and practices with terms that differ from the terms in our Privacy Policy, and that we do not control. For example, during your visit to our sites you may link to, or view as part of a frame on a page, certain content that is actually created or hosted by a third party. Also, through roanoke.com you may be introduced to, or be able to access, information, websites, advertisements, features, contests or sweepstakes offered by other parties. Roanoke.com is not responsible for such third-party content or for the actions or policies of the third parties providing such content. You should check the applicable terms of use and privacy policies of those third parties before providing information on a feature or page operated by a third party.
+Advertiser refunds will be granted upon cancellation of an entire run schedule if notice of cancellation is received from the advertiser prior to the beginning of the run schedule. Refunds will be issued per the original method of payment and will be processed within 10 business days of the request.
 
-While on our sites, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our sites, third parties may use cookies or other technology to gather information. Roanoke.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
+The Roanoke Times will charge a $5.00 processing fee for refunds remitted to the customer.
 
-  
+General
 
+These Terms and Conditions constitute the entire agreement and understanding between you and BH MEDIA with respect to use of the Web site, superseding all prior or contemporaneous communications and/or proposals. BH MEDIA reserves the right to make changes to these Terms and Conditions immediately by posting the changed Terms and Conditions in this location. By continuing to use the Web site, you are agreeing to all changes made by BH MEDIA. A printed version of these Terms and Conditions shall be admissible in judicial or administrative proceedings based upon or relating to use of the Web site to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 
-### What we do with the information we collect
+The Web site is controlled and operated by BH MEDIA from its principal office in the Commonwealth of Virginia, USA. BH MEDIA makes no representation that materials on the Web site are appropriate or available for use in other locations. Those who choose to access the Web site from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. The Web site is not intended to subject BH MEDIA to the laws or jurisdiction of any state, country or territory other than the State/Commonwealth of Virginia and the United States of America.
 
-**The aggregated information we collect is used for a number of purposes including the following:**
+Contacting Us
 
-  1. To recognize you, provide personalization and deliver more individualized content and advertising.
-  2. To improve the content and design of our sites, including by allowing roanoke.com’s editors to consult with readers.
-  3. To communicate with users about our sites, registration and other customer service issues, our Terms of Service and privacy policy, products and services offered by roanoke.com, the administration of sweepstakes and contests, processing of e-commerce transactions and other topics we think you might find of interest. 
-  4. To conduct research surveys on behalf of Times-World LLC, its subsidiaries and affiliates.
-  5. To help us understand usage of our sites, including where our users are going and how much time they are spending there.
-  6. To learn more about the interests of our users, so that we can offer goods and services we believe may be of interest.
-  7. To enable audit bureaus and third party advertisers to verify our claims of traffic to our sites.
-  8. To help advertisers, potential advertisers or marketers assess the suitability of the sites for their ad campaigns.
-  9. To allow advertising to be targeted, based on aggregated, non-personally identifiable usage information, to the users for whom such advertising is most pertinent.
+If you have any questions about this privacy statement, the practices of the BH MEDIA site, or your dealings with BH MEDIA, you may contact us at:
 
-  
+BH MEDIA GROUP HOLDINGS, INC.
 
-
-### Correcting and updating your private information
-
-The information that you provide to roanoke.com may be stored by us for an indefinite time. You may edit your account information by clicking on the “Customer Care” link in the header of this site. Should you require assistance, please call our toll-free number, 1-800-981-3211.
-
-  
-
-
-### Children's privacy
-
-The Children’s Online Privacy Protection Act (COPPA) provides that website operators cannot knowingly collect or store personal information, even in the aggregate, from children under age 13 except as permitted by law. Roanoke.com respects the privacy of children, and does not seek children’s participation in services that require registration. We strongly recommend that parents supervise their children’s use of the Internet. We also encourage parents to instruct their children not to give out personal information in email messages or forums.
-
-By visiting our websites or by submitting any information to our sites, you are representing to us that you are age 13 or older, or age 18 or older as stipulated for individual applications like subscriptions and contest entries.
-
-  
-
-
-### User-provided content
-
-You acknowledge that roanoke.com includes postings, messages, text, files, images, graphics, photos, audio clips, sounds, video or other materials (the “Content”) that have been submitted by third parties, including other roanoke.com users. You agree that we are a community forum and not a publisher with respect to the Content provided by third parties, and that we are not responsible for reviewing or editing any third-party Content. Any opinions, advice, statements, services, offers or other information contained in third-party Content are those of their respective authors or producers, and not of Times-World LLC or any of its affiliates, and we do not endorse or guarantee the accuracy of such Content. Copyrights to the Content submitted by Online Service users are held by the individual creators of such Content.
-
-You may submit Content provided you do so in accordance with the submission rules below. You accept entire responsibility for all Content that you submit to, transmit through, link through, or otherwise make available through roanoke.com. For all Content that you submit, you also agree to indemnify us as provided below.
-
-  
-
-
-### License
-
-By submitting Content to roanoke.com, you grant us a royalty-free, perpetual, irrevocable, nonexclusive right and license to use, copy, modify, display, archive, store, distribute, reproduce and create derivative works from such Content, in any form, media (print, electronic or otherwise), software or technology of any kind now existing or developed in the future.
-
-  
-
-
-### Representations and warranties
-
-By uploading or otherwise submitting any Content to roanoke.com, you represent and warrant that (a) you own or otherwise have all necessary rights, including but not limited to copyrights, to the Content and have the right to use it as provided in this Agreement; (b) all information submitted by you is true, accurate, current and complete, and does not violate this Agreement; (c) you have the full right, power and authority to enter into and perform this Agreement, and have secured all third-party consents, licenses, waivers and permissions necessary to enter into and perform this Agreement, including, without limitation, waivers of rights of privacy, publicity and personality from any third parties whose names, likenesses, photographs, animated portrayals, or actual or imitated voices are depicted in the Content; (d) we shall not be required to make any payments with respect to the authorized use of any Content submitted by you, including, without limitation, any payments to you, third parties claiming through you or otherwise, publishers, rights agents, performance rights societies, persons who contributed to or whose names, likeness, photographs, animated portrayals or actual or imitated voices appear in such Content, your licensors, unions or guilds; and (e) the Content submitted by you will not (i) infringe upon or misappropriate any rights of others, including, without limitation, any copyrights, trademarks, trade secrets or other intellectual property rights, rights of publicity, rights of privacy, moral rights or any other proprietary rights of third parties, (ii) violate any applicable law, statute, ordinance or regulation, (iii) be defamatory, trade libelous, trademark disparaging, fraudulent, harassing, abusive, threatening, harmful, lewd, pornographic or obscene, (iv) disrupt, place unreasonable burdens or excessive loads on, interfere with or attempt to facilitate any unauthorized access to any portion of roanoke.com; (v) transmit junk mail, chain letters, or other unsolicited bulk email, spam or duplicative messages to other users of roanoke.com; (vi) collect information about other users of roanoke.com without their consent or otherwise systematically extract data or data fields, including, without limitation, any financial data or email addresses, from roanoke.com websites or our computer systems; or (vii) contain any viruses, Trojan horses, time bombs or other programming routines or elements that detrimentally interfere with computer systems or data. You agree that, upon request, you will provide us with evidence, in a form and format reasonably acceptable to us, indicating that the Content submitted by you complies with the foregoing warranties.
-
-  
-
-
-### Right to reject advertising
-
-Times-World LLC reserves the right to edit, revise or reject any advertising.
-
-  
-
-
-### Take-down policy
-
-Roanoke.com websites include blogs, forums, photo galleries and other interactive areas in which users can express opinions and share ideas and information. Additionally, we do not control, and are not responsible for, Content submitted by users.
-
-By using roanoke.com, you may be exposed to Content that you may find offensive, indecent, inaccurate, misleading, or otherwise objectionable. You agree that you must evaluate, and bear all risks associated with the use of roanoke.com, including, but not limited to, whether you should rely on such Content.
-
-Notwithstanding the foregoing, you acknowledge that we shall have the right (but not the obligation) to review any Content that you have submitted to the Online Service, and to reject, delete, disable, or remove any Content that we determine, in our sole discretion, (a) does not comply with the terms and conditions of this Agreement; (b) might violate any law, infringe upon the rights of third parties, or subject us to liability for any reason; or (c) might adversely affect our public image, reputation or goodwill. Moreover, we reserve the right to reject, delete, disable, or remove any Content at any time, for the reasons set forth above, for any other reason, or for no reason.
-
-If you believe that any Content on any of the Online Service websites infringes upon any copyrights that you own, please contact us pursuant to the procedures outlined in the Digital Millennium Copyright Act (Title 17 U.S.C. § 512) at the following address:
-
-Copyright Agent  
-The Roanoke Times  
-201 W. Campbell Ave.  
-Roanoke, Va. 24010   
-
-
-### Submission Rules
-
-**You agree not to submit Content**
-
-  
-
-
-  * That is unlawful, pornographic, defamatory, libelous, harmful, threatening, abusive, harassing, or invasive of another’s privacy, or harms minors in any way;
-  * That harasses, degrades, intimidates or is hateful toward an individual or group of individuals on the basis of religion, gender, sexual orientation, race, ethnicity, age, or disability;
-  * That falsely claims to be submitted by another person or entity, or falsely states or otherwise misrepresents your affiliation with another person or entity;
-  * That includes personal or identifying information about another person, or uses the name or likeness of another person for commercial purposes, without that person’s explicit consent;
-  * That infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party, or Content that you do not have a right to make available under any law or under contractual or fiduciary relationships;
-  * That is false, fraudulent, deceptive, misleading, deceitful, or uses “bait-and-switch” tactics;
-  * That constitutes or contains “junk mail,” “spam,” “chain letters,” “pyramid schemes,” unsolicited commercial advertisement, “affiliate marketing,” or “link referral code”;
-  * That constitutes or contains any form of advertising or solicitation posted in areas which are not designated for such purposes;
-  * That advertises any illegal services or the sale of any items the sale of which is prohibited or restricted by applicable law;
-  * That contains software viruses, worms, or any other computer code designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
-  * That employs misleading email addresses, or forged headers or otherwise manipulated identifiers in order to disguise the origin of Content.
-
-**Additionally, you agree not to**
-
-  
-
-  * Contact anyone who has asked not to be contacted or otherwise “stalk” or harass anyone;
-  * Collect personal data about other users for commercial or unlawful purposes;
-  * Use automated means, including scripts, spiders, robots, crawlers, data mining tools, or the like to download/upload data from roanoke.com; or
-  * Attempt to gain unauthorized access to our computer system or to any other users’ computer systems, or engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of any roanoke.com websites.
-  
-
-
-### Termination
-
-Times-World LLC reserves the right, at its sole discretion, to terminate your registration, delete any or all of your postings, or block access to the website and/or any other service. We may take such action, with or without notice, and without any liability to the account holder or user.
-
-  
-
-
-### Legal agreement
-
-By using roanoke.com you indicate your consent to and acceptance of the terms of this Agreement. If you do not agree with the terms of this Agreement, you should terminate your use of roanoke.com immediately. Roanoke.com is provided for your personal use only. Other than content that users submit in accordance with the terms of this Agreement, most of the material on roanoke.com including graphics, text, design, buttons, logos, images, and icons are the sole property of Times-World LLC or its affiliates. Users of roanoke.com may not modify, reproduce, republish, or distribute any material in any form without the prior written permission of Times-World LLC or the original copyright holder.
-
-Persons and entities accessing this site are prohibited from copying or adapting the HTML code used to generate Web pages or manipulating, deciphering, disseminating or reverse engineering any software that will compromise this site.
-
-Times-World LLC shall have no liability whatsoever in the event any act of God, the public enemy or governmental authority, labor dispute, war (whether or not declared), terrorism, civil disobedience, riot, or other occurrences beyond its control shall in any way restrict or prevent the maintenance of roanoke.com.
-
-You agree to defend, indemnify, and hold harmless Times-World LLC, its shareholders, directors, officers, employees, agents and representatives, from and against any claims, actions or demands, including without limitation reasonable legal and expert witness fees, alleging or directly or indirectly resulting from your use of the website or your breach of the terms or conditions contained herein. Times-World LLC shall provide notice to you promptly of any such claim, suit, or proceeding and shall have the option to defend such claim with its selected counsel or assist you, at your expense, in defending any such claim, suit or proceeding.
-
-As a user of this you agree that regardless of your location any disputes arising out of your use of roanoke.com shall be prosecuted in the Circuit Court for the City of Roanoke, Virginia, or the United States District Court for the Western District of Virginia, Roanoke Division.
-
-We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our websites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
-
-**Copyright © 2013 Times-World LLC**
-
-
-
+fax: 804-819-7498
