@@ -1,39 +1,502 @@
-<!--The following is the downloaded HTML source of the medixselect.tv privacy policy that was archived on 2016-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620071705id_/http%3A//www.medixselect.com/event/page/pageCode/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medixselect.tv privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606150438id_/http%3A//www.medixselect.com/event/page/pageCode/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
 <title>Privacy Policy | Medix Select</title>
 <meta name="title" content="Privacy Policy | Medix Select">
 <meta name="description" content="Medix Select takes pride in protecting your privacy. To better protect our customers, we provide our privacy policy explaining our information practice.">
 <meta name="keywords" content="">
+<meta property="og:locale" content="en_US">
 <meta property="og:title" content="Privacy Policy | Medix Select">
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://www.medixselect.com">
 <meta property="og:site_name" content="">
 <meta property="og:description" content="Medix Select takes pride in protecting your privacy. To better protect our customers, we provide our privacy policy explaining our information practice.">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N2R42Z"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/view/script/qforms.js"></script><script language="JavaScript1.2">_jsver = 12;</script><script language="JavaScript1.3">_jsver = 13;</script><script language="JavaScript1.4">_jsver = 14;</script><script language="JavaScript1.5">_jsver = 15;</script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
-<script type="text/javascript" src="/view/script/jqzoom/jqzoom.pack.1.0.1.js"></script>
+<link rel="shortcut icon" href="/MerchantUploads/edgeMedixSelect/medix-favicon-32x32.jpg">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N2R42Z"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.min.css" type="text/css" media="all">
+<script type="text/javascript" src="/view/script/jquery-migrate-1.2.1.js"></script>
+<script type="text/javascript" src="/view/script/jqzoom/js/jquery.jqzoom-core.js"></script>
 <script type="text/javascript" src="/view/script/jquery/cycle/jquery.cycle.all.min.js"></script>
 <script type="text/javascript" src="/view/script/jquery/tooltip/jquery.csstooltip.js"></script>
 <script type="text/javascript" src="/view/script/colorbox/jquery.colorbox-min.js"></script>
-<script type="text/javascript" src="/view/script/jquery/hoverintent/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/view/script/jquery/hoverintent/jquery.hoverIntent.minified.r7.js"></script>
 <script type="text/javascript" src="/view/script/jquery/superfish/superfish.js"></script>
 <script type="text/javascript" src="/view/script/jquery/megamenu/javascripts/jquery.megamenu.js"></script>
-<script type="text/javascript" src="/view/script/wddx/wddxDes.js" language="JavaScript"></script>
+<script type="text/javascript" src="/view/script/wddx/wddxDes.js"></script>
+<script type="text/javascript" src="/view/script/jquery/validation/jquery.validate.js"></script>
+<script type="text/javascript" src="/view/script/jquery/validation/additional-methods.js"></script>
+<script type="text/javascript" src="/view/script/jquery/currency/jquery.formatCurrency-1.4.0.js"></script>
+<script type="text/javascript" src="/view/script/jquery/i18n/currency/jquery.formatCurrency.all.js"></script>
+<script type="text/javascript" src="/view/script/jquery/i18n/datepicker/jquery-ui-i18n.js"></script>
 <script type="text/javascript">
-// specify the path where the "/qforms/" subfolder is located
-qFormAPI.setLibraryPath("/view/script/");
-qFormAPI.include("field");
-qFormAPI.include("validation");
-qFormAPI.include("functions", null, "12");
-qFormAPI.include("cfform");
-qFormAPI.include("validation_addon");
-</script><script language="JavaScript" src="/view/script/qforms/field.js"></script><script language="JavaScript" src="/view/script/qforms/validation.js"></script><script language="JavaScript1.2" src="/view/script/qforms/functions_js12.js"></script><script language="JavaScript" src="/view/script/qforms/cfform.js"></script><script language="JavaScript" src="/view/script/qforms/validation_addon.js"></script>
-<link rel="stylesheet" type="text/css" href="/view/script/jqzoom/jqzoom.css">
+$.validator.setDefaults({focusCleanup:false});
+$.validator.addMethod("validateCurrency", function(value, element) {
+return (value != "") ? $(element).isValidCurrency({region: 'en-US'}) : true;
+}, "please enter a valid currency for en-US");
+</script>
+<script>
+$.validator.messages["maxWords"] = "Please enter {0} words or less";
+$.validator.messages["lessThan"] = "Must be less than {0}";
+$.validator.messages["greaterThan"] = "Must be greater than {0}";
+$.validator.messages["nowhitespace"] = "No white space please";
+$.validator.messages["lettersonly"] = "Letters only please";
+$.validator.messages["validateCurrency"] = "please enter a valid currency for en-US";
+$.validator.messages["alphanumeric"] = "Letters, numbers, and underscores only please";
+$.validator.messages["minWords"] = "Please enter at least {0} words";
+$.validator.messages["rangeWords"] = "Please enter between {0} and {1} words";
+$.validator.messages["integer"] = "A positive or negative non-decimal number please";
+$.validator.messages["letterswithbasicpunc"] = "Letters or period only please";
+$.validator.messages["cannotContainChars"] = "This field must not contain the following characters {0}";
+$.validator.messages["notEqualTo"] = "Must not be equal to";
+$.validator.messages["passwordAlphaNumber"] = "Your password must be at least {0} characters long and contain at least one number, one letter, and one special character";
+$.validator.messages["startDateB4EndDate"] = "Start date must be before or equal to end date";
+</script>
+<style type="text/css">
+input.error {background-color:red;}
+select.error {background-color:red;}
+label.error {display:block; color:red;}
+</style>
+<link rel="stylesheet" type="text/css" href="/view/script/jqzoom/css/jquery.jqzoom.css">
 <link rel="stylesheet" type="text/css" href="/view/css/colorbox/01/colorbox.css">
 <link rel="stylesheet" type="text/css" href="/view/css/agile_newsmax.css">
+<style type="text/css">
+/* Inline Global CSS */
+select
+{
+border: 1px solid #959CA6;
+padding: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+td
+{
+vertical-align: top;
+margin-top: 0;
+}
+textarea
+{
+border: 1px solid #959CA6;
+padding: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+p
+{
+padding-top: 0;
+margin-top: 0;
+}
+h1
+{
+color: #0087cc;
+padding: 0;
+margin: 0;
+}
+h2
+{
+color: #0087cc;
+padding: 0;
+margin: 0;
+}
+h3
+{
+color: #0087cc;
+padding: 0;
+margin: 0;
+}
+h4
+{
+color: #0087cc;
+padding: 0;
+margin: 0;
+}
+h5
+{
+color: #0087cc;
+padding: 0;
+margin: 0;
+}
+h6
+{
+color: #0087cc;
+padding: 0;
+margin: 0;
+}
+html
+{
+font-family: 'Trebuchet MS', Helvetica, sans-serif;
+font-size: 13px;
+padding: 0;
+margin: 0;
+}
+img
+{
+border: none;
+}
+input[type='text'], input[type='password']
+{
+border: 1px solid #959CA6;
+padding: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+body
+{
+background-color: #fff;
+background-image: url('/MerchantUploads/edgeMedixSelect/page_bkg_2.jpg');
+background-repeat: repeat-x;
+background-position: left top;
+padding: 0;
+margin: 0;
+}
+#block\.cart\.header\.stock
+{
+display: none;
+}
+#block\.cart\.stock
+{
+display: none;
+}
+#block\.carttotals\.header\.promotions
+{
+display: none;
+}
+#block\.carttotals\.cell\.promotions
+{
+display: none;
+}
+#block\.cart\.name a
+{
+color: #000000;
+text-decoration: none;
+}
+#block\.cart\.name a:hover
+{
+cursor: default;
+}
+/* Inline Layout CSS */
+.telNumber
+{
+color: #063;
+}
+.telNumberWrapper
+{
+font-weight: bold;
+font-size: 18px;
+color: #0087cc;
+text-align: center;
+width: 310px;
+margin-top: 5px;
+margin-right: auto;
+margin-bottom: 10px;
+margin-left: auto;
+letter-spacing: -1px;
+float: right;
+right: 27px;
+position: relative;
+}
+.promoBar
+{
+background-color: #13B58A;
+width: 928px;
+border: 1px solid #acdbf3;
+margin-top: 4px;
+}
+.logoMain
+{
+display: block;
+padding-top: 25px;
+position: relative;
+}
+#layout\.default
+{
+width: 959px;
+}
+#layout\.default\.column\.right
+{
+width: 300px;
+}
+#layout\.default\.row\.row1
+{
+display: none;
+}
+#layout\.default\.row\.row1\.target\.middle
+{
+background-color: transparent;
+padding-top: 20px;
+line-height: 0;
+}
+#layout\.default\.row\.row2\.target\.left
+{
+background-image: url('/MerchantUploads/edgeMedixSelect/content_bkg_2.png');
+background-repeat: repeat-y;
+background-position: left top;
+border: 8px;
+border-top: 8px;
+border-bottom: 8px;
+padding-left: 20px;
+position: relative;
+}
+#layout\.default\.row\.row2\.target\.middle
+{
+background-color: #fff;
+}
+#layout\.default\.row\.row2\.target\.right
+{
+background-image: url('/MerchantUploads/edgeMedixSelect/content_bkg_2.png');
+background-repeat: repeat-y;
+background-position: right top;
+padding-top: 10px;
+padding-right: 15px;
+position: relative;
+}
+#layout\.default\.row\.row3\.target\.middle
+{
+background-image: url('/MerchantUploads/edgeMedixSelect/content_bkg_2.png');
+background-repeat: repeat-y;
+background-position: left top;
+padding: 0 15px 0 14px;
+line-height: 0;
+}
+#layout\.default\.row\.row4
+{
+display: none;
+}
+#layout\.default\.row\.row5\.target\.body
+{
+background-image: url('/MerchantUploads/edgeMedixSelect/content_bkg_2.png');
+background-repeat: repeat-y;
+background-position: center top;
+padding-top: 10px;
+padding-right: 18px;
+padding-bottom: 0;
+padding-left: 15px;
+}
+#layout\.default\.row\.row6\.target\.middle
+{
+line-height: 0;
+}
+#layout\.default\.row\.row7\.target\.middle
+{
+background-image: url('/MerchantUploads/edgeMedixSelect/content_bkg_2.png');
+background-repeat: repeat-y;
+background-position: center top;
+padding: 10px 15px 5px 14px;
+}
+#layout\.default\.row\.row8\.target\.middle
+{
+line-height: 0;
+}
+.footerDisclaimer
+{
+color: #85badc;
+border: 1px solid #85BADC;
+padding: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.topnavigation-menu
+{
+background-image: url('/MerchantUploads/edgeMedixSelect/blue_bar_blend_bkg.png');
+background-repeat: repeat-x;
+background-position: center top;
+font-weight: bold;
+vertical-align: middle;
+text-transform: uppercase;
+text-align: center;
+height: 40px;
+}
+.topnavigation-menu ul li
+{
+background-image: url('/MerchantUploads/edgeMedixSelect/blue_bar_blend_bkg.png');
+background-repeat: repeat-x;
+background-position: center top;
+}
+.topnavigation-menu ul li a
+{
+background-color: transparent!important;
+font-weight: bold;
+text-transform: uppercase;
+height: 40px!important;
+}
+#block\.search
+{
+width: 310px;
+right: 27px;
+position: relative;
+}
+#block\.search\.button
+{
+font-size: 12px;
+color: #fff;
+vertical-align: middle;
+text-transform: uppercase;
+text-align: center;
+display: block;
+border: 1px solid #68A2FF;
+float: right;
+}
+#block\.search\.field
+{
+width: 220px;
+border: 1px solid #68A2FF;
+padding: 5px;
+margin-top: 10px;
+}
+#block\.minicart
+{
+font-family: 'Century Gothic',Futura,'URW Gothic L',sans-serif;
+font-weight: bold;
+font-size: 105%;
+text-decoration: none;
+vertical-align: middle;
+text-transform: capitalize;
+text-align: center;
+width: 310px;
+border: 1px solid #68A2FF;
+letter-spacing: 1px;
+right: 27px;
+position: relative;
+border-radius: 5px;
+}
+#block\.minicart\.buttons
+{
+vertical-align: middle;
+}
+#block\.minicart\.header
+{
+width: 28px;
+height: 28px;
+display: none;
+}
+#block\.minicart\.link\.cart
+{
+background-image: url('/MerchantUploads/edgeMedixSelect/cart-1-28x28.png');
+background-repeat: no-repeat;
+background-position: right center;
+color: #00a6e8;
+text-decoration: none;
+height: 18px;
+display: block;
+padding-right: 22px;
+padding-bottom: 4px;
+margin-top: 5px;
+margin-right: 5px;
+}
+#block\.minicart\.link\.checkout
+{
+color: #00a6e8;
+display: none;
+}
+#block\.minicart\.link\.items\.cart
+{
+color: #00a6e8;
+text-decoration: none;
+padding-left: 8px;
+}
+#block\.minicart\.link\.total\.cart
+{
+color: #00a6e8;
+text-decoration: none;
+}
+#block\.minicart\.span\.items
+{
+padding-right: 20px;
+}
+#block\.minicart\.text
+{
+vertical-align: middle;
+text-align: right;
+}
+#block\.messages
+{
+background-color: #2a2;
+font-weight: bold;
+font-size: 105%;
+color: #fff;
+width: 929px;
+border: 1px solid #060;
+padding: 15px;
+margin: 10px 0;
+line-height: 18px;
+}
+#block\.mainnavigation
+{
+font-family: 'Century Gothic',Futura,'URW Gothic L',sans-serif;
+text-align: center;
+width: 280px;
+margin-right: auto;
+margin-bottom: 10px;
+margin-left: auto;
+float: right;
+}
+#block\.mainnavigation\.cell
+{
+font-weight: bold;
+text-transform: uppercase;
+padding-right: 10px;
+padding-left: 10px;
+}
+#block\.mainnavigation\.cell\.active
+{
+color: #022f78;
+}
+#block\.mainnavigation\.link
+{
+color: #06c;
+}
+#block\.mainnavigation\.link:hover
+{
+color: #660033;
+}
+#block\.errormessages
+{
+background-color: #FFD34D;
+font-weight: bold;
+font-size: 105%;
+width: 930px;
+border: 1px solid #A63306;
+padding: 10px;
+margin-top: 10px;
+line-height: 18px;
+}
+#block\.breadcrumbs
+{
+color: #06c;
+vertical-align: text-top;
+text-transform: uppercase;
+margin-top: 10px;
+margin-left: 10px;
+line-height: 24px;
+}
+.block\.breadcrumbs\.cell
+{
+font-family: 'Century Gothic',Futura,'URW Gothic L',sans-serif;
+font-weight: bold;
+vertical-align: middle;
+text-transform: capitalize;
+}
+.block\.breadcrumbs\.link
+{
+color: #85CAFF;
+text-transform: capitalize;
+}
+.block\.breadcrumbs\.separator
+{
+background-image: url('/MerchantUploads/edgeMedixSelect/arrow_next_blue_4.png');
+background-repeat: no-repeat;
+background-position: center center;
+padding: 10px;
+}
+#block\.breadcrumbs\.text
+{
+color: #06c;
+text-transform: uppercase;
+}
+</style>
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(
@@ -48,7 +511,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 })();
 </script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body>
+<body class="en-US">
 <table id="layout.default" align="center" cellpadding="0" cellspacing="0" border="0" style="table-layout: fixed;">
 <tbody><tr>
 <td id="layout.default.column.left"></td>
@@ -57,10 +520,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </tr>
 <tr id="layout.default.row.row1">
 <td id="layout.default.row.row1.target.middle" colspan="3">
-<!-- BEGIN _CSS_Master Content Block -->
-<table id="block._css_master" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><style type="text/css">
+<table id="block._css_master" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<style type="text/css">
 .clear_fix{ height: 0; clear: both;}
 img.main-logo {
 position: relative;
@@ -168,6 +629,19 @@ background: linear-gradient(top, rgb(79,187,235) 0%,rgb(0,131,193) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4fbbeb', endColorstr='#0083c1',GradientType=0 );
 }/* end search button */
 /* end buttons */
+/*START error messages*/
+#block\.errormessages
+{
+background-color: #FFD34D;
+font-weight: bold;
+font-size: 105%;
+width: 930px;
+border: 1px solid #A63306;
+padding: 10px;
+margin-top: 10px;
+line-height: 18px;
+}
+/*END error messages*/
 /*----------------------------------------------------------------------
 * PAGES
 *---------------------------------------------------------------------*/
@@ -309,8 +783,7 @@ padding-top: 10px;
 #footer p#footer_links a{
 text-decoration: none;
 color:#0c5c9a;
-}
-</style>
+}</style>
 <!--[if IE]>
 <style type="text/css">
 input#block\.search\.field{
@@ -327,8 +800,7 @@ background-color:transparent;
 font-size:16px!important;
 }
 </style>
-<![endif]-->
-<!--[if IE 7]>
+<![endif]--><!--[if IE 7]>
 <style type="text/css">
 /* end registration */
 #block\.registration\.reset{
@@ -350,21 +822,16 @@ padding:0!important;
 border:none!important;
 }
 </style>
-<![endif]-->
-<!--[if IE 8]>
+<![endif]--><!--[if IE 8]>
 <style type="text/css">
 td.block\.productdetail\.tab\.off{
 outline:1px solid #fff;
 }
 </style>
-<![endif]--></td>
-</tr>
-</tbody></table>
-<!-- END _CSS_Master Content Block -->
-<!-- BEGIN _JS_AutoPromo Content Block -->
-<table id="block._js_autopromo" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><script type="text/javascript">
+<![endif]-->
+</td></tr></tbody></table>
+<table id="block._js_autopromo" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<script type="text/javascript">
 function parsePromoURL(url) {
 var parser = document.createElement('a'),
 searchObject = {},
@@ -418,32 +885,20 @@ setPromoCookie("thisPCClick", "1");
 }
 }
 });
-</script></td>
-</tr>
-</tbody></table>
-<!-- END _JS_AutoPromo Content Block -->
+</script>
+</td></tr></tbody></table>
 </td>
 </tr>
 <tr id="layout.default.row.row2">
 <td id="layout.default.row.row2.target.left" colspan="1">
-<!-- BEGIN AddThisSocialMediaIntegration Content Block -->
-<table id="block.addthissocialmediaintegration" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><style type="text/css"> /* share bar plugin style only */ body ul#sharebar { display: none; position: absolute; width: 75px; float: left; background: #fff; padding: 0; margin-top:71px!important; text-align: center; border: 1px solid #ccc; list-style: none; margin: 0; z-index: 99; } body ul#sharebar li { display: block; margin: 5px; padding: 0; overflow: hidden; text-align: left; } div#sharebarx { display: none; list-style: none; width: 400px; float: left; padding: 15px 0; } a.sbxLink{ float:left; } .FBConnectButton_Small{ background-position:-5px -232px !important; border-left:1px solid #1A356E; } .FBConnectButton_Text{ margin-left:12px !important ; padding:2px 5px 3px !important; } .stButton{margin:0 0 6px !important; } .stButton:last-child{ margin:0 !important; } .stButton .stFb_vbubble { width:53px !important; } .stButton .stFb_text { padding: 2px 5px 3px !important; margin: 1px 1px 0 14px !important; } .fb_edge_widget_with_comment{ } .fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr { display: none !important; } </style> <ul id="sharebar"> <li><a class="addthis_button_facebook_like" fb:like:layout="box_count"></a></li> <li><a class="addthis_button_tweet" tw:count="vertical"></a></li> <li><a class="addthis_button_google_plusone" g:plusone:size="tall"></a></li> <li><a class="addthis_counter"></a></li> </ul> <div class="addthis_toolbox addthis_default_style" id="sharebarx"> </div> </td>
-</tr>
-</tbody></table>
-<!-- END AddThisSocialMediaIntegration Content Block -->
-<!-- BEGIN AddThisSocialMediaIntegration_JS Content Block -->
-<table id="block.addthissocialmediaintegration_js" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><script type="text/javascript"> var script = document.createElement('script'); script.type = 'text/javascript'; script.src = window.location.protocol == 'https:' ? 'https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f6ca4df7f0fd0e9' : 'http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f6ca4df7f0fd0e9'; document.body.appendChild(script); /* * ShareBar - Creates a dynamic, vertical sharing bar to the left of a WordPress post and hides it if browser window is too small * Copyright 2010 Monjurul Dolon, http://mdolon.com/ * Released under the MIT, BSD, and GPL Licenses. * More information: http://devgrow.com/sharebar * * MODIFICATION by TBRYMORA 4-2-12 * animate Medix logo for better fit of social media bar below * slide logo link up by removing top padding of 25px when social media bar has to display below logo * and move the logo down by adding 25px of padding to top of it. * * relevant lines between 'start' and 'end' comments in sharebar_resize function */ jQuery.fn.sharebar = function(options) { var defaults = {horizontal: true, swidth: 65, minwidth: 1000, position: 'left', leftOffset: 20, rightOffset: 10}; var opts = jQuery.extend(defaults, options); var o = jQuery.meta ? jQuery.extend({}, opts, jQueryjQuery.data()) : opts; var w = jQuery(window).width(); var sharebar = jQuery('#sharebar'); var sharebarx = jQuery('#sharebarx'); var parent = jQuery(sharebar).parent().width(); var start = sharebar_init(); function sharebar_init(){ jQuery(sharebar).css('width',o.swidth+'px'); if (o.position == 'left') jQuery(sharebar).css('marginLeft',(0-o.swidth-o.leftOffset)); else { jQuery(sharebar).css('marginLeft',(parent+o.rightOffset)); } if(w < o.minwidth && o.horizontal) jQuery(sharebarx).slideDown(); else jQuery(sharebar).fadeIn(); jQuery.event.add(window, "scroll", sharebar_scroll); jQuery.event.add(window, "resize", sharebar_resize); return jQuery(sharebar).offset().top; } function sharebar_resize() { var w = jQuery(window).width(); if(w<o.minwidth){ jQuery(sharebar).fadeOut(); if(o.horizontal) { jQuery(sharebarx).slideDown(); /* START tbrymora 4-2-12: animate Medix logo up */ $("a.logoMain").animate({ 'padding-top':0 }); /* END tbrymora 4-2-12 */ } }else{ jQuery(sharebar).fadeIn(); if(o.horizontal) { jQuery(sharebarx).slideUp(); /* START tbrymora 4-2-12: animate Medix logo down */ $("a.logoMain").animate({ 'padding-top':25 }); /* END tbrymora 4-2-12 */ } } } function sharebar_scroll() { var p = jQuery(window).scrollTop(); var w = jQuery(window).width(); jQuery(sharebar).css('position',((p+10)>start) ? 'fixed' : 'absolute'); jQuery(sharebar).css('top',((p+10)>start) ? '10px' : ''); } }; jQuery(document).ready( function($){ $('#sharebar').sharebar({ horizontal:'true', swidth:'75', minwidth:1125, position:'left', leftOffset:20, rightOffset:20 }); } ); </script></td>
-</tr>
-</tbody></table>
-<!-- END AddThisSocialMediaIntegration_JS Content Block -->
-<!-- BEGIN Social Media Top - 03-05-2014 Content Block -->
-<table id="block.socialmediatop-03-05-2014" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><style type="text/css">
+<table id="block.addthissocialmediaintegration" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<style type="text/css"> /* share bar plugin style only */ body ul#sharebar { display: none; position: absolute; width: 75px; float: left; background: #fff; padding: 0; margin-top:71px!important; text-align: center; border: 1px solid #ccc; list-style: none; margin: 0; z-index: 99; } body ul#sharebar li { display: block; margin: 5px; padding: 0; overflow: hidden; text-align: left; } div#sharebarx { display: none; list-style: none; width: 400px; float: left; padding: 15px 0; } a.sbxLink{ float:left; } .FBConnectButton_Small{ background-position:-5px -232px !important; border-left:1px solid #1A356E; } .FBConnectButton_Text{ margin-left:12px !important ; padding:2px 5px 3px !important; } .stButton{margin:0 0 6px !important; } .stButton:last-child{ margin:0 !important; } .stButton .stFb_vbubble { width:53px !important; } .stButton .stFb_text { padding: 2px 5px 3px !important; margin: 1px 1px 0 14px !important; } .fb_edge_widget_with_comment{ } .fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr { display: none !important; } </style> <ul id="sharebar"> <li><a class="addthis_button_facebook_like" fb:like:layout="box_count"></a></li> <li><a class="addthis_button_tweet" tw:count="vertical"></a></li> <li><a class="addthis_button_google_plusone" g:plusone:size="tall"></a></li> <li><a class="addthis_counter"></a></li> </ul> <div class="addthis_toolbox addthis_default_style" id="sharebarx"> </div>
+</td></tr></tbody></table>
+<table id="block.addthissocialmediaintegration_js" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<script type="text/javascript"> var script = document.createElement('script'); script.type = 'text/javascript'; script.src = window.location.protocol == 'https:' ? 'https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f6ca4df7f0fd0e9' : 'http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f6ca4df7f0fd0e9'; document.body.appendChild(script); /* * ShareBar - Creates a dynamic, vertical sharing bar to the left of a WordPress post and hides it if browser window is too small * Copyright 2010 Monjurul Dolon, http://mdolon.com/ * Released under the MIT, BSD, and GPL Licenses. * More information: http://devgrow.com/sharebar * * MODIFICATION by TBRYMORA 4-2-12 * animate Medix logo for better fit of social media bar below * slide logo link up by removing top padding of 25px when social media bar has to display below logo * and move the logo down by adding 25px of padding to top of it. * * relevant lines between 'start' and 'end' comments in sharebar_resize function */ jQuery.fn.sharebar = function(options) { var defaults = {horizontal: true, swidth: 65, minwidth: 1000, position: 'left', leftOffset: 20, rightOffset: 10}; var opts = jQuery.extend(defaults, options); var o = jQuery.meta ? jQuery.extend({}, opts, jQueryjQuery.data()) : opts; var w = jQuery(window).width(); var sharebar = jQuery('#sharebar'); var sharebarx = jQuery('#sharebarx'); var parent = jQuery(sharebar).parent().width(); var start = sharebar_init(); function sharebar_init(){ jQuery(sharebar).css('width',o.swidth+'px'); if (o.position == 'left') jQuery(sharebar).css('marginLeft',(0-o.swidth-o.leftOffset)); else { jQuery(sharebar).css('marginLeft',(parent+o.rightOffset)); } if(w < o.minwidth && o.horizontal) jQuery(sharebarx).slideDown(); else jQuery(sharebar).fadeIn(); jQuery.event.add(window, "scroll", sharebar_scroll); jQuery.event.add(window, "resize", sharebar_resize); return jQuery(sharebar).offset().top; } function sharebar_resize() { var w = jQuery(window).width(); if(w<o.minwidth){ jQuery(sharebar).fadeOut(); if(o.horizontal) { jQuery(sharebarx).slideDown(); /* START tbrymora 4-2-12: animate Medix logo up */ $("a.logoMain").animate({ 'padding-top':0 }); /* END tbrymora 4-2-12 */ } }else{ jQuery(sharebar).fadeIn(); if(o.horizontal) { jQuery(sharebarx).slideUp(); /* START tbrymora 4-2-12: animate Medix logo down */ $("a.logoMain").animate({ 'padding-top':25 }); /* END tbrymora 4-2-12 */ } } } function sharebar_scroll() { var p = jQuery(window).scrollTop(); var w = jQuery(window).width(); jQuery(sharebar).css('position',((p+10)>start) ? 'fixed' : 'absolute'); jQuery(sharebar).css('top',((p+10)>start) ? '10px' : ''); } }; jQuery(document).ready( function($){ $('#sharebar').sharebar({ horizontal:'true', swidth:'75', minwidth:1125, position:'left', leftOffset:20, rightOffset:20 }); } ); </script>
+</td></tr></tbody></table>
+<table id="block.socialmediatop-03-05-2014" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<style type="text/css">
 .socialMediaIcons{
 width: 366px;
 text-align: center;
@@ -462,25 +917,15 @@ white-space: nowrap;
 .socialMediaIcons .socialMediaIconsLabel{
 position: relative;
 top: -7px;
-}
-</style>
+}</style>
 <div class="socialMediaIcons">
-<span class="socialMediaIconsLabel">Follow Us On:</span> <a href="http://www.facebook.com/MedixSelect" target="_blank" title="Follow MedixSelect on Facebook"> <img alt="Follow MedixSelect on Facebook" src="/MerchantUploads/edgeMedixSelect/icn-facebook.png"> </a> <a href="https://twitter.com/#!/MedixSelect" target="_blank" title="Follow MedixSelect on Twitter"> <img alt="Follow MedixSelect on Twitter" src="/MerchantUploads/edgeMedixSelect/icn-twitter.png"> </a> <a href="https://plus.google.com/101386687434866825200/posts" target="_blank" title="Follow MedixSelect on Google Plus"> <img alt="Follow MedixSelect on Google Plus" src="/MerchantUploads/edgeMedixSelect/icn-googleplus.png"> </a> <a href="//www.youtube.com/user/medixselect" target="_blank" title="Follow MedixSelect on YouTube"> <img alt="Follow MedixSelect on YouTube" src="/MerchantUploads/edgeMedixSelect/icn-youtube.png"> </a> <a href="//www.linkedin.com/company/medix-select" target="_blank" title="Follow MedixSelect on LinkedIn"> <img alt="Follow MedixSelect on LinkedIn" src="/MerchantUploads/edgeMedixSelect/icn-linkedin.png"> </a> <a href="//www.pinterest.com/medixselect" target="_blank" title="Follow MedixSelect on Pinterest"> <img alt="Follow MedixSelect on Pinterest" src="/MerchantUploads/edgeMedixSelect/icn-pinterest.png"> </a></div>
-</td>
-</tr>
-</tbody></table>
-<!-- END Social Media Top - 03-05-2014 Content Block -->
-<!-- BEGIN Top Logo3 Content Block -->
-<table id="block.toplogo3" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><a href="/"><img alt="Medix Select" src="/MerchantUploads/edgeMedixSelect/logo3.jpg" style="width: 366px; height: 73px;"></a></td>
-</tr>
-</tbody></table>
-<!-- END Top Logo3 Content Block -->
-<!-- BEGIN inc_adRollTag Content Block -->
-<table id="block.inc_adrolltag" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><script type="text/javascript">
+<span class="socialMediaIconsLabel">Follow Us On:</span> <a href="https://www.facebook.com/MedixSelect" target="_blank" title="Follow MedixSelect on Facebook"> <img alt="Follow MedixSelect on Facebook" src="/MerchantUploads/edgeMedixSelect/icn-facebook.png"> </a> <a href="https://twitter.com/#!/MedixSelect" target="_blank" title="Follow MedixSelect on Twitter"> <img alt="Follow MedixSelect on Twitter" src="/MerchantUploads/edgeMedixSelect/icn-twitter.png"> </a> <a href="https://plus.google.com/101386687434866825200/posts" target="_blank" title="Follow MedixSelect on Google Plus"> <img alt="Follow MedixSelect on Google Plus" src="/MerchantUploads/edgeMedixSelect/icn-googleplus.png"> </a> <a href="https://www.youtube.com/user/medixselect" target="_blank" title="Follow MedixSelect on YouTube"> <img alt="Follow MedixSelect on YouTube" src="/MerchantUploads/edgeMedixSelect/icn-youtube.png"> </a> <a href="https://www.linkedin.com/company/medix-select" target="_blank" title="Follow MedixSelect on LinkedIn"> <img alt="Follow MedixSelect on LinkedIn" src="/MerchantUploads/edgeMedixSelect/icn-linkedin.png"> </a> <a href="https://www.pinterest.com/medixselect" target="_blank" title="Follow MedixSelect on Pinterest"> <img alt="Follow MedixSelect on Pinterest" src="/MerchantUploads/edgeMedixSelect/icn-pinterest.png"> </a></div>
+</td></tr></tbody></table>
+<table id="block.toplogo3" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<a href="/"><img alt="Medix Select" src="/MerchantUploads/edgeMedixSelect/logo3.jpg" style="width: 366px; height: 73px;"></a>
+</td></tr></tbody></table>
+<table id="block.inc_adrolltag" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<script type="text/javascript">
 adroll_adv_id = "J7DZ53ICC5FMDCP4QG4ZTX";
 adroll_pix_id = "FGVSKORQ4RFJTINTQCWY2H";
 (function () {
@@ -496,37 +941,25 @@ scr.src = host + "/j/roundtrip.js";
 document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
 if(oldonload){oldonload()}};
 }());
-</script></td>
-</tr>
-</tbody></table>
-<!-- END inc_adRollTag Content Block -->
-<!-- BEGIN inc_googleTagManager Content Block -->
-<table id="block.inc_googletagmanager" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N2R42Z"
+</script>
+</td></tr></tbody></table>
+<table id="block.inc_googletagmanager" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N2R42Z"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-N2R42Z');</script><!-- End Google Tag Manager --></td>
-</tr>
-</tbody></table>
-<!-- END inc_googleTagManager Content Block -->
+})(window,document,'script','dataLayer','GTM-N2R42Z');</script><!-- End Google Tag Manager -->
+</td></tr></tbody></table>
 </td>
 <td id="layout.default.row.row2.target.middle" colspan="1">
 </td>
 <td id="layout.default.row.row2.target.right" colspan="1">
-<!-- BEGIN Call Us Toll-Free Content Block -->
-<table id="block.callustoll-free" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><div class="telNumberWrapper">
+<table id="block.callustoll-free" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<div class="telNumberWrapper">
 <span class="telNumberLbl">Call Us Toll-Free: </span><span class="telNumber">800-500-HEALTH</span></div>
-</td>
-</tr>
-</tbody></table>
-<!-- END Call Us Toll-Free Content Block -->
-<!-- BEGIN Mini Cart Block View -->
-<script type="text/javascript">
+</td></tr></tbody></table>
+<input type="hidden" id="mini_cart_total" name="mini_cart_total" value=""><script type="text/javascript">
 $(document).ready(function(){
 if ($("#block\\.minicart\\.button\\.cart").css("display") === "none" || $("#block\\.minicart\\.buttons").css("display") === "none" ) {
 var title = $("#block\\.minicart\\.header").html();
@@ -541,7 +974,7 @@ $("#block\\.minicart\\.button\\.checkout").click(function(){ window.location='/c
 <td id="block.minicart.header">&nbsp;</td>
 <td id="block.minicart.text">
 <span id="block.minicart.span.items">
-<a id="block.minicart.link.items.cart" href="/cart">0 items</a>
+<a id="block.minicart.link.items.cart" href="/cart">0 Items</a>
 </span>
 <span id="block.minicart.span.total">
 <a id="block.minicart.link.total.cart" href="/cart">$0.00</a>
@@ -553,74 +986,58 @@ $("#block\\.minicart\\.button\\.checkout").click(function(){ window.location='/c
 </td>
 </tr>
 </tbody></table>
-<!-- END Mini Cart Block View -->
-<!-- BEGIN Search Block View -->
-<table id="block.search" cellpadding="0" cellspacing="0" border="0">
-<form id="formSearch" name="formSearch" action="/results" method="post"></form>
-<tbody><tr>
-<td id="block.search.cell">
-<span id="block.search.text"></span>
-<input id="block.search.field" type="text" name="searchString" maxlength="256" value="search">
-<button type="submit" id="block.search.button">search</button>
-</td>
-</tr>
-
-</tbody></table>
 <script type="text/javascript">
-objSearchForm = new qForm("formSearch");
-objSearchForm.required("searchString");
-objSearchForm.onValidate = _customValidation;
-function _customValidation() {
-var iChars = "*|,\":<>[]{}`\';()@&$#%\\\/+";
-var string = objSearchForm.searchString.getValue();
-for (var i=0; i < string.length; i++) {
-if (iChars.indexOf(string.charAt(i)) != -1) {
-objSearchForm.searchString.throwError("Search String must not contain special characters.");
+$(document).ready(function(){
+$("form#formSearch").validate({
+rules:{
+searchString:{
+required: true,
+minlength: 3,
+cannotContainChars: "|,\:<>[]{}`;()@&$#%\\\/+"
 }
 }
-if (string == 'search') {
-objSearchForm.searchString.throwError("Please enter a search string.");
-}
-if (string.trim().length < 3) {
-objSearchForm.searchString.throwError("Please enter a search string with at least 3 characters.");
-}
-}
+})
+})
 $(function() {
 var default_value = 'search';
 $("#block\\.search\\.field").focus(function(){
 if ($(this).val() == default_value) $(this).val("");
 });
+/*
 $("#block\\.search\\.field").blur(function(){
 if ($(this).val() == "") $(this).val(default_value);
+});*/
 });
-});
-</script>
-<!-- END Search Block View -->
-<!-- BEGIN Main Navigation Block View -->
+</script><table id="block.search" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td id="block.search.cell">
+<form id="formSearch" name="formSearch" action="/results" method="post">
+<span id="block.search.text"></span>
+<input type="text" id="block.search.field" name="searchString" title="Use ? for single-character wildcards.
+Use * for multiple-character wildcards.
+Use &quot;&quot; for exact phrases." maxlength="256" placeholder="search" data-rule-required="true" value="">
+<button type="submit" id="block.search.button">search</button>
+<input name="jpst" value="B5771FC2-93E0-4DFF-BCB9AEBF3369C712" type="hidden"></form>
+</td>
+</tr>
+</tbody></table>
 <table id="block.mainnavigation" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 </tr>
 </tbody></table>
-<!-- END Main Navigation Block View -->
 </td>
 </tr>
 <tr id="layout.default.row.row3">
 <td id="layout.default.row.row3.target.middle" colspan="3">
-<!-- BEGIN Messages Block View -->
-<!-- END Messages Block View -->
-<!-- BEGIN Error Messages Block View -->
-<!-- END Error Messages Block View -->
-<!-- BEGIN Breadcrumbs Block View -->
 <table id="block.breadcrumbs" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr id="block.breadcrumbs.row">
 <td class="block.breadcrumbs.cell">
-<a class="block.breadcrumbs.link" href="/">Home</a><!--
---><span class="block.breadcrumbs.separator">&nbsp;</span>Privacy
+<a class="block.breadcrumbs.link" href="/">
+Home</a>
+<span class="block.breadcrumbs.separator">&nbsp;</span>Privacy
 </td>
 </tr>
 </tbody></table>
-<!-- END Breadcrumbs Block View -->
-<!-- BEGIN Top Navigation Block View -->
 <script type="text/javascript">
 $(document).ready(function() {
 $("ul.sf-menu-topnavigation").superfish({ delay: 1000, speed: 'normal', autoArrows: true, dropShadows: false });
@@ -629,11 +1046,8 @@ $("ul.sf-menu-topnavigation").superfish({ delay: 1000, speed: 'normal', autoArro
 <style type="text/css">
 .topnavigation-menu {
 width: 100%;
-height: 40px;
+height: 30px;
 background-color: gray;
-background-image: url('/MerchantUploads/edgeMedixSelect/blue_bar_blend_bkg.png');
-background-position: center top;
-background-repeat: repeat-x;
 }
 /*** ESSENTIAL STYLES ***/
 .sf-menu-topnavigation, .sf-menu-topnavigation * {
@@ -668,12 +1082,7 @@ text-decoration:none;
 height:	30px;
 font-family: Arial;
 font-size: 12px;
-font-weight: bold;
-text-transform: uppercase;
 background-color: gray;
-background-image: url('/MerchantUploads/edgeMedixSelect/blue_bar_blend_bkg.png');
-background-position: center top;
-background-repeat: repeat-x;
 }
 /* active links - set the class dynamically */
 .sf-menu-topnavigation a.activeLink {
@@ -780,16 +1189,10 @@ background: transparent;
 </li>
 </ul>
 </div>
-<!-- END Top Navigation Block View -->
-<!-- BEGIN E-mail Banner Content Block -->
-<table id="block.e-mailbanner" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><div class="promoBar">
-<a href="/items/products"><img alt="Medix Select Promo Codes" src="https://medixselectedge.jaggedpeak.com/MerchantUploads/edgeMedixSelect/EndOfMaySale_HeadlineBar_928x40%20(002).jpg"> </a></div>
-</td>
-</tr>
-</tbody></table>
-<!-- END E-mail Banner Content Block -->
+<table id="block.e-mailbanner" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<div class="promoBar">
+<a href="/items/products"><img alt="Medix Select Promo Codes" src="https://medixselectedge.jaggedpeak.com/MerchantUploads/edgeMedixSelect/Medix_0226_SpringGoodHealth_928x40.jpg"> </a></div>
+</td></tr></tbody></table>
 </td>
 </tr>
 <tr id="layout.default.row.row5">
@@ -797,10 +1200,8 @@ background: transparent;
 <table id="page.privacy" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
 <tbody><tr id="page.privacy.row.row1">
 <td id="page.privacy.row.row1.target.middle" colspan="3">
-<!-- BEGIN Privacy Content Block -->
-<table id="block.privacy" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><h2>Privacy Policy</h2>
+<table id="block.privacy" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<h2>Privacy Policy</h2>
 <p>This Privacy Policy (the "Privacy Policy") and other policies which may be posted on this website (the "Site"), such as Terms and Conditions of Use ("Terms and Conditions") and, if you purchase, enroll in or subscribe to any of the services, products or materials provided by Medix Health, LLC., MedixSelect.com or any of our affiliates on this Site ("Medix Health"), those purchase, enrollment or subscription terms (the "Other Agreements"), together govern your use of this Site. ALL OF THE AFORE-MENTIONED GOVERN YOUR USE OF THE SITE EVEN IN THE EVENT YOU ARE ACTING AS AN EMPLOYEE, AGENT, REPRESENTATIVE OR CONTRACTOR ON BEHALF OF ANY OTHER ENTITY OR PERSON. BY USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF OUR PROCESSING YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE SITE. YOUR CONTINUED USE OF THE SITE INDICATES TO US THAT YOU HAVE READ AND AGREE WITH OUR PRIVACY POLICY AND THAT YOU ACCEPT ANY CHANGES THERETO, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED EITHER THE POLICY OR ANY CHANGES THERETO. If you have any questions or concerns regarding this Privacy Policy, please contact: 800-500-4325.</p>
 <p>This Privacy Policy explains how we collect your Personal Data (as defined below) on the Site, how we protect such data, and the choices you have concerning our use of such data. Please read this Privacy Policy carefully. This Privacy Policy represents our current (as of the date first written above) data collection and usage practices. Medix Health will from time to time review and revise these practices. We will post any changes to this Privacy Policy here. Please refer back to this Privacy Policy on a regular basis. For the purposes of this Privacy Policy, " Medix Health ", "we", "us", and "our" means Medix Health and its affiliates.</p>
 <p>This Privacy Policy applies only to information collected by the Site. We are not responsible for the privacy of any information (i) that you reveal or post in any public forum that may be or in the future become available on the Site (e.g., message board or chat room), (ii) that is available now to the general public through no action or fault of Medix Health, or (iii) that Medix Health receives from any third party reasonably known to have a legal right to transmit such information and under no obligation to keep such information confidential. We are also not responsible for the privacy practices of websites that are operated or owned by third parties.</p>
@@ -834,10 +1235,7 @@ background: transparent;
 <p>We shall keep a copy of this Privacy Policy and if, at any time, you would like to see a copy of it, you should write to the address above.<br>
 <br>
 Last Update:&nbsp; 2/7/2013</p>
-</td>
-</tr>
-</tbody></table>
-<!-- END Privacy Content Block -->
+</td></tr></tbody></table>
 </td>
 </tr>
 </tbody></table>
@@ -847,16 +1245,18 @@ Last Update:&nbsp; 2/7/2013</p>
 <td id="layout.default.row.row7.target.middle" colspan="3">
 <table cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr>
 <td class="layout.default.row.row7.target.middle.cell.horizontal">
-<!-- BEGIN Newsletter Signup - Footer Content Block -->
-<table id="block.newslettersignup-footer" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><style type="text/css">
+<table id="block.newslettersignup-footer" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<style type="text/css">
 #footerSignUpCell{
 background: url('/MerchantUploads/edgeMedixSelect/newsletter_signup_bg.jpg') no-repeat top center;
 width: 926px;
 height: 250px;
 position: relative;
-margin: 0 auto;
+margin: 0 auto 20px;
+}
+#signUpEmailConfirm
+{
+padding: 3px !important;
 }
 #nmSignUpContainer{
 color: #003385;
@@ -952,8 +1352,7 @@ filter:none!important;
 font-size: 18px;
 padding-top: 15px;
 text-align: center;
-}
-</style>
+}</style>
 <script type="text/javascript">
 /* START live validation compressed */
 // LiveValidation 1.3 (standalone version)
@@ -1014,7 +1413,7 @@ zipSignUp.add(Validate.Presence, { failureMessage: "Please enter your Zip Code" 
 // Sign Up Form Submission Function
 function subscribe(email, country, zip, promocode, lists, deploymentid, sendEmail)
 {
-var url = "http://www.newsmax.com/CmsPages/newsmax/Handlers/EmailSubscribe.ashx?site=medix&email=" + email.toString() + "&country=" + country.toString() + "&zip=" + zip.toString() + "&promocode=" + promocode.toString() + "&lists=" + lists.toString() + "&did=" + deploymentid.toString() + "&wemail=" + sendEmail.toString();
+var url = "http://www.newsmax.com/CmsPages/newsmax/Handlers/EmailSubscribe.ashx?site=medix?Email=" + email.toString() + "&country=" + country.toString() + "&zip=" + zip.toString() + "&promocode=" + promocode.toString() + "&lists=" + lists.toString() + "&did=" + deploymentid.toString() + "&wemail=" + sendEmail.toString();
 url = encodeURI(url);
 if( $.browser.msie && window.XDomainRequest)
 {
@@ -1033,9 +1432,9 @@ $('.signupSubmit').click(function()
 //Check if form is valid
 if (LiveValidation.massValidate([emailSignUp, zipSignUp]))
 {
-var strURL = '/AgileNewsmax/model/AjaxHandler.cfc?method=ajaxPushSubscriber';
-strURL += '&Email=' + $('#signUpEmail').val();
-strURL += '&Lists=' + '125,3,346';
+var strURL = '/event/ajaxPushSubscriber';
+strURL += '?Email=' + $('#signUpEmail').val();
+strURL += '&Lists=' + '125,419';
 strURL += '&country=' + $('#signupCountryDrop').val();
 strURL += '&Zip=' + $('#signUpZip').val();
 strURL += '&DiD=';
@@ -1073,105 +1472,88 @@ $('#nmSignUpBottom').text('There was a problem signing up, please try again in a
 <!-- Email Signup Box Start -->
 <div id="nmSignUpContainer">
 <div id="signupFormWrapper2">
-<div class="nmSignUpLabel">Email:</div>
+<div class="nmSignUpLabel">
+Email:</div>
 <div class="nmSignUpInputCont">
-<input class="nmSignUpInput" id="signUpEmail" name="signUpEmail" type="text">
-</div>
-<div class="clear">&nbsp;</div>
-<div class="signupError" style="font-size: 0px; padding: 5px;">&nbsp;</div>
-<div class="nmSignUpLabel">Confirm Email:</div>
+<input class="nmSignUpInput" id="signUpEmail" name="signUpEmail" type="text"></div>
+<div class="clear">
+&nbsp;</div>
+<div class="signupError" style="font-size: 0px; padding: 5px;">
+&nbsp;</div>
+<div class="nmSignUpLabel">
+Confirm Email:</div>
 <div class="nmSignUpInputCont">
-<input class="nmSignUpInput" id="signUpEmailConfirm" name="signUpEmailConfirm" type="text">
-</div>
-<div class="clear">&nbsp;</div>
-<div class="signupError" style="font-size: 0px; padding: 5px;">&nbsp;</div>
-<div class="nmSignUpLabel">Country:</div>
+<input class="nmSignUpInput" id="signUpEmailConfirm" name="signUpEmailConfirm" type="text"></div>
+<div class="clear">
+&nbsp;</div>
+<div class="signupError" style="font-size: 0px; padding: 5px;">
+&nbsp;</div>
+<div class="nmSignUpLabel">
+Country:</div>
 <div class="nmSignUpInputCont">
-<select class="nmSignUpInput" id="signupCountryDrop" name="signupCountryDrop"><option value="USA">UNITED STATES</option><option value="AFG">AFGHANISTAN</option><option value="ALA">ÅLAND ISLANDS</option><option value="ALB">ALBANIA</option><option value="DZA">ALGERIA</option><option value="ASM">AMERICAN SAMOA</option><option value="AND">ANDORRA</option><option value="AGO">ANGOLA</option><option value="AIA">ANGUILLA</option><option value="ATA">ANTARCTICA</option><option value="ATG">ANTIGUA AND BARBUDA</option><option value="ARG">ARGENTINA</option><option value="ARM">ARMENIA</option><option value="ABW">ARUBA</option><option value="AUS">AUSTRALIA</option><option value="AUT">AUSTRIA</option><option value="AZE">AZERBAIJAN</option><option value="BHS">BAHAMAS</option><option value="BHR">BAHRAIN</option><option value="BGD">BANGLADESH</option><option value="BRB">BARBADOS</option><option value="BLR">BELARUS</option><option value="BEL">BELGIUM</option><option value="BLZ">BELIZE</option><option value="BEN">BENIN</option><option value="BMU">BERMUDA</option><option value="BTN">BHUTAN</option><option value="BOL">BOLIVIA</option><option value="BIH">BOSNIA AND HERZEGOVINA</option><option value="BWA">BOTSWANA</option><option value="BVT">BOUVET ISLAND</option><option value="BRA">BRAZIL</option><option value="IOT">BRITISH INDIAN OCEAN TERRITORY</option><option value="BRN">BRUNEI DARUSSALAM</option><option value="BGR">BULGARIA</option><option value="BFA">BURKINA FASO</option><option value="BDI">BURUNDI</option><option value="KHM">CAMBODIA</option><option value="CMR">CAMEROON</option><option value="CAN">CANADA</option><option value="CPV">CAPE VERDE</option><option value="CYM">CAYMAN ISLANDS</option><option f="" value="CA">CENTRAL AFRICAN REPUBLIC</option><option value="TCD">CHAD</option><option value="CHL">CHILE</option><option value="CHN">CHINA</option><option value="CXR">CHRISTMAS ISLAND</option><option value="CCK">COCOS (KEELING) ISLANDS</option><option value="COL">COLOMBIA</option><option value="COM">COMOROS</option><option value="COG">CONGO</option><option value="COD">CONGO, THE DEMOCRATIC REPUBLIC OF THE</option><option value="COK">COOK ISLANDS</option><option value="CRI">COSTA RICA</option><option value="CIV">CÔTE D'IVOIRE</option><option value="HRV">CROATIA</option><option value="CUB">CUBA</option><option value="CUW">Curacao</option><option value="CYP">CYPRUS</option><option value="CZE">CZECH REPUBLIC</option><option value="DNK">DENMARK</option><option value="DJI">DJIBOUTI</option><option value="DMA">DOMINICA</option><option value="DOM">DOMINICAN REPUBLIC</option><option value="ECU">ECUADOR</option><option value="EGY">EGYPT</option><option value="SLV">EL SALVADOR</option><option value="GNQ">EQUATORIAL GUINEA</option><option value="ERI">ERITREA</option><option value="EST">ESTONIA</option><option value="ETH">ETHIOPIA</option><option value="FLK">FALKLAND ISLANDS (MALVINAS)</option><option value="FRO">FAROE ISLANDS</option><option value="FJI">FIJI</option><option value="FIN">FINLAND</option><option value="FRA">FRANCE</option><option f="" value="GU">FRENCH GUIANA</option><option f="" value="PY">FRENCH POLYNESIA</option><option f="" value="AT">FRENCH SOUTHERN TERRITORIES</option><option value="GAB">GABON</option><option value="GMB">GAMBIA</option><option value="GEO">GEORGIA</option><option value="DEU">GERMANY</option><option value="GHA">GHANA</option><option value="GIB">GIBRALTAR</option><option value="GRC">GREECE</option><option value="GRL">GREENLAND</option><option value="GRD">GRENADA</option><option value="GLP">GUADELOUPE</option><option value="GUM">GUAM</option><option value="GTM">GUATEMALA</option><option value="GGY">GUERNSEY</option><option value="GIN">GUINEA</option><option value="GNB">GUINEA-BISSAU</option><option value="GUY">GUYANA</option><option value="HTI">HAITI</option><option value="HMD">HEARD AND MCDONALD ISLANDS</option><option value="VAT">HOLY SEE (VATICAN CITY STATE)</option><option value="HND">HONDURAS</option><option value="HKG">HONG KONG</option><option value="HUN">HUNGARY</option><option value="ISL">ICELAND</option><option value="IND">INDIA</option><option value="IDN">INDONESIA</option><option value="IRN">IRAN, ISLAMIC REPUBLIC OF</option><option value="IRQ">IRAQ</option><option value="IRL">IRELAND</option><option value="IMN">ISLE OF MAN</option><option value="ISR">ISRAEL</option><option value="ITA">ITALY</option><option value="JAM">JAMAICA</option><option value="JPN">JAPAN</option><option value="JEY">JERSEY</option><option value="JOR">JORDAN</option><option value="KAZ">KAZAKHSTAN</option><option value="KEN">KENYA</option><option value="KIR">KIRIBATI</option><option value="PRK">KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</option><option value="KOR">KOREA, REPUBLIC OF</option><option value="KWT">KUWAIT</option><option value="KGZ">KYRGYZSTAN</option><option value="LAO">LAO PEOPLE'S DEMOCRATIC REPUBLIC</option><option value="LVA">LATVIA</option><option value="LBN">LEBANON</option><option value="LSO">LESOTHO</option><option value="LBR">LIBERIA</option><option value="LBY">LIBYAN ARAB JAMAHIRIYA</option><option value="LIE">LIECHTENSTEIN</option><option value="LTU">LITHUANIA</option><option value="LUX">LUXEMBOURG</option><option value="MAC">MACAO</option><option value="MKD">MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</option><option value="MDG">MADAGASCAR</option><option value="MWI">MALAWI</option><option value="MYS">MALAYSIA</option><option value="MDV">MALDIVES</option><option value="MLI">MALI</option><option value="MLT">MALTA</option><option value="MHL">MARSHALL ISLANDS</option><option value="MTQ">MARTINIQUE</option><option value="MRT">MAURITANIA</option><option value="MUS">MAURITIUS</option><option value="MYT">MAYOTTE</option><option value="MEX">MEXICO</option><option value="FSM">MICRONESIA, FEDERATED STATES OF</option><option value="MDA">MOLDOVA</option><option value="MCO">MONACO</option><option value="MNG">MONGOLIA</option><option value="MNE">MONTENEGRO</option><option value="MSR">MONTSERRAT</option><option value="MAR">MOROCCO</option><option value="MOZ">MOZAMBIQUE</option><option value="MMR">MYANMAR</option><option value="NAM">NAMIBIA</option><option value="NRU">NAURU</option><option value="NPL">NEPAL</option><option value="NLD">NETHERLANDS</option><option value="ANT">NETHERLANDS ANTILLES</option><option value="NCL">NEW CALEDONIA</option><option value="NZL">NEW ZEALAND</option><option value="NIC">NICARAGUA</option><option value="NER">NIGER</option><option value="NGA">NIGERIA</option><option value="NIU">NIUE</option><option value="NFK">NORFOLK ISLAND</option><option value="MNP">NORTHERN MARIANA ISLANDS</option><option value="NOR">NORWAY</option><option value="OMN">OMAN</option><option value="PAK">PAKISTAN</option><option value="PLW">PALAU</option><option value="PSE">PALESTINIAN TERRITORY, OCCUPIED</option><option value="PAN">PANAMA</option><option value="PNG">PAPUA NEW GUINEA</option><option value="PRY">PARAGUAY</option><option value="PER">PERU</option><option value="PHL">PHILIPPINES</option><option value="PCN">PITCAIRN</option><option value="POL">POLAND</option><option value="PRT">PORTUGAL</option><option value="PRI">PUERTO RICO</option><option value="QAT">QATAR</option><option value="REU">REUNION</option><option value="ROU">ROMANIA</option><option value="RUS">RUSSIAN FEDERATION</option><option value="RWA">RWANDA</option><option value="BLM">SAINT BARTHÉLEMY</option><option value="SHN">SAINT HELENA</option><option value="KNA">SAINT KITTS AND NEVIS</option><option value="LCA">SAINT LUCIA</option><option f="" value="MA">SAINT MARTIN (French part)</option><option value="SPM">SAINT PIERRE AND MIQUELON</option><option value="VCT">SAINT VINCENT AND THE GRENADINES</option><option value="WSM">SAMOA</option><option value="SMR">SAN MARINO</option><option value="STP">SAO TOME AND PRINCIPE</option><option value="SAU">SAUDI ARABIA</option><option value="SEN">SENEGAL</option><option value="SRB">SERBIA</option><option value="SYC">SEYCHELLES</option><option value="SLE">SIERRA LEONE</option><option value="SGP">SINGAPORE</option><option value="SVK">SLOVAKIA</option><option value="SVN">SLOVENIA</option><option value="SLB">SOLOMON ISLANDS</option><option value="SOM">SOMALIA</option><option f="" value="ZA">SOUTH AFRICA</option><option value="SGS">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option><option value="SSD">South Sudan</option><option value="ESP">SPAIN</option><option value="LKA">SRI LANKA</option><option value="SDN">SUDAN</option><option value="SUR">SURINAME</option><option value="SJM">SVALBARD AND JAN MAYEN ISLANDS</option><option value="SWZ">SWAZILAND</option><option value="SWE">SWEDEN</option><option value="CHE">SWITZERLAND</option><option value="SYR">SYRIAN ARAB REPUBLIC</option><option value="TWN">TAIWAN, PROVINCE OF CHINA</option><option value="TJK">TAJIKISTAN</option><option value="TZA">TANZANIA, UNITED REPUBLIC OF</option><option value="THA">THAILAND</option><option value="TLS">TIMOR-LESTE</option><option value="TGO">TOGO</option><option value="TKL">TOKELAU</option><option value="TON">TONGA</option><option value="TTO">TRINIDAD AND TOBAGO</option><option value="TAA">TRISTAN DE CUNHA</option><option value="TUN">TUNISIA</option><option value="TUR">TURKEY</option><option value="TKM">TURKMENISTAN</option><option value="TCA">TURKS AND CAICOS ISLANDS</option><option value="TUV">TUVALU</option><option value="UGA">UGANDA</option><option value="UKR">UKRAINE</option><option value="ARE">UNITED ARAB EMIRATES</option><option value="GBR">UNITED KINGDOM</option><option value="UMI">UNITED STATES MINOR OUTLYING ISLANDS</option><option value="URY">URUGUAY</option><option value="UZB">UZBEKISTAN</option><option value="VUT">VANUATU</option><option value="VEN">VENEZUELA</option><option value="VNM">VIET NAM</option><option value="VIR">VIRGIN ISLANDS ( U.S.)</option><option value="VGB">VIRGIN ISLANDS, BRITISH</option><option f="" value="WL">WALLIS AND FUTUNA ISLANDS</option><option value="ESH">WESTERN SAHARA</option><option value="YEM">YEMEN</option><option value="ZMB">ZAMBIA</option><option value="ZWE">ZIMBABWE</option></select>
-</div>
+<select class="nmSignUpInput" id="signupCountryDrop" name="signupCountryDrop"><option value="USA">UNITED STATES</option><option value="AFG">AFGHANISTAN</option><option value="ALA">ÅLAND ISLANDS</option><option value="ALB">ALBANIA</option><option value="DZA">ALGERIA</option><option value="ASM">AMERICAN SAMOA</option><option value="AND">ANDORRA</option><option value="AGO">ANGOLA</option><option value="AIA">ANGUILLA</option><option value="ATA">ANTARCTICA</option><option value="ATG">ANTIGUA AND BARBUDA</option><option value="ARG">ARGENTINA</option><option value="ARM">ARMENIA</option><option value="ABW">ARUBA</option><option value="AUS">AUSTRALIA</option><option value="AUT">AUSTRIA</option><option value="AZE">AZERBAIJAN</option><option value="BHS">BAHAMAS</option><option value="BHR">BAHRAIN</option><option value="BGD">BANGLADESH</option><option value="BRB">BARBADOS</option><option value="BLR">BELARUS</option><option value="BEL">BELGIUM</option><option value="BLZ">BELIZE</option><option value="BEN">BENIN</option><option value="BMU">BERMUDA</option><option value="BTN">BHUTAN</option><option value="BOL">BOLIVIA</option><option value="BIH">BOSNIA AND HERZEGOVINA</option><option value="BWA">BOTSWANA</option><option value="BVT">BOUVET ISLAND</option><option value="BRA">BRAZIL</option><option value="IOT">BRITISH INDIAN OCEAN TERRITORY</option><option value="BRN">BRUNEI DARUSSALAM</option><option value="BGR">BULGARIA</option><option value="BFA">BURKINA FASO</option><option value="BDI">BURUNDI</option><option value="KHM">CAMBODIA</option><option value="CMR">CAMEROON</option><option value="CAN">CANADA</option><option value="CPV">CAPE VERDE</option><option value="CYM">CAYMAN ISLANDS</option><option f="" value="CA">CENTRAL AFRICAN REPUBLIC</option><option value="TCD">CHAD</option><option value="CHL">CHILE</option><option value="CHN">CHINA</option><option value="CXR">CHRISTMAS ISLAND</option><option value="CCK">COCOS (KEELING) ISLANDS</option><option value="COL">COLOMBIA</option><option value="COM">COMOROS</option><option value="COG">CONGO</option><option value="COD">CONGO, THE DEMOCRATIC REPUBLIC OF THE</option><option value="COK">COOK ISLANDS</option><option value="CRI">COSTA RICA</option><option value="CIV">CÔTE D'IVOIRE</option><option value="HRV">CROATIA</option><option value="CUB">CUBA</option><option value="CUW">Curacao</option><option value="CYP">CYPRUS</option><option value="CZE">CZECH REPUBLIC</option><option value="DNK">DENMARK</option><option value="DJI">DJIBOUTI</option><option value="DMA">DOMINICA</option><option value="DOM">DOMINICAN REPUBLIC</option><option value="ECU">ECUADOR</option><option value="EGY">EGYPT</option><option value="SLV">EL SALVADOR</option><option value="GNQ">EQUATORIAL GUINEA</option><option value="ERI">ERITREA</option><option value="EST">ESTONIA</option><option value="ETH">ETHIOPIA</option><option value="FLK">FALKLAND ISLANDS (MALVINAS)</option><option value="FRO">FAROE ISLANDS</option><option value="FJI">FIJI</option><option value="FIN">FINLAND</option><option value="FRA">FRANCE</option><option f="" value="GU">FRENCH GUIANA</option><option f="" value="PY">FRENCH POLYNESIA</option><option f="" value="AT">FRENCH SOUTHERN TERRITORIES</option><option value="GAB">GABON</option><option value="GMB">GAMBIA</option><option value="GEO">GEORGIA</option><option value="DEU">GERMANY</option><option value="GHA">GHANA</option><option value="GIB">GIBRALTAR</option><option value="GRC">GREECE</option><option value="GRL">GREENLAND</option><option value="GRD">GRENADA</option><option value="GLP">GUADELOUPE</option><option value="GUM">GUAM</option><option value="GTM">GUATEMALA</option><option value="GGY">GUERNSEY</option><option value="GIN">GUINEA</option><option value="GNB">GUINEA-BISSAU</option><option value="GUY">GUYANA</option><option value="HTI">HAITI</option><option value="HMD">HEARD AND MCDONALD ISLANDS</option><option value="VAT">HOLY SEE (VATICAN CITY STATE)</option><option value="HND">HONDURAS</option><option value="HKG">HONG KONG</option><option value="HUN">HUNGARY</option><option value="ISL">ICELAND</option><option value="IND">INDIA</option><option value="IDN">INDONESIA</option><option value="IRN">IRAN, ISLAMIC REPUBLIC OF</option><option value="IRQ">IRAQ</option><option value="IRL">IRELAND</option><option value="IMN">ISLE OF MAN</option><option value="ISR">ISRAEL</option><option value="ITA">ITALY</option><option value="JAM">JAMAICA</option><option value="JPN">JAPAN</option><option value="JEY">JERSEY</option><option value="JOR">JORDAN</option><option value="KAZ">KAZAKHSTAN</option><option value="KEN">KENYA</option><option value="KIR">KIRIBATI</option><option value="PRK">KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</option><option value="KOR">KOREA, REPUBLIC OF</option><option value="KWT">KUWAIT</option><option value="KGZ">KYRGYZSTAN</option><option value="LAO">LAO PEOPLE'S DEMOCRATIC REPUBLIC</option><option value="LVA">LATVIA</option><option value="LBN">LEBANON</option><option value="LSO">LESOTHO</option><option value="LBR">LIBERIA</option><option value="LBY">LIBYAN ARAB JAMAHIRIYA</option><option value="LIE">LIECHTENSTEIN</option><option value="LTU">LITHUANIA</option><option value="LUX">LUXEMBOURG</option><option value="MAC">MACAO</option><option value="MKD">MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</option><option value="MDG">MADAGASCAR</option><option value="MWI">MALAWI</option><option value="MYS">MALAYSIA</option><option value="MDV">MALDIVES</option><option value="MLI">MALI</option><option value="MLT">MALTA</option><option value="MHL">MARSHALL ISLANDS</option><option value="MTQ">MARTINIQUE</option><option value="MRT">MAURITANIA</option><option value="MUS">MAURITIUS</option><option value="MYT">MAYOTTE</option><option value="MEX">MEXICO</option><option value="FSM">MICRONESIA, FEDERATED STATES OF</option><option value="MDA">MOLDOVA</option><option value="MCO">MONACO</option><option value="MNG">MONGOLIA</option><option value="MNE">MONTENEGRO</option><option value="MSR">MONTSERRAT</option><option value="MAR">MOROCCO</option><option value="MOZ">MOZAMBIQUE</option><option value="MMR">MYANMAR</option><option value="NAM">NAMIBIA</option><option value="NRU">NAURU</option><option value="NPL">NEPAL</option><option value="NLD">NETHERLANDS</option><option value="ANT">NETHERLANDS ANTILLES</option><option value="NCL">NEW CALEDONIA</option><option value="NZL">NEW ZEALAND</option><option value="NIC">NICARAGUA</option><option value="NER">NIGER</option><option value="NGA">NIGERIA</option><option value="NIU">NIUE</option><option value="NFK">NORFOLK ISLAND</option><option value="MNP">NORTHERN MARIANA ISLANDS</option><option value="NOR">NORWAY</option><option value="OMN">OMAN</option><option value="PAK">PAKISTAN</option><option value="PLW">PALAU</option><option value="PSE">PALESTINIAN TERRITORY, OCCUPIED</option><option value="PAN">PANAMA</option><option value="PNG">PAPUA NEW GUINEA</option><option value="PRY">PARAGUAY</option><option value="PER">PERU</option><option value="PHL">PHILIPPINES</option><option value="PCN">PITCAIRN</option><option value="POL">POLAND</option><option value="PRT">PORTUGAL</option><option value="PRI">PUERTO RICO</option><option value="QAT">QATAR</option><option value="REU">REUNION</option><option value="ROU">ROMANIA</option><option value="RUS">RUSSIAN FEDERATION</option><option value="RWA">RWANDA</option><option value="BLM">SAINT BARTHÉLEMY</option><option value="SHN">SAINT HELENA</option><option value="KNA">SAINT KITTS AND NEVIS</option><option value="LCA">SAINT LUCIA</option><option f="" value="MA">SAINT MARTIN (French part)</option><option value="SPM">SAINT PIERRE AND MIQUELON</option><option value="VCT">SAINT VINCENT AND THE GRENADINES</option><option value="WSM">SAMOA</option><option value="SMR">SAN MARINO</option><option value="STP">SAO TOME AND PRINCIPE</option><option value="SAU">SAUDI ARABIA</option><option value="SEN">SENEGAL</option><option value="SRB">SERBIA</option><option value="SYC">SEYCHELLES</option><option value="SLE">SIERRA LEONE</option><option value="SGP">SINGAPORE</option><option value="SVK">SLOVAKIA</option><option value="SVN">SLOVENIA</option><option value="SLB">SOLOMON ISLANDS</option><option value="SOM">SOMALIA</option><option f="" value="ZA">SOUTH AFRICA</option><option value="SGS">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option><option value="SSD">South Sudan</option><option value="ESP">SPAIN</option><option value="LKA">SRI LANKA</option><option value="SDN">SUDAN</option><option value="SUR">SURINAME</option><option value="SJM">SVALBARD AND JAN MAYEN ISLANDS</option><option value="SWZ">SWAZILAND</option><option value="SWE">SWEDEN</option><option value="CHE">SWITZERLAND</option><option value="SYR">SYRIAN ARAB REPUBLIC</option><option value="TWN">TAIWAN, PROVINCE OF CHINA</option><option value="TJK">TAJIKISTAN</option><option value="TZA">TANZANIA, UNITED REPUBLIC OF</option><option value="THA">THAILAND</option><option value="TLS">TIMOR-LESTE</option><option value="TGO">TOGO</option><option value="TKL">TOKELAU</option><option value="TON">TONGA</option><option value="TTO">TRINIDAD AND TOBAGO</option><option value="TAA">TRISTAN DE CUNHA</option><option value="TUN">TUNISIA</option><option value="TUR">TURKEY</option><option value="TKM">TURKMENISTAN</option><option value="TCA">TURKS AND CAICOS ISLANDS</option><option value="TUV">TUVALU</option><option value="UGA">UGANDA</option><option value="UKR">UKRAINE</option><option value="ARE">UNITED ARAB EMIRATES</option><option value="GBR">UNITED KINGDOM</option><option value="UMI">UNITED STATES MINOR OUTLYING ISLANDS</option><option value="URY">URUGUAY</option><option value="UZB">UZBEKISTAN</option><option value="VUT">VANUATU</option><option value="VEN">VENEZUELA</option><option value="VNM">VIET NAM</option><option value="VIR">VIRGIN ISLANDS ( U.S.)</option><option value="VGB">VIRGIN ISLANDS, BRITISH</option><option f="" value="WL">WALLIS AND FUTUNA ISLANDS</option><option value="ESH">WESTERN SAHARA</option><option value="YEM">YEMEN</option><option value="ZMB">ZAMBIA</option><option value="ZWE">ZIMBABWE</option></select></div>
 <div class="signupError">
-<div id="signupZipError">&nbsp;</div>
+<div id="signupZipError">
+&nbsp;</div>
 </div>
-<div class="nmSignUpLabel nmSignUpLabelZip">Zip Code:</div>
+<div class="nmSignUpLabel nmSignUpLabelZip">
+Zip Code:</div>
 <div class="nmSignUpInputContSm">
 <input class="nmSignUpInputSm" id="signUpZip" name="signUpZip" type="text"> <!-- <input type="button" value="" class="signupSubmit" src="/MerchantUploads/edgeMedixSelect/signupbutton.jpg" />--><button class="signupSubmit" id="signUpSubmitBtn" type="submit"><img src="/MerchantUploads/edgeMedixSelect/signupbutton.jpg"></button>
-<div class="clear">&nbsp;</div>
+<div class="clear">
+&nbsp;</div>
 </div>
-<div class="clear">&nbsp;</div>
-<div id="Progress">&nbsp;</div>
+<div class="clear">
+&nbsp;</div>
+<div id="Progress">
+&nbsp;</div>
 </div>
-<div id="nmSignUpBottom">&nbsp;</div>
+<div id="nmSignUpBottom">
+&nbsp;</div>
 </div>
-<!-- Email Signup Box End -->
-</div>
-</td>
-</tr>
-</tbody></table>
-<!-- END Newsletter Signup - Footer Content Block -->
+<!-- Email Signup Box End --></div>
+</td></tr></tbody></table>
 </td>
 </tr></tbody></table>
 </td>
 </tr>
 <tr id="layout.default.row.row8">
 <td id="layout.default.row.row8.target.middle" colspan="3">
-<!-- BEGIN Page Cap - Bottom Content Block -->
-<table id="block.pagecap-bottom" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><img alt="BG_ContentBottom" height="10" src="/MerchantUploads/edgeMedixSelect/content_bkg_footer.png" width="959"></td>
-</tr>
-</tbody></table>
-<!-- END Page Cap - Bottom Content Block -->
+<table id="block.pagecap-bottom" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<img alt="BG_ContentBottom" height="10" src="/MerchantUploads/edgeMedixSelect/content_bkg_footer.png" width="959">
+</td></tr></tbody></table>
 </td>
 </tr>
 <tr id="layout.default.row.row9">
 <td id="layout.default.row.row9.target.middle" colspan="3">
-<!-- BEGIN Footer Content Block -->
-<table id="block.footer" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><div id="footer">
+<table id="block.footer" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<div id="footer">
 <div id="logo_and_disclaimer">
 <a href="/" id="footer_logo"><img alt="medix select logo" height="35" src="/MerchantUploads/edgeMedixSelect/Logo_Footer.jpg" width="136"> </a>
-<p>Copyright 2016 Medix Health LLC and MedixSelect.com<br>
+<p>Copyright 2017 Medix Health LLC and MedixSelect.com<br>
 All rights reserved</p>
 </div>
 <p id="footer_links"><a href="/event/page/pageCode/freehealthalerts">Free Health Alerts</a> | <a href="/event/page/pageCode/customercare#returns">Returns </a>| <a href="/event/page/pageCode/customercare#shipping">Shipping</a> | <a href="/page/articles/">Articles</a> | <a href="/event/page/pageCode/privacy">Privacy</a> | <a href="/event/page/pageCode/terms">Terms</a> | <a href="/event/page/pageCode/contactus">Contact</a> | <a href="/event/page/pageCode/sitemap">Site Map</a></p>
 </div>
 <p>&nbsp;</p>
-</td>
-</tr>
-</tbody></table>
-<!-- END Footer Content Block -->
-<!-- BEGIN Footer Disclaimer Content Block -->
-<table id="block.footerdisclaimer" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><div class="footerDisclaimer">
+</td></tr></tbody></table>
+<table id="block.footerdisclaimer" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<div class="footerDisclaimer">
 The statements made on this website have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure, or prevent any disease.
-<!--The statements made on this website have not been evaluated by the Food and Drug Administration (FDA). The FDA only evaluates foods and drugs, not nutritional supplements like these products. These products are not intended to diagnose, prevent, treat, or cure any disease. Consumers are advised to read all labels and follow all directions. The information provided on this site is for informational purposes only and is not intended as a substitute for advice from your physician or other health care professional or any information contained on or in any product label or packaging. Always consult with a physician before using these or any such products. Pregnant or lactating women, or anyone with any illness should consult with their physician prior to taking these products.--></div>
-</td>
-</tr>
-</tbody></table>
-<!-- END Footer Disclaimer Content Block -->
-<!-- BEGIN Custom Tracking Pixel Block View -->
-<img src="/page/secure?src=&amp;promo_code=" width="1" height="1" border="0">
-<!-- END Custom Tracking Pixel Block View -->
-<!-- BEGIN Tracking Pixel - Value Click Remarketing Content Block -->
-<table id="block.trackingpixel-valueclickremarketing" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><img src="http://media.fastclick.net/w/tre?ad_id=27617;evt=20260;cat1=26711;cat2=26712;rand=[CACHEBUSTER]" width="1" height="1" border="0"></td>
-</tr>
-</tbody></table>
-<!-- END Tracking Pixel - Value Click Remarketing Content Block -->
-<!-- BEGIN Tracking Pixel - Contextin - Main RT Content Block -->
-<table id="block.trackingpixel-contextin-mainrt" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><script type="text/javascript" src="http://s3.amazonaws.com/cicloudfront/pix/asyncPixelLoader.js?url=http%3A%2F%2Fconvusmp.admailtiser.com%2Fst%3Fcias%3D1%26cipid%3D36040%26ttype%3D0%26pix%3D31112116%26segid%3D2703229"></script></td>
-</tr>
-</tbody></table>
-<!-- END Tracking Pixel - Contextin - Main RT Content Block -->
-<!-- BEGIN Remarketing Tag For Entire Website Content Block -->
-<table id="block.remarketingtagforentirewebsite" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><!-- Google Code for Remarketing Tag --><!--------------------------------------------------
+<p style="font-size: 16px"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medix Health™</strong><br>
+&nbsp;</p>
+<p style="font-size: 16px"><strong><!--The statements made on this website have not been evaluated by the Food and Drug Administration (FDA). The FDA only evaluates foods and drugs, not nutritional supplements like these products. These products are not intended to diagnose, prevent, treat, or cure any disease. Consumers are advised to read all labels and follow all directions. The information provided on this site is for informational purposes only and is not intended as a substitute for advice from your physician or other health care professional or any information contained on or in any product label or packaging. Always consult with a physician before using these or any such products. Pregnant or lactating women, or anyone with any illness should consult with their physician prior to taking these products.--></strong></p>
+</div>
+<p>&nbsp;</p>
+</td></tr></tbody></table>
+<table id="block.trackingpixel-valueclickremarketing" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<p><img border="0" height="1" src="https://media.fastclick.net/w/tre?ad_id=27617;evt=20260;cat1=26711;cat2=26712;rand=[CACHEBUSTER]" width="1"></p>
+</td></tr></tbody></table>
+<table id="block.trackingpixel-contextin-mainrt" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<script type="text/javascript" src="https://s3.amazonaws.com/cicloudfront/pix/asyncPixelLoader.js?url=https%3A%2F%2Fconvusmp.admailtiser.com%2Fst%3Fcias%3D1%26cipid%3D36040%26ttype%3D0%26pix%3D31112116%26segid%3D2703229"></script>
+</td></tr></tbody></table>
+<table id="block.remarketingtagforentirewebsite" cellpadding="0" cellspacing="0" border="0" style="width: 100%;"><tbody><tr><td>
+<!-- Google Code for Remarketing Tag --><!--------------------------------------------------
 Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
 ---------------------------------------------------><script type="text/javascript">
 var google_tag_params = {
@@ -1190,10 +1572,8 @@ var google_remarketing_only = true;
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1016001547/?value=0&guid=ON&script=0"/>
 </div>
-</noscript></td>
-</tr>
-</tbody></table>
-<!-- END Remarketing Tag For Entire Website Content Block -->
+</noscript>
+</td></tr></tbody></table>
 </td>
 </tr>
 </tbody></table><script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f6ca4df7f0fd0e9"></script>
@@ -1206,6 +1586,8 @@ document.write(unescape("%3Cscript src='" + "https://analytics.jaggedpeak.com/pi
 try {
 var piwikTracker = Piwik.getTracker("https://analytics.jaggedpeak.com/piwik/piwik.php", 47);
 piwikTracker.enableLinkTracking();
+piwikTracker.setCustomVariable(1, "channel", "agile");
+piwikTracker.setCustomData({"locale":"en-US"});
 piwikTracker.trackPageView();
 } catch( err ) {}
 </script>
@@ -1213,6 +1595,8 @@ piwikTracker.trackPageView();
 try {
 var piwikTracker = Piwik.getTracker("https://analytics.jaggedpeak.com/piwik/piwik.php", 49);
 piwikTracker.enableLinkTracking();
+piwikTracker.setCustomVariable(1, "channel", "agile");
+piwikTracker.setCustomData({"locale":"en-US"});
 piwikTracker.trackPageView();
 } catch( err ) {}
 </script></body></html>
