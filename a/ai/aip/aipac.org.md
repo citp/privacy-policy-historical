@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aipac.org privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223034331id_/http%3A//www.aipac.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aipac.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172446id_/http%3A//www.aipac.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AIPAC.org
 
@@ -8,7 +8,7 @@ Effective Date: 4/11/2016
 
 This privacy policy applies to [www.aipac.org](http://www.aipac.org/) and [https://aipac.secure.force.com](https://aipac.secure.force.com/) owned and operated by AIPAC. This privacy policy describes how AIPAC collects and uses the personal information you provide on our websites: [www.aipac.org](http://www.aipac.org/) and [https://aipac.secure.force.com](https://aipac.secure.force.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-If you have questions or concerns regarding this Statement, you should contact [membership@aipac.org](https://web.archive.org/web/20161223034331id_/http%3A//www.aipac.org/about/membership@aipac.org). 
+If you have questions or concerns regarding this Statement, you should contact [membership@aipac.org](https://web.archive.org/web/20170606172446id_/http%3A//www.aipac.org/about/membership@aipac.org). 
 
 AIPAC firmly believes in protecting the privacy of our members as well as visitors to our website.  
 
