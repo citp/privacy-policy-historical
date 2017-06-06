@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beangroup.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017070437id_/http%3A//www.beangroup.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beangroup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195657id_/http%3A//www.beangroup.com/content/Privacy_Policy/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bean Group
+# Bean Group
 
-We at Bean Group (referred to as "We," "Us," or "Our") recognize the importance of protecting the privacy of certain information collected about the users and visitors of Our Web Site (referred to as "User," "You" or "Your"). This Privacy Policy discloses what information We gather, how We use it, and how to correct or change it. At Bean Group, it is Our intention to give You an understanding about how We collect Your information and the use We make of it in the course of Our business. 
+We at Bean Group (referred to as "We," "Us," or "Our") recognize the importance of protecting the privacy of certain information collected about the users and visitors of Our Web Site (referred to as "User," "You" or "Your"). This Privacy Policy discloses what information We gather, how We use it, and how to correct or change it. At Bean Group, it is Our intention to give You an understanding about how We collect Your information and the use We make of it in the course of Our business.
 
 To that end, Bean Group gathers two types of information about You: 1) data that Users provide through optional, voluntary registration on Our Web Site, and 2) data that Bean Group gathers through aggregated tracking, mainly by tallying Web pages that are viewed by Users throughout Our Web Site.
 
