@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunpartscorp.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120075210id_/http%3A//www.gunpartscorp.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunpartscorp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083641id_/http%3A//www.gunpartscorp.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Numrich Gun Parts
 
