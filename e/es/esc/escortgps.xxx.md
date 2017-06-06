@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escortgps.xxx privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125025946id_/http%3A//www.escortgps.xxx/information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escortgps.xxx privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041046id_/http%3A//www.escortgps.xxx/information/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Escort GPS Your free Escort Global Directory Search Engine!
 
@@ -14,7 +14,7 @@ We endeavor to collect your personal information only with your knowledge and co
 
 **Non-Personally Identifying Information**
 
-We may also collect non-personally identifying information about your visit to our website, like your IP address and details of your browsing activities within our website.
+We may also collect non-personally identifying information about your [ebony porn](http://hq-ebony-porn.tumblr.com/) visit to our website, like your IP address and details of your browsing activities within our website.
 
 **How Will We Use Your Information?**
 
