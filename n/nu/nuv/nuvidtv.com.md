@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuvidtv.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116053302id_/http%3A//nuvidtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvidtv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094231id_/http%3A//nuvidtv.com/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows, Free Porn Chat - NuVid Free HD Live Sex Cams
 
