@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadbandbuyer.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403185456id_/http%3A//www.broadbandbuyer.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandbuyer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194014id_/http%3A//www.broadbandbuyer.com/policy/privacy) for the most accurate reproduction.*
 
-# broadbandbuyer | Privacy Policy
+# broadbandbuyer - Privacy Policy
 
 This privacy statement applies to the web site of:
 
