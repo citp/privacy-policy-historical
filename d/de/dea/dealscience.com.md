@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealscience.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322150648id_/http%3A//www.dealscience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealscience.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222411id_/https%3A//www.goseek.com/privacy) for the most accurate reproduction.*
 
 # goSeek.com | Hotel Discounts, Deals, and Special Offers
 
@@ -111,4 +111,4 @@ We may make changes to this Privacy Policy at any time in the future. If and whe
 
 Effective date 
 
-March 22, 2016 
+June 6, 2017 
