@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetsharing.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017223347id_/http%3A//www.sweetsharing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetsharing.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100501id_/http%3A//www.sweetsharing.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Sweet Sharing
 
@@ -67,3 +67,5 @@ In case there is any change in the privacy policy in the future, we will notify 
 ## Your Consent
 
 By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, the same will be intimated to you through the website. If you have any questions or comments regarding this Privacy Policy please feel free to submit your queries via email to **[nag.garima@gmail.com](mailto:nag.garima@gmail.com "mailto:nag.garima@gmail.com")**  We will undertake reasonable efforts to resolve or address your concern.
+
+[](https://www.pinterest.com/pin/create/button/)
