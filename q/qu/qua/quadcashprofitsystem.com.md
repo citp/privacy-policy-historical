@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quadcashprofitsystem.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605210137id_/http%3A//keithdougherty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quadcashprofitsystem.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132354id_/http%3A//keithdougherty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | keithdougherty.com
+# Privacy Policy — keithdougherty.com
 
 This privacy policy describes how Xtreme Marketing Services, Inc (Keith Dougherty) collects and uses the personal information you provide on our website keithdougherty.com / xmsusa.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
