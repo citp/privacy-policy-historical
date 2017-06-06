@@ -1,7 +1,16 @@
-<!--The following is the downloaded HTML source of the moviemistakes.com privacy policy that was archived on 2016-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161218213025id_/http%3A//www.moviemistakes.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moviemistakes.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606065839id_/http%3A//www.moviemistakes.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+  
+      <!--freestar-->
+      <script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=237045113060547"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script data-cfasync="false" async="" src="//pub.freestar.io/moviemistakes/pubfig.min.js"></script>
+      <script data-cfasync="false" type="text/javascript">
+      var pbjs = pbjs || {};
+      pbjs.que = pbjs.que || [];
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      </script>
   <title>Privacy policy</title>
   <meta name="verify-v1" content="cUJI/Vdd2er1TKyNBKRUmOIHQOJHomGz1ihpoIh/N7Y=">
   <meta name="msvalidate.01" content="50D4F915B255D0E379C8F5819FB4F5FB">
@@ -15,24 +24,25 @@
   <meta name="Keywords" content="movie mistakes, movie goofs, movie bloopers, film goofs, film trivia, movie trivia, trivia, continuity mistakes, movie errors, continuity, goofs, flubs, quotes, movie quotes, television mistakes, tv mistakes, tv show mistakes, tv series mistakes, bloopers, easter eggs, dvd easter eggs, dvd secrets, movie picturesmovie mistakes, movie goofs, movie bloopers, film goofs, film trivia, movie trivia, trivia, continuity mistakes, movie errors, continuity, goofs, flubs, quotes, movie quotes, television mistakes, tv mistakes, tv show mistakes, tv series mistakes, bloopers, movie pictures, movies, tv shows">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
-  <link href="/css.css?v=11-24-2016-1" rel="stylesheet" media="screen">
+  <link href="/css.css?v=03-30-2017-1" rel="stylesheet" media="screen">
   <link href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:700" rel="stylesheet" type="text/css">
   <meta property="fb:app_id" content="40070145896">
   <meta property="og:site_name" content="Movie Mistakes">
   <meta property="og:description" content="">
   <meta property="fb:admins" content="737320502">
-  
   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script type="text/javascript">
     window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"http://www.moviemistakes.com/privacy.php","theme":"dark-floating"};
 </script>
 
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+<script type="text/javascript" src="/script/cookies/cookieconsent.min.js"></script>
 <!-- End Cookie Consent plugin -->
-    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  
+  <!--google-->
+  <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <script>
     (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-7461570533331997",
+      google_ad_client: 'ca-pub-7461570533331997',
       enable_page_level_ads: true
     });
   </script>
@@ -54,58 +64,18 @@
 <body>
 
 <div id="fb-root"></div>
-
-<script>
-  //Facebook
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId  : '40070145896',
-      status : true, // check login status
-      cookie : true, // enable cookies to allow the server to access the session
-      xfbml  : true,  // parse XFBML
-      channelUrl  : 'http://www.moviemistakes.com/channel.php', // Custom Channel URL
-      oauth : true //enables OAuth 2.0
-    });
-    // Check if the current user is logged in and has authorized the app
-    FB.getLoginStatus(checkLoginStatus);
-
-    // Check the result of the user status // document.URL == "https://www.moviemistakes.com/membership.php"
-    function checkLoginStatus(response) {
-      if (($('#navbar').data('fbreloaded') == "no") && response && (response.status == 'connected') && ($('#navbar').data('memberid') == 0)) {
-        //console.log('User is authorized but not logged in - reload');
-        $.ajax({
-          cache: false,
-          url: "/ajax.php",
-          type: "POST",
-          data: { task: 'fbreloaded' },
-          success: function(data) { console.log(data); location.reload(true); }
-        });
-      } else if (($('#navbar').data('fbreloaded') == "yes") && response && (response.status == 'connected') && ($('#navbar').data('memberid') == 0)) {
-        //console.log('User is authorized but not logged in - reloaded already');
-      } else if(response && response.status == 'connected' && $('#navbar').data('memberid') > 0) {
-        //console.log('User is authorized and logged in');
-      } else {
-        //console.log('User is not authorized');
-        $('.logout').removeClass('facebooklogout').off('click'); //so if someone has a facebook session but is logged out of FB, they get a standard logout button, otherwise it breaks.
-      }
-    }
-  };
-
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.async = true;
-    js.src = "//connect.facebook.net/en_GB/all.js";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-  //end of Facebook
-</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8&appId=237045113060547";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="container">
 
   <!--INFOLINKS_OFF-->
-  <nav id="navbar" class="navbar navbar-default" role="navigation" data-memberid="0" data-fbreloaded="no">
+  <nav id="navbar" class="navbar navbar-default" role="navigation" data-memberid="0">
 
     <div class="navbar-header">
       <button type="button" class="navbar-toggle btn-info" data-toggle="collapse" data-target=".navbar-collapse" style="line-height: 14px">
@@ -128,13 +98,13 @@
             <li><a href="/best">Best mistakes</a></li>
             <li><a href="/best/pictures">Best pictures</a></li>
             <li><a href="/most">Most movie mistakes</a></li>
-            <li><a href="/most2016">Most mistakes of 2016</a></li>
-            <li><a href="/best2016">Best mistakes of 2016</a></li>
+            <li><a href="/most2017">Most mistakes of 2017</a></li>
+            <li><a href="/best2017">Best mistakes of 2017</a></li>
             <li><a href="/imdb250">IMDb top 250</a></li>
             <li><a href="/updates">Recent updates</a></li>
             <li><a href="/current">Current releases</a></li>
             <li><a href="/charts">Cinema/rental charts</a></li>
-            <li><a href="http://www.moviemistakes.com/post349">The 10 biggest Christmas movie mistakes</a></li>
+            <li><a href="http://www.moviemistakes.com/post350">The biggest mistakes in the Fast &amp; Furious movies</a></li>
             <li style="background-color: #FF0000"><a href="/submit.php"><strong>Submit something</strong></a></li>
           </ul>
         </li>
@@ -144,11 +114,11 @@
           <ul class="dropdown-menu">
             <li><a href="/popularfilm">Popular movies</a></li>
             <li><a href="/populartv">Popular TV shows</a></li>
-            <li><a href="/film11128">Deadpool mistakes</a></li>
-<li><a href="/picture7898">Titanic</a></li>
+            <li><a href="/film6773">Pirates of the Caribbean: At World's End mistakes</a></li>
+<li><a href="/picture18353">Full Metal Jacket</a></li>
 <li><a href="/tv2651">Friends mistakes</a></li>
-<li><a href="/film635/quotes">How the Grinch Stole Christmas quotes</a></li>
-<li><a href="/film3725/trivia">Love Actually trivia</a></li>
+<li><a href="/tv2977/trivia">Sex and the City trivia</a></li>
+<li><a href="/film7527/quotes">Step Brothers quotes</a></li>
 <li><a href="/name1284">Jim Carrey</a></li>
 <li><a href="/post263">25 mistakes you never noticed in great movies</a></li>
 <li><a href="/film1299/photos">Titanic photos</a></li>
@@ -167,8 +137,8 @@
             <li><a href="/most/tv">Most TV mistakes</a></li>
             <li><a href="/best/tv/pictures">Best TV pictures</a></li>
             <li><a href="/most/tv/pictures">Most TV pictures</a></li>
-            <li><a href="/most2015">Most mistakes of 2015</a></li>
-            <li><a href="/best2015">Best mistakes of 2015</a></li>
+            <li><a href="/most2016">Most mistakes of 2016</a></li>
+            <li><a href="/best2016">Best mistakes of 2016</a></li>
             <li><a href="/oscars">Oscar nominees</a></li>
             <li><a href="/directors.php">Most mistake-prone directors</a></li>
             <li><a href="/most/book">Most book mistakes</a></li>
@@ -180,7 +150,8 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="/blog">Homepage</a></li>
-            <li><a href="http://www.moviemistakes.com/post349">The 10 biggest Christmas movie mistakes</a></li>
+            <li><a href="http://www.moviemistakes.com/post350">The biggest mistakes in the Fast &amp; Furious movies</a></li>
+<li><a href="http://www.moviemistakes.com/post349">The 10 biggest Christmas movie mistakes</a></li>
 <li><a href="http://www.moviemistakes.com/post348">15 horror movie mistakes</a></li>
 <li><a href="http://www.moviemistakes.com/post347">What was Thor doing during Captain America: Civil War?</a></li>
 <li><a href="http://www.moviemistakes.com/post346">Tons of Comic-Con fun...</a></li>
@@ -194,7 +165,6 @@
 <li><a href="http://www.moviemistakes.com/post337">X-Men: Apocalypse trailer</a></li>
 <li><a href="http://www.moviemistakes.com/post336">Captain America: Civil War trailer!</a></li>
 <li><a href="http://www.moviemistakes.com/post335">New international trailer for The Force Awakens</a></li>
-<li><a href="http://www.moviemistakes.com/post334">Star Wars: The Force Awakens character posters</a></li>
 
           </ul>
         </li>
@@ -210,6 +180,7 @@
             <li><a href="/generalquestions">General questions</a></li>
             <li><a href="/questions">Specific questions</a></li>
             <li><a href="/eastereggs">DVD Easter eggs</a></li>
+            <li><a href="/newcontent">New content</a></li>
             <li><a href="/randompicture">Random picture</a></li>
             <li><a href="/random">Random movie</a></li>
             <li><a href="/tvrandom">Random TV show</a></li>
@@ -221,7 +192,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Site info <span class="caret"></span></a>
           <ul class="dropdown-menu flowleft">
-            <li id="dropdownlastupdated"><a href="/newentries/time1481950800">Updated 17th December</a></li>
+            <li id="dropdownlastupdated"><a href="/newentries/time1496635200">Updated 5th June</a></li>
             <li><a href="/advertising.php">Advertising</a></li>
             <li><a href="/membership.php">Membership</a></li>
             <li><a href="/topmembers">Top members</a></li>
@@ -232,11 +203,11 @@
             <li><a href="/contact.php">Contact</a></li>
             <li class="divider"></li>
             
-            <li><a href="https://www.moviemistakes.com/login.php" class="facebooklogin">Log in with Facebook</a></li><li><a href="https://www.moviemistakes.com/login.php">Log in</a></li>
+            <li><a href="https://www.moviemistakes.com/login.php">Log in</a></li>
           </ul>
         </li>
 
-        <!--<li id="navlastupdated"><a href='/newentries/time1481950800'>Updated 17th December</a></li>-->
+        <!--<li id="navlastupdated"><a href='/newentries/time1496635200'>Updated 5th June</a></li>-->
       </ul>
     </div><!--collapse-->
   </nav><!--navbar-->
@@ -252,7 +223,6 @@
 
   <div class="mobilenavbox center" id="mobilelogin">
     <a class="btn btn-dark btn-sm" href="https://www.moviemistakes.com/login.php">Log in</a>
-<button class="btn btn-sm btn-dark facebooklogin" style="padding: 5px">Log in with Facebook</button>
 <a class="btn btn-dark btn-sm" href="https://www.moviemistakes.com/membership.php">Register</a>
   </div>
 
@@ -332,7 +302,7 @@
 	<div class="colortitle">
 		<h4>Share</h4>
 	</div>
-	<div id="towershare">
+	<div id="towershare" style="height: auto;">
 		<div class="addthis_sharing_toolbox"></div>
 	</div>
 
@@ -340,7 +310,6 @@
 <a class="btn btn-xs btn-dark" href="https://www.moviemistakes.com/login.php" style="margin: 3px 0px">Log in</a>
 <a class="btn btn-xs btn-dark" href="/membership.php" style="margin: 3px 0px">Register</a>
 </div>
-<button class="btn btn-xs btn-dark facebooklogin" style="padding: 2px 4px 2px 2px; margin: 3px 0px"><img src="/images/facebook.png" style="height: 15px" alt="Facebook logo"><span style="padding: 5px 0px"> Log in with Facebook</span></button>
 
 	
 	
@@ -356,11 +325,11 @@
 <div class="colortitle">
 <h3><a href="/blog">Latest blog posts</a></h3>
 </div>
+<p><a href="http://www.moviemistakes.com/post350">The biggest mistakes in the Fast &amp; Furious movies</a></p>
 <p><a href="http://www.moviemistakes.com/post349">The 10 biggest Christmas movie mistakes</a></p>
 <p><a href="http://www.moviemistakes.com/post348">15 horror movie mistakes</a></p>
 <p><a href="http://www.moviemistakes.com/post347">What was Thor doing during Captain America: Civil War?</a></p>
 <p><a href="http://www.moviemistakes.com/post346">Tons of Comic-Con fun...</a></p>
-<p><a href="http://www.moviemistakes.com/post345">Assassin's Creed trailer</a></p>
 
 </div>
 
@@ -414,7 +383,7 @@
 
   <footer id="pagefooter">
     <p><a href="/contact.php" style="font-weight: bold">Contact moviemistakes.com</a> | <a href="/privacy" style="font-weight: bold">Privacy policy</a></p>
-    <p style="font-size: 9pt">Design and text © 1996 - 2016 Jon Sandys. All rights reserved.</p>
+    <p style="font-size: 9pt">Design and text © 1996 - 2017 Jon Sandys. All rights reserved.</p>
     <p style="font-size: 9pt">All images © their respective owners.</p>
   </footer>
 
@@ -427,7 +396,7 @@
 <!--[if IE 8]>
 <script type="text/javascript" src="/script/respond.min.js"></script>
 <![endif]-->
-<script src="/script/javascript.js?v=11-24-2016-1"></script>
+<script src="/script/javascript.js?v=03-30-2017-1"></script>
 
 <script>
 $(document).ready(function() {
