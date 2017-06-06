@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the metservice.co.nz privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118234158id_/http%3A//about.metservice.com/about/about-this-site/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metservice.co.nz privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606101554id_/http%3A//about.metservice.com/about/about-this-site/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-NZ"><!--<![endif]--><!--[if IE 6 ]><html lang="en-NZ" class="ie ie6"><![endif]--><!--[if IE 7 ]><html lang="en-NZ" class="ie ie7"><![endif]--><!--[if IE 8 ]><html lang="en-NZ" class="ie ie8"><![endif]--><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -53,128 +53,46 @@
 		return false;
 	});	
 });
-
-
-
-
-function determineTargetingNationalSection(){    // section for dfp
-	var pageURL = document.location.href;
-	var MyArray = pageURL.split("?");
-	var BaseURL = MyArray[0];
-	var urlPath = BaseURL.split("/");
-	var targetNationalSection = urlPath[urlPath.length - 2];
-    return targetNationalSection;
-}
-
-function determineTargetingNationalLocation(){    // location for dfp
-	var pageURL = document.location.href;
-	var MyArray = pageURL.split("?");
-	var BaseURL = MyArray[0];
-	var urlPath = BaseURL.split("/");
-	var targetNationalLocation = urlPath[4];
-	if (urlPath.length > 5) {
-	   targetNationalLocation += '-' + urlPath[5];
-	}
-    return targetNationalLocation;
-}
-
-
-
-
-//for about+business+services
-function determineTargetingAboutSection(){    // section for dfp
-	var pageURL = document.location.href;
-	var MyArray = pageURL.split("?");
-	var BaseURL = MyArray[0];
-	var urlPath = BaseURL.split("/");
-	var targetAboutSection = urlPath[urlPath.length - 2];
-    return targetAboutSection;
-}
-
-function determineTargetingAboutLocation(){    // location for dfp
-	var pageURL = document.location.href;
-	var MyArray = pageURL.split("?");
-	var BaseURL = MyArray[0];
-	var urlPath = BaseURL.split("/");
-	var targetAboutLocation = urlPath[4];
-	if (urlPath.length > 5)
-	   targetAboutLocation += '-' + urlPath[5];
-	return targetAboutLocation;
-}
-        
-        
-        
-        
         </script>
+		
+		 <!-- Add fancyBox main JS and CSS files --> 
+	<!-- Add fancyBox -->
 
-      <!-- Google dfp -->
-        <script type="text/javascript">
-            (function(){
-            var useSSL = 'https:' == document.location.protocol;
-            var src = (useSSL ? 'https:' : 'http:') +
-            '//www.googletagservices.com/tag/js/gpt.js';
-            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-            '//www.googletagservices.com/tag/js/gpt.js';
-            })();
-        </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-
-        <script type="text/javascript">
-
-                // covers about, services + business pages
-
-    var targetAboutLocation = determineTargetingAboutLocation();
-    var targetAboutSection = determineTargetingAboutSection();
-
-
-googletag.defineSlot('/9734223/about_big_banner_atf_760x120', [760, 120], 'div-gpt-ad-1337896099583-0')
-    .addService(googletag.pubads());
-    googletag.pubads().setTargeting('about-sec', targetAboutSection);
-    googletag.pubads().setTargeting('about-loc', targetAboutLocation);
-
-
-googletag.defineSlot('/9734223/about_half_page_banner_atf_300x600', [300, 600], 'div-gpt-ad-1337897295007-0')
-    .addService(googletag.pubads());
-    googletag.pubads().setTargeting('about-sec', targetAboutSection);
-    googletag.pubads().setTargeting('about-loc', targetAboutLocation);
-
-
- googletag.defineSlot('/9734223/topleft_tile_150x150', [150, 150], 'div-gpt-ad-1322446829588-0')
-        .addService(googletag.pubads());
-     googletag.pubads().setTargeting('about-sec', targetAboutSection);
-     googletag.pubads().setTargeting('about-loc', targetAboutLocation);
-
- googletag.defineSlot('/9734223/tsunami_warning_banner', [990, 120], 'div-gpt-ad-1322447454598-0')
-    .addService(googletag.pubads());
-
-
-            googletag.pubads().enableSyncRendering();
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-        </script>
-        <!-- Google dfp ENDS -->
+	<script type="text/javascript" src="http://about.metservice.com/assets/custom-js/fancyBox-2.1.5/source/jquery.fancybox.js?v=2.1.5"></script>
+	<link rel="stylesheet" type="text/css" href="http://about.metservice.com/assets/custom-js/fancyBox-2.1.5/source/jquery.fancybox.css?v=2.1.5" media="screen">
+	<link rel="stylesheet" href="../assets/custom-js/fancyBox-2.1.5/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen">
+	<script type="text/javascript" src="../assets/custom-js/fancyBox-2.1.5/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>	
+	
+	<!-- Global CSS for the page and tiles -->
+  <link rel="stylesheet" href="/assets/custom-css/woomark/main.css">
 		
 	<script src="themes/metservice-SS-CMS-OCT2016/javascript/main.js"></script>
-	
 	<script src="themes/metservice-SS-CMS-OCT2016/javascript/main-menu.js"></script>
-
-<script type="text/javascript" src="themes/metservice-SS-CMS-OCT2016/jetmenu/jetmenu.js"></script>
-
-<link rel="stylesheet" type="text/css" href="themes/metservice-SS-CMS-OCT2016/jetmenu/jetmenu.css">
+    <script type="text/javascript" src="themes/metservice-SS-CMS-OCT2016/jetmenu/jetmenu.js"></script>
+    <link rel="stylesheet" type="text/css" href="themes/metservice-SS-CMS-OCT2016/jetmenu/jetmenu.css">
 
 	<script>
-			$(document).ready(function(){
-				$(".panel a").click(function(e){
-					e.preventDefault();
-					var style = $(this).attr("class");
-					$(".jetmenu").removeAttr("class").addClass("jetmenu").addClass(style);
-				});
+		$(document).ready(function(){
+			$(".panel a").click(function(e){
+				e.preventDefault();
+				var style = $(this).attr("class");
+				$(".jetmenu").removeAttr("class").addClass("jetmenu").addClass(style);
 			});
+		});
 		</script>
 		<script type="text/javascript">
 			jQuery(document).ready(function(){  
 				$().jetmenu();
 			});
 		</script>
+		
+		
+		<script type="text/javascript">
+		jQuery(document).ready(function($){
+			jQuery('.fancybox').fancybox();
+			});
+		</script>
+
 		
 		<style>body{display:none}</style>
 		<noscript><style>body{display:block}</style></noscript>
@@ -207,9 +125,44 @@ $(window).load(function() {
     </style>
     <![endif]-->
 	
+ <style type="text/css">
+
+div.wookmark-wrapper h2 {
+	text-align:center;
+	text-transform: uppercase; 
+	font-weight:bold;
+}
+
+div.wookmark-wrapper h4 {
+	margin: 0 33px 25px;
+}
 
 
+ul.tiles-wrap li {
+	padding:3px;
+}
 
+div.wookmark-wrapper { 
+	-webkit-border-radius: 12px 12px 20px 12px;
+	-moz-border-radius: 12px 12px 20px 12px;
+	border-radius: 12px 12px 20px 12px;
+	background-color:#E0E0E0;
+        background:rgba(224,224,224,0.3);
+	-webkit-box-shadow: #A3A3A3 0 1px 3px; 
+	-moz-box-shadow: #A3A3A3 0 1px 3px; 
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+	padding:25px 10px; 
+}
+
+a.fancybox {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+a.fancybox:hover {
+	opacity: .5;
+}
+</style>
 	
 <link rel="stylesheet" type="text/css" href="/themes/metservice-SS-CMS-OCT2016/css/reset.css?m=1462142349&amp;">
 <link rel="stylesheet" type="text/css" href="/themes/metservice-SS-CMS-OCT2016/css/layout.css?m=1477438035&amp;">
@@ -250,17 +203,12 @@ $(window).load(function() {
 </div>
 </header>
 
-<div class="bb-ad-wrapper">
- <!-- about_big_banner_atf_760x120 -->
-<div id="div-gpt-ad-1337896099583-0">
+
 <script type="text/javascript">
-googletag.display('div-gpt-ad-1337896099583-0');
+jQuery(document).ready(function() {
+                jQuery('a.noclick').click(function(e){e.preventDefault();})
+});
 </script>
-</div>
-</div>
-
-<!-- end big banner -->
-
 
 <div id="primary-wrapper">
 <div id="primary-container">
@@ -275,7 +223,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
       <ul>
         <li class="home"><a href="http://metservice.com/">National</a></li>
         <li>
-          <a class="level1" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Towns &amp; Cities</a>
+          <a class="level1 noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Towns &amp; Cities</a>
           <div id="towns-dropdown" class="dropnav">
   <div class="map">
     <div id="tc-whangarei"><a href="http://metservice.com/towns-cities/whangarei">Whangarei<span></span></a></div>
@@ -300,7 +248,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
 
   <ul class="menu">
     <li class="tab default">
-      <a class="menu-tab" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">All towns &amp; cities</a>
+      <a class="menu-tab noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">All towns &amp; cities</a>
       <div class="links">
         <ul class="threecol">
           <li class="header">North Island</li>
@@ -358,7 +306,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
       </div>
     </li>
     <li class="tab">
-      <a class="menu-tab" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Main cities &amp; sub-regions</a>
+      <a class="menu-tab noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Main cities &amp; sub-regions</a>
       <div class="links">
         <ul class="onecol">
           <li class="header">Auckland</li>
@@ -398,7 +346,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
 </div>
         </li>
         <li>
-          <a class="level1" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Rural</a>
+          <a class="level1 noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Rural</a>
           <div id="rural-dropdown" class="dropnav clearfix">
    <div id="rural-map" class="map">
     <div id="rm-northland">
@@ -443,14 +391,14 @@ googletag.display('div-gpt-ad-1337896099583-0');
     <div id="rm-canterbury-plains">
       <a href="/rural/canterbury-plains">Canterbury Plains<span></span></a>
     </div>
-<!--#if expr="${NEW_RURAL_REGIONS}" -->
+<!--noclickif expr="${NEW_RURAL_REGIONS}" -->
 <!--    <div id="rm-canterbury-high-country">-->
 <!--      <a href="/rural/canterbury-high-country">Canterbury High Country<span></span></a>-->
 <!--    </div>-->
     <div id="rm-southern-lakes">
       <a href="/rural/southern-lakes">Southern<br>Lakes<span></span></a>
     </div>
-<!--#endif -->
+<!--noclickendif -->
     <div id="rm-central-otago">
       <a href="/rural/central-otago">Central Otago<span></span></a>
     </div>
@@ -494,15 +442,15 @@ googletag.display('div-gpt-ad-1337896099583-0');
       <li><a href="/rural/buller">Buller</a></li>
       <li><a href="/rural/westland">Westland</a></li>
       <li><a href="/rural/canterbury-plains">Canterbury Plains</a></li>
-      <!--#if expr="${NEW_RURAL_REGIONS}" -->
+      <!--noclickif expr="${NEW_RURAL_REGIONS}" -->
       <li><a href="/rural/canterbury-high-country">Canterbury High Country</a></li>
-      <!--#endif -->
+      <!--noclickendif -->
       <li><a href="/rural/christchurch">Christchurch</a></li>
       <li><a href="/rural/north-otago">North Otago</a></li>
       <li><a href="/rural/central-otago">Central Otago</a></li>
-      <!--#if expr="${NEW_RURAL_REGIONS}" -->
+      <!--noclickif expr="${NEW_RURAL_REGIONS}" -->
       <li><a href="/rural/southern-lakes">Southern Lakes</a></li>
-      <!--#endif -->
+      <!--noclickendif -->
       <li><a href="/rural/dunedin">Dunedin</a></li>
       <li><a href="/rural/clutha">Clutha</a></li>
       <li><a href="/rural/southland">Southland</a></li>
@@ -518,7 +466,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
 
         </li>
         <li>
-          <a class="level1" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Marine &amp; Surf</a>
+          <a class="level1 noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Marine &amp; Surf</a>
           <div id="marine-dropdown" class="dropnav">
   <div id="coastal-map" class="map">
     <div class="overlay">
@@ -545,7 +493,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
 
   <ul class="menu">
     <li class="tab default">
-      <a class="menu-tab" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Coastal</a>
+      <a class="menu-tab noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Coastal</a>
       <div class="links">
         <ul class="twocol">
           <li><a href="http://metservice.com/marine-surf/coastal/plenty">Plenty</a></li>
@@ -570,7 +518,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
       </div>
     </li>
     <li class="tab">
-      <a class="menu-tab" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Recreational</a>
+      <a class="menu-tab no click" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Recreational</a>
       <div class="links">
         <ul class="recreational threecol">
           <li><a href="http://metservice.com/marine-surf/recreational-marine/bay-of-islands">Bay of Islands</a>
@@ -588,9 +536,9 @@ googletag.display('div-gpt-ad-1337896099583-0');
       </div>
     </li>
     <li class="tab">
-      <a class="menu-tab" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Surf &amp; Beach</a>
+      <a class="menu-tab noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Surf &amp; Beach</a>
       <div id="surf-dropdown" class="links">
-        <!--<form action="#" method="post" class="surf-finder">
+        <!--<form action="noclick" method="post" class="surf-finder">
           <input type="text" placeholder="Find a Surf or Beach spot" value="" class="strname" />
           <input type="submit" value="Go" class="submit" />
         </form>-->
@@ -616,9 +564,9 @@ googletag.display('div-gpt-ad-1337896099583-0');
       </div>
     </li>
     <li class="tab">
-      <a class="menu-tab" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Boating</a>
+      <a class="menu-tab noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Boating</a>
       <div id="boating-dropdown" class="links">
-        <!--<form action="#" method="post" class="surf-finder">
+        <!--<form action="noclick" method="post" class="surf-finder">
           <input type="text" placeholder="Find a Boating location" value="" class="strname" />
           <input type="submit" value="Go" class="submit" />
         </form>-->
@@ -651,9 +599,9 @@ googletag.display('div-gpt-ad-1337896099583-0');
       </div>
     </li>
 	    <li class="tab">
-      <a class="menu-tab" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Tides</a>
+      <a class="menu-tab noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Tides</a>
       <div id="tides-dropdown" class="links">
-        <!--<form action="#" method="post" class="surf-finder">
+        <!--<form action="noclick" method="post" class="surf-finder">
           <input type="text" placeholder="Find a Tide location" value="" class="strname" />
           <input type="submit" value="Go" class="submit" />
         </form>-->
@@ -691,7 +639,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
 
         </li>
         <li class="noclick isMountainsAndParks">
-          <a class="level1" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Mountains &amp; Parks</a>
+          <a class="level1 noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Mountains &amp; Parks</a>
          <div id="mountains-dropdown" class="dropnav">
   <div id="ski-map" class="map">
 
@@ -728,7 +676,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
   <ul class="menu">
 
       <li class="tab default">
-          <a class="menu-tab" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">National Parks</a>
+          <a class="menu-tab noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">National Parks</a>
           <div class="links">
               <ul class="threecol wide">
                   <li><a href="/mountain/te-urewera">Te Urewera</a></li>
@@ -736,7 +684,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
                   <li><a href="/mountain/aoraki-mount-cook-national-park">Aoraki/Mt Cook National Park</a></li>
 
                   <li><a href="/mountain/egmont-national-park">Egmont National Park</a></li>
-                  <li><a href="/mountain/arthurs-pass-national-park">Arthur’s Pass National Park</a></li>
+                  <li><a href="/mountain/arthurs-pass-national-park">Arthur&amp;noclick8217;s Pass National Park</a></li>
                   <li><a href="/mountain/mt-aspiring-national-park">Mt Aspiring  National Park</a></li>
 
                   <li><a href="/mountain/tongariro-national-park">Tongariro National Park</a></li>
@@ -800,7 +748,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
 </div>
         </li>
         <li>
-          <a class="level1" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Maps &amp; Radars</a>
+          <a class="level1 noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Maps &amp; Radars</a>
           <div id="maps-radar-dropdown" class="dropnav">
   <div class="tiles clearfix">
   <ul>
@@ -855,46 +803,46 @@ googletag.display('div-gpt-ad-1337896099583-0');
 </div>
         </li>
         <li>
-          <a class="level1" href="/our-company/about-this-site/privacy-policy#" aria-haspopup="true">Video</a>
+          <a class="level1 noclick" href="/our-company/about-this-site/privacy-policy#" onclick="function(e){e.preventDefault();}" aria-haspopup="true">Video</a>
           <div id="tv-dropdown" class="dropnav">
   <div class="tiles clearfix">
     <ul>
       <li class="national">
-        <a href="http://metservice.com/tv/index#national">
+        <a href="http://metservice.com/tv/indexnoclicknational">
           <span class="title">National forecast</span><span class="link"></span>
         </a>
       </li>
       <li class="auckland">
-        <a href="http://metservice.com/tv/index#auckland">
+        <a href="http://metservice.com/tv/indexnoclickauckland">
           <span class="title">Auckland</span><span class="link"></span>
         </a>
       </li>
       <li class="wellington">
-        <a href="http://metservice.com/tv/index#wellington">
+        <a href="http://metservice.com/tv/indexnoclickwellington">
           <span class="title">Wellington</span><span class="link"></span>
         </a>
       </li>
       <li class="christchurch">
-        <a href="http://metservice.com/tv/index#christchurch">
+        <a href="http://metservice.com/tv/indexnoclickchristchurch">
           <span class="title">Christchurch</span><span class="link"></span>
         </a>
       </li>
       <li class="rural">
-        <a href="http://metservice.com/tv/index#rural">
+        <a href="http://metservice.com/tv/indexnoclickrural">
           <span class="title">Rural</span><span class="link"></span>
         </a>
       </li>
     </ul>
   </div>
   <ul class="nav-second">
-    <li><a href="http://metservice.com/tv/index#pacific">Pacific</a></li>
-    <li><a href="http://metservice.com/tv/index#australia">Australia</a></li>
+    <li><a href="http://metservice.com/tv/indexnoclickpacific">Pacific</a></li>
+    <li><a href="http://metservice.com/tv/indexnoclickaustralia">Australia</a></li>
     <li><a class="all" href="http://metservice.com/tv/index">Display all</a></li>
   </ul>
 </div>
 
   </li><li id="australia-nav">
-    <a class="level1" href="javascript:void(0);">Australia</a>
+    <a class="level1" href="http://australia.metservice.com">Australia</a>
 
     <div id="australia-dropdown" class="dropnav">
       <div class="australia-nav__menu">
@@ -1307,7 +1255,7 @@ googletag.display('div-gpt-ad-1337896099583-0');
  
 <li class="link last"> 
  
-<a class="item" href="/our-company/company-info/bim/" title="Go to the Briefing to Incoming Shareholding Ministers page">Briefing to Incoming Shareholding Ministers</a> 
+<a class="item" href="/our-company/company-info/bim/" title="Go to the Briefings to Incoming Ministers page">Briefings to Incoming Ministers</a> 
  
 </li> 
  
@@ -1556,6 +1504,17 @@ googletag.display('div-gpt-ad-1337896099583-0');
 </ul> 
  
  
+ 
+</li> 
+
+ 
+
+
+
+
+
+<li> 
+<a class="link" href="/our-company/our-brand-symbol/" title="Go to the Mangopare - our brand symbol and its meaning page">Our brand symbol and its meaning<span></span></a> 
  
 </li> 
 
@@ -1883,6 +1842,15 @@ googletag.display('div-gpt-ad-1337896099583-0');
 
  
  
+ 
+</li> 
+ 
+
+
+
+
+<li> 
+<a class="link" href="/our-company/our-brand-symbol/" title="Go to the Mangopare - our brand symbol and its meaning page">Our brand symbol and its meaning<span></span></a> 
  
 </li> 
  
