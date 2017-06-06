@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122103743id_/http%3A//www.ticketmaster.com.au/h/privacy.html%3Ftm_link%3Dtm_homeA_i_privacy_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053046id_/http%3A//www.ticketmaster.com.au/h/privacy.html%3Ftm_link%3Dtm_homeA_i_privacy_footer) for the most accurate reproduction.*
 
 # Ticketmaster - Help
 
@@ -20,13 +20,13 @@ Ticketmaster is responsible for the processing of your personal information in a
 
 **2\. Cookies Notice**
 
-We and third party organisations use cookies and other technologies, such as pixel tags, on our websites and in our emails. For more information about the cookies and how to manage them please see our Cookies Policy at [www.ticketmaster.com.au/h/cookies.html](https://web.archive.org/web/20161122103743id_/http%3A//www.ticketmaster.com.au/h/www.ticketmaster.com.au/h/cookies.html).
+We and third party organisations use cookies and other technologies, such as pixel tags, on our websites and in our emails. For more information about the cookies and how to manage them please see our Cookies Policy at <http://www.ticketmaster.com.au/h/cookies.html>.
 
 **3\. We collect your information in different ways**
 
 **Directly from you**. For example, if you register for a promotion, create a Ticketmaster account, enter a competition or free prize draw, download an app, buy or sell tickets, post a comment on our websites, ask us a question, email us or interact with Ticketmaster's call centres.
 
-**Through your use of our websites and apps.** We use cookies and other technologies, such as pixel tags, on our websites and in our emails and apps to collect information about your usage and to better target advertising. To learn more, please see our Cookies Policy ([www.ticketmaster.com.au/h/cookies.html](https://web.archive.org/web/20161122103743id_/http%3A//www.ticketmaster.com.au/h/www.ticketmaster.com.au/h/cookies.html)).
+**Through your use of our websites and apps.** We use cookies and other technologies, such as pixel tags, on our websites and in our emails and apps to collect information about your usage and to better target advertising. To learn more, please see our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>).
 
 **From third parties.** For example, if you choose to use an integrated social media feature on our websites or apps, the third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms. Further information about the third parties from whom we obtain information is available in Section 4 below.
 
@@ -48,7 +48,7 @@ We use the following information for the purposes described in this Policy:
 
 **App(s) usage information.** If you use our app(s), we may collect your GPS location or your device's unique identifier. We might also collect the type of device you are using, or the version of the operating system your computer or device is running. We might look at, for example, how often you use the app and where you downloaded it. Where you allow us to we may also scan your music library when you download our app(s) so that we may send you information about events you may be interested in in your area. Your choices about how we use mobile information are described in Section 6 below.
 
-**Email response information.** In relation to emails we send you, we may use cookies and other technologies, such as pixel tags, to collect information on how you respond to such emails, for example, the number of times the email is opened or the links in them are clicked etc. We partner with third parties who may also use such cookies and other technologies in our emails. Please see our Cookies Policy ([www.ticketmaster.com.au/h/cookies.html](https://web.archive.org/web/20161122103743id_/http%3A//www.ticketmaster.com.au/h/www.ticketmaster.com.au/h/cookies.html)) for more information.
+**Email response information.** In relation to emails we send you, we may use cookies and other technologies, such as pixel tags, to collect information on how you respond to such emails, for example, the number of times the email is opened or the links in them are clicked etc. We partner with third parties who may also use such cookies and other technologies in our emails. Please see our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>) for more information.
 
 **Other information about your interactions with us.** For example, if you interact with us via a box office, email, telephone or social media (e.g. Facebook).
 
@@ -68,7 +68,7 @@ We use the following information for the purposes described in this Policy:
 
 **For market research purposes.** We may contact you as part of market research we are carrying out. You may choose not to participate.
 
-**To provide you with tailored advertising and online behavioural advertising.** We may work with other companies to show you advertisements we think you may find relevant and useful. This may include advertisements displayed on our own websites or apps, or advertisements from us displayed on other companies' sites, or the content of our emails. The advertisements you see may be based on information collected by us or third parties and/or may be based on your activities on our websites or third party sites. This is often called 'online or third party behavioural advertising'. Please see our Cookies Policy ([www.ticketmaster.com.au/h/cookies.html](https://web.archive.org/web/20161122103743id_/http%3A//www.ticketmaster.com.au/h/www.ticketmaster.com.au/h/cookies.html)) for more information and the choices you have.
+**To provide you with tailored advertising and online behavioural advertising.** We may work with other companies to show you advertisements we think you may find relevant and useful. This may include advertisements displayed on our own websites or apps, or advertisements from us displayed on other companies' sites, or the content of our emails. The advertisements you see may be based on information collected by us or third parties and/or may be based on your activities on our websites or third party sites. This is often called 'online or third party behavioural advertising'. Please see our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>) for more information and the choices you have.
 
 **For marketing purposes.** Where you've agreed, you may be contacted by us by email, text message, telephone or other means with information or offers regarding our upcoming events, products or services (including newsletters). We may also send you information or offers on behalf of other businesses, but when we do this, we do not give those businesses your name and address. Where you've agreed to receiving information directly from selected third parties, these parties may include charities and retail companies, for example companies offering financial, health, leisure or subscription services.
 
@@ -86,7 +86,7 @@ In addition to contacting us, you can **opt out** in the following ways:
 
 **You can opt out of receiving marketing communications including newsletters.** To stop receiving Ticketmaster marketing communications you can change your preferences within your account or follow the instructions in any promotional message you get. To stop receiving Ticketmaster Resale promotional messages follow the instructions in any messages you get. Your device settings should provide you with instructions on how to turn off push notifications. It may take about five days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
 
-**You can control and opt out of the use of cookies and tracking tools.** To learn how to manage how we use cookies and other tracking tools, please see our Cookies Policy ([www.ticketmaster.com.au/h/cookies.html](https://web.archive.org/web/20161122103743id_/http%3A//www.ticketmaster.com.au/h/www.ticketmaster.com.au/h/cookies.html)).
+**You can control and opt out of the use of cookies and tracking tools.** To learn how to manage how we use cookies and other tracking tools, please see our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>).
 
 **You can control and opt out of us using tools on your devices.** For example, you can turn off the GPS locator or push notifications by using the settings on your phone.
 
@@ -122,7 +122,7 @@ Our sites and apps are meant for adults. We do not knowingly collect personal in
 
 **10\. We may transfer your information to other countries**
 
-The transfer of your information for use in line with this Policy and our Cookies Policy ([www.ticketmaster.com.au/h/cookies.html](https://web.archive.org/web/20161122103743id_/http%3A//www.ticketmaster.com.au/h/www.ticketmaster.com.au/h/cookies.html)) may involve the transfer of your information to other countries (including outside Australasia). For example, the database we use to store your account details is hosted by our parent company based in the United States of America. The laws of other countries to which your information is transferred may not provide the same level of protection for your personal information as the law of your home country. We do, however, put in place appropriate technical and contractual protections for your personal information in accordance with applicable laws.
+The transfer of your information for use in line with this Policy and our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>) may involve the transfer of your information to other countries (including outside Australasia). For example, the database we use to store your account details is hosted by our parent company based in the United States of America. The laws of other countries to which your information is transferred may not provide the same level of protection for your personal information as the law of your home country. We do, however, put in place appropriate technical and contractual protections for your personal information in accordance with applicable laws.
 
 **11\. We may link to third party sites or services we don't control**
 
@@ -148,7 +148,7 @@ Melbourne, Vic 3000
 
 Please do not include your credit card number or other financial or sensitive information in your email.
 
-To correct, amend or update information you have given us, or in order to withdraw a consent you have given us, you can contact us or log into your account and select the relevant option. We will deal with complaints relating to privacy, where possible, within 30 days. If you are dissatisfied with the outcome of the complaint you can take the complaint to the Office of the Australian Privacy Commissioner ([www.oaic.gov.au](https://web.archive.org/web/20161122103743id_/http%3A//www.ticketmaster.com.au/h/www.oaic.gov.au)).
+To correct, amend or update information you have given us, or in order to withdraw a consent you have given us, you can contact us or log into your account and select the relevant option. We will deal with complaints relating to privacy, where possible, within 30 days. If you are dissatisfied with the outcome of the complaint you can take the complaint to the Office of the Australian Privacy Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)).
 
 **14\. What we will do if there is an update to this policy**
 
@@ -156,6 +156,6 @@ From time to time we may change our privacy practices. We will notify you of any
 
 **15\. Who we are**
 
-We are Ticketmaster Australasia Pty Ltd and its group companies. You can find out more about us in the 'About Us' section of our website ([www.ticketmaster.com.au/h/about_us.html](https://web.archive.org/web/20161122103743id_/http%3A//www.ticketmaster.com.au/h/www.ticketmaster.com.au/h/about_us.html)).
+We are Ticketmaster Australasia Pty Ltd and its group companies. You can find out more about us in the 'About Us' section of our website (<http://www.ticketmaster.com.au/h/about_us.html>).
 
 _Last Updated_ : 9 November 2016
