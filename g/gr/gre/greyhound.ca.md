@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greyhound.ca privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219085359id_/https%3A//greyhound.ca/en/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greyhound.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190029id_/https%3A//greyhound.ca/en/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Greyhound.ca | Privacy Policy
 
