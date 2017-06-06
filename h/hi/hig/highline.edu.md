@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111061005id_/https%3A//www.highline.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195911id_/https%3A//www.highline.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Highline College
 
@@ -202,7 +202,7 @@ __Top
 
 ## Instructional Activities
 
-Highline College may require you to provide certain personal information as part of instructional activities which occur on-line or over the Web. In such cases, the information is required as part of participation in the class. You may choose not to provide this information, but if you choose not to provide it you will be unable to participate in those aspects of the class which occur on the Web. Contact your instructor or the Vice President for Academic Affairs at (206) 870-3711.
+Highline College may require you to provide certain personal information as part of instructional activities which occur on-line or over the Web. In such cases, the information is required as part of participation in the class. You may choose not to provide this information, but if you choose not to provide it you will be unable to participate in those aspects of the class which occur on the Web. Contact your instructor or the Vice President for Academic Affairs at (206) 592-3711.
 
 __Top
 
@@ -250,8 +250,8 @@ P.O. Box 98000 M/S 6-14
 2400 S. 240th Street  
 Des Moines, WA 98198  
 (206)-592-4014  
-Fax: (206)-870-3780  
-[dfaison@highline.edu](mailto:dfaison@highline.edu?subject=Student%20Records%20Question)
+Fax: (206)-592-3780  
+[lodom@highline.edu](mailto:dfaison@highline.edu?subject=Student%20Records%20Question)
 
 To offer comments about Highline College’s website or about the information presented in this Privacy Notice:
 
@@ -260,7 +260,7 @@ Highline College
 2400 S. 240th Street  
 Des Moines, WA 98198  
 (206)-592-4320  
-Fax: (206)-870-3744  
+Fax: (206)-592-3744  
 [webmaster@highline.edu](mailto:webmaster@highline.edu?subject=Website%20Privacy%20Policy%20Feedback)
 
 __Top
