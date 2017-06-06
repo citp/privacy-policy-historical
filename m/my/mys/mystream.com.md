@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystream.com privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813061129id_/https%3A//mystream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystream.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192210id_/https%3A//mystream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stream
 
@@ -72,7 +72,7 @@ California Civil Code Section 1798.83 entitles California customers to request i
 
 **"Do Not Track" Notice:** Because internet and mobile network providers "do not track" and similar signals do not yet operate according to common, industry-accepted standards, Stream and the networks on which we operate currently do not respond to those signals. For more information on Do Not Track, please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/ "All About Do Not Track").
 
-California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at [legal@streamenergy.net](mailto:legal@streamenergy.net), or write to us at Stream, 1950 N. Stemmons Freeway, Suite 3000, Dallas, Texas 75207.
+California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at [legal@streamenergy.net](mailto:legal@streamenergy.net), or write to us at Stream, 14675 Dallas Parkway, Suite 150, Dallas, Texas 75254.
 
 ## Security:
 
@@ -122,7 +122,7 @@ Stream Energy will take all steps deemed reasonable by us to secure any personal
 We welcome you to contact us directly at either of these addresses below for any questions about this Privacy Policy.
 
   * ****E-mail us at  [legal@streamenergy.net](mailto:webmaster@streamenergy.net)
-  * Write to us at Stream, 1950 N. Stemmons Freeway, Suite 3000, Dallas, Texas 75207.
+  * Write to us at Stream, 14675 Dallas Parkway, Suite 150, Dallas, Texas 75254.
 
 
 
