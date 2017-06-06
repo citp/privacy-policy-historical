@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the convertio.co privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527130414id_/https%3A//convertio.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertio.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215311id_/https%3A//convertio.co/privacy) for the most accurate reproduction.*
 
-# Convertio Privacy Policy
+# Convertio — Privacy
 
 Privacy of our users is our priority. So only you choose how your information is collected and used by us. On issues related to the clarification of our practice, you will be able to find the answers in this notice, which is available on our website. 
 
