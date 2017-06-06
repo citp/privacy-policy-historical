@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avoxi.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924114856id_/http%3A//www.iubenda.com/privacy-policy/504811/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avoxi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095959id_/http%3A//www.iubenda.com/privacy-policy/504811/legal) for the most accurate reproduction.*
 
 # Privacy Policy of www.avoxi.com
 
