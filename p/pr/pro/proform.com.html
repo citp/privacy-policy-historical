@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proform.com privacy policy that was archived on 2016-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161220014616id_/https%3A//www.proform.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proform.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606162618id_/https%3A//www.proform.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- BEGIN fullPageLayout.html --><head>
 <title>Proform.com Privacy Policy Page</title>
@@ -8,13 +8,21 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="description" content="ProForm privacy, shipping and return policy. ProForm is a world leader in home fitness equipment. Shop professional-grade treadmills, training cycles, and ellipticals!">
 <meta name="google-site-verification" content="PAn4SVUycYKZeGbCaqEiQAjoSIPOxK9jskCDfsYSJyU">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">   
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 
-<link rel="stylesheet" href="/css/pf-styles.css">
+<link rel="stylesheet" href="/css/pf-styles.css?v=1">
 <link rel="stylesheet" href="/css/pf-jquery.rating.css">
+<link rel="icon" type="image/x-icon" href="/img/favicon.ico">
 <link rel="canonical" href="https://www.proform.com/privacy">
-           
+
+<link rel="apple-touch-icon" href="https://www.proform.com/cdn/images/touch-icon-iphone.png"> 
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.proform.com/cdn/images/touch-icon-ipad.png"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.proform.com/cdn/images/touch-icon-iphone-retina.png"> 
+<link rel="apple-touch-icon" sizes="167x167" href="https://www.proform.com/cdn/images/touch-icon-ipad-retina.png"> 
+
+<meta name="theme-color" content="#1ca6df">
+
 
 
 
@@ -37,7 +45,7 @@
 
 
 <script src="//www.google-analytics.com/cx/api.js"></script>
-<urscrub><script type="text/javascript" async="" src="https://www.proform.com/cdn/js/ur271.js"></script></urscrub></head><body><blc:googleexperiments execute="true"></blc:googleexperiments>
+<urscrub><script type="text/javascript" async="" defer="" src="https://www.proform.com/cdn/js/userreplay_staging.js"></script></urscrub></head><body><blc:googleexperiments execute="true"></blc:googleexperiments>
 
 
 <script>
@@ -110,7 +118,9 @@
           <div class="phone right">
             <span class="nomo-phone left"></span><span>Sales:</span><span itemprop="telephone">1-888-742-0128</span>
           </div>
-          <div id="chat" class="right"><a id="whoson_chat_link" tabindex="1501"></a></div>
+          <div id="chat" class="right">
+            <a id="whoson_chat_link" tabindex="1501"><!--nothing here--></a>
+          </div>
         </div>
       
         <div class="search-box">
@@ -130,11 +140,15 @@
           <div class="miniCart">
             <div class="arrow_box"></div>
 <div>
-	<div id="drop-cart-items" class="center">Your cart is empty</div>
+  <div id="drop-cart-items" class="center">Your cart is empty</div>
 </div>
 
 
 <script>
+  $("#miniContinue").click(function(){
+    $("#miniContinue").hide();
+    $(".loading-mini").show();
+  });
 	function removeProduct(url) {
 		$.get(url, function() {
 			$("#cartLink span.headerCartItemsCount").load("/ span.headerCartItemsCount", function() {$(this).children(':first').unwrap();
@@ -143,6 +157,7 @@
 		});
 	}
 </script>
+
           </div>
         </div>
         <div id="account_info" class="nomo">
@@ -231,8 +246,8 @@
 			
 		</li>
 		<li>
-			<a tabindex="1004" href="/tour-de-france">
-			<span>Tour De France</span>
+			<a tabindex="1004" href="/studio-bikes">
+			<span>Studio Bikes</span>
 			</a>
 			
 		</li>
@@ -290,10 +305,8 @@
 <div class="inner privacy-page">
 	<div class="product-information border-heading">
 	</div>
-	<div id="floating-nav-trigger" class="nomo">
-	</div>
 	<div class="info-sidenav">
-		<div id="side-navigation" class="upper nomo">
+		<div id="side-navigation" class="upper nomo" style="top: 60px, background: none;">
 			<ul class="sidenav">
 				<li id="tab-privacy" class="tab-active"><a href="#privacy">Privacy Policy</a></li>
 				<li id="tab-shipping"><a href="#shipping">Shipping Policy</a></li>
@@ -304,7 +317,9 @@
 	<!-- /#side-navigation -->
 	<div id="sidenav-content">
 		<section id="privacy">
-		<h2 class="section-header upper">Privacy Policy </h2>
+		<div id="floating-nav-trigger" class="nomo">
+		</div>
+		<h2 class="section-header upper nav-trigger">Privacy Policy </h2>
 		<p>This Privacy Policy governs the manner in which ICON Health &amp; Fitness, Inc. ("we," "us," "our") collect, use, maintain, and disclose information collected from and about you and other users ("you" or "User") while using this website (the "Site"), whether accessed via the Internet, a mobile device, other electronic devices, or by any other means. This privacy policy applies to the Site and all products and services we offer through the Site. We are dedicated to safeguarding Personally Identifiable Information (as defined below) that we collect.
 		</p>
 		<h4>Types of information we collect and when</h4>
@@ -463,6 +478,20 @@
 	<!-- /.span8 -->
 	<!-- /.info-sidenav -->
 	<!-- /.container -->
+</div>
+<div layout:fragment="loadJS">
+	<script>jQuery(document).ready(function($) {
+	$.getScript("/js/pf-jquery.waypoints.min.js", function() {
+		$(".nav-trigger").waypoint(function(direction) {
+			if (direction == 'down') {
+				$('#side-navigation').css({'position': 'fixed', 'top': '0px', 'background': 'none'});
+			} else {
+				$('#side-navigation').css({'position': 'absolute', 'top': '60px'});
+			}
+		});
+	});
+});
+	</script>
 </div></div>
     </div></div>
       
@@ -483,23 +512,25 @@
         </div>
         <div class="footer-email-question" tabindex="1632">Already Subscribed?</div>
         <div class="footer-email-manage"><a href="/subscription" tabindex="1633">Manage your subscription</a></div>
-      <input type="hidden" name="csrfToken" value="DR4V-OI9R-2K44-B0UE-QHIM-F4YN-5QP0-RT6K"><input type="hidden" name="refUrl" value="ProForm|||Desktop"></form>
+      <input type="hidden" name="csrfToken" value="00N0-N2ZF-WV3K-71LV-4LRE-QCAS-HOZ7-FOTB"><input type="hidden" name="refUrl" value="ProForm|||Desktop"></form>
       
       <div class="shl shomo"></div>
       <ul class="social-footer">
         <!--li><a href="http://proform.com/blog/" target="_blank"  ><span id="blog">&nbsp;</span></a></li-->
-        <li><a href="https://www.facebook.com/proform?ref=ts" target="_blank" tabindex="1640"><span id="facebook">&nbsp;</span></a></li>
-        <li><a href="https://twitter.com/ProFormFitness" target="_blank" tabindex="1641"><span id="twitter">&nbsp;</span></a></li>
-        <li><a href="https://www.youtube.com/user/ProFormLive" target="_blank" tabindex="1642"><span id="youtube">&nbsp;</span></a></li>
-        <li><a href="https://plus.google.com/+proform/posts" target="_blank" tabindex="1643"><span id="googleplus">&nbsp;</span></a></li>
-        <li><a href="https://www.pinterest.com/proform/" target="_blank" tabindex="1644"><span id="pinterest">&nbsp;</span></a></li>
-        <li><a href="https://www.instagram.com/proform" target="_blank" tabindex="1645"><span id="instagram">&nbsp;</span></a></li>
+        <li><a href="https://www.facebook.com/proform?ref=ts" target="_blank" rel="noopener noreferrer" tabindex="1640"><span id="facebook">&nbsp;</span></a></li>
+        <li><a href="https://twitter.com/ProFormFitness" target="_blank" rel="noopener noreferrer" tabindex="1641"><span id="twitter">&nbsp;</span></a></li>
+        <li><a href="https://www.youtube.com/user/ProFormLive" target="_blank" rel="noopener noreferrer" tabindex="1642"><span id="youtube">&nbsp;</span></a></li>
+        <li><a href="https://plus.google.com/+proform/posts" target="_blank" rel="noopener noreferrer" tabindex="1643"><span id="googleplus">&nbsp;</span></a></li>
+        <li><a href="https://www.pinterest.com/proform/" target="_blank" rel="noopener noreferrer" tabindex="1644"><span id="pinterest">&nbsp;</span></a></li>
+        <li><a href="https://www.instagram.com/proform" target="_blank" rel="noopener noreferrer" tabindex="1645"><span id="instagram">&nbsp;</span></a></li>
       </ul>
     </div>
     <div class="shl shomo"></div>
     <div class="footer-chat shomo">
       <div class="footer-live-chat">
-        <div id="footer-chat" class="left"><a id="whoson_chat_link" href="https://icon.whoson.com/chat/chatstart.htm?domain=www.proform.com" target="_blank"><img src="https://www.proform.com/cdn/images/pf_live_chat.gif"></a></div>
+        <div id="footer-chat" class="left">
+        <a id="whoson_chat_link" href="https://icon.whoson.com/chat/chatstart.htm?domain=www.proform.com" target="_blank"><img src="https://www.proform.com/cdn/images/pf_live_chat.gif"></a>
+        </div>
         <div class="footer-phone left">
           <a href="tel:+18887420128" rel="nofollow">
             <span class="alternate-phone-icon left"></span><span>Sales:</span><span itemprop="telephone">1-888-742-0128</span>
@@ -530,7 +561,7 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_D0xgVXqz", "7", "m", "bl
         <h4>Customer Service</h4>
         <ul>
           <li><a href="http://support.proform.com/" target="_blank" tabindex="1610">Support</a></li>
-          <li><a href="https://www.iconservice.com/CustomerService/orderTracking.do" target="_blank" tabindex="1611">Order Status </a></li>
+          <li><a href="https://www.iconservice.com/CustomerService/orderTracking.do" target="_blank" tabindex="1611">Order Status</a></li>
           <li><a href="https://www.iconservice.com/CustomerService/contactUs.do?dr=PF" target="_blank" tabindex="1612">Contact Us</a></li>
           <li><a href="http://support.proform.com/parts-manuals/" target="_blank" tabindex="1613">Parts &amp; Manuals</a></li>
           <li><a href="https://my.proform.com/" target="_blank" tabindex="1614">Product Registration</a></li>
@@ -552,14 +583,72 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_D0xgVXqz", "7", "m", "bl
     </nav>
     <div class="clear">&nbsp;</div>
       <div id="copyright">
-        <span>Copyright</span>&nbsp;©<span>2016</span>&nbsp;<span>All Rights Reserved</span> &nbsp;&nbsp;
+        <span>Copyright</span>&nbsp;©<span>2017</span>&nbsp;<span>All Rights Reserved</span> &nbsp;&nbsp;
         <span class="pricing-valid">Pricing&nbsp;valid&nbsp;only&nbsp;in&nbsp;the&nbsp;Continental&nbsp;U.S. &nbsp;&nbsp;</span>
-        <span class="last-updated"><span>Site Last Updated on</span>&nbsp;<span>19 Dec 2016</span></span>
+        <span class="last-updated"><span>Site Last Updated on</span>&nbsp;<span>06 Jun 2017</span></span>
         <p><span class="shomo" style="width: 40px;display: inline-block" onclick="$.getScript('/js/seer.js', function() {success();});">&nbsp;</span></p>
       </div><!-- /#copyright -->
     </div>
   </div>
+  
+  
+  <div id="finance-pop-content" class="hidden">
+    <div data-czid="financeFodal" class="content-zone-container">
 
+
+<div><style>
+.topcatfinance-spot li div {
+	text-align: left;
+    text-transform: none;
+    font-family: "Avenir LT W01_55 Roman1475520","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 22px;
+    margin: 15px auto;
+    color: #646464;}	
+
+</style>
+
+<div class="topcatfinance-spot">
+	<ul>
+		<li class="interest">
+			Special Financing 
+			<span class="shomo"><span class="black">+</span> Free Shipping</span>
+			<div> 
+				You can pay interest free over 6 or 12 months with Fortiva Retail Credit *OAC
+				<a href="https://www.proform.com/fitness-equipment-financing">See terms.</a>
+			</div>
+		</li>
+		<li class="thin">
+			<div class="dividing-bar-thin-vertical dividing-bar-thin">
+			</div>
+		</li>
+		<li class="guarantee">
+			<img class="pp-credit-icon nomo" alt="" src="https://www.proform.com/cdn/images/icon_30guarantee.svg"> 30-Day <span class="green">Money <br class="shomo">Back Guarantee</span>
+			<div>
+				If you are not absolutely in love with your new ProForm product, please call 1-866-896-9777 and we will be happy to set up a return.
+			</div>
+			<div calss="financing-fine-print">
+				<a href="/privacy#return">Click here for full details.</a>
+			</div>
+		</li>
+		<li class="thin">
+			<div class="dividing-bar-thin-vertical dividing-bar-thin"></div>
+		</li>
+			<li class="shipping nomo">
+				<img class="pp-credit-icon" alt="" src="https://www.proform.com/cdn/images/icon_freeshipping.svg"> Free Shipping
+				<div>
+					It's as simple as paying for your purchase in full with your credit card—and BAM, free shipping. You're welcome.
+				</div>
+				<div class="finance-fine-print">
+					Only on select items.
+				</div>
+
+			</li>
+		</ul>
+	</div>
+	<div class="clear"></div></div></div>
+  </div>
+  
   <script src="/js/BLC.js"></script>
 
   
@@ -580,14 +669,14 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_D0xgVXqz", "7", "m", "bl
   <script src="/js/pf-TweenMax.1.19.0.min.js"></script>
   <script src="/js/pf-globalOnReady.js"></script>
   
-  <blc:widget-js></blc:widget-js>
+  
   
   <script>
       /*<![CDATA[*/
     /* You may give each page an identifying name, server, and channel on
     the next lines. */
     s.pageName= omniPageName;
-    s.server= 'prdblc22.iconfitness.com';
+    s.server= 'prdblc21.iconfitness.com';
     s.channel= omniChannel;
     s.pageType= omniPageType;
     s.prop1="";
@@ -619,23 +708,24 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_D0xgVXqz", "7", "m", "bl
   </noscript>
   <!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear -->
   <script>
-    $.getScript("//icon.whoson.com/include.js?domain=www.proform.com", function() {
-      if(typeof sWOTrackPage=='function') {
-        sWOTrackPage();
-      }
-      var t=setTimeout(function() {
-        sWOImageLoaded=function() {};
-        sWOInvite='';
-        sWOResponse='N';
-        sWOPage=sWOPage+'%3Ftimer%3Dtrue';
-        sWOTrackPage();
-      }, 30000);
-    });
+    if (BLC.csrMultiSession) {} else {
+      $.getScript("//icon.whoson.com/include.js?domain=www.proform.com", function() {
+        if(typeof sWOTrackPage=='function') {
+          sWOTrackPage();
+        }
+        var t=setTimeout(function() {
+          sWOImageLoaded=function() {};
+          sWOInvite='';
+          sWOResponse='N';
+          sWOPage=sWOPage+'%3Ftimer%3Dtrue';
+          sWOTrackPage();
+        }, 30000);
+      });
+    }
   </script>
-
   <!-- End of embedded WhosOn -->
   <!-- Insert Seer Here -->
-  <span style="display:none">prdblc22.iconfitness.com</span>
+  <span style="display:none">prdblc21.iconfitness.com</span>
   
   <script>
     if (sessionStorage) {
@@ -657,7 +747,7 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_D0xgVXqz", "7", "m", "bl
       }
     });
     function success() {
-      var rawHostname = 'prdblc22.iconfitness.com';
+      var rawHostname = 'prdblc21.iconfitness.com';
       var cleanHostname = rawHostname.replace('.iconfitness.com','');
       seer(cleanHostname);
     }
@@ -719,43 +809,58 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_D0xgVXqz", "7", "m", "bl
   <!-- Start of UR Capture Code -->
   <urscrub>
   <script type="text/javascript">
-  (function() {
-      var s = document.createElement('script'),
-          h = document.getElementsByTagName('head')[0],
-          u =document.createElement('urscrub');
+    (function () {
+        var s = document.createElement('script'),
+            h = document.getElementsByTagName('head')[0],
+            u = document.createElement('urscrub');
+            s.type = 'text/javascript'; s.async = true; s.defer = true;
 
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = 'https://www.proform.com/cdn/js/ur271.js';
-      s.onload = function() {
-           var cfg = new UrConfig('00000000', '//ur.iconfitness.com');
+        var host = location.hostname;
+        if (host.indexOf('www.proform.com') > -1)  {
+            s.src = 'https://www.proform.com/cdn/js/ur2815.js';
+        }
+        else {
+           s.src = 'https://www.proform.com/cdn/js/userreplay_staging.js';
+        }
+        s.onload = loaded;
+        s.onreadystatechange = function () {
+            if (this.readyState === 'loaded' || this.readyState === 'complete') {
+                loaded();
+            }
+        };
+        u.appendChild(s); h.appendChild(u);
+        function loaded () {
+            var config = new UrConfig('00000000', '//ur.iconfitness.com');
+            config.excludeXhr(new RegExp('tealeaf', 'i'))
+                  .excludeXhr(new RegExp('dynaTraceMonitor','i'))
+                  .excludeXhr(new RegExp('\/cart\/mini.*','i'))
+                  .excludeXhr(new RegExp('\/?_','i'))  
+                  .excludePage(new RegExp ('\/? ','i'))           
+                  .excludePage(new RegExp ('\/StoreInfoArea\/verisign\.html','i'))
+                  .excludeXhrResponseText(false);
 
-          cfg.set('autoCapture', true)
-              .set('captureXhr', true)
-              .excludeXhrResponseText(false)
-              .excludeXhr(new RegExp('\/cart\/mini.*','i'))
-              .excludeXhr(new RegExp('\/?_','i'))
+            if(window.location.href.indexOf('/checkout/payment') > -1) {
+          // Block all fields
+              } else {
+              config.whitelistFieldIds([new RegExp('.*')])
+                    .whitelistFieldNames([new RegExp('.*')])
+                    .whitelistFieldClasses([new RegExp('.*')])
+                    .whitelistXhrPostParams('promoCode');
+                }
 
-              .excludePage(new RegExp ('\/wcsstore\/proform\/StoreInfoArea\/verisign\.html','i'))
-
-              .addUploadTrigger('xhr', new RegExp('\/cart\/mini\/add','i'), 1000)
-              .addUploadTrigger('xhr', new RegExp('\/checkout\/singlefulfillment','i'), 200)
-              .addUploadTrigger('xhr', new RegExp('\/js\/pf-owl\.carousel\.js','i'), 200)
-
-                      .set('storageDomain', 'https://www.proform.com')
-                      .set('storageTarget', '/cdn/storagetarget.html')
-
-    .whitelistFieldNames([new RegExp('.*')])
-    .whitelistFieldIds([new RegExp('.*')])
-    .whitelistXhrPostParams([new RegExp('.*')])
-    .whitelistFieldClasses([new RegExp('.*')]);
-
-    console.log("Sending Page Upload");
-    urCapture.init(cfg);
-      };
-      u.appendChild(s);
-      h.appendChild(u);
-  })();
+            config.set('captureStateChanges', true)
+                  .set('autoCaptureDelay', 1500)
+                  .set('captureCookies', true)
+                  .set('captureXhr', true)
+                  .set('iframes', false)
+                  .set('errorReporting', false)
+                  .set('storageDomain', 'https://www.proform.com')
+                  .set('storageTarget', '/cdn/storagetarget.html');
+                  
+            urCapture.init(config);
+           // console.log('UserReplay v2.8.11');
+        }
+    }());
   </script>
   </urscrub>
   <!-- End of UR Capture Code -->
@@ -764,7 +869,7 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_D0xgVXqz", "7", "m", "bl
 
 <script>
   var params = 
-  {"firstName":"","lastName":"","backorderableProducts":[],"csrfToken":"DR4V-OI9R-2K44-B0UE-QHIM-F4YN-5QP0-RT6K","cartItemIdsWithoutOptions":[],"cartItemIdsWithOptions":[],"anonymous":true,"cartItemCount":0,"outOfStockProducts":[],"csrfTokenParameter":"csrfToken","outOfStockSkus":[]};
+  {"firstName":"","lastName":"","backorderableProducts":[],"csrfToken":"00N0-N2ZF-WV3K-71LV-4LRE-QCAS-HOZ7-FOTB","cartItemIdsWithoutOptions":[],"cartItemIdsWithOptions":[],"anonymous":true,"cartItemCount":0,"outOfStockProducts":[],"csrfTokenParameter":"csrfToken","outOfStockSkus":[]};
   updateUncacheableData(params);
 </script>
 
@@ -774,105 +879,105 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_D0xgVXqz", "7", "m", "bl
 
 
 <div id="nav-area" class="transformer shomo" style="display: block;">
-	
-	
-	<div id="slide-nav-contact" class="clearfix">
-		<div id="account_info">
-                    <div class="anonymous-customer-header right">
-                    	<img src="/img/pf_account_icon.svg">
-                            <a class="loginMobile" href="/login">Log In</a>
-                        &nbsp;|&nbsp; 
-                            <a class="registerMobile" href="/register">Create Account</a>
-                    </div>
-                    <div class="hidden registered-customer-header right">
-			        	<span>
-			        			<div class="login-initials upper"></div>
-			        			<div class="login-arrow"></div>
-			        			<div class="login-greeting">
-				            		<span class="login-welcome">Hey</span>, 
-				                	<span class="welcome-first-name"></span>
-				                	<span class="hidden welcome-last-name"></span>
-				                </div>
-			        	</span>
-			        	<div class="monav-account-links">
-				        	<a class="my-account" href="/account">
-				        		<img src="/img/pf_account_icon.svg">
-			        			<span class="account-link">My Account</span>
-			        		</a>
-	                        &nbsp;|&nbsp; 
-	                        <a class="account" href="/logout">
-	                            <span>Logout</span>
-	                        </a>
-                    	</div>
-		    		</div>
+  
+  
+  <div id="slide-nav-contact" class="clearfix">
+    <div id="account_info">
+      <div class="anonymous-customer-header right">
+        <img src="/img/pf_account_icon.svg">
+        <a class="loginMobile" href="/login">Log In</a>
+        &nbsp;|&nbsp;
+        <a class="registerMobile" href="/register">Create Account</a>
+      </div>
+      <div class="hidden registered-customer-header right">
+        <span>
+          <div class="login-initials upper"></div>
+          <div class="login-arrow"></div>
+          <div class="login-greeting">
+            <span class="login-welcome">Hey</span>, 
+            <span class="welcome-first-name"></span>
+            <span class="hidden welcome-last-name"></span>
+          </div>
+        </span>
+        <div class="monav-account-links">
+          <a class="my-account" href="/account">
+            <img src="/img/pf_account_icon.svg">
+            <span class="account-link">My Account</span>
+          </a>
+          &nbsp;|&nbsp; 
+          <a class="account" href="/logout">
+            <span>Logout</span>
+          </a>
         </div>
-		<div id="slide-nav-phone">
-			<a href="tel:+18887420128" class="clearfix" rel="nofollow">
-				<span class="alternate-phone-icon left"></span><span>Sales:</span><span itemprop="telephone">1-888-742-0128</span>
-			</a>
-		</div>	
-		<div id="slide-nav-chat">
-			<a id="whoson_chat_link" href="https://icon.whoson.com/chat/chatstart.htm?domain=www.proform.com" target="_blank">
-				<img id="whoson_chat_img" src="/img/pf_live_chat.gif"><span>Live Chat</span>
-			</a>
-		</div>
-	</div>
-	<ul id="slide-nav-menu">
-		<li>
-			<div class="shl-mo-nav"></div>
-			<a href="/treadmills">
-				<span>Treadmills</span>
-			</a>
-			
-		</li>
-		<li>
-			<div class="shl-mo-nav"></div>
-			<a href="/ellipticals">
-				<span>Ellipticals</span>
-			</a>
-			
-		</li>
-		<li>
-			<div class="shl-mo-nav"></div>
-			<a href="/exercise-bikes">
-				<span>Exercise Bikes</span>
-			</a>
-			
-		</li>
-		<li>
-			<div class="shl-mo-nav"></div>
-			<a href="/tour-de-france">
-				<span>Tour De France</span>
-			</a>
-			
-		</li>
-		<li>
-			<div class="shl-mo-nav"></div>
-			<a href="/hybrid-trainers">
-				<span>Hybrid Trainers</span>
-			</a>
-			
-		</li>
-		<li>
-			<div class="shl-mo-nav"></div>
-			<a href="/rowing-machines">
-				<span>Rowers</span>
-			</a>
-			
-		</li>
-		<li>
-			<div class="shl-mo-nav"></div>
-			<a href="/hiit-trainers">
-				<span>HIIT Trainers</span>
-			</a>
-			
-		</li>
-		<li>
-			<div class="shl-mo-nav"></div>
-			<a href="/ifit">
-				<span>iFit</span>
-			</a>
-			
-		</li>
-	</ul>
+      </div>
+    </div>
+    <div id="slide-nav-phone">
+      <a href="tel:+18887420128" class="clearfix" rel="nofollow">
+        <span class="alternate-phone-icon left"></span><span>Sales:</span><span itemprop="telephone">1-888-742-0128</span>
+      </a>
+    </div>  
+    <div id="slide-nav-chat">
+      <a id="whoson_chat_link" href="https://icon.whoson.com/chat/chatstart.htm?domain=www.proform.com" target="_blank">
+        <img id="whoson_chat_img" src="/img/pf_live_chat.gif"><span>Live Chat</span>
+      </a>
+    </div>
+  </div>
+  <ul id="slide-nav-menu">
+    <li>
+      <div class="shl-mo-nav"></div>
+      <a href="/treadmills">
+        <span>Treadmills</span>
+      </a>
+      
+    </li>
+    <li>
+      <div class="shl-mo-nav"></div>
+      <a href="/ellipticals">
+        <span>Ellipticals</span>
+      </a>
+      
+    </li>
+    <li>
+      <div class="shl-mo-nav"></div>
+      <a href="/exercise-bikes">
+        <span>Exercise Bikes</span>
+      </a>
+      
+    </li>
+    <li>
+      <div class="shl-mo-nav"></div>
+      <a href="/studio-bikes">
+        <span>Studio Bikes</span>
+      </a>
+      
+    </li>
+    <li>
+      <div class="shl-mo-nav"></div>
+      <a href="/hybrid-trainers">
+        <span>Hybrid Trainers</span>
+      </a>
+      
+    </li>
+    <li>
+      <div class="shl-mo-nav"></div>
+      <a href="/rowing-machines">
+        <span>Rowers</span>
+      </a>
+      
+    </li>
+    <li>
+      <div class="shl-mo-nav"></div>
+      <a href="/hiit-trainers">
+        <span>HIIT Trainers</span>
+      </a>
+      
+    </li>
+    <li>
+      <div class="shl-mo-nav"></div>
+      <a href="/ifit">
+        <span>iFit</span>
+      </a>
+      
+    </li>
+  </ul>
 </div></body></html>
