@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qubit.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128060423id_/http%3A//www.qubit.com/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qubit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223536id_/http%3A//www.qubit.com/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie policy | Qubit
 
