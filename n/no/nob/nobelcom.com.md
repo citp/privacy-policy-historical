@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209021922id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040932id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NobelCom
 
 NobelCom Privacy Policy Statement
 
-Thank you for visiting NobelCom.com, a Nobel Ltd. website. NobelCom.com is committed to honoring the privacy of our members and visitors.
+Thank you for visiting NobelCom.com, a NOBEL Ltd website. NobelCom.com is committed to honoring the privacy of our members and visitors.
 
 **What information does NobelCom.com receive and how do we use it?**
 
