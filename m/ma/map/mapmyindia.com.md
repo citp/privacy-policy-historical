@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mapmyindia.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210045155id_/http%3A//www.mapmyindia.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapmyindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093035id_/http%3A//www.mapmyindia.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: MapmyIndia
+# MapmyIndia - About Us
+
+### **Privacy** Policy 
 
 Mapmy India's Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our website and our Products and Services which include maps, directions, information, applications, materials and documents being made available to you. The following information is gathered by the website during the registration process 
 
