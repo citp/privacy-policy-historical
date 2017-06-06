@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the guff.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203113639id_/http%3A//guff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guff.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141811id_/http%3A//guff.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Guff
-
-X
-
-Subscribe &  
-get the latest GUFF  
-delivered to your mailbox 
-
-X
-
-#### Search #TAGS or KEYWORDS
-
-DELETE or ESC to clear.
-
-Results will load here
 
 _Updated: June 16, 2014_
 
@@ -50,7 +36,7 @@ A cookie is information that a website stores on a visitor’s computer, and tha
 
 Ads that appear on any of Guff.com websites may be delivered to users by advertising partners, who may also set cookies. These cookies give the ad server the ability to recognize your computer every time they send you an online advertisement to put together information about you or anyone who uses your computer. This information allows the ad networks to, among other things, deliver advertisements targeted at the users interest. This privacy policy covers the use of cookies by Guff.com, but does not cover any use of cookies by advertisers.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://www.networkadvertising.org/choices/>.
 
 ## Third Party Links
 
@@ -66,4 +52,4 @@ If Guff.com contacts you by email concerning new products, services or informati
 
 ## Contact
 
-If you have any questions or are unsure about something within the privacy policy, or the Guff.com website itself, [please contact us](https://web.archive.org/privacypolicy "Privacy Questions").
+If you have any questions or are unsure about something within the privacy policy, or the Guff.com website itself, [please contact us](https://web.archive.org/contact "Privacy Questions").
