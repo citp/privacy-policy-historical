@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citigroup.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125023132id_/http%3A//www.citigroup.com/citi/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citigroup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222614id_/http%3A//www.citigroup.com/citi/privacy.html) for the most accurate reproduction.*
 
-# Citi | Privacy
+# Citigroup | Privacy
 
 This Online Privacy Statement describes how we may collect, use and share information you provide when you visit this webpage. As used herein, "we" or "Citi" refers to Citigroup Inc. and its subsidiaries. Our goal is to maintain your trust and confidence when handling personal information about you.
 
