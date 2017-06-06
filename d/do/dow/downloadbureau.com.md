@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the downloadbureau.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119070755id_/http%3A//www.downloadbureau.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbureau.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141915id_/http%3A//www.downloadbureau.com/privacy-policy) for the most accurate reproduction.*
 
-# Download Softwares
+# DownloadBureau | Privacy Policy
 
-###   Privacy Policy
-
-This websites collects limited Personal Data from users.   
-
+This websites collects limited Personal Data from users. 
 
 According to the current Privacy Policy for DownloadBureau.com, the owner of the website is informing users that files containing data from customers and users have been created. DownloadBureau.com takes responsibility for the files, which have been filed with the corresponding public entity. Information collected is not sold or rented to third parties for commercial purposes without the prior consent of users. The site is however enabled for the disclosure of personal data to (i) demand policy fulfillment, (ii) meet legal requirements, (iii) answer claims associated with third party rights protection or security or property should it be affected by contents or advertisments, breach of contract claim answers,
 
@@ -15,20 +12,9 @@ Users registering with the site are consenting to give their Personal Data in or
 
 Data collected by users is kept for only the length of time required to complete users requested service. Users may request that the data collected from them be deleted at any time. Information is used for delivery or service of goods sold through the Site, and for general accounting, administrative or technical purposes including:
 
-  
-
-
-  
-
   * Specific information request from the User;
-  
-
   * Updates on new products and services available or business offers
-  
-
   * Inform Users of inconvenience or Site maintenance
-  
-
   * User commercial profiling
 
 
