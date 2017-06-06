@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122220655id_/https%3A//www.terraserver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234511id_/https%3A//www.terraserver.com/privacy) for the most accurate reproduction.*
 
 # TerraServer - Privacy Policy
 
@@ -57,6 +57,6 @@ Using the following information, you can contact us if you have questions about 
   * Precision Hawk USA, Inc. 
   * 8601 Six Forks Road, Forum I, Suite 600 
   * Raleigh, NC 27615 USA 
-  * Email: [legal@terraserver.com](mailto:legal@terraserver.com)
+  * Email: [support@terraserver.com](mailto:support@terraserver.com)
 
 
