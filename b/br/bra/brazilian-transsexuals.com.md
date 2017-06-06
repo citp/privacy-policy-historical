@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the brazilian-transsexuals.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209080540id_/http%3A//www.brazilian-transsexuals.com/compliance/privacypolicy.php%3Fsite%3Dbrazilian-transsexuals.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazilian-transsexuals.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060945id_/http%3A//www.brazilian-transsexuals.com/compliance/privacypolicy.php%3Fsite%3DBrazilian%2520Transsexuals) for the most accurate reproduction.*
 
-# Brazilian-Transsexuals.com - Privacy Policy
+# Brazilian Transsexuals - Privacy Policy
 
 PRIVACY POLICY
 
 FOR
 
-“Brazilian-Transsexuals.com”
+“Brazilian Transsexuals”
 
 Effective Date: May 17, 2011
 
