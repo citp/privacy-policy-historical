@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215003341id_/http%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151818id_/http%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
 
 # 
 
@@ -89,8 +89,6 @@ If you change your mind and decide you do not wish to receive information from O
 
 #### ABOUT COOKIES AND THE WAY WE USE THEM
 
-Please note: On receipt of the goods a signature will be required.
-
 In common with other websites, we use "cookies". Cookies are small text files which are sent to your computer and enable our website to recognise you. They are not computer programmes and are incapable of reading any material on your hard disk or disseminate viruses. They only contain such information as you have provided to us on the website. You can set up your computer so that it rejects cookies, (you will find instructions on how to do this at [www.allaboutcookies.org](http://allaboutcookies.org/) but in doing so, in common with other online shopping facilities, you will be unable to use the shopping facility on this site.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We use this information for statistical analysis purposes and then the data is removed from the system.
@@ -98,6 +96,18 @@ We use traffic log cookies to identify which pages are being used. This helps us
 We use Post-Click Tracking tags to track customer activity following a marketing email linking to Offspring.co.uk. The cookies will allow us to send targeted and relevant marketing emails to those customers opted in. The data collected will only contain email address, transaction quantity and transaction amount.
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+Our website uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites, apps and emails. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behaviour. You can opt-out of interest based advertising by visiting the following websites:
+
+<http://go.pardot.com/e/126241/choices-/3yy9lv/114140805>
+
+<http://go.pardot.com/e/126241/2017-04-12/3yy9lx/114140805>
+
+We may share data, such as technical identifiers derived from your registration information on our [website/app] or our CRM system with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use. To read more about their linking capabilities, please refer to their privacy policy listed in the above-mentioned platforms or listed below.
+
+Criteo privacy policy: <http://go.pardot.com/e/126241/privacy-/3yy9lz/114140805>
+
+AffiliateWindow policy: <https://www.awin.com/gb/legal/privacy-policy>
 
 Please note: We do not use cookies to store any of your personal or financial information on your computer.
 
