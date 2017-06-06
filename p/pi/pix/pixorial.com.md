@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixorial.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226162043id_/http%3A//lifelogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixorial.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085902id_/http%3A//lifelogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « LifeLogger: Location Smart Videos made Simple!
 
