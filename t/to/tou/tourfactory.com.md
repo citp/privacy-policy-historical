@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119100722id_/http%3A//www.tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162017id_/http%3A//www.tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
 
 # TourFactory :: Realty Privacy
 
 ### Privacy Statement
 
-This privacy statement discloses the privacy practices for [www.homedebut.com ](http://www.homedebut.com/)and [www.tourfactory.com](http://www.tourfactory.com/).
+This privacy statement discloses the privacy practices for [www.homedebut.com](https://www.homedebut.com/) and [www.tourfactory.com](https://www.tourfactory.com/).
 
 Home Debut's mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This web site has agreed to notify you of: 
 
@@ -61,7 +61,9 @@ This web site contains links to other sites. Please be aware that we Home Debut,
 
 ### News Updates and Special Promotions
 
-If a user wishes to subscribe to our newsletter and Special Promotions, we ask for contact information such as name and email address. 
+When you register at TourFactory.com as a member, the information is used to enroll you in TourFactory's marketing suite, to manage your portfolio site, to enroll you in our newsletters, and to keep you informed about the products and related services. As a visitor to our Site, you can engage in many activities without providing any personal information.
+
+If you opt in to receive any free training series, download a free product, register for a webinar, seminar, or live event, or purchase any product sold by us or promoted by us, you will automatically be subscribed to our free newsletter. If you do not wish to receive this free newsletter, you may opt out at any time. We include an unsubscribe link at the bottom of every e-mail we send. If you have any trouble opting out, please send an e-mail to us. We will manually remove you from our e-mail list(s). 
 
 ### Surveys & Contests
 
@@ -69,7 +71,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 ### Tell-A-Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Home Debut, Inc. will automatically send the friend a one-time email inviting them to visit the site. Home Debut, Inc. stores this information for the sole purpose of sending this one-time email. The friend may contact Home Debut, Inc. at [www.homedebut.com ](http://www.homedebut.com/) or [www.tourfactory.com](http://www.tourfactory.com/) to request the removal of this information from their database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Home Debut, Inc. will automatically send the friend a one-time email inviting them to visit the site. Home Debut, Inc. stores this information for the sole purpose of sending this one-time email. The friend may contact Home Debut, Inc. at [www.homedebut.com](https://www.homedebut.com/) or [www.tourfactory.com](https://www.tourfactory.com/) to request the removal of this information from their database. 
 
 ### Security
 
