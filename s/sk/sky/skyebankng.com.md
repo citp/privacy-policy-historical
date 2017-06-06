@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyebankng.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620171732id_/https%3A//www.skyebankng.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyebankng.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203831id_/https%3A//www.skyebankng.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
