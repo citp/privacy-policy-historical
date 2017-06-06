@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciscopress.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034958id_/http%3A//www.ciscopress.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciscopress.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140940id_/http%3A//www.ciscopress.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ A cookie is a piece of data stored on the user's hard drive tied to aggregate in
 
 ### Log Files
 
-demographic information for aggregate use. IP addresses, etc. are not linked to perLike most standard web site servers we use log files. This includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to Personally Identifiable Information, except to prevent fraud or abuse of the system.
+Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to Personally Identifiable Information, except to prevent fraud or abuse of the system.
 
 ### Sharing
 
@@ -58,13 +58,9 @@ On rare occasions it is necessary to send out a strictly service related announc
 
 We communicate with users on a regular basis to provide requested services and in regard to issues relating to their account we reply via email or phone in accordance with the users' wishes when a user submits their information through our [Contact Us form](https://web.archive.org/about/contact_us/index.asp).
 
-### Surveys and Contests
+### Surveys & Contests
 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as ZIP code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-### Email A Friend
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. CiscoPress.com will automatically send the friend a one-time email inviting them to visit the site. CiscoPress.com stores this information for the sole purpose of sending this one-time email. The friend may contact CiscoPress.com at [customer-service@informit.com](mailto:customer-service@informit.com) to request the removal of this information from the database.
 
 ### Security
 
