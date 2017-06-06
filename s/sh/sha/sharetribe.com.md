@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharetribe.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125033212id_/https%3A//www.sharetribe.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetribe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170822id_/https%3A//www.sharetribe.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Create a marketplace with Sharetribe
+# Privacy policy - Sharetribe
 
 Your privacy is critically important to us. At Sharetribe we have a few fundamental principles:
 
