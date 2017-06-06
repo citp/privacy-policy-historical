@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the chemistwarehouse.com.au privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512010714id_/http%3A//www.chemistwarehouse.com.au/AboutUs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistwarehouse.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133721id_/https%3A//www.chemistwarehouse.com.au/AboutUs/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Chemist Warehouse
+# Australia's Cheapest Online Pharmacy
 
-Chemist Warehouse respects your privacy
+CWH respects your privacy
 
-Thank you for visiting the **ChemistWarehouse.com.au** Web site. **ChemistWarehouse.com.au** is a leading online pharmacy and retail store for pharmaceutical products.
+Thank you for visiting the **ChemistWarehouse.com.au** Web site. **ChemistWarehouse.com.au** is a leading online pharmacy and retail store for pharmaceutical products, owned and operated in Australia under ePharmacy Group Pty Ltd. 
 
-The owners of **ChemistWarehouse.com.au** , its subsidiaries, related entities and affiliates (" **ChemistWarehouse.com.au** ", " **we** ", " **us** ", " **our** ") respect your privacy and we are committed to comply with the Privacy Act 1988 (Cth) (" **Act** ") and the Act's Australian Privacy Principals (" **APP** "). In addition, we are bound by and committed to the privacy of health records as contained in Health Legislation in every state. 
+The owners of **ChemistWarehouse.com.au** , its subsidiaries, related entities and affiliates (" **ChemistWarehouse.com.au** ", " **we** ", " **us** ", " **our** ") respect your privacy and we are committed to comply with the Privacy Act 1988 (Cth) (" **Act** ") and the Act's Australian Privacy Principals (" **APP** "). In addition, we are bound by and committed to the privacy of health records as contained in Health Legislation in every state.
 
 What is our privacy policy?
 
-Our privacy policy sets out how and why we collect your personal information, how we use this information and to whom the information may be disclosed.
+Our privacy policy sets out how and why we collect your personal information, how we use this information and to whom the information may be disclosed. 
 
-Please take a moment to read this policy. By using and submitting information to us you agree to our use of your personal information (" **Personal Information** ") in accordance with this policy. You agree that we may use all Information you provide to us in accordance with this Policy as amended from time to time. 
+Please take a moment to read this policy. By using and submitting information to us you agree to our use of your personal information (" **Personal Information** ") in accordance with this policy. You agree that we may use all Information you provide to us in accordance with this Policy as amended from time to time.
 
 What type of information does ChemistWarehouse.com.au collect and how do we collect it?
 
@@ -69,8 +69,7 @@ We may disclose your Personal Information to bodies and service providers to imp
 
 We may also use Personal Information to inform you of promotions which may be of interest along with details of other products or services we provide.
 
-If you wish to opt out of direct marketing offers, you can contact us by email on   
-[info@chemistwarehouse.com.au](mailto:info@chemistwarehouse.com.au)
+If you wish to opt out of direct marketing offers or promotions, you can contact us by email on info@chemistwarehouse.com.au, or out of respect for your privacy, we provide you a way to unsubscribe by following instructions included in each communication.
 
   * **Cross Border Disclosure**
 
@@ -84,7 +83,7 @@ Where is my Personal Information stored and how secure is the storage?
 
 Electronic Information provided to us will be stored on servers located in Australia. Physical copies of Personal Information provided may be kept in storage rooms with restricted access.
 
-Any Information sent to us via the Internet is sent at your own risk. **ChemistWarehouse.com.au** shall not be held accountable for the privacy practices of other websites which appear as links on our website or to links to our websites from other websites. **ChemistWarehouse.com.au** may contain links to other sites which may be located within or outside of Australia. This privacy policy does not apply to any sites which are not controlled or operated by us. 
+Any Information sent to us via the Internet is sent at your own risk. **ChemistWarehouse.com.au** shall not be held accountable for the privacy practices of other websites which appear as links on our website or to links to our websites from other websites. **ChemistWarehouse.com.au** may contain links to other sites which may be located within or outside of Australia. This privacy policy does not apply to any sites which are not controlled or operated by us.
 
 How can ChemistWarehouse.com.au customers ensure the accuracy and rectification in regard to their Personal Information?
 
@@ -92,7 +91,7 @@ When Personal Information is provided to ChemistWarehouse.com.au by you, you war
 
 Registered customers can view and alter the Personal Information they have provided by logging in with their username and password and accessing their account information. The Personal Information we retain includes patient profiles, addresses, and past orders. Access to this Personal Information by **ChemistWarehouse.com.au** staff can only be performed by staff members with a secure password, with access only performed when required. Access to this Information is recorded by log files to track unauthorised access and modifications.
 
-Customers wishing to access their Personal Information for the purpose of rectifying inaccuracies may also do so by written request to [info@chemistwarehouse.com.au](mailto:info@chemistwarehouse.com.au). We will comply with reasonable requests to have inaccuracies corrected. 
+Customers wishing to access their Personal Information for the purpose of rectifying inaccuracies may also do so by written request to [info@chemistwarehouse.com.au](mailto:info@chemistwarehouse.com.au). We will comply with reasonable requests to have inaccuracies corrected.
 
 Can ChemistWarehouse.com.au customers order with anonymity?
 
@@ -106,7 +105,12 @@ How do I make a complaint?
 
 ChemistWarehouse.com.au will use its best endeavours to ensure the privacy of your Personal Information.
 
-If you have any questions, queries or complaints, please contact us at [info@chemistwarehouse.com.au](mailto:info@chemistwarehouse.com.au)
+If you have any questions, queries or complaints, please contact us on [info@chemistwarehouse.com.au](mailto:info@chemistwarehouse.com.au) or mail us at 
+
+Chemist Warehouse Customer Service  
+Building F, 44 Raglan St  
+Preston VIC 3072  
+Australia
 
 Complaints received will be taken seriously and the outcome will be relayed to you in a timely manner. If you are not satisfied with the outcome, you may contact the Office of the Australian Information Commissioner at enquiries@oaic.gov.au or on 1300 363 992.
 
