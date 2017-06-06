@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotfav.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127131504id_/http%3A//www.spotfav.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotfav.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151730id_/http%3A//spotfav.com/privacy) for the most accurate reproduction.*
 
 # Spotfav
 
@@ -10,7 +10,7 @@ Questions regarding this policy and our practice should be directed to Spotfav, 
 
 ###  Privacy Policy 
 
-This Privacy Policy is incorporated into and subject to the [Terms and Conditions](http://www.spotfav.com/terms "Terms and Conditions") of use. It tells you what information we collect, how we protect it and what choices you have about how that information is used. Most information collected is to enable us to best meet your needs as an action sports participant in a highly customized and responsive manner. 
+This Privacy Policy is incorporated into and subject to the [Terms and Conditions](http://spotfav.com/terms "Terms and Conditions") of use. It tells you what information we collect, how we protect it and what choices you have about how that information is used. Most information collected is to enable us to best meet your needs as an action sports participant in a highly customized and responsive manner. 
 
 ###  Under Age 13 
 
