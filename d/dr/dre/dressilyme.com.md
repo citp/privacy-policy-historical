@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressilyme.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220230254id_/http%3A//www.dressilyme.com/help/helpdetails-43-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressilyme.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082208id_/http%3A//www.dressilyme.com/help/helpdetails-43-4.html) for the most accurate reproduction.*
 
 # dressilyme.com
 
@@ -6,9 +6,9 @@
 
 ### [<< Back to List](http://www.dressilyme.com/help/about-us.html)Privacy Policy
 
-Last updated:Apr 02, 2012 02:16 AM
+Last updated:Mar 04, 2017 01:43 AM
 
-Thank you for accessing the website ("Site") of DressilyMe.com and the services provided on this website are operated by Promworld co. ltd. We respect your privacy and want you to know about the policies we have in place to protect your personal information. 
+Thank you for accessing the website ("Site") of dressilyme.com and the services provided on this website are operated by Promworld co.ltd. We respect your privacy and want you to know about the policies we have in place to protect your personal information. 
 
 **Our Commitment to Privacy**
 
@@ -16,7 +16,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the Dressilyme.com website. On some pages, you can order products, make requests, and register to receive materials. The types of business and personal information collected at these pages are:
+This notice applies to all information collected or submitted on the dressilyme.com website. On some pages, you can order products, make requests, and register to receive materials. The types of business and personal information collected at these pages are:
 
   * Business Name 
   * Contact Name 
@@ -43,5 +43,5 @@ Finally, we never use or share the personally identifiable information provided 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 **How to Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at (86)755-86539709(CN) or send us an email at [customer-care@dressilyme.com](mailto:customer-care@dressilyme.com).   
+Should you have other questions or concerns about these privacy policies, please call us at +86 1-718-271-7865 or send us an email at [customer-care@dressilyme.com](mailto:customer-care@dressilyme.com).  
 
