@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desperateseller.co.uk privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323201304id_/http%3A//www.desperateseller.co.uk/privacypolicy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desperateseller.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041657id_/http%3A//www.desperateseller.co.uk/privacypolicy/index.asp) for the most accurate reproduction.*
 
 # Disclaimer & Copyright | DesperateSeller.co.uk
 
