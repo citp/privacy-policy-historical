@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sensortower.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225180018id_/https%3A//sensortower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensortower.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171459id_/https%3A//sensortower.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sensor Tower
 
-## SensorTower is committed to protecting your privacy.
+## Sensor Tower is committed to protecting your privacy.
 
 * * *
 
-This privacy policy describes the privacy practices for the SensorTower (the "Site"), located at www.sensortower.com).
+This privacy policy describes the privacy practices for the Sensor Tower (the "Site"), located at www.sensortower.com).
 
   
 
