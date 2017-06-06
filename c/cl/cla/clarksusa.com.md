@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223185741id_/http%3A//www.clarksusa.com/us/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111953id_/http%3A//www.clarksusa.com/us/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Information - Clarks® Shoes Official Site
 
@@ -35,6 +35,8 @@ Clarks also uses cookies to collect aggregate data about our customer base. Thro
 If you would prefer not to accept cookies from our Sites or any others, you can modify your browser preferences to refuse them. In order to do so, please refer to your browser’s "help" section.
 
 In addition to using cookies, we also gather non-personally identifiable "click stream" data and store it in our website log files. "Click stream" data records your Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), previously visited web pages, and domain name. We use this data solely to improve the content of our Sites and to understand the demographics of our customer base. We will not use this information to market directly to you, as our website logs do not store any personally identifiable information.
+
+Like most websites, our Sites may incorporate technology such as “pixel tags” or “web beacons” that allow us to track the actions of users of our Sites. Pixel tags or web beacons are tracking devices on websites or in e-mails that tell us when you have displayed that page or opened that email. This information is used to send you marketing and other communications, including information about our products and promotions, that we think might interest you. 
 
 Criteo: Clarks utilizes Criteo cookies for remarketing and email marketing purposes. The purpose of Criteo’s service is to find visitors to Criteo’s advertising clients’ properties in order to send them personalized emails or serve personalized ads. Criteo uses cookies to single out users and personalize ads from their browsing experience. To learn more or opt out of Criteo display: <http://www.criteo.com/privacy/>. To learn more or opt out of Criteo email: <http://privacy.criteoemail.com/privacy/policy>.
 
