@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijaparrot.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121083408id_/http%3A//naijaparrot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaparrot.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091959id_/http%3A//naijaparrot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NaijaParrot.com
 
@@ -54,6 +54,10 @@ If there are any questions regarding this privacy policy you may contact us thro
 
 [www.naijaparrot.com/contact-us](http://www.naijaparrot.com/contact-us/)
 
+**[Join our TELEGRAM channel for daily updates: https://t.me/naijaparrot](https://t.me/naijaparrot) **
+
 **Are you On Twitter?** Follow [@naijaparrot1](https://twitter.com/intent/follow?region=follow_link&screen_name=naijaparrot1) for news and job updates. For jobs updates only, follow [@naijajobfinder](https://twitter.com/intent/follow?region=follow_link&screen_name=naijajobfinder)
+
+**[Join our TELEGRAM channel for daily updates: https://t.me/naijaparrot](https://t.me/naijaparrot) **
 
 **Are you On Twitter?** Follow [@naijaparrot1](https://twitter.com/intent/follow?region=follow_link&screen_name=naijaparrot1) for news and job updates. For jobs updates only, follow [@naijajobfinder](https://twitter.com/intent/follow?region=follow_link&screen_name=naijajobfinder)
