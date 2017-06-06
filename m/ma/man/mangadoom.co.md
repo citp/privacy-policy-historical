@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mangadoom.co privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107013845id_/http%3A//mangadoom.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangadoom.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124625id_/http%3A//mangadoom.co/privacy-policy) for the most accurate reproduction.*
 
-# Read Manga Online for Free.
+# Privacy & Policy | MangaDoom - Read Free Manga Online!
+
+##### PRIVACY POLICY
 
 The following webpage outlines Mangadoom’s collection and use of personal information from it’s users. mangadoom.co values the privacy of our members and users, we will never share any personal information of anybody who logs on to Mangadoom with anyone. This includes your e-mail address, name, and location. Upon logging on to Mangadoom such things as your IP address and hostname are logged for statistical and security reasons.
 
@@ -24,7 +26,7 @@ At Mangadoom we make reasonable efforts to protect personal information such as 
 
 **Third Parties**
 
-Third Party websites may collect information from users of Mangadoom, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. If you would like more information about this practice and to know your choices about not having this information used by these companies,[ **http://www.networkadvertising.org/managing/opt_out.asp**](http://www.networkadvertising.org/managing/opt_out.asp).
+Third Party websites may collect information from users of Mangadoom, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. If you would like more information about this practice and to know your choices about not having this information used by these companies,http://www.networkadvertising.org/managing/opt_out.asp
 
 **Website Policy Changes**
 
