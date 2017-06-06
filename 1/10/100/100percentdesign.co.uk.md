@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018202433id_/http%3A//www.100percentdesign.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102804id_/http%3A//www.100percentdesign.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 100% Design 2016 - The UK's biggest trade event for architects and designers
+# Privacy Policy - 100% Design 2017 - The UK's biggest trade event for architects and designers
 
 This site is owned and operated by Media 10 Limited. Your privacy on the Internet is of the utmost importance to us. At Media 10, we want to make your experience online satisfying and saf
 
