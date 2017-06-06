@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classy9.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022908id_/http%3A//classy9.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classy9.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071001id_/http%3A//classy9.com/privacy.php) for the most accurate reproduction.*
 
 # Classy9 - Funny Pictures, Epic Fails, Funny Shots, iPhone Autocorrects, Awkward Texts, LOL Photos, Classy9, Hilarious, Animal LOLs, Troll Comics, Gags, Cartoon
 
