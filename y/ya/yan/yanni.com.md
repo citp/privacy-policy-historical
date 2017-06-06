@@ -1,51 +1,118 @@
-> *The following text is extracted and transformed from the yanni.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120031407id_/http%3A//www.yanni.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yanni.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182442id_/http%3A//www.yanni.com/privacy.html) for the most accurate reproduction.*
 
 # Yanni :: Privacy Policy :: Yanni.com Site Privacy Policy
 
-**This web site is powered by products and services from BubbleUp LLC. (BubbleUp). BubbleUp's privacy policy is below.**
+### **WHO WE ARE**
 
-**For Yanni.com’s privacy policy, please contact them directly.**
+This website is operated on behalf of Yanni (“Artist”) by BubbleUp, LLC., ("BubbleUp", “us” or "we"). This Privacy Policy explains the personal information protection practices of BubbleUp, a company organized under the laws of Texas and whose principal office address is 9391 Grogan’s Mill Rd., The Woodlands, TX 77380.
 
-## **Privacy Statement for BubbleUp.**
+We are committed to protecting and respecting your privacy and the following provisions detail the manner in which personal information that we collect from you, or that you provide to us, will be used and/or disclosed. Please read the text carefully to understand our views and practices regarding your personal information and how we will treat it. By using this site, you agree to the terms and conditions of this Privacy Policy.
 
-BubbleUp has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for BubbleUp and all other Web sites powered by BubbleUp.
+### **A SPECIAL NOTE TO CHILDREN UNDER 13 YEARS OF AGE**
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
+YOU MUST BE 13 YEARS OF AGE OR OLDER TO REGISTER WITH OUR SITE. PLEASE DO NOT REGISTER IF YOU ARE UNDER 13 YEARS OF AGE. There are certain web pages within our site that require users to be at least 13 years of age. This may mean that you will be unable to participate in some activities on the site. BubbleUp does not knowingly collect or solicit personal information from a child under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information. If BubbleUp is notified or discovers that a child under the age of 13 has improperly registered on this site, we will immediately cancel the child’s membership/account and delete any personal information relating to that child.
 
-BubbleUp uses cookies to keep track of your shopping cart in the stores and to keep track of your membership status on the Web site. We use cookies to save your password so you don't have to re-enter it each time you visit our site. The cookies we use only track your currently logged in status or your shopping cart status.
+### **A SPECIAL NOTE TO PARENTS**
 
-Our registration form requires users to give us contact information (name and e-mail address) and demographic information (zip code). The customer's contact information is used to contact the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We do not share mailing address, credit card, or any personally identifiable information with other companies. Demographic and profile data are used only for personalized Web content and statistical information and are not shared with other companies except in ways that do not personally identify our users.
+Parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other personal information without parental permission.
 
-This site contains links to other sites. BubbleUp is not responsible for the privacy practices or the content of such Web sites. We place advertising on our site that originates from third party advertisers and/or advertising agencies. Even though these advertisements are embedded in our Web site, cookies may be assigned by the advertisers themselves. BubbleUp does not control those cookies.
+### **WHAT INFORMATION WE COLLECT**
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (e-mail address) and financial information (credit card numbers). Contact information from the order form is used to send our customers' orders and information about our company and about companies we choose. The customer's contact information is also used to get in touch with the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial and contact information that is collected is used to bill the user for products and services and may be shared with companies that help us operate our site, such as the credit card companies that we use.
+  1. ### **Information you give us.**
 
-BubbleUp runs contests on our site in which we ask visitors for contact information (e-mail address) and demographic information (zip code). We use contact data from our contests to send users information about our company and about companies we choose. The customer's contact information is also used to contact the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We may share your contact and demographic information with the contest prize providers.
+We may collect and process personal information relating to you if you provide such personal information by filling in forms on our site or by you contacting us. This includes, but is not limited to, information provided at the time of registering to use (or become a member of) our site, subscribing to any services (for example, email or SMS newsletters), purchasing downloads or other products, posting material, or requesting further services.
 
-BubbleUp provides online ticketing to venues and artists in which we ask customers for contact information (e-mail address and mailing and billing addresses). BubbleUp provides your contact information to the venues, artists and/or promoters of the events for which you purchase tickets. By purchasing tickets, you acknowledge that BubbleUp has no control over and is not responsible for the privacy policies of those venues, artists or promoters or their subsequent use of your contact information.
+  2. ### **Information through the use of cookies, web beacons or “clickstream data”.**
 
-In addition, BubbleUp collects and stores statistics and other information about the online activities of our users on an aggregated (collected) basis. For example, we track the number of people who view each page, the order in which pages are viewed, and other information to learn which features are the most popular and to refine our design and marketing efforts.
+Some information may automatically be collected as you browse our site. Our web server automatically collects information known as "clickstream data," which may include the following information: The domain name of the service providing you with Internet access, the Internet protocol (IP) address used to connect your computer to the Internet, your browser type and version, your operating system and platform, the average time spent on our site, pages viewed, information searched for, access times and other relevant statistics.
 
-You agree that we may assign, sell, license or otherwise transfer to a third party your personal information in connection with an assignment, sale, joint venture or other transfer or disposition of all or substantially all of the assets or capital stock of BubbleUp or its affiliated entities.
+In addition, we may use ‘cookies’ to collect information relating to your general internet usage. This information may include IP-addresses, browser version, number of visits and similar such information relating to your navigation of the internet and our site. A ‘cookie’ is a small text file that is placed on your computer’s hard drive. Cookies help us to improve our site and to deliver better and more personalized service by storing information about your preferences and allowing us to recognize you when you return to our site. You may refuse to accept cookies by activating settings on your internet browser. However, please note that if you select such settings you may be unable to access certain parts of our site.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Certain pages on our site may also contain “web beacons” (also known as Internet tags, pixel tags or clear GIFs). Web beacons may allow third parties to obtain non-personally identifiable information such as: The IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. We use log files to store the data that is collected through web beacons.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our database servers are protected from intruders by a Cisco firewall router and your credit card transactions are enacted using 128-bit SSL encryption. We may be required to release personal information about you as a result of a lawsuit or subpoena or as immediately necessary to protect our rights or the rights and safety of others. Additionally, "perfect security" does not exist on the internet.
 
-BubbleUp strongly encourages parents and guardians to supervise their children's online activities and to consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent children from disclosing online their name, address, and other personally identifiable information without parental permission. Tickets for sale are intended for purchase by adults. By making a purchase on the site, you agree that you are at least 13 years of age. Although the BubbleUp site is not directed to children under the age of 13, BubbleUp does
 
-NOT collect online contact information from children under the age of 13 without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.
 
-NOT collect personally identifiable offline contact information from children under the age of 13 without prior parental consent.
+### **HOW WE USE YOUR INFORMATION**
 
-NOT distribute to third parties any personally identifiable information with respect to children under the age of 13 without prior parental consent.
+We use the information collected from our site in the following ways:
 
-NOT give the ability to publicly post or otherwise distribute personally identifiable contact information with respect to children under the age of 13 without prior parental consent.
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you have requested from us (or third parties, where appropriate) or which, based on your preferences or use, we feel may interest you.
+  * To carry out our obligations arising from any contracts entered into between you and us and, as permitted by law, to perform credit checks, report or collect debts owed, or protect our rights or property, our site, or its users.
+  * To measure the use of our site and to administer and improve our site. 
 
-NOT entice children under the age of 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+For example, we use clickstream data, web beacons and cookies only in the aggregate for these purposes. Any sharing of such data with unrelated third parties is on an anonymous basis. When we collect personal information, we may extract some of the information, such as demographic information and combine it with other information, such as clickstream data. This combined information is used and analyzed only at an aggregate level to help us or third parties understand trends and patterns.
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+  * To notify you about changes to our service.  
+To allow you to participate in interactive features of our service, when you choose to do so, including: 
 
-_This site gives users the option of removing their information from our database to not receive future communications or to no longer receive our service._
+Blogs and forums: We ask each visitor who wishes to participate in blogs and forums on this site to provide an email address along with the visitor's screen name to access these functions. Except for the uses described in the paragraphs above, all such email addresses are used only to protect the security and integrity of the site, such as to take action against visitors who post inappropriate material or harass other visitors. You are responsible and are deemed to have consented to disclosure if you post your email address, or other identifying information or content, to a publicly viewable interactive site application such as a blog or forum.  
+Contests: For contests conducted on our site, we use the personal information you provide only for the purpose of contacting you if you win a prize and sending the prize to you. We do not use contact information contained in contest entries to create mailing lists or for any other purpose without your consent. All contests that are held on this site are limited to persons above a certain age. Accordingly, we ask each contestant to provide year of birth, as well as name, address, and e-mail address. If the year provided indicates that the contestant is underage, the information submitted is deleted. Please refer to the specific age requirements for each contest as rules may vary from contest to contest.
 
-Simply update your email preferences on the site.
+  * To help protect you and others, we monitor use of our sites, and we use the information we collect, including personal information, to: Identify fraudulent activities and transactions; prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of our sites; ensure compliance with the applicable terms of service and this Privacy Policy; investigate violations of or enforce these agreements; and otherwise to protect the rights and property of Artist and BubbleUp, and Artist’s and BubbleUp’s respective partners, and customers. Monitoring may result in the collection, recording, and analysis of online activity or communications through our sites. If you do not consent to these conditions, you must discontinue your use of our site.
+
+
+
+We do not sell, rent, or otherwise provide your personal information to third parties for marketing purposes unrelated to this site.
+
+### **WITH WHOM WE SHARE YOUR DATA**
+
+Subject to the other terms of this Policy, and where appropriate, we may share your personal information with the following:
+
+  1. #### **Artists and partners:**
+
+Personal information collected on this site may be shared with the Artist, the Artist’s record label, or any service providers contracted to operate this site, or those contracted to perform promotional and marketing activities on the Artist’s behalf. These contractors have agreed with us to use personal information of site visitors only for the purposes of carrying out these operations and/or activities.
+
+  2. #### **Other third parties:**
+
+We may transfer, sell or assign any data, including personally identifiable data, to third parties in connection with the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of BubbleUp, LLC, or any part of it.
+
+We may share with others, at our discretion, certain aggregate statistical data about purchases and the use of our content, which data may include demographic data such as the age range and/or geographic location of groups of users. No personal information (such as names or email addresses) will be identifiable from such statistics.
+
+  3. #### **In special circumstances:**
+
+We may disclose personal information as we believe to be necessary or appropriate: (a) to comply with applicable laws; (b) to respond to a valid subpoena or other requests from government authorities or agencies (including authorities outside of the US, if necessary); (c) to protect the rights, privacy, safety or property of Artist, BubbleUp, or others we deem necessary; (d) to assist law enforcement officers or government agencies.
+
+
+
+
+### **YOUR RIGHT TO OBTAIN, CHANGE OR REMOVE YOUR INFORMATION**
+
+You can opt out of receiving any further messages from BubbleUp or anyone with whom we share your data (as described above) at any time by following the unsubscribe instructions in any message sent to you. If you wish to delete your account for one of our websites you can send an email to [info@bubbleup.net.](mailto:info@bubbleup.net)
+
+You have the right to access the personal information we hold about you. To view the personal information we hold about you or if you have any questions or comments concerning this Privacy Policy, please write to us at our principal address provided at the beginning of this privacy policy, attention: Privacy Officer. You can also send an email to [info@bubbleup.net.](mailto:info@bubbleup.net). If you find any errors in your personal information, please contact us and we will try to correct the error or explain how you can correct it.
+
+### **SECURITY**
+
+We use industry standard technology and security features to protect personal information from unauthorized access or misuse. Unfortunately, the transmission of information via the internet cannot be guaranteed to be completely secure. Any transmission is therefore made at your own risk.
+
+Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access. We use current industry standard technology to maintain the confidentiality and accuracy of the personal information you provide to us. We periodically review our security measures to ensure the security of your information. However, we cannot guarantee that any information you submit to us will be free from unauthorized third party intrusion.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share the password with anyone.
+
+In the event that non-public personal information is compromised, we will promptly notify our customers in compliance with applicable law. Tex. Bus. & Comm. Code Â§521.052.
+
+### **RETENTION PERIOD**
+
+We will retain your personal information and/or data collected for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a specific retention period is required or allowed by law.
+
+### **INTERNATIONAL USERS AND CROSS-BORDER TRANSFERS**
+
+This site is operated in the United States. Your personal information may be collected, stored and processed in the U.S. or any other country in which BubbleUp or its affiliates or service providers maintain facilities. By using this site, you consent to the transfer, processing and storage of your information in jurisdictions that may have different privacy laws than the country in which you reside.
+
+### **OTHER WEBSITES**
+
+Our site may contain links to other websites which are outside our control and are not covered by this privacy policy. Operators of other third-party sites may collect and process information differently than BubbleUp. Please review the privacy policy notices on those third-party sites for further details.
+
+### **THIRD PARTY COOKIES**
+
+Some of the advertisements on this site may be generated by third party partners. These third parties may use their own "cookies" to track how many unique users have seen, or click on, a particular advertisement. These cookies cannot be used to identify you as an individual, and are used only for statistical purposes or, for example, to provide advertisements that are more relevant to your preferences.
+
+BubbleUp is not responsible for third party cookies, other than allowing them to be served via our websites. However, we may use statistical information arising from these third party cookies that is provided to us, if at all, by such third parties to improve the targeting of advertisements to users (see also ”What information we collect” above).
+
+If you wish to block third party cookies, you can do so in your browser's security settings.
+
+### **CHANGES TO OUR PRIVACY POLICY**
+
+We may modify, alter or otherwise update this privacy policy at any time. We will indicate any changes by updating the date at the top of the policy. We encourage you to review this policy from time to time.
