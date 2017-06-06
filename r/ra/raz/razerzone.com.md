@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the razerzone.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022004742id_/http%3A//www.razerzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razerzone.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181358id_/https%3A//www.razerzone.com/privacy-policy) for the most accurate reproduction.*
 
-# Razer - Privacy Policy
+# Razer - Privacy Policy | Razer US Site
 
 Razer Inc. (“ **Razer** ”, “ **our** ”, “ **us** ” or “ **we** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal and other information that we receive or obtain from visitors to [http://www.razerzone.com](http://www.razerzone.com/) and other website domains that are managed by us or our affiliates (the “ **Site** ”), and from customers and other users of the services and offerings of Razer or its affiliates (the “ **Services** ”).
 
@@ -9,8 +9,6 @@ We update this Privacy Policy from time to time. We will notify you of any mater
 As used in this Privacy Policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
 Our primary goals in collecting information are to administer, monitor, and improve the Site, its features and content, and to provide and improve the Services and verify that users of the Services meet the criteria required to process their requests. We do this so as to improve user experiences for Site visitors, customers, and users of our Services.
-
-### How We Collect Information; Kinds of Information We Collect
 
 We collect information by using “log data” and “cookies,” by obtaining information from your usage of our Services, and by asking for information when visitors buy a product, register for and/or use a Service, or do various other things, as described below.
 
@@ -37,13 +35,12 @@ Specific examples where we ask for or receive your Personal Information include 
 
 
 
-### Information Sharing and/or Disclosure
-
 **Personal Information:** Except as set forth below in this Privacy Policy, we do not share your Personal Information with third parties. If you have any questions about our information sharing practices, please contact us at [privacy@razerzone.com](mailto:privacy@razerzone.com).  
 
 
   * If You Have Given Your Consent. Your Personal Information is shared or published where you have given consent, such as in connection with a Promotion where you have been awarded a prize, or where you have provided your Personal Information for posting on the Razer Blog, for Team Razer sponsorship, or other similar situations.
   * Service Providers. We may use third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics, payment processing and improvement of the Services’ features) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. However, for purchases through the store accessible via the Site, information you provide to that store will be subject to the store’s privacy policy.
+  * Google Analytics. We use the Analytics Advertising Features provided by Google Analytics. Google Analytics will collect non-personally identifiable information from you via cookies and such information will be used by us to analyze your activities in order to improve the Site, to remember your preferences when using the Site, and to display to you marketing material that you may be interested in. You can find out more about the Analytics Advertising Features provided by Google Analytics here <https://support.google.com/analytics/answer/3450482?hl=en>. If you do not wish to have such information collected by Google Analytics, you may do so by downloading the Google Analytics opt-out browser add-on, which is available here <https://tools.google.com/dlpage/gaoptout>. Opting out will not affect your ability to use the Site.
   * Compliance with Laws and Law Enforcement. Razer cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Razer or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
   * Business Transfer Event. If a third party acquires Razer’s business or specific assets (including your Personal Information) as the result, for example, of a sale, merger, reorganization, insolvency, liquidation or other change of control, we would strive to keep your Personal Information subject to this Privacy Policy or, if that is not possible, provide notice (by posting on the Site) before Personal Information becomes subject to a substantively different privacy policy. 
 
@@ -55,32 +52,18 @@ Specific examples where we ask for or receive your Personal Information include 
 
 We may also provide SNSs with your e-mail address so that they can better customize the advertisements that are displayed to you when you use those SNSs. Please note that we do not have direct control over these SNSs and their activities are not covered by this Privacy Policy. However, if we provide your e-mail address to SNSs for this purpose, we shall have a reasonable basis to believe that the SNS shall (a) protect the security and integrity of the data while it is within the SNS’s systems; (b) guard against the accidental or unauthorized access, use, alteration or disclosure of the data within the SNS’s systems; and (c) shall not use the data if you are not a member of the SNS.
 
-### Reviewing, Updating or Deleting Your Information
-
 Each user may review, update, correct or have us delete the Personal Information he or she provided for or during use of the Services by contacting us at [privacy@razerzone.com](mailto:privacy@razerzone.com). If you have us completely delete all such information, then your account for your use of the Services may become deactivated, as applicable, and you may no longer be able to use or access the Service. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your Personal Information as required by law or for legitimate business purposes.
-
-### Our Policy Toward Children
 
 The Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If you as a parent or guardian become aware that your child has provided us with Personal Information without your consent, contact us at [privacy@razerzone.com](mailto:privacy@razerzone.com). If we become aware that a child under 13 has provided us with Personal Information without the consent of a parent or guardian, we will delete such information from our files, but may retain an archived copy as required or permitted by law for recordkeeping purposes.
 
-### Phishing
-
 Identity theft and the practice currently known as “phishing” are of great concern to Razer. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, ask for your credit card information, login information, or national identification numbers through use of a non-secure or unsolicited e-mail or through a telephone communication that we initiate without either a prior inquiry from you or a prior arrangement with you. For more information about phishing, visit the Federal Trade Commission’s website, accessible at [www.ftc.gov](http://www.ftc.gov/).
-
-### Security
 
 Razer is very concerned with safeguarding your information. We employ reasonable physical, technological, and administrative security measures. It is important to understand, however, that no website, server, Internet transmission, or method of electronic or other storage is 100% secure or “hacker proof.” Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-### International Transfer
-
 Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Razer maintains, processes and uses Personal Information and Non-identifying Information in the United States and/or Singapore. If you submit or choose to provide information to us, you consent to such transfer, maintenance, processing and use.
 
-### Links to Other Sites
-
 Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
-
-### Contacting Us
 
 If you have any questions about this Privacy Policy, please contact us at [privacy@razerzone.com](mailto:privacy@razerzone.com).
