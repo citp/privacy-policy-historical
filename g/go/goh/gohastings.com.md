@@ -1,47 +1,142 @@
-> *The following text is extracted and transformed from the gohastings.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015002234id_/http%3A//www.gohastings.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohastings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164121id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.*
 
-# Privacy and Security - goHastings
+# Privacy Policy (Revised 5/15/2017)
 
-Privacy and Security Policy
+### Rating:  9.50 out of 10 (2 Ratings) 
 
-**Assurance of Privacy and private information given:**  
-Hastings Entertainment does not sell or rent your personal information to any partner or business or private entity of any form.  Our Privacy Policy was last updated October 20th, 2010.  Please check back upon each visit to stay current with any changes or revisions of our Privacy Policy.  Any updates will be noted at the end of this page.
+Article
 
-**Order Transaction Process:**  
-As a part of our transaction process we do require a list of personal information such as name, mailing/billing address(s), contact information, email address, credit card relative information.  We may also ask for demographical information such as age, sex, personal interest and questions to better serve you but are not required to complete the transaction.  We also reserve the right to end any sell at any point in the process without any considerations.  Hastings reserves the right to cancel orders as it sees fit within its discretion.
+Related Content (4)
 
-In order for us to transact your order we do authorize select third party partners to use your information only to perform the service(s) that we authorized them to perform to complete the transaction.  We only provide them with the information they need to fulfill their service and nothing more. They are required to abide by the terms of our Privacy Policy and take reasonable measures to ensure your personal information is secured.  Any violation of our partners using the information of any form without our or your consent should be reported immediately to webmaster@gohastings.com.  Listed below is where we may need to share information about you to complete your transaction:
+**PRIVACY POLICY**  
+LAST UPDATED: May 15, 2017  
+ 
 
-**What happens to your credit card information:**  
-Credit Card relative information is shared with the banks to complete the transaction you requested.  As required by law we must provide information requested through a court order, subpoena, or government investigation.  We also reserve the right to report what we believe, in good faith, to be unlawful action to law enforcement agencies.
+We at Calendars.com L.L.C. (“Calendars.com,” “we,” “us,” or “our”) know that our users (“you,” “your,” or “yourself”) care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our Privacy Policy. By visiting, or using, websites owned and operated by Calendars.com, microsites, any other linked pages, features, content, mobile websites, and any other services we offer from time to time in connection with any of the foregoing (collectively, the “Site”), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy. 
 
-**Banks:**  
-We exchange information relevant to processing your requested transaction with 128-bit encryption secured lines of communication.  We only share the information your bank requires to complete the transaction.  You should realize no form of purchasing with credit cards are secured to the point of 100% and that there could be, however slight, inherent risks.  With that being stated we will be diligent to insure that your information is secured within reason as a valued customer of Hastings Entertainment.  Your credit information is also protected by (Fair Credit Billing Act).  See Credit Fraud to understand your rights and protection provided by the federal government and Hastings Entertainment.
+  This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Site. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we not employ or manage, even if you have accessed the websites or services of those companies through our Site or sites owned and operated by us. 
 
-**Delivery Companies:**  
-We provided delivery companies only with relevant information to them performing their paid service(s).  This traditionally only contains your name, address and contact information.  This exchanged information is strictly for delivery purposes only and can not be used by our delivery partners for any other purposes other than what they are paid to perform.
+Your access to and use of the Site means you agree to the terms in this Privacy Policy and our Terms of Use. We encourage you to refer to this Privacy Policy periodically so that you understand our current privacy practices.   
+If you have any questions about this Privacy Policy, please contact our Customer Service department:
 
-**Contest and/or Sweepstakes:**  
-From time to time we enlist the expertise of third party companies to assist us in facilitating contests and/or sweepstakes.  These third party experts are required to adhere to our Privacy Policy and not use your information for anything but that are deemed in the conditions of the contest and/or sweepstakes.  The standard information shared with these partners is name, address and contact information unless stated otherwise in the conditions.  This information is strictly for administrative purposes only and can not be used by our partners for any other purposes.
+  * By mail at: Calendars.com ATTN: Privacy Office 6411 Burleson Rd. Austin, TX 78744 
+  * By Phone at: 1.800.366.3645
 
-**Site Data Collection:**  
-We collect site browsing and behavioral information through use of cookies and other information collecting “web beacons” or “click stream technology” that are automatically accepted by default of most browsers and are not harmful to your computer.  This information is anonymous and contains no private information and only collects information pertaining to your interaction of our site.  This information can be used by Hastings Entertainment to better understand the behaviors of our customers to improve site experience.
 
-We do, from time to time, share this anonymous information with business partners that we enlist to assist us in providing a better customer experience when shopping or browsing our website.  This information is strictly for administrative and analytical purposes only and can not be used by our partners for any other purposes that we do not deem acceptable.
 
-**Behavioral Targeting**  
-We use ValueClick to serve advertisements about our company across the web. ValueClick uses tracking technologies to collect anonymous data about web users who view or interact with advertisements. We do not provide any personal information about our website visitors to ValueClick, but ValueClick might collect non-personally identifiable information about you like an anonymous cookie ID, the specific ad that you viewed, the time and place of such viewing, and whether you ended up buying something on our website.
+**WHAT WE COLLECT AND SHARE**  
+We collect Personal Information from you when you provide it to us, transaction information, technology-enabled services, and information we collect about you from third party sources. The following are examples of information we may collect and share:
 
-ValueClick uses tracking technologies such as cookies and action tags when serving ads. These commonly used technologies are used for auditing, research and reporting purposes. These cookies and action tags are subject to ValueClick’s privacy policy, which is available at http://www.valueclickmedia.com/webuser_privacy.shtml. If you prefer not to accept cookies for behavioral marketing purposes, you can opt out by visiting the following website: http://www.networkadvertising.org/managing/opt_out.asp.
+  * We collect information when you create a profile, place an order, or take advantage of other programs on the Site. Information we may collect includes:  Name, Address (billing and shipping), Zip code, email address, Telephone number(s), Cellular phone number(s), and Credit card number(s). We may also collect information that you provide about people you know. For example, we collect your gift recipient’s information to process gift orders.
+  * We collect data when you visit our websites, use our mobile applications, or interact with our wireless services and other technologies. This information is either automatically collected or is customer initiated.
+  * We collect transactional information including items purchased and date and time of transaction. When you make a purchase, we may share information about you and your transaction with other companies necessary to process your transaction or offer you products or services.
+  * We may share your information within Calendars.com L.L.C, its affiliates, and subsidiaries.
+  * We may receive your updated shipping information from a third party carrier. We may collect or use information made available to us through third party platforms, online databases and directories, or other means. We specify that data sourced from a third party must be legitimately and legally obtained. Some or all of this information may be governed by the privacy statements of the third party. We may share information with third parties who provide services to us or who work with us to offer products or services online or in our stores. Calendars.com also may share information with third parties so that they may directly offer their products or services to you if we think they may be of interest to you.
 
-**Fraud Commitment:**  
-Your personal information is secured and protected both in our commitment to you, our customer, and under the (Fair Credit Billing Act), which states that you are not responsible for fraudulent charges over $50.  As an act of goodwill Hastings Entertainment will cover your $50 for purchases made on www.gohastings.com through credit fraud.  We take security and our customer very seriously.
 
-**Shipping**  
-[Click Here for Shipping Information](https://web.archive.org/custserv/custserv.jsp?pageName=Shipping)
 
-**Electronic Emails and Marketing:**  
-All email and marketing communications are strictly voluntary.  It is also your responsibility to communicate with us if you wish to change the status of our voluntary communications.  If you wish to opt-out of our communications please email [Service@goHastings.com](mailto:Service@goHastings.com).  Please allow up to 2 weeks for processing of your request.  If you wish to start subscribing to communications please send us an email at [Service@goHastings.com](mailto:Service@goHastings.com).  Upon placing any order or entering any type of contests and/or sweepstakes with us, the default for subscribing to our communications is set to yes for your convenence.  If you do not wish to subscribe please unselect the box or if you wish please email [Service@goHastings.com](mailto:Service@goHastings.com).
+**HOW WE COLLECT & USE INFORMATION**  
+We are committed to protecting your privacy. Under no circumstances do we rent, trade or share your e-mail address with any other company for marketing purposes without your consent.   
+We may use the information we collect for the following reasons:
 
-**Children:**  
-Our site is an open platform to any customer or audience type, with that being stated, we do not intentionally direct its use to children under the age of 13 years of age.  We required that any child under the age of 13 get verifiable parental consent.  Any information received of a personal matter will be deleted from our files without parental consent.  As the web is an anonymously based purchasing vehicle that relies on the “good faith” of its customers, it is your responsibility to inform us of any violations within 48 hours of gaining knowledge so that we can take appropriate actions dictated above within a responsible timeframe.
+  * To complete, fulfill, manage, and communicate with you about transactions. To establish and service your online profile. To provide customer service and alert you to product or shipping information. 
+  * To deliver information about our products, services, and promotions (e.g., personalized offers delivered to your home, email, third-party sites and mobile devices). To provide interactive features on our websites and mobile applications (e.g., product ratings and reviews, real-time offers, and location-based services such as store maps or personalized offers). To identify product preferences and shopping preferences (e.g., services and promotions of possible interest) and to administer contests, sweepstakes, promotions, surveys, and focus groups.
+  * To improve the effectiveness of our websites, mobile websites, merchandise assortment, and customer service. To conduct research and analytics related to our operations and to perform other logistics and operation activities as needed. 
+  * To protect our assets and prevent fraudulent transactions. To validate credentials and authenticate customers when logging on to the Site. To protect the security and integrity of our Services and our data. To assist law enforcement and respond to legal/regulatory inquiries.
+
+
+
+**INFORMATION TECHNOLOGY**  
+The following describes various types of technologies we will use when you interact with the Site and your choices regarding those technologies:  
+_Cookies, Pixel Tags, and Flash Cookies_  
+On the Site, and other digital platforms, we use Cookies, Pixel Tags, and Flash Cookies.   
+A Cookie is a small piece of code sent by a website that is store on your hard disk by your computer’s browser. A pixel tag (also known as a tracking pixel, web beacon, or clear GIF) is an embedded image on a website that monitors a website activity. A Flash Cookie is a data file stored on your computer by the websites that you visit. Flash Cookies provide similar functionality as Cookies, but are based on different technology, provide richer data collections, and are persistent.
+
+At Calendars.com, we use two kinds of cookies: session cookies and persistent cookies. Session cookies exist only for as long as your browser remains open. We use session cookies, for example, to add items to your shopping bag.  Persistent cookies last from visit to visit; they do not go away when you exit your browser. At Calendars.com, we use persistent cookies to give you a more personalized shopping experience and to help you navigate our Site more efficiently.  For example, we use persistent cookies to show you items you have previously browsed.   
+
+  Managing cookies preferences differs from browser to browser so please refer to your browser for further information.  If you would like to disable cookies and web beacons from Calendars.com, please use the help function in your web browser to restrict cookies from our Site. If you block cookies from Calendars.com, you may not be able to make purchases on our Site. Some of our business partners (e.g. advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Calendars.com only and does not cover the use of cookies by any advertisers. 
+
+ _Website Optimization Services_  
+Calendars.com shares data with Google Analytics and Monetate to understand and optimize website performance and enhance site usability for our customers. These tools run in the background of our site analyzing site usage information and then returning reports to us through an encrypted connection. Each is required to maintain data securely and confidentially and is not permitted to share data collected with anyone other than Calendars.com. Credit card or password information is not collected by or shared with either Google Analytics or Monetate. _Interest-Based or Online Behavioral Advertising_  
+Calendars.com uses third-party advertising companies to serve interest-based advertisements. These companies compile information from various online sources (including mobile-enabled browsers and applications) to match user profiles with ads we believe will be most relevant, interesting and timely based on that user profile. _Display Advertising_  
+We may utilize Google Analytics tools, including Remarketing, Google Display Network Impression Reporting, Double-Click Campaign Manager Integration, or Google Analytics Demographics and Impression Recording to support display advertising. We may frame or mask another website so that the look, feel and interface simulate the experience of browsing a genuine Calendars.com web page. Extreme care and discretion is exercised when evaluating third party sites. We only brand third part sites if their organization applies stringent security and privacy practices which parallel our own commitment to safe online shopping.  _Social Network Programs_  
+Calendars.com has relationships with several social networks. These companies allow Calendars.com to match users that have shown interest in Calendars.com with their social profiles in order to deliver relevant, interest-based ads on those companies’ networks. _Do Not Track_  
+Calendars.com does not currently have the capability to recognize browser Do Not Track signals. Please use the following link to learn more about DNT: [http://www.allaboutdnt.org/](http://www.allaboutdnt.org/)
+
+**_Interactions with Third-Party Websites and Content_**  
+We may enable you to navigate to third-party sites and services, or otherwise display third-party content. We do this for your convenience. We do not endorse or generally have any affiliation with these third parties. We do not control and are not responsible for their web practices. Whether the third-party content appears within our web environment (like a map frame), or you leave our web site for another site to view it, those service provider's terms, conditions, and privacy policies govern your online experience. Please view their terms of service and privacy policies if you have any question about their practices.
+
+  Here's a partial list of the sites or content of these third parties:
+
+1. Interactive Maps  
+We may facilitate easy access to the online maps of content providers like Google, Microsoft, and Yahoo! There you can get quick location, driving, and contact information for our stores.
+
+  2.  Sweepstakes, Contests, and Survey Sites  
+We may rely on the expertise of third-party service providers to run sweepstakes, contests, and surveys. Navigation to these sites may be seamless so that it appears you're still in our Site environment. In these cases, the third-party's privacy policy may apply to any personal information you provide in connection with the event. So please take note of who's running the event in question; and the terms, conditions, and policies that apply.
+
+  3.  Social Networking or Other User-Generated-Content Sites, and Other Websites  
+We may at times facilitate easy access to third-party sites, like social networking sites and other sites that host user-generated content. This may include easy click-through access or even "single sign-on" to these sites. The third-party's privacy policy applies to any personal information you provide at these sites.
+
+   
+**CUSTOMER PREFERENCES AND OPT-OUT CHOICES** _E-mail  _
+
+  * Unsubscribe by signing into your account on Calendars.com, clicking on my account and indicating your opt-in preference. 
+  * Use the unsubscribe link at the bottom of any promotional email sent by Calendars.com
+  * Write us by mail at: Calendars.com ATTN: Privacy Office 6411 Burleson Rd. Austin, TX 78744 
+
+
+
+_Mobile Messaging_
+
+  * If you’ve signed up for mobile text messaging offers but later decide you no longer wish to receive offers from us, simply follow the opt-out instructions included in the mobile message.
+
+
+
+_Direct Mail or Telemarketing_
+
+  * Write us by mail at: Calendars.com ATTN: Privacy Office 6411 Burleson Rd. Austin, TX 78744 
+  * By Phone at: 1.800.366.3645
+
+
+
+_Online Behavioral Advertising_
+
+  * Please use the following link for the NAI website:
+    * [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices)
+  * Please use the following link for the DAA website:
+    * [http://www.aboutads.info/choices](http://www.aboutads.info/choices)
+
+
+
+_Third Party Sharing_
+
+  * Write us by mail at: Calendars.com ATTN: Privacy Office 6411 Burleson Rd. Austin, TX 78744 
+  * By Phone at: 1.800.366.3645
+
+
+
+_Do Not Track_
+
+  * Calendars.com does not currently have the capability to recognize browser Do Not Track signals.
+    * Please use the following link to learn more about DNT.
+      * [http://www.allaboutdnt.org/](http://www.allaboutdnt.org/)
+
+
+
+**OWNERSHIP OF CUSTOMER DATA  
+If Calendars.com or any of its subsidiaries is sold to or otherwise acquired by a third party, all Calendars.com data assets will become the property of the acquiring party. Such a party will be subject to any consent(s), opt-outs or other customer conditions on data.  A change in data ownership may or may not include a notice on the primary online sites of Calendars.com, Inc. or the affected subsidiary sites.
+
+DISCLOSURES
+
+ _Information About Children Under 13_**  
+The Children's Online Privacy Protection Act imposes requirements on Web sites that collect personal information about children under 13 (for example - name, address, e-mail address, social security number, etc.)  The Site is intended for use by individuals 13 years of age or older.  Our policy is not to collect any Personal Information on any person under 13.  For this reason, our online sweepstakes, e-mail and mobile sign-ups are restricted to entrants who are at least 13.  Do not submit any Personal Information of any person under 13 years of age.
+
+  If this policy changes, Calendars.com will revise this portion of its notice of privacy practices and will comply with the requirements of the Children's Online Privacy Protection Act, which includes providing notice and choice to each child's parent or guardian before collecting any personal information.
+
+  **_Your California Privacy Rights_**  
+****Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us once per calendar year for a notice describing what categories of personal information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of personal information shared with third parties and used for direct marketing purposes and the name and address of the third parties that received such personal information. If you are a California resident and want a copy of this notice, please submit a written request to the following address: Calendars.com, L.L.C., 6411 Burleson Road, Austin, TX   78744\. In your request, please specify that you want a "Your Calendars.com's California Privacy Rights Notice." Please allow 30 days for a response.****
+
+If you have questions about our Privacy Policy, please feel free to contact us. If you’re concerned about how your personal information is used, please visit our site often for this and other important announcements about Calendars.com. 
+
+  
+ 
