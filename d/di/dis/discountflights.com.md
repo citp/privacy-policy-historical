@@ -1,27 +1,69 @@
-> *The following text is extracted and transformed from the discountflights.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220190303id_/http%3A//www.discountflights.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountflights.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115556id_/http%3A//www.discountflights.com/privacy.php) for the most accurate reproduction.*
 
-# Discount Flights, Airline Tickets, Hotels, Travel Deals
+# Discount Flights - Official Site
 
-### Privacy Info:
+## Privacy policy
 
-We appreciate your privacy and hope that you feel comfortable trusting us. We provide a comparison shopping service that enables consumers to compare prices to all destinations, products and stores when they shop online. We believe that you have a right to know what information we collect, how we intend to use that information, whom we intend to share it with, and what measures we take to keep that information secure. 
+This policy sets out the basis on which any personally identifiable information and data ("Personal Data") we collect from you, or that you provide to us, will be processed by us. This policy applies to our websites, applications, tools, promotions, email communications, log-in accounts and any other services operated by DiscountFlights.com
 
-### Collecting your info:
+DiscountFlights is committed to protecting and respecting your privacy and we make it our highest priority to safeguard the confidentiality of any and all personal details you provide to us. As a visitor or user of the DiscountFlights.com you have the right to know and understand our information privacy practices before providing us with any of your personal details.
 
-We may collect personal information that can identify you such as your name and e-mail address, as well as other information that does not identify you. When you provide personal information through the Site, the information may be sent to our servers located in the United States and other countries around the world. User Provided Information. We may collect and store any personal information that you enter into the Site or provide to us in some other manner. This includes identifying information (such as your name, address, e-mail address, and telephone number), and any other personal information you choose to provide while using the Site or the Services. Third Party List Information. We may also obtain both personal and non-personal information about you from third party data gathering sources. We may match this third-party collected information with the personally identifying information that you provide to us. When obtaining this information from third parties, we seek assurances from such third parties that they have the right to provide the information to us. Cookies, Web Beacons, and Other Information Collection Technology. We and our business partners, such as advertisers, may use various technologies to collect information from your computer and about your activities on the Site. For example, we and our business partners may collect and store non-personally identifying information through technologies such as cookies, log files, clear gifs (also known as web beacons), and other tracking pixels and third parties to help determine user viewing preferences for advertising and other purposes. We collect information at several stages during your interaction with . When you first enter our site, we note your IP address and time of your visit. As you browse the site, we record your zip code via a cookie so we can serve more location specific information on your next visit. We will not collect any personally identifiable information about you. Cookies do not recognize you as a person, just your computer. You are always free to decline our cookies if your browser permits although in that case you may not be able to use certain features on our site. This Privacy Policy is intended to cover collection of information on the Site from residents of the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. If you are visiting the Site from outside the United States, you acknowledge and agree that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our Services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. 
+By using the DiscountFlights you are deemed to consent to our use of your Personal Data in accordance with this policy.
 
-### Third Party Advertising:
+The DiscountFlights Services are not intended for children under 13 years of age, and no one under the age of 13 may provide any information to, on or via the DiscountFlights.com. We do not knowingly collect Personal Data from children under 13, and if we learn that we have collected or received Personal Data from a child under 13, we will delete that information.
 
-We work with third parties who use cookies to collect non-personally identifiable information when you visit our Web site and other sites. This information may be used to provide you with better shopping or savings opportunities through advertisements on this and other Web sites that you visit, or to conduct market research and website analysis.
+It is our policy to post any changes we make to our privacy policy on this page, which we recommend that you visit on a regular basis to check for any changes.
 
-### User submited reviews:
+#### What type of information do we collect?
 
-We discourage you from entering any personal information and please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is not required for you to submit personally identifiable information to enable you to submit a review.
+We collect information provided by you where you sign-up to receive or make use of any of our services. For example, where you create a registered account with us, make a travel reservation or booking from within a DiscountFlights.com, enter a DiscountFlights.com promotion or sign-up to receive 'Price Alerts', 'Airmail' or other communications, we may ask you for your name, email address, password details or other relevant personal information such as passport number or payment details.
 
-### Sharing of information:
+We automatically collect certain information passively as a result of your use of the DiscountFlights.com. This information is linked to the device you use to access the DiscountFlights.com and includes your IP address, operating system, browser type, referring URLs, page views, access times and your geographical location.
 
-We do not not share any contact information or IP address information with its partners. We will only use information that helps our customers to find the lowest prices airline tickets.
+We also collect information provided to us when you connect to the DiscountFlights.com from a third party application, social networking site (such as Facebook or Twitter) or other website (such as a promotion partner).
 
-### How we protect your information:
+#### Use of information
 
-The privacy and protection of your personal information is vitally important to us. Our Travel Portal does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your usage are provided in the aggregate only and do not include any personally identifiable information about any individual user. This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
+We will use the information we hold about you in the following ways:
+
+  * to verify your authorization to access certain features;
+  * to enable you to access and use the services you select to receive;
+  * to optimize the DiscountFlights.com and personalize your visits by remembering location, language and currency configurations as well as previous searches;
+  * for system administration purposes;
+  * to analyze user behavior and trends in order to improve and understand how people use our services;
+  * to generate aggregated sets of non-personally identifiable information in order to inform business decisions and to power elements of some of the DiscountFlights.com;
+  * to contact you: 
+    * —where you have requested that we do so or to respond to communications you have sent us;
+    * —where it is necessary to notify you about changes or updates to our services;
+    * —to send booking confirmations and alerts, notifications or newsletters you have subscribed to, including to your mobile device;
+    * —where you have opted-in or as permitted by law, to send you marketing emails from a DiscountFlights.com address regarding our services or those of our partners. You can opt-out of receiving such emails by clicking the unsubscribe link contained at the bottom of them.
+
+
+
+As noted above, you may be asked to provide address, passport number and credit/debit card or other payment information to us or the relevant booking partner when you are making a travel reservation or booking from within a DiscountFlights.com. In such circumstances that information will be collected and used only for the purpose of processing your booking or, where you ask us to save it, for the purpose of auto-filling your details for future bookings. Sometimes the browser you are using to access the DiscountFlights.com may offer to save your payment details for auto-fill purposes (separately to DiscountFlights.com). In such circumstances, your payment details will be stored locally on your device or otherwise in accordance with your chosen browser's privacy policy.
+
+#### Disclosure of your information
+
+We will never sell your Personal Data to third parties, though we may on occasion share or provide your Personal Data to third parties in accordance with this policy or where we are required to do so by law.
+
+We may share your information with select third parties to process your information on our behalf or where necessary in order to deliver the service you have requested. For example, we may disclose your email address to trusted third party companies along with other data collected by us to help identify trends and to tailor the DiscountFlights.com and any communications we send to you.
+
+We require these third parties (some of which may be based outside of the EEA) to comply strictly with our instructions and we require that they do not use your Personal Data for their own business purposes, unless you have explicitly consented to the use of your Personal Data in this way. Any third parties who access your data in the course of providing services on our behalf are subject to strict contractual restrictions to ensure that your data is protected, and only processed in compliance with applicable data protection/privacy legislation. We may also independently audit these service providers to ensure that they meet our standards.
+
+Where you are making a travel reservation or booking from within a DiscountFlights.com, we may transfer any Personal Data you provide to us to the ultimate travel provider with which you are making your reservation or booking for use in accordance with their own terms and conditions and privacy policy.
+
+We may share your information with affiliate companies within the DiscountFlights corporate group for use in accordance with this policy and the purposes set out above. We may also disclose your Personal Data if necessary to prevent, detect or prosecute illegal or suspected illegal activities or to prevent other damage or in response to a legal action or to enforce our rights and claims.
+
+#### Data Storage
+
+All Personal Data you provide to us is stored on secure servers. At present we use servers located within the United States, European Union, the Asia-Pacific region and China; the specific servers on which your data is stored will depend on the location from which you access the DiscountFlights.com. Regardless of location, we ensure that adequate technical and organizational measures are in place to protect the security of your Personal Data. We limit access to your Personal Data to employees who we believe have a legitimate need to come into contact with that information in order to fulfill their role and provide products or services to you.
+
+Unfortunately, the transmission of information via the Internet can never be completely secure. Although we will do our best to protect your Personal Data, we cannot guarantee the security of your data transmitted to our websites or other DiscountFlights.com; any transmission is at your own risk. Once we have received your Personal Data, we will use strict procedures and security features to try to prevent unauthorized access.
+
+#### Cookies and tracking tools
+
+We use cookies and tracking tools to collect aggregated usage and demographic information about our users over time. For example, we use web beacons placed in the code of our website and tools such as Google Analytics to help us analyze the use of the DiscountFlights.com and to understand the effectiveness of our marketing activities Third-party websites. 
+
+The DiscountFlights.com contain links to third party websites which you may be redirected to. Please be aware that we are not responsible for the privacy practices of such third party websites. We encourage you to read the privacy statements/policies of each and every third party website that you link out to from the DiscountFlights.com.
+
+In order to provide you with a useful social experience when using DiscountFlights.com, we may give you the option to export information to third party applications and websites, including social networking sites such as Facebook or Twitter. When exporting such information you may be disclosing your information to the individuals or organizations responsible for operating and maintaining such third party applications and sites, and your information may be accessible by others visiting or using those applications or sites. We do not own or operate the applications or websites that you connect with and you should review the privacy policies of such websites to make sure you are comfortable with the ways in which they use the information you share with them. 
