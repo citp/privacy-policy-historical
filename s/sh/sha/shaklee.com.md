@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaklee.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122002737id_/http%3A//www.shaklee.com/us/en/privacy_security_policy.s.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaklee.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203408id_/http%3A//www.shaklee.com/us/en/privacy_security_policy.s.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Shaklee
 
@@ -67,7 +67,7 @@ We may collect information from you through one of our inbound text messaging pr
 We may collect information from you if you correspond with us via email. For example, if you send an email to customer service or use our "Email Shaklee" feature, we may obtain certain information about you (such as your contact email address).
 
 **Other sources**  
-Occasionally, we may obtain information about you from other sources. For example, we may hire a third party data aggregator to provide us additional information about our existing customers (this is known as "data appending"). We may also receive information from a third party co-sponsor whom we may partner with to run a one-time promotion or giveaway.
+Occasionally, we may obtain information about you from other sources. For example, we may hire a third-party data aggregator to provide us additional information about our existing customers (this is known as "data appending"). We may also receive information from a third-party co-sponsor whom we may partner with to run a one-time promotion or giveaway.
 
 * * *
 
@@ -91,7 +91,7 @@ We may collect and use your information to provide you Member and Distributor se
 
 
 **Personalize product recommendations**  
-We may use your information to provide you with Shaklee product recommendations and offers that are tailored to your interests. This mostly involves the use of your previous order history (e.g., from online and/or offline purchases) and certain demographic information.
+We may use your information to provide you with Shaklee product recommendations and offers that are tailored to your interests. This mostly involves the use of your previous order history (e.g., from online and/or offline purchases), information provided through Shaklee HealthPrint TM and certain demographic information.
 
 **Website personalization and convenience**  
 We may collect and use your information to personalize your experience and save you time when you visit our websites. This is typically done through the use of automated technologies (such as cookies) that collect and remember certain account login information, technical information, and/or previous website usage information. For example, we might remember your login ID or username so you can quickly log in the next time you visit our site or so you can easily retrieve the items you previously placed in your shopping cart. Based on this type of information, we might also show you specific Shaklee content or offers that are more relevant to your interests. We may also use technologies such as our own cookies to provide you with personalized online display advertising. To opt out of this advertising, click here.
@@ -105,8 +105,7 @@ We may collect and use your information to send you marketing communications, su
 **Third party social networking**  
 We may collect and use your information so we can allow you to interact with online social networking features provided by third party companies such as Facebook. These tools, some of which are embedded directly into our sites, include features such as "Facebook Connect," "Facebook Share," and "Facebook Like." By offering you these tools, we may be able to (i) obtain certain information about you from your profile on the third party social network (see separate paragraph on "Social network information" **)** and (ii) post to your profile on that social network certain content or activities that you view or interact with on our sites (such as articles, Health Science links, stories, etc.). This exchange of information only occurs when you take some kind of explicit action to permit the sharing (such as clicking on the relevant Facebook feature and creating or logging in to your Facebook account). You can learn more about how these features work by visiting the website of the relevant third party social network.
 
-**Other general purposes (e.g., website security, internal research)**
-
+**Other general purposes (e.g., website security, internal research)**   
 We may collect and use your information for other general business purposes, such as to comply with applicable laws and regulatory requirements, to enforce our Terms and Conditions, to maintain the day-to-day operation and security of our websites and applications, and to conduct internal marketing and demographic studies. These activities mostly require the collection and use of certain demographic information, technical computer information, website usage information, and customer feedback.
 
 * * *
@@ -121,15 +120,14 @@ To opt out from third party cookies that are used for advertising purposes, you 
 
 * * *
 
-### With whom do we share your information?
-
+**With whom do we share your information?**  
 We may share your information with certain individuals, Shaklee distributors, companies, or in the situations described below. We do not rent or sell your information to third party companies.
 
 **Third party service providers**  
 We use third party service providers to help us operate our business or administer activities on our behalf, such as sending emails, fulfilling your product and service requests, mailing products or managing payments. We may share your information with these third parties for limited purposes. These third parties are only allowed to use your information for the specific task they've been hired to do, and for no other purpose. They're also required to keep your information confidential and secure.
 
 **Shaklee Independent Distributors**  
-Purchases of Shaklee products through our websites are credited to a Shaklee Independent Distributor, who is available to provide service, information and/or guidance in taking advantage of the benefits of membership in Shaklee. Information you provide to us will also be provided to the Shaklee Independent Distributor to whom your purchase has been assigned in order to facilitate that experience.
+Purchases of Shaklee products through our websites are credited to a Shaklee Independent Distributor, who is available to provide service, information and/or guidance in taking advantage of the benefits of membership in Shaklee. Information you provide to us will also be provided to the Shaklee Independent Distributor to whom your purchase has been assigned in order to facilitate that experience, and may be retained by them as part of their records.  If you utilize the Shaklee HealthPrint ™ questionnaire, this information would include your individual responses and the related results, as well as the goals you identify.  If you do not want us to provide your individual HealthPrint ™ responses and results to a Shaklee Independent Distributor, you will have the opportunity to opt out of such disclosure prior to submitting your HealthPrint ™.
 
 If you are a Shaklee Independent Distributor, we may disclose certain personal information such as your contact information to customers seeking a Shaklee Independent Distributor or to other Shaklee Independent Distributors such as your upline Business Leader.
 
@@ -144,26 +142,22 @@ We may disclose your personal information where required or permitted by law or 
 
 * * *
 
-### How do we protect your information?
-
+**How do we protect your information?**  
 We use a variety of standard methods (described below) to keep customer information confidential and secure. Please note, however, that these protections do not apply to any information you choose to share in public areas such as our website community features or other social areas.
 
 * * *
 
-### Secure operating environments
-
+**Secure operating environments**  
 We store your information in secure operating environments that are protected from the public and that we only allow authorized employees and agents/contractors to access on a need-to-know basis.
 
 * * *
 
-### Encryption for payment info
-
+**Encryption for payment info**  
 We use industry-standard encryption to provide greater protection for sensitive financial information, such as your credit card information or other payment information, when such information is sent to us over the web. For example, encryption is used when you make payments through our online store, as well as if you choose to have your payment information stored with us for future online purchases.
 
 * * *
 
-### Other security measures
-
+**Other security measures**  
 In addition to the methods above, we may take other measures to protect your information, depending on the sensitivity of the data and other considerations (such as how the information is collected and where it is stored). These measures may include (among other things) additional access restrictions, password requirements, and physical protections (e.g., secure data centers, etc.).
 
 **Measures you can take**  
@@ -171,11 +165,11 @@ It is also important for you to play a role in keeping your information safe. Wh
 
 * * *
 
-### Other important information
-
+**Other important information**  
 This section provides additional policy information that is important for you to know or that we may be required to tell you by law
 
-**Your information may be transferred outside your home country** Because Shaklee is headquartered in the United States, we may have a need to transfer information collected from our non-U.S. customers and Distributors to the U.S. We may also have a need to transfer our customer and Distributor information (regardless of where you live) to other countries or places in which we or our agents/contractors maintain offices or facilities. By using a Shaklee website or application or by otherwise doing business with Shaklee, you are agreeing to allow us to transfer your information outside your home country and to process it inside the United States or elsewhere for the purposes stated in this Privacy Policy.
+**Your information may be transferred outside your home country**  
+Because Shaklee is headquartered in the United States, we may have a need to transfer information collected from our non-U.S. customers and Distributors to the U.S. We may also have a need to transfer our customer and Distributor information (regardless of where you live) to other countries or places in which we or our agents/contractors maintain offices or facilities. By using a Shaklee website or application or by otherwise doing business with Shaklee, you are agreeing to allow us to transfer your information outside your home country and to process it inside the United States or elsewhere for the purposes stated in this Privacy Policy.
 
 We do not collect information from children
 
@@ -183,8 +177,7 @@ We do not solicit or collect any type of information from a person known to be u
 
 * * *
 
-### Public forums
-
+**Public forums**  
 Shaklee Corporation makes public forums, such as chat rooms, message boards, Twitter®, or Facebook ("Public Forums"), available to you. Shaklee Corporation asks that you use appropriate caution in disclosing personal information in Public Forums since information disclosed in these areas becomes public information. The privacy provisions herein shall not apply to any personal information submitted via any of the Public Forums.
 
 **We are not responsible for third party sites/features**  
@@ -192,8 +185,7 @@ Our websites and applications may provide links to, or features from, other thir
 
 * * *
 
-### Opting out or modifications
-
+**Opting out or modifications**  
 If you prefer not to receive email messages, text messages or other communications from Shaklee Corporation about new products, promotions or events, you may opt out at any time from receiving such messages by following the "unsubscribe" instructions in such email or text message you received.
 
 If you registered with our website, you will be able to review, modify, update, or remove certain information in your account profile page. Changes may not be effective immediately. We will endeavor to comply with your request as soon as reasonably possible. However, we may need to retain certain information for record-keeping purposes. We are not responsible for removing information in a third party's database or records (including our Service Providers and Shaklee Independent Distributors) with whom we have already shared your information.
@@ -202,20 +194,19 @@ You may also opt out or modify your account information at any time by sending u
 
 * * *
 
-### Updates to this Privacy Policy
-
+**Updates to this Privacy Policy**  
 Shaklee Corporation reserves the right to make changes to this Policy. In the event we make a material change to this Policy, it will be posted here. We encourage you to check this page regularly since your continued use of the Shaklee websites after any changes will be deemed to constitute your acceptance of such changes.
 
 * * *
 
-### Contacting us
-
+**Contacting us**  
 If you have any questions about this Policy or the practices of this website, you may contact:
 
 Field Support  
 Shaklee Corporation  
 4747 Willow Road, P-201  
-Pleasanton, CA 94588  
+Pleasanton, CA 94588
+
 Questions or comments about Shaklee Corporation can be emailed to  
 [fieldsupport@shaklee.com](mailto:fieldsupport@shaklee.com)
 
