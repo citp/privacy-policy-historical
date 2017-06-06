@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the shipt.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222201540id_/https%3A//www.shipt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173829id_/https%3A//www.shipt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shipt
 
 ### Last Updated: June 6, 2016
 
-Thank you for using Shipt! This privacy policy has been compiled to better serve those who are concerned with how their information is being used online. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle any information that we may collect from you or that you may provide when you use our Platform.  
- 
+Thank you for using Shipt! This privacy policy has been compiled to better serve those who are concerned with how their information is being used online. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle any information that we may collect from you or that you may provide when you use our Platform.
 
 #### WHAT INFORMATION DO WE COLLECT?
 
