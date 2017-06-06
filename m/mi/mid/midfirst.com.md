@@ -1,25 +1,79 @@
-> *The following text is extracted and transformed from the midfirst.com privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716052931id_/https%3A//www.midfirst.com/Inside/OnlinePrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midfirst.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211359id_/https%3A//www.midfirst.com/Documents/PDF/Privacy_Policy.pdf) for the most accurate reproduction.*
 
-# Online Privacy Statement - MidFirst Bank
+# FACTS
 
-* * *
+                                                                                                            Revised 09/2012
+                       What does MidFirst Bank
+FACTS                  Do with your personal Information?
+Why?                   Financial companies choose how they share your personal information. Federal law gives
+                       consumers the right to limit some but not all sharing. Federal law also requires us to tell
+                       you how we collect, share, and protect your personal information. Please read this notice
+                       carefully to understand what we do.
+What?                  The types of personal information we collect and share depend on the product(s) or
+                       service(s) you have with us. This information can include:
+                                • Social Security number and checking account information
+                                • Account balances and transaction history
+                                • Credit scores and credit history
+                       When you are no longer our customer, we may continue to share your information as
+                       described in this notice.
+How?                   All financial companies need to share customers’ personal information to run their everyday
+                       business. In the section below, we list the reasons financial companies can share their
+                       customers’ personal information; the reasons MidFirst Bank chooses to share; and whether
+                       you can limit this sharing.
+Reasons we can share your personal information             Does MidFirst Bank share?     Can you limit this sharing?
+For our everyday business purposes
+Such as to process your transactions, maintain
+your account(s), respond to court orders and legal
+investigations, or report to credit bureaus                           Yes                             No
+For our marketing purposes
+To offer our products and services to you                             Yes                             No
+For joint marketing with other financial companies                    Yes                             No
+For our affiliates’ everyday business purposes
+Information about your transactions and experiences                    No                       We don’t share
+For our affiliates’ everyday business purposes
+Information about your creditworthiness                                No                       We don’t share
+For nonaffiliates to market to you                                     No                       We don’t share
+Questions?             Call 888-MIDFIRST (643-3477) or go to midfirst.com/privacy
+                                                                                                                  1 of 2
 
-Visitors to the **midfirst.com** website can browse our site anonymously by choosing not to provide us with personally identifiable information. 
 
-MidFirst Bank ("MidFirst") uses "cookies" to collect information regarding your geographic location in order to provide you with a website with products and services tailored to your location. "Cookies" are pieces of information about your internet usage stored directly on your computer. We use "session cookies" in some instances in order to ensure that you remain on the same server during your browsing session, in order to facilitate your midfirst.com browsing experience. Even though "session cookies" don't collect personal information, we set them to expire within a day of usage, and no personal data is collected or retained. 
-
-A website visitor may choose to provide us with personally identifiable information by applying online for a product or service, by logging on to view existing account information, by registering for “Email News and Updates,” by completing online surveys or entry forms that may be available to website visitors from time to time, or by contacting us via email. 
-
-Information provided to us by website visitors who are not customers may be used for the purpose for which the information was entered, or to provide the visitor with additional information about other products and services offered by MidFirst Bank. Information provided by MidFirst customers will be used as described in MidFirst’s [Customer Information Disclosure](https://web.archive.org/Inside/InformationDisclosureStatement.asp). In general, MidFirst may share information entered by website visitors with service providers with whom we have a business relationship or with other third parties as necessary in order to process the transaction or request, or as permitted or required by applicable law. 
-
-Email addresses provided by MidFirst customers will be used only as described in MidFirst Bank [ Customer Emailing Practices](https://web.archive.org/Communication/CustomerEmailPractices.asp). 
-
-MidFirst may offer website visitors the opportunity to link to other websites from the midfirst.com website. For example, there may be links on our website to merchant websites offering special discounts or incentives to MidFirst customers, or to informational websites. Websites that are linked to www.midfirst.com or websites that offer products and services to MidFirst customers may or may not use "cookies" to collect personal data. If the web address (URL) does not begin with "www.midfirst.com," then you are on a third party website and you should carefully review the privacy policy or online practices information for that website to learn how cookies are used, and to learn how personal information of visitors is collected, shared and used. 
-
-MidFirst may offer website visitors the opportunity to link to other websites from the midfirst.com website. For example, there may be links on our website to merchant websites offering special discounts or incentives to MidFirst customers, or to informational websites. Websites that are linked to www.midfirst.com or websites that offer products and services to MidFirst customers may or may not use "cookies" to collect personal data. If the web address (URL) does not begin with "www.midfirst.com," then you are on a third party website and you should carefully review the privacy policy or online practices information for that website to learn how cookies are used, and to learn how personal information of visitors is collected, shared and used. 
-
-Please review our ["Terms of Use"](https://web.archive.org/Inside/Terms.asp) for further information about this website. 
-
-MidFirst does not knowingly market or solicit information from children under 13 without parental consent. 
-
-This policy is effective as of 01/01/2007, and may updated from time to time on this website. 
+Page 2
+What we do
+                                 To protect your personal information from unauthorized access and use, we
+How does MidFirst Bank
+                                 use security measures that comply with federal law. These measures include
+protect my personal information?
+                                 computer safeguards and secured files and buildings. Third parties who assist
+                                 MidFirst Bank by providing services and are authorized by contract to access
+                                 nonpublic personal information are required by those contracts to protect the
+                                 information from unauthorized access.
+                                 We collect your personal information, for example, when you
+How does MidFirst Bank
+collect my personal information?
+                                    • Open an account • Apply for a loan
+                                    • Pay your bills         • Use your credit or debit card
+                                    • Make a deposit or withdrawal from your account
+                                 We also collect your personal information from others such as credit bureaus,
+                                 affiliates, or other companies as needed to service your relationship with
+                                 MidFirst Bank.
+Why can’t I limit all sharing?   Federal law gives you the right to limit only
+                                    •  Sharing for affiliates’ everyday business purposes–information about your
+                                 		    creditworthiness
+                                    •  Affiliates from using your information to market to you
+                                    •  Sharing for nonaffiliates to market to you
+                                 State laws and individual companies may give you additional rights to limit
+                                 sharing.
+Definitions
+Affiliates                       Companies related by common ownership or control. They can be financial and
+                                 nonfinancial companies.
+                                    • MidFirst Bank does not share with our affiliates.
+                                 Companies not related by common ownership or control. They can be financial
+Nonaffiliates
+                                 or nonfinancial companies.
+                                    • MidFirst Bank does not share with nonaffiliates so they can market to
+                                       you directly.
+Joint marketing                  A formal agreement between nonaffiliated financial companies that together
+                                 market financial products or services to you.
+                                    • Our joint marketing partners include credit card, insurance, and credit
+                                       monitoring companies.
+                                                                                                              2 of 2
