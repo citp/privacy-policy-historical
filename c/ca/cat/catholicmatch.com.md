@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012181646id_/https%3A//www.catholicmatch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161941id_/https%3A//www.catholicmatch.com/about/privacy) for the most accurate reproduction.*
 
-# Catholic Dating and Catholic Singles - | CatholicMatch.com
+# Privacy Policy | CatholicMatch.com
 
 ###### **Last Updated On:** January 28th, 2016
 
