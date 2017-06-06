@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotosearch.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221103734id_/http%3A//www.fotosearch.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotosearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121622id_/http%3A//www.fotosearch.com/privacypolicy) for the most accurate reproduction.*
 
 # Publitek, Inc. Privacy Policy
 
@@ -39,5 +39,5 @@ We collect certain information about you to enable us to do business with you, a
 
 
 
-© 2016 Publitek, Inc. dba Fotosearch. All rights reserved.  
+© 2017 Publitek, Inc. dba Fotosearch. All rights reserved.  
 Revision date: May 10, 2016 
