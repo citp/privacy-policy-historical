@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindtickle.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419063001id_/http%3A//www.mindtickle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtickle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223543id_/https%3A//www.mindtickle.com/privacy-policy) for the most accurate reproduction.*
 
-# MindTickle | Sales Readiness Software
+# What MindTickle is All About | MindTickle
 
 This privacy policy sets out how “MindTickle” uses and protects any information that you give “MindTickle” when you use this website. “MindTickle” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can rest assured that it will only be used in accordance with this privacy statement.”MindTickle” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This updated policy is effective from 1st January 2013.
 
