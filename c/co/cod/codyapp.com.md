@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codyapp.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014004946id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codyapp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205350id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.*
 
-# Cody | Privacy
+# Privacy | Cody
 
 This privacy policy (this “Policy”) describes how and when Cody, Inc., a Delaware corporation (“Cody,” “we,” or “us”), uses and shares your information when you use our Website at www.codyapp.com (the “Website”), as well as all related software, tools, systems, programs and other services provided by us (collectively, together with the Website, our “Service”). This Policy also describes our use and disclosure of that information. By using our Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the Cody Terms of Service http://www.codyapp.com/terms and subject to the provisions of the Terms of Service.
 
