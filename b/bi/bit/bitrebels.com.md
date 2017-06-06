@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitrebels.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207190807id_/http%3A//www.bitrebels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrebels.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102545id_/http%3A//www.bitrebels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
