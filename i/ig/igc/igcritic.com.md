@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igcritic.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120025817id_/http%3A//igcritic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igcritic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205856id_/http%3A//igcritic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IGCritic
 
@@ -122,9 +122,7 @@ IGCritic claims no credit for any images posted on this site unless otherwise no
 
 ## Registered Address (not correspondence address)
 
-_More Click Media Ltd.  
-__Trident Trust  
-__Capital City Building  
-__Unit  1388  
-__Victoria, Mahe  
-__Seychelles_
+Critic Inc.  
+535 5th Ave, 4th Floor  
+New York  
+NY 10017
