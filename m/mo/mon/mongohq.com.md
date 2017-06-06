@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325002120id_/https%3A//compose.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606233329id_/https%3A//compose.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Compose
 
-Compose, Inc. (“Company”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [https://www.compose.io/](https://web.archive.org/) (the “Site”), related mobile applications, interfaces and other related services (collectively, the “Services”).d account products including backend, support, and utility infrastructure.
+Compose, Inc. (“Company”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [https://app.compose.io/](https://web.archive.org/) (the “Site”), related mobile applications, interfaces and other related services (collectively, the “Services”).d account products including backend, support, and utility infrastructure.
 
 ### 1\. Questions; Contacting Company; Reporting Violations
 
@@ -18,7 +18,7 @@ We do not intentionally gather Personal Data from visitors who are under the age
 
 ### 4\. A Note to Users Outside of the United States
 
-We adhere to the United States/European Union Data Protection Safe Harbor Arrangement. For additional information, please see the Compose EU Safe Harbor Policy located at [https://www.compose.io/eu-safe-harbor/](https://web.archive.org/eu-safe-harbor/).
+We adhere to the United States/European Union Data Protection Safe Harbor Arrangement.
 
 ### 5\. Types of Data We Collect
 
@@ -111,8 +111,8 @@ Company is committed to protecting the security of your Personal Data. We use an
 
 ### 11\. Changes to This Privacy Policy
 
-This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on [https://www.compose.io/privacy/](https://web.archive.org/privacy/). Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on [https://app.compose.io/privacy/](https://web.archive.org/privacy.html). Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
 ### Still need help?
 
-If this doesn"t answer your questions, [summon a human](https://help.compose.io/docs/compose-email-support/?page=privacy.html) and ask away!
+If this doesn't answer your questions, [summon a human](https://help.compose.com/docs/compose-email-support/) and ask away!
