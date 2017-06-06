@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buildinglink.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204022925id_/http%3A//www.buildinglink.com/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildinglink.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060323id_/http%3A//www.buildinglink.com/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # BuildingLink.com
 
-_Last Updated: November 8, 2016_
+Last Updated: March 31, 2017 
 
 Any references to "BuildingLink," "we," "our" or "us" refer to BuildingLink.com, LLC.
 
@@ -18,9 +18,9 @@ This statement applies to all BuildingLink products including the BuildingLink w
 
 Our "Customer" is typically a legal entity representing a building or property. Customers purchase or license one or more products or services that are part of the Platform.
 
-You are a user of the Platform. BuildingLink collects information from our Customers and users on behalf of our Customers. There are many types of users, and each one has a unique relationship to the information that we collect. Users can include our Customers' employees (e.g., building staff, maintenance personnel, managers, etc.), residents (tenants, owners, subtenants, guests, etc.), service providers (outside contractors, local businesses, etc.) and others. Each of these (and generally anyone who has a BuildingLink username and password) is considered a "Registered User". Some users may not be Registered Users, such as a visitor to our public website.
+You are a user of the Platform. BuildingLink collects information from our Customers and users on behalf of our Customers. There are many types of users, and each one has a unique relationship to the information that we collect. Users can include our Customers' employees (building staff, maintenance personnel, managers, etc.), residents (tenants, owners, subtenants, guests, etc.), service providers (outside contractors, local businesses, etc.) and others. Each of these (and generally anyone who has a BuildingLink username and password) is considered a "Registered User". Some users may not be Registered Users, such as a visitor to our public website.
 
-Most Registered Users will be affiliated with one or more BuildingLink Customers (i.e., your building). While BuildingLink will do everything in its power to ensure that your information is protected, each Customer also determines its own policies regarding information collection, access, sharing and retention. BuildingLink is simply the custodian of data on behalf of our Customers, with respect to much of the information we collect. Please contact the Customer if you have any questions regarding their privacy practices.
+Most Registered Users will be affiliated with one or more BuildingLink Customers (i.e., your buildings). BuildingLink is the custodian of data on behalf of our Customers, with respect to much of the information we collect. Each Customer also determines its own policies regarding information collection, access, sharing and retention. Please contact the Customer if you have any questions regarding their privacy practices.
 
 ### The Information we collect
 
@@ -28,7 +28,7 @@ BuildingLink collects both personally identifiable information (such as your nam
 
 Some information is obtained through your use of our Platform, for example, when we receive error reports or use cookies (see below).
 
-Finally, we receive some information from other Registered Users. An example would be when a Registered User submits or modifies the information and settings for various non-member 3rd parties, such as family members, roommates, or other people who are relevant to the building's management and who they wish to submit through BuildingLink (i.e. housekeepers, cleaners, caretakers). There may also be personally identifiable information submitted by our Customers about our Registered Users that Registered Users cannot access directly.
+Finally, we receive some information from other Registered Users. An example would be when a Registered User submits or modifies the information and settings for various non-member 3rd parties, such as family members, roommates, or other people who are relevant to the building's management and who they wish to submit through BuildingLink (e.g. housekeepers, cleaners, caretakers). There may also be personally identifiable information submitted by our Customers about our Registered Users that Registered Users cannot access directly.
 
 The types of information we collect depend on your level of access and engagement with BuildingLink and can include:
 
@@ -93,9 +93,11 @@ If you provide us personal information about others, or if others give us your i
 
 ### Service Providers
 
-We share your personal information with your consent or as necessary to complete any transaction or provide any product you have requested or authorized. We may provide your personal information to companies that provide services to help us deliver our services such as processing payments (Stripe), hosting applications or fulfilling other functions of the website. For example, we transfer anonymous phone numbers to our communications provider Twilio, which completes calls and text messages for our Emergency Broadcast module. You can view Twilio's Privacy Policy [here](https://www.twilio.com/legal/privacy).
+We share your personal information with your consent or as necessary to complete any transaction or provide any product you have requested or authorized. We may provide your personal information to companies that provide services to help us deliver our services such as processing payments (Stripe), hosting applications or fulfilling other functions of the website. These third-party service providers are limited to accessing or using this information solely for the purposes of providing services to us and to you and must provide reasonable assurances that they will appropriately safeguard all information. For example, we transfer anonymous phone numbers to our communications provider Twilio, which completes calls and text messages for our Emergency Broadcast module. You can view Twilio’s Privacy Policy [here](https://www.twilio.com/legal/privacy).
 
-### Third parties
+For our E.U. users: We participate in the E.U.-U.S. Privacy Shield (see statement below), and this privacy policy indicates our compliance with the Principles of the Privacy Shield. Accordingly, BuildingLink is responsible for the processing of information we receive pursuant to the Privacy Shield Framework, and subsequently transfer to a third party acting on our behalf (e.g. a service provider). It is our responsibility to ensure that any service providers we use also adhere to the Principles.
+
+### Aggregated Information
 
 Your personal information is neither sold nor rented to third parties without your express permission. We do retain the right to share non-identifying aggregated demographic and/or statistical information with partners, advertisers and sponsors.
 
@@ -132,6 +134,10 @@ BuildingLink.com complies with the EU-U.S. Privacy Shield Framework as set forth
 For questions, comments, complaints, access requests or other issues relating to the Privacy Shield or our Privacy Policy, please email [support@buildinglink.com](mailto:support@buildinglink.com) or call +1-877-501-7117. For any issues that cannot be resolved through BuildingLink.com directly, you may contact JAMS at <https://www.jamsadr.com/eu-us-privacy-shield>. If your concerns are still not addressed by JAMS, you may be entitled to a binding arbitration under the Privacy Shield Principles.
 
 The Federal Trade Commission (FTC) has jurisdiction over BuildingLink.com's compliance with the Privacy Shield.
+
+### Personal Information Protection and Electronic Data Act (“PIPEDA”)
+
+For our Canadian Customers, BuildingLink shall act in accordance with the privacy provisions contained in the PIPEDA. 
 
 ### Changes to this policy
 
