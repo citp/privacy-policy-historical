@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adnetsreview.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122104812id_/http%3A//adnetsreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adnetsreview.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130959id_/http%3A//adnetsreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ad Nets Review
 
