@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the getitfree.us privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215224215id_/http%3A//www.getitfree.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getitfree.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171403id_/http%3A//getitfree.us/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Get It Free - Freebies, Deals, Coupons
-
-**Last Updated on October 26, 2016**
-
-## GETITFREE.US PRIVACY NOTICE — IMPORTANT — PLEASE READ
-
-This website is operated by Get it Free ("Get it Free," "We," "Us," or, "Our"). This privacy notice (the "Privacy Policy") discloses the information gathering and dissemination practices for the Get it Free website, mobile applications, electronic services, and social networking sites (collectively, the "Site"). We provide this policy to help you understand how we treat the information collected and how such information is used and shared.
+# Privacy Notice / Your California Rights – Get it Free
 
 Please note that by using this Site and our services, you agree to the terms of this Privacy Policy. If you do not agree with the terms described in this Privacy Policy, please do not provide us with your personal information or interact with the Site.
 
-Please also review our [Terms of Use](http://getitfree.us/terms), which govern your use of the Site, and the [Privacy Policies](http://www.getitfree.us/offers) of our Third Party Advertisers, should you choose to sign up for any of their offers.
+Please also review our [Terms of Use](https://getitfree.us/terms), which govern your use of the Site, and the [Privacy Policies](http://www.getitfree.us/offers) of our Third Party Advertisers, should you choose to sign up for any of their offers.
 
 ### What information does the Site obtain?
 
@@ -28,9 +22,9 @@ _Third-Party Analytics._ We may collect certain information via third-party anal
     * _Remarketing with Google Analytics._ We use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. Both ourselves and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.
     * _Google Display Network Impression Reporting and DoubleClick Campaign Manager integration._ Both ourselves and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
     * _Google Analytics Demographics and Interest Reporting._ We use data from Google's Interest-based advertising or third-party audience data (such as age, gender, and interests) with Google Analytics to match you with the right message and show you advertisements that are more relevant to your interests.
-  * _Data Providers._ We may work with data providers who may collect web log data from you (including IP address and information about your browser or operating system), place, or recognize a unique cookie on your browser to enable you to receive customized ads, personalized e-mail or content. Such cookies do not contain any personally identifiable information, but reflect de-identified demographic or other data linked to the data you voluntarily submitted to us (e.g. your e-mail address that is shared solely in hashed, non-human readable form).
+  * _Data Providers._ We may work with data providers who may collect web log data from you (including IP address and information about your browser or operating system), place, or recognize a unique cookie on your browser to enable you to receive customized ads, personalized e-mail or content. Such cookies do not contain any personally identifiable information, but reflect de-identified demographic or other data linked to the data you voluntarily submitted to us (e.g. your e-mail address that is shared solely in hashed, non-human readable form). 
     * _Criteo._ We work with Criteo to personalize ads for visitors to enhance their browsing experience. To learn more or opt out of Criteo email, visit: <http://privacy.criteoemail.com/us/privacy-policy.html>
-    * _Traverse._ We work with Traverse to provide interest based advertisements to you. Traverse may associate your information with other information, such as offline purchase information, to display offers or deals that may be of interest to you and may use device identifiers in their applications in connection with targeted advertisements. To learn more about Traverse, visit: [http://www.traversedlp.com/traverse-privacy-policy.html.](http://www.traversedlp.com/traverse-privacy-policy.html).
+    * _Traverse._ We work with Traverse to provide interest based advertisements to you. Traverse may associate your information with other information, such as offline purchase information, to display offers or deals that may be of interest to you and may use device identifiers in their applications in connection with targeted advertisements. To learn more about Traverse, visit: <http://www.traversedata.com/privacy/product-privacy-policy>.
 
 
 
@@ -96,4 +90,4 @@ San Diego, CA 92112-3630
 
 We may make modifications to this Privacy Policy from time to time. If we make any material changes, we will notify you of such changes by posting the new policy on the Site or by sending you an e-mail. If you continue to use the Site after modifications, your continued use will constitute as acceptance of the changes and you agree to be bound by the revised Privacy Policy. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
 
-_Copyright © 2010-2015 getitfree.us. All rights reserved._
+_Copyright © 2010-2016 getitfree.us. All rights reserved._
