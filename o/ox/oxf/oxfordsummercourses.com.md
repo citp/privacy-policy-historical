@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordsummercourses.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130104532id_/http%3A//oxfordsummercourses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordsummercourses.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150518id_/http%3A//oxfordsummercourses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Oxford Summer Courses
 
@@ -57,5 +57,3 @@ This website may use social sharing buttons which help share web content directl
 This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls www.oxfordsummercourses.com (this is an example: http://bit.ly/1JKadZx).
 
 Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
-
-We use cookies to personalise content and ads and analyse our traffic. We also share information about your use of our site with our advertising and analytics partners.[Find out more](http://oxfordsummercourses.com/privacy-policy)
