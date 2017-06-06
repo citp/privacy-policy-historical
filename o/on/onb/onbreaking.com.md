@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onbreaking.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121022647id_/http%3A//www.onbreaking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbreaking.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044153id_/http%3A//www.onbreaking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | On Breaking
 
@@ -32,6 +32,20 @@ We adopt appropriate data collection, storage and processing practices and secur
 **Sharing Your Personal Information**
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+**How to share your stories, pictures and videos with  Onbreaking**
+
+Every day Onbreaking.com – brings you the latest stories from across the globe… but what we want to hear are the issues that matter to you.
+
+The part you play in making the news is very important. Whether it is breaking news or a featured item, your contribution can make a difference.
+
+Have you seen or been involved in a news event?
+
+Have you got a story to tell or is there something you think we should follow up?
+
+Are there topics you want to get the world talking about? On what do you want to comment? Or do you want to find out what others are talking about?
+
+[Here are the different ways to send in your contributions:](http://www.onbreaking.com/guidelines/)
 
 **Third Party Websites**
 
