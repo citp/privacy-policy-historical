@@ -1,100 +1,41 @@
-> *The following text is extracted and transformed from the atomx.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185036id_/https%3A//www.atomx.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Atomx - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+#### Atomx is deeply committed to protecting the privacy of Internet users
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. This Privacy Statement presents our privacy policy, including Atomx' privacy practices for our web site. Below is information regarding Atomx' commitment to protecting the privacy of Internet users.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+#### Consumer Information
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Atomx uses third party ad serving technology to serve ads at this site and at our clients' sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this non-personally-identifiable information used to serve ads to you, please click here.
 
-**Information Collection and Use**
+#### Cookies and Opt Out
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Like most Internet sites, Atomx and its third party ad serving party uses "cookies" to enhance the Internet user's experience on the Web. Neither Atomx nor such third party ad serving party uses these cookies to personally identify you in any way, and these cookies in no way damage your system or files.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+#### What are cookies and how do they enhance your Web experience?
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+A cookie is a unique number that is assigned to you the first time you are served an ad. This number is stored in a file on your computer. For instance, cookies help ensure that you don't repeatedly see the same ad. Cookies can also help advertisers measure how you utilize an advertiser's site and the effectiveness of an ad. This information can then be used by advertisers to better cater to your needs. In other words, cookies help us deliver to you the types of ads in which you are more interested.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Although we believe that cookies help enhance your experience on the Web (by not repeatedly serving the same ads to you but delivering more relevant messages), neither Atomx nor its third party ad serving party needs cookies to deliver ads to you.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+#### Opt Out Cookies
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you may either manually delete your cookies by following the instructions contained in the Help section of your browser, or you may click [here](https://p.ato.mx/optout?out=1).
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+#### Opt Out Advertising IDs
 
-**Security**
+In addition to cookies, Atomx uses so-called Advertising IDs as an alternative to web-based cookies in mobile apps. Both Android and iOS allow you to reset your Advertising ID and opt out from interested-based advertising. To learn how to do this, see the [Android guide](https://support.google.com/ads/answer/2662922?hl=en) or [iOS guide](https://support.apple.com/en-us/HT202074).
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+#### Industry Efforts to Protect Consumer Privacy
 
-**Updating Your Information**
+Atomx is committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, including those established by the Direct Marketing Association. To review information regarding privacy practices on our Atomx Web site, please click here. If you should have any questions or concerns regarding this Privacy Statement, please contact our Customer Services at [info@atomx.com](mailto:info@atomx.com). This e-mail address is being protected from spambots, you need JavaScript enabled to view it . We recommend that you periodically review this Privacy Statement, as Atomx may update it from time to time.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### Third Party Advertising
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We use Spot Media Solutions SB and other third-party advertising companies to serve ads when you visit our web site. This company may use information about your visits to our and other web sites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](https://p.ato.mx/optout?out=1). (The information collected does not include your name, address, email address or telephone number)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+#### Third Party Cookies
 
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
