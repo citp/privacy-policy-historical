@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202150315id_/http%3A//www.yakimaherald.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083120id_/http%3A//www.yakimaherald.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | yakimaherald.com
 
@@ -71,34 +71,3 @@ Attn: Online Manager - Commenting
 114 N. Fourth St.  
 Yakima, WA 98901-2707  
 Last updated July 12,2011
-
-  * Dec 2
-
-Fri, Dec 2, 2016 @ 11:30 am 
-
-$10 donation 
-
-  * Dec 2
-
-Fri, Dec 2, 2016 @ 12:00 pm 
-
-$5 general and free for kids. 
-
-  * Dec 2
-
-Fri, Dec 2, 2016 @ 1:00 pm 
-
-No Cover 
-
-  * Dec 2
-
-Fri, Dec 2, 2016 @ 5:00 pm 
-
-Free 
-
-  * Dec 2
-
-Fri, Dec 2, 2016 @ 5:30 pm 
-
-
-
