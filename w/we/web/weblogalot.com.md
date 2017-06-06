@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblogalot.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102235004id_/http%3A//www.weblogalot.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblogalot.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183238id_/http%3A//www.weblogalot.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,8 +31,6 @@ Fabulous.com Pty Ltd ABN 64 094 218 443
 
 Fabulous Parking Pty Ltd ABN 16 094 225 091 
 
-Fabulous.com.au Pty Ltd ABN 34 139 626 994 
-
 Roar.com Pty Ltd ABN 99 094 225 064 
 
 Pageseeker.com Pty Ltd ABN 45 090 513 849 
@@ -40,10 +38,6 @@ Pageseeker.com Pty Ltd ABN 45 090 513 849
 Darkblue.com Pty Ltd ABN 14 094 225 082 
 
 Yexa.com Pty Ltd ABN 12 094 225 073 
-
-Drop.com.au Pty Ltd ABN 79 135 424 878 
-
-Yexa.com.au Pty Ltd ABN 84 137 606 172 
 
 Whois Privacy Services Pty Ltd ABN 65 133 058 741 
 
@@ -390,4 +384,4 @@ If you wish to complain about a breach of the Australian Privacy Principles, ple
 
 |  | 
 
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 2, 63 Miller Street, Pyrmont, NSW 2009. 
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 2, 100 Harris Street, Pyrmont, NSW 2009. 
