@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldaniti.net privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210102021id_/http%3A//www.aldanitinetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldaniti.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074948id_/http%3A//www.aldanitinetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aldaniti Network
 
@@ -75,25 +75,6 @@ If you no longer wish to receive our newsletter and promotional communications, 
 Any data that you provide that is retained by Aldaniti will be held in Aldaniti’s central database, to be accessed by reference to interest or demographic categories in order to provide you with information about those interests you have selected. The process of supplying you with this information is at all times under Aldaniti’s control although specialist third party suppliers who may be sub-contracted to assist in the process. Such third parties will hold your personal data and it may also be transferred, stored, and processed by them or a sub-processor on their behalf at a destination outside the European Economic Area (“EEA”) . Both parties will only process your data in accordance with our instructions and for no other purposes but they may contact you post or telephone for the purposes of informing you of similar goods or services to which you may have already transacted for via Aldaniti or where you have expressly stated that you would like to be contacted on the registration form. By submitting your personal data, you agree to this transfer, storing and processing. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this privacy policy.
 
 The Internet is not a 100% secure medium for communication and, accordingly, Aldaniti cannot guarantee the security of any information you send to Aldaniti via the Internet. Aldaniti is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
-
-**Use of Cookies:**
-
-Aldaniti uses Sitestat, a Nedstat product, to measure and analyse information with respect to your visits to the Aldanitisite. To that effect we use your IP address to collect, among other things, internet traffic data and data regarding your browser type and computer.
-
-Aldaniti also uses cookies to improve your login experience. A cookie is a small file that is stored on your computer when you visit a website. If you visit the website again, it is recognized as a repeat visit by means of the cookie. The cookie contains merely a unique number and therefore no personal data, and the cookie cannot be used to identify you when you visit any other web sites including web sites of third parties such as Nedstat. Aldaniti also separately uses session cookies to store data on our server that are individually identifiable. When you log out of the site, these session cookies are deleted from your computer.
-
-In addition Aldaniti permits carefully selected third parties to:
-
-  1. use cookies at the Aldaniti site. Aldaniti has no access to or control over these cookies;
-
-
-  2. employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the full stop at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. Other websites that you visit may store their own cookies on your computer. Aldaniti recommends that you read each site’s privacy statement to understand their policies and practices regarding the use of cookies.
-
-
-
-You have the ability to accept or decline any of the cookies located at the Aldaniti site whether or not the cookies are provided by Aldaniti or a carefully selected third party using the settings on your browser. If you have cookies disabled in your browser you are still able to use the Aldaniti site but you will not have the benefit of an automatic login.
-
-The functionality of the Aldaniti site depends upon your browser accepting session cookies. Aldaniti tracks visitors to and on the Aldaniti site by using referrer tracking. Aldaniti uses click thru and open mail tracking when sending emails. This process allows Aldaniti and carefully selected third parties the ability to profile the recipients of their communications.
 
 **Changes to this Privacy Statement:**
 
