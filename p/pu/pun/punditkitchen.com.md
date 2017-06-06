@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punditkitchen.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124214456id_/https%3A//corp.cheezburger.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punditkitchen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063833id_/https%3A//corp.cheezburger.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice – Cheezburger Company Blog
 
