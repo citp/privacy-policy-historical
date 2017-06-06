@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hudl.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218190724id_/http%3A//www.hudl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171323id_/https%3A//www.hudl.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Hudl
+# Privacy Policy
 
 ### Privacy Policy
 
@@ -50,7 +50,7 @@ Personal information is not shared with or sold to other organizations for comme
 
 
 
-#### 8\. Hoster Service Partners and Their Privacy Options
+#### 8\. Hosted Service Partners and Their Privacy Options
 
 Our network advertising partners include Facebook, Google, Twitter, and their advertising networks. Facebook and Google use cookies, web beacons, and similar technologies to collect information and use that information to provide measurement services and target ads. You can opt-out of Facebook collection [here](http://www.aboutads.info/choices). You can opt out of Google analytics [here](https://tools.google.com/dlpage/gaoptout). You can adjust other Google privacy setting [here](https://www.google.com/settings/u/0/ads/authenticated). Twitter uses conversion tracking and tailored audiences products for advertisements. You can modify your Twitter privacy settings [here](https://support.twitter.com/articles/20170405#choices).  
 
@@ -62,7 +62,7 @@ We do not knowingly collect personal information from children under 13 and we w
 
 #### 10\. Online Training
 
-Online Training Sessions are governed by the privacy policy of a separate company, Citrix. You can find their privacy policy [here](http://public.hudl.com/privacy/www.citrix.com/about/legal/citrix-online-privacy-policy-en.html).
+Online Training Sessions are governed by the privacy policy of a separate company, Citrix. You can find their privacy policy [here](http://www.citrix.com/about/legal/citrix-online-privacy-policy-en.html).
 
 #### 11\. Tracking
 
