@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldjtips.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119171043id_/http%3A//www.digitaldjtips.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldjtips.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132845id_/http%3A//www.digitaldjtips.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Privacy Policy / Terms & Conditions - Digital DJ Tips
 
@@ -66,7 +66,7 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 
  **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified on 5 May 2016.
+If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified on 26 Jan 2017.
 
  **Contacting us**
 
@@ -80,19 +80,19 @@ By accessing, downloading, installing, or using the Digital DJ Tips Services, wh
 
 We reserve the right, at Our sole discretion, to change, modify or otherwise alter these Terms at any time. You must review these Terms at http://www.digitaldjtips.com/privacy-policy/ on a regular basis to keep Yourself informed of any changes.
 
- **Non-Subscription Digital Products**
+ **Refund Policy: Non-Subscription Digital Products**
 
-You have 12 months from the date of the original purchase to request a refund for any non-subscription Digital DJ Tips product. Any refund request after the time limit will not be processed. Refunds can only be processed back to the card or PayPal account used to make the purchase initially.
+You have 12 months from the date of the original purchase to request a refund for any non-subscription Digital DJ Tips product. Any refund request after the time limit will not be processed. Refunds can only be processed back to the card or PayPal account used to make the purchase initially. All prices are charged in US dollars, and all refunds will also be processed in US dollars. If you have purchased using a different currency we do not guarantee that your refund amount will be exactly the same as that amount you paid. This is due to currency exchange fluctuations and local bank charges outside of our control.
 
- **Subscription Digital Products**
+ **Refund Policy: Subscription Digital Products**
 
-Your Digital DJ Tips membership, which may start with a free trial, will continue month-to-month unless and until you cancel your membership or we terminate it. You must have internet access and provide us with a current, valid, accepted method of payment to use the service. We will bill the monthly membership fee to the payment method used when signing up unless updated or changed by subscriber. You must cancel your membership before it renews each month in order to avoid billing of the next month’s membership fees to your payment method.
+Your Digital DJ Lab membership, which may start with a trial period, will continue month-to-month unless and until you cancel your membership or we terminate it. You must have internet access and provide us with a current, valid, accepted method of payment to use the service. We will bill the monthly membership fee to the payment method used when signing up unless updated or changed by subscriber. If you want to cancel, you must do so before it renews each month in order to avoid billing of the next month’s membership fees to your payment method.
 
- _Trial Subscriptions:_ Your membership may start with a trial. The trial period of your membership lasts for 30 days, or as otherwise specified during sign-up. For combinations with other offers, restrictions may apply. Trials are for new and certain former members only. Digital DJ Holdings Ltd reserves the right, in its absolute discretion, to determine your trial eligibility.
+ _Refund Policy: Trial Subscriptions:_ Your membership may start with a discounted trial period. The trial period of your membership lasts for 30 days, or as otherwise specified during sign-up. Trials are for new and certain former members only. Digital DJ Holdings Ltd reserves the right, in its absolute discretion, to determine your trial eligibility. If you cancel your trial within the first 30 days you will receive a full refund for any amount paid.
 
- _Monthly Subscriptions:_ You have 30 days from the date of the original purchase to request a refund for your Digital DJ Tips monthly subscription. Any refund request after the time limit will not be processed. You may cancel at any time after the initial 30 days has passed.
+ _Refund Policy: Monthly Subscriptions:_ You have 30 days from the date of the the last payment to request a refund for your monthly subscription. Any refund request after the time limit will not be processed. You may cancel at any time. Only the last month's subscription payment will be refunded.
 
- _Yearly Subscriptions:_ For yearly subscription purchases, you have THIRTY (30) Days from the date of the original purchase to request a refund for your Digital DJ Tips yearly subscription. Any refunds requests after 30 days will be prorated by the amount of time remaining under the original yearly subscription period. Example: If you purchase a yearly subscription in January of this year and you decide you want a refund 6 months from the purchase date, youre prorated refund would be 50% of the purchase price.
+ _Refund Policy: Yearly Subscriptions:_ For yearly subscription purchases, you have THIRTY (30) Days from the date of the original purchase to request a refund for your Digital DJ Tips yearly subscription. Any refunds requests after 30 days will be prorated by the amount of time remaining under the original yearly subscription period. Example: If you purchase a yearly subscription in January of this year and you decide you want a refund 6 months from the purchase date, youre prorated refund would be 50% of the purchase price.
 
  **Your Account**
 
