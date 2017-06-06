@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakers.tv privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609131218id_/http%3A//breakers.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakers.tv privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203835id_/http%3A//breakers.tv/privacy) for the most accurate reproduction.*
 
 # Privacy - Breakers.TV
 
