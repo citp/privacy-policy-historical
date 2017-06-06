@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mrsfields.com privacy policy that was archived on 2016-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161122041527id_/https%3A//www.mrsfields.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mrsfields.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606180731id_/https%3A//www.mrsfields.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36"><head>
 		<title>Mrs. Fields Privacy Policy</title>
@@ -9,6 +9,7 @@
 	<meta name="description" content="Mrs. Fields Privacy Policy - MrsFields.com">
 	<link rel="icon" href="/images/tab_icon.png" type="image/png">
 	<meta name="robots" content="noodp">
+	<meta name="ab-var" content="a">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,16 +29,16 @@
 	<link href="/lib/bootstrap-3.2.0/css/bootstrap.min.css?d=1416345079" media="all" rel="stylesheet" type="text/css">
 	<link href="/css/2014-redesign/colorbox.css?d=1418769580" media="all" rel="stylesheet" type="text/css">
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css">
-	<link href="/css/global.css?d=1479243103" media="all" rel="stylesheet" type="text/css">
+	<link href="/css/global.css?d=1492796983" media="all" rel="stylesheet" type="text/css">
 	<link href="/css/pages/ie10.css?d=1412364231" media="all" rel="stylesheet" type="text/css">
-	<link href="/css/pages/content.css?d=1478291670" media="all" rel="stylesheet" type="text/css">
-	<link href="/css/responsive.css?d=1448066494" media="all" rel="stylesheet" type="text/css">
+	<link href="/css/pages/content.css?d=1492796983" media="all" rel="stylesheet" type="text/css">
+	<link href="/css/responsive.css?d=1486159335" media="all" rel="stylesheet" type="text/css">
 	
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script type="text/javascript" src="/lib/bootstrap-3.2.0/js/bootstrap.min.js?d=1412364226"></script>
 	<script type="text/javascript" src="/lib/sidr-1.2.1/jquery.sidr.min.js?d=1412364229"></script>
 	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.3/jquery.colorbox-min.js"></script>
-	<script type="text/javascript" src="/scripts/global.js?d=1479243103"></script>
+	<script type="text/javascript" src="/scripts/global.js?d=1494621437"></script>
 	<script type="text/javascript" src="/scripts/json2.js?d=1416353578"></script>
 	<script type="text/javascript">
 	    //<!--
@@ -50,7 +51,7 @@
 
 	<meta name="verify-v1" content="bA1xSZqRO13hOyHNad5dTlB3nQuXHg0Iq7dwL3bsBAc=">
 	<meta name="y_key" content="d3b1a59af3dc14f4">
-	<!-- Order ID: 1479788127.306387 -->
+	<!-- Order ID: 1496772451.114868 -->
 
 	<meta name="google-site-verification" content="lgt84eEuHD0UAoMrt8o3343s12V7dokwWYImZCW6Dpo">
     <meta name="google-site-verification" content="OXtCbb4IX3cMOs_1Le23961cWinUeEjOJvb8FMrzM60">
@@ -73,6 +74,9 @@
 	<script type="text/javascript">
 		var csr = null;
 	</script>
+
+	<meta name="theme-color" content="#cc0033">
+
 </head>
 <body class="index-action">
 
@@ -628,6 +632,11 @@ function sendPromotionClick(el, e, id, name, creative){
     name = map.data('name');
     creative = map.data('creative');
 
+	//  In firefox "private browsing" mode, the dataLayer.push()
+	//  below does NOT complete, and thus the eventCallback is
+	//  never initiated. So, this timeout will compensate.
+	var bad_stuff = setTimeout( function() { window.location.href = $(el).attr('href'); }, 100 );
+
     dataLayer.push({
       'event':'promotionClick',
       'ecommerce': {
@@ -642,6 +651,7 @@ function sendPromotionClick(el, e, id, name, creative){
         }
       },
      'eventCallback': function() {
+		if( typeof( bad_stuff ) != 'undefined' ) { clearTimeout( bad_stuff ); }
         window.location.href = $(el).attr('href');
      }      
     });
@@ -676,6 +686,11 @@ function sendProductClick(product, index, list, format, callback_func){
     catch(err){
         //continue on wayward soldier
     }
+
+	//  In firefox "private browsing" mode, the dataLayer.push()
+	//  below does NOT complete, and thus the eventCallback is
+	//  never initiated. So, this timeout will compensate.
+	var bad_stuff = ( ( typeof( callback_func ) != 'undefined' ) ? setTimeout( function() { callback_func(product.product_url) }, 100 ) : null );
     
     dataLayer.push({
         'event': 'productClick',
@@ -695,6 +710,7 @@ function sendProductClick(product, index, list, format, callback_func){
          },
          'eventCallback': function() {
             if(callback_func != undefined){
+              if( bad_stuff ) { clearTimeout( bad_stuff ); }
               callback_func(product.product_url);
             }           
          }
@@ -713,7 +729,11 @@ function sendProductClick(product, index, list, format, callback_func){
 	<div class="main-outer-container">
 
 		<div id="main-header" class="container">
-					<div id="global-navbar-fixed" class="navbar" role="navigation">
+					
+		
+		<div id="global-navbar-fixed" class="navbar" role="navigation">
+
+			
 			<div class="container header-containter">
 				<div class="account-nav-bar navbar-collapse collapse">
 					<ul class="nav navbar-nav navbar-right hidden-xs">
@@ -736,7 +756,7 @@ function sendProductClick(product, index, list, format, callback_func){
 					<div class="search-bar">
 						<form id="siteSearch" method="get" action="/search/">
 							<input id="autoSuggest" name="q" type="text" class="form-control" value="" placeholder="Search">
-													</form>
+						</form>
 					</div>
 
 					<br style="clear:both">
@@ -758,12 +778,16 @@ function sendProductClick(product, index, list, format, callback_func){
 						<li>
 							<a href="/stores/"><img src="/images/store-icon-md.png" class="store-locate-icon">Store Locator<span class="sep"></span></a>
 						</li>
-												<li><a href="/contact/">Need Help?<span class="sep"></span></a></li>
-						<li><a>1-800-COOKIES®</a></li>
+						<li>
+							<a href="/contact/">Need Help?<span class="sep"></span></a>
+						</li>
+						<li>
+							<a>1-800-COOKIES®</a>
+						</li>
 					</ul>
 
 										
-
+					
 									</div>
 
 								<div class="navbar-header">
@@ -787,7 +811,9 @@ function sendProductClick(product, index, list, format, callback_func){
 					<!-- a class="navbar-brand" href="/">Mrs Fields</a -->
 				</div>
 
-				<div class="category-nav-bar hidden-xs">
+			</div>
+
+							<div class="category-nav-bar hidden-xs">
 					<div class="inner">
 						<ul class="nav navbar-nav">
 							
@@ -798,33 +824,39 @@ function sendProductClick(product, index, list, format, callback_func){
 		<div class="menu-fudge"></div>
 		<div class="dropdown-menu" style="">
 			<ul>
-														<li class="menu-child menu-seasonal" data-img-src="/files/categories/95_menu.jpg" data-alt-text="holiday cookies holiday treats holiday gifts" data-hover="menu-Gourmet_Gifts" data-idx="10">
-						<a href="/categories/Holiday_cookie_gift_collection/#p:10">Holiday Cookies</a>
-					</li>
-														<li class="menu-child menu-seasonal" data-img-src="/files/categories/69_menu.jpg" data-alt-text="Christmas gifts christmas gift christmas gift baskets christmas box christmas cookies" data-hover="menu-Gourmet_Gifts" data-idx="10">
-						<a href="/categories/Christmas_Gifts/#p:10">Christmas Cookie Gifts</a>
-					</li>
-														<li class="menu-child menu-seasonal" data-img-src="/files/categories/57_menu.jpg" data-alt-text="Thanksgiving Treats" data-hover="menu-Gourmet_Gifts" data-idx="10">
-						<a href="/categories/Thanksgiving_treats/#p:10">Thanksgiving Treats</a>
-					</li>
-														<li class="menu-child menu-seasonal" data-img-src="/files/categories/64_menu.jpg" data-alt-text="fall cookies fall basket fall gifts" data-hover="menu-Gourmet_Gifts" data-idx="10">
-						<a href="/categories/Fall_Gifts_Collection/#p:10">Fall Cookies</a>
-					</li>
-														<li class="menu-child menu-seasonal" data-img-src="/files/categories/424_menu.jpg" data-alt-text="Bakery Favorites" data-hover="menu-Gourmet_Gifts" data-idx="10">
-						<a href="/categories/bakery-favorites/#p:10">Bakery Favorites</a>
-					</li>
-														<li class="menu-child menu-seasonal" data-img-src="" data-alt-text="Create Your Own" data-hover="menu-Gourmet_Gifts" data-idx="10">
-						<a href="/create#p:10">Create Your Own</a>
+														<li class="menu-child menu-seasonal" data-img-src="/files/categories/40_menu.jpg" data-alt-text="Fathers Day, Fathers Day Gifts, Fathers Day Cookeis, Gifts for Dad" data-hover="menu-Gourmet_Gifts" data-idx="10">
+						<a href="/categories/fathers-day/#p:10">Father's Day Gifts</a>
 					</li>
 														<li class="menu-child menu-seasonal" data-img-src="/files/categories/49_menu.jpg" data-alt-text="appreciation gifts, thank you gift ideas, thank you gifts, thank you gift baskets" data-hover="menu-Gourmet_Gifts" data-idx="10">
 						<a href="/categories/thank_you_gifts_baskets/#p:10">Thank You Gifts</a>
+					</li>
+														<li class="menu-child menu-seasonal" data-img-src="/files/categories/52_menu.jpg" data-alt-text="birthday gifts for her, birthday gifts for men, birthday baskets" data-hover="menu-Gourmet_Gifts" data-idx="10">
+						<a href="/categories/birthday_cookie_gifts_baskets/#p:10">Birthday Cookie Cakes &amp; Gift Baskets</a>
+					</li>
+														<li class="menu-child menu-seasonal" data-img-src="/files/categories/311_menu.jpg" data-alt-text="Red, White &amp; Cookies" data-hover="menu-Gourmet_Gifts" data-idx="10">
+						<a href="/categories/red-white-cookies/#p:10">Red, White &amp; Cookies</a>
+					</li>
+														<li class="menu-child menu-seasonal" data-img-src="/files/categories/15_menu.jpg" data-alt-text="Graduation Gifts" data-hover="menu-Gourmet_Gifts" data-idx="10">
+						<a href="/categories/Graduation_Gifts/#p:10">Graduation Gifts</a>
+					</li>
+														<li class="menu-child menu-seasonal" data-img-src="/files/categories/169_menu.jpg" data-alt-text="Spring Gifts" data-hover="menu-Gourmet_Gifts" data-idx="10">
+						<a href="/categories/Spring_Collection/#p:10">Spring Gifts</a>
+					</li>
+														<li class="menu-child menu-seasonal" data-img-src="/files/categories/10_menu.jpg" data-alt-text="cookie cake delivery, giant cookie cake, cookie cake" data-hover="menu-Gourmet_Gifts" data-idx="10">
+						<a href="/categories/Giant_Cookie_cookie_cake/#p:10">Cookie Cakes</a>
+					</li>
+														<li class="menu-child menu-seasonal" data-img-src="/files/categories/327_menu.jpg" data-alt-text="Congratulations" data-hover="menu-Gourmet_Gifts" data-idx="10">
+						<a href="/categories/Congratulations/#p:10">Congratulations Cookie Gifts</a>
+					</li>
+														<li class="menu-child menu-seasonal" data-img-src="" data-alt-text="Create Your Own" data-hover="menu-Gourmet_Gifts" data-idx="10">
+						<a href="/create#p:10">Create Your Own</a>
 					</li>
 														<li class="menu-child menu-seasonal" data-img-src="/files/categories/175_menu.jpg" data-alt-text="gourmet gift baskets, gift basket, food gift baskets" data-hover="menu-Gourmet_Gifts" data-idx="10">
 						<a href="/categories/gourmet_gift_baskets/#p:10">Gourmet Gift Baskets</a>
 					</li>
 							</ul>
 							<div class="menu-image" id="menu-image-10">
-					<img src="/files/categories/95_menu.jpg" id="menu-seasonal-holiday-cookie-gift-collection-tag" alt="holiday cookies holiday treats holiday gifts">
+					<img src="/files/categories/40_menu.jpg" id="menu-seasonal-fathers-day-tag" alt="Fathers Day, Fathers Day Gifts, Fathers Day Cookeis, Gifts for Dad">
 				</div>
 					</div>
 	</li>
@@ -836,32 +868,26 @@ function sendProductClick(product, index, list, format, callback_func){
 		<div class="menu-fudge"></div>
 		<div class="dropdown-menu" style="">
 			<ul>
-														<li class="menu-child menu-occasion" data-img-src="/files/categories/95_menu.jpg" data-alt-text="holiday cookies holiday treats holiday gifts" data-hover="menu-Gift_Occasion" data-idx="12">
-						<a href="/categories/Holiday_cookie_gift_collection/#p:12">Holiday Cookies</a>
-					</li>
-														<li class="menu-child menu-occasion" data-img-src="/files/categories/69_menu.jpg" data-alt-text="Christmas gifts christmas gift christmas gift baskets christmas box christmas cookies" data-hover="menu-Gift_Occasion" data-idx="12">
-						<a href="/categories/Christmas_Gifts/#p:12">Christmas Cookie Gifts</a>
-					</li>
-														<li class="menu-child menu-occasion" data-img-src="/files/categories/57_menu.jpg" data-alt-text="Thanksgiving Treats" data-hover="menu-Gift_Occasion" data-idx="12">
-						<a href="/categories/Thanksgiving_treats/#p:12">Thanksgiving Treats</a>
-					</li>
-														<li class="menu-child menu-occasion" data-img-src="/files/categories/64_menu.jpg" data-alt-text="fall cookies fall basket fall gifts" data-hover="menu-Gift_Occasion" data-idx="12">
-						<a href="/categories/Fall_Gifts_Collection/#p:12">Fall Cookies</a>
-					</li>
 														<li class="menu-child menu-occasion" data-img-src="/files/categories/49_menu.jpg" data-alt-text="appreciation gifts, thank you gift ideas, thank you gifts, thank you gift baskets" data-hover="menu-Gift_Occasion" data-idx="12">
 						<a href="/categories/thank_you_gifts_baskets/#p:12">Thank You Gifts</a>
 					</li>
 														<li class="menu-child menu-occasion" data-img-src="/files/categories/52_menu.jpg" data-alt-text="birthday gifts for her, birthday gifts for men, birthday baskets" data-hover="menu-Gift_Occasion" data-idx="12">
 						<a href="/categories/birthday_cookie_gifts_baskets/#p:12">Birthday Cookie Cakes &amp; Gift Baskets</a>
 					</li>
+														<li class="menu-child menu-occasion" data-img-src="/files/categories/40_menu.jpg" data-alt-text="Fathers Day, Fathers Day Gifts, Fathers Day Cookeis, Gifts for Dad" data-hover="menu-Gift_Occasion" data-idx="12">
+						<a href="/categories/fathers-day/#p:12">Father's Day Gifts</a>
+					</li>
+														<li class="menu-child menu-occasion" data-img-src="/files/categories/169_menu.jpg" data-alt-text="Spring Gifts" data-hover="menu-Gift_Occasion" data-idx="12">
+						<a href="/categories/Spring_Collection/#p:12">Spring Gifts</a>
+					</li>
 														<li class="menu-child menu-occasion" data-img-src="/files/categories/15_menu.jpg" data-alt-text="Graduation Gifts" data-hover="menu-Gift_Occasion" data-idx="12">
 						<a href="/categories/Graduation_Gifts/#p:12">Graduation Gifts</a>
 					</li>
+														<li class="menu-child menu-occasion" data-img-src="/files/categories/327_menu.jpg" data-alt-text="Congratulations" data-hover="menu-Gift_Occasion" data-idx="12">
+						<a href="/categories/Congratulations/#p:12">Congratulations Cookie Gifts</a>
+					</li>
 														<li class="menu-child menu-occasion" data-img-src="/files/categories/16_menu.jpg" data-alt-text="Welcome Baby!" data-hover="menu-Gift_Occasion" data-idx="12">
 						<a href="/categories/newborn_baby_gifts_baskets/#p:12">Welcome Baby!</a>
-					</li>
-														<li class="menu-child menu-occasion" data-img-src="/files/categories/6_menu.jpg" data-alt-text="Back To School Gifts" data-hover="menu-Gift_Occasion" data-idx="12">
-						<a href="/categories/Back_To_School_Gifts/#p:12">Back To School Gifts</a>
 					</li>
 														<li class="menu-child menu-occasion" data-img-src="/files/categories/90_menu.jpg" data-alt-text="College Care Packages" data-hover="menu-Gift_Occasion" data-idx="12">
 						<a href="/categories/College_Care_Packages/#p:12">College Care Packages</a>
@@ -872,27 +898,18 @@ function sendProductClick(product, index, list, format, callback_func){
 														<li class="menu-child menu-occasion" data-img-src="/files/categories/341_menu.jpg" data-alt-text="Wedding Gift Ideas" data-hover="menu-Gift_Occasion" data-idx="12">
 						<a href="/categories/wedding-collection/#p:12">Wedding Cookie Gifts</a>
 					</li>
-														<li class="menu-child menu-occasion" data-img-src="/files/categories/253_menu.jpg" data-alt-text="Love &amp; Romance" data-hover="menu-Gift_Occasion" data-idx="12">
-						<a href="/categories/love-romance/#p:12">Love &amp; Romance</a>
-					</li>
-														<li class="menu-child menu-occasion" data-img-src="/files/categories/55_menu.jpg" data-alt-text="gift, online gifts, gifts" data-hover="menu-Gift_Occasion" data-idx="12">
-						<a href="/categories/Gifts_Mrs_Fields_Brownie_Cookies/#p:12">Any Occasion Gifts</a>
-					</li>
-														<li class="menu-child menu-occasion" data-img-src="/files/categories/113_menu.jpg" data-alt-text="housewarming gifts" data-hover="menu-Gift_Occasion" data-idx="12">
-						<a href="/categories/housewarming-gifts/#p:12">Housewarming Gift Baskets</a>
-					</li>
-														<li class="menu-child menu-occasion" data-img-src="/files/categories/327_menu.jpg" data-alt-text="Congratulations" data-hover="menu-Gift_Occasion" data-idx="12">
-						<a href="/categories/Congratulations/#p:12">Congratulations Cookie Gifts</a>
-					</li>
 														<li class="menu-child menu-occasion" data-img-src="/files/categories/50_menu.jpg" data-alt-text="get well baskets, get well basket, get well gifts, get well gift baskets" data-hover="menu-Gift_Occasion" data-idx="12">
 						<a href="/categories/get_well_soon_baskets_and_cookie_tins/#p:12">Get Well Gift Baskets</a>
 					</li>
 														<li class="menu-child menu-occasion" data-img-src="/files/categories/172_menu.jpg" data-alt-text="Sympathy Gifts" data-hover="menu-Gift_Occasion" data-idx="12">
 						<a href="/categories/With_Sympathy/#p:12">Sympathy Gifts</a>
 					</li>
+														<li class="menu-child menu-occasion" data-img-src="/files/categories/55_menu.jpg" data-alt-text="gift, online gifts, gifts" data-hover="menu-Gift_Occasion" data-idx="12">
+						<a href="/categories/Gifts_Mrs_Fields_Brownie_Cookies/#p:12">Any Occasion Gifts</a>
+					</li>
 							</ul>
 							<div class="menu-image" id="menu-image-12">
-					<img src="/files/categories/95_menu.jpg" id="menu-occasion-holiday-cookie-gift-collection-tag" alt="holiday cookies holiday treats holiday gifts">
+					<img src="/files/categories/49_menu.jpg" id="menu-occasion-thank-you-gifts-baskets-tag" alt="appreciation gifts, thank you gift ideas, thank you gifts, thank you gift baskets">
 				</div>
 					</div>
 	</li>
@@ -919,6 +936,12 @@ function sendProductClick(product, index, list, format, callback_func){
 														<li class="menu-child menu-product" data-img-src="/files/categories/150_menu.jpg" data-alt-text="Brownies" data-hover="menu-Shop_By_Product" data-idx="16">
 						<a href="/categories/brownies/#p:16">Brownies</a>
 					</li>
+														<li class="menu-child menu-product" data-img-src="/files/categories/174_menu.jpg" data-alt-text="Gift Tins" data-hover="menu-Shop_By_Product" data-idx="16">
+						<a href="/categories/gift_tins/#p:16">Gift Tins</a>
+					</li>
+														<li class="menu-child menu-product" data-img-src="/files/categories/175_menu.jpg" data-alt-text="gourmet gift baskets, gift basket, food gift baskets" data-hover="menu-Shop_By_Product" data-idx="16">
+						<a href="/categories/gourmet_gift_baskets/#p:16">Gourmet Gift Baskets</a>
+					</li>
 														<li class="menu-child menu-product" data-img-src="/files/categories/416_menu.jpg" data-alt-text="Chocolate Chip Collection" data-hover="menu-Shop_By_Product" data-idx="16">
 						<a href="/categories/chocolate-chip-collection/#p:16">Chocolate Chip Collection</a>
 					</li>
@@ -926,7 +949,7 @@ function sendProductClick(product, index, list, format, callback_func){
 						<a href="/gifts/Treat-of-the-month#p:16">Treat of the Month</a>
 					</li>
 														<li class="menu-child menu-product" data-img-src="/files/categories/241_menu.jpg" data-alt-text="Major League Baseball™ Cookies" data-hover="menu-Shop_By_Product" data-idx="16">
-						<a href="/pro-team/mlb/#p:16">Major League Baseball™ Cookies</a>
+						<a href="/pro-team/major-league-baseball/#p:16">Major League Baseball™ Cookies</a>
 					</li>
 														<li class="menu-child menu-product" data-img-src="/files/categories/252_menu.jpg" data-alt-text="National Basketball Association™" data-hover="menu-Shop_By_Product" data-idx="16">
 						<a href="/nba/#p:16">National Basketball Association™</a>
@@ -941,38 +964,6 @@ function sendProductClick(product, index, list, format, callback_func){
 					</div>
 	</li>
 
-		<li class="menu-top dropdown menu-price">
-		<span class="sidr-toggle child"></span>
-		<a href="javascript: void(0);" class="">
-            Shop By Price        </a>
-		<div class="menu-fudge"></div>
-		<div class="dropdown-menu" style="">
-			<ul>
-														<li class="menu-child menu-price" data-img-src="/files/categories/141_menu.jpg" data-alt-text="Under $25.00" data-hover="menu-Shop_By_Price" data-idx="11">
-						<a href="/by_price/less_than_$25.00#p:11">Under $25.00</a>
-					</li>
-														<li class="menu-child menu-price" data-img-src="/files/categories/142_menu.jpg" data-alt-text="$25.00 to $35.00" data-hover="menu-Shop_By_Price" data-idx="11">
-						<a href="/by_price/from_$25.00/to_$35.00#p:11">$25.00 to $35.00</a>
-					</li>
-														<li class="menu-child menu-price" data-img-src="/files/categories/143_menu.jpg" data-alt-text="$35.00 to $45.00" data-hover="menu-Shop_By_Price" data-idx="11">
-						<a href="/by_price/from_$35.00/to_$45.00#p:11">$35.00 to $45.00</a>
-					</li>
-														<li class="menu-child menu-price" data-img-src="/files/categories/144_menu.jpg" data-alt-text="$45.00 to $60.00" data-hover="menu-Shop_By_Price" data-idx="11">
-						<a href="/by_price/from_$45.00/to_$60.00#p:11">$45.00 to $60.00</a>
-					</li>
-														<li class="menu-child menu-price" data-img-src="/files/categories/145_menu.jpg" data-alt-text="$60.00 to $80.00" data-hover="menu-Shop_By_Price" data-idx="11">
-						<a href="/by_price/from_$60.00/to_$80.00#p:11">$60.00 to $80.00</a>
-					</li>
-														<li class="menu-child menu-price" data-img-src="/files/categories/146_menu.jpg" data-alt-text="$80.00 and Up" data-hover="menu-Shop_By_Price" data-idx="11">
-						<a href="/by_price/$80.00_and_up#p:11">$80.00 and Up</a>
-					</li>
-							</ul>
-							<div class="menu-image" id="menu-image-11">
-					<img src="/files/categories/141_menu.jpg" id="menu-price-by-price-less-than-25-00-tag" alt="Shop By Price">
-				</div>
-					</div>
-	</li>
-
 		<li class="menu-top dropdown menu-Corporate">
 		<span class="sidr-toggle child"></span>
 		<a href="/business/" class="">
@@ -981,13 +972,13 @@ function sendProductClick(product, index, list, format, callback_func){
 		<div class="dropdown-menu" style="width: 453px;">
 			<ul>
 														<li class="menu-child menu-Corporate" data-img-src="/files/categories/61_menu.jpg" data-alt-text="personalized gifts, personalized gift, corporate gifts" data-hover="menu-Corporate_Gifts" data-idx="17">
-						<a href="/categories/business_gifts/#p:17">All Corporate &amp; Business Gifts</a>
+						<a href="/business/business_gifts/#p:17">All Corporate &amp; Business Gifts</a>
 					</li>
-														<li class="menu-child menu-Corporate" data-img-src="/files/categories/206_menu.jpg" data-alt-text="Corporate Holiday Gifts" data-hover="menu-Corporate_Gifts" data-idx="17">
-						<a href="/categories/Corporate_Holiday_Gifts/#p:17">Corporate Holiday Gifts</a>
+														<li class="menu-child menu-Corporate" data-img-src="/files/categories/242_menu.jpg" data-alt-text="Buy in Bulk &amp; Save!" data-hover="menu-Corporate_Gifts" data-idx="17">
+						<a href="/business/case-pack-savings/#p:17">Buy in Bulk &amp; Save!</a>
 					</li>
-														<li class="menu-child menu-Corporate" data-img-src="" data-alt-text="Buy in Bulk &amp; Save!" data-hover="menu-Corporate_Gifts" data-idx="17">
-						<a href="/categories/case-pack-savings#p:17">Buy in Bulk &amp; Save!</a>
+														<li class="menu-child menu-Corporate" data-img-src="" data-alt-text="appreciation gifts, thank you gift ideas, thank you gifts, thank you gift baskets" data-hover="menu-Corporate_Gifts" data-idx="17">
+						<a href="/business/corporate_thank_you_gifts/#p:17">Corporate Thank You Gifts</a>
 					</li>
 														<li class="menu-child menu-Corporate" data-img-src="" data-alt-text="Nondenominational Gifts" data-hover="menu-Corporate_Gifts" data-idx="17">
 						<a href="/categories/Nondenominational-Gifts#p:17">Nondenominational Gifts</a>
@@ -997,9 +988,6 @@ function sendProductClick(product, index, list, format, callback_func){
 					</li>
 														<li class="menu-child menu-Corporate" data-img-src="" data-alt-text="Logo Cookies" data-hover="menu-Corporate_Gifts" data-idx="17">
 						<a href="/gifts/Logo-perfect-cookies/#p:17">Logo Cookies</a>
-					</li>
-														<li class="menu-child menu-Corporate" data-img-src="" data-alt-text="Thank You Gifts" data-hover="menu-Corporate_Gifts" data-idx="17">
-						<a href="/categories/thank_you_gifts_baskets#p:17">Thank You Gifts</a>
 					</li>
 														<li class="menu-child menu-Corporate" data-img-src="" data-alt-text="Request a Quote" data-hover="menu-Corporate_Gifts" data-idx="17">
 						<a href="/business/request-quote#p:17">Request a Quote</a>
@@ -1027,7 +1015,8 @@ function sendProductClick(product, index, list, format, callback_func){
 						</ul>
 					</div>
 				</div>
-			</div>
+			
+			
 		</div>
 		</div>
 
@@ -1040,23 +1029,25 @@ function sendProductClick(product, index, list, format, callback_func){
 		</div>
 
 		<div class="main-content-outer">
-			<div class="main-content-container top-banner">
-				<div class="main-content">
-																	<div class="content-grid">
+
+							<div class="main-content-container top-banner">
+					<div class="main-content">
+																				<div class="content-grid">
 										<div class="row template-12-across template-bar">
 						<div class="col-sm-12">
 							<div class="cbox">
-	 <img src="/dyn-images/single_1180_banner/1115_freeship_glo_r2.jpg" alt="Holiday Gifts" usemap="#map_15725">
+	 <img src="/dyn-images/single_1180_banner/0606_24for24_Glo_v2.jpg" alt="Memorial Day Gifts" usemap="#map_74992">
 </div>
-   <map class="image-content-map" name="map_15725" data-id="844a5461e383d355d807bb82cadc0aaa" data-name="single_1180_banner/1115_freeship_glo_r2" data-creative="Holiday Gifts"><area shape="rect" coords="0,0,861,60" title="" alt="" href="/categories/Holiday_cookie_gift_collection" target="_self">
-<area shape="rect" coords="864,0,989,60" title="" alt="" href="javascript: openDiscountModal('FREESHIP')" target="_self"></map>
+   <map class="image-content-map" name="map_74992" data-id="acf999ed6aa927f54ff9f64dca8d41a7" data-name="single_1180_banner/0531_10Off_Glo" data-creative="Memorial Day Gifts"><area shape="rect" coords="0,0,667,60" title="" alt="" href="/categories/fathers-day/" "="" target="_self">
+<area shape="rect" coords="668,0,847,60" title="" alt="" href="javascript: openDiscountModal('SAVE24')" target="_self">
+<area shape="rect" coords="848,0,1000,60" title="" alt="" href="categories/fathers-day/" target="_self"></map>
 						</div>
 					</div>
 			</div>
-										<div></div> <!-- Anchor for CMS Edit Hook -->
+												<div></div> <!-- Anchor for CMS Edit Hook -->
+					</div>
 				</div>
-			</div>
-
+			
 			<div class="main-content-container content-body">
 				<div class="main-content">
 
@@ -1153,10 +1144,10 @@ function sendProductClick(product, index, list, format, callback_func){
 </div>			<div class="content-with-header">
     <div class="content-header">
 		<h3>
-							Holiday Cookies					</h3>
+							Father's Day Gifts					</h3>
     </div>
 	<p class="copy">
-		Sweeten up the holidays with Mrs. Fields® ' selection of holiday cookies &amp; treats! Find something for everyone on your list with our wide variety of gifts - including customizable tins, assorted treat &amp; cookie bundles, and festive gift boxes. Ring in the season with our other holiday offerings, shop holiday candy, Christmas cookies, &amp; Hanukkah gifts. Order online or call 1-888-COOKIES.					<br><a href="/categories/Holiday_cookie_gift_collection" style="text-decoration: underline">Shop Holiday Cookies</a>
+		Indulge your dad's sweet tooth with one of Mrs. Fields® ' Father's Day gift baskets. Baked to perfection, we are sure there will be a smile on his face after the first bite. Choose from gourmet brownies and Nibblers® , or our classic chocolate chip cookies that are soft and tasty! Best of all, our Father's Day gifts are available for delivery. Order today!					<br><a href="/categories/fathers-day" style="text-decoration: underline">Shop Father's Day Gifts</a>
 			</p>
 </div>			<div class="cbox"><i>*Discount only applies to orders under $500 and/or with fewer than 10 recipients. Not valid with any other discount or on previous orders. All bulk items are non-discountable as you are already getting the sweetest deal.</i></div>
 	</div>
@@ -1167,13 +1158,15 @@ function sendProductClick(product, index, list, format, callback_func){
 							Gift Occasion					</h3>
     </div>
 	<p class="copy">
-					<a href="/categories/Holiday_cookie_gift_collection" style="">Holiday Cookies</a>
+					<a href="/categories/Graduation_Gifts" style="">Graduation Gifts</a>
 						<br>
-						<a href="/categories/Fall_Gifts_Collection" style="">Fall Cookies</a>
+						<a href="/categories/Spring_Collection" style="">Spring</a>
+						<br>
+						<a href="/categories/fathers-day" style="">Father's Day Gifts</a>
+						<br>
+						<a href="/categories/Appreciation-Gifts" style="">Appreciation Gifts</a>
 						<br>
 						<a href="/categories/birthday_cookie_gifts_baskets?p=occasion" style="">Birthday</a>
-						<br>
-						<a href="/categories/thank_you_gifts_baskets?p=occasion" style="">Special Thanks</a>
 			</p>
 </div>			<div class="link-list-with-header">
     <div class="link-list-header">
@@ -1181,9 +1174,7 @@ function sendProductClick(product, index, list, format, callback_func){
 							Shop By Product					</h3>
     </div>
 	<p class="copy">
-					<a href="/categories/holiday_candy" style="">Holiday Candy Gifts</a>
-						<br>
-						<a href="/categories/cookies?p=product" style="">Cookies &amp; Nibblers</a>
+					<a href="/categories/cookies?p=product" style="">Cookies &amp; Nibblers</a>
 						<br>
 						<a href="/categories/frosted_cookies?p=product" style="">Frosted Cookies</a>
 						<br>
@@ -1198,9 +1189,7 @@ function sendProductClick(product, index, list, format, callback_func){
 					</h3>
     </div>
 	<p class="copy">
-					<a href="/categories/Holiday_Preview?p=occasion" style="">Holiday Gifts</a>
-						<br>
-						<a href="/categories/personalize?p=product" style="">Custom Gifts</a>
+					<a href="/categories/personalize?p=product" style="">Custom Gifts</a>
 						<br>
 						<a href="/categories/thank_you_gifts_baskets?p=occasion" style="">Thank You Gifts</a>
 						<br>
@@ -1247,6 +1236,8 @@ function sendProductClick(product, index, list, format, callback_func){
 						<a href="/retail-product/" style="">Retail Products</a>
 						<br>
 						<a href="/employment/" style="">Employment</a>
+						<br>
+						<a href="/policy_faq" style="">Return Policy</a>
 			</p>
 </div>	</div>
 					</div>
@@ -1275,7 +1266,7 @@ function sendProductClick(product, index, list, format, callback_func){
 									<span>Confirm Email Address</span>&nbsp;
 								</div>
 								<div class="mfc-sign-global">
-									<input class="global-email" id="the-e-field" name="1212982327" value="Save 10% now! Join our email club!" placeholder="Email Address">
+									<input class="global-email" id="the-e-field" name="8121636996" value="Save 10% now! Join our email club!" placeholder="Email Address">
 									<button type="submit"><span class="glyphicon glyphicon-plus"></span></button>
 								</div>
 							</div>
@@ -1385,10 +1376,13 @@ function sendProductClick(product, index, list, format, callback_func){
 				<br>
 
 				<div class="row bottom-nav visible-xs support">
-					<div class="col-xs-6">
+					<div class="col-xs-5">
 						<a href="tel:1-800-266-5437">1-800-COOKIES</a>
 					</div>
-					<div class="col-xs-6">
+					<div class="col-xs-3">
+						<a href="/employment/">Jobs</a>
+					</div>
+					<div class="col-xs-4">
 						<a href="/contact/">Need Help?</a>
 					</div>
 				</div>
@@ -1397,7 +1391,7 @@ function sendProductClick(product, index, list, format, callback_func){
 					<ul class="nav navbar-nav navbar-left hidden-xs hidden-sm">
 						<li><a href="/privacy/">Privacy Policy <span class="sep"></span></a></li>
 						<li class="site-map"><a href="/site_map/">Site Map <span class="sep"></span></a></li>
-						<li><a>© Mrs. Fields Gifts, Inc. <span class="copy-date">2016</span></a></li>
+						<li><a>© Mrs. Fields Gifts, Inc. <span class="copy-date">2017</span></a></li>
 					</ul>
 				</div>
 			</div>
@@ -1415,25 +1409,31 @@ function sendProductClick(product, index, list, format, callback_func){
         </a>
 		<ul class="dropdown-menu">
 			<li class="menu-child menu-seasonal">
-				<a href="/categories/Holiday_cookie_gift_collection?p=seasonal">Holiday Cookies</a>
-			</li>
-			<li class="menu-child menu-seasonal">
-				<a href="/categories/Christmas_Gifts?p=seasonal">Christmas Cookie Gifts</a>
-			</li>
-			<li class="menu-child menu-seasonal">
-				<a href="/categories/Thanksgiving_treats?p=seasonal">Thanksgiving Treats</a>
-			</li>
-			<li class="menu-child menu-seasonal">
-				<a href="/categories/Fall_Gifts_Collection?p=seasonal">Fall Cookies</a>
-			</li>
-			<li class="menu-child menu-seasonal">
-				<a href="/categories/bakery-favorites?p=seasonal">Bakery Favorites</a>
-			</li>
-			<li class="menu-child menu-seasonal">
-				<a href="/create?p=seasonal">Create Your Own</a>
+				<a href="/categories/fathers-day?p=seasonal">Father's Day Gifts</a>
 			</li>
 			<li class="menu-child menu-seasonal">
 				<a href="/categories/thank_you_gifts_baskets?p=seasonal">Thank You Gifts</a>
+			</li>
+			<li class="menu-child menu-seasonal">
+				<a href="/categories/birthday_cookie_gifts_baskets?p=seasonal">Birthday Cookie Cakes &amp; Gift Baskets</a>
+			</li>
+			<li class="menu-child menu-seasonal">
+				<a href="/categories/red-white-cookies?p=seasonal">Red, White &amp; Cookies</a>
+			</li>
+			<li class="menu-child menu-seasonal">
+				<a href="/categories/Graduation_Gifts?p=seasonal">Graduation Gifts</a>
+			</li>
+			<li class="menu-child menu-seasonal">
+				<a href="/categories/Spring_Collection?p=seasonal">Spring Gifts</a>
+			</li>
+			<li class="menu-child menu-seasonal">
+				<a href="/categories/Giant_Cookie_cookie_cake?p=seasonal">Cookie Cakes</a>
+			</li>
+			<li class="menu-child menu-seasonal">
+				<a href="/categories/Congratulations?p=seasonal">Congratulations Cookie Gifts</a>
+			</li>
+			<li class="menu-child menu-seasonal">
+				<a href="/create?p=seasonal">Create Your Own</a>
 			</li>
 			<li class="menu-child menu-seasonal">
 				<a href="/categories/gourmet_gift_baskets?p=seasonal">Gourmet Gift Baskets</a>
@@ -1446,31 +1446,25 @@ function sendProductClick(product, index, list, format, callback_func){
         </a>
 		<ul class="dropdown-menu">
 			<li class="menu-child menu-occasion">
-				<a href="/categories/Holiday_cookie_gift_collection?p=occasion">Holiday Cookies</a>
-			</li>
-			<li class="menu-child menu-occasion">
-				<a href="/categories/Christmas_Gifts?p=occasion">Christmas Cookie Gifts</a>
-			</li>
-			<li class="menu-child menu-occasion">
-				<a href="/categories/Thanksgiving_treats?p=occasion">Thanksgiving Treats</a>
-			</li>
-			<li class="menu-child menu-occasion">
-				<a href="/categories/Fall_Gifts_Collection?p=occasion">Fall Cookies</a>
-			</li>
-			<li class="menu-child menu-occasion">
 				<a href="/categories/thank_you_gifts_baskets?p=occasion">Thank You Gifts</a>
 			</li>
 			<li class="menu-child menu-occasion">
 				<a href="/categories/birthday_cookie_gifts_baskets?p=occasion">Birthday Cookie Cakes &amp; Gift Baskets</a>
 			</li>
 			<li class="menu-child menu-occasion">
+				<a href="/categories/fathers-day?p=occasion">Father's Day Gifts</a>
+			</li>
+			<li class="menu-child menu-occasion">
+				<a href="/categories/Spring_Collection?p=occasion">Spring Gifts</a>
+			</li>
+			<li class="menu-child menu-occasion">
 				<a href="/categories/Graduation_Gifts?p=occasion">Graduation Gifts</a>
 			</li>
 			<li class="menu-child menu-occasion">
-				<a href="/categories/newborn_baby_gifts_baskets?p=occasion">Welcome Baby!</a>
+				<a href="/categories/Congratulations?p=occasion">Congratulations Cookie Gifts</a>
 			</li>
 			<li class="menu-child menu-occasion">
-				<a href="/categories/Back_To_School_Gifts?p=occasion">Back To School Gifts</a>
+				<a href="/categories/newborn_baby_gifts_baskets?p=occasion">Welcome Baby!</a>
 			</li>
 			<li class="menu-child menu-occasion">
 				<a href="/categories/College_Care_Packages?p=occasion">College Care Packages</a>
@@ -1482,22 +1476,13 @@ function sendProductClick(product, index, list, format, callback_func){
 				<a href="/categories/wedding-collection?p=occasion">Wedding Cookie Gifts</a>
 			</li>
 			<li class="menu-child menu-occasion">
-				<a href="/categories/love-romance?p=occasion">Love &amp; Romance</a>
-			</li>
-			<li class="menu-child menu-occasion">
-				<a href="/categories/Gifts_Mrs_Fields_Brownie_Cookies?p=occasion">Any Occasion Gifts</a>
-			</li>
-			<li class="menu-child menu-occasion">
-				<a href="/categories/housewarming-gifts?p=occasion">Housewarming Gift Baskets</a>
-			</li>
-			<li class="menu-child menu-occasion">
-				<a href="/categories/Congratulations?p=occasion">Congratulations Cookie Gifts</a>
-			</li>
-			<li class="menu-child menu-occasion">
 				<a href="/categories/get_well_soon_baskets_and_cookie_tins?p=occasion">Get Well Gift Baskets</a>
 			</li>
 			<li class="menu-child menu-occasion">
 				<a href="/categories/With_Sympathy?p=occasion">Sympathy Gifts</a>
+			</li>
+			<li class="menu-child menu-occasion">
+				<a href="/categories/Gifts_Mrs_Fields_Brownie_Cookies?p=occasion">Any Occasion Gifts</a>
 			</li>
 		</ul>
 	</li>
@@ -1522,44 +1507,25 @@ function sendProductClick(product, index, list, format, callback_func){
 				<a href="/categories/brownies?p=product">Brownies</a>
 			</li>
 			<li class="menu-child menu-product">
+				<a href="/categories/gift_tins?p=product">Gift Tins</a>
+			</li>
+			<li class="menu-child menu-product">
+				<a href="/categories/gourmet_gift_baskets?p=product">Gourmet Gift Baskets</a>
+			</li>
+			<li class="menu-child menu-product">
 				<a href="/categories/chocolate-chip-collection?p=product">Chocolate Chip Collection</a>
 			</li>
 			<li class="menu-child menu-product">
 				<a href="/gifts/Treat-of-the-month?p=product">Treat of the Month</a>
 			</li>
 			<li class="menu-child menu-product">
-				<a href="/pro-team/mlb/?p=product">Major League Baseball™ Cookies</a>
+				<a href="/pro-team/major-league-baseball/?p=product">Major League Baseball™ Cookies</a>
 			</li>
 			<li class="menu-child menu-product">
 				<a href="/nba/?p=product">National Basketball Association™</a>
 			</li>
 			<li class="menu-child menu-product">
 				<a href="/categories/Mrs-Fields-Bakeware?p=product">Mrs. Fields® Bakeware</a>
-			</li>
-		</ul>
-	</li>
-	<li class="menu-top dropdown menu-price">
-		<a href="#">
-            Shop By Price            <span class="sidr-toggle child"></span>
-        </a>
-		<ul class="dropdown-menu">
-			<li class="menu-child menu-price">
-				<a href="/by_price/less_than_$25.00?p=price">Under $25.00</a>
-			</li>
-			<li class="menu-child menu-price">
-				<a href="/by_price/from_$25.00/to_$35.00?p=price">$25.00 to $35.00</a>
-			</li>
-			<li class="menu-child menu-price">
-				<a href="/by_price/from_$35.00/to_$45.00?p=price">$35.00 to $45.00</a>
-			</li>
-			<li class="menu-child menu-price">
-				<a href="/by_price/from_$45.00/to_$60.00?p=price">$45.00 to $60.00</a>
-			</li>
-			<li class="menu-child menu-price">
-				<a href="/by_price/from_$60.00/to_$80.00?p=price">$60.00 to $80.00</a>
-			</li>
-			<li class="menu-child menu-price">
-				<a href="/by_price/$80.00_and_up?p=price">$80.00 and Up</a>
 			</li>
 		</ul>
 	</li>
@@ -1572,10 +1538,10 @@ function sendProductClick(product, index, list, format, callback_func){
 				<a href="/categories/business_gifts?p=Corporate">All Corporate &amp; Business Gifts</a>
 			</li>
 			<li class="menu-child menu-Corporate">
-				<a href="/categories/Corporate_Holiday_Gifts?p=Corporate">Corporate Holiday Gifts</a>
+				<a href="/categories/case-pack-savings?p=Corporate">Buy in Bulk &amp; Save!</a>
 			</li>
 			<li class="menu-child menu-Corporate">
-				<a href="/categories/case-pack-savings?p=Corporate">Buy in Bulk &amp; Save!</a>
+				<a href="/categories/corporate_thank_you_gifts?p=Corporate">Corporate Thank You Gifts</a>
 			</li>
 			<li class="menu-child menu-Corporate">
 				<a href="/categories/Nondenominational-Gifts?p=Corporate">Nondenominational Gifts</a>
@@ -1585,9 +1551,6 @@ function sendProductClick(product, index, list, format, callback_func){
 			</li>
 			<li class="menu-child menu-Corporate">
 				<a href="/categories/Logo-perfect-cookies?p=Corporate">Logo Cookies</a>
-			</li>
-			<li class="menu-child menu-Corporate">
-				<a href="/categories/thank_you_gifts_baskets?p=Corporate">Thank You Gifts</a>
 			</li>
 			<li class="menu-child menu-Corporate">
 				<a href="/business/request-quote?p=Corporate">Request a Quote</a>
