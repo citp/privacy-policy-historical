@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babajikathulluu.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222150602id_/http%3A//www.babajikathulluu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babajikathulluu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140425id_/http%3A//www.babajikathulluu.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Babaji ka thulluu
+# PRIVACY POLICY | Babajikathulluu.com
 
 At Babaji ka thulluu , we give utmost importance to the privacy of our users. This privacy policy lists the kind of personal information that we receive and collect on Babaji ka thulluu and the way we use it.
 
@@ -43,4 +43,4 @@ Make sure to check the privacy policies of these third party ad networks / serve
 
 You may disable cookies through your browser settings. If you want to know about the processes, kindly visit the website of your respective browser.
 
-If any user has any queries or suggestions about our privacy policy, kindly contact us at our e-mail address: allprjct@gmail.com
+If any user has any queries or suggestions about our privacy policy, kindly contact us at our e-mail address: saianshee@gmail.com
