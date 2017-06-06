@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math-only-math.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125165012id_/http%3A//www.math-only-math.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-only-math.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072506id_/http%3A//www.math-only-math.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Information | Use of Cookies and Web Beacons
 
