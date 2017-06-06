@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10bestpro.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127100811id_/http%3A//top10bestpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10bestpro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225731id_/http%3A//top10bestpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 * * *
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us here](http://top10bestpro.com/contact-us/).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us here](https://top10bestpro.com/contact-us/).
 
 At www.top10bestpro.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.top10bestpro.com and how it is used.
 
