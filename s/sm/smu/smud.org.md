@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228074615id_/https%3A//www.smud.org/en/about-this-site) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202122id_/https%3A//www.smud.org/en/about-this-site) for the most accurate reproduction.*
 
 # SMUD's Privacy Policy | SMUD.org
-
-__**NOTICE:** SMUD offices will be closed Monday, January 2, in observance of New Year's Day.   [Learn more.](https://web.archive.org/en/about-smud/news-media/news-releases/2016/2016-12-20-holiday-hours.htm)
 
 Your privacy is fundamental to SMUD. In this policy, we'll discuss how we collect, use, disclose, transfer, and store your information and other topics affecting your information. Please take some time to read about our privacy practices and [let us know](https://web.archive.org/en/about-smud/contact-us/) if you have any questions.
 
