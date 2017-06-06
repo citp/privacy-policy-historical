@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradewindsnews.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125173630id_/http%3A//www.tradewindsnews.com/mytw/faq) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradewindsnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034610id_/http%3A//www.tradewindsnews.com/mytw/faq) for the most accurate reproduction.*
 
 # TradeWinds
 
@@ -193,13 +193,13 @@ As a subscriber you will receive letters and emails from TradeWinds. The content
 TradeWinds reserves the right to make changes in the product as well as terms and conditions. Major changes will be notified in the paper and/or via email.
 
 **Login Details**  
-Login details are sent to the subscriber only, unless prior permission has been given for login details and passwords to forwarded to a trusted individual. Your login should be your email address. If you forget any of these details, please contact us via [My TradeWinds ](http://www.tradewindsnews.com/mytw/login/)or select “Forgot your password” on the login page. Otherwise, please contact your [nearest office ](http://www.tradewindsnews.com/contactus/)or [Customer Services](http://www.tradewindsnews.com/mytw/contact/).
+Login details are sent to the subscriber only, unless prior permission has been given for login details and passwords to forwarded to a trusted individual. Your login is your email address. If you forget any of these details, please contact us via [My TradeWinds ](http://www.tradewindsnews.com/mytw/login/)or select “Forgot your password” on the login page. Otherwise, please contact your [nearest office ](http://www.tradewindsnews.com/contactus/)or [Customer Services](http://www.tradewindsnews.com/mytw/contact/).
 
 **Number of Licences**  
 Please note that the number of licenses (or accesses) to [www.tradewindsnews.com](http://www.tradewindsnews.com/) is limited to the number of subscriptions on your account and can only be used on a single device at any one time.. Your username and password are personal to you and may not be shared by anyone else when you have a single user license.
 
-**Editorial content**  
-TradeWinds content is under strict copyright. Requests to reproduce any material should be addressed to the Editor-in-Chief at [news@tradewindsnews.com](mailto:news@tradewindsnews.com).
+**Copyright policy/Editorial content**  
+TradeWinds content is under strict copyright and TradeWinds holds exclusive rights to all material published in its channels. Any republication, redistribution or re-editing or other use of this material in any form, including by framing or similar means, or by electronic linking, is prohibited without the prior consent of TradeWinds. Requests to reproduce any material should be addressed to the Editor-in-Chief at [news@tradewindsnews.com](mailto:news@tradewindsnews.com).
 
 **VAT**  
 VAT may be charged according to local regulations. 25% VAT applies to digital subscriptions in Norway, and TradeWinds charges this to a portion of the subscription fee to cover the online content.
