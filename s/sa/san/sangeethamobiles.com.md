@@ -1,11 +1,26 @@
-> *The following text is extracted and transformed from the sangeethamobiles.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018122704id_/http%3A//www.sangeethamobiles.com/pages/Privacy-Policy/pgid-1119220.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sangeethamobiles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051553id_/http%3A//www.sangeethamobiles.com/Home/PrvPlc) for the most accurate reproduction.*
 
-# Privacy Policy
+# Sangeetha Mobiles : Pioneer then Leader Now
 
-Sangeetha Mobile will contact you periodically to inform you of your account status, orders, promotions and other information pertinent to your account. By signing up with Sangeetha Mobiles, you implicitly agree to receive and read these emails and promptly respond when necessary.
+We provide these privacy highlights for your convenience but we encourage you to review the full Sangeetha mobiles Private Limited, Bangalore, India. Collection, Use, Disclosure, and Security of Personal Information 
 
-Sangeetha Mobiles does not resell client or visitor information to third parties. The information you provide will be kept confidential and used only to support customer relationship with Sangeetha Mobiles. Agents or contractors of Sangeetha Mobiles who have access to your personal information and prospect information are required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Sangeetha Mobiles. Sangeetha Mobiles may enhance or merge your information collected at its site with data from third parties for purposes of marketing products or services to you.
+We collect personal information when you use our services or otherwise interact with us, including information you provide, such as contact information, billing & credit information, and resumes; information that is automatically collected, such as details about use of our services and our Web pages  and information from other sources, such as credit reports and mailing lists. 
 
-Sangeetha Mobiles will only disclose your personal information if required by law. Information regarding you (such as name, address and phone number) or your orders and the products you purchase will not be given or sold to any outside organization for any reason. Our advertisers will receive information, collected via cookies and codes stored in image URLs, for the purpose of identifying Sangeetha Mobiles and our clients, but this will never be used to identify you EXCEPT to the extent that the data will be correlated with your username for the purposes of calculating your advertising revenues. Your information may be shared with agents or contractors of Sangeetha Mobiles for the purpose of performing services for Sangeetha Mobiles. If provided a legal subpoena or search warrant by proper authorities, Sangeetha Mobiles will comply with such legal requests by providing the required information.
+We use personal information for various business purposes, such as to complete transactions and bill for products and services; respond to requests for service or assistance; create and improve products and services; suggest additional or different products or service; and protect our rights and property. 
 
-Sangeetha Mobiles will make reasonable efforts to secure all client information stored on our servers. Your signup information, and information used to conduct transactions, will be protected using a variety of security measures and in compliance with applicable laws. However, we make no representation or guarantee that your information will be impossible to retrieve by third parties. Any attempt to violate the privacy and security of data stored on Sangeetha Mobiles assets, or transmitted to or from the Sangeetha Mobiles server network, will be communicated to the affected client or clients immediately, and prosecuted to the fullest extent of the law.
+We do not sell, rent, or provide personal information to unaffiliated third-parties to market their products and services to you. We may disclose personal information to unaffiliated third-parties who complete transactions or perform services on our behalf and under certain other limited circumstances, subject to restrictions on the third-parties’ use of such information. We use a variety of physical, electronic, and procedural safeguards to protect personal information and we use reasonable procedures to erase or render it unreadable when we dispose of it. 
+
+**Access and Choice**  
+You may access and modify your contact information by visiting sangeethamobiles.com, visiting a Sangeetha mobile retail store, or by contacting Customer Service. If you are a Sangeetha customer and you manage your account online, you can change your marketing preferences by logging into your my Sangeetha Profile. 
+
+**Other Privacy Information**  
+We do not solicit children to purchase our services or products and our Web sites are not designed to attract children under the age of 13. We may use cookies, Web beacons, and similar technologies. Sangeetha follows the Best Practices Guidelines for Location-Based Services. 
+
+With your consent, we may provide location-based services or provide access to location information so third-parties may provide you such services. 
+
+When you install third-party applications on your device, you may give your consent for the third party to access certain information you have stored on your device or to access Sangeetha network information to facilitate the application’s functions. 
+
+**Policy Updates and Contact Information**  
+We may update this policy from time to time and you should refer to it often for the latest information and the effective date of any changes. If we intend to use or disclose personal information in a way that is materially different from that stated in this policy at the time it was collected, we will post notice of the change on our Web site’s home page for at least 10 days before we implement the change and give you an opportunity to opt-out of the proposed use. 
+
+If you have questions, comments, or concerns about this policy or about Sangeetha privacy practices, you may contact us through support@sangeethamobiles.com or using the other contact information provided in the full privacy policy. 
