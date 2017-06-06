@@ -1,80 +1,53 @@
-> *The following text is extracted and transformed from the unacademy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152259id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unacademy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184407id_/https%3A//unacademy.com/privacy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Unacademy - India's largest learning platform
 
-[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
+##### A. GENERAL
 
-**What information do we collect?**
+1.1 Unacademy is committed to the protection of personal information provided by the users to us. You agree that your use of Unacademy’s web platform implies your consent to the collection and use of your personal information (or your children's personal information in case the user is minor) in accordance with the terms of this Privacy Policy.
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+1.2 We at Unacademy take the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalized and valuable service.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+1.3 No user information is rented or sold to any third party. When a user uses the platform, Unacademy may collect users’ mobile phone number, login information from Facebook, Twitter and Google account and other personal information. A high standard of security is maintained by Unacademy for its users; however the transmission of information via the internet is not completely secure. So, whilst we will do our best to protect user information, particularly with respect to protection of personal data, we cannot ensure the security of user data transmitted to us via the internet or any other medium
 
-**What do we use your information for?**
+##### B. INFORMATION COLLECTED
 
-Any of the information we collect from you may be used in one of the following ways: 
+2.1 We collect personal information from you at registration and other times (for instance, when you register for the platform) such as your name, email address, gender etc.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+2.2 You are under no obligation to provide us with such information. However, if you choose to withhold requested information, you may not be able to use the platform and we may not be able to respond effectively to your query or provide you with certain services.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+##### C. DISCLOSURE OF PERSONAL INFORMATION
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+3.1 We do not disclose your information to any third parties other than Unacademy’s affiliates.
 
-• To process transactions
+"3.2 We also use information in aggregate form (so that no individual user is identified):  
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-• To send periodic emails
+(i) to build up marketing profiles;  
+(ii) to aid strategic development ;  
+(iii) to manage our relationship with advertisers and partners; and  
+(iv) to audit usage of the Application.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+3.3 Unacademy reserves the right to disclose personal information if required to do so by law or if we believe that it is necessary to do so to protect and defend the rights, property or personal safety of Unacademy, the platform, or its users.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+3.4. You agree that Unacademy may use personal information about you to improve its marketing and promotional efforts to analyze application usage, improve the application content and product offerings and for its business purposes.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+##### D. YOUR ACCEPTANCE OF THIS POLICY
 
-**How do we protect your information?**
+4.1 By using this platform, you consent to the collection and use of your information by Unacademy and to this Privacy Policy. If we change the Privacy Policy then we will post these changes on this page.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+4.2 Whilst we use all reasonable endeavours to protect your security in the manner described above, we consider that it is only appropriate to advise users that data transmission over the internet, the world wide web or any other type of network cannot always be guaranteed as completely secure and therefore that you use the Application at your own risk. And you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+##### E. YOUR RIGHTS
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+5.1 You have a legal right to a copy of any personal information about you held by us. You also have a right to correct any errors in that information. As mentioned above, you have a right to request that we cease to use your personal information for direct marketing purposes.
 
-**Do we use cookies?**
+##### F. COLLECTION OF INFORMATION BY THIRD PARTIES
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+6.1. The platform may contain links to other sites/application whose information practices may be different that of Unacademy. You should consult the other application’s privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+6.2 You shall refrain from any act likely to damage the privacy or reputation of other party or any other person by avoiding any libellous, provocative, malicious or threatening comment, message or text.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+6.3 By posting any content in the Application, you automatically grant to Unacademy a perpetual, royalty-free, irrevocable and unrestricted worldwide right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from and distribute the posted content or incorporate the posted content into any form, medium, or technology now known or later developed for any purpose, including advertising and promotion, and you automatically waive all "moral rights" with respect to the posted content.
 
-**Do we disclose any information to outside parties?**
-
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+If you have questions or concerns, feel free to email us or to correspond at[team@Unacademy.in](mailto:team@Unacademy.in)and we will attempt to address your issue.
