@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neuronation.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213014641id_/http%3A//www.neuronation.com/lp/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuronation.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183739id_/https%3A//www.neuronation.com/lp/data_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -190,7 +190,7 @@ Synaptikon will update NeuroNation's privacy rules from time to time to protect 
 
 ### **Accessibility of Privacy rules**
 
-The Synaptikon privacy policy is available as a PDF document on the website of NeuroNation and can be downloaded at any time or accessed electronically via: <http://www.neuronation.com/lp/data_privacy>
+The Synaptikon privacy policy is available as a PDF document on the website of NeuroNation and can be downloaded at any time or accessed electronically via: [http://www.neuronation.com/lp/data_privacy](https://www.neuronation.com/lp/data_privacy "http://www.neuronation.com/lp/data_privacy")
 
 To open this document, the Acrobat Reader from Adobe Systems Inc. is required, and can be obtained free of charge from the following address: <http://www.adobe.com/downloads/>.
 
