@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the testufo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063331id_/http%3A//www.blurbusters.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testufo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055356id_/https%3A//www.blurbusters.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blur Busters
+
+Share [__](http://twitter.com/intent/tweet?text=From%20@BlurBusters:%20Privacy%20Policy%20http://www.blurbusters.com/about/privacy/ "Share this on Twitter!")[__](http://www.facebook.com/sharer.php?u=http://www.blurbusters.com/about/privacy/&t=Privacy%20Policy "Share this on Facebook!")[__](http://reddit.com/submit?url=http://www.blurbusters.com/about/privacy/&title=Privacy%20Policy "Share this on reddit!")[__](https://plus.google.com/share?url=http://www.blurbusters.com/about/privacy/ "Share this on Google+!")
 
 _The friendly legal beagles have required us to post this standard privacy policy.  
 If you have any questions, please do not hesitate to ask squad@blurbusters.com._
