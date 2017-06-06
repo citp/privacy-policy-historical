@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slideplayer.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123035346id_/http%3A//slideplayer.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideplayer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070101id_/http%3A//slideplayer.com/support/privacy) for the most accurate reproduction.*
 
-# ⚡SlidePlayer - Upload and Share your PowerPoint presentations
+# SlidePlayer - Upload and Share your PowerPoint presentations
 
 We strongly respect your privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the SlidePlayer website. SlidePlayer provides this Privacy Notice to help you make an informed decision about whether to use or continue using SlidePlayer. SlidePlayer reserves the right to amend the privacy policy at any time.
 
