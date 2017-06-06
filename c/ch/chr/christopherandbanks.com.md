@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christopherandbanks.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125000405id_/http%3A//www.christopherandbanks.com/customer-service/privacy-and-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christopherandbanks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024343id_/http%3A//www.christopherandbanks.com/customer-service/privacy-and-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Christopher & Banks | cjbanks Privacy Policy
 
@@ -8,7 +8,7 @@ Thank you for visiting the Privacy Policy for the Christopher & Banks family of 
 
 We want you to know: (i) what information we gather; (ii) the steps we take to protect the information that you provide us; (iii) how we use that information; (iv) when we share it with others; and (v) that we periodically review and revise this Privacy Policy.
 
-**By doing business with us, including via our Website at[christopherandbanks.com](http://www.christopherandbanks.com/returnsexchange.html "Christopher & Banks® | cj banks® Missy, Petite and Women's Apparel")(the “Website”) or interacting with Christopher & Banks in the manner described in this Privacy Policy at any time after the Effective Date, you consent to this Privacy Policy.**
+**By doing business with us, including via our Website at[christopherandbanks.com](http://www.christopherandbanks.com/returnsexchange.html "Christopher & Banks® | cj banks® Missy, Petite and Women's Apparel") (the “Website”) or interacting with Christopher & Banks in the manner described in this Privacy Policy at any time after the Effective Date, you consent to this Privacy Policy.**
 
 Specifically, you:
 
@@ -65,7 +65,7 @@ As stated above, we and third parties may use your information to help us make t
 
 We may combine this information with Personal Information and use and share the combined information in the ways described in this Privacy Policy.
 
-Personal Information.. We may use your Personal Information in order to manage, maintain, and develop our operations, including for example:
+Personal Information. We may use your Personal Information in order to manage, maintain, and develop our operations, including for example:
 
   * to establish, maintain and manage our relationship with you so that we may provide you with the items that you have ordered; 
   * to enable you to register and access an account with us;
