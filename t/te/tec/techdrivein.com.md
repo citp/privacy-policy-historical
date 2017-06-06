@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techdrivein.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120053921id_/http%3A//www.techdrivein.com/p/tech-drive-in-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdrivein.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133240id_/http%3A//www.techdrivein.com/p/tech-drive-in-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
