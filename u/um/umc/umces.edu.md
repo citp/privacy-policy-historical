@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the umces.edu privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223161601id_/http%3A//www.umces.edu/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umces.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065707id_/http%3A//www.umces.edu/terms-use) for the most accurate reproduction.*
 
-# Terms of Use | The University of Maryland Center for Environmental Science
+# Terms of Use | UMCES
 
 **Collection of Personal Information**
 
 **Generally, the university does not automatically collect the identity of individual users of or visitors to official university web sites.** If you are asked to provide personal information on an official university web site, university policy provides that you should be notified of the following:
 
-  * The purpose for which the personal information is collected; 
-  * Any specific consequences for refusing to provide the information; 
-  * Your right to inspect, amend, or correct personal records, if any; 
-  * Whether the personal information is generally available for public inspection; and 
-  * Whether the personal information is made available or transferred to or shared with any entity. 
+  * The purpose for which the personal information is collected;
+  * Any specific consequences for refusing to provide the information;
+  * Your right to inspect, amend, or correct personal records, if any;
+  * Whether the personal information is generally available for public inspection; and
+  * Whether the personal information is made available or transferred to or shared with any entity.
 
 
 
@@ -42,4 +42,4 @@ Advances in technology, legal developments, and new university policies and prac
 
 Specific questions about the collection of personal information on specific official university web sites should be addressed to the person identified on that site.
 
-If you have any comments or questions about this privacy statement or complaints about official university web sites, please contact us at [info@umces.edu](mailto:info@umces.edu).
+If you have any comments or questions about this privacy statement or complaints about official university web sites, please contact us at **[info@umces.edu](mailto:info@umces.edu)**.
