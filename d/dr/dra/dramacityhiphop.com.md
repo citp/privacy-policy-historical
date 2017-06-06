@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dramacityhiphop.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005843id_/http%3A//dramacityhiphop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramacityhiphop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062957id_/http%3A//dramacityhiphop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy DRAMACITYHIPHOP
 
@@ -28,5 +28,3 @@ officials or private parties as we, in our sole discretion, believe necessary or
 
 DCITY also reserves the right to, but is not obligated to, refuse to disclose confidential sources or unpublished information we collect as part of our journalistic and/or newsgathering and reporting  
 under federal and/or state law. 
-
-mac1
