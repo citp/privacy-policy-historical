@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilenapps.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225042905id_/http%3A//www.mobilenapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilenapps.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193727id_/http%3A//www.mobilenapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Mobile & Apps
 
