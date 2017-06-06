@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinelayer.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203022925id_/https%3A//www.marinelayer.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinelayer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175431id_/https%3A//www.marinelayer.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Marine Layer
 
@@ -10,7 +10,7 @@ Marine Layer will never rent or sell your e-mail address. We do not share credit
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-We use cookies to monitor the navigational patterns our customers take on our site. We also place advertising cookies to provide you with enhanced online display advertising tailored to your interests. If you do not want to receive targeted ads, you can visit this page to opt out of AdRoll’s targeted advertising.
+We use cookies to monitor the navigational patterns our customers take on our site. We also place advertising cookies to provide you with enhanced online display advertising on facebook tailored to your interests. To learn more please visit: [Facebook Ads Preferences](https://www.facebook.com/settings?tab=ads "Facebook ads preferences").
 
 We may make your name and postal address available to other direct marketing companies who may have offers of interest to you. If do not wish to receive such mailings, or if you would like to opt out of Marine Layer’s e-mails or catalogs, please visit [www.marinelayer.com/unsub](https://www.marinelayer.com/pages/unsubscribe).
 
