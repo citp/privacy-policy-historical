@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the gopocalypse.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122132703id_/http%3A//www.gopocalypse.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopocalypse.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091626id_/http%3A//gopocalypse.org/privacy) for the most accurate reproduction.*
 
 # Privacy – GOPocalypse
 
 This privacy policy discloses the privacy practices for GOPocalypse.org. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.  
-What choices are available to you regarding the use of your data.  
-The security procedures in place to protect the misuse of your information.  
-How you can correct any inaccuracies in the information.
+•  What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.  
+•  What choices are available to you regarding the use of your data.  
+•  The security procedures in place to protect the misuse of your information.  
+•  How you can correct any inaccuracies in the information.
 
 **Information Collection, Use and Sharing**
 
@@ -21,10 +21,10 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-• See what data we have about you, if any.  
-• Change/correct any data we have about you.  
-• Have us delete any data we have about you.  
-• Express any concern you have about our use of your data.
+•  See what data we have about you, if any.  
+•  Change/correct any data we have about you.  
+•  Have us delete any data we have about you.  
+•  Express any concern you have about our use of your data.
 
 **Security**
 
@@ -52,4 +52,6 @@ From time-to-time our site requests information via surveys or contests. Partici
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page. This privacy policy was created April 16, 2016.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately clicking here.
+If you feel that we are not abiding by this privacy policy, you should contact us immediately by clicking **[here.](http://gopocalypse.org/contact/)**
+
+* * *
