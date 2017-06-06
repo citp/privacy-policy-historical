@@ -1,135 +1,102 @@
-> *The following text is extracted and transformed from the avfc.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618172121id_/http%3A//www.avfc.co.uk/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avfc.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203322id_/https%3A//www.avfc.co.uk/club/legal/privacy-policy) for the most accurate reproduction.*
 
-# Aston Villa | Privacy | Privacy Statement
+# Privacy Policy
 
-COOKIE AND PRIVACY POLICY
+Aston Villa Football Club Limited ("We") are committed to protecting and respecting your privacy.
 
-  
-This Privacy Policy explains how Perform Media Services Limited ("Perform") together with other companies within the Perform Group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006) (the "Perform Group") and Aston Villa Football Club Limited ("Aston Villa" use information we collect about you and the choices you can make about the way your information is collected and used. 
+This policy (together with our Terms of Use and any other documents referred to on it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be used by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-  
-Unless separately defined herein, the defined terms in this Privacy Policy have the same meaning as in the Terms and Conditions which can be found at <http://www.avfc.co.uk/>.  
+For the purpose of the Data Protection Act 1998 (the  **Act** ), the data controller is Aston Villa Football Club Limited, Villa Park, Birmingham, B6 6HE.
+
+### Information we may collect from you
+
+We may collect and process the following information about you:
+
+  * Information that you provide by filling in forms on our site tv.avfc.co.uk (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion or when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our site and of the fulfilment of your orders.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. In order to enhance your future visits through personalisation, details of the pages you've viewed on our site and the content you've accessed on our site, may also be recorded.
 
 
-By your use of the Website you consent to the terms and conditions of this Privacy Policy.
 
-  
-Additionally, the Website contains links to websites that are not operated by Perform Group. These third parties may collect data from you and share some of that data with us. Perform Group are careful when choosing their partners, sponsors, and affiliates, but Perform Group or Aston Villaare not responsible for any misuse of personal information by such third parties. We recommend that you view the Privacy Policy posted on each Website that you use to confirm that the companies' policies are acceptable to you.
+### IP addresses
 
-  
-1\. PERSONALLY IDENTIFIABLE INFORMATION AND HOW IT IS USED
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-  
-When using the Services, we may ask you to provide all or some of the following information: your name, your address, your email address, banking details, your telephone number, and your age ("Personal Information"). We may also ask you to provide your thoughts or answer some questions about your favourite events, personalities, and other subjects of interest to sports fans. 
+### Cookies
 
-  
-In order to purchase any live events viewable on this Website, participate in any contest or message feature, download any content, take part in any other interactive feature of the Websites, or receive information from Perform Group, such as newsletters or email regarding upcoming the Services you must register and provide accurate information about yourself to the Websites, as the Services may not work properly without such information.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
-  
-We may use the Personal Information you provide to us to do some or all of the following: 
+### By continuing to browse the site, you are agreeing to our use of cookies.
 
-  
-\- provide you with personalised visits to our site;  
-\- recommend goods, services or promotions which may be of interest to you but only where you have consented to us doing so from ourselves, Aston Villa and their official partners, and other carefully selected parties;  
-\- develop our offers and the layout of our site to ensure that our services are as useful and enjoyable as possible;  
-\- contact you in order to conduct market research; and  
-\- send out email alerts you may have signed up for.
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
 
-  
-We will not, however, sell or lease your Personal Information to third parties not associated with Perform Group, Aston Villa, their partners, sponsors, and affiliates.
+We use the following cookies:
 
-  
-If you do not wish to receive marketing and promotional communications from us, Aston Villa or our partners, sponsors, and affiliates, you can choose to opt-out when providing your Personal Information to Perform Group. You can also opt-out by updating your user profile on the Website. 
+  * **Strictly necessary cookies.**  These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+  * **Analytical/performance cookies.**  They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+  * **Functionality cookies.**  These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * **Targeting cookies.**  These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
-  
-Please note: If you do decide to opt-out of receiving information, Perform Group or Aston Villa will be unable to keep you informed of any new products, services, or special offers that may interest you and will have an impact on our ability to inform you of any live events or important information as part of any subscription service you may have.
 
-  
-2\. SECURITY
 
-  
-We understand that the security of your Personal Information is important to you. When handling Personal Information, security is paramount and we have in place a security policy which ensures that Personal Information is adequately protected. Your Personal Information is password protected, and any Personal Information you provide to Perform Group is protected from unauthorised disclosure by reasonable technological measures. Personal Information provided to Perform Group is not, however, transmitted via SSL encryption technology. We recommend that you do not divulge your password to anyone. 
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
-  
-3\. AGGREGATED INFORMATION  
-To evaluate the Websites and ensure that we are providing Content and Services of interest to you, we may collect and store statistical information regarding how you use the Websites, the name of your internet service provider, any websites that referred you to the Websites, and the time and date you view the Websites. We may also use Personal Information to develop demographic information regarding Website users. Such aggregated information will not identify you personally. We may share this aggregated, statistical information with our partners, sponsors, affiliates, and other third parties.
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
 
-  
-We may on occasion combine information we receive online with other records to enhance our ability to notify you of our products and services that we think will be of interest to you. If you do not want to receive these notifications please send an e-mail to [customerservices@performgroup.com](mailto:customerservices@performgroup.com) letting us know.
+### Where we store your personal data
 
-  
-4\. COOKIES
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-  
-We use cookies in order to ensure the website functions properly and to improve your user experience. Cookies are usually a string of numbers and/or letters that a website transfers to your hard drive. The cookies enable the website to "remember" you, either for the duration of your visit (session cookies) or for repeat visits (persistent cookies). We recommend that you visit the websites [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.cookiecentral.com](http://www.cookiecentral.com/) if you would like in-depth information about cookies.
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-  
-On this website, we use the following types of cookies:
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-  
-Strictly necessary cookies - These cookies are essential to enable you to navigate around the site securely and to provide you with services you have specifically requested. For instance, they help ensure that payments are processed securely.
+### Uses made of the information
 
-  
-Functionality cookies - These cookies enhance the functionality of the website by storing your preferences. For instance, they can remember your name and location, if you provide this information.
+We use information held about you in the following ways:
 
-  
-Performance cookies - These cookies improve the performance of the website. For instance, they help pages load quicker.
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
 
-  
-Online behavioural cookies - These cookies store information about your behaviour online, such as your browsing history. For instance, they help us tailor the advertising we show to you to your interests.
 
-  
-Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. You are not obliged to accept cookies and you can adjust your browser's setting to prevent it from accepting cookies on your computer - go to [www.cookiecentral.com](http://www.cookiecentral.com/) for instructions on how to disable cookies. However, you may not be able to take full advantage of our site or use certain functions if you disable cookies. 
 
-  
-If you register with us or if you continue to use our site, you agree to our use of cookies.
+Only where you tell us that you are happy for us to do so (by ticking the relevant box on the form on which we collect your data) we will contact you for marketing purposes; for example with special offers, new products, promotions and other Club related news. If you do not wish us to contact you for these purposes, please un-tick the relevant box.
 
-  
-5\. DISCLOSURE FOR LAW ENFORCEMENT PURPOSES
+Only where you tell us that you are happy for third parties to contact you directly for marketing purposes (by ticking the relevant box on the form on which we collect your data) we will pass your details to third parties for these purposes.Â  If you do not wish us to pass your data to third parties for marketing purposes, please un-tick the relevant box.
 
-  
-Perform Group reserve the right to access and disclose Personal Information to comply with applicable laws and lawful government requests, to operate its systems properly, or to protect itself or others. Perform Group may attempt to obtain the prior consent of the individual before disclosing the Personal Information, but it has no obligation to do so.
+We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in B6). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
-  
-6\. PARENTS & GUARDIANS
+### Disclosure of your information
 
-  
-This Website is a general audience Website. We do not knowingly collect and/or share Personal Information from children under the age of thirteen on the Website. However, your child cannot use some of the interactive features of the Website without providing Personal Information. We therefore recommend using the Website with your child if he or she is interested in participating in an interactive feature of the Website.
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-  
-If, in the future, Perform Group actively collects Personal Information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998
+We may disclose your personal information to third parties:
 
-  
-7\. ACCESS TO YOUR INFORMATION
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Aston Villa Football Club Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use or Terms & Conditions of Supply and other agreements; or to protect the rights, property, or safety of Aston Villa Football Club Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-  
-Data Protection law gives you various rights including the right to access the Personal Information that is held about you.
 
-  
-Perform Group as data controller, are required to provide you with copies of all the Personal Information we hold about you, on payment of a nominal administration charge of &pound;10. If you wish to access the Personal Information held by us, you should therefore contact us at [customerservices@performgroup.com](mailto:customerservices@performgroup.com).
 
-  
-You can also request at any time that the Personal Information we hold about you is updated or corrected.
+### Your rights
 
-  
-8\. YOUR ACCEPTANCE OF THESE TERMS
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by unchecking the relevant boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [customerrecords@avfc.co.uk](mailto:customerrecords@avfc.co.uk).
 
-  
-If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose Personal Information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.Â  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.Â  Please check these policies before you submit any personal data to these websites.
 
-  
-If you have any questions or comments about this Privacy Policy please feel free to contact us at [customerservices@performgroup.com](mailto:customerservices@performgroup.com)
+### Access to information
 
-  
-Registered Office:  
-Perform Media Services Limited  
-Sussex House  
-Plane Tree Crescent  
-Feltham TW13 7HE
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-  
-Tel: (0)20 3372 0600
+### Changes to our privacy policy
 
-  
-Registered No: 03426471  
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
+### Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Data Protection Officer, Legal Department, Aston Villa Football Club, Villa Park, Birmingham B6 6HE, United Kingdom.
