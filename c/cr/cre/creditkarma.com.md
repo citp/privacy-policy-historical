@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114181057id_/https%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172852id_/https%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
 
 # Credit Karma Privacy Policy | Credit Karma
 
