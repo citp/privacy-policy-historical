@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tervis.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121052926id_/http%3A//www.tervis.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tervis.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151650id_/http%3A//www.tervis.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Tervis Official Store | Tervis Official Store
+# Privacy Policy | Tervis Official Store
 
 Tervis wants to make your online experience pleasant, convenient and safe. "Personal information" is information about an identifiable individual, which includes name, address, e-mail address, telephone number, and other information that is identifiable to you, as more particularly defined by privacy legislation. By using our Website, or by providing us with your personal information at our stores, in our promotions and in other ways when you interact with us, you signify your agreement and acceptance to the conditions stated in our Privacy Policy and our Terms of Use. This Privacy Policy does not apply to information provided to us in connection with employment opportunities.
 
