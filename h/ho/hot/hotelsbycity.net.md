@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelsbycity.net privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024125637id_/http%3A//hotelsbycity.net/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsbycity.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154332id_/http%3A//hotelsbycity.net/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HotelsByCity.net
 
@@ -22,7 +22,7 @@ Legal Reasons: should the law require us to share information, we will be bound 
 
 Whether you continue to book your rooms with us or not, your information is still protected. Once you are part of the HoteslByCity.com family, you are always part of the family. Not that we are a part of a mafia...
 
-Please [contact us](http://hotelsbycity.net/help/contact/) should you have any concerns or questions.
+Please [contact us](http://www.hotelsbycity.net/help/contact/) should you have any concerns or questions.
 
 Kind regards,  
  **The staff at HotelsByCity.com**
