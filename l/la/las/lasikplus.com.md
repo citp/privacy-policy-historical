@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasikplus.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122222310id_/http%3A//www.lasikplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasikplus.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230503id_/https%3A//www.lasikplus.com/privacy-policy) for the most accurate reproduction.*
 
 # LasikPlus Website Privacy Policy
 
@@ -27,3 +27,5 @@ We do not intend to collect personally identifiable information from anyone unde
 ## Free Download from Lasik _Plus_
 
 Life-changing results from real Lasik _Plus_ patients.
+
+[ ](https://home-c17.incontact.com/inContact/ChatClient/ChatClientPatron.aspx?poc=6b169ef3-7e38-43a3-aa17-2fda4cdcb405&bu=4595928)
