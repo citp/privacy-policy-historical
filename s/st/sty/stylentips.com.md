@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stylentips.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206215655id_/http%3A//www.stylentips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylentips.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134806id_/http%3A//www.stylentips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Style N Tips
-
-[__  Home](http://www.stylentips.com/) > Privacy Policy
 
 The privacy of our visitors to Stylentips.com is important to us.
 
