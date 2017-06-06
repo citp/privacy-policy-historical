@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129184130id_/http%3A//www.price2spy.com/en/privacy-refund-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094116id_/http%3A//www.price2spy.com/en/privacy-refund-policy.html) for the most accurate reproduction.*
 
 # Privacy / refund policy - Price2Spy - Competitor price monitoring
 
