@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adzmedia.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319015246id_/https%3A//www.adzmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzmedia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171719id_/https%3A//www.adzmedia.com/privacy.html) for the most accurate reproduction.*
 
-# Mobile Ad Network, Mobile Advertising Company, Global RTB, Global DSP - AdzMedia.com
-
-### Privacy
+# Adzmedia
 
 ## Collection of Data
 
