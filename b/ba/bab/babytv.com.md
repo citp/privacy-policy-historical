@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babytv.com privacy policy that was archived on 2015-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150725142653id_/https%3A//babytv.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babytv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203727id_/https%3A//babytv.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # BabyTV - Privacy Policy
 
