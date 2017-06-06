@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the silverdoctors.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116154040id_/http%3A//www.silverdoctors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverdoctors.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083429id_/http%3A//www.silverdoctors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Silver Doctors
 
 **Privacy Policy**  
-Last modified: July 27, 2015  
+Last modified: February 9, 2017  
 **Our Privacy Policy explains:**  
 • What information we collect and why we collect it.  
 • How we use that information.  
@@ -96,3 +96,14 @@ In compliance with Children’s Online Privacy Protection Act (“COPPA”), thi
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by email at silverdoctors @ gmail . com
+
+  7. **Weekly Giveaway**
+
+
+  * Participate must enter real email address to be registered for drawing.
+  * Weekly winner will be emailed from a Doc Investments LLC staff member. The selected winner must reply to this email within 48 hours or Doc Investments LLC will draw for a new weekly winner.
+  * By participating, you are agreeing that Doc Investments LLC can post your first name, last initial and shipping state on their various digital assets (website, email, etc).
+  * By participating, you are giving SilverDoctors.com (Doc Investments LLC) the right to send you various marketing emails. You are allowed to “opt-out” of these emails at anytime. However, doing so will remove you from the email database and remove you from the chance to win any giveaway prizes.
+  * Must be 18 years or older to participate.
+
+
