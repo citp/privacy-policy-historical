@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workato.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307194828id_/https%3A//www.workato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workato.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193935id_/https%3A//www.workato.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Workato
+# Privacy Policy | Workato
 
 At Workato, Inc., a Delaware corporation (“Workato”, “Company”, “us” or “we”), we respect and protect the privacy of visitors to our website, www.workato.com and the other websites under the workato.com domain (collectively, the “Sites”), and our customers who use our SaaS application integration platform, tools, mobile applications and related services (together with the Sites, the “Service”). This Privacy Policy (“Policy”) explains how we collect, use, disclose, and protect visitors’ and customers’ (“Users”) information as part of the Service. Any discussion of your use of the Service in this Policy is meant to include your visits and other interactions with the Sites and Services, whether or not you are a user of Workato’s SaaS application integration platform. 
 
@@ -116,7 +116,7 @@ Workato does not knowingly collect any Personal Information from children under 
 
 ## 13\. Your California Privacy Rights
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: privacy@workato.com or Workato Inc., 1601 S. De Anza Blvd, Suite 270, Cupertino, California, 95014, Attn: Legal. 
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: privacy@workato.com or Workato Inc., 1601 S. De Anza Blvd, Suite 165, Cupertino, California, 95014, Attn: Legal. 
 
 ## 14\. Changes to the Privacy Policy
 
@@ -131,5 +131,5 @@ Workato may assign or transfer this Policy, and your User account and related in
 If you have questions regarding this Policy or about the privacy practices of Workato, please contact us by email at privacy@workato.com, or at: 
 
 Workato, Inc.   
-1601 S. De Anza Blvd, Suite 270   
+1601 S. De Anza Blvd, Suite 165   
 Cupertino, CA 95014 
