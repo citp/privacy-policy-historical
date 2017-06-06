@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125073309id_/http%3A//www.mediapost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164938id_/http%3A//www.mediapost.com/privacy) for the most accurate reproduction.*
 
 # MediaPost – News and Conferences for Media, Marketing and Online Advertising Professionals
 
@@ -14,19 +14,18 @@ Shipping
 
 ## Personal/Company Information
 
-To operate our services, MediaPost Communications asks for personal and company information in the member's registration form, such as your name, title, your company name, company address, and other company only identifying information. We do this, for example, when you register your company (or yourself) as a [MediaPost](http://www.mediapost.com/) Member on our site. We use this individual company information to deliver member only newsletters, and other service-related purposes only your company contact information is made available to other members in the member directory.
+To operate our services, MediaPost Communications asks for personal and company information in the member's registration form, such as your name, title, your company name, company address, and other company only identifying information. We do this, for example, when you register your company (or yourself) as a [MediaPost](https://www.mediapost.com/) Member on our site. We use this individual company information to deliver member only newsletters, and other service-related purposes only your company contact information is made available to other members in the member directory.
 
 MediaPost Communications may also automatically collect information such as your web browser type or IP address. This information is used to ensure our website displays properly on most commonly used browsers. This information is also used to help identify you on the service and to gather broad demographic information.  
 
 
 ## Updating or Opting Out
 
-If you want to change or update your registration information please visit [www.mediapost.com](http://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, please send an email to [remove@mediapost.com](mailto:remove@mediapost.com) or call us at 212-204-2000. We will delete you from our database.   
-\--->
+If you want to change or update your registration information please visit [www.mediapost.com](https://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, please send an email to [remove@mediapost.com](mailto:remove@mediapost.com) or call us at 212-204-2000. We will delete you from our database.  
 
 ## Updating or Opting Out
 
-If you want to change or update your registration information please visit [www.mediapost.com](http://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, choose the 'End your MediaPost Membership' option at the bottom of your profile page and click 'Save'. You will be automatically deleted from our database. If you wish to remain a MediaPost member but still want to opt-out of all email communications from us, choose the 'No Newsletters or Email Notices' option instead. If you have any questions regarding our opt-out policies, send an email to [remove@mediapost.com](mailto:remove@mediapost.com) or call us at 212-204-2000.  
+If you want to change or update your registration information please visit [www.mediapost.com](https://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, choose the 'End your MediaPost Membership' option at the bottom of your profile page and click 'Save'. You will be automatically deleted from our database. If you wish to remain a MediaPost member but still want to opt-out of all email communications from us, choose the 'No Newsletters or Email Notices' option instead. If you have any questions regarding our opt-out policies, send an email to [remove@mediapost.com](mailto:remove@mediapost.com) or call us at 212-204-2000.  
 
 
 ## Cookies
@@ -43,7 +42,7 @@ Our site contains links to other sites outside our service. These other sites ma
 
 We have taken careful measures to secure your information. This website has security measures in place to protect the loss, misuse and alteration of the information under our control. Our registration areas and Members' areas have SSL protection. Verisign has supplied us with a digital certificate for our website. All personal and company data referring to account applications and registration is kept in strictest confidence and security.
 
-Your individual [MediaPost](http://www.mediapost.com/) user information is password protected. We recommend that you do not share your password with anyone. While MediaPost Communications strives to protect your individual information, we cannot guarantee the security of any information that you transmit to MediaPost Communications and you are solely responsible for maintaining the secrecy of any passwords or other account information.
+Your individual [MediaPost](https://www.mediapost.com/) user information is password protected. We recommend that you do not share your password with anyone. While MediaPost Communications strives to protect your individual information, we cannot guarantee the security of any information that you transmit to MediaPost Communications and you are solely responsible for maintaining the secrecy of any passwords or other account information.
 
 MediaPost Communications will NOT disclose any personal information except as described above, as required by law or to protect our interests. MediaPost Communications does disclose user information, including demographic data, in an aggregated form that does not identify individual users in order to describe its services to prospective partners, advertisers and other third parties and for other lawful purposes.
 
