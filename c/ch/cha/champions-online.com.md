@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the champions-online.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127065522id_/http%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champions-online.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175820id_/http%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Arc Games
 
-[ ](https://privacy.truste.com/privacy-seal/Perfect%20World%20Entertainment%20Inc/validation?rid=0cf009c3-1b3f-4032-8f7e-723783d146ab "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=0cf009c3-1b3f-4032-8f7e-723783d146ab "TRUSTe Privacy Certification")
 
 Date of Last Revision: September 22, 2016
 
