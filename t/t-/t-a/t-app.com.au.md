@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-app.com.au privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020092211id_/https%3A//t-app.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-app.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175406id_/https%3A//t-app.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
