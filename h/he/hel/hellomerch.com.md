@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellomerch.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203204015id_/http%3A//hellomerch.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellomerch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174658id_/http%3A//hellomerch.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Hello Merch
 
@@ -10,7 +10,7 @@ When you purchase something from our store, as part of the buying and selling pr
 
 _How do you get my consent?_ When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
 
-_How do I withdraw my consent?_ If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [contact@hellomerch.com](https://web.archive.org/web/20160203204015id_/http%3A//hellomerch.com/pages/contact@hellomerch.com) or mailing us at: Hello Merch 7310 W. Roosevelt St, Ste 32, Phoenix, Arizona 85043
+_How do I withdraw my consent?_ If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [contact@hellomerch.com](https://web.archive.org/web/20170606174658id_/http%3A//hellomerch.com/pages/contact@hellomerch.com) or mailing us at: Hello Merch 7310 W. Roosevelt St, Ste 32, Phoenix, Arizona 85043
 
 ### SECTION 3 - DISCLOSURE
 
