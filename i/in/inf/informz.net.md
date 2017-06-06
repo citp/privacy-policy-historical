@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informz.net privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323112752id_/http%3A//www.informz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informz.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105138id_/http%3A//www.informz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Informz
 
