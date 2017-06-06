@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the herdprotect.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015649id_/http%3A//www.herdprotect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herdprotect.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164836id_/http%3A//www.herdprotect.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - herdProtect
 
-This Policy describes the information that is collected in relation to your use of the Site (www.herdProtect.com) and the Services, explains how Data is used and instances when Reason Software Company Inc., collectively referred to as "herdProtect or Reason Software Company", shares or permits collection of the Data by the Company, as well as affiliates, partners and advertisers (hereinafter — "Partners") of herdProtect and the Company or state authorities. The Policy also provides explanation of the instruments you may use in order to limit the amount of Data collected by herdProtect, the Company and/or Partners.
+This Policy describes the information that is collected in relation to your use of the Site (www.herdProtect.com) and the Services, explains how Data is used and instances, collectively referred to as "herdProtect", shares or permits collection of the Data by the Company, as well as affiliates, partners and advertisers (hereinafter — "Partners") of herdProtect and the Company or state authorities. The Policy also provides explanation of the instruments you may use in order to limit the amount of Data collected by herdProtect, the Company and/or Partners.
 
 ### Applicability and Acceptance
 
@@ -41,6 +41,6 @@ We may update this policy at any time by posting additions or modifications on t
 
 ### Questions and Suggestions
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact the Privacy Program Office of Reason Software Company Inc. by emailing privacy@herdprotect.com, by calling (646) 664-1038, or by sending a letter to Reason Software Company Inc., 228 Park Ave S #74122, New York, NY 10003-1502.
+If you have questions or concerns regarding this Privacy Policy, you should first contact the Privacy Program Office by emailing privacy@herdprotect.com.
 
 Last modified on July 22, 2013.
