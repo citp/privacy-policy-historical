@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igxe.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116181621id_/http%3A//www.igxe.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igxe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054252id_/http%3A//www.igxe.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy And Return Policy
 
 IGXE and its affiliated companies (collectively, the “Company”) respect your privacy rights and recognize the importance of protecting the Personal Information (as defined below) provided by you to us. This Privacy Policy describes how the Company collects, stores, and uses the Personal Information you provide to us through the Company's web sites and through telephone or e-mail communications you may have with us. This Privacy Policy also describes the choices available to you regarding the Company's use of the Personal Information you provide to us, and the actions you can take to access this information and request that the Company correct or delete it. 
 
@@ -18,7 +18,8 @@ when you register with us on this site, you first complete the on-line registrat
 From time-to-time, the Company may provide you the opportunity to participate in promotions, contests or sweepstakes on its web site(s). Such promotions, contests and sweepstakes will also be governed by the rules and regulations posted with such promotions, contests and sweepstakes. If you participate, you will be required to register with the Company, which will require you to provide certain Personal Information. Participation in these promotions, contests and sweepstakes is completely voluntary and you therefore have a choice whether or not to register and provide your Personal Information. The requested information typically includes contact information, such as name, shipping address, e-mail address, and telephone number. We will use this information to notify winners and award prizes. Additionally, during your registration process you may opt-in to receiving additional related communications from us. If you decide to opt-in, we will use the information provided to send you communications described throughout this Privacy Policy. 
 
 **Newsletters**  
-If you wish to subscribe to the Company's newsletter(s), we will use your name and e-mail address to send the newsletters to you.  
+If you wish to subscribe to the Company's newsletter(s), we will use your name and e-mail address to send the newsletters to you.
+
 **Other Information Collected**   
 Some information may be collected automatically every time you visit the Company's web sites, such as cookies and computer information. In addition, information may be collected from other independent, third-party sources. We also collect information about which pages you visit within this site. This site visitation data is identified only by a unique URL. 
 
@@ -26,7 +27,8 @@ Some information may be collected automatically every time you visit the Company
 The Company uses both session ID cookies and persistent cookies as part of its interaction with your browser. A cookie is an alphanumeric identifier (a file) that the Company's web sites transfer to your computer's hard drive through a web browser to enable its systems to recognize your browser for record-keeping purposes. A session ID cookie expires when you close your browser, while a persistent cookie remains on your hard drive for an extended period of time.   
 We use session ID cookies to make it easier for you to navigate the our web sites. We use persistent cookies to identify and track which sections of its web site you most often visit. We also use persistent cookies in areas of its web site where you must register, and where you are able to customize the information you see, so that you don't have to enter your preferences more than once.   
 By configuring the options in your browser, you may control how cookies are processed by your system. However, if you decline the use of cookies you may not be able to use certain features on this site and you may be required to reenter the information required to complete an order during new or interrupted browser sessions.   
-Some of the Company's business partners (e.g., advertisers) use cookies on the site. We have no access to or control over these cookies (see "Third Party Advertising" and "Third Party Cookies" below). Accordingly, this Privacy Policy covers the use of cookies by the Company only and does not cover the use of cookies by any advertisers.   
+Some of the Company's business partners (e.g., advertisers) use cookies on the site. We have no access to or control over these cookies (see "Third Party Advertising" and "Third Party Cookies" below). Accordingly, this Privacy Policy covers the use of cookies by the Company only and does not cover the use of cookies by any advertisers. 
+
 **Log Files**  
 As is true of most web sites, the Company gathers certain information automatically and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet services provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. The Company uses this information to analyze trends, to screen for fraud, to administer the Company's sites, to track users' movements around the web sites and to gather demographic information about the Company's user base as a whole. 
 
@@ -78,6 +80,21 @@ Agencies with which the Company cooperates are: state and local police authoriti
 
 **International Transfer  
 **Personal Information collected by the Company may be stored and processed in the United States or any other country in which the Company or its affiliates, subsidiaries or agents maintain facilities, and by using the Company's web sites, you consent to any such transfer of Personal Information outside of your country.
+
+**Return Policy**  
+All products sold by IGXE are delivered digitally and therefore are intangible. Due to the nature of intangible goods we cannot accept any returns.
+
+**Refund Policy**  
+Refund may be offered if the following conditions are met:  
+1.The product is out of stock and usersdo not want to wait any more.  
+2.The order is partial delivered, users can request a partial refund for the left.  
+3.Users do not want to keep the order any morefor any reason if the order is not delivered.  
+4.Orderswere wrong delivered by us.  
+Non-matching banking information is provided. The online security checking system protects our users from online shopping fraud. Incorrect information will result in your orders failure and refusal of further processing.
+
+**Please note: NO refunds will be offered if the users did not get the product because of incorrect delivery information provided by them.**  
+Users should send email to fastsupport@igxe.com or contact our 24/7 Live Chat with theirrefund requirement.  
+The refund time might vary to the different payments, PS: PayPal money will be back in 1 to 3 business days.
 
 **If you have questions, suggestions or concerns regarding our products or services please contact us at:**
 
