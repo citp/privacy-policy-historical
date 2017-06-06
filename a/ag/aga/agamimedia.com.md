@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agamimedia.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323014945id_/https%3A//www.agamimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agamimedia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606233653id_/https%3A//www.agamimedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Agami Media
 
