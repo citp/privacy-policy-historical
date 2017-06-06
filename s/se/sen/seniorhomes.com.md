@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seniorhomes.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009101855id_/http%3A//www.seniorhomes.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniorhomes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182340id_/https%3A//www.seniorhomes.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ This Privacy Policy applies to our Use of Your Information as a result of you us
 
 
 
-In addition to this Privacy Policy, our Services are also governed by our [Terms of Use](https://web.archive.org/p/terms/ "Terms of Use") and any other documents referred to in this Privacy Policy and our Terms of Use. These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the [Terms of Use](http://www.seniorhomes.com/p/terms/) carefully.
+In addition to this Privacy Policy, our Services are also governed by our [Terms of Use](https://web.archive.org/p/terms/ "Terms of Use") and any other documents referred to in this Privacy Policy and our Terms of Use. These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the [Terms of Use](https://www.seniorhomes.com/p/terms/) carefully.
 
 **Information We Collect and Receive About You**  
 We might receive or collect several types of information about you, such as the information described below.
