@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the mapsmarker.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920012651id_/https%3A//www.mapsmarker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsmarker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184951id_/https%3A//www.mapsmarker.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy » Maps Marker Pro - helping you to share your favorite spots & tracks
-
-Effective on March 13, 2013
+# Privacy policy » Maps Marker Pro - the #1 mapping solution for WordPress
 
 Your privacy issues are important. Be assured that any information provided to MapsMarker.com will be held in strict confidence.
 
-This privacy statement describes how we collect and use the personal information you provide on our Web site: [www.mapsmarker.com](http://www.mapsmarker.com/ "Linkification: http://www.mapsmarker.com"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
-  
+This privacy statement describes how we collect and use the personal information you provide on our website[ www.mapsmarker.com](https://www.mapsmarker.com/). It also describes the choices available to you regarding our use of your personal information, and how you can access and update this information.
+
 Index
 
   * Collection and Use of Personal Information
@@ -21,19 +19,20 @@ Index
   * Additional Policy Information
   * Notification of Privacy Statement Changes
   * Contact Information
+  * Privacy Policy History
 
 
 
 ## **Collection and Use of Personal Information**
 
-When purchasing a product, we collect the following personal information from you
+When purchasing a product, we collect the following personal information from you:
 
-  * Contact Information such as name (required), email address (required), mailing address (optional), phone number (optional)
-  * Unique Identifiers such as user name, account number, license number, password
+  * Contact information, such as name (required), email address (required), mailing address (optional), phone number (optional)
+  * Unique identifiers, such as user name, account number, license number, password
 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+As is the case  for most web sites, we automatically gather information about your computer/device  such as your IP address, browser type, referring/exit pages, and operating system.
 
 We use this information to
 
@@ -48,7 +47,7 @@ back to index
 
 ## **User generated location data**
 
-All location data (like markers, layers, longitude, latitude, popuptext…) you create with your plugin instance within your WordPress installation is stored in your database only – we do not collect this data nor do we get notified about this.
+All the location data (like markers, layers, longitude, latitude, pop-up text…) that you create with your plugin instance within your WordPress installation is stored in your database only – we do not collect this data, nor do we get notified about it.
 
 back to index
 
@@ -58,9 +57,9 @@ We will share your personal information with third parties only in the ways that
 
 We may also disclose your personal information
 
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if MapsMarker.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * as required by law, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith, that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+  * if MapsMarker.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
   * to any other third party with your prior consent to do so.
 
 
@@ -69,31 +68,31 @@ back to index
 
 ## **Payment provider**
 
-You have to choose a payment processor like paypal, Mastercard, Visa, American Express, Diners Club or sofort AG through our payment provider payunity.com to finalize and pay for your order. You have to provide your credit card number directly to this provider and its privacy policy will apply to the information you provided on the corresponding website. We don´t store any credit card information on our servers.
+You have to choose a payment processor like PayPal, Mastercard, Visa, American Express, Diners Club or Sofort AG through our payment provider payunity.com to finalize your order. You have to provide your credit card number directly to this provider and its privacy policy will apply to the information you provided on the corresponding website. We don’t store any credit card or PayPal login information on our servers.
 
 back to index
 
 ## **Cookies and Other Tracking Technologies**
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+We may use cookies; for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information, which does not include personal information.
 
 back to index
 
 ## **Analytics**
 
-MapsMarker.com uses the open-source web analytics tool Piwik to track visit on the website MapsMarker.com. Due to privacy reasons and to meet legal requirments from several countries, the IP addresses of the visitors are anonymized (123.45.67.xx).
+MapsMarker.com uses the open-source web analytics tool Piwik to track visits on the website MapsMarker.com. Due to privacy reasons and to meet legal requirements from several countries, the IP addresses of the visitors are anonymized (123.45.67.xx).
 
 back to index
 
 ## **Links to Other Websites**
 
-Our site includes links to other Web sites whose privacy practices may differ from those of MapsMarker.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our site includes links to other websites whose privacy practices may differ from those of MapsMarker.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
 
 back to index
 
 ## **Security**
 
-When we collect personal information directly from you, we follow generally accepted industry standards – like SSL encrypted transmission – to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us](http://www.mapsmarker.com/contact).
+When we collect personal information directly from you, we follow generally accepted industry standards – like SSL encrypted transmission – to protect the personal information submitted to us, both during transmission, and when we receive it. No method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can[ contact us](https://www.mapsmarker.com/contact).
 
 In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
 
@@ -101,19 +100,30 @@ back to index
 
 ## **Additional Policy Information**
 
-Correcting and Updating Your Personal Information  
-To review and update your personal information to ensure it is accurate, please [log into the customer area](http://www.mapsmarker.com/login) and check your profile. If you have any additional requests, please [contact us](http://www.mapsmarker.com/contact).
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, please[ log into the customer area](https://www.mapsmarker.com/login) and check your profile. If you have any additional requests, please[ contact us](https://www.mapsmarker.com/contact).
 
 back to index
 
 ## **Notification of Privacy Statement Changes**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes, we will notify you by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 back to index
 
 ## **Contact Information**
 
-If you have any questions about this privacy statement please [contact us](http://www.mapsmarker.com/contact).
+If you have any questions about this privacy statement please[ contact us](https://www.mapsmarker.com/contact).
+
+back to index
+
+## **Privacy Policy History**
+
+Effective since March 13, 2013
+
+Changelog:
+
+May 2016 (edited wording, corrected typos)
 
 back to index
