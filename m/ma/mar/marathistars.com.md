@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227113405id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032652id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MarathiStars
 
@@ -84,4 +84,4 @@ MarathiStars.com is committed to resolving disputes as soon as feasible and shal
 
 #### Tags
 
-Ankush Surve murder mystery in Hindi language, web, duheri serial rain song, marath new video hd song Page 1_57, ankush choudhary image hd hay coliti, marathi actors film, Goan actors in marathi serial ratris khel chale, mansi from khulta kali khulena foto, sairat actors wallpapers, 
+vaidehi parshurami assets, sonu nigam photos 2013, web, 
