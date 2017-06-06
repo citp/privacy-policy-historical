@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armslist.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223095113id_/http%3A//www.armslist.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armslist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024334id_/http%3A//www.armslist.com/info/privacy) for the most accurate reproduction.*
 
 # ARMSLIST - Privacy Policy
 
