@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shabbyapple.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080833id_/http%3A//www.shabbyapple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shabbyapple.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070702id_/http%3A//www.shabbyapple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ We collect only the client information we need to administer our business, provi
 
 This website collects personally identifiable information (such as name, address, telephone and fax numbers, email address, and credit card and purchase information) from visitors only when such information is voluntarily provided. That information is used to process your purchases and requests and to provide service. Information about your shopping cart choices, purchases, or requests for customer assistance may be passed along internally at Shabby Apple. Credit card and financing information also may be provided to credit card and consumer financing companies when required to process applications and transactions.
 
-Information supplied to us, not including credit card information, is added to our client database. We may make portions of our web and phone order client list available to carefully chosen third parties to assist us in providing services to our customers. If you do not want your name made available this way, if you’ve moved, or if you would prefer not to receive catalogs or email from Shabby Apple, please call customer service at 801.590.9799 or request to be removed from our mailing list by clicking on the hyperlink provided in Shabby Apple emails.
+Information supplied to us, not including credit card information, is added to our client database. We may make portions of our web and phone order client list available to carefully chosen third parties to assist us in providing services to our customers. If you do not want your name made available this way, if you’ve moved, or if you would prefer not to receive catalogs or email from Shabby Apple, please request to be removed from our mailing list by clicking on the hyperlink provided in Shabby Apple emails.
 
 Information further may be stored and used to better understand our clients, their needs, ways to improve our products and services, and to contact clients with offers that may be of interest to them.
 
