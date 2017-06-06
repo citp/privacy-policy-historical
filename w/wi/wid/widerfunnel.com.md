@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widerfunnel.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805200137id_/http%3A//www.widerfunnel.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widerfunnel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165251id_/https%3A//www.widerfunnel.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement - WiderFunnel Conversion Optimization
 
@@ -48,6 +48,10 @@ The Internet is not an absolutely secure medium of communication and WiderFunnel
 
 WiderFunnel Marketing Inc. is committed to continually improving the experience for its Customers as they visit its website. Accordingly, some information gathered on www.WiderFunnel.com is stored in the form of ‘cookies’. Cookies are the most effective way to identify a unique user and understand their navigation during a visit. WiderFunnel Marketing Inc. may use cookies to store user identifications, and personalize its site and offer secure Services for each account holder.
 
+## Remarketing
+
+We use Google AdWords and AdRoll remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising about our services in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the DoubleClick opt-out page or the [Network Advertising Initiative opt-out page](http://networkadvertising.org/choices.).
+
 ## Third-party sites
 
 WiderFunnel Marketing Inc. website contains hypertext links to other sites as a convenience to users. WiderFunnel Marketing Inc. is not responsible for the privacy practices or contents of any information provided by outside sites through these links. Customers and visitors will need to check the policy statement of these other sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the Customer to keep such information private and confidential.
@@ -60,4 +64,4 @@ WiderFunnel Marketing Inc. will try to keep your personal information accurate. 
 
 If there are any questions or concerns about this Privacy Policy, or if you believe that the privacy of your personal information has not been respected, please email us: [info@widerfunnel.com](mailto:info@widerfunnel.com).
 
-These Terms of Use were last revised November 2010
+These Terms of Use were last revised August 2016
