@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mixturecloud.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011044237id_/http%3A//www.mixturecloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixturecloud.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175802id_/http%3A//www.mixturecloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Mixture Cloud
 
 Privacy policy
 
-This Privacy Policy governs the manner in which MixtureCloud.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [MixtureCloud.com](http://top10adultdatingsites.com/) website (“Site”). This privacy policy applies to the Site and all services offered by MixtureCloud.com.
+This Privacy Policy governs the manner in which MixtureCloud.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the MixtureCloud.com website (“Site”). This privacy policy applies to the Site and all services offered by MixtureCloud.com.
 
 PERSONAL IDENTIFICATION INFORMATION
 
