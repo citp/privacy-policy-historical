@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the multiplex.global privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109031321id_/http%3A//www.multiplex.global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplex.global privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084626id_/http%3A//www.multiplex.global/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Multiplex
+# Privacy Policy - Multiplex
 
 Brookfield understands and appreciates that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. This Policy explains how we will deal with your personal information as you interact with us.
 
