@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtpr.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205203222id_/https%3A//rtpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtpr.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175240id_/https%3A//rtpr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy | Real Time Pain Relief
 
@@ -11,7 +11,7 @@ This Privacy Policy governs the manner in which RTPR LLC. collects, uses, mainta
 
 Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 Non-personal identification information
 
@@ -30,6 +30,8 @@ We may use the information Users provide about themselves when placing an order 
 
 To send periodic emails   
 The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. 
+
+Also, we use Google Analytics Demographics and Interest Reporting for Remarketing with Google Analytics and Google Display Network Impression Reporting. To opt out of Google Analytics you can visit <https://tools.google.com/dlpage/gaoptout/>  and/or [https://www.networkadvertising.org/choices/ ](https://www.networkadvertising.org/choices/%C2%A0)
 
 How we protect your information
 
@@ -65,7 +67,7 @@ This document was last updated on March 1, 2014
 
 
 
-It’s time for you to Enjoy Living Again
+Automatically included with all Retail Product Orders of $25 or More
 
 ### PAIN CREAM
 
@@ -89,7 +91,7 @@ Real Time Maxx is Real Time’s most powerful lotion! Real Time MAXX delivers fa
 
 Real Time Hand Cream is effective on many types of hand and wrist pains including carpal tunnel, deep muscle pains, cramps, and arthritis.  Real Time Hand Cream is made with nourishing Shea Butter and provides luxurious moisture with deep pain relief.  Apply often for soft skin and fast relief! 
 
-[Click to Learn More](https://rtpr.com/targeted-relief)
+[Click to Learn More](https://rtpr.com/hand-cream)
 
 ### SPECIAL OFFERS
 
@@ -104,7 +106,7 @@ Real Time Convenience and Special Offer Packages include a combination of our to
 
 Real Time Foot Cream is effective on many types of foot and ankle pain including gout, planter fasciitis, bursitis, arthritis, and dry cracked feet. Made with Tea Tree Oil and Eucalyptus, Real Time Foot Cream delivers nourishing moisture with fast pain relief for the days that keep you on your toes.
 
-[Click to Learn More](https://rtpr.com/targeted-relief)
+[Click to Learn More](https://rtpr.com/foot-cream)
 
 ### VEGAN PAIN RELIEF
 
@@ -112,7 +114,7 @@ Real Time Foot Cream is effective on many types of foot and ankle pain including
 
 Real Time SELECT gives you relief on the go for deep muscle pain, cramps, and over 100 types of arthritis. Infused with Raspberry Oil, Real Time SELECT is 100% vegan and comes in a convenient roll-on applicator. Real Time SELECT gives you pain relief on the go. 
 
-[Click to Learn More](https://rtpr.com/pain-cream)
+[Click to Learn More](https://rtpr.com/select-roll-on)
 
 ### SPORTS CREAM
 
@@ -136,21 +138,21 @@ Real Time Pet Formula is a revitalizing spray that helps your pet feel their bes
 
 What they say about Real Time Pain Relief
 
-Solo me la puse en el área afectada y en 2min ya no tenía dolor.Gracias ahora estoy feliz sin dolor. 
+I give this stuff a 5 star rating because I had just had my tooth pulled and I was in severe pain nothing was helping not even my pain killers or icing it. 
 
-I have been using the Real Time Pain Relief for a month. I have had pain in my feet(nerve damage )causes by Diabetes for the last seven years. The pain is terrible. 
+I do not have any image to add but this RTPR really works and it is very concentrated. 
 
-After 3 days ,I have no more pain in my elbow .....I am so very grateful to have found your site...thank you,thank you,thank you 
+Have been using RTPR for only 3 weeks but my foot is feeling great.Have had trouble with the right foot for over 15 months;went to the foot doctor twice;he was no help. 
 
-A 4.5 pound frozen chicken slid out of my upper freezer and bounced off my 2nd toe on left foot. It was excruciating pain! I hobbled quickly to the bedroom and rubbed on Real Time three times in about 10 minutes. 
+RTPR is a awesome product that just flat-out works without the concerns of getting addicted or worrying about harmful side-effects of oral pain medication or pain killers. Just rub it on the area where the pain is and that is all. 
 
-A few days ago I received my order and liked it, as did my grandson on his back after I put it on him. One app did the trick after hurting for two days. He's fine now. Thank you very much. 
+I have osteoarthritis and the first thing in the morning, I put Real Time Pain Relief on my neck, shoulders, elbows, mid back, right hip, both knees and especially the right knee, both ankles and my right foot and toes. 
 
-I have been dealing with a disc issue and pinched nerve in my lower back for over 18 months. After a week with RTPR, my pain is almost entirely gone. I felt better after just the first two days. 
+Lord this stuff gave me relief like no other I brought this stuff and will use nothing else. I quit my pain medicine cause this helped more than my Norco helped and faster. 
 
-[Submit Testimonial](https://web.archive.org/web/20161205203222id_/https%3A//rtpr.com/node/add/testimonial) [View All Testimonials](https://web.archive.org/testimonials)
+[Submit Testimonial](https://web.archive.org/web/20170606175240id_/https%3A//rtpr.com/node/add/testimonial) [View All Testimonials](https://web.archive.org/testimonials)
 
 ## STAY IN TOUCH
 
-#### We are always available for you. You can call us or submit a support ticket and we will get back to you!   
+#### We are always available for you. You can call us or submit a support ticket and we will get back to you!  
 Or, you can check us out on our social media pages. We want to hear from you!
