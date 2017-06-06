@@ -1,210 +1,34 @@
-<!--The following is the downloaded HTML source of the storyful.com privacy policy that was archived on 2016-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161211034858id_/http%3A//storyful.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the storyful.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606190800id_/https%3A//storyful.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="js"><!--<![endif]--><head>
-    <meta charset="utf-8">
-    <!--[if IE]>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <meta property="og:image" content="http://style.storyful.com/images/logos/storyful_logo_500px.png">
-    <meta name="author" content="HTML by SuperKodéři (info@superkoderi.cz)">
-    <title>
-        Privacy &amp; Cookies Policy |     </title>
-    <link rel="shortcut icon" href="http://storyful.com/wp-content/themes/storyful-morel/static/favicon.ico?v=1">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-2645892271.js"></script><script src="http://storyful.com/wp-content/themes/storyful-morel/static/js/modernizr.custom.js"></script>
-    <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-    <script type="text/javascript">
-        window.heap = window.heap || [], heap.load = function (e, t) {
-            window.heap.appid = e, window.heap.config = t = t || {};
-            var n = t.forceSSL || "https:" === document.location.protocol, a = document.createElement("script");
-            a.type = "text/javascript", a.async = !0, a.src = (n ? "https:" : "http:") + "//cdn.heapanalytics.com/js/heap-" + e + ".js";
-            var o = document.getElementsByTagName("script")[0];
-            o.parentNode.insertBefore(a, o);
-            for (var r = function (e) {
-                return function () {
-                    heap.push([e].concat(Array.prototype.slice.call(arguments, 0)))
-                }
-            }, p = ["clearEventProperties", "identify", "setEventProperties", "track", "unsetEventProperty"], c = 0; c < p.length; c++)heap[p[c]] = r(p[c])
-        };
-        heap.load("2645892271");
-    </script>
-    <script src="//cdn.optimizely.com/js/1758020582.js"></script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Privacy Policy</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	
+<!-- This site is optimized with the Yoast SEO plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://storyful.com/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Privacy &amp; Cookies Policy Your privacy is critically important to us. At Storyful, we take our obligations very seriously. We comply with these principles: Obtain and process information fairly. Keep it only for one or more specified, explicit and lawful purposes. Use and disclose it only in ways compatible with these purposes. Keep it safe and secure. Keep it accurate, complete and up-to-date. Ensure that it is adequate, relevant and not excessive. Retain it for no longer than... Learn more">
+<meta property="og:url" content="https://storyful.com/privacy/">
+<meta property="og:site_name" content="Storyful.">
+<meta property="article:publisher" content="https://www.facebook.com/Storyful">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Privacy &amp; Cookies Policy Your privacy is critically important to us. At Storyful, we take our obligations very seriously. We comply with these principles: Obtain and process information fairly. Keep it only for one or more specified, explicit and lawful purposes. Use and disclose it only in ways compatible with these purposes. Keep it safe and secure. Keep it accurate, complete and up-to-date. Ensure that it is adequate, relevant and not excessive. Retain it for no longer than... Learn more">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:site" content="@storyful">
+<meta name="twitter:creator" content="@storyful">
+<!-- / Yoast SEO plugin. -->
 
-    <title>Privacy &amp; Cookies Policy – Storyful.</title>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="Storyful. » Privacy &amp; Cookies Policy Comments Feed" href="http://storyful.com/privacy-policy/feed/">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/storyful.com\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/storyful.com\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
-			( function( window, document, settings ) {
-	var src, ready, ii, tests;
-
-	/**
-	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
-	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
-	 *
-	 * @since 4.2.0
-	 *
-	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
-	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
-	 */
-	function browserSupportsEmoji( type ) {
-		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' ),
-			stringFromCharCode = String.fromCharCode,
-			flag, flag2, tonedata, tone, tone2;
-
-		if ( ! context || ! context.fillText ) {
-			return false;
-		}
-
-		/*
-		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
-		 * it doesn't work when the font is bolder than 500 weight. So, we
-		 * check for bold rendering support to avoid invisible emoji in Chrome.
-		 */
-		context.textBaseline = 'top';
-		context.font = '600 32px Arial';
-
-		switch ( type ) {
-			case 'flag':
-				/*
-				 * This works because the image will be one of three things:
-				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
-				 * - The Australian flag
-				 *
-				 * The first two will encode to small images (1-2KB data URLs), the third will encode
-				 * to a larger image (4-5KB data URL).
-				 */
-				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-				if ( canvas.toDataURL().length < 3000 ) {
-					return false;
-				}
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				/*
-				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
-				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
-				 * Unicode support is up to date.
-				 *
-				 * To test for support, we try to render it, and compare the rendering to how it would look if
-				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
-				 */
-				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
-				flag = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
-				flag2 = canvas.toDataURL();
-
-				return flag !== flag2;
-			case 'diversity':
-				/*
-				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
-				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
-				 * compares if the emoji rendering has changed.
-				 */
-				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
-
-				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
-				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
-				// So, we create our own string and compare that, instead.
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
-
-				return tone !== tone2;
-			case 'simple':
-				/*
-				 * This creates a smiling emoji, and checks to see if there is any image data in the
-				 * center pixel. In browsers that don't support emoji, the character will be rendered
-				 * as an empty square, so the center pixel will be blank.
-				 */
-				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode8':
-				/*
-				 * To check for Unicode 8 support, let's try rendering the most important advancement
-				 * that the Unicode Consortium have made in years: the burrito.
-				 */
-				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode9':
-				/*
-				 * Do Unicode 9 emoji render?
-				 * ¯\_(ツ)_/¯
-				 */
-				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-		}
-
-		return false;
-	}
-
-	function addScript( src ) {
-		var script = document.createElement( 'script' );
-
-		script.src = src;
-		script.type = 'text/javascript';
-		document.getElementsByTagName( 'head' )[0].appendChild( script );
-	}
-
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
-
-	settings.supports = {
-		everything: true,
-		everythingExceptFlag: true
-	};
-
-	for( ii = 0; ii < tests.length; ii++ ) {
-		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
-
-		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
-
-		if ( 'flag' !== tests[ ii ] ) {
-			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
-		}
-	}
-
-	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
-
-	settings.DOMReady = false;
-	settings.readyCallback = function() {
-		settings.DOMReady = true;
-	};
-
-	if ( ! settings.supports.everything ) {
-		ready = function() {
-			settings.readyCallback();
-		};
-
-		if ( document.addEventListener ) {
-			document.addEventListener( 'DOMContentLoaded', ready, false );
-			window.addEventListener( 'load', ready, false );
-		} else {
-			window.attachEvent( 'onload', ready );
-			document.attachEvent( 'onreadystatechange', function() {
-				if ( 'complete' === document.readyState ) {
-					settings.readyCallback();
-				}
-			} );
-		}
-
-		src = settings.source || {};
-
-		if ( src.concatemoji ) {
-			addScript( src.concatemoji );
-		} else if ( src.wpemoji && src.twemoji ) {
-			addScript( src.twemoji );
-			addScript( src.wpemoji );
-		}
-	}
-
-} )( window, document, window._wpemojiSettings );
-		</script><script src="http://storyful.com/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://storyful.com/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
+		<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/storyful.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://storyful.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -219,107 +43,264 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="http://storyful.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="sk-style-css" href="http://storyful.com/wp-content/themes/storyful-morel/static/css/style.css?ver=1.2" type="text/css" media="screen, projection">
-<link rel="stylesheet" id="sk-print-css" href="http://storyful.com/wp-content/themes/storyful-morel/static/css/print.css?ver=1.2" type="text/css" media="print">
-<script type="text/javascript" src="http://storyful.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://storyful.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
-<link rel="https://api.w.org/" href="http://storyful.com/wp-json/">
-<link rel="canonical" href="http://storyful.com/privacy-policy/">
-<link rel="shortlink" href="http://storyful.com/?p=167">
-<link rel="alternate" type="application/json+oembed" href="http://storyful.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fstoryful.com%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://storyful.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fstoryful.com%2Fprivacy-policy%2F&amp;format=xml">
+<link rel="stylesheet" id="ssbaFont-css" href="//fonts.googleapis.com/css?family=Indie+Flower&amp;ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="slb_core-css" href="https://storyful.com/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="theme-styles-css" href="https://storyful.com/wp-content/themes/storyful/inc/assets/css/styles.min.css?ver=1" type="text/css" media="all">
+<script type="text/javascript" src="https://storyful.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://storyful.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://storyful.com/wp-content/plugins/stop-user-enumeration/js/commentauthor.js?ver=4.7.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajax_tptn_tracker = {"ajax_url":"https:\/\/storyful.com\/wp-admin\/admin-ajax.php","top_ten_nonce":"abdf313cec","top_ten_id":"8546","top_ten_blog_id":"1","activate_counter":"11","tptn_rnd":"1328767613"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://storyful.com/wp-content/plugins/top-10/includes/js/top-10-tracker.js?ver=4.7.5"></script>
+<script type="text/javascript" src="https://storyful.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://storyful.com/wp-content/themes/storyful/inc/assets/js/html5.js?ver=1'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://storyful.com/wp-json/">
+<link rel="alternate" type="application/json+oembed" href="https://storyful.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstoryful.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://storyful.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstoryful.com%2Fprivacy%2F&amp;format=xml">
+<style type="text/css">	.ssba {
+									
+									
+									
+									
+								}
+								.ssba img
+								{
+									width: 26px !important;
+									padding: 0px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+								}
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									border:0;
+									background: none;
+									font-family: Indie Flower;
+									font-size: 	20px;
+									
+									font-weight: bold;
+								}
+								.ssba_sharecount:after, .ssba_sharecount:before {
+									right: 100%;
+									border: solid transparent;
+									content: " ";
+									height: 0;
+									width: 0;
+									position: absolute;
+									pointer-events: none;
+								}
+								.ssba_sharecount:after {
+									border-color: rgba(224, 221, 221, 0);
+									border-right-color: #f5f5f5;
+									border-width: 5px;
+									top: 50%;
+									margin-top: -5px;
+								}
+								.ssba_sharecount:before {
+									border-color: rgba(85, 94, 88, 0);
+									border-right-color: #e0dddd;
+									border-width: 6px;
+									top: 50%;
+									margin-top: -6px;
+								}
+								.ssba_sharecount {
+									font: 11px Arial, Helvetica, sans-serif;
 
-<!-- Google Universal Analytics for WordPress v2.4.2 -->
-
+									padding: 5px;
+									-khtml-border-radius: 6px;
+									-o-border-radius: 6px;
+									-webkit-border-radius: 6px;
+									-moz-border-radius: 6px;
+									border-radius: 6px;
+									position: relative;
+									border: 1px solid #e0dddd;color: #555e58;
+										background: #ffffff;
+									}
+									.ssba_sharecount:after {
+										border-right-color: #ffffff;
+									}.ssba img {
+	border-top-left-radius: 6px;
+	border-bottom-left-radius: 6px;
+	display: block;
+	vertical-align: top;
+}
+.ssba_sharecount { 
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	display: inline-block;
+	margin-right: 12px;
+	padding-top: 0;
+	padding-bottom: 0;
+	line-height: 26px;
+	height: 26px;
+	vertical-align: middle;
+	width: 32px;
+}
+.ssba_sharecount:before, .ssba_sharecount:after { display: none; }
+.ssba a {
+	display: inline-block;
+	height: 26px;
+	vertical-align: middle;
+}
+</style>	<link href="https://storyful.com/wp-content/themes/storyful/inc/assets/images/favicon/favicon32.ico" rel="shortcut icon">
+	<link rel="apple-touch-icon" sizes="32x32" href="https://storyful.com/wp-content/themes/storyful/inc/assets/images/favicon/favicon32.png">
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('738-HYT-060');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script><script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script>
+<!-- BEGIN GADWP v5.0.0.1 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
 <script>
-
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-15707753-1', 'auto');
-
-
-
-	ga('require', 'linkid', 'linkid.js');
-
-
-	ga('set', 'forceSSL', true);
-
-	ga('send', 'pageview');
-
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-88365551-1', 'auto');
+  ga('send', 'pageview');
 </script>
-<!-- Google Universal Analytics for WordPress v2.4.2 - https://wordpress.org/plugins/google-universal-analytics -->
-
-
-<script type="text/javascript">
-
-	jQuery(document).ready(function(e) {
-    jQuery('a').click(function(e) {
-		var $this = jQuery(this);
-      	var href = $this.prop('href').split('?')[0];
-		var ext = href.split('.').pop();
-		if ('xls,xlsx,doc,docx,ppt,pot,pptx,pdf,pub,txt,zip,rar,tar,7z,gz,exe,wma,mov,avi,wmv,wav,mp3,midi,csv,tsv,jar,psd,pdn,ai,pez,wwf,torrent,cbr'.split(',').indexOf(ext) !== -1) {		
-        ga('send', 'event', 'Download', ext, href);
-      }
-	  if (href.toLowerCase().indexOf('mailto:') === 0) {
-        ga('send', 'event', 'Mailto', href.substr(7));
-      }
-	  if (href.toLowerCase().indexOf('tel:') === 0) {
-        ga('send', 'event', 'Phone number', href.substr(4));
-      }
-      if ((this.protocol === 'http:' || this.protocol === 'https:') && this.hostname.indexOf(document.location.hostname) === -1) {
-        ga('send', 'event', 'Outbound', this.hostname, this.pathname);
-      }
-	});
-});
-
-</script>
-
+<!-- END GADWP Universal Analytics -->
 </head>
-<body class="page page-id-167 page-template-default show-logo page-subpage">
-<p id="menu-accessibility"><a title="Go to content (Key shortcut: Alt + 2)" accesskey="2" href="#main">Go to content</a>
-</p>
+<body class="page-template-default page page-id-8546 do-etfw">
 
-<div id="header">
-            <p id="logo"><a href="http://storyful.com"> <img src="http://storyful.com/wp-content/themes/storyful-morel/static/img/logo-storyful.png" width="117" height="30" alt="Storyful."> </a></p>
-        <div id="menu-main"><a href="#" class="title">Menu<span></span></a>
-        <ul id="menu-main-menu" class="reset"><li id="menu-item-30" class="mobile-show menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="http://storyful.com/">home</a></li>
-<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://licensed.storyful.com/">videos</a></li>
-<li id="menu-item-26" class="border menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="http://blog.storyful.com/">blog</a></li>
-<li id="menu-item-27" class="border menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://storyful.com/about/">about</a></li>
-<li id="menu-item-388" class="mobile-show menu-item menu-item-type-post_type menu-item-object-page menu-item-388"><a href="http://storyful.com/case-studies/">case studies</a></li>
-<li id="menu-item-389" class="mobile-show menu-item menu-item-type-post_type menu-item-object-page menu-item-389"><a href="http://storyful.com/jobs/">jobs</a></li>
-<li id="menu-item-1082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1082"><a href="https://signin.storyful.com/">sign in</a></li>
-</ul>    </div>
-    <div class="menu-quick-links">
-        <ul id="menu-login-demo" class="reset"><li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="http://storyful.com/request-a-demo/"><span>Request a demo</span></a></li>
-</ul>    </div>
-    <!-- /.quick-links -->
+	
+		<header class="header">
+		<a class="logo" href="https://storyful.com"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
-</div>
-<!-- /#header -->
-
-<div id="mobile-menu" class="menu-main-list">
-    <ul id="menu-main-menu-1" class="reset"><li class="mobile-show menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="http://storyful.com/">home</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://licensed.storyful.com/">videos</a></li>
-<li class="border menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="http://blog.storyful.com/">blog</a></li>
-<li class="border menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://storyful.com/about/">about</a></li>
-<li class="mobile-show menu-item menu-item-type-post_type menu-item-object-page menu-item-388"><a href="http://storyful.com/case-studies/">case studies</a></li>
-<li class="mobile-show menu-item menu-item-type-post_type menu-item-object-page menu-item-389"><a href="http://storyful.com/jobs/">jobs</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1082"><a href="https://signin.storyful.com/">sign in</a></li>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="104px" height="30px" viewBox="0 0 104 30" enable-background="new 0 0 104 30" xml:space="preserve">
+<g>
+	<path fill="#FFFFFF" d="M9.048,13.17c-2.338-0.509-3.711-0.915-4.066-1.118c-0.406-0.152-0.61-0.509-0.61-0.966
+		c0-0.355,0.204-0.661,0.56-0.915s0.966-0.406,1.83-0.406c1.067,0,1.779,0.254,2.236,0.813c0.203,0.255,0.355,0.661,0.406,1.17
+		h3.914c-0.152-1.83-0.813-3.102-2.033-3.863c-1.17-0.764-2.694-1.119-4.575-1.119c-1.982,0-3.508,0.508-4.626,1.474
+		c-1.118,1.017-1.626,2.186-1.626,3.559c0,1.169,0.356,2.084,1.068,2.693c0.66,0.661,1.88,1.169,3.608,1.576
+		c2.338,0.608,3.711,0.966,4.066,1.22c0.356,0.203,0.56,0.56,0.56,1.017c0,0.459-0.254,0.764-0.712,1.018
+		c-0.457,0.254-1.067,0.354-1.83,0.354c-1.321,0-2.236-0.305-2.693-0.813c-0.306-0.306-0.458-0.763-0.56-1.476H0
+		c0,1.525,0.559,2.797,1.678,3.813c1.118,0.966,2.847,1.474,5.235,1.474c2.338,0,4.066-0.457,5.134-1.423
+		c1.118-0.915,1.678-2.135,1.678-3.608c0-1.17-0.407-2.084-1.169-2.847C11.793,14.085,10.624,13.525,9.048,13.17"></path>
+	<path fill="#FFFFFF" d="M20.434,3.105h-3.913v4.219h-2.085v2.796h2.085v9.251c0,0.915,0.203,1.627,0.66,2.033
+		c0.661,0.712,1.982,1.066,3.813,1.017l1.881-0.103v-2.947c-0.152,0.051-0.305,0.051-0.407,0.051c-0.152,0-0.254,0-0.355,0
+		c-0.813,0-1.271-0.102-1.474-0.254c-0.153-0.152-0.204-0.509-0.204-1.118v-7.93h2.44V7.324h-2.44L20.434,3.105L20.434,3.105z"></path>
+	<path fill="#FFFFFF" d="M31.566,6.714c-2.542,0-4.474,0.763-5.744,2.339c-1.271,1.626-1.881,3.507-1.881,5.642
+		c0,2.187,0.61,4.067,1.881,5.643s3.202,2.389,5.744,2.389c2.592,0,4.523-0.813,5.794-2.389c1.271-1.574,1.881-3.456,1.881-5.643
+		c0-2.135-0.609-4.016-1.881-5.642C36.09,7.477,34.158,6.714,31.566,6.714 M34.209,18.202c-0.609,0.813-1.524,1.22-2.643,1.22
+		c-1.17,0-2.033-0.406-2.644-1.22c-0.611-0.813-0.966-1.981-0.966-3.508c0-1.524,0.305-2.643,0.966-3.456
+		c0.61-0.813,1.474-1.22,2.644-1.22c1.169,0,2.033,0.406,2.643,1.22c0.61,0.813,0.915,1.932,0.915,3.456
+		C35.124,16.221,34.819,17.389,34.209,18.202"></path>
+	<path fill="#FFFFFF" d="M66.589,8.239v1.881h2.187v12.098h3.914V10.12h2.592V7.375h-2.592V6.054c0-0.305,0.102-0.56,0.305-0.813
+		c0.203-0.203,0.561-0.355,1.066-0.305c0.51,0,0.916,0,1.119,0.051V1.784c-0.355-0.051-0.609-0.051-0.813-0.051
+		c-0.255,0-0.457,0-0.712,0c-2.187,0-3.559,0.406-4.116,1.321c-0.56,0.609-0.813,1.729-0.813,3.354v0.966H66.59l0,0"></path>
+	<path fill="#FFFFFF" d="M85.955,15.355c0,0.965-0.102,1.729-0.355,2.338c-0.509,1.067-1.424,1.627-2.744,1.627
+		c-1.067,0-1.729-0.406-2.084-1.17c-0.203-0.405-0.307-1.066-0.307-1.932V7.223h-4.016v9.048c0,1.678,0.203,2.998,0.66,3.862
+		c0.713,1.627,2.236,2.39,4.475,2.39c0.762,0,1.423-0.103,1.982-0.306c0.559-0.151,1.168-0.56,1.777-1.118
+		c0.204-0.151,0.356-0.354,0.51-0.609c0.151-0.203,0.254-0.355,0.305-0.406v2.135h3.813V7.223h-4.016V15.355L85.955,15.355z"></path>
+	<rect x="92.156" y="1.937" fill="#FFFFFF" width="3.965" height="20.281"></rect>
+	<path fill="#FFFFFF" d="M50.018,6.867c-0.203,0-0.305,0-0.355,0c-0.05,0-0.102,0-0.204,0c-1.169,0-2.135,0.305-2.846,0.915
+		c-0.458,0.406-0.966,1.067-1.576,2.084V7.223h-3.762v14.995h3.965v-7.167c0-1.22,0.152-2.084,0.458-2.694
+		c0.508-1.017,1.575-1.524,3.151-1.524c0.152,0,0.305,0,0.457,0c0.204,0,0.407,0.051,0.661,0.102"></path>
+	<path fill="#FFFFFF" d="M50.831,7.223h0.406h3.813l3.253,11.03l3.102-10.979l4.117,0.051l-0.306,0.864l-4.778,13.725
+		c-0.965,2.896-1.777,4.625-2.338,5.337c-0.609,0.661-1.729,1.017-3.455,1.017c-0.356,0-0.662,0-0.865,0
+		c-0.202,0-0.559-0.051-0.965-0.051v-3.15l0.508,0.051c0.355,0.051,0.763,0,1.066-0.051c0.356-0.051,0.661-0.152,0.916-0.306
+		c0.203-0.153,0.406-0.458,0.609-0.966c0.203-0.509,0.305-0.813,0.254-0.915"></path>
+	<path fill="#FFFFFF" d="M101.001,16.881c1.679,0,2.999,1.321,2.999,2.999c0,1.626-1.32,2.948-2.999,2.948
+		c-1.627,0-2.948-1.322-2.948-2.948C98.053,18.202,99.374,16.881,101.001,16.881z"></path>
+</g>
+</svg>
+</a>
+		<div class="menu-inside" id="menu-inside">
+			<div class="menu-inside-inner">
+				<nav id="primary-navigation" role="navigation">
+					<ul id="primary-menu" class="menu"><li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-54"><a href="https://storyful.com/publishers/">Publishers</a>
+<div class="sub-menu"><ul class="sub-menu-inn">
+	<li id="menu-item-331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="https://storyful.com/publishers/newswire/">Newswire</a></li>
+	<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="https://storyful.com/publishers/editorial-process/">Editorial Process</a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="https://storyful.com/publishers/case-studies/">Case Studies and Testimonials</a></li>
+	<li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="https://storyful.com/publishers/subscribe-now/">Subscribe to the Newswire</a></li>
 </ul></div>
-<!-- /.menu-main-list --> 
+</li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-53"><a href="https://storyful.com/marketing/">Marketing</a>
+<div class="sub-menu"><ul class="sub-menu-inn">
+	<li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="https://storyful.com/marketing/social-content/">Social Content and Moments Channels</a></li>
+	<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217"><a href="https://storyful.com/marketing/clearing-house/">Clearing House</a></li>
+	<li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://storyful.com/marketing/influencer-discovery/">Influencer Discovery</a></li>
+	<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://storyful.com/marketing/event-marketing/">Event Marketing</a></li>
+	<li id="menu-item-265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-265"><a href="https://storyful.com/marketing/case-studies/">Case Studies</a></li>
+	<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="https://storyful.com/marketing/business-page/">Work With Us</a></li>
+</ul></div>
+</li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51"><a href="https://storyful.com/insights/">Insights</a>
+<div class="sub-menu"><ul class="sub-menu-inn">
+	<li id="menu-item-8403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8403"><a href="https://storyful.com/insights/digital-monitoring/">Digital Monitoring</a></li>
+	<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a href="https://storyful.com/insights/insights-risk-reporting/">Insights Reporting</a></li>
+	<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="https://storyful.com/insights/influencer-mapping/">Influencer Mapping</a></li>
+	<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://storyful.com/insights/work-with-us/">Work With Us</a></li>
+</ul></div>
+</li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-52"><a href="https://storyful.com/licensing/">Licensing</a>
+<div class="sub-menu"><ul class="sub-menu-inn">
+	<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="https://storyful.com/licensing/content-creators/">Content Creators</a></li>
+	<li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="https://storyful.com/licensing/media-partners/">Media Partners</a></li>
+	<li id="menu-item-8438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8438"><a href="https://storyful.com/licensing/marketplace/">Marketplace</a></li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://storyful.com/licensing/buy-a-video/">Buy a Video</a></li>
+	<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://storyful.com/licensing/sell-a-video/">Sell a Video</a></li>
+	<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369"><a href="https://storyful.com/licensing/testimonials/">Testimonials</a></li>
+</ul></div>
+</li>
+<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-45"><a href="https://storyful.com/about/">About</a>
+<div class="sub-menu"><ul class="sub-menu-inn">
+	<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://storyful.com/about/careers/">Careers</a></li>
+	<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://storyful.com/about/team/">Team</a></li>
+	<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="https://storyful.com/about/press/">Press</a></li>
+	<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://storyful.com/about/technology/">Technology</a></li>
+</ul></div>
+</li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="https://storyful.com/blog/">Blog</a></li>
+</ul>				</nav>
+				<div class="login-block">
+					
+											<a href="https://signin.storyful.com/" class="border-button" target="_blank">Sign in</a>
+									</div>
+			</div>
+		</div>
+		<div id="mobile-nav-toggler" class="mobile-nav-menu"><span></span></div>
+	</header>
+			<div id="page">
+		<div id="page-inn">
 
-	<div id="main">
-		<div class="row-main-wide">
-			<div class="col-content">
-				
-					<h1 class="title">Privacy &amp; Cookies Policy</h1>
-					<p>Your privacy is critically important to us. At Storyful, we take our obligations very seriously. We comply with these principles:</p>
-<ul>
+	
+		<article id="post-8546" class="post-8546 page type-page status-publish hentry post-type-page">
+
+	<div class="entry-content main-page-content">
+		<div class="wrapper">
+			<h1>Privacy</h1>
+			<h1 class="title is-animated">Privacy &amp; Cookies Policy</h1>
+<p class="is-animated">Your privacy is critically important to us. At Storyful, we take our obligations very seriously. We comply with these principles:</p>
+<ul class="is-animated">
 <li>Obtain and process information fairly.</li>
 <li>Keep it only for one or more specified, explicit and lawful purposes.</li>
 <li>Use and disclose it only in ways compatible with these purposes.</li>
@@ -329,40 +310,41 @@ img.emoji {
 <li>Retain it for no longer than is necessary for the purpose or purposes.</li>
 <li>Give a copy of his/her personal data to that individual, on request.</li>
 </ul>
-<p>Below is our privacy policy which incorporates these principles.</p>
-<p><strong>Last updated: 5 January 2016</strong></p>
-<h2 class="h3">Introduction</h2>
-<p>This is the privacy and cookies policy for <a href="/">storyful.com</a> and our associated services (together, the <strong>Site</strong>).  The Site is operated by Storyful (<strong>we</strong>, <strong>us</strong> and <strong>our</strong>).  For the purposes of the Irish Data Protection Acts 1988 and 2003, as amended, we are the data controller.<br>
-We are committed to protecting your privacy online.  We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have. By using the Site, you consent to the collection and use of information in accordance with this privacy policy.</p>
-<p>We reserve the right to change this privacy policy from time to time by changing it on the Site.  This privacy policy was last updated on the date set out at the top of this policy.</p>
-<h2 class="h3">Information we may collect from you</h2>
-<p>We may collect and process the following information about you:</p>
-<ul>
+<p class="is-animated">Below is our privacy policy which incorporates these principles.</p>
+<p class="is-animated"><strong>Last updated: 5 January 2016</strong></p>
+<h2 class="h3 is-animated">Introduction</h2>
+<p class="is-animated">This is the privacy and cookies policy for <a href="http://storyful.com/">storyful.com</a> and our associated services (together, the <strong>Site</strong>). The Site is operated by Storyful (<strong>we</strong>, <strong>us</strong> and <strong>our</strong>). For the purposes of the Irish Data Protection Acts 1988 and 2003, as amended, we are the data controller.<br>
+We are committed to protecting your privacy online. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have. By using the Site, you consent to the collection and use of information in accordance with this privacy policy.</p>
+<p class="is-animated">We reserve the right to change this privacy policy from time to time by changing it on the Site. This privacy policy was last updated on the date set out at the top of this policy.</p>
+<h2 class="h3 is-animated">Information we may collect from you</h2>
+<p class="is-animated">We may collect and process the following information about you:</p>
+<ul class="is-animated">
 <li>information (such as your name, email address, social media details, postal address and telephone number) that you provide by completing forms on the Site, including if you register as a subscriber or contributor to any service, upload or submit any material via the Site, request any information, or enter into any competition or promotion we may sponsor;</li>
 <li>in connection with an account sign-in facility, your log-in and password details;</li>
 <li>details of any transactions made by you through the Site;</li>
 <li>communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding the Site or its content; and</li>
 <li>information from surveys that we may, from time to time, run on the Site for research purposes, if you choose to respond to, or participate in, them.<br>
-You are under no obligation to provide any such information.  However, if you should choose to withhold requested information, we may not be able to provide you with certain services.</li>
+You are under no obligation to provide any such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.</li>
 </ul>
-<h2 class="h3">Information you provide about third parties</h2>
-<p>Where your content contains the images of others, we may ask you to provide us with the details of your relationship with those individuals.  We will only use those details to provide a description of your content, for verification purposes, or otherwise pursuant to terms agreed with you.  By providing this information to us, you agree to our use of such information for these purposes.  When you upload the content, you warrant that you have permission from those individuals to appear in your video and for us to use their personal information in accordance with our agreement with you.  You must not provide us with the details of anyone from whom you do not have such permission.  We reserve the right to identify you as the person who has guaranteed that such individuals have given their permission. </p>
-<h2 class="h3">Non-Personally Identifiable Information</h2>
-<p>When you visit the Site, we may automatically collect additional information about you, such as the type of internet browser you use, any website from which you have come to the Site and your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server.  You cannot be identified from this information and it is only used to assist us in providing an effective service on the Site and to collect broad demographic information for aggregate use.</p>
-<h2 class="h3">Cookies</h2>
-<p>When you interact with the Site, we try to make that experience simple and meaningful.  When you visit the Site, our web server sends a cookie to your computer.  Cookies are small pieces of information which are issued to your computer when you visit a website and which store and sometimes track information about your use of the Site.  For example, cookies are used to personalise web search engines and to store shopping lists of items a user has selected while browsing through a virtual shopping mall.  A number of cookies we use last only for the duration of your web session and expire when you close your browser.  Other cookies are used to remember you when you return to the Site and will last for longer.</p>
-<p>We use cookies to:</p>
-<ul>
-<li>remember that you have visited us before; this means we can identify the number of unique visitors we receive.  This allows us to make sure we have enough capacity for the number of users that we get;</li>
+<h2 class="h3 is-animated">Information you provide about third parties</h2>
+<p class="is-animated">Where your content contains the images of others, we may ask you to provide us with the details of your relationship with those individuals. We will only use those details to provide a description of your content, for verification purposes, or otherwise pursuant to terms agreed with you. By providing this information to us, you agree to our use of such information for these purposes. When you upload the content, you warrant that you have permission from those individuals to appear in your video and for us to use their personal information in accordance with our agreement with you. You must not provide us with the details of anyone from whom you do not have such permission. We reserve the right to identify you as the person who has guaranteed that such individuals have given their permission.</p>
+<h2 class="h3 is-animated">Non-Personally Identifiable Information</h2>
+<p class="is-animated">When you visit the Site, we may automatically collect additional information about you, such as the type of internet browser you use, any website from which you have come to the Site and your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. You cannot be identified from this information and it is only used to assist us in providing an effective service on the Site and to collect broad demographic information for aggregate use.</p>
+<h2 class="h3 is-animated">Cookies</h2>
+<p class="is-animated">When you interact with the Site, we try to make that experience simple and meaningful. When you visit the Site, our web server sends a cookie to your computer. Cookies are small pieces of information which are issued to your computer when you visit a website and which store and sometimes track information about your use of the Site. For example, cookies are used to personalise web search engines and to store shopping lists of items a user has selected while browsing through a virtual shopping mall. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the Site and will last for longer.</p>
+<p class="is-animated">We use cookies to:</p>
+<ul class="is-animated">
+<li>remember that you have visited us before; this means we can identify the number of unique visitors we receive. This allows us to make sure we have enough capacity for the number of users that we get;</li>
 <li>customise elements of the promotional layout and/or content of the pages of the Site;</li>
 <li>collect anonymous statistical information about how you use the Site (including how long you spend on the Site) and where you have come to the Site from, so that we can improve the Site and learn which parts of the Site are most popular with visitors; and</li>
 <li>to speed site navigation and recognise your access rights on the site.</li>
 </ul>
-<p>Cookies used by the Site are set by third parties who are delivering services on our behalf.  These are set out below.</p>
-<p>Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set.  You can also learn more about cookies by visiting <a href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a> which includes additional useful information on cookies and how to block cookies using different types of browser.  Please note, however, that by blocking or deleting cookies used on the Site, you may not be able to take full advantage of the Site.</p>
-<p><strong>Third party cookies</strong></p>
-<table>
-<tbody><tr>
+<p class="is-animated">Cookies used by the Site are set by third parties who are delivering services on our behalf. These are set out below.</p>
+<p class="is-animated">Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting <a href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a> which includes additional useful information on cookies and how to block cookies using different types of browser. Please note, however, that by blocking or deleting cookies used on the Site, you may not be able to take full advantage of the Site.</p>
+<p class="is-animated"><strong>Third party cookies</strong></p>
+<table class="is-animated">
+<tbody>
+<tr>
 <th>Cookie name</th>
 <th>Domain</th>
 <th>Purpose</th>
@@ -452,104 +434,74 @@ You are under no obligation to provide any such information.  However, if you sh
 <td>Identifies Storyful to Wufoo forms</td>
 <td>Browser session</td>
 </tr>
-</tbody></table>
-<p>In addition to cookies, tracking Gifs and web beacons may be set by us or third parties in respect of your use of the Site.  Web beacons support the delivery of cookies and help determine the number of times a page on the site has been viewed.  Tracking Gifs are small image files within the content of the Site or the body of our newsletters so we or third parties can understand which parts of the Site are visited and whether particular content is of interest.</p>
-<h2 class="h3>Uses made of your information</h2>
-<p>We will use the information you provide to:</p>
-<ul>
-<li>deliver you the services and information offered through the Site and which you request;</li>
-<li>administer your account with us;</li>
-<li>audit the downloading of data from the Site;</li>
-<li>improve the layout and/or content of the pages of the Site and customise them for users;</li>
-<li>identify visitors to the Site;</li>
-<li>carry out research on our users’ demographics and tracking of sales data;</li>
-<li>send you information we think you may find useful or which you have requested from us about our products and services, provided you have indicated that you do not object to being contacted for these purposes; and</li>
-<li>allow us and our partners to contact you directly to carry out verificiation or other checks (for example, regarding future uses) with respect to the content you provide to us.</li>
-</ul>
-<p>You can tell us not to contact you with information regarding our products and services, either at the point such information is collected on the Site (by checking or un-checking (as directed) the relevant box) or, where you do not wish us to continue to use your information in this way, by following the unsubscribe instructions on any communications sent to you.  You can also exercise the right at any time by contacting us using the Contacting us details at the end of this privacy policy.</p>
-<h2 class=" h3="">Information sharing</h2>
-<p>We may disclose aggregate statistics about visitors to the Site, customers and sales in order to describe our services to prospective partners, advertisers, sponsors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifiable information.</p>
-<p>If you sign up to sell or licence a video to Storyful, when we distribute your video to our partners, we will disclose your personal information to our partners in order for them to independently verify your video.  This disclosure may include publically available information such as name, Facebook profile information, twitter profile information and location and may also include other information you have provided to us your such as your email address and phone number and location of where the content was filmed.  At the time you submit your video, you acknowledge that this disclosure will be made and by continuing to upload your details you agree to such disclosure. </p>
-<p>We may also disclose your personal information to any of our affiliates, or to our agents or contractors who assist us in providing the services we offer through the Site, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analysing data, providing support services or in other tasks, from time to time.  Our agents and contractors will only use your information to the extent necessary to perform their functions.</p>
-<p>Where you consent, we may share your information with with News Corp (our ultimate parent company) and any entity who is a News Corp affiliate who may be outside of the EEA for use in accordance with this Policy.</p>
-<p>In the event that we undergo re-organisation or are sold to a third party, you agree that any personal information we hold about you may be transferred to that re-organised entity or third party.</p>
-<p>We may disclose your personal information if required to do so by law or if we believe that such action is necessary to prevent fraud or cyber crime or to protect the Site or the rights, property or personal safety of any person.</p>
-<p>We will provide links to third-party websites as part of the services we provide on this site.  Storyful is not responsible for the content of external websites, or for their privacy policies.</p>
-<h2 class="h3">Child safety</h2>
-<p>Protecting the safety of children when they use the Internet is very important to us.  We do not knowingly collect information from minors without seeking parental or guardian consent.  We recommend that children receive permission from their parent or guardian before gaining access to the Site or sending personal information to us or anyone else online.  Where we become aware that content may have been uploaded by a minor, we will contact the uploader to seek further permissions before using the content further.  If content provided by you contains children, you must seek parental or guardian consent to share the video with us.  When you submit the video, you declare that you have such permissions.</p>
-<h2 class="h3">External links</h2>
-<p>The Site may, from time to time, contain links to external sites.  We are not responsible for the privacy policies or the content of such sites.</p>
-<h2 class="h3">Payment processing</h2>
-<p>Payment details you provide will be encrypted using secure sockets layer (SSL) technology before they are submitted to us over the internet.  Payments made on the Site are made through our payment gateway provider, PayPal.  You will be providing credit or debit card information directly to PayPal which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment.  Information which you supply to PayPal is not within our control and is subject to PayPal’s own privacy policy and terms and conditions.</p>
-<h2 class="h3">Security</h2>
-<p>We place great importance on the security of all personally identifiable information associated with our users.  We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control.  For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to personal information.  Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it.</p>
-<p>You should bear in mind that submission of information over the internet is never entirely secure.  We cannot guarantee the security of information you submit via the Site whilst it is in transit over the internet and any such submission is at your own risk.<br>
+</tbody>
+</table>
+<p class="is-animated">In addition to cookies, tracking Gifs and web beacons may be set by us or third parties in respect of your use of the Site. Web beacons support the delivery of cookies and help determine the number of times a page on the site has been viewed. Tracking Gifs are small image files within the content of the Site or the body of our newsletters so we or third parties can understand which parts of the Site are visited and whether particular content is of interest.</p>
+<h2 class="h3>Uses made of your information</h2> <p>We will use the information you provide to:</p> <ul> <li>deliver you the services and information offered through the Site and which you request;</li> <li>administer your account with us;</li> <li>audit the downloading of data from the Site;</li> <li>improve the layout and/or content of the pages of the Site and customise them for users;</li> <li>identify visitors to the Site;</li> <li>carry out research on our users’ demographics and tracking of sales data;</li> <li>send you information we think you may find useful or which you have requested from us about our products and services, provided you have indicated that you do not object to being contacted for these purposes; and</li> <li>allow us and our partners to contact you directly to carry out verificiation or other checks (for example, regarding future uses) with respect to the content you provide to us.</li> </ul> <p>You can tell us not to contact you with information regarding our products and services, either at the point such information is collected on the Site (by checking or un-checking (as directed) the relevant box) or, where you do not wish us to continue to use your information in this way, by following the unsubscribe instructions on any communications sent to you.  You can also exercise the right at any time by contacting us using the Contacting us details at the end of this privacy policy.</p> <h2 class= is-animated">Information sharing</h2>
+<p class="is-animated">We may disclose aggregate statistics about visitors to the Site, customers and sales in order to describe our services to prospective partners, advertisers, sponsors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifiable information.</p>
+<p class="is-animated">If you sign up to sell or licence a video to Storyful, when we distribute your video to our partners, we will disclose your personal information to our partners in order for them to independently verify your video. This disclosure may include publically available information such as name, Facebook profile information, twitter profile information and location and may also include other information you have provided to us your such as your email address and phone number and location of where the content was filmed. At the time you submit your video, you acknowledge that this disclosure will be made and by continuing to upload your details you agree to such disclosure.</p>
+<p class="is-animated">We may also disclose your personal information to any of our affiliates, or to our agents or contractors who assist us in providing the services we offer through the Site, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analysing data, providing support services or in other tasks, from time to time. Our agents and contractors will only use your information to the extent necessary to perform their functions.</p>
+<p class="is-animated">Where you consent, we may share your information with with News Corp (our ultimate parent company) and any entity who is a News Corp affiliate who may be outside of the EEA for use in accordance with this Policy.</p>
+<p class="is-animated">In the event that we undergo re-organisation or are sold to a third party, you agree that any personal information we hold about you may be transferred to that re-organised entity or third party.</p>
+<p class="is-animated">We may disclose your personal information if required to do so by law or if we believe that such action is necessary to prevent fraud or cyber crime or to protect the Site or the rights, property or personal safety of any person.</p>
+<p class="is-animated">We will provide links to third-party websites as part of the services we provide on this site. Storyful is not responsible for the content of external websites, or for their privacy policies.</p>
+<h2 class="h3 is-animated">Child safety</h2>
+<p class="is-animated">Protecting the safety of children when they use the Internet is very important to us. We do not knowingly collect information from minors without seeking parental or guardian consent. We recommend that children receive permission from their parent or guardian before gaining access to the Site or sending personal information to us or anyone else online. Where we become aware that content may have been uploaded by a minor, we will contact the uploader to seek further permissions before using the content further. If content provided by you contains children, you must seek parental or guardian consent to share the video with us. When you submit the video, you declare that you have such permissions.</p>
+<h2 class="h3 is-animated">External links</h2>
+<p class="is-animated">The Site may, from time to time, contain links to external sites. We are not responsible for the privacy policies or the content of such sites.</p>
+<h2 class="h3 is-animated">Payment processing</h2>
+<p class="is-animated">Payment details you provide will be encrypted using secure sockets layer (SSL) technology before they are submitted to us over the internet. Payments made on the Site are made through our payment gateway provider, PayPal. You will be providing credit or debit card information directly to PayPal which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply to PayPal is not within our control and is subject to PayPal’s own privacy policy and terms and conditions.</p>
+<h2 class="h3 is-animated">Security</h2>
+<p class="is-animated">We place great importance on the security of all personally identifiable information associated with our users. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to personal information. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it.</p>
+<p class="is-animated">You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via the Site whilst it is in transit over the internet and any such submission is at your own risk.<br>
 It is advisable to close your browser when you have finished your user session to help ensure others do not access your personal information if you use a shared computer or a computer in a public place.</p>
-<h2 class="h3">Storage of your information</h2>
-<p>Information that you submit via the Site is sent to and stored on secure servers located in the United States and in the EEA.  Information submitted by you may also be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above (see Information sharing), which may be situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA.  The countries concerned may not have similar data protection laws to the EEA.  Where we transfer your information we will take all reasonable steps to ensure that your privacy rights continue to be protected.  By submitting information via the Site, you agree to this storing, processing and/or transfer.</p>
-<h2 class="h3">Data transfers</h2>
-<p>When you complete our registration forms or use our services, we may transfer your information to processors outside the European Economic Area but will do so with appropriate measures and controls in place to protect that information in accordance with applicable data protection legislation.<br>
+<h2 class="h3 is-animated">Storage of your information</h2>
+<p class="is-animated">Information that you submit via the Site is sent to and stored on secure servers located in the United States and in the EEA. Information submitted by you may also be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above (see Information sharing), which may be situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. The countries concerned may not have similar data protection laws to the EEA. Where we transfer your information we will take all reasonable steps to ensure that your privacy rights continue to be protected. By submitting information via the Site, you agree to this storing, processing and/or transfer.</p>
+<h2 class="h3 is-animated">Data transfers</h2>
+<p class="is-animated">When you complete our registration forms or use our services, we may transfer your information to processors outside the European Economic Area but will do so with appropriate measures and controls in place to protect that information in accordance with applicable data protection legislation.<br>
 When you give us information about another person, you confirm that they have appointed you to act for them and agreed to the transfer of their information abroad.</p>
-<h2 class="h3">Your rights</h2>
-<p>You have a legal right under the Irish Data Protection Act 1988 as amended by the Data Protection (Amendment) Act 2003 to a copy of all the personal information about you held by us.  On request, we will provide you with a copy of this information subject to a fee not exceeding  the permitted statutory maximum.  You also have a right to correct any errors in that information.  As mentioned above, you have a right to prevent the use of your personal information for direct marketing purposes.<br>
+<h2 class="h3 is-animated">Your rights</h2>
+<p class="is-animated">You have a legal right under the Irish Data Protection Act 1988 as amended by the Data Protection (Amendment) Act 2003 to a copy of all the personal information about you held by us. On request, we will provide you with a copy of this information subject to a fee not exceeding the permitted statutory maximum. You also have a right to correct any errors in that information. As mentioned above, you have a right to prevent the use of your personal information for direct marketing purposes.<br>
 More information on data privacy rights is available directly from the Irish Data Protection commissioner.</p>
-<h2 class="h3">Contacting us</h2>
-<p>Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to <a href="mailto:privacy@storyful.com">privacy@storyful.com</a> or write to us at:</p>
-<p>Director of Legal<br>
+<h2 class="h3 is-animated">Contacting us</h2>
+<p class="is-animated">Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to <a href="mailto:privacy@storyful.com">privacy@storyful.com</a> or write to us at:</p>
+<p class="is-animated">Director of Legal<br>
 76 Lower Baggot Street<br>
 Dublin 2<br>
 Ireland</p>
+		</div>
+	</div>
 
-							</div><!-- /.col-content -->
-		</div><!-- /.row-main-wide -->
-	</div><!-- /#main -->
+</article>
+	
+	</div><!-- #page-inn -->
+	<footer id="site-footer" class="footer">
+		<div class="wrapper">
+							<div class="footer-contacts">
+					<a href="tel:+353 1 537 0291">
+						+353 1 537 0291					</a>
+				</div>
+			
+			<div class="footer-socials">
+				<div class="social-icons-block "><a rel="nofollow" class="icon youtube" target="_blank" href="https://www.youtube.com/user/storyful"></a><a rel="nofollow" class="icon facebook" target="_blank" href="https://www.facebook.com/Storyful"></a><a rel="nofollow" class="icon twitter" target="_blank" href="https://twitter.com/storyful"></a><a rel="nofollow" class="icon googleplus" target="_blank" href="https://plus.google.com/+Storyful/posts"></a></div>			</div>
 
+			<nav id="footer-navigation" role="navigation" class="footer-navigation">
+				<ul id="footer-menu" class="footer-menu"><li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://storyful.com/about/careers/">Jobs</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://storyful.com/about/press/">Press</a></li>
+<li id="menu-item-8542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8542"><a href="https://storyful.com/terms-of-use/">Terms</a></li>
+<li id="menu-item-8548" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8546 current_page_item menu-item-8548"><a href="https://storyful.com/privacy/">Privacy</a></li>
+</ul>			</nav>
 
-		<div id="footer">
-			<div class="inner">
+			<div class="copyright">
+				Contents © 2010 – 2017 Storyful.com. All rights reserved.			</div>
+		</div>
+	</footer>
+</div><!-- #page -->
+<script type="text/javascript" src="https://storyful.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="https://storyful.com/wp-content/plugins/simple-share-buttons-adder/js/ssba.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="https://storyful.com/wp-content/themes/storyful/inc/assets/js/common.min.js?ver=1"></script>
+<script type="text/javascript" src="https://storyful.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
 
-				
-				
-				<div class="box-contact row">
-					<div class="col grid-h col-h-1">
-
-						<p class="logo"><img src="http://storyful.com/wp-content/themes/storyful-morel/static/img/illust/storyful.png" width="117" height="31" alt="Storful."></p>
-						<div class="menu-footer">
-							<ul id="menu-footer-menu" class="reset"><li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://storyful.com/">home</a></li>
-<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="http://blog.storyful.com/">blog</a></li>
-<li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38"><a href="https://licensed.storyful.com/">videos</a></li>
-<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://storyful.com/case-studies/">case studies</a></li>
-<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://storyful.com/about/">about</a></li>
-<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://storyful.com/jobs/">jobs</a></li>
-</ul>						</div>
-
-					</div><!-- /.col -->
-					<div class="col grid-h col-h-2">
-						<p class="contact">+353 1 537 0300</p>
-
-						<p class="social">
-														<a href="https://www.facebook.com/Storyful" target="_blank" class="btn-facebook">Facebook</a>
-														<a href="https://twitter.com/storyful" target="_blank" class="btn-twitter">Twitter</a>
-														<a href="https://www.youtube.com/user/storyful" target="_blank" class="btn-youtube">YouTube</a>
-														<a href="https://plus.google.com/+Storyful/posts" target="_blank" class="btn-googleplus">Google+</a>
-													</p>
-					</div><!-- /.col -->
-					<p class="copy">Contents © 2010 – 2016 Storyful.com. All rights reserved. <a title="Privacy Policy" href="http://storyful.com/privacy-policy/">Privacy Policy</a> | <a title="Terms" href="http://storyful.com/terms-of-use/">Terms</a> | <a href="http://status.storyful.com/">Status</a> | <a href="mailto:support@storyful.com/">Support</a></p>
-				</div><!-- /.box-contact -->
-
-			</div><!-- /.inner -->
-		</div><!-- /#footer -->
-
-		<script type="text/javascript" src="http://storyful.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://storyful.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6"></script>
-<script type="text/javascript" src="http://storyful.com/wp-content/themes/storyful-morel/static/js/app.js?ver=1.2"></script>
-<script type="text/javascript" src="http://storyful.com/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
-<script> App.run(); </script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e6fc9b3c48","applicationID":"15288606","transactionName":"YAQHY0oEC0NYV00PCllOJFRMDApeFkRYAQA=","queueTime":0,"applicationTime":594,"atts":"TEMEFQIeGE0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
