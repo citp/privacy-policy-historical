@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openculture.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229041043id_/http%3A//www.openculture.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openculture.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095859id_/http%3A//www.openculture.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Culture
 
@@ -125,3 +125,6 @@ This Privacy Policy is governed by the laws of the State of California and the U
 Open Culture may modify or update this Privacy Policy at its sole discretion from time to time, and so you should review this Privacy Policy periodically.  When we change the policy in a material way, we will notify you by means of a notice on our website prior to the change becoming effective.  Changes to this Privacy Policy are effective when they are posted on this page.  Your continued access to the Open Culture Services after the Privacy Policy has been modified and posted will signify your acceptance of such modifications.
 
 If you have any questions about this Privacy Policy, the practices of the Open Culture Services, or your dealings with Open Culture, please contact us at mail@openculture.com.
+
+  
+
