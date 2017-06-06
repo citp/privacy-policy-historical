@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinesalespro.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214141407id_/http%3A//onlinesalespro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesalespro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054745id_/http%3A//onlinesalespro.com/privacy) for the most accurate reproduction.*
 
-# OSP Privacy Policy
+# Online Sales Pro
 
 **Privacy Policy**
 
