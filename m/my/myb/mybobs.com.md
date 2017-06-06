@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybobs.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121033006id_/http%3A//www.mybobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybobs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205128id_/https%3A//www.mybobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bob's Discount Furniture
 
@@ -92,7 +92,7 @@ My Bob's is committed to maintaining your privacy. This privacy policy and agree
 
 **18.  Further Resources.** If you wish further information concerning privacy policies in general, you should visit the following site: <http://www.ftc.gov/privacy/index.html>. 
 
-**19.  Contact Us.** If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at: [Ask Bob](http://www.mybobs.com/ask-bob)
+**19.  Contact Us.** If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at: [Ask Bob](https://www.mybobs.com/ask-bob)
 
  **20.  Do Not Track Notice.** Our Website does not change its behavior when receiving "Do Not Track" signals from browser software. 
 
