@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftsnideas.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226051233id_/http%3A//www.giftsnideas.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsnideas.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084940id_/http%3A//www.giftsnideas.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of
 
