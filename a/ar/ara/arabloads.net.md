@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the arabloads.net privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407062505id_/http%3A//www.arabloads.net/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabloads.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152026id_/http%3A//www.arabloads.net/Privacy.html) for the most accurate reproduction.*
 
-# Arab Loads | All Premiums In One Click - Dosya paylaЕџД±mД±nД±n en kolay yolu
+# ArabLoads | Cloud Storage
 
-### Privacy Policy
-
-At Arab Loads | All Premiums In One Click the privacy of our users is of extreme importance to us, any personal information received will not sell or shared with anyone or any organization.
+At ArabLoads | Cloud Storage the privacy of our users is of extreme importance to us, any personal information received will not sell or shared with anyone or any organization.
 
 By using the Site, you signify your assent to our privacy policy. If you do not agree with any of the terms of this policy, please do not use our Site. We reserve the right to change this policy at any time, and will post any changes to this policy when they go into effect.
 
@@ -29,6 +27,3 @@ Other Disclosures to Third Parties - subpoenas, court and government orders, our
 ### Cookies
 
 There is a technology called "cookies" which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. Some Duckfile.net pages use cookies so that we can better serve you when you visit and then return to our site. We use cookies to deliver information specific to your interests and to save your password so you don't have to re-enter it each time you visit certain areas of our Web site.
-
-  
-
