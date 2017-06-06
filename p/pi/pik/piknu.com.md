@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the piknu.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129162127id_/http%3A//piknu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piknu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125250id_/http%3A//piknu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting Piknu.com (here refered to as 'the Site' or Piknu). Please make sure to read this privacy policy very carefully before you use the Site. If you do not agree with any of it, please do not use our site. By using or accessing the Site, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+Thank you for visiting Piknu.com (here referred to as 'the Site' or Piknu). Please make sure to read this privacy policy very carefully before you use the Site. If you do not agree with any of it, please do not use our site. By using or accessing the Site, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 At Piknu we value the privacy of our users and it’s important for us that you understand what happens to the information you provide to us. This document is to help you understand how we use, store, collect and disclose your data.
 
@@ -16,7 +16,7 @@ The Site/Contest Tool make it possible to monitor certain information automatica
 
 ## Identifiable Personal Information (IPI)
 
-IPI is individually identifiable information about you that allows us to identify or contact you. Some of the Site’s functions require asking you for certain IPI, such as your instagram username, instagram password and/or other personal information.
+IPI is individually identifiable information about you that allows us to identify or contact you. Some of the Site’s functions require asking you for certain IPI, such as your Instagram username, Instagram password and/or other personal information.
 
 But we do not handle your Instagram passwords directly. We use Instagram's API and OAuth 2.0 protocol to authorize Our users. Our databases are secured with passwords to guard against unauthorized access of Our systems. Only engineer staff members may access data on a need-to-know basis.
 
