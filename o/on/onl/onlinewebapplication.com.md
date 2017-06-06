@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinewebapplication.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114103916id_/http%3A//onlinewebapplication.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinewebapplication.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055830id_/http%3A//onlinewebapplication.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Tech News
 
@@ -12,7 +12,7 @@ Like many other [Web](http://onlinewebapplication.com/6-tools-monitoring-webmail
 
 **DoubleClick DART Cookie**
 
-  * [Google](http://onlinewebapplication.com/the-latest-on-google-glasses-from-the-io-conference/), as a third party vendor, uses cookies to serve ads on [onlinewebapplication.com](http://onlinewebapplication.com/).
+  * [Google](http://onlinewebapplication.com/googles-motorola-acquisition-animated/), as a third party vendor, uses cookies to serve ads on [onlinewebapplication.com](http://onlinewebapplication.com/).
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [onlinewebapplication.com](http://onlinewebapplication.com/) and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
