@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckygunner.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113180518id_/http%3A//www.luckygunner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckygunner.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161652id_/http%3A//www.luckygunner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ We value our customers and their privacy. For this reason, the personal informat
 
 ### Our Commitment To Data Security
 
-We handle your information with utmost care. Our entire site is PCI compliant and our checkout process is SSL encryption secured and is tied directly into our secure payment gateway. Not even the owners of our company can access your credit card information within our system. 
+We handle your information with utmost care. Our entire site is PCI compliant and our checkout process is SSL encryption secured and is tied directly into our secure payment gateway. When you place your order online, not even the owners of our company can access your credit card information within our system. 
 
 ### The Information We Collect
 
