@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igamingbusiness.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120040509id_/http%3A//www.igamingbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igamingbusiness.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035604id_/http%3A//www.igamingbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iGaming Business
 
@@ -6,50 +6,86 @@
 
 [Home](https://web.archive.org/node/15355) » Privacy policy
 
-### **Information collection and use**
+**1\. INTRODUCTION**
 
-We collect information from our users at several different points on the website - this is for customer service and billing purposes, we also collect data from our users so that we can customise the site according to individual selections. iGaming Business Ltd is the sole owner of the personal information collected from this site.
+This privacy policy (Privacy Policy) sets out the ways in which all members of the Clarion Group (by which we mean Clarion Events Limited and all of its subsidiaries ‘Clarion’, ‘Clarion Group’) may use your personal data.  
+In this Privacy Policy:
 
-### **Registration**
+  * ‘we’, ‘us’ or ‘our’ means the Clarion entity with which you are interacting. For example, the entity organising the event you are attending, or managing the website you are using. We will make it clear to you which entity this is;
+  * ‘the site’ means the Clarion website you are visiting or engaging with; and
+  * ‘you’ and ‘your’ means you, the person engaging with us, registering for our events or services or visiting our site.
 
-In order to receive our email alerts, users have to complete a registration form. During registration a user is required to give contact information (such as name and e-mail address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as business sector), and unique identifiers, but encouraged so we can provide a more personalised experience.
 
-### **Order forms**
 
-We request information from users on our order forms. Users have to provide contact information (such as name and delivery address) and financial information (such as credit card number and expiry date). This information is used for billing purposes and to fulfill customer orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+By registering for one of our events, subscribing to our services, visiting our site or otherwise interacting with us, you consent to our processing of your personal data in accordance with this Privacy Policy.
 
-### **Cookies**
+**2\. HOW TO CONTACT US**
 
-A cookie is a small text file written to a user’s hard drive that contains the User ID. The cookies do not contain any personal information about users. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site although functionality will be impaired.
+Address: FAO the Data Protection Officer, Bedford House, 69-79 Fulham High Street, London, SW63JW, United Kingdom.
 
-### **Log files**
+Email: [companysecretary@clarionevents.com](mailto:companysecretary@clarionevents.com)
 
-We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.
+**3\. INFORMATION WE MAY COLLECT ABOUT YOU**
 
-### **Links**
+  * Information you give us: We collect any information you provide to us when you complete registration forms, or provide us with your details over the phone , for example when you register an account with us, register to attend one of our events or subscribe to our mailing list. This information might include your name, address, email address, phone number, credit card information and other information relevant to the event or service that you’re registering for.
+  * Information we collect about you: We will collect any information contained in any correspondence between you and us via contact forms on websites, and emails or telephone calls.
+  * We may collect, for the purposes of any events that we operate badged access for, information about your location in and engagement with the event. For example, for certain events, access will be granted via a badge which holds your registration details including personal information. You will be required to use your badge to gain access to the event. In this situation we will collect information about when you enter the event and which sponsors you have engaged with.
+  * We may collect information about you visiting our website and how you use it. This may include your IP address, geographical location, device information, browser type, referral source, length of visit, operating system, number of page views and similar
+  * information. This information may be collected by a third party website analytics service provider on our behalf and/or may be collected using cookies. For more information on cookies please refer to paragraph 6 below.
+  * **Information we receive from third parties:** We may collect information about you from third parties that we work closely with for the purposes of delivering to you the services that you request from us. For example, we may engage third parties to assist us with our online event registration systems or payment systems; these entities will collect information directly from you on our behalf. We may engage third parties to operate event websites on our behalf; these entities will collect information directly from you about your visits to the website on our behalf.
+  * We may also receive information about you from third parties where you have consented to such third party sharing your information with us.
 
-This website contains links to other sites. Please be aware that iGaming Business Ltd is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of these third party sites. This privacy statement applies solely to information collected by this website.
 
-### **Newswires**
 
-If a user wishes to subscribe to our newswires, we ask for contact information such as name and email address.
+**4\. HOW WE USE INFORMATION ABOUT YOU**
 
-### **Surveys**
+You agree that we may use your information for the following purposes:
 
-From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose any information requested. Information requested may include contact information (such as name and delivery address), and demographic information (such as business sector). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the functionality of the site.
+  * to provide you with services or information that you have requested from us such as attendance at one of our events;
+  * to contact you with information about an event that you’re attending.
+  * to keep in contact with you about other events or services of ours that we believe may interest you.
+  * to share information with other entities within the Clarion Group or other selected third parties, to enable them to contact you with information about goods or services that may interest you;
+  * to provide customer service and support, deal with enquiries or notify you of changes in relation to your attendance at one of our events, use of our site or other services;
+  * to carry out aggregated and anonymised research about general consumer engagement with our events, sites and services;
 
-### **Security**
 
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, as will be the case for most of the time that a user is browsing the web.
+**5\. WHO WE MIGHT SHARE YOUR INFORMATION WITH**
 
-If you have any questions about the security at our website, please contact [Customer Services.](mailto:info@igamingbusiness.com?subject=T&C%20Form%20Query)
+You agree that we can share your personal information with:
 
-### **Correcting/Updating personal information**
+  * other entities in the Clarion Group or selected third parties that we work with, where necessary for the purposes of delivering to you services that you request from us. For example, when you register to attend an event that we host, we may need to share your information with third party sub-contractors, service providers or other Clarion Group entities
+  * any other Clarion Group entity or selected third party that you consent to our sharing your information with for marketing purposes;
+  * any other third parties where necessary to enable us to enforce our legal rights, or to protect the rights, property or safety of our employees or where such disclosure may be permitted or required by law.
 
-If a user’s personally identifiable information changes (such as your postcode), or if a user no longer desires our service, we will endeavour to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the personal profile page or by contacting [Customer Services](mailto:info@igamingbusiness.com?subject=T&C%20Form%20Query).
 
-### **Notification of changes**
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+**6\. COOKIES**
+
+We use cookies to ensure that you get the most out of our site. Cookies are small text files which we store on the device you use to access the site. Cookies allow us to monitor your use of the software and simplify your use of the site. For example, a temporary cookie is also used to keep track of your "session". Without that temporary cookie (which is not stored after you quit your browser) you would have to log on every time you access a new page.
+
+If you do not wish for cookies to be installed on your device, you can change the settings on your browser or device to reject cookies. For more information about how to reject cookies using your internet browser settings please consult the “Help” section of your internet browser (or alternatively visit [http://www.aboutcookies.org](http://www.aboutcookies.org/)). Please note that, if you do set your Internet browser to reject cookies, you may not be able to access all of the functions of our websites.
+
+**7\. THIRD PARTY CONTENT, SITES AND CONTRIBUTORS**
+
+Some of our websites may contain content and links to other websites that are operated by third parties. We don’t control these third party websites (including whether or not they store cookies) and this Privacy Policy does not apply to them. Please consult the terms and conditions and Privacy Policy of the relevant third party website to find out how that site collects and uses your information and to establish whether and for what purpose they use cookies.
+
+**8\. HOW WE LOOK AFTER YOUR INFORMATION AND HOW LONG WE KEEP IT FOR**
+
+We use appropriate technological and operational security measures to protect your information against any unauthorised access to or unlawful use. We will retain your information for as long as is necessary to provide you with the services that you have requested from us or for as long as the law otherwise permits.
+
+Transmission of information over the internet can be insecure, and although we employ measures to protect your information from unauthorised access, you acknowledge that we cannot always guarantee the security of information sent over the internet.
+
+**9\. WHERE WE STORE YOUR INFORMATION**
+
+Our servers are situated in inside the European Economic Area (EEA) and all of the information that we collect about you will be stored on these servers.
+
+In certain circumstances, your information may be processed outside of the EEA such as when we engage third parties based outside of the EEA to assist us with the services that you have requested from us. In such circumstances, we will take all steps necessary to ensure that any of your information is adequately protected and processed in accordance with this Privacy Policy. You consent to this transfer and processing of your information.
+
+**10\. YOUR RIGHTS TO THE INFORMATION WE HOLD ABOUT YOU**
+
+You have the right to see the personal data that we keep about you, by making a request in writing to the Data Protection Officer (details provided above at Paragraph 2) and payment of a£10 fee. You can also contact us using the details above at Paragraph 2 If you are concerned that any of the information we hold on you is incorrect.
+
+**11\. CHANGES TO THIS PRIVACY POLICY**
+
+We reserve the right to update this Privacy Policy from time to time. Updated privacy policies will 11.1be updated on the relevant Clarion Group website
