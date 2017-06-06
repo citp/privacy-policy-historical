@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typography.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014090450id_/http%3A//www.typography.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typography.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193010id_/https%3A//www.typography.com/home/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Hoefler & Co.
 
