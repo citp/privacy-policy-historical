@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websiteseochecker.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045043id_/http%3A//websiteseochecker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteseochecker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064749id_/http%3A//websiteseochecker.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Website SEO Checker
+# Privacy – website seo
 
 We encourage you to browse this Policy fastidiously. If you've got any questions about this Policy, our use of your Personal data, or your dealings with this web site, please be at liberty to contact America. we tend to could update this Policy from time to time in our sole discretion to replicate changes in our use of your Personal data and/or applicable law. Any changes created to the current Policy are going to be mirrored in associate updated policy (denoted by associate updated date above) announce on our web site at websiteseochecker.com.
 
