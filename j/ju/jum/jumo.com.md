@@ -1,109 +1,119 @@
-> *The following text is extracted and transformed from the jumo.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204085954id_/http%3A//www.globalgiving.co.uk/aboutus/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191713id_/https%3A//www.globalgiving.org/aboutus/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy - GlobalGiving.co.uk
+# Privacy Policy - GlobalGiving
 
-GlobalGiving values you and respects your privacy. We collect information to support our relationship with you, improve our services, and communicate about promotions or special services. We recognise that we must maintain and use information responsibly and that comply with any laws and regulations which apply to our use of your personal information (in particular the Data Protection Act 1998). 
+## GlobalGiving Privacy Policy
 
-This policy describes what personal information we collect and how we use it. You can always find the most current version of our privacy policy on this page 
+GlobalGiving respects your privacy. We collect information to support our relationship with you, improve our services, and communicate about promotions or special services. GlobalGiving recognizes that we must maintain and use information responsibly. 
 
-  * Collection and Use of Personal Information
-  * Creating a globalgiving.co.uk Account
-  * Making a Donation
-  * Gift Certificates
-  * Contests, Promotions, and Surveys
-  * What are Cookies
-  * Disclosure of Personal Information
-  * Viewing and Updating Your Information on GlobalGiving
-  * Links to Other Websites
-  * Privacy Policy Updates
-  * Contact Us
+By continuing to access or use GlobalGiving.org (‘our website’), you agree to be legally bound by this Privacy Policy and the Terms of Service. These Terms and Supplementary Terms may be modified from time to time and will be posted on our website.
+
+GlobalGiving.org is operated by GlobalGiving Foundation, a 501(c)3 organization (EIN: 30‑0108263) based in District of Columbia, United States, and GlobalGiving UK, a registered in England and Wales charity number 1122823 and registered company number 5824642, together “GlobalGiving”.
+
+#### Information Collection
+
+We collect information when you visit our website, create an account, edit your account information, donate to a project, or send or use a gift card. Some of this information is technical information that is automatically logged by our servers. 
+
+You authorize us to use, store or otherwise process any personal information which relates to and identifies you, including (but not limited to) your name and address, to the extent reasonably necessary to provide the services which are available through our website by GlobalGiving, our partners, successors (including the purchaser of the whole or part of our business), associates, sub-contractors or other third parties (together our 'Associates'). Your data may be held on servers in the United States, the EEA and other countries located outside the EEA that do not have laws to protect your information. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and US and EEA data protection legislation. Further details of the companies and countries involved in processing your data will be provided on request. 
+
+For the purposes of the UK Data Protection Act 1998, the UK data controller is GlobalGiving UK (registered company number 5824642 and registered charity number 1122823, whose registered office is at 6 Great James Street, London, WC1N 3DA, United Kingdom.) 
+
+#### Creating a globalgiving.org Account
+
+When you create an account on our website, we collect **basic information** about you - your name and email address. You can choose to provide additional information, such as your mailing address, a photo, favorite projects, etc., if you create a profile or create a GlobalGiving fundraiser. 
+
+#### Making a Donation
+
+When you make an online donation on globalgiving.org, we collect personal information such as your name, billing address, and email address, if you have not already provided these details. We collect information about your donation, including the project you are donating to and the amount of your donation. You may choose to provide the email address of friends that you ask us to notify about your use of the globalgiving.org website. We also collect (but **do not retain** ) credit card numbers which are processed by a third-party payment vendor subject to the Payment Card Industry Data Security Standards. If you use PayPal or a similar service, their use of your information is based on their terms of service and policies, not ours, so we encourage you to review those policies carefully. 
+
+#### Gift Cards
+
+When you give a GlobalGiving Gift Card, we collect payment and contact information from you, as well as the name, email address, and mailing address of your recipient. You may create a personal message to the recipient, which is stored on our servers. Except in the limited circumstances described below, we do not read or use your personal messages. 
+
+If you are the recipient of a GlobalGiving Gift Card, we collect information from you when you redeem the Card to make a donation. Please note that we may share this information with the individual or entity who gave you the gift card. 
+
+#### Donations in Honor/Memory of Someone
+
+When you make a donation in honor or memory of a loved one, we collect payment and contact information about you, as well as the name, email address, and mailing address of the recipient. You may create a personal message to the recipient, which is stored on our servers. Except in the limited circumstances described below, we do not read or use your personal messages. 
+
+#### Contests, Promotions, and Surveys
+
+Periodically, GlobalGiving may invite you to participate in contests, take advantage of special promotions, and complete online surveys. If you have created a GlobalGiving account or profile, information we collect from these contests, promotions, and surveys may be associated with you personally. 
+
+#### Creating a Fundraiser or Registry
+
+When you create a fundraiser or registry on GlobalGiving, we collect information about projects you propose or wish to support. GlobalGiving notifies the project leader when a fundraiser or registry is established for their project, but does not share your personal information with the project leader or the project. Remember, however, that anything you post on your fundraiser site will be seen by visitors to the site. 
+
+If you donate to a registry, fundraiser, or giving group, then we will also share your name and the date and amount of your donation with the person who created the registry, fundraiser, or group. 
+
+#### Technical Information
+
+Like most websites, our servers automatically collect certain technical information when you visit our site, including your Internet Protocol address, browser type, browser language, the date and time of your visit, the referring URL, and, if you have visited our Site before, one or more cookies that may uniquely identify your browser. We also collect information about your activities on the site, such as the pages you access. 
+
+In order to collect this information, the site places a cookie on your hard drive. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
+
+In addition, we use a tool called "Google Analytics" to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, what other sites they used prior to coming to this site, and Interest-based advertising or 3rd-party audience data (such as age, gender and interests). We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/). You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using [Google Ads Settings](https://www.google.com/settings/ads). 
+
+#### Use of Information
+
+GlobalGiving uses the personal information that you provide, and the technical information logged by our servers to process your donations, to: 
+
+  * deliver the notifications described above;
+  * notify your friends and family about the project if you ask us to;
+  * improve your experience (such as remembering your name, the items in your Giving Cart, or your preferences);
+  * contact you regarding your donation(s) and other aspects of the service; 
+  * operate the site and our business; and 
+  * compile aggregate statistics that allow us to understand how visitors use our site, and to make improvements in design and content to better serve you.
 
 
 
-By accessing or using [www.globalgiving.co.uk](https://web.archive.org/) ('our website'), you agree to be legally bound by this Privacy Policy and our Terms and Conditions as they may be modified and posted on our website from time to time. 
+#### Disclosure of Personal Information
 
-If you do not agree to this Privacy Policy then you may not use our website. 
+We will share your personal information with our agents, representatives, service providers and contractors in order to process your donations, offer you services in connection with our website, communicate news and information about GlobalGiving, provide customer service, claiming Gift Aid from UK government, enhance and improve customers' donor experiences, and complete financial transactions. These service providers are authorized to use your information only to the extent necessary to serve these purposes, or as otherwise authorized by this policy. **Except for the purposes outlined herein, we will not trade, share, or sell a donor's personal information with anyone else.** This policy applies to donor information collected by the GlobalGiving Foundation and GlobalGiving UK through all channels, including online and offline donations. 
 
-####  Collection and Use of Personal Information 
+Unless you ask us not to, we share your personal information under the following circumstances: 
 
-We collect personal information when you create an account or edit your account information, donate to a project, or send a gift card. We also collect some technical information about your use of our website. This information is used to facilitate your use of the site and your donations, to contact you when necessary, and to improve your experience. 
+  * When you **donate to a project** , we share your name and contact information and the amount of your donation with the **project leader**.
+  * When you **donate to a fundraiser** , registry, or giving group, we share your name and the date and amount of your donation with the **person who created the fundraiser** , registry, or group.
+  * When you make a donation that is part of a **campaign sponsored by your employer** , and/or when your employer is being asked to match your donation, we will share your name, email address and the amount of you donation with your employer.
+  * Each time you make a donation, however, **we will give you the opportunity to tell us not to share your personal information** in the ways described above (except in the case of employer matched donations) by selecting to be " **anonymous** " during the checkout process.
 
-You authorise us to use, store or otherwise process any personal information which relates to and identifies you, including (but not limited to) your name and address, to the extent reasonably necessary to provide the services which are available through our website by us, our partners, successors (including the purchaser of the whole or part of our business), associates, sub-contractors or other third parties (together our 'Associates'). These Associates may be located in countries outside the EEA that do not have laws to protect your information. Our primary Associate is GlobalGiving Foundation located in Washington DC in the United States of America. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Further details of the companies and countries involved in processing your data will be provided on request. 
 
-For the purposes of the Data Protection Act 1998, the data controller is GlobalGiving UK (registered company number: 5824642 and registered charity number 1122823, whose registered office is at 6 Great James Street, London, WC1N 3DA, United Kingdom) 
 
-####  Creating a GlobalGiving.co.uk Account 
+If GlobalGiving merges with, or becomes an affiliate of another organization, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy. 
 
-When you create an account on our website, we collect basic information about you - your name and email address. We collect additional personal information if you submit a profile or picture, or create a GlobalGiving gift registry. 
+Aside from the purposes described above, we will not disclose your personal information without your consent, unless: (1) we need to respond to a subpoena, court order or legal process; (2) an emergency situation requires disclosure before your permission can be obtained (e.g., situations involving potential threats to personal safety), or; (3) we determine that disclosure is needed to protect our rights or property, or the rights or property of another person. 
 
-####  Making a Donation 
+We may share aggregated demographic and statistical information with our other partners. This is not linked to any personal information that can identify any individual person. 
 
-When you make an online donation on globalgiving.co.uk, we collect personal information such as your name, billing address, and email address, if you have not already provided these details. Credit card or bank account numbers are collected by our third-party payment vendor [PayPal](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside%27,%27Zoom%27,%27width=800,height=800,scrollbars=yes,resizable=yes%27\)), PayPal's use of your information is based on their terms of service and policies, which you should review. GlobalGiving will collect only your GlobalGiving account information and donation history. We do not collect or have access to the credit card numbers or bank account information PayPal collects to process online transactions. 
+#### Information about Children Under 13
 
-####  Gift Certificates 
+GlobalGiving.org is a general audience website, and does not collect information about a visitor's age. We do, from time to time, partner with other organizations to educate children about philanthropy in general and our work in particular. In those cases, we do not collect personal information from a visitor on pages specifically designed for children. 
 
-If you give a GlobalGiving gift certificate, we collect the name, email address, and mailing address of your recipient, as well as a personal message from you. This information is collected only to facilitate this service and we use it in good faith that the recipient will not object to us using it in this way 
-
-####  Contests, Promotions, and Surveys 
-
-Sometimes GlobalGiving may invite you to participate in contests, take advantage of special promotions, and complete online surveys. The information we collect from these contests, promotions, and surveys may be associated with your individual account in order to help us improve our website and services. This information will only be shared as described in this policy, and your answers to surveys will only be used in aggregate. 
-
-####  What are Cookies 
-
-We collect some technical information about how you access and use our site. Cookies are small files that a website stores on your computer. We use cookies to collect information such as what type of browser you are using, the website from which you enter globalgiving.co.uk, and the pages you view as you tour our site. We use this information to improve your experience (such as remembering your name or the items in your Giving Basket) and to help us compile aggregate statistics that allow us to make improvements in design and content to better serve you. An IP address is a number that is assigned to your computer when you are using the Internet. Like most websites, we identify your computer by its IP address. We use this to monitor information, such as the number of visitors that visit our website. 
-
-####  Cookies used by GlobalGiving 
-
-**Cookie Name**|  **Purpose**  
----|---  
-gg_CartId and uk_CartId| used to track giving basket  
-Coyote cookie| used for load balancing to ensure that a user goes to the same server on subsequent page views  
-JSESSIONID| use to track sessions and login status on our website  
-RegGive| used to track registry giving  
-ukLoginName and ukHasPERole and uk_rememberme| used to track logged in user and determine what options to show on the top right  
-ggRefCode and ukRefCode and ggConversionCode| used to track referring site  
-cookieWarningClosed| used to track acknowledgment of the cookie warning  
-  
-####  Cookies used by third parties 
-
-**Cookie Name**|  **Purpose**  
----|---  
-__u*| Google Analytics  
-  
-####  Managing Cookies 
-
-You can customise your browser's cookie settings to manage what cookies are sent to you or which cookies are set on your computer. For more information about to manage cookies on your web browser vistit [www.aboutcookies.org](http://www.aboutcookies.org/). 
-
-####  Disclosure of Personal Information 
-
-We will share your personal information with our agents, representatives, service providers and contractors in order to process your donations, offer you services in connection with our website, communicate news and information about GlobalGiving, provide customer service, enhance and improve customers' donor experiences, and complete financial transactions. If you tell us you are a UK tax payer and ask us to collect Gift Aid on your donations, we may share your personal information with HM Revenue and Customs in order to process Gift Aid claims. 
-
-These third parties are provided with your information only to the extent necessary to serve these purposes, or as otherwise authorised by this policy. 
-
-Aside from the purposes described above, we will not disclose your personal information only in accordance with the Data Protection Act 1998, for insurance when we are legally obliged to do so, or we consider that an emergency situation requires disclosure before your permission can be obtained (e.g., situations involving potential threats to personal safety), or to protect our rights or property, or the rights or property of another person. 
-
-We may share aggregated demographic and statistical information with our other partners. This will not be linked to any personal information that can identify any individual person. 
-
-If (with your consent) we pass on your personal details to projects or organisations that you choose to support using our website, we are not responsible for the subsequent use of your personal information by those projects or organisations. You should contact them directly if you wish to stop receiving further communications from them. As with our Associates, these projects and organisations may be located in countries outside the EEA that do not have laws to protect your information. 
-
-####  Viewing and Updating Your Information on globalgiving.co.uk 
+#### Viewing and Updating Your Information on globalgiving.org
 
 You can access your account information at any time by going to the My Account page. You can make changes to your information and update your account at any time. 
 
-You also can unsubscribe from a GlobalGiving newsletter at any time by sending an unsubscribe email as described at the bottom of every GlobalGiving newsletter, or by updating your newsletter subscriptions on the My Account page. 
+You can also unsubscribe from GlobalGiving communications at any time by sending an unsubscribe email as described at the bottom of every GlobalGiving communications, or by updating your subscriptions on the My Account page. 
 
-####  Links to Other Websites 
+When you create an account or profile on globalgiving.org, you can decide whether to make some or all of that information public or private. You can change your choices at any time using the My Profile page. Please note, however, that your preferences do not affect the disclosures to project leaders, or fundraisers, or giving group leaders. So, for example, if you make a donation to a fundraiser, then we will display your name and date of your donation on the fundraiser regardless of your settings. Likewise, if you contribute to a project, we will share your name and contact information with the project leader. In each case we will give you the opportunity to tell us not to disclose your personal information with the project leader, or publish it on the web site or in our annual report. 
 
-Other websites, including those of our partners (links to which appear on globalgiving.co.uk), have their own privacy policies. When you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the GlobalGiving privacy policy. We encourage you to read that policy before submitting any personal information. 
+#### Links to Other Websites
 
-We recommend that you take all appropriate steps to safeguard your personal information online. 
+Other websites, including those of our partners (links to which appear on globalgiving.org), have their own privacy policies. When you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the GlobalGiving privacy policy. We encourage you to read that policy before submitting any personal information. 
 
-####  Privacy Policy Updates 
+You should take additional steps to safeguard your personal information online. To learn more about how to protect yourself, visit the [Federal Trade Commission website](http://www.ftc.gov/) (US) or the [Information Commissioner's Office](https://ico.org.uk/for-organisations/guide-to-data-protection/principle-6-rights/) (UK). 
+
+#### Security
+
+GlobalGiving understands the importance of keeping your information secure and confidential. We have implemented policies and procedures designed to help safeguard your information. When you make a donation, information about your credit card, Paypal account, or bank is transmitted using SSL. 
+
+#### Privacy Policy Updates
 
 Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests of our customers. If our information practices change materially, we will post the policy changes on the privacy page of this website to notify you of these changes. Please check our website periodically for more information on how we use the data we collect. 
 
-####  Contact Us 
+#### Contact Us
 
-If you contact us by using the "Contact Us" links on the footer of our site, we will try to reply promptly to every message we receive. This information is used to respond directly to your questions or comments. We also may file your comments and share them with our customer care team to improve our service in the future. 
+You may contact us by using the “Contact Us” links on the footer of our site. We try to reply promptly to every message we receive. This information is used to respond directly to your questions or comments. We also may file your comments and share them with our customer care team to improve our service in the future. 
 
-If you still have questions or concerns regarding our privacy policy, or would like to review the information we hold about you, please email us at [ukinfo@globalgiving.org](mailto:ukinfo@globalgiving.org) or write us at GlobalGiving UK, 6 Great James Street, London, WC1N 3DA, United Kingdom. 
+##### Last Modified: January 9, 2017
