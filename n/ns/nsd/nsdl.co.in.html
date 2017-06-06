@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nsdl.co.in privacy policy that was archived on 2016-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406130004id_/https%3A//nsdl.co.in/about/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nsdl.co.in privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606185642id_/https%3A//nsdl.co.in/about/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -176,7 +176,18 @@ function noCTRL(e)
 	  window.event.returnValue = false;
     }
 } 
+function windowpop(url, width, height) {
+    var leftPosition, topPosition;
+    //Allow for borders.
+    leftPosition = (window.screen.width / 2) - ((width / 2) + 10);
+    //Allow for title and status bars.
+    topPosition = (window.screen.height / 2) - ((height / 2) + 50);
+    //Open the window.
+    window.open(url, "Window2", "status=no,height=" + height + ",width=" + width + ",resizable=yes,left=" + leftPosition + ",top=" + topPosition + ",screenX=" + leftPosition + ",screenY=" + topPosition + ",toolbar=no,menubar=no,scrollbar=yes,ocation=no,directories=no");
+return false;
+}
 </script></head>
+
 
 <body>
 <div id="main">
@@ -353,11 +364,12 @@ function noCTRL(e)
 			<li class="top"><img src="https://nsdl.co.in/images/spacer.gif" alt=""></li>
 			<!--<li><a href="https://nsdl.co.in/Investment-QFIs/Investment-QFIs.php">QFI/FII/FPI Investment</a></li>-->
 <li><a target="_blank" href="https://www.fpi.nsdl.co.in/web/Reports/ReportsListing.aspx">Foreign Portfolio Investor (FPI) Statistics</a></li>
-			<!--<li><a href="https://www.fpi.nsdl.co.in/web/Reports/ReportDetail.aspx?RepID=1">Debt Utilisation Status � FIIs & QFIs</a></li>-->
+			<!--<li><a href="https://www.fpi.nsdl.co.in/web/Reports/ReportDetail.aspx?RepID=1">Debt Utilisation Status – FIIs & QFIs</a></li>-->
 			<!--<li><a href="https://www.fpi.nsdl.co.in/Reports/ReportDetail.aspx?RepID=1">Debt Utilisation Status FIIs & QFIs</a></li>-->
 			<li><a href="https://www.fpi.nsdl.co.in/web/Reports/ReportDetail.aspx?RepID=1">Debt Utilisation Status FIIs &amp; QFIs</a></li>
 			<li><a href="https://nsdl.co.in/nsdlnews/Investment-QFIs.php">Investment by Qualified Foreign Investors (QFIs)</a></li>
 			<li><a href="https://nsdl.co.in/Status-RGESS.php">Status of Rajiv Gandhi Equity Savings Scheme, 2012 (RGESS)</a></li>
+			<li><a href="https://www.fpi.nsdl.co.in/web/Reports/traderepositoryreport.aspx">Trade Repository</a></li>
 			<li class="bot"><img src="https://nsdl.co.in/images/spacer.gif" alt=""></li>
 		</ul>
 	</li>
