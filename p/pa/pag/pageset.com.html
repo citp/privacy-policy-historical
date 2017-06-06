@@ -1,227 +1,796 @@
-<!--The following is the downloaded HTML source of the pageset.com privacy policy that was archived on 2013-07-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130724094132id_/http%3A//sp.pageset.com/en/docs/about/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pageset.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606175526id_/https%3A//www.simpli.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "/sh/w3c/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>About Pageset.com Privacy</title>
-<link rel="stylesheet" type="text/css" href="/sh/css/SHARED.css?up=070606">
-<link rel="stylesheet" type="text/css" href="/sh/css/TEOMA_STANDARD.css?up=070606">
-<link rel="stylesheet" type="text/css" href="/sh/css/ASKKIDS_ERRORPAGE.css">
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    
 
-<script type="text/javascript" src="/sh/js/cookie.js"></script>
-<script type="text/javascript" src="/sh/js/tracking_us.js"></script>
+    
 
+<title>Simpli.com</title>
+
+
+
+
+
+    
+
+<link rel="stylesheet" type="text/css" href="/s/0-0-82/site-search-sites-simpli-privacy-page.css">
+    
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T3KVMC&amp;l=dataLayer"></script><script>
+        var App = {};
+    </script>
+    
+
+    
 
 </head>
+<body>
 
-<body onload="Tracking.init();">
+<div class="l-header">
+    <div class="l-header-container">
+        
 
-<div id="wrpr">
+
+<div class="PartialLogo js-PartialLogo">
+    
+
+<div class="PartialLogo-logo">
+            <a href="/" data-unified="{&quot;moduleName&quot;:&quot;logo&quot;,&quot;resultType&quot;:&quot;navigation&quot;,&quot;providerSource&quot;:&quot;navigation&quot;,&quot;zoneName&quot;:&quot;header&quot;,&quot;moduleInZone&quot;:1,&quot;resultInModule&quot;:1}" data-qo="logo"></a></div>
+    
+</div>
 
 
-<!-- <div id="hdr"><style type="text/css">
-#navbar_logo a {
-        background-image:url('http://sp.qbyrd.com/sh/i/a11/iacnewbrand/qbyrd_43xh2.gif');
-        width:39px;
-        height:43px;
-        background-repeat:no-repeat;
-        display:block;
-        cursor:pointer;
-	
+<div class="PartialSearchBox">
+    <div class="PartialSearchBox-container">
+        <form target="_top" action="/web" method="get" class="PartialSearchBox-form js-PartialSearchBox-form" data-unified="{&quot;resultType&quot;:&quot;navigation&quot;,&quot;providerSource&quot;:&quot;navigation&quot;,&quot;zoneName&quot;:&quot;header&quot;,&quot;moduleName&quot;:&quot;searchBox&quot;,&quot;moduleInZone&quot;:2,&quot;resultInModule&quot;:1}">
+            <input type="hidden" id="origin" name="o" value="33778">
+            <input type="hidden" id="partnerID" name="l" value="dir">
+            <input type="hidden" id="qo" name="qo" value="serpSearchTopBox">
+            <input class="PartialSearchBox-input js-PartialSearchBox-input js-PartialSearchBox-input-logo" data-zone="header" validate="required" value="" name="q" autocomplete="off" maxlength="2048" placeholder="">
+            <button class="PartialSearchBox-button js-PartialSearchBox-button" type="submit">
+                <div class="PartialSearchBox-button-magnifier"></div>
+            </button>
+        </form>
+        
+</div>
+</div>
+
+<script>
+    'use strict';
+    if (App) {
+        (function () {
+            App.events = App.events || [];
+            App.events.push(
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: ".js-PartialSearchBox-form",
+                        type: "submit",
+                        handler: function (e) {
+                            var $searchTextInputBox = $(".js-PartialSearchBox-input", this);
+                            if (!$searchTextInputBox.val()) {
+                                return false;
+                            }
+                        }
+                    },
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: ".PartialSearchBox-container",
+                        type: "submit",
+                        handler: function (e) {
+                            var topForm = $(".js-PartialSearchBox-form", this),
+                                    searchPayload = topForm.data("unified"),
+                                    ask = typeof(ask) != undefined ? ask : {};
+
+                            if (!searchPayload) {
+                                return;
+                            }
+                            searchPayload.actionType = "click";
+                            searchPayload.assetType = "searchBox";
+                            topForm.unbind(e);
+                            e.preventDefault();
+
+                            if(ask && ask.unified !== undefined) {
+                                ask.unified.sendAction(searchPayload, function () {
+                                    topForm.submit();
+                                });
+                            } else {
+                                topForm.submit();
+                            }
+                        }
+                    },
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: null,
+                        type: "ready",
+                        handler: function () {
+                            var input = $(".js-PartialSearchBox-input", this),
+                                clear = $(".js-PartialSearchBox-clear", this);
+                            if (clear) {
+                                _searchUtil.searchBoxClear(input, clear);
+                            }
+                        }
+                    },
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: ".js-PartialSearchBox-input",
+                        type: "focus",
+                        handler: function (e) {
+                            
+}
+                    },
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: ".js-PartialSearchBox-input",
+                        type: "blur",
+                        handler: function (e) {
+                            
+}
+                    },
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: ".js-PartialSearchBox-input",
+                        type: "keydown",
+                        handler: function (e) {
+                            e.stopPropagation();
+                        }
+                    }
+            );
+        })();
     }
+</script>
 
 
 
-</style>
-<div class="logo"></div>
-
-<div class="srchModule" >
-<table>
-<tr>
-<td style="padding-right:10px;padding-top:15px;" >
-<div id="navbar_logo">
-        <a href="http://qbyrd.com" title="Qbyrd" border="0"></a>
-    </div>
-
-</td>
-<td>
-<form name="ft" id="ft" action="http://qbyrd.com/web" method="get">
-<table cellspacing="0" cellpadding="0" style="margin-top:15px;"  >
-<tbody>
-<tr>
-<td style="padding-bottom:5px;">
-<span class="on" style="margin-right:15px;" >Web</span> 
-			<a href="http://qbyrd.com/?qsrc=1&o=102142&l=dir&tool=img" style="color:#0033CC;margin-right:15px;" >Images</a>
-			<a href="http://qbyrd.com/?qsrc=1&o=102142&l=dir&tool=vid" style="color:#0033CC;" >Video</a> 			
-</td>
-
-</tr>
-<tr>
-<td>
-<input type="text" size="50" name='q' class="srchQueryBox" style="margin-bottom:2px;" />
-</td>
-<td  >
-<input type="submit" value="Submit" class="srchSubmitBtn" style="margin-left:10px;margin-right:40px;"/>	
-
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</table>
-	<input type="hidden" id="qsrc" name="qsrc" value="1" />
-	
-	
-	</form>
 </div>
 </div>
 
-</div> -->
-<table id="nvcon" cellspacing="0" cellpadding="0">
-<tbody><tr>
-
-<td valign="top"><table width="200px;"> <tbody><tr><td valign="top" style="border:solid 1px #CCC;"><div id="nv1">
-
-<div class="lv1"><a href="/en/docs/about/index.shtml">Overview                 </a></div>
-
-<div class="lv1 onln"><a href="/en/docs/about/site_policies.shtml" tracking="ct:43889">Site Policies            </a></div>
-
-<div class="lv1"><a href="/en/docs/about/help.shtml">Help</a></div>
+<div class="l-content">
+    <div class="l-mid-content content-visible">
+        <div class="l-mid-container">
+            
 
 
+<div class="PartialPrivacyPolicy">
 
-<div class="lv1"><a href="/en/docs/about/contact_us.shtml" tracking="ct:43876">Contact Us               </a></div>
+    <div class="PartialPrivacyPolicy-title">Privacy Policy</div>
 
+    <div class="PartialPrivacyPolicy-content">
+<p><strong>Last Updated On: November 28, 2016<br> </strong><br> At Simpli.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by IAC Publishing, LLC (“IACP”, “we”, “us”, “our”) through our site Simpli.com (the “Site”) and the related services (collectively the “Services”).</p>
+<p>Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.<br> <br> We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Site. Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.</p>
 
-</div></td></tr>
-</tbody></table></td>
-<td valign="top" width="100%"><a name="top"></a><div id="con" style="margin-left:15px;">
+<p><strong>1. INFORMATION WE COLLECT ABOUT YOU.</strong></p>
 
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Untitled Document</title>
-
-
-
-<h2>Pageset Privacy Policy</h2>
-<p><em>Effective date: November 22, 2011</em><br>
-    <br>
-</p>
-   Pageset is a service owned and operated by IAC Search &amp; Media, Inc. that allows users to easily select and change their browser start page. Once you have selected your home page, Pageset will display a search bar at the top of the web pages you visit.  By using Pageset, you are agreeing to the collection and use of certain information about you in the manner described in this Privacy Policy.<br>
-  <br>
-  <strong>Pageset does not collect any information about the web sites or web pages you visit or about the web services that you use.  Pageset only collects information about your use of the Pageset service and search bar.</strong>  <br>
-<br>
-  We update this Privacy Policy from time to time. If we make any material changes in the ways we may collect, use, or share information, we will notify you by posting notice of the changes on the Site. We encourage you to periodically review our Privacy Policy to become and remain familiar with it. The Privacy Policy includes at the top of the first page the date of the most recent change. <br>
-<br>
-  This Privacy Policy addresses the following issues: <br>
-  <br>
-  <a href="#1">What types of information do we collect?</a> <br>
-  <br>
-  <a href="#2">How may we use the information we collect?</a><br>
-  <br>
-  <a href="#3">How are cookies used on the Site?</a> <br>
-  <br>
-  <a href="#4">What information may we share with third parties?</a> <br>
-  <br>
-  <a href="#5">What happens when you leave the Site to go to other Internet sites?</a> <br>
-  <br>
-  <a href="#6">What is our policy regarding personally identifiable information from children under 13?</a> <br>
-  <br>
-  <a href="#7">Do we take security precautions to protect your information?</a> <br>
-  <br>
-  <a href="#8">Are there special considerations if you are visiting the Site from outside of the United States?</a> <br>
-  <br>
-  <a href="#9">Whom can you ask if you have privacy-related questions?</a> <br>
-  <br>
-  <br>
-  <br>
-<a name="1" id="1"></a> <p></p>
-<h3>What types of information do we collect?</h3>
-<br>
-<p>When you use Pageset, we collect the following information:</p>
+<p>We explain below the main ways that we collect and process information about you.</p>
+<p><strong><u>Information You Provide To Us</u></strong><strong>.</strong> Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password. You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, and communications preferences.</p>
+<p>You may also provide personal information to us, if you choose to:</p>
 <ul>
-<li>your Internet Protocol (IP) address;</li>
-<li>the address of the last URL you visited before clicking through to pageset.com;</li>
-<li>your browser and platform type;</li>
-<li>your browser language; </li>
-<li>the data in any undeleted "cookies" that your browser previously accepted from us (see "<a href="#3">How are cookies used?</a>" below) ; and</li>
-<li>when you enter a search query using Pageset, we will receive the query text and process it, together with the above data, to return a search results page to you.</li>
+<li>sign up to receive any additional service or request to receive certain other communications from us;</li>
+<li>submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services;</li>
+<li>participate in some of the features accessible via the Services (for example, message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes);</li>
+<li>contact us about employment opportunities posted to the Services; or</li>
+<li>otherwise use the Services in a manner that you have requested.</li>
 </ul>
-<br>
-<p>We disassociate your query text data from your IP address and your unique cookie ID (see "<a href="#3">How are cookies used?</a>" below) after a period of 18 months, except in limited circumstances, such as requests to retain the information by law enforcement.
-<br>
-</p><p>Pageset does not require registration or submission of an account name or email address in order to use it. However, you would provide to us your email address if you submitted a help request to us via email. The amount of information that you choose to disclose to us is completely up to you. We will not share your email address or any personally identifiable information you share with us with any third party.</p>
-<br>
-<a name="2" id="2"></a>
-<h3>How may we use the information we collect?</h3>
-<br>
-<p>We use the information that we collect to improve the overall quality of your experience with Pageset, and to facilitate evaluation, improvement, and development of Pageset. We aggregate query information for internal reporting purposes and optimization of advertising revenue. We count, track, and aggregate our visitors' activities in our analysis of general traffic flows (e.g., tracking where users come from, what home pages they select, search results they select when using the Pageset search functionality, how they interact with search results, etc.). </p>
-<br>
-<p>Information about the search queries you submit and how you interact with search results may also be used to personalize the content and advertisements that we present to you. We may, based on the home pages you select, search queries you submit and the search results you select (including paid search results), draw inferences about your interests and display advertisements matched to such interests. You may receive such customized ads on the Pageset site and on third-party sites (see also   "<a href="#4">What information do we share with third parties?</a>" below). If you would like to terminate our access to your search history you may remove our cookies from your computer (see "<a href="#3">How are cookies used on the Sites?</a>" below and consult your browser's "help" menu to learn how to delete cookies).</p>
-<br>
-<br>
-<a name="3" id="3"></a>
-<h3>How are cookies used?</h3>
-<br>
-<p><strong>Our use of cookies.</strong> We use cookies and other technology such as pixel tags to track traffic flow and patterns of use of the Pageset services. Cookies are a standard Internet technology that allows us to store and retrieve information on a user's system. Our web server automatically asks a new user's browser whether it will accept our cookie file. If the user's browser accepts our cookie, our web server will record the cookie's unique ID for our use in internal reporting and for customized advertising (see "<a href="#2">How do we use the information that we collect?</a>" above). All of your search queries and interactions with our search results are associated with your unique cookie ID. When you use Pageset we may use your cookie data to customize Pageset and advertisements delivered to you (see "<a href="#4">What information do we share with third parties?</a>" below). </p>
-<br>
-<p>Our cookies expire after two years, and all information from expired cookies is automatically deleted from our servers. If you would like to remove our cookies from your computer, you can delete them using your browser (consult your browser's "help" menu to learn how to delete cookies). If you choose to decline or remove cookies, please note that this may affect the quality of Pageset.</p>
-<br>
-<p>We do not use cookies to track your use of the Internet in any other way, or associate your name, email address, or personal information with your cookie data. We do not disclose cookie information to third parties, except as otherwise described in this Privacy Policy (see "<a href="#4">What information do we share with third parties?</a>" below). </p>
-<br>
-<p><strong>Use of cookies on our Site by third parties</strong>. We use third-party companies to serve advertisements when you use Pageset. These companies may use information about your use of Pageset in order to present advertisements about goods and services that may be of interest to you. In the course of serving advertisements, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with Pageset.com site pages. Our Privacy Policy does not cover any use of information that a third-party ad-serving company might collect from you. These companies have their own recordkeeping and data-retention policies. If you would like to consider your options for limiting use of such information by advertising companies, or would like to learn more about this practice, please click here:<a href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a>. We also use third party vendors to help us better understand our user demographics.  These vendors may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with the Site to provide their services to us. <br>
-  <br>
-</p>
-<p><a name="4" id="4"></a><br>
-</p>
-<h3>What information may we share with third parties?</h3>
-<br>
-<p>We do not share your name name, or email address or any other personal information with third parties for the purpose of enabling them to send you information about their products or services (or for any other purpose, except to respond to <a href="#lawenforcement">legal process</a> as described below). </p>
-<br>
-<p><em>Third-party service providers</em>. Some elements or features of Pageset, such as the sponsored results advertising on our search-results pages, are supplied to us by third parties under contract. We may supply some of the information we collect from you to those third parties so that they can provide those elements or features.  For example, when you submit a query, we transmit it (and some of the related information described above) to our paid-listing providers in order to generate relevant advertising to display in response to your query and to optimize the number and quality of sponsored results that will be provided to you on our search results page. <br>
-  <br>
-</p>
-<p><a name="lawenforcement" id="lawenforcement"></a></p>
-<p><em>Law enforcement/legal requirements</em>. We may disclose any information you voluntarily submit to us, as well as any other information we have about you in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law-enforcement or other governmental request, or where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our<a href="/en/docs/about/terms_of_service.shtml">Terms of Service</a>.</p>
-<br>
-<p><i>Corporate restructuringi</i>. We also may transfer your information to a third   party if we or any of our affiliates are involved in a corporate restructuring   (e.g., a sale, merger, or other transfer of assets).</p>
-<br>
-<br>
-<p><a name="5" id="5"></a><br>
-</p>
-<h3>What happens when you leave Pageset web pages to go to other Internet sites?</h3>
-<br>
-<p>We do not control the information collection and dissemination policies of third-party companies, including the company that operates the home page you have selected. In addition, if you click on a search result, the click may take you to a third-party website. These other sites may independently collect data from or about you, solicit information from you, or place their own cookies on your computer. We are not responsible for any use of the information such third-party site may collect.  </p>
-<br>
-<br>
-<h3>Are there special considerations if you are visiting the Site from outside   of the United States?</h3>
-<br>
-<p>If you are using Pageset from outside of the United States, your information will be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data-protection and other laws in the United States and other countries might not be as comprehensive as those in your own country. Please be assured, however, that we seek to take reasonable steps to protect your privacy. By using our services, you consent to the transfer of your information to our facilities and those third parties with whom we may share it as described in this Privacy Policy.</p>
-<br>
-<br>
-<p><a name="9" id="9"></a><br>
-</p>
-<h3>Whom can you ask if you have privacy-related questions?</h3>
-<br>
-<p>Questions regarding this Privacy Policy should be directed to the IAC Search &amp; Media Privacy Officer <a href="mailto:privacy@pageset.com">here</a> or by post at:</p>
-<br>
-<p>Pageset Privacy Officer</p>
-<p>IAC Search &amp; Media Inc.</p>  555 12th Street, Fifth Floor<br>
-Oakland, CA 94607<br><br>
+<p><strong><u>Information We Collect When You Use The Services</u></strong><strong>.</strong> When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:</p>
+<p>(1) IP address of your computer</p>
+<p>(2) Unique mobile device identifier</p>
+<p>(3) Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Google Chrome, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows 10, etc.)</p>
+<p>(4) Your preferences and settings (time zone, language, etc.)</p>
+<p>(5) Internet provider or mobile carrier name</p>
+<p>(6) The URL of the last webpage you visited before visiting the Site</p>
+<p>(7) Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments);</p>
+<p>(8) If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically). Please see the section “Mobile Device Location Information” below for further information.</p>
 
+<p><strong>2. HOW WE USE THE INFORMATION WE COLLECT.</strong></p>
 
-</div></td>
-</tr>
-</tbody></table>
-<div id="ftr"><a href="/en/docs/about/privacy.shtml">Privacy Policy</a><br>
-<a href="/en/docs/about/terms_of_service.shtml">Terms of Service</a><br><br>
-<span style="color:#666;">© 2013 IAC Search &amp; Media</span>
+<p>We use the information we collect from and about you for a variety of purposes, including to:</p>
+<ul>
+<li>verify your eligibility for our Services;</li>
+<li>respond to your queries with the best possible answers and search results;</li>
+<li>understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions;</li>
+<li>administer our Services, diagnose technical problems and otherwise manage our business;</li>
+<li>send you communications that you have requested or that may be of interest to you in accordance with your preferences. Please see the section “Reviewing, changing or deleting information” for further information about how you can control these communications;</li>
+<li>deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services;</li>
+<li>provide you with customer support;</li>
+<li>enable us to show you ads that are more relevant to you; and</li>
+<li>perform functions as otherwise described at the time of collection.</li>
+</ul>
+<p>We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated and/or anonymized information and statistics.</p>
+
+<p><strong>3. HOW WE SHARE THE INFORMATION WE COLLECT.</strong></p>
+
+<p>We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent. We will share your information in the following ways:</p>
+<ul>
+<li><i class="bold">Our suppliers, subcontractors and business partners (“service providers”).</i> We may share your data with our services providers who process your personal information to provide services to us or on our behalf. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.</li>
+<li><i class="bold">Companies within the IAC Group of Companies.</i> We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC/InterActive Corp.</li>
+<li><i class="bold">Fraud prevention.</i> We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.</li>
+<li><i class="bold">Law enforcement purposes and public safety.</i> If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.</li>
+<li><i class="bold">Sale or merger of our business.</i> We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).</li>
+<li><i class="bold">Advertisers and advertising networks.</i> Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Site and Services. They also may use cookies and other technologies to collect this information when you visit our site as described below.</li>
+</ul>
+
+<p><strong>4. COOKIES AND ONLINE ADVERTISING.</strong></p>
+
+<p><strong>What Cookies are and how we use them.</strong> We use cookies, pixel tags, web beacons and other such similar technologies to collect and store the information we automatically collect about your computer, device and Service usage. A cookie is a small text file that is stored on your computer and a pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email). We use the term “cookies” in this policy to refer to cookies and all such similar technologies.</p>
+<p>There are two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, and (2) third party cookies, which are served by a third party on our behalf. Cookies have a lot of jobs. For example, our cookies enable us to recognize you (e.g. as a registered user) when you visit our Site and to store your preferences and settings. We use third party cookies for functionality, performance / analytics, advertising and social media purposes. Cookies from advertising companies, for example, help to ensure that the advertisements you see online are more relevant to you and your interests. To understand more about cookies and pixel tags, click <a href="http://www.allaboutcookies.org/">here.</a></p>
+<p><strong>How to Control or Delete Cookies.</strong> Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones IACP uses to collect search activity information about its users), or block specific cookies. These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.</p>
+<ul>
+<li><a href="http://support.microsoft.com/kb/196955">Cookie settings in Internet Explorer</a></li>
+<li><a href="https://support.mozilla.org/t5/Cookies-and-cache/Cookies-Information-that-websites-store-on-your-computer/ta-p/1483">Cookie settings in Firefox</a></li>
+<li><a href="http://www.google.com/support/chrome/bin/answer.py?hl=en&amp;answer=95647">Cookie settings in Chrome</a></li>
+<li><a href="https://support.apple.com/kb/ph19214?locale=en_US">Cookie settings in Safari web</a> and <a href="http://support.apple.com/kb/HT1677">iOS</a>.</li>
+</ul>
+<p>&nbsp;Please note that if you choose to block cookies, this may interfere with certain functionality on our Site. Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information.</p>
+<p>Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices. We do not control the practices of such partners and their privacy policies govern their interactions with you. We encourage you to read their privacy policies.</p>
+<p><strong>Online Behavioral Advertising and Mobile. </strong>Advertisers and advertising networks place ads (including sponsored links in search results) on our Site and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site. They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you. You may opt-out of receiving targeted online advertising from advertising networks that is delivered on the Site and other websites by visiting the following websites:</p>
+<ul>
+<li>Network Advertising Initiative (<a href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a>)</li>
+<li>Digital Advertising Alliance (<a href="http://www.aboutads.info/consumers">http://www.aboutads.info/consumers</a>)</li>
+</ul>
+<p>Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our Site.</p>
+<p>If you are using an IACP mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.</p>
+<p>If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device: <a href="https://support.apple.com/en-us/HT202074">https://support.apple.com/en-us/HT202074</a>. If you are using an iOS6 device, you also may limit the delivery of tailored ads by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON. If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s <a href="http://www.google.com/ads/preferences/">Ads Preferences</a> page from a browser on your device and make your choices there. We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available.</p>
+<p><strong>Mobile Device Location Information.</strong> When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded. Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you. We keep this data for no longer than is reasonably necessary for providing our services. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature. If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:</p>
+<ul>
+<li>If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.</li>
+<li>If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.</li>
+<li>If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information.</li>
+</ul>
+
+<p><strong>5. REVIEWING, CHANGING OR DELETING INFORMATION.</strong></p>
+
+<p>If you would like to review, change or delete personal information we have collected from you, please contact the IACP Privacy Officer:</p>
+<p>Simpli.com<br> Attn: Privacy Officer<br> 555 12th Street, Suite 400<br> Oakland, CA 94607<br> <a href="mailto:privacy@iacpublishing.com">privacy@iacpublishing.com</a></p>
+
+<p><strong>6. DO NOT TRACK.</strong></p>
+
+<p>Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.</p>
+<p>We are committed to providing you with meaningful choices about the information collected on our Site for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.</p>
+
+<p><strong>7. INFORMATION SECURITY. </strong></p>
+
+<p>We take the security of your personal information seriously and use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing and against accidental loss, destruction or damage. We also limit access to personal information about you to employees who reasonably need access to it to provide products or services to you, or in order to do their jobs. However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you.</p>
+
+<p><strong>8. HOW LONG WE KEEP INFORMATION WE COLLECT.</strong></p>
+
+<p>We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request. We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time.</p>
+
+<p><strong>9. CHILDREN UNDER 13.</strong></p>
+
+<p>The Services are not intended for users under the age of 13. We do not knowingly collect any personal information from children under 13. If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible. You hereby represent that you are at least 13.</p>
+
+<p><strong>10. YOUR CONSENT TO TRANSFER OF INFORMATION.</strong></p>
+
+<p>If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.</p>
+
+<p><strong>11. YOUR CALIFORNIA PRIVACY RIGHTS.</strong></p>
+
+<p>Under the California Civil Code, California residents have the right to request a list of all third parties to which a company conducting business in California has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that, if a company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as "unsubscribe") or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to us at <a href="mailto:privacy@iacpublishing.com">privacy@iacpublishing.com</a>, or you may contact us via regular mail at: IAC Publishing, LLC, 555 12th Street, Suite 400, Oakland, CA 94607, Attn: Your California Privacy Rights c/o Privacy Officer. All requests sent via regular mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code (your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping).</p>
+
+    </div>
 </div>
 
 
 
+
 </div>
+    </div>
+    <div class="l-right-content content-visible">
+        
+
+
+</div>
+</div>
+<div class="l-footer content-visible">
+    <div class="l-footer-container">
+        
+
+    
+
+<div class="PartialFooter-body">
+    <ul class="PartialFooter-list">
+        
+
+<li class="PartialFooter-item">
+                
+<a class="PartialFooter-item-link" href="/privacy-policy" data-unified="{&quot;moduleName&quot;:&quot;navBottom&quot;,&quot;providerSource&quot;:&quot;navigation&quot;,&quot;resultType&quot;:&quot;navigation&quot;,&quot;zone&quot;:&quot;footer&quot;,&quot;moduleInZone&quot;:1,&quot;resultInModule&quot;:1}" data-qo="footerLinks">Privacy</a>
+                
+</li>
+        
+<li class="PartialFooter-item">
+                
+<a class="PartialFooter-item-link" href="/terms-of-service" data-unified="{&quot;moduleName&quot;:&quot;navBottom&quot;,&quot;providerSource&quot;:&quot;navigation&quot;,&quot;resultType&quot;:&quot;navigation&quot;,&quot;zone&quot;:&quot;footer&quot;,&quot;moduleInZone&quot;:1,&quot;resultInModule&quot;:1}" data-qo="footerLinks">Terms</a>
+                
+</li>
+        
+<li class="PartialFooter-item">
+            <span class="PartialFooter-item-label">© 2017 IAC Publishing, LLC</span>
+        </li>
+    </ul>
+</div>
+
+
+
+    
+
+</div>
+</div>
+<script src="/s/0-0-82/search-sites-page.min.js"></script>
+<script>
+    $(document).ready(function ($) {
+        var i, k, event, readyElementList;
+        if (typeof App.events === "object" && App.events.length) {
+            for (i = 0, k = App.events.length; i < k; i += 1) {
+                event = App.events[i];
+                if (event.type === "ready") {
+                    try {
+                        readyElementList = (event.elementSelector) ?
+                                $(event.elementSelector, event.contextSelector) :
+                                $(event.contextSelector);
+                        readyElementList.each(function (index) {
+                            event.handler.apply(this);
+                        });
+                    } catch (e) {
+                        console.error("Failed to run a 'ready' event handler.");
+                        console.error(e);
+                    }
+                } else {
+                    $(event.contextSelector).on(event.type, event.elementSelector || null, event.handler);
+                }
+            }
+        }
+    });
+</script>
+
+
+    
+
+
+<script>
+        var _UnifiedApiParams = {"uniqueUser":"7FF79ACC-3125-4467-893A-C92439A8BFB9","appId":"Archie_Simpli","appVersion":"development","appDate":"2017-06-02T19:40:01Z","logPageView":false,"updateSession":false,"domain":"simpli.com","url":"www.simpli.com/log/browser/event","backFillRequired":false,"eventId":"2E8F6453-BA52-492F-8C79-6ADB80A185E4","maxSession":30,"suppressCookies":false,"cookieExpirationMinutes":129600,"newSessionOnDomainChange":false,"cookieName":"uc"};
+        _UnifiedApiParams.url = (("https:" === window.location.protocol)? "https://" : "http://" ) + _UnifiedApiParams.url;
+    </script>
+
+    <script src="/s/0-0-82/unified-api.min.js"></script>
+    <script>
+    if(App) {
+        (function () {
+            App.events = App.events || [];
+            App.events.push({
+                partial: "partial-unified-footer",
+                contextSelector: document,
+                elementSelector: null,
+                type: "ready",
+                handler: function () {
+                        window.ask = window.ask || {};
+                        var ask = window.ask;
+                        ask.unified = ask.unified || {};
+                        ask.unified.pageContext = {"anuaaf":"Archie","anxut":"UNIFIED","anuaci":"207.241.231.149","anuaafl":"33778","anxsn":"iacplsearchfeiad-33-2xosw","anuahm":"GET","anuadc":"iad","anuaqs":"","anxu":"http://www.simpli.com/privacy-policy","anuaad":"dirN","anuapbr":"","anuaan":"","anuaamt":"","anuaagc":"","anuaadid":"","ucctr":"","ucctn":"","ucs":"","ucdm":"","uccnt":"","ucpc":"","anuadtp":"desktop","anxbt":"","anxbv":"","anxpt":"","anxpv":"","anxcd":"","anxw":"","anxh":"","anxv":"development","anxd":"2017-06-02T19:40:01.514Z","anuaptp":"privacyPage","anuachl":"web","anuaprdd":"search","anxa":"Archie_Simpli","anxp":"simpli.com","anualcl":"us","anuasv":"1","anuaapp":"{\"pageViewId\":\"36432b8effb223231ac83ad126ea9c02\",\"queryOrigination\":\"\",\"templateId\":\"desktop\"}","anuapn":1,"anuaptl":"Simpli.com"};
+                        ask.unified.payload = {
+                            pageResults: [],
+                            providers: ask.unified.pendingProviders || {}
+                        };
+
+                        if (ask.unified.pendingParams) {
+                            for (var key in ask.unified.pendingParams) {
+                                ask.unified.payload[key] = ask.unified.pendingParams[key];
+                            }
+                            ask.unified.pendingParams = {};
+                        }
+
+                        ask.unified.pendingProviders = {};
+                        ask.unified.events = [];
+
+                        
+                        ask.unified.addPresentation = function (zoneName, moduleName, moduleOrdinal, resultTemplate, count) {
+                            for (var i = 0; i < count; i++) {
+                                var nextResult = {};
+                                $.extend(nextResult, resultTemplate);
+                                nextResult.resultInModule = i + 1;
+                                nextResult.zoneName = zoneName;
+                                nextResult.moduleName = moduleName;
+                                nextResult.moduleInZone = moduleOrdinal;
+                                ask.unified.payload.pageResults.push(nextResult);
+                            }
+                        };
+
+                        ask.unified.addPresentationResult = function (results) {
+                            ask.unified.payload.pageResults = ask.unified.payload.pageResults.concat(results);
+                        };
+
+                        
+                        ask.unified.addProvider = function (providerName, providerPayload) {
+                            if (!ask.unified.payload.providers[providerName]) {
+                                ask.unified.payload.providers[providerName] = providerPayload;
+                            } else {
+                                $.extend(providerPayload, ask.unified.payload.providers[providerName]);
+                                ask.unified.payload.providers[providerName] = providerPayload;
+                            }
+                        };
+
+                        
+                        ask.unified.sendAction = function (actionPayload, cb) {
+                            var payload = {};
+                            $.extend(payload, ask.unified.pageContext);
+
+                            if(ask.unified.pageContext.anuaapp) {
+                                $.extend(actionPayload, JSON.parse(ask.unified.pageContext.anuaapp));
+                            }
+                            payload.anuaapp = JSON.stringify(actionPayload);
+
+                            if (!cb) {
+                                _UnifiedApi.logEvent("Action", payload, ask.unified.apiHandler);
+                            } else {
+                                var callback = function (success, response) {
+                                    ask.unified.apiHandler(success, response, function () {
+                                        cb();
+                                    });
+                                };
+                                _UnifiedApi.logEvent("Action", payload, callback);
+                            }
+                        };
+
+                        ask.unified.sendBackFill = function () {
+                            var navInfo = getNavigationTimingInfo(window);
+                            if(navInfo) {
+                                
+                                if (isNavInfoAvailableInUnifiedPayload()) {
+                                    if(isPageLoadComplete(navInfo)) {
+                                        
+                                        if(ask.unified.payload.externalData.navInfo.loadEventEnd === 0) {
+                                            
+                                            ask.unified.payload.externalData.navInfo = navInfo;
+                                        } else {
+                                            
+                                            return;
+                                        }
+                                    } else {
+                                        
+                                        
+                                        registerSendBackFillOnPageLoadComplete();
+                                    }
+                                } else {
+                                    if(ask.unified.payload.externalData) {
+                                        ask.unified.payload.externalData.navInfo = navInfo;
+                                    } else {
+                                        ask.unified.payload.externalData = { "navInfo": navInfo };
+                                    }
+
+                                    if(!isPageLoadComplete(navInfo)) {
+                                        
+                                        
+                                        registerSendBackFillOnPageLoadComplete();
+                                    }
+                                }
+                            }
+
+                            var payload = { anxi: _UnifiedApiParams.eventId};
+                            $.extend(payload, ask.unified.pageContext);
+
+                            if ($.isEmptyObject(ask.unified.payload.providers)) {
+                                delete ask.unified.payload.providers;
+                            }
+                            payload.anuaapp = JSON.stringify(ask.unified.payload);
+
+                            _UnifiedApi.logEvent("BackFill", payload, ask.unified.apiHandler);
+
+                            
+                            ask.unified.payload = {
+                                pageResults: [],
+                                providers: {}
+                            };
+                        };
+
+                        function isPageLoadComplete(navInfo) {
+                            return navInfo.loadEventEnd > 0;
+                        }
+
+                        function isNavInfoAvailableInUnifiedPayload() {
+                            return !!ask.unified.payload.externalData && !!ask.unified.payload.externalData.navInfo;
+                        }
+
+                        function registerSendBackFillOnPageLoadComplete() {
+                            $(window).load(function(){
+                                setTimeout(function(){
+                                    ask.unified.sendBackFill();
+                                }, 0);
+                            });
+                        }
+
+                        
+                        ask.unified.cancelPending = function (key) {
+                            var length = ask.unified.pending.length;
+                            for (var i = 0; i < length; i++) {
+                                if (ask.unified.pending[i] === key) {
+                                    ask.unified.pending.splice(i, 1);
+                                    break;
+                                }
+                            }
+                        };
+
+                        
+                        ask.unified.apiHandler = function (success, responseText, cb) {
+                            
+if (cb) {
+                                cb();
+                            }
+                        };
+
+                        var _timedOut = false,
+                                _timeFromSerpStart = null,
+                                _adsLoggingTimeout = null,
+                                _dynamicLoggingTimeout = null;
+
+
+                        try {
+                            _timeFromSerpStart = ((new Date() - ask.CSA.startTime) - ask.CSA.showSerpStartTime);
+                            _adsLoggingTimeout = 5000 - _timeFromSerpStart;
+                            _dynamicLoggingTimeout = Math.max(_adsLoggingTimeout, 1);
+                        } catch (e) {
+                            _dynamicLoggingTimeout = 2000;
+                        }
+
+                        function mixinCSAAdData(payload) {
+                            var externalData = {
+                                csaInfo: {
+                                    domTime: ask.CSA.domReadyTime ? ask.CSA.domReadyTime : 0,
+                                    adsResponseTime: ask.CSA.responseTime ? ask.CSA.responseTime : 0,
+                                    adsShownTime: ask.CSA.adsShownTime ? ask.CSA.adsShownTime : 0,
+                                    serpShownTime: ask.CSA.serpShownTime ? ask.CSA.serpShownTime : 0,
+                                    supplement: _timedOut,
+                                    serpTimedOut: !!ask.CSA.showSerpTimeoutFired,
+                                    serpTimeoutStartTime: ask.CSA.showSerpStartTime ? ask.CSA.showSerpStartTime : 0,
+                                    dynamicTimeout: _dynamicLoggingTimeout,
+                                    viewportHeight: ask.CSA.viewportHeight ? ask.CSA.viewportHeight : 0,
+                                    viewportWidth: ask.CSA.viewportWidth ? ask.CSA.viewportWidth : 0,
+                                    adContentRatio: ask.CSA.adContentRatio ? ask.CSA.adContentRatio : 0,
+                                    csaHeight: ask.CSA.csaHeight ? ask.CSA.csaHeight : 0,
+                                    csaWidth: ask.CSA.csaWidth ? ask.CSA.csaWidth : 0,
+                                    centerRailHeight: ask.CSA.centerRailHeight ? ask.CSA.centerRailHeight : 0,
+                                    centerRailWidth: ask.CSA.centerRailWidth ? ask.CSA.centerRailWidth : 0,
+                                    rightRailHeight: ask.CSA.rightRailHeight ? ask.CSA.rightRailHeight : 0,
+                                    rightRailWidth: ask.CSA.rightRailWidth ? ask.CSA.rightRailWidth : 0
+                                }
+                            };
+
+                              var totalAds = 0,
+                                  topCount = 0,
+                                  botCount = 0,
+                                  uniqueResultsDisplayed = 0,
+                                  csaTopModule = "" || "csaTop",
+                                  csaBottomModule = "" || "csaBottom",
+                                  csaZone = "" || "primary";
+
+                            if(ask.CSA.adModules){
+                                for(var i= 0; i < ask.CSA.adModules.length; i++){
+                                    var m = ask.CSA.adModules[i];
+                                    totalAds =+ m.count();
+                                    ask.unified.addPresentation(m.zoneName, m.moduleName, m.ordinal, {resultType: m.resultType, providerSource: m.providerSource}, m.count());
+                                }
+                                uniqueResultsDisplayed = ask.CSA.pageOptions.numRepeated ? ask.CSA.adModules[0].count() : totalAds;
+                            }
+                            else {
+                                topCount = ask.CSA.numTopAds ? ask.CSA.numTopAds : 0;
+                                botCount = ask.CSA.numBottomAds ? ask.CSA.numBottomAds : 0;
+                                totalAds = topCount + botCount;
+                                ask.unified.addPresentation(csaZone, csaTopModule, ask.moduleOrdinals[0], { resultType: "gsl", providerSource: "csa"}, topCount);
+                                ask.unified.addPresentation(csaZone, csaBottomModule, ask.moduleOrdinals[1], {resultType: "gsl", providerSource: "csa"}, botCount);
+                                uniqueResultsDisplayed = ask.CSA.pageOptions.numRepeated ? botCount : totalAds;
+                            }
+
+                            if(csaZone === "center") {
+                                ask.unified.addProvider("gsl", {
+                                    zoneCenterResults: totalAds
+                                });
+                            } else {
+                                ask.unified.addProvider("gsl", {
+                                    zonePrimaryResults: totalAds
+                                });
+                            }
+
+                            ask.unified.addProvider("gsl", {
+                                responseTime: ask.CSA.responseTime ? ask.CSA.responseTime : 0,
+                                resultsDisplayed: totalAds,
+                                uniqueResultsDisplayed: uniqueResultsDisplayed
+                            });
+
+                            try {
+                                mixinNavigationTimingInfo(externalData);
+
+                                ask.unified.payload.externalData = externalData;
+                            } catch (e) {
+                            }
+                        };
+
+                        
+                        function mixinNavigationTimingInfo(eData) {
+                            var navInfo = getNavigationTimingInfo(window);
+                            if(navInfo) {
+                                eData["csaInfo"].csaStartTime = (ask.CSA.startTime.getTime() - navInfo.navigationStart);
+                            }
+                        };
+
+                        $(document).on("unified:BackFill", function (evt, data) {
+                            var ask = window.ask;
+                            if (data && data.payload) {
+                                ask.unified.addPresentationResult(data.payload);
+                                ask.unified.sendBackFill();
+                            }
+                        });
+
+                        if ("1" !== CookieUtil.getChipValue("uc", "nv")) {
+                            
+                            return;
+                        }
+
+                        if (ask.afc) {
+                            ask.unified.addProvider("gsl", ask.afc.provider);
+                            ask.unified.addPresentation.apply(null, ask.afc.presentation.top);
+                            ask.unified.addPresentation.apply(null, ask.afc.presentation.bottom);
+                            ask.unified.sendBackFill();
+                        } else if (!ask.unified.pending || ask.unified.pending.length == 0) {
+                            if(ask.unified.payload) {
+                                ask.unified.payload.suspectBackFill = true;
+                            } else {
+                                ask.unified.payload = { "suspectBackFill": true };
+                            }
+                            ask.unified.sendBackFill();
+                        } else if (ask.CSA && typeof ask.CSA.addCSALoadCallback === "function") {
+                            ask.CSA.addCSALoadCallback(function () {
+                                var payload = _timedOut ? { pl_supplement: true } : {};
+
+                                if (typeof ask.CSA.calculateAdContentMetrics === "function") {
+                                    ask.CSA.calculateAdContentMetrics();
+                                }
+
+                                mixinCSAAdData(payload);
+
+                                ask.unified.sendBackFill();
+                            }, function () {
+                                _timedOut = true;
+
+                                if (ask.CSA && typeof ask.CSA.showSerp === "function") {
+                                    ask.CSA.showSerp();
+                                }
+
+                                ask.unified.sendBackFill();
+                            }, _dynamicLoggingTimeout);
+                        }
+                    }
+                });
+
+                App.events.push({
+                    partial: "partial-unified-footer",
+                    contextSelector: document,
+                    elementSelector: "a",
+                    type: "click",
+                    handler: function(evt) {
+                        var ask = window.ask;
+                        var target = $(this);
+
+                        var unifiedData = target.data("unified");
+                        if(!unifiedData) {
+                            return; 
+                        }
+
+                        var isImage = "img" === evt.target.tagName.toLowerCase();
+                        var assetType = target.data("unified-assettype") || (isImage ? "image" : "primaryTextLink");
+                        var destUrl = target.attr("href");
+                        var qoParam = target.data("qo");
+
+                        var appPayload = {
+                            actionType: "click",
+                            assetType: assetType,
+                            text: $.trim(target.text()).replace(/\s+/g, " "),
+                            url: destUrl
+                        };
+
+                        
+                        if(ask.unified.pageContext.metaInfo) {
+                            unifiedData.metaInfo = unifiedData.metaInfo || {};
+                            unifiedData.metaInfo.client = ask.unified.pageContext.metaInfo.client || "";
+                            unifiedData.metaInfo.clientChannel = ask.unified.pageContext.metaInfo.clientChannel || "";
+                        }
+
+                        
+                        if(unifiedData.imagePresent) {
+                            unifiedData.metaInfo = unifiedData.metaInfo || {};
+                            unifiedData.metaInfo.imagePresent = unifiedData.imagePresent;
+                            delete unifiedData.imagePresent;
+                        }
+
+                        $.extend(appPayload, unifiedData);
+
+                        
+var payload = {};
+                        $.extend(payload, ask.unified.pageContext);
+
+                        if(ask.unified.pageContext.anuaapp) {
+                            $.extend(appPayload, JSON.parse(ask.unified.pageContext.anuaapp));
+                        }
+
+                        var targetAttr = target.attr("target");
+                        var nonNav = assetType === "carouselClick" || assetType === "loadMore";
+
+                        
+payload.anuaapp = JSON.stringify(appPayload);
+
+                        if(targetAttr || nonNav) {
+                            _UnifiedApi.logEvent("Action", payload, ask.unified.apiHandler);
+                        } else {
+                            var callback = ask.unified.apiHandler;
+                            if (destUrl) {
+                                callback = function (success, response) {
+                                    ask.unified.apiHandler(success, response, function() {
+                                        destUrl = _UnifiedApi.addURLParam(destUrl, "qo", qoParam);
+                                        document.location = destUrl;
+                                    });
+                                };
+                            }
+                            _UnifiedApi.logEvent("Action", payload, callback);
+                            return false;
+                        }
+                    }
+                });
+        })();
+        }
+    </script>
+
+
+
+
+<script>
+        var hasNewTag = true;
+        var dataLayer = [
+            {
+                "ldid": "",
+                "channel": "static",
+                "affiliateid": "33778",
+                "sessionid": "1241175429",
+                "category": "",
+                "acquisitiondivision": "dirN"
+            }
+
+        ];
+    </script>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T3KVMC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer_temp'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T3KVMC');</script>
+    <!-- End Google Tag Manager -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
