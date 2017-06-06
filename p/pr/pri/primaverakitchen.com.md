@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the primaverakitchen.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128141944id_/http%3A//www.primaverakitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primaverakitchen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033527id_/http%3A//www.primaverakitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Primavera Kitchen
-
-### Subscribe to receive new recipes!
-
-Taste more! Sign up and you'll be getting to your inbox brand new content weekly such as recipes, cooking tips, videos and my FREE E-COOKBOOK.
 
 This privacy policy sets out how Primavera Kitchen uses and protects any information that you give while visiting Primavera Kitchen.
 
