@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the codeforest.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121162429id_/http%3A//www.codeforest.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeforest.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164610id_/https%3A//www.codeforest.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CodeForest
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.codeforest.net/contact).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://www.codeforest.net/contact).
 
 At codeforest.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by codeforest.net and how it is used.
 
