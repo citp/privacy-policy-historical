@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the postallads4free.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113162810id_/http%3A//www.postallads4free.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postallads4free.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151441id_/http%3A//www.postallads4free.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://web.archive.org/)
 
 Privacy Policy
 
@@ -18,4 +16,4 @@ We don’t share your information with third parties for marketing purposes. We 
 
 We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails and providing subscription email services etc. We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on PostAllAds4Free.com that you expect to keep private. Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administrator the PostAllAds4Free.com site, and to otherwise provide our service to you.
 
-Copyright © 2016 PostAllAds4Free.com. Post ads for free. Online advertising. Free classified ads online 
+Copyright © 2017 PostAllAds4Free.com. Post ads for free. Online advertising. Free classified ads online 
