@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almarsguides.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125223133id_/http%3A//www.almarsguides.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almarsguides.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165834id_/http%3A//www.almarsguides.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Almar's Guides Privacy Policy
 
@@ -20,11 +20,6 @@
 2\. Google's use of DART cookies enables it to serve ads to your users based on their visit to your site and other sites on the Internet.  
 3\. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
+If you find anything wrong with the guide on this page or if you just have a comment about it please feel free to leave it below! 
+
                                
-
-  
-
-
-©Copyright 2008 Almar's Guides. All rights reserved.
-
-                   
