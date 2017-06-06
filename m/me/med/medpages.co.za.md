@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211103650id_/http%3A//medpages.co.za/sf/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082348id_/http%3A//medpages.co.za/sf/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Medpages healthcare provider statistics – the who, what are where of healthcare
 
@@ -8,7 +8,7 @@
 
 This Privacy Policy describes why we collect information, what information we collect, and what we do (and do not do) with it. It also explains how you can change it. 
 
-This does not address the practices of any website we link to. This Privacy Policy is incorporated into, and subject to our [Terms of Use](https://web.archive.org/web/20161211103650id_/http%3A//medpages.co.za/sf/index.php?page=terms-of-use).
+This does not address the practices of any website we link to. This Privacy Policy is incorporated into, and subject to our [Terms of Use](https://web.archive.org/web/20170606082348id_/http%3A//medpages.co.za/sf/index.php?page=terms-of-use).
 
 ## Why does Medpages collect information?
 
@@ -151,7 +151,7 @@ Designation : | Information Officer
 Address : | Cape Town  
 Phone Number : | [+27 (0)21 441 9700](tel:+27214419700)  
 Fax Number : | +27 (0)21 441 9701  
-Email address : | [marda@medpages.info](https://web.archive.org/web/20161211103650id_/http%3A//medpages.co.za/sf/marda@medpages.info)  
+Email address : | [marda@medpages.info](https://web.archive.org/web/20170606082348id_/http%3A//medpages.co.za/sf/marda@medpages.info)  
 URL : | [www.medpages.info](http://www.medpages.info/)  
   
 #### Acknowledgement
