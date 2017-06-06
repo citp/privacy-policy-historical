@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iclipart.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020521id_/http%3A//www.iclipart.com/privacy.php%3Fadv%3D%26desktop%3D%26rows%3D5%26cols%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclipart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153109id_/http%3A//www.iclipart.com/privacy.php%3Fadv%3D%26desktop%3D%26rows%3D5%26cols%3D5) for the most accurate reproduction.*
 
-# iCLIPART - Downloadable royalty-free clipart images, photos, web graphics, animations, sounds and fonts by subscription.
+# Detailed information about our website privacy policy | iCLIPART.com
 
 **PRIVACY POLICY** Overview
 
