@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129190137id_/http%3A//www.magazineline.com/en/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113805id_/http%3A//www.magazineline.com/en/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
