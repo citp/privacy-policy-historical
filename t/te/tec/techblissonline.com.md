@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techblissonline.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220153243id_/http%3A//techblissonline.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblissonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184135id_/https%3A//techblissonline.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Private Policy Statement | Techblissonline.com
 
@@ -18,7 +18,7 @@ Techblissonline is not responsible for the content of external sites linked from
 
 ## With respect to Cookies and Advertisers
 
-A "cookie" is a small data text file that is placed in your browser and allows Techblissonline to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Techblissonline does not use cookies to collect personal information. Our site and third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences. 
+A "cookie" is a small data text file that is placed in your browser and allows Techblissonline to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Techblissonline does not use cookies to collect personal information. Our site and third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences.
 
 We allow third-party advertising companies (like [Google Adsense](https://www.google.com/adsense/)) to serve ads when you visit our Web site. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
@@ -30,7 +30,7 @@ Here are some [third-party vendors](https://www.google.com/adsense/support/bin/a
 
 Techblissonline makes use of analytical software such as “Google Analytics” for statistical purposes.We at Techblissonline use this information for statistical purpose only and do not share it with any third party.
 
-Techblissonline also makes use of log files. The information inside the log files includes information such as internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time-stamp, referring/exit pages, and number of clicks. These information are collected administer the site and ensure security, to analyze trends, track user’s movement around the site and gather demographic information. 
+Techblissonline also makes use of log files. The information inside the log files includes information such as internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time-stamp, referring/exit pages, and number of clicks. These information are collected administer the site and ensure security, to analyze trends, track user’s movement around the site and gather demographic information.
 
 ## Policy on User Comments
 
@@ -42,4 +42,4 @@ We do our best to protect your personal information. However, we cannot guarante
 
 Please contact them directly, if you have any questions on their privacy policies.
 
-For any other information please [contact us](http://techblissonline.com/contact/)
+For any other information please [contact us](https://techblissonline.com/contact/)
