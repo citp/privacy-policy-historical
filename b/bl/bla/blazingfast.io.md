@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blazingfast.io privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317140113id_/https%3A//blazingfast.io/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazingfast.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171457id_/https%3A//blazingfast.io/policy) for the most accurate reproduction.*
 
-# Privacy Policy | BlazingFast
+# BlazingFast | Your reliable hosting
 
 We BlazingFast, are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
 
@@ -22,7 +22,7 @@ We use IP addresses to analyze trends, administer our site and servers, track ac
 
 **Cookies**
 
-Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the BlazingFast's website. More information about cookies can be found at <https://en.wikipedia.org/wiki/HTTP_cookie>.
+Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the BlazingFast's . More information about cookies can be found at [https://en.wikipedia.org/wiki/HTTP_cookie](https://web.archive.org/web/20150317140113/https://en.wikipedia.org/wiki/HTTP_cookie).
 
 **Contacting Us**
 
