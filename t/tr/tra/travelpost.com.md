@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521130934id_/http%3A//travelpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222411id_/https%3A//www.goseek.com/privacy) for the most accurate reproduction.*
 
 # goSeek.com | Hotel Discounts, Deals, and Special Offers
 
@@ -111,4 +111,4 @@ We may make changes to this Privacy Policy at any time in the future. If and whe
 
 Effective date 
 
-May 21, 2016 
+June 6, 2017 
