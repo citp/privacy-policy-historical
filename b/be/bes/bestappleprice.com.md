@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestappleprice.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625081848id_/http%3A//www.bestappleprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestappleprice.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123425id_/http%3A//www.bestappleprice.com/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to the BestApplePrice.com Privacy Policy - BestApplePrice.com
 
