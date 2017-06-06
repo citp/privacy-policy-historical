@@ -1,29 +1,63 @@
-> *The following text is extracted and transformed from the gurusloaded.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235200id_/http%3A//www.gltrends.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurusloaded.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091649id_/http%3A//www.gltrends.ng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GL Trends
 
-[](http://xnaija.com/)
+This Privacy Policy governs the manner in which **GLtrends  Media** collects, uses, maintains and discloses information collected from users (each, a “User”) of the ** [gltrends.ng](http://www.gltrends.ng/)** website (“Site”). This privacy policy applies to the Site and all products and services offered by **GLtrends  Media.**
 
-We take your privacy seriously. This privacy policy describes what personal information we collect and how we use it on gltrends.com
+**Personal identification information**
 
-**Routine Information Collection**  
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.  
-**Cookies and Web Beacons**  
-Where necessary, this site uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content. Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Controlling Your Privacy**  
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+**Non-personal identification information**
 
-**Special Note About Google Advertising**  
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**About Google advertising:** What is the Double Click DART cookie? The Double Click DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**Web browser cookies**
 
-**Contact Information**
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Concerns or questions about this privacy policy can be directed to admin at gltrends.com/privacy/ for further clarification.  
-1) A word filter has been put in place to prevent forum members from using $exually explicit words in their posts.  
-2) Our Members have been informed that they need to keep their words clean if the Website is to survive.  
-3) A privacy policy has been drafted for GLtrends.com. See  <http://www.gltrends.ng/privacy/>
+**How we use collected information**
 
-I’m ready to do whatever may be additionally required to make my site fully complaint with your policies.
+**GLtrends  Media** may collect and use Users personal information for the following purposes:
+
+– To improve customer service
+
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+
+– To send periodic emails
+
+We may use the email address to send them information and updates pertaining to their order.
+
+**How we protect your information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+**Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+**Changes to this privacy policy**
+
+**GLtrends  Media** has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+GLtrends Media
+
+info@gltrends.com
+
+Ikeja, Lagos
+
+Lagos,Nigeria
+
+08060164208
+
+info@gltrends.com
+
+This document was last updated on May 30, 2017
