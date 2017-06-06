@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclipse.net.uk privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011181307id_/http%3A//business.kcom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipse.net.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030504id_/http%3A//business.kcom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
