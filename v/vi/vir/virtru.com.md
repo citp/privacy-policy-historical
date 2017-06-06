@@ -1,40 +1,13 @@
-> *The following text is extracted and transformed from the virtru.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114173224id_/https%3A//www.virtru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtru.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607012602id_/https%3A//www.virtru.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Virtru
-
-### Virtru values your privacy and security
-
-  
-
-
-##### This Privacy Policy describes our practices in connection with information that we collect from you when you use Virtru.
-
-### Our Principles
-
-Transparency. We only use and share information about our users as spelled out in our Privacy Policy or other notices or in the agreements under which we provide the Services. We want you to know how we use your information, and to avoid any surprises.
-
-Choice. We let our users know when and how we collect information and we are designing our Services to offer our customers choices about how their information is used.
-
-Sensible Defaults. Our default user settings try to balance user experience and privacy in as sensible a fashion as we can.
-
-Limited Collection of Data. We seek to collect and retain the least amount of user data necessary for the functioning, security, and effective operation of our business.
-
-Data Security. Security is our business.We use reasonable organizational, technical and administrative measures to protect personal information under our control.
-
-Working with Partners. We make privacy a key factor in selecting service providers who have access to Personal Information.
-
-### Our Privacy Policy
-
-Last Updated: September 7, 2016
-
-This Privacy Policy describes our practices in connection with information that we collect from you when you use our website at www.virtru.com (the “Site”) or our hosted encryption, access control and revocation services (the “Services”).
+# Privacy Policy - Virtru
 
 #### Your Information
 
 For us, “Personal Information” means:
 
   * Information which identifies you, like your name or email address; or
-  * A combination of several pieces of information which couldn't identify you on their own, but which we believe would be sufficient to identify you when combined.
+  * A combination of several pieces of information which couldn’t identify you on their own, but which we believe would be sufficient to identify you when combined.
 
 
 
@@ -77,7 +50,7 @@ We may use Personal Information:
 We may disclose Personal Information in the following situations:
 
   * To our service providers to enable them to provide services on our behalf.
-  * We may use and disclose Personal Information as required to comply with applicable law. We will handle any government requests for encryption keys in accordance with our [Frequently Asked Questions on Government Surveillance](https://web.archive.org/faq-on-government-surveillance).
+  * We may use and disclose Personal Information as required to comply with applicable law. We will handle any government requests for encryption keys in accordance with our [Frequently Asked Questions on Government Surveillance](https://web.archive.org/resources/product-support/government-surveillance/).
   * We may use or disclose Personal Information when we have a good-faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Virtru or the public.
   * If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt,) we may pass your information to an acquirer, successor or affiliate.
   * We may disclose your Personal Information in other circumstances when we tell you and you consent to the sharing.
