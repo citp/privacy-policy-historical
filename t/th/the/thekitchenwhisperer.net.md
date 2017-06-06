@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekitchenwhisperer.net privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004135537id_/http%3A//www.thekitchenwhisperer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekitchenwhisperer.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154532id_/http%3A//www.thekitchenwhisperer.net/privacy-policy) for the most accurate reproduction.*
 
 # The Kitchen Whisperer: Privacy Policy
 
