@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpprofitbuilder.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210131922id_/http%3A//wpprofitbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpprofitbuilder.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054811id_/http%3A//wpprofitbuilder.com/privacy) for the most accurate reproduction.*
 
-# WP Profit Builder » Privacy
+# Privacy - ProfitBuilder
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting this site, you are accepting the privacy policy described below.
 
