@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trannyaccess.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411111231id_/http%3A//www.membersitesupport.com/privacy.php%3Fsite%3DTrannyaccess.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannyaccess.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075346id_/http%3A//www.procustomersupport.com/privacy.php%3Fsite%3Dtrannyaccess.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of Trannyaccess.com ("Site", "Us", "We", "Our") or the services provided by this Site. 
+This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of trannyaccess.com ("Site", "Us", "We", "Our") or the services provided by this Site. 
 
 We are committed to protecting your privacy and security. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using this Site. By accessing and using this Site, you signify your assent to this Privacy Policy. If you do not agree with our information practices, please do not access or use this Site. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective immediately upon posting. We request that you read this Privacy Policy carefully and consult it regularly. 
 
@@ -49,4 +49,4 @@ B. If we use your personally identifiable information in a manner materially dif
 **XIII. Contact Information**   
 If you have any questions about this Privacy Policy, you can contact us by sending an e-mail. Please provide us with your name, e-mail address and account username if applicable so that we can provide prompt service. 
 
-Please send your e-mail to: cs@membersitesupport.com 
+Please send your e-mail to: cs@procustomersupport.com 
