@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321214023id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153223id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # MakePlayingCards.com Privacy Policy
 
@@ -23,11 +23,9 @@ When you submit questions, e-mails, survey, comments, suggestions, reviews or ot
 
 If you have any questions about this privacy policy please contact us here: [enquiry@makeplayingcards.com](mailto:enquiry@makeplayingcards.com)
 
-### Over 30,000 decks sold
+### See what's the fuss
 
-MPC revolutionary high gloss printed decks previously released on Kickstarter. [Now available for sale](https://web.archive.org/web/20160321214023id_/http%3A//promotional/mpc-impressions-decks.html).
-
-[](https://web.archive.org/web/20160321214023id_/http%3A//impressions-by-mpc.aspx)
+The Gold and Silver Ed. decks by MPC. Support us on Kickstarter.
 
 See our [other projects](http://www.makeplayingcards.com/kickstarter-projects.aspx).
 
