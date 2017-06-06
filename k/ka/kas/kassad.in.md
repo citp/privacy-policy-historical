@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kassad.in privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224113932id_/http%3A//quickfind.kassad.in/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kassad.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145508id_/http%3A//quickfind.kassad.in/legal) for the most accurate reproduction.*
 
 # Legal • League of Legends Quickfind
 
