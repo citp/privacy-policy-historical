@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ged.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025803id_/http%3A//www.gedtestingservice.com/testers/privacy-policy-test-taker) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ged.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225231id_/http%3A//www.gedtestingservice.com/testers/privacy-policy-test-taker) for the most accurate reproduction.*
 
 # Privacy Policy Test Taker
 
@@ -124,7 +124,7 @@ Here is a list of the main types of cookies we use, and what we use them for.
 
 
 
-By using [www.gedtestingservice.com](https://web.archive.org/web/20161119025803id_/), unless otherwise specified by local law or regulation, you agree to the use of cookies and web beacons for the collections of information in order to provide the services you requested and to improve those services.
+By using [www.gedtestingservice.com](https://web.archive.org/web/20170606225231id_/), unless otherwise specified by local law or regulation, you agree to the use of cookies and web beacons for the collections of information in order to provide the services you requested and to improve those services.
 
 ## INFORMATION ACCESS AND CORRECTIONS.
 
@@ -132,7 +132,7 @@ To access and correct the personal information that we have collected under this
 
 ## RESOLUTION OF CONCERNS.
 
-If you have questions or concerns about this Policy or how we handle personal information, please contact us at [www.gedtestingservice.com](https://web.archive.org/web/20161119025803id_/). If we are unable to satisfactorily address your concerns, you should contact the Data Protection Authority, or other relevant organization, in your area.
+If you have questions or concerns about this Policy or how we handle personal information, please contact us at [www.gedtestingservice.com](https://web.archive.org/web/20170606225231id_/). If we are unable to satisfactorily address your concerns, you should contact the Data Protection Authority, or other relevant organization, in your area.
 
 ## CHANGES TO THIS PRIVACY POLICY
 
