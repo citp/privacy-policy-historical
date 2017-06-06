@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ipsw.me privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427030730id_/https%3A//ipsw.me/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipsw.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234702id_/https%3A//ipsw.me/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy / IPSW Downloads
+# Privacy Policy - IPSW Downloads
 
-This Privacy Policy governs the manner in which Just a Penguin collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://www.icj.me/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Just a Penguin.
+This Privacy Policy governs the manner in which Just a Penguin collects, uses, maintains and discloses information collected from users (each, a "User") of the [IPSW Downloads](https://ipsw.me/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Just a Penguin.
 
 **Personal identification information**
 
@@ -53,12 +53,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Just a Penguin](http://www.icj.me/)  
-<http://www.icj.me/>  
+<https://ipsw.me/>  
 cj@icj.me
 
-This document was last updated on January 09, 2014
-
-  
-
-
-* * *
+This document was last updated on 25th June 2016
