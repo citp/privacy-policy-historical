@@ -1,100 +1,63 @@
-> *The following text is extracted and transformed from the rehold.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rehold.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172459id_/https%3A//rehold.com/page/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
-
-**Go Daddy Respects Your Privacy**
-
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
-
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
-
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
-
-**Information Collection and Use**
-
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
-
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+# Rehold Privacy Policy
 
 * * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Rehold has developed this privacy policy in order to demonstrate our commitment to maintaining the privacy of the information that you provide when using Rehold' application. Our site also uses data from publicly accessible sources like telephone directories and from third party public data suppliers. As a consumer, you have the ability to make certain choices on the Rehold website that will govern how Rehold will handle your personal information and provide you with control over how Rehold shares that information.
+
+This privacy policy explains the source of site information and how specific information is protected, collected and used by Rehold. This policy may be occasionally updated by Rehold. Rehold will, however, provide notice of significant changes to this privacy policy by posting a notice on the rehold.com web site.
+
+By submitting personal information to the Rehold web site, you agree to the terms of this Privacy Policy and expressly consent to the processing of your personal information according to this Privacy Policy. 
+
+**1\. SITE INFORMATION SOURCE.**
+
+Rehold searches only publicly available sources information. If the information that we show is outdated we encourage users to correct that data at the original source or by sending us a document showing the correct information and we will update it.
+
+It is important for you to understand that we acquire much of the information published on our websites from publicly available sources, third-party data suppliers and other sources. Our Privacy Policy does not apply to that information. It applies only to the information that you provide directly to us. 
+
+**2\. INFORMATION WE COLLECT FROM YOU.**
+
+Rehold collects personal information such as name, email address, credit card information, billing address and other information that is submitted by you through our web-site. We collect information during following instances-  
+a) During your registration at the Rehold web site, we will collect information that you provide us.  
+b) Whenever you save the personal information in your profile or in the profiles of the people you know, we will collect the information you enter.  
+c) Whenever you enter personal information throughout the Rehold web site using one of the Rehold' tools and features, we will collect the information you enter.  
+d) Whenever information is recorded, in any form or field on the Rehold web site, we collect information about the time and date of submission, as well as the person submitting such information.  
+e) Whenever you buy reports or subscribe to Rehold's services we collect payment information, credit card information, billing information, we will collect the information you enter.  
+f) Whenever you contact us by sending us an e-mail, we will collect your e-mail addresses and any information contained in the e-mail you send us.
+
+Rehold collects other profile data, including, but not limited to: personal interests, gender, age, education, connections with other people or communities, and occupation, in order to assist users in finding and communicating with each other. 
+
+Rehold provides a platform for sharing of information by people about people. Such information can include personal reviews, praises, endorsement, interests, suggestions and other related information. Such information is considered public and is made available to general public only per publishing user's explicit consent at the time of such posting.
+
+Rehold also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes.
+
+**3\. INFORMATION SHARING AND DISCLOSURE.**
+
+We may also use a Profile owner's email address to send updates, account notifications, newsletters or news regarding the service. Profile owner may specify the types of emails that they wish to receive under their notification settings "Do not send me notification emails" in the user "Account Settings". 
+
+Rehold will penalize users who post incorrect, abusive, or false information about other users by revoking account privileges, upon learning of such actions.
+
+Except as otherwise described in this privacy statement, Rehold will NOT disclose personal information submitted by you to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by Rehold, whether or not a response is required by applicable law; (2) to enforce the Rehold Terms of Service Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. 
+
+**4\. STORING OF INFORMATION.**
+
+Profile owner accounts are secured by profile owner created passwords. Rehold takes precautions to insure that all members' account information is kept private. Rehold uses reasonable measures to protect the stored information of profile owners within our database, and restricts access to profile owner's information to those employees who need access to perform their job functions. Rehold does not guarantee the security of profile owner's account information, but Rehold does keeps information safe in accordance with industry standards. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of profile owner's information at any time.
+
+**5\. COOKIES.**
+
+Rehold uses cookies to record session information, for purposes including ensuring that visitors are not repeatedly asked for login information. We do not link the information we store in cookies to any personally identifiable information submitted on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
+
+**6\. CHILDREN.**
+
+Rehold prohibits using of its web site for people under the age 18. Rehold makes all efforts possible in preventing collection of personal information about children under age 18.
+
+**DISCLOSURE.**
+
+ALTHOUGH WE MAKE EVERY ATTEMPT POSSIBLE TO KEEP THE INFORMATION AS SECURE AS POSSIBLE, REHOLD IS NOT COMPLETELY IMMUNE TO SECURITY BREACHES AND UNAUTHORIZED ACCESS. WE CANNOT GUARANTEE YOU COMPLETE PROTECTION OF YOUR CONTENT. WE URGE YOU TO BE CONSCIOUS ABOUT THE PERSONAL INFORMATION THAT YOU ARE SHARING.
+
+**CONTACT US:**
+
+Should you have any questions or concerns regarding this Privacy Policy, please contact us using the "contact us" form on the rehold.com web site.
+
+_This Policy was last updated on April 05, 2016._
