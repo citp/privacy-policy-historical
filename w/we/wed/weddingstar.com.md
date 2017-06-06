@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the weddingstar.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112103933id_/http%3A//www.weddingstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingstar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062044id_/http%3A//www.weddingstar.com/privacy) for the most accurate reproduction.*
 
 # Weddingstar
 
-FREE shipping on orders over $99 (*North America only)
+Free Shipping On Orders Over $99 *North America Only
+
+
+
+**Free Shipping Details:**   
+Please note the following exceptions will apply: 
+
+  * Free shipping applies to order within North America only (USA, Canada)
+  * Orders that are considered remote as determined by FEDEX will be shown a remote fee at checkout 
+
+
 
 Weddingstar Inc. knows you care how information about you is used and shared, and we appreciate your trust that we'll do so carefully and sensibly. This notice describes our privacy policy. By visiting our corporate, catalog, or partnership sites, you're accepting the practices described in this Privacy Notice.
 
