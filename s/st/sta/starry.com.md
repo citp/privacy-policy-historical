@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starry.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601030210id_/https%3A//starry.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starry.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190006id_/https%3A//starry.com/legal/privacy) for the most accurate reproduction.*
 
 # Starry: Privacy Policy
 
