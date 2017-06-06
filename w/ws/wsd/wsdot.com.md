@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104175620id_/http%3A//wsdot.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152243id_/http%3A//wsdot.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Notice | WSDOT
 
@@ -93,7 +93,8 @@ This Agency has taken steps to safeguard the integrity of its data and prevent u
 
 This site contains text, artwork, photos or other content that is copyrighted by others and is being used with permission of the copyright holder. Therefore, we recommend that you contact our [Webmaster ](mailto:communications@watech.wa.gov)for permission to use any content contained on this site.
 
-####       
+####   
+     
 Section I. Disclaimer
 
 Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity who relies on any information obtained from this system does so at their own risk.
@@ -108,7 +109,7 @@ We reserves the right to revise and update this Privacy Policy at any time witho
 
 A **network address** is assigned to your computer or mobile device whenever you are using the Internet. Network addresses can be IP address like this: 192.168.0.11 or like this: fc00:0:0:0:0:0:0:0:/7 or Ethernet addresses like this 00:00:00:FF:EE:11
 
-**Cookies** are small data files stored on your hard drive or in your device memory when you visit a website. Cookies and similar technologies are widely used by websites to make them work more efficiently, as well as to provide information to the website operator about how users are using their website. Most browsers allow you to block cookies by adjusting the “settings,” “preferences” or “internet options.” To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, please refer to your browser ‘help’ section, visit the Federal Trade Commission’s explanation on its [website ](https://www.ftc.gov/site-information/privacy-policy/internet-cookies), or the Washington State privacy resources at [Privacy.wa.gov](https://privacy.wa.gov/privacy-guide#tips).   
+ **Cookies** are small data files stored on your hard drive or in your device memory when you visit a website. Cookies and similar technologies are widely used by websites to make them work more efficiently, as well as to provide information to the website operator about how users are using their website. Most browsers allow you to block cookies by adjusting the “settings,” “preferences” or “internet options.” To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, please refer to your browser ‘help’ section, visit the Federal Trade Commission’s explanation on its [website ](https://www.ftc.gov/site-information/privacy-policy/internet-cookies), or the Washington State privacy resources at [Privacy.wa.gov](https://privacy.wa.gov/privacy-guide#tips).   
   
 
 #### Section K. Contact Information
