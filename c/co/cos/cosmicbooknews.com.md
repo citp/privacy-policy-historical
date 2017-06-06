@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmicbooknews.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041905id_/http%3A//www.cosmicbooknews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmicbooknews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170710id_/http%3A//www.cosmicbooknews.com/privacypolicy) for the most accurate reproduction.*
 
 # Cosmic Book News Privacy Policy - Cosmic Book News
 
@@ -52,7 +52,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page. (http://www.cosmicbooknews.com/user)
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page. (https://www.cosmicbooknews.com/user)
 
 **Childrens Online Privacy Protection Act Compliance**
 
@@ -64,11 +64,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.cosmicbooknews.com/tos>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.cosmicbooknews.com/tos>
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.cosmicbooknews.com/privacypolicy).
+By using our site, you consent to our [websites privacy policy](https://www.cosmicbooknews.com/privacypolicy).
 
 **Changes to our Privacy Policy**
 
@@ -80,7 +80,7 @@ This policy was last modified on 10/20/13
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.cosmicbooknews.com  
+https://www.cosmicbooknews.com  
 webmaster@cosmicbooknews.com
 
 [Contact Form](http://cosmicbooknews.com/Contact)
