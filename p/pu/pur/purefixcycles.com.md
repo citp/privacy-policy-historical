@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the purefixcycles.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819211028id_/https%3A//www.purecycles.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purefixcycles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182559id_/https%3A//www.purecycles.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pure Cycles
 
-### **Pure Fix Cycles Privacy Policy**
+### **Pure Cycles Privacy Policy**
 
-This privacy policy lets you know how Pure Fix Cycles, LLC ("we" or "us") collects and shares information on our website at [www.purefixcycles.com](http://purefixcycles.com/).  This policy also covers your choices regarding the sharing of your information. 
+This privacy policy lets you know how Pure Fix Cycles, LLC ("Pure Cycles" or "we" or "us") collects and shares information on our website at [www.purecycles.com](http://purecycles.com/).  This policy also covers your choices regarding the sharing of your information. 
 
 **Personal Information**
 
@@ -50,7 +50,7 @@ From time to time, we may be required to share personal information in response 
 
 Any personally identifiable information you submit on a bulletin board, blog, chat room, comment about a product, or any other public forum on this website can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We recommend that you do not provide your name, e-mail address or any other personal information. Please note that if you choose to do so, it is at your own risk and you accept full responsibility for those posts and any consequences that may arise from posting this information.
 
-At times we may partner with a third party to create a site that may look as if you are on a www.Pure Fix Cycles.com page. These sites may be co-branded or may have the look and feel of being on our site. However, the information collected on these pages may not be covered under our Privacy Policy. We will provide notice on these sites and post the privacy policy that is applicable to the information collected on these pages.
+At times we may partner with a third party to create a site that may look as if you are on a www.PureCycles.com page. These sites may be co-branded or may have the look and feel of being on our site. However, the information collected on these pages may not be covered under our Privacy Policy. We will provide notice on these sites and post the privacy policy that is applicable to the information collected on these pages.
 
 **Information from Children Under 13  **
 
@@ -61,13 +61,13 @@ We do not knowingly collect information online from children under 13.
 Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year.  
 
 
-To request a copy of the information disclosure provided by Pure Fix Cycles pursuant to Section 1798.83 of the California Civil Code, please contact [legal@purefixcycles.com](mailto:PrivacyManager@bestbuy.com).
+To request a copy of the information disclosure provided by Pure Cycles pursuant to Section 1798.83 of the California Civil Code, please contact [legal@purecycles.com](mailto:legal@purecycles.com).
 
 **Security of Your Personal Information**
 
-Whether you are shopping online or in our stores, we use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it, including Secure Sockets Layer (SSL) protection technology (see "Safe Shopping Policy on Pure Fix Cycles.com" below).  We also avoid storing your user passwords in plain text.  Information that you provide us for credit card transactions is stored with external merchant processors. While we use the security measures described above along with others, we cannot ensure or warrant the security of any information you transmit to us by e-mail, and you do so at your own risk.
+Whether you are shopping online or in our stores, we use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it, including Secure Sockets Layer (SSL) protection technology (see "Safe Shopping Policy on PureCycles.com" below).  We also avoid storing your user passwords in plain text.  Information that you provide us for credit card transactions is stored with external merchant processors. While we use the security measures described above along with others, we cannot ensure or warrant the security of any information you transmit to us by e-mail, and you do so at your own risk.
 
-**Safe Shopping Policy on Pure Fix Cycles.com**
+**Safe Shopping Policy on PureCycles.com**
 
 We use a variety of information security measures to protect your online transactions with us.  Our site uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our website such as ordering information including your name, address and credit card number.
 
@@ -75,13 +75,13 @@ We use a variety of information security measures to protect your online transac
 
 As we continue to improve the services, products and the features we provide, this policy is subject to change. We will post significant changes to this Policy here and/or other formats for you to review. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided it, we will give you the opportunity to opt-out of having your information used or shared in that new manner.
 
-As you browse Pure Fix Cycles, advertising cookies will be placed on your computer so that we can understand what you are interested in.   Our display ad partner then enables us to present you with retargeting advertising on other sites based on your previous interaction with [company website]. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can [visit this page](http://www.adroll.com/about/privacy) to opt out of targeted advertising.
+As you browse Pure Cycles, advertising cookies will be placed on your computer so that we can understand what you are interested in.   Our display ad partner then enables us to present you with retargeting advertising on other sites based on your previous interaction with [company website]. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.
 
 **How To Contact Us**
 
 If you have questions about our Privacy Policy, please contact us at:
 
-Pure Fix Cycles Legal Department
+Pure Cycles Legal Department
 
 Pure Fix Cycles, LLC
 
@@ -89,4 +89,4 @@ Pure Fix Cycles, LLC
 
 Burbank, CA 91506 
 
-e-mail: legal@purefixcycles.com 
+e-mail: legal@purecycles.com 
