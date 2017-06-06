@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copilotgps.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110040533id_/http%3A//copilotgps.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copilotgps.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020518id_/http%3A//copilotgps.com/en-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,3 +35,7 @@ By using our Web site, you consent to the collection and use of this information
 ### LINKS TO OTHER SITES
 
 Please note that ALK offers links to a wide variety of other sites. We do not control how these other sites gather and use information about their users. We encourage you to review the privacy policies of all sites you link to from our sites.
+
+### Remarketing
+
+ALK partner’s with Google as a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://optout.networkadvertising.org/#/)
