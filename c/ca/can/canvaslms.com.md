@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canvaslms.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025040225id_/https%3A//www.canvaslms.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvaslms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204638id_/https%3A//www.canvaslms.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -83,7 +83,7 @@ While we and others give you the choices described in this Privacy Policy, there
 
 **A Special Note About Children**
 
-**NOTE TO PARENTS.** We are required under the Children’s Online Privacy Protection Act (COPPA), with limited exceptions, to obtain verifiable parantal consent in order to collect, use or disclose personal information from Children. COPPA allows the Child’s school, school districts and other educational institutions (collectively, **“SCHOOLS”** ) to obtain consent for the online collection of personal information from Children who are students of the School.
+**NOTE TO PARENTS.** We are required under the Children’s Online Privacy Protection Act (COPPA), with limited exceptions, to obtain verifiable parental consent in order to collect, use or disclose personal information from Children. COPPA allows the Child’s school, school districts and other educational institutions (collectively, **“SCHOOLS”** ) to obtain consent for the online collection of personal information from Children who are students of the School.
 
 If a Child wants to use our Service, he/she must first obtain an account for our Services from the School ( **“Account”** ). Before an Account is provided to a School, we require that the School (on behalf of the Child’s parent or legal guardian ( **“PARENT”)** (a) to consent to the collection, use and disclosure of personal information of the Child, through the Service, in accordance with this Privacy Policy, and (b) agree that the Child’s online activities are subject to our terms of service.
 
@@ -108,4 +108,4 @@ Salt Lake City, UT 84121
 
 Instructure may change this Privacy Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. If such changes are material, a notice of the changes will be posted along with the revised Privacy Policy, prior to the change becoming effective. We encourage you to visit this page from time to time for the latest on our privacy practices.
 
-© 2016 Instructure. All rights reserved.
+© 2017 Instructure. All rights reserved.
