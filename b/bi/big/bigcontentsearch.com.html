@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigcontentsearch.com privacy policy that was archived on 2016-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160311223622id_/http%3A//www.bigimtoolbox.com/legal/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigcontentsearch.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606080357id_/http%3A//www.bigimtoolbox.com/legal/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>Privacy Policy - Big Content Search</title>
@@ -12,11 +12,13 @@
 <meta name="lp-customizable-font" content="Segoe-UI; Main font" />-->
 <link rel="stylesheet" href="/css/style.css">
 <link rel="icon" type="image/x-icon" href="http://www.bigimtoolbox.com/favicon.ico">
-<script type="text/javascript" defer="" async="" src="https://piwik.niteoweb.com/piwik.js"></script><script async="" src="//web.archive.org/web/20131027075500/http://rum-static.pingdom.net/prum.min.js"></script><script src="/scripts/functions.js" type="text/javascript"></script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/scripts/functions.js" type="text/javascript"></script>
 <script src="/scripts/jquery-1.7.2.js" type="text/javascript"></script>
 <script src="/scripts/jquery.tools.min.js" type="text/javascript"></script>
+<script src="/scripts/jquery.colorbox-min.js" type="text/javascript"></script>
+<script src="/scripts/jquery.prettyPhoto.js" type="text/javascript"></script>
 <script src="/scripts/overlay_init.js" type="text/javascript"></script>
-<script src="/scripts/pingdom.js" type="text/javascript"></script>
+<script src="/scripts/raven.min.js"></script>
 </head>
 
 	<body>
@@ -109,7 +111,7 @@
 
 				<div class="box1">
 					<h4>Definitions</h4>      
-					<p>The “site” is an online information service provided by NiteoWeb Ltd. (“NiteoWeb Ltd.”). Wherever the agreement refers to “you” or “your”, it refers to the User of the service; “we” or “our” refers to NiteoWeb Ltd..</p>
+					<p>The “site” is an online information service provided by Termitnjak Ltd. (Termitnjak Ltd.”). Wherever the agreement refers to “you” or “your”, it refers to the User of the service; “we” or “our” refers to Termitnjak Ltd.</p>
 				</div>		
 
 
@@ -125,16 +127,37 @@
 	</div> -->
     <div id="footer-credits">
           <div class="col-left" id="copyright">
-            <p>© 2007 - 2016 <a href="http://www.niteoweb.com/" target="_blank">NiteoWeb Ltd.</a> All Rights Reserved.</p>
+            <p>© 2007 - 2017 <a href="http://www.termitnjak.com/en" target="_blank">Termitnjak
+            Ltd.</a>All Rights Reserved.</p>
 
           </div>
 
           <div class="col-right" id="credit">
-            <p>Big IM Toolbox - <a href="http://www.bigimtoolbox.com/legal/" target="_blank">Legal</a> - <a href="http://www.bigimtoolbox.com/contact" target="_blank">Contact</a></p>
+            <p>Big IM Toolbox - <a href="/legal/" target="_blank">Legal</a> - <a href="/contact" target="_blank">Contact</a></p>
           </div>
 
         </div>
 </footer>
+
+<!-- termitnjak sentry -->
+<script>
+  Raven.config('https://4f91a1eca4bb4640b417300279bf0187@sentry.termitnjak.com/9', {
+    logger: 'bcs-logger',
+    whitelistUrls: [
+      /http?:\/\/(www\.)?staging\.bigcontentsearch\.com/,
+      /http?:\/\/(www\.)?bigcontentsearch\.com/
+
+    ],
+    ignoreErrors: [
+     'fb_xd_fragment',
+      /ReferenceError:.*/
+    ],
+    includePaths: [
+      /http?:\/\/(www\.)?staging\.bigcontentsearch\.com/,
+      /http?:\/\/(www\.)?bigcontentsearch\.com/
+    ]
+  }).install();
+</script>
 
  <script type="text/javascript">
     jQuery.noConflict();
@@ -144,83 +167,18 @@
   </script>
 
 
-<!-- countdown js script -->
-<script language="JavaScript">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  var theevent = new Date("April 14 2014 20:00:00 UTC");
+  ga('create', 'UA-10310321-7', 'auto');
+  ga('send', 'pageview');
 
-  function Countdown(options) {
-    var timer,
-    instance = this,
-    seconds = options.seconds || 10,
-    updateStatus = options.onUpdateStatus || function () {},
-    counterEnd = options.onCounterEnd || function () {};
-
-    function decrementCounter() {
-      updateStatus(seconds);
-      if (seconds === 0) {
-        counterEnd();
-        instance.stop();
-      }
-      seconds--;
-    }
-
-    this.start = function () {
-      clearInterval(timer);
-      timer = 0;
-      seconds = options.seconds;
-      timer = setInterval(decrementCounter, 1000);
-    };
-
-    this.stop = function () {
-      clearInterval(timer);
-    };
-  }
-
-  countdownfunction = function(sec){
-    now = new Date();
-
-    var secs = (theevent - now) / 1000;
-    var seconds = Math.floor(secs % 60);
-    var minutes = Math.floor((secs / 60) % 60);
-    var hours = Math.floor((secs / 3600) % 24);
-    var days = Math.floor(secs / 3600 / 24);
-
-    document.getElementById("countdownarea_days").innerHTML = days;
-    document.getElementById("countdownarea_hours").innerHTML = hours;
-    document.getElementById("countdownarea_minutes").innerHTML = minutes;
-    document.getElementById("countdownarea_seconds").innerHTML = seconds;
-  }
-
-  var myCounter = new Countdown({  
-      seconds:theevent - (new Date()),  // number of seconds to count down
-      onUpdateStatus: countdownfunction, // callback for each second
-      onCounterEnd: function(){ alert('counter ended!');} // final action
-  });
-  myCounter.start();
 </script>
-<!-- end countdown js script -->
-
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-  _paq.push(["setCookieDomain", "*.bigimtoolbox.com"]);
-  _paq.push(["setDomains", ["*.bigimtoolbox.com"]]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.niteoweb.com/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 96]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
-    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="http://piwik.niteoweb.com/piwik.php?idsite=96" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
 		<!-- END footer -->
 		
 
 	
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
