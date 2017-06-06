@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welectronics.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122133318id_/http%3A//www.welectronics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welectronics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094552id_/http%3A//www.welectronics.com/privacy.html) for the most accurate reproduction.*
 
 # Overseas Electronics www.welectronics.com Privacy Policy
 
@@ -70,3 +70,9 @@ We are a wholesale distributor to business and the public. We buy wholesale dir
 We can sell wholesale to anyone. With a no minimum order policy as well as a wholesale to the public policy you do not have to spend a lot of money to save a lot of money. We do offer large discounts for bulk purchasers.
 
 Welectronics.com is dedicated to making wholesale buying available to everyone in the world. We will continue to keep our doors open to the public and allow anyone to purchase our quality products at affordable prices.
+
+|  Untitled Document
+
+** All Our Phones are Brand New**  
+  
+---|---
