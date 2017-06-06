@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015195950id_/https%3A//solium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607015851id_/https%3A//solium.com/privacy-policy) for the most accurate reproduction.*
 
 # Solium | Privacy Policy
 
@@ -10,13 +10,11 @@ This Privacy Policy covers and describes how Solium collects, uses and the discl
 
 Solium has developed this privacy policy for our users of our public website and users of our Shareworks platform. These guidelines deal with the rights of individuals to have access to their personal information and to have it corrected, if necessary, as well as the ways in which Solium collects, uses and discloses personal information. Using PIPEDA as a guide, personal information includes any factual or subjective information, recorded or not, about an individual but does not include the name, title or business address or telephone number of an employee of an organization.
 
-The TRUSTe program covers our collection, use and disclosure of information we collect through our website, www.solium.com and our Shareworks platform. The use of information collected through our service shall be limited to what is required to provide the employee share, or stock, or equity plans administration services offered by Solium.
+[](https://privacy.truste.com/privacy-seal/validation?rid=cc847176-f464-47c5-8588-84a25803abc9)
 
-[](http://privacy.truste.com/privacy-seal/Solium-Capital-Inc-/validation?rid=c6fdfd73-b6e3-4339-bb31-4e0d750ada11 "Validate TRUSTe privacy certification")
+Solium complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Solium has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Solium’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
-
-Solium complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Solium has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Solium’s certification, please visit <http://www.export.gov/safeharbor>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ## Privacy
 
@@ -36,6 +34,7 @@ We will share your personal information with third parties only in the ways that
 
 We may also disclose your personal information:
 
+  * In certain situations, Solium may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
   * as required by law, such as to comply with a subpoena, or a government request or similar legal process;
   * when we reasonably believe in good faith that disclosure is genuinely necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. At all times where we disclose your information pursuant to this provision, we will take all steps reasonably necessary to ensure that it remains secure;
   * to a successor to Solium that purchases Solium’s business, in which case you would be notified of such a change if it manifests in any material change of use of your personal information, as well as any choices you may have that arise regarding a change in use of your personal information;
@@ -95,7 +94,7 @@ Our website may include Social Media Features, such as the Facebook Like button 
 
 ### Updating Your Personally Identifiable Information
 
-All personal information is accessible through your personal account with Solium. You may access this information through our website or by contacting us directly by using our contact information below. You may verify the accuracy and completeness of your information, and request amendments or deletion to this information if required. We will respond to requests for access of personal information as soon as reasonably possible and in any event within 30 days.
+All personal information is accessible through your personal account with Solium. Upon request Solium will provide you with information about whether we hold any of your personal information. You may access this information through our website or by contacting us directly by using our contact information below. You may verify the accuracy and completeness of your information, and request amendments or deletion to this information if required. We will respond to requests for access of personal information as soon as reasonably possible and in any event within 30 days.
 
 ### Data Retention
 
