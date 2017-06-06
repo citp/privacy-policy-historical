@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sotech.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025160117id_/http%3A//www.sotech.com/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sotech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080443id_/http%3A//sotech.com/site/privacy.asp) for the most accurate reproduction.*
 
 # Socratic Technologies, Inc.
 
@@ -168,7 +168,7 @@ San Francisco, CA 94103
 Attn: Customer Care – Web Properties  
 [privacy@sotech.com](mailto:privacy@sotech.com)
 
-Copyright © 1994-2016. Socratic Technologies, Inc. All Rights Reserved. 
+Copyright © 1994-2020. Socratic Technologies, Inc. All Rights Reserved. 
 
 Effective as of: January 1, 2016  
 Last updated: January 1, 2016 
