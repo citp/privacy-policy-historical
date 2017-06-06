@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206055939id_/http%3A//www.jangomail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172017id_/https%3A//jangomail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JangoMail
 
 ## Privacy Statement
 
-This privacy statement applies to www.JangoMail.com owned and operated by JangoMail.com LLC. JangoMail has created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personally identifiable information provided by those visiting and interacting with the JangoMail public website: [www.jangomail.com](https://www.jangomail.com/) and the JangoMail application (for clients). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
-
-JangoMail has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, www.JangoMail.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please [contact us](https://jangomail.com/contact/ "Contact Us"). If you are not satisfied with our response you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
-
-[](https://privacy.truste.com/privacy-seal/JangoMail/validation?rid=0717b73a-82c0-4e41-a966-3b8354b8d5ad "TRUSTe European Safe Harbor certification") If you have any questions or concerns regarding this statement, you should first contact the Director of Operations at 1-888-465-2646, 8087 Washington Village Drive, Suite 201, Dayton, OH 45458. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-JangoMail complies with the U.S.- EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. JangoMail has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view JangoMail’s certification, please visit <http://www.export.gov/safeharbor/>
+This privacy statement applies to JangoMail.com, owned and operated by JangoMail LLC. JangoMail has created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personally identifiable information provided by those visiting and interacting with the JangoMail public website: [jangomail.com](https://jangomail.com/) and the JangoMail application (for clients). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 ### Your Email Lists and Databases
 
@@ -54,13 +48,15 @@ Our website includes Social Media Features, such as the Facebook and Twitter but
 
 ### Cookies and Other Tracking Technologies
 
-Technologies such as: cookies, tracking links, and scripts are used by JangoMail and our affiliates, analytics and service providers, such as email previews, spam scoring tools and support helpdesk. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Cookies and similar technologies (e.g., tracking links and scripts) are used by JangoMail and our affiliates, analytics and service providers, such as email previews, spam scoring tools and support helpdesk. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for authentication and user settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs.
+We use Local Storage such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
+
+Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies to collect and store information. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html "Macromedia").
 
 ### Behavioral Targeting/ Re-Targeting
 
@@ -101,5 +97,5 @@ If you have any questions about our privacy statement, the information we have c
 JangoMail  
 8087 Washington Village Drive, Suite 201  
 Dayton, OH 45458  
-Or see the [Contact Us](https://jangomail.com/contact/ "Contact Us") page  
-Last Updated March 12, 2015
+Or see the [Contact Us](https://jangomail.com/contact/ "Contact Us") page.  
+Last Updated March 4, 2016
