@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thundertix.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908183341id_/http%3A//www.thundertix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thundertix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120115id_/http%3A//www.thundertix.com/privacy-policy) for the most accurate reproduction.*
 
 # ThunderTix | Privacy Policy - ThunderTix commitment to protecting your information
 
 Updated November 3, 2011
 
-ThunderTix is committed to protecting your personal information, and we respect your privacy. This Privacy Policy explains how we use and protect the personal information we collect when you attempt to or actual do order a ticket using our Website or Website Services. This Policy applies to all users of ThunderTix.com (the “Website”) and the ThunderTix services (the “Website Services”) along with and subject to the Terms of Use available here (insert link) and incorporated herein by reference.
+ThunderTix is committed to protecting your personal information, and we respect your privacy. This Privacy Policy explains how we use and protect the personal information we collect when you attempt to or actual do order a ticket using our Website or Website Services. This Policy applies to all users of ThunderTix.com (the “Website”) and the ThunderTix services (the “Website Services”) along with and subject to the [Terms of Use available here](http://www.thundertix.com/terms-of-use/) and incorporated herein by reference.
 
 By using the Website, you are accepting the terms of this policy and agree that they are adequate and sufficient to protect your privacy.
 
