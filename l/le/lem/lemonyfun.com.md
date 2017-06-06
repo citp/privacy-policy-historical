@@ -1,100 +1,114 @@
-> *The following text is extracted and transformed from the lemonyfun.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonyfun.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205948id_/https%3A//www.lemonyfun.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# lemonyfun.com - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Codimo, s.r.o. ("lemonyfun") operates a variety of web sites ("Web Site" or "Site") including www.lemonyfun.com and is committed to protecting the privacy of our Web Site users ("Users") and Codimo, s.r.o. members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. Codimo, s.r.o. will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Codimo, s.r.o. defines personal information as information about an individual that enables someone to identify or contact a person and includes, among other things, a person's full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form in combination with one of the foregoing identifiers, such as account history, financial information, titles rented or purchased or categories of products rented or purchased. Categories of personal information that we collect include, for example:
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  * Basic identifying information such as e-mail address and first and last names
+  * Security information such as password
+  * Contact information such as address
+  * Billing information such as credit card, expiration date, billing address and account history
+  * Site preferences such as game categories you frequently browse
+  * Ratings and reviews of games
+  * Lists of games, such as for online subscription, rental or purchase
+  * E-newsletter selections and preferences
+  * Direct marketing contact preferences
+  * Rental and purchase history
+  * Sweepstakes entries
+  * Complaints, questions and information submitted to customer service agents or similar individuals either in person, by phone, by e-mail or by entry on a Site
+  * Site behavior such as pages visited or searches requested
+  * Browser information such as browser version, connection speed, IP address and the presence of various related plug-ins and tools such as media players
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+## When Does Codimo, s.r.o. Collect Personal Information?
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Codimo, s.r.o. collects personal information from you when you voluntarily submit that information to Codimo, s.r.o., for example: when you register on a Site; sign up for a subscription service; register for our e-newsletter service; participate in one of our sweepstakes, contests, or surveys; respond to an offer; purchase or rent products; or request to be on a mailing list. After you have registered your e-mail address on the Site and if you have clicked "Remember Me" or signed in to the Site, Codimo, s.r.o. collects Site behavior and browser information as you navigate through the Site. This information may be used to create a profile that we keep on individual Users that details their preferences, personal information and behavior. Consequently, collected information is tied to the User's personally identifiable information and may be used to provide offers and improve the content of the Site for the User. This profile may also be used to tailor a User's visit to our Web Site, and to direct pertinent marketing promotions to them.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## What Happens When I Register On The Web Site?
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+In order to use certain features of this Web Site, a User must first complete a registration process. During registration a User is required to provide basic contact information (such as name and e-mail address) and establish a password. Depending on the feature being used, the User may be required to provide other information associated with the use of that particular feature. For example, a User signing up for our subscription service will be required to provide an address for proof of location and financial information in the form of a credit card and expiration date for billing purposes,licensing porposes and future charges. Users signing up for our e-newsletter service may enter the types of games or games in which they are interested and about which they wish to receive information in the newsletter.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## What Happens When I Place An Order On The Web Site?
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Certain features of the Web Site do not require registration but may still require personal information to be entered, such as placing an order for a product. We request information from the User during the ordering process. For example, a User will be required to provide contact information (such as name, e-mail, and shipping address) and financial information (such as credit card and expiration date). This information is used for billing purposes and to fill Users' orders. If we have trouble processing an order, the information is used to contact the User.
 
-**Security**
+## Does Codimo, s.r.o. Use Cookie Technology?
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Codimo, s.r.o. uses cookie technology to make your use of the Sites more convenient and to support our internal business purposes. A cookie is a piece of information that is transferred to a User's hard drive for record-keeping purposes. For example, Codimo, s.r.o. uses cookies to remember your e-mail address so that you will not have to re-enter this information each time you visit the Site. Codimo, s.r.o. also uses cookies to help track referrals from third party web sites. Most browsers are initially set up to accept cookies, but you can set up your browser to alert you every time a cookie is offered, letting you decide whether or not to accept it. You can use and visit the Site with cookies disabled, but you will not automatically be recognized by the Site upon re-visiting. However, cookies allow you to take full advantage of some of our Sites' best features, so we recommend that you leave them turned on.
 
-**Updating Your Information**
+## What Other Mechanisms Does Codimo, s.r.o. Use to Track User Behavior?
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Codimo, s.r.o. and its third party vendors use web beacons to track and analyze non-personally identifiable usage information and to compile statistical information about our Users in order to improve the Web Site's quality and to support our business. All data collected on behalf of Codimo, s.r.o. is owned and used by Codimo, s.r.o.. Codimo, s.r.o. reserves the right to publish non-personally identifiable, summary information regarding its Web Site visitors for promotional purposes and as a representative audience for business partners.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-      iii.      You may call us at: (480) 505-8800
+## How Does Codimo, s.r.o. Handle Information from Children?
 
-       iv.      You may fax us at: (480) 505-8844
+Please note that Codimo, s.r.o. has no intention of collecting personal information from individuals under the age of 13 ("children"). We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). Where appropriate, we will instruct children not to provide such information to us. If a parent becomes aware that a child has provided us with personal information, we ask that the parent or legal guardian of the child contact us by visiting www.lemonyfun.com, selecting 'Contact Us'
 
-**Sending Emails**
+## How Does Codimo, s.r.o. Use Personal Information?
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Use of Personal Information is for our internal business purposes. Codimo, s.r.o. uses the personal information you provide for the purposes for which it was provided, for example, to process an order; to record your rental of a product and its return date; to support an online subscription service; to collect debts and recover overdue rental products; to notify you that you have won a contest or sweepstakes; to respond to your inquiries or complaints or to contact you or send you information about your membership. In addition, Codimo, s.r.o., its subsidiaries and affiliates may share and use information collected through the Site to administer and manage our business, including, for example for account maintenance and collections purposes, and in connection with information technology services. In addition, personal information may be used to create a profile that we keep on individual Users that details their preferences and behavior. This profile may be used by Codimo, s.r.o., its subsidiaries or affiliates to develop and improve the products, benefits and services, Codimo, s.r.o., its subsidiaries, affiliates and business partners offer to our Members or Users, to improve the Site and the associated user experience, and to develop pertinent marketing promotions to Users and Members.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Where permitted or required by law, Codimo, s.r.o. may collect, use or disclose your personal information without your consent, for example in response to a court order or subpoena or to comply with a legally permitted inquiry by a government agency.
 
-**Compliance with Laws and Law Enforcement**
+## When Will I Be Contacted by Codimo, s.r.o.?
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+You may receive products and communications associated with your transactions with Codimo, s.r.o., such as rentals, purchases, subscriptions, sweepstakes and contests. You may also receive communications from Codimo, s.r.o. related to transactions that appear to be from you or which appear to be fraudulent. You may be contacted in regards to an issue on your account or in response to a customer service contact by you or in response to a specific request from you such as clicking on a "forgot my password" link. Users who sign up for e-newsletter subscriptions will receive e-mails in accordance with their selection and preferences. These administrative communications also may be accompanied by information about products and services, special offers and upcoming promotions or events offered by Codimo, s.r.o., our subsidiaries, our affiliates or our marketing partners that we think may be of interest to you ("direct marketing").
 
-**Third Party Service Providers**
+You may periodically receive from Codimo, s.r.o., its subsidiaries and affiliates unsolicited direct marketing communications by mail (delivered via the United States Postal Service). Codimo, s.r.o., its affiliates and its subsidiaries will send standalone direct marketing e-mail communications to you only if you have agreed previously. We support the option to not receive these types of communications. Please see the following section: How Can I Opt Out of Receiving Direct Marketing from Codimo, s.r.o.?
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## What Personal Information Does Codimo, s.r.o. Give to Others?
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Transfer of Personal Information to Third Party Goods and Services Providers. Codimo, s.r.o. employs third party vendors, service providers, and suppliers to perform various functions on our behalf. Such services include: fulfilling orders; processing credit card or check card payments; collecting debts; removing repetitive information from customer lists; analyzing data; developing, hosting and maintaining our Web Sites and databases; sending and receiving e-mail and other communications; and staffing customer service call centers. These third parties may have access to personally identifiable information as reasonably necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Certain information collected in connection with transactions may be provided to third parties for use in transaction authorization, fraud scoring and payment card fraud prevention modeling.
 
-**Supplementation of Information**
+Codimo, s.r.o., its affiliates and its subsidiaries (if permitted by Codimo, s.r.o.) on occasion may disclose to their affiliates and business partners certain data, such as names and addresses and the genre of products rented or purchased by Users or Members, so that the business partner may send their own direct marketing communications to Users and Members. Codimo, s.r.o. will not provide User or Member e-mail addresses to affiliates or business partners, unless the User or Member has provided express permission to Codimo, s.r.o.. If you would prefer that Codimo, s.r.o. not disclose your personal information to its affiliates or business partners for direct marketing purposes, subject to legal, or contractual restrictions and legal notice you may opt out of such uses and/or disclosures by (a) checking the appropriate "Opt Out" box in any applicable e-mail communication or e-newsletter, (b) visiting www.lemonyfun.com, selecting 'Contact Us'.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Third Party Features. From time to time Codimo, s.r.o. may include additional features and functionality from third parties on our Web Sites. Certain of these features and functions, may require Codimo, s.r.o. to send selected information about you, such as information about your game queue, to the third party. If you do not wish for Codimo, s.r.o. to share this information, you will have a reasonable opportunity to opt-out of these third-party features and functions. Codimo, s.r.o. will never send your password or your financial information to any third party through these features or functions.
 
-**Contests/Surveys**
+Cleaned Data. We periodically remove from personal information data that can be used to identify individuals for example by summarizing, aggregating or removing certain data elements. The resulting cleaned data is no longer considered personal information and is not subject to this Privacy Policy. The cleaned data may be published by Codimo, s.r.o. and provided to various third parties.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Disclosures Attendant to a Merger or Acquisition. If Codimo, s.r.o. or its assets are acquired by another company, your personal information may be disclosed to the acquiring company to allow it to fulfill your order or provide the products, services or information that Codimo, s.r.o. would otherwise provide to you and generally to carry on the Codimo, s.r.o. business. We may also use and disclose your personal information to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties. We will require such parties to treat your personal information in accordance with this privacy policy and to use and disclose it only for the purposes for which it was collected.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Public postings. If you disclose your personal information in a manner that will be posted publicly such as in a product review your posting will be seen by others. In addition, if you elect to participate in certain community features offered from time to time, selected information about you, including information about your game queue, may be shared with other participants in these community features. Also, Codimo, s.r.o. may make it possible for certain third party web sites to be accessed directly from our Web Sites and for selected information about you to be provided to these third party web sites if you are also a user of these third party web sites. If a third party web site allows other users to view information about you (e.g., through posting to a publicly available profile page), the information provided by Codimo, s.r.o. will be visible to other users of the third party web site.
 
-**Tell-A-Friend**
+## How does Codimo, s.r.o. Protect Personal Information?
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Codimo, s.r.o. takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by Codimo, s.r.o.. For example, Codimo, s.r.o. uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions.
 
-**What Happens to my Personal Information if I Opt Out?**
+## What About Links to Other Web Sites?
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+This Privacy Policy applies solely to information collected by Codimo, s.r.o.. However, our Site contains links to other web sites owned and operated by third parties. The third parties who operate these sites may treat the collection, use and disclosure of personal information differently than we do. This could be the case even for those web sites that carry Codimo, s.r.o.'s or its affiliates' trademarks or logos or which are framed by a Site. Please be aware that Codimo, s.r.o. is not responsible for the data collection, use and disclosure practices of companies or organizations to which our Sites may provide links. We encourage our Users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
-**Transfer of Data Abroad**
+## How Can I Access or Correct My Personal Information?
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+If a User's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a User no longer desires our service, we provide a way to correct or, update or delete/deactivate Users' personally identifiable information. You can review or change some of your personal information as follows:
 
-**Changes in Our Practices**
+You can review and change certain account related information by visiting Codimo, s.r.o., submiting suitable identification and giving the Codimo, s.r.o. your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Note that in most cases, Codimo, s.r.o. will retain the previously entered data.
 
-**Contacting Our Site**
+## Legal Notices
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Video Privacy Protection Act of 1988. Codimo, s.r.o. supports the Video Privacy Protection Act of 1988 and will use reasonable commercial efforts to require employee and business partner compliance with the Act.
 
-* * *
+REQUIRED BY NEW YORK LAW: This videotape service provider from time to time provides to marketers of goods and services, the names and addresses of customers and a description or subject matter of materials rented by video customers. You have the right to elect not to have your name, address or the description or subject matter of any material rented included in such lists. This election may be changed by you, in writing, at any time.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+## Can Codimo, s.r.o. Change This Privacy Policy?
+
+Codimo, s.r.o. reserves the right to change this Privacy Policy from time to time. If Codimo, s.r.o. makes a change, this Privacy Policy will be updated accordingly. We recommend that you review this Privacy Policy periodically so that you are aware of any changes. If we make a material change to this Privacy Policy we will make reasonable efforts to notify you. For example, your continued consent to our collection, use and disclosure of your personal information or your continued use of our Sites following the notification or posting of any changes to this Privacy Policy shall constitute your acceptance of these changes.
+
+## How Do I Contact Codimo, s.r.o. Regarding The Web Site And This Privacy Policy?
+
+If Users have any questions or suggestions regarding our privacy policy, please contact us at:
+
+Web: visit www.lemonyfun.com, select 'Contact Us' and complete the contact form
