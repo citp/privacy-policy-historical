@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the sweatco.in privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108163020id_/http%3A//sweatco.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweatco.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073625id_/http%3A//sweatco.in/privacy) for the most accurate reproduction.*
 
-# Sweatcoin
+# Sweatcoin — the app that pays you to get fit
 
-**This Privacy Policy was last updated on 18 May 2016**  
+_This Privacy Policy was last updated on 27 January 2016_ **  
+**  
 
 
 SweatCo Ltd is a company incorporated in England & Wales (registration number 09242159) whose registered office is at c/o OHS Secretaries Limited, 9th Floor, 107 Cheapside, London, EC2V 6DN  (hereafter referred to as “ **SweatCo”** ,  **“we”**  or  **“us”**  as the context may require).  SweatCo is committed to protecting your privacy in full compliance with applicable data protection and privacy laws. 
 
- This Privacy Policy, together with our Terms of Use (<http://sweatco.in/uk/tnc>), applies to your use of the Sweatcoin mobile application (the “ **Sweatcoin App”** ), any website operated by SweatCo (including <http://sweatco.in/>) (the  **“SweatCo Website(s)”** ) and any services we provide that are accessible via any of them.  This Privacy Policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this Privacy Policy carefully to understand our practices regarding your personal data and how we will treat it.  
+This Privacy Policy, together with our Terms of Use (<http://sweatco.in/uk/tnc>), applies to your use of the Sweatcoin mobile application (the “ **Sweatcoin App”** ), any website operated by SweatCo (including <http://sweatco.in/>) (the  **“SweatCo Website(s)”** ) and any services we provide that are accessible via any of them.  This Privacy Policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this Privacy Policy carefully to understand our practices regarding your personal data and how we will treat it.  
 
 By visiting any SweatCo Website(s) or by downloading, installing or using the Sweatcoin App, you accept this Privacy Policy and consent to the processing of your personal data as described herein.
 
@@ -65,36 +66,33 @@ The types of cookies we may use include: 
 
 ·        **Advertising and Retargeting Cookies:  **These allow us to generate appropriate advertising directed to you on the SweatCo Website(s) as well as on the Sweatcoin App and other third party websites.
 
-Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.  You may block cookies used by websites by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies you may not be able to use all functionality of the SweatCo Website(s). 
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.  You may block cookies used by websites by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies you may not be able to use all functionality of the SweatCo Website(s).  
 
 We use a number of industry-standard data analytics tools, such as Google Analytics and Facebook Analytics. These collect certain information about you, such as your device’s IP address and browsing and usage behaviour, and are used to allow us to track and monitor the traffic visiting the Sweatcoin App and SweatCo Website(s).
 
  **USES MADE OF THE INFORMATION DESCRIBED IN THIS POLICY    
-**  
+**We may use your personal data to:
 
-
-We may use your personal data to:
-
-  * provide you with the Sweatcoin App and identify you as Sweatcoin App user; 
-  * populate your user account in connection with the Sweatcoin App and support the operation of such account;  
-  * verify your physical movement  and location and issue Sweatcoins on the basis of this verified data; 
-  * analyse the usage of, and improve, the Sweatcoin App and the SweatCo Website(s); 
-  * communicate with you, including, without limitation, to inform you of updates to the Sweatcoin App, SweatCo Website(s), and our Terms of Use and Privacy Policy; 
-  * perform market and customer research; 
+  * provide you with the Sweatcoin     App and identify you as Sweatcoin App user; 
+  * populate your user account in     connection with the Sweatcoin App and support the operation of such     account;  
+  * verify your physical     movement  and location and issue Sweatcoins     on the basis of this verified data; 
+  * analyse the usage of, and     improve, the Sweatcoin App and the SweatCo Website(s); 
+  * communicate with you, including,     without limitation, to inform you of updates to the Sweatcoin App, SweatCo     Website(s), and our Terms of Use and Privacy Policy; 
+  * perform market and customer     research; 
   * market our services to you; 
-  * correct errors and problems with our services (including the Sweatcoin App and SweatCo Website(s)); 
-  * prevent and investigate any suspected fraud or other criminal activities;  
-  * prepare aggregated data in relation to users of the Sweatcoin App (for example, and without limitation, the amount of steps completed by all users of the Sweatcoin App, or particular user groups);   
-  * create daily leaderboards of users, comprising all users, or users meeting particular criteria, ranked by the number of steps they have completed or other criteria; 
-  * operate the Sweatcoin Marketplace; 
-  * investigate any disputes between users or with you; and   
-  * create aggregated data for commercial purposes, provided that this does not identify you.
+  * correct errors and problems     with our services (including the Sweatcoin App and SweatCo Website(s)); 
+  * prevent and investigate any     suspected fraud or other criminal activities;  
+  * prepare aggregated data in     relation to users of the Sweatcoin App (for example, and without limitation,     the amount of steps completed by all users of the Sweatcoin App, or     particular user groups);   
+  * create daily leaderboards of     users, comprising all users, or users meeting particular criteria, ranked     by the number of steps they have completed or other criteria; 
+  * operate the Sweatcoin     Marketplace; 
+  * investigate any disputes     between users or with you; and   
+  * create aggregated data for     commercial purposes, provided that this does not identify you.
 
 
 
- **DISCLOSURE OF YOUR INFORMATION  
-**  
+Notwithstanding anything to the contrary in this section, we will not use your data related to your levels of physical activity or your health (such as delivered by Apple’s HealthKit or Motion & Fitness APIs or Google’s GoogleFit APIs) for any purpose other than providing health, motion, and/or fitness services in connection with our application (e.g., not for serving advertising).
 
+ **DISCLOSURE OF YOUR INFORMATION**
 
 Except as described in this Privacy Policy, we will not sell your personal data to any third party without your consent. 
 
@@ -104,7 +102,7 @@ We share your personal data with the parties indicated below and for the followi
 
 ·        **Strategic partners**. We may make available functionality allowing the Sweatcoin App to interact with third party applications that you use, which may include functionality allowing you to share and sync your personal data with such third party applications. Such sharing and syncing will always be initiated by you.  Where you initiate such a process, we will share your personal data with the third party operating the relevant application.  
 
-·        **Sweatcoin Marketplace participants:**   We may provide users participating in the Sweatcoin Marketplace with aggregated statistics and reports based upon details of the use of the Sweatcoin Marketplace by you and other users.   
+·        **Sweatcoin Marketplace participants:**   We may provide users participating in the Sweatcoin Marketplace with aggregated statistics and reports based upon details of the use of the Sweatcoin Marketplace by you and other users. In addition, we or the vendor whose goods you have expressed an interest to purchase might follow-up with you for your feedback on transaction and satisfaction with your desired purchase.
 
 ·        **Lawful requests**. We may disclose your personal data if we are under a duty to disclose or share such data in order to comply with any legal or regulatory obligation or request.
 
@@ -113,6 +111,8 @@ We share your personal data with the parties indicated below and for the followi
 ·        **Protection of our interests and protection against fraud.**  We may disclose your data (i)  if this is reasonably required to enforce our Terms of Use or any other agreement we have entered into or to investigate potential breaches; or (ii) if this is required to protect the rights, property or safety of SweatCo, our customers, or others (including by exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction) and (iii) in accordance with applicable laws, to defend our interests or to prevent and combat fraud.
 
 Certain of your personal data may also be shared with other users of the Sweatcoin App as part of the normal operation of the Sweatcoin App. ** ** For example, your profile picture and biographical information that you add is accessible to all users. In addition, the Sweatcoin App may publish your total verified steps (or other movement) during a particular period to other users from time to time.  Such details may be displayed in different ways including in rankings of particular user groups.   
+
+For the avoidance of doubt, we will not sell or transfer for consideration your data related to your levels of physical activity or your health (such as delivered by Apple’s HealthKit, Motion & Fitness APIs or Google’s GoogleFit APIs) to a third party without your express consent, and then only for purposes of enabling the third party to provide health, motion, and/or fitness services.
 
  **HOW AND WHERE WE STORE YOUR PERSONAL DATA  
 **  
