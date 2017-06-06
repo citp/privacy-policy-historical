@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdmovies.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205110337id_/http%3A//www.thirdmovies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdmovies.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035133id_/http%3A//www.thirdmovies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Info
 
