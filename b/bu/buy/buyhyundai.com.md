@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyhyundai.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013150618id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyhyundai.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185325id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Hyundai Website Privacy Policy
 
