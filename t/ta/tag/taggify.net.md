@@ -1,38 +1,42 @@
-> *The following text is extracted and transformed from the taggify.net privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614214156id_/http%3A//www.taggify.net/Help.aspx%3Fcontent%3Dabout_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taggify.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090907id_/http%3A//www.taggify.net/privacy.php) for the most accurate reproduction.*
 
-# Taggify Help
+# Taggify, Connecting brands with people.
 
-## Privacy Policy
+This is our official Privacy Policy which forms part of your legal agreement with us UNDER OUR TERMS OF USE.
 
-* * *
+**CHANGES TO THIS PRIVACY POLICY**
 
-Taggify respects the privacy of the visitors and customers. To this end, we have prepared the following privacy policy to ensure all measures are taken to protect the interests of our visitors.
+We reserve the right, in our sole discretion, to modify, add or delete provisions of this Privacy Policy at any time. We will post the effective date of any change at the top of this Privacy Policy. Your use of our Digital Property after the effective date of any such modification means you accept and agree to be bound by the Privacy Policy, as modified. We urge you to come back to this digital page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.
 
-### 1\. Personal Information
+**COLLECTING PERSONAL INFORMATION**
 
-* Taggify is the sole owner of information collected on the website, [www.taggify.net](http://wwww.taggify.net/) .  
- 
-* The information collected is used for specific business purposes and is not sold or distributed to any third parties. It is used only for the purposes which the visitor intended. The primary exception to this policy would be if information were required to be distributed to any law enforcement person or agency as required by local laws.  
- 
-* Payment information is processed through a third party credit card processor and is not collected by Taggify. This processor does not share, sell or otherwise use personal information for secondary purposes. You can read additional information about the ordering process at [Taggify Ordering Help](https://web.archive.org/Help.aspx?content=about_ordering) page.  
- 
-* Information is stored in user profiles. Taggify does not use computer generated information, such as IP addresses, to seek additional personal information.  
- 
-* We can, however, share aggregate information such as page views, browsers, unique visits and other broad information with our partners and advertisers in future. No personal information will be shared.  
- 
+**At the moment Taggify is NOT collecting Personal Information.** In case of any collection, TAGGIFY won't include personal information such as your, postal address (zipcode), email, and telephone number. The information we may collect is non-personal and may include: IP Address, Web Browser, Browser Language and ISP.   
+Click here to opt-out.
 
-### 2\. Website Security
+**HOW WE USE INFORMATION**
 
-We do our absolute best to protect our website from unlawful or unethical breaches in security. We take advantage of every measure available to protect our users personal information both online and off. Please contact us at support@taggify.net for any additional questions on information security.
+We will use information we collect or obtain when you use our Platform as described in this Privacy Policy or as otherwise disclosed at the time of collection, to:
 
-### 3\. Third Parties
+  * Conduct internal research;
+  * Operate and administer our Platform;
+  * Ensure compliance with our Terms of Use;
+  * Respond to your requests for products, services, and/or information;and
+  * Communicate with you about TAGGIFY products, services, events, promotions, and other items we believe will be of interest to you;
 
-Taggify contains links to other websites submitted by our customers. We are not responsible for the privacy of visitors or the use of collected information on these websites. We strongly encourage users to read the privacy policies on any website visited.
 
-### 4\. Policy Changes
 
-Any changes to the privacy policy will be posted within this document as well as on the homepage and any other pertinent location. Information will be used in the manner under which it was originally collected.
+**ADVERTISERS**
 
-* * *
+In the course of serving advertisements to our Website, our operational service provider may use cookies and other technologies.
 
-07 March 2009 
+**INFORMATION SHARING**
+
+We do not share Personal Information to anyone.
+
+**SECURITY**
+
+As you may appreciate, the Internet is a public network and we cannot guarantee that communications between you and TAGGIFY or others to, through, or from our Digital Property, will be free from unauthorized access or interference by third parties. By using our Digital Property, you are agreeing to assume this risk and any and all responsibility and liability that may arise. We have put in place reasonable procedures to help safeguard information and we limit access to your Personal Information to only those employees who need access in order to perform their duties.
+
+**CONTACT US**
+
+For questions relating to privacy, we can be contacted at: support@taggify.net or +54 11 2076-3500 or by mail, proper postage prepaid, at TAGGIFY S.A., CABRERA 6061, 8° Floor, BUENOS AIRES, 1427, ARGENTINA, Attention: Privacy Administrator
