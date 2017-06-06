@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iosnoops.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120084644id_/http%3A//www.iosnoops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iosnoops.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084517id_/http%3A//www.iosnoops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iOSnoops
 
@@ -40,7 +40,7 @@ If some or all of _TechSnoops LLC_ ‘s assets were acquired, or in the unlikely
 
 ### Advertisement
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by _iOSnoops.com_ and other _TechSnoops_ properties, and does not cover the use of cookies by any advertisers.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org.
 
 ### Comments
 
@@ -50,7 +50,7 @@ Comments left by users on our websites are the sole responsibility of the person
 
 Although most changes are likely to be minor, we may change our Privacy Policy from time to time, and in our sole discretion. We encourage visitors to frequently check this page for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-_Last update: January 28, 2012. If you have any questions about this Privacy Policy, please feel free to contact us via our[contact page](http://www.iosnoops.com/contact-us/).  
+_Last update: May 5, 2017. If you have any questions about this Privacy Policy, please feel free to contact us via our[contact page](http://www.iosnoops.com/contact-us/).  
 _
 
 [](http://creativecommons.org/licenses/by-sa/3.0/)  
