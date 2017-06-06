@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.my privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324005100id_/https%3A//www.allianz.com.my/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181155id_/https%3A//www.allianz.com.my/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -63,7 +63,7 @@ The laws of Malaysia provide for measures to enforce your privacy rights. In add
 
 In case you have any further questions about your data privacy at Allianz, please do not hesitate to contact us by using any one of the following options:
 
-[> Inquiry Form](https://web.archive.org/web/20160324005100id_/https%3A//www.allianz.com.my/talk-to-us)
+[> Inquiry Form](https://web.archive.org/web/20170606181155id_/https%3A//www.allianz.com.my/talk-to-us)
 
 [> customer.service@allianz.com.my](mailto:customer.service@allianz.com.my)
 
@@ -87,8 +87,8 @@ We look forward to being of service to you.
 
 _1 Allianz Malaysia Berhad's affiliate companies refer to its related companies and associated companies, which includes Allianz General Insurance Company (Malaysia) Berhad and Allianz Life Insurance Malaysia Berhad. _
 
-[Malay Version ](https://web.archive.org/documents/20719/54540/Notice+to+Customers+of+Allianz+General+Insurance+Company+%28Malaysia%29+Berhad+on+The+Personal+Data+Protection+Act+2010.20140113.pdf/b6cf6d8e-9106-4c7e-be6c-b53526f5be5c)
+[Malay Version ](https://web.archive.org/documents/144671/158798/Notice+to+Customers+of+Allianz+General+Insurance+Company+%28Malaysia%29+Berhad+on+The+Personal+Data+Protection+Act+2010.20140113.pdf/b6cf6d8e-9106-4c7e-be6c-b53526f5be5c)
 
-[**NOTICE TO CUSTOMERS OF ALLIANZ GENERAL INSURANCE COMPANY (MALAYSIA) BERHAD ON THE PERSONAL DATA PROTECTION ACT 2010** ](https://web.archive.org/documents/20719/54540/Notice+to+Customers+of+Allianz+General+Insurance+Company+%28Malaysia%29+Berhad+on+The+Personal+Data+Protection+Act+2010.20140113.pdf/b6cf6d8e-9106-4c7e-be6c-b53526f5be5c)
+[**NOTICE TO CUSTOMERS OF ALLIANZ GENERAL INSURANCE COMPANY (MALAYSIA) BERHAD ON THE PERSONAL DATA PROTECTION ACT 2010** ](https://web.archive.org/documents/144671/158798/Notice+to+Customers+of+Allianz+General+Insurance+Company+%28Malaysia%29+Berhad+on+The+Personal+Data+Protection+Act+2010.20140113.pdf/b6cf6d8e-9106-4c7e-be6c-b53526f5be5c)
 
-[**NOTICE TO CUSTOMERS OF ALLIANZ LIFE INSURANCE MALAYSIA BERHAD ON THE PERSONAL DATA PROTECTION ACT 2010**](https://web.archive.org/documents/20719/54540/Privacy+Principles+-+English+Version.pdf/a1f76cff-5ea7-4d35-95de-3eecb002d83c)
+[**NOTICE TO CUSTOMERS OF ALLIANZ LIFE INSURANCE MALAYSIA BERHAD ON THE PERSONAL DATA PROTECTION ACT 2010**](https://web.archive.org/documents/144671/158798/Privacy+Principles+-+English+Version.pdf/a1f76cff-5ea7-4d35-95de-3eecb002d83c)
