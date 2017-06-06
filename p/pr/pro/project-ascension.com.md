@@ -1,100 +1,91 @@
-> *The following text is extracted and transformed from the project-ascension.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project-ascension.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024423id_/http%3A//project-ascension.com/page/privacypolicy) for the most accurate reproduction.*
 
-# Legal Agreement
+# - Ascension Classless Realm
 
-**Go Daddy Respects Your Privacy**
+#### PRIVACY POLICY
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+THIS PRIVACY POLICY HAS BEEN COMPILED TO BETTER SERVE THOSE WHO ARE CONCERNED WITH HOW THEIR 'PERSONALLY IDENTIFIABLE INFORMATION' (PII) IS BEING USED ONLINE. PII, AS USED IN US PRIVACY LAW AND INFORMATION SECURITY, IS INFORMATION THAT CAN BE USED ON ITS OWN OR WITH OTHER INFORMATION TO IDENTIFY, CONTACT, OR LOCATE A SINGLE PERSON, OR TO IDENTIFY AN INDIVIDUAL IN CONTEXT. PLEASE READ OUR PRIVACY POLICY CAREFULLY TO GET A CLEAR UNDERSTANDING OF HOW WE COLLECT, USE, PROTECT OR OTHERWISE HANDLE YOUR PERSONALLY IDENTIFIABLE INFORMATION IN ACCORDANCE WITH OUR WEBSITE.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+#### WHAT PERSONAL INFORMATION DO WE COLLECT FROM THE PEOPLE THAT VISIT WEBSITE?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+WHEN REGISTERING ON OUR SITE, AS APPROPRIATE, YOU WILL BE ASKED TO ENTER YOUR EMAIL ADDRESS OR OTHER DETAILS TO AID IN IDENTIFYING YOUR ACCOUNT.
 
-**Information Collection and Use**
+#### WHEN DO WE COLLECT INFORMATION?
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+WE COLLECT INFORMATION FROM YOU WHEN YOU REGISTER ON OUR SITE OR ENTER INFORMATION ON OUR SITE.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+#### HOW DO WE USE YOUR INFORMATION?
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+WE MAY USE THE INFORMATION WE COLLECT FROM YOU WHEN YOU REGISTER, SURF THE WEBSITE, OR USE CERTAIN OTHER SITE FEATURES IN THE FOLLOWING WAYS:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+ \- TO ALLOW US TO BETTER SERVICE YOU REGARDING FEATURES OR IN RESPONDING TO YOUR SUPPORT REQUESTS.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+ \- TO SEND PERIODIC EMAILS REGARDING YOUR ACCOUNT OR OTHER SERVICES.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+#### HOW DO WE PROTECT VISITOR INFORMATION?
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+OUR WEBSITE IS SCANNED ON A REGULAR BASIS FOR SECURITY HOLES AND KNOWN VULNERABILITIES IN ORDER TO MAKE YOUR VISIT TO OUR SITE AS SAFE AS POSSIBLE. INFORMATION STORED ON THE WEBSITE IS ENCRYPTED USING VARIOUS ALGORITHMS.
 
-**Security**
+YOUR PERSONAL INFORMATION IS CONTAINED BEHIND SECURED NETWORKS AND IS ONLY ACCESSIBLE BY A LIMITED NUMBER OF PERSONS WHO HAVE SPECIAL ACCESS RIGHTS TO SUCH SYSTEMS, AND ARE REQUIRED TO KEEP THE INFORMATION CONFIDENTIAL. IN ADDITION, ALL SENSITIVE INFORMATION YOU SUPPLY IS ENCRYPTED VIA SECURE SOCKET LAYER (SSL) TECHNOLOGY.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+WE IMPLEMENT A VARIETY OF SECURITY MEASURES WHEN A USER REGISTERS AN ACCOUNT, SUBMITS, OR ACCESSES THEIR INFORMATION, USES FEATURES TO MAINTAIN THE SAFETY OF YOUR PERSONAL INFORMATION.
 
-**Updating Your Information**
+ALL TRANSACTIONS ARE PROCESSED THROUGH A GATEWAY PROVIDER AND ARE NOT STORED OR PROCESSED ON OUR SERVERS.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### DO WE USE 'COOKIES'?
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+YES. COOKIES ARE SMALL FILES THAT A SITE OR ITS SERVICE PROVIDER TRANSFERS TO YOUR COMPUTER'S HARD DRIVE THROUGH YOUR WEB BROWSER (IF YOU ALLOW) THAT ENABLES THE SITE'S OR SERVICE PROVIDER'S SYSTEMS TO RECOGNIZE YOUR BROWSER AND CAPTURE AND REMEMBER CERTAIN INFORMATION. FOR INSTANCE, WE USE COOKIES TO HELP US AUTOMATICALLY REMEMBER YOU FOR YOUR NEXT VISIT. THEY ARE ALSO USED TO HELP US UNDERSTAND YOUR PREFERENCES BASED ON PREVIOUS OR CURRENT SITE ACTIVITY, WHICH ENABLES US TO PROVIDE YOU WITH IMPROVED SERVICES. WE ALSO USE COOKIES TO HELP US COMPILE AGGREGATE DATA ABOUT SITE TRAFFIC AND SITE INTERACTION SO THAT WE CAN OFFER BETTER SITE EXPERIENCES AND TOOLS IN THE FUTURE.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+WE USE COOKIES TO:
 
-      iii.      You may call us at: (480) 505-8800
+ \- UNDERSTAND AND SAVE USER'S PREFERENCES FOR FUTURE VISITS.
 
-       iv.      You may fax us at: (480) 505-8844
+YOU CAN CHOOSE TO HAVE YOUR COMPUTER WARN YOU EACH TIME A COOKIE IS BEING SENT, OR YOU CAN CHOOSE TO TURN OFF ALL COOKIES. YOU DO THIS THROUGH YOUR BROWSER (LIKE INTERNET EXPLORER) SETTINGS. EACH BROWSER IS A LITTLE DIFFERENT, SO LOOK AT YOUR BROWSER'S HELP MENU TO LEARN THE CORRECT WAY TO MODIFY YOUR COOKIES.
 
-**Sending Emails**
+#### IF USERS DISABLE COOKIES IN THEIR BROWSER:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+IF YOU DISABLE COOKIES, SOME FEATURES WILL BE DISABLED. IT WILL TURN OFF SOME OF THE FEATURES THAT MAKE YOUR SITE EXPERIENCE MORE EFFICIENT AND SOME OF OUR SERVICES WILL NOT FUNCTION PROPERLY.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+FEATURES THAT WILL BE DISABLED
 
-**Compliance with Laws and Law Enforcement**
+ \- REMEMBER ME FEATURE
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+#### THIRD PARTY DISCLOSURE
 
-**Third Party Service Providers**
+WE DO NOT SELL, TRADE, OR OTHERWISE TRANSFER TO OUTSIDE PARTIES YOUR PERSONALLY IDENTIFIABLE INFORMATION.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+#### THIRD PARTY LINKS
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+WE DO NOT INCLUDE OR OFFER THIRD PARTY PRODUCTS OR SERVICES ON OUR WEBSITE.
 
-**Supplementation of Information**
+#### ACCORDING TO CALOPPA WE AGREE TO THE FOLLOWING:
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+USERS CAN VISIT OUR SITE ANONYMOUSLY
 
-**Contests/Surveys**
+ONCE THIS PRIVACY POLICY IS CREATED, WE WILL ADD A LINK TO IT ON OUR HOME PAGE, OR AS A MINIMUM ON THE FIRST SIGNIFICANT PAGE AFTER ENTERING OUR WEBSITE.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+OUR PRIVACY POLICY LINK INCLUDES THE WORD 'PRIVACY', AND CAN BE EASILY BE FOUND ON THE PAGE SPECIFIED ABOVE.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+USERS WILL BE NOTIFIED OF ANY PRIVACY POLICY CHANGES:
 
-**Tell-A-Friend**
+ \- ON OUR PRIVACY POLICY PAGE
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+USERS ARE ABLE TO CHANGE THEIR PERSONAL INFORMATION:
 
-**What Happens to my Personal Information if I Opt Out?**
+ \- BY LOGGING INTO THEIR ACCOUNT
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+ \- BY SENDING US A SUPPORT TICKET
 
-**Transfer of Data Abroad**
+#### HOW DOES OUR SITE HANDLE DO NOT TRACK SIGNALS?
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+WE HONOR DO NOT TRACK SIGNALS AND DO NOT TRACK, PLANT COOKIES, OR USE ADVERTISING WHEN A DO NOT TRACK (DNT) BROWSER MECHANISM IS IN PLACE. DOES OUR SITE ALLOW THIRD PARTY BEHAVIORAL TRACKING?
 
-**Changes in Our Practices**
+WE DO NOT ALLOW THIRD PARTY BEHAVIORAL TRACKING
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+#### CONTACTING US
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+IF THERE ARE ANY QUESTIONS REGARDING THIS PRIVACY POLICY YOU MAY CONTACT US USING THE INFORMATION BELOW.
 
-**Contacting Our Site**
+www.project-ascension.com
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+help@project-ascension.com
