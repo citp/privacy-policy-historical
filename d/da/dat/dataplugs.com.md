@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dataplugs.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201010308id_/http%3A//www.dataplugs.com/en/company/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataplugs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084300id_/http%3A//www.dataplugs.com/en/company/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dataplugs.com
+# Privacy policy | Long-term relationships with our customers | DataPlugs
 
 ## Privacy
 
@@ -50,19 +50,19 @@ On rare occasions it is necessary to send out a strictly service related announc
 
 ## Legal Disclaimer
 
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order or legal process served on Dataplugs. 
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order or legal process served on Dataplugs.
 
 Dataplugs websites contain links to other sites. Please be aware that Dataplugs is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every website that collects personally identifiable information. The Dataplugs Privacy Policy as described herein applies solely to information collected by Dataplugs.
 
 ## Maintenance of Information
 
-The information provided to Dataplugs is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by Dataplugs. Dataplugs employs industry standard security measures to protect the confidentiality of the information. 
+The information provided to Dataplugs is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by Dataplugs. Dataplugs employs industry standard security measures to protect the confidentiality of the information.
 
 While we cannot guarantee that loss, misuse or alteration to data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to Dataplugs.
 
 ## Your Responsibility
 
-You are responsible for the security of the login information, such as usernames and passwords, which give you access to your private information maintained by Dataplugs. Make sure you keep login information in a safe place and do not share it with others. 
+You are responsible for the security of the login information, such as usernames and passwords, which give you access to your private information maintained by Dataplugs. Make sure you keep login information in a safe place and do not share it with others.
 
 Note that key-loggers, viruses, or other surveillance devices can intercept login information on the computers from which you access our Services, so you should take precautions regarding such devices, especially from public computers. In addition, you should always log out from any relevant Services when you are not actively using them.
 
