@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaporshark.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130201050id_/http%3A//www.vaporshark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporshark.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042123id_/http%3A//www.vaporshark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ Your personal information is only accessible to a limited number of qualified em
 
 No. Our products are sold only to adult smokers, 18 years or older. Vapor Shark does not intentionally collect or solicit personal information from or about children or anyone under the age of 18. If we discover we have received any information from an individual under the age of 18 and in violation of this Policy, we will delete that information immediately. If you believe Vapor Shark has any information from or about anyone under the age of 18, please contact us with a thorough description, and we will do our best to resolve it.
 
-## >Privacy Policy Changes
+## Privacy Policy Changes
 
 Because our business changes constantly, our Privacy Policy and the Conditions of Use will change also. We may e-mail periodic reminders of our Notices and Conditions, unless you have instructed us not to. You should check our Web Site frequently to view recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make and will never materially change our policies and practices to make them less protective of collected customer information without the consent of affected customers. **  
 **
