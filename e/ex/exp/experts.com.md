@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230804id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035743id_/http%3A//experts.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
-[](https://web.archive.org/Resources/Detail?ID=549)
+[](https://web.archive.org/Resources/Detail?ID=250)
 
-[](https://web.archive.org/Resources/Detail?ID=555)
+[](https://web.archive.org/Resources/Detail?ID=770)
 
-Michael J. Fagel, PhD
+Shawn Coyle
 
-[](https://web.archive.org/Resources/Detail?ID=212)
+[](https://web.archive.org/Resources/Detail?ID=34)
 
-Ray Horak
+Allen K. Hess (Editor), Irving B. Weiner (Editor)
 
 ### Our Commitment To Privacy
 
