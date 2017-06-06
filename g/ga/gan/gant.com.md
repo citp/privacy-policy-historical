@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gant.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123230936id_/http%3A//www.gant.com/privacy-cookies-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gant.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081826id_/http%3A//www.gant.com/privacy-cookies-information) for the most accurate reproduction.*
 
 # Privacy and Cookies Information for Gant Official Site
 
