@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xrite.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222152405id_/http%3A//www.xrite.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xrite.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071020id_/http%3A//www.xrite.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
