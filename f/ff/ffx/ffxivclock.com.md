@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffxivclock.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120034536id_/http%3A//www.ffxivclock.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxivclock.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213012id_/http%3A//www.ffxivclock.com/pages/privacy.php) for the most accurate reproduction.*
 
 # FFXIV Clock - Privacy Policy
 
@@ -33,6 +33,7 @@
     
     All of FFXIV Clock activity falls within the bounds of the Google Analytics Terms of Service.
     
+    We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
     
      
     We are the sole owners of the information collected on this site. We have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
@@ -55,4 +56,5 @@
     Our Privacy Policy may change from time to time and all updates will be posted on this page.
     
     If you feel that we are not abiding by this privacy policy, you should contact us immediately via email (ffxivclock at gmail).
+    
     
