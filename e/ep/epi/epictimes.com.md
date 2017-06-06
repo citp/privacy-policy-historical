@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epictimes.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107121734id_/http%3A//www.epictimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epictimes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051357id_/http%3A//www.epictimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EpicTimes
+# Privacy Policy ⋆ Official
 
 Thank you for visiting Epictimes Inc website (the "Site")! The Site is strongly committed to protecting
 
@@ -8,7 +8,7 @@ your privacy. The purpose of this privacy policy is to inform users of the Site 
 
 collect and how and why we use such information.
 
- **Disclosure Regarding Collection and Use of Personal Information.**
+**Disclosure Regarding Collection and Use of Personal Information.**
 
 Through the Site, including any mobile version thereof, users may enter personal information about
 
@@ -30,7 +30,7 @@ THROUGH THE SITE YOU AGREE TO THESE TERMS. AS WE UPDATE AND EXPAND OUR
 
 SERVICES, THIS POLICY MIGHT CHANGE, SO PLEASE REVIEW IT FROM TIME TO TIME.
 
- **The Information We Collect.**
+**The Information We Collect.**
 
 We may collect information about you through a variety of methods, such as your participation in games,
 
@@ -99,7 +99,7 @@ information about how social networking sites handle your personal information, 
 
 respective privacy policies and terms of use.
 
- **Other Collected Information**
+**Other Collected Information**
 
 We also may use third-party website analytics tools (such as Omniture or Google), that collect information
 
@@ -123,13 +123,13 @@ and
 
 • Search terms that visitors use to reach the Site.
 
- **When you use our mobile applications on your mobile device, you may choose not to share your**
+**When you use our mobile applications on your mobile device, you may choose not to share your**
 
- **geo-location details with us by adjusting the device's location services settings. For instructions on**
+**geo-location details with us by adjusting the device's location services settings. For instructions on**
 
- **changing the relevant settings, please contact your service provider or device manufacturer.**
+**changing the relevant settings, please contact your service provider or device manufacturer.**
 
- **How We Use Your Personal Information.**
+**How We Use Your Personal Information.**
 
 We use your personal information to provide you with products or services that you have requested, to
 
@@ -144,11 +144,11 @@ mail offering products or services which we think you may be interested in or to
 
 survey.
 
- **Updating or Removing Your Personal Information.**
+**Updating or Removing Your Personal Information.**
 
 Please [contact us](http://www.epictimes.com/contact/) at any time to update or change your personal information.
 
- **How We Share Your Personal Information.**
+**How We Share Your Personal Information.**
 
 We will not share with third parties the personal information you provide except (a) if it is for the
 
@@ -210,7 +210,7 @@ that they protect such information in a manner that is consistent with this poli
 
 guarantee how these non-affiliated companies will use your personal information.
 
- **Personal Information Gathered Under Previous Versions of This Privacy Policy.**
+**Personal Information Gathered Under Previous Versions of This Privacy Policy.**
 
 Personal information collected via the Site will generally be governed by the version of the Privacy Policy
 
@@ -220,7 +220,7 @@ way we use personally identifiable information collected under previous versions
 
 without obtaining your consent.
 
- **Use and Disclosure of Anonymous Information.**
+**Use and Disclosure of Anonymous Information.**
 
 We sometimes use the non-personal information that we collect to improve the design and content of the
 
@@ -232,7 +232,7 @@ offer you products, programs or services.
 
 Sometimes we share aggregate information with others, including Affiliates and non-affiliated companies.
 
- **Receipt of Communications; Opt-Out.**
+**Receipt of Communications; Opt-Out.**
 
 If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example,
 
@@ -250,7 +250,7 @@ enrolled in or registered to use, any promotions or sweepstakes you have partici
 
 goods, services or products you have ordered or other transactions you have undertaken on the Site.
 
- **Collection of Information By Others.**
+**Collection of Information By Others.**
 
 The Site may contain links to other websites, including links that are placed there by us, such as third-party
 
@@ -270,7 +270,7 @@ submit to participate in the contest, sweepstakes, or promotion. We have no cont
 
 information by these companies.
 
- **Online Tracking and Advertising.**
+**Online Tracking and Advertising.**
 
 We collect information regarding the Site visitors through various technologies, such as cookies, Flash
 
@@ -278,7 +278,7 @@ cookies and Web beacons, including when you visit our sites and applications or 
 
 third-party sites or platforms.
 
- **Clickstream Data.**
+**Clickstream Data.**
 
 As you use the Internet, a trail of electronic information is left at each web site you visit. This information,
 
@@ -296,7 +296,7 @@ This information will only be used to improve the Site. Any collection or use of
 
 anonymous and aggregate.
 
- **Supplementing Information.**
+**Supplementing Information.**
 
 From time to time we may supplement information you give us with information from other sources, such
 
@@ -306,7 +306,7 @@ with and used in conjunction with information obtained through sources other tha
 
 offline and online sources.
 
- **Discussions and Community Tools.**
+**Discussions and Community Tools.**
 
 We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and
 
@@ -324,7 +324,7 @@ exercise caution when deciding to disclose your personal information in these ar
 
 us – may access your publicly posted information.
 
- **Our Commitment to Security.**
+**Our Commitment to Security.**
 
 We believe we have in place the appropriate physical, electronic, and managerial procedures to safeguard
 
@@ -336,7 +336,7 @@ require that they also have in place the appropriate safeguards. We cannot, howe
 
 so.
 
- **Notice to California-Based Users.**
+**Notice to California-Based Users.**
 
 Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written
 
@@ -370,7 +370,7 @@ technological standard has not yet been developed. We continue to review new tec
 
 the right to adopt a standard once one is created.
 
- **International Users.**
+**International Users.**
 
 If you are visiting the Site from a location outside of the United States, your connection will be through
 
@@ -398,7 +398,7 @@ of America, regardless of the location of any user. Any claims or complaints mus
 
 States of American in the State of Delaware.
 
- **How You Can Access or Correct Your Personal Information.**
+**How You Can Access or Correct Your Personal Information.**
 
 For instructions on how you can access the personal information that we have collected about you online,
 
@@ -408,7 +408,7 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 granting access or making corrections.
 
- **Special Note for Parents.**
+**Special Note for Parents.**
 
 We will not knowingly accept personal information from anyone under 13 years old in violation of
 
@@ -422,7 +422,7 @@ children and all children's products or services we market are for purchase by a
 
 permission.
 
- **Transfer of Business Assets.**
+**Transfer of Business Assets.**
 
 The personal information you provide is considered a company asset and may be included among
 
@@ -430,7 +430,7 @@ transferred assets if the Site, we, or parent(s) or any or all of Affiliates or 
 
 acquired by a third party.
 
- **Changes to this Policy.**
+**Changes to this Policy.**
 
 Because our business needs may change over time, we reserve the right, at our discretion, to change,
 
@@ -442,6 +442,6 @@ Your continued use of the Site following the posting of any changes to this poli
 
 changes. This policy is effective as of 01/08/2014.
 
- **How to Contact Us.**
+**How to Contact Us.**
 
 If you have any questions or concerns about this privacy policy you may [contact us](http://www.epictimes.com/contact/).
