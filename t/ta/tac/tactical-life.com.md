@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121015045id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020901id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Subscribe To Our Magazines. [Buy Now](mailto:subscriptions@outdoorgroupmags.com?subject=Subscription%20Inquiry&body=Welcome%20to%20Athlon%20Media%20Group!%0A%0AIf%20your%20inquiry%20is%20in%20regard%20to%20a%20renewal%20or%20issue%20not%20received%2C%20please%20include%20a%20phone%20number%20for%20contact%20purposes%20and%20the%20address%20associated%20with%20the%20subscription.%0A%0AIf%20your%20inquiry%20is%20in%20regard%20to%20a%20new%20subscription%2C%20please%20include%20your%20phone%20number%20for%20contact%20purposes.%0A%0AIf%20you%20have%20any%20other%20inquiries%2C%20please%20note%20those%20and%20any%20additional%20information%20you%20have.%0A%0AWe%20appreciate%20your%20patience%20and%20your%20business%20and%20will%20be%20in%20touch!%0A%0ACONTACT%20US%3A%20subscriptions%40outdoorgroupmags.com%20OR%20at%201-800-284-5668)
+Subscribe To Our Magazines. [Buy Now](http://outdoorgroupstore.com/)
 
 ##  [Privacy Policy](http://www.tactical-life.com/privacy/ "Privacy Policy")
 
