@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the jasonmraz.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103121345id_/http%3A//app.topspin.net/account/privacypolicy_public) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonmraz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044429id_/http%3A//app.topspin.net/account/privacypolicy_public) for the most accurate reproduction.*
 
 # Topspin Media | Privacy Policy
 
-Topspin Media, Inc. ("Topspin") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Topspin managed domains (currently [topspinmedia.com](http://topspinmedia.com/), [topspin.net](http://topspin.net/) and [artistlink.com](http://artistlink.com/)) and websites or domain name, features, content, widgets, or application services offered from time to time by Topspin in connection therewith (collectively, the "Website"), submitting information, or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
-
-Topspin has been awarded TRUSTe’s Privacy and Children’s Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program only covers information collected through our sites [topspinmedia.com](http://topspinmedia.com/), [topspin.net](http://topspin.net/) and [artistlink.com](http://artistlink.com/) and does not cover information that may be collected through other domains that we own or through any software downloaded from our sites.
-
-If you have questions or concerns regarding this statement, you should first contact Topspin at [legal@topspinmedia.com](mailto:legal@topspinmedia.com). If you not satisfied with our response you should [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
+Cinder Block Merchandise LLC dba Topspin Media, Inc. ("Topspin") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Topspin managed domains (currently [topspinmedia.com](http://topspinmedia.com/), [topspin.net](http://topspin.net/) and [artistlink.com](http://artistlink.com/)) and websites or domain name, features, content, widgets, or application services offered from time to time by Topspin in connection therewith (collectively, the "Website"), submitting information, or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 Topspin complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Topspin has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Topspin’s certification, please [visit the U.S.-EU & U.S.-Swiss Safe Harbor Frameworks on at export.gov](http://www.export.gov/safeharbor/).
 
@@ -188,12 +184,6 @@ Used for audience measurement and real-time advertising. They collect IP address
 Used for Topspin application(s) performance measurement. They collect IP address, browser type, operating system, domain name and date/time.
 
 [New Relic privacy policy](https://newrelic.com/privacy)
-
-### TRUSTe
-
-Used for privacy verification. They collect IP address. 
-
-[TRUSTe privacy policy](http://www.truste.com/privacy-policy)
 
 ### GlobalCollect
 
