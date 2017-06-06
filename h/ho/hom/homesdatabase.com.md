@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the homesdatabase.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323160043id_/http%3A//www.mrishomes.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesdatabase.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063549id_/http%3A//www.mrishomes.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MRIShomes.com
-
-## 
 
 ## Effective: 9/1/08
 
@@ -52,7 +50,7 @@ If you have any questions about our privacy practices or procedures, please feel
 
 or
 
-Metropolitan Regional Information Systems, Inc.
+MRIS LLC, a BRIGHT MLS, Inc. Company
 9707 Key West Ave., Suite 200
 Rockville, MD 20850
 
