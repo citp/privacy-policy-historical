@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kew.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125153931id_/http%3A//www.kew.org/about/policies-and-announcements/website-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kew.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093251id_/http%3A//www.kew.org/node/58556) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Botanic Gardens, Kew
 
@@ -6,7 +6,7 @@
 
 The Board of Trustees of the Royal Botanic Gardens, Kew ('we', 'us' or 'our') is committed to protecting and respecting your privacy.
 
-This privacy policy (together with our Terms and any other documents contained on [www.kew.org](http://www.kew.org/) (our ' **Website** ') set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by the Kew Group. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This privacy policy, together with our Terms and any other documents contained on [www.kew.org](http://www.kew.org/) (our ' **Website** '), set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by the Kew Group. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 Depending on purpose for which you are providing your personal data to us on our Website for the purpose of the Data Protection Act 1998 (the ' **Act** '), the data controller (or entity responsible of the data collected) will be either:
 
@@ -18,7 +18,7 @@ Depending on purpose for which you are providing your personal data to us on our
 
 (together the ' **Kew Group** ').
 
-Where we (or any member of the Kew Group) collect information from you we will identify the purpose for which the information is to be collected and processed and ask you whether you are happy for us, the relevant Kew Group entity or other third parties identified to contact you with regard to similar products and services or unrelated products and services. You will not have to receive any marketing in this respect if you do not wish and will be able to opt-in/opt-out of such notifications on the forms set out on this Website (or elsewhere as applicable) or after providing your information. You should follow the instructions on the relevant forms in this respect.
+Where we (or any member of the Kew Group) collect information from you we will identify the purpose for which the information is to be collected and processed and ask you whether you are happy for us, the relevant Kew Group entity or other third parties identified, to contact you with regard to similar products and services or unrelated products and services. You will not have to receive any marketing in this respect if you do not wish and will be able to opt-in/opt-out of such notifications on the forms set out on this Website (or elsewhere as applicable) or after providing your information. You should follow the instructions on the relevant forms in this respect.
 
 Given the way in which we interact with the Kew Group to provide you with various products and services we would envisage sharing the data you provide to us with the Kew Group, although the data will only be used/processed for the purposes indicated when you submit the data or as detailed under this privacy policy. We will notify you if we wish to share the data with the Kew Group for any other purpose and make this clear when you provide the data.
 
@@ -32,7 +32,7 @@ We (or the Kew Group) may collect and process the following data about you:
   * Details of transactions you carry out through our Website and of the fulfilment of your orders
   * Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
   * Details of your access to our scientific databases or other materials.
-  * Providing CVs or other information about your self for specific purposes.
+  * Providing CVs or other information about yourself for specific purposes.
 
 
 
@@ -67,7 +67,7 @@ Generally we do not seek to collect 'sensitive personal data' - that is, data re
 
 We recommend that you do not provide such information to us. If you choose to do so for any reason, this will mean that you have given (and we accept) your explicit consent for us to use that information for the reasons described in this policy, or as explained at the time you provide the information.
 
-Under the Act, you may ask for a copy of the information we hold about you and you may request changes be made to this information if it is inaccurate or not up-to-date. Please email [webteam@kew.org](mailto:webteam@kew.org "Send an email to the Kew web team") in these circumstances. If you want to change the details that you have registered online with us, follow the instructions for each individual application.
+Under the Act, you may ask for a copy of the information we hold about you and you may request changes be made to this information if it is inaccurate or not up-to-date. Please email info[@kew.org](mailto:webteam@kew.org "Send an email to the Kew web team") in these circumstances. If you want to change the details that you have registered online with us, follow the instructions for each individual application.
 
 ### Where / how we store your data
 
@@ -79,7 +79,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 Although your data may be shared within the Kew Group we will not, without your permission or unless indicated in this privacy policy or agreed to by you on a form on this Website, transfer any of your data to any third parties.
 
-Except for the mailing list activities which we run on some parts of our Website, where you explicitly consent to receive materials from us, we will not use your personal data collected from our Website to carry out unsolicited marketing activities. You may change your choice at any time by contacting us at [webeditorial@kew.org](mailto:webeditorial@kew.org).
+Except for the mailing list activities which we run on some parts of our Website, where you explicitly consent to receive materials from us, we will not use your personal data collected from our Website to carry out unsolicited marketing activities. You may change your choice at any time by contacting us at [info@kew.org](mailto:info@kew.org).
 
 We use information held about you in the following ways:
 
@@ -110,7 +110,7 @@ We may disclose your personal information to third parties without obtaining fur
 
 ### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we wish to use your data for such purposes or if we intend to disclose your information to any third party for such purposes and request your consent to these activities. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by emailing [webeditorial@kew.org](mailto:webeditorial@kew.org).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we wish to use your data for such purposes or if we intend to disclose your information to any third party for such purposes and request your consent to these activities. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by emailing [info@kew.org](mailto:info@kew.org).
 
 Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -124,4 +124,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [webeditorial@kew.org](mailto:webeditorial@kew.org)[.](mailto:webteam@kew.org "Send an email to the Kew web team")
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@kew.org](mailto:info@kew.org)[.](mailto:webteam@kew.org "Send an email to the Kew web team")
