@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeanywhere.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111222955id_/https%3A//codeanywhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeanywhere.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170736id_/https%3A//codeanywhere.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy · Codeanywhere
 
