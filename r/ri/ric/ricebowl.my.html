@@ -1,0 +1,1887 @@
+<!--The following is the downloaded HTML source of the ricebowl.my privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606171108id_/https%3A//www.ricebowl.my/en/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="https://embed.tawk.to/55652e1d19120cff1852a17c/default" charset="UTF-8" crossorigin="*"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta http-equiv="Cache-control" content="public">
+<meta name="msvalidate.01" content="135E463E5BB102FF547C8D107EA236C4">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="csrf-token" content="nxCBCmJsa28KAHrKMsWKXVE13OyPaPJlmoMWOBrF">
+<title>Privacy Policy - RiceBowl.my</title>
+<meta name="description" content="This Privacy Policy governs the manner in which RiceBowl collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.ricebowl.my website (“Site”). This privacy policy applies to the Site and all products and services offered by RiceBowl.">
+<meta name="keywords" content="privacy policy, ricebowl, ricebowl.my, jobs, job vacancy, job vacancy malaysia, 私隐, 私隐政策, 马来西亚, 工作, 求职, 找工, 赚钱, ">
+ 
+<meta property="article:author" content="https://www.ricebowl.my">
+<link rel="manifest" href="https://www.ricebowl.my/manifest.json">
+<link rel="icon" href="https://www.ricebowl.my/assets/img/favicon.png">
+<link rel="stylesheet" href="https://www.ricebowl.my/assets/telinput/css/intlTelInput.css?37">
+<link rel="alternate" hreflang="en" href="https://www.ricebowl.my/en/privacy"> <link rel="alternate" hreflang="zh" href="https://www.ricebowl.my/zh/privacy">
+ 
+<link href="https://fonts.googleapis.com/css?family=Cabin:400,400italic,500,500italic,600italic,600,700,700italic" rel="stylesheet" type="text/css">
+<link href="https://www.ricebowl.my/assets/css/all-f7a859a962.css" rel="stylesheet">
+<meta property="og:site_name" content="Ricebowl" data-page-subject="true">
+<meta property="og:title" content="Privacy Policy - RiceBowl.my">
+<meta property="og:description" content="This Privacy Policy governs the manner in which RiceBowl collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.ricebowl.my website (“Site”">
+<meta property="og:url" content="https:/www.ricebowl.my/en/privacy">
+ 
+<meta property="og:image" content="https://www.ricebowl.my/assets/img/ricebowl-1.png">
+<meta property="og:image:width" content="450">
+<meta property="og:image:height" content="298">
+<script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-44814669-5', 'auto');
+            ga('send', 'pageview', '');
+
+        </script>
+</head>
+<body class="privacypage">
+<script type="text/javascript">
+    var txt_email_address_example = "yourname@email.com";
+    var read_more = "...read more";
+    var txt_profview = "Employer Views: ";
+    var txt_badge = "Fast Response";
+    var txt_login_now = "Log in Now";
+    var txt_login = "Login";
+    var txt_sign_up = "Sign Up For Free Now";
+    var txt_highest_qualification = "Highest Qualification";
+    var txt_employer = "Employer";
+    var txt_job_loc = "Job Location";
+    var txt_job_title = "Job Title";
+    var txt_employer = "Employer";
+    var txt_job_alert_keywords_desc = "Job Keyword, Example Design, Manager, Web";
+    var txt_click_to_download = "Click here to download";
+    var txt_enter_title = "Enter Title";
+    var txt_featured_job = "Featured";
+    var txt_share_button = "Share";
+    var txt_view_button = "View";
+    var txt_save_button = "Save";
+    var txt_apply_button = "Apply";
+    var txt_job_saved_success = "Your job is saved successfully!";
+    var txt_email_address_error = "Please enter email address";
+    var txt_email_phone_error = "Please enter either email or phone";
+    var txt_close_advanced_search = "Close Advanced Search";
+    var txt_langs_updated = "Your languages were saved successfully!";
+    var txt_close = "Close";
+    var txt_details = "Details";
+    var txt_your_email = "Your Email";
+    var txt_enter_phone = "Your phone number";
+    var txt_advanced_search = "Advanced Search";
+    var txt_user_exist = "Sorry, this email already exists";
+    var txt_user_exist_phone_only = "Sorry, this phone already exists";
+    var txt_open_search = "Open Search";
+    var txt_hide_search = "Hide Search";
+    var txt_select_one = "--Select One--";
+    var txt_pwd_error = "Please enter password";
+    var txt_valid_email_error = "Please enter valid email address";
+    var txt_invalid_ic = "Please enter valid NRIC, i.e. 112233-44-5566";
+    var txt_today = "Today";
+    var txt_yesterday = "Yesterday";
+    var txt_email_not_exist = "This email or phone doesn't exist in our system.";
+    var txt_email = "Email";
+    var txt_phone = "Phone";
+    var txt_invalid_email_pwd = "Invalid Email or Password";
+    var txt_correct_email_address = "Please enter correct email address";
+    var txt_enter_phone_number = "Please enter phone number";
+    var txt_enter_message = "Please enter message";
+    var txt_job_alert_saved = "Your job alert is saved";
+    var txt_job_alert_error = "There seems to be an error in saving alert details.";
+    var txt_jobseeker_saved = "Jobseeker saved successfully!";
+    var txt_job_alert_askhelp = "We will help you find the most suitable jobs based on the information you submitted. Remember to check your email and SMS!";
+    var txt_resume_saved_success = "Your resume has been saved successfully!";
+    var txt_application_success = "Your application has been sent successfully. You will be notify shortly. Thank You.";
+    var txt_are_u_sure = "Are you sure?";
+    var txt_remove_job = "You want to remove this job?";
+    var txt_remove = "Remove";
+    var txt_confirm_delete = "Yes, delete it!";
+    var txt_download_button = "Download";
+    var txt_download = "Download";
+    var txt_delete = "Delete";
+    var txt_reg_email_sent_success = "You have registered successfully. We have sent you a message to verify your account. Please click on the link in the message.";
+    var txt_plz_enter_name = "Please enter name";
+    var txt_invalid_name_pwd = "Invalid Email or Password!";
+    var txt_job_saved = "Saved";
+    var txt_applied = "Applied";
+    var txt_pending = "Pending";
+
+    var txt_kiv = "Keep in view";
+    var txt_success = "Success";
+    var txt_rejected = "Unsuccessful";
+    var txt_accepted_interview = "Accepted interview";
+    var txt_interested = "Interested";
+    var txt_shortlisted = "Shortlisted";
+    var txt_not_interested = "Not interested";
+    var txt_rejected_interview = "Rejected interview";
+    var txt_rrange_interview_q = "Arrange interview?";
+    var txt_accept = "Accept";
+    var txt_reject = "Reject";
+    var txt_because = "because";
+    var txt_loading = "Loading...";
+
+    var txt_error_saving_job = "There seems to be an error in saving job.";
+    var txt_resume_upload_successfully = "Your resume has been uploaded successfully!";
+    var txt_resume_added = "Resume Added.";
+    var txt_do_remove_resume = "Do you want to remove this resume?";
+    var txt_optional = "optional";
+    var txt_plz_enter_phone_no = "Please enter phone number.";
+    var txt_done_label = "Done";
+    var txt_resume_deleted = "Resume is deleted";
+    var txt_prof_pic_changed = "Profile Picture Changed Successfully";
+    var txt_job_is_deleted = "Job is deleted.";
+    var txt_got_error = "There seems to be an error.";
+    var txt_no_resume_found = "No Resume Found";
+    var txt_no_job_found = "No Jobs Found";
+    var txt_featured_saved = "This featured job has been saved in your list.";
+    var txt_job_saved_list = "This job has been saved in your list.";
+    var txt_basic_info_updated_success = "Basic Information updated successfully";
+    var txt_account_summary = "Summary...";
+    var txt_write_something_abt = "Write something about yourself...";
+    var txt_example = "eg.";
+    var txt_contact_info_updated = "Contact Information updated successfully";
+    var txt_experience_updated = "Your experience has been saved successfully!";
+    var txt_experience_deleted = "Your experience has been deleted successfully!";
+    var txt_education_deleted = "Your education has been deleted successfully!";
+    var txt_remove_experience = "You want to remove this experience?";
+    var txt_remove_edu = "You want to remove this education?";
+    var txt_education_updated = "Your education is saved successfully!";
+    var txt_skills_updated = "Your skills were saved successfully!";
+    var txt_preference_saved = "Your preference is saved.";
+    var txt_pwd_updated = "Your password is updated successfully!";
+    var txt_error_applying_job = " There seems to be an error in applying for this job.";
+    var txt_error_saving_account = " There seems to be an error in saving account.";
+    var txt_error_saving_exp = " There seems to be an error in saving experience.";
+    var txt_error_saving_edu = " There seems to be an error in saving education.";
+    var txt_error_updated_edu = " There seems to be an error in updated education.";
+    var txt_error_saving_skills = " There seems to be an error in saving skills.";
+    var txt_error_saving_preference = "There seems to be an error in saving preference details.";
+    var txt_error_updated_pwd = "There seems to be an error in updating password.";
+    var txt_previous = "Previous";
+    var txt_next = "Next";
+    var txt_page_applicants = "applicants";
+    var txt_save = "Save";
+    var txt_sent_msg_success = "Your Message have been sent successfully!";
+    var txt_login_authenticate = "Please login to save the job.";
+    var txt_error_saving_profile_pic = " There seems to be an error in saving profile picture.";
+    var txt_error_saving_basic_info = " There seems to be an error in saving basic info.";
+    var txt_summary_updated = "Summary Updated successfully";
+    var txt_exp_status_updated = "Experience Status Updated successfully";
+    var txt_apply_saved = "Saved";
+    var txt_pwd_length_error = "Password length must be greater than 5 characters";
+    var txt_enter_old_pwd = "Please enter old password";
+    var txt_enter_new_pwd = "Please enter new password";
+    var txt_confirm_pwd_change_pwd = "Please enter confirm password";
+    var txt_pwd_dont_match = "Passwords do not match";
+    var txt_already_saved_the_job = "You already saved this job.";
+    var txt_user_must_login = "User must login";
+    var txt_already_applied = "Oh snap! You have already applied for this job.";
+    var txt_campaignbowl = 'Congrats !! You got the Bowl </p></div><div class="m-body"> You are now [X] more bowl away to win this exciting prize .... Keep it Up !';
+    var txt_campaignwin = 'Congrats!! You got all the bowls </p></div><div class="m-body"> You have win this prize .... We will contact you soon for details... Thank You!';
+    var txt_resendverify_msg = 'A link has been sent to your email or phone to verify your account. Make sure to check your email or sms and follow the link to complete the process. Thanks.';
+    var txt_view_resume = 'View Resume';
+    var txt_plz_agree = 'Please agree to the terms';
+    var txt_enter_expected_sa = 'Please enter expected salary';
+    var txt_plz_upload_resume = 'Please upload your resume.';
+    var txt_reset_success = 'Password reset Successfully.';
+    var txt_yes = 'Yes';
+    var txt_no = 'No';
+
+    var txt_company_name = 'Company';
+    var txt_title = 'Title';
+    var txt_salary = 'Salary';
+    var txt_start_date = 'Start Date';
+    var txt_end_date = 'End Date';
+    var txt_work_here = 'I currently work here';
+    var txt_job_desc = 'Job Description';
+    var txt_status = 'Status';
+    var txt_list_edu = 'List of Education';
+    var txt_list_experience = 'List of Experience';
+    var txt_school_college = 'University / College / School Name';
+    var txt_school_colleges = 'School/College';
+    var txt_qualification = 'Qualification';
+    var txt_grade = 'Grade';
+    var txt_current_study = 'I am currently studying here';
+    var txt_major = 'Major in';
+    var txt_btn_experience = 'Please Click on Add Experience Button';
+    var txt_btn_education = 'Please Click on Add Education Button';
+    var txt_resume_generating = 'Generating your awesome resume...';
+    var txt_resume_ready = 'Success - your resume is ready!';
+    var txt_negotiable = 'Negotiable';
+    var txt_job_type = 'Job Type';
+    var txt_job_title = 'Job Title';
+    var txt_enter_jobtype = 'Please enter  job type';
+
+    var choose_filters = 'Filter by';
+    var min_education = 'Minimum Education';
+
+    var txt_asc = 'Ascending';
+    var txt_desc = 'Descending';
+    var txt_alert_delete_notification = 'Your job alert has been deleted successfully!';
+    var txt_job_alert_saved_2 = 'Your job alert is saved';
+    var txt_edit = 'Edit';
+    var txt_cancel = 'Cancel';
+    var txt_required_langs = 'Required languages';
+    var txt_graduation_date = 'Graduation Date';
+
+    //--replace resume
+    var txt_confirm_replace = "Yes, replace it!";
+    var txt_replace_resume = "You want to replace resume?";
+	
+	// Reference relationship
+	var txt_plz_enter_relationship = "Please enter your relationship with the referee";
+
+    //validation error messages
+    var notify_msg = {
+        'success': {
+            'login': 'Logged-in successfully! Please wait...'
+        },
+        'error': {
+            'login': 'Oh snap! Invalid details. Try again.'
+        },
+        'required': {
+            'keywords': 'Please enter some keywords',
+            'currently_working': 'Please select if you are currently working',
+            'resume_title': 'Please enter a resume title',
+            'email': 'Please enter your email',
+            'highest_education': 'Please select your highest education',
+            'gender': 'Please select your gender',
+            'ic_number': 'Please enter your IC number',
+            'passport': 'Please enter your passport number',
+            'work_permit': 'Please select work permit',
+            'marital_status': 'Please select marital status',
+            'birth': 'Please enter date of birth',
+            'salary': 'Please enter salary',
+            'job_title': 'Please enter your job title',
+            'company_name': 'Please enter company name',
+            'address1': 'Please enter your address',
+            'city': 'Please enter your city',
+            'postal_code': 'Please enter your post code',
+            'country': 'Please select your country',
+            'states': 'Please enter your state',
+            'language1': 'Please select a language',
+            'nationality': 'Please select your nationality',
+            'first_time_working': 'Please select if this is your first time working',
+            'no_resume_reason': 'If no resume, please choose a reason',
+            'coverletter': 'Please enter something about yourself',
+            'name': 'Please enter your name',
+            'contact_number': 'Please enter your phone number',
+            'address_1': 'Please enter your address',
+            'postcode': 'Please enter your postcode',
+            'state': 'Please enter your state',
+            'experience_status': 'Please select your experience status',
+            'company': 'Please enter company name',
+            'title': 'Please enter job title',
+            'start_date': 'Please enter start date',
+            'end_date': 'Please enter end date',
+            'job_description': 'Please enter your job description',
+            'school': 'Please enter school name',
+            'degree': 'Please select degree',
+            'grade': 'Please enter grade',
+            'major': 'Please enter major/specialization',
+            'skill_tags': 'Please enter your skills',
+            'language_rate': 'Please select a language rate',
+            'preferred_language': 'Please select a preferred language',
+            'availability': 'Please select your availability',
+            'preferred_title': 'Please enter your preferred job title',
+            'preferred_location': 'Please select your preferred locations',
+            'preferred_categories': 'Please select your preferred categories',
+            'area': 'Please enter your area',
+            'expected_salary': 'Please enter your expected salary',
+            'objective': 'Please enter your objective',
+            'previous_job_description': 'Please enter your previous job description',
+            'industry': 'Please enter your industry',
+            'university': 'Please enter your university',
+            'year': "Please enter year",
+            'activity': "Please enter activity",
+            'reference_name': "Please enter the person's name",
+            'reference_company': "Please enter the company name",
+            'reference_position': "Please enter the person's position",
+            'reference_email': "Please enter the person's email",
+            'reference_phone': "Please enter the person's phone",
+            'date': "Please enter the person's phone",
+            'choose_available': 'Please select  an item from the available choices',
+        },
+        'invalid': {
+            'salary': 'Please enter correct salary',
+            'name': 'Please enter correct name',
+            'phone': 'Please enter correct phone number',
+            'date': 'Please enter correct date',
+        },
+        'warning': {
+            'nationality_malaysian': 'You stated you are Non-Malaysian. Please confirm.',
+            'nationality_foreigner': 'You stated you are Malaysian. Please confirm.',
+            'visa': 'You stated you are not PR / do not have work permit. Please confirm.',
+            'lang_english': 'You have zero knowledge in English? Please confirm. You may choose "average" if you know basic English.',
+            'lang_malay': 'You have zero knowledge in Bahasa Malaysia? Please confirm. You may choose "average" if you know basic Bahasa Malaysia.',
+            'lang_chinese': 'You have zero knowledge in Mandarin? Please confirm. You may choose "average" if you know basic Mandarin.',
+            'lang_tamil': 'You have zero knowledge in Tamil? Please confirm. You may choose "average" if you know basic Tamil.',
+            'min_edu': 'Your highest education level is %edu%. Please confirm.',
+            'max_edu': 'Your highest education level is %edu%. Please confirm.',
+            'gender_male': 'You stated your gender as Female, please confirm.',
+            'gender_female': 'You stated your gender as Male, please confirm.',
+            'max_distance': 'You stay quite far (>%max_distance%) from the work location – %relocate_to%. Are you willing to travel / move there to work?',
+        }
+    };
+    var current_year = 2017;
+    var txt_no_notification = 'No Notification';
+    var selectedLanguage = 'en';
+
+</script>
+<div class="fade-me" id="fade-me"></div>
+<nav class="main-header">
+<div class="main-header-wrap" style="background: url('https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/ricebowl/others/v1/search-bg.png');background-size: cover;background-position: bottom;">
+<div class="navigation-wrap">
+<div class="navigation">
+<div class="navigation-header">
+<li>
+<a href="https://www.ricebowl.my/" class="logo">
+<img alt="Ricebowl - Job Vacancy Search Malaysia | Malaysia Best Jobs Search Site" src="https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/ricebowl/others/v1/top-logo.png">
+</a>
+</li>
+</div>
+<div class="navigation-menu">
+<ul class="menu">
+<li class="menu-dekstop topnav-resume hide">
+<a href="https://www.ricebowl.my/resume" class="btn btn-resume center">
+<div class="inner">
+<p>RESUME</p>
+<p>builder</p>
+</div>
+</a>
+</li>
+<li class="menu-dekstop topnav-home">
+<a href="https://www.ricebowl.my/">Home</a>
+</li>
+<li class="menu-dekstop topnav-blog"><a href="https://blog.ricebowl.my">Blog</a></li>
+<li class="menu-dekstop topnav-contact">
+<a href="https://www.ricebowl.my/en/contact">Contact</a>
+</li>
+<li>
+<div class="dropdown menu-dekstop">
+<a id="dLang" data-target="#" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+Language
+<span class="caret" style="color: #ffffff"></span>
+</a>
+<ul class="dropdown-menu" aria-labelledby="dLang">
+<li class="item">
+<a class="" onclick="SetLanguage('en');">English</a>
+</li>
+<li class="item">
+<a class="" onclick="SetLanguage('zh');">Mandarin</a>
+</li>
+</ul>
+</div>
+<div class="menu-phone">
+<a class="lang-btn" onclick="SetLanguage('en');">EN</a>
+</div>
+</li>
+<li class="dropdown" style="margin-right: -15px;margin-left: 0px !important;">
+ 
+<a data-toggle="dropdown" id="notification-bell" href="">
+<i class="mdi mdi-bell"></i>
+<span class="badge hide" id="unread-notifications">0</span>
+</a>
+<div class="dropdown-menu dropdown-menu-lg pull-right">
+<div class="listview" id="notifications">
+<div class="lv-header">
+Notifications </div>
+<div class="lv-body c-overflow" id="fb-notifications">
+<div style="text-align: center;line-height: 50px;">No Notification</div>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-dekstop topnav-login">
+<a class="top-nav-login" href="https://www.ricebowl.my/jobseeker-login">
+ 
+Login | Register </a>
+</li>
+<li class="menu-dekstop topnav-employer">
+<a href="http://www.ajobthing.my/login?ref=rbWeb" target="blank" class="btn btn-employer" style="border:0px !important">
+Employer </a>
+</li>
+<li class="menu-phone"><a id="menu"><i id="menu-icon" class="mdi mdi-menu" style="font-size: 18px;float: left;margin-top: 1px;"></i></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="search-bar">
+<div class="search-wrap">
+<div class="search" id="search-bar">
+<div class="input-wrap" style="border-right:1px solid #ddd;">
+<input id="search_keyword" class="input" type="text" placeholder="Job title, company" name="search_keyword">
+</div>
+<div class="input-wrap" style="border-radius:0;width:25%;min-width:70px">
+<input id="search_location_2" class="input suggestion-thing" data-type="area" data-target="search-area-suggestion" type="text" placeholder="Location">
+<input id="search-area-confirm" type="hidden" value="no">
+</div>
+<div class="action" id="add-filter" style="width:5%;border-left:1px solid #ddd;">
+ 
+<span class="btn-filter" style="cursor:pointer;">
+<a data-toggle="modal" style="text-decoration:none;" data-target="#search-filter-modal" onclick="trackEvent({event: 'click', key: 'Search', value: 'Filter'})">
+<i class="mdi mdi-filter-variant"></i> <span style="color:#939598;">Filter</span>
+</a>
+</span>
+</div>
+<div class="action">
+<a class="btn btn-primary btn-search" id="search-btn" onclick="OnClickJobSearch(); trackEvent({event: 'click', key: 'Search', value: 'Search'});">
+<i class="mdi mdi-magnify"></i> <span>Find job</span>
+</a>
+</div>
+</div>
+<div id="suggestion"></div>
+<div id="search-area-suggestion" class="suggestion-thing-content" style="display:none;left:0;top:auto"></div>
+<div id="active-filters" class="search-filter">
+<ul class="filter-tag"></ul>
+</div>
+</div>
+</div>
+<input id="search_education" type="hidden" disabled="">
+<input id="search_salary" type="hidden" disabled="">
+<input id="search_location" type="hidden" disabled="" value="">
+<input id="search_category" type="hidden" disabled="" value="">
+<input id="search_type" type="hidden" disabled="" value="">
+<div class="menu-mobile" id="menu-mobile">
+<li class="item topnav-home"><a href="https://www.ricebowl.my/"> <i class="mdi mdi-home"></i> Home</a></li>
+<li class="item topnav-contact"><a href="https://www.ricebowl.my/contact"> <i class="mdi mdi-cellphone-iphone"></i> Contact</a></li>
+<li class="item topnav-blog"><a href="https://blog.ricebowl.my"> <i class="mdi mdi-blogger"></i> Blog</a></li>
+<li class="item topnav-resume hide"><a href="https://www.ricebowl.my/resume"> <i class="mdi mdi-cellphone-iphone"></i> Resume Builder</a></li>
+<li class="item topnav-login"><a class="top-nav-login" href="https://www.ricebowl.my/jobseeker-login"><i class="mdi mdi-account"></i> Login | Register</a></li>
+<li class="item topnav-employer"><a href="http://www.ajobthing.my/login?ref=rbWeb" target="blank"> <i class="mdi mdi-tie"></i> Employer</a></li>
+</div>
+<ul class="profile-sub-menu-mobile hide">
+<li class="active jobseeker-nav nav-aboutme"><a data-target="div-aboutme" class="tabs tab-aboutme about"></a></li>
+<li class="jobseeker-nav nav-experience"><a data-target="div-experience" class="tabs tab-experience experience"></a></li>
+<li class="jobseeker-nav nav-skills"><a data-target="div-skills" class="tabs tab-skills skill"></a></li>
+<li class="jobseeker-nav nav-education"><a data-target="div-education" class="tabs tab-education education"></a></li>
+<li class="jobseeker-nav nav-preference"><a data-target="div-preference" class="tabs tab-preference preference"></a></li>
+<li class="jobseeker-nav nav-jobalert"><a data-target="div-jobalert" class="tabs tab-jobalert jobalert"></a>
+</li>
+<li class="jobseeker-nav nav-genresume"><a class="tab-genresume genresume"></a></li>
+</ul>
+</div>
+<div class="clearfix"></div>
+</nav>
+<div class="profile-nav" id="profile-nav">
+<ul class="profile-nav-menu">
+<li id="nav-account">
+<a href="https://www.ricebowl.my/jobseeker/account"><i class="mdi mdi-account"></i> My Account</a>
+</li>
+<li id="nav-active-applications">
+<a href="https://www.ricebowl.my/jobseeker/active-applications"><i class="mdi mdi-clipboard-check"></i> Active Applications</a>
+</li>
+<li id="nav-appliedjobs">
+<a href="https://www.ricebowl.my/jobseeker/appliedjobs"><i class="mdi mdi-clipboard-check"></i> Applications History</a>
+</li>
+<li id="nav-savedjobs">
+<a href="https://www.ricebowl.my/jobseeker/savedjobs"><i class="mdi mdi-clipboard-outline"></i> My Saved Jobs</a>
+</li>
+<li id="nav-resumes">
+<a href="https://www.ricebowl.my/jobseeker/resumes"><i class="mdi mdi-clipboard-text"></i> My Resumes</a>
+</li>
+<li id="nav-changepassword">
+<a href="https://www.ricebowl.my/jobseeker/changepassword"><i class="mdi mdi-key"></i> Change Password</a>
+</li>
+<li>
+<a href="https://www.ricebowl.my/jobseeker/logout" onclick="fbSignOut();">
+<i class="mdi mdi-logout"></i> Logout </a>
+</li>
+</ul>
+</div>
+<div class="top-banner-wrapper">
+<div class="top-banner-wrap">
+<div class="top-banner" style="display:none;">
+<div>
+<a href="https://www.ricebowl.my/en/company/mcdonalds-malaysia-gerbang-alaf-restaurants-sdn-bhd-formerly-known-as-golden-arches-restaurants-sdn-bhd" target="_blank">
+<img alt="McDonald’s Malaysia | Gerbang Alaf Restaurants Sdn Bhd (formerly known as Golden Arches Restaurants Sdn Bhd) job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/1883.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/rt-pastry-house-sdn-bhd" target="_blank">
+<img alt="RT Pastry House Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/2086.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/wing-tai-clothing-sdn-bhd" target="_blank">
+<img alt="Wing Tai Clothing Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/2711.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/floor-depot-distribution-sdn-bhd" target="_blank">
+<img alt="Floor Depot Distribution Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/4923.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/wah-chan-consolidated-sdn-bhd" target="_blank">
+<img alt="Wah Chan Consolidated Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/5960.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/platinum-paradise-sdn-bhd" target="_blank">
+<img alt="Platinum Paradise Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/6165.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/parkson-lifestyle-sdn-bhd" target="_blank">
+<img alt="Parkson Lifestyle Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/6658.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/dksh-malaysia-sdn-bhd" target="_blank">
+<img alt="DKSH Malaysia Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/6778.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/genting-malaysia-berhad" target="_blank">
+<img alt="Genting Malaysia Berhad job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/6863.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/starbucks-coffee-company-sdn-bhd" target="_blank">
+<img alt="Starbucks Coffee Company Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/8086.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/dominos-pizza" target="_blank">
+<img alt="Domino's Pizza job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/8090.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/watsons-personal-care-stores-sdn-bhd" target="_blank">
+<img alt="Watson's Personal Care Stores Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/8122.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/igb-corporation-berhad" target="_blank">
+<img alt="IGB Corporation Berhad job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/8307.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/osk-property-holdings-berhad" target="_blank">
+<img alt="OSK Property Holdings Berhad job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/10722.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/queby-recovery-management-sdn-bhd" target="_blank">
+<img alt="Queby Recovery Management Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/11849.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/7-eleven-malaysia-sdn-bhd" target="_blank">
+<img alt="7-Eleven Malaysia Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/12585.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/sushi-kin-sdn-bhd" target="_blank">
+<img alt="Sushi Kin Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/13050.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/littles-malaysia-sdn-bhd" target="_blank">
+<img alt="Littles (Malaysia) Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/13739.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/tcrs-restaurants-sdn-bhd" target="_blank">
+<img alt="TCRS Restaurants Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/13859.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/mr-diy-trading-sdn-bhd" target="_blank">
+<img alt="Mr. D.I.Y. Trading Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/15601.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/aeon-co-m-bhd" target="_blank">
+<img alt="AEON Co. (M) Bhd. job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/15716.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/epicentre-lifestyle-sdn-bhd" target="_blank">
+<img alt="Epicentre Lifestyle Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/17157.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/sunway-lagoon-sdn-bhd" target="_blank">
+<img alt="Sunway Lagoon Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/18002.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/christy-ng-sdn-bhd" target="_blank">
+<img alt="Christy Ng Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/18401.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/teafe-m-sdn-bhd" target="_blank">
+<img alt="Teafe (M) Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/18956.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/senheng-electric-kl-sdn-bhd" target="_blank">
+<img alt="Senheng Electric (KL) Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/19693.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/cosmo-restaurants-sdn-bhd" target="_blank">
+<img alt="Cosmo Restaurants Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/20570.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/sunway-lost-world-of-tambun" target="_blank">
+<img alt="Sunway Lost World of Tambun job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/20687.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/guardian-health-and-beauty-sdn-bhd" target="_blank">
+<img alt="Guardian Health and Beauty Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/20987.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/dome-cafe-sdn-bhd" target="_blank">
+<img alt="Dome Cafe Sdn. Bhd. job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/21618.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/aia-bhd" target="_blank">
+<img alt="AIA Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/21773.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/berjaya-krispy-kreme-doughnuts-sdn-bhd" target="_blank">
+<img alt="Berjaya Krispy Kreme Doughnuts Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/22444.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/golden-screen-cinemas-sdn-bhd" target="_blank">
+<img alt="Golden Screen Cinemas Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/24801.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/kimma-sdn-bhd-hairdepot" target="_blank">
+<img alt="Kimma Sdn Bhd (Hairdepot) job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/25372.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/texas-chicken-malaysia-sdn-bhd" target="_blank">
+<img alt="Texas Chicken (Malaysia) Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/25656.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/hong-kong-sa-sa-m-sdn-bhd" target="_blank">
+<img alt="Hong Kong Sa Sa (M) Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/26677.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/bermaz-motor-trading-sdn-bhd" target="_blank">
+<img alt="Bermaz Motor Trading Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/27360.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/multiple-reward-sdn-bhd" target="_blank">
+<img alt="Multiple Reward Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/27711.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/berjaya-roasters-m-sdn-bhd" target="_blank">
+<img alt="Berjaya Roasters (M) Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/29187.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/sunway-resort-hotels-spa" target="_blank">
+<img alt="Sunway Resort Hotels &amp; Spa job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/29210.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/village-grocer-holdings-sdn-bhd" target="_blank">
+<img alt="Village Grocer Holdings Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/29257.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/pizza-hut-restaurants-sdn-bhd" target="_blank">
+<img alt="Pizza Hut Restaurants Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/29978.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/fonterra-brands-malaysia-sdn-bhd" target="_blank">
+<img alt="Fonterra Brands (Malaysia) Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/30320.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/nandos-chickenland-malaysia-sdn-bhd" target="_blank">
+<img alt="Nandos Chickenland Malaysia Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/30428.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/courts-malaysia-sdn-bhd" target="_blank">
+<img alt="Courts (Malaysia) Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/31401.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/elitetrax-marketing-sdn-bhd" target="_blank">
+<img alt="Elitetrax Marketing Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/31719.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/jd-sports-fashion-sdn-bhd" target="_blank">
+<img alt="JD Sports Fashion Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/31928.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/koi-caf-malaysia-sdn-bhd" target="_blank">
+<img alt="KOI Café Malaysia Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/32781.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/mtj-development-sdn-bhd" target="_blank">
+<img alt="MTJ Development Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/32884.jpeg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/american-express-malaysia-sdn-bhd" target="_blank">
+<img alt="American Express (Malaysia) Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/33856.jpeg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/bens-kitchen-sdn-bhd" target="_blank">
+<img alt="Ben’s Kitchen Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/33977.png">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/yeo-hiap-seng-m-berhad" target="_blank">
+<img alt="Yeo Hiap Seng (M) Berhad job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/34010.jpeg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/giordano-m-sdn-bhd" target="_blank">
+<img alt="Giordano (M) Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/34374.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/the-new-straits-times-press-malaysia-berhad" target="_blank">
+<img alt="The New Straits Times Press (Malaysia) Berhad job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/34815.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/shojikiya-sdn-bhd" target="_blank">
+<img alt="Shojikiya Sdn Bhd job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/34978.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/hotel-maya-kuala-lumpur" target="_blank">
+<img alt="Hotel Maya Kuala Lumpur job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/35282.jpg">
+</a>
+</div>
+<div>
+<a href="https://www.ricebowl.my/en/company/astro" target="_blank">
+<img alt="Astro job vacancies" data-lazy="https://s3-ap-southeast-1.amazonaws.com/ricebowl/employers/37520.jpg">
+</a>
+</div>
+</div>
+</div>
+</div>
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '1620528788222410',
+            xfbml: true,
+            version: 'v2.3'
+        });
+    };
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="wrapper wrapper-flex">
+<div class="flex-wrapper">
+<div class="f-main">
+<div class="container">
+<h1 class="uppercase center bold">Privacy Policy</h1><br>
+<p>&nbsp;</p>
+<p>This Privacy Policy governs the manner in which RiceBowl collects, uses, maintains and discloses information collected from users (each, a “User”) of the <a href="https://www.ricebowl.my" class="link link-danger-o">https://www.ricebowl.my</a> website (“Site”). This privacy policy applies to the Site and all products and services offered by RiceBowl.</p><br>
+<p>RiceBowl is not intended for children under 13 years of age.</p><br>
+<p class="bold">Your Privacy Rights</p>
+<p>RiceBowl collects information about you and uses this information to help you connect with employers and other job seekers and to provide other services to you. This policy describes how your information is collected and used and your choices with respect to your personal information.</p><br>
+<p class="bold">Scope of this Policy</p>
+<p>This policy applies to information we collect on sites and applications owned or controlled by RiceBowl or its affiliated companies (“RiceBowl”).</p>
+<p>RiceBowl is not responsible for the data use practices of ad networks, other parties with whom we work with to provide you personalized services, or those who access your information on our sites or applications.</p><br>
+<p class="bold">Information We Collect</p>
+<p>We collect the personal information you choose to provide us. We also collect non-personal information about you, which includes demographic information and how you use and interact with RiceBowl. We may also acquire information about you from third parties to further personalize and enhance your experience.</p><br>
+<p class="bold">How We Use Collected Information</p>
+<p>We use the information we collect about you to deliver the products and services we offer, respond to you, and operate and improve our sites and applications. Our services include showing you personalized content and advertising on RiceBowl or other sites with which we have a business relationship. We may use your information to contact you about RiceBowl updates, conduct surveys, or to provide informational and service-related communications, including important security updates.</p><br>
+<p>Information you share in public areas of RiceBowl may be accessed, used, and stored by others around the world. We strive to provide a safe, secure environment by attempting to limit access to our database to legitimate users, but we cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized users store or transfer information you give to us, so you should not post sensitive information to RiceBowl.</p><br>
+<p class="bold">How We Share Information</p>
+<p>We share your information with third parties who help us deliver our products and services to you. These third parties may not use your information for any other purpose.
+With your consent, we may use your information to contact you about products or services available from our affiliates.
+With your consent, we may disclose your information to third parties who may contact you about their products or services.
+We also share information where legally required. We may disclose and transfer information to a third party who acquires any or all of RiceBowl’s business units.</p><br>
+<p class="bold">How We Store Your Information</p>
+<p>We store your information to make your interaction with RiceBowl more efficient, practical, and relevant. You may review, update, or delete the personal information you share with us at any time by accessing your account. When you delete your personal information, we will retain logs and non-personal information about you along with an archival copy of your information, which is not accessible by you or third parties on the Internet. If your personal information was previously accessed by others using RiceBowl, we are unable to delete the information from their systems. You may turn off cookies. This will adversely affect your use of RiceBowl.</p><br>
+<p class="bold">Third party websites</p>
+<p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.</p><br>
+<p class="bold">Google Adsense</p>
+<p>Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <a class="link link-danger-o">https://www.google.com/privacy_ads.html</a></p><br>
+<p class="bold">Changes to this privacy policy</p>
+<p>RiceBowl has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p><br>
+<p class="bold">Your acceptance of these terms</p>
+<p>By using this Site, you signify your acceptance of this policy and <a class="link link-danger-o" href="https://www.google.com/policies/privacy">Google Privacy Policy</a>. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p><br>
+<p class="bold">Contacting us</p>
+<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</p><br>
+<a href="https://www.google.com/policies/privacy"><p class="bold">RiceBowl</p></a>
+<p>
+08-06 Tower B,<br>
+Vertical Business Suite, <br>
+Avenue 3, Bangsar South City,<br>
+No 8, Jalan Kerinchi 59200 Kuala Lumpur.<br>
++603 22423616 / +603 22423617
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-wrap">
+<div class="footer">
+<div class="col-1-2 no-padding left-footer">
+<div class="col-1-2">
+<p class="bold"><i class="mdi mdi-map-marker"></i> Find Job Vacancy by States:</p>
+<div class="clearfix"></div>
+<div class="country">
+<a href="https://www.ricebowl.my/state/johor">Johor</a>
+<a href="https://www.ricebowl.my/state/kedah">Kedah</a>
+<a href="https://www.ricebowl.my/state/kelantan">Kelantan</a>
+<a href="https://www.ricebowl.my/state/kuala-lumpur">Kuala Lumpur</a>
+<a href="https://www.ricebowl.my/state/melaka">Melaka</a>
+<a href="https://www.ricebowl.my/state/negeri-sembilan">Negeri Sembilan</a>
+<a href="https://www.ricebowl.my/state/oversea-jobs">Oversea Jobs</a>
+<a href="https://www.ricebowl.my/state/pahang">Pahang</a>
+<a href="https://www.ricebowl.my/state/perak">Perak</a>
+<a href="https://www.ricebowl.my/state/perlis">Perlis</a>
+<a href="https://www.ricebowl.my/state/pulau-pinang">Pulau Pinang</a>
+<a href="https://www.ricebowl.my/state/sabah">Sabah</a>
+<a href="https://www.ricebowl.my/state/sarawak">Sarawak</a>
+<a href="https://www.ricebowl.my/state/selangor">Selangor</a>
+<a href="https://www.ricebowl.my/state/singapore">Singapore</a>
+<a href="https://www.ricebowl.my/state/terengganu">Terengganu</a>
+</div>
+</div>
+<div class="col-1-2">
+<p class="bold"><i class="mdi mdi-view-dashboard"></i> Find Job Vacancy by Categories:</p>
+<div class="clearfix"></div>
+<div class="category">
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important; display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Admin / HR Resource </a><div class="dropdown-menu dropdown-menu-lg pull-bottom" data-placement="top"><a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+</a><div align="center"><a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+</a><li><a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+</a><a href="http://www.ricebowl.my/en/category/hr-mgmt-consulting" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">HR Mgmt / Consulting</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/admin-clerical" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Admin / Clerical</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/law-legal" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Law &amp; Legal</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/business-mgmt-consulting" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Business / Mgmt Consulting</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important;display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Hotel / Restaurant / Tourism </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/hotel-hospitality" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Hotel / Hospitality</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/food-beverage" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Food &amp; Beverage</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/travel-tourism" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Travel / Tourism</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important;display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Customer Services </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/call-center-bpo" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Call Center / BPO</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/customer-service-helpdesk" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Customer Service / Helpdesk</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important;display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Retail / Wholesale Trading / Property </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/general-wholesale" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">General &amp; Wholesale Trading</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/sales-biz-development" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Sales / Biz Development</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/retail-merchandise" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Retail / Merchandise</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/property-real-estate" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Property / Real Estate</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important;display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Building / Construction </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/construction-building" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Construction / Building</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/architecture-interior-design" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Architecture / Interior Design</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important;display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Education / Training </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/education-training" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Education / Training</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important;display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px">
+Accounting / Finance </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/accounting-tax-services" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Accounting / Tax Services</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/banking-finance" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Banking / Finance</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/stockbroking-securities" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Stockbroking / Securities</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/insurance" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Insurance</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important;display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Arts / Design </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/arts-design-fashion" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Arts / Design / Fashion</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/apparel" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Apparel</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/textiles-garment" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Textiles / Garment</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/gems-jewellery" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Gems / Jewellery</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important;display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Transportation / Logistics </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/transportation-logistics" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Transportation / Logistics</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/aviation-airline" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Aviation / Airline</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/purchase-supply-chain" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Purchase / Supply Chain</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left:0px !important; display:block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Journalism / Media / Marketing </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/advertising-marketing" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Advertising / Marketing</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/entertainment-media" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Entertainment / Media</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/exhibitions-event-mgmt" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Exhibitions / Event Mgmt</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/printing-publishing" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Printing / Publishing</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/journalism" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Journalism</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left:0px !important; display:block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Manufacturing / Environment / Mining </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/environment-health-safety" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Environment / Health / Safety</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/automobile-automotive" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Automobile / Automotive</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/biotech-pharmaceutical" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">BioTech / Pharmaceutical</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/semiconductor" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Semiconductor</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/manufacturing-production" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Manufacturing / Production</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/consumer-products-fmcg" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Consumer Products / FMCG</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/mining" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Mining</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/oil-gas-petroleum" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Oil / Gas / Petroleum</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/tobacco" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Tobacco</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important;display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+IT / Science &amp; Technology </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/it-software" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">IT Software</a>
+</li>
+<li>
+<a href="http://www.ricebowl.my/en/category/it-hardware" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">IT Hardware</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/telecommunication" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Telecommunication</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/science-technology" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Science &amp; Technology</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left:0px !important; display:block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Research Development (R&amp;D) </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/chemical-fertilizers" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Chemical / Fertilizers</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/polymer-rubber" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Polymer / Rubber</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/wood-fibre-paper" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Wood / Fibre / Paper</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/r-d" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">R &amp; D</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/library-museum" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Library / Museum</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left: 0px !important;display: block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Health / Beauty / Sports </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/healthcare-medical" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Healthcare / Medical</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/sports" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Sports</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/beauty-fitness" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Beauty / Fitness</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left:0px !important; display:block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Engineering / Maintenance </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/electrical-electronics" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Electrical &amp; Electronics</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/heavy-industrial-machinery" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Heavy Industrial / Machinery</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/engineering-technical-consulting" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Engineering / Technical Consulting</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/utilities-power" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Utilities / Power</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left:0px !important; display:block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Agriculture / Aquaculture </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/agriculture-poultry-fisheries" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Agriculture / Poultry / Fisheries</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/marine-aquaculture" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Marine / Aquaculture</a> </li>
+</div>
+</div>
+</span>
+<span class="dropup" style="margin-right: 0px; margin-left:0px !important; display:block;">
+<a data-toggle="dropdown" class="foot-cat" href="" width="50px" onclick="trackEvent({event: 'click', key: 'footer category', value: 'category group'})">
+Social Service / Security / Defence </a>
+<div class="dropdown-menu dropdown-menu-lg pull-bottom">
+<div align="center">
+<li>
+<a href="http://www.ricebowl.my/en/category/government-defence" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Government / Defence</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/security-law-enforcement" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Security / Law Enforcement</a> </li>
+<li>
+<a href="http://www.ricebowl.my/en/category/social-services-ngo" style="color:#337ab7" onclick="trackEvent({ event:'click', key:'footer category', value:'category item' })">Social Services / NGO</a> </li>
+</div>
+</div>
+</span>
+</div>
+</div>
+</div>
+<div class="col-1-2 no-padding right-footer">
+<div class="about-us">
+<span class="footer-social">
+<a href="https://www.facebook.com/ricebowlMY" target="_blank" rel="nofollow"><i class="mdi mdi-facebook"></i></a>
+<a href="https://twitter.com/RiceBowlMY" target="_blank" rel="nofollow"><i class="mdi mdi-twitter"></i></a>
+<a href="https://plus.google.com/100157080643395521376/posts" target="_blank" rel="nofollow"><i class="mdi mdi-google-plus"></i></a>
+</span>
+<p class="bold"><i class="mdi mdi-alert-box"></i> About Us</p>
+<p>
+RiceBowl.my: Find Latest Job Vacancy in Malaysia &amp; Singapore. Thousand of Latest 2017 Job Vacancies Available in Selangor, Kuala Lumpur, Johor, Penang &amp; Perak. Start Job Vacancy Search in Admin, Account, HR, Clerical &amp; Sales and Marketing. Thousand of Employment Opportunities eg Part Time Jobs, Full Time Jobs, Internship Opportunity &amp; Freelance Jobs. All this only at RiceBowl.my - Malaysia Pionner in Mandarin &amp; English Job Site.
+</p>
+<span class="footer-about">
+<a href="https://www.ricebowl.my/aboutus">About</a>|
+<a href="https://www.ajobthing.my?ref=rbWeb">Employer</a>|
+<a href="https://www.ricebowl.my/contact">Contact</a>|
+<a href="https://www.ricebowl.my/terms-condition">Terms of Use</a>|
+<a href="https://www.ricebowl.my/privacy">Privacy Policy</a>
+|
+<a href="https://blog.ricebowl.my">Blog</a>
+<a href="https://blog.ricebowl.my" class="false-blog">Blog</a>
+</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+ 
+<style>.bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn){width:100%}</style>
+<div id="askhelp" class="modal fade" role="dialog">
+<div class="modal-dialog modal-alert">
+ 
+<div class="modal-content">
+<div><img src="https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/ricebowl/others/v1/ask-help.png" style="width:100%;"></div>
+<div class="modal-body" style="padding-top:5px !important">
+ 
+<div class="form-group-wrap form-group-inline" style="margin-bottom:10px;">
+<div class="form-inline input-full">
+<label><i class="mdi mdi-briefcase"></i> What job are you looking for?</label>
+<div class="form-group input-full">
+<input id="askhelp-keywords" class="input suggestion-thing" data-type="job" data-target="askhelp-keywords-suggestion" type="text" placeholder="Example: Sales Executive, Technician" onkeypress="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;:&quot;Please enter some keywords&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<div id="askhelp-keywords-suggestion" class="suggestion-thing-content" style="display:none;"></div>
+<input id="askhelp-keywords-confirm" type="hidden" value="no">
+</div>
+</div>
+</div>
+ 
+<div class="form-group-wrap" style="margin-bottom:10px;">
+<label> <i class="mdi mdi-briefcase"></i> <span style="">Job Type</span></label>
+<div class="form-group select"><span class="caret"></span>
+<select id="askhelp-prefer-jobtype" class="selectpicker" data-live-search="true" onchange="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;:&quot;Please enter  job type&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<option value="0">--Select One--</option>
+<option value="Full Time">Full Time</option>
+<option value="Part Time">Part Time</option>
+<option value="Internship">Internship</option>
+</select>
+</div>
+</div>
+ 
+<div class="form-group-wrap" style="margin-bottom:10px;">
+<label> <i class="mdi mdi-factory"></i> <span style="">Which industry you work or plan to work in?</span> <span id="spinner" style="display:none"><img src="https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/others/v1/spinner.gif" width="25px"></span> </label>
+<div class="form-group select"><span class="caret"></span>
+<select id="askhelp-prefer-categories" class="selectpicker" data-live-search="true" onchange="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;:&quot;Please enter your industry&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<option value="0">--Select One--</option>
+<option value="390">Accounting / Tax Services</option>
+<option value="449">Admin / Clerical</option>
+<option value="391">Advertising / Marketing</option>
+<option value="392">Agriculture / Poultry / Fisheries</option>
+<option value="393">Apparel</option>
+<option value="394">Architecture / Interior Design</option>
+<option value="395">Arts / Design / Fashion</option>
+<option value="396">Automobile / Automotive</option>
+<option value="397">Aviation / Airline</option>
+<option value="398">Banking / Finance</option>
+<option value="399">Beauty / Fitness</option>
+<option value="400">BioTech / Pharmaceutical</option>
+<option value="401">Business / Mgmt Consulting</option>
+<option value="402">Call Center / BPO</option>
+<option value="403">Chemical / Fertilizers</option>
+<option value="404">Construction / Building</option>
+<option value="405">Consumer Products / FMCG</option>
+<option value="24">Customer Service / Helpdesk</option>
+<option value="389">Education / Training</option>
+<option value="406">Electrical &amp; Electronics</option>
+<option value="407">Engineering / Technical Consulting</option>
+<option value="408">Entertainment / Media</option>
+<option value="409">Environment / Health / Safety</option>
+<option value="410">Exhibitions / Event Mgmt</option>
+<option value="38">Food &amp; Beverage</option>
+<option value="411">Gems / Jewellery</option>
+<option value="412">General &amp; Wholesale Trading</option>
+<option value="413">Government / Defence</option>
+<option value="417">HR Mgmt / Consulting</option>
+<option value="414">Healthcare / Medical</option>
+<option value="415">Heavy Industrial / Machinery</option>
+<option value="416">Hotel / Hospitality</option>
+<option value="419">IT / Hardware</option>
+<option value="420">IT / Software</option>
+<option value="418">Insurance</option>
+<option value="421">Journalism</option>
+<option value="422">Law / Legal</option>
+<option value="423">Library / Museum</option>
+<option value="424">Manufacturing / Production</option>
+<option value="425">Marine / Aquaculture</option>
+<option value="426">Mining</option>
+<option value="427">Oil / Gas / Petroleum</option>
+<option value="447">Other industries</option>
+<option value="428">Polymer / Rubber</option>
+<option value="429">Printing / Publishing</option>
+<option value="430">Property / Real Estate</option>
+<option value="385">Purchase / Supply Chain</option>
+<option value="431">R&amp;D</option>
+<option value="432">Repair / Maintenance</option>
+<option value="433">Retail / Merchandise</option>
+<option value="448">Sales / Biz Development</option>
+<option value="434">Science &amp; Technology</option>
+<option value="435">Security / Law Enforcement</option>
+<option value="436">Semiconductor</option>
+<option value="437">Social Services / NGO</option>
+<option value="438">Sports</option>
+<option value="439">Stockbroking / Securities</option>
+<option value="440">Telecommunication</option>
+<option value="441">Textiles / Garment</option>
+<option value="442">Tobacco</option>
+<option value="443">Transportation / Logistics</option>
+<option value="444">Travel / Tourism</option>
+<option value="445">Utilities / Power</option>
+<option value="446">Wood / Fibre / Paper</option>
+</select>
+</div>
+</div>
+ 
+<div class="form-group-wrap form-group-inline" style="margin-bottom:10px;">
+<label> <i class="mdi mdi-currency-usd"></i> <span>Expected Salary</span> </label>
+<div class="form-inline col-1-2">
+<div class="form-group input-full select"><span class="caret"></span>
+<select id="askhelp-expected-salary-curr" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;:&quot;Please select currency.&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<option value="RM" selected="selected">RM</option><option value="SGD">SGD</option><option value="CNY">CNY</option><option value="TWD">TWD</option><option value="HKD">HKD</option><option value="PHP">PHP</option><option value="IDR">IDR</option><option value="INR">INR</option><option value="AFN">AFN</option><option value="AOA">AOA</option><option value="ALL">ALL</option><option value="EUR">EUR</option><option value="AED">AED</option><option value="ARS">ARS</option><option value="AMD">AMD</option><option value="XCD">XCD</option><option value="AUD">AUD</option><option value="AZN">AZN</option><option value="BIF">BIF</option><option value="XOF">XOF</option><option value="BDT">BDT</option><option value="BGN">BGN</option><option value="BHD">BHD</option><option value="BSD">BSD</option><option value="BAM">BAM</option><option value="BYN">BYN</option><option value="BZD">BZD</option><option value="BOB">BOB</option><option value="BRL">BRL</option><option value="BBD">BBD</option><option value="BND">BND</option><option value="BTN">BTN</option><option value="BWP">BWP</option><option value="XAF">XAF</option><option value="CAD">CAD</option><option value="CHF">CHF</option><option value="CLF">CLF</option><option value="COP">COP</option><option value="KMF">KMF</option><option value="CVE">CVE</option><option value="CRC">CRC</option><option value="CUC">CUC</option><option value="DJF">DJF</option><option value="DKK">DKK</option><option value="DOP">DOP</option><option value="DZD">DZD</option><option value="USD">USD</option><option value="EGP">EGP</option><option value="ERN">ERN</option><option value="ETB">ETB</option><option value="FJD">FJD</option><option value="GBP">GBP</option><option value="GEL">GEL</option><option value="GHS">GHS</option><option value="GNF">GNF</option><option value="GMD">GMD</option><option value="GTQ">GTQ</option><option value="GYD">GYD</option><option value="HNL">HNL</option><option value="HRK">HRK</option><option value="HTG">HTG</option><option value="HUF">HUF</option><option value="IRR">IRR</option><option value="IQD">IQD</option><option value="ISK">ISK</option><option value="ILS">ILS</option><option value="JMD">JMD</option><option value="JOD">JOD</option><option value="JPY">JPY</option><option value="KZT">KZT</option><option value="KES">KES</option><option value="KGS">KGS</option><option value="KHR">KHR</option><option value="KRW">KRW</option><option value="KWD">KWD</option><option value="LBP">LBP</option><option value="LRD">LRD</option><option value="LYD">LYD</option><option value="LKR">LKR</option><option value="LSL">LSL</option><option value="MAD">MAD</option><option value="MGA">MGA</option><option value="MVR">MVR</option><option value="MXN">MXN</option><option value="MKD">MKD</option><option value="MMK">MMK</option><option value="MNT">MNT</option><option value="MZN">MZN</option><option value="MRO">MRO</option><option value="MUR">MUR</option><option value="MWK">MWK</option><option value="NAD">NAD</option><option value="NGN">NGN</option><option value="NIO">NIO</option><option value="NOK">NOK</option><option value="NPR">NPR</option><option value="NZD">NZD</option><option value="OMR">OMR</option><option value="PKR">PKR</option><option value="PAB">PAB</option><option value="PEN">PEN</option><option value="PGK">PGK</option><option value="PLN">PLN</option><option value="KPW">KPW</option><option value="PYG">PYG</option><option value="QAR">QAR</option><option value="RON">RON</option><option value="RUB">RUB</option><option value="RWF">RWF</option><option value="SAR">SAR</option><option value="SDG">SDG</option><option value="SBD">SBD</option><option value="SLL">SLL</option><option value="SVC">SVC</option><option value="SOS">SOS</option><option value="RSD">RSD</option><option value="SSP">SSP</option><option value="SRD">SRD</option><option value="SEK">SEK</option><option value="SZL">SZL</option><option value="SCR">SCR</option><option value="SYP">SYP</option><option value="THB">THB</option><option value="TJS">TJS</option><option value="TMT">TMT</option><option value="TOP">TOP</option><option value="TTD">TTD</option><option value="TND">TND</option><option value="TRY">TRY</option><option value="UGX">UGX</option><option value="UAH">UAH</option><option value="UYU">UYU</option><option value="UZS">UZS</option><option value="VEF">VEF</option><option value="VND">VND</option><option value="VUV">VUV</option><option value="WST">WST</option><option value="YER">YER</option><option value="ZAR">ZAR</option><option value="ZMW">ZMW</option><option value="ZWL">ZWL</option> </select>
+</div>
+</div>
+<div class="form-inline col-1-2">
+<div class="form-group input-full">
+<input class="input" type="text" placeholder="Amount" id="askhelp-expected-salary" onkeypress="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required,number&quot;,&quot;msg1&quot;:&quot;Please enter salary&quot;,&quot;msg2&quot;:&quot;Please enter correct salary&quot;}">
+</div>
+</div>
+</div>
+ 
+<div class="form-group-wrap" style="margin-bottom:10px;">
+<label> <span style="text-transform:capitalize">Prefered Work&nbsp;location</span> </label>
+<label> <i class="mdi mdi-map-marker"></i> <span style="text-transform:capitalize">Country</span> <span id="spinner" style="display:none"><img src="https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/others/v1/spinner.gif" width="25px"></span> </label>
+<div class="form-group select"><span class="caret"></span>
+<select id="askhelp-country" onchange="$(this).parent().removeClass('error');ShowAllStatesNew(this.value, 'askhelp');" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;:&quot;Please enter some keywords&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<option value="0">Location</option>
+<option value="Malaysia">Malaysia</option><option value="Singapore">Singapore</option><option value="China">China</option><option value="Taiwan">Taiwan</option><option value="Hong Kong">Hong Kong</option><option value="Philippines">Philippines</option><option value="Indonesia">Indonesia</option><option value="India">India</option><option value="Afghanistan">Afghanistan</option><option value="Angola">Angola</option><option value="Albania">Albania</option><option value="Andorra">Andorra</option><option value="United Arab Emirates">United Arab Emirates</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Antigua and Barbuda">Antigua and Barbuda</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Burundi">Burundi</option><option value="Belgium">Belgium</option><option value="Benin">Benin</option><option value="Burkina Faso">Burkina Faso</option><option value="Bangladesh">Bangladesh</option><option value="Bulgaria">Bulgaria</option><option value="Bahrain">Bahrain</option><option value="Bahamas">Bahamas</option><option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option><option value="Belarus">Belarus</option><option value="Belize">Belize</option><option value="Bolivia">Bolivia</option><option value="Brazil">Brazil</option><option value="Barbados">Barbados</option><option value="Brunei">Brunei</option><option value="Bhutan">Bhutan</option><option value="Botswana">Botswana</option><option value="Central African Republic">Central African Republic</option><option value="Canada">Canada</option><option value="Switzerland">Switzerland</option><option value="Chile">Chile</option><option value="Cameroon">Cameroon</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Cape Verde">Cape Verde</option><option value="Costa Rica">Costa Rica</option><option value="Cuba">Cuba</option><option value="Cyprus">Cyprus</option><option value="Germany">Germany</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Denmark">Denmark</option><option value="Dominican Republic">Dominican Republic</option><option value="Algeria">Algeria</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="Eritrea">Eritrea</option><option value="Spain">Spain</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Finland">Finland</option><option value="Fiji">Fiji</option><option value="France">France</option><option value="Gabon">Gabon</option><option value="United Kingdom">United Kingdom</option><option value="Georgia">Georgia</option><option value="Ghana">Ghana</option><option value="Guinea">Guinea</option><option value="Gambia">Gambia</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Greece">Greece</option><option value="Grenada">Grenada</option><option value="Greenland">Greenland</option><option value="Guatemala">Guatemala</option><option value="Guyana">Guyana</option><option value="Honduras">Honduras</option><option value="Croatia">Croatia</option><option value="Haiti">Haiti</option><option value="Hungary">Hungary</option><option value="Ireland">Ireland</option><option value="Iran">Iran</option><option value="Iraq">Iraq</option><option value="Iceland">Iceland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Jordan">Jordan</option><option value="Japan">Japan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Cambodia">Cambodia</option><option value="Kiribati">Kiribati</option><option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option><option value="South Korea">South Korea</option><option value="Kuwait">Kuwait</option><option value="Lebanon">Lebanon</option><option value="Liberia">Liberia</option><option value="Libya">Libya</option><option value="Saint Lucia">Saint Lucia</option><option value="Liechtenstein">Liechtenstein</option><option value="Sri Lanka">Sri Lanka</option><option value="Lesotho">Lesotho</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Latvia">Latvia</option><option value="Morocco">Morocco</option><option value="Monaco">Monaco</option><option value="Madagascar">Madagascar</option><option value="Maldives">Maldives</option><option value="Mexico">Mexico</option><option value="Marshall Islands">Marshall Islands</option><option value="Macedonia">Macedonia</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Myanmar">Myanmar</option><option value="Montenegro">Montenegro</option><option value="Mongolia">Mongolia</option><option value="Mozambique">Mozambique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Malawi">Malawi</option><option value="Namibia">Namibia</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Nicaragua">Nicaragua</option><option value="Netherlands">Netherlands</option><option value="Norway">Norway</option><option value="Nepal">Nepal</option><option value="Nauru">Nauru</option><option value="New Zealand">New Zealand</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Panama">Panama</option><option value="Peru">Peru</option><option value="Palau">Palau</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Poland">Poland</option><option value="North Korea">North Korea</option><option value="Portugal">Portugal</option><option value="Paraguay">Paraguay</option><option value="Palestine">Palestine</option><option value="Qatar">Qatar</option><option value="Romania">Romania</option><option value="Russia">Russia</option><option value="Rwanda">Rwanda</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Sudan">Sudan</option><option value="Senegal">Senegal</option><option value="Solomon Islands">Solomon Islands</option><option value="Sierra Leone">Sierra Leone</option><option value="El Salvador">El Salvador</option><option value="San Marino">San Marino</option><option value="Somalia">Somalia</option><option value="Serbia">Serbia</option><option value="South Sudan">South Sudan</option><option value="Suriname">Suriname</option><option value="Slovakia">Slovakia</option><option value="Slovenia">Slovenia</option><option value="Sweden">Sweden</option><option value="Swaziland">Swaziland</option><option value="Seychelles">Seychelles</option><option value="Syria">Syria</option><option value="Chad">Chad</option><option value="Togo">Togo</option><option value="Thailand">Thailand</option><option value="Tajikistan">Tajikistan</option><option value="Turkmenistan">Turkmenistan</option><option value="Timor-Leste">Timor-Leste</option><option value="Tonga">Tonga</option><option value="Trinidad and Tobago">Trinidad and Tobago</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Tuvalu">Tuvalu</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="Uruguay">Uruguay</option><option value="United States">United States</option><option value="Uzbekistan">Uzbekistan</option><option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option><option value="Venezuela">Venezuela</option><option value="United States Virgin Islands">United States Virgin Islands</option><option value="Vietnam">Vietnam</option><option value="Vanuatu">Vanuatu</option><option value="Samoa">Samoa</option><option value="Yemen">Yemen</option><option value="South Africa">South Africa</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option> <option value="Other">Other</option>
+</select>
+</div>
+</div>
+ 
+<div class="form-group-wrap" style="margin-bottom:10px;">
+<label> <i class="mdi mdi-map-marker"></i> <span style="text-transform:capitalize">State</span> <span id="spinner" style="display:none"><img src="https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/others/v1/spinner.gif" width="25px"></span> </label>
+<div class="form-group select"><span class="caret"></span>
+<a id="state-thing"></a>
+<input type="text" class="input askhelp-states" id="askhelp-Other-state" data-id="askhelp-Other-state" style="display:none;" placeholder="Enter State" onkeypress="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;:&quot;Please enter your state&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<div id="statelist-askhelp" class="askhelp-states"></div>
+</div>
+</div>
+ 
+<div class="form-group-wrap" style="margin-bottom:10px;">
+<label>
+<i class="mdi mdi-home"></i>
+<span>City</span>
+</label>
+<div class="form-group input-full">
+<input value="" id="askhelp-city" class="input suggestion-thing" data-type="area" data-target="askhelp-city-suggestion" type="text" placeholder="City" onkeypress="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;:&quot;Please enter your city&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<div id="askhelp-city-suggestion" class="suggestion-thing-content" style="display:none;"></div>
+<input id="askhelp-city-confirm" type="hidden" value="no">
+</div>
+</div>
+ 
+<div class="form-group-wrap" style="margin-bottom:10px;">
+<label> <i class="mdi mdi-checkbox-multiple-marked-outline"></i> <span style="text-transform:capitalize">Highest Qualification</span>
+<span id="spinner" style="display:none"><img src="https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/others/v1/spinner.gif" width="25px"></span> </label>
+<div class="form-group select"><span class="caret"></span>
+<select id="askhelp-education" onchange="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;: &quot;Please select your highest education&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<option value="0">--Select One--</option>
+<option value="Master / PHD">Master / PHD</option>
+<option value="Degree">Degree</option>
+<option value="Certificates / Vocational / Diploma">Certificates / Vocational / Diploma</option>
+<option value="Secondary School">Secondary School</option>
+<option value="Primary School">Primary School</option>
+ 
+</select>
+</div>
+</div>
+ 
+<div class="form-group-wrap" style="margin-bottom:10px;">
+<label>
+<i class="mdi mdi-school"></i>
+<span>University / College / School Name</span>
+</label>
+<div class="form-group input-full">
+<input value="" id="askhelp-uni" class="input suggestion-thing" data-type="uni" data-target="askhelp-uni-suggestion" type="text" placeholder="Enter University / College / School Name" onkeypress="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;:&quot;Please enter your university&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<div id="askhelp-uni-suggestion" class="suggestion-thing-content" style="display:none;"></div>
+<input id="askhelp-uni-confirm" type="hidden" value="no">
+</div>
+</div>
+ 
+<div class="form-group-wrap" style="margin-bottom:10px;">
+<label>
+<i class="mdi mdi-school"></i>
+<span>Major in</span>
+</label>
+<div class="form-group input-full">
+<input value="" id="askhelp-major" class="input suggestion-thing" data-type="education" data-target="askhelp-major-suggestion" type="text" placeholder="Degree in Computer Science" onkeypress="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;: &quot;Please enter major/specialization&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<div id="askhelp-major-suggestion" class="suggestion-thing-content" style="display:none;"></div>
+<input id="askhelp-major-confirm" type="hidden" value="no">
+</div>
+</div>
+ 
+<div class="form-group-wrap" style="margin-top:10px;">
+<label>
+<i class="mdi mdi-calendar"></i>
+<span>Date of Birth</span>
+</label>
+<div class="form-group input-full">
+<input value="" id="askhelp-dob" class="input combo-date-picker" data-format="DD/MM/YYYY" data-template="DD MMM YYYY" type="text" placeholder="Date of Birth" onclick="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required,date&quot;,&quot;msg1&quot;:&quot;Please enter date of birth&quot;,&quot;msg2&quot;:&quot;Please enter correct date&quot;}">
+</div>
+</div>
+ 
+<div class="form-group-wrap" style="margin-top:10px;">
+<label> <i class="mdi mdi-gender-male-female"></i> <span style="text-transform:capitalize">Gender</span> <span id="spinner" style="display:none"><img src="https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/others/v1/spinner.gif" width="25px"></span> </label>
+<div class="form-group form-group-radio" id="askhelp-gender-thing" data-validation="{&quot;rules&quot;:&quot;gender&quot;,&quot;msg1&quot;:&quot;Please select your gender&quot;,&quot;msg2&quot;:&quot;&quot;}">
+<div class="radio radio-inline">
+<input value="Male" name="askhelp-gender" type="radio" onclick="$('#askhelp-gender-thing').removeClass('error');">
+<span>Male</span> </div>
+<div class="radio radio-inline">
+<input value="Female" name="askhelp-gender" type="radio" onclick="$('#askhelp-gender-thing').removeClass('error');">
+<span>Female</span> </div>
+</div>
+</div>
+ 
+<div class="form-group-wrap form-group-inline" style="margin-bottom:10px;">
+<div class="form-inline input-full">
+<label><i class="mdi mdi-account"></i>Name</label>
+<div class="form-group input-full">
+<input value="" class="input" type="text" placeholder="Full Name" id="askhelp-name" onkeypress="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;:&quot;Please enter name&quot;,&quot;msg2&quot;:&quot;&quot;}">
+</div>
+</div>
+</div>
+<div class="form-group-wrap form-group-inline">
+ 
+<div class="form-inline col-1-2">
+<label>
+<i class="mdi mdi-email"></i>
+<span>Email</span>
+</label>
+<div class="form-group input-full">
+<input value="" class="input" type="email" placeholder="Email" id="askhelp-email" onkeypress="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required,email&quot;,&quot;msg1&quot;:&quot;Please enter your email&quot;,&quot;msg2&quot;:&quot;Please enter valid email address&quot;}">
+</div>
+</div>
+ 
+<div class="form-inline col-1-2">
+<label>
+<i class="mdi mdi-phone"></i>
+<span>Contact Number</span>
+</label>
+<div class="form-group input-full">
+<input value="" class="input" type="text" placeholder="Contact Number" id="askhelp-contact" onkeypress="$(this).parent().removeClass('error')" data-validation="{&quot;rules&quot;:&quot;required&quot;,&quot;msg1&quot;:&quot;Please enter your phone number&quot;,&quot;msg2&quot;:&quot;&quot;}">
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<div class="action right">
+<button type="button" class="btn btn-primary save_askhelp">
+Send </button>
+<a data-dismiss="modal" class="btn btn-danger close-modal">Close</a>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+
+<style></style> <div id="search-filter-modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+ 
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">×</button>
+<h4 class="modal-title">Filter by</h4>
+</div>
+<div id="guided-search-filters" class="modal-body">
+ 
+<div class="form-group">
+<p>Salary <i class="mdi mdi-cash-usd"></i></p>
+<ul class="filter-tag available-filters">
+<li class="add-filter" data-child="0" data-parent="0" data-type="salary">
+<span class="filter-label">1 - 1500</span>
+</li>
+<li class="add-filter" data-child="1" data-parent="0" data-type="salary">
+<span class="filter-label">1501 - 3000</span>
+</li>
+<li class="add-filter" data-child="2" data-parent="0" data-type="salary">
+<span class="filter-label">3001 - 5000</span>
+</li>
+<li class="add-filter" data-child="3" data-parent="0" data-type="salary">
+<span class="filter-label">5001 - 10000</span>
+</li>
+<li class="add-filter" data-child="4" data-parent="0" data-type="salary">
+<span class="filter-label">10001 - *</span>
+</li>
+</ul>
+</div>
+<div class="form-group">
+<p>
+Minimum Education <i class="mdi mdi-school"></i>
+</p>
+<ul class="filter-tag available-filters">
+<li class="add-filter" data-child="0" data-parent="1" data-type="education">
+<span class="filter-label">SPM</span>
+</li>
+<li class="add-filter" data-child="1" data-parent="1" data-type="education">
+<span class="filter-label">Diploma</span>
+</li>
+<li class="add-filter" data-child="2" data-parent="1" data-type="education">
+<span class="filter-label">Any</span>
+</li>
+<li class="add-filter" data-child="3" data-parent="1" data-type="education">
+<span class="filter-label">Degree</span>
+</li>
+<li class="add-filter" data-child="4" data-parent="1" data-type="education">
+<span class="filter-label">UPSR</span>
+</li>
+<li class="add-filter" data-child="5" data-parent="1" data-type="education">
+<span class="filter-label">Master/PHD</span>
+</li>
+</ul>
+</div>
+<div class="form-group">
+<p>
+Job Type <i class="mdi mdi-checkbox-marked-circle-outline"></i>
+</p>
+<ul class="filter-tag available-filters">
+<li class="add-filter" data-child="0" data-parent="2" data-type="jobType">
+<span class="filter-label">Full Time</span>
+</li>
+<li class="add-filter" data-child="1" data-parent="2" data-type="jobType">
+<span class="filter-label">Part Time</span>
+</li>
+<li class="add-filter" data-child="2" data-parent="2" data-type="jobType">
+<span class="filter-label">Internship</span>
+</li>
+<li class="add-filter" data-child="3" data-parent="2" data-type="jobType">
+<span class="filter-label">Contract</span>
+</li>
+<li class="add-filter" data-child="4" data-parent="2" data-type="jobType">
+<span class="filter-label">Temporary</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-footer">
+<div class="modal-btn-justify-wrap">
+<div class="modal-btn-justify fixed">
+<li>
+<a id="clear-filters" class="btn btn-default">Clear</a>
+</li>
+<li>
+<button id="update-filters" class="btn btn-primary" data-dismiss="modal">Search</button>
+</li>
+</div>
+</div>
+</div>
+<div class="spinner-load" style="display: none;">
+<img src="https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/others/v1/spinner.gif">
+</div>
+</div>
+</div>
+</div>
+<div id="login-for-salary-modal" class="modal fade" role="dialog">
+<div class="modal-dialog modal-alert">
+<div class="modal-content" style="background:url(https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/ricebowl/others/v1/login-popup-bg.png);background-size:10%;display:flex;border:none;border-radius:0!important;">
+<div id="blue-login-thing" class="col-4-12" style="position:relative">
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); -webkit-transform: translate(-50%,-50%); -moz-transform: translate(-50%,-50%); -ms-transform: translate(-50%,-50%);">
+<span id="login-modal-platform-name">
+Ricebowl
+</span>
+<img alt="Ricebowl - Job Vacancy Search Malaysia | Malaysia Best Jobs Search Site" id="login-modal-platform-img" src="https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/ricebowl/others/v1/animated-logo.gif">
+</div>
+</div>
+<div id="white-login-thing" style="background: white;" class="col-8-12">
+<div class="modal-header" style="border:none!important;padding-bottom:0!important">
+<button type="button" class="close" data-dismiss="modal">×</button>
+<p style="line-height:25px;font-size: 29px; text-transform: uppercase; text-align: center; letter-spacing: -1px;">
+Jobseeker </p>
+<p class="title bold" style="text-transform:uppercase;text-align:center;color:#7ec7aa;">
+Login </p>
+</div>
+<div class="modal-body" style="padding-top:0!important;">
+<div class="apply-login">
+ 
+<div id="m-login" class="action-wrap">
+<div class="form-group input-icon"><i class="mdi mdi-email icon" style="background:none;color:gray;"></i>
+<input type="email" class="input" placeholder="Email Address or Phone" name="email_address" id="email_address" onkeypress="$(this).parent().removeClass(&quot;error&quot;);" style="border-radius:4px;">
+</div>
+<div class="form-group input-icon"><i class="mdi mdi-key icon" style="background:none;color:gray;"></i>
+<input type="password" class="input" placeholder="Password" name="password" id="password" onkeypress="$(this).parent().removeClass(&quot;error&quot;); OnKeyPressJobseekerLogin(event)" style="border-radius:4px;">
+</div>
+<div class="form-group">
+<a style="float:right" href="#" class="link-warning-o show-forgotpassword" data-type="popup">Forgot Password?</a>
+</div>
+<div class="form-group">
+<div class="form-group-wrap">
+<div class="form-group-inline">
+<button type="button" class="btn btn-primary right submit_jobseekerlogin" data-login-first="true" style="width: 100%;">Login</button>
+<div class="clearfix"></div>
+<div style="margin:15px 0;" id="hr-with-or-hehe">
+<span class="col-5-12-fix"><hr></span>
+<span class="col-2-12-fix center">OR</span>
+<span class="col-5-12-fix"><hr></span>
+<div class="clearfix"></div>
+</div>
+<div id="show-signup-thing">
+<button type="button" class="btn btn-facebook input-full fbregister" data-login-first="true" data-type="popup"><i class="mdi mdi-facebook" style="background:none;"></i> Sign Up | Login with Facebook </button>
+<button type="button" style="margin-top:6px;" class="btn btn-primary input-full" onclick="$('#m-login').fadeOut('fast', function () {
+                                                                $('#m-signup').fadeIn('fast');
+                                                            });
+                                                            $('#login-for-salary-modal .modal-header p.title').text(txt_sign_up);">Sign Up For Free Now </button>
+</div>
+</div>
+</div>
+</div>
+</div>
+ 
+<div style="display:none" id="m-forget-password" class="action-wrap">
+<p class="center"> Enter your email address or mobile phone to set your new password. Your Email or Phone Number must be the same as the one you used to register yourself. </p>
+<br>
+<div class="form-group input-icon"><i class="mdi mdi-email icon" style="background:none;color:gray;"></i>
+<input type="text" class="input" placeholder="Email Address or Phone " id="fb_email_address" name="fb_email_address" onkeypress="$(this).parent().removeClass(&quot;error&quot;);" style="border-radius:4px;">
+<input type="hidden" name="pagename" id="pagename" value="register">
+</div>
+<div class="form-group">
+<div class="form-group-wrap" style="text-align:right;">
+<span id="timer-1" class="bold unlockTimer"></span>
+<div class="form-group-inline">
+<div class="form-inline col-1-2">
+<button type="button" class="btn btn-danger btn-full show-login" data-type="popup">Cancel</button>
+</div>
+<div class="form-inline col-1-2">
+<button type="button" class="btn btn-primary btn-full btn-login submit_jobseekerforgotpass">Proceed</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+ 
+<div style="display:none" id="m-forget-password-thanks" class="action-wrap">
+<div class="login-thank">
+<div class="form-group">
+<div class="alert alert-success">
+<p class="center">Your account details have been sent to <strong><a id="fpemail">a@a.com</a>,</strong>.</p>
+<p class="center">Note: There will be a link in the message to let you reset the password. Please reset it as soon as possible as the link will expire soon.</p>
+<p class="center">If you do not receive the email or sms on your phone in a short while, please <strong><a href="https://www.ricebowl.my/en/contact" target="blank">Contact us</a></strong> for assistance. </p>
+<br>
+</div>
+</div>
+<div class="form-group"><a href="#" data-dismiss="modal" class="btn btn-primary btn-full">Done</a></div>
+</div>
+</div>
+ 
+<div style="display:none" id="m-auto-reg-user" class="action-wrap">
+<div class="auto-reg-msg">
+<div class="form-group">
+<div class="alert alert-danger">
+<p class="center-red">Hey dude, actually your email has already been <b>auto-registered</b>. Checkout your email to set a new password and start to search job.</p>
+<br>
+</div>
+</div>
+</div>
+</div>
+ 
+<div class="action-wrap" id="fb-contact-prompt" style="min-height:0;display:none;">
+<p class="title bold center">Please update your contact information</p>
+<p class="center">We could not find your contact information in Facebook. Please update your contact information now.</p>
+<br>
+<div class="form-group input-icon"><i class="mdi mdi-email icon" style="background:none;color:gray;"></i>
+<input type="text" class="input" placeholder="Email (optional)" id="fb_email" name="fb_email" onkeypress="$(this).parent().removeClass(&quot;error&quot;);">
+</div>
+<div class="form-group input-icon">
+<i class="mdi mdi-phone icon" style="background:none;color:gray;"></i>
+<div class="form-group-inline">
+ 
+<div class="form-inline col-12-12">
+<div class="form-group input-full">
+<input type="text" class="input" placeholder="Mobile Phone (required)" id="fb_phone" name="fb_phone" onkeypress="$(this).parent().removeClass(&quot;error&quot;);">
+</div>
+</div>
+</div>
+</div>
+<div id="submit-fb-contact-btn" class="form-group">
+<button type="button" id="submit-fb-contact" data-login-first="true" class="btn btn-info btn-login">Proceed</button>
+</div>
+</div>
+ 
+<div class="action-wrap" id="m-signup" style="min-height:0;display:none;">
+<div class="form-group input-icon"><i class="mdi mdi-human icon" style="background:none;color:gray;"></i>
+<input id="register_name" type="text" class="input" style="border-radius:4px;" placeholder="Full Name" onkeypress="$(this).parent().removeClass(&quot;error&quot;);">
+</div>
+<div class="form-group input-icon"><i class="mdi mdi-email icon" style="background:none;color:gray;"></i>
+<input id="register_email" type="text" class="input" style="border-radius:4px;" placeholder="Email (optional)" onkeypress="$(this).parent().removeClass(&quot;error&quot;);">
+</div>
+<div class="form-group input-icon"><i class="mdi mdi-key icon" style="background:none;color:gray;"></i>
+<input id="register_password" type="password" style="border-radius:4px;" class="input" placeholder="Password" onkeypress="$(this).parent().removeClass(&quot;error&quot;);">
+</div>
+<div class="form-group input-icon"><i class="mdi mdi-phone icon" style="background:none;color:gray;"></i>
+<input id="register_phone" type="text" class="input" style="border-radius:4px;" placeholder="Mobile Phone" onkeypress="$(this).parent().removeClass(&quot;error&quot;);">
+</div>
+<div class="form-group" id="agree-box">
+<div class="checkbox" style="padding-right: 10px;">
+<input type="checkbox" checked="" class="agree_terms">
+<span>I agree to <a href="https://www.ricebowl.my/en/terms-condition" class="link-info" target="_blank">Terms of Use</a> and <a class="link-info" href="https://www.ricebowl.my/en/privacy" target="_blank">Privacy Policy</a>.</span>
+</div>
+</div>
+<div class="form-group">
+<div class="left">
+<a href="#" onclick="$('#m-signup').fadeOut('fast', function () {
+                                                   $('#m-login').fadeIn('fast');
+                                               });
+                                               $('#login-for-salary-modal .modal-header p.title').text(txt_login);">Already a member? Log in Now</a>
+</div>
+<input type="hidden" name="fbid" id="fbid" value="0">
+<input type="hidden" name="user_type" id="user_type" value="jobseeker">
+<button type="button" data-signup-for-salary="yes" class="btn btn-info btn-login submit_addjobseeker">Sign Up</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://www.ricebowl.my/admin/vendors/sweet-alert/sweet-alert.min.js"></script>
+<script src="https://www.ricebowl.my/assets/js/jquery.min.js"></script>
+<script src="https://www.ricebowl.my/assets/js/jquery-ui.min.js"></script>
+<script src="https://www.ricebowl.my/assets/js/bootstrap.min.js"></script>
+<script src="https://www.ricebowl.my/assets/js/root.min-d1056a000d.js"></script>
+<script src="https://www.ricebowl.my/assets/telinput/js/intlTelInput.js?57"></script>
+ 
+<script src="https://www.ricebowl.my/assets/js/bootstrap-tour.min-dc8a0593e4.js"></script>
+<script src="https://www.ricebowl.my/assets/libs/bootstrap-select/bootstrap-select.min.js"></script>
+<script src="https://www.ricebowl.my/admin/vendors/fullcalendar/fullcalendar.min.js"></script>
+ 
+<script src="https://www.ricebowl.my/admin/vendors/sweet-alert/sweet-alert.min.js"></script>
+<script src="https://www.ricebowl.my/admin/vendors/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js"></script>
+<script src="https://www.ricebowl.my/admin/vendors/chosen/chosen.jquery.min.js"></script>
+<script src="https://www.ricebowl.my/assets/js/fileinput.min-e732c0e50c.js"></script>
+<script src="https://www.ricebowl.my/assets/js/tag-it.min-08778f51af.js"></script>
+ 
+<script src="https://www.ricebowl.my/assets/js/functions.min-ed87ee94ad.js"></script>
+ 
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script>
+<script src="https://www.ricebowl.my/js/countdown.js"></script>
+<script src="https://www.ricebowl.my/assets/js/firebase_functions.min-a137bdb68d.js"></script>
+<script src="https://www.ricebowl.my/assets/js/lfirebase.min-a7aaa2bfc4.js"></script>
+<script>
+                                           $(document).ready(function () {
+                                               main.init();
+                                               $('.mytooltip').tooltip();
+
+                                               var countryData = $.fn.intlTelInput.getCountryData();
+                                               $.each(countryData, function (i, country) {
+                                                   var c = country.name.split('(');
+                                                   country.name = c[0];
+                                               });
+
+                                               $("#register_phone").intlTelInput({
+                                                   utilsScript: canvas_url + "assets/telinput/js/utils.js"
+                                               });
+
+                                               $("#askhelp-contact").intlTelInput({
+                                                   utilsScript: canvas_url + "assets/telinput/js/utils.js"
+                                               });
+
+                                               $("#jobalert_contact").intlTelInput({
+                                                   utilsScript: canvas_url + "assets/telinput/js/utils.js"
+                                               });
+
+                                               $("#fb_phone").intlTelInput({
+                                                   utilsScript: canvas_url + "assets/telinput/js/utils.js"
+                                               });
+
+                                               $("#contact_no").intlTelInput({
+                                                   utilsScript: canvas_url + "assets/telinput/js/utils.js"
+                                               });
+
+
+                                               /*
+                                                if ($("#askhelp-country").length>0)
+                                                ShowAllStatesNew('Malaysia', 'askhelp');
+                                                */
+                                               if (typeof $.notifyDefaults != 'undefined') {
+                                                   $.notifyDefaults({
+                                                       type: "danger",
+                                                       allow_dismiss: true,
+                                                       delay: 2000,
+                                                       timer: 1000,
+                                                       placement: {
+                                                           from: "top",
+                                                           align: "center"
+                                                       },
+                                                       animate: {
+                                                           enter: 'animated fadeInDown',
+                                                           exit: 'animated fadeOutUp'
+                                                       },
+                                                       offset: 10,
+                                                       z_index: 2000,
+                                                   });
+                                               }
+                                           });
+</script>
+<audio id="notificationAudio">
+<source src="https://www.ricebowl.my/assets/new-notification.mp3" type="audio/mpeg">
+</audio>
+<audio id="messageAudio">
+<source src="https://www.ricebowl.my/assets/message.mp3" type="audio/mpeg">
+</audio>
+<script>
+        fbInitiate(
+                '',
+                'AIzaSyC6jsIH0U4idF5k29wqm4jLgrh2n5y3ZlE',
+                'mknotifications-dfe64.firebaseapp.com',
+                'https://mknotifications-dfe64.firebaseio.com',
+                'mknotifications-dfe64.appspot.com',
+                '',
+    1496768735,
+                'www_ricebowl_my',
+                '',
+                'https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/others/v1/no-avatar.png',
+                '0'
+                );
+    </script>
+ 
+<script type="text/javascript">
+            var $_Tawk_API = {}, $_Tawk_LoadStart = new Date();
+            (function () {
+                var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+                s1.async = true;
+                s1.src = 'https://embed.tawk.to/55652e1d19120cff1852a17c/default';
+                s1.charset = 'UTF-8';
+                s1.setAttribute('crossorigin', '*');
+                s0.parentNode.insertBefore(s1, s0);
+            })();
+        </script>
+ 
+ 
+ 
+ 
+<div id="notification-dialog" class="modal fade in" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header" style="padding:5px 15px!important;">
+<button type="button" class="close" data-dismiss="modal">×</button>
+<h4 class="modal-title">Notification</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+</div>
+<div id="conversation-dialog" class="modal fade in" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="listview lv-message" id="fb-conversation-body">
+</div>
+<div class="lv-footer ms-reply" style="border-top:1px solid #F5F5F5">
+<textarea placeholder="Type your message here" id="fb-conversation-message"></textarea>
+<button style="border-bottom-right-radius: 6px; top:0px;" id="fb-conversation-send"><i class="mdi mdi-send"></i></button>
+</div>
+</div>
+</div>
+</div>
+<div id="referrer-dialog" class="modal fade in" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body">
+<div style="text-align: center;width: 50%;float:left;" id="referrer-dialog-image">
+<img src="https://s3-ap-southeast-1.amazonaws.com/brightan-assets/images/others/v1/oops.png" alt="Ooops!!">
+</div>
+<div style="height: 125px;padding: 20px 0;" id="referrer-dialog-oops-text">
+<div style="font-size: x-large;font-weight: 700;color:red;text-align: center;">Ooops!!</div>
+<div style="font-weight: 700;color:red;text-align: center;padding:0 25px;">Nampaknya anda memohon kerja daripada website yang tidak dikenali.</div>
+</div>
+<div style="text-align: center;padding: 10px 0px;font-weight: 700;margin: 10px;">Terus mohon kerja ini melalui Maukerja. Permohonan anda dijamin akan dihantar terus kepada syarikat dan mendapat maklum balas dengan segera.</div>
+<div style="text-align: center;padding: 10px 0px;">
+<button class="btn btn-info featuredapply" style="margin-right:15px;background: #d84448;border-color: #d84448;" data-dismiss="modal" onclick="trackEvent({event: 'Click', key: 'jobstore popup', value: 'okay'});">Okay, got it!</button>
+<button class="btn btn-info featuredapply" style="margin-left:15px;background: #d84448;border-color: #d84448;" onclick="$('#referrer-dialog').modal('hide');showLoginModal();trackEvent({event: 'Click', key: 'jobstore popup', value: 'register'});">Register Now</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="showChatOriginalImage" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body">
+<img id="chatOriginalImage" src="" style="max-width: 100%;">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<script>
+    // show banner only after all images loaded
+    $(window).on("load", function () {
+        if ($('.top-banner-wrapper').length) {
+            //$('.top-banner-wrapper').removeClass('hide');
+            $('.top-banner-wrapper').children().children().show();
+        }
+        var originhost = document.location.origin;
+        if (originhost && originhost != '') {
+            if (originhost.indexOf('maukerja.my') !== -1) {
+                var referrer = document.referrer;
+                if (referrer && referrer != '') {
+                    if (referrer.indexOf('jobstore') !== -1) {
+                        $("#referrer-dialog").modal('show');
+                    }
+                }
+            }
+        }
+    });
+</script>
+;
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6f38d27243","applicationID":"31721486","transactionName":"Z1RXbRMAWRIEAkJYDl4edFoVCFgPSgRYHhFCWENYAhg=","queueTime":0,"applicationTime":134,"atts":"SxNUG1saShw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
