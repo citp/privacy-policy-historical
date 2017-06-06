@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24liveblog.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215170026id_/http%3A//www.24liveblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24liveblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052925id_/http%3A//www.24liveblog.com/privacy) for the most accurate reproduction.*
 
 # 24liveblog - Live Blogging Platform, Live Blog Tool, Liveblog Plugin for Wordpress
 
