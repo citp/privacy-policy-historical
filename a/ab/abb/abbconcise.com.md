@@ -1,71 +1,111 @@
-> *The following text is extracted and transformed from the abbconcise.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229224024id_/http%3A//www.abboptical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbconcise.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152856id_/http%3A//www.abboptical.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ABB Optical
+# Privacy Policy | ABB OPTICAL GROUP
 
-**ABB** OPTICAL GROUP is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the **ABB** OPTICAL GROUP website and governs data collection and usage. By using the **ABB** OPTICAL GROUP website, you consent to the data practices described in this statement.
+**ABB** OPTICAL GROUP (referred to in this Privacy Policy as "ABB", "we", "us" or "our") is committed to protecting your information when you opt to use or access the ABB Service ([abboptical.com](http://www.abboptical.com/), [secure.abbconcise.com](https://secure.abbconcise.com/), [yourlens.com](https://www.yourlens.com/), [secure.yourlens.com](https://secure.yourlens.com/Store), [opticaldg.com](http://www.abboptical.com/log-in), [secure.opticaldg.com](https://secure.opticaldg.com/), [digitaleyelab.com](http://www.abboptical.com/log-in), [secure.digitaleyelab.com](https://secure.digitaleyelab.com/), [abboptical.ca](http://abboptical.ca/), [secure.abboptical.ca](https://secure.abboptical.ca/), [primaryecp.com](https://www.primaryecp.com/) and payments.abboptical.com). This Privacy Policy covers and governs the collection and usage of your data and information by ABB.
 
-### Collection of your Personal Information
+By accessing and using the ABB Service, you agree to be bound by this Privacy Policy, the Website [Terms of Use](https://web.archive.org/terms-of-use), the Terms of Service, and the Terms of Sale, and any future amendments or modifications made to any of these agreements (collectively, the "Agreement").
 
-**ABB** OPTICAL GROUP collects Personally Identifiable Information (PII), such as your e-mail address, name, home or work address or telephone number. **ABB** OPTICAL GROUP also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Any terms not otherwise defined in this Privacy Policy will have the same meaning as defined in the Website [Terms of Use](https://web.archive.org/terms-of-use), the Terms of Service, and the Terms of Sale.
 
-There is also information about your computer hardware and software that is automatically collected by **ABB** OPTICAL GROUP. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by **ABB** OPTICAL GROUP for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the **ABB** OPTICAL GROUP website.
+**_Consent_**
 
-Please keep in mind that if you directly disclose PII or personally sensitive data through **ABB** OPTICAL GROUP public message boards, this information may be collected and used by others. Note: **ABB** OPTICAL GROUP does not read any of your private online communications.
+As part of the Service, we will collect, use, and in some instances disclose information, including personal and sensitive information, about you and your customers. Any information which identifies an individual is treated as personal information, which includes your e-mail address, name, home or work address or telephone number. This personal information, referred to as "PII", may include sensitive information pertaining to health and financial data.
 
-**ABB** OPTICAL GROUP encourages you to review the privacy statements of websites you choose to link to from **ABB** OPTICAL GROUP so that you can understand how those websites collect, use and share your information. **ABB** OPTICAL GROUP is not responsible for the privacy statements or other content on websites outside of the **ABB** OPTICAL GROUP and **ABB** OPTICAL GROUP family of websites.
+**By accessing and using the Service, You hereby consent to our collection and use of your, or your customers’, personal and sensitive information including any PII based on the terms and conditions in this Privacy Policy and the[Terms of Use](https://web.archive.org/terms-of-use) and Terms of Sale.**
 
-### Use of your Personal Information
+**If you do not wish to grant us consent to the collection and use of your information, which for purposes of this Privacy Policy, includes your customers’ information, as described and explained in this Privacy Policy, please, _do not use the Service._**
 
-**ABB** OPTICAL GROUP collects and uses your personal information to operate the **ABB** OPTICAL GROUP website and deliver the services you have requested. **ABB** OPTICAL GROUP also uses your PII to inform you of other products or services available from **ABB** OPTICAL GROUP and its affiliates. **ABB** OPTICAL GROUP may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+**_Collection of Your Information_**
 
-**ABB** OPTICAL GROUP does not sell, rent or lease its customer lists to third parties. **ABB** OPTICAL GROUP may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your PII is not transferred to the third party. In addition, **ABB** OPTICAL GROUP may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to **ABB** OPTICAL GROUP, and they are required to maintain the confidentiality of your information.
+ABB collects PII and other information about you and your customers. ABB also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-**ABB** OPTICAL GROUP does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+There is also information about your computer hardware and software that is automatically collected by ABB. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by ABB for the operation of the Service, to maintain quality of the Service, and to provide general statistics regarding use of the ABB Service.
 
-**ABB** OPTICAL GROUP keeps track of the websites and pages our customers visit within the **ABB** OPTICAL GROUP websites in order to determine what **ABB** OPTICAL GROUP services are the most popular. This data is used to deliver customized content and advertising within **ABB** OPTICAL GROUP to customers whose behavior indicates that they are interested in a particular subject area.
+Please keep in mind that if you directly disclose any information, including any PII through ABB public message boards, this information may be collected and used by others and is public. ABB does not however read any of your private online communications.
 
-**ABB** OPTICAL GROUP websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on **ABB** OPTICAL GROUP or the site; (b) protect and defend the rights or property of **ABB** OPTICAL GROUP; and, (c) act under exigent circumstances to protect the personal safety of users of **ABB** OPTICAL GROUP, or the public.
+**_Use of Your Information_**
 
-### Use of Cookies
+ABB collects and uses your PII and other information to operate the ABB Service. ABB also uses your information to inform you of other products or services available from ABB and its affiliates. ABB may contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered from time to time. You may opt out of these notifications at any time by notifying ABB via the Contract details below.
 
-The **ABB** OPTICAL GROUP website uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+ABB does not sell, rent or lease its customer lists to third parties. ABB may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your information is not transferred to the third party. In addition, ABB may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries or as otherwise required to perform the Service. All such third parties are prohibited from using your PII except for purposes of the Service, and they are required to maintain the confidentiality of your information.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize **ABB** OPTICAL GROUP pages, or register with **ABB** OPTICAL GROUP site or services, a cookie helps **ABB** OPTICAL GROUP to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same **ABB** OPTICAL GROUP website, the information you previously provided can be retrieved, so you can easily use the **ABB** OPTICAL GROUP features that you customized.
+ABB does not use or information about your race, religion, or political affiliations, without your explicit consent.
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the **ABB** OPTICAL GROUP services or websites you visit.
+ABB may, in its discretion, track the websites, links and pages our customers visit in connection with the ABB Service to further improve its offerings and overall Service. This data may also be used to deliver customized content and advertising within ABB to our customers whose behavior indicates that they are interested in a particular subject area.
 
-### Security of your Personal Information
+ABB will only disclose your PII, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on ABB or the site; (b) protect and defend the rights or property of ABB; or, (c) act under exigent circumstances to protect the personal safety of users of ABB, or the public.
 
-**ABB** OPTICAL GROUP secures your personal information from unauthorized access, use or disclosure. **ABB** OPTICAL GROUP secures the PII you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as Transport Layer Security (TLS 1.2) protocol.
+**_Third Party Links and Websites_**
 
-### Credit Card Payment and Payment Information
+We are not responsible for the practices employed by websites or services linked to or from the ABB Service, including any links or websites provided within or via the ABB Service. Please remember that when you use a link to go from the Service to another website, app or service, our Privacy Policy does not apply to such third-party website, app, or service and your browsing and interaction is subject to that third party’s own rules and policies, and we strongly encourage you to read their privacy policies so that you know how that third party will collect and use your information. ABB is not responsible for and we do not exercise control over any such third-parties that you authorize to access your User information. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
 
-YourLens.com does not capture or store your credit card information. The transactional ordering process utilizes a payment gateway (CyberSource) wherein Secure Acceptance accepts payments from the web and mobile browsers without payment data entering the Yourlens.com system. Payments are accepted using Point-to-Point Encryption (P2PE) and Payment Tokenization thus avoiding the storing of payment data. Payment Authorization Tokens are held until Payment Settlement.
+As part of this Service, we may disclose your information, including any personal information, to your doctor or eye care center to communicate events, promotions, or other treatment or marketing information. You may revoke your consent to receive marketing information or promotional events at any time by notifying us as described below.
 
-### Password Policy
+**_Use of Cookies_**
 
-We protect your password information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration of passwords. Some of the safeguards we use are strong password validation, temporary password reset procedures, and encryption of passwords when stored.
+The ABB Service uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize ABB pages, or register with the ABB Service, a cookie helps ABB to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same ABB Service, the information you previously provided can be retrieved, so you can easily use the ABB features that you customized.
+
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, do be aware that you may not be able to fully experience the interactive features of the ABB services or websites you visit.
+
+**_Security of Your Information_**
+
+ABB uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your Account, or when personal information (such as a credit card number) is transmitted by ABB to other websites or services, it is protected through the use of encryption, such as Transport Layer Security (TLS 1.2) protocol. You are responsible for maintaining the secrecy of your Log-IN Information and Account information, and for controlling access to your email communications from ABB, at all times. Although ABB will utilize all these measures, it cannot ensure or warrant the security of any information you transmit to ABB or guarantee that information on the Service may not be accessed, disclosed, altered.
+
+**Be aware, vulnerabilities may be introduced via your browser configurations or operating systems where ABB will not be liable or responsible, especially when such browser configuration or operating are not current, up to date or supported. In such a case, regardless of anything to the contrary in the Agreement including this Privacy Policy, we cannot guarantee that your information, including your personal information or data, will be secure because security threats and vulnerabilities may result from such configurations and systems for which ABB cannot protect against or control whatsoever.**
+
+**_Compromise of Information_**
+
+In the event that any of your information under our control is compromised as a result of a breach of security, ABB will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+
+**_Credit Card Payment and Payment Information_**
+
+The transactional ordering process of the Service utilizes a payment gateway (CyberSource) wherein Secure Acceptance accepts payments from the web and mobile browsers without you having to enter payment data into the Service. Payments are accepted using Point-to-Point Encryption (P2PE) and Payment Tokenization thus avoiding the storing of payment data on the Service. Payment Authorization Tokens are held until payment settlement. The specific terms governing payment and the purchase of any products or services via the Service are set forth under the Terms of Sale.
+
+**_Password Policy_**
+
+We protect your password information using technical and administrative security measures which are designed to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration of passwords. Some of the safeguards we use are strong password validation, temporary password reset procedures, and encryption of passwords when stored.
 
 Passwords must be a minimum of 8 characters in length, contain a mix of upper case, lower case, at least one numeric and at least one special character.
 
-If more than six failed login attempts are made to an account, a password lockout threshold is reached and the account will be locked for twenty (20) minutes. After twenty (20) minutes the account is reset and the failed attempts are cleared. During the lockout period you will NOT be able to login or reset your password.
+If more than six failed login attempts are made to an Account, a password lockout threshold is reached and the Account will be locked for twenty (20) minutes. After twenty (20) minutes the Account is reset and the failed attempts are cleared. During the lockout period you will NOT be able to login or reset your password.
 
-Password reset requires user account validation wherein an email is sent, to the email address on file, with a temporary password. The temporary password is valid for a set period of time during which a user must login to their account and reset their password.
+Password reset requires User Account validation wherein an email is sent, to the email address on file, with a temporary password. The temporary password is valid for a set period of time during which a User must login to their account and reset their password.
 
-### User Password Management:
+**_User Password Management_**
 
-  * Users should never share their passwords with anyone else
-  * Users should never share their passwords with any outside parties, including those claiming to be representatives of a business with a legitimate need to access user information
-  * Users should take steps to avoid phishing scams and other attempts by hackers to steal passwords and other sensitive information
-  * Users must refrain from writing passwords down and keeping them accessible
-  * Users should not use password managers or other tools to help store and remember passwords
+  * Users should never share their passwords with anyone else.
+  * Users should never share their passwords with any outside parties, including those claiming to be representatives of a business with a legitimate need to access user information.
+  * Users should take steps to avoid phishing scams and other attempts by hackers to steal passwords and other sensitive information.
+  * Users must refrain from writing passwords down and keeping them accessible.
+  * Users should not use password managers or other tools to help store and remember passwords.
+  * **If you are entity who has permitted representatives or personnel to manage your Service or Account or given access to your Account to such persons, and if that representative or personnel should no longer have access to your Account or your Log-in Information (because the relationship with that person has terminated or otherwise), _you are strongly encouraged to immediately change your Log-in Information._** You are and will be responsible for any and all activities which occur on or in connection with your Account.
 
 
 
-### Changes to this Statement
+**_Disclosure of Personal Information to Third Parties_**
 
-**ABB** OPTICAL GROUP will occasionally update this Statement of Privacy to reflect company and customer feedback. **ABB** OPTICAL GROUP encourages you to periodically review this Statement to be informed of how **ABB** OPTICAL GROUP is protecting your information.
+We may disclose your information, including any personal or sensitive information, in order to combat fraud, where permitted or required by law, or at the request of government regulators. We may also disclose your information, including any personal or sensitive information, to third parties acting on behalf of ABB to assist us in processing or completing your order, shipment, or payment or as otherwise required as part of the Service.
 
-### Contact Information
+We may use third parties in the course of business, such as to provide shipping or payment processing or to facilitate to provision of the Service. Your information may be shared with such parties, but only to the extent necessary for performing the relevant Service. We do require that our affiliates, vendors and partners make all efforts to protect Users personal information in line with our protections and all applicable laws and regulations.
 
-**ABB** OPTICAL GROUP welcomes your comments regarding this Statement of Privacy. If you believe that **ABB** OPTICAL GROUP has not adhered to this Statement, please contact **ABB** OPTICAL GROUP at [eSolutions@abbconcise.com](mailto:eSolutions@abbconcise.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+**_Children's Privacy_**
+
+ABB does not knowingly collect or solicit personal information from children under the age of 13 and the Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us via the Contact details below.
+
+**_Access to Your Information_**
+
+You can obtain access to your PII we collect and retain in accordance with local applicable law when you provide us with proper identification and proof of entitlement, which is required for your protection. You may request access to or correction of any of your personal information held by us at any time. Please note that in such a case, we may charge a reasonable fee for copying and sending the information requested.
+
+**_Changes to this Statement_**
+
+We will occasionally update this Privacy Policy to reflect company and User feedback. We encourage you to periodically review this Privacy Policy to be informed of how we are collecting, storing, using, disclosing and protecting your information.
+
+**_Contacting ABB_**
+
+If you would like to request that we no longer access or use your information, would like to request that you no longer receive marketing information from us or our third parties, would like to access your information, or would like to correct your information, or for any other reason relating to this Privacy Policy, please contact ABB via the means below. ABB will respond to such requests within a reasonable time period.
+
+− Fax Number: 855-894-6708  
+− Email Address: [eSolutions@abbconcise.com](mailto:eSolutions@abbconcise.com)
