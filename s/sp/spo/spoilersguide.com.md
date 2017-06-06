@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoilersguide.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127021406id_/http%3A//www.spoilersguide.com/about-us/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoilersguide.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100255id_/http%3A//www.spoilersguide.com/about-us/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms Of Use | Spoilers Guide
 
