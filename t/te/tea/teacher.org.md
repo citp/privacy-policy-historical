@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacher.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130215014id_/http%3A//www.teacher.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacher.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121127id_/http%3A//www.teacher.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teacher.org
 
@@ -304,7 +304,3 @@ Esyoh, LLC
 Attn: Privacy Policy  
 2647 Gateway Rd., Ste. 105-409  
 Carlsbad, CA 92009.
-
-## WANT TO ADVERTISE YOUR EDUCATION / TEACHING PROGRAM?
-
-You can get in touch with us via email at [editor@teacher.org](mailto:editor@teacher.org).
