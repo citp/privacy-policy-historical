@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bangaloremirror.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803172242id_/http%3A//www.bangaloremirror.com/privacypolicy.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangaloremirror.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042929id_/http%3A//bangaloremirror.indiatimes.com/privacypolicy.cms) for the most accurate reproduction.*
 
-# Bangalore News – Latest & Breaking Bangalore News | Bangalore Mirror
+# Privacy Policy: Bangalore Mirror
 
 Times Internet Limited, (“TIL”) is a subsidiary of Bennett Coleman & Co. Limited and powers / manages bangaloremirror.com (the “Site”) 
 
