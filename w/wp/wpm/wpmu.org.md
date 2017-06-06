@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024080744id_/http%3A//incsub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212113id_/http%3A//incsub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WPMU DEV, Edublogs, CampusPress – Incsub
+# Privacy Policy | WPMU DEV, Edublogs, CampusPress - Incsub
 
 Your privacy is critically important to us. At Incsub we have a few fundamental principles:
 
