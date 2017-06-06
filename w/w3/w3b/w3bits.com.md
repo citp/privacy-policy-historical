@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3bits.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084455id_/http%3A//w3bits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3bits.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161309id_/http%3A//w3bits.com/privacy) for the most accurate reproduction.*
 
 # Privacy - W3Bits
 
