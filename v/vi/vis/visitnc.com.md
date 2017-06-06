@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204101005id_/https%3A//www.visitnc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183839id_/https%3A//www.visitnc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | VisitNC.com
 
@@ -62,7 +62,7 @@ The VisitNC.com website contains links to other sites and we attempt to only lin
 
 ###  Copyright
 
-© 2016 Visit North Carolina.
+© 2017 Visit North Carolina.
 
 ###  Contact Information
 
