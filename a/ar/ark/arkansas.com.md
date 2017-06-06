@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502135742id_/http%3A//www.arkansas.com/support/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151137id_/http%3A//www.arkansas.com/support/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Arkansas.com Privacy Policy - Arkansas Tourism
 
 ## About Us
 
-This is a privacy policy for the Arkansas Department of Parks and Tourism and its entities. Our homepage on the Web is located at [http://www.arkansas.com](http://arkansas.com/). This policy was created to meet the requirements of Arkansas Act 1713 of 2003. 
+This is a privacy policy for the Arkansas Department of Parks and Tourism and its entities. Our homepage on the Web is located at [https://www.arkansas.com](https://www.arkansas.com/). This policy was created to meet the requirements of Arkansas Act 1713 of 2003. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
