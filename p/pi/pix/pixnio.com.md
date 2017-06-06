@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixnio.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204183124id_/http%3A//www.pixnio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixnio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193459id_/http%3A//www.pixnio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
