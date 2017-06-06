@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the steamykitchen.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119050055id_/http%3A//steamykitchen.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the steamykitchen.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606054359id_/http%3A//steamykitchen.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]--><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -39,9 +39,16 @@
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Steamy Kitchen Recipes » Privacy Policy Comments Feed" href="http://steamykitchen.com/privacy-policy/feed">
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/steamykitchen.com\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/steamykitchen.com\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/steamykitchen.com\/wp-includes\/js\/wp-emoji.js?ver=4.7.5","twemoji":"http:\/\/steamykitchen.com\/wp-includes\/js\/twemoji.js?ver=4.7.5"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -49,18 +56,19 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
-		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' ),
-			stringFromCharCode = String.fromCharCode,
-			flag, flag2, tonedata, tone, tone2;
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, technologist, technologist2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
 
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
@@ -75,13 +83,13 @@
 				/*
 				 * This works because the image will be one of three things:
 				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
-				 * - The Australian flag
+				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
+				 * - The United Nations flag
 				 *
 				 * The first two will encode to small images (1-2KB data URLs), the third will encode
 				 * to a larger image (4-5KB data URL).
 				 */
-				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
 				if ( canvas.toDataURL().length < 3000 ) {
 					return false;
 				}
@@ -105,45 +113,23 @@
 				flag2 = canvas.toDataURL();
 
 				return flag !== flag2;
-			case 'diversity':
+			case 'emoji4':
 				/*
-				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
-				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
-				 * compares if the emoji rendering has changed.
+				 * Emoji 4 has the best technologists. So does WordPress!
+				 *
+				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (woman technologist: medium skin tone + personal computer).
 				 */
-				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
+				technologist = canvas.toDataURL();
 
-				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
-				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
-				// So, we create our own string and compare that, instead.
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.clearRect( 0, 0, canvas.width, canvas.height );
 
-				return tone !== tone2;
-			case 'simple':
-				/*
-				 * This creates a smiling emoji, and checks to see if there is any image data in the
-				 * center pixel. In browsers that don't support emoji, the character will be rendered
-				 * as an empty square, so the center pixel will be blank.
-				 */
-				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode8':
-				/*
-				 * To check for Unicode 8 support, let's try rendering the most important advancement
-				 * that the Unicode Consortium have made in years: the burrito.
-				 */
-				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode9':
-				/*
-				 * Do Unicode 9 emoji render?
-				 * ¯\_(ツ)_/¯
-				 */
-				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
+				technologist2 = canvas.toDataURL();
+
+				return technologist !== technologist2;
 		}
 
 		return false;
@@ -153,11 +139,11 @@
 		var script = document.createElement( 'script' );
 
 		script.src = src;
-		script.type = 'text/javascript';
+		script.defer = script.type = 'text/javascript';
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
+	tests = Array( 'flag', 'emoji4' );
 
 	settings.supports = {
 		everything: true,
@@ -209,14 +195,14 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://steamykitchen.com/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://steamykitchen.com/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
+		</script><script src="http://steamykitchen.com/wp-includes/js/twemoji.js?ver=4.7.5" type="text/javascript" defer=""></script><script src="http://steamykitchen.com/wp-includes/js/wp-emoji.js?ver=4.7.5" type="text/javascript" defer=""></script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
 <link rel="stylesheet" id="itempropwp-css" href="http://steamykitchen.com/wp-content/plugins/itempropwp/assets/css/itempropwp.css?ver=3.5.201610051" type="text/css" media="all">
 <link rel="stylesheet" id="sk-giveaways-content-css" href="http://steamykitchen.com/wp-content/plugins/sk-giveaways/content/css/skg-content.css" type="text/css" media="all">
-<link rel="stylesheet" id="ext-widget-opts-css" href="http://steamykitchen.com/wp-content/plugins/widget-options/assets/css/extended-widget-options.css" type="text/css" media="all">
+<link rel="stylesheet" id="widgetopts-styles-css" href="http://steamykitchen.com/wp-content/plugins/widget-options/assets/css/widget-options.css" type="text/css" media="all">
 <link rel="stylesheet" id="custom-style-css" href="http://steamykitchen.com/wp-content/themes/steamykitchen2016/style.css?ver=1.97" type="text/css" media="all">
 <link rel="stylesheet" id="responsive-style-css" href="http://steamykitchen.com/wp-content/themes/steamykitchen2016/responsive.css?ver=1.97" type="text/css" media="all">
-<script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js?ver=4.7.5"></script>
 <script type="text/javascript" src="http://steamykitchen.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://steamykitchen.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
 <script type="text/javascript" src="http://steamykitchen.com/wp-content/themes/steamykitchen2016/js/jquery.slicknav.min.js?ver=1"></script>
@@ -227,7 +213,7 @@
 <link rel="alternate" type="application/json+oembed" href="http://steamykitchen.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsteamykitchen.com%2Fprivacy-policy">
 <link rel="alternate" type="text/xml+oembed" href="http://steamykitchen.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsteamykitchen.com%2Fprivacy-policy&amp;format=xml">
 </head>
-<body class="page page-id-9308 page-template-default">
+<body class="page-template-default page page-id-9308">
 <div id="page_wrap" class="container row">
 <div class="top-bar">
 <div class="wrap">
@@ -333,7 +319,8 @@
 <li>To administer a contest, promotion, survey or other site feature</li>
 <li>To send periodic emails</li>
 </ul>
-<blockquote><p>The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.</p>
+<blockquote>
+<p>The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.</p>
 </blockquote>
 <p>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>
 <p><strong>Do we use cookies?</strong></p>
@@ -381,31 +368,31 @@
 </div><div id="text-446662858" class="widget widget_text"> <div class="textwidget"><div class="sidebaradsecond"></div></div>
 </div><div id="custom-recent-posts-2" class="widget recentposts"><h3 class="widget-title">Most Recent Posts</h3><div class="recent">
 <div class="item">
-<a href="http://steamykitchen.com/42985-citrus-salad-crispy-quinoa.html" title="Citrus Salad with Crispy Quinoa" data-wpel-link="internal">
-<img width="180" height="220" src="http://steamykitchen.com/wp-content/uploads/2016/11/citrus-salad-with-crispy-quinoa-recipe--180x220.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="How to make crispy quinoa" srcset="http://steamykitchen.com/wp-content/uploads/2016/11/citrus-salad-with-crispy-quinoa-recipe--180x220.jpg 180w, http://steamykitchen.com/wp-content/uploads/2016/11/citrus-salad-with-crispy-quinoa-recipe--360x440.jpg 360w" sizes="(max-width: 180px) 100vw, 180px">
-<h4>Citrus Salad with Crispy Quinoa</h4>
-<div class="post-meta">November 15, 2016</div>
+<a href="http://steamykitchen.com/44052-four-essential-salad-dressings-recipes.html" title="Four Essential Salad Dressings Recipes" data-wpel-link="internal">
+<img width="180" height="220" src="http://steamykitchen.com/wp-content/uploads/2017/05/Four-Essential-Salad-Dressings-Recipe-feature-180x220.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://steamykitchen.com/wp-content/uploads/2017/05/Four-Essential-Salad-Dressings-Recipe-feature-180x220.jpg 180w, http://steamykitchen.com/wp-content/uploads/2017/05/Four-Essential-Salad-Dressings-Recipe-feature-360x440.jpg 360w" sizes="(max-width: 180px) 100vw, 180px">
+<h4>Four Essential Salad Dressings Recipes</h4>
+<div class="post-meta">May 11, 2017</div>
 </a>
 </div>
 <div class="item">
-<a href="http://steamykitchen.com/42967-how-to-make-crispy-quinoa.html" title="How to Make Crispy Quinoa Without Oil" data-wpel-link="internal">
-<img width="180" height="220" src="http://steamykitchen.com/wp-content/uploads/2016/11/how-to-make-crispy-quinoa-7193-2-180x220.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="How to make crispy quinoa without oil" srcset="http://steamykitchen.com/wp-content/uploads/2016/11/how-to-make-crispy-quinoa-7193-2-180x220.jpg 180w, http://steamykitchen.com/wp-content/uploads/2016/11/how-to-make-crispy-quinoa-7193-2-360x440.jpg 360w" sizes="(max-width: 180px) 100vw, 180px">
-<h4>How to Make Crispy Quinoa Without Oil</h4>
-<div class="post-meta">November 15, 2016</div>
+<a href="http://steamykitchen.com/43978-chicken-coop-customer-pictures.html" title="Chicken Coop Customer Pictures" data-wpel-link="internal">
+<img src="http://steamykitchen.com/wp-content/themes/steamykitchen2016/images/default.png" alt="Chicken Coop Customer Pictures">
+<h4>Chicken Coop Customer Pictures</h4>
+<div class="post-meta">May 5, 2017</div>
 </a>
 </div>
 <div class="item">
-<a href="http://steamykitchen.com/42839-yangzhou-fried-rice-recipe.html" title="Yangzhou Fried Rice Recipe" data-wpel-link="internal">
-<img width="180" height="220" src="http://steamykitchen.com/wp-content/uploads/2016/10/yangzhou-fried-rice-recipe-062-180x220.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="yangzhou-fried-rice-recipe-062" srcset="http://steamykitchen.com/wp-content/uploads/2016/10/yangzhou-fried-rice-recipe-062-180x220.jpg 180w, http://steamykitchen.com/wp-content/uploads/2016/10/yangzhou-fried-rice-recipe-062-360x440.jpg 360w" sizes="(max-width: 180px) 100vw, 180px">
-<h4>Yangzhou Fried Rice Recipe</h4>
-<div class="post-meta">October 24, 2016</div>
+<a href="http://steamykitchen.com/43914-make-mongolian-bbq-home.html" title="How to Make Mongolian BBQ at Home" data-wpel-link="internal">
+<img width="180" height="220" src="http://steamykitchen.com/wp-content/uploads/2017/04/mongolian-bbq-recipe-at-home-180x220.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://steamykitchen.com/wp-content/uploads/2017/04/mongolian-bbq-recipe-at-home-180x220.jpg 180w, http://steamykitchen.com/wp-content/uploads/2017/04/mongolian-bbq-recipe-at-home-360x440.jpg 360w" sizes="(max-width: 180px) 100vw, 180px">
+<h4>How to Make Mongolian BBQ at Home</h4>
+<div class="post-meta">April 18, 2017</div>
 </a>
 </div>
 <div class="item">
-<a href="http://steamykitchen.com/42808-refrigerate-tomatoes.html" title="The only time you should refrigerate tomatoes" data-wpel-link="internal">
-<img width="180" height="220" src="http://steamykitchen.com/wp-content/uploads/2016/10/refrigerate-tomatoes-180x220.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="refrigerate-tomatoes" srcset="http://steamykitchen.com/wp-content/uploads/2016/10/refrigerate-tomatoes-180x220.jpg 180w, http://steamykitchen.com/wp-content/uploads/2016/10/refrigerate-tomatoes-360x440.jpg 360w" sizes="(max-width: 180px) 100vw, 180px">
-<h4>The only time you should refrigerate tomatoes</h4>
-<div class="post-meta">October 20, 2016</div>
+<a href="http://steamykitchen.com/43567-roasted-vegetable-buddha-bowl.html" title="Roasted Vegetable Buddha Bowl" data-wpel-link="internal">
+<img width="180" height="220" src="http://steamykitchen.com/wp-content/uploads/2017/02/roasted-vegetable-buddha-bowl-recipe-7839-180x220.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://steamykitchen.com/wp-content/uploads/2017/02/roasted-vegetable-buddha-bowl-recipe-7839-180x220.jpg 180w, http://steamykitchen.com/wp-content/uploads/2017/02/roasted-vegetable-buddha-bowl-recipe-7839-360x440.jpg 360w" sizes="(max-width: 180px) 100vw, 180px">
+<h4>Roasted Vegetable Buddha Bowl</h4>
+<div class="post-meta">February 24, 2017</div>
 </a>
 </div>
 </div>
@@ -449,7 +436,7 @@
 <div class="right">
 <a href="#" class="top" data-wpel-link="internal">Back to top</a>
 </div>
-<ul id="menu-footer" class="menu"><li id="menu-item-42587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42587"><a href="http://steamykitchen.com/" data-wpel-link="internal">Home</a></li>
+<ul id="menu-footer" class="menu"><li id="menu-item-42587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-42587"><a href="http://steamykitchen.com/" data-wpel-link="internal">Home</a></li>
 <li id="menu-item-42588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42588"><a href="http://steamykitchen.com/recipe-index" data-wpel-link="internal">Recipe Index</a></li>
 <li id="menu-item-42589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42589"><a href="http://steamykitchen.com/about-2" data-wpel-link="internal">About</a></li>
 <li id="menu-item-42590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42590"><a href="http://steamykitchen.com/steamy-kitchen-cookbook" data-wpel-link="internal">Cookbooks</a></li>
@@ -474,7 +461,7 @@
 <p class="logo">
 <a href="http://steamykitchen.com" data-wpel-link="internal"></a>
 </p>
-<p><strong>©2016 Steamy Kitchen Recipes. All Rights Reserved.</strong><br>
+<p><strong>©2017 Steamy Kitchen Recipes. All Rights Reserved.</strong><br>
 </p><ul id="menu-footer-menu" class="menu"><li id="menu-item-37862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37862"><a href="http://steamykitchen.com/terms-conditions" data-wpel-link="internal">Terms &amp; Conditions</a></li>
 <li id="menu-item-37861" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9308 current_page_item menu-item-37861"><a href="http://steamykitchen.com/privacy-policy" data-wpel-link="internal">Privacy Policy</a></li>
 <li id="menu-item-37860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37860"><a href="http://steamykitchen.com/official-giveaway-rules" data-wpel-link="internal">Official Giveaway Rules</a></li>
@@ -483,15 +470,19 @@
 <p><strong>Design by <a href="http://www.purrdesign.com" target="_blank" data-wpel-link="external" rel="external noopener noreferrer">Purr</a>.</strong></p>
  
  
- <script>
+ 
+ 
+<script> var amzn_ps_tracking_id = "steakitc-20"; </script>
+<script async="true" type="text/javascript" src="//ps-us.amazon-adsystem.com/scripts/US/studio.js"></script><script>
 	jQuery(function($) {
 		$('#main').slicknav({
 			closedSymbol: '',
 			openedSymbol: '',
 		});
 	});
-	</script><script type="text/javascript" src="http://steamykitchen.com/wp-includes/js/comment-reply.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://steamykitchen.com/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
+	</script><script type="text/javascript" src="http://steamykitchen.com/wp-includes/js/comment-reply.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://steamykitchen.com/wp-includes/js/wp-embed.js?ver=4.7.5"></script>
 <script type="text/javascript" src="https://kh209.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=c76a667692e484956fa222b51354098e"></script></div> 
 </div>
-</body></html>
+
+ </body></html>
