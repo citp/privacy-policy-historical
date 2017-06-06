@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolhomepages.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206162214id_/http%3A//coolhomepages.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolhomepages.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060549id_/http%3A//coolhomepages.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CoolHomepages
 
