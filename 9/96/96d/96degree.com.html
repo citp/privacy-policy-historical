@@ -1,120 +1,622 @@
-<!--The following is the downloaded HTML source of the 96degree.com privacy policy that was archived on 2016-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161106072036id_/https%3A//www.96degree.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 96degree.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606182755id_/https%3A//www.96degree.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="https://embed.tawk.to/57877f9951020a1a24891fd2/default" charset="UTF-8" crossorigin="*"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<meta name="description" content="WWW.96DEGREE.COM is an open social trading network connecting Forex traders and brokers worldwide.">
-<meta name="keywords" content="forex, trading, social, network, currency, meta trader, mt4">
-<link rel="shortcut icon" href="/favicon_bg.ico" type="image/x-icon">
-<link rel="icon" href="/favicon_bg.ico" type="image/x-icon">
-<title>Privacy Policy</title>
-<link href="https://www.96degree.com/css/mini-common.php" rel="stylesheet" type="text/css">
-<link href="https://www.96degree.com/css/mini.php?f=,login" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="96DEGREE Privacy Policy">
+    <meta name="keywords" content="privacy policy, forex, trading, social, network, currency, meta trader, mt4">
 
-<script type="text/javascript"> var base_url = "https://www.96degree.com/"; </script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.96degree.com/js/jquery-ui-1.9.2.custom.min.js"></script>
-<script type="text/javascript" src="https://www.96degree.com/js/mini-common.php"></script>
-<!--[if lte IE 8]><script type="text/javascript" src="https://www.96degree.com/js/standard.ie.js"></script><![endif]-->
+    
+    <link rel="shortcut icon" href="https://www.96degree.com/sources/96degree/images/favicon.ico" type="image/x-icon">
+    <title>96DEGREE - Privacy Policy</title>
+    <link href="https://www.96degree.com/css_new/inspinia/bootstrap.css" rel="stylesheet" type="text/css">
 
-<script>
+    <link href="https://www.96degree.com/css_new/inspinia/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://www.96degree.com/css_new/inspinia/plugins/blueimp/css/blueimp-gallery.min.css" rel="stylesheet">
+    <link href="https://www.96degree.com/css_new/inspinia/font-awesome/css/font-awesome.css" rel="stylesheet">
+    <link href="https://www.96degree.com/css_new/mini-common.php" rel="stylesheet" type="text/css">
+    <link href="https://www.96degree.com/css_new/inspinia/sources/96degree/style.css" rel="stylesheet" type="text/css">
+    <link href="https://www.96degree.com/css_new/inspinia/sources/96degree/custom-global.css" rel="stylesheet" type="text/css">
+    <link href="https://www.96degree.com/css_new/mini.php?f=inspinia/plugins/summernote/summernote,inspinia/plugins/summernote/summernote-bs3,login" rel="stylesheet" type="text/css">
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://embed.tawk.to/57877f9951020a1a24891fd2/default" charset="UTF-8" crossorigin="*"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript"> var base_url = "https://www.96degree.com/"; </script>
+    <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-81636150-1', 'auto');
+  ga('create', 'UA-93047597-1', 'auto');
   ga('send', 'pageview');
 
 </script>
 </head>
-<body class="">
-<input type="hidden" name="lastTime" id="lastTime" value="1478416839" autocomplete="off">
-<div class="navbar">
-    <div class="container_30 clearfix">
-        <div class="grid_30">
-            <a class="logo" href="https://www.96degree.com/" style="margin-top: 5px"><img src="https://www.96degree.com/images/logo.png"></a>
-            <ul class="nav-btns">
-				                <li><a class="" href="https://www.96degree.com/" title="What is WWW.96DEGREE.COM">About</a></li>
-                <li><a class="" href="https://www.96degree.com/traders" title="Traders">Traders</a></li>
-                <li><a class="" href="https://www.96degree.com/help" title="Help and FAQs">Help</a></li>
-                <li><a class="" href="https://www.96degree.com/contact" title="Contact">Contact</a></li>
-                            </ul>
-           
-            <ul id="nav-items">    
-                                    <li class="form" style="margin-top:-2px">
-	                    <input id="login_username" name="login_username" class="bold" type="text" placeholder="Email or Username">
-                    </li>
-                    <li class="form spaced" style="margin-top:-2px">
-	                    <input id="login_password" name="login_password" class="bold" type="password" placeholder="Password">
-                    </li>                    
-                    <li style="margin-top:-3px">
-	                    <button id="login_button" class="btn">Log In</button>
-                    </li>
-                    <li>
-                        <span style="color: #EEE; font-size: 13px; padding: 8px 5px; top: 4px; position: relative;">or</span>
-                    </li>
-                    <li style="margin-top:-3px">
-                        <button id="nav-register" class="btn">Register</button>
-                    </li>
-                            </ul>
+<body class="top-navigation fixed-nav-basic ">
+<input type="hidden" name="lastTime" id="lastTime" value="1496773676" autocomplete="off">
+<!-- start wrapper -->
+<div id="loader" class="load-bar" style="display: none;">
+    <div class="bar"></div>
+    <div class="bar"></div>
+</div>
+<div id="wrapper">
+    <div id="page-wrapper" class="gray-bg">
+<div class="row border-bottom white-bg" style="margin-bottom: 40px; ">
+    <nav class="navbar navbar-fixed-top white-bg" role="navigation" style="border-bottom: solid #D9EFFC 1px !important;">
+        <div class="navbar-header pull-left">
+            <a href="https://www.96degree.com/"><img class="c-hidden-1400 main-color" style="height: 50px;" src="https://www.96degree.com/sources/96degree/images/logo/logo.png"></a>
+            <a href="https://www.96degree.com/"><img class="c-show-1400 main-color" style="display:none; height: 50px;" src="https://www.96degree.com/sources/96degree/images/logo/logo_small.png"></a>
+        </div>
+        <div class="navbar-header pull-right">
+            <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed c-nav-toogle" type="button">
+                <i class="material-icons">reorder</i>
+            </button>
+        </div>
+
         
+        <!-- languages -->
+        <div id="site-lang" title="English" data-lang="en" class="dropdown pull-right c-hidden-xxs c-nav-padding8">
+            <button aria-expanded="false" class="btn btn-default dropdown-toggle c-dropdown-toggle-lang" data-toggle="dropdown" style="padding: 3px 12px"><i class="material-icons">language</i> <span class="caret"></span></button>
+            <ul role="menu" class="dropdown-menu">
+                                    <li class="active"><a href="?language=en"><span>English</span></a></li>
+                                    <li class=""><a href="?language=ar"><span>العربية</span></a></li>
+                            </ul>
+        </div>
+        <!-- end languages -->
+                <div class="pull-right c-nav-padding8">
+            <a href="https://www.96degree.com/account/signin" type="button" class="btn btn-outline btn-warning">Login</a> or            <a href="https://www.96degree.com/account/register" type="button" class="btn btn-outline btn-success">Register</a>
+        </div>
+        
+                <div class="navbar-collapse collapse pull-left c-navbar-collapse" id="navbar">
+    <ul class="nav navbar-nav main-menu">
+                    <!--<li class="">
+                <a role="button" href="about" title="">  </a>
+            </li>-->
+            <li class="">
+                <a role="button" href="https://www.96degree.com/traders" title="Traders"> Find Top Traders </a>
+            </li>
+                        <li class="">
+                <a role="button" href="https://www.96degree.com/contact" title="Contact"> Contact </a>
+            </li>
+            <li class="">
+                <a role="button" href="https://www.96degree.com/news" title="96DEGREE News"> 96DEGREE News </a>
+            </li>
+            </ul>
+</div>    </nav>
+        </div>
+
+<div id="content" class="wrapper wrapper-content c-wrapper-content">
+    <div class="row">
+        <div class="ibox col-xs-12 col-md-9 pull-center">
+            <div class="ibox-title">
+                <h1>96DEGREE - Privacy Policy</h1>
+            </div>
+            <div class="ibox-content">
+                    <div>
+        <div class="wrapper p-md">
+            
+        <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves></w:TrackMoves>
+  <w:TrackFormatting></w:TrackFormatting>
+  <w:PunctuationKerning></w:PunctuationKerning>
+  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF></w:DoNotPromoteQF>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables></w:BreakWrappedTables>
+   <w:SnapToGridInCell></w:SnapToGridInCell>
+   <w:WrapTextWithPunct></w:WrapTextWithPunct>
+   <w:UseAsianBreakRules></w:UseAsianBreakRules>
+   <w:DontGrowAutofit></w:DontGrowAutofit>
+   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark>
+   <w:EnableOpenTypeKerning></w:EnableOpenTypeKerning>
+   <w:DontFlipMirrorIndents></w:DontFlipMirrorIndents>
+   <w:OverrideTableStyleHps></w:OverrideTableStyleHps>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"></m:mathFont>
+   <m:brkBin m:val="before"></m:brkBin>
+   <m:brkBinSub m:val="&#45;-"></m:brkBinSub>
+   <m:smallFrac m:val="off"></m:smallFrac>
+   <m:dispDef></m:dispDef>
+   <m:lMargin m:val="0"></m:lMargin>
+   <m:rMargin m:val="0"></m:rMargin>
+   <m:defJc m:val="centerGroup"></m:defJc>
+   <m:wrapIndent m:val="1440"></m:wrapIndent>
+   <m:intLim m:val="subSup"></m:intLim>
+   <m:naryLim m:val="undOvr"></m:naryLim>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"></w:LsdException>
+  <w:LsdException Locked="false" Priority="0" Name="header"></w:LsdException>
+  <w:LsdException Locked="false" Priority="0" Name="footer"></w:LsdException>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"></w:LsdException>
+  <w:LsdException Locked="false" Priority="0" Name="page number"></w:LsdException>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"></w:LsdException>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"></w:LsdException>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"></w:LsdException>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"></w:LsdException>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"></w:LsdException>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"></w:LsdException>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"></w:LsdException>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"></w:LsdException>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"></w:LsdException>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"></w:LsdException>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"></w:LsdException>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"></w:LsdException>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"></w:LsdException>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+<![endif]-->
+
+<h2 style="text-align:justify">Introduction</h2>
+
+<p style="text-align:justify"><span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold;">BPT social</span>&nbsp;provides this Privacy Policy to
+inform users of our policies and procedures regarding the collection, use and
+disclosure of personally identifiable information received from users of this
+website, located at www.bptsocial.com ("Site"). This Privacy Policy
+may be updated from time to time for any reason; each version will apply to
+information collected while it was in place. We will notify you of any material
+changes to our Privacy Policy by posting the new Privacy Policy on our Site.
+You are advised to consult this Privacy Policy regularly for any changes.</p>
+
+<p style="text-align:justify">By providing us with such information, you are
+giving us your consent to collect, use and store the information in the manner
+explained hereto.</p>
+
+<h2 style="text-align:justify">What Information We Collect</h2>
+
+<p style="text-align:justify">Personally Identifiable Information - When you
+browse the non-password protected portions of our Site, you do so anonymously;
+no personally identifiable information is collected. When you sign up to become
+a registered user of&nbsp;<span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold; text-align: left;">BPT social</span>, we request that you provide to us your email
+address, a username and a password to access our Site. You may also choose to
+supply trading information (e.g., how long you have been trading, your
+preferred trading style, etc.) and a profile description. Once you register
+with&nbsp;<span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold; text-align: left;">BPT social</span>&nbsp;and sign in to our Site, you are not anonymous to us. </p>
+
+<p style="text-align:justify">As a registered user, you may provide&nbsp;<span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold; text-align: left;">BPT social</span>&nbsp;with the credentials to access your brokerage account (i.e. user
+ID, password, information necessary to access your account). We will never
+access your accounts for any other purpose than to retrieve your trading data
+and provide the services as you have requested. You can de-activate your
+account for any reason at any time and we will delete all of your personally
+identifiable information from our servers. We will not keep a copy of your
+personally identifiable information for any purposes upon account deactivation
+except as may be required by law or to otherwise protect legal rights.</p>
+
+<h2 style="text-align:justify">Technical Information &amp; Data Security</h2>
+
+<p style="text-align:justify">When you visit our Site, we may collect
+information through cookies or other similar Web tools to enhance the user experience.
+Cookies are small strings of text that are sent by our Site to your browser on
+your computer hard drive. Cookies enable us to recognize you when you return to
+our Site, to maintain your Web session while you browse throughout the Site, as
+well as help us provide you with a better, more personalized experience. Our
+cookies are not tied to personally identifiable information. Most web browsers
+automatically accept cookies, but it is possible to change your browser setup
+so that it does not accept cookies. However, rejecting cookies may prevent you
+from taking advantage of certain portions of our Site.</p>
+
+<p style="text-align:justify">In addition, when you are browsing our Site,&nbsp;<span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold; text-align: left;">BPT social</span>&nbsp;automatically receives and records information on our server logs
+from your browser including your IP address,&nbsp;<span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold; text-align: left;">BPT social</span>&nbsp;cookie information
+and the pages you request. We use this information to improve the functionality
+and usability of our services. Our log files are not tied to personally
+identifiable information.</p>
+
+<p style="text-align:justify">We use secure server software (SSL) and firewalls
+to protect your information from unauthorized access, disclosure, alteration,
+or destruction.</p>
+
+<h2 style="text-align:justify">How We Use The Information We Collect</h2>
+
+<p style="text-align:justify">Customer Service - Based upon the personally
+identifiable information you provide us during the registration process, we
+will send you a welcoming email to verify your account. We will also
+communicate with you in response to your inquiries, to provide the services you
+request, and to manage your account. </p>
+
+<p style="text-align:justify">Brokerage Information - As a registered user of our
+Site, you may provide to us the credentials to access your brokerage account to
+retrieve your trading data. This information is only used to obtain trading
+history for your account and this information and is not accessible anywhere on
+our Site.</p>
+
+<p style="text-align:justify">We will not publish any personally identifiable
+information (e.g. name, email address or contact information) on our Site for
+others to view, without your permission, unless you choose to post it yourself
+on the Site.</p>
+
+<p style="text-align:justify">We May Provide Your Information If Legally Required</p>
+
+<p style="text-align:justify"><span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold;">BPT social</span>&nbsp;may be required to provide your
+information under the following circumstances: in response to subpoenas, court
+orders, or legal process, or to establish or exercise our legal rights or
+defend against actual or threatened legal claims. In addition when we believe
+it is necessary to share information in order to investigate, prevent, or take
+action regarding illegal activities or activities which we believe give rise to
+legal liability to us, our members or third parties, suspected fraud, situations
+involving potential threats to the physical safety of any person, violations of&nbsp;<span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold; text-align: left;">BPT social</span>Ã¢â‚¬â„¢s terms of use, or as otherwise required by law.</p>
+
+<h2 style="text-align:justify">Children</h2>
+
+<p style="text-align:justify">In compliance with the Children Online Privacy
+Protection Act, 15 U.S.C. § 6501-06 and 16 C.F.R. § 1.1-1.1, our Site does not
+permit children under 18 years of age to become users, and we do not collect
+information from children. By using our Site, you represent that you are not
+under 18 years of age.</p>
+
+<h2 style="text-align:justify">Social Networks</h2>
+
+<p style="text-align:justify">Social networks are on-line groups, networks or
+communities of people who share some common element(s) such as a particular
+interest, and are interested in exploring and discussing such interests with
+others on the Internet. Social networking involves the on-line interaction of its
+members via multiple and various electronic formats, such as chat, messaging,
+email, video, voice chat, file sharing, blogging, discussion groups and so on.</p>
+
+<p style="text-align:justify">A social network provides its members with many
+features, such as the ability to create and view profiles of other members who
+share commonalities. A social network also allows members to create personal
+profiles, potentially with fairly detailed information, as well as allow its
+members to engage in activities such as create personal blogs, share personal
+information and other applications that allow its members to help them to
+connect with other network members.</p>
+
+<h2 style="text-align:justify">Risks</h2>
+
+<p style="text-align:justify">Social networks are not without their risks,
+which are no different than any other on-line activity. With public spaces, or
+even within a closed social network community, the services can be used by
+anyone. There are risks as one does not truly know who the other members of the
+social network are.&nbsp;<span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold; text-align: left;">BPT social</span>&nbsp;has no control over what third parties with
+access to your information may do with it. For example, you may post certain
+personal information, but another member copies and publishes it.</p>
+
+<p style="text-align:justify">When using social networks, you should take
+caution when posting your personal information as well as carefully consider
+the information you get from the social network. You should take care in
+trusting the information posted in a social network as it may be difficult to
+prevent members or the public at large from posting false or misleading
+information, including information in their personal profiles. Although&nbsp;<span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold; text-align: left;">BPT social</span>&nbsp;takes reasonable steps to regularly monitor the content of its
+site to identify and remove any misleading or otherwise fraudulent posts, and
+may ban a member for egregious or repeat violations, there is no assurance that
+we will detect all misleading or fraudulent posts, and members should not rely
+upon or assume the accuracy of information posted by other members and should
+make their own independent trading decisions.</p>
+
+<p style="text-align:justify">In addition, be careful with personal
+information. Once you have posted your personal information to the Internet,
+you have lost control over who will see it and how it will be used. Information
+you post or as contained in your profile can easily be copied and shared with
+thousands of others at the press of a button. In addition, when posting other
+materials, such as photos, you should take precaution as such information or
+pictures can be altered or distorted.</p>
+
+<p style="text-align:justify">There is the potential for risk in using the&nbsp;<span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: bold; text-align: left;">BPT social</span>&nbsp;services stemming from the illegal or improper use of the social
+network by third parties who might, for example, post misleading information in
+an attempt to improperly influence trading decisions or find ways to copy and
+aggregate member profiles, collect personal financial information or copy
+personal content and use it for their own purposes.</p>
+
+<h2 style="text-align:justify">Conclusion</h2>
+
+<p style="text-align:justify">If you have any questions or comments about this
+Privacy Policy or our use of your personally identifiable information, please <a href="https://www.96degree.com/contact">contact us here</a></p>
+
+<p class="MsoNormal"><span dir="RTL" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:
+minor-bidi" lang="AR-SA">&nbsp;</span></p>
+
+            </div>
+    </div>
+            </div>
         </div>
     </div>
-</div>
 
-<div id="loader" class="align-center" style="display:none; height:10px; width:100%; padding:10px; position:fixed; top:50px;"><img src="https://www.96degree.com/images/loaders/30.gif" width="82" height="10"></div><div id="content" class="container_24 clearfix">
-    <div class="grid_16 prefix_4 suffix_4">
-      <h1>Privacy Policy</h1>
-<br>
-<h2>Introduction</h2>
-<p>WWW.96DEGREE.COM provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at www.fxjunction.com ("Site"). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.</p>
-<p>By providing us with such information, you are giving us your consent to collect, use and store the information in the manner explained hereto.</p>
-<h2>What Information We Collect</h2>
-<p>Personally Identifiable Information - When you browse the non-password protected portions of our Site, you do so anonymously; no personally identifiable information is collected. When you sign up to become a registered user of WWW.96DEGREE.COM, we request that you provide to us your email address, a username and a password to access our Site. You may also choose to supply trading information (e.g., how long you have been trading, your preferred trading style, etc.) and a profile description. Once you register with WWW.96DEGREE.COM and sign in to our Site, you are not anonymous to us. </p>
-<p>As a registered user, you may provide WWW.96DEGREE.COM with the credentials to access your brokerage account (i.e. user ID, password, information necessary to access your account). We will never access your accounts for any other purpose than to retrieve your trading data and provide the services as you have requested. You can de-activate your account for any reason at any time and we will delete all of your personally identifiable information from our servers. We will not keep a copy of your personally identifiable information for any purposes upon account deactivation except as may be required by law or to otherwise protect legal rights.</p>
-<h2>Technical Information &amp; Data Security</h2>
-<p>When you visit our Site, we may collect information through cookies or other similar Web tools to enhance the user experience. Cookies are small strings of text that are sent by our Site to your browser on your computer hard drive. Cookies enable us to recognize you when you return to our Site, to maintain your Web session while you browse throughout the Site, as well as help us provide you with a better, more personalized experience. Our cookies are not tied to personally identifiable information. Most web browsers automatically accept cookies, but it is possible to change your browser setup so that it does not accept cookies. However, rejecting cookies may prevent you from taking advantage of certain portions of our Site.</p>
-<p>In addition, when you are browsing our Site, WWW.96DEGREE.COM automatically receives and records information on our server logs from your browser including your IP address, WWW.96DEGREE.COM cookie information and the pages you request. We use this information to improve the functionality and usability of our services. Our log files are not tied to personally identifiable information.</p>
-<p>We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction.</p>
-<h2>How We Use The Information We Collect</h2>
-<p>Customer Service - Based upon the personally identifiable information you provide us during the registration process, we will send you a welcoming email to verify your account. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. </p>
-<p>Brokerage Information - As a registered user of our Site, you may provide to us the credentials to access your brokerage account to retrieve your trading data. This information is only used to obtain trading history for your account and this information and is not accessible anywhere on our Site.</p>
-<p>We will not publish any personally identifiable information (e.g. name, email address or contact information) on our Site for others to view, without your permission, unless you choose to post it yourself on the Site.</p>
-<p>We May Provide Your Information If Legally Required</p>
-<p>WWW.96DEGREE.COM may be required to provide your information under the following circumstances: in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against actual or threatened legal claims. In addition when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities or activities which we believe give rise to legal liability to us, our members or third parties, suspected fraud, situations involving potential threats to the physical safety of any person, violations of WWW.96DEGREE.COM terms of use, or as otherwise required by law.</p>
-<h2>Children</h2>
-<p>In compliance with the Children Online Privacy Protection Act, 15 U.S.C. § 6501-06 and 16 C.F.R. § 1.1-1.1, our Site does not permit children under 18 years of age to become users, and we do not collect information from children. By using our Site, you represent that you are not under 18 years of age.</p>
-<h2>Social Networks</h2>
-<p>Social networks are on-line groups, networks or communities of people who share some common element(s) such as a particular interest, and are interested in exploring and discussing such interests with others on the Internet. Social networking involves the on-line interaction of its members via multiple and various electronic formats, such as chat, messaging, email, video, voice chat, file sharing, blogging, discussion groups and so on.</p>
-<p>A social network provides its members with many features, such as the ability to create and view profiles of other members who share commonalities. A social network also allows members to create personal profiles, potentially with fairly detailed information, as well as allow its members to engage in activities such as create personal blogs, share personal information and other applications that allow its members to help them to connect with other network members.</p>
-<h2>Risks</h2>
-<p>Social networks are not without their risks, which are no different than any other on-line activity. With public spaces, or even within a closed social network community, the services can be used by anyone. There are risks as one does not truly know who the other members of the social network are. WWW.96DEGREE.COM has no control over what third parties with access to your information may do with it. For example, you may post certain personal information, but another member copies and publishes it.</p>
-<p>When using social networks, you should take caution when posting your personal information as well as carefully consider the information you get from the social network. You should take care in trusting the information posted in a social network as it may be difficult to prevent members or the public at large from posting false or misleading information, including information in their personal profiles. Although WWW.96DEGREE.COM takes reasonable steps to regularly monitor the content of its site to identify and remove any misleading or otherwise fraudulent posts, and may ban a member for egregious or repeat violations, there is no assurance that we will detect all misleading or fraudulent posts, and members should not rely upon or assume the accuracy of information posted by other members and should make their own independent trading decisions.</p>
-<p>In addition, be careful with personal information. Once you have posted your personal information to the Internet, you have lost control over who will see it and how it will be used. Information you post or as contained in your profile can easily be copied and shared with thousands of others at the press of a button. In addition, when posting other materials, such as photos, you should take precaution as such information or pictures can be altered or distorted.</p>
-<p>There is the potential for risk in using the WWW.96DEGREE.COM services stemming from the illegal or improper use of the social network by third parties who might, for example, post misleading information in an attempt to improperly influence trading decisions or find ways to copy and aggregate member profiles, collect personal financial information or copy personal content and use it for their own purposes.</p>
-<h2>Conclusion</h2>
-<p>If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please <a href="/contact">contact us here</a></p>	</div>
-</div>	<div class="mt25 align-center"></div>
-<div id="footer">
-    <div class="container_30 clearfix">
-        <div class="grid_15"> 
-        	<p class="small">Copyright © WWW.96DEGREE.COM · All Rights Reserved</p>
-        </div>    
-        <div class="grid_15 links">
-               <a href="https://www.96degree.com/contact">Contact</a>
-               <a href="https://www.96degree.com/about">About</a>
-			   <a href="https://www.96degree.com/contact?subject=advertise">Advertise</a>
-			  <!-- <a href="https://www.96degree.com/whitelabel">Whitelabel</a> -->
-               <a href="https://www.96degree.com/help">Help</a>
-               <a href="https://www.96degree.com/legal/privacy">Privacy</a>
-               <a href="https://www.96degree.com/legal/terms_of_use">Terms</a>
-               <a href="https://www.96degree.com/legal/risk_warning">Risk Warning</a>
+    <div class="row">
+        <div class="horizontal-advert col-xs-12 col-md-offset-2 col-md-8">
+                    </div>
+    </div>
+</div><div class="footer">
+    <div class="col-xs-12 text-center">
+        <div class="footer-rights pull-left">
+            Copyright © <strong>WWW.96DEGREE.COM</strong> · All Rights Reserved.        </div><!--
+        <div class="col-lg-9 m-t-xs">-->
+            <span class="footer-social-links">
+                Follow us on                <a href="" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a href="" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a href="" target="_blank"><i class="fa fa-linkedin"></i></a>
+                <a href="" target="_blank"><i class="fa fa-google"></i>
+                </a><a href="" target="_blank"><i class="fa fa-instagram"></i></a>
+            </span>
+            <ul class="footer-page-links list-inline pull-right">
+                <!--<li><a href=""></a></li>-->
+                <!--<li><a href=""></a></li>-->
+                                                <li><a href="https://www.96degree.com/news">News</a></li>
+                <li><a href="https://www.96degree.com/help">FAQ</a></li>
+                <li><a href="https://www.96degree.com/legal/privacy">Privacy</a></li>
+                <li><a href="https://www.96degree.com/legal/terms_of_use">Terms</a></li>
+                <li><a href="https://www.96degree.com/legal/risk_warning">Risk Warning</a></li>
+
+            </ul>
         </div>
-        <div class="grid_30 mt25">
-        	<p></p><p>Disclaimer : Trading foreign exchange on margin carries high level of risk, and may not be suitable for all investors. Before deciding to trade foreign exchange you should carefully consider your monetary objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your deposited funds and therefore you should not speculate with capital that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading, and seek advice from an independent adviser if you have any doubts. Past returns are not indicative of future results. </p><p></p>
-        </div>
+
     </div>
 </div><!-- End Footer Div -->
 
@@ -122,7 +624,37 @@
 
 <div id="acOrderForm"></div>
 <div id="order_dialog" title="Send Order Request"></div>
-<div id="message_dialog" title="Compose Message"></div>  <script type="text/javascript" src="https://www.96degree.com/js/mini.php?f=,login"></script>
+<div id="transactionDialog" title="Transaction Details"></div>
+<div id="accountContainer" title="Account Details"></div></div>
+
+<div id="blueimp-gallery" class="blueimp-gallery">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+<div id="language_data" style="display: none" data-language="{&quot;Notifications&quot;:&quot;Notifications&quot;,&quot;Confirm_Delete&quot;:&quot;Confirm Delete&quot;,&quot;Confirm_Delete_Conversation_Text&quot;:&quot;Are you sure you want to delete this conversation?&quot;,&quot;Confirm_Button_Text&quot;:&quot;Yes&quot;,&quot;Cancel_Button_Text&quot;:&quot;Cancel&quot;,&quot;Confirm_Action&quot;:&quot;Confirm Action&quot;,&quot;Delete_SwalText&quot;:&quot;Are you sure you want to permanently delete this messasge?&quot;,&quot;Report_SwalText&quot;:&quot;Are you sure you want to report this message as spam and permanently delete it?&quot;,&quot;Success&quot;:&quot;Success&quot;,&quot;Warning&quot;:&quot;Warning&quot;,&quot;Error&quot;:&quot;Error&quot;,&quot;Info&quot;:&quot;Info&quot;,&quot;Unknown_error_occured&quot;:&quot;Unknown error occured.&quot;,&quot;Message_cannot_be_empty&quot;:&quot;Message cannot be empty.&quot;,&quot;Message_could_not_be_sent&quot;:&quot;Message could not be sent&quot;,&quot;empty_name_warning&quot;:&quot;Please enter your name&quot;,&quot;unable_to_submit_form&quot;:&quot;<strong>Unable to submit form<\/strong>Please enter a valid email address&quot;,&quot;empty_message&quot;:&quot;The message field is empty. Please input your message before sending.&quot;,&quot;redirection_to_about&quot;:&quot;Redirection to About page...&quot;,&quot;credits_error_msg&quot;:&quot;Error: Please check your connection or try again later.&quot;,&quot;enter_email_warning&quot;:&quot;Please enter a valid email address&quot;,&quot;enter_name_warning&quot;:&quot;Please enter your full name.&quot;,&quot;withdrawal_amount_warning&quot;:&quot;Withdrawal amount cannot be greater than available balance.&quot;,&quot;withdrawal_request_warning&quot;:&quot;A minimum of $50.00 USD required to initiate a withdrawal request.&quot;,&quot;not_sufficient_credits_warning&quot;:&quot;You do not have sufficient Credits available for withdrawal.&quot;,&quot;enter_amount_warning&quot;:&quot;Please enter a valid withdrawal amount.&quot;,&quot;Cannot_be_empty&quot;:&quot;cannot be empty&quot;,&quot;contact_enter_name&quot;:&quot;Please enter your name&quot;,&quot;post_deleted&quot;:&quot;Post deleted&quot;,&quot;Spam_reported&quot;:&quot;Spam reported&quot;,&quot;Comment_not_reported.&quot;:&quot;Comment could not be reported.&quot;,&quot;Report_comment_swalText&quot;:&quot;Are you sure you want to report this comment as spam? Please note: This post will be reviewed by a moderator for compliance with posting guidelines prior to being deleted.&quot;,&quot;Report_Comment&quot;:&quot;Report Comment&quot;,&quot;success&quot;:&quot;success&quot;,&quot;Post_not_reported&quot;:&quot;Post could not be reported.&quot;,&quot;Confirm_report_spam_text&quot;:&quot;Are you sure you want to report this post as spam? Please note: This post will be reviewed by a moderator for compliance with posting guidelines prior to being deleted.&quot;,&quot;Report_Post&quot;:&quot;Report Post&quot;,&quot;Post_not_deleted.&quot;:&quot;Post could not be deleted.&quot;,&quot;post_deleted_text&quot;:&quot;Post was successfully deleted.&quot;,&quot;write_something_img&quot;:&quot;Please write something about your image.&quot;,&quot;write_something_share&quot;:&quot;Post is empty, please write something to share.&quot;,&quot;share_sth&quot;:&quot;Share something&quot;,&quot;enter_text&quot;:&quot;Please enter some text into comment.&quot;,&quot;write_comment&quot;:&quot;Write comment&quot;,&quot;All_Activity&quot;:&quot;All Activity&quot;,&quot;Following&quot;:&quot;following&quot;,&quot;Codes_generated&quot;:&quot;Codes successfully generated.&quot;,&quot;Check_connection&quot;:&quot;Please check your connection and try again.&quot;,&quot;Connection_Error&quot;:&quot;Connection Error&quot;,&quot;place_order&quot;:&quot;Place Order&quot;,&quot;modify_order&quot;:&quot;Modify Order&quot;,&quot;close_order&quot;:&quot;Close Order&quot;,&quot;delete_order&quot;:&quot;Delete Order&quot;,&quot;Everyone&quot;:&quot;Everyone&quot;,&quot;Trades&quot;:&quot;trades&quot;,&quot;Posts&quot;:&quot;Posts&quot;,&quot;settings_autocopy_title&quot;:&quot;Settings for AutoCopy Order:&quot;,&quot;order_added_to_portfolio&quot;:&quot;Order was added to your portfolio!&quot;,&quot;redirect_to_portfolio&quot;:&quot;Redirect to your AutoCopy Portfolio?&quot;,&quot;No_Button_Text&quot;:&quot;No&quot;,&quot;Yes_redirect&quot;:&quot;Yes, redirect&quot;,&quot;OK_Button_Text&quot;:&quot;OK&quot;,&quot;Are_you_sure_delete_element&quot;:&quot;Are you sure that you want to permanently delete the selected element?&quot;,&quot;An_error_occurred_try_again_later&quot;:&quot;An error has occurred, please try again later.&quot;,&quot;Not_saved&quot;:&quot;Not saved&quot;,&quot;Invalid_entry_check_inputs&quot;:&quot;Invalid entry, please check your inputs.&quot;,&quot;Connection_error_occurred&quot;:&quot;A connection error has occurred. Please try again later.&quot;,&quot;Invalid_Lot_Size&quot;:&quot;Invalid Lot Size&quot;,&quot;Invalid_percentage_value_between&quot;:&quot;Invalid percentage value. Please use a value between&quot;,&quot;Invalid_Maximum_Open_Lots_between&quot;:&quot;Invalid Maximum Open Lots. Please use a value between&quot;,&quot;Invalid_Maximum_Open_Trades_between&quot;:&quot;Invalid Maximum Open Trades. Please use a value between&quot;,&quot;Autocopy_dialog_after_saving_green_position&quot;:&quot;After saving your changes, please remember to activate your AutoCopy by moving the Slider to the On (green) position. Your AutoCopy will then start.&quot;,&quot;Do_you_accept_changes&quot;:&quot;Do you accept these changes&quot;,&quot;No_enaught_credits_subscribtion&quot;:&quot;No enaught credits for activating subscribtion. Top up credit.&quot;,&quot;chart_Gain&quot;:&quot;Gain&quot;,&quot;chart_Profit&quot;:&quot;Profit&quot;,&quot;chart_Pips&quot;:&quot;Pips&quot;,&quot;chart_Lots&quot;:&quot;Lots&quot;,&quot;chart_Trades&quot;:&quot;Trades&quot;,&quot;chart_Balance&quot;:&quot;Balance&quot;,&quot;chart_Growth&quot;:&quot;Growth (%)&quot;,&quot;chart_Won&quot;:&quot;Won&quot;,&quot;chart_Lost&quot;:&quot;Lost&quot;,&quot;chart_Equity&quot;:&quot;Equity (%)&quot;,&quot;Password_must_between&quot;:&quot;Password must be between 6-15 alphanumeric characters&quot;,&quot;chart_Currency_Pairs&quot;:&quot;Currency Pairs&quot;,&quot;Your_passwords_dont_match&quot;:&quot;Your passwords don't match&quot;,&quot;Are_you_sure&quot;:&quot;Are you sure?&quot;,&quot;Deleted&quot;:&quot;Deleted&quot;,&quot;Problem_deleting_profile&quot;:&quot;There was a problem deleting your profile, please contact support for assistance&quot;,&quot;Data_saved&quot;:&quot;Data saved&quot;,&quot;Deleting_account_remove_history&quot;:&quot;Deleting this account will also remove any trading history. Continue?&quot;,&quot;Accounts_refreshed&quot;:&quot;Accounts refreshed&quot;,&quot;Only_images_allowed&quot;:&quot;Only images are allowed&quot;,&quot;Please_write_something_about_image&quot;:&quot;Please write something about your image.&quot;,&quot;Post_empty_write_something&quot;:&quot;Post is empty, please write something to share...&quot;,&quot;Please_some_text_comment&quot;:&quot;Please enter some text into comment.&quot;,&quot;Sure_want_delete_post&quot;:&quot;Are you sure you want to delete this post?&quot;,&quot;Post_not_deleted&quot;:&quot;Post could not be deleted.&quot;,&quot;Are_you_sure_report_post&quot;:&quot;Are you sure you want to report this post as spam? Please note: This post will be reviewed by a moderator for compliance with posting guidelines prior to being deleted.&quot;,&quot;Are_you_sure_report_comment&quot;:&quot;Are you sure you want to report this comment as spam? Please note: This post will be reviewed by a moderator for compliance with posting guidelines prior to being deleted.&quot;,&quot;You_must_agree_privacy_policy&quot;:&quot;You must agree to terms of use and privacy policy&quot;,&quot;An_unexpected_error&quot;:&quot;An unexpected error occured, please try again&quot;,&quot;Please_enter_email&quot;:&quot;Please enter your email address&quot;,&quot;Password_has_reset&quot;:&quot;Your password has been reset. Please check your email for your new password.&quot;,&quot;Enter_login_information&quot;:&quot;Please enter your login information&quot;,&quot;Not_Logged_In&quot;:&quot;Not Logged In&quot;,&quot;Please_sign_up&quot;:&quot;Please log in or sign up.&quot;,&quot;OPEN&quot;:&quot;OPEN&quot;,&quot;CLOSED&quot;:&quot;CLOSED&quot;,&quot;MARKET_CLOSED&quot;:&quot;MARKET CLOSED&quot;,&quot;Choose_user_send_message&quot;:&quot;Please choose some user to send message.&quot;,&quot;Please_log_in_download_file&quot;:&quot;Not Logged In. Please log in to download this file.&quot;,&quot;Please_select_file_upload&quot;:&quot;Please select a file to upload.&quot;,&quot;Please_write_description_file.&quot;:&quot;Please write a short description of your file.&quot;,&quot;Confirm_Delete_file_text&quot;:&quot;Are you sure you want to delete this file?&quot;,&quot;Confirm_Delete_button&quot;:&quot;Delete&quot;,&quot;Unable_proceed_this_time&quot;:&quot;Unable to proceed at this time, please try again later.&quot;,&quot;Type_a_symbol&quot;:&quot;Type a symbol...&quot;,&quot;Please_enter_valid_symbol&quot;:&quot;Please enter a valid symbol&quot;,&quot;Please_specify_valid_lot_size&quot;:&quot;Please specify a valid lot size&quot;,&quot;Trade_was&quot;:&quot;Trade was&quot;,&quot;Modified&quot;:&quot;Modified&quot;,&quot;Created&quot;:&quot;Created&quot;,&quot;Closed_js&quot;:&quot;Closed&quot;,&quot;Sending_trade_request&quot;:&quot;Sending trade request...&quot;,&quot;Cancelling_request&quot;:&quot;Cancelling request...&quot;,&quot;Platform_Unreachable&quot;:&quot;Platform Unreachable.&quot;,&quot;Waiting_for_broker&quot;:&quot;Waiting for broker...&quot;,&quot;No_response_from_your_platform&quot;:&quot;No response from your platform!&quot;,&quot;No_response_from_your_platform_text&quot;:&quot;Your platform has received the trade information, but failed to respond. The trade may or may not have been placed.&quot;,&quot;Trade_request_failed&quot;:&quot;Trade request failed&quot;,&quot;January&quot;:&quot;January&quot;,&quot;February&quot;:&quot;February&quot;,&quot;March&quot;:&quot;March&quot;,&quot;April&quot;:&quot;April&quot;,&quot;May&quot;:&quot;May&quot;,&quot;June&quot;:&quot;June&quot;,&quot;July&quot;:&quot;july&quot;,&quot;August&quot;:&quot;August&quot;,&quot;September&quot;:&quot;September&quot;,&quot;October&quot;:&quot;October&quot;,&quot;November&quot;:&quot;November&quot;,&quot;December&quot;:&quot;December&quot;,&quot;chart_account-value_label-balance&quot;:&quot;Balance&quot;,&quot;chart_account-value_label-equity&quot;:&quot;Equity&quot;}"></div>
+<!-- end wrapper -->
+<script src="https://www.96degree.com/js_new/app/inspinia/jquery-2.1.1.js"></script>
+<script src="https://www.96degree.com/js_new/app/inspinia/bootstrap.min.js"></script>
+<script src="https://www.96degree.com/js_new/app/inspinia/plugins/metisMenu/jquery.metisMenu.js"></script>
+<script src="https://www.96degree.com/js_new/app/inspinia/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+<script src="https://www.96degree.com/js_new/app/inspinia/plugins/pace/pace.min.js"></script>
+<script src="https://www.96degree.com/js_new/app/inspinia/plugins/blueimp/jquery.blueimp-gallery.min.js"></script>
+
+
+
+<!-- Custom and plugin javascript -->
+<script type="text/javascript" src="https://www.96degree.com/js_new/mini-common.php"></script>
+<script type="text/javascript" src="https://www.96degree.com/js_new/mini.php?f=inspinia/plugins/summernote/summernote,inspinia/plugins/summernote/summernote-bs3,login"></script>
+
+<script>
+    $(document).ready(function(){
+        $(document).ready(function(){ $('.summernote').summernote();});    });
+</script>
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
@@ -136,5 +668,17 @@ s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
-<!--End of Tawk.to Script--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9e885f89ee","applicationID":"17507729","transactionName":"bl0ENksFDUcEVERRDFcXJwFNDQxaSntVXwJVFxYQUBICVxw=","queueTime":0,"applicationTime":10,"atts":"QhoHQAMfHkk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-88285215-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!--End of Tawk.to Script-->
+
 </body></html>
