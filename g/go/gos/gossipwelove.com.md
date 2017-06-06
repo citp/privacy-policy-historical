@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gossipwelove.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221180412id_/http%3A//gossipwelove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipwelove.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030754id_/http%3A//www.gossipwelove.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy – Gossipwelove
+# Privacy Policy - Gossipwelove
 
-This Privacy Policy governs the manner in which GWLMag collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://gwlmag.com](http://gwlmag.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by GWLMag.
+This Privacy Policy governs the manner in which GWLMag collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://gwlmag.com](http://gwlmag.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by GWLMag.
 
  **Personal identification information**
 
@@ -14,21 +14,21 @@ We may collect non-personal identification information about Users whenever they
 
  **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
  **How we use collected information**
 
 GWLMag may collect and use Users personal information for the following purposes:
 
-  * _– To improve customer service_  
+  * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To personalize user experience_  
+  * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_  
+  * _\- To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _– To run a promotion, contest, survey or other Site feature_  
+  * _\- To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _– To send periodic emails_  
+  * _\- To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -47,7 +47,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
  **Changes to this privacy policy**
 
