@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tf2r.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510102430id_/http%3A//tf2r.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tf2r.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093415id_/http%3A//tf2r.com/privacy.html) for the most accurate reproduction.*
 
 # TF2R Item Raffles - Privacy Policy
 
