@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the roseroseshop.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324070033id_/http%3A//www.roseroseshop.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roseroseshop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163134id_/https%3A//www.roseroseshop.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **1\. Preface**  
-a.This privacy policy has the regulations of Koreadepart Inc. for user’s private information and privacy policy.  
+a. This privacy policy has the regulations of T.O.M Co.,Ltd. for user’s private information and privacy policy.  
 b. Private information is the information about an individual, that is, the information that can identify a certain individual with detailed data like names, address and so on. ( It also includes the information that cannot identify a person by itself, but that can do together with other information)  
 c. Please frequently confirm this policy when you use our site.  
 d. Our company has the right to modify, edit, add and delete this policy at our think best.
