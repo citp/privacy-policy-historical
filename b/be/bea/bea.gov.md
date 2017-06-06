@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229193210id_/http%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192034id_/https%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # BEA : Web Privacy Policy
 
