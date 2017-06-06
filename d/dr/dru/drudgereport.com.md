@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the drudgereport.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207164723id_/http%3A//www.intermarkets.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drudgereport.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021048id_/http%3A//www.intermarkets.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Intermarkets Privacy Policy - Intermarkets, Inc.
+
+From the Intermarkets Blog: [**And the traffic goes to…**](http://www.intermarkets.net/blog/and-the-traffic-goes-to/)
 
 Revised: May 4, 2015
 
