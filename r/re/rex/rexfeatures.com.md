@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rexfeatures.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607162134id_/http%3A//www.rexfeatures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rexfeatures.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191211id_/https%3A//www.rexfeatures.com/privacy.html) for the most accurate reproduction.*
 
 # Editorial Photos, Celebrity, News, & Sports Images | Rex
 
@@ -6,7 +6,7 @@ REX FEATURES complies with and is registered under the data protection laws in t
 
 When someone visits our sites we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone unless you log in to the site in which case we record which requests are made by which user. We use this information to resolve problems and to improve the website. This information is not used for marketing purposes, is never passed outside the company and is deleted after a reasonable period of time.
 
-All material copyright Rex Features Ltd 2007 - 2016, please contact us if you require more information.
+All material copyright Rex Features Ltd 2007 - 2017, please contact us if you require more information.
 
 Rex Features employs cookies to provide users with tailored information. Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
@@ -91,8 +91,8 @@ These cookies are used to collect information about how visitors use our site, w
 
 | 
 
-Click [here](http://www.google.com/intl/en_uk/analytics/privacyoverview.html) for an overview of privacy at Google.  
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.  
+Click [here](https://www.google.co.uk/intl/en-GB/policies/privacy/) for an overview of privacy at Google.  
+To opt out of being tracked by Google Analytics across all websites visit [http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).  
   
   
 You may block or delete Rex Features cookies from your hard drive or memory. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all.
