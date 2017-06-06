@@ -1,36 +1,34 @@
-> *The following text is extracted and transformed from the kristineskitchenblog.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015020713id_/http%3A//kristineskitchenblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kristineskitchenblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042017id_/http%3A//kristineskitchenblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kristine's Kitchen
+# Privacy Policy & Terms of Service - Kristine's Kitchen
 
 **What information do we collect?**
 
 We collect information from you when you register on our site or fill out a form.
 
-When registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+When registering on our site, as appropriate, you may be asked to enter your: name and/or e-mail address. You may, however, visit our site anonymously.
 
-Google and Swoop.com, as a third party vendors, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Mediavine, Google, Sovern, Swoop.com and other advertisement providers, as a third party vendors, uses cookies to serve ads on Kristine’s Kitchen.  
+Our advertising partners use of cookies enable them to serve ads based on this site and other sites you visit on the internet.  
+Users may opt out of the use of the Google DART cookie by visiting the Google ad and content network privacy policy, http://www.google.com/privacy_ads.html
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+To personalize your website experience including the advertising shown on the site or in email communication
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+To improve our website based on information and feedback received from users
 
-; To administer a contest, promotion, survey or other site feature
+To administer a contest, promotion, survey or other site feature
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its third-party partners transfers to your web browser (if you allow) that enables the site or service providers systems to recognize your browser and capture and remember certain information
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We use cookies to understand and save your preferences for future visits, our advertising partners use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+For information about opting out of interest based advertising see http://www.youradchoices.com/
 
 **Do we disclose any information to outside parties?**
 
@@ -40,23 +38,35 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+External links from this site may also be affiliated by VigLink or another affiliate partner or through the use of cookies. If you make a purchase through an affiliated link on this site, I may receive a commission for your purchase.
+
+**Sponsored Posts  
+**
+
+Occasionally, content posted on this site may be paid for or sponsored by brands or advertisers. All sponsored content is clearly displayed with a conspicuous disclaimer within the sponsored content.
+
+**Comment Policy  
+**
+
+This website is not a public forum, all rights are reserved. The site is paid for and operated by its owner(s), administrator(s), editor(s) and author(s) who reserve the right to moderate, edit, delete, move, or mark as spam any and all comments, reviews, ratings or other content generated by the sites users at any time and for any reason at the site operator’s sole discretion. This site also reserves the right to block access to any one or group from commenting or from the entire site. This blog is “family friendly” and comments which are offensive or inappropriate, at the sole discretion of the operator of this site will be removed. Email addresses are required for commenting, and they are not published on the blog, nor shared. They may be used by the blog owner to privately contact the commenters.
+
 **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Children’s Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to this [website privacy policy](http://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 1/26/2014
+This policy was last modified on 12/03/2016
 
 **Contacting Us**
 
