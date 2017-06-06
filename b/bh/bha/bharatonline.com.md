@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatonline.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130185759id_/http%3A//www.bharatonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025249id_/http%3A//www.bharatonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy:: BharatOnline.com
 
@@ -29,20 +29,16 @@ We don't track what individual members read, but rather try to determine how wel
 
 |   
 ---  
-|  |  |  |  | 
+|  |  |  | 
 
-**DOT** : Department of Tourism, Govt of India  
-**ASTA** : American Society of Travel Agents  
+**DOT** : Department of Tourism, Govt of India
+
 **IATO** : Indian Association of Tour Operators  
 **ISO** : International Organization for Standardization  
   
----|---|---|---|---  
+---|---|---|---  
   
 Recognised By DOT
-
-| 
-
-Member of ASTA
 
 | 
 
