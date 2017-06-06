@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siam.org privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225181502id_/http%3A//www.siam.org/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siam.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031435id_/http%3A//siam.org/about/privacypolicy.php) for the most accurate reproduction.*
 
 # SIAM: Privacy Policy
 
