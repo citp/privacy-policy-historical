@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the at.govt.nz privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012181103id_/https%3A//at.govt.nz/about-us/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the at.govt.nz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172837id_/https%3A//at.govt.nz/about-us/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -83,7 +83,7 @@ The location at which we store your personal information will depend on the natu
 
 ## 7\. Can I access my personal information?
 
-You have the right to know whether or not we hold any personal information about you. You also have the right to access your personal information, if we hold that personal information in a way that it can be readily retrieved. You may request access to the personal information we hold about you by sending an email to: [privacyofficer@aucklandtransport.govt.nz](mailto:&#112;&#114;&#105;&#118;&#97;&#99;&#121;&#111;&#102;&#102;&#105;&#99;&#101;&#114;&#64;&#97;&#117;&#99;&#107;&#108;&#97;&#110;&#100;&#116;&#114;&#97;&#110;&#115;&#112;&#111;&#114;&#116;&#46;&#103;&#111;&#118;&#116;&#46;&#110;&#122; "Email AT's Privacy Officer").
+You have the right to know whether or not we hold any personal information about you. You also have the right to access your personal information, if we hold that personal information in a way that it can be readily retrieved. You may request access to the personal information we hold about you by [emailing our Privacy Officer.](mailto:privacyofficer@at.govt.nz)
 
 You can ask to see the personal information that we hold about you, or make a request for information under the Local Government and Meetings Act 1987, by sending a written request to:
 
@@ -102,6 +102,6 @@ We may change this Privacy Policy from time to time.
 
 ## 9\. Acceptance
 
-The privacy policy forms a part of our [Website Terms and Conditions](https://web.archive.org/about-us/about-this-site/terms-conditions/website-and-mobile-app-terms-conditions/ "Website Terms & Conditions") and should be read in conjunction with them. By viewing and using our websites or related services offered in conjunction with our websites, you agree to Auckland Transport collecting and using your personal informal information as set out in this Privacy Policy. If you do not agree to anything in this Privacy Policy or if you do not wish to receive marketing material from Auckland Transport, you can either contact us or you can stop accessing or using our websites.
+The privacy policy forms a part of our [Website Terms and Conditions](https://web.archive.org/about-us/about-this-site/terms-conditions/website-and-mobile-app-terms-conditions/ "Website Terms & Conditions") and should be read in conjunction with them. By viewing and using our websites or related services offered in conjunction with our websites, you agree to Auckland Transport collecting and using your personal informal information as set out in this Privacy Policy. If you do not agree to anything in this Privacy Policy or if you do not wish to receive marketing material from Auckland Transport, you can either [contact us](https://web.archive.org/about-us/contact-us/ "Contact us") or you can stop accessing or using our websites.
 
 If you decide not to provide the personal information requested when you use, register or open an account on our website, this may result in services or products (including related services offered in conjunction with our websites) not being offered or provided to you.
