@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the insites.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051627id_/https%3A//silktide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insites.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200012id_/https%3A//insites.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - Insites
 
-Privacy matters but it can be confusing. This page explains our approach to privacy on all our Silktide websites and how it affects you.
+  
+Privacy matters but it can be confusing. This page explains our approach to privacy on all our Insites websites and how it affects you.
 
 ## Short version
 
@@ -21,7 +22,7 @@ We measure visitors to our website using Google Analytics. This records what pag
 
 The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better.
 
-You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html "Google Analytics' privacy policy") or [opt out if you wish](https://tools.google.com/dlpage/gaoptout "How to opt out of google analytics").
+You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html "Google Analytics' privacy policy") or [opt out if you wish](https://tools.google.com/dlpage/gaoptout "How to opt out of Google Analytics").
 
 ## Facebook, Twitter and other social networks
 
@@ -57,7 +58,7 @@ We will  _never  _provide your personal information or email address to any th
 
 ## Online payment
 
-We use a variety of payment providers to bill for our products online. These companies will have access to your personal and payment information. When paying by credit card, Silktide themselves do not ever have any access to your credit card details.
+We use a variety of payment providers to bill for our products online. These companies will have access to your personal and payment information. When paying by credit card, Insites themselves do not ever have any access to your credit card details.
 
 The third parties we use are Recurly (for recurring payments), SagePay (to process credit cards) and PayPal (to process credit cards and accept payment via PayPal).
 
@@ -65,10 +66,10 @@ We share information with these companies only to the extent necessary for the p
 
 ## Security
 
-Silktide take many precautions to prevent the loss, misuse or alteration of your personal information. These precautions include:
+Insites take many precautions to prevent the loss, misuse or alteration of your personal information. These precautions include:
 
   * Use of SSL encryption for sensitive data
-  * Hardware stored in secured datacentres behind firewalls
+  * Hardware stored in secured datacenters behind firewalls
   * All access to information restricted by password and/or secure key
   * Restrictions to what information can be accessed via any location
 
@@ -76,11 +77,11 @@ Silktide take many precautions to prevent the loss, misuse or alteration of your
 
 Whilst we take great care to ensure any confidential information remains protected we cannot guarantee the security of data sent over the Internet.
 
-Of course you are responsible for keeping your password and user details confidential. Nobody at Silktide will ever ask you for your password, so please don’t trust anybody asking you for it.
+Of course you are responsible for keeping your password and user details confidential. Nobody at Insites will ever ask you for your password, so please don’t trust anybody asking you for it.
 
 ## Data finding
 
-Silktide makes use of various 3rd party APIs to collect information about websites in Nibbler and Sitebeam reports. For example we use the Google Maps API to gather local presence information ([see Google Map’s privacy policy](http://www.google.com/privacy.html)).
+Insites makes use of various 3rd party APIs to collect information about websites in Nibbler and Sitebeam reports. For example we use the Google Maps API to gather local presence information ([see Google Map’s privacy policy](http://www.google.com/privacy.html)).
 
 ## Updates to this policy
 
@@ -88,4 +89,4 @@ We may update this privacy policy from time-to-time, particularly as technology 
 
 ## Any questions?
 
-If you have any questions about this privacy policy or your personal data, please write to us by email to [support@silktide.com](mailto:support@silktide.com) or by post to Silktide, Brunel Parkway, Pride Park, Derby, DE24 8HR, United Kingdom.
+If you have any questions about this privacy policy or your personal data, please write to us by email to [hello@insites.com](mailto:hello@insites.com) or by post to Silktide, Brunel Parkway, Pride Park, Derby, DE24 8HR, United Kingdom.
