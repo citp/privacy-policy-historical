@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hitlink.com privacy policy that was archived on 2016-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161029232107id_/http%3A//www.hitlink.com/public/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hitlink.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606132408id_/http%3A//www.hitlink.com/public/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -20,16 +20,14 @@
     <meta name="publisher-URL" content="http://www.hitlink.com/">
     <meta name="resource-type" content="document">
     <meta name="distribution" content="global">
-    <meta name="copyright" content="2012-2016 HitLink.com">
+    <meta name="copyright" content="2012-2017 HitLink.com">
     <meta name="google-site-verification" content="cIXSpSvmDo98tlVy55redxwGK0_kVhAyj_oxOItNihI">
 
     <link href="/css/zoomer.css" rel="stylesheet" type="text/css">
     <link href="/css/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css">
-<!--    <link href="/css/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css"/>-->
     <link href="/css/style.css" rel="stylesheet" type="text/css">
     <script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="/js/jquery-1.11.1.min.js" language="javascript" type="text/javascript"></script>
     <script src="/js/jquery-ui-1.10.4.custom.min.js" language="javascript" type="text/javascript"></script>
-<!--    <script src="/js/jquery-migrate-1.2.1.min.js" language="javascript" type="text/javascript"></script>-->
     <script src="/js/calendar.js" language="javascript" type="text/javascript"></script>
     <script src="/js/jquery.form_3.46.0.js" language="javascript" type="text/javascript"></script>
     <script src="/js/geo.js" language="javascript" type="text/javascript"></script>
@@ -71,10 +69,12 @@
     });
     </script>
 
-        </head>
+    </head>
 <body>
 <div class="wrapper">
-    <div class="topnave" style="height: 30px;"> </div>
+
+<div class="topnave" style="height: 30px;"></div>
+
     <div class="topWrapper" style="width: 100%; margin-top: 10px; height: 63px;">
         <a href="/public/index.php"><img src="/images/logo.jpg" style="width: 229px; height: 63px; border: 0px solid; display: inline;" alt=""></a>
         <ul>
@@ -84,6 +84,26 @@
         </ul>
     </div>
 </div>
+<script type="text/javascript">
+$(document).ready(function() {
+    $(".naveWrapper, .naveWrapperTop").on('touchstart', "li.touch_support > a", function(e) {
+        var menuItem = $(this).closest("li.touch_support");
+
+        menuItem.addClass('touched');
+        $("li.hover_effect").each(function() {
+            if (!$(this).hasClass('touched')) {
+                $(this).removeClass('hover_effect');
+            }
+        });
+        menuItem.removeClass('touched');
+
+        menuItem.toggleClass('hover_effect');
+
+        e.preventDefault();
+    });
+});
+</script>
+
 <div class="naveWrapperbg">
     <div class="wrapper">
         <div class="naveWrapper">
@@ -166,30 +186,29 @@
                     <li><a href="/public/privacy.php" title="Privacy Policy">Privacy Policy</a></li>
                     <li><a href="/public/ourservices.php" title="Our services">Our services</a></li>
                 </ul>
-                <p>© HitLink 2007-2016. All Rights Reserved.</p>
+                <p>© HitLink 2007-2017. All Rights Reserved.</p>
             </div>
             <div style="width: 42%; float: left; margin-top: -10px;">
                 <div style="width: 50%; margin-top: 5px; display: inline-block;">
                     <div style="width: 50%; float: left; display: inline-block; text-align: right;">
                         <div class="fb-like" data-href="http://www.facebook.com/OfficialHitLink" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>
-                        <div id="fb-root"></div> 
-                            <script>(function(d, s, id) { 
-                                var js, fjs = d.getElementsByTagName(s)[0]; 
-                                if (d.getElementById(id)) return; 
-                                js = d.createElement(s); js.id = id; 
-                                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; 
-                                fjs.parentNode.insertBefore(js, fjs); 
+                        <div id="fb-root"></div>
+                            <script>(function(d, s, id) {
+                                var js, fjs = d.getElementsByTagName(s)[0];
+                                if (d.getElementById(id)) return;
+                                js = d.createElement(s); js.id = id;
+                                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+                                fjs.parentNode.insertBefore(js, fjs);
                             }(document, 'script', 'facebook-jssdk'));
                             </script>
                     </div>
                     <div style="width: 49%; float: right;">
                         <a href="http://twitter.com/HitLink" class="twitter-follow-button" data-show-count="false">Follow @HitLink</a>
-                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>            
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                     </div>
                 </div>
             </div>
             <div class="footerWrapperButton">
-        
                 <a href="/public/register.php" class="Registerbutton">Register</a>
                 <a href="/public/login.php" class="Loginbutton">Login</a>
             </div>
