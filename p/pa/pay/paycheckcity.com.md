@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paycheckcity.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219090418id_/http%3A//www.paycheckcity.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycheckcity.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043415id_/http%3A//www.paycheckcity.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # PayCheckCity Privacy Policy
 
