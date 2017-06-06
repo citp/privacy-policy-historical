@@ -1,123 +1,175 @@
-> *The following text is extracted and transformed from the secunia.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906053440id_/http%3A//secunia.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secunia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172411id_/http%3A//www.flexerasoftware.com/producer/company/terms/tab/privacy) for the most accurate reproduction.*
 
-# Secunia Privacy Policy
+# Terms and Conditions | Flexera Software
 
-#### 1.
+These pages explain the Terms of Use for Flexera Software websites, legal and privacy notices for details on how we collect, use and protect your personal information on the website, our security issue disclosure process and information on software products that are accessible by individuals with visual, auditory, and mobility impairments.
 
-#### Responsibility of Data
+These pages explain the Terms of Use for Flexera Software websites, legal and privacy notices for details on how we collect, use and protect your personal information on the website, our security issue disclosure process and information on software products that are accessible by individuals with visual, auditory, and mobility impairments.
 
-1.1
+This privacy policy applies to [www.flexnetoperations.com](http://www.flexnetoperations.com/), [www.flexerasoftware.com](http://www.flexerasoftware.com/), [www.flexerasoftware.cn](http://www.flexerasoftware.cn/), [www.flexerasoftware.de](http://www.flexerasoftware.de/), [www.flexerasoftware.fr](http://www.flexerasoftware.fr/), [www.flexerasoftware.jp](http://www.flexerasoftware.jp/) and [www.flexnetmanager.com](http://www.flexnetmanager.com/) and Flexera Software’s service platforms, owned and operated by Flexera Software. This privacy policy describes how Flexera Software collects and uses the personal information you provide on our web sites: [www.flexnetoperations.com](http://www.flexnetoperations.com/), [www.flexerasoftware.com](http://www.flexerasoftware.com/), [www.flexerasoftware.cn](http://www.flexerasoftware.cn/), [www.flexerasoftware.de](http://www.flexerasoftware.de/), [www.flexerasoftware.fr](http://www.flexerasoftware.fr/), [www.flexerasoftware.jp](http://www.flexerasoftware.jp/) and [www.flexnetmanager.com](http://www.flexnetmanager.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-This website is owned by Secunia ApS, CVR. No. 26 83 33 45 (hereinafter referred to as "Secunia"). Secunia gathers and stores information on users visiting Secunia’s website.
+Flexera Software respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our Website without giving us any information about yourself. On occasion, we may need your personal information to provide services that you request, or you may have the option choose to provide us with your personal information. This policy describes how we collect and use your personal information.
 
-1.2
+### EU-U.S. Privacy Shield
 
-This privacy policy (hereinafter referred to as "Privacy Policy") includes information on (i) how Secunia gathers and stores information and (ii) how Secunia treats the personal information and information concerning User Terminal Equipment collected.
+[](https://privacy.truste.com/privacy-seal/validation?rid=c1aff876-f113-47d9-8b5b-0d9a1ce0fce6 "TRUSTe Privacy Certification") Flexera Software participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Flexera Software is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-2.1
+Flexera Software is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Flexera complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-This Privacy Policy applies to all of Secunia’s websites, except for the websites hosted by third parties on behalf of Secunia. Third parties on behalf of Secunia are:
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Flexera Software is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Flexera Software may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-  * Click-tale script is used to track user behaviour. The information gathered is not personal identifiable.
-  * Google Analytics is used to track user behaviour and for statistical purposes. The information gathered is not personal identifiable.
-  * Eloqua (our Marketing Automation Platform) is used to track user behaviour and to enhance user experience. The information gathered is personal identifiable once the user submits their information (i.e. submits a form)
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Flexera Software also complies with the **CAN-SPAM** Act of 2003 and the Canadian Privacy Act.
+
+### Information Collection
+
+Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, credit card number, a company or home, postal or other physical address, other contact information, title, gender, occupation, industry, personal or product interests, other information when needed to provide a service you requested.
+
+When you browse our Website, you do so anonymously, unless you have previously indicated that you wish Flexera Software to remember your login and password. We don't collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our Website you visit and how long you spend there. But we do not link your IP address to any personal information unless you have logged in to our Website. Like many other commercial Websites, the Flexera Software Website may use a standard technology called a "cookie" to collect information about how you use the site. Please go to "Cookies and Tracking Information" below for more information.
+
+Flexera Software collects personal information when you register with Flexera Software for a Flexera Software account, when you use or purchase certain Flexera Software products or services, when you register to attend a seminar or participate in an online survey, when you ask to be included in an email or other mailing list, other product promotions, or when you submit your information to Flexera Software for any other reason. From time to time, Flexera Software receives personal information from business partners and vendors. Flexera Software only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Policy and applicable laws.
+
+Access to certain Flexera Software Web pages requires a login and a password. The use of those Web pages, and the information or programs downloadable from those sites, may be governed by a written agreement between your employer and Flexera Software. Your personal information may be retained by Flexera Software to verify compliance with the agreement, log software licenses granted, to track software downloaded from those pages, or track usage of other applications available on those pages for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, revolve disputes, and enforce agreements.
+
+### User Data Supplementation
+
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include:
+
+  * Address information about you from a third party source, to append city and state to our website lead registration forms for United States and Canada.
+  * Purchased marketing data from third parties, for new leads and to append information (title, location, etc) to existing leads.
 
 
 
-2.2
+If you have questions about this practice, please contact us at [contracts@flexerasoftware.com](mailto:contracts@flexerasoftware.com).
 
-This Privacy Policy applies to all users who visit Secunia's websites.
+### Data Retention
 
-2.3
+Your personal information may be retained by Flexera Software to verify compliance with the agreement, log software licenses granted, to track software downloaded from those pages, or track usage of other applications available on those pages for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, revolve disputes, and enforce agreements.
 
-This Privacy Policy applies when Secunia gathers, uses, discloses, stores or retains personally identifiable information and Information concerning User Terminal Equipment; or when changes occur in the processes and procedures for collection, use, disclosure, storage and retention of personally identifiable information and Information concerning User Terminal Equipment.
+### Access and Choice
 
-2.4
+Upon request, Flexera Software will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [support@flexerasoftware.com](mailto:support@flexerasoftware.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
-This Privacy Policy refers to the processing and storage of all personal data and Information concerning User Terminal Equipment, wholly or partly, by automatic means, and also refers to the processing of personal data and Information concerning User Terminal Equipment made through other means, which forms part of a filing system or is intended to form part of a filing system.
+### Newsletters
 
-#### 3.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [unsubscribe@flexerasoftware.com](mailto:unsubscribe@flexerasoftware.com).
 
-#### The Purpose of Gathering Information
+### Surveys
 
-3.1
+We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personal information for any other purpose. We will not share the personal information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-This Privacy Policy seeks to protect the personally identifiable information and Information concerning User Terminal Equipment of the users of Secunia’s websites, which is in Secunia's possession at any given time.
+### Notice
 
-3.2
+When personal information is collected, we will inform you at the point of collection the purpose for the collection. Flexera Software does not intend to transfer your personal information to third parties without your consent, except under the limited conditions described under the discussion entitled "Information Sharing and Disclosure" below.
 
-The collected information is of importance in order to fulfill the objective purposes as stated in clauses 4.2, 4.3, and 6. Secunia will not gather or register information that is not necessary for the fulfillment of the purposes stated in clauses 4.2, 4.3, and 6.
+If you choose to provide us with your personal information, we may transfer that information, within Flexera Software or to Flexera Software's third party service providers, including across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
 
-#### 4.
+We will always give you the opportunity to "opt out" of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information in accordance with this Policy unless you take affirmative action to indicate that you do not consent, for instance by clicking or checking the appropriate option or box at the point of collection. In some cases, when applicable, we will provide you with the opportunity to "opt in." This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted.
 
-#### Collection of Information
+### Service Providers
 
-4.1
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use personal information only as necessary to provide these services to us.
 
-Secunia may collect information about the user, including (i) country, (ii) name, (iii) title, (iv) company, (v) company’s e-mail address, (vi) personal e-mail address, and (vii) phone number. Further, Secunia may collect information concerning the User Terminal Equipment.
+### Opting-out of Email
 
-4.2
+If you would like to be removed from our database, you can unsubscribe at <https://info.flexerasoftware.com/Manage-Preferences>. You may opt out of receiving future mailings from our mailing lists at any time. We always include a link in the footer of our emails for this purpose.
 
-In order to analyze user behavior and characteristics and thereby improve user experience in connection with login etc., Secunia records standard technical information, such as (i) the IP address of the user’s computer, (ii) browser software, (iii) the user’s operating system, and (iv) the referring site.
+### Cookies and Tracking Technology
 
-4.3
+Flexera Software and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-Cookies are used to track the user's behavior at the site, to generate web statistics and to provide an enhanced user experience. Cookies are also used in connection with any service requiring authentication. Certain functionalities may not be available if the user disables cookies on his/her browser.
+### Log Files
 
-4.4
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.) operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site . We do not link this automatically collected data to other information we collect about you.
 
-Personal identifiable information and Information concerning User Terminal Equipment submitted whilst visiting Secunia's website is stored in cookies in order to optimize communication to users.
+### How We Use Information Collected
 
-#### 5.
+Flexera Software uses information for several general purposes: to fulfill your requests for certain products and services, to personalize your experience on our Website, to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners, and to better understand your needs and provide you with better services. We may also use your information to send you, or to have our business partners send you, direct marketing information or contact you for market research. We also use Google AdWords tracking code to track the impact of some of our marketing programs.
 
-#### Disclosure of Information to Third Parties
+### Information Sharing and Disclosure
 
-5.1
+Because Flexera Software is a global company, your personal information may be shared with other Flexera Software offices or subsidiaries around the world. All such entities are governed by this Privacy Policy and/or are bound by the appropriate confidentiality and data transfer agreements.
 
-Secunia will not disclose any personally identifiable information or Information concerning User Terminal Equipmentto any third party unless the user has given his/her prior consent hereto, in accordance with the Danish Act on Processing of Personal Data , which allows disclosure of the gathered information following the user’s consent and Executive Order no. 1148 on Information and Consent Requiring in Case of Storing or Accessing Information in End-User Terminal Equipment.
+Your personal information is never shared outside Flexera Software without your permission, except under conditions explained below. Inside Flexera Software, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Flexera Software, its subsidiaries, affiliates or agents are located.
 
-6.1
+Flexera Software may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of Flexera Software to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners.
 
-Personal information and Information concerning User Terminal Equipment are used primarily to complete the service for which the information is collected.
+### Legal Disclaimer
 
-6.2
+In certain situations, Flexera Software may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Additionally, the information is used internally by Secunia in order to become better acquainted with the user.
+We will also disclose your personal information if required to do so by law, such as to comply with a subpoena, or similar legal process when we believe in good fatih that disclosure is necessary to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our Websites, investigate fraud, or respond to a government request.
 
-6.3
+If Flexera Software is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-This use may include studies and analyses directed at improving Secunia’s products, services, and technologies.
+### Data Security
 
-#### 7.
+Your Flexera Software account information is password-protected for your privacy and security. Flexera Software safeguards the security of the data you send us with physical, electronic, and managerial procedures. In certain areas of our Websites, Flexera Software uses industry-standard SSL-encryption to enhance the security of data transmissions. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
-#### Changes in the Processing of Information
+The security of your personal information is important to us. We follow generally accepted standards as stated above to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee it’s absolute security. If you have any questions about security on our website, you can contact us at [security@flexerasoftware.com](mailto:security@flexerasoftware.com)
 
-7.1
+### Testimonials
 
-The rapid development of the Internet means that changes in Secunia's processing of information may be required.
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [contracts@flexerasoftware.com](mailto:contracts@flexerasoftware.com).
 
-7.2
+### Referrals
 
-Therefore, Secunia is entitled to update and amend its Privacy Policy regarding processing of personal data and Information concerning User Terminal Equipment. If Secunia does change its Privacy Policy, Secunia must state the date when the policy was last updated at the end of the last page in the Privacy Policy. In the event of significant changes made to the Privacy Policy, Secunia will notify users in a visible notice on Secunia's websites, and the users will be instructed in how to unregister the personal information.
+If you choose to use our referral service and refer your friend to apply on a certain open position in our careers page, we will ask you for your friend’s name, phone number and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Flexera Software does not store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-8.1
+When purchasing product from the online store, you may be asked to enter the personal information of someone else as a shipping contact. This information will be stored and used to: generate access to the Customer Community; generate access to the Product and Licensing Center; and will be the default contact for renewal opportunity.
 
-The data collected by Secunia will not be kept for a longer period than what is necessary to fulfil the purpose for which the data was processed.
+### Behavioral Targeting / Re-Targeting
 
-#### 9.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-#### Protection of Information
+### Blog / Forum
 
-9.1
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [unsubscribe@flexerasoftware.com](mailto:unsubscribe@flexerasoftware.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-According to the Danish Act on Processing of Personal Data, personal information is to be stored in a secure and confidential manner. Secunia stores the personal information provided by users and Information concerning User Terminal Equipment on computers which have limited access and which are located in controlled facilities. Secunia also regularly carries out checks to ensure that Secunia’s personal user information and Information concerning User Terminal Equipment is handled securely and continuously to protect the user’s rights, according to the Danish Act on Processing of Personal Data and Executive Order no. 1148 on Information and Consent Requiring in Case of Storing or Accessing Information in End-User Terminal Equipment.
+### Public Profile
 
-9.2
+The profile you create on our site will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. If an account or profile was created without your knowledge or authorization, please contact us at [unsubscribe@flexerasoftware.com](mailto:unsubscribe@flexerasoftware.com).
 
-However, Secunia cannot guarantee security for data transmission via the Internet. This means that there is a risk that other persons may gain unauthorized access to personal information or Information concerning User Terminal Equipment when data is transmitted and stored electronically. Therefore, although Secunia strives to protect users’ privacy in the best possible way, Secunia cannot guarantee the security of all information.
+If you wish to deactivate or delete your profile, please contact us at [unsubscribe@flexerasoftware.com](mailto:unsubscribe@flexerasoftware.com).
 
-10.1
+### Social Media Widgets
 
-Any e-mail lists and marketing activities operated by Secunia are opt-in/opt-out compliant. If, for any reason, users cannot opt-out or Secunia continues to send e-mails and marketing material by mistake after the user has opted out, users must go to <http://secunia.com/company/contact_center/> to unsubscribe from all marketing emails or update their preferences. otherwise users can contact [marketing@secunia.com](mailto:marketing@secunia.com) and ask to be globally unsubscribed from Secunia’s mailing lists. Secunia will then make sure that the user is manually removed from Secunia's mailing lists.
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-##### Version 3, Copenhagen, 21 March 2014
+### Single Sign-On
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+### Third Party Websites
+
+Flexera Software's Website contains links to other sites. Flexera Software does not share your personal information with those Websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+
+### Processor/Service Platform Disclosure
+
+The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Flexera Software.
+
+Flexera Software acknowledges that you have the right to access your personal information. Flexera Software collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Flexera Software’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+
+We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Flexera Software will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### Changes to this Privacy Policy
+
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of notice on this website prior to the change becoming effective. At the end of this Privacy Policy will be the last updated date for your information. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### Inquiries or Suggestions
+
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [contracts@flexerasoftware.com](mailto:contracts@flexerasoftware.com).
+
+Flexera Software  
+300 Park Blvd, Suite 500  
+Itasca, IL 60143  
+(847) 466-4000
+
+This document was last updated March 2, 2017.
