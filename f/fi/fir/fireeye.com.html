@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the fireeye.com privacy policy that was archived on 2016-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202183331id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fireeye.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606175029id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><!-- Head (base Page): data-component-version="1.7" --><head>
-<!-- Headlibs (Base Page): data-component-version="1.25" -->
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!-- Head (base Page): data-component-version="1.9" --><head><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script type="text/javascript" async="" src="https://t.sf14g.com/sf14g.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script type="text/javascript" src="https://dpm.demdex.net/id?d_visid_ver=1.6.0&amp;d_fieldgroup=MC&amp;d_rtbd=json&amp;d_ver=2&amp;d_orgid=12390CDB53E9CC840A490D4E%40AdobeOrg&amp;d_nsid=0&amp;d_cb=s_c_il%5B0%5D._setMarketingCloudFields"></script>
+<!-- Cookies (Base Page): data-component-version="1.0" -->
+<!-- Marketo Cookie Integration: data-component-version="1.1.2" --><!-- Headlibs (Base Page): data-component-version="1.25" -->
 <title>Privacy and Cookie Policy | FireEye</title>
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="title" content="Privacy and Cookie Policy | FireEye">
-<meta http-equiv="Last-Modified" content="17 Nov 2016 10:48:10 EST">
+<meta http-equiv="Last-Modified" content="22 Mar 2017 16:15:20 EDT">
 
 	<link rel="alternate" hreflang="en_US" href="https://www.fireeye.com/company/privacy.html">
 	<link rel="alternate" hreflang="de_DE" href="https://www.fireeye.de/company/privacy.html">
@@ -45,9 +46,9 @@
 <meta property="og:site_name" content="FireEye">
 <meta property="fb:admins" content="45127269202">
 
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=4"></script><script type="text/javascript" async="" src="https://t.sf14g.com/sf14g.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
 <!-- Not author mode -->
-<script type="text/javascript" src="/etc/designs/fireeye-www/clientlibs_nav.js"></script>
+<script type="text/javascript" src="/etc/designs/fireeye-www/clientlibs_nav.min.js"></script>
 <script type="text/javascript">
 var cookiesOK = $.cookie("ec-privacy");
 
@@ -117,46 +118,60 @@ var ipLocation = (function () {
 
 ipLocation();
 </script><!-- Sling Include /content/fireeye-www/site-content/en_US/headlibs/jcr:content/grid-100-mid/htmlpassthru_836d -->
-	</head><body itemscope="" itemtype="http://schema.org/WebPage"><div class="htmlpassthru_836d htmlpassthru"><!-- HTML Passthru: data-component-version="1.4" -->
+	<!-- HTML Passthru: data-component-version="1.4" -->
 
 <!-- Demandbase API, after the head tag, before Adobe Analytics -->
 <script type="text/javascript" src="https://scripts.demandbase.com/adobeanalytics/WjFW6p7V.min.js"></script>
 <script type="text/javascript" src="https://api.demandbase.com/api/v2/ip.json?key=8aba30aa4ba99bc531d2a2cc0fd469e3&amp;callback=Dmdbase_CDC.callback"></script>
 
 <script type="text/javascript">
+    if (!String.prototype.includes) {
+        String.prototype.includes = function() {
+            return String.prototype.indexOf.apply(this, arguments) !== -1;
+        };
+    }
 var userAgent = navigator.userAgent,
-	gomezAgent = userAgent.includes("GomezAgent"),
-	prtgAgent = userAgent.includes("PRTG Network Monitor");
+gomezAgent = userAgent.includes("GomezAgent"),
+prtgAgent = userAgent.includes("PRTG Network Monitor");
 
 if (gomezAgent || prtgAgent) {
-	cookiesOK = "decline";
+    cookiesOK = "decline";
 }
 
 if (cookiesOK != "decline") {
-	// Adobe Analytics (Production), after the head tag
-	document.write('<script src="https://assets.adobedtm.com/1790e736b614e0afecbbbf9be7069b90b875fdd6/satelliteLib-018e5c8fee015d61f6e2636ab102f2624be19551.js"><\/script>');
-
-	// Google Analytics
-	var _gaq=_gaq || [];
-	_gaq.push(["_setAccount","UA-363943-1"]);
-	_gaq.push(['_setDomainName', 'fireeye.com']);
-	_gaq.push(['_trackPageview']);
-	(function() {
-		var ga = document.createElement('script');
-		ga.type = 'text/javascript';
-		ga.async = true;
-		ga.src = 'https://stats.g.doubleclick.net/dc.js';
-		var s = document.getElementsByTagName('script')[0];
-		s.parentNode.insertBefore(ga, s);
-	})();
+    // Adobe Analytics (Production), after the head tag
+    document.write('<script src="https://assets.adobedtm.com/1790e736b614e0afecbbbf9be7069b90b875fdd6/satelliteLib-018e5c8fee015d61f6e2636ab102f2624be19551.js"><\/script>');
+    
+    // Google Analytics
+    var _gaq=_gaq || [];
+    _gaq.push(["_setAccount","UA-363943-1"]);
+    _gaq.push(['_setDomainName', 'fireeye.com']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+     var ga = document.createElement('script');
+     ga.type = 'text/javascript';
+     ga.async = true;
+     ga.src = 'https://stats.g.doubleclick.net/dc.js';
+     var s = document.getElementsByTagName('script')[0];
+     s.parentNode.insertBefore(ga, s);
+     })();
 }
 </script><script src="https://assets.adobedtm.com/1790e736b614e0afecbbbf9be7069b90b875fdd6/satelliteLib-018e5c8fee015d61f6e2636ab102f2624be19551.js"></script>
-</div>
-<!-- Init (Base Page): data-component-version="1.1" --><link rel="stylesheet" href="/etc/designs/fireeye-www/clientlibs_fw.css" type="text/css">
-<!--[if lt IE 9]>
-<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+<style>.g02.g02v0{display:none}.l_container>h1,.blog .introduction h1,.blog .entrytitle h1{text-transform:inherit;color:inherit;margin-top:0;padding-top:20px}.blog .introduction h1,.blog .entrytitle h1{margin-bottom:20px}.blog-sidebar{padding-top:20px}.l_container>h1:after,.blog .introduction h1:after,.blog .entrytitle h1:after{border-bottom:3px solid #d82435;content:'';display:block;margin-top:16px;width:50px}.blog .entrytitle h1{font-size:30px}@media(min-width:42em){.l_container>h1,.blog .introduction h1,.blog .entrytitle h1,.blog-sidebar{padding-top:30px}.blog .entrytitle h1{font-size:36px}}@media(min-width:60em){.l_container>h1,.blog .introduction h1,.blog .entrytitle h1,.blog-sidebar{padding-top:60px}.blog .entrytitle h1{font-size:42px}.g02.g02v0{background-color:transparent;border-bottom:0;background-image:-moz-linear-gradient(rgba(0,0,0,0) calc(100% - 15px),rgba(0,0,0,0.20) calc(100% - 15px),rgba(0,0,0,0) 100%);background-image:-webkit-linear-gradient(rgba(0,0,0,0) calc(100% - 15px),rgba(0,0,0,0.20) calc(100% - 15px),rgba(0,0,0,0) 100%);background-image:linear-gradient(rgba(0,0,0,0) calc(100% - 15px),rgba(0,0,0,0.20) calc(100% - 15px),rgba(0,0,0,0) 100%);padding-bottom:15px;position:relative;display:block}.breadcrumb+.l_main{margin-top:-15px}}.blog-sidebar .sidebar span:nth-child(3){padding-left:20px !important}</style>
 
+<style>
+    .n01.n01v0 .n01_cell .n01_text{display:none}@media (min-width: 48em){.n01.n01v0 *{box-sizing:border-box}.n01.n01v0 .n01_table{width:100%}.n01.n01v0 .n01_link{position:relative;float:right;width:70px;height:70px;display:block;margin:0;transition:width, 0.3s;background-color:rgba(0,0,0,.95)}.n01.n01v0 .n01_cell:first-child .n01_link{background-color:rgba(216,36,53,.95)}.n01.n01.n01v0 .n01_cell{overflow:hidden;display:block;background-color:transparent;width:auto;height:72px;margin:0;border-style:solid;border-width:1px 0;border-color:transparent}.n01.n01v0 .n01_cell:hover a{width:250px;background-color:rgba(77,168,212,.95);background-image:linear-gradient(to right, rgba(0,0,0,0) 0,rgba(0,0,0,0.25) 72%,rgba(0,0,0,0.25) 100%)}.n01.n01v0 .n01_cell:first-child:hover a{background-color:rgba(216,36,53,.95)}.n01.n01v0 .n01_label, .n01.n01v0 .n01_icon{right:0;top:8px;width:70px;position:absolute}.n01.n01v0 .n01_label{top:37px}.n01.n01v0 .n01_cell .ficon, .n01.n01v0 .n01_cell .n01_label, .n01.n01.n01v0 .n01_title:after{transition:border-color 0.3s, color 0.3s}.n01.n01v0 .n01_cell .ficon, .n01.n01v0 .n01_cell .n01_label, .n01.n01.n01v0 .n01_cell:first-child .n01_title:after{color:#fff;border-color:#fff;transition:border-color 0.3s, color 0.3s}.n01.n01v0 .n01_cell:hover .ficon, .n01.n01v0 .n01_cell:hover .n01_label, .n01.n01v0 .n01_text, .n01.n01v0 .n01_cell:hover .n01_title:after{color:#fff;border-color:#fff;transition:border-color 0.3s, color 0.3s}.n01.n01v0 .n01_cell .n01_text{display:block;width:250px;padding:0 70px 0 20px;position:absolute;top:50%;transform:translateY(-50%);font-family:MontserratLight,Arial,Helvetica,sans-serif;font-size:14px;text-align:left;opacity:0;transition:opacity .1s}.n01.n01v0 .n01_cell:hover .n01_text{opacity:1;color:#fff;transition:opacity 0.3s ease-in}}
+    </style>
+
+<script>
+    jQuery(document).ready(function() {
+                           $(".n01 li:nth-child(1) .n01_link").prepend('<span class="n01_text">Breached? Report&nbsp;an&nbsp;incident</span>');
+                           $(".n01 li:nth-child(2) .n01_link").prepend('<span class="n01_text">Have a question? Contact us</span>');
+                           $(".n01 li:nth-child(3) .n01_link").prepend('<span class="n01_text">Chat with a sales representative</span>');
+                           });
+    </script>
+<!-- Init (Base Page): data-component-version="1.1" --><link rel="stylesheet" href="/etc/designs/fireeye-www/clientlibs_fw.min.css" type="text/css">
+<script type="text/javascript" src="/etc/designs/fireeye-www/clientlibs_analytics.min.js"></script><script type="text/javascript" src="https://web.archive.org/web/20171001025711/https://assets.adobedtm.com/1790e736b614e0afecbbbf9be7069b90b875fdd6/satelliteLib-018e5c8fee015d61f6e2636ab102f2624be19551-staging.js"></script><script src="https://assets.adobedtm.com/1790e736b614e0afecbbbf9be7069b90b875fdd6/mbox-contents-b8c0af0f30e70fb0504427e46d7b77a937a9d4a7-staging.js"></script>
 
 <link rel="apple-touch-icon" href="https://www.fireeye.com/content/dam/framework/touch-icon-iphone-60.png">
 <link rel="apple-touch-icon" sizes="76x76" href="https://www.fireeye.com/content/dam/framework/touch-icon-ipad-76.png">
@@ -166,17 +181,15 @@ if (cookiesOK != "decline") {
 <link rel="touch-icon" sizes="192x192" href="https://www.fireeye.com/content/dam/framework/touch-icon-192.png">
 <link rel="icon" type="image/vnd.microsoft.icon" href="/content/dam/fireeye-www/fw/images/fireeye.ico">
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/content/dam/fireeye-www/fw/images/fireeye.ico">
-<script type="text/javascript" src="/etc/designs/fireeye-www/common/listeners.js"></script>
+<script src="https://assets.adobedtm.com/1790e736b614e0afecbbbf9be7069b90b875fdd6/s-code-contents-9ce38d55235aac587fd33aff852adda8ed05817d-staging.js"></script></head>
 
-
-<!-- Body (Base Page): data-component-version="1.10" -->
-<a name="top"></a>
-<div class="parbase clientcontext"><script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/shared.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/lodash/modern.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.js"></script>
+<!-- Body (Base Page): data-component-version="1.12" -->
+<body itemscope="" itemtype="http://schema.org/WebPage" class="loc-en_US"><a name="top"></a><script type="text/javascript">window.Granite = window.Granite || {}; window.Granite.csrf = true;</script><div class="parbase clientcontext"><script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/shared.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/lodash/modern.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.min.js"></script>
 <script type="text/javascript">
     $CQ(function() {
         CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation");
@@ -201,244 +214,236 @@ function tracknav(target) {
 }
 </script>
 
-<!-- Header (Base Page): data-component-version="1.8" -->
-<!-- Sling Include /content/fireeye-www/site-content/en_US/masthead/jcr:content/grid-100-mid/masthead_c5d5 -->
-	<div class="masthead_c5d5 masthead"><!-- Masthead: data-component-version="1.6" -->
-<div class="l_header_placeholder">
-	<header class="l_header is-fixed" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
-		<div class="l_header-bd">
-			<div class="g01 g01v0" id="g01-masthead">
-				<div class="g01_phone"><h5><a href="/customers.html">Customer Stories</a></h5> <h5><a href="/blog.html">Blogs</a></h5></div>
-				<div class="g01_brand" itemscope="" itemtype="https://schema.org/Brand">
-					<a href="https://www.fireeye.com"><img src="/content/dam/fireeye-www/fw/images/fireeye-2-color.png" class="l_header-logo" alt="FireEye" itemprop="logo"></a>
-				</div>
-				<div class="g01_other">
-					<ul class="g01_options">
-					<li class="g01_options_item">
-						<a class="g01_options-option option-worldwide" href="#header-worldwide" data-behavior="showHeaderMenu"><span class="g01_options-label">Language</span></a>
-						<div class="option-menu" id="header-worldwide">
-							<h5>My preferred language:</h5>
-							<ul class="g01_options_list list-bullet"><li><a href="https://www.fireeye.fr" target="_blank">Français (French)</a></li><li><a href="https://www.fireeye.de" target="_blank">Deutsch (German)</a></li><li><a href="https://www.fireeye.jp" target="_blank">日本語 (Japanese)</a></li><li><a href="https://www.fireeye.kr" target="_blank">한국어 (Korean)</a></li><li><a href="/index.html">English</a></li><li><a href="/products/international-literature.html">More Languages</a></li></ul>
-						</div>
-					</li>
-					<li class="g01_options_item">
-						<div class="content-searchbox searchbox"><!-- Search Input: data-component-version="1.2" -->
-
-<a class="g01_options-option option-search" href="#header-search" data-for="q" data-behavior="showHeaderMenu focusField">Search FireEye.com</a>
+<!-- Header (Base Page): data-component-version="1.9" -->
+<!-- Sling Include /content/fireeye-www/site-content/en_US/masthead/jcr:content/grid-100-mid/masthead_v2 -->
+	<div class="masthead-v2 masthead_v2"><!-- Masthead v2: data-component-version="2.1" -->
+<div class="g04 masthead">
+    <header role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
+        <div class="language-and-search g01_other">
+            <div class="row">
+                <div class="language">
+                    <a class="g01_options-option g01_option-worldwide" href="#header-worldwide" data-behavior="showHeaderMenu">
+                        <span class="g01_options-label">Language</span>
+                    </a>
+                    <div class="option-menu" id="header-worldwide">
+                        <h5>My preferred language:</h5>
+                        <ul class="g01_options_list list-bullet"><li><a href="/index.html">English (English)</a></li><li><a href="https://www.fireeye.fr" target="_blank">French (Français)</a></li><li><a href="https://www.fireeye.de" target="_blank">German (Deutsch)</a></li><li><a href="https://www.fireeye.jp" target="_blank">Japanese (日本語)</a></li><li><a href="https://www.fireeye.kr" target="_blank">Korean (한국어)</a></li><li><a href="/products/international-literature.html">More languages</a></li></ul>
+                    </div>
+                </div>
+                <div class="search">
+                    <div class="content-searchbox searchbox"><!-- Search Input: data-component-version="1.2" -->
+<script>
+function showResult(str) {
+  var resultText="";
+  if (str.length==0) { 
+    document.getElementById("searchboxsuggestions").innerHTML="";
+    document.getElementById("searchboxsuggestions").style.border="0px";
+    return;
+  }
+  if (window.XMLHttpRequest) {
+    // code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  } else {  // code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function() {
+    if (this.readyState==4 && this.status==200 && this.responseText!="No Results") {
+    	var results = this.responseText.split(",");
+    	for(var i=0;i<=results.length-1;i++)
+    		{
+    		resultText = resultText+"<a href=search.html?q="+results[i]+">"+results[i]+"</a><br/>";
+    		}
+      document.getElementById("searchboxsuggestions").innerHTML=resultText;
+      document.getElementById("searchboxsuggestions").style.border="1px solid #A5ACB2";
+    }
+  }
+  xmlhttp.open("GET","/apps/search/searchSuggestServlet?q="+str,true);
+  xmlhttp.send();
+}
+</script>
+<a class="g01_options-option option-search" href="#header-search" data-for="q" data-behavior="showHeaderMenu focusField">Search</a>
 <div class="option-menu option-menu_search" id="header-search">
 	<form method="get" action="/search.html">
 		<fieldset class="search-field" title="Search FireEye.com">
 		<label class="search-field_label" for="q">Search FireEye.com</label>
 		<input class="input-text search-field_text" type="text" name="q" id="q" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search FireEye.com">
+		<div id="searchboxsuggestions"></div>
 		<button class="btn btn-secondary search-field_submit" type="submit">Go</button>
 		</fieldset>
 	</form>
+	<div id="searchboxsuggestions"></div>
 </div>
 </div>
-</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</header>
 </div>
-</div>
-<!-- TopNav (Base Page): data-component-version="1.11" -->
-<!-- Sling Include /content/fireeye-www/site-content/en_US/megamenus/jcr:content/parsys-navigation/primary_nav_f1bc -->
-	<div class="primary-nav primary_nav_f1bc"><!-- Primary Navigation: data-component-version="1.8" -->
-<div class="n03_placeholder" id="n03-navigation">
-	<div class="n03 n03v0 is-fixed" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-		<a class="n03-skip" href="#main">Skip Navigation</a>
-		<a class="n03_title" data-title="Menu" href="#navigation" data-behavior="show-nav"><h2 itemprop="headline">Site Navigation</h2></a>
-		<nav class="n03_nav" id="navigation">
-			<div class="n03_nav-primary" id="n03-primary">
-				<ul class="n03_list"><li class="n03_list-item is-primary">
-					<!-- /content/fireeye-www/en_US/company.html || /content/fireeye-www/en_US/products.html -->
-					<div class="n03_list-item-sub_wrap">
-						<h4 class="n03_list-item-title">
-							<a href="/products.html" itemprop="url">Products</a><button class="n03_list-item-sub_show" data-behavior="show-nav-sub" role="button" type="button">Show More</button></h4>
-						<!-- Sling Include -->
-						<div class="content-0-par parsys"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.4" -->
+            </div>
+        </div>
+        <div class="logo-and-megamenu">
+            <div class="row">
+                <div class="logo" itemscope="" itemtype="https://schema.org/Brand">
+                    <a href="https://www.fireeye.com"><img src="/content/dam/fireeye-www/fw/images/fireeye-2-color.png" alt="FireEye" itemprop="logo"></a>
+                </div>
+                
+                <nav class="megamenu">
+                    <div class="current-menu">
+                        <h4>
+                            <span class="ficon ficon-arrow-left"></span>
+                            <span class="text"></span>
+                        </h4>
+                    </div>
+                    <ul><li class="megamenu-tab" data-curry="/company.html" data-link="/products.html">
+                            <h4 class="megamenu-title">
+                                <a href="/products.html" itemprop="url">Products</a>
+                            <span class="ficon ficon-arrow-right"></span></h4>
+                        <div class="content-0-par parsys"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.5" -->
 <!-- MegaMenu Sub-navigation -->
-<div class="n03_list-item-sub">
+<div class="n03_list-item-sub has-outer-cta has-inner-cta " data-parent-resource-type="fireeye-www/fdc/components/navigation/megamenu-grouper">
 	<div class="n03-sub_container">
-		<div class="n03-sub_table"><!-- MegaMenu Column -->
+		<div class="n03-sub_table" data-columns="3"><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Network</h4><ul><li itemprop="url"><a href="/products/nx-network-security-products.html" itemprop="name">Network Security</a><em class="n03_xs"> NX Series</em></li>
-			<li itemprop="url"><a href="/products/nx-network-security-products/nx-power.html" itemprop="name"><span style="margin-left:20px">NX Power</span></a></li>
-			<li itemprop="url"><a href="/products/nx-network-security-products/nx-essentials.html" itemprop="name"><span style="margin-left:20px">NX Essentials</span></a></li>
-			<li itemprop="url"><a href="/products/nx-network-security-products/ssl-intercept.html" itemprop="name"><span style="margin-left:20px">SSL Intercept Appliance</span></a></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Email</h4><ul><li itemprop="url"><a href="/products/ex-email-security-products.html" itemprop="name">Email Security</a><em class="n03_xs"> On-Premises or Cloud</em></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Mobile</h4><ul><li itemprop="url"><a href="/products/mobile-threat-protection-mobile-security-products.html" itemprop="name">Mobile Security</a><em class="n03_xs"> Mobile Threat Prevention</em></li>
-			</ul></div>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Assess and Prepare<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/services/proactive-tests.html" itemprop="name">Proactive Tests<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/services/assessments.html" itemprop="name">Assessments<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/services/breach-preparedness.html" itemprop="name">Breach Preparedness<span class="ficon ficon-arrow-right"></span></a></li>
+			<li class="view-all"><a href="/web/20170403165604/https://www.fireeye.com/assess-and-prepare.html">View all<span class="ficon ficon-arrow-right"></span></a></li></ul></div>
 
 </div>
 </div><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Endpoint</h4><ul><li itemprop="url"><a href="/products/hx-endpoint-security-products.html" itemprop="name">Endpoint Security</a><em class="n03_xs"> HX Series</em></li>
-			<li itemprop="url"><a href="/products/mir-endpoint-forensics.html" itemprop="name">Endpoint Forensics</a></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Forensics</h4><ul><li itemprop="url"><a href="/products/enterprise-forensics.html" itemprop="name">Enterprise Forensics</a><em class="n03_xs"> PX and IA Series</em></li>
-			<li itemprop="url"><a href="/products/malware-analysis.html" itemprop="name">Malware Analysis</a><em class="n03_xs"> AX Series</em></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">File System and Storage</h4><ul><li itemprop="url"><a href="/products/fx-content-security-products.html" itemprop="name">File Content Security</a><em class="n03_xs"> FX Series</em></li>
-			</ul></div>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Detect and Prevent<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/products/nx-network-security-products.html" itemprop="name">Network Security<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/products/ex-email-security-products.html" itemprop="name">Email Security<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/products/hx-endpoint-security-products.html" itemprop="name">Endpoint Security<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/products/fx-content-security-products.html" itemprop="name">Content Security<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/products/threat-analytics-platform.html" itemprop="name">Threat Analytics Platform<span class="ficon ficon-arrow-right"></span></a></li>
+			<li class="view-all"><a href="/web/20170403165604/https://www.fireeye.com/detect-and-prevent.html">View all<span class="ficon ficon-arrow-right"></span></a></li></ul></div>
 
 </div>
 </div><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Security Management Products</h4><ul><li itemprop="url"><a href="/products/threat-analytics-platform.html" itemprop="name">Threat Analytics Platform</a><em class="n03_xs"> Security Data Analytics</em></li>
-			<li itemprop="url"><a href="/products/central-management.html" itemprop="name">Central Management</a><em class="n03_xs"> CM Series</em></li>
-			<li itemprop="url"><a href="/products/security-orchestrator.html" itemprop="name">Security Orchestrator</a></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Subscriptions</h4><ul><li itemprop="url"><a href="/products/fireeye-as-a-service.html" itemprop="name">FireEye as a Service</a></li>
-			<li itemprop="url"><a href="/products/cyber-threat-intelligence.html" itemprop="name">Cyber Threat Intelligence</a></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title" itemprop="url"><a href="/products.html" itemprop="name">Browse All Products</a></h4></div>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Analyze and Respond<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/products/helix.html" itemprop="name">FireEye Helix<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/services/mandiant-incident-response.html" itemprop="name">Incident Response Services<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/products/forensics-investigation.html" itemprop="name">Forensics and Investigation<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/products/security-orchestrator.html" itemprop="name">Security Orchestrator<span class="ficon ficon-arrow-right"></span></a></li>
+			<li class="view-all"><a href="/web/20170403165604/https://www.fireeye.com/analyze-and-respond.html">View all<span class="ficon ficon-arrow-right"></span></a></li></ul></div>
 
 </div>
-</div></div>
-	</div>
-	<!-- MegaMenu Call to Action --><div class="megamenu-cta"><!-- MegaMenu CTA: data-component-version="1.5" -->
-<!-- MegaMenu Horizontal Call to Action -->
-<div class="n03_utility">
-	<div class="n03_utility_container">
-		<div class="n03_utility_table">
-			<div class="n03_utility_cell">
-				<h5>Security as a Service</h5>
-				<p>Effective, efficient security with the value and scale you need, when you need it.</p>
-			</div>
-			<div class="n03_utility_cell"><div class="button"><!-- Button: data-component-version="1.17" --><a class="btn btn-secondary btn-007DB6" href="/security-as-a-service.html">Learn More</a>
+</div><div class="megamenu-cta"><!-- MegaMenu CTA: data-component-version="1.6" -->
+<!-- MegaMenu Vertical Call to Action -->
+<div class="n03-sub_cell n03-sub_cell-utility">
+	<div class="media-object"><div class="media-object_content">
+			<h5>Threat Intelligence</h5>
+			<p>Today’s cyber attackers are more sophisticated than ever. To anticipate and respond to their attacks you need to understand their motivations, intentions, characteristics, and methods.</p><div class="button"><!-- Button: data-component-version="1.18" --><a class="btn btn-tertiary btn-007DB6" href="/web/20170403165604/https://www.fireeye.com/products/cyber-threat-intelligence.html" id="learn-more-intel">Learn more</a></div>
 </div>
-</div>
-		</div>
 	</div>
 </div></div>
 </div>
+	</div>
+	<!-- MegaMenu Call to Action --><div class="megamenu-cta"><!-- MegaMenu CTA: data-component-version="1.6" -->
+<!-- MegaMenu Vertical Call to Action -->
+<div class="n03-sub_cell n03-sub_cell-utility">
+	<div class="media-object"><div class="media-object_content">
+			<h5>FireEye as a Service</h5>
+			<p>Provides continuous compromise assessment and response, using FireEye products and intelligence to detect signs of intrusion early, rapidly investigate, and provide the answers you need to respond effectively.</p><div class="button"><!-- Button: data-component-version="1.18" --><a class="btn btn-secondary btn-D82435" href="/web/20170403165604/https://www.fireeye.com/products/fireeye-as-a-service.html" id="learn-more-faas">Learn more</a></div>
+</div>
+	</div>
+</div></div>
+<div class="view-all-bar">
+        <a href="/web/20170403165604/https://www.fireeye.com/products-services.html">
+            View all Products &amp; Services</a>
+    </div></div>
 </div>
 
-</div>
-</div>
-				</li><li class="n03_list-item is-primary">
-					<!-- /content/fireeye-www/en_US/company.html || /content/fireeye-www/en_US/solutions.html -->
-					<div class="n03_list-item-sub_wrap">
-						<h4 class="n03_list-item-title">
-							<a href="/solutions.html" itemprop="url">Solutions</a><button class="n03_list-item-sub_show" data-behavior="show-nav-sub" role="button" type="button">Show More</button></h4>
-						<!-- Sling Include -->
-						<div class="content-1-par parsys"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.4" -->
+</div></li><li class="megamenu-tab" data-curry="/company.html" data-link="/services.html">
+                            <h4 class="megamenu-title">
+                                <a href="/services.html" itemprop="url">Services</a>
+                            <span class="ficon ficon-arrow-right"></span></h4>
+                        <div class="content-1-par parsys"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.5" -->
 <!-- MegaMenu Sub-navigation -->
-<div class="n03_list-item-sub">
+<div class="n03_list-item-sub has-outer-cta has-inner-cta " data-parent-resource-type="fireeye-www/fdc/components/navigation/megamenu-grouper">
 	<div class="n03-sub_container">
-		<div class="n03-sub_table"><!-- MegaMenu Column -->
+		<div class="n03-sub_table" data-columns="2"><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Solutions for</h4><ul><li itemprop="url"><a href="/solutions/datacenter.html" itemprop="name">Data Center</a></li>
-			<li itemprop="url"><a href="/solutions/ransomware.html" itemprop="name">Ransomware</a></li>
-			<li itemprop="url"><a href="/solutions/endpoint-and-mobility.html" itemprop="name">Endpoint and Mobility</a></li>
-			<li itemprop="url"><a href="/solutions/enterprise-network-security.html" itemprop="name">Enterprise Networks</a></li>
-			<li itemprop="url"><a href="/solutions/incident-investigation.html" itemprop="name">Incident Investigation</a></li>
-			<li itemprop="url"><a href="/solutions/small-and-midsize-business.html" itemprop="name">Small and Midsize Businesses</a></li>
-			<li itemprop="url"><a href="/solutions/industrial-systems-and-critical-infrastructure-security.html" itemprop="name">Industrial Systems &amp; Critical Infrastructure Security</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Solutions for<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/datacenter.html" itemprop="name">Data Centers<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/ransomware.html" itemprop="name">Ransomware<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/enterprise-network-security.html" itemprop="name">Enterprise Networks<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/incident-investigation.html" itemprop="name">Incident Investigation<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/small-and-midsize-business.html" itemprop="name">Small and Midsize Businesses<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/endpoint-defense-goes-far-beyond-prevention.html" itemprop="name">Endpoint Security: Far Beyond Prevention<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/industrial-systems-and-critical-infrastructure-security.html" itemprop="name">Industrial Control Systems &amp; Critical Infrastructure<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
 </div><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Industries</h4><ul><li itemprop="url"><a href="/solutions/financial-services.html" itemprop="name">Financial Services</a></li>
-			<li itemprop="url"><a href="/solutions/government.html" itemprop="name">Government</a></li>
-			<li itemprop="url"><a href="/solutions/healthcare.html" itemprop="name">Healthcare</a></li>
-			<li itemprop="url"><a href="/solutions/retail.html" itemprop="name">Retail</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Industries<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/financial-services.html" itemprop="name">Financial Services<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/government.html" itemprop="name">Government<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/healthcare.html" itemprop="name">Healthcare<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/solutions/retail.html" itemprop="name">Retail<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
-</div><!-- MegaMenu Column -->
-			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Subscriptions</h4><ul><li itemprop="url"><a href="/products/fireeye-as-a-service.html" itemprop="name">FireEye as a Service</a></li>
-			<li itemprop="url"><a href="/products/cyber-threat-intelligence.html" itemprop="name">Cyber Threat Intelligence</a></li>
-			</ul></div>
-
+</div><div class="megamenu-cta"><!-- MegaMenu CTA: data-component-version="1.6" -->
+<!-- MegaMenu Vertical Call to Action -->
+<div class="n03-sub_cell n03-sub_cell-utility">
+	<div class="media-object"><div class="media-object_content">
+			<h5>Threat Intelligence</h5>
+			<p>Today’s cyber attackers are more sophisticated than ever. To anticipate and respond to their attacks you need to understand their motivations, intentions, characteristics, and methods.</p><div class="button"><!-- Button: data-component-version="1.18" --><a class="btn btn-tertiary btn-007DB6" href="/web/20170403165604/https://www.fireeye.com/products/cyber-threat-intelligence.html" id="learn-more-intel">Learn more</a></div>
 </div>
-</div></div>
-	</div>
-	<!-- MegaMenu Call to Action --><div class="megamenu-cta"><!-- MegaMenu CTA: data-component-version="1.5" -->
-<!-- MegaMenu Horizontal Call to Action -->
-<div class="n03_utility">
-	<div class="n03_utility_container">
-		<div class="n03_utility_table">
-			<div class="n03_utility_cell">
-				<h5>Security as a Service</h5>
-				<p>Effective, efficient security with the value and scale you need, when you need it.</p>
-			</div>
-			<div class="n03_utility_cell"><div class="button"><!-- Button: data-component-version="1.17" --><a class="btn btn-secondary btn-007DB6" href="/security-as-a-service.html">Learn More</a>
-</div>
-</div>
-		</div>
 	</div>
 </div></div>
 </div>
+	</div>
+	<!-- MegaMenu Call to Action --><div class="megamenu-cta"><!-- MegaMenu CTA: data-component-version="1.6" -->
+<!-- MegaMenu Vertical Call to Action -->
+<div class="n03-sub_cell n03-sub_cell-utility">
+	<div class="media-object"><div class="media-object_content">
+			<h5>Security as a Service</h5>
+			<p>Effective, efficient security with the value and scale you need, when you need it.</p><div class="button"><!-- Button: data-component-version="1.18" --><a class="btn btn-secondary btn-D82435" href="/web/20170403165604/https://www.fireeye.com/security-as-a-service.html" id="learn-more-faas">Learn more</a></div>
+</div>
+	</div>
+</div></div>
+<div class="view-all-bar">
+        <a href="/web/20170403165604/https://www.fireeye.com/solutions.html">
+            View all Solutions</a>
+    </div></div>
 </div>
 
-</div>
-</div>
-				</li><li class="n03_list-item is-primary">
-					<!-- /content/fireeye-www/en_US/company.html || /content/fireeye-www/en_US/services.html -->
-					<div class="n03_list-item-sub_wrap">
-						<h4 class="n03_list-item-title">
-							<a href="/services.html" itemprop="url">Services</a><button class="n03_list-item-sub_show" data-behavior="show-nav-sub" role="button" type="button">Show More</button></h4>
-						<!-- Sling Include -->
-						<div class="content-2-par parsys"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.4" -->
+</div></li><li class="megamenu-tab" data-curry="/company.html" data-link="/solutions.html">
+                            <h4 class="megamenu-title">
+                                <a href="/solutions.html" itemprop="url">Solutions</a>
+                            <span class="ficon ficon-arrow-right"></span></h4>
+                        <div class="content-2-par parsys"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.5" -->
 <!-- MegaMenu Sub-navigation -->
-<div class="n03_list-item-sub" id="mandiant-mega-menu">
+<div class="n03_list-item-sub " data-parent-resource-type="fireeye-www/fdc/components/navigation/megamenu-grouper">
 	<div class="n03-sub_container">
-		<div class="n03-sub_table"><!-- MegaMenu Column -->
+		<div class="n03-sub_table" data-columns="3"><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title" itemprop="url"><a href="/services/i-am-breached-what-do-i-do.html" itemprop="name">I Am Breached!</a></h4><ul><li itemprop="url"><a href="/services/mandiant-incident-response.html" itemprop="name">Incident Response Services</a></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title" itemprop="url"><a href="/services/am-i-at-risk.html" itemprop="name">Am I At Risk?</a></h4><ul><li itemprop="url"><a href="/services/red-team-operations.html" itemprop="name">Red Team Operations</a></li>
-			<li itemprop="url"><a href="/services/penetration-testing.html" itemprop="name">Penetration Testing</a></li>
-			<li itemprop="url"><a href="/services/mandiant-industrial-control-system-gap-assessment.html" itemprop="name">Industrial Control Systems Healthcheck</a></li>
-			<li itemprop="url"><a href="/services/mergers-and-acquisitions-risk-assessment.html" itemprop="name">Mergers and Acquisitions (M&amp;A) Risk Assessment</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">FireEye Partners<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/partners/resellers.html" itemprop="name">Value-Add Resellers<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/partners/strategic-technology-partners.html" itemprop="name">Strategic Alliance Partners<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/partners/global-solution-providers.html" itemprop="name">Global Service Providers and MSSPs<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/partners/alliance-partners.html" itemprop="name">Cyber Security Coalition<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
 </div><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title" itemprop="url"><a href="/services/am-i-compromised.html" itemprop="name">Am I Compromised?</a></h4><ul><li itemprop="url"><a href="/services/mandiant-compromise-assessment.html" itemprop="name">Compromise Assessment</a></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title" itemprop="url"><a href="/services/am-i-prepared.html" itemprop="name">Am I Prepared?</a></h4><ul><li itemprop="url"><a href="/services/mandiant-security-program-assessment.html" itemprop="name">Security Program Assessment</a></li>
-			<li itemprop="url"><a href="/services/mandiant-response-readiness-assessment.html" itemprop="name">Response Readiness Assessment</a></li>
-			<li itemprop="url"><a href="/services/tabletop-exercise.html" itemprop="name">Tabletop Exercise</a></li>
-			<li itemprop="url"><a href="/services/mandiant-incident-response-retainer-services.html" itemprop="name">Incident Response Retainer</a></li>
-			<li itemprop="url"><a href="/services/cyber-insurance-risk-assessment.html" itemprop="name">Cyber Insurance Risk Assessment</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Partner Resources<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="https://web.archive.org/web/20170403165604/https://tfs.fireeye.com/" target="_blank" itemprop="name">Partner Enablement<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="https://web.archive.org/web/20170403165604/http://partnerportal.fireeye.com/" target="_blank" itemprop="name">Partner Portal<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/education.html" itemprop="name">Education Center<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
 </div><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title" itemprop="url"><a href="/services/prepare-for-future-events.html" itemprop="name">Prepare for Future Events</a></h4><ul><li itemprop="url"><a href="/services/mandiant-cyber-defense-center-development.html" itemprop="name">Cyber Defense Center Development</a></li>
-			<li itemprop="url"><a href="/services/cyber-threat-intelligence-services.html" itemprop="name">Cyber Threat Intelligence Services</a></li>
-			<li itemprop="url"><a href="/services/training.html" itemprop="name">Education Services</a></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Community Resources</h4><ul><li itemprop="url"><a href="/services/freeware.html" itemprop="name">Free Software</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Partnering with FireEye<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/partners/partnering-with-fireeye.html" itemprop="name">Partnering with FireEye<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="https://web.archive.org/web/20170403165604/https://www2.fireeye.com/Partner-Request-LP-New.html" target="_blank" itemprop="name">Become a Partner<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/partners/partner-certifications-and-accreditations.html" itemprop="name">Partner Certifications and Accreditations<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
@@ -447,53 +452,36 @@ function tracknav(target) {
 	<!-- MegaMenu Call to Action --></div>
 </div>
 
-</div>
-</div>
-				</li><li class="n03_list-item is-primary">
-					<!-- /content/fireeye-www/en_US/company.html || /content/fireeye-www/en_US/current-threats.html -->
-					<div class="n03_list-item-sub_wrap">
-						<h4 class="n03_list-item-title">
-							<a href="/current-threats.html" itemprop="url">Current Threats</a><button class="n03_list-item-sub_show" data-behavior="show-nav-sub" role="button" type="button">Show More</button></h4>
-						<!-- Sling Include -->
-						<div class="content-3-par parsys"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.4" -->
+</div></li><li class="megamenu-tab" data-curry="/company.html" data-link="/partners.html">
+                            <h4 class="megamenu-title">
+                                <a href="/partners.html" itemprop="url">Partners</a>
+                            <span class="ficon ficon-arrow-right"></span></h4>
+                        <div class="content-3-par parsys"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.5" -->
 <!-- MegaMenu Sub-navigation -->
-<div class="n03_list-item-sub">
+<div class="n03_list-item-sub " data-parent-resource-type="fireeye-www/fdc/components/navigation/megamenu-grouper">
 	<div class="n03-sub_container">
-		<div class="n03-sub_table"><!-- MegaMenu Column -->
+		<div class="n03-sub_table" data-columns="3"><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Blogs</h4><ul><li itemprop="url"><a href="/blog/threat-research.html" itemprop="name">Threat Research Blog</a></li>
-			<li itemprop="url"><a href="/blog/products-and-services.html" itemprop="name">Products and Services Central</a></li>
-			<li itemprop="url"><a href="/blog/executive-perspective.html" itemprop="name">Executive Perspective Blog</a></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Intelligence Briefings and Bulletins</h4><ul><li itemprop="url"><a href="/current-threats/recent-zero-day-attacks.html" itemprop="name">Recent Zero-Day Exploits</a></li>
-			<li itemprop="url"><a href="/current-threats/annual-threat-report.html" itemprop="name">Annual Threat Reports</a></li>
-			<li itemprop="url"><a href="/current-threats/threat-intelligence-reports.html" itemprop="name">Threat Intelligence Reports</a></li>
-			<li itemprop="url"><a href="/current-threats/reports-by-industry.html" itemprop="name">Threat Intelligence Reports by Industry</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Get Support<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/support/contacts.html" itemprop="name">Contact Support<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="https://web.archive.org/web/20170403165604/https://csportal.fireeye.com/secur/login_portal.jsp?orgId=00D3000000063LS&amp;portalId=06030000000pSNE" target="_blank" itemprop="name">Customer Portal<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/support/programs.html" itemprop="name">Programs<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
 </div><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">What is Cyber Security?</h4><ul><li itemprop="url"><a href="/current-threats/detect-and-prevent.html" itemprop="name">Advanced Detection and Prevention</a></li>
-			<li itemprop="url"><a href="/current-threats/best-defense-against-spear-phishing-attacks.html" itemprop="name">Best Defense Against Spear Phishing</a></li>
-			<li itemprop="url"><a href="/current-threats/stopping-todays-cyber-attacks.html" itemprop="name">Target Cyber Criminals to Stop Cyber Crime</a></li>
-			<li itemprop="url"><a href="/current-threats/how-cyber-attackers-get-in.html" itemprop="name">How Cyber Attacks Compromise Networks</a></li>
-			<li itemprop="url"><a href="/current-threats/anatomy-of-a-cyber-attack.html" itemprop="name">Anatomy of Advanced Persistent Threats</a></li>
-			<li itemprop="url"><a href="/current-threats/what-a-ceo-needs-to-know-about-cyber-security.html" itemprop="name">Cyber Security ROI for CEOs</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Find Answers<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="https://web.archive.org/web/20170403165604/https://community.fireeye.com/" target="_blank" itemprop="name">Communities<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/support/products.html" itemprop="name">Supported Products<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/support/notices.html" itemprop="name">Support Notices<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
 </div><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">&nbsp;</h4><ul><li itemprop="url"><a href="/current-threats/tco.html" itemprop="name">The Cost and Value of Cyber Security</a></li>
-			<li itemprop="url"><a href="/current-threats/what-is-a-zero-day-exploit.html" itemprop="name">What is a Zero-Day Exploit?</a></li>
-			<li itemprop="url"><a href="/current-threats/cost-of-a-data-breach.html" itemprop="name">Cost of a Data Breach</a></li>
-			<li itemprop="url"><a href="/current-threats/next-generation-endpoint-security.html" itemprop="name">Next-Generation Endpoint Security</a></li>
-			<li itemprop="url"><a href="/current-threats/what-is-cyber-security/ransomware.html" itemprop="name">Ransomware: the Tool of Choice for Cyber Extortion</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Documentation<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="https://web.archive.org/web/20170403165604/https://docs.fireeye.com/" target="_blank" itemprop="name">Documentation Portal<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
@@ -502,46 +490,54 @@ function tracknav(target) {
 	<!-- MegaMenu Call to Action --></div>
 </div>
 
-</div>
-</div>
-				</li></ul>
-			</div>
-			<div class="n03_nav-secondary" id="n03-secondary">
-				<ul class="n03_list"><li class="n03_list-item is-secondary">
-					<!-- /content/fireeye-www/en_US/company.html || /content/fireeye-www/en_US/partners.html -->
-					<div class="n03_list-item-sub_wrap">
-						<h4 class="n03_list-item-title">
-							<a href="/partners.html" itemprop="url">Partners</a>
-						</h4>
-						<!-- Sling Include -->
-						<div class="parsys content-4-par"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.4" -->
+</div></li><li class="megamenu-tab" data-curry="/company.html" data-link="/support.html">
+                            <h4 class="megamenu-title">
+                                <a href="/support.html" itemprop="url">Support</a>
+                            <span class="ficon ficon-arrow-right"></span></h4>
+                        <div class="parsys content-4-par"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.5" -->
 <!-- MegaMenu Sub-navigation -->
-<div class="n03_list-item-sub">
+<div class="n03_list-item-sub " id="mandiant-mega-menu" data-parent-resource-type="fireeye-www/fdc/components/navigation/megamenu-grouper">
 	<div class="n03-sub_container">
-		<div class="n03-sub_table"><!-- MegaMenu Column -->
+		<div class="n03-sub_table" data-columns="3"><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title" itemprop="url"><a href="/partners.html" itemprop="name">FireEye Partners</a></h4><ul><li itemprop="url"><a href="/partners/resellers.html" itemprop="name">Value-Add Resellers</a></li>
-			<li itemprop="url"><a href="/partners/strategic-technology-partners.html" itemprop="name">Strategic Alliance Partners</a></li>
-			<li itemprop="url"><a href="/partners/global-solution-providers.html" itemprop="name">Global Service Providers &amp; MSSPs</a></li>
-			<li itemprop="url"><a href="/partners/alliance-partners.html" itemprop="name">Cyber Security Coalition</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Intelligence Briefing and Bulletins<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/recent-zero-day-attacks.html" itemprop="name">Recent Zero-Day Exploits<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/annual-threat-report.html" itemprop="name">Annual Threat Reports<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/threat-intelligence-reports.html" itemprop="name">Threat Intelligence Reports<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/reports-by-industry.html" itemprop="name">Threat Intelligence Reports by Industry<span class="ficon ficon-arrow-right"></span></a></li>
+			</ul></div>
+<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">FireEye Blogs<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/blog/threat-research.html" itemprop="name">Threat Research Blog<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/blog/products-and-services.html" itemprop="name">Products and Services Blog<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/blog/executive-perspective.html" itemprop="name">Executive Perspectives Blog<span class="ficon ficon-arrow-right"></span></a></li>
+			<li class="view-all"><a href="/web/20170403165604/https://www.fireeye.com/blog.html">View all<span class="ficon ficon-arrow-right"></span></a></li></ul></div>
+
+</div>
+</div><!-- MegaMenu Column -->
+			<div class="n03-sub_cell">
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title" itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/what-is-cyber-security.html" itemprop="name">What is Cyber Security?</a><span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/detect-and-prevent.html" itemprop="name">Advanced Detection and Prevention<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/best-defense-against-spear-phishing-attacks.html" itemprop="name">Best Defense Against Spear Phishing<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/stopping-todays-cyber-attacks.html" itemprop="name">Target Cyber Criminals to Stop Cyber Crime<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/how-cyber-attackers-get-in.html" itemprop="name">How Cyber Attacks Compromise Networks<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/anatomy-of-a-cyber-attack.html" itemprop="name">Anatomy of Advanced Persistent Threats<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/what-a-ceo-needs-to-know-about-cyber-security.html" itemprop="name">Cyber Security ROI for CEOs<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/tco.html" itemprop="name">Cost and Value of Cyber Security<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/what-is-a-zero-day-exploit.html" itemprop="name">What is a Zero-Day Exploit?<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/cost-of-a-data-breach.html" itemprop="name">Cost of a Data Breach<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/current-threats/what-is-cyber-security/ransomware.html" itemprop="name">Ransomware: the Tool of Choice for Cyber Extortion<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
 </div><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Partner Resources</h4><ul><li itemprop="url"><a href="https://tfs.fireeye.com/" target="_blank" itemprop="name">Partner Enablement - The Fuel Station</a></li>
-			<li itemprop="url"><a href="http://partnerportal.fireeye.com/" target="_blank" itemprop="name">Partner Portal</a></li>
-			<li itemprop="url"><a href="/company/education.html" itemprop="name">Education Center</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Training<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/education.html" itemprop="name">Education Center<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/services/training.html" itemprop="name">Education Services<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="https://web.archive.org/web/20170403165604/https://community.fireeye.com/community/training/course-catalog/" target="_blank" itemprop="name">Course Catalog<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
-
-</div>
-</div><!-- MegaMenu Column -->
-			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title" itemprop="url"><a href="/partners/partnering-with-fireeye.html" itemprop="name">Partnering with FireEye</a></h4><ul><li itemprop="url"><a href="https://www2.fireeye.com/Partner-Request-LP-New.html" target="_blank" itemprop="name">Become a Partner</a></li>
-			<li itemprop="url"><a href="/partners/partner-certifications-and-accreditations.html" itemprop="name">Partner Certifications and Accreditations</a></li>
+<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Free Downloads<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/services/freeware.html" itemprop="name">Free Software Downloads<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
@@ -550,111 +546,81 @@ function tracknav(target) {
 	<!-- MegaMenu Call to Action --></div>
 </div>
 
-</div>
-</div>
-				</li><li class="n03_list-item is-secondary">
-					<!-- /content/fireeye-www/en_US/company.html || /content/fireeye-www/en_US/support.html -->
-					<div class="n03_list-item-sub_wrap">
-						<h4 class="n03_list-item-title">
-							<a href="/support.html" itemprop="url">Support</a>
-						</h4>
-						<!-- Sling Include -->
-						<div class="parsys content-5-par"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.4" -->
+</div></li><li class="megamenu-tab" data-curry="/company.html" data-link="/current-threats.html">
+                            <h4 class="megamenu-title">
+                                <a href="/current-threats.html" itemprop="url">Resources</a>
+                            <span class="ficon ficon-arrow-right"></span></h4>
+                        <div class="parsys content-5-par"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.5" -->
 <!-- MegaMenu Sub-navigation -->
-<div class="n03_list-item-sub">
+<div class="n03_list-item-sub has-outer-cta " data-parent-resource-type="fireeye-www/fdc/components/navigation/megamenu-grouper">
 	<div class="n03-sub_container">
-		<div class="n03-sub_table"><!-- MegaMenu Column -->
+		<div class="n03-sub_table" data-columns="3"><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Get Support</h4><ul><li itemprop="url"><a href="https://csportal.fireeye.com/secur/login_portal.jsp?orgId=00D3000000063LS&amp;portalId=06030000000pSNE" target="_blank" itemprop="name">Online Portal</a><em class="n03_xs"> (login)</em></li>
-			<li itemprop="url"><a href="/support/contacts.html" itemprop="name">Contact Support</a></li>
-			<li itemprop="url"><a href="/support/programs.html" itemprop="name">Programs</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">About Us<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/why-fireeye.html" itemprop="name">Why FireEye?<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/customers.html" itemprop="name">Customer Stories<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/awards.html" itemprop="name">Awards and Honors<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/leadership.html" itemprop="name">Leadership<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/board-of-directors.html" itemprop="name">Board of Directors<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="https://web.archive.org/web/20170403165604/http://investors.fireeye.com/" target="_blank" itemprop="name">Investor Relations<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/legal.html" itemprop="name">Legal Documentation<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
 </div><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Find Answers</h4><ul><li itemprop="url"><a href="https://community.fireeye.com/" target="_blank" itemprop="name">Communities</a></li>
-			<li itemprop="url"><a href="/support/products.html" itemprop="name">Supported Products</a></li>
-			<li itemprop="url"><a href="/support/notices.html" itemprop="name">Support Notices</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">News &amp; Events<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/newsroom.html" itemprop="name">Newsroom<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/press-releases.html" itemprop="name">Press Releases<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/webinars.html" itemprop="name">Webinars<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/events.html" itemprop="name">Events<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
 </div><!-- MegaMenu Column -->
 			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Documentation</h4><ul><li itemprop="url"><a href="https://docs.fireeye.com" target="_blank" itemprop="name">Documentation Portal</a></li>
+				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Careers<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/jobs.html" itemprop="name">Job Opportunities<span class="ficon ficon-arrow-right"></span></a></li>
+			<li itemprop="url"><a href="https://web.archive.org/web/20170403165604/http://universityrelations.fireeye.com/" target="_blank" itemprop="name">University Relations<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Education</h4><ul><li itemprop="url"><a href="https://community.fireeye.com/community/training/course-catalog/" target="_blank" itemprop="name">Course Catalog</a></li>
+<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.9" -->
+<h4 class="n03-sub_title">Contact<span class="ficon ficon-arrow-right"></span></h4><ul><li itemprop="url"><a href="/web/20170403165604/https://www.fireeye.com/company/contact-us.html" itemprop="name">Contact FireEye<span class="ficon ficon-arrow-right"></span></a></li>
 			</ul></div>
 
 </div>
 </div></div>
 	</div>
-	<!-- MegaMenu Call to Action --></div>
+	<!-- MegaMenu Call to Action --><div class="megamenu-cta"><!-- MegaMenu CTA: data-component-version="1.6" -->
+<!-- MegaMenu Vertical Call to Action -->
+<div class="n03-sub_cell n03-sub_cell-utility">
+	<div class="media-object"><div class="media-object_content">
+			<h5>Why FireEye?</h5>
+			<p>FireEye learned that technology alone isn’t enough to combat cyber attackers, which is why our solution takes a three-pronged approach that combines intelligence, expertise and technology.</p><div class="button"><!-- Button: data-component-version="1.18" --><a class="btn btn-secondary btn-D82435" href="/web/20170403165604/https://www.fireeye.com/company/why-fireeye.html">Learn More</a></div>
 </div>
-
-</div>
-</div>
-				</li><li class="n03_list-item is-secondary is-current">
-					<!-- /content/fireeye-www/en_US/company.html || /content/fireeye-www/en_US/company.html -->
-					<div class="n03_list-item-sub_wrap">
-						<h4 class="n03_list-item-title">
-							<a href="/company.html" itemprop="url">Company</a>
-						</h4>
-						<!-- Sling Include -->
-						<div class="parsys content-6-par"><div class="megamenus section"><!-- MegaMenu Container: data-component-version="1.4" -->
-<!-- MegaMenu Sub-navigation -->
-<div class="n03_list-item-sub">
-	<div class="n03-sub_container">
-		<div class="n03-sub_table"><!-- MegaMenu Column -->
-			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">About Us</h4><ul><li itemprop="url"><a href="/company/why-fireeye.html" itemprop="name">Why FireEye</a></li>
-			<li itemprop="url"><a href="/company/leadership.html" itemprop="name">Leadership</a></li>
-			<li itemprop="url"><a href="/company/board-of-directors.html" itemprop="name">Board of Directors</a></li>
-			<li itemprop="url"><a href="http://investors.fireeye.com/" target="_blank" itemprop="name">Investor Relations</a></li>
-			<li itemprop="url"><a href="/company/legal.html" itemprop="name">Legal Documentation</a></li>
-			</ul></div>
-
-</div>
-</div><!-- MegaMenu Column -->
-			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">News &amp; Events</h4><ul><li itemprop="url"><a href="/company/press-releases.html" itemprop="name">Press Releases</a></li>
-			<li itemprop="url"><a href="/company/newsroom.html" itemprop="name">Newsroom</a></li>
-			<li itemprop="url"><a href="/company/events.html" itemprop="name">Events</a></li>
-			<li itemprop="url"><a href="/company/webinars.html" itemprop="name">Webinars</a></li>
-			<li itemprop="url"><a href="/company/awards.html" itemprop="name">Awards and Honors</a></li>
-			</ul></div>
-
-</div>
-</div><!-- MegaMenu Column -->
-			<div class="n03-sub_cell">
-				<div class="parsys"><div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title">Careers</h4><ul><li itemprop="url"><a href="/company/jobs.html" itemprop="name">Job Opportunities</a></li>
-			<li itemprop="url"><a href="http://universityrelations.fireeye.com/" target="_blank" itemprop="name">University Relations</a></li>
-			</ul></div>
-<div class="megamenu-list section"><!-- MegaMenu List: data-component-version="1.8" -->
-<h4 class="n03-sub_title" itemprop="url"><a href="/company/contact-us.html" itemprop="name">Contact Us</a></h4></div>
-
-</div>
+	</div>
 </div></div>
-	</div>
-	<!-- MegaMenu Call to Action --></div>
+</div>
 </div>
 
+</div></li><li class="megamenu-tab is-current" data-curry="/company.html" data-link="/company.html">
+                            <h4 class="megamenu-title">
+                                <a href="/company.html" itemprop="url">Company<span class="ficon ficon-arrow-right"></span></a>
+                            </h4>
+                        </li></ul>
+                    <span class="burger ficon ficon-menu"></span>
+                </nav>
+                
+            </div>
+        </div>
+    </header>
 </div>
+<style>
+.g02 .g02_content {
+    padding-top: 5px;
+}
+</style>
 </div>
-				</li></ul>
-			</div>
-			<button class="n03_list-item_more" data-behavior="show-nav-more" role="button" type="button">Show More</button>
-		</nav>
-	</div>
-</div>
-	</div>
+<!-- TopNav (Base Page): data-component-version="1.12" -->
 <!-- Breadcrumbs (Base Page): data-component-version="1.4" -->
 
 <!-- Cookie Banner (Base Page): data-component-version="1.3" --><div id="cookie-privacy-banner" style="display:none;">
@@ -673,7 +639,7 @@ function tracknav(target) {
 		</div>
 	</div>
 </div>
-<div class="breadcrumb breadcrumbs"><!-- Breadcrumb: data-component-version="1.5" -->
+<div class="breadcrumb breadcrumbs"><!-- Breadcrumb: data-component-version="1.6" -->
 <div class="l_container is-full">
 	<div class="g02 g02v0" id="g02-breadcrumbs">
 		<div class="g02_container">
@@ -688,14 +654,13 @@ function tracknav(target) {
 	</div>
 </div>
 </div>
-<!-- Content (Article page): data-component-version="1.2" -->
+<!-- Content (Article page): data-component-version="1.3" -->
 <main class="l_main" role="main"><div class="l_container">
 		<h1>Privacy</h1>
-	</div><div class="content-par parsys"><div class="fdc-grids section grid-100-full"><!-- Grid (100): data-component-version="1.7" -->
-<div class="l_container"><div class="g">
-		<div class="g-u-1">
-			<div class="g-content">
-				<div class="grid-100-mid parsys"><div class="parbase section text"><!-- Text: data-component-version="1.6" --><div class="c00 c00v0">
+	</div><div class="content-par parsys"><div class="fdc-grids section grid-100-full"><!-- Grid (100): data-component-version="1.8" -->
+<div class="l_container"><div class="g"><div class="g-u-1 m_g-u-1">
+	<div class="g-content">
+		<div class="grid-100-mid parsys"><div class="parbase section text"><!-- Text: data-component-version="1.6" --><div class="c00 c00v0">
 	<h2>FireEye Online Privacy Statement</h2>
  <p>FireEye respects your privacy. When using our website, you may get
   information, communicate with us, or link to other websites with whom
@@ -718,7 +683,7 @@ function tracknav(target) {
  <p>Here are the principles governing our information practices and
   other privacy aspects of our websites:</p>
  <ul> <li>Information Collection and Use</li> <li>Information Sharing
-    and Disclosure</li> <li>Cross boarder transfer</li> <li>Questions or
+    and Disclosure</li> <li>Cross-border transfer</li> <li>Questions or
   Suggestions</li> <li>IP Information Collection and Use Practices</li>
   <li>Cookies</li> <li>Data Storage</li> <li>Contact Us</li> </ul>
  <h4>Information Collection and Use</h4>
@@ -756,7 +721,7 @@ function tracknav(target) {
         under the Privacy Shield in response to lawful requests by
         public authorities, including to meet national security or law
         enforcement requirements.</li> </ul> </li> </ul>
- <h4>Cross Boarder Transfer</h4>
+ <h4>Cross-Border Transfer</h4>
  <ul> <li>FireEye complies with the requirements of the U.S.-EU <a href="https://www.privacyshield.gov/welcome">Privacy Shield
     Framework</a>, as set forth by the U.S. Department of Commerce
     regarding the collection, use, and retention of personal information
@@ -1116,24 +1081,24 @@ function tracknav(target) {
 
 </div>
 </div>
-		</div>
-	</div></div>
-<div class="clear-all"></div>
 </div>
+
+</div></div>
+<div class="clear-all"></div></div>
 
 </div>
 </main>
 <!-- Footer (Base Page): data-component-version="1.6" --><!-- Sling Include /content/fireeye-www/site-content/en_US/footer/jcr:content/parsys-navigation/footer_f635 -->
-	<div class="footer_f635 footer"><!-- Footer: data-component-version="1.6" -->
+	<div class="footer_f635 footer"><!-- Footer: data-component-version="1.7" -->
 <!-- Footer Navigation -->
 <div class="l_container is-full" id="g03-footer">
-	<footer class="l_footer g03 g03v0 g03-4col">
-		<div class="l_footer-content"><!-- Footer Column -->
+	<footer class="l_footer g03 g03v0 g03-5col">
+		<div class="l_footer-content"><div class="col"> <!-- Footer Column -->
 			<div class="g03_list">
 				<div class="parsys"><div class="section htmlpassthru"><!-- HTML Passthru: data-component-version="1.4" -->
 
 <p style="margin-bottom:6px"><strong>Stay Connected</strong></p></div>
-<div class="followus-footer section"><!-- Social Follow (Footer): data-component-version="1.10" --><ul class="g03_block g03-s" id="g03-followus-list"><li class="g03_item g03_item-s">
+<div class="followus-footer section"><!-- Social Follow (Footer): data-component-version="1.11" --><h4 class="g03_title" id="g03-followus-title"> </h4><ul class="g03_block g03-s" id="g03-followus-list"><li class="g03_item g03_item-s">
 		<a href="https://www.linkedin.com/company/fireeye" target="_blank">
 		<span class="g03-s-i ficon g03-s-i-li ficon-linkedin"></span>
 		<span class="g03-s_label">LinkedIn</span>
@@ -1149,7 +1114,7 @@ function tracknav(target) {
 		<span class="g03-s_label">Facebook</span>
 		</a>
 	</li><li class="g03_item g03_item-s">
-		<a href="https://plus.google.com/+Fireeye/videos" target="_blank">
+		<a href="https://plus.google.com/+Fireeye" target="_blank">
 		<span class="g03-s-i ficon g03-s-i-gp ficon-googleplus2"></span>
 		<span class="g03-s_label">Google+</span>
 		</a>
@@ -1161,12 +1126,7 @@ function tracknav(target) {
 	</li><li class="g03_item g03_item-s">
 		<a href="https://itunes.apple.com/us/podcast/eye-on-security/id1073779629?mt=2" target="_blank">
 		<span class="g03-s-i ficon g03-s-i-pc ficon-podcast"></span>
-		<span class="g03-s_label">Podcasts</span>
-		</a>
-	</li><li class="g03_item g03_item-s">
-		<a href="https://www.glassdoor.com/Overview/Working-at-FireEye-EI_IE235161.11,18.htm" target="_blank">
-		<span class="g03-s-i ficon g03-s-i-gd ficon-glassdoor"></span>
-		<span class="g03-s_label">Glassdoor</span>
+		<span class="g03-s_label">Podcast</span>
 		</a>
 	</li></ul>
 </div>
@@ -1177,15 +1137,22 @@ function tracknav(target) {
 <br></div>
 
 </div>
-</div><!-- Footer Column -->
+<div class="g03_last-col-copy">
+                        <div class="parsys"><div class="section htmlpassthru"><!-- HTML Passthru: data-component-version="1.4" -->
+
+<p style="margin-bottom:6px"><strong>Cyber Threat Map</strong></p>
+<p><a href="/cyber-map/threat-map.html"><img src="/content/dam/legacy/cyber-map/threat-map-screenshot.jpg" alt="Cyber Threat Map" maxwidth="460" maxheight="258"></a></p></div>
+
+</div>
+</div></div> </div><div class="col"> <!-- Footer Column -->
 			<div class="g03_list">
 				<div class="parsys"><div class="section htmlpassthru"><!-- HTML Passthru: data-component-version="1.4" -->
 
 <p style="margin-bottom:6px"><strong>Company</strong></p></div>
 <div class="footer-list section"><!-- Footer List: data-component-version="1.4" -->
-<ul class="g03_block"><li class="g03_item"><a href="/company/why-fireeye.html">About Us</a></li>
-			<li class="g03_item"><a href="/company/jobs.html">Careers</a></li>
+<ul class="g03_block"><li class="g03_item"><a href="/company/why-fireeye.html">About FireEye</a></li>
 			<li class="g03_item"><a href="/customers.html">Customer Stories</a></li>
+			<li class="g03_item"><a href="/company/jobs.html">Careers</a></li>
 			<li class="g03_item"><a href="/partners.html">Partners</a></li>
 			<li class="g03_item"><a href="http://investors.fireeye.com/" target="_blank">Investor Relations</a></li>
 			<li class="g03_item"><a href="/company/supplier.html">Supplier Documents</a></li>
@@ -1196,12 +1163,13 @@ function tracknav(target) {
 			<div class="g03_list">
 				<div class="parsys"><div class="section htmlpassthru"><!-- HTML Passthru: data-component-version="1.4" -->
 
-<p style="margin-bottom:6px"><strong>Resources</strong></p></div>
+<p style="margin-bottom:6px"><strong>News &amp; Events</strong></p></div>
 <div class="footer-list section"><!-- Footer List: data-component-version="1.4" -->
-<ul class="g03_block"><li class="g03_item"><a href="/company/webinars.html">Webinars</a></li>
+<ul class="g03_block"><li class="g03_item"><a href="/company/newsroom.html">Newsroom</a></li>
+			<li class="g03_item"><a href="/company/press-releases.html">Press Releases</a></li>
+			<li class="g03_item"><a href="/company/webinars.html">Webinars</a></li>
 			<li class="g03_item"><a href="/company/events.html">Events</a></li>
 			<li class="g03_item"><a href="/blog.html">Blogs</a></li>
-			<li class="g03_item"><a href="/company/press-releases.html">Press Releases</a></li>
 			<li class="g03_item"><a href="https://www2.fireeye.com/manage-your-preferences.html" target="_blank">Communication Preferences</a></li>
 			</ul></div>
 
@@ -1221,16 +1189,25 @@ function tracknav(target) {
 			</ul></div>
 
 </div>
-</div><div class="g03_copyright">
+</div><!-- Footer Column -->
+			<div class="g03_list">
+				<div class="parsys"><div class="section htmlpassthru"><!-- HTML Passthru: data-component-version="1.4" -->
+
+<p style="margin-bottom:6px"><strong>Cyber Threat Map</strong></p>
+<p><a href="/cyber-map/threat-map.html"><img src="/content/dam/legacy/cyber-map/threat-map-screenshot.jpg" alt="Cyber Threat Map" maxwidth="460" maxheight="258"></a></p></div>
+
+</div>
+</div> </div><div class="clear-all"></div>
+			<div class="g03_copyright">
 				<p class="g03_copyright_p">
-					Copyright&nbsp;©&nbsp;2016&nbsp;FireEye, Inc.&nbsp;All rights reserved.&nbsp;<span class="g03-legal"><a href="/company/privacy.html">Privacy &amp; Cookies Policy</a> | <a href="/company/privacy-shield-commitment.html">Privacy Shield</a> | <a href="/company/legal.html">Legal Documentation</a></span>
+					Copyright&nbsp;©&nbsp;2017&nbsp;FireEye, Inc.&nbsp;All rights reserved.&nbsp;<span class="g03-legal"><a href="/company/privacy.html">Privacy &amp; Cookies Policy</a> | <a href="/company/privacy-shield-commitment.html">Privacy Shield</a> | <a href="/company/legal.html">Legal Documentation</a></span>
 				</p>
 			</div>
 		</div>
 	</footer>
 </div>
 </div>
-<script type="text/javascript" src="/etc/designs/fireeye-www/clientlibs_fw.js"></script>
+<script type="text/javascript" src="/etc/designs/fireeye-www/clientlibs_fw.min.js"></script>
 <!-- Footlibs (Base Page): data-component-version="2.2" --><!-- Sling Include /content/fireeye-www/site-content/en_US/footlibs/jcr:content/grid-100-mid/htmlpassthru_c66c -->
 	<div class="htmlpassthru_c66c htmlpassthru"><!-- HTML Passthru: data-component-version="1.4" -->
 
@@ -1321,7 +1298,7 @@ if (cookiesOK != "decline") {
 var google_conversion_id = 1063990389;
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
-</script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/6639;55678;5918;iframe/?ft_referrer=https%3A//web.archive.org/web/20161202183331id_/https%253A//www.fireeye.com/company/privacy.html&amp;ns=&amp;cb=940319.5303937566"></iframe>
+</script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/6639;55678;5918;iframe/?ft_referrer=https%3A//web.archive.org/web/20170606175029id_/https%253A//www.fireeye.com/company/privacy.html&amp;ns=&amp;cb=265557.1292985697"></iframe>
 <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script>
 <noscript>
 	<!-- Google Code for Remarketing Tag -->
@@ -1335,7 +1312,7 @@ var google_remarketing_only = true;
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=4';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
