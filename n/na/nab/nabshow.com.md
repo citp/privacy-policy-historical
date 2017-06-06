@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203183042id_/http%3A//www.nabshow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122528id_/http%3A//www.nabshow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NAB Show
 
@@ -29,6 +29,13 @@ A "cookie" is a piece of data stored on your hard drive containing non-personall
 NAB does not sell email addresses. NAB will not share its list(s) of email addresses with third parties, except when asked to do so by law, regulation or government request, or on a restricted basis with NAB contractors fulfilling obligations directly related to NAB activities.
 
 We may contact you by email to confirm purchases from the NAB Store, enrollment to services, or to check the accuracy of the information you provide. We may also send you notices about special offers, new products, services, promotions, and other similar information. When we contact you by email, all email campaigns from NAB will contain instructions and/or hyper-links to Opt In or Opt Out (unsubscribe) of our email lists. 
+
+## Direct Mail Opt-Outs
+
+Send requests to be removed from direct mail lists to [privacy@nab.org](mailto:privacy@nab.org?subject=NAB%20Privacy) or mail your requests to   
+National Association of Broadcasters  
+1771 N St., NW  
+Washington, DC 20036
 
 ## Disclaimer
 
