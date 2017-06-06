@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employmentcrossing.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105131811id_/http%3A//www.employmentcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentcrossing.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024955id_/http%3A//www.employmentcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
 # EmploymentCrossing.com - Privacy Policy, Your Privacy is So Important To Us | EmploymentCrossing.com
 
@@ -6,7 +6,9 @@ Effective on: (4/1/06)
 
 Why is your privacy so important to us?
 
-EmploymentCrossing is committed to protecting the privacy of our users, and we are firmly devoted to maintaining your trust in us. We work extremely hard at safeguarding our customers' important information and keeping it secure. Our privacy policy is designed to help you understand our genuine dedication to preserving your privacy. 
+EmploymentCrossing is committed to protecting the privacy of our users, and we are firmly devoted to maintaining your trust in us. We work extremely hard at safeguarding our customers' important information and keeping it secure. Our 
+
+is designed to help you understand our genuine dedication to preserving your privacy. 
 
 Confidentiality and discretion are the cornerstones of every job search. We consistently challenge ourselves to rise above every competitor in our honesty and discretion, and we believe we have met this challenge day after day. 
 
