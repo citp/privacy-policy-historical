@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtowritealetter.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072727id_/http%3A//howtowritealetter.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtowritealetter.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145629id_/http%3A//howtowritealetter.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | How to Write a Letter
 
