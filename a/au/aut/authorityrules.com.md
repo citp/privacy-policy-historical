@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorityrules.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025060521id_/http%3A//my.copyblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorityrules.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021536id_/http%3A//my.copyblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
