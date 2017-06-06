@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123055629id_/http%3A//www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043352id_/http%3A//www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304) for the most accurate reproduction.*
 
 # Announcement - GamerzPlanet Privacy Policy | Gamerzplanet - For All Your Online Gaming Needs!
 
 Thread Status:
      __Not open for further replies.
 
-  1. [](https://web.archive.org/web/20161123055629id_/http://www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304/members/skyline_gtr.6/)
+  1. [](https://web.archive.org/web/20170606043352id_/http://www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304/members/skyline_gtr.6/)
 
-###  [Skyline_GTR](https://web.archive.org/web/20161123055629id_/http://www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304/members/skyline_gtr.6/) _GzP Admin_ _**Staff Member**_ _**Admin**_
+###  [Skyline_GTR](https://web.archive.org/web/20170606043352id_/http://www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304/members/skyline_gtr.6/) _GzP Admin_ _**Staff Member**_ _**Admin**_
 
 Messages:
-    [9,766](https://web.archive.org/web/20161123055629id_/http://www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304/search/member?user_id=6)
+    [9,787](https://web.archive.org/web/20170606043352id_/http://www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304/search/member?user_id=6)
 
 Likes Received:
-    145
+    147
 
 Joined:
     Nov 23, 2005
