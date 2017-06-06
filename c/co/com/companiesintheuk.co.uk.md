@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companiesintheuk.co.uk privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215020346id_/https%3A//www.companiesintheuk.co.uk/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesintheuk.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183044id_/http%3A//www.companiesintheuk.co.uk/support/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,7 +18,7 @@ For purchases we retain the transaction number that identifies your payment from
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-The documents that you purchase and the companies that you monitor are never shared with third parties. This information is totally confidential between you and us. If you monitor a company, then they will not know you are monitoring them. If you purchase a document on a company, then that company will not know you have purchased the document on them. Unless of course the company is our company, Comdevelopment Ltd! 
+The documents that you purchase and the companies that you monitor are never shared with third parties. This information is totally confidential between you and us. If you monitor a company, then they will not know you are monitoring them. If you purchase a document on a company, then that company will not know you have purchased the document on them. Unless of course the company is our company, Companies In The UK Ltd! 
 
 The one exception to this confidentiality is that if you purchase a document and you fail to pay for the document after we have supplied it, then we will share your email address with our debt collection agency and will publish whatever information we can obtain to help recover the debt. 
 
