@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hyperdenim.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430213554id_/http%3A//hyperdenim.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperdenim.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191006id_/https%3A//hyperdenim.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - HYPER DENIM
 
 PRIVACY STATEMENT
 
@@ -19,9 +19,9 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at hyperdenim@gmail.com or mailing us at:  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@hyperdenim.com or mailing us at:  
 HYPER DENIM  
-2846 W 8th St #102 Los Angeles California US 90005
+1250 E 223rd St. ste 103 CARSON, CA 90745
 
 SECTION 3 - DISCLOSURE
 
@@ -76,8 +76,8 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at hyperdenim@gmail.com or by mail at  
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@hyperdenim.com or by mail at  
 HYPER DENIM  
 [Re: Privacy Compliance Officer]  
-2846 W 8th St #102 Los Angeles California US 90005  
+1250 E 223rd St. ste 103 CARSON, CA 90745  
 \---- 
