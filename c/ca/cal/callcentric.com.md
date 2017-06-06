@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callcentric.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233340id_/http%3A//www.callcentric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callcentric.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182834id_/https%3A//www.callcentric.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ Callcentric has zero tolerance for Spam and Spam over Internet Telephony (SPIT).
 
 Callcentric does not provide products or services for use or purchase by children. Callcentric does not knowingly solicit or collect customer identifiable information from children or teenagers under the age of eighteen. If you believe that a minor has disclosed personally identifiable information to Callcentric, please 
 
-[_contact us_](http://www.callcentric.com/contact/) so that the information can be removed.
+[_contact us_](https://www.callcentric.com/contact/) so that the information can be removed.
