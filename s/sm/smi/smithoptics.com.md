@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithoptics.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015546id_/http%3A//www.smithoptics.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithoptics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031408id_/http%3A//www.smithoptics.com/privacypolicy) for the most accurate reproduction.*
 
 # Smith Optics Privacy Policy | Smith United States
 
@@ -60,7 +60,7 @@ We may from time to time need to amend this policy, due to changes in regulation
 
 **How you can contact us**
 
-If you have any questions or comments relating to our website and/or the privacy policy, please contact us or write to us: Smith Optics, PO Box 2999 Ketchum, ID 83340.
+If you have any questions or comments relating to our website and/or the privacy policy, please contact us or write to us: Smith Optics, Inc. PO Box 160464 Clearfield, UT 84016.
 
 **Your consent**
 
