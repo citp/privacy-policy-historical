@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the digidesign.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208014605id_/http%3A//www.avid.com/US/about-avid/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digidesign.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113510id_/http%3A//www.avid.com/legal/privacy-policy-statement) for the most accurate reproduction.*
 
-# Avid | Privacy Policy Statement
+# Privacy Policy | Avid
 
-##### Last Updated: November 18, 2010
-
-Avid Technology, Inc. has created this Privacy Policy Statement in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by Avid when you visit our websites. In a few cases, Avid’s other websites may contain additional privacy policies. Your visits to those sites will be governed by the privacy policies, if any, that govern those sites.
+Avid Technology, Inc. has created this Privacy Policy Statement in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by Avid when you visit our websites or use certain Avid products. In a few cases, Avid’s other websites may contain additional privacy policies. Your visits to those sites will be governed by the privacy policies, if any, that govern those sites.
 
 PLEASE REVIEW THIS PRIVACY POLICY BEFORE USING THIS SITE. IF YOU DO NOT AGREE WITH OUR PRIVACY POLICY, DO NOT USE THE SITE. BY SUBMITTING ANY PERSONAL INFORMATION TO THE SITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY STATEMENT.
 
-Your use of this site are also subject to the [Terms of Use](https://web.archive.org/us/about-avid/legal-notices). Please review those Terms of Use for additional detail regarding your use of this site.
+Your use of this site is also subject to the [Terms of Use](https://web.archive.org/legal/terms-of-use). Please review those Terms of Use for additional detail regarding your use of this site.
 
 #### GENERAL INFORMATION
 
@@ -18,13 +16,11 @@ Generally speaking, you may visit the site while remaining anonymous and not rev
 
 Our websites automatically log your IP address and domain name, and non-personal information such as the type of web browser you use, to help us administer the sites and to compile statistics such as the number of visitors.
 
-Our websites use cookies to identify you over multiple visits to the site, for example to remember your country and provide country-specific content. Cookies are optional, and you can block or delete them. However, some parts of our websites (e.g. chat pages) will not work without cookies.
-
-It is not possible for a cookie stored by us to be read by any other company's website, nor can a cookie read information from your computer that you have not already provided us with.
+Our websites use cookies to identify you over multiple visits to the site, for example to remember your country and provide country-specific content. Cookies are optional, and you can block or delete them. However, some parts of our websites (e.g. chat pages) will not work without cookies. Cookies may also be used to track visitor behavior on the website, which allows visitors to be retargeted with digital advertising that reflects their past behavior on the site.
 
 #### Submission of Personal Information
 
-Certain portions of the site may require that you submit some personal information, such as your name and email address, before using those portions of the site. At minimum, you are typically required to register with the site and provide your name or email address before using any of the members only areas of the site. For some services, such as forums, customer support features, registering for events or contests, downloading softwareor uploading content, you may have to create an account, and submit additional personal information such as your mailing address.
+Certain portions of the site may require that you submit some personal information, such as your name and email address, before using those portions of the site. At minimum, you are typically required to register with the site and provide your name or email address before using any of the members only areas of the site. For some services, such as forums, the Avid Artist Community, customer support features, registering for events or contests, downloading software or uploading content, you may have to create an account, and submit additional personal information such as your mailing address.
 
 #### Use of Personal Information
 
@@ -34,25 +30,25 @@ We also use this information to send you information about Avid, or other topics
 
 #### Aggregation and Use of Anonymous Data
 
-Avid aggregates information provided by you to create anonymous statistical and demographic data. This anonymous data helps Avid to understand and know its customer base better. That anonymous data may be provided to third parties but never in such a fashion as to identify you personally.
+Avid aggregates information provided by you to create anonymous statistical and demographic data. This anonymous data helps Avid to understand and know its customer base better. That anonymous data may be provided to third parties but never in such a fashion as to identify you personally.  Some Avid products use Google Analytics for the collection of anonymous data. [Learn more about how Google uses data collected using Google Analytics. ](http://www.google.com/policies/privacy/partners/ "Learn more about how Google uses data collected using Google Analytics.&nbsp;") 
 
 #### Third Parties
 
 Avid does not sell to third parties information you have submitted to this site that identifies you personally.
 
-On occasion, Avid may offer in conjunction with third parties certain services that may require you to share your personal information with that third party as a condition for receiving that service. In addition, if you purchase third party products on the Avid online store, Avid may share your information with the manufacturer of that product. While Avid will treat any information it receives in accordance with this Privacy Policy Statement, Avid will not be responsible for the information submitted by you to that third party, and we remind you to review the applicable rules and any third party's applicable privacy policies separately before participating in such service.
+On occasion, Avid may offer in conjunction with third parties certain services that may require you to share your personal information with that third party as a condition for receiving that service. In addition, if you purchase third party products on the Avid online store, Avid may share your information with the manufacturer of that product. While Avid will treat any information it receives in accordance with this Privacy Policy Statement, Avid will not be responsible for the information submitted by you to that third party, and we remind you to review the applicable rules and any third party's applicable privacy policies separately before participating in such service. Avid may also work with third party publishers and vendors to serve digital advertising across relevant sites on the Internet. Third party vendors may also use cookies to serve digital ads based on a person’s past visits to the Avid site.
 
 #### Declining Information
 
-You can always change your mind; see the Accept/Decline section below. Please note that it may take us a reasonable amount of time to process your request, but once we do, we will no longer use your information.
+You can opt out of receiving Avid marketing messages; see the Accept/Decline section below. Please note that it may take us a reasonable amount of time to process your request.
 
-Even if you decline to receive information or cancel your account, Avid reserves the right to use the information you previously provided to contact you about administrative matters relating to your use of any portion of the site, your account, or about any issues relating to the Terms of Use, this Privacy Policy, or any other policy then in-effect (for example, the [Copyright Complaint Policy](https://web.archive.org/us/about-avid/legal-notices/copyright-complaint)).
+Even if you decline to receive information or cancel your account, Avid reserves the right to use the information you previously provided to provide you with the Avid products and services you are eligible to receive and to contact you about administrative matters relating to your use of any portion of the site, your account, or about any issues relating to the Terms of Use, this Privacy Policy, or any other policy then in-effect (for example, the [Copyright Complaint Policy](https://web.archive.org/legal/copyright-complaint-policy)).
 
 #### Public Forums for User Materials
 
 Certain portions of the site are designed to offer you the opportunity to post information on the site, including but not limited to information about yourself ("User Materials"). You should always remember that publicly displayed information is public. For example, you may be permitted to post your resume information, a video you have created, or to post messages in any chat rooms, message boards, mailing lists, and/or news groups this site makes available to its users. If you use a forum, bulletin board or chat room on an Avid website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Avid is not responsible for the personally identifiable information you choose to submit in these forums.
 
-Please see the [Terms of Use ](https://web.archive.org/us/about-avid/legal-notices)for additional terms related to Avid’s forums and posting of User Materials.
+Please see the [Terms of Use ](https://web.archive.org/legal/terms-of-use)for additional terms related to Avid’s forums and posting of User Materials.
 
 #### Law Enforcement
 
@@ -80,7 +76,7 @@ Some of Avid’s websites may appeal to or be intended for children; however, we
 
 #### General Issues
 
-Generally speaking, this site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Since the site under general usage does not collect financial information, Avid uses the standard internet connections for those general usage portions of the site, without secured sockets.
+Generally speaking, this site has security measures in place to protect against the loss, misuse and alteration of the information under our control. No security measures are 100% effective and Avid does not warrant the security of your personal information.  Since the site under general usage does not collect financial information, Avid uses the standard internet connections for those general usage portions of the site, without secured sockets.
 
 #### Specific Services
 
@@ -92,7 +88,7 @@ In some cases, you may be prompted to register with the site to undertake a part
 
 #### CHANGES TO THIS POLICY
 
-If and when Avid makes changes to this site, Avid may have to update this Privacy Policy Statement to better reflect those changes. But no update to this Privacy Policy Statement will, in itself, alter the choice you already made about how Avid can use your personal information. Because changes to this site or updates to this Privacy Policy Statement may occur, you should review this Privacy Policy Statement from time to time. Remember, your decision to continue using this site after this Privacy Policy Statement is updated will signify that you have agreed to any new terms.
+If and when Avid makes changes to this site and its products and services, Avid may have to update this Privacy Policy Statement to better reflect those changes. Because changes to this site or updates to this Privacy Policy Statement may occur, you should review this Privacy Policy Statement from time to time. Remember, your decision to continue using this site after this Privacy Policy Statement is updated will signify that you have agreed to any new terms.
 
 #### ACCEPT/DECLINE
 
@@ -100,7 +96,7 @@ Typically you accept to receive communications when you submit information to th
 
   1. The Profile section of this site may permit you to change a previous selection and decline to receive further communications, or to delete your registration.
   2. A particular service may have an Administration section that allows you to change any previous selections for that service.
-  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections.
+  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections.
 
 
 
@@ -110,7 +106,7 @@ This site gives users the following options for changing and modifying informati
 
   1. The Profile section of this site may permit a registered user to change or modify information previously provided.
   2. A particular service may have an Administration section that allows you to change or modify information you previously provided for that service.
-  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections.
+  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections.
 
 
 
@@ -118,12 +114,12 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the Manager at the following address and email:
 
-#### Manager, Website Strategy & Operations
+**Manager, Website Strategy & Operations**
 
-Avid Technology, Inc.   
+Avid Technology, Inc.   
 75 Network Drive  
 Burlington, MA 01803  
-U.S.A   
+U.S.A   
 [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com)
 
 #### NOTICE TO EUROPEAN USERS
@@ -132,4 +128,4 @@ Please note that the information you enter on the site or otherwise provide to A
 
 Article 26 of the European Union's Data Directive allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection.
 
-By agreeing to this Policy, you consent to the transfer of all such information to the United States and the processing of that information as described in this Policy.
+By agreeing to this Policy, you consent to the transfer of all such information to the United States and the processing of that information as described in this Policy
