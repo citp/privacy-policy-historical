@@ -1,73 +1,58 @@
-> *The following text is extracted and transformed from the denofgeek.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621111127id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denofgeek.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124345id_/http%3A//www.denofgeek.com/us/content/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | Dennis Publishing
+# Den of Geek | Privacy Notice
 
-Last Updated January 2014
+Welcome to [www.denofgeek.us](http://www.denofgeek.us/) (the “Site”). The Site is operated by DoG Tech LLC (“DoG Tech”). This Privacy Policy governs data collection and usage as related to the Site and describes DoG Tech’s use of user’s personal information where that information is not otherwise publicly available on the Site. It also describes, generally, DoG Tech’s practices for handling non-personally identifiable information to the extent such information is associated with a particular visitor, user or user account. By visiting or using the Site you consent to the data practices described herein.
 
-We have published a new [cookie policy](https://web.archive.org/cookie-policy). It explains what cookies are and how we use them on our site. To learn more about cookies and their benefits, please view our [cookie policy](https://web.archive.org/cookie-policy). If you'd like to disable cookies on this device, please visit [www.aboutcookies.org](http://www.aboutcookies.org/) for more information on how to do this. Please be aware that parts of the site will not function correctly if you disable cookies. By using our websites you consent to our use of cookies on this device in accordance with our [cookie policy](https://web.archive.org/cookie-policy) unless you have disabled them.
-
-### Dennis Publishing Privacy Notice
-
-Your personal information is being processed by Dennis Publishing (UK) Ltd (“we”). We are committed to managing your personal information in accordance with current legislation and best practice. Our aim is to be responsible, relevant and secure when using your data. You can find out more about us by visiting [www.dennis.co.uk/about-us](http://www.dennis.co.uk/about-us).
-
-Whenever you provide personal information we will treat that information in accordance with this Notice. We endeavour at all times to keep your data accurate and secure, and to honour your data preferences with regard to receipt of direct marketing e.g. email, mobile messaging and mobile telephone calls. 
-
-Dennis Publishing (UK) Ltd publishes over fifty magazines, websites, e-zines and mobile phone sites (brands) all of which are governed by this Privacy Notice. For an up to date list of these brands please visit [www.dennis.co.uk/brands](http://www.dennis.co.uk/brands/). Below is a non-exhaustive list of our well-known brands.
-
-Auto Express, bit-tech, Bizarre, Channel Pro, Computer Shopper, Custom PC, Digital SLR Photography, EVO, Fortean Times, iMotor, IT Pro, Know Your Mobile, MacUser, Men's Fitness, Micro Mart, Monkey, Octane, PC Pro, The Week and Viz.
-
-Dennis Publishing (UK) Ltd includes subsidiary companies Dennis Publishing Ltd, Evo Publications Ltd, The Week Ltd, Dennis Lifestyle Ltd, It’s in the Bag Ltd, Three PM Ltd, Four PM Ltd, First Post Newsgroup Ltd, Halo Publishing Ltd, Bit Publishing Ltd, Octane Media Ltd and Octane (Media) Holdings Ltd. Choice Publishers Limited, The Magazine Group, Dennis Interactive Ltd, I Feel good (Holdings) limited and I Feel Good Limited.
-
-Dennis Publishing (UK) Ltd had formed partnerships with a variety of carefully selected companies. Below is a non-exhaustive list of our key partners:  
-IPC Media Ltd  
-Jellyfish Online Marketing  
-Audience Science  
-Hearst UK trading as The National Magazine Company  
-Hearst UK trading as Hachette Filipacchi  
+  1. Collection. DoG Tech may collect personal information such as, but not limited to, your name, email address, telephone number or credit card. DoG Tech may also collect anonymous demographic information, which may or may not be unique to you, such as, but not limited to, your Postal Code, age, gender, preferences, interests and favorites.Information about your computer hardware and software also may be automatically collected by DoG Tech. This information may include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by DoG Tech for: the operation of the Site and its services; to maintain the quality of the Site and its services; and to provide general statistics regarding use of the Site. When you use DoG Tech’s services or view content provided on the Site, DoG Tech may automatically collect and store certain information in server logs. This may include details of how you used the Site such as: your search queries; telephone log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls; SMS routing information and types of calls; and your Internet protocol address.
 
 
-## What information we collect
 
-To provide you with the best possible customer experience we may ask you to submit personal information such as your name, postcode, email address and mobile phone number. Providing this personal information helps us to provide you with a better experience e.g. not having to login to websites each time you visit and showing you content that really interests you.  
-Additionally we use web technologies e.g. cookies and web beacons, to automatically track and log limited personal data and link this with information you or other suppliers have provided. For detailed information on Cookies and how you can choose to allow or prevent sites accessing cookies, see [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
-Anonymous data will be recorded for the purpose of reporting web traffic statistics, advertisement 'click-throughs', and/or other activities on our sites.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Site’s public message boards, this information may be collected and used by others.
 
-Dennis Publishing may sometimes use cookie technology to help improve its digital marketing campaigns and improve user experience across its products. This technology allows Dennis Publishing to target relevant adverts to you across a number of other websites that share the same advertising technology platforms. Third party vendors including partners like Google serve advertising across the Internet based on cookies which are left on your device when you visit a website. These cookies help target relevant advertising to our users based on previous visits and behaviour. You can opt out of Google’s use of cookies by visiting [Google’s Ads Settings](http://www.google.com/settings/ads) or you can opt out of additional third-party vendor cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
+You must review the privacy statements of Web sites you choose to link to from the Site so that you can understand how those Web sites collect, use and share your information. DoG Tech is not responsible for the privacy statements or any other content on any Web site other than the Site.
 
-Furthermore we work with our partners Audience Science, to carry out Online Behavioural Advertising on our websites. Online Behavioural Advertising aims to provide you with more carefully targeted advertising. If you wish to know more about Online Behavioural Advertising or you wish to opt out of Online Behavioural Advertising by Audience Science please go to  [ www.youronlinechoices.com/uk  ](http://www.youronlinechoices.com/uk) .
+  2. Use of Information. The term “Public Site Content” is used herein to mean information you disclose in public areas of the Site. Please be aware that Public Site Content is always public and available to everyone and may be displayed in search results both on the Site and on external search engines. 
 
-Our iPad, Android and other ‘apps’ may use a service called Flurry Analytics to collect user data which we use to learn about our readers and improve the app. To find out more, visit <http://www.flurry.com/about-us/legal/privacy.html>. You can opt out at any time by visiting <http://www.flurry.com/resources/privacy.html>.
 
-**How we use your data**
 
-The personal information we obtain will be used for the following purposes.
+DoG Tech will only share your non-public personal information with non-affiliated third parties when we believe sharing is permitted by you or authorized by this Privacy Policy. 
 
-Technical administration of the web site, enhancing your experience of the site, research and development, customer service, marketing, advertising targeting and making your personal data available to selected partners. This will include Dennis and our partners sending you information about products and services that will be relevant to you, by email, mobile messaging, postal mail or direct telephone contact. All of the above are subject to your stated preferences; we and our content partners will always make it clear how you can prevent i.e. opt-out of these uses.
+DoG Tech uses the information we collect from and about users for the following purposes:
 
-We may use third party suppliers to provide part of our service to you. In some circumstances these providers may be based in countries outside the European Economic Area whose laws provide for a different standard of protection for your personal information than that provided under UK Law. In such circumstances we will have in place strict contractual arrangements that will require your information is processed securely, at least to a standard equivalent to the UK Data Protection Act 1998.  
-Your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation. Before we release data on this basis, we will ensure that the information is being provided to a genuine and properly authorised investigation. If we are not satisfied that there are valid grounds for releasing the information, the Data Protection Act does not oblige us to do so. If we refuse to release the information, law enforcement agencies may obtain a court order requiring us to provide it. ****
+  * To provide and manage the Site. DoG Tech uses the information we collect from and about users to: measure and improve the Site’s services and features; personalize your experience by delivering relevant content, advertising and marketing messages; allow you to participate in online games, contests or promotions; enable you to communicate and share with other users; and provide you with customer support and respond to inquiries. 
 
-**Individual Choice** ****
 
-You can change your personal information preferences and/or details at any time. As a magazine subscriber you can access your preferences by logging on to www.subsinfo.co.uk using your SubsInfo password. If you have registered on a Dennis Publishing (UK) Ltd website you can access your personal information preferences by logging in to our registration system and using the username and password details you selected. You can also unsubscribe to any/all lists by sending an email request to [privacy@dennis.co.uk](mailto:privacy@dennis.co.uk). (including your full name, postcode and magazine subscription / website registration / competition information). 
+  * To allow third-party service providers to assist us in providing and managing the Site. DoG Tech may make your non-public personal information available to certain third-party service providers such as contractors, agents or sponsors, who help us manage or provide the Site. These outside service providers are required to protect non-public personal information entrusted to them and not use it for any purpose other than the specific service they are providing to DoG Tech.
 
-You will ALWAYS be given a straightforward way to opt out from our direct marketing each time you receive a communication from us or one of our advertising partners.
 
-**Access to Personal Information** **  
-** If you wish, you can obtain a copy of any personal information we have about you by sending your request to The Data Controller, Dennis Publishing (UK) Ltd, 30 Cleveland Street, London, W1T 4JD.  
-We will provide you, at no charge, with a hard copy of the personal data that we keep about you within 30 days, although we will require proof of your identity. If you consider that the information we hold about you is incorrect, you may where appropriate, have the data erased, amended or updated. 
+  * To allow other users to find you. In order to locate Site users that you may already know in the physical world and/or want to get to know in the online world, DoG Tech allows users to search for other users using information the user already knows, such as username, full name, or gamer profile, and identifies users matching those search criteria.
 
-**Personal information security**
 
-Dennis Publishing (UK) Ltd security policies, rules and technical measures have been implemented to protect your personal information from unauthorised or improper use and from accidental loss.
+  * To deliver relevant advertising. DoG Tech may use the information you provide to us, and information we collect about your use of the Site through cookies and other technologies, to assist us in delivering relevant ads when you visit the Site. We may work with third-party advertising networks and advertisers who help deliver these ads to you. We do not share your non-public personal information with these third parties, but we may share anonymized or aggregated information with them to improve the relevancy of the ads you see on the Site. These third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests. 
 
-All our employees and data processors that have access to, and are associated with, the processing of your personal information are legally obliged to respect the confidentiality of your data and are bound by contract to do so.
 
-Note that some of our websites provide forums where you can post information. When you do so, be aware that other visitors may collect any information you make public.
+  * To contact you. DoG Tech may periodically send promotional materials (e.g., newsletters) or notifications related to the Site, to the email address you provided to us at registration or to your account. If you want to stop receiving promotional materials from DoG Tech, you can follow the unsubscribe instructions at the bottom of each email. 
 
-**Privacy Support**
 
-If you have an enquiry or concern about our Privacy Notice, please contact: The Data Controller, Dennis Publishing (UK) Ltd, 30 Cleveland Street, London, W1T 4JD. If you are not satisfied with our response you may wish to contact the Information Commissioner via their [website](http://www.ico.gov.uk/)
+  * To protect the rights of DoG Tech and our users. There may be instances when DoG Tech may disclose user information without providing notice or choice, including situations where DoG Tech has a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of DoG Tech; (ii) protect the safety and security of users of the Site or members of the public; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process.
 
-If we decide to change our Privacy Notice we will post these changes on this page so that you are always aware of what information we collect, how we use it and in what circumstances we disclose it.  
-In the event of any part of Dennis Publishing (UK) Ltd either being sold or going into receivership, we reserve the right to continue to share your data to third parties in accordance with the latest preferences you have provided. You will be informed should any change of ownership occur, and the new owner will manage your personal information preferences.
+
+  * To complete a merger or sale of assets. If DoG Tech sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, DoG Tech may transfer your information to the party or parties involved in the transaction as part of that transaction.
+
+
+  3. Information security. DoG Tech uses commercially reasonable administrative, technical, personnel and physical measures to safeguard user information and credit card information in its possession against loss, theft and unauthorized use, disclosure or modification.
+
+
+  4. Use of Cookies. The Site may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+
+
+  5. Children Under Thirteen. DoG Tech does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this Site.
+
+
+  6. Amendments. Please periodically review this policy as DoG Tech will, occasionally, update this Privacy Policy to reflect company and customer feedback. If we make changes to this Privacy Policy that materially expand our rights to use your personal information, we will notify you to seek your consent through email or a prominent posting on the Site.
+
+
+  7. Contact Information. Please contact us at [admin@denofgeek.us](mailto:admin@denofgeek.us) with any questions or comments.
+
+
