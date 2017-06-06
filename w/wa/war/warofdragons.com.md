@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warofdragons.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122234733id_/http%3A//warofdragons.com/info/info/index.php%3Fobj%3Dcat%26id%3D85) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warofdragons.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101642id_/http%3A//warofdragons.com/info/info/index.php%3Fobj%3Dcat%26id%3D85) for the most accurate reproduction.*
 
 # «Legend: Legacy of the Dragons» :: Infoportal
 
