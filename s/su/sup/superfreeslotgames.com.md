@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superfreeslotgames.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326222500id_/http%3A//www.superfreeslotgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfreeslotgames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044309id_/http%3A//www.superfreeslotgames.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Super Free Slot Games
+# Privacy Policy - Super Free Slot Games — Super Free Slot Games
 
 This privacy policy sets out how Super Free Slot Games uses and protects any information that you give Super Free Slot Games when you use this website.
 
@@ -11,7 +11,7 @@ Super Free Slot Games may change this policy from time to time by updating this 
 #### We may collect the following information:
 
   * Name
-  * Contact information incl. email address
+  * Contact information incl. email address and mobile number
   * Demographic information incl. post code, preferences and interests
   * Other information relevant to customer surveys
 
@@ -23,7 +23,7 @@ We require this information to understand your needs and provide you with a bett
 
 #### Internal record keeping:
 
-We may use the information to improve our products and services. We will frequently send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email. We may use the information to customise the website according to your interests.
+We may use the information to improve our products and services. We will frequently send promotional emails and SMS messages about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email and SMS message. We may use the information to customise the website according to your interests.
 
 #### Security:
 
@@ -37,7 +37,7 @@ Cookies allow web applications to respond to you as an individual. The web appli
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. To find out more about how cookies interact with your computer, [click here](http://www.superfreeslotgames.com/privacy-and-cookies/).
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. To find out more about how cookies interact with your computer, [click here](http://www.superfreeslotgames.com/privacy-and-cookies/).
 
 #### Google Analytics
 
@@ -51,7 +51,7 @@ We and third-party vendors, including Google, use first-party cookies (such as t
 
 We use Google Analytics Demographics and Interest Reporting in order to target users who have a higher probability of being interested in our products. We also may use 3rd-party audience data (such as age, gender, and interests) to help guide our website offering to better meet consumer needs, an ultimately improve the user experience.
 
-Using the  _Ads Settings_ , you can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads. Read more here: [Opt Out Information](https://tools.google.com/dlpage/gaoptout/).
+Using the  _Ads Settings_ , you can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads. Read more here: [Opt Out Information](https://tools.google.com/dlpage/gaoptout/).
 
 #### Links to other websites:
 
@@ -59,15 +59,15 @@ Our website may contain links to other websites of interest. However, once you h
 
 #### Controlling your personal information:
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We will use your personal information to send you promotional information about our products and services, as well as third parties which we think you may find interesting. If you do not wish to receive these, then contact us using the links further down this policy or through the communications sent.
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee may be payable.
 
-If you would like a copy of the information held on you please [contact us](https://web.archive.org/contact).
+If you would like a copy of the information held on you please [contact us](http://www.superfreeslotgames.com/contact).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above email address. We will promptly correct any information found to be incorrect.
 
-If wish to unsubscribe from this service please email [contact us](https://web.archive.org/contact/) using the subject line "Unsubscribe" also please include the email address you signed up with. Please allow 3 -5 working days for your request to be processed.
+If wish to unsubscribe from this service please email [contact us](http://www.superfreeslotgames.com/contact/) using the subject line “Unsubscribe” also please include the email address you signed up with. Please allow 3 -5 working days for your request to be processed.
 
 #### Little Star Media
 
