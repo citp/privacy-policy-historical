@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juliamovies.com privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112061551id_/http%3A//juliamovies.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juliamovies.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134053id_/http%3A//juliamovies.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
