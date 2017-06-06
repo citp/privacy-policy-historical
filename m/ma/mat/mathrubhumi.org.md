@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathrubhumi.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229122649id_/http%3A//media.mathrubhumi.com/static/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathrubhumi.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165244id_/http%3A//media.mathrubhumi.com/static/privacypolicy.html) for the most accurate reproduction.*
 
 # Mathrubhumi Privacy Policy
 
