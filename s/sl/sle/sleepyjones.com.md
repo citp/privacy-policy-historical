@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepyjones.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611041201id_/http%3A//sleepyjones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepyjones.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090750id_/http%3A//sleepyjones.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sleepy Jones
 
@@ -49,3 +49,43 @@ People under 18 years of age are not permitted to use the Site or the Services o
 **Governing Law and Jurisdiction**
 
 This Privacy Policy constitutes a contract made under and shall be governed by and construed in accordance with the laws of the State of New York.
+
+**Sweepstakes  **
+
+NO PURCHASE IS NECESSARY TO ENTER OR WIN. A PURCHASE DOES NOT INCREASE THE CHANCES OF WINNING.
+
+1\. Eligibility: Sweepstakes (the “Sweepstakes”) is open only to those who sign up at the online sweepstakes page and who are 13 as of the date of entry. Employees of Sleepy Jones (the “Sponsor”) their respective affiliates, subsidiaries, advertising and promotion agencies, suppliers and their immediate family members and/or those living in the same household of each are not eligible to participate in the Sweepstakes. The Sweepstakes is subject to all applicable federal, state and local laws and regulations. Void where prohibited.
+
+2\. Agreement to Rules: By participating, you agree to be fully unconditionally bound by these Rules, and you represent and warrant that you meet the eligibility requirements set forth herein. In addition, you agree to accept the decisions of Sleepy Jones, as final and binding as it relates to the content. The Sweepstakes is subject to all applicable federal, state and local laws.
+
+3\. Sweepstakes Period: Entries will be accepted online starting on or about January 19th and ending January 22nd. All online entries must be received by January 22nd 11:59PM EST.
+
+4\. How to Enter: The Sweepstakes must be entered by submitting an entry using the online form provided on this Sweepstakes site. The entry must fulfill all sweepstakes requirements, as specified, to be eligible to win a prize. Entries that are not complete or do not adhere to the rules or specifications may be disqualified at the sole discretion of Sleepy Jones. You may enter only once and you must fill in the information requested. You may not enter more times than indicated by using multiple email addresses, identities or devices in an attempt to circumvent the rules. If you use fraudulent methods or otherwise attempt to circumvent the rules your submission may be removed from eligibility at the sole discretion of Sleepy Jones.
+
+5\. Prizes: Winners will receive a four year supply of pajamas, a retail value of $2000. Actual/appraised value may differ at time of prize award. The specifics of the prize shall be solely determined by the Sponsor. No cash or other prize substitution permitted except at Sponsor’s discretion. The prize is nontransferable. Any and all prize related expenses, including without limitation any and all federal, state, and/or local taxes shall be the sole responsibility of the winner. No substitution of prize or transfer/assignment of prize to others or request for the cash equivalent by winners is permitted. Acceptance of prize constitutes permission for Sleepy Jones to use winner’s name, likeness, and entry for purposes of advertising and trade without further compensation, unless prohibited by law.
+
+6\. Odds: The odds of winning depend on the number of eligible entries received.
+
+7\. Winner selection and notification: Winners of the Sweepstakes will be selected in a random drawing under the supervision of the Sponsor. Winners will be notified via email to the email address they entered the Sweepstakes with within five (5) days following the winner selection. Sleepy Jones shall have no liability for a winner’s failure to receive notices due to winners’ spam, junk e-mail or other security settings or for winners’ provision of incorrect or otherwise non-functioning contact information. If the selected winner cannot be contacted, is ineligible, fails to claim the prize within 15 days from the time award notification was sent, or fails to timely return a completed and executed declaration and releases as required, prize may be forfeited and an alternate winner selected.
+
+The receipt by winner of the prize offered in this Sweepstakes is conditioned upon compliance with any and all federal and state laws and regulations. ANY VIOLATION OF THESE OFFICIAL RULES BY ANY WINNER (AT SPONSOR’S SOLE DISCRETION) WILL RESULT IN SUCH WINNER’S DISQUALIFICATION AS WINNER OF THE SWEEPSTAKES AND ALL PRIVILEGES AS WINNER WILL BE IMMEDIATELY TERMINATED.
+
+ 8\. Rights Granted by you: By entering this content you understand that Sleepy Jones, anyone acting on behalf of [company name], or its respective licensees, successors and assigns will have the right, where permitted by law, without any further notice, review or consent to print, publish, broadcast, distribute, and use, worldwide in any media now known or hereafter in perpetuity and throughout the World, your entry, including, without limitation, the entry and winner’s name, portrait, picture, voice, likeness, image or statements about the Sweepstakes, and biographical information as news, publicity or information and for trade, advertising, public relations and promotional purposes without any further compensation.
+
+9\. Terms: Sleepy Jones reserves the right, in its sole discretion to cancel, terminate, modify or suspend the Sweepstakes should (in its sole discretion) a virus, bugs, non-authorized human intervention, fraud or other causes beyond its control corrupt or affect the administration, security, fairness or proper conduct of the Sweepstakes. In such case, Sleepy Jones may select the recipients from all eligible entries received prior to and/or after (if appropriate) the action taken by Sleepy Jones. Sleepy Jones reserves the right at its sole discretion to disqualify any individual who tampers or attempts to tamper with the entry process or the operation of the Sweepstakes or website or violates these Terms & Conditions.
+
+Sleepy Jones has the right, in its sole discretion, to maintain the integrity of the Sweepstakes, to void votes for any reason, including, but not limited to; multiple entries from the same user from different IP addresses; multiple entries from the same computer in excess of that allowed by sweepstakes rules; or the use of bots, macros or scripts or other technical means for entering.
+
+Any attempt by an entrant to deliberately damage any web site or undermine the legitimate operation of the sweepstakes may be a violation of criminal and civil laws and should such an attempt be made, Sleepy Jones reserves the right to seek damages from any such person to the fullest extent permitted by law.
+
+By entering the Sweepstakes you agree to receive email newsletters periodically from Sleepy Jones. You can opt-out of receiving this communication at any time by clicking the unsubscribe link in the newsletter.
+
+10\. Limitation of Liability: By entering you agree to release and hold harmless Sleepy Jones and its subsidiaries, affiliates, advertising and promotion agencies, partners, representatives, agents, successors, assigns, employees, officers and directors from any liability, illness, injury, death, loss, litigation, claim or damage that may occur, directly or indirectly, whether caused by negligence or not, from (i) such entrant’s participation in the sweepstakes and/or his/her acceptance, possession, use, or misuse of any prize or any portion thereof, (ii) technical failures of any kind, including but not limited to the malfunctioning of any computer, cable, network, hardware or software; (iii) the unavailability or inaccessibility of any transmissions or telephone or Internet service; (iv) unauthorized human intervention in any part of the entry process or the Promotion; (v) electronic or human error which may occur in the administration of the Promotion or the processing of entries.
+
+11\. Disputes: THIS SWEEPSTAKES IS GOVERNED BY THE LAWS OF USA AND NEW YORK STATE, WITHOUT RESPECT TO CONFLICT OF LAW DOCTRINES. As a condition of participating in this Sweepstakes, participant agrees that any and all disputes which cannot be resolved between the parties, and causes of action arising out of or connected with this Sweepstakes, shall be resolved individually, without resort to any form of class action, exclusively before a court located in New York having jurisdiction. Further, in any such dispute, under no circumstances will participant be permitted to obtain awards for, and hereby waives all rights to claim punitive, incidental, or consequential damages, including reasonable attorneys’ fees, other than participant’s actual out-of-pocket expenses (i.e. costs associated with entering this Sweepstakes), and participant further waives all rights to have damages multiplied or increased.
+
+12\. Privacy Policy:  Information submitted with an entry is subject to the Privacy Policy stated on the Sleepy Jones Web Site. To read the Privacy Policy, http://sleepyjones.com/privacy click here.
+
+13\. Winners List: To obtain a copy of the winner’s name or a copy of these Official Rules, mail your request along with a stamped, self-addressed envelope to: Sleepy Jones, 25 Howard Street, NYC, NY 10013 USA. Requests must be received no later than January 22nd.
+
+14\. Sponsor:  The Sponsor of the Sweepstakes is Sleepy Jones, 25 Howard Street, NYC, NY 10013 USA.
