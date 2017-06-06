@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weteachme.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220031422id_/https%3A//weteachme.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weteachme.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164945id_/https%3A//weteachme.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / WeTeachMe
 
