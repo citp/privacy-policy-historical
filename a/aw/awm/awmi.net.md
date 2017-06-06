@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awmi.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030011id_/http%3A//www.awmi.net/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awmi.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131909id_/http%3A//www.awmi.net/more/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Andrew Wommack Ministries
 
@@ -101,4 +101,4 @@ If you have questions about this Privacy Policy, please contact AWM or Charis vi
 
 
 
-© 2016 Andrew Wommack Ministries. All rights reserved. 
+© 2017 Andrew Wommack Ministries. All rights reserved. 
