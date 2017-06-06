@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ballerarcade.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105957id_/http%3A//www.ballerarcade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerarcade.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092112id_/http%3A//www.ballerarcade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://web.archive.org/ "home")
 
 Ideal Internet, Inc. we appreciate our relationship with you, respect that your information is yours, and is committed to safeguarding your privacy when you're using [ballerarcade.com](http://www.ballerarcade.com/). The following describes our collection of and use of any information that we may collect from you. 
 
