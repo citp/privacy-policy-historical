@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ebay.com.au privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917000839id_/http%3A//pages.ebay.com.au/help/policies/privacy-policy.html%3Frt%3Dnc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105228id_/http%3A//pages.ebay.com.au/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice (Privacy Policy)
 
-User Privacy Notice (Privacy Policy)
+eBay has received TRUSTe's privacy seal signifying that this Privacy Notice and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please use the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this site and the eBay mobile site, and does not cover information that may be collected through software downloaded from the site.
 
-### Summary & Contents
+[](http://privacy.truste.com/privacy-seal/validation?rid=504d461a-a7db-4e6d-864e-0fcee6b0e89d)
+
+## Summary & Contents
 
 | 
 
@@ -92,7 +94,7 @@ If you have a question or a complaint about this Privacy Notice, our global priv
 
 Learn more: Questions or Complaints  
   
-### Scope and Consent
+## Scope and Consent
 
 This Privacy Notice describes our collection, use, disclosure, retention and protection of your personal information. It applies to any eBay site where this Privacy Notice appears in the footer, and to any eBay application, service, or tool (collectively "Services") where this Privacy Notice is referenced, regardless of how you access or use them, including through mobile devices.
 
@@ -103,6 +105,10 @@ If you reside in the United States, you are contracting with eBay Inc., 2065 Ham
   * If you reside in a country within the European Union, you are contracting with eBay Europe S.à r.l., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg.
 
   * If you reside in India, you are contracting with eBay India Private Limited, 14th Floor, North Block, R-Tech Park, Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra, India.
+
+  * Starting on 1 July 2017, you are contracting with eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada, if you reside in Canada.
+
+  * Starting on 1 August 2017, you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom, if you reside in the United Kingdom.
 
   * If you reside in any other country, you are contracting with eBay International AG, Helvetiastrasse 15/17, 3005 Bern, Switzerland.
 
@@ -119,13 +125,13 @@ The company you are contracting with is your data controller, and is responsible
 
 We may amend this Privacy Notice at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are posted. We will announce any material changes to this Privacy Notice through [eBay Messages](http://mesgmy.ebay.com.au/ws/eBayISAPI.dll?ViewMyMessages&CurrentPage=MyeBayMyMessages) and/or via email.
 
-### Global Privacy Standards
+## Global Privacy Standards
 
  
 
 eBay Inc. has established global privacy standards for all eBay Inc. companies known as our Binding Corporate Rules (BCRs). They are our commitment to protect your personal information and honour our privacy obligations regardless of where your personal information is collected, processed or retained within our eBay Inc. corporate family. Our BCRs have been approved by a number of European Union privacy regulators. That means we are treating your personal information everywhere within our eBay Inc. corporate family according to European Union privacy standards. More information about our BCRs and our global privacy standards is available at our [eBay Inc. Privacy Center](http://www.ebayprivacycenter.com/privacy).
 
-### Collection
+## Collection
 
 We collect, process and retain personal information from you and any devices (including mobile devices) you may use when you: use our Services, register for an account with us, provide us information on a web form, update or add information to your account, participate in community discussions, chats or dispute resolution, or when you otherwise correspond with us regarding our Services.
 
@@ -178,7 +184,7 @@ We use cookies, web beacons, unique identifiers and similar technologies to coll
 
 
 
-### Use and Retention
+## Use and Retention
 
  
 
@@ -238,7 +244,7 @@ We use the personal information we collect to: provide and improve our Services,
 
 We retain your personal information as long as it is necessary and relevant for our operations. In addition, we may retain personal information from closed accounts to comply with national laws, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce our [User Agreement](http://pages.ebay.com.au/help/policies/user-agreement.html) and take other actions permitted or required by applicable national laws. After it is no longer necessary for us to retain your personal information, we dispose of it in a secure manner according to our data retention and deletion policies.
 
-### Choice
+## Choice
 
 You have a choice about how we use your personal information to communicate with you, to send you marketing information, how we provide you with customised and relevant advertising, and whether you want to stay signed into your account.
 
@@ -291,7 +297,7 @@ You can typically end your signed in session by either signing out and/or cleari
 
 If you withdraw your consent for the use or disclosure of your personal information for purposes set out in this Privacy Notice you may not have access to all our Services and we might not be able to provide you all of the Services and customer support offered to our users and authorised under this Privacy Notice and our [User Agreement](http://pages.ebay.com.au/help/policies/user-agreement.html).
 
-### Access
+## Access
 
 We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access and make corrections to it. This includes the following:
 
@@ -304,7 +310,7 @@ We take steps to ensure that the personal information we collect is accurate and
 
 
 
-### Disclosure
+## Disclosure
 
 We may disclose your personal information to other members of the eBay Inc. corporate family or to third parties. This disclosure may be required for us to provide and to provide you access to our Services, to comply with our legal obligations, to enforce our [User Agreement](http://pages.ebay.com.au/help/policies/user-agreement.html), to facilitate our marketing and advertising activities, or to prevent, detect, mitigate and investigate fraudulent or illegal activities related to our Services. We minimise the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose. As stated above, we do not disclose your personal information to third parties for their marketing and advertising purposes without your explicit consent. 
 
@@ -370,11 +376,11 @@ We may disclose your personal information to PayPal Inc. and its corporate famil
 
 If we were to merge with or be acquired by another company, we may share information with them in accordance with our global privacy standards. Should such an event occur, we will require that the new combined entity follow this Privacy Notice with respect to your personal information. If your personal information will be collected, used, disclosed or retained for any purposes not covered in this Privacy Notice, you will receive prior notification of the processing of your personal information for the new purposes.
 
-### Security
+## Security
 
 We protect your information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorised access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centres and information access authorisation controls. If you believe your account has been abused, please contact us following the instructions in the Questions or Complaints section below.
 
-### Important Information
+## Important Information
 
 This section describes some additional important information related to your use of our Services. There are just a few more pieces of important privacy information related to your use of our Services that we need to cover:
 
@@ -402,7 +408,7 @@ This Privacy Notice addresses only the use and disclosure of personal informatio
 
 We cannot guarantee the privacy or security of your information once you provide it to a third party and we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. This is true even where the third parties to whom you disclose personal information are bidders, buyers or sellers on our sites.
 
-### Questions or Complaints
+## Questions or Complaints
 
 If you have a question or a complaint about this Privacy Notice, our global privacy standards or our information handling practices, you can reach the Global Privacy Office in writing by sending us a letter or postcard to: eBay Inc, Attn: Legal - Global Privacy Office, 2065 Hamilton Avenue, San Jose, California 95125, USA.
 
@@ -710,7 +716,7 @@ If you have a question or a complaint about this Privacy Notice or our global pr
 
 You can also find more information on how to contact us at our [eBay Inc. Privacy Center](http://www.ebayprivacycenter.com/contact-us).
 
-Contact Customer Service 
+## Contact Customer Service 
 
 If you're looking for more help or have a question to ask, please [contact us](http://contact.ebay.com.au/ws/eBayISAPI.dll?ContactCS). 
 
