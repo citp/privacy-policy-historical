@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justgiving.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024193117id_/https%3A//www.justgiving.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justgiving.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171342id_/https%3A//www.justgiving.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JustGiving
 
@@ -119,7 +119,7 @@ In the event your personal information is transferred to a foreign jurisdiction,
 
 ## Keeping information secure
 
-We invest significant resources to protect your personal information, from loss, misuse, unauthorised access, modification or disclosure. However, no internet-based site can be 100% secure and we cannot be held responsible for unauthorised or unintended access that is beyond our control. For more information see our [security policy](http://www.justgiving.com/en/security-policy) which explains our particular approach to ensuring the security of payment and card details.
+We invest significant resources to protect your personal information, from loss, misuse, unauthorised access, modification or disclosure. However, no internet-based site can be 100% secure and we cannot be held responsible for unauthorised or unintended access that is beyond our control. For more information see our [security policy](https://www.justgiving.com/en/security-policy) which explains our particular approach to ensuring the security of payment and card details.
 
 ## Updating your account and preferences
 
