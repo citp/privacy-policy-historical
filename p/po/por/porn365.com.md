@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the porn365.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206152625id_/http%3A//porn365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn365.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163059id_/http%3A//porn365.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Porn 365
 
-This Privacy Policy governs the manner in which porn365 collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://porn365.com website (“Site”).
+This Privacy Policy governs the manner in which porn365 collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://porn365.com website (“Site”).
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
