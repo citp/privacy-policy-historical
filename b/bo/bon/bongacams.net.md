@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bongacams.net privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218084026id_/http%3A//bongacams.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongacams.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115103id_/http%3A//bongacams.net/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows, Free Porn Chat - Free Live Sex Chat
 
