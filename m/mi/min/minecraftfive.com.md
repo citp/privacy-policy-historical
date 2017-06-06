@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftfive.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026064507id_/http%3A//minecraftfive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftfive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111032id_/http%3A//minecraftfive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MinecraftFive
 
@@ -10,7 +10,7 @@ MinecraftFive.com is committed to ensuring that your privacy is protected. Shoul
 
 MinecraftFive.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2015/07/23.
 
- **What we collect**
+**What we collect**
 
 We may collect the following information:
 
@@ -19,7 +19,7 @@ We may collect the following information:
 
 
 
- **What we do with the information we gather**
+**What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -28,7 +28,7 @@ We require this information to understand your needs and provide you with a bett
 
 
 
- **Ad Networks**
+**Ad Networks**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies
 
@@ -38,7 +38,7 @@ We use the following ad networks:
 
 
 
- **Especially Google Adsense Privacy Policy**
+**Especially Google Adsense Privacy Policy**
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
@@ -50,7 +50,7 @@ We use the following ad networks:
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
- **Links to other websites**
+**Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
@@ -58,7 +58,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.
 
- **Contacting Us**
+**Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
