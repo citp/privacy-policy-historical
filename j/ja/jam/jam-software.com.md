@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120020012id_/http%3A//jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035023id_/https%3A//www.jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # JAM Software - Privacy Policy
 
@@ -18,7 +18,7 @@ At the time of this writing the following set of formal rules were applicable to
 
   * [Bundesdatenschutzgesetz (BDSG)](http://www.gesetze-im-internet.de/bdsg_1990/ "Bundesdatenschutzgesetz") \- text is in German language  
 German law on the protection of personal data
-  * [EU Data Protection Directive](http://ec.europa.eu/justice_home/fsj/privacy/law/index_en.htm "EU Data Protection Directive")  
+  * [EU Data Protection Directive](https://edps.europa.eu/data-protection/our-work/publications/legislation/directive-9546ec_en "EU Data Protection Directive")  
 Directive 95/46/EC of the European Parliament and of the Council of October 24. 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
   * [OECD Guidelines](http://www.oecd.org/ "OECD Guidelines") on the Protection of Privacy and Transborder Flows of Personal Data
 
@@ -90,4 +90,4 @@ This privacy policy is up to date and was last changed on February 22, 2016. It 
 
 ### Data storage: Opt out
 
-Here you can set whether your visits to be collected at this site from the web analytics or not. [Settings webanalytics.](https://web.archive.org/web/20161120020012id_/http%3A//jam-software.com/company/privacy.shtml)
+Here you can set whether your visits to be collected at this site from the web analytics or not. [Settings webanalytics.](https://web.archive.org/web/20170606035023id_/https%3A//www.jam-software.com/company/privacy.shtml)
