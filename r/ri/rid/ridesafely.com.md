@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ridesafely.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225150956id_/http%3A//www.ridesafely.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridesafely.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055722id_/http%3A//www.ridesafely.com/template/viewer/documentviewer.aspx%3Fdc%3DPRPY) for the most accurate reproduction.*
 
-# SALVAGE CARS AND MOTORCYCLES
-
-| 
+# 
 
 PRIVACY POLICY
 
@@ -74,6 +72,4 @@ We will retain in our files some personal information you have requested to remo
 7\. SECURITY  
 Your information is stored on RideSafely.com’s servers which are located in the United States. We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including "firewalls" and other means. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, you hereby agree that in the event of the security breach/theft of your information you release Ridesafely.com and its affiliates, and their agents and officers will not be held liable by you. Ridesafely.com and its affiliates, associated and business partners does NOT either expressly or impliedly guarantee or warrant in any way that the information that we collect is safe from any type of breach, theft, intentional, unintentional or negligent security failure that may result in disclosure of your information. Therefore, you hereby AGREE TO RELEASE Ridesafely.com, its employees and officers, its affiliates, associates, business partners, subsidiaries from any and all liability arising from those aforementioned events. Additionally, you hereby AGREE NOT TO CLAIM any and all damages stemming from aforementioned events, including, but not limited to consequential, punitive, direct or indirect.
 
-We may amend this Privacy Policy at any time by posting the amend terms on the Site. All amended terms shall automatically be effective immediately after they are initially posted on the Site. 
-
-| 
+We may amend this Privacy Policy at any time by posting the amend terms on the Site. All amended terms shall automatically be effective immediately after they are initially posted on the Site.
