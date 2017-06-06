@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the scholarships4moms.net privacy policy that was archived on 2016-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160727230132id_/http%3A//scholarships4moms.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships4moms.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204918id_/http%3A//scholarships4moms.net/privacy) for the most accurate reproduction.*
 
 # Scholarships4Moms // Privacy Statement
 
 scholarships4moms.net ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Therefore, by registering and using this site, you are agreeing and accepting this policy.
 
-The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
-
-[](https://privacy.truste.com/privacy-seal/Vinyl-Interactive,-LLC-/validation?rid=4a0f64df-a930-4b3d-86f9-97b7dd9e6924 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=539790f9-7d9f-4772-b187-55445665122e)
 
 ### Information Collected:
 
@@ -25,33 +23,40 @@ Scholarships4Moms reserves the right to use this information provided by you for
 
 
 
-Although, it is important to note that Scholarships4Moms reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to email us at: [Info@scholarships4moms.net ](mailto:info@scholarships4moms.net).
+Although, it is important to note that Scholarships4Moms reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to email us at: [Info@scholarships4moms.net](mailto:info@scholarships4moms.net).
 
 scholarships4moms.net may also share your information with its service providers such as an email service provider and chat provider, and with your permission, any other entities that we believe are able to provide you with special opportunities and offers. _These companies are authorized to use your personal information only as necessary to provide these services to us._
 
-scholarships4moms.net may occasionally license, share, or otherwise disclose data we collected to third parties. scholarships4moms.net does not have control over such party's information handling practices and is not responsible for any failure of such party to adhere to this Policy. As a condition of registration, you must agree that we are allowed to share your information with such entities, or else you may not register.
-
 We will share your personal information with third parties only in the ways that are described in this privacy policy. 
 
-Additionally, scholarships4moms.net may disclose your information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+Additionally, scholarships4moms.net may disclose your information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In certain situations, Free College Scholarships, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+### User Data Supplementation
+
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include: 
+
+  1. Address information about you from third party sources to verify your address. so we can properly ship your order to you and to prevent fraud.
+  2. Purchased marketing data about our customers from third parties that is combined with information we already have about you, to create more tailored advertising and products.
+
+
 
 ### Customer Testimonials/Comments/Reviews:
 
-We post customer testimonials/comments/reviews on our website which may contain personal information. We do obtain the customer's consent with a signed release of liability or via email or phone prior to posting their name with the testimonial/comment/review. If you wish to update your testimonial, you can contact us at [Info@scholarships4moms.net ](mailto:info@scholarships4moms.net).
+We post customer testimonials/comments/reviews on our website which may contain personal information. We do obtain the customer's consent with a signed release of liability or via email or phone prior to posting their name with the testimonial/comment/review. If you wish to update your testimonial, you can contact us at [Info@scholarships4moms.net](mailto:info@scholarships4moms.net).
 
 ### Framing:
 
-On some of our sites we have special offers with our partners where another third party is actually framed within our site. However, you are actually on a third party website and should be aware that you are entering information on a third party site. Some pages may have the look and feel of being on _our_ site, however the information collected on these pages may not be covered under our privacy policy. All information collected on _their_ site is owned and controlled by that company's privacy policy.
+On some of our sites we have special offers with our partners where another third party is actually framed within our site. However, you are actually on a third party website and should be aware that you are entering information on a third party site. Some pages may have the look and feel of being on _our_ site, however the information collected on these pages may not be covered under our privacy. All information collected on _their_ site is owned and controlled by that company's privacy policy.
 
 ### Links to Other Sites:
 
-If you click on a link to a third party site, including on an advertisement, you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as scholarships4moms.net . We encourage you to review the privacy policies of any other service provider from whom you request services.
+If you click on a link to a third party site, including on an advertisement, you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as scholarships4moms.net. We encourage you to review the privacy policies of any other service provider from whom you request services.
 
-### Cookies and Tracking Technologies:
+### Tracking Technologies:
 
-Technologies such as: cookies, beacons, tags and scripts are used by Free College Scholarships,LLC and our marketing partners, affiliates, analytics or service providers for data verification. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies to remember users’ settings (e.g. your prior registration information, schools you requested information from), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+Free College Scholarships, LLC and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 ### Log Files:
 
@@ -63,15 +68,11 @@ Our website includes Widgets, which are interactive mini-programs that run on ou
 
 ### Blog:
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [Info@scholarships4moms.net ](mailto:info@scholarships4moms.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [Info@scholarships4moms.net](mailto:info@scholarships4moms.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Registry Compliance:
 
-By submitting your personal and/or financial information on our site, you hereby give us, our affiliated sites, sponsors, etc. permission to use your information to contact you. You are also consenting to receive phone calls from scholarships4moms.net , our affiliates, and our partners for contact via telephone.
-
-### LSOs
-
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML to collect and store information. Various browsers may offer their own management tools for removing HTML5.
+By submitting your personal and/or financial information on our site, you hereby give us, our affiliated sites, sponsors, etc. permission to use your information to contact you. You are also consenting to receive phone calls from scholarships4moms.net, our affiliates, and our partners for contact via telephone.
 
 ### Behavioral Targeting
 
@@ -79,11 +80,11 @@ We partner with a third party to either display advertising on our Web site or t
 
 ### Security:
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about the security of your personal information, you can contact us at [Info@scholarships4moms.net ](mailto:info@scholarships4moms.net).
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about the security of your personal information, you can contact us at [Info@scholarships4moms.net](mailto:info@scholarships4moms.net).
 
 ### SMS Messaging:
 
-If applicable, this website, scholarships4moms.net , websites linking to scholarships4moms.net , and websites linked from this website (collectively "We") may make available a service either directly or through third parties by which you can receive messages on your wireless device via short message service ("SMS Service"). Your provider's standard data and messaging rates apply to all SMS correspondence. All charges are billed by and payable to your mobile service provider. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Data obtained from you in connection with this SMS Service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. The use of this information will be in accordance with this Mobile Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. You acknowledge and agree that the SMS Service is provided via wireless systems, which use radios (and other means) to transmit communications over complex networks. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. You may opt out of the SMS Service at any time by replying "STOP", "END", or "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering.
+If applicable, this website, scholarships4moms.net, websites linking to scholarships4moms.net, and websites linked from this website (collectively "We") may make available a service either directly or through third parties by which you can receive messages on your wireless device via short message service ("SMS Service"). Your provider's standard data and messaging rates apply to all SMS correspondence. All charges are billed by and payable to your mobile service provider. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Data obtained from you in connection with this SMS Service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. The use of this information will be in accordance with this Mobile Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. You acknowledge and agree that the SMS Service is provided via wireless systems, which use radios (and other means) to transmit communications over complex networks. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. You may opt out of the SMS Service at any time by replying "STOP", "END", or "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering.
 
 ### We do not collect Information from Children:
 
@@ -95,7 +96,7 @@ scholarships4moms.net has a no tolerance spam policy and is committed to 100% pe
 
 ### Help scholarships4moms.net Eliminate Spam
 
-If you have received unsolicited bulk e-mail from scholarships4moms.net or promoting a scholarships4moms.net service, please let us know. Forward the message you received, including the mail headers, to scholarships4moms.net . Include a note letting us know that the message is spam, and that you did not specifically request to receive information from the sender.
+If you have received unsolicited bulk e-mail from scholarships4moms.net or promoting a scholarships4moms.net service, please let us know. Forward the message you received, including the mail headers, to scholarships4moms.net. Include a note letting us know that the message is spam, and that you did not specifically request to receive information from the sender.
 
 ### California Privacy Rights:
 
@@ -103,28 +104,28 @@ Under California law, site visitors who are residents of California may request 
 
 ### Access to your information:
 
-When you submit your personal information on a form, it is not possible to update, delete, or change this information unless you resubmit it on the form again. Once you resubmit this new form with your updated information, your old record will be retained in our databases for historical purposes. If you wanted to have your personal information removed from our public forum, directory or testimonial on our site or deactivate it, you can contact us as described below. We will respond to your request within a reasonable timeframe.
+Upon request Free College Scholarships, LLC will provide you with information about whether we hold any of your personal information. You can update, or change this information by resubmitting the information on the form. Once you resubmit this new form with your updated information, your old record will be retained in our databases for historical purposes. If you wanted to have your personal information deleted and removed from our public forum, directory or testimonial on our site or deactivate it, you can contact us as described below. We will respond to your request within a reasonable timeframe.
 
 ### Transfer, Sale, or Assign:
 
-At its sole discretion, scholarships4moms.net may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of scholarships4moms.net . You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+At its sole discretion, scholarships4moms.net may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of scholarships4moms.net. You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ### Data Retention:
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [Info@scholarships4moms.net ](mailto:info@scholarships4moms.net). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [Info@scholarships4moms.net](mailto:info@scholarships4moms.net). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Change in Policy:
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site prior to the change becoming effective.
 
-Effective: April 1, 2016
+Effective: June 1, 2017
 
 ### Contact Information
 
-Email us at: [Info@scholarships4moms.net ](mailto:info@scholarships4moms.net)  
+Email us at: [Info@scholarships4moms.net](mailto:info@scholarships4moms.net)  
 Or write to us at: Free College Scholarships LLC, 4104 24th St. Suite 947, San Francisco, CA 94114
 
-[Register Now](https://web.archive.org/scholarship-application-for-moms)
+[Enter Now](https://web.archive.org/scholarship-application-for-moms)
 
 Balancing life, family, and your career can be overwhelming.  
 Give yourself the tools you need and go back to school and take control of your future. 
