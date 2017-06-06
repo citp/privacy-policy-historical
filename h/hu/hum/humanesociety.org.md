@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanesociety.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120100506id_/http%3A//www.humanesociety.org/privacy.html%3Fcredit%3Dweb_globalfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanesociety.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140411id_/http%3A//www.humanesociety.org/privacy.html%3Fcredit%3Dweb_globalfooter) for the most accurate reproduction.*
 
 # Privacy Policy : The Humane Society of the United States
 
@@ -18,6 +18,8 @@ The HSUS collects and maintains certain personal information about you when you 
 humanesociety.org also collects certain other information that cannot identify you personally when you visit our web site. This information includes your IP address and your domain name. HSUS.org logs these IP addresses and domain names, and aggregates them for system administration and to monitor the use of our site. We use the aggregated information to measure the number of visits to our site, the average time spent on our site, the number of pages viewed, and various other site statistics. This monitoring helps us to provide a more useful and engaging online experience to HSUS.org visitors, and helps us to improve the quality of our content.
 
 The HSUS uses cookies in order to make the results available for your on-site searches. Cookies are not used for any other reason on this site. A cookie is a small file that is sent out by a web site, accepted by the user's browser, and placed on the user's hard drive. You can always set your browser to warn of cookies being placed, and then chose which cookies you want to accept. The HSUS does not match any information gathered by cookies with personal information you may have voluntarily submitted to The HSUS.
+
+The HSUS uses single pixel gifs, also called web beacons, in our emails. Web beacons track behavior such as who has opened an email, when, the IP address, the browser or email type, which links were clicked and other similar information. This allows us to measure the performance of email campaigns, see what actions subscribers took, create reports about email performance, improve the quality of our emails and segment messages for specific audiences.
 
 The HSUS uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented. The HSUS also uses Google Analytics Demographics and Interest Reporting.
 
