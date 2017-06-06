@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarugby.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229153343id_/http%3A//www.planetrugby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarugby.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141301id_/http%3A//www.planetrugby.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Planetrugby.com : Planetrugby.com
+# Privacy Policy | Planet Rugby
 
 We at Planet Sport Publishing, (incorporating this site and all of the sites within our network – as seen on the footer of this website), strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.  
 **Why We Need to Know About You**  
