@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressuppink.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421004205id_/http%3A//www.dressuppink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressuppink.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074512id_/http%3A//www.dressuppink.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - DressupPink
 
