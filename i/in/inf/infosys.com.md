@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infosys.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015181120id_/https%3A//www.infosys.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosys.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203658id_/https%3A//www.infosys.com/privacy-statement) for the most accurate reproduction.*
 
-# Infosys - Privacy Statement
+# Personal Information Privacy Statement | Infosys
 
-_Last updated on 15th July 2016_
+_Last updated on 24th November 2016_
 
 Infosys Limited and its subsidiaries hereinafter referred as ‘Infosys,’ is committed to respect your privacy and choices while using our website. The statement highlights our privacy practices regarding Personal Information that we hold about you.
 
@@ -38,17 +38,11 @@ Cookies are small text files that, like most other Web servers, we place in your
 
 Depending on the type and settings of your browser, cookies may be accepted by default. You may change the settings of your browser to delete existing cookies or prevent future cookies from being automatically accepted. If you disable cookies, certain parts and functions of our website may not be available. You can learn more about cookies at [www.aboutcookies.org](https://web.archive.org/Links/redirectlink.aspx?id=aboutcookies.aspx "www.aboutcookies.org")
 
- **Third Party Cookies**
+**Third Party Cookies**
 
-When you visit Infosys websites, our approved advertisement partner whom we have engaged for remarketing may introduce cookies. Based on your browsing behavior on our website you may see our advertisements while browsing through partner network websites.
+When you visit Infosys websites, our advertisement partners, Google and Facebook, whom we have engaged for remarketing may introduce cookies. Based on your browsing of our website you may see our advertisements while browsing through our advertisement partner websites and/or their network websites.
 
-Such cookies would allow us to monitor the effectiveness of the advertisements and to make the advertisements more relevant to you.
-
-If at any time you do not want to receive our advertisements you can "[opt out](https://web.archive.org/links/redirectlink.aspx?id=settings-ads.aspx "opt out")" using the link provided below.
-
-Google Ad Settings [http://www.google.com/settings/ads](https://web.archive.org/links/redirectlink.aspx?id=settings-ads.aspx "http://www.google.com/settings/ads")
-
-Alternatively, you can also visit the [Network Advertising Initiative opt-out page](https://web.archive.org/links/redirectlink.aspx?id=network-advertising.aspx "Network Advertising Initiative opt-out page") to save your preferences.
+Such cookies would allow us to monitor the effectiveness of the advertisements and to make the advertisements more relevant to you. In order to opt out from receiving such advertisements, you may set your preferences on our partner websites. Alternatively, you may also visit [Network Advertising Initiative](https://web.archive.org/links/redirectlink.aspx?id=network-advertising.aspx "Network Advertising Initiative") or [Digital Advertising Alliance](https://web.archive.org/links/redirectlink.aspx?id=aboutads-choices.aspx) websites to opt-out.
 
 **V. Access, correction, objection of your Personal Information:**
 
