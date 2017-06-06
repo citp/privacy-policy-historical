@@ -1,55 +1,160 @@
-> *The following text is extracted and transformed from the silhouettedesignstore.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323193016id_/https%3A//www.silhouettedesignstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silhouettedesignstore.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183329id_/https%3A//www.silhouettedesignstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Silhouette Design Store - Privacy Policy
 
-Silhouette America knows that you (our customer) care how information about you is used, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy describes the kinds of information we collect about you, where we get it, how we safeguard it, and with whom (if anyone) we may share it. 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
 
-This website may contain links to other sites. Silhouette America is not responsible for the privacy practices or the content of such websites. 
+### What personal information do we collect from the people that visit our website?
 
-## What Information Do We Collect?
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience. 
 
-We obtain information about you in various ways – mostly from you. For example, we collect information from you when you set up a user account or place an order for Silhouette America products or services. Such information may include your name, address, email address, bank account information, or credit card numbers. Your use of any Silhouette America website may also give us information about your interests, preferences, spending, and shopping patterns. If you send an email message or other communication to us, we retain that information as well. 
+### When do we collect information?
 
-Like many other websites, Silhouette America websites may use “cookies,” which are small pieces of computer information that make your Internet experience quicker and more convenient. Cookies can also help us to understand how you (and other customers) use our service, allowing us to improve and tailor our services for your benefit. Cookies are stored on your hard drive, however, and not on our site. Aside from Silhouette’s cookies, Google may store additional cookies for analytical purposes. [Click here](http://www.google.com/policies/technologies/ads/) for more information about Google’s cookies and how they’re used. 
+We collect information from you when you register on our site, place an order or enter information on our site.
 
-## What Do We Do with Your Information?
+### How do we use your information?
 
-We use your information in connection with delivering products and services to you, such as processing orders. Some of your information also helps us to provide a secure and personalized experience. Contact information may be used to send you information about Silhouette America or its products, including promotional materials. You may request that we not send such information to you. If you do not want to receive email or other mail from us, you may use tools provided for that purpose on the website, the “unsubscribe” option included in emails that we may send you, or contact customer service and have them adjust preferences on your account. 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
-## Disclosure of Information to Others
+  * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To send periodic emails regarding your order or other products and services.
 
-We do not sell, rent, or loan your information to third parties without your permission. 
 
-We may sometimes employ other companies and individuals to perform functions on our behalf, such as fulfilling orders, delivering packages, sending mail, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. Such companies and individuals are given access to personal information that is needed to perform their functions, but they are not authorized to use it for other purposes. 
 
-We do not disclose information regarding your credit cards or bank accounts except to those having a need to know in connection with processing orders and payments. 
+### How do we protect visitor information?
 
-We will release account and other personal information when we believe release is appropriate to comply with law, enforce terms of service, or protect the rights, property, or safety of Silhouette America, our customers, or others. This may include exchanging information with other companies and organizations to help prevent fraud. 
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. We use regular Malware Scanning. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information. All transactions are processed through a gateway provider and are not stored or processed on our servers. 
 
-## Information Security
+### Do we use 'cookies'?
 
-We use reasonable administrative, technical, and physical security measures to protect your information. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-## Non-Customers
+We use cookies to:
 
-This Privacy Policy is directed at Silhouette America customers, but it protects all persons who provide personal information to Silhouette America. If you provide personal information to us through the use of any of our websites or by any other means, we will protect your information as described in this Privacy Policy. If you terminate an account or otherwise stop doing business with us, we will continue to protect your information as described in this Privacy Policy. 
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user's preferences for future visits.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-## Privacy Protection for Children
 
-In compliance with the Children’s Online Privacy Protection Act (COPA), we do not knowingly provide any Internet-based service to persons under the age of 18. We will make reasonable efforts to avoid receiving personally identifying information of any kind from persons under the age of 18. 
 
-## Non-Identifying Information
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. 
 
-This Privacy Policy applies to personally identifying information. Silhouette America may use and disclose non-identifying information for any purpose. 
+If users disable cookies in their browser:
 
-## How to Update Personal Information
+If you disable cookies, some features will be disabled, making your site experience less efficient and causing some of our services will not function properly.
 
-You can help Silhouette America maintain the accuracy of your personal information by notifying us of any changes in your address, phone number, or email address. If you wish to update your information, or stop receiving communications from Silhouette America and its partners, you may access your account information through the relevant Silhouette America website or contact us as follows: 
+### Third-party disclosure
 
-Send an email to: support@silhouetteamerica.com  
-Send a letter to:  
-Silhouette America, Inc.  
-Attn: Customer Service  
-1250 East 200 South Suite 3C  
-Lehi, UT 84043  
-Phone us at: (801) 983-8937 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### Third-party links
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### Google
+
+We use the Google Analytics service on our site, which allows us to gain aggregated data about our visitors and help to tailor the experience to the visitors of our site.
+
+### Opting out:
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+### California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+According to CalOPPA we agree to the following: Users can visit our site anonymously. Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website. Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+  * On our Privacy Policy Page
+
+
+
+Users are able to change their personal information:
+
+  * By emailing us
+  * By calling us
+  * By logging in to their account
+  * By chatting with us or sending us a ticket
+
+
+
+How does our site handle do not track signals? We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+Does our site allow third-party behavioral tracking? It's also important to note that we do not allow third-party behavioral tracking 
+
+### COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+### Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. 
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+We will notify the users via email
+
+  * Within 1 business day
+
+
+
+We will notify the users via in-site notification
+
+  * Within 1 business day
+
+
+
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+### CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+  * Send information, respond to inquiries, and/or other requests or questions.
+  * Process orders and to send information and updates pertaining to orders.
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+
+
+To be in accordance with CANSPAM we agree to the following:
+
+  * NOT use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+If at any time you would like to unsubscribe from receiving future emails, you can email us at
+
+  * Follow the instructions at the bottom of each email.
+
+
+
+and we will promptly remove you from ALL correspondence.
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Silhouette  
+Lindon Tech Center, Building 2 618 North 2000 West  
+Lindon, UT 84042  
+USA  
+[support@silhouetteamerica.com](https://web.archive.org/web/20170606183329id_/https%3A//www.silhouettedesignstore.com/support@silhouetteamerica.com)  
+801.983.8937 
+
+Last Edited on 2016-06-15
