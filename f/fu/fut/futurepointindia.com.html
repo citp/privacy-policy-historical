@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the futurepointindia.com privacy policy that was archived on 2016-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161018100538id_/http%3A//www.futurepointindia.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the futurepointindia.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606131347id_/http%3A//www.futurepointindia.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="easy-sidebar-active"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no"><link rel="stylesheet" href="http://static1.futurepoint.in/4/commonheader/css/common-header.css" type="text/css"><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;libraries=places"></script>
@@ -7,7 +7,7 @@
     <link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,700&amp;v2" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="favicon.ico"><title>
 	Privacy Policy
-</title><link rel="stylesheet" href="http://static1.futurepoint.in/common/css/combind-css.css"><link href="styles/main.css?v=0905145" rel="stylesheet" type="text/css">
+</title><link rel="stylesheet" href="http://static1.futurepoint.in/common/css/combind-css.css"><link href="styles/main.css?v=0905146" rel="stylesheet" type="text/css">
 
 
   <script src="http://static1.futurepoint.in/1397219726/common/js/combined-jq-jqm-bs.js" type="text/javascript"></script>
@@ -23,6 +23,43 @@
      
    
   
+       <script>
+        $(function () {
+            var c_name = "username";
+            $("#ctl00_fptlogin").html("<a id='login' href='http://www.futurepointindia.com/login.aspx'  class='btn btn-danger btn-xs' style='padding: 5px 7px;margin-top: 9px;' ><i class='fa fa-user'> </i> Login</a>");
+         
+            var username =''
+            if (username != "") {
+                        if ($(window).width() > 991) {
+                            $("#ctl00_fptlogin").html("<a id='login' href='http://www.futurepointindia.com/login.aspx'  class='btn btn-danger btn-xs' style='padding: 5px 7px;margin-top: 9px;' ><i class='fa fa-user'> </i> " + username + "</a><ul class='dropdown-menu pull-right' style='min-width: 100px;'><li><a href='http://www.futurepointindia.com/emember/editmember.aspx' id='edit' '><i class='fa fa-angle-double-right'></i>Edit Profile</a></li><li><a href='#' id='logout' onclick='callmethod();'><i class='fa fa-angle-double-right'></i>Logout</a></li></ul>");
+                        }
+                        else {
+                            $("#ctl00_fptlogin").html("<div class='dropdown pull-right'><a id='dLabel' href='#' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false' class='fsLogin'><i class='fa fa-user'> </i> <span>" + username + "</span> <span class='caret'></span> </a><ul class='dropdown-menu' role='menu' aria-labelledby='dLabel'><li><a href='#' id='logout' onclick='callmethod();'>Logout</a></li></ul></div>");
+                        }
+            }
+        });
+        //logout
+        function callmethod() {
+            $.ajax({
+                type: "POST",
+                //             url: 'http://localhost:1117/Futuresamachar-net/index.aspx/memberlogout',
+                url: 'http://www.futurepointindia.com/index.aspx/memberlogout',
+                contentType: "application/json; charset=utf-8",
+                success: function (response) {
+                    //                window.location.href = "http://localhost:1117/Futuresamachar-net/index.aspx";
+                    window.location.href = "http://www.futurepointindia.com/";
+                },
+                error: function (xhr, textStatus, errorThrown) {              
+                    alert(xhr);
+                    alert(textStatus);
+                    alert(errorThrown);
+                }
+            });
+            }
+
+    </script>
+
+
     
 <script type="text/javascript">
         $(function() {
@@ -78,7 +115,7 @@
 
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWAgIMDxUEIi9zY3JpcHRzL2Nzc3ZlcnRpY2FsbWVudS5qcz8xNzA1MTAaL3NjcmlwdHMvb3Blbm5ldy5qcz8xNzA1MTAbL3NjcmlwdHMvZHJvcGRvd24uanM/MzEwNTEwGy9zY3JpcHRzL2pxdWVyeS5mYW5jeWJveC5qc2Rk39Jj/TV017nMKINtpA2FHVW12u5KX9M0icYuHol89sY=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBAIBD2QWBAILDxUDIi9zY3JpcHRzL2Nzc3ZlcnRpY2FsbWVudS5qcz8xNzA1MTAaL3NjcmlwdHMvb3Blbm5ldy5qcz8xNzA1MTAbL3NjcmlwdHMvZHJvcGRvd24uanM/MzEwNTEwZAIMDxUBGy9zY3JpcHRzL2pxdWVyeS5mYW5jeWJveC5qc2QCAw9kFgQCOw8WAh4JaW5uZXJodG1sBQEwZAI8D2QWBGYPFgIfAAUBMWQCAQ8WAh8ABc0CPGxpPjxhIGhyZWY9J2h0dHA6Ly93d3cuZnV0dXJlcG9pbnRpbmRpYS5jb20vbmV3cy9uZXdzLmFzcHgjbG9uZG9uQ29uZmVyZW5jZScgY2xhc3M9J25vdGlmaWNhdGlvbic+PGgyIGlkPSdub3RpZmljYXRpb25oZWFkZXIwJyA+SW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIEFzdHJvbG9neSAmIFNwaXJpdHVhbGlzbSBpbiBMb25kb248L2gyPjxwPkludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBBc3Ryb2xvZ3kgJiBTcGlyaXR1YWxpc20gYXQgTWlsbGVubml1bSBHbG91Y2VzdGVyIEhvdGVsLCBLZW5zaW5ndG9uLCBMb25kb24gb24gMTB0aCBKdW5lIDIwMTc8L3A+PC9hPjwvbGk+ZGScmCEkAZCvlJDqH179LU8EyhtNHJOsLvJDqz4QHH3X8A==">
 </div>
 
 <div>
@@ -133,11 +170,12 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Horoscopes <i class="fa fa-chevron-down"></i></a>
                     <ul class="dropdown-menu">
-                        <li><a href="/en/horoscope/compare-horoscope-models" id="ctl00_a7"><i class="fa fa-angle-double-right"></i> Personal Horoscope</a></li>
-                        <li><a href="/en/horoscope/compare-horoscope-matching-models" id="ctl00_a2"><i class="fa fa-angle-double-right"></i> Horoscope Matching</a></li>
-                        <li><a href="/en/horoscope/all-online-horoscope-models" id="ctl00_a68"><i class="fa fa-angle-double-right"></i> View All Model</a></li>
-                        
-                     </ul>                    
+                        <li><a href="/en/horoscope/compare-horoscope-models" id="ctl00_a7"><i class="fa fa-angle-double-right"></i> Personal Horoscope Reports</a></li>
+                        <li><a href="/en/horoscope/compare-horoscope-matching-models" id="ctl00_a2"><i class="fa fa-angle-double-right"></i> Horoscope Matching Reports</a></li>
+                        <li><a href="/en/horoscope/premium-horoscope" id="ctl00_a3"><i class="fa fa-angle-double-right"></i> Premium Horoscope Reports</a></li>
+						 <li><a href="/en/horoscope/all-special-horoscope-models" id="ctl00_a3"><i class="fa fa-angle-double-right"></i> Special Horoscope Reports</a></li>                                    
+						<li><a href="/en/horoscope/all-online-horoscope-models" id="ctl00_a68"><i class="fa fa-angle-double-right"></i> View All Reports</a></li>
+                       </ul>    
                 </li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Consultation<i class="fa fa-chevron-down"></i></a>
@@ -239,7 +277,7 @@
                                       <ul class="nav vertical-nav">
                                         <li><a href="emember/facilities.aspx" id="ctl00_ctl00_a14"><i class="fa fa-angle-double-right"></i> EMember Facilities</a></li>
                                         <li><a href="emember/registration.aspx" id="ctl00_ctl00_a15"><i class="fa fa-angle-double-right"></i> E-Member Registration</a></li>
-                                        <li><a href="emember/login.aspx" id="ctl00_ctl00_a16"><i class="fa fa-angle-double-right"></i> E-Member Login</a></li>
+                                        <li><a href="login.aspx" id="ctl00_ctl00_a16"><i class="fa fa-angle-double-right"></i> E-Member Login</a></li>
                                       </ul>
                                   </div>                                 
                                 </div>
@@ -333,6 +371,12 @@
                         <li><a href="predictions/colour" id="ctl00_A223"><i class="fa fa-angle-double-right"></i> Color of the day</a></li>
                         <li><a href="predictions/know-your-lucky-color" id="ctl00_A432"><i class="fa fa-angle-double-right"></i> Know Your Lucky Color</a></li>
                     </ul>
+                </li>
+                 <li id="ctl00_fptlogin" class="dropdown">
+                    
+                </li>
+                 <li>
+                    <a href="http://www.futurepointindia.com/products/shopping.aspx" class="cartIcon"><i class="fa fa-shopping-cart"></i><span id="ctl00_cart">0</span></a>
                 </li>
             </ul>
         </div>
@@ -429,11 +473,8 @@
         </li>
 
         <li class="dropdown">
-            <a id="notification" href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-paper-plane notificationMain"> </i> Notifications <i class="fa fa-chevron-down"></i><span id="ctl00_fdghf_noticount" class="notificationCount"></span></a>
-            <ul id="ctl00_fdghf_Notifications" class="dropdown-menu">
-                
-               
-            </ul>
+            <a id="notification" href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-paper-plane notificationMain"> </i> Notifications <i class="fa fa-chevron-down"></i><span id="ctl00_fdghf_noticount" class="notificationCount">1</span></a>
+            <ul id="ctl00_fdghf_Notifications" class="dropdown-menu"><li><a href="http://www.futurepointindia.com/news/news.aspx#londonConference" class="notification"><h2 id="notificationheader0">International Conference on Astrology &amp; Spiritualism in London</h2><p>International Conference on Astrology &amp; Spiritualism at Millennium Gloucester Hotel, Kensington, London on 10th June 2017</p></a></li></ul>
         </li>
       </ul>       
       
