@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academyft.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001548id_/http%3A//www.academyft.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academyft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164137id_/http%3A//www.academyft.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Academy of Financial Trading Privacy Policy
 
@@ -73,4 +73,4 @@ In these terms and conditions:
 
 
 
-[Contact Us](https://web.archive.org/web/20161119001548id_/http%3A//www.academyft.com/contact-academy-financial-trading-online.htm) if you have an enquiry or concern about our privacy policy. 
+[Contact Us](https://web.archive.org/web/20170606164137id_/http%3A//www.academyft.com/contact-academy-financial-trading-online.htm) if you have an enquiry or concern about our privacy policy. 
