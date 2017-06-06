@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titantv.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222050019id_/http%3A//titantv.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titantv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134954id_/http%3A//titantv.com/privacy.aspx) for the most accurate reproduction.*
 
 # TitanTV - Privacy Policy Page
 
