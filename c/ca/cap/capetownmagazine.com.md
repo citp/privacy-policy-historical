@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the capetownmagazine.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211104342id_/http%3A//www.capetownmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capetownmagazine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105729id_/http%3A//www.capetownmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Welcome to the CapeTownMagazine.com / KapstadtMagazin.de / KaapstadMagazine.nl website. CapeTownMagazine.com maintains this site. Please read these terms of use carefully before using this site as by using this site, you signify that you agree to these terms of use. If you do not agree to be bound by these terms of use, please do not use this website.**
+## 
+
+Welcome to the CapeTownMagazine.com / KapstadtMagazin.de / KaapstadMagazine.nl website. CapeTownMagazine.com maintains this site. Please read these terms of use carefully before using this site as by using this site, you signify that you agree to these terms of use. If you do not agree to be bound by these terms of use, please do not use this website.
 
  **PRIVACY POLICY**
 
