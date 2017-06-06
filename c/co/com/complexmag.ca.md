@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complexmag.ca privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022130722id_/http%3A//ca.complex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complexmag.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062336id_/http%3A//ca.complex.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Complex CA
 
