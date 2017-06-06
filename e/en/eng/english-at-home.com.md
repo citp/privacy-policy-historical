@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the english-at-home.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115120831id_/http%3A//www.english-at-home.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-at-home.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114406id_/http%3A//www.english-at-home.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | english-at-home.com
 
@@ -21,4 +21,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-All material on this site is © 2016 english-at-home.com | [Contact](https://web.archive.org/about-us/) [Privacy](https://web.archive.org/privacy-policy/)
+All material on this site is © 2017 english-at-home.com | [Contact](https://web.archive.org/about-us/) [Privacy](https://web.archive.org/privacy-policy/)
