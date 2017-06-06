@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the expatwoman.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122132033id_/http%3A//www.expatwoman.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatwoman.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023010id_/http%3A//www.expatwoman.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [ ](http://www.expatwoman.com/ "ExpatWoman")
 
-[](http://www.expatwoman.com/restaurants/default.aspx)  
-
+[](http://www.expatwoman.com/forum)
 
 In order for the website to provide a safe and useful service, it is important for ExpatWoman.com to collect, use, and share personal information.
 
