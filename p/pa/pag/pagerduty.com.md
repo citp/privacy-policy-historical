@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagerduty.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325115221id_/https%3A//www.pagerduty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagerduty.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191701id_/https%3A//www.pagerduty.com/privacy-policy) for the most accurate reproduction.*
 
 # PagerDuty | Privacy Policy
 
@@ -14,7 +14,7 @@ PagerDuty, Inc. (“PagerDuty” or “we” or “our”) provides an alarm agg
 
 3\. What Data We Collect:
 
-a. Information Provided by Visitors: If you visit our Website or use our Services, we may collect PII from you, including, but not limited to, first and last name, organization name, e-mail address and password if you decide to register to receive information, schedule a demo, or create an account to sue the Services. If you provide us feedback or contact us via e-mail (e.g., in response to an employment opportunity posted on our website), we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply, and any information that you submit to us, such as a resume.
+a. Information Provided by Visitors: If you visit our Website or use our Services, we may collect PII from you, including, but not limited to, first and last name, organization name, e-mail address and password if you decide to register to receive information, schedule a demo, or create an account to use the Services. If you provide us feedback or contact us via e-mail (e.g., in response to an employment opportunity posted on our website), we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply, and any information that you submit to us, such as a resume.
 
 b. Information that We may Collect via Technological Means:
 
@@ -56,7 +56,7 @@ We offer you choices regarding the collection, use, and sharing of your PII.
 
 a. Opt-Out: We may periodically send you free newsletters and e-mails that directly promote the use of our site or the purchase of our Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” (either through your account or by following the unsubscribe instructions provided in the e-mail you receive). Notwithstanding your indicated  preferences, when applicable we will send you notices of any updates to our Terms of Service, this Privacy Policy, and other communications that directly affect your status as a user of our site or Services.
 
-b. Ability to Edit or Delete Personal Information:  You may edit any of your PII in your account, including Contact Information (and/or notification rules), by editing your profile. You may also request that we delete your account information by sending an email to [customersupport@pagerduty.com](mailto:customersupport@pagerduty.com), but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). We will respond to such requests within 30 days. When we delete or edit account information, it will be deleted from the active database, but may remain in our archives. We will otherwise retain your information for as long as your account is active or as needed to provide you services as well as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+b. Ability to Edit or Delete Personal Information:  You may edit any of your PII in your account, including Contact Information (and/or notification rules), by editing your profile. You may also request that we delete your account information by sending an email to [support@pagerduty.com](mailto:support@pagerduty.com), but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). We will respond to such requests within 30 days. When we delete or edit account information, it will be deleted from the active database, but may remain in our archives. We will otherwise retain your information for as long as your account is active or as needed to provide you services as well as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 7\. Information Processed under the Direction of Customers:
 
@@ -74,7 +74,7 @@ We have no control over, do not review, and cannot be responsible for, these out
 
 10\. Your California Privacy Rights:
 
-Our customers who are California residents may request and obtain from us once a year, free of charge, certain information about the PII (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of PII that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to [customersupport@pagerduty.com](mailto:customersupport@pagerduty.com)[.](mailto:info@newrelic.com?subject=privacy%20policy%20inquiry)
+Our customers who are California residents may request and obtain from us once a year, free of charge, certain information about the PII (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of PII that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to [support@pagerduty.com](mailto:support@pagerduty.com)[.](mailto:info@newrelic.com?subject=privacy%20policy%20inquiry)
 
 11\. Information About Children:
 
@@ -82,7 +82,7 @@ The PagerDuty Website and Services are not intended for use or access by childre
 
 12\. Contact Information:
 
-PagerDuty welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [customersupport@pagerduty.com](mailto:customersupport@pagerduty.com) or contact us at the following address: PagerDuty, Inc.  
+PagerDuty welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [support@pagerduty.com](mailto:support@pagerduty.com) or contact us at the following address: PagerDuty, Inc.  
 548 Market St., #26994  San Francisco, CA 94104.
 
 13\. Changes to This Privacy Policy:
