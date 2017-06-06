@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarsandroses.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319050541id_/http%3A//houseofroseblog.com/advertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarsandroses.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075238id_/http%3A//houseofroseblog.com/advertise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
