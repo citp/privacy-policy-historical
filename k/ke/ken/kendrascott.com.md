@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kendrascott.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212001348id_/http%3A//kendrascott.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kendrascott.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083802id_/https%3A//www.kendrascott.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Disclosure Agreement | Kendra Scott
 
@@ -48,8 +48,6 @@ We may combine the information we receive from and about you, including informat
 
 ## Information Use
 
-## 
-
 We may use the information we collect from and about you for various purposes, such as to:
 
 -Provide services and communicate with website visitors
@@ -70,40 +68,28 @@ We may use the information we collect from and about you for various purposes, s
 
 ## Information Disclosure
 
-## 
-
 We may disclose the information we collect from and about you (1) to our Service Providers, if the disclosure will enable them to perform a business, professional, or technical support function for us; (2) as necessary if we believe that there has been a violation of our rights or the rights of any third party; (3) to respond to judicial process or provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) as described to you at the point of collection. We do not sell the information we collect to any non-affiliated third parties.
 
 Kendra Scott may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use the information provided through the website in a manner that is consistent with this Privacy Policy.
 
 ## Service Providers
 
-## 
-
 We may contract with third parties to perform functions related to the website (“Service Providers”). Service Providers will have access to the information collected as necessary to perform their business functions for Kendra Scott, some of which are described in this Policy, but may not use or share that information for purposes outside the scope of those business functions.
 
 ## Our Commitment to Data Security
 
-## 
-
 Kendra Scott goes to great lengths to keep financial information private and safe. We take certain physical, electronic, and administrative steps to maintain the security and accuracy of the information we collect from and about website visitors and users.
 
-While we will use every reasonable means to help ensure the security and integrity of our network and systems, we cannot guarantee our security measures. 
+While we will use every reasonable means to help ensure the security and integrity of our network and systems, we cannot guarantee our security measures.
 
 ## Our Commitment to Children's Privacy
-
-## 
 
 Protecting children’s privacy is important to us. We do not direct the website to, nor do we knowingly, collect any information from children under the age of thirteen (13).
 
 ## How To Contact Us
 
-## 
-
 If you have any questions about this Privacy Policy or the practices described above, please contact us at [service@kendrascott.com.](mailto:service@kendrascott.com)
 
 ## Revisions To This Policy
 
-## 
-
-We reserve the right to revise this Privacy Policy at any time. When we do, , we will post any changes on this website. You can tell if the Policy has changed by checking the “Last Revision” date that appears at the top of the Policy. If we change the Privacy Policy in a material way, we will provide appropriate notice to you.
+We reserve the right to revise this Privacy Policy at any time. When we do, we will post any changes on this website. You can tell if the Policy has changed by checking the “Last Revision” date that appears at the top of the Policy. If we change the Privacy Policy in a material way, we will provide appropriate notice to you.
