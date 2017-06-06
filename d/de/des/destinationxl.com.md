@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the destinationxl.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209091332id_/http%3A//www.destinationxl.com/mens-big-and-tall-store/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationxl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160120id_/http%3A//www.destinationxl.com/mens-big-and-tall-store/static/privacypolicy) for the most accurate reproduction.*
 
-# Editorial Page - Destination XL
+# Privacy Statement | DXL
 
 Last updated September 23, 2014
 
