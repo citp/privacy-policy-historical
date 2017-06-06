@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istonsoft.com privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903214651id_/http%3A//www.istonsoft.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istonsoft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085253id_/http%3A//www.istonsoft.com/other/privacy.html) for the most accurate reproduction.*
 
 # iStonsoft Software Privacy Policy
 
