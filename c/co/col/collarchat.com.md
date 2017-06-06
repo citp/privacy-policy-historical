@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collarchat.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212150726id_/http%3A//www.collarme.com/bdsm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collarchat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155929id_/http%3A//www.collarchat.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
-Privacy Policy for _www.collarme.com_
+Privacy Policy for www.collarchat.com 
 
 Effective Date : August 27, 2002
 
@@ -12,7 +12,7 @@ Last Updated : October 23, 2007
 
 A. The operative parties referred to in this Privacy Policy (“Policy”) are COMPANY and you, the user of this site.
 
-1\. COMPANY -- COMPANY is the publisher of _www.collarme.com_ . Hereinafter, when first-person pronouns are used in this Policy, (us, we, our, ours, etc.) they are referring to the COMPANY or _www.collarme.com_ . Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to _www.collarme.com_ . Hereinafter, the COMPANY shall be referred to as SITE, or will be referred to in first-person, plural, pronouns.
+1\. Bayshore Software, Inc. is the publisher of www.collarchat.com. Hereinafter, when first-person pronouns are used in this Policy, (us, we, our, ours, etc.) they are referring to the Bayshore Software, Inc. or www.collarchat.com. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to www.collarchat.com. Hereinafter, Bayshore Software, Inc. shall be referred to as COMPANY, or will be referred to in first-person, plural, pronouns.
 
 2\. **You, the User** – As the user of this SITE, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the SITE shall be referred to in applicable second-person pronouns.
 
