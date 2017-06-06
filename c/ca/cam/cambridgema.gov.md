@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cambridgema.gov privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125100529id_/http%3A//www.cambridgema.gov/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgema.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105326id_/http%3A//www.cambridgema.gov/privacystatement) for the most accurate reproduction.*
 
-# Privacy Statement - City of Cambridge, Massachusetts
+# Privacy Statement - City of Cambridge, MA
 
 ### Introduction 
 
