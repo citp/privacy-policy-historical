@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanarmorgear.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111125700id_/http%3A//blog.urbanarmorgear.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanarmorgear.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200921id_/http%3A//blog.urbanarmorgear.com/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security - Urban Armor Gear Blog
 
