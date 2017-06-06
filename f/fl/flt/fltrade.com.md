@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fltrade.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816004215id_/http%3A//fltrade.com/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fltrade.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062649id_/http%3A//fltrade.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Binary Options & Forex Broker | FLTrade | FirstLine Pty Ltd
 
