@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the home-speech-home.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119232349id_/http%3A//www.home-speech-home.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-speech-home.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110835id_/http%3A//www.home-speech-home.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | HomeSpeechHome
 
@@ -81,20 +81,17 @@ This online privacy policy applies only to information collected through our web
 ## Terms and Conditions   
 
 
-Please also [visit our Terms and Conditions](http://www.home-speech-home.com/terms-and-conditions.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website at   
+Please also [visit our Terms and Conditions](http://www.home-speech-home.com/terms-and-conditions.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.   
 
 
 ## Your Consent
 
-By using our site, you consent to our websites privacy policy.  
+By using this site, you consent to our websites privacy policy.  
 
 
 ## **Changes to our Privacy Policy**  
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
-
-This policy was last modified in April 2016.  
-
 
 ## Contacting Us
 
@@ -103,7 +100,9 @@ If there are any questions regarding this privacy policy [you may contact us](ht
 Florida, U.S.A.  
 
 
-Privacy Policy Created by Free Privacy Policy
+Privacy Policy Created by [FreePrivacyPolicy.com](http://www.freeprivacypolicy.com/)
+
+This policy was last modified in January 2017.
 
 The search box on this web site ("Search Box") is powered by Google Inc. ("Google"). You acknowledge and agree that Google's privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.  
 
