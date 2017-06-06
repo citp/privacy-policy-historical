@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dohabank.com.qa privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311122605id_/http%3A//www.dohabank.com.qa/1/db2/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dohabank.com.qa privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033241id_/http%3A//dohabank.qa/privacy-policy) for the most accurate reproduction.*
 
-# Doha Bank Qatar > Home
+# Privacy Policy - Doha Bank Qatar
 
 Doha Bank Qatar is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Doha Bank Qatar Web site and governs data collection and usage. By using the Doha Bank Qatar website, you consent to the data practices described in this statement.
 
@@ -28,7 +28,7 @@ Doha Bank Qatar Web sites will disclose your personal information, without notic
 
 ### Use of Cookies
 
-The Doha Bank Qatar Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The Doha Bank Qatar Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Doha Bank Qatar pages, or register with Doha Bank Qatar site or services, a cookie helps Doha Bank Qatar to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Doha Bank Qatar Web site, the information you previously provided can be retrieved, so you can easily use the Doha Bank Qatar features that you customized.
 
@@ -44,4 +44,4 @@ Doha Bank Qatar will occasionally update this Statement of Privacy to reflect co
 
 ### Contact Information
 
-Doha Bank Qatar welcomes your comments regarding this Statement of Privacy. If you believe that Doha Bank Qatar has not adhered to this Statement, please contact Doha Bank Qatar at [webmaster@dohabank.com.qa](mailto:webmaster@dohabank.com.qa). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Doha Bank Qatar welcomes your comments regarding this Statement of Privacy. If you believe that Doha Bank Qatar has not adhered to this Statement, please contact Doha Bank Qatar at [webmaster@dohabank.com.qa](mailto:webmaster@dohabank.com.qa). We will use commercially reasonable efforts to promptly determine and remedy the problem.
