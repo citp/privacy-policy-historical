@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articoolo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004724id_/http%3A//articoolo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articoolo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082344id_/http%3A//articoolo.com/privacy_policy) for the most accurate reproduction.*
 
 # Articoolo
 
