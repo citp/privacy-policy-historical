@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberrentals.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011025823id_/https%3A//www.homeaway.com/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberrentals.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181402id_/https%3A//www.homeaway.com/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # HomeAway Vacation Rentals: Privacy Policies
 
