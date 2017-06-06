@@ -1,28 +1,32 @@
-> *The following text is extracted and transformed from the privacystar.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211221638id_/https%3A//www.privacystar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacystar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062743id_/http%3A//www.privacystar.com/privacy-policy) for the most accurate reproduction.*
 
-# | PrivacyStar
+# Privacy Policy - PrivacyStar | A First Orion Company
 
-**(effective December 1, 2016)**
+**(effective April 10, 2017)**
 
-First Orion Corporation, doing business as PrivacyStarTM, is a business dedicated to using technology and data to give consumers tools to recognize and manage calls they receive and to help businesses reach the right people.  Your privacy is a priority for us and we are committed to safeguarding it.
+First Orion Corporation, doing business as PrivacyStarTM, is a business dedicated to using technology and data to give consumers tools to recognize and manage calls they receive and to help businesses reach the right people in a compliant manner. Your privacy is a priority for us and we are committed to safeguarding it.
 
-This Privacy Policy covers the collection, use, and disclosure of personal information and technologies used by First Orion in the U.S. when you visit one of our websites, and when you use any of our free or subscription based applications, collectively our ‘Apps’.
+This Privacy Policy covers the collection, use, and disclosure of personal information and technologies used by First Orion in the U.S. when you visit one of our websites, when you use any of our free or subscription based applications, collectively our ‘Apps’, and when a business wants to call you.
 
 Various features of our Apps are available online, through various PrivacyStarTM applications, through customized privately branded applications, and through customized in-network solutions. These Apps include features to identify unknown callers, block unwanted callers, automatically block known scammers, do reverse telephone number lookups, block all private or unknown callers, and report call violations to the proper authority.
 
 All other First Orion’s obligations governing these Apps are set forth within the Terms of Use and End User License Agreements posted for and applicable to these Apps.
 
+First Orion’s business services enable our clients who wish to call you to more effectively identify and manage their business and consumer contacts, ensuring better, compliant, and more cost-effective interactions with their customers and prospects.
+
 **What information we collect and how we may use it**
 
-We may collect your personal information via any First Orion website to help us deliver a better level of user experience, such as your name, mailing address, phone number, email address, contact preferences, and information relating to an inquiry or support issue.  This enables us to give you convenient access to our Apps and may help us keep you posted on the latest product announcements, software or service updates, special offers, and events that you might like to hear about. It also allows us to respond to any concerns you may have voiced.
+We may collect your personal information via any First Orion website to help us deliver a better level of user experience, such as your name, mailing address, phone number, email address, contact preferences, and information relating to an inquiry or support issue. This enables us to give you convenient access to our Apps and may help us keep you posted on the latest product announcements, software or service updates, special offers, and events that you might like to hear about. It also allows us to respond to any concerns you may have voiced.
 
 First Orion may also collect personal information relevant to your interaction with us when you use a free or paid App. This information varies with the various features of each App, but generally includes the phone numbers, caller ID information, the dates and times of calls made to your phone so the various features you have chosen, such as call blocking, can be provided. This information will also be used to improve the functionality of our Apps.
 
-If you voluntarily choose to provide complaint information, this information will be provided to government agencies such as, but not limited to, the Federal Trade Commission (FTC), the Federal Communication Commission (FCC) and the Consumer Financial Protection Bureau (CFPB) to aid in their enforcement activities.  We may also use complaint information to better understand trends and improve the functionality of our Apps.
+If you voluntarily choose to provide complaint information, this information will be provided to government agencies such as, but not limited to, the Federal Trade Commission (FTC), the Federal Communication Commission (FCC) and the Consumer Financial Protection Bureau (CFPB) to aid in their enforcement activities. We may also use complaint information to assist calling parties understand how individuals view their calling practices, and to better understand trends and improve the functionality of our Apps.
 
 First Orion may obtain information about our customers from third parties and combine it with information we already have about you to create more personalized advertising and improve our user experiences.
 
 First Orion may transmit personal information to or from the United States for processing, storage or other purposes related to supporting First Orion Apps.
+
+First Orion may collect information from carriers and other sources about a phone number so businesses can determine if the number they have is active. validate the identity of the people they would like to reach, and comply with the Telecommunications Privacy Act.
 
 **Publicly displayed information is public**
 
@@ -34,7 +38,9 @@ To help us provide a better experience, your personal information may be shared 
 
 There are also times when it may be appropriate for First Orion to make certain personal information about you available to companies that First Orion has a relationship with or that perform work for First Orion to provide App function on our behalf. These companies may help us process information, fulfill orders, deliver Apps to you, manage and enhance data, provide customer service, assess your interest in our Apps, or conduct customer research or satisfaction surveys.
 
-At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary. If First Orion is involved in a business transaction, such as a merger, acquisition or sale of all or a portion of its assets, your personal information will likely be among the business assets transferred.  You will be notified via email or prominent notice on our website of such change in ownership as well as any choices you may have regarding your personal information.
+At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary. If First Orion is involved in a business transaction, such as a merger, acquisition or sale of all or a portion of its assets, your personal information will likely be among the business assets transferred. You will be notified via email or prominent notice on our website of such change in ownership as well as any choices you may have regarding your personal information.
+
+First Orion’s business services provide the name of the calling party, verification of address, and information regarding whether the number is active or not. These services also provide information about changes from one carrier to another, and calculate a score indicating the likelihood the number is being used for fraudulent purposes.
 
 **How we protect your personal information**
 
@@ -48,8 +54,7 @@ We do not knowingly collect personal information from children under 13 for mark
 
 As is standard practice on many corporate websites, First Orion’s website uses “cookies” and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We may use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our website user communications. And we may use cookies to customize your experience and provide greater convenience each time you interact with us.
 
-**If you prefer not to enable cookies certain features of the First Orion website may not be available once cookies are disabled.**
-
+If you prefer not to enable cookies certain features of the First Orion website may not be available once cookies are disabled.  
 First Orion may gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
@@ -66,18 +71,22 @@ First Orion’s website has links to the sites of other companies. First Orion i
 
 California Civil Code Section 1798.83 permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request to First Orion in writing to the address below.
 
+**Your EU and UK Privacy Rights**
+
+First Orion’s certification for the EU-U.S. Privacy Shield with the Department of Commerce is pending. First Orion’s Privacy Shield Policy can be found at [[firstorion.com/privacy-shield-policy](http://firstorion.com/privacy-shield-policy)] and our Privacy Shield Policy for Human Resource Data can be found at [[firstorion.com/privacy-shield-for-human-resource-data/](http://firstorion.com/privacy-shield-for-human-resource-data/)].
+
 **Updates**
 
 First Orion reserves the right, at its sole discretion, to change, add or remove portions of its privacy policy from time to time by posting the updated privacy policy and effective date. It is your responsibility to check this privacy policy periodically for changes.
 
 **Privacy questions**
 
-If you have questions or concerns about First Orion’s privacy policy for [www.firstorion.com](http://www.firstorion.com/) or [www.privacystar.com](http://www.privacystar.com/) or its information practices please contact us by sending us paper mail to:
+If you have questions or concerns about First Orion’s privacy policy for [www.firstorion.com](http://www.firstorion.com/) or [www.privacystar.com](http://www.privacystar.com/) or its information practices please contact us by sending paper mail to:
 
 First Orion Corp.  
 Attention: Legal Team  
 500 President Clinton Avenue, Suite 215  
 Little Rock AR 72201 USA
 
-© 2016 First Orion Corp. All rights reserved.  
+© 2017 First Orion Corp. All rights reserved.  
 First Orion Corp., 500 President Clinton Avenue, Suite 215, Little Rock, Arkansas 72001, USA.
