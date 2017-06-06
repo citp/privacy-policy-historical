@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the t3leads.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702182312id_/https%3A//t3leads.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t3leads.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172406id_/http%3A//t3leads.com/privacy-policy.html) for the most accurate reproduction.*
 
 # T3leads Privacy Policy
 
-**Last Updated: April 12, 2013**
+**Last Updated: October 18, 2016**
 
 Thank you for visiting the T3Leads website located at www.t3leads.com (the "Site"). The Site is an Internet property of D and D Marketing, Inc. ("T3Leads," "we" or "us"). T3Leads is committed to protecting the privacy of our visitors` personally identifiable information. We provide this privacy policy ("Privacy Policy") in order to explain our online information practices and the choices you can make about the way your information is used by us. This Privacy Policy applies to any and all information submitted or collected on this Site. You agree to this Privacy Policy, in its entirety, when you: (a) access or use our Site; and/or (b) register on the Site to participate in the T3Leads Network ("Network") as an Advertiser and/or Affiliate. If you do not agree to this Privacy Policy in its entirety, you are not authorized to become an Affiliate or Advertiser ("Network Member") and/or use the Site in any manner or form whatsoever.
 
@@ -17,6 +17,8 @@ Some information you must provide, or which may be collected by virtue of your a
 ## Cookies
 
 This Site employs the use of Cookies to enhance your user experience. Cookies are data sent to your computer when you visit a website. Cookies allow this Site to recognize your browser and store your preferences. Cookies help T3Leads analyze traffic on this Site to better understand visitor behavior and other activity. Cookies, by themselves, do not provide T3Leads with your Personally Identifiable Information. You can disable cookies through your Internet browser. However, if you disable Cookies, you may not be able to access or use certain features of this Site or T3Leads` services. T3Leads has no access to or control over third party Cookies technology.
+
+CALIFORNIA DO NOT TRACK DISCLOSURE: Because an industry-standard Do-Not-Track protocol has not yet been established, T3Leads’ information collection practices will continue to operate as described in this Privacy Policy regardless of any “Do Not Track” signals that may be sent by certain browsers or selected by you. However, you may be able to opt-out of being targeted by certain third-party marketers online at www.networkadvertising.org/consumer/opt_out.asp. If you wish to opt-out of receiving communications from T3Leads and/or third-party marketers, you can follow the opt-out instructions in the respective communications that are sent to you.
 
 ## Use of Information
 
@@ -38,11 +40,11 @@ In the event of any known data security breach with respect to your Personally I
 
 ## Access to Personally Identifiable Information
 
-T3Leads retains the submitted or collected on this Site as needed to perform T3Leads` services, to comply with legal obligations, to resolve disputes, and to enforce agreements. If you wish to update or delete your Personally Identifiable Information, you may communicate your desire to do so to T3Leads via certified mail to 16350 Ventura Blvd., Suite D #821, Encino, CA 91436; or via e-mail to admin@t3leads.com.
+T3Leads retains the submitted or collected on this Site as needed to perform T3Leads` services, to comply with legal obligations, to resolve disputes, and to enforce agreements. If you wish to update or delete your Personally Identifiable Information, you may communicate your desire to do so to T3Leads via certified mail to Office Park IV, 6345 Balboa Blvd., Suite 384, Encino, CA 91316; or via e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Unsubscribing from E-mail Offers
 
-You may choose to unsubscribe from receipt of E-mail Offers at any time. To do so, you must follow the instruction to unsubscribe at the bottom of any such E-mail Offer or contact T3Leads directly expressing your desire to unsubscribe via certified mail to 16350 Ventura Blvd., Suite D #821, Encino, CA, 91436; or via e-mail to admin@t3leads.com. All requests to unsubscribe from receipt of such E-Mail Offers from T3Leads are added to T3Leads` Do-Not-Contact list within ten (10) days of receipt. Please be advised you cannot unsubscribe from T3Leads updates, or e-mails regarding your participation as a Network Member.
+You may choose to unsubscribe from receipt of E-mail Offers at any time. To do so, you must follow the instruction to unsubscribe at the bottom of any such E-mail Offer or contact T3Leads directly expressing your desire to unsubscribe via certified mail to Office Park IV, 6345 Balboa Blvd., Suite 384, Encino, CA 91316; or via e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) All requests to unsubscribe from receipt of such E-Mail Offers from T3Leads are added to T3Leads` Do-Not-Contact list within ten (10) days of receipt. Please be advised you cannot unsubscribe from T3Leads updates, or e-mails regarding your participation as a Network Member.
 
 ## Third Party Links
 
@@ -62,4 +64,4 @@ The headings for sections contained herein are for convenience only and shall no
 
 ## T3Leads` Contact Information
 
-Comments, questions, or concerns about this Privacy Policy or T3Leads` privacy practices may be directed to T3Leads via certified mail to 16350 Ventura Blvd., Suite D #821, Encino, CA 91436; or via email at admin@t3leads.com.
+Comments, questions, or concerns about this Privacy Policy or T3Leads` privacy practices may be directed to T3Leads via certified mail to Office Park IV, 6345 Balboa Blvd., Suite 384, Encino, CA 91316; or via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
