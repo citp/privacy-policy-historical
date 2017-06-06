@@ -1,170 +1,127 @@
-> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228002351id_/https%3A//www.fanlala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115352id_/http%3A//www.elsevier.com/locate/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Fanlala.com
+# Privacy Policy
 
-## Disclosure Regarding Collection and Use of Personal Information.
+Elsevier is committed to maintaining your confidence and trust with respect to the privacy of the personal information we collect from you. Please read this privacy policy carefully to understand our practices about how we collect, use and share your personal information. ****
 
-Through the Site, including any mobile version thereof, users may enter personal information about themselves. This policy explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. Please note that our online information collection and use practices may differ from our practices regarding information obtained offline.
+**About our Privacy Policy**
 
-REMEMBER: IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATION THAT WE MAY OFFER, OR SUBMIT INFORMATION IN ANY WAY TO OR THROUGH THE SITE YOU AGREE TO THESE TERMS. AS WE UPDATE AND EXPAND OUR SERVICES, THIS POLICY MIGHT CHANGE, SO PLEASE REVIEW IT FROM TIME TO TIME.
+This privacy policy describes how the personal information that is collected when you visit the Elsevier website, application or product that posts a link to this privacy policy ("Service") will be used by the Elsevier company that owns the Service ("Elsevier," "we," "us" or "our"). This policy may be supplemented by additional privacy terms or notices set forth on certain areas of the Service.
 
-## The Information We Collect.
+ **Information We Collect**
 
-We may collect information about you through a variety of methods, such as your participation in games, quizzes, contests, polls, forums or the like or other documents that you submit to us, transactions in which you may engage with us or our affiliated companies (“Affiliates”), or through visits that you may make to the Site, including via our mobile applications. This policy applies to all personally identifiable information that we collect and maintain about our users in connection with providing services, such as:
+The Service collects information from you in two ways: directly from your input and automatically through the Service's technologies.
 
-  * Your contact information (such as name, Twitter handle, postal and email address, or phone number);
-  * Username and password for the account you may establish on our sites;
-  * Demographic information (such as age, date of birth and gender);
-  * Location information, such as the real-time geographic location of the device on which you install our mobile applications; and
-  * Other details that you may submit to us or that may be included in the information provided to us by third parties.
+ _Information You Provide_
 
+The types of personal information that the Service collects directly from you may include:
 
+  * Contact details, such as your name, email address, postal address and telephone number;
+  * Educational and professional background information;
+  * Usernames and passwords;
+  * Payment information, such as a credit or debit card number;
+  * Comments, feedback, posts and other content you submit to the Service; and
+  * Interests and communication preferences.
 
-You may view or change your information at any time by contacting us.
 
-You also can engage with our content, such as video, polls, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, polls taken and results, quiz scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content.
 
-When you provide information from your social media account, it can help enable us to do things like: (i) give you exclusive content; (ii) personalize your online experience with us within and outside our applications or websites; and (iii) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
+In order to access certain content and to make use of additional functionality and features of the Service, we ask you to register for an account by completing and submitting a registration form, which may request additional information.
 
-Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their respective privacy policies and terms of use.
+If you choose to register and sign in by using a third party account (such as your Facebook account), the authentication of your login is handled by the third party and the Service will collect your name, email address and any other information about your third-party account that you agree to share with us at the time you give permission for your account on the Service to be linked to your third party account.
 
-## Other Collected Information
+ _Information Collected Automatically_
 
-We also may use third-party website analytics tools (such as Google), that collect information about visitor traffic on our sites and mobile applications. The information we may collect by automated means includes:
+The Service also automatically collects, through our servers and the use of cookies (small text files sent to your computer), web beacons (also known as clear or single pixel .gifs) and other technologies, information that tells us how you use the Service, such as:
 
-  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type);
-  * URLs that refer visitors to the Site;
-  * Dates and times of visits to the Site;
-  * Information on actions taken on the Site (such as page views and site navigation patterns)
-  * A general geographic location (such as country and city) from which a visitor accesses our Site; and
-  * Search terms that visitors use to reach the Site.
+  * Internet Protocol ("IP") address used to connect your computer to the Internet;
+  * Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier ("UDID") and other technical identifiers;
+  * Uniform Resource Locator ("URL") click stream data, including date and time stamp, referring and exit URLs, search terms you used, and pages you visited or searched for on the Service; and
+  * For location-aware services, the physical location of your device in order to provide you with more relevant content for where you are in the world.
 
 
 
-**When you use our mobile applications on your mobile device, you may choose not to share your geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.**
+We may use and disclose information that does not reveal your identity or permit direct association with any specific individual, such as browser and device information, anonymous usage data and aggregated information, for any purpose, except where we are restricted by law. If we combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined.
 
-## How We Use Your Personal Information.
+You can control cookies through your browser's settings and other tools. However, if you block certain cookies, you may not be able to register, login to the Service, access certain parts of the Service or make full use of the Service.
 
-We use your personal information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, we may use your personal information to communicate with you or to send you information that you have requested. Additionally, by registering for the Site you will be automatically entered into sweepstakes and contests held on the Site. Except as otherwise set forth on the Site, in addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our “family” of companies to be “third parties” for purposes of this policy. Thus, we may also share personal information provided online with imbee, Inc. (“imbee”) Affiliates. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to a family company, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a family company may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you. A family company may also contact you offline. If you want to opt-out from our (or a family company) using the personal information you provided in these ways, please contact us.
+ **Use of Your Information**
 
-## Updating or Removing Your Personal Information.
+We may use your personal information to:
 
-Please contact us at any time to update or change your personal information.
+  * Provide the Service to you, such as allow access to or delivery of our products or services, process or fulfill an order or transaction, or administer surveys or promotional programs;
+  * Respond to your requests, inquiries, comments or concerns;
+  * Provide technical, product and other support and help keep the Service working, safe and secure;
+  * Offer you customized content and individualized personalization of the Service to make it more relevant to your interests and needs;
+  * Enhance, evaluate and improve the Service, its advertisements and promotional campaigns and our products and services and to develop new products and services;
+  * Identify and analyze usage trends, including for the purposes of research, audits, reporting and paying royalties and license fees to third-party content providers;
+  * Notify you about changes or updates to the Service and our products and services; and
+  * Provide you special offers, promotions, surveys and other information about the Service as well as products, events and services of ours, our affiliates and non-affiliated third parties such as societies and sponsors.
 
-## How We Share Your Personal Information.
 
-We will not share with third parties the personal information you provide except (a) if it is for the purpose(s) you provided it; (b) with your consent; (c) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); (d) with other persons, service providers or companies with whom we contract to carry out internal site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Site); and/or (e) notifying you when we make material changes to one of our subscriber agreements or this policy. Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. We will seek to obtain your consent at the place where the information is collected either by an “opt-in” or “opt-out” method, or by other means (such as sending to you an e-mail). As stated above, we do not consider any companies that are within our “family” of companies to be “third parties” for purposes of this policy and may also share personal information provided online with imbee Affiliates. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to an Affiliate, we require that it protect such information in a manner that is consistent with this policy. If you want us to stop sharing your personal information among imbee Affiliates, please contact us.
 
-Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an “opt-in” or “opt-out” method, or by other means (such as sending to you an e-mail). Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you want us to stop sharing your personal information with these companies, please contact us. If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies.
+We may on occasion also match or combine the personal information that you provide with information that we obtain from other sources or that is already in our records, whether collected online or offline or by predecessor or affiliated group companies, for the purposes described above.
 
-If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information.
+ **Disclosure of Your Information**
 
-## Personal Information Gathered Under Previous Versions of This Privacy Policy.
+We may share your personal information with:
 
-Personal information collected via the Site will generally be governed by the version of the Privacy Policy in effect at the time the information was gathered. We will not retroactively make material changes to the way we use personally identifiable information collected under previous versions of this Privacy Policy without obtaining your consent.
+  * Relevant agents, representatives, joint venturers, and entities for which we are acting as an agent, licensee or publisher, such as societies and sponsors;
+  * Applicable suppliers and service providers, including editors, reviewers, credit card processors, customer support, email service providers, mailing houses and shipping agents, and IT service providers; and
+  * All of our affiliates, trading names and divisions within the Elsevier group of companies worldwide (for a list, visit [http://www.elsevier.com/about](https://www.elsevier.com/about "About Elsevier")),
 
-## Use and Disclosure of Anonymous Information.
 
-We sometimes use the non-personal information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how the Site is used, as well as to offer you products, programs or services.
 
-Sometimes we share aggregate information with others, including Affiliates and nonaffiliated companies.
+to assist us with producing and delivering our products and services, developing and operating our businesses, systems and applications, processing payments, customer support, marketing, promotion and communications and for other purposes set forth in this privacy policy.
 
-## Receipt of Communications; Opt-Out.
+We also may share your personal information with our affiliated group companies worldwide and with societies, sponsors and other non-affiliated third parties that wish to send you information about their products and services that may be of interest to you as determined by your choices in managing your communications preferences following the process described below.
 
-If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications by clicking here to (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email.
+If the Service offers a content database or learning service ("Subscription Service") and you access the Subscription Service through an institution-sponsored subscription, your personal information and certain usage data gathered through the Subscription Service, such as the number of items you downloaded, any non-subscribed items you accessed, and test scores, may be shared with your institution for the purposes of usage analysis, subscription management, course management and testing and remediation. If your institution is a corporation or other business entity, additional usage data, such as the types of records you viewed and the number of searches you ran, also may be shared for the purposes of cost attribution and departmental budgeting.
 
-If you would like to opt-out of receiving marketing or promotional postal mail from us, please clickhere or let us know in writing via letter addressed to: Attn: Privacy, imbee, Inc., 2099 Mt. Diablo Blvd Suite 204 Walnut Creek, CA 94596. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept postal mail opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings.
+We also may need to disclose your personal information:
 
-Following your opt-out, please be aware that we, or our Affiliates, may continue to contact you via email or postal mail for administrative or informational purposes, including, but not limited to, follow-up messages regarding the administration of your account, any services, features or functions you have affirmatively enrolled in or registered to use, any promotions or sweepstakes you have participated in or have entered, goods, services or products you have ordered or other transactions you have undertaken on the Site.
+  * to respond to or comply with any law, regulation, subpoena, court order or other legal obligation;
+  * to enforce and protect our rights and properties;
+  * to detect, investigate and help prevent security threats, fraud or other malicious activity;
+  * to protect the rights, property or safety of our users, employees or others; and
+  * if Elsevier, the Service or a related asset or line of business is acquired by, transferred to or merged with another company.
 
-## Collection of Information By Others.
 
-The Site may contain links to other websites, including links that are placed there by us, such as third-party advertisements or text hyperlinks. Please be aware that we are not responsible for the privacy practices of any other website. We encourage all users of the Site to be aware of when they leave the Site, and to read the privacy policies of each and every website that collects personal information. This privacy policy applies solely to information collected by the Site, through the Site. We may offer additional e-mail services or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personal information that site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies.
 
-## Online Tracking and Advertising
+The Service may let you post and share personal information, comments, materials and other content. Any information you disclose publicly may be collected and used by others, may be indexable by search engines, and might not be able to be removed. Please be careful when disclosing personal information in these public areas.
 
-The Site and certain service providers operating on the Site’s behalf collect information about your activity on the Site and applications using tracking technologies, including, by means of example, cookies, Flash cookies and Web beacons. Definitions for the tracking technologies listed, as well as information regarding how to disable them, are available below. This tracking data is used for many purposes including, for example, to:
+ **Your Choices and Communications Preferences**
 
-  * Provide useful features to simplify your experience when you return to the Site and applications; for example, remembering your shipping information for future purchases;
-  * Deliver relevant content based on your preferences, usage patterns and location;
-  * Monitor and evaluate the use and operation of the Site and applications; and
-  * Analyze traffic on the Site and on the sites of third parties.
+You can manage your communications preferences when you register with the Service, by updating your account preferences, by using the "opt-out" or unsubscribe mechanism or other means provided within the communications that you receive from us or by contacting us. We reserve the right to notify you of changes or updates to the Service whenever necessary.
 
+ **Access to and Accuracy of Your Information**
 
+The Service may allow registered users to access their account information and make corrections or updates upon log in at any time. The accuracy of such information is solely the responsibility of the user. You may also request access to other personal information about you that may be held in the Service. If you request to deactivate your account or delete your personal information, we will endeavor to fulfill your request but some personal information may persist in backup copies for a certain period of time and may be retained as necessary for legitimate business purposes or to comply with our legal obligations.
 
-The Site may associate this tracking data with your registration, in which case it will be treated as personally identifiable information. Service providers that collect tracking data on our behalf may provide an opportunity for you to choose not to be tracked online.
+ **Data Security**
 
-Advertisers and third parties also may collect information about your activity on the Site and applications and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see both on the Site and applications and on third-party sites and applications, but does not identify you personally and is not associated with your registration account. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers here. We adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising.
+Elsevier takes precautions to safeguard your personal information against loss, theft and misuse and unauthorized access, disclosure, alteration and destruction through the use of appropriate administrative, physical and technical security measures.
 
-The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Site responds to “Do Not Track” browser settings. The Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created.
+ **Cross-Border Transfer of Your Information**
 
-## Online Tracking Technologies
+Your personal information may be transferred to other countries for processing. By using the Service you consent to the transfer of information to countries outside of your country of residence, which may have different personal data protection rules than in your country.
 
-Examples of online tracking technologies include:
+ **Changes to Our Privacy Policy**
 
-  * Cookies. Cookies are pieces of information that the Site places on the hard drive of your computer when you visit the Site. Cookies may involve the transmission of information from the Site to you and from you directly to the Site, to another party on the Site’s behalf, or to another party in accordance with its privacy policy. The Site may use cookies to bring together information it collects about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you may not have access to many features that make your Site experience more efficient and some of the Site’s services will not function properly.
-  * Flash cookies. The Site may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on the Site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. If you disable Flash cookies, you may not have access to many features that make your Site experience more efficient and some of the Site’s services may not function properly.
-  * Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. Web beacons may involve the transmission of information directly to the Site, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you.
+We may change this privacy policy from time to time. Any changes will be posted on this page with an updated revision date.
 
+ **Contact**
 
+If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact:
 
-## Clickstream Data.
+Elsevier Data Protection Officer  
+Elsevier Limited  
+The Boulevard  
+Langford Lane  
+Kidlington  
+Oxford  
+OX5 1GB  
+United Kingdom
 
-As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as “Clickstream Data,” can be collected and stored by a web site’s server. Clickstream Data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Site. We may use Clickstream Data as a form of non-personal information to anonymously determine how much time visitors spend on each page of the Site, how visitors navigate throughout the Site and how we may tailor our web pages to better meet the needs of visitors. This information will only be used to improve the Site. Any collection or use of Clickstream Data will be anonymous and aggregate.
+Email: [DPO@elsevier.com](mailto:DPO@elsevier.com)
 
-## Supplementing Information.
-
-From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Site may be intermingled with and used in conjunction with information obtained through sources other than the Site, including both offline and online sources.
-
-## Discussions and Community Tools.
-
-We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone – not just us – may access your publicly posted information.
-
-## Our Commitment to Security.
-
-We believe we have in place the appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect online. Whenever personal information is passed on to non-affiliated companies, to the extent practical, we require that they also have in place the appropriate safeguards. We cannot, however, guarantee that they do so.
-
-## Notice to California-Based Users.
-
-Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a “Customer Choice Notice”. For purposes of this California Privacy notice, third parties include companies within our “family” of companies, such as imbee Affiliates.
-
-The Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the email address or postal address below, or call us at telephone number below. Within 30 days of receiving your request, the Site will provide you with a Customer Choice Notice.
-
-imbee, Inc.  
-2099 Mt. Diablo Blvd., Suite 204  
-Walnut Creek, CA 94596  
-925.478.5502 (P)  
-925.954.1224 (F)  
-E-mail: privacy@fanlala.com
-
-## International Users.
-
-If you are visiting the Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found here). Users of the Site located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of California and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of California.
-
-## How You Can Access or Correct Your Personal Information.
-
-For instructions on how you can access the personal information that we have collected about you online, or how to correct any errors in such information, please contact us. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
-
-## Special Note for Parents.
-
-We will not knowingly accept personal information from anyone under 13 years old in violation of applicable law. If you believe that your child under 13 has gained access to the Site without your permission, please contact us. We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children’s products or services we market are for purchase by adults only, or with adult permission.
-
-## Transfer of Business Assets.
-
-The personal information you provide is considered a company asset and may be included among transferred assets if the Site, we, or parent(s) or any or all of Affiliates or any of our assets are ever acquired by a third party.
-
-## Changes to this Policy.
-
-Because our business needs may change over time, we reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If at any time in the future we plan to use your personal information in a way that differs from this policy, we will revise this policy as appropriate. Your continued use of the Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of 03/10/2015.
-
-## How to Contact Us.
-
-If you have any questions or concerns about this privacy policy you may contact us or write to the following address:
-
-imbee, Inc.  
-2099 Mt. Diablo Blvd., Suite 204  
-Walnut Creek, CA 94596  
-925.478.5502 (P)  
-925.954.1224 (F)  
-E-mail: privacy@fanlala.com  
-
+This privacy policy was last updated on 19 December 2013.
