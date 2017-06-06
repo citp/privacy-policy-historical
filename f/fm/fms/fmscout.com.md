@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fmscout.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127175222id_/http%3A//www.fmscout.com/a-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmscout.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065737id_/http%3A//www.fmscout.com/a-privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Football Manager Scout
+# Privacy Policy | FM Scout
 
-Written by   Updated on September 15, 2010 Published on November 7, 2009   73540 views  
+Written by   Updated on September 15, 2010 Published on November 7, 2009   77107 views  
 
 Privacy Policy for fmscout.com
 
