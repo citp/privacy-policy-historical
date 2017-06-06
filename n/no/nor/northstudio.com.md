@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905194650id_/http%3A//www.northstudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190729id_/https%3A//www.northstudio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | North Studio
+# Privacy Policy | North Studio Website Development, Canada
 
 Last Modified: August 20 2014
 
-We at North Studio (northStudio inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to our Website ([www.northstudio.com](http://www.northstudio.com/)). This Privacy Policy governs our data collection, processing and usage practices. By using the Website, you consent to the data practices described in this Privacy Policy. If you do not agree with the data practices described in this Privacy Policy, you should not use the Website.
+We at North Studio (northStudio inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to our Website (www.northstudio.com). This Privacy Policy governs our data collection, processing and usage practices. By using the Website, you consent to the data practices described in this Privacy Policy. If you do not agree with the data practices described in this Privacy Policy, you should not use the Website.
 
 We periodically update this Privacy Policy. We encourage you to review this Privacy Policy periodically.
 
-##  1\. Important Information
+## 1\. Important Information
 
 1.1. Changes to this Privacy Policy
 
@@ -16,9 +16,9 @@ We may update this Privacy Policy from time to time by posting a new version onl
 
 1.2. Contact Us
 
-If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at [info@northstudio.com](mailto:info@northstudio.com) or by mail to 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attn: Privacy.
+If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at info@northstudio.com or by mail to 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attn: Privacy.
 
-##  2\. Information We Collect
+## 2\. Information We Collect
 
 2.1. When You Visit our Website
 
@@ -34,9 +34,9 @@ This refers to information about your computer and your visits to this website s
 
 2.4. Information About Children
 
-The Websites are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at [info@northstudio.com](mailto:info@northstudio.com), so that we may delete the information.
+The Websites are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at info@northstudio.com, so that we may delete the information.
 
-##  3\. How We Use Information We Collect
+## 3\. How We Use Information We Collect
 
 3.1. Compliance with Our Privacy Policy
 
@@ -94,7 +94,7 @@ If we (or our assets) are acquired by another company, whether by merger, acquis
 
 We reserve the right to use or disclose your Personal Information if required by law or if we reasonably believe that use or disclosure is necessary to protect our rights or to comply with a law, court order, or legal process.
 
-##  4\. Navigational Information
+## 4\. Navigational Information
 
 4.1. Cookies
 
@@ -118,7 +118,7 @@ The Adobe Flash Player (and similar applications) use technology to remember set
 
 The use of cookies and web beacons by any tracking utility company is not covered by our privacy statement.  We do not have access or control over these third party tracking technologies
 
-##  5\. Opting Out and Unsubscribing
+## 5\. Opting Out and Unsubscribing
 
 5.1. Reviewing, Correcting and Removing Your Personal Information
 
@@ -133,8 +133,8 @@ If you provide us with your Personal Information, you have the following rights 
 
 
 
-To exercise any of these rights, please contact us at [info@northstudio.com](mailto:info@northstudio.com) or by mail to North Studio, 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attention: Privacy. We will promptly change, correct, or delete your information and notify you of the action we have taken.
+To exercise any of these rights, please contact us at info@northstudio.com or by mail to North Studio, 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attention: Privacy. We will promptly change, correct, or delete your information and notify you of the action we have taken.
 
   5.2. To Unsubscribe From Our Communications
 
-You may unsubscribe from our marketing communications by clicking on the "unsubscribe" link located on the bottom of our e-mails, or by sending us an email at [info@northstudio.com](mailto:info@northstudio.com), or by sending us postal mail to North Studio, 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us.
+You may unsubscribe from our marketing communications by clicking on the "unsubscribe" link located on the bottom of our e-mails, or by sending us an email at info@northstudio.com, or by sending us postal mail to North Studio, 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us.
