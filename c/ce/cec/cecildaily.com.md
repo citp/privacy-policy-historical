@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cecildaily.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129141227id_/http%3A//www.cecildaily.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cecildaily.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033424id_/http%3A//www.cecildaily.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | cecildaily.com
 
@@ -28,10 +28,14 @@ We know that you care how your information is used, and we appreciate your trust
 
 ### 3\. How Do We Protect the Security of Your Information?
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.  
-We use encryption to protect your information contained in our customer list.  
-We use a firewall to protect against unlawful intrusion.  
-We limit access to your information on a need to know basis  
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+
+We use encryption to protect your information contained in our customer list.
+
+We use a firewall to protect against unlawful intrusion.
+
+We limit access to your information on a need to know basis
+
 We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
 It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
@@ -42,7 +46,8 @@ No system can guarantee absolute security, just as the finest lock can not guara
 
 It is your choice whether to receive emails or special offers from us or others. The following section provides you with this choice. Please note the default settings.
 
-Please send me email or other mail informing me of special offers of your products or services.  
+Please send me email or other mail informing me of special offers of your products or services.
+
 Please do not send me email or other mail informing me of special offers of related products or services from other companies.
 
 ### 5\. Children
