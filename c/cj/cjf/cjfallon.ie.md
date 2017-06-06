@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cjfallon.ie privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204001759id_/http%3A//www.cjfallon.ie/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjfallon.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161658id_/http%3A//www.cjfallon.ie/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | CJ Fallon
 
