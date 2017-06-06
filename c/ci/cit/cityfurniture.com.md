@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cityfurniture.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123034023id_/http%3A//www.cityfurniture.com/privacy_page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityfurniture.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133326id_/http%3A//www.cityfurniture.com/privacy_page) for the most accurate reproduction.*
 
-# City Furniture | Privacy Policy
+# City Furniture | Customer Care | Privacy Policy
 
 Our Privacy Statement explains how we at City Furniture, Inc. protect the privacy of information about our customers and how we manage your information carefully when providing products and services.
 
