@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everfi.net privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024051904id_/http%3A//www.everfi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everfi.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064034id_/http%3A//www.everfi.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy - EverFi
+# Privacy - EVERFI
 
 ## EverFi, Inc.
 
