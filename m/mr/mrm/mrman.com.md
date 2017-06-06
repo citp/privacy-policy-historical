@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrman.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229183152id_/http%3A//www.mrman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrman.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110135id_/http%3A//www.mrman.com/privacy-policy) for the most accurate reproduction.*
 
 # Nude Male Celebs in Pics, Clips, and HD Movies | Mr Man
 
@@ -70,9 +70,9 @@ If a parent believes that his or her child has submitted personal information to
 
 ## California User Consumer Rights.
 
-Under California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov) [http: //www.ftc.gov](https://web.archive.org/privacy-policy)
+Under California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov). For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](http://www.ftc.gov/). 
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: SK Intertainment, Privacy Rights, 1625 North Damen Avenue, Floor 2, Chicago, Illinois 60647. 
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: SK Intertainment, Inc, Privacy Rights, 1625 North Damen Avenue, Floor 2, Chicago, Illinois 60647. 
 
 ## Business transitions 
 
@@ -86,4 +86,4 @@ By using the Site, you consent to the collection and use of your information as 
 
 From time to time, we may change our Privacy Policy. We will post those changes on this page so that our customers will always be aware of what information we collect, how we use it, and under what circumstances we share the information with others. It is your responsibility to check this page periodically.
 
-Any questions regarding our Privacy Policy should be directed to [privacy@skintertainment.com.](mailto:privacy@skintertainment.com.)
+Any questions regarding our Privacy Policy should be directed to [privacy@skintertainment.com](mailto:privacy@skintertainment.com). 
