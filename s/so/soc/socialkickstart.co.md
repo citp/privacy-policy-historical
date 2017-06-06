@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialkickstart.co privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224201328id_/http%3A//socialkickstart.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialkickstart.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214852id_/http%3A//socialkickstart.co/privacy-policy) for the most accurate reproduction.*
 
 # Social Kickstart | All-in-One Facebook Marketing & Insights
 
