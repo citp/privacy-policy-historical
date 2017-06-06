@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abhiandroid.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018175103id_/http%3A//abhiandroid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abhiandroid.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101725id_/http%3A//abhiandroid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AbhiAndroid
 
@@ -51,3 +51,7 @@ We reserve the right to modify this Privacy Policy at any time. You should revie
 
 **Questions About Our Privacy Practices or This Privacy Policy**  
 If you have any questions about our Privacy Practices or this Policy, please contact us.
+
+Hi, I'm Abhishek, founder and owner of this site. I believe in team work and there is a experienced developer team working on AbhiAndroid with a mission to simplify learning of Android App Development.  
+CONNECT WITH ME:  
+[FACEBOOK](https://www.facebook.com/abhisheksaini4) | [LINKEDIN](https://in.linkedin.com/in/imabhisheksaini) | [INSTAGRAM](https://www.instagram.com/abhisheksaini4/)
