@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the insidify.com privacy policy that was archived on 2016-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160225034037id_/http%3A//insidify.com/page/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidify.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607002356id_/http%3A//insidify.com/policy) for the most accurate reproduction.*
 
-# | The Job Search Engine | Insidify
+# Latest and verified 2017 Jobs from everywhere | Today's Job and Career advice | Career and HR Tech |
 
-#### 
-
-* * *
+## Privacy Policy
 
 Insidify has created this Privacy Policy in order to disclose its use of consumer data collected about you. The following discloses Insidify's information gathering and dissemination practices for its website.
-
-* * *
 
 ### Information Collected and Utilized
 
@@ -37,3 +33,5 @@ Insidify may amend this policy at any time. If Insidify is going to use personal
 ### Assignment
 
 If there is a change of control in Insidify’s business (whether by merger, sale, or otherwise) or if there is an asset sale, the user information, including personal information, could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information-handling practices as described in this Privacy Policy, you will be notified by email and/or through a notice posted on the website, and you may opt-out of the use of your existing information in a new manner. This Privacy Policy inures to the benefit of any successors or assigns of Insidify or the assets of Insidify you may leave our site. We are not responsible for the privacy practices of other sites, and we encourage you to read their privacy statements.
+
+© 2016. All Rights Reserved. www.insidify.com
