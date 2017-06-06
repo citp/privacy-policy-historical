@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123074602id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181547id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
 
-# RateCity Privacy Policy
+# Privacy Policy
 
 _Last Updated: 11 March 2014_
 
@@ -34,18 +34,18 @@ We also collect some statistical information about visitors to our website (for 
 
 We use your personal information to:
 
-  * responding to your requests; 
-  * operating and improving our websites, products and services; 
-  * providing you with news and information about our products and services (including newsletters, product surveys and special offers); 
-  * providing you with more effective customer service; 
-  * enabling us to conduct customer research; 
-  * performing research and analysis aimed at improving our products, services and technologies; 
-  * displaying content and advertising that are customised to your interests, preferences and experiences; 
+  * responding to your requests;
+  * operating and improving our websites, products and services;
+  * providing you with news and information about our products and services (including newsletters, product surveys and special offers);
+  * providing you with more effective customer service;
+  * enabling us to conduct customer research;
+  * performing research and analysis aimed at improving our products, services and technologies;
+  * displaying content and advertising that are customised to your interests, preferences and experiences;
   * occasionally sending marketing and promotional material about our products and/or services (or the products and/or services of our Related Bodies Corporate) that we believe you may be interested in.
-  * conducting competitions or promotions on behalf of RateCity and selected third parties; 
-  * verifying your identity; 
+  * conducting competitions or promotions on behalf of RateCity and selected third parties;
+  * verifying your identity;
   * communicating with you, including by email, mail or telephone.
-  * investigating any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our Terms of Use or that you are or have been otherwise engaged in any unlawful activity; and/or 
+  * investigating any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our Terms of Use or that you are or have been otherwise engaged in any unlawful activity; and/or
   * review your dealings with us, including the products and services you use, your potential needs, and new products that might be of interest to you or other customers;
   * ensuring our internal business operations are running smoothly which may include fulfilling legal requirements and conducting confidential systems maintenance and testing; and/or
   * using personal information as otherwise required or permitted by any law (including the Privacy Act).
@@ -77,11 +77,11 @@ We provide a robust level of security when you use our online products and servi
 
 ### Our Use of Cookies
 
-A “cookie” is a small text file that is placed on your hard disk by a Web server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you. 
+A “cookie” is a small text file that is placed on your hard disk by a Web server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you.
 
 ### How we use cookies
 
-We use cookies to enable you to sign in to our services and to help personalise your online experience. One of the primary purposes of cookies is to store your preferences and other information in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalised content. 
+We use cookies to enable you to sign in to our services and to help personalise your online experience. One of the primary purposes of cookies is to store your preferences and other information in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalised content.
 
 ### Declining cookies
 
@@ -89,13 +89,13 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 ### Use of Web Beacons
 
-Our websites may contain electronic images known as “web beacons” - sometimes called single-pixel gifs - that may be used to assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver other services.
+Our websites may contain electronic images known as “web beacons” – sometimes called single-pixel gifs – that may be used to assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver other services.
 
 ### How we use web-beacons
 
-We may include web beacons on all webpages on RateCity in order to determine whether messages have been opened and acted upon. We may also employ web beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our websites. 
+We may include web beacons on all webpages on RateCity in order to determine whether messages have been opened and acted upon. We may also employ web beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our websites.
 
-Finally, we may work with other companies that advertise on our website to place their web beacons on our sites in order to allow us to gather statistics and better target advertisements on our website that may result in a purchase or other action on the advertiser's site.
+Finally, we may work with other companies that advertise on our website to place their web beacons on our sites in order to allow us to gather statistics and better target advertisements on our website that may result in a purchase or other action on the advertiser’s site.
 
 ### Amendment of this policy
 
@@ -103,7 +103,7 @@ We may amend this policy from time to time. Not all changes to our privacy polic
 
 ### Access to your information
 
-You can request access at any time to personal information we hold about you by using the contact details below. We will process your request within a reasonable time, usually 14 days for a straightforward request. More time may be needed, depending on the nature of the request. There is no fee for requesting access to your information; however we may charge you the reasonable cost of processing your request. Sometimes we are not required to provide you with access – for example, if the law says we can deny access. If we refuse you access to your personal information, we will tell you the reason why.
+You can request access at any time to personal information we hold about you by using the contact details below. We will process your request within a reasonable time, usually 14 days for a straightforward request. More time may be needed, depending on the nature of the request. There is no fee for requesting access to your information; However, we may charge you the reasonable cost of processing your request. Sometimes we are not required to provide you with access – for example if the law says we can deny access. If we refuse you access to your personal information, we will tell you the reason why.
 
 ### Correction of information
 
@@ -111,4 +111,4 @@ We try to ensure that all information we hold about you which we collect, use or
 
 ### Contact Details and Complaints
 
-If you have any questions, concerns or complaints about our privacy policy or practices please contact us on: (02) 8096 9494, 9am – 5pm on business days in Sydney, NSW. Or email privacy (@) ratecity.com.au We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner. You acknowledge and accept that your use of the RateCity website indicates your acceptance of the RateCity website [Terms of Use](https://web.archive.org/terms-of-use/) and Privacy Policy.
+If you have any questions, concerns or complaints about our privacy policy or practices please contact us on: (02) 8096 9494, 9am – 5pm on business days in Sydney, NSW. Or email privacy (@) ratecity.com.au We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner. You acknowledge and accept that your use of the RateCity website indicates your acceptance of the RateCity website [Terms of Use](http://www.ratecity.com.au/terms-of-use/) and Privacy Policy
