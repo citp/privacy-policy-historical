@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliengearholsters.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105081722id_/http%3A//aliengearholsters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliengearholsters.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123642id_/http%3A//aliengearholsters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,5 +22,3 @@ This website uses the Google AdWords remarketing service to advertise on third p
 You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/).
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-[ ](http://aliengearholsters.com/alien-gear-cloak-tuck-3-0-iwb-holster-inside-the-waistband.html/)
