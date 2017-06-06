@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125060827id_/http%3A//www.netline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072648id_/http%3A//netline.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - NetLine
+# NetLine Privacy Policy - Successful B2B Marketers Start Here - B2B Content Syndication Lead Generation
 
 NetLine Corporation, a provider of e-marketing and marketing automation technology and services, is committed to protecting Internet user privacy. Below you will find our privacy policies for: 
 
