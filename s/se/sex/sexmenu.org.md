@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexmenu.org privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208191701id_/http%3A//sexmenu.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexmenu.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051329id_/http%3A//sexmenu.org/privacy) for the most accurate reproduction.*
 
-# Privacy – SexMenu.ORG
+# Privacy | Free Amateur Asian Girls Photo Videos
 
 ## Privacy Policy
 
@@ -55,24 +55,12 @@ If you have questions or suggestions about this privacy policy, or your own pers
 #### Incoming search terms:
 
   * Lovely indian pussy pics
+  * CHINESE NAKED SCHOOL GIRLS PICTURES
   * photos school girls thailand sex
   * chiana sex photo gril com
   * South indian naked girl image
-  * Hot indian masala girls image
-  * photo japan chut 20015
-  * unmature pussy photos
-  * sex pinki bhabhi images
-  * chikani women
-  * aunties dirty picture images
-  * Chainese beauti fucking photo
-  * sex kartethue nange
-  * pragnent anty sex images
-  * Mhila nagi photo sacxe
-  * beauty pregnant indian girl pussy photo
-  * gand image india
-  * yoni yoni big size girls breast
-  * www chianasexphotos com
-  * PUNJABI ASS GAAND WALLPEPAR
-  * www chianasexphots com
+  * chinseximage com
+  * pregnantbhabiphoto
+  * full desi maal photo
 
 
