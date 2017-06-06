@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209192211id_/http%3A//www.pointsoflight.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154901id_/http%3A//www.pointsoflight.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Points of Light
 
@@ -19,6 +19,44 @@ We may use cookies to save your password so you don't have to re-enter it each t
 Points of Light may use your IP address (the number assigned to your computer while it is on the Internet) to help diagnose problems with our server, and to administer our website. If you shop on the website, your IP address may be used to help identify your computer and your online "shopping cart" and to gather broad demographic information. If you submit financial information, it will be used to check your qualifications and to bill you for products and services you have ordered.
 
 Points of Light may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Points of Light or its subsidiaries or affiliates; (b) protect and defend the rights or property of Points of Light or the users of this website, and (c) act under exigent circumstances to protect the personal safety of the website's users.
+
+**Does Points of Light have a donor privacy policy?**
+
+The types of donor information that Points of Light (PoL) collects and maintains include, but are not limited to: 
+
+  1. Contact information: name, address, telephone number, and email address; 
+  2. Giving information;
+  3. Information on events attended, publications received and special requests for PoL information;
+  4. Information provided by the donor in the form of comments and suggestions. 
+
+
+
+The use and collection of information about donors is limited to that which is necessary to administer POL’s development operation. 
+
+POL uses donors’ information to understand their interests in its mission, to update them on POL’s plans and activities, to acknowledge and provide a tax receipt for donations, to respond to donor inquiries or questions about POL, and as part of POL’s donor database. POL will not lend, sell, or rent mailing lists of our donors to any third party. Donors may request to have their names deleted from any and all POL mailing lists.
+
+POL will not guarantee complete anonymity of gifts, pursuant to IRS reporting requirements for charitable organizations.
+
+_Donor Bill of Rights*_
+
+_The Donor Bill of Rights was created by the Association of Fundraising Professionals (AFP), the Association for Healthcare Philanthropy (AHP), the Council for Advancement and Support of Education (CASE), and the Giving Institute: Leading Consultants to Non-Profits. It has been endorsed by numerous organizations._
+
+Philanthropy is based on voluntary action for the common good. It is a tradition of giving and sharing that is primary to the quality of life. To assure that philanthropy merits the respect and trust of the general public, and that donors and prospective donors can have full confidence in the nonprofit organizations and causes they are asked to support, we declare that all donors have these rights:
+
+  1. To be informed of the organization's mission, of the way the organization intends to use donated resources, and of its capacity to use donations effectively for their intended purposes.
+  2. To be informed of the identity of those serving on the organization's governing board, and to expect the board to exercise prudent judgment in its stewardship responsibilities.
+  3. To have access to the organization's most recent financial statements.
+  4. To be assured their gifts will be used for the purposes for which they were given.
+  5. To receive appropriate acknowledgement and recognition.
+  6. To be assured that information about their donation is handled with respect and with confidentiality to the extent provided by law.
+  7. To expect that all relationships with individuals representing organizations of interest to the donor will be professional in nature.
+  8. To be informed whether those seeking donations are volunteers, employees of the organization or hired solicitors.
+  9. To have the opportunity for their names to be deleted from mailing lists that an organization may intend to share.
+  10. To feel free to ask questions when making a donation and to receive prompt, truthful and forthright answers.
+
+
+
+_* © 2016, Association of Fundraising Professionals (AFP), all rights reserved. Reprinted with permission from the Association of Fundraising Professionals._
 
 **What type of public forums are available through the website?**  
 We may make various public forums (such as chat rooms) and functions available to you. During these activities, you will have the option to add additional personal information that is beyond the information gathered at registration. Any information you choose to share when using any of these forums or functions becomes public information. It is incumbent upon you to exercise caution in deciding whether todisclose such information.
