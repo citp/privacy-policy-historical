@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the provide-insurance.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817114008id_/https%3A//provide-insurance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provide-insurance.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174629id_/https%3A//www.provide-insurance.com/privacy) for the most accurate reproduction.*
 
 # Fast, Free Auto Insurance Quotes
 
@@ -13,10 +13,6 @@ Effective date August 5, 2016
 EverQuote DBA AdHarmonics (herein referred to as "we", "us" or "our") considers your privacy a very important issue. We design and operate our services with the protection of your privacy as a primary concern. 
 
 This privacy policy (the "Policy") applies to our website, provide-insurance.com (the "Site") and outlines the types of information we collect via the Site, how we use that information, and the efforts we make to safeguard it. By providing any information through the Site, you agree to the use of that information consistent with this Policy. 
-
-[ ](https://privacy.truste.com/privacy-seal/EverQuote/validation?rid=701a86bf-5c76-408a-b0ac-67082408b710 "TRUSTe online privacy certification")
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. The TRUSTe program covers only information that is collected through this website provide-insurance.com and does not cover information that may be collected through our mobile application. 
 
 ### Personally Identifiable Information
 
@@ -36,9 +32,7 @@ We use cookies for a variety of reasons, including to remember user settings (e.
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
 
-In addition, we partner with third parties to either display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
-
-Further, we serve display advertising utilizing our ad serving infrastructure. This infrastructure uses cookies, web beacons, images, and scripts to collect non-personally identifiable information about your activities on this and other websites for the purpose of providing the best user experience with our advertisements. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [this link](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+Further, we serve display advertising utilizing our ad serving infrastructure. This infrastructure uses cookies, web beacons, images, and scripts to collect non-personally identifiable information about your activities on this and other websites for the purpose of providing the best user experience with our advertisements. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [this link](https://ads.everquote.com/opt-out/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
 ### Use of Information
 
@@ -48,7 +42,7 @@ Further, we serve display advertising utilizing our ad serving infrastructure. T
 
 If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove it by making the change on our member information page [or by emailing our Customer Support at compliance@adharmonics.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within 10 business days. 
 
-We will retain your information for as long as required to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as required to provide you services. Notwithstanding any requests to correct, update, amend, delete/remove your information, we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 We use commercially reasonable efforts to ensure that the Insurance Providers are obligated to protect your PII to at least the degree established in this Policy. Additionally, it is our policy to require Insurance Providers to use commercially reasonable means to secure the receipt and processing of your PII. You should be aware, however, that after an Insurance Provider contacts you directly, any information you provide directly to the Insurance Provider, which may be the same as or similar to the PII you submitted to us through this Site, will no longer be covered by this Policy. Before providing your information directly to an individual Insurance Provider, you should make sure that you have read and understand that Insurance Provider's privacy policies and practices. We have no control over the Insurance Providers and their practices and we are not and will not be responsible or liable, financially or otherwise, for their respective privacy policies and practices. Also, be aware that the Insurance Providers may use the PII they acquire from this Site in connection with other information they acquire about you (from other sources that have collected PII about you such as credit reporting companies, etc.) as well as information you provide them directly. We are not and will not be responsible or liable, financially or otherwise, for any of the PII that you provide directly to any Insurance Provider or that they acquire from sources other than this Site. In addition, if you no longer want to receive communications from the Insurance Providers regarding insurance quotes, you must contact the respective Insurance Provider(s) directly and request that they no longer contact you. You may not opt out of communications from any Insurance Provider by contacting us. 
 
