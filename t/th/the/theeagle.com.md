@@ -1,72 +1,107 @@
-> *The following text is extracted and transformed from the theeagle.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013033256id_/http%3A//www3.theeagle.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeagle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063512id_/http%3A//www.theeagle.com/site/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | Site | theeagle.com
 
-**WEBSITE PRIVACY STATEMENT**
+Welcome to [theeagle.com](http://theeagle.com/), home of the The Bryan-College Station Eagle Online Edition.
 
-Welcome to the website for The Eagle, [www.theeagle.com](http://www.theeagle.com/) (the "Site"). This Site is an online service owned by Bryan/College Station Communications Inc. (the "Company" or "us"), and powered by Mediaspan Online Services ("Mediaspan"). We recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Website Privacy Statement. 
+We understand that privacy is very important to our readers. We want to make sure that you understand why we collect certain information, how we use it, and how we protect it. We want our guests to feel confident that their information is handled with great care on [theeagle.com](http://theeagle.com/).
 
-**A. TYPES OF INFORMATION COLLECTED**
+ **How do I know my information is safe on[theeagle.com](http://theeagle.com/)?**
 
-At this website, we may collect both personally identifiable information and non-personal information from you. 
+In the normal course of business, [theeagle.com](http://theeagle.com/) and The Eagle do not share reader information with anyone. We collect this information for the sole purpose of improving [theeagle.com](http://theeagle.com/) and providing more and better services to our readers.
 
-1\. **Personally identifiable information**. You don't have to provide us with your personally identifiable information (such as your name, address, telephone number, email address, etc.) in order to read most of what's posted on this Site. We may, however, collect personally identifiable information about you when you submit comments in response to one of our stories, sign up to receive information from us, open an account with us, submit a letter to the editor through the Site, enter a contest, respond to a survey, make a forum submission, email us, purchase something through the Site, or at times in which we alert you that you must submit personally identifiable information. Without this information, we would not be able to respond to your inquiries, entries and requests. Please also note that several features of the Site, such as classified ads and blogs, may be operated by third parties. These third parties may also obtain personally identifiable information from you in order to use their services. Please check their privacy policies for information about their privacy practices. In some cases these third parties may provide your personally identifiable information to the Company.
+The only times we will divulge a guest's personal information to a third party are:
 
-2\. **Non-personal information**. Non-personal information, such as which pages on the Site are accessed, what information is downloaded, what type of browser and operating system are being used, which Internet service provider is being used, and other information of this general type may be collected about visitors to the Site. This information does not allow us to personally identify the Site visitor. By collecting this information we learn how best to develop our website to meet the needs and desires of our visitors.
+• If we believe in good faith that the law requires such disclosure.
 
-**B. METHODS OF INFORMATION COLLECTION**
+• If we need to disclose the information in order to identify, contact or initiate legal action against someone violating [theeagle.com](http://theeagle.com/)ís Terms of Service, or someone who is causing injury to or interference with [theeagle.com](http://theeagle.com/)ís rights or property, other [theeagle.com](http://theeagle.com/) users, or anyone else who can be harmed by such activities.
 
-Personally identifiable information is collected when submitted by you - such as when you sign up for an account with us or when you send us an email. Personally identifiable information may also be collected when you include it as part of a comment, letter, forum submission or blog entry that you submit to us. Your personally identifiable information may be collected by third party service providers and then provided to the Company by the third party. Non-personal information may be collected via "cookies" (small text files placed on your computer's hard drive), "web beacons" or other technology. 
+In the event [theeagle.com](http://www.theeagle.com/theeagle.com) contracts with an outside research firm, we may provide your contact information to the research firm to contact you regarding participation in surveys, focus groups or other research activities that will help us improve [theeagle.com](http://theeagle.com/)ís products and services. The research firm will be bound by its contract with [theeagle.com](http://theeagle.com/) to use your information strictly for [theeagle.com](http://theeagle.com/) research purposes, to keep your information confidential, and to adequately secure or destroy its records of your information when the research is complete.
 
-**C. HOW WE USE YOUR INFORMATION**
+ **What information does[theeagle.com](http://www.theeagle.com/theeagle.com) collect?**
 
-1\. **Personally identifiable information**. If you sign up for an account with us (which is required in order to make certain submissions), then we may use your personally identifiable information to maintain your account and to correspond with you. We may also use it to send you materials that we think would be of interest to you. We may also provide your personally identifiable information to advertisers or others. If you enter one of our contests, then we may use your personally identifiable information for purposes of the contest (such as to notify you if you win) and/or in accordance with the contest rules. We may also provide your personally identifiable information to the sponsor(s) of the contest, publish information concerning the winner of the contest, and/or for any other lawful purposes. If you email us, submit a letter to us, or ask to be placed on a mailing list that we maintain, then we may contact you and send information to you. If you register to purchase merchandise through this website, then we may use your personally identifiable information to maintain your account and/or process your order. If we receive your personally identifiable information from a third party service provider, then we may use the information to contact you and to assist in performing the service for which you have registered with the third party. In addition to the uses listed above, we may use your personally identifiable information to improve our marketing and promotional efforts, as part of a statistical website usage analysis, and/or to improve the features and content of this website. We may also use your personally identifiable information to assist in delivery of content that is customized to your interests. We do not collect personally identifiable information on an automatic basis, but we may combine non-personal information (which may be automatically collected) with your previously submitted personally identifiable information. We may also use your personally identifiable information as set forth elsewhere in this Privacy Statement.
+The The Eagle obtains information from you when you purchase advertising or start a newspaper subscription. This information may include, but is not limited to, your name, address, telephone number, e-mail address and what you have purchased.
 
-2\. **Non-personal information**. We may use your non-personal information to improve our marketing and promotional efforts, as part of a statistical website usage analysis, to improve the features and content of this website, and/or for other purposes to assist our business. We may share such information with advertisers and other third parties, typically in the aggregate. We may also use your non-personal information as set forth elsewhere in this Privacy Statement.
+From time to time, [theeagle.com](http://theeagle.com/) will conduct surveys on its site for research purposes. When you participate in a survey, the information you provide about yourself and your responses are collected by [theeagle.com](http://theeagle.com/). We will always inform you how we will use this information.
 
-3\. **Links from the Site to advertisers and other third parties**. Please be aware that the Company's advertisers, business partners, sponsors, service providers and other third parties accessible through the Site (such as via links from this Site and/or framed on this Site) may have their own privacy practices. The Company is not responsible for any actions or policies of such third parties. You should check the applicable privacy policies of the third parties when providing information to them. These third parties may provide the personally identifiable information that they collect to the Company and may also use the information in accordance with their own privacy practices. Financial institutions, such as those which process credit card orders, are subject to federal privacy laws.
+If you contact [theeagle.com](http://theeagle.com/), we may keep a record of your correspondence.
 
-4\. **Other third parties**. During the course of its business, the Company uses third party service providers, such as lawyers and accountants, to perform a variety of functions. In some instances, the Company may need to provide personal and/or non-personal information about you to such third parties. However, all third party service providers which are not linked from the Site are prohibited from using your personally identifiable information for any purpose other than for which they were selected to work with the Company.
+[Theeagle.com](http://theeagle.com/) also tracks and collects computer IP addresses to help with system administration and to compile information about traffic patterns on the site. Computer IP addresses identify computers and the networks or Internet service providers to which they are connected.
 
-5\. **Public forum**. If you submit a comment, personal ad, email, blog entry, forum entry, or similar submission, the information in your submission may be published to the general public. Please exercise caution when making such submissions. Please note that most such submissions are not reviewed prior to publication. We will not be responsible to read, respond to, or perform in accordance with any requests for privacy or confidentiality that are included with the submission or at any time. 
+ **Cookies and how[theeagle.com](http://theeagle.com/) uses them**
 
-6\. **Other uses**. In addition to the uses set forth elsewhere in this Privacy Statement, the Company may use or disclose personal or non-personal information: (i) in cases where we believe in good faith that it is necessary to prevent a crime, an injury or financial loss to ourselves or to third parties; (ii) to protect against misuse or unauthorized use of this Site (including violation of the Company's [Terms of Use](http://www.theeagle.com/about/termsofuse/)); (iii) pursuant to a court order, warrant, subpoena, discovery request, or as required by law; (iv) in conjunction with the sale or offering for sale of some or all of the Company; (v) in the event of the Company's bankruptcy, assignment for the benefit of creditors, or similar financial circumstances; and/or (vi) when you have been made aware of the possibility of use or disclosure of the information at or prior to the time of collection.
+A cookie is a small amount of data that is transferred from a Web server through your browser and stored on the hard drive of your computer. The cookie contains your user name and password so that when you log on, the Web server recognizes you.
 
-**D. OUR COMMITMENT TO SECURITY**
+Some advertisers on [theeagle.com](http://theeagle.com/) may use their own cookies. When you click on an advertisement, visit an advertiser's Web site or make a purchase from an advertiser, that company may use cookies according to their own policies. Advertisers' cookies are not covered under [theeagle.com](http://theeagle.com/)ís policy.
 
-We have put in place physical, electronic, and managerial procedures that we believe are appropriate to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. Please note that we cannot guarantee the security of our databases or Site, nor can we guarantee that information will not be intercepted while being transmitted over the Internet. In order to use some of the features of this Site, you may be required to create an account with us. For your protection, this account will only be accessible by means of a password or similar security measure. If you believe that your password or email address has been compromised, you should change your account with us immediately. If you forget your password, follow the instructions on the login page. 
+You do not have to permit the use of cookies. You can, through the options in your Web browser, choose to accept all cookies, choose to reject all cookies or choose to receive notification when a cookie is being delivered so that you can make a decision whether to accept each cookie on a case-by-case basis. If you refuse all cookies [theeagle.com](http://theeagle.com/) will no longer remember you when you return requiring you to log in each time you visit the site.
 
-**E. CHILDREN**
+ **General statistical information**
 
-The Company does not knowingly collect personal information from children under the age of 13 through this Site unless such collection is done in accordance with the law. If you are a child under the age of 13 that intends to submit information to the Company through this Site, you must obtain your parent's consent prior to making such a submission. In the event that the Company obtains actual knowledge that you are a child under the age of 13, the Company may require that you (and/or your parent) prove to us your prior parental consent. Even if you are 13 or over, we recommend that all children under the age of 18 obtain parental consent prior to the submission or purchase of anything through this Site. 
+Visits to [theeagle.com](http://theeagle.com/) are monitored to gather statistical information, including the number of visits to the site, the pages visited, which domains visitors come from and the browsers used to visit the site. This data is accumulated at the aggregate level.
 
-**F. ACCESS TO YOUR PERSONAL INFORMATION AND "OPT OUT" PROCEDURES**
+This statistical information enables us to evaluate the effectiveness of the services we provide, to monitor site performance and to make it easier for visitors to use the site.
 
-You may change your online account information with the Company by accessing your account through the Site (if you forgot your password, follow the instructions on the login page). If you would like to access or change any other personal information that we have collected, or would like to "opt out" of our collection, retention or disclosure of any other information, please email us at [webhelp@theeagle.com](mailto:webhelp@theeagle.com) or contact us at the address set forth below. Subject to the Company's protection of itself and others, disclosures for legal reasons, and our current technological capabilities, we may be able to assist you. Please keep in mind that to protect your privacy and security, we may take reasonable steps to verify your identity before granting you access to any personally identifiable information or "opt out" capabilities. To change the information that you submitted to third party service providers, such as in conjunction with personal ads, classified ads or blogs, please contact the service provider. Their policies will dictate the extent to which you can access or change the information that they have collected about you. 
+How does [theeagle.com](http://theeagle.com/) use the information it gathers?
 
-**G. PARENTAL OPTIONS AND REVIEW**
+Information collected on [theeagle.com](http://theeagle.com/), including traffic patterns and user behavior, is used primarily for the following purposes:
 
-Parents of children under the age of 13 have the option to agree to the collection and use of their child's personal information without consenting to the disclosure of the information to third parties (subject to the Company's protection of itself and others, disclosures for legal reasons, and the Company's current technological capabilities). In addition, parents can review the personal information provided by their child under the age of 13, ask to have it deleted and refuse to allow any further collection or use of the child's information (subject to the same items as above). In order to make these requests, parents should follow the "Opt Out" procedures set forth in the "Access to Your Personal Information and 'Opt Out' Procedures" section of this Privacy Statement. Please note that, while this Site will not require more information from children under 13 than is reasonably necessary to participate in any activity or event, deletion of required information (such as information that would permit the Company to contact the winner of a contest) may result in termination of the child's participation in an event or activity. Parents should also note that the official rules for contests and promotions on this website may contain additional information related to their children's privacy and the parents' rights and responsibilities.
+• Internal research. [theeagle.com](http://theeagle.com/) is continuously assessing how visitors use the site. This data assists us in making decisions about how to improve the site and to better serve our users. Research data are aggregated and do not include data about specific individuals. We may share aggregated research (but not individual user information) with our advertisers or business partners. Additionally, [theeagle.com](http://theeagle.com/) may use your information to contact you to ask for your participation in a focus group, survey, or some other type of research effort.
 
-**H. CHANGES TO THIS PRIVACY STATEMENT**
+• To customize your experience on [theeagle.com](http://theeagle.com/). As [theeagle.com](http://theeagle.com/) improves its service, it may offer users more opportunities to customize content and other aspects of the site. Information provided by you may be used to assist in the customization process, if you elect to participate in these features.
 
-This Privacy Statement may be changed from time to time, so we encourage you to check back with every visit to the Site. If you do not agree to one or more of the changes, you may choose to "opt out," using the procedures set forth above. Once the change has been made, all information collected by the Site before or after the change will be subject to the new terms of the Privacy Statement. The current version of this Privacy Statement is effective January 8, 2007. 
+• To tailor advertising efforts. Most of the information and services available to you at [theeagle.com](http://theeagle.com/) are free. In order to continue providing services free of charge, [theeagle.com](http://theeagle.com/) sells advertising. Advertisers prefer to target their communication toward audiences who are most likely to be interested in their products. The information gathered on [theeagle.com](http://theeagle.com/) helps us advise advertisers in general terms about certain aspects of site visitors (e.g. how visitors use the site, general demographic attributes of visitors, usage patterns on various parts of our site, etc.). This information helps both advertisers and [theeagle.com](http://theeagle.com/) make better decisions about where to place advertising. No specific information about individual users is ever provided to advertisers. However, visitors who choose to conduct financial transactions with advertisers on [theeagle.com](http://theeagle.com/) may provide specific data to those advertisers during the process of their transactions. Additionally, any information provided during the purchase of [theeagle.com](http://theeagle.com/) or The Eagle products or services will result in the collection of certain information required to complete the transaction.
 
-**I. TO CONTACT US**
+ **More specifically, here is how[theeagle.com](http://theeagle.com/) may use information you provide:**
 
-1\. For general privacy inquiries, please contact us at [webhelp@theeagle.com](mailto:webhelp@theeagle.com). 
+• Email addresses. If you supply [theeagle.com](http://theeagle.com/) with your -mail address, either by registering on the site or by communicating with us via e-mail, we may, from time to time, send you information that we believe would be of interest to you via e-mail. This information may be from [theeagle.com](http://theeagle.com/), the The Eagle, or from one of our quality advertisers. Note: If we send you email on behalf of another company, your information is never disclosed to that company. Rather, the company provides us with the information it wants to send, and we prepare and send the -mail directly to you. Your information never leaves our systems.
 
-2\. Parents of children under 13 seeking to access or change personally identifiable information that has been collected about their children through this Site, or to submit parental consent forms, please contact us at:
+• Postal addresses. If you supply [theeagle.com](http://theeagle.com/) with your postal address, we may send you periodic mailings with information on new products, coming events, surveys or other research materials, or other information we think might be of interest to you.
 
-**Bryan/College Station Communications, Inc.**  
-Website Privacy Issues  
-c/o **Mike Albin**   
-**1729 Briarcrest**   
-**Bryan, TX 77802**  
-Phone: (979) 776-4444  
-Fax: (979) 776-8923  
-Email: [mike.albin@theeagle.com](mailto:mike.albin@theeagle.com)
+• Telephone numbers. If you provide your telephone number, [theeagle.com](http://theeagle.com/) may call you regarding orders you have placed online, to tell you about new products, services, or coming events, or to offer other information that may interest you. Additionally, [theeagle.com](http://theeagle.com/), the The Bryan-College Station Eagle or one of their agents may call you for research purposes.
 
-The Company may have several operators collecting or maintaining personal information. The operator that is responsible for responding to privacy inquiries is Mike Albin, whose address is 1729 Briarcrest Bryan, TX 77802. Third parties accessible through this Site may have their own such operators.
+ **What information is covered by this privacy policy? What isn't?**
 
-Copyright © 2007, **Bryan/College Station Communications, Inc.** All rights reserved.
+All information you provide directly to [theeagle.com](http://theeagle.com/) is covered under this privacy policy. This information may include but is not limited to your name, address, phone number, and e-mail address.
+
+Information that you might post on a message board, forum, or chat room is not protected under this privacy policy. Information posted in any of these public areas is not considered confidential communication. [theeagle.com](http://theeagle.com/) has the right but not the obligation to monitor the content of its bulletin boards, forums and chat rooms to determine compliance with its policies and terms of use and any other operating rules established for the website. [theeagle.com](http://theeagle.com/) shall have the right in its sole discretion, and without prior notice, to edit, refuse to post, or remove any materials submitted to or posted to its bulletin boards, forums, or chat rooms.
+
+Please keep in mind that whenever you voluntarily disclose information on a public website - for example, on message boards or in chat areas - that information can be collected and used by others. In short, if you post information online that is accessible to the public, you may receive unsolicited messages from other parties in return. [theeagle.com](http://theeagle.com/) is not responsible for the disclosure of your information under these circumstances and such disclosure is not covered under this privacy policy.
+
+Additionally, advertisers and vendors hosted on our site, or who link to our site, may collect information about you if you visit their websites, or purchase products or services from them. Information collected by vendors or advertisers hosted on [theeagle.com](http://theeagle.com/) or who link to [theeagle.com](http://theeagle.com/) is not covered under this privacy policy.
+
+Finally, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
+
+ **What if I don't want[theeagle.com](http://theeagle.com/) to contact me?**
+
+You may opt out of any or all contacts from [theeagle.com](http://theeagle.com/) at any time. All e-mails sent to you from [theeagle.com](http://theeagle.com/) will allow to opt out of any further e-mail from us. You may e-mail us at [webhelp@theeagle.com](mailto:webhelp@theeagle.com) to opt out of our email programs. You may also write or call us at the following address and phone number to notify us regarding use of your information:
+
+When you register on [theeagle.com](http://theeagle.com/), you will be given the opportunity to opt out of further communication from us.
+
+You may accept certain kinds of contact and decline others. For example, you may choose to accept e-mails, but not postal mail or telephone calls.
+
+If, at anytime in the future, [theeagle.com](http://theeagle.com/) decides to use information provided by you in a way not described here, we will contact you beforehand to explain the use of the information and give you the opportunity to decline that use.
+
+ **Security technologies**
+
+[Theeagle.com](http://theeagle.com/) uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When we transfer or receive certain types of sensitive data, such as financial information, we will redirect you to a secure server and will notify you through a pop-up screen on our site. We have implemented appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you.
+
+ **Making corrections to your information**
+
+Upon request, you may review all information that we maintain in your record, including contact information (name, address, zip code, phone number, e-mail), or any other information we may keep in your record.
+
+You may also request that inaccuracies be corrected in any information that we maintain in your record.
+
+Submit your request by contacting [theeagle.com](http://theeagle.com/) via e-mail, postal mail, or telephone.
+
+ **Contacting[theeagle.com](http://theeagle.com/)**
+
+If you have any questions about our privacy policy or the privacy practices of this site, please contact us at [webhelp@theeagle.com](mailto:webhelp@theeagle.com).
+
+You may telephone us at (979) 776-4444. You may write to us at:
+
+[theeagle.com](http://theeagle.com/)
+
+1729 Briarcrest Drive
+
+Bryan, TX 77802
