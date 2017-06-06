@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dealcoupon.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814010328id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealcoupon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133613id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.*
 
 # dealnews.com, Inc., Privacy Policy
 
 If users have questions or concerns regarding this statement, they should first contact Daniel de Grandpre via [this online contact form](http://dealnews.com/contact/?dept=privacy) or via postal mail at PO Box 1567, Huntsville, AL 35807.
 
-The policies below are applicable to dealnews.com, dealmac.com, dealcoupon.com, dealram.com, dealcam.com, dealink.com, and other sites published by dealnews.com, Inc. (dealnews), PO Box 1567, Huntsville, AL 35807.
+The policies below are applicable to dealnews.com and other sites published by dealnews.com, Inc. (dealnews), PO Box 1567, Huntsville, AL 35807.
 
 **Aggregate Information (non-personally identifiable)**
 
