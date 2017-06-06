@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveorabove.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121013653id_/http%3A//www.loveorabove.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveorabove.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151519id_/http%3A//loveorabove.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -135,3 +135,5 @@ Our Company reserves the right to revise, amend, or modify this policy, our [Ter
 ## Where to direct questions about our privacy policy
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the [contact information](http://www.mindvalley.com/contact) provided on this website.
+
+6075 South Eastern Ave, Suite 1, Las Vegas, NV 89119
