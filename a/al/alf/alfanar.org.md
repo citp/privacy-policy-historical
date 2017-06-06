@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfanar.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229232713id_/http%3A//www.alfanar.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfanar.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150318id_/http%3A//www.alfanar.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Alfanar
 
