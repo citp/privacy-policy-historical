@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206153046id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153941id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Send gifts online, Online shopping: Muncha.com
 
