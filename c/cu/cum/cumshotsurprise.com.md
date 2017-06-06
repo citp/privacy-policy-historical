@@ -1,46 +1,59 @@
-> *The following text is extracted and transformed from the cumshotsurprise.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410235408id_/http%3A//www.cumshotsurprise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cumshotsurprise.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034140id_/http%3A//cumshotsurprise.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+## Privacy policy
 
-This privacy policy (the “Policy”) applies to the website, [www.cumshotsurprise.com](http://www.cumshotsurprise.com/) and all related website domains.  Please read it carefully, as you are bound by its terms when using this website.  This Policy may be updated without notice at any time.
+This Privacy Policy (the “Policy”) applies to all of the Whale Member (“Service Provider”) family of websites (the “Sites”), including this site, as well as any other Sites at which this Policy appears and which are owned/controlled by the Service Provider. This Policy describes how Service Provider uses information it obtains about its users when they visit one of the Sites and is inapplicable to information obtained about you through other channels. Please review this Policy carefully. If you have any questions about this Policy, please email cvv@cvvhelp.net. 
 
-**Information We Collect**
+_1\. Revisions_
 
-cumshotsurprise.com May collect any of the following information:
+Service Provider reserves the unilateral right to modify this Policy from time-to-time. 
 
-_Information you provide_.  When users register for a username, cumshotsurprise.com asks for personal information (such as your email address, time zone, and an account password).   In order to improve the quality of our Services and to provide you with a better user experience, cumshotsurprise.com may combine any information you submit with information provided by third parties.    
-_Log information_.  Each time users access cumshotsurprise.com’s services, cumshotsurprise.com’s servers may automatically record in its server logs information that users’ browsers sends whenever they visit a website.  These server logs may include information such as users’ Internet Protocol or “IP” addresses, the date and time of the users’ requests, browser type, browser language, and one or more cookies (see description below) that may uniquely identify your browser.  
-_Links_.  cumshotsurprise.com may present links that include codes that enable us to track whether these links have been followed.  This information is used to improve the quality of cumshotsurprise.com’s advertising and customized content, as well as the organization and layout of cumshotsurprise.com’s websites.  
-_Cookies_.  Assuming a user’s browser is configured to accept them, when users visit our websites, cumshotsurprise.com may send one or more cookies to the users’ computer or other device.  A cookie is a small file containing a string of characters that uniquely identifies your browser.  cumshotsurprise.com may also set one or more cookies in users’ browsers when they click on ads or other links presented on cumshotsurprise.com’s websites.  Cookies make it possible to store user preferences and record which portions of our website you and other users are using the most.  cumshotsurprise.com uses cookies solely for the purpose of improving the quality of its Service.  
-_User communications_.  cumshotsurprise.com may retain communications that users send to cumshotsurprise.com by email or other means, in order to process your inquiries, respond to your requests, and improve our Services.  
-_Affiliated YNOT Services on other sites_.  From time to time, cumshotsurprise.com may offer some of its Services on or through other websites.  In the event that cumshotsurprise.com offers such services, it is possible that personal information users provide to those sites may be sent to cumshotsurprise.com to facilitate delivery of those services.  cumshotsurprise.com will process such information under this Policy as if the information had been submitted directly to cumshotsurprise.com from its users.  Any affiliated site through which cumshotsurprise.com’s services are offered will likely have its own privacy policy, which may be very different from cumshotsurprise.com’s.  It is very important for users to review the privacy policies for such affiliated sites before submitting personal information to them.  
-_Other sites_.  This Policy only applies to services offered by cumshotsurprise.com.  cumshotsurprise.com is not able to exercise control over sites that are linked to from within our various Services.  These other sites may collect data, set their own cookies in users’ browsers, or ask users to provide personal information.  
-cumshotsurprise.com may use this information to provide, maintain, protect and improve the services it offers users.  cumshotsurprise.com may also use this information to protect its rights or the rights of its users.  Any of this information may be disclosed or otherwise used in any manner cumshotsurprise.com sees fit with regard to investigating and stopping the suspected or actual piracy of copyrighted content.
+a. By accessing, using, or joining this Site, you acknowledge that Service Provider possesses this unilateral right and that you will ensure that you stay up-to-date regarding changes to the Policy by checking it on a regular basis. You shall be bound by the terms of the Policy then in effect each time you access or use this Site. 
 
-If cumshotsurprise.com must use any personal information in a manner different from those described, it will seek your consent prior to that use.  cumshotsurprise.com possesses personal information in the United States and in other countries, and in some cases may store personal information outside of your country.
+b. Dates that the Policy is revised will be contained in the “Last Modified Date” on the top of this page. If you visit this page and see a new “Last Modified Date,” you agree that you shall review the Policy for revisions.
 
-**Information Sharing**
+c. In the event of a conflict between this Policy and any Terms of Use for any Sites, this Policy shall control. 
 
-cumshotsurprise.com will share personal information with companies or individuals outside of cumshotsurprise.com under limited circumstances:
+_2\. Collection of Information_
 
--cumshotsurprise.com has obtained your consent to release personal information.
+a. When you sign up for membership on the Site, you are required to provide Service Provider with your name, billing address, email address, postal code, credit card number, bank account and routing number, telephone number, and other personal information. You may be asked for additional information to participate in special promotions, offers, contests, or polls. This is information Service Provider is collecting from you. Service Provider recognizes that, from time-to-time, the information provided during sign-up may become inaccurate or out-of-date. To modify the information provided during sign-up, please email cvv@cvvhelp.net. 
 
--The information is being shared with a subsidiary or cumshotsurprise.com affiliate.
+b. In addition to collecting information if and/or when you register for membership, Service Provider uses cookies to collect, among other things, your location, your IP address, referral websites and your membership ID. You can turn off cookies, but you might not be able to use any or all of the Site, irrespective of whether you are a member. 
 
--Access, use or distribution of your personal information is, in cumshotsurprise.com’s good faith belief, reasonably required to a) satisfy an applicable law, regulation, legal process or enforceable government request (e.g. a warrant, subpoena or other court order), b) enforce the Terms and Conditions, and investigate their breach, c) detect and prevent security issues, d) protect against harm to cumshotsurprise.com or its users, and e) to pursue good faith allegations of piracy brought by cumshotsurprise.com or third parties.
+c. In addition to the data that you provide to us, we may also obtain data from trusted third parties. This ‘profiling’ information is produced from a variety of sources, including publicly available data or from providers to whom you have given your permission for your data to be shared. 
 
-**Accessing and Updating Your Personal Information**
+_3\. Information Collected_
 
-cumshotsurprise.com allows users the option to control their personal information, including correcting, deleting and otherwise modifying this data.  cumshotsurprise.com can fulfill this request so long as the data is not required by law or for legitimate business purposes.  Users must identify themselves and the data they seek to have altered or deleted before cumshotsurprise.com will process their requests.  cumshotsurprise.com may decline to process requests for which access is not required, or requests that are unreasonably repetitive or systematic, require disproportionate effort, jeopardize others’ privacy, or would be unreasonable.  This service is provided free of charge except where performing it would require cumshotsurprise.com to expend unreasonable effort.
+The amount of information Service Provider collects from visitors to the Sites largely depends upon whether the visitor is a member or is simply browsing the Sites. A non-member browsing one of the Sites only has the information collected described in Paragraph 2(b) of this Policy. Members to one or more of the Sites will have the information collected described in Paragraph 2(a) of the Policy. Service Provider may collect additional personal information in the event you send any communication or correspondence to Service Provider. Service Provider may store any and all information collected in its database(s). 
 
-Because of how cumshotsurprise.com stores personal information, data you delete may take a period of time to be deleted from our services and residual (backup) copies of website information.
+If we make other organizational services available through our Sites, you understand we do not operate those sites. Information as to the privacy practices of such other organizations is governed by their own polices and you should review them before providing any information to them. You consent that such organizations may share your personal information with Service Provider if you have accessed such services through our Sites. 
 
-**Enforcement**
+_4\. Use of Information_
 
-cumshotsurprise.com will regularly review its enforcement of this Policy.  Upon receiving formal written complaints, it is cumshotsurprise.com’s Policy to contact the complaining user about his or her concerns.  cumshotsurprise.com will cooperate with appropriate authorities, including local data protection authorities, to resolve complaints regarding the transfer of personal data that cannot be resolved between cumshotsurprise.com and the complaining individual.
+The primary use of information collected by Service Provider is to provide you access to and enhance your experience on the Sites. More specifically, Service Provider collects information to provide you with varying levels of access to one or more of the Sites and to ensure you continue to have access to one or more of the Sites (e.g., for monthly payment purposes). As stated in Paragraph 3, Service Provider also uses cookies to collect information to tailor the Sites to your preferences and generally to make your visits more enjoyable. While those are the primary reasons Service Provider collects information, there are others, including: 
 
-**Changes to the Policy**
+a. Advertising and Marketing. Service Provider uses cookies and other passively collected information to improve its advertising and to improve the applicability of its advertising to your interests. Collected information may also be used for general market research and to track the interests of current and former members to one or more of the Sites. Service Provider is not responsible for the collection, use, or security of any information, sensitive, personally-identifying, or otherwise, that you voluntarily share with an advertiser. 
 
-cumshotsurprise.com may change this Policy from time to time and without notice.   cumshotsurprise.com may post significant Policy changes on this page and may provide users with more prominent notice of such changes.
+b. Operation. Service Provider may share your information if it becomes necessary to operate one or more of the Sites properly. This may include sharing information with a third-party vendor to collect fees or other monies owed by you. Service Provider may also share your information to prevent, detect, or resolve issue of fraud or security. 
+
+c. Legal Service Provider may use your information for legal purposes. 
+
+i. For example, your information may assist Service Provider in ensuring that you are in compliance with the Terms of Use, including our intellectual property policies and the requirement that you not share your password with third parties. It may also be used as necessary to bring legal action against you in the event that you materially breach Service Provider’s Terms of Use. 
+
+ii. Service Provider may also share your information with law enforcement to assist in any criminal investigations against you or to comply with any laws or regulations. 
+
+iii. Service Provider may share your information with a debt collector or legal counsel to collect any fees or other monies owed by you or to otherwise enforce the Terms of Use. 
+
+iv. In some cases, Service Provider may be subpoenaed to provide your information in a civil or criminal matter. Service provider reserves the right to respond to a subpoena without the necessity of informing you, but Service Provider may provide you with an opportunity to seek to quash the subpoena before responding, in service provider’s sole discretion. 
+
+_5\. Data Security_
+
+Service Provider takes reasonable efforts to ensure that sensitive or personally-identifying information and data it collects remains secure. It uses reasonable measures any time sensitive, personal information is transmitted. However, nothing is perfect, and Service Provider cannot guarantee that hackers or other cyber-criminals will never be capable of infiltrating its systems. For this reason, you acknowledge and accept that you assume any risk that such breaches may occur despite these measures being in place. Non personally-identifying information may be shared publicly for any purpose. 
+
+_6\. Emails_
+
+a. Emails from Service Provider. When you sign up for one or more of the Sites, you provide Service Provider with an accurate email address. Service Provider maintains a member directory so that it may email you from time-to-time. These emails may concern matters Service Provider thinks you may find interesting, including but not limited to new Sites, programs, and services. Emails from Service Provider and its affiliates are not SPAM, as you have a business relationship with Service Provider as soon as you join one or 
+
+b. Emails to Service Provider. If you contact Service Provider via email or via any link on one of the Sites, you should be aware that the information you transmit should not be considered private or secure. Please do not transmit any information you would not want to become public. 
