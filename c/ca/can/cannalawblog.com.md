@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cannalawblog.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808072225id_/http%3A//www.cannalawblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cannalawblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142550id_/http%3A//www.cannalawblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Canna Law Blog™
 
