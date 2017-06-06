@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseshare.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121032732id_/http%3A//baseshare.com/site/page/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseshare.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152759id_/http%3A//baseshare.com/site/page/view/privacy) for the most accurate reproduction.*
 
 # BaseShare - Privacy Policy
 
@@ -25,6 +25,8 @@ We will not rent, sell or share your personal information with third parties. We
 Third-party websites, services, or advertising linked to BaseShare are not covered by this Privacy Policy. These websites or services may collect personally or non-personally identifiable information about you and place a cookie on your browser. BaseShare is not responsible for the privacy practices of the third-party websites, advertisers, or companies. You are solely responsible for safeguarding and protecting the secrecy of your password.
 
 BaseShare is not responsible if you volunteer personal information online that is accessible to the public. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed.
+
+BaseShare offers the BaseShare Service to the general population. However, for users in the United States, the BaseShare Service is not directed or meant for children under the age of thirteen, and we do not knowingly collect personal information from children under thirteen. If you are under thirteen years of age, you should not use or otherwise access the Service, and should not provide any personal information to us. If we discover that a person under the age of thirteen has provided us with personal information, we will delete it. Furthermore, if we discover that a person under the age of thirteen has provided us with false information for the purpose of using or otherwise accessing the BaseShare Service, the account, and all information related thereto, will be deleted.
 
 ## General
 
