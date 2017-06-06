@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208071818id_/http%3A//www.naturalcollection.com/help-privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055135id_/http%3A//www.naturalcollection.com/help-privacy-and-security) for the most accurate reproduction.*
 
 # Help - Privacy & Security - Natural Collection
+
+* * *
 
 ### Privacy Policy
 
