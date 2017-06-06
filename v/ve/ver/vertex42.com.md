@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112195700id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174144id_/https%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
 
 # Vertex42 Privacy Policy
 
-Last Revised: **Nov 6, 2014**
+Last Revised: **Jan 1, 2017**
 
-**We take privacy very seriously** , and if you are reading this, you probably do as well. First of all, you should know that except for the trusted services that we use for managing our newsletter, processing payments, logging into the website, rating and reviewing, and our web host, no other outside party will have access to your personal information unless you happen to publish it yourself by adding it to a public comment on a message board, blog post, comment, review, etc. **We do not share personal information or email lists** with third parties beyond those specifically named herein.
+**We take privacy very seriously** , and if you are reading this, you probably do as well. First of all, you should know that except for the trusted services that we use for managing our newsletter, processing payments, logging into the website, rating and reviewing, and our web host, no other outside party will have access to your personal information unless you happen to publish it yourself by adding it to a comment on a message board, scholarship application, blog post, comment, review, etc. **We do not share personal information or email lists** with third parties beyond those specifically named herein.
 
-**Vertex42 LLC** owns and runs the websites Vertex42.com, Vertex42Blog.com, and CalcNexus.com (the "sites"), so when we say "we", "us", or "our" we mean these sites as well as the associates, employees, partners, and affiliates who help run these websites and deliver the Content to you. If you have objections to this Privacy Policy, you should not access or use these Sites. On this page we will explain
+**Vertex42 LLC** owns and runs the websites Vertex42.com and CalcNexus.com (the "sites"), so when we say "we", "us", or "our" we mean these sites as well as the associates, employees, partners, and affiliates who help run these websites and deliver the Content to you. If you have objections to this Privacy Policy, you should not access or use these Sites. On this page we will explain
 
   * What personal information is collected (or not collected)
   * How the information is used
@@ -26,10 +26,6 @@ Online visitors who wish to make donations or purchase a product or membership f
 
 All credit card transactions occur over a secure connection protected through encryption such as the Secure Socket Layer (SSL) protocol. In some cases we use [ClickBank.com](http://clickbank.com/) to process payments, and in other cases we may use [PayPal.com](http://paypal.com/). **We do not store credit card information!** We keep a record of sales, including names and email addresses, to provide technical assistance, process refunds, and notify customers of changes or updates.
 
-## Logging in, Rating and Reviewing
-
-Rating and reviewing pages and templates on Vertex42.com requires you to log in using some a social account such as Facebook, Google, Microsoft Messenger, LinkedIn, Yahoo!, or Twitter. This service is provided by Gigya.com and the login information, ratings, and reviews are stored on their server as well as vertex42.com.
-
 ## Information Used to Improve User Experience
 
 In some cases, we may collect information from you _to help improve your experience using our sites_. This might include completing polls, rating pages or content that you like, submitting your comments (more on that below), sharing content via social media, filling out a registration form to create your login profile, submitting a search, or sending us feedback and suggestions via email or surveys.
@@ -41,6 +37,10 @@ Occasionally we may run surveys or contests in which the user can optionally inc
 _We do not collect sensitive personal information such as race, religion, or political affiliations. And we definitely do not collect sensitive information such as social security numbers and full birth dates._
 
 It is unlikely to happen, but we may have to share personal customer information with law enforcement officials in the investigation of alleged unlawful activities related to the use of our sites. We will have no legal liability for these types of disclosures.
+
+## Scholarship Applications
+
+Applications for scholarships require a student to list their name, age, email, city of residency, school name, and other personal information necessary for scholarship selection. Personal information submitted via scholarship applications will not be published without the written permission of the scholarship winners. However, non-personal information such as ideas for templates or ideas for ways to use spreadsheets in education may be used and summarized and shared publicly by us without specific attribution.
 
 ## Cookies
 
@@ -82,7 +82,7 @@ We do not knowingly collect personal information from children under the age of 
 
 
 
-Check out the FTC's site for more tips on protecting children's privacy online. 
+Check out the FTC's site for more tips on protecting children's privacy online.
 
 ## External Links
 
@@ -94,4 +94,4 @@ We may occasionally revise this policy by updating this page. _We encourage you 
 
 ## Contacting Us
 
-If you have any questions or comments about our privacy policy, we can be reached [via email](https://web.archive.org/about.html).
+If you have any questions or comments about our privacy policy, we can be reached [via email](https://web.archive.org/contact.html).
