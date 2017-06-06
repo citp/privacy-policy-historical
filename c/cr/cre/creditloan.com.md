@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716065024id_/https%3A//www.creditloan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171050id_/https%3A//www.creditloan.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | CreditLoan.com®
+# Privacy Policy - CreditLoan.com®
+
+**Protecting Your Privacy:** We will **never** call or email you asking for money. There is no fee to apply. Close
 
 We are committed to protecting your privacy and securing your information. Please read our full privacy policy below.
 
-This privacy statement applies to www.creditloan.com owned and operated by Credit Loan, LLC (“Credit Loan”, “we”, “us”, “our”). This privacy statement describes how Credit Loan, LLC collects and uses the personal information you provide on our web site:  www.creditloan.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy statement applies to www.creditloan.com owned and operated by Credit Loan, LLC ("Credit Loan", "we", "us", "our"). This privacy statement describes how Credit Loan, LLC collects and uses the personal information you provide on our web site:  www.creditloan.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. The TRUSTe program covers only information that is collected through this website (www.creditloan.com).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ## Personal Information
 
@@ -22,29 +24,29 @@ Please note: by submitting your personal information, your information is being 
 
 We may also use personal information for website administrative customer service, to provide our visitors with information which may be requested, to customize visitor experiences on the Site, and for internal business purposes, such as analyzing and managing our business. Third parties may be used to assist in the operation of this Site or to administer activities on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-We specifically reserve the right to release current or past user information, as it is made available to us from third-parties, in the event the user is using, or has used, our products, services and/or Site: (i) in violation of the Site’s Terms and Conditions, this Privacy Statement or any of our operating rules, policies, and/or other supplemental terms and conditions or documents that may be published from time to time; (ii) to commit unlawful acts; (iii) if such information is subpoenaed or requested pursuant to a judicial or regulatory proceeding or inquiry or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request (iv) if this Site is sold or acquired, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information; and/or (v) when deemed necessary or appropriate including, without limitation to, sharing your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission implementing regulations.
+We specifically reserve the right to release current or past user information, as it is made available to us from third-parties, in the event the user is using, or has used, our products, services and/or Site: (i) in violation of the Site’s Terms and Conditions, this Privacy Statement or any of our operating rules, policies, and/or other supplemental terms and conditions or documents that may be published from time to time; (ii) to commit unlawful acts; (iii) in response to lawful requests by public authorities; if such information is subpoenaed or requested pursuant to a judicial or regulatory proceeding or inquiry or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request (iv) if this Site is sold or acquired, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information; and/or (v) when deemed necessary or appropriate including, without limitation to, sharing your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission implementing regulations.
 
-By registering, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR Â§310 et seq.), as amended from time to time (the “Rule”) and applicable state do-not-call regulations. As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable federal or state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.
+By registering, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR Â§310 et seq.), as amended from time to time (the "Rule") and applicable state do-not-call regulations. As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable federal or state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.
 
 In addition, by submitting your personal information, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us and our third party advertisers and marketers (where, and to the extent that, such marketing is permitted by applicable law). You further agree that based on your individual carrier and plan, you may incur charges associated with such SMS Messages and that you agree to be solely responsible for such charges. You represent that you are at least 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Should you hereafter choose to opt-out of receiving SMS Messages from the individual sender, you may opt-out by texting "STOP" or "OPT-OUT" as specifically set forth in the communication. Notwithstanding that your mobile telephone number may be listed on state and/or federal do-not-call registries, we retain the right to contact you via SMS Messages. In addition, by registering and/or using the Website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR 310 et seq.), as amended from time to time. As such, notwithstanding that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law. Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Statement and applicable law.
 
 Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute any and all personal information (other than the Sensitive Information) with/to any third party for any and all uses permitted by this Privacy Statement and applicable law.
 
-If you have questions or concerns regarding this statement, you should first contact [support@creditloan.com](mailto:support@creditloan.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at https://feedback.truste.com/home. TRUSTe will then serve as a liaison with us to resolve your concerns. Credit Loan, LLC is committed to protecting your privacy when you visit our web site. You can access Creditloan.com and browse our site without disclosing any of your personal information.
+If you have questions or concerns regarding this statement, you should first contact [support@creditloan.com](mailto:support@creditloan.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Credit Loan, LLC is committed to protecting your privacy when you visit our web site. You can access Creditloan.com and browse our site without disclosing any of your personal information.
 
-## Non-Personal Information
+## Automatically Collected Information
 
 We may also use your IP addresses to compile and provide aggregate statistics about our visitors, traffic patterns, and administer and improve the site. This statistical information may also be related to third parties, track user's movement, and gather demographic and profile information for aggregate use. We may also use third-party analytics services to record information, including without limitation, mouse clicks, mouse movements, and scrolling activity as well as text you type in the Web site, which may be used by us or third-parties to understand how users interact with the site.
 
 ## Access to Personal Information
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, delete your information by emailing our Customer Support at [support@creditloan.com](mailto:support@creditloan.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe.
+Upon request Credit Loan, LLC will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, delete your information by emailing our Customer Support at [support@creditloan.com](mailto:support@creditloan.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe.
 
 Phone: 813-527-0728
 
 Mailing Address:
 
-Credit Loan, LLC  
+CreditLoan, LLC  
 235 Apollo Beach Blvd, STE 218  
 Apollo Beach, FL 33572 
 
@@ -72,7 +74,7 @@ Please note that Creditloan.com contains links, co-branded links, and forms that
 
 ## Tracking Technologies
 
-Technologies such as: cookies, beacons, tags, web browser LocalStorage and scripts are used by Credit Loan, LLC and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies or similar technologies are used by Credit Loan, LLC and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for authentication and security purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
@@ -90,7 +92,7 @@ Our blog is managed by a third party application that may require you to registe
 
 ## Security
 
-The security of your personal information is important to us. No sensitive information (such as credit card number and/or social security number) is ever collected from our site. Creditloan.com has obtained a **VeriSign SSL certification**. VeriSign is the leading-edge trust service that is a fast, convenient way to identify and confirm a web site's legitimacy. Users see confirmed identity of business with one click. Site owners and visitors are protected from spoofed (copied) sites that can harm the rightful owner. The VeriSign logo can be viewed and verified at anytime at the footer of every webpage on creditloan.com.
+The security of your personal information is important to us. No sensitive information (such as credit card number) is ever collected from our site. Creditloan.com has obtained a **VeriSign SSL certification**. VeriSign is the leading-edge trust service that is a fast, convenient way to identify and confirm a web site's legitimacy. Users see confirmed identity of business with one click. Site owners and visitors are protected from spoofed (copied) sites that can harm the rightful owner. The VeriSign logo can be viewed and verified at anytime at the footer of every webpage on creditloan.com.
 
 The security of your personal information is important to us. When you enter your name and email address in our newsletter subscription and contact us forms order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link http://www.webopedia.com/TERM/S/SSL.html
 
@@ -108,7 +110,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 ## Disclaimer and Information about Creditloan.com
 
-Please view our official disclaimer page here: [Disclaimer](http://www.creditloan.com/disclaimer/).
+Please view our official disclaimer page here: [Disclaimer](https://www.creditloan.com/disclaimer/).
 
 Creditloan.com is an online directory and resource for credit, loans, bad credit services, debt consolidation, and credit repair. We are in the Yahoo directory in the US, Canada, and UK. Credit Loan, LLC is located in the Southwestern United States catering to users across the world. We are not a bank, broker, or lender.
 
@@ -116,7 +118,7 @@ We offer tips from consumers and opinionated advice and we are not responsible f
 
 ## Copyright Notice
 
-All materials contained in this website are protected by federal copyright laws, and may not be reproduced, republished, distributed, displayed, or otherwise exploited in any manner without the express prior written permission of Creditloan.com. Our official copyright statement can be viewed here: [Copyright Statement](http://www.creditloan.com/copyright-statement/).
+All materials contained in this website are protected by federal copyright laws, and may not be reproduced, republished, distributed, displayed, or otherwise exploited in any manner without the express prior written permission of Creditloan.com. Our official copyright statement can be viewed here: [Copyright Statement](https://www.creditloan.com/copyright-statement/).
 
 We routinely check for copyright violations and content duplication. Federal legal action will be taken against anyone found using creditloan.com articles and/or content with the expressed written permissions and/or consent from our owner.
 
@@ -124,11 +126,9 @@ We routinely check for copyright violations and content duplication. Federal leg
 
 If you have questions or comments, email us at [support@creditloan.com](mailto:support@creditloan.com), or mail us via postal mail at:
 
-Credit Loan, LLC  
+CreditLoan, LLC  
 235 Apollo Beach Blvd, STE 218  
 Apollo Beach, FL 33572 
-
-We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
 ## Changes to Privacy Statement
 
@@ -136,4 +136,4 @@ We reserve the right, in our sole discretion, to change, modify, add and/or remo
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
 
-_Updated June 30th, 2016_
+_Updated March 22, 2017_
