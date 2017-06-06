@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpsurl.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227015223id_/http%3A//www.gpsurl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpsurl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030057id_/http%3A//www.gpsurl.com/privacy.php) for the most accurate reproduction.*
 
 # GPS Forums - Tomtom, iGO, Garmin, Sygic, Navigon, Cars GPS - GPSurl Privacy Policy
 
