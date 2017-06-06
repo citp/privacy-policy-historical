@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bank-codes.com privacy policy that was archived on 2016-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206225422id_/http%3A//www.bank-codes.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bank-codes.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606043709id_/http%3A//www.bank-codes.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 <title>Privacy Policy</title>
@@ -198,7 +198,7 @@ function log_abb_tests() {
 function log_data(ab_result, ab_walk) { 
 
 	if (ab_walk) {
-		jQuery.getScript("/js/yPf2trPzOS.js");
+		jQuery.getScript("/js/ikneAxDz2ki.js");
 
 		jQuery.ajax({
 			url: "//p1pa.com?callback=ajxclb",
@@ -230,12 +230,19 @@ function ajxclb (data) {
 	});
 
 	var eng_c = ["ca","au","gb","us","ie","nz","gr"];
-
+    var stcko_c = ["dk","fi","hk","is","ie","my","nl","nz","no","sg","za","se","uk","mc","nl","om","qa","sa","sg","de","fr"];	
+	
 	var show_sar = false;	
 	if (eng_c.indexOf(c.toLowerCase()) != -1) {
         show_sar = true;
 	}
-
+	
+	var show_stcko = false;	
+	if (stcko_c.indexOf(c.toLowerCase()) != -1) {
+        show_stcko = true;
+	}
+	show_option = true;
+	
 	var a_show=1;	 
 	var alist = jQuery('ins.adsbygoogle');	
 	if (alist){
@@ -243,7 +250,7 @@ function ajxclb (data) {
 			if (jQuery(this).html().replace(/\s/g, '').length != 0) {
 				return false;
 			} else {
-			    jQuery(this).replaceWith('<iframe id="IDofiframeInMainWindow'+ a_show +'" src="/OVWCxqBtzj6KF7xmC6fI.html?c='+ ((show_sar && a_show==1)?1:( ((c.toLowerCase() == "us")?(generate_rand_number(2,2)):2) )) +'&id='+ a_show +'" width="300" scrolling="no" class="CLASSofiframeInMainWindow"></iframe>');
+			    jQuery(this).replaceWith('<iframe id="IDofiframeInMainWindow'+ a_show +'" src="/Ay_4yqHHbjhtpxx0.html?c='+ ((show_sar && a_show==4)?1:((show_option)?9:2)) +'&id='+ a_show +'" width="300" scrolling="no" class="CLASSofiframeInMainWindow"></iframe>');
 				a_show++;
 				return true;
 			}
@@ -253,11 +260,22 @@ function ajxclb (data) {
 	var blist = jQuery("div[id^=div-gpt-ad]");
 	if (blist){
 		blist.each(function(){
-		    jQuery(this).replaceWith('<iframe id="IDofiframeInMainWindow'+ a_show +'" src="/OVWCxqBtzj6KF7xmC6fI.html?c='+ ((c.toLowerCase() == "us")?(generate_rand_number(3,4)):2) +'&id='+ a_show +'" width="300" scrolling="no" class="CLASSofiframeInMainWindow"></iframe>');
+		    jQuery(this).replaceWith('<iframe id="IDofiframeInMainWindow'+ a_show +'" src="/Ay_4yqHHbjhtpxx0.html?c='+ ((c.toLowerCase() == "us")?(generate_rand_number(3,4)):2) +'&id='+ a_show +'" width="300" scrolling="no" class="CLASSofiframeInMainWindow"></iframe>');
 			a_show++;
 			return true;
 		});
 	}
+	
+	
+	var clist = jQuery("div[class^=media-net-]");
+	if (clist){
+		clist.each(function(){
+		    jQuery(this).replaceWith('<iframe id="IDofiframeInMainWindow'+ a_show +'" src="/Ay_4yqHHbjhtpxx0.html?c='+ ((c.toLowerCase() == "us")?(generate_rand_number(3,4)):((show_option)?9:2)) +'&id='+ a_show +'" width="300" scrolling="no" class="CLASSofiframeInMainWindow"></iframe>');
+			a_show++;
+			return true;
+		});
+	}	
+	
 	
 };
 function generate_rand_number(min,max)
@@ -480,27 +498,7 @@ Should you have other questions or concerns about these privacy policies, please
   
         </div>  <!--div.main end -->
 		
-<div class="right">
-
-<div id="right_menu_id" class="rightmenu_widget">
-	
-  <div class="widget_header">Bank Codes</div>	
-  <div class="widget">  
-    <div class="menuitem">
-      <div><a href="http://www.bank-codes.com">BIC codes</a></div>
-      <div class="menu_additional_info">Formerly known as SWIFT codes</div>
-    </div>
-    <div class="menuitem">
-      <div><a href="http://www.bank-codes.com/ifsc-code/">IFSC codes</a></div>
-      <div class="menu_additional_info">Indian Financial System Code</div>
-    </div>
-    <div class="menuitem">
-      <div><a href="http://es.bank-codes.com">Codigos SWIFT / BIC</a></div>
-      <div class="menu_additional_info">In Spanish</div>
-    </div>
-  </div>  
-  
-</div>  
+<div class="right">  
 </div>
 <div style="clear:both;"></div>
 		
@@ -603,7 +601,7 @@ jQuery(document).ready(function() {
 });
 </script>
 
-<script src="http://cdn.bank-codes.com/js/app5.min.js"></script>
+<script src="http://cdn.bank-codes.com/js/app6.min.js"></script>
   
 
 
