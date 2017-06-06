@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copdconnect.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206110148id_/http%3A//www.copdconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copdconnect.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152638id_/http%3A//www.copdconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | COPD Connect
 
@@ -307,7 +307,7 @@ We welcome your input and feedback about our sites and the services that we prov
 
   * Email: [privacy@alliancehealth.com](mailto:privacy@alliancehealth.com).
 
-  * • Mail: Attention: Privacy and Compliance, Alliance Health Networks Inc., 10855 South Riverfront Pkwy #250, South Jordan, UT 84095
+  * • Mail: Attention: Privacy and Compliance, Alliance Health Networks, LLC., 10855 South Riverfront Pkwy #250, South Jordan, UT 84095
 
   * Phone: 801-355-6002
 
