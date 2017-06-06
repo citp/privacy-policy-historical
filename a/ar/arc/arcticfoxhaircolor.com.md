@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcticfoxhaircolor.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202101951id_/http%3A//arcticfoxhaircolor.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcticfoxhaircolor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173125id_/http%3A//arcticfoxhaircolor.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Arctic Fox
+# Privacy Policy – Arctic Fox - Dye For A Cause
 
 Privacy Policy & Security  
   
