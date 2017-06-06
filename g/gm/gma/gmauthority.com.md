@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmauthority.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210162012id_/http%3A//gmauthority.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmauthority.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142723id_/http%3A//gmauthority.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # GM Authority Privacy Policy | GM Authority
 
