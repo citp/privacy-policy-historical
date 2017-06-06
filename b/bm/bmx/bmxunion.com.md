@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmxunion.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120124923id_/http%3A//bmxunion.com/wp-content/themes/bmxunion/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmxunion.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075446id_/http%3A//bmxunion.com/wp-content/themes/bmxunion/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,4 +64,4 @@ KurtHohberger@Gmail.com
 
 This document was last updated on May, 2016
 
-Privacy policy created by [Generate Privacy Policy](http://www.generateprivacypolicy.com/)
+Privacy policy created by [Privacypolicies.com](http://www.privacypolicies.com/)
