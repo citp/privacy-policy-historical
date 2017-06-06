@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the solidsmack.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126053115id_/http%3A//www.solidsmack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidsmack.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182914id_/http%3A//www.solidsmack.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SolidSmack -
+# Privacy and Policy - SolidSmack
 
-**PRIVACY**  
+## PRIVACY POLICY
+
 SolidSmack dearly respects your privacy and is committed to safeguarding your privacy while online at SolidSmack.com The following discloses how we go about gather and disseminate information for this site.
 
 **RSS FEED AND EMAIL UPDATES**  
@@ -18,7 +19,7 @@ A cookie is a piece of data stored on the user’s computer tied to information 
 This site contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. We suggest users be aware of this when they leave SolidSmack and read the privacy statements of each and every site that collects personally identifiable information. This privacy statement applies solely to information collected by SolidSmack.
 
 **ADVERTISERS**  
-Ads are delivered through our internal advertising system. However, occasionally, we use outside ad companies to display ads on this blog. These ads may contain cookies used by the advertising companies. We do not have access to this information. SolidSmacks occasionally display ads from the following advertising companies: Google Adsense, Linkworth, and TLA. Please check the advertisers websites for respective privacy policies.
+Ads are delivered through our internal advertising system. However, occasionally, we use outside ad companies to display ads on this blog. These ads may contain cookies used by the advertising companies. We do not have access to this information. SolidSmacks occasionally display ads from the following advertising companies: Google Adsense, Linkworth, and TLA. Please check the advertiser’s websites for respective privacy policies.
 
 **QUESTIONS**  
-Questions regarding our Privacy Policy, Terms & Conditions or other policy related material can be directed to our support staff by clicking on the [“Contact Us”](http://www.solidsmack.com/contact/) link . Or you can email us at: [info@solidsmack.com](mailto:info@solidsmack.com)
+Questions regarding our Privacy Policy, Terms & Conditions or other policy related material can be directed to our support staff by clicking on the [“Contact Us”](https://www.solidsmack.com/contact/) link, or you can email us at: [info@www.solidsmack.com](mailto:info@www.solidsmack.com). 
