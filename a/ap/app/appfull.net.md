@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appfull.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316110039id_/https%3A//www.appfull.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appfull.net privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000116id_/https%3A//www.appfull.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Appfull
 
@@ -13,9 +13,9 @@ You may provide us with profile information to make public (after registration v
 Providing the additional information described in this section is entirely optional.
 
  **Third-Party Service:**  
-We uses a variety of third-party services on the, such as Yandex.Metrika, Adcash, AD-center, Propellerads and Adreactor. All these third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
  **Links to Other Sites:**  
 Our site contains links to other web sites. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's web site. The fact that we link to a web site or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party web sites. These other web sites may place their own cookies or other files on Your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information You submit to them. We encourage you to read the privacy policies or statements of the other web sites you visit.
 
-appfull.to have right to change privacy above [effective date on top right]
+appfull.net have right to change privacy above [effective date on top right]
