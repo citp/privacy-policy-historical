@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastlemon.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203121257id_/http%3A//lastlemon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastlemon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085944id_/http%3A//lastlemon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Last Lemon
 
@@ -6,7 +6,7 @@ We take privacy extremely seriously. Our Privacy Policy below describes what we 
 
 ## We DO store
 
-Submitted email addressee and IP address of submittor.
+Submitted email addressee and IP address of submitter.
 
 Like most websites, lastlemon.com collects non-personally-identifying information of the type that browsers typically make available, such as language preference, browser type and time-stamp (i.e. the date and time of each visit). We do this so we can better understand user trends.
 
