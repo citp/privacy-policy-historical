@@ -1,24 +1,93 @@
-> *The following text is extracted and transformed from the dripfeedlinks.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509154027id_/http%3A//www.dripfeedlinks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dripfeedlinks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171009id_/http%3A//hkseo.us/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Drip Feed Links - Privacy Policy
+# Privacy Policy
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+**Privacy Policy**
 
-It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law. We transfer information about you if the company is acquired by or merged with another company. In this you will be notified before information about you is transferred and becomes subject to a different privacy policy. 
+**Effective date: November 10, 2016**
 
-**INFORMATION GATHERING AND USAGE:** When you register we ask for information such as your name, email address, billing address, and credit card information. We use collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. 
+This privacy policy discloses the privacy practices for Humankind Design L.P. products and/or services.  This privacy policy will notify you of the following:
 
-**COOKIES:** A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use the service. We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. 
+  1. What personal information is collected from you through our products, how it is used, and with whom it may be shared.
+  2. The security procedures in place to protect the misuse of your information.
 
-**DATA STORAGE:** We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the service. Although we own the code, databases, and all rights to the application, you retain all rights to your data. 
 
-**DISCLOSURE:** We may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service. 
 
-**CHANGES:** We may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your primary account holder account or by placing a prominent notice on our site. 
+**What Information is Collected:**
 
-**QUESTIONS:** Any questions about this Privacy Policy should be addressed to support at draculinobjjtraining.com or by mail at:
+  1. Information you give us, for example, your name, email address, date of birth, telephone number, payment and billing information.
+  2. Information you upload, submit, store, send from, or receive through your use of our products and services.
+  3. Information we get from use of our products and services, including device information, IP address, and location information.
 
-Humankind Integrated Communications  
-820 S. Friendswood Dr., Suite 205   
-Friendswood, TX 77546  
 
+
+  **How Your Information is Used:**
+
+  1. Respond and/or communicate with you
+  2. Promote our services
+  3. Provide, improve, and develop our services
+  4. Bill and collect money owed to us
+  5. Send you system notifications and updates
+  6. Meet legal requirements
+  7. Provide suggestions to you
+  8. Enforce compliance with our Terms of Use and applicable law
+  9. Provide information to representatives, partners, agents, and advisors
+  10. Prosecute and defend a court, arbitration or similar legal proceeding
+  11. Show and measure ads and services
+  12. Promote safety and security
+
+
+
+**How Is Your Information Shared:**
+
+  1. We may share aggregated demographic information with our partners and advertisers.
+  2. We may also share information with partners to provide specific services.
+  3. Advertising, measurement, and analytics services (non-personally identifiable information only).
+
+
+
+**What Security** **Measures are in Place** :
+
+  1. We take precautions to protect your information. When you submit sensitive information via the website, we take reasonable precautions to protect your information both online and offline.
+  2. Whenever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way.
+  3. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+  4. In the event of a security breach, we will immediately notify you and take necessary steps to remedy the breach.
+
+
+
+**How Can I Manage or Delete Information About Me?**
+
+  1. You can log into your user’s profile and correct, amend, or delete information about yourself.
+  2. We store data for as long as it is necessary to provide products and services to you and others, including those described above. Subject to any laws or regulations which set different requirements, information associated with your account will be kept until your account is deleted, unless we no longer need the data to provide products and services.
+
+
+
+**_California Online Privacy Protection Act_**
+
+**According to CalOPPA we agree to the following:**
+
+  1. Users can visit our site anonymously.
+  2. Users are able to change their personal information by emailing us at support@hkseo.us.
+
+
+
+**How Does Our Site Handle Do Not Track Signals?:**
+
+Our sites do **not** look for or utilize “Do Not Track” signals from any web browser.  If you are concerned about your privacy and/our collection and use of your data, do not use our services.
+
+  
+Third parties are not able to collect personally identifiable information of consumers while they are on the site.
+
+**Updates**
+
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
+
+**How to Contact Humankind Design LP with Questions**
+
+Humankind Design Ltd.
+
+820 S. Friendswood Drive, Suite 205
+
+Friendswood, Texas 77546
+
+support@hkseo.us
