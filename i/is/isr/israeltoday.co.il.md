@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211191825id_/http%3A//www.israeltoday.co.il/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152339id_/http%3A//www.israeltoday.co.il/privacy.aspx) for the most accurate reproduction.*
 
 # israel today | Israel News - Stay Informed, Pray Informed
 
-Israel Today | Israel News is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Israel Today | Israel News Web site and governs data collection and usage. By using the Israel Today | Israel News website, you consent to the data practices described in this statement.
+Israel Today | Israel News is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Israel Today | Israel News site and governs data collection and usage. By using the Israel Today | Israel News site, you consent to the data practices described in this statement.
 
 Collection of your Personal Information
 
-Israel Today | Israel News collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Israel Today | Israel News also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Israel Today | Israel News collects personally identifiable information, such as your email address, name, home or work address or telephone number. Israel Today | Israel News also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-There is also information about your computer hardware and software that is automatically collected by Israel Today | Israel News. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Israel Today | Israel News for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Israel Today | Israel News Web site.
+There is also information about your computer hardware and software that is automatically collected by Israel Today | Israel News. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Israel Today | Israel News for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Israel Today | Israel News site.
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Israel Today | Israel News public message boards, this information may be collected and used by others. Note: Israel Today | Israel News does not read any of your private online communications.
 
@@ -44,4 +44,4 @@ Israel Today | Israel News will occasionally update this Statement of Privacy to
 
 Contact Information
 
-Israel Today | Israel News welcomes your comments regarding this Statement of Privacy. If you believe that Israel Today | Israel News has not adhered to this Statement, please contact Israel Today | Israel News at [donotreply@israeltoday.co.il](mailto:donotreply@israeltoday.co.il). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Israel Today | Israel News welcomes your comments regarding this Statement of Privacy. If you believe that Israel Today | Israel News has not adhered to this Statement, please contact Israel Today | Israel News at [donotreply1@israeltoday.co.il](mailto:donotreply1@israeltoday.co.il). We will use commercially reasonable efforts to promptly determine and remedy the problem.
