@@ -1,65 +1,158 @@
-> *The following text is extracted and transformed from the swingbyswing.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032947id_/http%3A//golf.swingbyswing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingbyswing.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170310id_/http%3A//golf.swingbyswing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
+This Privacy Policy applies to the [www.swingbyswing.com](http://www.swingbyswing.com/), [www.swing-u.com](http://www.swing-u.com/) and [pured.golf](http://pured.golf/) websites and the Swing by Swing Golf GPS and Scorecard Application and Pured Golf, Inc.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”)-those who access some of our Services but do not have accounts (“Visitors”) as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”)-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+Swing by Swing Golf, Inc., and its affiliated companies and subsidiaries (collectively, "SxS," "we" or "our") value your privacy and are committed to protecting your personal information. We are providing this Privacy Policy ("Policy") to inform you of our policies and procedures regarding the collection, use and disclosure of information related to our Swing by Swing Golf GPS and Scorecard Application and Pured Golf, Inc. (the "Service" or "Application"). By visiting our Swing by Swing Golf and Pured Golf, Inc. websites (the "Sites"), or using the Application, you agree that your personal information will be handled as described in this Policy. Note that this Policy may be modified from time to time in our sole discretion, so check back frequently. We will notify you of any changes to the Policy by posting a new Policy and updating the "last modified" date at the top and bottom of this page.
 
-**Personal Information Our Company Collects and How It Is Used**
+We are committed to protecting your privacy and using any personal information you provide responsibly. We believe it is important for you to understand what information we collect from you, how it is used and who will have access to that information.
 
-**Introduction:** Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+**Information Collected**
 
-**Registration:** Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances.
+The information we collect from you allows you to visit and/or log into our Sites and use our Service. We also use this information to personalize and continually improve our Sites and Service.
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion.
+When you visit our Sites, we collect and store non-personally identifiable information such as: the name of the domain from which you access the Internet, the date and time you access our Sites, and the Internet address of the website from which you linked to our Sites.
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+We collect Device and Usage Information from your mobile device, that includes but is not limited to the following: 
 
-**Our Company Partners and Sponsors:** Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature.
+  * Information specific to your mobile device (e.g., make, model, operating system, advertising identifier and similar information)
+  * Information about your use of features, functions, or notifications on the device
+  * Signal strength relating to WiFi or Bluetooth functionality, temperature, battery level, and similar technical data
+  * Android Users: Users of the Android operating system will also have information collected regarding the installed applications on your device. This information will be used to provide advertisements that are better suited to your interests.
 
-Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered.
 
-**Online Shopping:** At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so.
+We may collect this information even if you are not logged in to the Application.
 
-If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+**Personal Information**
 
-**Online Advertisements:** Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
+When you add or edit a golf course using our Sites, we will ask for your email address.
 
-Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
+When you register with us through the Application or Sites to become a registered User, we will ask you for certain information about you that can be used to contact or identify you ("Personal Information"). Personal Information may include, but is not limited to:
 
-**Responses to Email Inquiries:** When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
+  * Your first and last name
+  * Your email address and your desired password
+  * Your gender
+  * Your subscription preferences (whether and what types of information you would like us to send you)
 
-**Voluntary Customer Surveys:** We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-**Email Opt Out:** You can choose to opt out of receiving email from Swing by Swing at any time. You have two options to opt out of email. You can click on the unsubscribe link at the bottom of any Swing by Swing email, or visit the Email Settings section of your My Account area.
+We use your Personal Information to provide the Service and enhance the experience of using the Application. For example:
 
-**Special Cases:** It is our company’s policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
+  1. Account registration. We create your User account for your use of the Sites and Application based upon the Personal Information you provide.
+  2. We use your Personal Information to contact you with Swing by Swing newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "preferences" information in your account settings.
+  3. Customer service. We use your Personal Information to respond to your questions or inquiries.
 
-However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
 
-**“Cookies” and How Our Company Uses Them:** A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
 
-If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
+We allow third-party companies to collect certain information when you visit our web sites. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at: _www.aboutads.info_ and Networking Advertising Initiative at  _http://www.networkadvertising.org/about-nai/about-nai_.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+**Cookies**
 
-We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to http://www.networkadvertising.org/managing/opt_out.asp. Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.”
+Cookies allow a web server to transfer data to a computer for recordkeeping and other purposes. We may use "cookies" on our Sites to, among other things, better serve you with tailored information and facilitate your ongoing access to and use of the Sites and Application. There are two types of cookies: session-based and persistent cookies.
 
-**Our Company Commitment to Children’s Privacy:** Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
+**Session Cookies**
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO.
+Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged in to the Sites. This allows us to process your online transactions and requests and verify your identity, after you have logged in, as you move through our Sites. ** **
 
-**Public Forums:** Please remember that any information you may disclose in any Forum, Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+**Persistent Cookies**
 
-**Our Company’s Commitment to Data Security:** Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
+Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to save your login information for future logins to the Service.
 
-Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
+You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Service or all of the functionality of the Service.
 
-**Revisions to This Policy:** Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
+**Your Location Information**
 
-Last updated: 2/18/2015
+When searching for golf courses on our site or on our mobile application, your location information may be sent to our servers in order to provide you with the golf courses nearest you. Your location information may also be used for analytics purposes to help us understand where people are using our application.
+
+We collect certain information from your mobile device, including but not limited to the following:
+
+  * Location Information that allows us to periodically determine your location, which may include your location relative to and within third party merchant locations.
+
+
+
+We may collect this information even if you are not logged in to the Application.
+
+For iOS: You should be able to adjust the settings on your iOS mobile device to prevent our collection of Location Information by disabling the location services feature on your device*.
+
+For Android: You should be able to adjust your settings on your Android mobile device to prevent our collection of Location Information be disabling Bluetooth and Location*.
+
+* Please Note: with location services disabled your GPS will probably not work and the Application will be unable to provide distances.
+
+**How Do We Use Your Information?**
+
+We use the information that we gather about you for the following purposes: 
+
+  * To provide our Services to you, to communicate with you about your use of our Services and for other customer service purposes
+  * To provide information that you have requested to receive from us in response to your opt-in requests
+  * To tailor the content and information that we may send or display to you, and to otherwise personalize your experiences while using our Sites or our Service
+  * To improve our Sites and Service by providing personalized experiences, location customization, personalized help and instructions
+  * For research purposes
+  * For marketing and advertising purposes; for example, we may use your information to display targeted advertisements to you on our Sites and to assist us in advertising our Services on third party websites
+  * To send you email, news and newsletters, special offers, and promotions
+  * To better understand how users access and use our Sites and Service, both on an aggregated and individualized basis
+  * User posted content may be reused by us to aggregate data about a particular activity or location and include it in consolidated formats.
+  * Provide you with information when you enter participating local venues
+
+
+
+**When and How Do We Share Your Information?**
+
+We may share your information, including personally identifiable information, with other Swing by Swing Golf users and non-affiliated and affiliated third parties.
+
+Users of Sites or Service
+
+  * We may allow other users to see your display name or nickname when you post golf rounds.
+  * We may allow other users to see your profile photo.
+  * We may allow other users to see your golf scores (you may opt out of this).
+
+
+
+**Affiliates**
+
+We share the information we collect with third-party business partners who commit to comply with applicable laws concerning their usage of the information. Our third-party business partners may share the information with their own third party business partners and use the information either for themselves or on behalf of their own business partners to:
+
+  * Operate and improve their services
+  * Provide you with advertisements and information for products and services in this app or on other apps or websites based on variables such as your location, and assess your level of engagement with them
+  * Carry out other purposes that are disclosed to you and to which you consent
+
+
+
+**Service Providers**
+
+We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf. For example, these providers may help us administer or maintain our Sites and Application. These third parties have agreed to maintain the confidentiality, security and integrity of information, and to only use such information for the purposes for which they have been engaged by us.
+
+**Business Transfers**
+
+We may transfer the information we have collected from you in the event we sell, divest, transfer, assign, share or otherwise engage in a transaction that involves, some or all of our assets, including any or all of the information described in this Policy, in the course of a corporate divestiture, merger, acquisition, joint venture, bankruptcy, dissolution, reorganization, or any other similar transaction or proceeding.
+
+**In Response to Legal Process**
+
+We, in our sole discretion, may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order or other legal process, such as in response to a subpoena.
+
+**To Protect Active and Others**
+
+We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person or violations of our Terms of Use or this Policy. ** **
+
+**Aggregate and Non-identifying Information**
+
+We may share aggregate or non-identifying information about users with third parties for marketing, advertising, research or similar purposes. For example, if we display advertisements on behalf of a third party, we may share aggregate, demographic information with that third party about the users to whom we displayed the advertisements.
+
+**Sites Analytics**
+
+We work with third party service providers who use the technologies described in this section to conduct website analytics to help us track and understand how visitors use our Sites. For example, we use a variety of third party web analytics, to help us improve our Site's performance and user experience.
+
+**Your Consent**
+
+By using our Sites, Services, or Application, you consent to our privacy policy.
+
+**Changes to Privacy Policy**
+
+We may change or supplement this Privacy Policy from time to time and we will post revised versions of this Policy on the Sites. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Sites, as well as to existing information held by us.
+
+**Contact Information**
+
+All questions and concerns about your privacy can be sent to [support@swingbyswing.com](mailto:support@swingbyswing.com).
+
+Last modified: December 8, 2016
