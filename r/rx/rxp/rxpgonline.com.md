@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rxpgonline.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023212315id_/http%3A//www.rxpgonline.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxpgonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172805id_/http%3A//www.rxpgonline.com/docs/privacy) for the most accurate reproduction.*
 
 # Docs
 
@@ -38,7 +38,7 @@ RxPG has security measures in place to protect the loss, misuse, and alteration 
 
 ### Choice/Opt-Out
 
-RxPG provides users the full opportunity to opt-out of receiving promotional/marketing information from us. You can send email to [unsubscribe@rxpg.com](https://web.archive.org/cdn-cgi/l/email-protection#ac8a8fd49b99978a8fd49ac9978a8fd49b9f978a8fd49b99978a8fd49a9e978a8fd49b9f978a8fd49a9f978a8fd49b9e978a8fd49a95978a8fd49a9e978a8fd49a99X;@rxpg.com "unsubscribe@rxpg.com"). Plus we give an option at sign up and later in your accounts section to opt out of our [newsletters](https://web.archive.org/docs/newsletters "newsletters") if any newsletter feature is used on RxPG. 
+RxPG provides users the full opportunity to opt-out of receiving promotional/marketing information from us. You can send email to [unsubscribe@rxpg.com](mailto:unsubscribe@rxpg.com "unsubscribe@rxpg.com"). Plus we give an option at sign up and later in your accounts section to opt out of our [newsletters](https://web.archive.org/docs/newsletters "newsletters") if any newsletter feature is used on RxPG. 
 
 ### Data Quality/Access
 
@@ -46,6 +46,6 @@ This site gives users the following options for changing and modifying informati
 
 ### Contacting Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with RxPG, you can contact: [support@rxpg.com](https://web.archive.org/cdn-cgi/l/email-protection#e0c6c398d7d3dbc6c398d7d5dbc6c398d7d0dbc6c398d7d0dbc6c398d686dbc6c398d7d2dbc6c398d7d4dbc6c398d4d0dbc6c398d7d2dbc6c398d7d8dbc6c398d7d0X;g.com "support@rxpg.com"). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with RxPG, you can contact: [support@rxpg.com](mailto:support@rxpg.com "support@rxpg.com"). 
 
 You can also use the contact us or use [feedback forums](http://www.rxpgonline.com/forum61.htm "http://www.rxpgonline.com/forum61.htm") to ask us questions about our policies. 
