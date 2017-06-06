@@ -1,126 +1,62 @@
-> *The following text is extracted and transformed from the txteagle.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919202354id_/http%3A//mcent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txteagle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223429id_/https%3A//www.jana.com/privacy) for the most accurate reproduction.*
 
-# Privacy - mCent
+# Jana | Privacy Policy
 
 ## Privacy Policy
 
-Effective September 3, 2010
+This Privacy Policy is applicable to [www.jana.com](https://www.jana.com/) and any other site that may be operated by or for Jana Mobile, Inc. (together, the "Websites"). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Jana Mobile, Inc. understands that your online privacy is important to you. We have created the following Privacy Policy to let you know what information we collect on this website, 
 
-This privacy statement describes how Jana Mobile, inc. collects and uses the personal information you provide on our Web sites: www.mcent.com & www.txteagle.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+Please read this privacy policy carefully. Use of this website and your sharing of information with us is subject to the terms and conditions of this Privacy Policy. By using this website or sharing information with us, you give your agreement to this Privacy Policy. The Privacy Policy may be revised or updated at any time by us as further described below.
 
-  * Collection and Use of Personal Information
-  * Choice/Opt-Out
-  * Information Sharing
-  * Cookies and Other Tracking Technologies
-  * Security
-  * Additional Policy Information
-  * Contact Information
+The terms “you,” “your,” and “yours” refer to the website visitor or customer. The terms “Jana,” "Jana Mobile, Inc.," “we,” “us,” and “our” refer to Jana.
 
+## Information We Collect
 
+When entering information on our site, as appropriate, you may be asked to enter your name, email address, mailing address or other details to help you with your experience.
 
-### Collection and Use of Personal Information
+### Ad Delivery & Reporting Across Multiple Sites
 
-We collect the following personal information from you: 
+### Internet Technology
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information such as product wish lists, order history, marketing preferences
+## How We Collect Information
 
+We collect information from you when you subscribe to a newsletter, fill out a form, or enter information on our site. Additionally, if you're creating an account via Jana Launch (launch.jana.com), our self-service campaign manager, your information will be collected at that time. 
 
+## How We Use Information
 
-We also collect the following information from you: 
+We may use the information we collect from you when you register, sign up for our newsletter, respond to a survey, download a white paper, sign up for a webinar,  respond to marketing communication, browse the website, or use certain other site features in the following way to send periodic emails regarding our services or products and for follow up correspondence regarding inquiries. 
 
-  * Information about your business such as company name, company size, business type Demographic information such as age, education, gender, interests and zip code
+## Children's Privacy
 
+### Children’s Privacy
 
+Jana’s products and services are neither developed for, nor directed at, children. If you believe your child has provided us with PII through the Jana corporate site or through our corporate marketing materials, please contact us and we will delete any such data.
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
-
-We use this information to: 
-
-* Assess the needs of your business to determine suitable products
-* Send you requested product or service information
-* Administer your account
-* Send you a newsletter
-* Send you marketing communications
-* Administer contests and sweepstakes you entered, and notify you if you won
-* Respond to your questions and concerns
-* Improve our Web site and marketing efforts
-* Conduct research and analysis
-* Display content based upon your interests
-* Enable you to post your resume, search job postings, and contact or be contacted by prospective employers
-* List you in our member directory made available only to other members
-
-### Choice/Opt-Out
-
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at info@txteagle.com
-
-We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
-
-### Information Obtained from Third Parties
-
-We obtain address information about you from third party sources, such as the US Postal Service, to verify your address so we can properly ship your order to you and to prevent fraud.
-
-We purchase marketing data about our customers from third parties and combine it with information we already have about you, to create more tailored advertising and products.
-
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
-
-### Information Sharing
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may also disclose your personal information: 
-
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Jana Mobile, inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
-  * other third party with your prior consent to do so.
-
-
-
-### Cookies and Other Tracking Technologies
-
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
-
-### Web beacons
-
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
-
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
-
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
-
-### Links to Other Web Sites
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Jana Mobile, inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+## Security
 
 ### Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+Jana employs standard measures to ensure the security of all information. We routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume these risks when communicating with us.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+### Personally Identifiable Information
 
-If you have any questions about security on our Web site, you can contact us at info@txteagle.com
+## Changes
 
-### Additional Policy Information
+### IBA Opt-Out
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+### Changes
 
-### Correcting and Updating Your Personal Information
+Jana may find it appropriate or necessary, or may be legally obligated, to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date (found at the bottom) so that you have a way to always become aware of the information we collect, how we use it, and under what circumstances we disclose it. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of information you have already provided to us, we will attempt to obtain your consent (if we have the necessary contact information) before implementing such revisions with respect to such information, or notify you either by placing a prominent notice on the home page of our website or by directly sending you a notification. For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
 
-To review and update your personal information to ensure it is accurate, contact us at info@txteagle.com.
+You understand and agree that Jana's liability from any dispute over privacy or this privacy policy will be limited as set forth in the terms and conditions of our applicable website terms and conditions. 
 
-### Notification of Privacy Statement Changes
+## Contact Us
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+If you have questions about this Privacy Policy, the practices of or your dealings with us relating to this Privacy Policy, please email us at info@jana.com or you can send correspondence to us at the following address:
 
-### Contact Information
+Jana Mobile, Inc.  
+101 Arch Street  
+9th Floor  
+Boston, MA 02110
 
-You can contact us about this privacy statement by writing or email us at the address below:
-
-Jana Mobile, inc.  
-883 Boylston Street  
-Boston, MA, United States 02116  
-
-
-Email: info@txteagle.com
+Privacy Policy – January 1, 2017
