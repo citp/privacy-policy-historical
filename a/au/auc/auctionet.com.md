@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionet.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822082710id_/https%3A//auctionet.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183907id_/https%3A//auctionet.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy – Auctionet
 
