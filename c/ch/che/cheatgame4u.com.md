@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatgame4u.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819170421id_/http%3A//www.cheatgame4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatgame4u.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185805id_/https%3A//www.cheatgame4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #### Pencarian Terkait:
 
-http//:www cheatgame4u com/p/download-video-youtube html 
+htrps youru bu9hejjynlalg video doow
