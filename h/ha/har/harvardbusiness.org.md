@@ -1,30 +1,6 @@
-> *The following text is extracted and transformed from the harvardbusiness.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219120253id_/http%3A//www.harvardbusiness.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvardbusiness.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142319id_/http%3A//www.harvardbusiness.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harvard Business Publishing Corporate Learning
-
-First Name *
-
-Last Name *
-
-Job Title *
-
-Company *
-
-Email Address *
-
-Employee Size *
-
-Global \-- Cultivating global mindset, emerging markets
-
-Leadership \-- Developing leaders with general business perspective
-
-Talent Management \-- The leader' role in employee engagement
-
-Learning Delivery \-- Reaching today's "always on" leaders
-
-  
- **Privacy Information**  
-The contact information you provide will be used to send you information and updates on Harvard Business Publishing products and services only. It will not be rented, sold, or otherwise shared with any third-parties.
 
 Questions regarding this statement should be directed via email to [webfeedback@hbsp.harvard.edu](mailto:webfeedback@hbsp.harvard.edu).
 
