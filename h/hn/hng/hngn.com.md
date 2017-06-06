@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hngn.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122024744id_/http%3A//www.hngn.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hngn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121641id_/http%3A//www.hngn.com/privacypolicy) for the most accurate reproduction.*
 
 # Headlines & Global News
 
