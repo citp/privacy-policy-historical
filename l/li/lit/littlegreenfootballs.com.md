@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlegreenfootballs.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217062441id_/http%3A//littlegreenfootballs.com/weblog/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlegreenfootballs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041106id_/http%3A//littlegreenfootballs.com/weblog/Privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -14,13 +14,13 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-� To personalize your experience  
+• To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-� To improve our website  
+• To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-� To administer a contest, promotion, survey or other site feature
+• To administer a contest, promotion, survey or other site feature
 
  **How do we protect your information?**
 
