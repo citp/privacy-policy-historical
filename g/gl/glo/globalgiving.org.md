@@ -1,10 +1,22 @@
-> *The following text is extracted and transformed from the globalgiving.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022534id_/https%3A//www.globalgiving.org/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191713id_/https%3A//www.globalgiving.org/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalGiving
+
+## GlobalGiving Privacy Policy
+
+GlobalGiving respects your privacy. We collect information to support our relationship with you, improve our services, and communicate about promotions or special services. GlobalGiving recognizes that we must maintain and use information responsibly. 
+
+By continuing to access or use GlobalGiving.org (‘our website’), you agree to be legally bound by this Privacy Policy and the Terms of Service. These Terms and Supplementary Terms may be modified from time to time and will be posted on our website.
+
+GlobalGiving.org is operated by GlobalGiving Foundation, a 501(c)3 organization (EIN: 30‑0108263) based in District of Columbia, United States, and GlobalGiving UK, a registered in England and Wales charity number 1122823 and registered company number 5824642, together “GlobalGiving”.
 
 #### Information Collection
 
 We collect information when you visit our website, create an account, edit your account information, donate to a project, or send or use a gift card. Some of this information is technical information that is automatically logged by our servers. 
+
+You authorize us to use, store or otherwise process any personal information which relates to and identifies you, including (but not limited to) your name and address, to the extent reasonably necessary to provide the services which are available through our website by GlobalGiving, our partners, successors (including the purchaser of the whole or part of our business), associates, sub-contractors or other third parties (together our 'Associates'). Your data may be held on servers in the United States, the EEA and other countries located outside the EEA that do not have laws to protect your information. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and US and EEA data protection legislation. Further details of the companies and countries involved in processing your data will be provided on request. 
+
+For the purposes of the UK Data Protection Act 1998, the UK data controller is GlobalGiving UK (registered company number 5824642 and registered charity number 1122823, whose registered office is at 6 Great James Street, London, WC1N 3DA, United Kingdom.) 
 
 #### Creating a globalgiving.org Account
 
@@ -57,7 +69,7 @@ GlobalGiving uses the personal information that you provide, and the technical i
 
 #### Disclosure of Personal Information
 
-We will share your personal information with our agents, representatives, service providers and contractors in order to process your donations, offer you services in connection with our website, communicate news and information about GlobalGiving, provide customer service, enhance and improve customers' donor experiences, and complete financial transactions. These service providers are authorized to use your information only to the extent necessary to serve these purposes, or as otherwise authorized by this policy. **Except for the purposes outlined herein, we will not trade, share, or sell a donor's personal information with anyone else.** This policy applies to donor information collected by the GlobalGiving Foundation through all channels, including online and offline donations. 
+We will share your personal information with our agents, representatives, service providers and contractors in order to process your donations, offer you services in connection with our website, communicate news and information about GlobalGiving, provide customer service, claiming Gift Aid from UK government, enhance and improve customers' donor experiences, and complete financial transactions. These service providers are authorized to use your information only to the extent necessary to serve these purposes, or as otherwise authorized by this policy. **Except for the purposes outlined herein, we will not trade, share, or sell a donor's personal information with anyone else.** This policy applies to donor information collected by the GlobalGiving Foundation and GlobalGiving UK through all channels, including online and offline donations. 
 
 Unless you ask us not to, we share your personal information under the following circumstances: 
 
@@ -90,7 +102,7 @@ When you create an account or profile on globalgiving.org, you can decide whethe
 
 Other websites, including those of our partners (links to which appear on globalgiving.org), have their own privacy policies. When you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the GlobalGiving privacy policy. We encourage you to read that policy before submitting any personal information. 
 
-You should take additional steps to safeguard your personal information online. To learn more about how to protect yourself, visit the [Federal Trade Commission website](http://www.ftc.gov/). 
+You should take additional steps to safeguard your personal information online. To learn more about how to protect yourself, visit the [Federal Trade Commission website](http://www.ftc.gov/) (US) or the [Information Commissioner's Office](https://ico.org.uk/for-organisations/guide-to-data-protection/principle-6-rights/) (UK). 
 
 #### Security
 
@@ -104,4 +116,4 @@ Our privacy policy is regularly reviewed to make sure we continue to serve the p
 
 You may contact us by using the “Contact Us” links on the footer of our site. We try to reply promptly to every message we receive. This information is used to respond directly to your questions or comments. We also may file your comments and share them with our customer care team to improve our service in the future. 
 
-##### Last Modified: May 19, 2016
+##### Last Modified: January 9, 2017
