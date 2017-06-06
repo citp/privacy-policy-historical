@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thinkmoney.co.uk privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418054506id_/http%3A//www.thinkmoney.co.uk/about-thinkmoney/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkmoney.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170132id_/https%3A//www.thinkmoney.co.uk/about-thinkmoney/privacy-policy) for the most accurate reproduction.*
 
 # Thinkmoney privacy policy
 
 ## Privacy Policy
 
-Protecting your privacy is important to us. This privacy statement explains how Think Money Limited, and the companies within the Think Money Group (All About Money Limited, Freeman Jones Limited, Think Money Limited, Think Insure Limited, Gregory Pennington Limited, Wilson Andrews Limited, Ideal Finance Limited, Intelligent Lending Limited, and Think Money Group Limited) (collectively “the Group”) collect personal data from you, and how we will use and store this information.
+Protecting your privacy is important to us. This privacy statement explains how Think Money Limited, and the companies within the Think Money Group (All About Money Limited, Freeman Jones Limited, Think Insure Limited, Think Money Limited, Gregory Pennington Limited, Wilson Andrews Limited, Ideal Finance Limited, Intelligent Lending Limited, and Think Money Group Limited) (collectively “the Group”) collect personal data from you, and how we will use and store this information.
 
 Please read this privacy statement carefully, as once you send us your information you will be deemed to have read and accepted this statement.
 
@@ -54,6 +54,8 @@ If you provide personal information about someone else, for example a joint appl
 
 If you submit a credit card, loan or mortgage application we may also make one or more credit searches for each applicant when making our recommendation and, the chosen lender may also search your record to verify your credit worthiness and identity. The credit reference agency will add details of any searches to your record which can be seen by other organisations that make searches and they may use it to help make credit decisions about you, to prevent fraud and money laundering and to trace debtors.
 
+This condensed [guide](https://web.archive.org/pdf/A7965-TM-CAIS-Condensed-Guide-A5.pdf) explains what we will do and how we, the lender and the credit reference and fraud protection agencies will use your information. Or if you prefer to read to the full version, click [here.](https://web.archive.org/pdf/A7874-TM-Data-Protection-Guide-v2.pdf)
+
 We may also share your information with other companies within the Group for the administration of any products or services provided to you by any company within the Group. They may also provide you with information about other products and services that they provide. If you have provided your consent we may also share your information with marketing agencies, who provide marketing services on behalf of the Group, to promote the products and services provided by the Group or other carefully selected companies.
 
 We may also use or disclose information to the extent required by law, court order, as requested by other government law enforcement authority, or to enforce legal rights. 
@@ -75,7 +77,7 @@ Think Park
 Mosley Road  
 Trafford Park  
 Manchester  
-M17 1FQ
+M17 1FQ 
 
 ### Other types of advertising
 
@@ -99,8 +101,9 @@ We’ve set out below the cookies that we may use and those that are set by thir
 
 Cookie | Name | Purpose | More Information  
 ---|---|---|---  
-ClickTale | WRUID | This cookie is used to collect information about how visitors use our website and allows us to compile reports to further improve our website. | Click [**here**](http://www.clicktale.net/disable.html) for more information about ClickTale and how to disable this cookie.  
-Google Analytics | _utma _utmb _utmc _utmz | These cookies are used to collect information about how visitors use our website. They keep track of when a visitor enters and leaves the website and any search engines and keywords that are used, including any personal and/or sensitive data. | Click [here](http://tools.google.com/dlpage/gaoptout) for more information about google analytics and how to disable this cookie.  
+Mixpanel | mp_ | These cookies are used to collect information about how visitors use our website. They keep track of when a visitor enters and leaves the website. | Click [here](https://mixpanel.com/optout/) for more information about Mixpanel and how to disable this cookie.  
+Hotjar | _hj | These cookies are used to record anonymous videos about how visitors use our website. They keep track of how visitors engage with pages on our website. | Click [here](https://www.hotjar.com/opt-out) ffor more information about Hotjar and how to disable this cookie.  
+Google Analytics | _utma _utmb _utmc _utmz | These cookies are used to collect information about how visitors use our website. They keep track of when a visitor enters and leaves the website and any search engines and keywords that are used, including any personal and/or sensitive data. | Click [here](https://tools.google.com/dlpage/gaoptout) for more information about google analytics and how to disable this cookie.  
 Session Variables | ASP.NET_SessionId ASPESSIONID | These cookies are used to keep all information about the visitor's session of the website and are essential for the website to work. These expire when the browser is closed. |    
 VISITOR_INFO1_LIVE | This tracks a layout version that the YouTube applet will use when displayed on the website. |    
 DoubleClick Cookies | test_cookie ID | These are 3rd party cookies served by DoubleClick. They serve adverts to visitors based on the websites they've been to previously. | Click [here](http://www.doubleclick.com/privacy/dart_adserving.aspx) for more information about DoubleClick and how to disable this cookie.  
