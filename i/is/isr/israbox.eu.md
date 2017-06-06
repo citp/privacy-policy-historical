@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the israbox.eu privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426030651id_/http%3A//www.israbox.eu/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israbox.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231512id_/https%3A//music.israbox.net/policy.html) for the most accurate reproduction.*
 
-# IsraBox - Privacy Policy - IsraBox
+# IsraBox - Privacy Policy
 
 ### IsraBox - Privacy Policy
 
