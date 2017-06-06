@@ -1,28 +1,35 @@
-> *The following text is extracted and transformed from the fuckbooknigeria.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628000349id_/http%3A//www.fuckbooknigeria.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckbooknigeria.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222724id_/https%3A//www.fuckbooknigeria.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy, F*ckbook Nigeria
 
-F*ckbook Nigeria (the "Site") is owned and operated by **Infinite Connections Inc. / Infinite Connections Ltd**
+F*ckbook Nigeria (the "Site") is owned and operated by **Infinite Connections Inc. / Infinite Connections Ltd / 9345-1433 Quebec Inc**
 
 Our postal address is: 
 
 **Domestic Offices:  
 Infinite Connections Inc.  
-865 SW 78th Ave  
+865 SW 78th Ave STE A100  
 Plantation, 33324 FL, US  
 **
 
 **International Offices:  
 Infinite Connections Ltd  
-1 Kings Avenue  
-Winchmore Hill  
-London N21 3NA, UK  
+The Lansdowne Building, 2 Lansdowne Road  
+Croydon  
+Greater London CR9 2ER, UK  
 Company No. 07557899  
-VAT:EU196011004 **
+VAT:EU196011004 
+
+9345-1433 Quebec Inc  
+2500-1751 Rue Richardson
+
+Montreal H3K1G6, CA
+
+**
 
 This website is registered with the Information Commissionaire's Office in accordance to the Data Protection Act of 1998 
 
-We can be reached via e-mail by [clicking here](http://www.fuckbooknigeria.com/contact)
+We can be reached via e-mail by [clicking here](https://www.fuckbooknigeria.com/contact)
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an online Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
@@ -36,7 +43,7 @@ Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express A
 
 **THIS WEBSITE USES Google AdWords**
 
-This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the F*ckbook Nigeria website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/). 
+This website uses the Google AdWords remarketing service and Remarketing with Google Analytics to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. F*ckbook Nigeria and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and to serve ads based on someone’s past visits to the F*ckbook Nigeria website. Of course, any data collected, including data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](https://tools.google.com/dlpage/gaoptout/). 
 
 **_What Information About Subscribers is Collected?_**
 
@@ -86,5 +93,5 @@ _**Terms and Conditions of Membership.**_
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the http://www.fuckbooknigeria.com/pages/terms.html and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
+> In the event of any conflicts between the https://www.fuckbooknigeria.com/pages/terms.html and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
 > 
