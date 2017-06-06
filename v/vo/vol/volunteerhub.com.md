@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219053521id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092923id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - VolunteerHub Protects Volunteer Organizations
 
@@ -84,13 +84,3 @@ In compliance with the EU-US Privacy Shield Principles, CEI commits to resolve c
 complaints@carr-engineering.com
 
 CEI has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHEILD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
-
-**US-Swiss Safe Harbor Information**
-
-CEI complies with the US-Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.  CEI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
-
-In compliance with the US-Swiss Safe Harbor Principles, CEI commits to resolve complaints about your privacy and our collection or use of your personal information.  Swiss citizens with inquiries or complaints regarding this privacy policy should first contact CEI at:
-
-complaints@carr-engineering.com
-
-CEI has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program/) for more information and to file a complaint.
