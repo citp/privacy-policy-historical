@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mynoticeperiod.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328141404id_/https%3A//hiree.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynoticeperiod.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224712id_/https%3A//hiree.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Hiree - Better Offers, Super Fast
 
-  * ## Introduction
+  * #### Introduction
 
 We, at 'Abhiman Technologies Private Limited' and our affiliated companies worldwide, are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
 "Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Abhiman Technologies Private Limited's Web pages without telling us who you are or revealing any Personal Information about yourself.
 
-  * ## Cookies and Other Tracking Technologies
+  * #### Cookies and Other Tracking Technologies
 
 Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
@@ -16,7 +16,7 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 
 Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
 
-  * ## Third Party Services
+  * #### Third Party Services
 
 Third parties provide certain services available on www.hiree.com on Abhiman Technologies Private Limited's behalf. 'Abhiman Technologies Private Limited' may provide information, including Personal Information, that 'Abhiman Technologies Private Limited' collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which 'Abhiman Technologies Private Limited' maintains its Web site and mailing lists. 'Abhiman Technologies Private Limited' will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Abhiman Technologies Private Limited's behalf.
 
@@ -82,3 +82,17 @@ Note : The terms in this agreement may be changed by Abhiman Tech at any time. A
 
 
 How it works?
+
+Your message has been sent
+
+has opportunities matching your profile
+
+Contact Recruiter
+
+  * All Jobs
+  * Latest Jobs
+  * Applied Jobs
+  * Viewed Me
+  * Found Me
+
+
