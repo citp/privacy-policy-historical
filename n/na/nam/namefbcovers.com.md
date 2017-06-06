@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the namefbcovers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001009id_/http%3A//namefbcovers.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namefbcovers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085204id_/http%3A//namefbcovers.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NameFbCovers.com
 
-This Privacy Policy governs the manner in which NameFbCovers collects, uses, maintains and discloses information collected from users (each, a "User") of the website ("[www.namefbcovers.com](https://web.archive.org/web/20161119001009id_/http%3A//namefbcovers.com/www.namefbcovers.com)"). This privacy policy applies to the Site and all products and services offered by NameFbCovers.
+This Privacy Policy governs the manner in which NameFbCovers collects, uses, maintains and discloses information collected from users (each, a "User") of the website ("[www.namefbcovers.com](https://web.archive.org/web/20170606085204id_/http%3A//namefbcovers.com/www.namefbcovers.com)"). This privacy policy applies to the Site and all products and services offered by NameFbCovers.
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
@@ -16,7 +16,15 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 **How we use collected information**  
 NameFbCovers may collect and use Users personal information for the following purposes:
 
- **How we protect your information**  
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To send periodic emails_  
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+  
+
+
+**How we protect your information**  
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
 **Sharing your personal information**  
