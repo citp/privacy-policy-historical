@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodbowl.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122012435id_/http%3A//www.hollywoodbowl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodbowl.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072538id_/http%3A//www.hollywoodbowl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Hollywood Bowl | Privacy Policy
 
