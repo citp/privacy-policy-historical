@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comedogging.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104050453id_/http%3A//uk.comedogging.com/help/privacy.cfm%3Fwldsite%3D30520) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedogging.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152636id_/http%3A//uk.comedogging.com/help/privacy.cfm%3Fwldsite%3D30520) for the most accurate reproduction.*
 
-# ComeDogging :: ComeDogging Member Privacy Policy
+# Come Dogging UK :: Come Dogging UK Member Privacy Policy
 
 _Last updated on 15 March 2016_
 
