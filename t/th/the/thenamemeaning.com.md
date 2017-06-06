@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenamemeaning.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122102402id_/http%3A//www.thenamemeaning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenamemeaning.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040155id_/http%3A//www.thenamemeaning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - The Name Meaning
 
@@ -102,7 +102,9 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 **Amazon**
 
-Affiliate Links – Advertising Disclosure If you purchase a product or service linked from this site, we may receive an “affiliate commission”. We are disclosing this in accordance with the Federal Trade Commission’s 16 CFR, Part 255: “Guides Concerning the Use of Endorsements and Testimonials in Advertising”
+## Affiliate Links – Advertising Disclosure
+
+If you purchase a product or service linked from this site, we may receive an “affiliate commission”. We are disclosing this in accordance with the Federal Trade Commission’s 16 CFR, Part 255: “Guides Concerning the Use of Endorsements and Testimonials in Advertising”
 
 (<http://www.ftc.gov/policy/federal-register-notices/guides-concerning-use-endorsements-and-testimonials-advertising-16>)
 
@@ -111,6 +113,8 @@ and also in accordance to amazon associates programme operating agreement.
 **Amazon**
 
 The owner of this website is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.
 
 **Amazon UK**
 
