@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamup.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205163708id_/http%3A//www.teamup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191953id_/http%3A//www.teamup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Teamup Calendar - Shared online calendar for groups
 
@@ -6,7 +6,7 @@ We value the privacy of those who use our service. This Privacy Policy covers th
 
 Teamup abides by the legal framework on data protection. Teamup undertakes all common and reasonable precautions to protect user information from loss, misuse and unauthorized access, disclosure, alteration, and destruction.
 
-By accepting the Terms of Service (<http://www.teamup.com/terms-of-service>), you agree that Teamup and its affiliates can collect, record, and process data according to this Privacy Policy.
+By accepting the Terms of Service ([http://www.teamup.com/terms-of-service](https://web.archive.org/terms-of-service)), you agree that Teamup and its affiliates can collect, record, and process data according to this Privacy Policy.
 
 ### 1\. Personal Information
 
@@ -44,10 +44,10 @@ Teamup collects and archives mail, email, data entered into web forms, and any o
 
 ### 5\. Location of Data
 
-The Teamup databases and servers are located in Switzerland.
+The Teamup databases and servers are located in Zurich, Switzerland and Dublin, Ireland.
 
 ### 6\. Changes to this Policy
 
-Please note that this Privacy Policy may change anytime. Your continued use of the service constitutes your agreement to this Privacy Policy. The latest version of this Privacy Policy is always available at [http://www.teamup.com/privacy-policy](http://www.teamup.com/privacy-policy/).
+Please note that this Privacy Policy may change anytime. Your continued use of the service constitutes your agreement to this Privacy Policy. The latest version of this Privacy Policy is always available at [http://www.teamup.com/privacy-policy](https://web.archive.org/privacy-policy/).
 
 Last updated: October 3, 2016
