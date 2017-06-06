@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homeownershub.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128053613id_/http%3A//www.homeownershub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeownershub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163305id_/https%3A//www.homeownershub.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  HomeOwnersHub.com Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by visiting our [contact form page ](http://www.homeownershub.com/contact.php " HomeOwnersHub.com  Contact Page")
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by visiting our [contact form page ](https://www.homeownershub.com/contact.php " HomeOwnersHub.com  Contact Page")
 
 At _HomeOwnersHub.com_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines what type of personal information is collected and stored by _HomeOwnersHub.com_ and how it is used. 
 
@@ -46,7 +46,7 @@ Ads appearing on our website may be delivered to users by advertising partners, 
 
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to HomeOwnersHub.com website.
   * Google's use of the DoubleClick cookie enables it and its partners to serve ads to HomeOwnersHub.com users based on their visit to HomeOwnersHub.com and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [aboutads.info](http://www.homeownershub.com/aboutads.info)
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [aboutads.info](https://www.homeownershub.com/aboutads.info)
 
 
 
