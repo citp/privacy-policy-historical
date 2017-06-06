@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnoldclark.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011010945id_/https%3A//www.arnoldclark.com/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnoldclark.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183351id_/https%3A//www.arnoldclark.com/cookies) for the most accurate reproduction.*
 
 # Cookies policy | Arnold Clark
 
@@ -100,7 +100,7 @@ LoginName | Session, Third Party (Towquest) | We want you to feel welcome at the
 
 Cookie Name  |  Type  |  Purpose   
 ---|---|---  
-Mixpanel | Persistent, Third party (Mixpanel, Inc) | When visiting some parts of our website, we may set this cookie which enables us to collect information in real time about the way users interact with our site. For more information about how Mixpanel may use this information, visit: https://mixpanel.com/privacy/  
+Mixpanel | Persistent, Third party (Mixpanel, Inc) | When visiting some parts of our website, we may set this cookie which enables us to collect information in real time about the way users interact with our site. For more information about how Mixpanel may use this information, visit: [www.mixpanel.com/privacy/](https://www.mixpanel.com/privacy/)  
 Google Analytics (_utma, _utmb, _utmc, _utmz) | Persistent, Third party (Google) | These enable the function of Google Analytics. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and browsing times. That anonymous information helps us to improve the website and your browsing experience, and to make our marketing campaigns relevant. The data stored by these cookies can be seen only by the relevant teams at Arnold Clark and Google and never shows any confidential information. For more information about how Google may use this data - visit: //www.google.com/policies/privacy/  
 Crazy Egg | Persistent | This cookie is used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, details of which can be found by following this link. //www.crazyegg.com/privacy  
 Get Clicky cookies, (first_pv_ , _jsuid) | Persistent, Third party | These cookies allow us to track visitors to the website using Get Clicky. We can use visitor information on which pages were visted, how frequently, and for how long to improve the website and the user experience. The data stored by these cookies can be seen only by the relevant teams at Arnold Clark and Get Clicky, and never shows any confidential information. //getclicky.com/terms  
@@ -122,7 +122,7 @@ _utmb | Persistent, Third Party | Google Analytics cookies that contain timestam
 _utmc | Session Third Party | Google Analytics cookies that contain timestamps of time you enter and leave our website.  
 _utmz | Persistent, Third Party | Google Analytics cookie that tracks which search engine you have used to come to this website, which keyword(s) you used to find the website, which link(s) you have clicked on within the website and where you were located when you clicked that link.  
   
-To find out even more about cookies, visit [http://www.aboutcookies.org/](https://www.aboutcookies.org/)
+To find out even more about cookies, visit [www.aboutcookies.org/](https://www.aboutcookies.org/)
 
 ## IP Addresses
 
