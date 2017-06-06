@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123035457id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084113id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Age UK
 
@@ -99,6 +99,10 @@ As part of the services offered to you through this website, the information whi
 
 If you use our services while you are outside the EU, your information may be transferred outside the EU in order to provide you with those services.
 
+## Website recording
+
+Our web site may also use the SessionCam web site recording service. SessionCam is a product that has been developed by ServiceTick Ltd. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include bank details or any sensitive personal data. Data collected by SessionCam from the ServiceTick website is for Age UK Enteprises’s internal use only. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting.
+
 ## Review of this Policy
 
-We keep this Policy under regular review. This Policy was last updated on Oct 2016.
+We keep this Policy under regular review. This Policy was last updated in April 2017.
