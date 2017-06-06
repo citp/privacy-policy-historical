@@ -1,19 +1,165 @@
-> *The following text is extracted and transformed from the poolsupplyworld.com privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817200227id_/http%3A//www.poolsupplyworld.com/helpcenter/privacyandsecuritypolicies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolsupplyworld.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123021id_/http%3A//www.poolsupplyworld.com/privacyandsecuritypolicies.htm) for the most accurate reproduction.*
 
-# Help Center - Privacy & Security Policies from PoolSupplyWorld
+# Privacy & Security Policies
 
-Privacy & Security Policies 
+Last Updated August 2, 2016
 
-At PoolSupplyWorld, we consider the security of your transaction and personal information, an expectation NOT an afterthought. This is why we use the highest level of encryption possible and partner with the most well known names in the market today, like GeoTrust and HackerSafe, so that you can shop with security and trust. 
+### POOL SUPPLY WORLD’S PRIVACY POLICY
 
-During your time on our site, we will be gathering some information, including your IP address, our cookie information, and the page you requested. This information is used solely by us and our internal staff. We use the information to track user patterns, page errors and broken links.
+**Introduction:**
 
-This information along with any personal information is protected and used for the processing of your order. Some information like your shipping address, phone number, etc. may be provided to the shipping company.
+Welcome to Pool Supply World.  As a customer of Pool Supply World your trust is our most important asset.  We take the protection and proper use of your personal information seriously and are committed to protecting your personal information in our possession.
 
-We have never and will never sell or rent your information. No Way… No How!
+This privacy policy applies to all websites and call centers Pool Supply World or any of its divisions or affiliates (collectively, "PSW", "we", “our” and "us").  Each such website is referred to in this privacy policy as a "Site".
 
-**Hacker Safe ScanAlert Security Confirmed:**   
-Our site is tested and certified daily to pass the FBI/SANS Internet Security Test, by HackerSafe. The highest security scanning standards of the U.S. government, Visa, MasterCard, American Express, Discover and JCB are upheld at PoolSupplyWorld.
+In this privacy policy, we describe PSW practices for collecting, storing, using, and disclosing the personal (and other) information that we may obtain about you through any of the Sites.  Please note that by using or accessing any of our Sites or shopping at our retail locations, you consent to the collection, storage, use and disclosure practices described in this privacy policy.
 
-**GeoTrust Website Site Security Confirmed:**   
-GeoTrust is the ultimate online security and trust solution delivering 128-bit SSL security. 
+**Information We Collect:**
+
+  * _Online Purchases and Other Financial Transactions_.  When you make a purchase or engage in any other financial transaction on one of our Sites, you will be asked to provide information necessary to facilitate the transaction, such as your name, credit card or debit card number, expiration date, associated security code, telephone number, billing address, email address, shipping address and transaction information (IP address, browser, etc.).
+  * _Program Registration_. In connection with your registration or other interaction online with one of our programs, you may be asked to provide certain personal information, such as your name, email address, phone number, mailing address, and to generate a user name and password.
+  * _Sign-Up for Emails, Newsletters or Other Correspondence_. If you sign up on one of our Sites to receive email communications, newsletters, or other correspondence from us, you may be asked to provide us with your name, email address, and/or mailing address, along with other information related to your subscription or correspondence.
+  * _Contests, Sweepstakes, and Other Promotions_. We may collect information about you when you participate in a promotion that we sponsor, such as a contest or sweepstakes (which we may sponsor alone or co-sponsor with one or more third parties).  To participate in one of our promotions, you may be asked to provide your name and your email address, mailing address and/or other contact information.  For some promotions, we may request other information about you as well.  Note that your participation will be subject to the official rules of the promotion (as well as this privacy policy and the privacy policy of any co-sponsor).
+  * _Interactive Forums_. You and other users may be allowed to post comments and other content on certain portions of our Sites, such as on a discussion board, blog or other interactive forum. We may collect any information that you or another user posts about you on one of our Sites, including personal information about you, and it may be available to all users who have access to the Site.  Please keep this in mind when considering what information to post to our Sites.
+  * _Social Networking Activities_. Our Sites may include the ability for you and other users to link to one or more social networking platforms (such as Facebook, Instagram or Twitter). We may receive information about you when you choose to post or otherwise share information about us on any of these social networking platforms. Note that any information that you or others post to a social networking platform will be accessible by any users of such platform, subject to its terms of service and privacy policy.
+  * _Usage Data_. When you use or access any of our Sites, we may collect certain usage data generated by your activities on the Sites, including your purchasing history, pages viewed, number of bytes transferred, hyperlinks clicked, and other actions you take on our Sites.  Each of our Sites may also track the URL that you visited before you come to the Site, the URL to which you next go, and your Internet Protocol (IP) address or mobile device identifier.
+  * _Location Data_. Some of our Sites may collect information about your location, such as the approximate location of your IP address.  Unless you provide us with your permission, this location data is collected anonymously in a form that does not personally identify you.
+  * _Online Information-Gathering Tools_. As with most websites, we use cookies, web beacons, and other online information-gathering tools in connection with our Sites.  These tools are intended to make using our Sites easier by, among other things, saving your preferences for you.  We may also use cookies to deliver content tailored to your interests.  If your browser is set to reject cookies, or if your browser notifies you that you are about to receive a cookie and you reject it, then your use of our Site may not be as efficient as it would be if the cookie were enabled.
+  * _Third-Party Integrated Services_. We may incorporate third-party ads and other third-party content on our Sites, and integrate other third-party offerings into the Sites, enabling certain such third parties to collect information about you or your online activities across other websites and over time through your use of our Sites.  We may also incorporate PSW ads and offerings onto third-party websites, enabling us to collect information about you or your online activities across other websites and over time through your use of websites with PSW incorporated ads and/or offerings.  Any information collected through such integrated technologies is collected directly by these third parties for use by such third parties and other authorized parties, subject to the privacy policies of those other parties.
+  * _Online Inquiries and Correspondence_. When you submit an inquiry or otherwise correspond through one of our Sites, you may be asked to provide your name, email address, and/or other personal information to us.
+
+
+
+We may keep indefinitely the information about you collected through our Sites.
+
+**How We Use Your Information:**
+
+We may use information about you collected through our Sites for a variety of commercial purposes.
+
+Without limitation, we may use such information to:
+
+  * administer and improve our Sites and businesses;
+  * promote our products and services to you, as well as the products and services of our affiliates;
+  * promote (and enable the promotion of) third-party products and services to you that we think you may find of interest; 
+  * deliver email communications, newsletters, and other correspondence to which you subscribe;
+  * communicate with you about our contests, sweepstakes and other promotions;
+  * conduct other marketing activities;
+  * process membership requests when you apply or otherwise administer your participation in our programs; 
+  * communicate with you regarding your membership in one of our programs and facilitate the functioning of our programs; 
+  * respond to your inquiries and other correspondence, or request that you provide feedback to us; 
+  * we also use your personal information for our everyday business purposes such as security, payment processing, analytics, operations, fraud detection and prevention, reporting, making back-ups and legal compliance; and
+  * fulfillment of orders placed through our Sites.
+
+
+
+**How We Share Your Information:**
+
+We disclose to third parties the personal (or other) information collected about you through any of our Sites either (i) when we have your permission to do so or (ii) in any of the following situations (without your permission):
+
+  * We may share the information collected about you within the psw family of companies, which means we may disclose the information collected about you to our affiliates (subject to the terms of this privacy policy).
+  * we may disclose the information collected about you to our third-party contractors and partners in connection with their performing services or other activities in support of the sites and/or our businesses (which may include, but is not limited to, verifying the accuracy of the information you provide to us, providing customer service, delivering email communications, newsletters, and other correspondence to which you subscribe), or their completing or confirming on our behalf a transaction or series of transactions that you conduct with us. 
+  * as noted above, information about you collected by third-party ads, content or technologies integrated with any of our sites may be disclosed to such third parties.
+  * we may disclose the results of aggregated data about you and other users of our sites without restriction. in these situations, we do not disclose to these entities any information that could be used to personally identify you.
+  * we may disclose to one or more third parties the information collected about you as part of a merger, acquisition or other sale or transfer of any of the assets or business of psw and/or of any of our affiliates. please note that the entity receiving such information in connection with one of these transactions may not comply with all of the terms of this privacy policy.
+  * we may disclose information about you to the government or to other third parties to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders, subpoenas or other legal process, such as in connection with suspected illegal activity associated with any of the sites or our business. we reserve the right to release information collected through any of the sites to law enforcement or other government officials, as we, in our sole discretion, deem necessary or appropriate.
+  * we may also disclose information about you to third parties if needed to enforce any of the terms of use for one of our sites or other agreements, or any investigation of potential violations thereof; to detect, prevent, or otherwise address fraud, security or technical issues; to protect against harm to any of the sites; or to protect our rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection).
+  * we may also, in certain instances, disclose your personal information when we have reason to believe that it is necessary to identify you, contact you, to advise you of a product recall, detect and protect you or us from fraud or theft, manage information security or bring legal action to protect your rights or the rights of psw or others.
+
+
+
+**Updating Your Information:**
+
+You may correct or update information collected about you through any of our Sites by contacting us at the email or mailing address noted below:
+
+  * Call: 1-800-772-0467
+  * Email: [service@poolsupplyworld.com](mailto:service@poolsupplyworld.com)
+  * Mail your request to: Pool Supply World Customer Service, 2005 E. Indian School Rd., Phoenix, AZ 85016
+
+
+
+You may also access and update your information at any time by logging into your account at: <https://www.poolsupplyworld.com/signin.htm>. 
+
+**Opting Out:**
+
+When you receive sales flyers, advertisements, direct mail, and other promotional communications from us, including email, you will have the opportunity to “opt out” by following the “unsubscribe” instructions in the email you receive or by contacting us directly.  We will use commercially reasonable efforts to update our files to reflect your request as promptly as possible. 
+
+**Security:**
+
+We maintain physical, electronic and procedural safeguards to protect the confidentiality and security of personal information transmitted to us using the Sites. To help guard your information, our Sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only PSW is able to decode your information. Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information.
+
+To be sure your connection is secure locate the lock icon on your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well. If for some reason you are unable to connect to our secure server, please call us toll free at 1-800-772-0467.
+
+We also ask customers to carefully review their accounts and immediately report any unexpected activity to PSW and your issuing bank or credit card company. Additionally, we are asking all our customers to take measures to help protect personal information in their online accounts, including the following:
+
+  * Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses;
+  * Reset your email account password; 
+  * Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters);
+  * Do not use the same password on more than one website;
+  * Do not share your password with others;
+  * Password protect your personal mobile device(s); 
+  * Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal; and
+  * Visit these additional resources: 
+    * https://www.us-cert.gov/ncas/tips
+    * http://www.consumer.ftc.gov/topics/computer-security
+    * http://www.microsoft.com/security/pc-security/protect-pc.aspx
+    * http://www.clarkhoward.com/news/clark-howard/technology/clark-howards-virus-spyware-and-malware-protection/nFZJ
+
+
+
+**Transfer of Data from Outside the United States:**
+
+If you use any of our Sites from outside of the United States, information that we collect about you through the Site will be transferred to servers inside the United States and maintained indefinitely.  By using the Site, you consent to the transfer of data about you into the United States, as well as the processing of such data in the United States.
+
+**Cookies, Web Beacons, and Other Similar Technologies:**
+
+Our Site uses "cookie" and "web beacon" technology.  We use cookies and web beacons to identify your device, provide website user authentication, conduct fraud prevention and management services, distinguish you from other visitors, record your IP address and understand your use of our Site, and identify the name of the Web site from which you linked to PSW.  This information is used for fulfilling contracts with our business partners, and to help us serve you better by improving our website design, as well as our products, services, and promotions.  We do not otherwise track any information about your use of other websites.  Information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf. 
+
+A cookie is a small data file that is placed on the hard drive of your computer when you visit a website.  A "session cookie" expires immediately when you end your session (i.e., close your browser).  A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available.  A web beacon is a small string of code that represents a clear graphic image and is used in conjunction with a cookie. 
+
+When you visit our Site, we may use both a session and a persistent cookie.  This PSW-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our Site and in some cases, your email address.  A web beacon allows us to capture certain additional types of information about a visitor's actions on a web site, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased. 
+
+The PSW-placed cookie allows us to recognize you when you return to our Site and provides you with access to your account information.  If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our Sites.  If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our Sites in a manner that does not identify you.  You can disable cookies at any time by using your browser options; however, if you turn off cookies, we will not be able to track your order or enable you to make a purchase from our Sites.  In addition, we will not be able to recognize you as a registered user to allow you access to your account information. 
+
+We may use Flash Cookies (also known as Local Stored Objects) or other similar technologies. A Flash cookie is a small data file placed on a computer using Adobe Flash technology that may be built into your computer or downloaded by you to your computer.  We use these technologies to personalize and enhance your online experience, facilitate processes, personalize and store your settings.  Flash cookies may help our website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys. They help us improve our sites by measuring which areas are of greatest interest to customers.  We do not use Flash cookies for marketing or behavioral targeting purposes.  Flash cookies are different from browser cookies and the cookie management tools browser will not remove Flash cookies.  Learn how to manage privacy and storage settings for Flash cookies.  If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain features and services that make your online experience more efficient and enjoyable. 
+
+_Browser Do Not Track Signals_
+
+At this time, our Sites do not support "Do Not Track" preferences that may be available in your browser for letting websites know that you do not want them collecting certain kinds of information.  Specifically, if you turn on the Do Not Track setting on your browser, our Sites are not currently capable of following whatever Do Not Track preferences you set.  For more information about Do Not Track, visit donottrack.us. 
+
+**Children:**
+
+Our Sites are not designed to appeal to persons under 13 years old ("children"). We do not knowingly collect or maintain personal information from children through our Sites, except for persistent identifiers that may be collected through children's sections of our Sites which (as permitted by applicable law) we will use solely to support the internal operations of the Sites.  If we learn that any unauthorized personal information of a child has been collected, we will take appropriate steps to delete such information.  If you are a parent or guardian and discover that your child has provided any such personal information to us, then you may contact us at the email or mailing address noted at the end of this privacy policy below and request that we delete that information from our systems.
+
+**Links to Other Websites and Services:**
+
+This privacy policy only addresses PSW practices for the personal (and other) information that we may obtain about you through any of the Sites.  Please be aware that when you use or access any of the Sites, you may be directed to other websites that are beyond our control, and PSW is not responsible for the privacy practices of third parties or the content of linked websites.  We would expect most, if not all, of these third parties will collect information about you when you use their offerings.  However, PSW is not responsible for the privacy practices of third parties, regardless whether they are linked or otherwise connected to our Sites.  We encourage you to read the posted privacy policy and terms of use whenever interacting with any third-party website, app, or other offering.
+
+**California Privacy Rights:**
+
+California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates for those entities direct marketing purposes.  PSW does not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about Pool Supply World’s privacy practices, please contact us at [service@poolsupplyworld.com](mailto:service@poolsupplyworld.com).
+
+**Governing Law:**
+
+By choosing to visit any of our Sites, you agree that any dispute over privacy or the terms contained in this privacy policy will be governed by the law of the State of Arizona, without reference to the choice of law or conflicts of law principles thereof, and will be subject to the dispute resolution clause contained in the terms of use applicable to the particular Site.  You also agree to abide by any limitation on damages contained in the terms of use applicable to the Site or any other agreement that we have with you.
+
+**Business Transitions:**
+
+As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling a portion of our assets.  In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party.  In the unlikely event that PSW or substantially all of its assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your personal information can continue to be used as set forth in this Privacy Policy.
+
+**Additional Information:**
+
+If you are not comfortable shopping online (and would prefer to make your purchase via telephone), just give us a call at 1-800-772-0467.  Our Customer Service Representatives will be happy to assist you. 
+
+**Privacy Policy Updates:**
+
+We reserve the right to make changes to this privacy policy at any time, with any such changes to be effective prospectively.  Your continued use of our Sites will indicate your acknowledgment of the changes and agreement to be bound by the terms and conditions of the Privacy Policy, as revised.
+
+**Contact Us:**
+
+If you have any questions or comments regarding this privacy policy or any of our Sites, you can contact us by: 
+
+  * Calling Customer Service at 1-800-772-0467 
+  * Emailing Customer Service at [service@poolsupplyworld.com](mailto:service@poolsupplyworld.com)
+  * Writing us at: Pool Supply World, 2005 E. Indian School Rd., Phoenix, AZ 85016, Attn: Chief Information Officer/Privacy Policy
+
+
