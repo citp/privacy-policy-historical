@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chupamobile.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229232709id_/http%3A//www.chupamobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chupamobile.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081148id_/http%3A//www.chupamobile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,6 +22,8 @@ We may collect the following information:
 
 
 For the exhaustive list of cookies we collect see the List of cookies we collect section. 
+
+We DO NOT store Credit Card information. 
 
 ## What we do with the information we gather
 
