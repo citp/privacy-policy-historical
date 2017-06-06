@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winaskin.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228191813id_/http%3A//www.winaskin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winaskin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043212id_/http%3A//winaskin.com/privacy.php) for the most accurate reproduction.*
 
 # Free CSGO Skins : Winaskin.com | Counter strike steam | Counter strike global offensive key | The best way to win Free CSGO Skin | 100% Free | No deposit | No survey
 
