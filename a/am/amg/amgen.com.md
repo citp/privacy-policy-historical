@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130142032id_/http%3A//www.amgen.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081856id_/http%3A//www.amgen.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Amgen
 
 ##  AMGEN PRIVACY STATEMENT 
 
-Effective Date: November 6, 2015
-
 Amgen Inc. and Amgen USA Inc. (collectively " **Amgen** ," " **We** " or " **Our** ") are committed to respecting your privacy. This Privacy Statement is intended to answer your important questions about our privacy practices, whether you are looking for health information or are mining the experience of Amgen to refine your expertise in meeting the needs of your patients.
 
-This Privacy Statement applies to all Amgen online or digital services activities, including, but not limited to [www.amgen.com](http://www.amgen.com/) (the “ **Site** ”), our other websites, any mobile applications (“ **Apps** ”) and digital services (“ **Services** ”) in which it is posted or linked.
+This Privacy Statement applies to all Amgen online or digital services activities, including, but not limited to [www.amgen.com](http://www.amgen.com/) (the “ **Site** ”), our other websites, mobile applications (“ **Apps** ”) and digital services (“ **Services** ”) in which it is posted or linked.
 
 Please carefully read this Privacy Statement to learn more about how we collect, use, disclose and store information provided and the steps we take to help protect the often sensitive information provided from unauthorized use or disclosure. When you submit information to or through the Services, you consent to the collection, processing and retention of your information as described in this Privacy Statement.
 
@@ -18,7 +16,9 @@ This Privacy Statement is incorporated into and made a part of our Terms of Serv
 
 Please note that this Privacy Statement does not apply to information collected through third-party websites or services that you may access through the Services.
 
-Amgen is a multi-national company which maintains datacenters around the world, including the Netherlands and the United States (Amgen Inc.’s global headquarters). Amgen may process personal information in global databases that can be accessed by authorized Amgen personnel worldwide. Transfers of personal information to Amgen Inc. are made in accordance with applicable privacy laws. Regardless of where your personal information is collected or processed, Amgen maintains appropriate administrative, technical and physical safeguards to protect information about you.
+Amgen is a multi-national company which maintains datacenters around the world, including the Netherlands and the United States (Amgen Inc.’s global headquarters). Amgen may process personal information in global databases that can be accessed by authorized Amgen personnel worldwide. 
+
+Transfers of personal information among Amgen and its group entities follow applicable laws and our Binding Corporate Rules (BCRs).  For information on the BCRs, please visit <http://www.amgen.com/bcr/>.
 
 ### I. INFORMATION WE COLLECT
 
@@ -28,8 +28,7 @@ In this Privacy Statement, “ **Personal Information** " means information asso
 
 Certain subsets of Personal Information, such as information about health or medical status (pursuant to all applicable laws) and Location Data (defined below), are characterized as sensitive (collectively, “ **Sensitive Personal Information** ”) and may be subject to stricter regulation and consent requirements than other information. Before providing it to us, we urge you to carefully consider whether to disclose your Sensitive Personal Information. If you do provide Sensitive Personal Information to us, you consent to its use and disclosure for the purposes and in the manner described in this Privacy Statement.
 
-“ **Usage Data** ” is information about an individual’s activity on or through the Services that, by itself, does not identify the individual, such as browser type, operating system and webpages visited. 
-
+“ **Usage Data** ” is information about an individual’s activity on or through the Services that, by itself, does not identify the individual, such as browser type, operating system and webpages visited.   
 We do not consider Usage Data as Personal Information because Usage Data by itself usually does not identify an individual.
 
 If different types of Usage Data and Personal Information are linked together and, once linked, identify an individual person, Usage Data in such limited scenarios may be considered Personal Information.
@@ -40,7 +39,7 @@ Amgen collects and uses information to operate the Services, including:
 
 **Information That You Voluntarily Provide When Using the Services.**  We collect and use the Personal Information that you voluntarily provide to us through the Services. You may use certain Services without registering or identifying yourself but, if you do not register, you may not have access to all of the Services. If you choose to register, we may use the Personal Information you provide to confirm your registration and to respond to requests from you. Upon your request, we may also use the Personal Information to send you special promotions or newsletters with information that may interest you.
 
-If you are a healthcare professional or an institutional healthcare provider (collectively, “ **Providers** ”), you are responsible for obtaining any legally required authorization, consent or other permission from your patients prior to providing their Personal Information to Amgen through the Services. By submitting any Personal or other Information about a patient, you represent and warrant to Amgen that you have obtained all required permissions to do so.
+If you are a healthcare professional or an institutional healthcare provider (collectively, “ **Providers** ”), you are responsible for obtaining any legally required authorization, consent or other permission from your patients prior to providing their Personal Information to Amgen through the Services. By submitting any Personal Information about a patient, you represent and warrant to Amgen that you have obtained all required permissions to do so.
 
 **Through Your Use of Interactive Services.**  If you choose to participate in our questionnaires and surveys and other interactive Services, we will collect the information, including health-related information and other Sensitive Personal Information that you share to help us better understand how Amgen products are used in coping with the diseases for which they are marketed.
 
@@ -88,7 +87,7 @@ We may share and disclose information as described at the time information is co
 
 We use third-party advertising companies to serve ads on other websites and digital services. These companies may use information obtained from data collection tools in order to measure advertising effectiveness and to provide advertisements of interest to you. 
 
-**[You can opt out here __](http://preferences-mgr.truste.com/?pid=amgen01&aid=amgen_pub01&type=amgen)**so as not to receive targeted ads from use of the tools, but this will not affect any general advertisements you may receive.
+[**You can opt out here**](http://preferences-mgr.truste.com/?pid=amgen01&aid=amgen_pub01&type=amgen)so as not to receive targeted ads from use of the tools, but this will not affect any general advertisements you may receive.
 
 ### V. LINKS TO OTHER WEBSITES/SERVICES. 
 
@@ -110,9 +109,9 @@ When you access any interactive Service, you will be asked to affirmatively choo
 
 **Receive Marketing Communications.**  When you register for the Services, you may request to receive email containing information about Amgen that we think you might find useful, including promotions, announcements of new services and products, and newsletters on particular health topics. If you decide, at any time, that you no longer wish to receive these emails you may unsubscribe from our email list by completing the form located at [https://preferences.amgen.com](https://preferences.amgen.com/).
 
-**Accept and Reject Cookies.**  Your browser software can be set to reject all cookies, but if you reject our cookies, certain of the functions and conveniences of the Services may not work properly. To learn more about cookies, please check your browser’s help or similar feature or visit [allaboutcookies.org __](http://allaboutcookies.org/).
+**Accept and Reject Cookies.**  Your browser software can be set to reject all cookies, but if you reject our cookies, certain of the functions and conveniences of the Services may not work properly. To learn more about cookies, please check your browser’s help or similar feature or visit [allaboutcookies.org ](http://allaboutcookies.org/).
 
-**How We Respond to Browser “Do Not Track” Signals.**  Some web browsers incorporate a "do-not-track" or similar feature that signals to websites with which the browser communicates that a visitor does not want to have his/her online activity tracked. If a digital service that responds to a particular DNT signal receives the DNT signal, the browser can block that digital service from collecting certain Personal Information about the browser’s user. As of the Effective Date not all browsers offer a DNT option and DNT signals are not yet uniform.For this reason, Amgen along with many other digital service operators do not currently respond to DNT signals. For more information about DNT signals, visit [allaboutdnt.com __](http://allaboutdnt.com/).
+**How We Respond to Browser “Do Not Track” Signals.**  Some web browsers incorporate a "do-not-track" or similar feature that signals to websites with which the browser communicates that a visitor does not want to have his/her online activity tracked. If a digital service that responds to a particular DNT signal receives the DNT signal, the browser can block that digital service from collecting certain Personal Information about the browser’s user. As of the Effective Date not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, Amgen along with many other digital service operators do not currently respond to DNT signals. For more information about DNT signals, visit [allaboutdnt.com ](http://allaboutdnt.com/).
 
 IMPORTANT NOTE: Amgen cannot comply with a consumer's request to amend or remove information that was provided to Amgen by a healthcare professional or a consumer regarding an adverse drug event.
 
@@ -120,7 +119,7 @@ IMPORTANT NOTE: Amgen cannot comply with a consumer's request to amend or remove
 
 We retain information as long as it is necessary and relevant for our operations. In addition, we retain Personal Information to comply with applicable law, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigation, enforce our Terms of Service, and other actions permitted by law. When your Personal Information is no longer needed for Amgen’s business purposes, we dispose of it subject to applicable law.
 
-We employ security measures intended to help protect the security of all information submitted through the Services. The security of information transmitted through the internet cannot, however, be guaranteed. We are not responsible for any interception or interruption of any communications or for changes to or losses of data through the internet. Users of the Services are responsible for maintaining the security of any password, user ID or other form of authentication involved in obtaining access to password protected or secure areas of the Services. Any access to the Services through your user ID and password will be treated as authorized by you. To help protect your Personal Information, we may suspend your use of all or part of the Services, without notice, if Amgen suspects or detects any breach of security. Unauthorized access to such areas is prohibited and may lead to criminal prosecution.
+In accordance with applicable laws, we employ reasonable security measures intended to help protect the security of all information submitted through the Services. The security of information transmitted through the internet cannot, however, be guaranteed. We are not responsible for any interception or interruption of any communications or for changes to or losses of data through the internet. Users of the Services are responsible for maintaining the security of any password, user ID or other form of authentication involved in obtaining access to password protected or secure areas of the Services. Any access to the Services through your user ID and password will be treated as authorized by you. To help protect your Personal Information, we may suspend your use of all or part of the Services, without notice, if Amgen suspects or detects any breach of security. Unauthorized access to such areas is prohibited and may lead to criminal prosecution.
 
 ### IX. CHANGES TO THIS PRIVACY STATEMENT
 
@@ -136,9 +135,11 @@ California Civil Code Section 1798.83 permits individual California residents to
 
 Privacy Office  
 One Amgen Center Drive  
-MS 27-3-B  
+MS 10-2-A  
 Thousand Oaks, California 91320
 
 [privacyoffice@amgen.com](mailto:privacyoffice@amgen.com)
 
 Be sure to include your name, address, and email address if you want to receive a response by email. Otherwise, we will respond by postal mail within the time required by applicable law.
+
+Effective Date: January 27, 2017
