@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129174942id_/http%3A//www.iolo.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101647id_/http%3A//www.iolo.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Information and Privacy Policy
 
@@ -123,4 +123,4 @@ iolo technologies, LLC
 Pasadena, CA 91101  
 USA
 
-Email: [support@iolo.com](mailto:support@iolo.com)
+Email: [privacypolicy@iolo.com](mailto:privacypolicy@iolo.com)
