@@ -1,202 +1,171 @@
-> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035955id_/http%3A//villagecinemas.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083312id_/http%3A//villagecinemas.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Village Cinemas
+# Village Cinemas Privacy Policy | Where Movies Mean More
 
 ### **1\. INTRODUCTION**
 
 **1.1 Village Roadshow Group of Companies**
 
-Village Roadshow Ltd and its subsidiaries (“Village”) operate a wide variety of entertainment businesses including the operation of cinemas and indoor games facilities, the distribution of films, videos, music and DVDs. Through these varied operations, Village from time to time gathers information from Customers and other parties with whom we deal for a variety of reasons including, in particular, to enable us to improve the nature of the services we provide. Village understands individuals' concerns regarding confidentiality and takes seriously its obligations in respect of all information it gathers. To safeguard that information, Village has implemented a program to ensure compliance with the Privacy Act 1988 (Cth) and the Australian Privacy Principles (“APPs”). This Privacy Policy outlines how Village deals with Personal Information.
+Village Roadshow Ltd and its subsidiaries (collectively, “Village”) operate a wide variety of entertainment businesses including the operation of cinemas, theme parks, indoor games facilities, the production and distribution of films and the provision of marketing solutions.
 
-  
+Through these varied operations, Village from time to time gathers information from  
+customers and other parties with whom we deal for a variety of reasons including to enable us to provide the services.
 
+Village takes seriously its obligations in respect of the personal information it gathers. To safeguard that information, Village has implemented a program to ensure compliance with the _Privacy Act 1988_ (Cth) and the Australian Privacy Principles (“APPs”).
+
+This Privacy Policy outlines how Village deals with “personal information”, as defined in the _Privacy Act_.
 
 ### **2\. WHY VILLAGE COLLECTS PERSONAL INFORMATION**
 
 **2.1 Nature of Information**
 
-The information Village collects in most cases relates to Customers but can relate to suppliers and other parties we deal with (for the purposes of this Privacy Policy all such people are described as “Customers”). Information is gathered for a range of purposes, including the provision of ongoing Customer support and the compiling of Customer databases to enable us to more accurately market our goods and services. The type of information we collect includes such things as contact details, buying habits, opinions, product preferences and transactional details. Village treats all such information which is collected and identifiable as relating to an individual as Personal Information. It is this information which is described as “Personal Information” for the purposes of this Privacy Policy.
+The personal information which Village collects will depend on the circumstances of collection and the type of service involved. In most cases the personal information will concern customers but also newsletter subscribers, suppliers and other parties we deal with (for the purposes of this Privacy Policy, all such people are described as “customers”). 
 
-**2.2 Collection of Information**
+The personal information may include:  
+• name, gender, date of birth, contact details;  
+• payment details (such as credit/ debit card number and expiry date) provided in connection with the purchase of our products and services; and   
+• loyalty program membership number and details including buying history, opinions and product preferences.
 
-In accordance with the APPs, where practical, Customers of Village may deal with Village on an anonymous basis. However, as a provider of a wide range of services, Village frequently finds that it is necessary to collect Personal Information during the course of transactions.
+Village (or its agent) collects certain information of shareholders for registration purposes, such as name, address, number of shares held, tax file number and bank account details. Village is required to maintain a register of shareholders under the Corporations Act 2001 (Cth).
 
-Personal Information may be collected about Customers via the following means:
+**2.2 How Village Collects Personal Information**
 
-  1. competition entry forms;
-  2. application forms;
-  3. email;
-  4. websites (including in some instances cookies);
-  5. online transactions;
-  6. networking functions (eg: business cards);
-  7. over the phone;
-  8. credit card details via credit card purchases; and
-  9. information collected from third parties.
+Village may collect personal information when a customer uses our services or purchases our goods, registers to receive our newsletters or other communications, registers to be part of one of our loyalty programs, enters one of our competitions or promotions, visits our websites, completes a survey or otherwise interacts with us. 
 
+There may be occasions when Village collects personal information about a customer from a third party. These third parties may include agents and other people who sell products or services to customers for us or who interact with customers on our behalf; third parties that run competitions and other promotions for us; and sharebrokers when shares in Village are purchased. 
 
+In accordance with the APPs, where practical, customers may deal with Village anonymously. However, frequently it is necessary to collect personal information during the course of transactions. 
 
-**2.3 Information given to Customers**
+**2.3 Customer consent**
 
-When Personal Information is collected from a Customer, they are advised at the time of collection or as soon as practical after its collection as to:
-
-  1. Village's contact details;
-  2. the purpose of collection;
-  3. the fact that the Customer can gain access to the Personal Information;
-  4. the types of organisations to which their Personal Information may be disclosed;
-  5. whether the Personal Information will be disclosed to overseas recipients;
-  6. any law that requires the Personal Information to be collected; and
-  7. the key consequences if all or some of the information cannot be collected.
+Wherever practical, Village will obtain the express consent of customers to the collection of personal information. In some situations, Village will interpret a customer’s actions as indicating that a customer consents to the collection of personal information. This may occur where the customer has provided personal information for a particular purpose and that purpose cannot be achieved without Village making use of the customer’s personal information.
 
 
 
-Where Village collects Personal Information about a Customer from a third party, and the Customer has not previously consented to that third party providing the information to Village, Village will, where reasonable and practical, provide the Customer with the following information about that third party:
 
-  1. the third party's contact details;
-  2. the purpose of collection;
-  3. the fact that the Customer can gain access to the Personal Information;
-  4. the types of organisations to which their Personal Information may be disclosed by that third party;
-  5. whether the Personal Information will be disclosed to overseas recipients;
-  6. any law that requires the Personal Information to be collected; and
-  7. the key consequences if all or some of the information cannot be collected.
+**2.4 What happens if Personal information is not provided?**
+
+Village may not be able to provide a proper service to customers if personal information is not provided upon request.
 
 
 
-**2.4 Sensitive Information**
 
-Village will not ask a Customer for information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or details of health, disability or sexual activity or orientation, unless:
+**2.5 Cookies**
 
-  1. the Customer provides their consent;
-  2. the collection of that information is specifically authorised by law;
-  3. the collection is necessary to lessen a serious or imminent threat to the health or safety of a person; or
-  4. the collection of the information is necessary for the establishment, exercise or defence of a legal claim.
+Village uses “cookies” to facilitate the use of its websites. Cookies are small units of data sent to a user’s browser by a website the user visits. The main reasons Village uses cookies are:
 
+• to improve a customer’s website browsing experience  
+• to better understand how its websites are used and to allow improved navigation for its customers  
+• to enable it to present customised messages and offerings to customers. 
 
+The cookies Village uses do not store any personal data or otherwise collect personal information. However if a loyalty club member is logged into their account, the information Village collects via cookies may be linked with their personal information. 
 
-**2.5 Customer consent**
+You can configure your Internet browser to erase cookies from your computer's hard drive, block cookies or to receive a warning before a cookie is stored. If a user disables the use of, or deletes, cookies on their web browser then they may not be able to gain access to all the content and facilities of Village’s websites.
 
-Wherever practical, Village will obtain the express consent of Customers to the collection of Personal Information.
+**2.6 Google Analytics**
 
-In some situations, Village will interpret a Customer's actions as indicating that a Customer consents to the collection of Personal Information. This may occur where the Customer has provided Personal Information for a particular purpose and that purpose cannot be achieved without Village making use of the Customer's Personal Information.
+Village’s websites use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). The following is a Data Privacy Statement in relation to the use of cookies by Google Analytics:
 
-**2.6 What happens if Personal Information is not provided?**
+_Google Analytics is a web analysis service provided by Google. Google utilises the data collected to help Village analyse how users use the websites. The information generated by the cookie about a customer’s use of the website (including its anonymised IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating customer use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above._
 
-Where relevant, Village will endeavour to make Customers aware that Village may not be able to provide a proper service to them if Personal Information is not provided upon request.
+_You can prevent Google from detecting a cookie that is generated because of and related to your usage of this website (including your IP address) as well as processing of these data by downloading and installing this browser plugin:[http://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en)_
+
+Importantly, we do not combine the anonymous information collected through Google Analytics with personally identifiable information. 
+
+**2.7 Use of Remarketing Tools**
+
+Village may use Google remarketing, Facebook remarketing, pixel tags, web beacons, clear GIFs or other similar technologies to collect information of a customer’s visit to any one of its websites and deliver specific advertisements to that customer about products and services based on the pages visited and the way in which the customer accesses the website. These advertisements may be delivered by third party vendors when you visit our websites or other Internet websites.  
+
 
   
 
 
-### **3\. MAINTENANCE AND MANAGEMENT OF PERSONAL INFORMATION**
+### **3\. USE AND DISCLOSURE OF PERSONAL INFORMATION**
 
-**3.1 Who may view Personal Information**
+**3.1 Use of Personal Information**
 
-In general, only officers, employees or contractors of Village may view Personal Information. Village will only grant access to parties other than Village’s officers, employees and contractors to view Personal Information where Village believes that access is necessary to achieve the purpose for which the Personal Information was collected.
+Village may use personal information for the following purposes:  
+(a) to provide and administer goods and services, such as verifying a  
+customer’s identity; contacting customers about orders and bookings; processing  
+payments;   
+(b) to provide and operate Village’s competitions, promotions and events;  
+(c) to distribute Village’s newsletters and other communications itself or with the  
+assistance of third party services providers;  
+(d) to provide customer support, including resolving and providing assistance for orders or tickets or to respond to other enquiries or requests;  
+(e) to conduct marketing activities for Village’s products and services, or products and  
+services of third parties, and to conduct market and other research to improve  
+Village’s products, services and marketing activities;  
+(f) to register any shareholding customers may have in Village and to contact them in  
+relation to any shareholding;  
+(g) to conduct market research and analysis;  
+(h) to facilitate participation in loyalty programs;  
+and  
+(i) to maintain records and comply with Australian law.
 
-Village will only disclose Personal Information to parties other than Village’s officers, employees and contractors if:
+**3.2 Disclosure of Personal Information**
 
-  1. that disclosure is required to give effect to the purposes for which Village collected the Personal Information;
-  2. the Customer has consented to that disclosure;
-  3. Village believes that the disclosure may lessen a risk of harm to the health or safety of any person;
-  4. Village believes an unlawful activity is being undertaken and the Personal Information is disclosed as part of Village's investigation into this activity;
-  5. Village is required by law to disclose the Personal Information; or
-  6. the disclosure is required for the enforcement of a criminal law or a law imposing a pecuniary penalty or for the protection of public revenue.
-  7. International transfers
+In general, only officers, employees or contractors of Village may view personal information. 
 
+Village will only disclose to other parties where Village believes that access is necessary to achieve the purpose for which the personal information was collected.
 
+Village may disclose personal information to a service partner (such as auditors, accountants and lawyers) and other professional services firms to comply with our legal obligations, including to various law enforcement agencies, regulatory authorities and government bodies. Village may also disclose personal information to couriers, computer security companies and hosting services or a related company or person, for example, a related body corporate or someone with whom Village shares a common commercial interest. 
 
-Village may disclose Personal Information to countries outside Australia. We will only do so in compliance with all applicable Australian data protection and privacy laws. Village will take reasonable steps to protect personal information no matter what country it is stored in or transferred to.
+To the extent that these third parties are located in Australia and Village discloses personal information to them, they are subject to privacy legislation which prevents the personal information being used for any other purposes. 
 
-If obtaining the Customer's consent is not practical, then the information may still be transferred if, as part of the agreement for the transfer of that information, the other organisation agrees to comply with Village's privacy obligations to that Customer.
+**3.3 International transfers**
 
-**3.2 Identification**
+Village may disclose personal information to overseas service providers. Village will only do so in compliance with all applicable Australian privacy laws and will take reasonable steps to ensure the overseas service providers handle the personal information in accordance with the APPs. Village will take reasonable steps to protect personal information regardless to which country it is transferred or transferred. 
 
-Village does not use any prohibited identifiers (such as a tax file number) to identify its Customers.
+Village may also disclose personal information to third parties who process data, operate customer experience surveys and send our marketing emails to subscribers. The countries in which these third parties are located include the United States, New Zealand and South Africa.
 
-**3.3 Storage and Security**
+**3.4 Storage and Security**
 
-Personal Information may be stored in either hard copy form or on computer or both. Hard copy Personal Information is wherever practical, kept under locked security. Personal Information stored on computer is wherever practical, password protected. Where possible and practical, Village will endeavour to comply with recognised Australian and international standards relating to information security. Village regularly deletes and de-identifies Personal Information if the information is no longer needed by Village.
+Personal information may be stored in hard copy, electronic files or both. Hard copy personal information is wherever practical, kept under locked security. Personal  
+information stored on computer is wherever practical, password protected. Village uses third party information system providers who may store or have access to personal information. Where possible and practical, Village will endeavour to comply with recognised Australian and international standards relating to information security. Village deletes and de-identifies personal information when the information is no longer needed by Village.
 
-**3.4 Updating Personal Information**
+**3.5 Updating Personal Information**
 
-Village regularly monitors the quality and accuracy of Personal Information that it maintains and where practical, updates that information on a regular basis. Customers can update their Personal Information at any time by contacting Village's Privacy Officer.
-
-  
-
+Village monitors the quality and accuracy of personal information that it maintains and where practical, updates that information on a regular basis. Customers can update or correct their personal information at any time by contacting Village’s Privacy Officer.
 
 ### **4\. MINORS**
 
-Village has adopted the position proposed by the Privacy Commissioner that a young person is able to give their consent when he or she has a sufficient understanding and maturity to understand what is being proposed. Where Village is aware that it is gathering information from a minor, Village will obtain consent from a legal guardian for the collection of the information. Where this is not possible, Village's staff will make a determination as to the minor's understanding of why the Personal Information is being collected, before deciding to collect that information.
-
-  
-
+Village has adopted the position proposed by the Privacy Commissioner that a young person is able to give their consent when he or she has a sufficient understanding and maturity to understand what is being proposed. When obtaining personal information from minors, Village’s staff will make an objective determination before collecting that information as to whether the persons involved would be able to provide informed consent to the use of their personal information.
 
 ### **5\. COMPETITIONS**
 
 Personal information gathered during competitions run by Village will be governed by the principles set out in this Privacy Policy unless an express statement is made in relation to privacy in the conditions of entry for the competition.
 
-  
+**6\. DIRECT MARKETING**
 
+Personal information collected for direct marketing purposes will only be collected, used or disclosed with the consent of the customer. However, in some circumstances where Village cannot practically obtain the consent of a customer, Village may still engage in direct marketing, but will:
 
-### **6\. DIRECT MARKETING**
-
-Personal Information collected for direct marketing purposes will only be collected, used or disclosed with the consent of the relevant Customer as provided for in this Privacy Policy. In circumstances where Village cannot practically obtain the consent of a Customer, then Village may still engage in direct marketing to that Customer, but will:
-
-  1. advise the Customer that he or she can be taken off the mailing list at any time; and
-  2. display its contact details clearly in each direct marketing publication.
-
-
-
-Customers may be taken off any mailing list by contacting Village's Privacy Officer.
-
-  
-
+(a) include an 'unsubscribe' facility so customers can unsubscribe from the mailing list at any time or contact the Privacy Officer to remove the customer’s details from the mailing list; and  
+(b) include a prominent statement to the fact that a customer may make such a request.
 
 ### **7\. ACCESS TO PERSONAL INFORMATION**
 
-Customers may access their Personal Information by contacting Village's Privacy Officer. Access is generally granted within 30 days of that request. Village may impose a reasonable charge for access.
+Customers wishing to request access to, or correct, personal information held by Village should contact the Privacy Officer using the contact details in the section below titled “Who to Contact”. 
 
-  
+Village will provide access to the information held about the individual, including for the purpose of correcting or updating that information, unless there is an exception which applies under the APPs. 
 
+Any request to provide access to this information will be dealt with within a reasonable time.
 
-### **8\. WHEN VILLAGE MAY WITHHOLD ACCESS TO PERSONAL INFORMATION**
+If Village refuses to provide a customer with access to their personal information, Village will provide written reasons and advise the customer how they may complain about the refusal.
 
-**8.1 When access can be withheld**
+Loyalty program members can update their profile information online or by contacting the Privacy Officer using the contact details in the section titled “Who to Contact”.
 
-Access to Personal Information may be withheld in a number of circumstances. These include where:
+If Village withholds access to personal information, Village will consider whether the provision of access to an independent third party will meet Village’s and the relevant customer’s needs.
 
-  1. providing access would pose a serious and imminent threat to the life or health of a person;
-  2. providing access would have an unreasonable impact on the privacy of others;
-  3. the information is subject to confidentiality where the person who provided the information to Village did so expressly on the condition that it remains confidential;
-  4. the request is vexatious or frivolous;
-  5. the information relates to current or anticipated legal proceedings between Village and the person and the information would not be required to be discovered to a court;
-  6. Village is in commercial negotiations with the person and the information would reveal Village's intentions;
-  7. providing access would be unlawful or Village is required by a law to withhold access; or
-  8. providing access could prejudice the investigation or detection by Village or by a government body of an unlawful activity or some serious or improper misconduct.
+### **8\. CONTRACTORS**
 
+Village may from time to time employ contractors to provide services to it. If this is the case, personal information may be collected about those contractors. This Privacy Policy applies equally to those contractors.
 
+### **9\. WHO TO CONTACT**
 
-Where Village does withhold Personal Information, Village may instead choose to give the Customer a summary of that information.
+Village is committed to working with its Customers to obtain a fair resolution of any complaint or concern about privacy. 
 
-**8.2 Written reasons**
-
-If Village does withhold Personal Information, Village will provide written reasons.
-
-**8.3 Third party intermediary**
-
-If Village withholds access to Personal Information, Village will consider whether the provision of access to an independent third party will meet Village's and the relevant Customer's needs.
-
-  
-
-
-### **9\. CONTRACTORS**
-
-Village may from time to time employ subcontractors to provide services to it. In these situations, Personal Information may be collected about those subcontractors. This Privacy Policy applies equally to those subcontractors.
-
-  
-
-
-### **10\. WHO TO CONTACT**
-
-Village is committed to working with its Customers to obtain a fair resolution of any complaint or concern about privacy. To contact us with a compliment or complaint or a privacy question, you can:
+If you have a concern about your privacy or a query on how your personal information is collected or used please contact Village using the details below. We will  
+respond to your query or complaint within a reasonable time. If you are not satisfied with Village’s response, you may also contact the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/).
 
   * Write to us at: 
     * Privacy Officer
@@ -207,11 +176,3 @@ Village is committed to working with its Customers to obtain a fair resolution o
 
   
 
-
-### **11\. MODIFICATIONS TO THIS DOCUMENT**
-
-Village may modify this Privacy Policy and the way it handles Personal Information at any time in its sole discretion.
-
-### **12\. FURTHER INFORMATION**
-
-Further information on privacy can be obtained from the Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/)
