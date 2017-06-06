@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the roastycoffee.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322121352id_/http%3A//www.roastycoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roastycoffee.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185856id_/https%3A//www.roastycoffee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Roasty Coffee
+
+* [__How to Brew](https://web.archive.org/how-to-brew/)
+* [ __Buying Guides](https://web.archive.org/buying-guides/)
+* [](https://web.archive.org/)
+* [ __Coffee Facts](https://web.archive.org/coffee-facts/)
+* [ __About](https://web.archive.org/about/)
+[](https://web.archive.org/) ____[](https://web.archive.org/)
+* [__How to Brew](https://web.archive.org/how-to-brew/)
+* [ __Buying Guides](https://web.archive.org/buying-guides/)
+* [ __Coffee Facts](https://web.archive.org/coffee-facts/)
+* [ __About](https://web.archive.org/about/)
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
