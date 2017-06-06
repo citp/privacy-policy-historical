@@ -1,6 +1,29 @@
-> *The following text is extracted and transformed from the racedepartment.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231104id_/http%3A//www.racedepartment.com/forum/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racedepartment.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091707id_/http%3A//www.racedepartment.com/forum/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RaceDepartment
+
+  * "At least all four wheels are pointing more or less in the same direction at the moment." - Martin Brundle
+
+
+  * [Recent Posts](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/find-new/posts)
+  * [Contact Us](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/misc/contact)
+  *     * [__](https://twitter.com/racedepartment "Twitter")
+    * [__](https://www.facebook.com/racedepartment "Facebook")
+    * [__](http://www.youtube.com/subscription_center?add_user=racedepartment "Youtube")
+    * [__](http://steamcommunity.com/groups/racedepartment "Steam")
+    * [__](https://www.instagram.com/racedepartment/ "Instagram")
+
+
+
+[ ](http://www.racedepartment.com/)
+
+  1. This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies. [**Learn More**.](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/help/cookies)
+
+  2. If you have any questions, please don't hesitate to ask. There's no such thing as a stupid question.
+
+[__](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/account/dismiss-notice?notice_id=175 "Dismiss Notice")
+
+
 
 **What information do we collect?**  
 We collect information from you when you register on our site.
@@ -32,7 +55,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We use third-party advertising companies (i.e. Google Adsense and Skimlinks) to serve ads or affiliate links when you visit our web site as a guest (or in some occassions as a registered member). These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies (i.e. Google Adsense, Amazon, Sovrn) to serve ads or affiliate links when you visit our web site as a guest (or in some occasions as a registered member). These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>.   
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. 
 
 **California Online Privacy Protection Act Compliance**  
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
@@ -46,10 +70,10 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms of Service**  
-Please also visit our [Terms of Service](https://web.archive.org/web/20161118231104id_/http://www.racedepartment.com/pages/privacy-policy/pages/terms-of-service/) section establishing the use, disclaimers, and limitations of liability governing the use of our website at
+Please also visit our [Terms of Service](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/pages/terms-of-service/) section establishing the use, disclaimers, and limitations of liability governing the use of our website at
 
 **Your Consent**  
-By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20161118231104id_/http://www.racedepartment.com/pages/privacy-policy/pages/privacy-policy/).
+By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/pages/privacy-policy/).
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page.
@@ -68,18 +92,4 @@ Contact us for questions: info[at]racedepartment.com
 Published:
     May 29, 2014
 Page Views:
-    34,362
-
-  * [   ](https://web.archive.org/web/20161118231104id_/http://www.racedepartment.com/pages/privacy-policy/media/videos/formula-3-at-johannesburg.21491/?_source=widget&widget_id=497 "Formula 3 at Johannesburg")
-
-
-
-  * [__](https://twitter.com/racedepartment "Twitter")
-  * [__](https://www.facebook.com/racedepartment "Facebook")
-  * [__](http://www.youtube.com/subscription_center?add_user=racedepartment "Youtube")
-  * [__](http://www.twitch.tv/racedepartment "Twitch")
-  * [__](https://www.instagram.com/racedepartment/ "Instagram")
-
-
-
-[ ](http://www.racedepartment.com/)
+    46,847
