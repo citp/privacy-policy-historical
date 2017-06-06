@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcc.edu privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029155422id_/http%3A//www.tcc.edu/about-tcc/website-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcc.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115441id_/http%3A//tcc.edu/about-tcc/website-privacy-statement) for the most accurate reproduction.*
 
 # Website Privacy Statement & Disclaimer -
 
@@ -110,7 +110,7 @@ Some sections of the TCC website use cookies to customize the information presen
 
 ##### Copyright
 
-The copyright to TCC's website is owned by Tidewater Community College. The pages constituting TCC's website are marked with the notice "(c) Tidewater Community College." If you are in doubt about whether your use constitutes fair use, please send a request for explicit permission to copy the contents to [TCC Web Communications](mailto:webcomm@tcc.edu?subject=TCC.edu%20inquiry%20-%20Copyright).
+The copyright to TCC's website is owned by Tidewater Community College. The pages constituting TCC's website are marked with the notice "(c) Tidewater Community College." If you are in doubt about whether your use constitutes fair use, please send a request for explicit permission to copy the contents to [TCC Web Communications](mailto:webcomm@tcc.edu?subject=TCC.edu%20inquiry%20).
 
 ##### Linking
 
@@ -118,4 +118,4 @@ This website contains hypertext links to external websites and pages containing 
 
 Hypertext links to external websites and pages may be removed or replaced at the sole discretion of TCC at any time without notice.
 
-If a hypertext link on the TCC website is not working, please contact [TCC Web Communications](mailto:webcomm@tcc.edu?subject=inquiry%20from%20tcc.edu%20-%20privacy%20policy) or use the contact information provided on the [Contact Us page](http://www.tcc.edu//about-tcc/contact-us).
+If a hypertext link on the TCC website is not working, please contact [TCC Web Communications](mailto:webcomm@tcc.edu?subject=TCC.edu%20inquiry%20) or use the contact information provided on the [Contact Us page](https://www.tcc.edu/about-tcc/contact-us).
