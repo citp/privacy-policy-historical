@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickerbar.info privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119165617id_/http%3A//tickerbar.info/privacy.ghc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickerbar.info privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134808id_/http%3A//www.tickerbar.info/privacy.ghc) for the most accurate reproduction.*
 
 # TickerBar - It's ALWAYS a Sure Bet! (A Non-Complicated Paid to Surf Program)
 
@@ -40,6 +40,8 @@ For questions regarding this privacy statement, or the practices of this site, p
 P.O. Box 195  
 Manchester, NH 03105-0195  
 
+
+TickerBar™ offers its members the ability to get paid just for using the internet. 
 
 ©2002 - 2015 Green Horse Corporation. All Rights Reserved. 
 
