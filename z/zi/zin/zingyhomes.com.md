@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingyhomes.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217142810id_/http%3A//www.zingyhomes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingyhomes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183544id_/http%3A//www.zingyhomes.com/privacypolicy) for the most accurate reproduction.*
 
 # Zingy Marketing Ventures Private Limited | Privacy Policy
 
