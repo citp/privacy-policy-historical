@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the joules.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627025321id_/http%3A//www.joules.com/Privacy/Static.raction) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joules.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204152id_/https%3A//www.joules.com/Privacy/Static.raction) for the most accurate reproduction.*
 
 # Privacy
 
-#####  Last updated June 2015 
+#####  Last updated January 2017 
 
 We are Joules Limited, a company registered in England and Wales under company number 2934327 and with our registered office at Joules Building, The Point, Rockingham Road, Market Harborough, Leicestershire LE16 7QU England. 
 
-We are committed to protecting and respecting your privacy. This policy (together with the separately posted, [Website Terms of Use](https://web.archive.org/terms_of_use/Static.raction), [Website Privacy Policy](https://web.archive.org/Privacy/Static.raction "Privacy Policy"), [Website Acceptable Use Policy](https://web.archive.org/acceptable_use/Static.raction "Acceptable Use Policy") and [Website Cookie Policy](https://web.archive.org/cookie-policy "Cookie Policy")) tells you how personal information which we collect from you, or which you provide to us, will be processed by us. 
+We are committed to protecting and respecting your privacy. This policy (together with the separately posted, [Website Terms of Use](https://web.archive.org/terms_of_use/Static.raction), [Website Privacy Policy](https://web.archive.org/Privacy/Static.raction "Privacy Policy"), and [Website Cookie Policy](https://web.archive.org/cookie-policy "Cookie Policy")) tells you how personal information which we collect from you, or which you provide to us, will be processed by us. 
 
 Please read this policy carefully to understand our views and practices regarding your personal data and how we will treat it. By using our website [www.joules.com](http://www.joules.com/) and any other website on which this policy is posted or expressly referenced (“Joules Sites”), you are accepting and consenting to the practices set out in this policy. Please do not use the Joules Sites or purchase any products over the telephone with our customer services team unless you agree with this policy. 
 
@@ -132,4 +132,4 @@ We may amend this privacy policy at any time so please review it frequently and 
 
 ##  10\. CONTACT DETAILS 
 
-If you have any questions, comments or requests regarding this privacy policy, the Joules Sites or our products, please send us an email at: [joulesteam@joules.com](mailto:joulesteam@joules.com). Alternatively, you can call us on: **01536 454266,** or you can write to us at: **Customer Services Team, Joules Building, Saxon Way West, Corby, Northants NN18 9ES, England**. 
+If you have any questions, comments or requests regarding this privacy policy, the Joules Sites or our products, please send us an email at: [joulesteam@joules.com](mailto:joulesteam@joules.com). Alternatively, you can call us on: **0345 250 7160** or you can write to us at: **Customer Services Team, Joules Building, Saxon Way West, Corby, Northants NN18 9ES, England**. 
