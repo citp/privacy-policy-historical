@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobilephonesdirect.co.uk privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205010342id_/http%3A//www.mobilephonesdirect.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilephonesdirect.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101710id_/http%3A//www.mobilephonesdirect.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Phones Direct
 
-## Mobile Phones Direct (Online) Ltd
+## Mobile Phones Direct Ltd
 
 ## Privacy Policy
 
