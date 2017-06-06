@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmentalscience.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121085855id_/http%3A//www.environmentalscience.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalscience.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072934id_/http%3A//www.environmentalscience.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EnvironmentalScience.org
 
@@ -303,8 +303,4 @@ To ask questions or comment about this privacy policy and our privacy and data p
 Esyoh, LLC  
 Attn: Privacy Policy  
 2647 Gateway Rd., Ste. 105-409  
-Carlsbad, CA 92009.
-
-## WANT TO ADVERTISE YOUR ENVIRONMENTAL SCIENCE PROGRAM?
-
-You can get in touch with us via email at [info@environmentalscience.org](mailto:info@environmentalscience.org).
+Carlsbad, CA 92009
