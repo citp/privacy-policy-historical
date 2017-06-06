@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billmoyers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035719id_/http%3A//billmoyers.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmoyers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063959id_/http%3A//billmoyers.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | BillMoyers.com
 
@@ -6,34 +6,34 @@ Privacy Policy
 
 Public Square Media is committed to protecting the private information of our website visitors.  The billmoyers.com website (the “Site”) adheres to a strict policy for ensuring the privacy of Personally Identifiable Information and preserving the integrity of this online medium.  Here we explain the type of information collected from the Site, how that information may be used, how you can access or modify that information, and how that information is protected.
 
- **I.   WHICH SITES ARE COVERED BY THIS POLICY?**  
+**I.   WHICH SITES ARE COVERED BY THIS POLICY?**  
 This Privacy Policy applies to the Site.  By using the Site, you agree to and accept the terms of this Privacy Policy.  Please note that the Site may contain links to sponsor, partnering organizations and public television stations.  We are not responsible for the privacy practices of those websites.  We encourage you to review the privacy policy of any organization before submitting your personal information to them.
 
- **II.   WHAT INFORMATION DO WE GATHER?**  
+**II.   WHAT INFORMATION DO WE GATHER?**  
 Public Square Media collects two types of information from visitors to the Site:  (A) Personally Identifiable Information, and (B) Non-personally Identifiable Information (information such as IP addresses and cookies, which allow for a better use of the Site). Uses of this information are discussed in Section III below.
 
- **A.   Personally Identifiable Information**  
+**A.   Personally Identifiable Information**  
 Public Square Media will not collect Personally Identifiable Information from you, other than what you supply to us on a voluntary basis upon request.  Personally Identifiable Information includes, but is not limited to, name, address, email address, telephone number, and credit card information.
 
- _Registration for the Site_ : ** **  
+_Registration for the Site_ : ** **  
 The Site may at times require a free registration, which enables full access to the information and resources offered on the Site.  A unique email address must be supplied to register.
 
- _Paid products and services_ :  
+_Paid products and services_ :  
 While the majority of the Site is free, we may charge fees for select products and services.  To enable the purchase of these and other products, we collect your telephone number, email address, billing address and credit card information.
 
- _Forums, feedback and content submissions_ :  
+_Forums, feedback and content submissions_ :  
 On some pages of the Site, you can submit content to be published, make community postings, comments, suggestions, and vote.  We may collect your name, address, and email addresses in connection with these activities.
 
- _Your submission of others’ Personally Identifiable Information_ :  
+_Your submission of others’ Personally Identifiable Information_ :  
 On some pages of the Site, you can submit information about other people.  For example, you may submit a person’s name and email address to send an article.  Additionally, you may purchase a gift online and submit the person’s name, address and telephone number for delivery.  This information will only be used for the stated purpose.
 
- _Contests, sweepstakes and special offers_ :  
+_Contests, sweepstakes and special offers_ :  
 On occasion, we may collect personal information from users in connection with optional (i.e., you opt-in to participate in these offers) sweepstakes, contests or special offers.  Such information will be used as indicated at the time of collection.
 
- _Listservs and email newsletters:_  
+_Listservs and email newsletters:_  
 On occasion, we may collect personal information from users in connection with optional (i.e. you opt-in to subscribe to these services) listservs and email newsletters. Such information will be used as indicated at the time of collection.
 
- **B.**    **Non-personally Identifiable Information**  
+**B.**    **Non-personally Identifiable Information**  
 In addition to information that you provide to us, we may also collect and store certain Non-personally Identifiable Information automatically when you use the Site.  This information helps us improve the experience you and other visitors have with the Site.
 
 For example, we may collect your IP address, browser information and reference site domain, as well as related information such as the date on which you visit the Site.  This information does not identify you personally and is only used in the aggregate.
@@ -42,7 +42,7 @@ As is common practice among websites, we use “cookies” and similar technolog
 
 You can generally prevent cookies from being used by changing the settings in your web browser, but please be aware that by doing so you may be unable to fully utilize the Site.
 
- **III.   HOW DO WE USE INFORMATION GATHERED ON THE SITE?**  
+**III.   HOW DO WE USE INFORMATION GATHERED ON THE SITE?**  
 Except as expressly set forth in our policies, we will not willfully disclose your Personally Identifiable Information to any non-affiliated third party without first receiving your permission.  We will never sell, rent, or swap your Personally Identifiable Information with non-affiliated third parties for their own purposes.
 
 In terms of our own use of information, we and our affiliates may use your Personally Identifiable Information for the activities described in the previous sections, and for internal purposes and marketing, promotional and fundraising purposes in support of public broadcasting.
@@ -82,19 +82,19 @@ Public Square Media uses cookies at the following times:
 
 
 
- **IV.   HOW CAN I ACCESS OR CORRECT INFORMATION?**  
+**IV.   HOW CAN I ACCESS OR CORRECT INFORMATION?**  
 In certain cases, such as where a user provides an email address in order to receive an email newsletter or a reminder about an upcoming program or event, Personally Identifiable Information that is collected from the Site is only temporarily retained and may be accessible by the user only for a limited period of time following collection.  In other cases, Personally Identifiable Information may be maintained, edited and deleted at the user’s discretion at any time after the information has been submitted to Public Square Media If at any time, you prefer not to receive email from a service that you subscribed to, simply unsubscribe by following the unsubscribe instructions at the bottom of each email.
 
- **V.   HOW IS MY INFORMATION PROTECTED?**  
+**V.   HOW IS MY INFORMATION PROTECTED?**  
 Public Square Media is committed to ensuring the security of the data provided to us by Site users.  To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to protect the information we collect online.
 
- **VI.   CHILDREN’S GUIDELINES**  
+**VI.   CHILDREN’S GUIDELINES**  
 This Privacy Policy applies to all adults and children who have reached their 13th birthday. Public Square Media does not knowingly permit children under the age of 13 to use the Site and does not knowingly collect or store Personally Identifiable Information from anyone under the age of 13.
 
- **VII.   ACCEPTANCE OF BILLMOYERS.COM PRIVACY POLICY TERMS AND CONDITIONS**  
+**VII.   ACCEPTANCE OF BILLMOYERS.COM PRIVACY POLICY TERMS AND CONDITIONS**  
 By using this Site, you signify your agreement to the terms and condition of this Public Square Media Privacy Policy. If you do not agree to the terms and conditions, please do not use the Site.  We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this policy at any time.  Please check this page periodically for any changes. Your continued use of the Site following the posting of any changes to these terms shall signify your acceptance of those changes.  If you have any questions or concerns, please [contact us](http://www.pbs.org/about/contact/).
 
- **VIII.  TERMS OF USE**  
+**VIII.  TERMS OF USE**  
 Please also make sure to read Public Square Media’s Terms of Use to understand the additional terms and conditions which apply to your use of the Site.
 
 The Privacy Policy posted on this Site was updated on or about December 9, 2015.
