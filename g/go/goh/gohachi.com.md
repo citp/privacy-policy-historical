@@ -1,83 +1,88 @@
-> *The following text is extracted and transformed from the gohachi.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221213607id_/http%3A//www.gohachi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohachi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235633id_/http%3A//www.gohachi.com/privacy) for the most accurate reproduction.*
 
 # HACHI | privacy
 
-Your privacy is a serious matter and we want you to feel comfortable using [www.gohachi.com](https://web.archive.org/) ("Hachi"), a website owned by Hachi Labs, Inc., or its successors or assigns ("we" or "our" or "us"). Please read this privacy policy (the "Privacy Policy") to learn more about how we access, use, store and treat your personally-identifiable information in conjunction with the Hachi service. This Privacy Policy is incorporated into and subject to the terms of the User Agreement. 
+Welcome to Hachi, the online and mobile service of Hachi Labs, Inc. ("Hachi," "we," or "us"). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information 
 
-**
+* ### 1\. HOW WE COLLECT AND USE INFORMATION
 
-Personal information collected:
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [User Agreement](https://web.archive.org/terms).  
+We collect the following types of information about you: 
 
-**
+**Information you provide us directly:** We ask for certain information such as your username, first and last name, birthdate, phone number and email address when you register for a Hachi account, or if you correspond with us. We may also retain any messages you send through the Service, and may collect information you provide in any content you post to the Service. We use this information to operate, maintain, and provide to you the features and functionality of the Service. Hachi uses Web Site Navigational Information about and from Hachi Users to operate and improve the Service. Hachi may also use Web Site Navigational Information alone or in combination with data about and from Hachi Users to provide personalized information from Hachi. 
 
-We collect information
+**Information we may receive from third parties:** We may receive information about you from third parties. For example, if you access our websites or Service through a third-party connection or log-in, for example, through Facebook Connect, by "following," "liking," adding a Hachi Application, linking your account to the Service, and so on, that third party may pass certain information about your use of its service to Hachi. This information could include, but is not limited to, the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that service, any information that you have permitted the third party to share with us including contacts or "Friends," and any information you have made public in connection with that service. If you allow us access to your friends list, your friends’ user IDs, and your connection to those friends, may be used and stored to make your experience more social, and to allow you to invite your friends to use our Service as well as provide you with updates if and when your friends join Hachi. Friends list information and shared contacts may also be used to improve the Service. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Service. 
 
-    * When you register an account to become a Hachi user ( "User"), such as your name, e-mail, employer, country, and a password you generate.
-    * When you view and interact with Hachi pages, features, and functionality, we a collect your IP address, browser type, operating system, mobile carrier, and your ISP, and receive the URLs of sites from which you arrive or leave the Hachi website, or sites that have embedded Hachi platform technology.
-    * Through cookies and other technologies that allow us to recognize you, customize your experience.
-    * When you interact with third party services available through Hachi like surveys, polls or other third party research undertaken with your consent.
-    * Hachi collects certain information from third party applications with your explicit consent.
-  
-**
+**Using the "Invite friends" feature:** If you choose to use our invitation service to invite a third party to the Service through our "Invite friends" feature, you may directly choose a friend to invite through your mobile device’s native contact list but we do not require that you import your contacts list to the Service, and we do not retain the information contained in your contacts list. You may also invite your friends to the Service through your contact lists on other websites or services, such as Twitter, Facebook, and LinkedIn. You understand that by inviting a friend to Hachi through the "Invite friends" feature, you are directly sending a text or email from your personal accounts and that we are not storing your contact list. In addition, you understand and agree that normal carrier charges apply to communications sent from your phone. Since this invitation is coming directly from your email or phone, we do not have access to or control this communication. 
 
-Uses of personal information:
+**Finding your friends in the service:** If you choose, you can locate your friends with Hachi accounts through our "Find friends" and "Refer" feature. These features allows you to choose to locate friends either through (a) your contact list, (b) social media sites (such as Twitter or Facebook), or (c) through a search of names and usernames on Hachi. If you choose to find your friends through your contact list, then you agree to provide Hachi access to your contact list such that we can perform the search necessary to determine whether or not someone associated with the information you provide is using Hachi. If you choose to find your friends through social media sites, then you understand that the information these sites provide to use to conduct this type of search is governed by their privacy policies and your account settings on those sites. If you choose to find your friends through a search of names or usernames then simply type a name to search and see if that name or username appears on our Service. 
 
-**
+**Analytics information:** We may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user. 
 
-We use the information you provide to
+**Cookie information:** When you visit the Service, we may send one or more cookies to your computer that uniquely identifies your browser and lets Hachi help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
 
-    * Enable you to share your information and communicate with other Users,
-    * Administer your account with us and customize the service we provide to you and other Users; and to
-    * Send you service or promotional communications through email and notices on the Hachi website. You can control your messaging preferences [here](https://web.archive.org/settings)
-    * Connect you to opportunities by enabling other professionals to find you on Hachi.
-    * Create and distribute advertising relevant to your or your network's Hachi experience. You can control whether Hachi uses your name and picture in social ads [here](https://web.archive.org/settings).
-    * Display information retrieved from third party applications to other users.
-    * We do not sell, rent, or otherwise provide personally identifiable information to third parties without your consent except where it is necessary to carry out your instructions (to process your payment information, for example) or as described in Section 2 of this Privacy Policy. Also, we may share information with affiliates to provide the Services. We also provide you with the means to control whether or not your contact information is viewable to other Users through your profile. Please note that in order to fulfill your requests for paid services (e.g., Hachi Premium Services), we share your payment information with our payment processor. 
-  
-**
+**Log file information:** Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. 
 
-Your Information Choices:
+**Clear gifs/web beacons information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. This information allows for more accurate reporting and improvement of the Service. 
 
-**
+**Device identifiers:** When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor, and remotely store one or more "device identifiers," such as a universally unique identifier ("UUID"). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Hachi. As with cookies, a device identifier may convey information to us about how you browse and use the Service, may remain persistently on your device, to help you log in faster and enhance your navigation through the Service, and some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled. 
 
-You can 
+**Location data:** When you access the Service by or through a mobile device, we may access, collect, monitor, and remotely store "location data," which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey to us information about how you browse and use the Service. Some features of the Service, particularly location-based services, may not function properly if use or availability of location data is impaired or disabled. 
 
-    * Review, enhance or edit your personal information through your personal profile page;
-    * Choose whether you install or remove any third party applications;
-    * Control whether your profile information is shared with third parties through developer applications installed by your connections by clicking [here](https://web.archive.org/settings);
-    * Control the messages you receive from Hachi and other Users;
-    * Control whether Hachi personalizes its professional plugins across the web using your Hachi account [here](https://web.archive.org/settings).
-    * Control whether Hachi uses your name and profile photo in social ads; and
-    * Tell us to close your Hachi account.
-  
-**
+**Commercial and marketing communications:** We use the information we collect or receive to communicate directly with you. We may send you emails containing newsletters, promotions, and special offers. If you do not want to receive such email messages, you may opt out or change your preferences. We also use your information to send you Service-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). You may not opt out of Service-related emails. You will also be able to be "found" on Hachi based on information that you provide (see "Finding your friends using the service") above. 
 
-Your obligations to other Users
+**Use of certain service type information we collect about you:** We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) to provide advertising to your browser or device; and (h) automatically update a Hachi Application on your mobile devices. 
 
-**
-    * Do not abuse the Hachi service by using it to spam, abuse, harass, or otherwise violate the User Agreement or Privacy Policy.
-  
-**
+* ### 2\. SHARING OF YOUR INFORMATION
 
-Important information
+We will not rent or sell your information into third parties outside Hachi and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below: 
 
-**
-    * If Users have questions or concerns regarding this Privacy Policy, you should first contact Hachi [here](mailto:privacy@gohachi.com).
-    * Notice of all changes that materially affect ways in which your personal information may be used or shared will be posted in updates to our Privacy Policy.
-  
-**
+**Who we may share your information with:** We may share your information with third-party business partners, including the proprietors of search engines like Google, and other Hachi Users, for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy. Hachi may also use Web Site Navigational Information alone or in combination with data about and from Hachi Users to provide personalized information from Hachi to the Hachi user community. 
 
-Security
+**Who you may choose to share content you post with:** Any information or content that you voluntarily disclose for posting to the Service becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, please change your profile setting. Subject to your profile and privacy settings, any content you post that you make public is searchable by other Users and subject to use under any API we make available, and subject to the terms and conditions of any related agreement(s) regarding such API. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information. 
 
-**
-    * Personal information you provide will be secured in accordance with industry standards and technology. Since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Hachi. There is no guarantee that information may not be accessed, copied, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-    * You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications at all times.
-  
-**
+**What happens in the event of a change of control:** We may sell, divest, or otherwise transfer the company (including any shares in the company), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, any content you post, and other user information related to the Service may be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company. Our use of your data will continue to be governed by this Privacy Policy unless and until we, or our successor, notifies you otherwise. 
 
-How to contact us:
+**Instances where we are required to share your information:** Hachi will disclose your information where required to do so by law or subpoena, or if we reasonably believe that such action is necessary to: (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [User Agreement](https://web.archive.org/terms) or to protect the security or integrity of our Service; or (c) to exercise or protect the rights, property, or personal safety of Hachi, our Users or others. 
 
-**
-    * If you have questions or comments please send them to us at [privacy@gohachi.com](mailto:privacy@gohachi.com)
+**Sharing certain service type information we collect about you:** We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers, location data, and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, and so on) with our third-party business partners for the purposes described in the section above on **"How We Collect and Use Information."** We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties. 
 
+**Ads on Hachi:** We may also share certain information such as your location, browser and cookie data, and other data relating to your use of our Service with our business partners to deliver advertisements ("ads") that may be of interest to you. Hachi may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Service, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the Service, and to measure the effectiveness of their ads and to personalize the advertising content. Hachi does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party ad servers or ad networks for such parties’ own marketing purposes. 
 
+Please note that an advertiser may ask Hachi to show an ad to a certain audience of Users (e.g., based on demographics or other interests). In that situation, Hachi determines the target audience and Hachi serves the advertising to that audience and only provides anonymous aggregated data to the advertiser. If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. 
+
+The Hachi Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers or contact such advertisers for more information. 
+
+* ### 3\. HOW WE STORE AND PROTECT YOUR INFORMATION
+
+**Storage and Processing:** Your information collected through the Service may be stored and processed in the United States or any other country in which Hachi or its subsidiaries, affiliates, or service providers maintain facilities. Hachi may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the United States or any other country in which Hachi or its parent, subsidiaries, affiliates, or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
+
+**Keeping your information safe:** Hachi cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible at all times for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Hachi. However, Hachi cannot ensure or warrant the security of any information you transmit to us or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of third party sites and services that you add to the Service, such as social networks. Hachi is not responsible for any third party’s functionality or security measures (or lack thereof). 
+
+**Compromise of information:** If any information under our control is compromised as a result of a security breach, Hachi will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps in accordance with any applicable laws and regulations. 
+
+* ### 4\. YOUR CHOICES ABOUT YOUR INFORMATION
+
+**You control your account information and settings:** You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the "unsubscribe" link provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes and updates to features of the Service, and technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at [privacy@gohachi.com](mailto:privacy@gohachi.com). 
+
+**Opting out of collection of your information for tracking or advertising:** Please refer to your mobile device’s or web browser’s technical information for instructions on how to delete and disable cookies, or other tracking or recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that while disabling cookies or other tracking tools prevents Hachi or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties, doing so may also disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking or recording tools, you can contact us directly at [privacy@gohachi.com](mailto:privacy@gohachi.com). 
+
+**How long we keep your content:** Following termination or deactivation of your User account, Hachi may retain your profile information and content you post for a commercially reasonable time for backup, archival, or audit purposes. 
+
+* ### 5\. CHILDREN’S PRIVACY
+
+Hachi does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@gohachi.com](mailto:privacy@gohachi.com). 
+
+* ### 6\. LINKS TO OTHER WEB SITES AND SERVICES
+
+We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible for and we do not have control over any third-parties that you authorize to access your content. If you are using a third-party website or service (like Facebook) and you allow such third-party access to your content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service. 
+
+* ### 7\. HOW TO CONTACT US
+
+If you have any questions about this Privacy Policy or the Service, please contact us at [privacy@gohachi.com](mailto:privacy@gohachi.com). 
+
+* ### 8\. CHANGES TO OUR PRIVACY POLICY
+
+Hachi may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page. 
+
+This privacy policy was last modified on Feb 12, 2015. 
