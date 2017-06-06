@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucaskazan.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219134346id_/http%3A//www.lucaskazan.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucaskazan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204823id_/http%3A//lucaskazan.com/public/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucas Kazan
 
