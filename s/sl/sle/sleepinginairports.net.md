@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepinginairports.net privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211010117id_/http%3A//www.sleepinginairports.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepinginairports.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055215id_/http%3A//www.sleepinginairports.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,8 @@ www.sleepinginairports.net does not use cookies.
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
 .:: Google Adsense  
 .:: Commission Junction  
-.:: LoungePass
+.:: LoungePass  
+.:: LoungeBuddy 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.sleepinginairports.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
