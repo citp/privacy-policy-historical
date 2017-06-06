@@ -1,44 +1,26 @@
-> *The following text is extracted and transformed from the singlehop.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202024501id_/https%3A//www.singlehop.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlehop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163945id_/https%3A//www.singlehop.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-This Privacy Policy applies to the information that SingleHop LLC (“SingleHop”) collects through SingleHop.com and other websites, online features, applications and widgets owned or controlled by SingleHop and that post a link to this Privacy Policy (collectively, the “Site”). This Privacy Policy only covers information collected at the Site and does not cover any information collected offline by SingleHop (unless specifically stated otherwise) and does not apply to the services we provide to clients. Please review this Privacy Policy carefully.
-
-#### SUMMARY
-
-WE FULLY DESCRIBE OUR PRIVACY PRACTICES BELOW IN THIS PRIVACY POLICY. THIS SUMMARY HIGHLIGHTS SOME IMPORTANT INFORMATION REGARDING THE INFORMATION WE COLLECT AND OUR USE AND SHARING OF YOUR INFORMATION; BUT PLEASE REVIEW OUR FULL PRIVACY POLICY BEFORE USING OUR SITE.
 
 In connection with serving content and providing analytics and advertising services, third parties may collect certain information about your visits to this and other websites and we may receive information regarding the use of the Site and the effectiveness of our advertisements. These advertising networks, advertisers, advertising agencies, analytics service providers, and other vendors may set and access their own tracking technologies (including cookies and web beacons) and they may otherwise collect or have access to information about you and your online browsing activities.
 
 The Site is operated in the United States. If you are located outside the United States and use the Site or provide us with any information, you consent to the transfer, processing, and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside or are a citizen.
 
-#### INFORMATION WE COLLECT THROUGH THE SITE
-
-#### Information You Provide to the Site
-
 SingleHop may ask you to provide “Personal Information” (information that identifies you as a specific individual, such as, but not limited to, your name or e-mail address and other contact information), and information necessary to facilitate financial transactions between SingleHop and you (such as, but not limited to, financial account numbers). We may also collect demographic information (such as, but not limited to, your age, occupation, postal code, or similar information), certain information about your preferences and interests, customer questions and support information, and other information collected through surveys, chat features, and polls made available on the Site. If we combine these types of other information about you with Personal Information, we will treat the combined information as Personal Information under this Privacy Policy.
 
 The Site is a general audience web site. The Site does not knowingly collect any Personal Information from children younger than the age of thirteen (13), and SingleHop will delete any information later determined by us to be collected from a user younger than age thirteen (13).
-
-#### User Content
 
 The Site may provide you the opportunity to participate and post content publicly through interactive features. You may choose, through such features or otherwise, to submit or post reviews, comments, suggestions related to SingleHop’s services, or post free-form comments on its blog (collectively, “User Content”). Please note that certain information, such as your name and state of residence, and a link to any website URL you provide may be publicly displayed on the Site along with your User Content. However, SingleHop will not publish your e-mail address with these comments.
 
 Note that any User Content you post is public — others will have access to your User Content and may read it, see it, use it, and/or share it with third parties. If you choose to voluntarily disclose Personal Information in your User Content, that information will be considered public information and the protections of this Privacy Policy will not apply. If you submit User Content, it may be published online or offline (including on the Site, on-air, in a DVD, or any other format currently existing or later developed). In addition, we may use your User Content and any excerpt from your User Content in connection with our advertising, marketing, publicity, and promotional activities.
 
-#### Information Third Parties Provide About You
-
 We may also receive information about you from third parties. For example, if you are on another website that provides information about hosting service providers like SingleHop and you request to receive information from SingleHop, that website will forward your contact and other information to us so that we may contact you as requested. Third parties may also provide information about you in connection with a marketing arrangement we may have with those third parties.
 
 We also may supplement the information we collect with outside records from third parties in order to provide you with the information, goods, or services you have requested to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those other outside sources with information we collect through the Site. In those cases, we will apply this Privacy Policy to the combined information.
 
-#### Information We Collect Automatically; Cookies and Similar Technologies
-
 In addition to any Personal Information or other information that you choose to submit to the Site, we and our third-party service providers, including any third-party content, advertising, and analytics providers, may use a variety of technologies that automatically or passively collect certain information about your use of the Site whenever you visit or interact with the Site (“Site Usage Information”). Site Usage Information may include the browser and operating system you are using, the URL or advertisement that referred you to our Site, the search terms you entered into a search engine that led you to our Site (if applicable), actions you take on the Site and all of the areas within our Site that you visit, and the time of day you visited the Site, among other information. Site Usage Information may also include the unique IP address or other unique identifiers (“Device Identifier”) for any computer, mobile phone, or other device (any, a “Device”) used to access the Site. A Device Identifier is a unique value that is automatically assigned to your Device, so that our servers can identify your Device by its Device Identifier.
 
 We may use Site Usage Information for a variety of purposes, including enhancing or otherwise improving the Site and our products and services. We may associate Site Usage Information with you as a specific and identifiable person. When we do so, we treat the combined information as Personal Information.
-
-#### The methods used to collect Site Usage Information may include the following:
 
 **Cookies.** A cookie is a data file placed on a Device when it is used to visit the Site or otherwise access our online content. Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages. A Flash cookie is a data file placed on a Device via the Adobe Flash plugin that may be built in to or downloaded by you to your Device. Flash cookies may be used for various purposes, including, without limitation, enabling a Flash feature and remembering your preferences. For more information about Flash and the privacy choices Adobe offers, visit **www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html**. If you choose to disable cookies or to adjust your Flash privacy settings on your Device, some features of the Site may not function properly.
 
@@ -48,70 +30,43 @@ We may use Site Usage Information for a variety of purposes, including enhancing
 
 In addition, we may use a variety of other technologies that collect similar information for security and fraud detection purposes.
 
-#### HOW WE USE THE INFORMATION COLLECTED
-
 SingleHop may share non-personally identifiable information, such as aggregated user statistics, with third parties in our discretion. We do not share your Personal Information with third parties for those third parties’ marketing purposes unless we first provide you with the opportunity to opt-in or opt-out of such sharing. We may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information, with your consent, as described in this Privacy Policy, and in the following circumstances:
-
-#### HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES
 
 SingleHop may use information collected through the Site, including Personal Information and Site Usage Information, to: (1) allow you to use the Site and to provide related service, including responding to your questions and comments; (2) fulfill transactions and process your registration, orders and payments, including verifying the information you provide is accurate and active; (3) administer and develop our business relationship with you and the company you represent; (4) tailor content, recommendations and offers we display to you on the Site and elsewhere online; (5) provide you with information, products or services that you have requested or agreed to receive or that we otherwise believe will interest you, including, information and special offers from us, our advertisers, and our third party business partners; (6) conduct internal analyses, such as surveys and market research; (7) improve the Site, our products and services and for internal business purposes; (8) assess your employment application for a position with SingleHop and prepare related governmental and internal statistics reports; (9) contact you with administrative communications and, in our discretion, changes to Site policies; and (10) for purposes disclosed at the time you provide your information and as further described or permitted in this Privacy Policy; (11) to remember and restore your preferences when you return to the website; or (12) otherwise with your consent.
 
-**When You Agree to Receive Information from Third Parties or Request That We Share Your Information.**
-
 You may be presented with an opportunity to receive information and/or marketing offers from one or more third parties. If you agree at that time to have your Personal Information shared, your Personal Information will be disclosed to that third party (or parties) and will be subject to the privacy policy and practices of that third party. We are not responsible for the privacy policies and practices of third parties. If you later decide that you no longer want to receive communications from a third party, you will need to contact that third party directly. You also may request, sometimes through your use of an interactive feature or third-party application, that we share information about you with a third party and we will typically do so under those circumstances.
-
-**Third Parties Providing Services on our Behalf.**
 
 We may share information with third parties so that they may provide services to you, SingleHop, and the Site. Examples include conducting website usage analysis, sending e-mail or other communications on our behalf, providing sales and marketing assistance, or performing other administrative or support services. When we do so, the information is only to be used to provide services or help us provide services. Third-party systems used to deliver services to you may retain your information for a period of time after the services are provided.
 
-**Sweepstakes, Contests, and Promotions**
-
 We may offer sweepstakes, contests, and other promotions (any, a “Promotion”) that may require registration. By participating in a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice, likeness, or other indicia of persona in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, your Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
-
-**Administrative and Legal Reasons**
 
 We may transfer and disclose information, including your Personal Information, Usage Information, and your Device Identifier, to third parties: (i) to respond to subpoenas or other legal process or if in our opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation (including to meet national security or law enforcement requirements); or (iii) to enforce applicable Site terms and policies; (iv) to respond to an emergency or otherwise to protect the safety, rights, property, or security of SingleHop, third parties, Site visitors, or the public. We may also use Device Identifiers to identify users, and may do so in cooperation with a court order or law enforcement agencies when legally compelled to do so.
 
-**Business Transfers**
-
 SingleHop may share information, including Personal Information, with its parent, subsidiaries, and affiliates, primarily for business and operational purposes. SingleHop may also disclose and transfer your information, including Personal Information: (i) to a subsequent owner, co-owner or operator of the Site or applicable database; or (ii) if SingleHop (or any of its affiliated, parent, or subsidiary companies) assigns its rights regarding any of your information to a third party; or (iii) in connection with a corporate merger, consolidation, restructuring, the sale of certain of our ownership interests, assets, or both, or other corporate change, including, without limitation, during the course of any due diligence process.
-
-#### THIRD-PARTY ANALYTICS PROVIDERS AND AD SERVERS
 
 The Site may contain content served by third parties and we work with vendors (including network advertisers, ad agencies, and analytics companies) to provide us with information regarding traffic on the Site, to serve advertisements, including our advertisements elsewhere online, and to provide us with information regarding the use of the Site and the effectiveness of our advertisements. For example, if you clicked on one of our advertisements that led you to the Site, our service provider(s) may be able to tell us information about your interaction, such as, but not limited to: which advertisement you clicked on, where you were viewing the advertisement, how often you viewed or clicked on it, and so forth. In connection with serving content and providing analytics and advertisement services, third parties may collect certain information about your visits to the Site or other websites. Some of these parties may collect Personal Information when you visit the Site or other websites or services. These third parties may set and access their own tracking technologies (including cookies and web beacons) and may otherwise collect or have access to your Device Identifier, Site Usage Information, and related information about you. Cookies and web beacons, including those set by third-party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times, and to conduct research regarding the usefulness of certain advertisements to you. We may share Device Identifier and Site Usage Information about visitors with third-party advertising companies, analytics providers, and other vendors for similar purposes.
 
 While we may use a variety of service providers to perform advertising and analytics services, some of these companies are members of the Network Advertising Initiative (“NAI”) or the Digital Advertising Alliance (“DAA”) Self-Regulatory Program for Online Behavioral Advertising. You may want to visit **www.networkadvertising.org/managing/opt_out.asp** , which provides information regarding targeted advertising and the “opt-out” procedures of NAI members. You may also want to visit or **www.aboutads.info/choices/** , which provides information regarding targeted advertising and offers an “opt-out” by participating companies in the DAA Self-Regulatory Program. Please note opting out through these mechanisms does not opt you out of being served advertising and not all online advertisers participate in these programs. You will continue to receive generic ads while visiting the Site and elsewhere online.
 
-#### CHANGING YOUR INFORMATION, PREFERENCES, AND SUBSCRIPTIONS
-
 You can correct or update some of the Personal Information you have provided to us several ways. If you are a customer, you can update your Personal Information by logging into LEAP and changing your profile in the system. If you are not yet a customer, then you may contact us via telephone ( **+1 312-447-2580** ) and request that we change your information. SingleHop will make good faith efforts to make requested changes in our active databases as soon as reasonably practicable. Note, however, that information you update or change may persist internally or for SingleHop’s administrative purposes. It is not always possible to completely remove or delete all of your information from our databases and residual data may remain on backup media or for other reasons. Also, if you have made any public postings, including User Content, these communications generally will not be removed. Users who receive a newsletter or other similar e-mails from us and who wish to remove themselves from the mailing list (i.e. opt out) can do so by following the link provided in an e-mail received. The Site may also offer an online mechanism for changing your preferences. However, please note that we reserve the right to send you certain communications relating to your use of our Site, service announcements, notices of changes to this Privacy Policy, or similar administrative or transactional messages, and these transactional account messages may be unaffected if you choose to opt-out from marketing communications.
-
-#### THIRD-PARTY CONTENT, LINKS TO OTHER SITES, AND SITE CONTENT FOUND OUTSIDE OF THE SITE
 
 Certain content on the Site may be hosted and served by third parties and the Site may contain links to third-party websites that SingleHop does not control. The Site may also contain certain third-party content or applications. These links and applications may use a SingleHop logo as part of a co-branding agreement. In addition, SingleHop widgets or other SingleHop content may be included on web pages and websites that are not associated with SingleHop and over which we have no control. These third parties may collect Site Usage Information through the use of their own cookies and web beacons, independently collect data or solicit Personal Information, and may have the ability to track your use of their sites and services. SingleHop is not responsible for the privacy practices employed by any third party.
 
-#### APPLYING FOR A JOB THROUGH OUR SITE
-
 If you apply for a job through the Site, we, or a human resources company assisting us, may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission (“EEOC”), the Office of Federal Contract Compliance Programs (“OFCCP”), and similar state and local regulatory agencies. Providing self-identifying information is voluntary, but if you do provide us with that information, we may submit it to the EEOC, the OFCCP, and similar state and local regulatory agencies for business-related purposes, including responding to information requests, fulfilling regulatory reporting requirements, and defending against employment related complaints.
-
-#### SECURITY
 
 SingleHop takes commercially reasonable steps to protect your Personal Information. However, no data transmission over the Internet, wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information we collect. You use our Site and provide us with your information at your own risk. Our employees are required to keep information covered by this Privacy Policy confidential – unless disclosure is authorized in this Privacy Policy, or by you.
 
-#### USERS RESIDING OUTSIDE OF THE UNITED STATES AND CONSENT TO TRANSFER
-
 The Site is operated in the United States. If you are located in the European Union, Canada, or elsewhere outside of the United States, please be aware that any information you provide to us may be transferred to and processed in the United States. By using the Site, or providing us with any information, you consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be different than those in the country where you reside or are a citizen.
-
-#### PRIVACY SHIELD
 
 SingleHop complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SingleHop has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit **https://www.privacyshield.gov/**
 
 In compliance with the EU-US Privacy Shield Principles, SingleHop commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact SingleHop at:
 
 **Legal Department  
-SingleHop LLC  
-500 W. Madison St., Suite #801  
-Chicago, IL 60661**
+SingleHop, LLC  
+PO Box 415   
+230 S. Clark St.   
+Chicago, IL 60604 **
 
 SingleHop has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit **www.bbb.org/EU-privacy-shield/for-eu-consumers/** for more information and to file a complaint.
 
@@ -128,9 +83,10 @@ SingleHop also provides EU consumers choice (opt-out or opt-in) regarding sharin
 If you are an EU resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: **legal@singlehop.com** or write to us at the following mailing address:
 
 **Legal Department  
-SingleHop LLC  
-500 W. Madison St., Suite #801  
-Chicago, IL 60661**
+SingleHop, LLC  
+PO Box 415   
+230 S. Clark St.   
+Chicago, IL 60604 **
 
 SingleHop is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
@@ -145,8 +101,11 @@ Pursuant to California Civil Code Section 1798.83, residents of the State of Cal
 If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: **legal@singlehop.com** or write to us at the following mailing address:
 
 **Legal Department  
-SingleHop LLC  
-500 W. Madison St., Suite #801  
-Chicago, IL 60661**
+SingleHop, LLC  
+PO Box 415   
+230 S. Clark St.   
+Chicago, IL 60604 **
 
 You must put the statement “Your California Privacy Rights” in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labeled or sent properly or do not have complete information
+
+Our website uses cookies in order to provide a secure and effective experience. [Click here](https://web.archive.org/legal/privacy-policy/) to learn more.  Dismiss 
