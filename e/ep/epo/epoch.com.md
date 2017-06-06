@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912144412id_/https%3A//epoch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194156id_/https%3A//epoch.com/privacy.html) for the most accurate reproduction.*
 
-# Epoch.com - Credit Card Processing and Customer Billing Support
+# Epoch.com - Accept Payments Online Worldwide
 
 Online and off-line privacy is constantly evolving and Epoch plans to take all reasonable efforts to maintain up to date and effective privacy standards and practices. You may also contact us at legal@epoch.com with any questions or concerns that you may have. 
 
@@ -10,21 +10,30 @@ If you choose to provide us with your Personal Information through our website (
 
 Epoch strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Epoch intends to adhere to the principles set forth in this Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to other countries. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
 
-To protect your privacy, we have adopted the following principles: 
+To protect your privacy, we have adopted and comply with the following principles: 
 
-  * Notice 
-  * Choice 
-  * Accountability for Onward Transfer 
-  * Security 
-  * Data Integrity & Purpose Limitation 
-  * Access 
-  * Recourse, Enforcement & Liability 
+  * Notice
+  * Choice
+  * Accountability for Onward Transfer
+  * Security
+  * Data Integrity & Purpose Limitation
+  * Access
+  * Recourse, Enforcement & Liability
 
 
 
-## Notice
+##### **Privacy Shield***
 
-#### Information Collection and Use
+Epoch complies with the EU-US Privacy Shield Framework and Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from European Union and Switzerland to the United States respectively. Epoch has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program and to view our certification page, please visit [U.S. Department of Commerce's Privacy Shield website](https://www.privacyshield.gov/). 
+
+*Not applicable to Epoch's European subsidiary 
+
+##### **Notice**
+
+  
+
+
+###### **Information Collection and Use**
 
 You may access and browse our Website without disclosing any Personal Information. However, if you attempt to retain Epoch's Services for your websites and/or to purchase a product or service online, Epoch may request that you voluntarily supply it with Personal Information. Personal Information we collect and how we use it is as follows: 
 
@@ -38,7 +47,7 @@ You may access and browse our Website without disclosing any Personal Informatio
 
 Epoch is the sole owner of the information collected. We will not sell, share, or rent this information to third parties, except as set forth in this Privacy Policy. We will not use any of your Personal Information to send you any promotional materials or advertisements. If you are a merchant or an affiliate of an Epoch merchant, you may from time to time receive from us important updates about our Services. If you are an affiliate of an Epoch merchant, you may also receive from us important updates about services of the Epoch merchant(s) for which you are an affiliate. If you are a customer, you may receive from us order/cancellation e-mail confirmations that are automatically generated whenever an order/cancellation is placed through us and that confirm your purchase or cancellation with important details about your purchase or cancellation, including but not limited to, product purchased/cancelled, order/cancellation date, username/password and our customer service toll free telephone number that may be used for any inquiries about the purchase/cancellation. 
 
-#### Information Sharing
+###### **Information Sharing**
 
 We ensure that your Personal Information will not be disclosed to anyone other than: 
 
@@ -50,15 +59,15 @@ We ensure that your Personal Information will not be disclosed to anyone other t
 
 
 
-## Choice
+###### **Choice**
 
 You may choose whether or not to provide Personal Information to us. If you choose not to provide the Personal Information we request, you can still visit most of Epoch's Website, but you will be unable to purchase a product or service online, setup an account with us and/or use our Services for your websites. If you choose to have a relationship with us, such as a contractual or other business relationship, you will be required to provide Personal Information in connection with such relationship. 
 
-## Accountability for Onward Transfer
+###### **Accountability for Onward Transfer**
 
-When we transfer Personal Information to a third party we will ensure that our agreement with the third party provides that such Personal Information may only be processed for limited and specified purposes consistent with the consent you provided and that the third party will provide the same level of protection as the Privacy Shield Principles and will notify us if it determines that it can no longer meet this obligation. In cases of onward transfer to third parties of data of EU individuals, we are potentially liable. 
+When we transfer Personal Information to a third party we will ensure that our agreement with the third party provides that such Personal Information may only be processed for limited and specified purposes consistent with the consent you provided and that the third party will provide the same level of protection as the Privacy Shield Principles and will notify us if it determines that it can no longer meet this obligation. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US Privacy Shield or Swiss-US Privacy Shield respectively, we are potentially liable. 
 
-## Security
+###### **Security**
 
 We have implemented security policies, rules and technical measures to protect the Personal Information that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. Epoch utilizes HTTP Secure (HTTPS) and/or Transport Layer Security (TLS) when receiving and transmitting information electronically. 
 
@@ -66,52 +75,46 @@ We protect Personal Information by maintaining physical, electronic and procedur
 
 Finally, your Personal Information is disposed by shredding paper records and by the use of the shred tool that ensures that any and all electronically stored files are permanently removed from hard disks and any other electronic media which are then also physically destroyed before being disposed. 
 
-## Data Integrity & Purpose Limitation
+###### **Data Integrity & Purpose Limitation**
 
-We will take reasonable steps to ensure that all personal information that we collect is accurate, complete, current and reliable for its intended use and purpose which may include those that reasonably serve payment processing, customer relations, compliance and legal considerations, auditing, security and fraud prevention, preserving or defending our legal rights or other reasonable uses in this context. You may send updates, corrections, and requests to remove your Personal Information to legal@epoch.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. We will retain your Personal Information only for as long as it is necessary for purposes as identified above. 
+We will take reasonable steps to ensure that all personal information that we collect is accurate, complete, current and reliable for its intended use and purpose which may include those that reasonably serve payment processing, customer relations, compliance and legal considerations, auditing, security and fraud prevention, preserving or defending our legal rights or other reasonable uses in this context. You may send updates and corrections about your Personal Information to legal@epoch.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. We will retain your Personal Information only for as long as it is necessary for purposes as identified above. 
 
-## Access
+###### **Access**
 
 You may inquire about your Personal Information being held by Epoch by sending an email to legal@epoch.com. Upon meeting certain security measures, Epoch shall provide you with a copy of the Personal Information that it keeps about you. Prior to completing your request, Epoch may require that you provide us with certain items as a proof of your identity. Epoch reserves the right to refuse a request where the burden or expense of providing access would be disproportionate to the risks to your privacy or where the rights of persons other than You would be violated. 
 
-## Recourse, Enforcement & Liability
+###### **Recourse, Enforcement & Liability**
 
-In compliance with the EU-US Privacy Shield Principles, we are committed to investigate and expeditiously resolve complaints about your privacy and our collection or use of your Personal Information. Epoch uses the self-assessment method of verification of compliance and is subject to the enforcement authority of the US Federal Trade Commission. 
+In compliance with the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles, we are committed to investigate and expeditiously resolve complaints about your privacy and our collection or use of your Personal Information. Epoch uses the self-assessment method of verification of compliance and is subject to the enforcement authority of the US Federal Trade Commission. 
 
-European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact us at legal@epoch.com or via post at Epoch, Attn: Chief Privacy Officer, 2644 30th Street, 2nd Floor, Santa Monica, California 90405, USA. 
+European Union and Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us at legal@epoch.com or via post at Epoch, Attn: Chief Privacy Officer, 2644 30 th Street, 2nd Floor, Santa Monica, California 90405, USA. 
 
-We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to JAMS, an independent dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint regarding our compliance with the EU-US Privacy Shield Principles or if your complaint is not satisfactorily addressed, please visit https://www.jamsadr.com/eu-us-privacy-shield to file a complaint. 
+We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles to JAMS, an independent dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint regarding our compliance with the EU-US Privacy Shield Principles or Swiss-US Privacy Shield Principles or if your complaint is not satisfactorily addressed, please visit <https://www.jamsadr.com/eu-us-privacy-shield> to file a complaint. 
 
-If you do not receive a timely acknowledgment of your complaint regarding our compliance with the EU-US Privacy Shield Principles from JAMS or if your complaint is not satisfactorily addressed through JAMS, you may complain to the US Department of Commerce through the EU Data Protection Authority in the country in which you reside. 
+If you do not receive a timely acknowledgment of your complaint regarding our compliance with the EU-US Privacy Shield Principles or Swiss-US Privacy Shield from JAMS or if your complaint is not satisfactorily addressed through JAMS, EU individuals may complain to the US Department of Commerce through the EU Data Protection Authority in the country in which you reside while Swiss individuals may complain to the US Department of Commerce through the Swiss Federal Data Protection and Information Commissioner in Switzerland. 
 
-If you do not receive a timely acknowledgment of your complaint regarding our compliance with the EU-US Privacy Shield Principles from the US Department of Commerce or if your complaint is not satisfactorily addressed through the US Department of Commerce, you may invoke arbitration with the Privacy Shield Panel to determine whether we have violated our obligations under the EU-US Privacy Shield Principles. For more information about the arbitral model, please review Annex 1 available at http://ec.europa.eu/justice/data-protection/files/annexes_eu-us_privacy_shield_en.pdf. 
+If you do not receive a timely acknowledgment of your complaint regarding our compliance with the EU-US Privacy Shield Principles or Swiss-US Privacy Shield Principles from the US Department of Commerce or if your complaint is not satisfactorily addressed through the US Department of Commerce, EU individuals may invoke arbitration with the Privacy Shield Panel to determine whether we have violated our obligations under the EU-US Privacy Shield Principles. For more information about the arbitral model, please review Annex 1 available at <http://ec.europa.eu/justice/data-protection/files/annexes_eu-us_privacy_shield_en.pdf>. Swiss individuals may be able to invoke arbitration in the future with the Swiss Federal Data Protection and Information Commissioner in Switzerland. 
 
-## Cookies
+###### **Cookies**
 
-Epoch uses "cookie" technologies on some portions of Epoch's Website. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our Website. Epoch does not collect any personally identifiable information about your online activities over time and across third-party websites or online services. 
+Epoch uses 'cookie' technologies on some portions of Epoch's Website. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our Website. Epoch does not collect any personally identifiable information about your online activities over time and across third-party websites or online services. 
 
 Some of our third party service providers may use cookies to collect personally identifiable information about your online activities over time and across third-party websites. Please visit webcookies.info and each third party service providers' privacy policy for more information. 
 
 We have no access to information collected by third parties' cookies and third parties have no access to information collected by ours. 
 
-## Third Parties
+###### **Third Parties**
 
 Any websites displayed to you by our Website as Internet search results or linked to Internet search results pages provided to you by our Website have been developed by third parties over which Epoch exercises no control. Such websites may send their own cookies to end users, collect data, or solicit personal information from you. Epoch is not responsible for the privacy practices or the content of such websites, including such websites' use of any information collected when you are directed to or click through to such websites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those websites. 
 
-## Privacy Shield*
-
-Epoch complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Epoch has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program and to view our certification page, please visit [ U.S. Department of Commerce's EU-U.S. Privacy Shield website](https://www.privacyshield.gov/). 
-
-*Not applicable to Epoch's European subsidiary 
-
-## Children
+###### **Children**
 
 Epoch does not request, or knowingly collect Personal Information from children under the age of 13. Epoch does not give children the ability to post messages or otherwise distribute information about themselves through our Website or through any other means. 
 
-## Policy Changes
+###### **Policy Changes**
 
-We will make reasonable efforts to maintain an up to date and effective privacy policy. As such we reserve the right, at any time, to add, change, update, or modify this privacy policy by posting such change, update, or modification on our Website and without any other notice to you (except as set forth in this Privacy Policy). Any such change, update, or modification will be effective immediately upon posting on our Website. 
+We will make reasonable efforts to maintain an up to date and effective privacy policy. As such we reserve the right, at any time, to add, change, update, or modify this privacy policy by posting such change, update, or modification on our Website and without any other notice to you (except as set forth in this PrivacyPolicy). Any such change, update, or modification will be effective immediately upon posting on our Website. 
 
-## Effective Date
+###### **Effective Date**
 
-This page was last updated on 2016-08-01. We may change this statement from time to time, so please check periodically. 
+This page was last updated on 2017-05-30. We may change this statement from time to time, so please check periodically. 
