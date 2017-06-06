@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mydirtyhobby.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023120016id_/http%3A//cdn1.e11.mdhcdn.com/u/privacypolicy_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydirtyhobby.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080823id_/http%3A//cdn1.e11.mdhcdn.com/u/privacypolicy_en.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
                                        PRIVACY POLICY
-         Last Modified: July 29, 2016
+         Last Modified: April 25, 2017
 Introduction
 We respect your privacy and are committed to protecting it through our compliance with
 this privacy policy.
 This privacy policy describes the types of information we may collect from the users or
-the performers or that you may provide when you visit www.MyDirtyHobby.com
+the performers or that you may provide when you visit www.mydirtyhobby.com
 (hereinafter “MyDirtyHobby” or the “Website”), our practices for collecting, using,
 maintaining, protecting and disclosing that information and your choices about such uses
 and disclosures.
@@ -584,10 +584,10 @@ User Contributions
 We may provide areas on our Website where you can post information about yourself
 and others and communicate with others, upload content (e.g., pictures, videos, audio
 files, etc.), and post comments or reviews of content found on the Website. Such
-postings       are     governed       by      our     terms      of      use     found     at
-http://cdn1.e11.mdhcdn.com/u/TermsofUse_en.pdf. If you use a forum, blog, channel,
-bulletin board, chat room, user commenting features, or other interactive sharing or
-social features that may be offered through our Website, you should be aware that any
+postings are governed by our terms of use found at https://cdn1-l-ha-
+e11.mdhcdn.com/u/TermsofUse_en.pdf. If you use a forum, blog, channel, bulletin
+board, chat room, user commenting features, or other interactive sharing or social
+features that may be offered through our Website, you should be aware that any
 personal information you submit, display, or publish there is considered publicly available
 and can be read, collected, used, and disclosed by other users of those features, by us,
 and other third parties without restriction, except to the extent limited access features are
@@ -613,7 +613,7 @@ If you delete your User Contributions from the Website, copies of your User
 Contributions may remain viewable in cached and archived pages, or might have been
 copied or stored by other Website users. Proper access and use of information provided
 on the Website, including User Contributions, is governed by our terms of use found at
-http://cdn1.e11.mdhcdn.com/u/TermsofUse_en.pdf.
+https://cdn1-l-ha-e11.mdhcdn.com/u/TermsofUse_en.pdf.
                                               13
 
 
@@ -647,9 +647,9 @@ Changes to Our Privacy Policy
 We may modify or revise our privacy policy from time to time in our sole discretion and
 you agree to be bound by such modifications or revisions. Although we may attempt to
 notify you when major changes are made to this privacy policy, you are expected to
-periodically       review       the      most      up-to-date       version      found      at
-http://cdn1.e11.mdhcdn.com/u/privacypolicy_en.pdf, so you are aware of any changes,
-as they are binding on you.
+periodically review the most up-to-date version found at https://cdn1-l-ha-
+e11.mdhcdn.com/u/privacypolicy_en.pdf, so you are aware of any changes, as they are
+binding on you.
 If we change anything in our privacy policy, the date of change will be reflected in the
 “last modified date”. You agree that you will periodically review this privacy policy and
 refresh the page when doing so. You agree to note the date of the last revision to our
