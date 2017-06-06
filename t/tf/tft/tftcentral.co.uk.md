@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the tftcentral.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121010812id_/http%3A//tftcentral.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tftcentral.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123552id_/http%3A//www.tftcentral.co.uk/privacy.htm) for the most accurate reproduction.*
 
-# TFT Central
+# 
 
-   
-All the latest industry news and various in depth articles   
-  [ Articles](http://www.tftcentral.co.uk/articles.htm)  
-  [ News](http://www.tftcentral.co.uk/news.htm)
-
-  
-Information about the technology used including:  
-  [Terms & Functions](http://www.tftcentral.co.uk/features.htm)  
-  [Advanced Technology](http://www.tftcentral.co.uk/advanced.htm)  
-  [ How TFT's Work](http://www.tftcentral.co.uk/working.htm)  
-  [Panel Parts Database](http://www.tftcentral.co.uk/articles/panel_parts.htm)
-
-|   
-
- _ ** Privacy Policy and Cookies**_
+_** Privacy Policy and Cookies**_
 
 At TFTCentral, the privacy of our visitors is of utmost importance to us. This privacy policy document outlines the types of personal information that are received and collected by us and how it is used. If you require any more information or have any questions about our privacy policy please feel free to email us using the links at the top of the page.  
  
