@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the factorydirect.ca privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218200200id_/http%3A//www.factorydirect.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factorydirect.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132508id_/http%3A//www.factorydirect.ca/Privacy.aspx) for the most accurate reproduction.*
 
-# Canada’s best deals on Apple, Sony, Samsung, Unlocked Android, Blackberry, Panasonic, LG, Acer, JVC and many more. Canada’s discount liquidator – factorydirect.ca
+# Canada’s best deals on unlocked apple and android cell phones, TVs, tablets, android media players, air conditioners, fidget spinners, kitchen appliances, bathroom accessories, as seen on tv products, gazeebos, tents and more
 
 ## **WHAT INFORMATION DOES FACTORYDIRECT.CA COLLECT?**
 
