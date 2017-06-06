@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultsearch.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122346id_/http%3A//adultsearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultsearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065533id_/http%3A//adultsearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
