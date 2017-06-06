@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonyopentennis.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202195345id_/http%3A//www.miamiopen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyopentennis.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133700id_/http%3A//www.miamiopen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
