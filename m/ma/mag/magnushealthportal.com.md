@@ -1,130 +1,124 @@
-> *The following text is extracted and transformed from the magnushealthportal.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623162000id_/http%3A//magnushealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnushealthportal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150902id_/http%3A//magnushealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Magnus Health | Privacy Policy
+# Privacy Policy - Home - Magnus Health
 
-### Information Collection and Use
+## Privacy Policy
 
-##### **General**
+**What This Privacy Policy Covers**
 
-Magnus Health collects personal information when you register with Magnus Health, when you use Magnus Health’s SMR, and when you visit Magnus Health. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Magnus Health.
+This Privacy Policy covers how Magnus Health, LLC (“Magnus”) treats personal information that Magnus collects and receives in connection with your use of[ www.magnushealth.com](http://www.magnushealth.com/),[ www.magnus911.com](http://www.magnus911.com/), and any other web site operated by Magnus (collectively, the “Site”); and all related technologies, software, and services provided by Magnus. Personal information is information about you that is personally identifiable, like your name, address, email address, phone number, or health records, and that is not publicly available. The use of information collected through our service such as student demographic, health, and collected form information shall be limited to the purpose of providing the service for which the Client has engaged Magnus Health; including supporting the client and answering questions and resolving issues regarding student(s). This policy does not apply to the practices of companies that Magnus does not own or control, or to people that Magnus does not employ or manage.
 
-When you register, we ask for information such as your name, email address, birth date, gender, and zip code. We may also ask for your address, and other important health related information. Once you register with Magnus Health and sign in to our services, you are not anonymous to us.
+This Privacy Policy covers both the public-facing marketing web site operated by Magnus (the “Public Site”) and the web sites and services provided only to users of its subscription service (the “Service”).  It also describes your choices regarding use, access and correction of your personal information for the primary reason of supporting our clients.
 
-Magnus Health automatically receives and records information on our server logs from your browser, including your IP address, Magnus Health cookie information, and the page you request. Magnus Health uses information for the following general purposes: to fulfill your requests for services, improve our services, to deliver targeted educational information, and to contact you.
+As noted below, certain parts of the Privacy Policy apply only to the Public Site, and certain parts apply only to the Service.
 
-If you choose to use our medical proxy service, we will ask you for your proxy’s name and email address. We will automatically send your proxy a one-time email inviting them to visit the website. Magnus Health stores this information for the sole purpose of keeping a record of the proxy. Your proxy may contact us [here](http://helpdesk.magnushealth.com/customer/portal/emails/new "http://helpdesk.magnushealth.com/customer/portal/emails/new") to request that we remove this information from our database.
+Magnus provides its subscription Service to customers who are educational institutions (“Customers”).  The Service is designed to assist schools in managing health care matters relating to its students.  This Privacy Policy is between Magnus and it’s clients and does not impact or change any of the privacy policies, terms, and/or agreements between a school and their students and parents.  We encourage you to review your school’s privacy policies, terms and agreements to see how your personal information may be used or disclosed by your school.
 
-### Information Related to Data Collected through SMR
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+**Student Privacy Pledge  
+**Magnus has taken the **_Student Privacy Pledge_**  by publicly committing to responsibly collect student data. The Student Privacy Pledge is accessible [here](https://studentprivacypledge.org/privacy-pledge/).
+
+Information Collection and Use  
+Magnus collects personal information when you register with the Service and when you use the Service. The use of information collected through our Service is limited to the purpose of providing the Service for which Magnus has been engaged.
+
+Visitors to our Public Site may provide us with name, email and other contact information if they request additional information regarding our Service.
+
+Magnus receives certain student information from Customers in connection with the implementation and provision of the Service.  For example, Customers provide basic student information, manually or through integration with student information systems, in connection with the Service when they are setting up the Service for their use.
+
+Parents also provide health care and other personal information (such as immunization history, allergies, etc.) regarding students for use by Customers in connection with the Service.
+
+You may be able to log into our Service using single sign-on providers or single sign-on features of other products.  These services will authenticate your identity and may share certain personal information with us such as your name and email address.
+
+Magnus automatically receives and records information on our server logs from your browser, including your IP address, Magnus cookie information, and the page you request. Magnus uses information to fulfill support requests, improve its Service, and determine which technologies to support.
+
+Magnus may provide you with information from third party providers in order to educate you on health and wellness opportunities. Examples of this type of information include, but are not limited to immunization information and information about particular medications.
+
+Magnus may aggregate your information with information from other users and share aggregated, de-identified information with interested third parties.
 
 Magnus Health collects information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes. Magnus Health works with its clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.
 
-##### **Choice**
+Tracking Technologies  
+We and our partners, analytics, or online customer support provider, use cookies or other similar technologies at [www.magnushealth.com](http://www.magnushealth.com/). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We collect information for our clients. If you are a customer of one of our clients and would no longer like to be contacted by one of our clients that use our service, please contact the client that you interact with directly.
+We use cookies to remember users’ settings and authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Site, but your ability to use some features or areas of our Site may be limited
 
-##### **Service Provider, Sub-Processors/Onward Transfer**
+**Behavioral Targeting / Re-Targeting**  
+We partner with a third party to manage advertising. Magnus does not participate in behavioral advertising and will not display ads. If our third party partner(s) are providing advertising and you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Magnus cannot control all advertising you see while browsing as this can be dependent on your individual browser and/or computer settings.
 
-Magnus Health will only transfer personal information to companies that help us provide our service, such as a hosting provider. We will never sell personal information to third parties. Transfers to subsequent third parties are covered by the provisions in this policy regarding notice and choice and the service agreements with our clients.
+As is true of most websites, we gather certain information automatically and store it in log files based upon usage of our Public Site. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data.
 
-##### **Access to Data Controlled by our Clients**
+We use this information, which does not identify individual users, to analyze trends, to administer the Public Site, to track users’ movements around the Public Site and to gather demographic information about our user-base as a whole. We do not link this automatically-collected data to personal information. This information is primarily used to support our users.
 
-Magnus Health has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Magnus Health client (the data controller). If the client requests Magnus Health to remove the data, we will respond to their request within 30 business days.
+**Information Sharing and Disclosure**  
+Magnus will share your personal information with Customers and other third parties only in the ways that are described in this Privacy Policy. Magnus does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide the Service, when we have your permission, or under the following circumstances:
 
-##### **Children**
-
-Children under age 18 may not register with Magnus Health. We ask that patients who are minors be registered under a parent or guardian’s Magnus Health account.
-
-Magnus Health will not contact children under age 18 about our services.
-
-Magnus Health does not ask a child under age 18 for more personal information.
-
-### **Information Sharing and Disclosure**
-
-Magnus Health will share your personal information with third parties only in the ways that are described in this privacy policy. Magnus Health does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide services you’ve requested, when we have your permission, or under the following circumstances:
-
-  * We provide the information to emergency personnel and other healthcare professionals under HIPAA confidentiality agreements. These professionals may use your personal information to help Magnus Health communicate with you.
+  * Information held in the Service is used by Customers (schools) to manage compliance with legal requirements relating to student immunizations, health records and other matters; manage their health departments; and communicate with faculty, staff, and parents.
+  * We provide the information to emergency personnel and other healthcare professionals as described in our Service under applicable HIPAA rules and confidentiality requirements. These professionals may use your personal information to perform medical services as authorized, and to communicate with you.
+  * In certain situations, Magnus Health may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Magnus terms of use, or as otherwise required by law.
-  * We transfer information about you if Magnus Health is acquired by or merged with another company. In this event, Magnus Health will notify you before information about you is transferred and becomes subject to a different privacy policy.
-  * We may deliver educational information or product information from companies that provide relevant information, products or services for our customers. These companies do not receive your personal information.
-  * We may provide your personal information to companies that provide services to help us with our business activities such as hosting provider or customer service provider. These companies are authorized to use your personal information only as necessary to provide these services.
+  * Magnus may share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Magnus terms of use, or as otherwise required by law.
+  * In the event that Magnus is acquired by or merged with another company, Magnus may share information regarding our clients with that company. Magnus will notify you before information about you is transferred that becomes subject to a different privacy policy.
+  * We may deliver educational information or product information from companies that provide relevant information, products or services for our Customers. These companies do not receive your personal information.
+  * We may provide information about your school to companies that assist us in providing Services,  such as a hosting provider or a customer service provider. These companies are authorized to use your information only as necessary to provide these Services and to assist with supporting our clients.
 
 
 
-Magnus Health works with partners and other service providers in the healthcare and education industries. For more information regarding providers of services that you’ve requested please read our detailed reference links below.
+Magnus works with partners and other service providers in the healthcare and education industries. For more information regarding providers of services that you’ve requested please read our detailed reference links below.
 
-[Integrations](https://web.archive.org/integrations) [Partners](https://web.archive.org/partners)
+**Integrations**
 
-#####  **Tracking Technologies**
+Transfers to subsequent third parties are covered by the provisions in this policy regarding notice and choice and our service agreements with our Customers.
 
-We and our partners, analytics, or online customer support provider, use cookies or other similar technologies at magnushealth.com. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+**Choice and Access**
 
-We use cookies to remember users’ settings and authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited
+**Choice  
+**You may contact your school (our Customer) if you have any questions regarding information collected through the Service.
 
-##### **Behavioral Targeting / Re-Targeting**
+We reserve the right to send you certain communications relating to the Service, such as Service announcements and administrative messages, which are considered part of your Magnus account, without offering you the opportunity to opt-out of receiving them.
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+**Access and Changes to Your Data  
+**Upon request Magnus Health will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by contacting us.  We will respond to your request within a reasonable timeframe.
 
-##### **Local Storage Object (Flash/HTML5)**
+Some of your information may be accessed and modified through the Service. For example, parents can review, edit, and delete information relating to their child’s basic medical information in the Service.  Magnus Health acknowledges that you have the right to access your personal information. Magnus Health has no direct relationship with the individuals whose personal data it processes. For other information, an individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to the Magnus Customer, who is the data controller. If requested to remove the data, we will respond within a reasonable timeframe.
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
+You can disable your Magnus account by contacting Magnus directly. Magnus will retain your information for as long as your account is active or for as long as needed to provide services to our Customer. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
+**Children  
+**Children under age 18 may not have their own account with the Service. Accounts for minors are administered by their parent or guardian. Magnus will not contact children under age 18 about our Service, and does not ask a child under age 18 for more personal information.
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data.
+**Security  
+**The security of your personal information and our Customers’ information is important to us. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide our Service or in order to do their jobs.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information.
+We have physical, electronic, and procedural safeguards that comply with HIPAA and federal regulations to protect personal information about you. When you enter sensitive information, such as login credentials or health information on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-### **Your Ability to Edit and Delete Your Account Information and Preferences**
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it, however no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security of our Service, please contact us at [helpdesk@magnushealth.com](mailto:helpdesk@magnushealth.com).
 
-##### **General**
+To learn more about security, including the security steps we have taken and security steps you can take, please read our Privacy and Security Policy at [magnushealth.com/privacy-and-security/](http://magnushealth.com/privacy-and-security/).
 
-You can edit your Magnus Health account information at any time. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, or deactivate it by making the change on our member information page or by emailing our customer support [helpdesk@magnushealth.com](mailto:helpdesk@magnushealth.com) We will respond to your request to access within 30 days. Information related to data collected through the Magnus Health SMR follows the rules listed above.
-
-We reserve the right to send you certain communications relating to Magnus Health’s SMR or other Magnus Health services, such as service announcements and administrative messages, which are considered part of your Magnus Health account, without offering you the opportunity to opt-out of receiving them.
-
-You can delete your Magnus Health account by contacting Magnus Health directly. Magnus Health will retain your information for as long as your account is active or as needed to provide you services and also retain personal data we process on behalf of our clients for as long as needed to provide services to our client. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-##### **Children**
-
-Parents can review, edit, and delete information relating to their child’s Magnus Health SMR account.
-
-If a parent chooses not to allow us to further collect or use a child’s information, parents enrolled in a Magnus Health account can delete their child’s account by contacting Magnus Health directly.
-
-### **Confidentiality and Security**
-
-The security of your personal information and our clients’ information is important to us. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide services to you or in order to do their jobs.
-
-We have physical, electronic, and procedural safeguards that comply with HIPAA and federal regulations to protect personal information about you. When you enter sensitive information, such as log in credentials and a credit card number or health information on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
-
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, please contact us at [helpdesk@magnushealth.com](mailto:helpdesk@magnushealth.com).
-
-To learn more about security, including the security steps we have taken and security steps you can take, please read our Privacy and Security Policy at [magnushealth.com/privacy-and-security/](http://magnushealth.com/privacy-and-security/ "http://magnushealth.com/privacy-and-security/").
-
-### **Additional Information**
-
-Our site includes links to other websites whose privacy practices may differ from those of Magnus Health. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+**Additional Information  
+**Our site includes links to other websites whose privacy practices may differ from those of Magnus. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
 If you wish to subscribe to our blog, we will use your name and email address to send the blog to you. Out of respect for your privacy, you may choose to stop receiving our blog or marketing emails by following the unsubscribe instructions included in these emails.
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please contact us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Public Site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please contact us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Our website includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
+Our Public Site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-### **Changes to this Privacy Policy**
+**Changes to this Privacy Policy**
 
-Magnus Health may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Magnus Health account or by placing a prominent notice on our site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+Magnus may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Magnus account or by placing a prominent notice on our site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
- **Questions & Suggestions**
+**Questions & Suggestions**
 
 If you have questions or suggestions, please contact us at:
 
-Magnus Health  
+Magnus Health
+
 Customer Care – Privacy Policy Issues
 
 323 West Martin Street  
 Raleigh, NC 27601  
 (877) 461-6831  
-[Help Desk](http://helpdesk.magnushealth.com/customer/portal/emails/new "http://helpdesk.magnushealth.com/customer/portal/emails/new")
-
-Effective Date: April 21, 2016
+[Help Desk  
+](http://helpdesk.magnushealth.com/customer/portal/emails/new)Effective Date: 01/25/2017
