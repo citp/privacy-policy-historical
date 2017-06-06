@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the final-score.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326182614id_/http%3A//www.final-score.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the final-score.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151341id_/http%3A//www.final-score.com/customerserv/help%3AprivacyStatement) for the most accurate reproduction.*
 
-# Customer Service - OtherServices - Privacy Policy | Final Score
+# Customer Service - OtherServices - Privacy Statement | Final Score
 
-Privacy Policy 
+[](http://www.final-score.com/customerserv/ "Customer Service")
+
+Privacy Statement 
 
 * * *
 
 
 
 
-Last Updated February, 2016
+Last Updated July, 2016
 
 Thank you for visiting our Website. We recently revised our Privacy Statement to make it easier for you to understand. This revised Privacy Statement, like our previous one, outlines the information we collect, how we may use and disclose it, and what your options are with respect to our practices. If you have any questions, please contact us at finalscore@eastbay.com
 
