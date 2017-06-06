@@ -1,34 +1,80 @@
-> *The following text is extracted and transformed from the dialog.lk privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227120856id_/http%3A//www.dialog.lk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialog.lk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183234id_/https%3A//www.dialog.lk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Dialog Axiata PLC (hereinafter referred to as “Dialog” “us” “we” or “our”) is committed to respecting your privacy and to complying with any applicable data protection and privacy laws. If you do submit personal information by signing up to login to the Dialog website services for example to order products, services etc., you can be assured that we will use your personal information only to support your continuing relationship with Dialog. We are providing this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit Dialog web and WAP sites and when you generally use our products and services. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. You should read this notice in conjunction with the terms & conditions of use for Dialog Web and WAP sites and any separate terms & conditions issued with your airtime or other product/service Contract.
+Dialog Axiata PLC and its subsidiaries (hereinafter collectively referred to as "Dialog" "us" "we" or "our") provide a range services including mobile, fixed telephony, broadband, television services and digital services. We are committed to protecting all Personal Information in our custody and providing our customers with the highest level of customer service. This Privacy Policy details the manner in which we shall collect, use and protect your Personal Information provided by you or obtained by us in the course of providing our Products and/or Services to you.
 
-**Personal Information Collection**
+This Policy should be read in conjunction with the subscriber terms and conditions and terms and conditions specific to the Products and/or services more fully detailed in our website. In the event of discrepancy between this Policy and such specific terms and conditions, this Policy shall prevail to the extent of such specific terms and conditions, this Policy shall prevail to the extent of such discrepancy. 
 
-We endeavour to collect and use your personal information only with your knowledge and consent and typically when you order and subsequently use products and services, make customer enquiries, register for information or other services, request product information, submit a job application or when you respond to communications from us (such as questionnaires or surveys). The type of personal information we may collect could include, for example, your name and postal address, date of birth, gender, telephone and fax numbers, email address, and credit / debit card information; lifestyle and other information collected on registration or through surveys. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected, and subject to any preferences indicated by you.
+With the view of maintaining its service excellence, Dialog shall constantly review and enhance its technical, physical and managerial procedures including rules to protect Personal Information from unauthorized access, accidental loss and / or destruction, and alteration or disclosure.
 
-**Non-personally identifying Information**
+**For the purposes of this Policy:**
 
-We may also collect non-personally identifying information about your visit to our web, WAP and other similar sites based on your browsing (click-stream) activities. This information may include the pages you browse and products and services viewed or ordered for example. This helps us to manage and develop our sites better, to provide you with a more enjoyable, customised service and experience in the future, and to help us develop and deliver better products and services tailored to your individual interests and needs.
+"Personal Information" means any Personal Information provided by you including but not limited to name, National Identity Card/ Passport/ Driving License Number, address, his/her image and information obtained by us in the course of providing Products and/or Services to you including but not limited to transactions with Dialog, contact number, account number, account balances, payment history and account activity.
 
-**How will we use your information?**
+"Third party" means a person or a company who is not a party to a contract or a transaction with Dialog, but excluding Dialog's agents, subsidiaries, government, security agencies, judiciary. 
 
-We may use your information for a number of purposes which includes: processing your orders and managing and administering your account; delivering any services, products or information requested by you; responding to complaints or account enquiries; administering debt recoveries; verifying your identity when required (you may lose your password or security information for example, and we may then need to ask you for other ‘identifiable’ information to protect your data from unauthorised access. We may also undertake market and product analysis based on your use of our services and products and contact you with information about new developments, products, services and special offers by post, telephone and automated means such as mobile text message (SMS), Email, Fax, Pager, WAP and the world wide web. We may also tell you about the products and services of carefully selected third parties and allow you to receive advertising and marketing information from those selected third parties without passing control of your personal information to the third party. For example we may send you information with your bill, or you may simply receive an advertisement on your personal web and WAP page according to any preferences indicated by you and/or according to your interests. This helps us to make you aware of products and services that we may have specially negotiated for our own customers and which may be of individual interest to you. You acknowledge that by providing data to us, you consent to the processing of your data in accordance with this Privacy Policy Statement.
+"Process" means series of actions taken in order to achieve a result. This includes collecting, organizing, adapting, altering, disclosing, sharing, disseminating, aligning, combining, blocking, erasing and destroying personal information.
 
-**When will we disclose your information to others?**
+"Products and/or Services" means the range of products and/or services offered by Dialog.
 
-We may disclose information about you, your account and your mobile phone to (i) companies within the for the purposes and subject to the terms of this Privacy Policy Statement; and (ii) in the event that we undergo re-organisation or are sold to a third party, in which case you agree that any personal information we hold about you may be transferred to that re-organised entity or third party for the purposes and subject to the terms of this Privacy Policy Statement.
+  * 1\. Scope 
+    * The scope of Policy shall be to detail the Privacy Policy applicable to all Products and/or Services offered by Dialog and set out the manner the Personal Information may be used by Dialog. 
+  * 2\. Personal Information Management Principles 
+    * 2.1. General Principle 
+      * 2.1.1. Subject to clause 2.2, 2.4 of this Policy, all Personal Information provided by you shall be used for the intended purposes stated at the time at which it was collected.
+      * 2.1.2. Continued use of the Products and/or Services shall amount to your consent for the processing of Personal Information by Dialog as per this Policy.
+      * 2.1.3. You have to be above 18 years (16 years - for prepaid) of age in order to subscribe to any of our Product and/or Services.
+    * 2.2. Notice Principle 
+      * 2.2.1. Dialog may process your Personal Information for the following purposes: 
+        * Provisioning of the contracted Products and/or Services;
+        * Processing your orders and managing and administering your account;
+        * Delivering any services, products or information requested by you;
+        * Responding to complaints or account enquiries;
+        * Administering debt recoveries;
+        * Verifying your identity when required (you may misplace your password or security information for example, and we may then need to request for other 'identifiable' information to protect your Personal Information from unauthorized access); 
+        * Undertake market and product analysis based on your use of our Products and/or Services (achieved by profiling your service preferences) and contact you with information on new developments, products, services and special offers by any means including but not limited to post, telephone and automated means such as mobile text message through Short Message Service (SMS), Email, Multimedia Message Service (MMS) and the world wide web or such other available methods; 
+        * Monitor CCTV recordings for surveillance, when you visit any Dialog customer care outlets; 
+        * Record calls placed by you to our customer care centre for the Products and/or Service enhancements and improvements thereto;
+        * Call records and Traction Details; and
+      * 2.2.2 Dialog may process non-personally identifying information about your visit to the Dialog website and other similar sites based on your browsing (click-stream) activities.
+    * 2.3. Choice Principle 
+      * 2.3.1. You may be given the opportunity to 'opt-out' of having your Personal Information at Dialog, which are used to provide information about Product and/or Services and third party services and/or products, which may be of interest to or benefit you. If you choose to 'opt-out', we may not be able to provide you with such information.
+    * 2.4. Disclosure Principle 
+      * 2.4.1. Please be informed that Dialog may disclose your Personal Information where necessary, for below mentioned reasons: 
+        * To any party, in compliance with legal and regulatory requirements; 
+        * To relevant security or law enforcement agencies, provided a valid court order or an authorised legal request is submitted to us, for prevention / detection of crime or prosecution of such offenders;
+        * Upon request of the TRCSL, CBSL and/or other Government institution / agencies / authorities; 
+        * To any party for the performance of Dialog's contract of providing any Products and/or Services to customers;
+        * To any party that act as Dialog's payment channels, including but not limited to, where applicable to validate your information, as and when required;
+        * To any party that acts as Dialog's agents or contractors for the purpose of recovering any amount payable to Dialog; 
+        * In the event that Dialog, any division or product/service undergoes re-organization or are sold to a third party, in which any of your Personal Information we hold may be transferred to the re-organized entity or third party subject to the principles in this Privacy Policy; and
+        * To protect Dialog's vital interests.
+    * 2.5. Security Principle 
+      * Dialog shall take all responsible steps to safeguard the confidentiality and security of all Personal Information, including appropriate procedural, organizational and technical steps to protect Personal Information from accidental or unlawful destruction or accidental loss, alteration or disclosure. 
+      * We do not accept any responsibility whatsoever for any unauthorized access or loss of Personal Information that is beyond our control.
+    * 2.6. Data Integrity Principle 
+      * 2.6.1. Subject to and to the extend you have made available to us, the Personal Information and any updates thereto, Dialog shall make reasonable endeavours to maintain complete, current, and accurate information about you. Any inaccurate information that is brought to our attention shall be corrected within a reasonable period of time from the receipt of written notification by you of the same. Procedures will be maintained to ensure that any reported inaccuracies are promptly and effectively handled and that Personal Information remains as accurate, current and complete as possible. Any requested amendments may be subjected to prevailing and applicable laws and regulation.
+      * 2.6.2. You are responsible for the accuracy and completeness of the Personal Information provided to Dialog. Failure to provide the same to us, as required, may result in your application for Products and/or Services being rejected, the subscriber agreement being terminated.
+    * 2.7. Access Principle 
+      * Dialog shall make available (to the extent possible) to a registered customer his/her Personal Information in our possession or control within a reasonable time at a reasonable cost. 
+  * 3\. Sensitive Personal Information (SPI) 
+    * 3.1. We are committed to protect any Sensitive Personal Information under the possession of Dialog, by exerting necessary safeguards in order to provide you the highest level of customer service.
+  * 4\. Dialog Websites 
+    * 4.1. Dialog reserves the right to record anonymous/aggregated information (such as the time, date and URL of the request) of you accessing our websites. This information shall be used by Dialog to improve the customer experience of our websites and monitor performance of these websites. Such analysis of these anonymous/aggregated information may be conducted by Dialog or our authorised third party representative. 
+    * 4.2. You shall be required to provide Dialog with standard information such as your Login ID, Password, and Personal Information for verification purposes when accessing Dialog websites, to make available the Services requested by you. It shall be the sole responsibility of you to maintain the confidentiality of your Login ID and Password.
+  * 5\. IP Addresses, Cookies and Session Identifiers 
+    * 5.1. We may use IP addresses, cookies and session identifiers to record details such as a user identity and general registration details on your device(s) to assist us to recognize you on subsequent visits to carry out aforesaid activities. You may disable such recordings of details by configuring the respective internet browser/ client application.
+  * 6\. Interest-Based Advertising 
+    * 6.1. Please be informed that we use remarketing as well as Interest-based advertising with third party analytic tools. These third parties may display our advertisements on websites across the Internet. 
+    * 6.2. You may configure and personalize your current browser/ client application to refuse, reject or delete collection of information for Interest Based Advertising. 
+  * 7\. Caller Identification (Caller ID) 
+    * Dialog's Caller ID facility lets persons, who receive phone calls to identify who is calling them by displaying the caller's number. Caller ID forms part of the ordinary telephony service that is provided by Dialog. In addition, Caller ID will usually cause your phone number to be displayed (or logged) - locally and sometimes internationally - on a receiving caller's phone. 
+  * 8\. Contact us 
+    * We are committed to protecting the Personal Information of all customers that we deal with. 
+    * If you have any questions/concerns in relation to this Policy, please contact us at
+    * Email: [privacy@dialog.lk](mailto:privacy@dialog.lk)
+    * We continuously strive to address your feedback and concerns in a timely and effective manner. We look forward to your suggestions and valuable inputs.
+    * Dialog reserves the right to change provisions of this Policy as a whole or in any portion from time to time at its sole discretion with or without notice to the customer.
 
-Please note that Dialog does not sell or pass your personal information to third parties (other than as set out in the paragraph above) unless you have given us permission or unless it is necessary to deliver the products and services ordered or used by you. For example, we may disclose your data to a credit card company to validate your credit card details and obtain payment when you buy a phone or other product or service. It may also be necessary to pass your data to the organisation from whom you have ordered any products or services, such as a location-based service like for example ‘Tell me where my nearest music shop is’. Dialog may also be obliged to disclose your personal information to meet any legal or regulatory requirements or obligations in accordance with local or international applicable law.
 
-**Cookies**
-
-We may use cookies to record details such as a user identity and general registration details on your PC. This helps us recognise you on subsequent visits so that you don’t have to re-enter your registration details each time you visit us and allows us to carry out those activities mentioned in the above section “non-personally identifying information”. Depending upon the type of browser you are using, you may be able to configure your browser so that: (i) you are prompted to accept or reject cookies on an individual basis or (ii) you may be able to prevent your browser from accepting any cookies at all. You should refer to the supplier or manufacturer of your web browser for specific details about cookie security.
-
-Please be informed that we use Remarketing as well as Google’s Interest-based advertising or third-party audience data (such as age, gender and interests) with Google Analytics. Third-party vendors, including Google, may show our advertisements on sites across the Internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve advertisements based on your past visits to our website and also to report how our advertisement impressions, other uses of advertisement services, and interactions with these advertisement impressions and advertisement services are related to your visits to our site.
-
-**Access to your Information  
-Information Security**
-
-Dialog recognises that you are increasingly concerned about how companies protect personal information from misuse and abuse and about privacy in general. We are constantly reviewing and enhancing our technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and / or destruction. We use industry standard secure sockets layer (SSL) technology, for example, to encrypt sensitive information such as your credit card and other financial information. Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered – this is the nature of the World Wide Web/Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
