@@ -1,0 +1,911 @@
+<!--The following is the downloaded HTML source of the globalinterpark.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606135907id_/http%3A//www.globalinterpark.com/policies/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class="en"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>interpark</title>
+<meta name="description" content="Interpark global website">
+<link rel="shortcut icon" href="http://openimage.interpark.com/cbt/img/icons/favicon.ico">
+<link rel="stylesheet" href="/cbt/css/commons/common.page.css?201706051001">
+<script type="text/javascript" src="/common/js/jquery_2_0_3.js?201706051001"></script>
+<script type="text/javascript" src="/common/js/jquery.i18n.properties.js?201706051001"></script>
+<script type="text/javascript" src="/common/js/js.cookie.js?201706051001"></script>
+<script type="text/javascript" src="/common/js/jquery.blockUI.js?201706051001"></script>
+<script type="text/javascript" src="/common/js/jquery.stickr.js?201706051001"></script>
+<script type="text/javascript" src="/common/js/jquery.cookie.js?201706051001"></script>
+<script type="text/javascript" src="/common/js/customSelect.js?201706051001"></script>
+<script type="text/javascript" src="/common/js/common.js?201706051001"></script>
+<script type="text/javascript" src="/cbt/js/CookieUtil.js?201706051001"></script>
+<script type="text/javascript" src="/cbt/js/popupOpener.js?201706051001"></script>
+
+<script type="text/javascript" src="/cbt/js/common.js?201706051001"></script>
+<script src="/common/js/jquery.bxslider.js"></script>
+
+
+
+
+
+<script>
+    lang = "en";
+    currency = "usd";
+    rate = "";
+    domain_url = "www.globalinterpark.com";
+    pc_domain = "www.globalinterpark.com";
+    param_country = "us";
+    snsFbClientId = "1623958717855547";
+    var loginFlag = "false";
+    var top_banner_flag = "false";
+    var top_banner_link = "";
+    var top_banner_img = "";
+</script>
+<link rel="stylesheet" href="/cbt/css/pages/policies.css"></head>
+
+<body id="policies">
+    
+
+
+
+
+<input type="hidden" id="cacheTest" name="cacheTest">
+<script>
+	var oldrqval = "";
+    $(document).ready(function(event) {
+        fn_getBannerList();
+        $("div.search_list > ul > li").each(function() {
+            $(this).click(function() {
+                var val = $(this).text();
+                if(val != "") {
+                    $("#search_value").val(val);
+                    location.href = "/main/searchList?q=" + val;
+                }
+
+            });
+        });
+
+        $("#search_value").keyup(function(event) {
+
+            var e;
+            var keycode;
+            if (event) {
+                e = event;
+            } else {
+                e = window.event;
+            }
+
+            if (e.which) {
+                keycode = e.which;
+            } else {
+                keycode = e.keyCode;
+            }
+            fn_visibleDeleteButton($(this).val());
+            if ($(this).val() != "" && $(this).val() != null) {
+
+                if (keycode == 13 || keycode == 26) {
+                    location.href = "/main/searchList?q=" + encodeURIComponent($(this).val());
+                }
+                var rqval = $(this).val().trim();
+                var lc = rqval.charAt(rqval.length - 1);
+                if (lc >= 'ㄱ' && lc <= 'ㅎ') {
+                    return;
+                }
+                if (rqval.replace(/(^\s*)|(\s*$)/gi, "") != oldrqval) {
+                    getSearchKeyword(rqval);
+                    oldrqval = rqval.replace(/(^\s*)|(\s*$)/gi, "");
+                }
+                $("#btn_search_delete").css("display", "block");
+            } else {
+                $(".flexibleWrap").hide();
+                $("#btn_search_delete").css("display", "none");
+                oldrqval = "";
+            }
+        });
+
+        $("#search_value").blur(function(){
+            fn_visibleDeleteButton($(this).val());
+        });
+
+		$("#search_value").focus(function(){
+		    fn_visibleDeleteButton($(this).val());
+        });
+
+        $("#btn_search_delete").click(function() {
+            $("#search_value").val("");
+            $(".flexibleWrap").hide();
+            $("#btn_search_delete").css("display", "none");
+            $("#search_value").focus();
+        });
+
+        $("div.search_list > ul > li").each(function() {
+            $(this).click(function() {
+                $("#search_value").val($(this).text());
+                location.href = "/main/searchList?q=" + $(this).text();
+            });
+        });
+
+        $("[name=select_language]").click( function(){
+            fnc_changeLocale($(this).attr("val"));
+        });
+
+        $("[name=select_currency]").click( function(){
+            fnc_changeCurrency($(this).attr("val"));
+        });
+
+        $("#selected_language").attr("class", lang);
+        $("#selected_language").find("span").text($("[name=select_language][val="+ lang + "]").text());
+        $("#selected_currency").attr("class", currency);
+        $("#selected_currency").find("span").text($("[name=select_currency][val="+ currency + "]").text());
+
+        $("[name=btn_logout]").click(fnc_logout);
+
+/* 		if(top_banner_flag == "true"){
+		    if(getCookie("GNB_TOP_AD") != "done"){
+		        $("#gnbTopBanner").html("<a href='" + top_banner_link + "'><img src='" + top_banner_img + "'></a><a class='closeBtn' id='closeBtn'></a>");
+				$("#gnbTopBanner").find('#closeBtn').click(function(){
+					$("#topBannerWrap").hide();
+					_setCookieDefault("GNB_TOP_AD", "done", -1, false);
+				});
+		    }else{
+		        $("#topBannerWrap").hide();
+		    }
+		} */
+
+		$("#btn_favorite").click(fnc_addFavorite);
+
+		$("#searchBtn").click(function() {
+		    searchSubmit();
+		});
+		 $("#searchListForm").submit(function() {
+		     var searchValue = $("#search_value").val();
+	         if (searchValue == null || searchValue == "") {
+	             return false;
+	         }
+		 });
+
+    });
+
+    function searchSubmit() {
+        var searchValue = $("#search_value").val();
+        if (searchValue == null || searchValue == "") {
+            return false;
+        }
+        $("#searchListForm").submit();
+    }
+
+    if($("#cacheTest").val() != "" && $("#cacheTest").val() != null ){
+        fn_leftMenuLoginCheck();
+    }
+    $("#cacheTest").val("cacheTest");
+
+    $(window).on("pageshow", function(event) {
+        if (event.originalEvent.persisted) {
+            fn_leftMenuLoginCheck();
+        }
+    });
+
+    function fn_visibleDeleteButton(val){
+        if(val != "" && val != null){
+            $("#btn_search_delete").css("display", "block");
+        }else{
+            $(".flexibleWrap").hide();
+            $("#btn_search_delete").css("display", "none");
+        }
+    }
+
+    function getSearchKeyword(param) {
+        $('.flexibleWrap').show();
+        $.ajax({
+            url : '/main/getSearchCloudAuto',
+            dataType : 'json',
+            data : {
+                q : param
+            },
+            async : true,
+            success : function(data) {
+                if(data != null && data != ""){
+                    generateKeyword(data.all, param);
+                }
+            }
+        });
+    }
+
+    function generateKeyword(data, key) {
+        if(typeof(data) == "undefined") {
+            return;
+        }
+        var htmlStr = "";
+        for (var i = 0; i < data.length; i++) {
+            htmlStr += "<li><a href='/main/searchList?q=" + data[i].searchquery + "'>" + data[i].searchquery.replace(key, "<strong>" + key + "</strong>") + "</a></li>";
+        }
+
+        $("#keyword_auto").html(htmlStr);
+    }
+
+    function fn_leftMenuLoginCheck(){
+        $.ajax({
+            url : "/common/getLoginCheckMap",
+            type : 'POST',
+            data : null,
+            dataType : 'json',
+            success : function(result, status) {
+                if(result.loginFlag && loginFlag == "false"){
+                    if(location.pathname.indexOf("user") != -1 && location.pathname.indexOf("accountSetting") == -1){
+                        location.href = "/";
+                    }
+                }else if(!result.loginFlag && loginFlag == "true"){
+                    location.href = "/";
+                }
+            }
+        });
+    }
+
+    function fn_setMiniData(data) {
+        var htmlStr  = "<li>";
+            htmlStr += "<a href='"+data.linkUrl+"'>";
+            htmlStr += "    <img src='"+data.field1+"' >";
+            htmlStr += "</a>";
+            htmlStr += "</li>";
+        $("#miniUl").append(htmlStr);
+    }
+
+    function fn_getBannerList() {
+        $.ajax({
+            url : "/main/banner",
+            type : 'GET',
+            data : {
+                id : "banner_gnb"
+            },
+            dataType : 'json',
+            success : function(result, status) {
+                fn_setBannerList(result);
+            }
+        });
+    }
+
+    function fn_setBannerList(data) {
+        if(data.RESULT_CODE == "000") {
+            var rs = data.RESULT;
+            var items = rs.banner_gnb.BannerItem;
+            var len = items.length;
+            for(var i = 0 ; i < len ; i++) {
+                if(items[i].subType == 'B') {
+                    fn_setTopBanner(items[i]);
+                }else {
+                    fn_setMiniData(items[i]);
+                }
+            }
+            $('.miniBanner ul').bxSlider({
+                pager: false,
+                auto: true,
+            });
+        }
+    }
+
+    function fn_setTopBanner(data) {
+        $("#topBannerWrap").css("background-color", data.bgColor);
+	    if(getCookie("GNB_TOP_AD") != "done"){
+	        $("#gnbTopBanner").html("<a href='" + data.linkUrl + "'><img src='" + data.field1 + "'></a><a class='closeBtn' id='closeBtn'></a>");
+			$("#gnbTopBanner").find('#closeBtn').click(function(){
+				$("#topBannerWrap").hide();
+				_setCookieDefault("GNB_TOP_AD", "done", -1, false);
+			});
+	    }else{
+	        $("#topBannerWrap").hide();
+	    }
+    }
+</script>
+    <form id="locale_form">
+        <input type="hidden" id="localeLang" name="lang" value="">
+    </form>
+    <form id="currency_form">
+        <input type="hidden" id="localeCurrency" name="currency" value="">
+    </form>
+    <form id="detail_form" method="get">
+        <input type="hidden" id="detailPrdNo" name="prdNo" value="">
+    </form>
+    <form id="search_form" method="get">
+        <input type="hidden" id="q" name="q" value="">
+    </form>
+    <div class="topBannerWrap" id="topBannerWrap">
+        <div class="BannerWrap" id="gnbTopBanner"></div>
+    </div>
+    <div id="globalNav" data-module="_globalNav">
+        <div class="wrapper">
+            <button class="favoriteBtn" type="button" id="btn_favorite">Favorites</button>
+            <div class="navWrap">
+
+                <ul class="basicNav">
+                    
+
+                    
+                    <li>
+                        <a href="#" class="globalApp">
+                                APP
+                            <em class="enDownload">DOWNLOAD</em>
+                            <span class="layerImg en">
+                                <img src="http://openimage.interpark.com/cbt/img/partial/global-nav/en/img_navLayerApp.png" alt="">
+                            </span>
+                        </a>
+                    </li>
+                    
+                
+                    
+                    
+                    <li><a href="https://www.globalinterpark.com/user/signin">Sign in</a></li>
+                    <li><a href="https://www.globalinterpark.com/user/register">Register</a></li>
+                    
+                
+					<li><a href="https://www.globalinterpark.com/mypage/myOrderList">my page</a></li>
+                	<li><a href="https://www.globalinterpark.com/mypage/cart" class="cart">My Cart(<em>0</em>)</a></li>
+                	<li><a href="http://www.globalinterpark.com/customer/faqList">Customer Service</a></li>
+                </ul>
+                <div class="charsetNav">
+                    <button type="button" class="en" id="selected_language">
+                        <span></span>
+                    </button>
+                    <ul>
+                        <li class="en"><a href="#" name="select_language" val="en">English</a></li>
+                        <li class="ko"><a href="#" name="select_language" val="ko">한국어</a></li>
+                        <li class="zh"><a href="#" name="select_language" val="zh">中文</a></li>
+                        <!-- <li class="ja"><a href="#" name="select_language" val="ja">日本語</a></li> -->
+                    </ul>
+                </div>
+                <div class="currencyNav">
+                    <button type="button" class="default" id="selected_currency">
+                        <span>Currency</span>
+                    </button>
+                    <ul>
+                        <li class="usd"><a href="#" name="select_currency" val="usd">USD</a></li>
+                        <li class="cny"><a href="#" name="select_currency" val="cny">CNY</a></li>
+                        <li class="jpy"><a href="#" name="select_currency" val="jpy">JPY</a></li>
+                        <li class="eur"><a href="#" name="select_currency" val="eur">EUR</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="header" data-module="_headerDefault">
+        <div class="wrapper">
+            <div class="logo">
+                <h1>
+                    <a href="http://www.globalinterpark.com/main/main"> <img src="http://openimage.interpark.com/cbt/img/partial/header.default/en/logo_interpark.png" alt="Worldwide Shipping Interpark Global shopping">
+                    </a>
+                </h1>
+            </div>
+            <div class="searchForm">
+                <form action="/main/searchList" method="get" id="searchListForm">
+                    <div class="formBox">
+                        <div class="searchInputWrap">
+                            <input type="text" name="q" title="Search" id="search_value">
+                            <button class="deleteBtn" type="button" id="btn_search_delete"></button>
+                            <div class="flexibleWrap" id="nameLayer" style="display: none">
+                                <div class="keywordWrap">
+                                    <div class="listKeyword">
+                                        <ul id="keyword_auto"></ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <button class="searchBtn" id="searchBtn" type="button">Search</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="miniBannerWrap">
+            <div class="bannerWrap">
+                <div class="miniBanner">
+                    <ul id="miniUl">
+
+                    </ul>
+                </div>
+            </div>
+        	</div>
+
+
+        </div>
+    </div>
+
+    <div class="breadcrumbs" data-module="_breadcrumbs">
+        <ul>
+            <li><span class="breadcrumb"><a href="/main/main">Home</a></span></li>
+            <li><span class="breadcrumb">Privacy Policy</span></li>
+        </ul>
+    </div>
+    <div class="bodyContainer">
+        <div class="bodyContentWrap">
+            <div class="bodyContentHeader"></div>
+            <div class="bodyContent">
+                <div class="content" data-module="policies">
+                    <h2 class="AgreementTitle">
+                        Privacy Policy
+                    </h2>
+                    <div class="scrollBox">
+                        <div class="inner">
+                            
+                                
+                                
+                                
+                                
+                                    <h3>Privacy Protection Policy</h3>
+                                    <p>This English translation is provided for your reference only, and is not legally binding. Only a Korean version of this Policy is legally binding.</p>
+                                    <p>
+                                        Interpark Corporation (hereinafter referred to as the "Company") prepared the following policy to safely protect personal information of the User who use a single ID service used both for <a href="http://globalinterpark.com" target="_blank">http://globalinterpark.com</a> (Interpark Global Shopping Service) and <a href="http://ticket.interpark.com/GLOBAL" target="_blank">http://ticket.interpark.com/GLOBAL</a> (Interpark Ticket Global Services) (hereinafter referred to as the "Services") provided by the Company.
+                                    </p>
+                                    <p>Please note that this Policy may be inevitably amended pursuant to changes to applicable laws or the Company's polices, which shall be promptly notified on the website notice (or through separate notification).</p>
+                                    <h4>1. All personal information collected by Interpark and categorized as below are processed for the purpose of protection of rights of the User and provision of better services. We promise that we will ask for prior consent of the User if such purposes are changed or added.</h4>
+                                    <div class="indentBox">
+                                        <dl>
+                                            <dt>A. Management of Membership</dt>
+                                            <dd>Personal information is collected and used for the following purposes: confirmation of Users' intent to join membership, verification of his/her identity for the use of Services, management of membership, prevention of illegal use of the Services, notification and notice to Users, and record keeping for dispute resolution.</dd>
+                                            <dt>B. Provision of Products and Services</dt>
+                                            <dd>Personal information is collected and used for the following purposes: delivery of products and giveaway, provision of the Services and settlement of payment, provision of contents and customized Services, verification of identity, and collection of payment</dd>
+                                            <dt>C. Marketing and Product Advertisement (Optional)</dt>
+                                            <dd>Personal information is collected and used for the following purposes: introduction of new Services (products) and customized Services, events and provision of opportunity to participate therein, confirmation of validity of the Services, collection of data regarding Member's use of the Services and access frequency.</dd>
+                                        </dl>
+                                    </div>
+                                    <h4>2. Items to be collected and method of collection regarding personal information collected by the Company varies depending on the type of Member or the Services used by Users as follows:</h4>
+                                    <div class="indentBox">
+                                        <dl>
+                                            <dt>A. Non-Members</dt>
+                                            <dd>
+                                                <dl>
+                                                    <dt>(1) Newsletter Subscriber</dt>
+                                                    <dd>- Items to be collected e-mail</dd>
+                                                    <dd>- Method: consent to subscription on the website</dd>
+                                                    <dt>(2) Event participants</dt>
+                                                    <dd>- Items to be collected: e-mail, phone number, ,SNS, etc.</dd>
+                                                    <dd>- Method: event participants enter through the event webpage</dd>
+                                                </dl>
+                                            </dd>
+                                            <dt>B. Members</dt>
+                                            <dd>
+                                                <dl>
+                                                    <dt>(1) Items to be collected</dt>
+                                                    <dd>
+                                                        <dl>
+                                                            <dt>when joining membership</dt>
+                                                            <dd>- required: name, birth date, contact information (mobile phone number or phone number), e-mail, password, language</dd>
+                                                            <dd>- optional: gender, country, date of birth</dd>
+                                                            <dd>- information generated: IP address, cookie information, access log, history of use of the Services, record of abusive use</dd>
+                                                            <dt>mobile service</dt>
+                                                            <dd>- device identification (IMEI, etc), version of operating system, device names</dd>
+                                                            <dt>when purchasing products or making payment</dt>
+                                                            <dd>
+                                                                - identity information(required): name of payor, contact information (mobile phone number or telephone number), shipping address, identity confirmation information (CI, DI), personal customs clearance code<br>* However, for international shipping, in accordance with customs law, any resident registration number (or legal alien registration number, personal identification number) may be additionally collected and provided to relevant government authorities.
+                                                            </dd>
+                                                            <dd>
+                                                                - Payment information: Depending on payment gateway companies and payment methods, collection of the following information may be requested.
+                                                                <ul>
+                                                                    <li>1. Payment by credit card: name of card company, card number</li>
+                                                                    <li>2. Payment by mobile phone: mobile phone number, service provider name</li>
+                                                                    <li>3. Fund transfer: bank name, account number</li>
+                                                                    <li>4. Online deposit: bank name, depositor's name</li>
+                                                                    <li>(person to person customer service requested ) name, e-mail, contact information (mobile phone number or phone number)</li>
+                                                                </ul>
+                                                            </dd>
+                                                        </dl>
+                                                    </dd>
+                                                    <dt>(2) method</dt>
+                                                    <dd>through homepage (membership, customer service board), information entered at the time of purchase, event participation or contacting the customer center by phone or online</dd>
+                                                </dl>
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                    <h4>3. Durations of retention of personal information collected by the company are as follows:</h4>
+                                    <div class="indentBox">
+                                        <ol>
+                                            <li>A. To the extent of the retention and usage period consented by subjects of information or in accordance with under relevant laws such as commercial law and the Act on the Consumer Protection in the Electronic Commerce Transactions, Etc, the Company processes and retains personal information.</li>
+                                            <li>B. Applicable durations of retention are set out as follows</li>
+                                        </ol>
+                                        <dl>
+                                            <dt>1) Pursuant to relevant laws</dt>
+                                            <dd>
+                                                (1) Records on contracts or withdrawal of offers and the like
+                                                <ul>
+                                                    <li>- Reason for Retention: the Act on the Consumer Protection in the Electronic Commerce Transactions, Etc.</li>
+                                                    <li>- Duration of Retention: 5 years</li>
+                                                </ul>
+                                            </dd>
+                                            <dd>
+                                                (2) Records on payment settlement and supply of goods, etc.
+                                                <ul>
+                                                    <li>- Reason for Retention: the Act on the Consumer Protection in the Electronic Commerce Transactions, Etc.</li>
+                                                    <li>- Duration of Retention: 5 years</li>
+                                                </ul>
+                                            </dd>
+                                            <dd>
+                                                (3) Records on processing of customer disputes and complaints
+                                                <ul>
+                                                    <li>- Reason for Retention: the Act on the Consumer Protection in the Electronic Commerce Transactions, Etc.</li>
+                                                    <li>- Duration of Retention: 3 years</li>
+                                                </ul>
+                                            </dd>
+                                            <dd>
+                                                (4) Records on access
+                                                <ul>
+                                                    <li>- Reason for Retention: the Communications Secrecy Protection Act</li>
+                                                    <li>- Duration of Retention: 3 months</li>
+                                                </ul>
+                                            </dd>
+                                            <dd>
+                                                (5) Records on marks and advertisement
+                                                <ul>
+                                                    <li>- Reason for Retention: the Act on the Consumer Protection in the Electronic Commerce Transactions, Etc.</li>
+                                                    <li>- Duration of Retention: 6 months</li>
+                                                </ul>
+                                            </dd>
+                                            <dt>2) Retention pursuant to the Company's policies</dt>
+                                            <dd>- Reason for Retention: prevention of illegal use of personal information</dd>
+                                            <dd>- Duration of Retention: 6 months</dd>
+                                        </dl>
+                                    </div>
+                                    <h4>4. To provide Users with better services or comply with its obligations required by relevant laws, personal information retained by the Company may be provided to any third parties.</h4>
+                                    <div class="indentBox">
+                                        <ol>
+                                            <li>A. The Company uses personal information within the scope notified in Collection/Use of Personal Information, and shall not use such information beyond the purpose of collection or provide it to any third parties without prior consent from customers.</li>
+                                            <li>B. If placement of an order or payment is made for a transaction through services provided by the Company, the Company may provide the Seller with relevant information to facilitate the transaction such as communication and delivery.
+                                                <table class="agreeTable">
+                                                    <colgroup>
+                                                        <col style="width: 10%;">
+                                                        <col style="width: 10%;">
+                                                        <col>
+                                                        <col>
+                                                        <col>
+                                                    </colgroup>
+                                                    <thead>
+                                                        <tr style="text-align: center;">
+                                                            <th scope="col">&nbsp;</th>
+                                                            <th scope="col">Recipients</th>
+                                                            <th scope="col">Purpose of Use</th>
+                                                            <th scope="col">Items to Be Provided</th>
+                                                            <th scope="col">Duration of Retention and Use</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>The Sellers on the website</td>
+                                                            <td>List of the Sellers</td>
+                                                            <td>Verification of intent to offer, performance of transaction, delivery, customer service, AS, etc</td>
+                                                            <td>Name, ID, address, phone number, mobile phone number, order information, recipient information (name, phone number, mobile phone number, address)</td>
+                                                            <td>Destroyed immediately when provision of products or services is completed to the extent that such information is retained for the duration required by relevant laws.</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </li>
+                                            <li>C. The Company will use personal information within the scope notified to the subjects of such information, and shall not use or disclose to others such information beyond such scope. However, if required by law, such information may be provided to the law enforcement, administrative agency, or any third parties pursuant to the procedures and methods prescribed by applicable laws and regulations without the consent of the subjects.</li>
+                                        </ol>
+                                    </div>
+                                    <h4>5. The Company's outsourced tasks to handle personal information are as follows:</h4>
+                                    <div class="indentBox">
+                                        <ol>
+                                            <li>A. The Company outsource personal information processing service to facilitate and improve its Services as follows:
+                                                <table class="agreeTable">
+                                                    <colgroup>
+                                                        <col style="width: 17%">
+                                                        <col style="width: 30%">
+                                                        <col style="width: *">
+                                                    </colgroup>
+                                                    <thead>
+                                                        <tr>
+                                                            <th scope="col">Category</th>
+                                                            <th scope="col">Assignees</th>
+                                                            <th scope="col">Outsourced tasks</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <th scope="row">Customer service</th>
+                                                            <td>Global Interpark Branch Company (Shanghai Wangyuan Trading Corporation)</td>
+                                                            <td>All of a call center's services such as use and management of customer and order information</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2">Identity verification</th>
+                                                            <td>NICE Information Service</td>
+                                                            <td>Verification of identity by I-PINS</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Korea Mobile Certification Inc.</td>
+                                                            <td>Verification of identity by mobile phones</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th>Delivery service</th>
+                                                            <td>&nbsp;</td>
+                                                            <td>Delivery of products and giveaways</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Payment settlment / sms dispatch</th>
+                                                            <td>LG Uplus Corp., KCP Co., Ltd</td>
+                                                            <td>Credit card, payment by mobile phone, fund transfer, online deposit, payment by virtual account, SMS dispatch</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </li>
+                                            <li>B. The Company continuously manages and supervises the assignees to ensure their secure handling of personal information entrusted, and immediately upon expiration of such assignment, have the personal information retained by the assignees to be destroyed. (If separate retention period required by relevant laws, the Company stores the personal information safely to comply with such laws.)</li>
+                                            <li>C. Any change to such assignees or the contents entrusted shall be disclosed without delay in accordance with this Privacy Protection Policy.</li>
+                                        </ol>
+                                    </div>
+                                    <h4>6. Using the Company's Services , you may exercise the following rights as subjects of personal information:</h4>
+                                    <div class="indentBox">
+                                        <ol>
+                                            <li>A. If Users need to check or correct their personal information, they may do so themselves at any time by using my page → my information →check information → correction menu.</li>
+                                            <li>B. Using the membership withdrawal menu on the homepage at any time, Users may withdraw from membership (or withdraw their consent).</li>
+                                            <li>C. Users, if not agreeing to the Company's handling of personal information, may refuse the consent or request the cancellation of membership (or withdrawal from membership), which may restrict use of Services completely or partially. (Subscription service users may withdraw consent by using blocking function at the bottom of the email received).</li>
+                                            <li>D. If Users request the correction of any mistake in personal information, the relevant personal information shall not be used or provided until correction is completed. In the event that any wrong personal information is already provided to a third party, the result of correction thereof shall be immediately notified to such third party to make such correction.</li>
+                                        </ol>
+                                    </div>
+                                    <h4>7. In principle, when the purpose of retention of Member's personal information collected is achieved, the Company immediately destroys the relevant personal information. The procedures, time and method of the destruction of personal information are as follows:</h4>
+                                    <div class="indentBox">
+                                        <dl>
+                                            <dt>A. Procedures of Destruction</dt>
+                                            <dd>Personal information of which purpose of collection/retention is achieved is transmitted to a separate database (separate documentation for papers containing such information) under its internal policy and other applicable laws, and immediately after the lapse of the prescribed time, shall be destroyed. Such personal information transferred to the database shall not be used beyond the purpose consented by each of you or for other purposes unless required by laws.</dd>
+                                            <dt>B. Method of Destruction</dt>
+                                            <dd>1) Personal information stored in the form of an electronic file shall be deleted by a technical method preventing reproduction thereof.</dd>
+                                            <dd>2) Personal information printed on papers shall be shredded or incinerated.</dd>
+                                        </dl>
+                                    </div>
+                                    <h4>8. Installation, Operation and Refusal of Cookie,</h4>
+                                    <div class="indentBox">
+                                        <dl>
+                                            <dt>A. What is Cookie?</dt>
+                                            <dd>
+                                                <dfn>Cookie</dfn>
+                                                , a small text file which the web server sends to a User's computers, is stored in the hard disk of the User's computer. Therefore, you may choose installation and collection of cookie voluntarily and refuse such collection.
+                                            </dd>
+                                            <dt>B. How can we refuse cookie?</dt>
+                                            <dd>
+                                                <dl>
+                                                    <dt>1) Internet Explorer</dt>
+                                                    <dd>"tool → Internet option → personal information → personal setting " indicated in the upper part of the web browser</dd>
+                                                    <dt>2) Chrome</dt>
+                                                    <dd>
+                                                        "click '<strong>☰</strong> (Customize and control Google Chrome)' icon → setting → advanced setting → contents setting in personal information → personal setting in cookie" indicated in the upper part of the web browser
+                                                    </dd>
+                                                    <dd>* Please note that, when a User refuses to install cookie, there may be any inconvenience in use of or difficulty in provision of Services.</dd>
+                                                </dl>
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                    <h4>9. The Company takes technical, administrative, and physical measures necessary for secure retention of personal information.</h4>
+                                    <div class="indentBox">
+                                        <dl>
+                                            <dt>A. Minimum number of employees who have access to personal information, and education programs</dt>
+                                            <dd>Employees who have access to personal information are designated and we manage the minimum number of such employees engaging in management of personal information. The Company makes its best efforts to protect personal information through continuous implementation of education programs for personal information protection.</dd>
+                                            <dt>B. Internal Inspection</dt>
+                                            <dd>We hire employees specifically assigned to internal affairs department for securing technical and administrative protection measures to handle personal information securely, and internally perform routine inspections to check whether our personal information managers are in compliance with the internal Policy and relevant laws.</dd>
+                                            <dt>C. Establishment and Implementation of Internal Management Plan</dt>
+                                            <dd>For the purpose of secure handling of personal information, internal management plans have been established and implemented.</dd>
+                                            <dt>D. Encryption of Personal Information</dt>
+                                            <dd>Your personal information is encrypted, kept and managed in accordance with the standard prescribed by relevant laws, and separate security functions such as encryption of files and transmitted data are used.</dd>
+                                            <dt>E. Anti-Hacking Measures</dt>
+                                            <dd>The Company installs security programs to prevent leakage of and damages to personal information by hacking or computer virus, performs routine maintenance checks, sets up relevant systems in the area restricted to be accessed from outside, and observes and blocks any intrusion physically and technically.</dd>
+                                            <dt>F. Restricted Access to Personal Information</dt>
+                                            <dd>We take measures necessary to restrict access to personal information through grant, change, and renewal of authorization to have access to database handling personal information, and controls unauthorized access from outside by using intrusion prevention system.</dd>
+                                            <dt>G. Storage of Access Record and Prevention of Forgery</dt>
+                                            <dd>Records on access to personal information management system pursuant to relevant laws are kept and managed at least for six months and securely stored to prevent forgery, theft or loss thereof.</dd>
+                                            <dt>H. Use of Locking Device for Security of Documents</dt>
+                                            <dd>Documents and supplemental storage medium containing personal information are kept in a safe place equipped with a locking device.</dd>
+                                            <dt>I. Control over Unauthorized Personnel's Access</dt>
+                                            <dd>Separate physical storage spaces to keep personal information are provided and procedures for the restriction of any access thereto have been established and managed.</dd>
+                                        </dl>
+                                    </div>
+                                    <h4>10. To protect personal information safely, the Company appoints a person responsible in charge of management of personal information.</h4>
+                                    <div class="indentBox">
+                                        <ol>
+                                            <li>A. Company appoints the person responsible in charge of management of personal information, who shall be responsible for management of all the tasks related to handling personal information matters and take care of Users' complaints and damage reliefs as follows:
+                                                <dl>
+                                                    <dt>Person in charge of management of personal information</dt>
+                                                    <dd>Name: Hae Jung Yoon</dd>
+                                                    <dd>Division: IT Service Team</dd>
+                                                    <dd>Position: Senior Manager</dd>
+                                                    <dd>
+                                                        E-Mail: <a href="mailto:cpo@interpark.com">cpo@interpark.com</a>
+                                                    </dd>
+                                                    <dd>Tel: 02-6923-5175</dd>
+                                                    <dd>Fax: 02-6923-5498</dd>
+                                                    <dt>Department handling complaints related to personal information</dt>
+                                                    <dd>Name: Jin Sook Park</dd>
+                                                    <dd>Division: TranscosmoKorea inc.</dd>
+                                                    <dd>
+                                                        E-Mail: <a href="mailto:pjs9284@interparkcs.com">pjs9284@interparkcs.com</a>
+                                                    </dd>
+                                                    <dd>Tel: 02-6923-5175</dd>
+                                                    <dd>Fax: 02-6004-6799</dd>
+                                                </dl>
+                                            </li>
+                                            <li>B. Users may report any complaint incurred in relation to the use of our services, such as all inquiries about personal information protection, complaint handling, damage reliefs to the person in charge of management of personal information and the customer support center, and the Company will respond to and handle such inquiries without delay.</li>
+                                            <li>C. If any other reporting or counseling is required in relation to infringement of personal information, please contact the following institutions for inquiry.
+                                                <dl>
+                                                    <dt>Personal Information Infringement Call Center (operated by Korea Internet &amp; Security Agency)</dt>
+                                                    <dd>
+                                                        - (with no preceding number) 118 / <a href="http://privacy.kisa.or.kr" target="_blank">privacy.kisa.or.kr</a>
+                                                    </dd>
+                                                    <dt>Online Privacy Association</dt>
+                                                    <dd>
+                                                        - 02-550-9531~2 / <a href="http://eprivacy.or.kr" target="_blank">eprivacy.or.kr</a>
+                                                    </dd>
+                                                    <dt>Cyber Crime Investigation Unit, Supreme Public Prosecutors' Office</dt>
+                                                    <dd>
+                                                        - (with no preceding number) 1301 / <a href="http://www.spo.go.kr" target="_blank">www.spo.go.kr</a>
+                                                    </dd>
+                                                    <dt>Cyber Terror Response Center in the National Police Agency</dt>
+                                                    <dd>
+                                                        - 1566-0112 / <a href="http://www.netan.go.kr" target="_blank">www.netan.go.kr</a>
+                                                    </dd>
+                                                </dl>
+                                            </li>
+                                        </ol>
+                                    </div>
+                                    <h4>11. Policies related to amendment to Privacy Protection Policy are as follows:</h4>
+                                    <div class="indentBox">
+                                        <p>This Privacy Protection Policy applies from the effective date, and any addition, deletion, or revision of this Policy shall not notified in advance through announcement at least seven (7) days prior to the effective date thereof; provided, however, that any material changes to Users' rights, such as collection and use of personal information, provision of personal information to a third party, shall be notified in advance at least thirty (30) days prior to the effective date thereof.</p>
+                                        <ul>
+                                            <li>- Privacy Protection Policy version no.: 2.4</li>
+                                            <li>- Date of Notification: 5th , Apr, 2016</li>
+                                            <li>- Effective Date: 4th , May, 2016</li>
+                                        </ul>
+                                    </div>
+                                
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bodyContentFooter"></div>
+            <div class="aside left"></div>
+            
+
+
+
+
+
+<script>
+    $(document).ready(function() {
+        fn_getWingRecentlyProductList();
+    });
+
+    function fn_getWingRecentlyProductList() {
+        $.ajax({
+            url : "/main/recentlyList",
+            type : 'GET',
+            data : null,
+            dataType : 'json',
+            success : function(result, status) {
+                fnc_generateWingRecentlyProductList(result);
+            },
+            error : function(result, status) {}
+        });
+    }
+
+    function fnc_generateWingRecentlyProductList(data) {
+        var htmlStr = "";
+
+        for (var i = 0; data != null && data != "" && i < data.length; i++) {
+             htmlStr += "<li>";
+             htmlStr += "<a href='/detail/detail?prdNo=" + data[i].prdNo + "'>";
+             htmlStr += "    <img src='" + data[i].icnImg + "' />";
+             htmlStr += "</a>";
+             htmlStr += "</li>";
+        }
+        $("#wingUl").html(htmlStr);
+        $('.wingContents ul').bxSlider({
+            pager: false,
+            auto: false,
+            controls: true
+        });
+    }
+
+</script>
+<div class="aside right">
+<div class="rightWingWrap" data-module="_rightWing" data-stickr-gap="10" style="display: none;">
+    <p class="wingInfo" onclick="javascript:window.location.href='/customer/company';">About interpark</p>
+    <ul class="wingList">
+    	
+            
+            
+            	<li><a href="https://www.globalinterpark.com/user/register" class="register">Register</a></li>
+            
+        
+        
+        
+            
+            
+            	<li><a href="https://www.globalinterpark.com/user/signin" class="logIn">Sign in</a></li>
+            
+        
+        
+        
+        
+        <li><a href="#" class="lately">Viewed Items</a>
+            <div class="wingWrap">
+                <div class="wingContents">
+                    <ul id="wingUl">
+                       
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li><a href="http://www.globalinterpark.com/customer/faqList?faqTp=06" class="guide">Shopping Guide</a></li>
+        
+            
+        
+            <li><a href="https://www.globalinterpark.com/customer/inquiry" class="custom">Contact us</a></li>
+        
+        <li><a href="#" class="top">TOP</a></li>
+    </ul>
+</div>
+</div>
+
+
+        </div>
+    </div>
+    
+
+
+
+
+<script>
+    $(document).ready(function() {
+    	fn_googleAnalytics();
+    });
+
+	function fn_googleAnalytics(){
+	    (function(i, s, o, g, r, a, m) {
+	        i['GoogleAnalyticsObject'] = r;
+	        i[r] = i[r] || function() {
+	            (i[r].q = i[r].q || []).push(arguments)
+	        }, i[r].l = 1 * new Date();
+	        a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+	        a.async = 1;
+	        a.src = g;
+	        if(typeof(m) != "undefined"){
+	            m.parentNode.insertBefore(a, m);
+	        }
+	    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+	    ga('create', 'UA-60117844-1', 'auto');
+	    ga('send', 'pageview');
+	}
+</script>
+<div id="footer" data-module="_footerDefault">
+    <div class="footerNav">
+        <div class="navInner">
+            <div id="family">
+                <select title="Family Sites">
+                    <option value="http://incorp.interpark.com/communication/CompanyInfo.do?_method=initial&amp;wid1=footer&amp;wid2=company">Interpark Holdings Corporation</option>
+                    <option value="http://global.interpark.com/bookPark/html/book.html">interpark global</option>
+                    <option value="http://ticket.interpark.com/">interpark 티켓</option>
+                    <option value="http://www.imarketkorea.com?wid1=footer&amp;wid2=group&amp;wid3=imk">아이마켓코리아</option>
+                    <option value="http://www.interparkhm.com?wid1=footer&amp;wid2=group&amp;wid3=dc">인터파크HM</option>
+                    <option value="http://www.interparklogistics.com?wid1=footer&amp;wid2=group&amp;wid3=intlogi">인터파크로지스틱스</option>
+                    <option value="http://www.bluesquare.kr/Info/Bluesquare_Info.asp?m_menu=bluesquare&amp;s_menu=info&amp;wid1=footer&amp;wid2=group&amp;wid3=theatre">블루 스퀘어</option>
+                    <option value="http://www.bluesquare.kr?wid1=footer&amp;wid2=group&amp;wid3=bluesquare">아트센터</option>
+                    <option value="http://www.lottecardartcenter.com?wid1=footer&amp;wid2=group&amp;wid3=artcenter">디지털아이디어</option>
+                    <option value="http://www.digiart.co.kr/kor/html/main/index.asp?wid1=footer&amp;wid2=group&amp;wid3=digiart">디지아트</option>
+                    <option value="http://www.paedea.com?wid1=footer&amp;wid2=group&amp;wid3=paedea">페디아</option>
+                </select>
+            </div>
+            <ul class="companyLink">
+                <li><a href="http://www.globalinterpark.com/customer/company">About us</a></li>
+                <li><a href="http://www.globalinterpark.com/policies/agree">User Agreement</a></li>
+                <li><a href="http://www.globalinterpark.com/policies/privacy">Privacy Policy</a></li>
+                <li><a href="http://www.globalinterpark.com/policies/eCommerce">E-Commerce Transaction Terms of Use</a></li>
+                <li><a href="http://www.globalinterpark.com/policies/youth">Youth Protection Policy</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footerArticle">
+        <p class="footerNotice">Interpark shall not be held responsible for the validity of the information of products registered and available for sale on the interpark website as it has been presented by sellers.</p>
+        <p class="address">
+            INTERPARK Corporation.135-880 512 Samseong-ro, Gangnam-gu, Seoul, KoreaㅣPhone Number (+82)1588-1555
+            <br>Business Registration Number : 214-87-98889ㅣTelecommunication sale business registration number : Gangnam 02549ㅣCheif Executive Officer：Sang-Kyu Lee
+        </p>
+        <p class="copyright">
+            Copyright © <strong>Interpark Corporation</strong>. All rights reserved.
+        </p>
+    </div>
+</div>
+
+
+
+</body></html>
