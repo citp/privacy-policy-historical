@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wow4u.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092502id_/http%3A//wow4u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow4u.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210927id_/http%3A//www.wow4u.com/privacy.html) for the most accurate reproduction.*
 
 # wow4u.com | Privacy Policy
 
