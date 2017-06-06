@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the artofliving.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124022040id_/http%3A//www.artofliving.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofliving.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191832id_/https%3A//www.artofliving.org/us-en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Art Of Living Global
+# Privacy Policy | The Art of Living
 
-**_This agreement is entered into by and between Art of Living Foundation on behalf of itself and its affiliates and licensors (“Organization”), and you as user of this website and potential participant in one or more programs of learning administered by the Organization (the “program” or “programs”)._**
+**_This agreement is entered into by and between The Art of Living Foundation - USA on behalf of itself and its affiliates and licensors (“Organization”), and you as user of this website and potential participant in one or more programs of learning administered by the Organization (the “program” or “programs”)._**
 
 The Organization respects the privacy rights of visitors to our website and is committed to protecting those rights. To support this commitment, we have adopted this Privacy Policy that governs how we collect, use, disclose, update and protect the information you provide online to the Organization, Please read this Privacy Policy carefully before you use the Organization website. This Privacy Policy does not apply to information collected by the Organization other than through its website.
 
-Visitors to the Organization website from outside of Switzerland are advised that the Organization’s Privacy Policy is intended to meet the laws and requirements of Switzerland, which may not necessarily be the same as the laws and regulations of your home country. Any information that you provide to the Organization online will be handled in accordance with the laws and regulations of Switzerland.
+Visitors to the Organization website from outside of United States are advised that the Organization’s Privacy Policy is intended to meet the laws and requirements of United States, which may not necessarily be the same as the laws and regulations of your home country. Any information that you provide to the Organization online will be handled in accordance with the laws and regulations of United States.
 
 #### **_Contents_**
 
@@ -30,7 +30,7 @@ When you click on a link displayed on our website, you may be leaving the Organi
 
 You should carefully review the privacy statements or policies of any other website that you visit or wish to send email to because those privacy statements or policies will apply to your visit and email sent to that site and may be very different from the Organization’s Privacy Policy.
 
-Our website is not intended for children under 18 years of age. No one under age 18 may provide any personal information on our websites, and we do not knowingly collect personal information from children under age 18. If you are under age 18, do not use or provide any information on this website, make any purchases through this website, use any interactive or public comment features of this website, or provide any information about yourself to us. If we learn that we have collected or received personal information from a child under age 18 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under age 18, please contact us at [webmaster@artofliving.org](mailto:webmaster@artofliving.org).
+Our website is not intended for children under 18 years of age. No one under age 18 may provide any personal information on our websites, and we do not knowingly collect personal information from children under age 18. If you are under age 18, do not use or provide any information on this website, make any purchases through this website, use any interactive or public comment features of this website, or provide any information about yourself to us. If we learn that we have collected or received personal information from a child under age 18 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under age 18, please contact us at [transaction.support@artofliving.org](mailto:transaction.support@artofliving.org).
 
 #### **_Collection of Personal Information and Its Use and Purpose_**
 
@@ -42,7 +42,7 @@ _**_Electronic Marketing_**_
 
 By accepting our privacy policy, you agree that your personal data may also be made available to our carefully selected partner organizations located within and outside your country of residence for the purpose of offering you information regarding products and services related to our programs and offerings, and that we may also directly inform you of such products and services when they become available in your country or anywhere else in the world.
 
-If you decide you do not wish to be informed of related products or services in the future, you will be given the opportunity to be removed from our database in our communications, and may request to unsubscribe at any time by contacting us at [webmaster@artofliving.org](mailto:webmaster@artofliving.org).
+If you decide you do not wish to be informed of related products or services in the future, you will be given the opportunity to be removed from our database in our communications, and may request to unsubscribe at any time by contacting us at [transaction.support@artofliving.org](mailto:transaction.support@artofliving.org).
 
 _**_Demographic and Aggregate Information_**_
 
@@ -78,7 +78,7 @@ We may also disclose your personal information:
 
 #### Accessing and Correcting Your Personal Information
 
-You may send us an email at [webmaster@artofliving.org](mailto:webmaster@artofliving.org) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may send us an email at [transaction.support@artofliving.org](mailto:transaction.support@artofliving.org) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 #### Safeguards to Protect Your Personal Information
 
@@ -106,4 +106,4 @@ We reserve the right to make changes to this Privacy Policy. If we make such cha
 
 By providing personal information on this website you consent to the collection, use and disclosure of such information by the Organization in such manner as set out in this Privacy Policy, including but not limited to the sharing of such information with third parties in accordance with the terms described above.
 
-If you have any questions, complaints, or comments regarding this Privacy Policy, please send an email to the following address: [webmaster@artofliving.org](mailto:webmaster@artofliving.org).
+If you have any questions, complaints, or comments regarding this Privacy Policy, please send an email to the following address: [transaction.support@artofliving.org](mailto:transaction.support@artofliving.org).
