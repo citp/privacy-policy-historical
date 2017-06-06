@@ -1,120 +1,50 @@
-> *The following text is extracted and transformed from the koreanmall.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201114250id_/http%3A//www.koreanmall.com/app/company/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreanmall.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154031id_/http%3A//www.koreanmall.com/app/company/policy) for the most accurate reproduction.*
 
 # Koreanmall | 코리안몰
 
 | 
 
-KoreanMall Personal Information Treatment Policies  
-KoreanMall (hereinafter referred to as “Company”) very seriously takes into consideration protection of customers’ personal information, and complies with the Act Relating to Promotion of Information Communications Network and Personal Information Protection. The Company hereby notifies customers for what uses and in what ways we use the personal information provided by customers and what measures we take to protect the personal information. When the personal information treatment policies are amended, the Company will notify customers thereof through the website notifications (or individual notifications).
+Yarntree co., Ltd. (“we”, “us”, “our”) is committed to protecting your privacy.  
+This Privacy Policy provides information on how we collect and use personal data. By visiting our Website,   
+you are accepting and consenting to the practices described in this Privacy Policy.
 
-###### Items of Personal Information to be Collected and Collection Methods
+  * **1\. WHAT INFORMATION DO WE COLLECT, AND HOW?** When you interact with us, whether by using our Website or communicating with us, we may collect the following information about you:  
 
-The Company collects the following personal information for purposes of providing membership services, including membership subscriptions, consultations, prevention of wrongful uses: 
+    * • information you give us: you may give us information about yourself if you sign up for an account on our Website, place an order for products, complete any online forms (such as registration forms, competitions, and surveys), opt in to receive our newsletters and special offers, enter a competition or promotion, participate in social media functions with our Website, or correspond with us (by email, instant chat, social media or otherwise). This information may include your name, address or location, phone number and email address, date of birth, gender, purchase information, images and financial information (including your credit or debit card details), amongst other information. You need to register an account on the Website if you wish to purchase products from the Website. From your account, you can also invite your friends to shop at our Website (including by email, Facebook, or Twitter). Please ensure that you have the permission of your friends before sharing their contact details with us and only forward emails to people you know would be happy to receive them.
+    * • information we receive from other accounts or sources: we may receive information about you from your other accounts or other websites, including social media providers like Facebook and Twitter, advertising networks and analytics partners, and payment and delivery service providers, amongst others. By linking your account on our Website to your Facebook or Gmail accounts, you are giving us permission to obtain certain information and content from these accounts. The specific types of information that we may obtain depends on your settings for that account or website, and will be subject to their privacy policies.
+    * • information our IT systems collect about you: each time you visit the Website, certain information will be created and automatically recorded by our IT systems. That information includes: \- cookies: we’ve set out more details about cookies below, but these small text files can help improve your experience with the Website and make it easier to interact with us. This may include storing your location or language preferences to save you having to re-enter information when returning to, or ensuring that items you wish to order don’t disappear as you navigate between pages on, our Website; \- device information: the information provided by your device will differ depending on which type of device you are using (whether it’s a PC, Mac, iPhone, Android, or otherwise) and the settings on that device, but includes the type of device you have (such as an iPhone 6S or Samsung Galaxy S7), the device’s IP address, the browser you are using, your mobile network provider (for mobile devices), the pages you have visited, your time zone and country location, and crash or download error reports.
+  * **2\. WHAT DO YOU USE MY INFORMATION FOR?** To make our Website work, including to allow you to order and receive products from our Website, administer your account and to optimise your experience we need to use the information that we collect in a number of different ways. The key purposes for which we use your information are as follows: 
+    * • to provide you with the products you have ordered: to order products, you need to register an account on our Website (which you may personalise). Your information (including name, address, phone number, email address, and financial information (such as debit or credit card details) will be used so you can submit, and we can process and fulfil, that order. We may also use your information to communicate with you about your orders and account and provide you with customer support when needed.
+    * • to administer, maintain, and optimise our Website, our services and your experience: we want you to have the best experience possible when you interact with us, including using our Website, products and services. To do this, we use your information (including log data, statistical information, and device information) to ensure that the Website and its features and any Wi-Fi networks are functioning correctly, to adapt and customise our Website to better suit your preferences, and to provide pages specific to your language or location
+    * • to provide you with customer services: if you contact our customer services team or provide us with feedback for any reason, whether by email, chat, or otherwise, we will use your information (including your name, phone number, and email address) to help us categorise the communication, respond to you, and where appropriate, investigate, and resolve any issue or incident that you may have. We may also use your phone number or email address to let you know the status of, or if there are any problems with, your order;
+    * • to update you on our latest offers, products, and news; unless you tell us otherwise, we will use your personal information (including your name and email address) to occasionally send you updates, news, and offers via email. 
+    * • to carry out research, analysis, and surveys on your use of our Website and views: where you have opted in to receiving communications from us, we may use your personal details (including your name, address, email address, and phone number) to send you polls and surveys to find out your views of our Website and services. We may also carry out analysis of, and research into, the ways that you use our Website so we can optimise the Website and your experience. We may use third parties to carry out any research, analysis, and surveys, or to deliver incentives in return for your participation in polls, as further set out below; and
+    * • for your, and our, financial security: for everyone’s safety, we need to ensure that our customers are genuine. To do this, we may use your personal information (including your name, address, and financial information (such as credit or debit card details) to confirm your identity and perform credit check or anti-fraud checks. Please note that we do not sell your information without your consent (whether your name, address, emails address, financial information, or otherwise) to any third party.
+  * **3\. WHO DO YOU SHARE MY INFORMATION WITH?**
 
-  * * Required items : names, IDs, passwords, e-mail addresses, addresses, mobile phone numbers, telephone numbers, IP addresses, payment records,
-  * * Selective items : Information required by the Company to provide customized services.
+To provide the Website and our services, we work with a number of carefully selected third parties, such as delivery and payment partners. We may share your personal information with our partners in order to operate our business and provide the Website and services. Please note that we do not share your information with any third party advertisers or networks for the provision of third party advertising on our Website.
 
+  * **4\. COOKIES**
 
+We use technology such as "cookies" to collect information and store your online preferences. Cookies are small pieces of information sent by a web server to a web browser, which allows the server to uniquely identify the browser on each page. If you want to delete any cookies that are already on your computer, please refer to the help and support area on your Internet browser for instructions on how to locate the file or directory that stores cookies. Please note that opting out does not mean you will no longer receive online advertising. It does mean that the company or companies from which you opted out will no longer deliver adverts tailored to your web preferences and usage patterns, so you may see a greater number of adverts that are irrelevant to you and your preferences.
 
-###### Purpose of Collection and Use of Personal Information
+  * **5\. SECURITY**
 
-The Company uses the collected personal information for the following purposes:
+Keeping you and your personal information secure is very important to us. We take a number of reasonable steps to  
+try to protect the personal information that you provide, including: 
 
-  * \- Payment of costs incurred as a result of performing agreements on provisions of services or providing services, Provisions of the contents, purchases or cost payments, deliveries of goods or sending bills, etc., verifying identifications for financial transactions, and financial services
-  * \- Control of Members  
-To verify identifications for uses of membership services, to identify individuals, to prevent wrongful uses of bad members or unauthorized uses, to verify intents for subscriptions, to verify ages, to verify the consent of a legal representative for collecting personal information of children of not more than fourteen (14) years old, to handle civil complaints including handling grievances, to convey notifications
-  * \- Use for Marketing and Advertisements  
-To convey information for advertisements including events, to figure out contact frequencies, to obtain statistics on service uses by members
+    * • using a Secure Socket Layer (“SSL”) to encrypt the personal data that you send us during the order process (including any financial information such as credit or debit card details);
+    * • requiring you to establish a password to access your account on our Website;
+    * • not keeping details of your credit or debit card that would enable any third party to transact using that credit or debit card (such as your CCV number); and
+    * • regularly monitoring our servers and IT systems for possible vulnerabilities and attacks. Unfortunately, despite this, the transmission of information via the Internet is not completely secure. We cannot guarantee the security of your personal data transmitted to or through our Website, and any such transmission is at your own risk. In particular, please keep in mind that if you voluntarily disclose personal information online in a non-protected environment (such as a message board, shopping list, or in chat areas) then that information can be collected and used by others outside of our or your control.
+    * **CONTACT US & ACCESSING PERSONAL INFORMATION**
 
+All of the information that we collect, or that you provide to us, is controlled by Yarntree co., Ltd. (as appropriate) for the purpose of the Personal Information Protection Act and other applicable local laws. You have various rights under the Personal Information Protection Act and other applicable local laws, including the right to see all of the personal information we hold about you, to require that we correct any inaccuracies in your personal information, or to object to certain information being stored or used (including to ask us to stop sending your marketing communications). If you have any questions or concerns about this Privacy Policy.
 
-
-###### Retention and Use Period for Personal Information
-
-In principle, after the purposes of collecting and using personal information have been fulfilled, the Company shall without delay destroy relevant information; provided, however, that the Company shall retain personal information for a certain period of time where it is required to do so for purposes of confirming transactions related management and rights under the provisions of relevant laws including the Commercial Code and the Act Relating to Consumer Protection in Electronic Commercial Transactions as follows:
-
-  * \- Records on agreements or withdrawals of offers : five (5) years (the Act Relating to Consumer Protection in Electronic Commercial Transactions, etc.)
-  * \- Records on payments and supplies of goods : five (5) years (the Act Relating to Consumer Protection in Electronic Commercial Transactions, etc.)
-  * \- Records on complaints of consumers or dispute resolutions : three (3) years (the Act Relating to Protection of Consumers in Electronic Commercial Transactions, etc.)
-  * \- Where personal information has been collected for temporary purposes, such as questionnaires, events : at the time of completion of a particular questionnaire or event
-  * \- Records on verification of identification: six (6) months (the Act Relating to Information Communication Network Promotion and Personal Information Protection)
-  * \- Records on visits (log-ins) : three (3) months (the Communication Secret Protection Act)
-
-
-
-###### Destruction Procedures and Methods for Personal Information
-
-The Company in principle shall without delay destroy relevant information after the purposes of collecting or using personal information have been fulfilled. The destruction procedures and methods shall be as follows:
-
-  * \- Destruction Procedures  
-The information entered by users for use of the services is moved to a separate database after the purposes have been fulfilled (a separate document in the case of a sheet), and destroyed after the information has been saved for a certain period of time according to the information protection reasons under the internal policies or other relevant laws (for your reference, see the retention and use period for personal information). The personal information separately moved to a database is not used for purposes other than the purpose of being preserved unless it is so required by laws.
-  * \- Destruction Methods 
-    * * The personal information printed out in sheets shall be shredded by paper shredders or destroyed by way of incineration.
-    * * The personal information saved in an electronic file format shall be deleted with the use of technical methods in which records cannot be regenerated
+Please contact us:
+    • using the contact form;
+    • by emailing us at [cs@koreanmall.com](mailto:cs@koreanmall.com)
 
 
 
-###### Provisions of Personal Information to Third Parties
-
-The Company uses the personal information of users within the scope that users have consented to the “Purpose of Collecting and Using Personal Information,” but does not use the personal information of users in excess of the scope without prior consent of users or in principle does not disclose the personal information of users to the outside; provided, however, that exceptions are made in the following cases:
-
-  * \- Where users have given a prior consent thereto; or
-  * \- Where there is required under the provisions of laws or requested by investigating agencies according to the procedures and methods prescribed under the laws for investigation purposes.
-
-
-
-###### Delegation of Handling Personal Information
-
-In the event that the Company handles the personal information of users by delegation to ensure smooth handling of duties, it must give users a prior notice of the persons delegated to handle the personal information (hereinafter referred to as “Delegatees”) and the content of duties delegated to handle the personal information. Currently, the Company’s delegatees to handle personal information and the content of duties shall be as follows:
-
-| Persons for delegation (delegatees) | and the content of duties for delegation (delegated duties)  
----|---  
-[Korea Post] | providing services for shipping goods, the shipping place, the arrival information, etc.  
-Koreacenter.com Co., Ltd. | Management by consignment of customer information DB system (outsourcing for data processing)  
-  
-###### Rights of Users and Legal Representatives and the Exercise Methods
-
-  * Users and their legal representatives may at any time inquire or change their registered personal information, and also may request terminations of applications (withdrawals of consents).
-  * Users may read, correct personal information or withdraw from membership after passing an identification verification procedure by clicking on the “Change of Personal Information” (or “Change of Member Information”, etc.) in order to inquire or change the personal information of users or children of no more than fourteen (14) years old, or by clicking on the “Withdrawal from Membership” in order to terminate their membership (withdraw their consents).
-  * Otherwise, if a user contacts the personal information control manager in writing, by phone or e-mail, the Company shall take measures without delay.
-  * Where a user has requested corrections of errors in the personal information, the Company does not use or provide the personal information until the corrections are completed. Also where the wrong personal information has been previously provided to a third party, the Company will make corrections by notifying a third party without delay of the results of corrections.
-  * The Company handles the personal information terminated or deleted upon request of users or their legal representatives as specified in the “Retention and Use Period of Personal Information,” and take measures to ensure that the personal information is not read or used for any other purposes.
-
-
-
-###### Matters on Operation of Cookies
-
-The Company operates cookies, etc. that frequently save and find out information of users (persons who get access). Cookies are very small text files sent to your browser by the server used to operate the website, which are saved to your computer hard disk. The Company uses cookies for the following purposes.
-
-  * The purpose of using cookies, etc.  
-Performing target marketing activities and providing customized services by analyzing the access frequencies or visit hours, etc. of members and nonmembers who intend to use cookies, etc., figuring out users’ preferences and interested fields and following traces, figuring out various event participations and the number of visits, etc.  
-You have the option to install cookies. Therefore, by selecting an option in your web browser, you may allow all cookies, pass confirmations whenever cookies are saved, or otherwise refuse the savings of all cookies.
-  * How to Refuse Installation of Cookies  
-By selecting options in your web browser, you may allow all cookies, pass through confirmations whenever cookies are saved, or otherwise refuse the savings of all cookies.
-  * How to Install Cookies (In case of the Internet Explorer) : Tool on the top of the web browser > Internet Option > Personal Information
-  * Provided, however, that if you has refused the installation of cookies, it may be difficult to provide the services.
-
-
-
-###### Contact Information of Personal Information Control Manager and Authorized Person
-
-The company has designated the authorized relevant department and the personal information control manager in order to protect personal information of customers and handle personal information related complaints as follows:
-
-• Department for Customer Service : [Customer service team]  
-• E-mail : [info@koreanmall.com] | • Name of Personal Information Control Manager : [Bokhee Kim]  
-• E-mail : [info@koreanmall.com]  
----|---  
-  
-  * \- You may report to the personal information control manger or the relevant department any complaints regarding all personal information protection incurred in using the Services of the Company. 
-  * -The Company will promptly give sufficient answers as to the reports of users.
-  * \- If you need other reports or consultations for personal information infringements, please ask inquiries to the following institutions. 
-    * * Personal Information Dispute Mediation Committee (www.1336.or.kr / 1336)
-    * * Information Protection Mark Certification Committee (www.eprivacy.or.kr / 02-580-0533~4)
-    * * Internet Crime Investigation Center of Supreme Prosecutors’ Office (http://icic.sppo.go.kr / 02-3480-3600)
-    * * Cyber Crime Investigative Service of National Police Agency (www.ctrc.go.kr / 02-392-0330)
-
-
-
-###### Duty to Notify
-
-The current personal information treatment policies shall be applicable from [12.01.2015]. When there is an addition, deletion, or amendment of the content, it shall be publicly announced through notifications of the homepage from at least seven (7) days before the amendment. Also the Company has made it easy to check amendments by giving the version numbers and the date of amendment to the personal information treatment policies.   
-These policies shall be implemented from [12.01.2015].
+| 
