@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120053437id_/http%3A//www.urbanthreads.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040226id_/http%3A//www.urbanthreads.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Threads: Unique and Awesome Embroidery Designs
 
@@ -8,13 +8,9 @@ This Privacy Policy applies to [www.urbanthreads.com](http://www.urbanthreads.co
 
 **Urban Threads** has created this privacy policy to demonstrate our commitment to your privacy and our pledge to keep your personal information secure. The following is information that **Urban Threads** gathers and uses:
 
-**TRUSTe**
+If you have questions or concerns regarding this statement,you should first contact us at [support@urbanthreads.com](mailto:support@urbanthreads.com) (or use the online [Contact Urban Threads form](http://www.urbanthreads.com/form_contact) at www.urbanthreads.com)
 
-Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information collected through this web site, [www.urbanthreads.com](). In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. 
-
-If you have questions or concerns regarding this statement, you should first contact us at [support@UrbanThreads.com](mailto:support@UrbanThreads.com) (or use the online [Contact Urban Threads](http://www.urbanthreads.com/contactus.aspx) form at [www.UrbanThreads.com](http://www.urbanthreads.com/)). 
-
-If you do not receive a satisfactory response to your inquiry or your inquiry has not been satisfactorily addressed, you can contact [ TRUSTe ](https://feedback-form.truste.com/watchdog/request). 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. 
 
 **Registration**
 
@@ -28,14 +24,9 @@ After registration, shoppers will receive a confirmation email with their email 
 
 **Tracking Technologies**
 
-We, Urban Threads for secure purchasing and analytics, or our service providers (payment processors) use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. 
+Urban Threads and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here:[Flash Player.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
-**Urban Threads** uses cookies to keep track of how shoppers use the Web site. This information is used for Web site improvements. The cookies are removed from your computer when you sign out of **Urban Threads**. Users can control the use of cookies at the individual browser level. If your Web browser is set to not accept cookies, you may still browse through the Web site, use most areas of the site with the exceptions of purchasing products, accessing profile information or order history data. 
-
-**Urban Threads** uses persistent cookies for shoppers' convenience. These persistent cookies are tied to personal information. If a shopper's Web browser allows persistent cookies, the shopper will be automatically signed into the site at every visit. 
-
-A session cookie from [GoDaddy.com](http://wwwl.godaddy.com/) (the issuer of **Urban Threads** ' security certificate) is used on pages that display the seal of authenticity. The cookie does not collect any information, and is used to aid in displaying **Urban Threads** ' validation page when shoppers click on the seal. 
-
+  
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 **Log Files**
@@ -45,11 +36,6 @@ As is true of most websites, we gather certain information automatically and sto
 **Urban Threads** has the ability to track and record IP addresses. This information is not shared or given to any third party. It's used to help diagnose problems with our servers and to administer the Web site. We run reports that show how many visitors come to our site each day, which parts of the world visitors are coming from, and which Web browsers are most popular with our visitors. 
 
 No personal information (name or email address) links any visitor to any automatically collected data. All the data that is gathered is used for the sole purpose of improving our Web site and products, and is not shared with anyone else. 
-
-**Flash LSOs/HTML5**
-
-Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies and HTML5 to collect and store information.   
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Various browsers may offer their own management tools for removing HTML5. 
 
 **Social Media Widgets**
 
@@ -76,7 +62,7 @@ We may provide your personal information to companies that provide services to h
 **Urban Threads** uses a shopping basket/order form for shoppers to purchase products. Shoppers may pay for an order via PayPal, or using a Visa, MasterCard, or Discover credit card. The site collects billing and financial information (credit card numbers and security codes). Financial information that is collected is used only to bill the shopper for the products requested. This information is used only for that purpose, and is never shared with any other person or company. No credit card information is stored in your profile or in any other area of the site other than the data legally required by the credit card companies. 
 
 If a shopper wishes to purchase a gift certificate for someone else, we'll ask for the name and email address of the person getting the certificate. This information is used to send an email to the person to notify them of the certificate code. Urban Threads stores this information for the purpose of sending this one-time email and maintaining the gift certificate information assigned to the recipient.   
-Your friend may contact us at support@UrbanThreads.com to request that we remove this information from our database. 
+Your friend may contact us at [support@urbanthreads.com](mailto:support@urbanthreads.com) to request that we remove this information from our database. 
 
 **Links**
 
@@ -90,7 +76,7 @@ Your friend may contact us at support@UrbanThreads.com to request that we remove
 
 **Correcting and Changing Personal Information**
 
-If your personal information changesm or if you no longer desire our service, you can change or delete any personal information retained at the site with one of these methods: 
+Upon request Urban Threads will provide you with information about whether we hold any of your personal information. If your personal information changes or if you no longer desire our service, you can change or delete any personal information retained at the site with one of these methods: 
 
   * Complete the [Contact Urban Threads](http://www.urbanthreads.com/contactus.aspx) form at **UrbanThreads.com** and advise us of what to change. 
   * Sign in to **UrbanThreads.com** and edit your personal profile 
@@ -119,10 +105,10 @@ Minneapolis, MN 55446
 
 **Legal Disclaimer**
 
-We make every effort to preserve user privacy, but we may need to disclose personal information when required by law, such as comply with a current judicial proceeding, a court order, or similar legal process wherein we have a good-faith belief that such action is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+In certain situations, Urban Threads may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We make every effort to preserve user privacy, but we may need to disclose personal information when required by law, such as comply with a current judicial proceeding, a court order, or similar legal process wherein we have a good-faith belief that such action is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
 
 If Urban Threads is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
 **Effective and Revision Date**
 
-This privacy policy was last updated on June 3, 2016. 
+This privacy policy was last updated on April 17, 2017. 
