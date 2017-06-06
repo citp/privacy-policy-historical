@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dirjournal.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204105645id_/http%3A//www.dirjournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirjournal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191649id_/https%3A//www.dirjournal.com/privacy.php) for the most accurate reproduction.*
 
 # DirJournal Local Search - Privacy Policy
+
+DirJournal has Turned 10 Years Old. Win an iPhone 7 Plus, $300 Cash and 5 Free Listings. **[Use the coupon DJTurns10 for a whopping 40% discount](https://web.archive.org/submit.php)**
 
 The Directory Journal feels strongly that your information and rights must be protected. To this end, we have prepared the following privacy policy to ensure all measures are taken to protect the interests of our visitors and provide a more pleasant site experience.
 
