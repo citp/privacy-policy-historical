@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterford.org privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212113453id_/http%3A//www.waterford.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterford.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200512id_/http%3A//www.waterford.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Waterford Institute
 
@@ -13,7 +13,7 @@ Your privacy and the privacy of the children who use our products is important t
 
 
 
-Please familiarize yourself with our Privacy Policy, and let us know if you have any questions. As a reminder, you can refer to the [End User License Agreement](http://www.waterford.org/eula) to review terms and restrictions for usage of our products.
+Please familiarize yourself with our Privacy Policy, and let us know if you have any questions. As a reminder, you can refer to the [End User License Agreement](https://www.waterford.org/eula) to review terms and restrictions for usage of our products.
 
 ### The Privacy Policy explains the following:
 
@@ -35,9 +35,9 @@ Please familiarize yourself with our Privacy Policy, and let us know if you have
 
 
 
-[](http://www.waterford.org/privacy-policy-pdf)
+[](https://www.waterford.org/privacy-policy-pdf)
 
-Waterford Research Institute, LLC (“Waterford”), respects the privacy concerns of all users of our entire family of products, services, and software, including but not limited to _Waterford Early Learning_ , _Classroom Advantage_ , _SmartStart_ , and _UPSTART_ , our mobile app _MyBackpack_ , and our websites [www.waterford.org](http://www.waterford.org/), [www.waterfordupstart.org](http://www.waterfordupstart.org/), [Waterford Help Site](http://wel-help.waterfordearlylearning.org/), and [Waterford Teacher Training Hub](https://waterford.digitalchalk.com/dc/guest/login) (collectively “ **Digital Media** ”). Protecting any personal information, such as your name, student ID, grade, class, as well as optional identification information such as gender, email address, physical address, birthday, ethnicity, primary language, disability, special programs, and picture (collectively “ **Personal Information** ”) is important to us. We respect your privacy in handling all Personal Information relating to you and your transactions with us through our Digital Media.
+Waterford Research Institute, LLC (“Waterford”), respects the privacy concerns of all users of our entire family of products, services, and software, including but not limited to _Waterford Early Learning_ , _Classroom Advantage_ , _SmartStart_ , and _UPSTART_ , our mobile app _MyBackpack_ , and our websites [www.waterford.org](https://www.waterford.org/), [www.waterfordupstart.org](http://www.waterfordupstart.org/), [Waterford Help Site](http://wel-help.waterfordearlylearning.org/), and [Waterford Teacher Training Hub](https://waterford.digitalchalk.com/dc/guest/login) (collectively “ **Digital Media** ”). Protecting any personal information, such as your name, student ID, grade, class, as well as optional identification information such as gender, email address, physical address, birthday, ethnicity, primary language, disability, special programs, and picture (collectively “ **Personal Information** ”) is important to us. We respect your privacy in handling all Personal Information relating to you and your transactions with us through our Digital Media.
 
 When you provide Personal Information to us, in any way or through any medium (e.g., mobile app, website, or software), you are consenting to the manner in which Waterford may collect, use, disclose, and otherwise manage your Personal Information, which is set forth herein. IF YOU DO NOT AGREE WITH THE TERMS SET FORTH HEREIN, YOU ARE NOT PERMITTED TO USE ANY OF WATERFORD’S DIGITIAL MEDIA.
 
