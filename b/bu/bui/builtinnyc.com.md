@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtinnyc.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222225641id_/http%3A//www.builtinnyc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtinnyc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050618id_/http%3A//www.builtinnyc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Built In NYC
 
@@ -50,7 +50,7 @@ From time to time, we may change our privacy practices, and this Privacy Policy,
   
  **7.     Any questions? Please contact us at:**  
 Built in  
-440 North Wells Suite 340  
+440 North Wells Suite 502  
 Chicago, Illinois 60654  
 Telephone: 312-447-6119  
 Email: [support@builtin.com](mailto:support@builtin.com)
