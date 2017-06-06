@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmfare.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214122750id_/http%3A//www.filmfare.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmfare.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112303id_/http%3A//www.filmfare.com/privacypolicy) for the most accurate reproduction.*
 
-# Filmfare
+# Bollywood News, Filmfare Awards, Movie Reviews, Celebrity Photos & Updates | filmfare.com
 
 Filmfare.com is the registered domain name and official website of Filmfare magazine owned by Worldwide Media Private limited, a joint venture between the Times Group, India and BBC Worldwide, United Kingdom. As a User, Customer or Registered Member of Filmfare.com we understand that you would be concerned about your online privacy . We at Filmfare.com are concerned and respect your privacy, and protect the privacy of all concerned by using the information you provide with utmost care and security. First and foremost you need to be 18 years or older to register at Filmfare.com as a member or for commercial usage of this B2C website.
 
