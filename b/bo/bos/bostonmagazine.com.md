@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122610id_/http%3A//www.bostonmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044140id_/http%3A//www.bostonmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Boston Magazine
+# Privacy Policy - Boston Magazine
 
 Welcome to the _Boston_ magazine website (the “Site”)! _Boston_ magazine is committed to protecting your privacy and trust and will only use your data as set forth in this Privacy Policy and any amendments hereto. This Privacy Policy discloses the privacy practices for _Boston_ magazine and Metro Corporation (collectively “Boston” of “We”) and explains how we collect information and how we use the information that we collect.
 
@@ -94,4 +94,4 @@ Again, if you would like to avoid cookies, your web browser may have an option t
 
 Consistent with the Children’s Online Privacy Protection Act (“COPPA”), this Site is not intended for use by anyone under the age of 13. _Boston_ does not knowingly collect personal information from children through this Site, or any of its websites. Minors between the ages of 13 and 17 must obtain the permission of their parents or legal guardians before making purchases of any type on this Site.
 
-If you are a parent with concerns about children’s privacy issues in conjunction with the use of this Site, or any other privacy issue, please contact us at privacy@phillymag.com. 
+If you are a parent with concerns about children’s privacy issues in conjunction with the use of this Site, or any other privacy issue, please contact us at privacy@phillymag.com.
