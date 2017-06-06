@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrowchat.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330214205id_/https%3A//www.arrowchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrowchat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214801id_/https%3A//www.arrowchat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ArrowChat
 
