@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessesforsale.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129032714id_/http%3A//www.businessesforsale.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessesforsale.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024327id_/http%3A//www.businessesforsale.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Dynamis' Privacy Policy
 
@@ -8,7 +8,7 @@ We are committed to protecting your privacy. We have established this statement 
 
 This Privacy Policy relates to the use of any personal information you provide to us through Dynamis websites and its partner websites (“our websites”) (where this policy appears in relation to the collection of information). Dynamis websites include, but are not limited to, BusinessesForSale.com (“the site”) FranchiseSales.com, PropertySales.com and FranchiseAVendre.fr.
 
-**“Dynamis” includes Dynamis Ltd and Dynamis APAC Pty Ltd.** For more information about these companies please see our [Terms and Conditions](http://www.businessesforsale.com/cobrands/global/info/termsConditions.aspx).
+**“Dynamis” includes Dynamis Ltd and Dynamis APAC Pty Ltd.** For more information about these companies please see our [Terms and Conditions](http://www.businessesforsale.com/info/termsConditions.aspx).
 
 By accepting the Privacy Policy and the Terms and Conditions during registration or the sending of an enquiry, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
@@ -155,4 +155,4 @@ If you have any questions or comments about our privacy policy, and you can’t 
 
 All customers based in the Asia Pacific (APAC) region are looked after by our Australian office. You can also [use this form](http://www.businessesforsale.com/feedback.aspx) or email us at bfshelpatBusinessesForSale.com. Alternatively you can write to us at BusinessesForSale.com, Level 33, Australia Square, 264 George Street, Sydney NSW 2000, Australia.
 
-[ See the full list of APAC countries.](http://www.businessesforsale.com/cobrands/global/info/termsConditions.aspx#apac-countries)
+[ See the full list of APAC countries.](http://www.businessesforsale.com/info/termsConditions.aspx#apac-countries)
