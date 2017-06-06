@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quibids.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226172240id_/http%3A//www.quibids.com/en/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quibids.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145325id_/http%3A//www.quibids.com/en/company/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - QuiBids.com
 
@@ -91,12 +91,6 @@ California law requires that we provide you with a summary of your privacy right
 California law requires us to inform you, at your request, **(1)** the categories of personally identifiable information we collect and what third parties we share that information with; **(2)** the names and addresses of those third parties; and **(3)** examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. 
 
 When contacting us, please indicate your name, address, email address, and what personally identifiable information you do not want us to share with third parties. The request should be sent to the attention of our legal department, and labeled _"California Customer Choice Notice."_ Please allow thirty (30) days for a response. Also, please note that there is no charge for controlling the sharing of your personally identifiable information or requesting this notice. 
-
-Back to top
-
-## U.S.-EU Safe Harbor
-
-QuiBids complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. QuiBids has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view QuiBids' certification, please visit <http://www.export.gov/safeharbor/>. 
 
 Back to top
 
