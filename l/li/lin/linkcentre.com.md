@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226231504id_/http%3A//linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180034id_/http%3A//www.linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
 
 # LinkCentre.com Privacy Policy
 
-This policy applies to the services and web pages within the [LinkCentre.com](http://linkcentre.com/) domain.
+This policy applies to the services and web pages within the [LinkCentre.com](https://www.linkcentre.com/) domain.
 
 The LinkCentre.com domain is wholly owned by Interlink Advertising Limited.
 
@@ -40,19 +40,21 @@ The LinkCentre.com index holds information about web pages. The following inform
 
 If volunteered, the name and email address of the person entering the information is stored in order to send a confirmation email when the information has been added to the database. LinkCentre.com does not make the name, email address or IP address accessible through the web site or disclose them to any third party unless required to do so by law.
 
-Because we want to demonstrate our commitment to our users’ privacy, we disclose the following information.
+Because we want to demonstrate our commitment to our users' privacy, we disclose the following information.
 
-1\. What personally identifiable information Interlink Advertising Limited collects.  
----  
-2\. What personally identifiable information third parties collect through the Web site.  
-3\. What organisation collects the information.  
-4\. How Interlink Advertising Limited uses the information.  
-5\. With whom Interlink Advertising Limited may share user information.  
-6\. What choices are available to users regarding collection, use and distribution of the information.  
-7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under Interlink Advertising Limited control.  
-8\. How users can correct any inaccuracies in the information.  
-  
-Information Collection and Use  
+  * What personally identifiable information Interlink Advertising Limited collects.
+  * What personally identifiable information third parties collect through the Web site.
+  * What organisation collects the information.
+  * How Interlink Advertising Limited uses the information.
+  * With whom Interlink Advertising Limited may share user information.
+  * What choices are available to users regarding collection, use and distribution of the information.
+  * What types of security procedures are in place to protect the loss, misuse or alteration of information under Interlink Advertising Limited control.
+  * How users can correct any inaccuracies in the information.
+
+
+
+Information Collection and Use
+
 Interlink Advertising Limited is the sole owner of the infomation collected on our web site. Interlink Advertising Limited collects information at several different points on our Web site.
 
 Information is collected for the purpose of displaying details of web sites within the directory. Users have the option to participate in this activity for the purposes of maintaining and securing our site, enhancing our site and product offerings, contacting by email or regular mail and telemarketing. A user must provide the clickstream information (internet protocol address, internet service provider, platform type, date/time stamp, operating system), http protocol information (last uri requested and browser type), interaction information (browser interaction such as when the mouse moves over an image), location data (current physical location), navigation and click-stream data (passive activity such as pages visited), search terms (search text), transaction information (account transactions), user's name, user's login information, user's employer, user's home contact information, user's business contact information, 3rd party name, 3rd party login information, 3rd party employer, 3rd party business contact information, business/organisation name and contact information for the business/organisation. It is optional for the user to provide User's Employer, User's Home Contact Information, User's Business Contact Information, 3rd Party Name, 3rd Party Login Information, 3rd Party Employer, 3rd Party Business Contact Information, Business/Organisation Name and Contact Information for the Business/Organisation. We encourage users to provide optional information so we can provide a more personalised experience on our site. The reason we use this information is to archive information for future reference, complete the current transaction, contact by email or regular mail, contact by telephone, enhance our site and product offerings, enhance your experience by customising our site, maintain and secure our site, understand (in aggregate) interests of website visitors and understand your interests. We retain this information as stated by our business practices. 
@@ -115,4 +117,4 @@ Using the following information, you can contact us if you have questions about 
 Resolving Privacy Policy Disputes  
 If you think we have not followed our privacy policy in some way, it can be resolved by contacting us.
 
-Return to [Link Centre](http://linkcentre.com/)
+Return to [Link Centre](https://www.linkcentre.com/)
