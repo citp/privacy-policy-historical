@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pelican.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119165202id_/http%3A//pelican.com/us/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelican.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102407id_/http%3A//pelican.com/us/en/cor/about/privacy-policy) for the most accurate reproduction.*
 
-# Online Privacy Policy | Pelican Consumer
+# Online Privacy Policy | Pelican Products
 
 ### INTRODUCTION
 
