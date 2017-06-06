@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231065034id_/http%3A//www.clevertraining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134744id_/http%3A//www.clevertraining.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,9 +25,9 @@ We ONLY use your information to process, service, and ship your order, which inc
 
 
 
-As a valued customer, you may also receive email notifications for special offers directly from Clever Training. Should you choose to remove yourself from such notifications, please contact us at [sales@clevertraining.com](mailto:sales@clevertraining.com).
+As a valued customer, you may also receive email notifications for special offers directly from Clever Training. Should you choose to remove yourself from such notifications, please [contact us](https://web.archive.org/contact-us/).
 
-We DO NOT rent, sell, or trade your information to third parties. Our policy is simple, yet very strict.
+We DO NOT rent, sell, trade, or give your information to third parties. Our policy is simple, yet very strict.
 
 **Our Commitment to The Security of Your Data:**
 
@@ -37,7 +37,7 @@ Your data is securely processed through our SSL (Secure Sockets Layer) protected
 
 Have any comments or questions regarding our privacy policy? Contact us:
 
-Email: [sales@clevertraining.com](mailto:sales@clevertraining.com)  
+Send us a note:  [Contact Us](https://web.archive.org/contact-us/)   
 Phone: (800) 577-8538  
 1519 Gulf Blvd. Suite 1  
 Indian Rocks Beach, FL 33785
