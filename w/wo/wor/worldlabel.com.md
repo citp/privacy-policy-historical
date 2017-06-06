@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldlabel.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108193447id_/http%3A//www.worldlabel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlabel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022138id_/http%3A//www.worldlabel.com/privacy.htm) for the most accurate reproduction.*
 
 # Worldlabel's Privacy Policy
 
