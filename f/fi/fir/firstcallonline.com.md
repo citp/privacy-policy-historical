@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcallonline.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323093904id_/https%3A//firstcallonline.com/FirstCallOnline/legal/policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcallonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175241id_/https%3A//www.firstcallonline.com/FirstCallOnline/legal/policy/index.html) for the most accurate reproduction.*
 
 # O'Reilly First Call Auto Parts for the Professional
 
@@ -21,7 +21,7 @@ O'Reilly uses your information to better understand your needs and provide you w
 
 #### Who we share it with
 
-O'Reilly will not sell, rent, or lease your personal information to any others. Unless we have your direct permission or are required by law, we will only share the personal data you provide online with other O'Reilly entities and/or business partners who are acting on our behalf for the uses described above. Such O'Reilly entities and/or business partners, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements.
+O'Reilly will not sell, rent, or lease your personal information to any others. Unless we have your direct permission or are required by law, we will only share the personal data you provide online with other O'Reilly entities and/or business partners who are acting on our behalf for the uses described above. Such O'Reilly entities and/or business partners, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements O'Reilly may share personal customer provided to O'Reilly with third parties who provide services and products to O'Reilly. Examples of ways in which your information may be used include, but are not limited to, the following:
 
 ### Customer Rights
 
@@ -33,7 +33,7 @@ O'Reilly is committed to ensuring the security of your information. To prevent u
 
 ### E-mail
 
-It is critical you provide your true e-mail address for your security. O'Reilly uses your e-mail address to confirm any activities you perform online and to provide you with important account information. For your privacy, be sure to provide a true e-mail address. O'Reilly will only e-mail you regarding special offers and promotions if you indicate that you would like to receive these announcements.
+It is critical you provide a valid email address for your security. O'Reilly uses your email address to confirm any activities you perform online and to provide you with important account information. By signing up for account access you are automatically entered to receive communications from O'Reilly Auto Parts and First Call via mail, email, phone and various other channels. Company may use these channels to communicate member account status, product recalls, notify member when they are eligible for a reward, communicate program features and benefits, offer special member promotions we believe may be of interest to you and other information company deems applicable.
 
 ### Updates to this Privacy Policy
 
