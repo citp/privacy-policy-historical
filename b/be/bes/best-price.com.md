@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the best-price.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201132046id_/http%3A//www.best-price.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-price.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101900id_/http%3A//www.best-price.com/service/privacy) for the most accurate reproduction.*
 
-# Privacy | Price comparison and reviews at best-price.com
+# Privacy Preisvergleich und Test bei PREISVERGLEICH.de
 
 The security of your personal information and your privacy is very important to us as operator of BEST-PRICE.com (in the following just called BEST-PRICE.com). Since your trust in us means a lot to us, we'll do all that's possible to warrant and keep this trust. Against this background BEST-PRICE.com tries by all means to ensure the compliance of privacy. In this regard we ask you to read the privacy policy to get informed about the way we'll treat your personal information if you use our online services. Changes in this policy might happen from time to time. Of course, you'll be advised in this case and also asked to have a look at these pages again.
 
 #### a) Your Privacy
 
-BEST-PRICE.com is brought to you by PREISVERGLEICH.de AG. BEST-PRICE.com believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, BEST-PRICE.com makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about BEST-PRICE.com's collection, use and disclosure of information you choose to share with us through our website.
+BEST-PRICE.com is brought to you by GET Sol 1 GmbH. BEST-PRICE.com believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, BEST-PRICE.com makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about BEST-PRICE.com's collection, use and disclosure of information you choose to share with us through our website.
 
 This Privacy Policy is considered to be a part of BEST-PRICE.com's User Agreement. By using the site you agree to the terms and conditions of the User Agreement, including this Privacy Policy. By using the site, you are also consenting to BEST-PRICE.com's privacy practices, including the use and disclosure of any personally identifiable information that you have shared with us, as described in this Privacy Policy.
 
@@ -48,7 +48,7 @@ You can delete or deactivate your BEST-PRICE.com account at any time. To do so, 
 
 The information in your BEST-PRICE.com account and in your BEST-PRICE.com profile is password protected so that only you have access to your personal details. Please note that you are not permitted to give your password to any other person. BEST-PRICE.com will never ask you for your password in e-mails which you are not expecting or which you have not requested. Always log out of your account and close the browser window when you leave the BEST-PRICE.com website if you are using a shared computer in a public place. This is at present the safest way of ensuring that no-one can gain access to your personal information.
 
-#### k) Protection From Web Crawlers And Spam
+####  k) Protection From Web Crawlers And Spam
 
 BEST-PRICE.com guarantees that we will only use your e-mail address with your express permission for the uses described in the conditions of use. We will not sell your e-mail address to third parties and will prevent your e-mail address from being captured by web crawlers and spiders to the extent that is it within our capability to do so. If you think that your e-mail address has been captured in this way, please contact our technical support team immediately.
 
