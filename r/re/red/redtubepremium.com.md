@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtubepremium.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214103224id_/http%3A//www.redtubepremium.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtubepremium.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607001039id_/https%3A//www.redtubepremium.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Information, FAQ And Terms | RedTubePremium
 
@@ -81,10 +81,3 @@ The website is owned and operated by MG Billing Ireland, MG Billing MU and MG Bi
 ## THIRD-PARTY WEB BEACONS
 
 We use third-party web beacons from Google to help analyze where visitors go and what they do while visiting our website. Google may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.
-
-[ Click here for records required pursuant to 18 U.S.C. 2257 Record Keeping Requirements Compliance Statement. ](https://web.archive.org/information/usc) By entering this site, you swear that you are of legal age in your area to view adult material and that you wish to view such material. 
-
-Membership to this site does not provide access to videos depicting: Rape/Brutality.   
-Incest, Pedophilia, Bestiality, Necrophilia, Drugged/Incapacitated sex, Blood/Mutilation   
-MG Billing US Corp, 1209 Orange Street, Wilmington, DE-19801, USA   
-MG Billing Ireland Limited, 77 Sir John Rogersons Quay, Suite 105, Dublin2, Ireland.
