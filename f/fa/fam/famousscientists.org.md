@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousscientists.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120102028id_/http%3A//www.famousscientists.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousscientists.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191134id_/https%3A//www.famousscientists.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,15 +10,15 @@ _Famous Scientists_ does not need any information which can be traced back to, a
 
 ### Log Files
 
-Like many other websites, _Famous Scientists_ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the website, track user’s movement around the website, and gather demographic information. All of the data recorded is not linked to any information that could personally identify a unique individual.
+Like many other websites, _Famous Scientists_ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the website, track user’s movement around the website, and gather demographic information. None the data recorded is linked to information that could personally identify a unique individual.
 
 ### Cookies and Web Beacons
 
-_Famous Scientists_ itself, does not use any cookies to store information. Third party service providers however may store information on your computer. Refer to the following sections to understand what information is collected and how to opt out of the process.
+Third party service providers may store information as cookies on your computer. Refer to the following sections to understand what information is collected and how to opt out of the process.
 
 ### DoubleClick DART Cookie
 
-Google, as a third party vendor, uses cookies to serve ads on _Famous Scientists_. Google’s use of the DART cookie enables it to serve ads to users based on their visit to websites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at this URL (http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on _Famous Scientists_. Google’s use of the DART cookie enables it to serve ads to users based on their visits to websites. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at this URL (https://www.google.com/privacy_ads.html).
 
 ### Advertisers
 
@@ -32,4 +32,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ### Copyrights
 
-_Famous Scientists_ ensures that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted on our website. If you find anything that could be considered a violation of the copyright norms, please [contact us](http://www.famousscientists.org/contact) immediately.
+_Famous Scientists_ ensures that there are no copyright infringements on our website. If you find anything that could be considered a violation of the copyright norms, please [contact us](https://www.famousscientists.org/contact) immediately.
