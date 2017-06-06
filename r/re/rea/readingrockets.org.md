@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226165508id_/http%3A//www.weta.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151225id_/http%3A//www.weta.org/privacy) for the most accurate reproduction.*
 
 # WETA.org Privacy Policy | WETA
 
@@ -52,7 +52,7 @@ To make our site more valuable to our visitors, we offer some features in conjun
 
 ## 7\. Acceptance of this Privacy Policy
 
-By using this site, you, or your parent or guardian if you are a minor child, signify your agreement to the terms and conditions of this Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. If you have any questions or concerns, please [contact us](http://weta.org/contact).
+By using this site, you, or your parent or guardian if you are a minor child, signify your agreement to the terms and conditions of this Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. If you have any questions or concerns, please [contact us](https://web.archive.org/contact).
 
 _Revised December 2016_
 
