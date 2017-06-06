@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summerfest.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130061829id_/http%3A//summerfest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summerfest.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155512id_/http%3A//summerfest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Summerfest, The World's Largest Music Festival
 
