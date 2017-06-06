@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capellaflavors.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120160118id_/http%3A//capellaflavors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capellaflavors.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163300id_/http%3A//www.capellaflavors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Capella Flavor Drops
 
