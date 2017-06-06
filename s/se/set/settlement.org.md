@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the settlement.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015449id_/http%3A//settlement.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the settlement.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054044id_/http%3A//settlement.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,19 +14,11 @@ OCASI neither collects personal information about its users nor receives persona
 
 This section of the website allows you to create a username which identifies you in the discussion forum and permits you to ask and respond to questions. We keep your information anonymous except for that information which you explicitly share using the Forum profile and posting features. 
 
-### Asking Questions and Providing Feedback 
-
-In the Feedback page and comments areas of this site you are encouraged to send suggestions or comments to the Settlement.Org team. You are not required to include information about yourself unless you so desire. When you submit your feedback only the information you provide is sent to us. 
-
-We encourage you to post your settlement questions in the [Discussion Forums](http://discuss.settlement.org/discuss/). We reserve the right to post and answer your questions in the discussion forums, if we believe that the information would help other newcomers. Your question will be edited to remove any personal information.
-
-### Newsletter Subscriptions
-
-When you subscribe to a Settlement.Org newsletter you need only supply an email address. This email address is used to deliver the newsletter to you. Your email is not used or known by any other newsletter subscriber, organization, website or government agency.
+We encourage you to post your settlement questions in the [Discussion Forums](http://discuss.settlement.org/). We reserve the right to post and answer your questions in the discussion forums, if we believe that the information would help other newcomers. Your question will be edited to remove any personal information.
 
 ### Polls and Surveys
 
-Occasionally Settlement.Org users will have the opportunity to respond to an online poll or survey. Your responses are private. We have no way of tracing them back to you. Feel safe in knowing that your responses are completely anonymous.
+Occasionally Settlement.Org users will have the opportunity to respond to an online poll or survey. Your responses are private. Feel safe in knowing that your responses are completely anonymous.
 
 ### "Cookies" - Statistics
 
@@ -44,11 +36,11 @@ We have security measures in place to protect against the loss, misuse and alter
 
 ## Access to Personal Information
 
-You have the right to request and obtain from OCASI the personal information OCASI has about you. If you have any such requests or questions about your privacy in relation to the Settlement.Org website please provide in writing to:
+You have the right to request and obtain from OCASI the personal information OCASI has about you. If you have any such requests or questions about your privacy in relation to the Settlement.Org website please provide in writing to:  
 
-Dave Montague, Privacy Officer  
+
 OCASI  
 110 Eglinton Avenue West, Suite 200  
 Toronto, Ontario M4R 1A3 
 
-[dmontague@ocasi.org](mailto:dmontague@ocasi.org)
+[settlementorg@ocasi.org](mailto:dmontague@ocasi.org)
