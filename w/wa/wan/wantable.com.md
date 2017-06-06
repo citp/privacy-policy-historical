@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wantable.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223111657id_/http%3A//blog.wantable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantable.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122537id_/http%3A//blog.wantable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ Ads appearing on the Website may be delivered to users by Wantable’s advertisi
 
 Wantable does not sell, giveaway, or rent to any customer information to outside companies.  If you provided your email to us through a sweepstakes, we may share information with directly related sweepstake sponsors.  A separate privacy policy for each sweepstake is provided explaining information use and sponsor distribution.
 
-If logging in through Facebook, we collect and store birthdate, first name, last name, gender, location, and profile picture. Information coming from Facebook is not shared. Your Facebook account can always be unlinked to your Wantable account by emailing Wantable at hello@wantable.com.
+If logging in through Facebook, we collect and store birthdate, first name, last name, gender, location, and profile picture. Information coming from Facebook is not shared. Your Facebook account can always be unlinked to your Wantable account by emailing Wantable at [hello@wantable.com](https://www.wantable.com/support).
 
 ### iOS App
 
@@ -35,4 +35,4 @@ You may elect not to share a photo with Wantable.com by turning off that sharing
 
 Wantable may amend this Privacy Policy from time to time. Users are bound by any changes to the Privacy Policy when he or she uses the Website after changes have been posted.
 
-If you have any questions or concerns regarding privacy, please send us a detailed message at hello[at]wantable.com. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy, please send us a detailed message at [hello@wantable.com](https://www.wantable.com/support). We will make every effort to resolve your concerns.
