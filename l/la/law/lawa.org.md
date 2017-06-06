@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawa.org privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301133840id_/http%3A//www.lawa.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D160) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawa.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172619id_/http%3A//lawa.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D160) for the most accurate reproduction.*
 
 # Welcome to Los Angeles World Airports
 
