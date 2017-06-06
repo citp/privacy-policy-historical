@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anglia.ac.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201134605id_/http%3A//www.anglia.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anglia.ac.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163607id_/http%3A//www.anglia.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies - Anglia Ruskin University
+# Privacy and cookies - Anglia Ruskin University
 
 Untitled Page
 
@@ -8,7 +8,7 @@ Untitled Page
 
 Anglia Ruskin University is committed to protecting your privacy online. Please read the following privacy policy to understand how we use and protect the information obtained from those visiting and using the Anglia Ruskin University website www.anglia.ac.uk (the 'Site').
 
-The Site is operated by Anglia Ruskin University. Anglia Ruskin University and its partner institutions will use the information we collect from you in accordance with this policy. A list of our associated partners can be found at [www.anglia.ac.uk/about-us/global-partnerships](https://web.archive.org/about-us/global-partnerships)
+The Site is operated by Anglia Ruskin University. Anglia Ruskin University and its partner institutions will use the information we collect from you in accordance with this policy. A list of our associated partners can be found at [www.anglia.ac.uk/about-us/global-partnerships](https://web.archive.org/about-us/global-partnerships).
 
 If you have any requests concerning your personal information or any queries with regard to our processing please contact [dpa@anglia.ac.uk](mailto:dpa@anglia.ac.uk).
 
@@ -58,7 +58,7 @@ All payment details which are entered through this payment gateway are encrypted
 
 #### International enquiries
 
-The data sent in international enquiries to the University will be used for the purposes of dealing with your enquiry, and sending you relevant information about Anglia Ruskin University. If you wish to remove yourself from Anglia Ruskin University's database please contact [angliaruskin@enquiries.uk.com](mailto:angliaruskin@enquiries.uk.com)
+The data sent in international enquiries to the University will be used for the purposes of dealing with your enquiry, and sending you relevant information about Anglia Ruskin University. If you wish to remove yourself from Anglia Ruskin University's database please contact [international@anglia.ac.uk](mailto:international@anglia.ac.uk).
 
 #### Disclosure of your information
 
@@ -72,7 +72,7 @@ Unless required or permitted to do so by law, we will not otherwise share, sell 
 
 #### Higher Education Statistics Agency (HESA)
 
-Please note that some information that is held about you will be sent to the Higher Education Statistics Agency (HESA). For further information on how this information will be used please visit [www.hesa.ac.uk/collection-notices](https://www.hesa.ac.uk/collection-notices).
+Please note that some information that is held about you will be sent to the Higher Education Statistics Agency (HESA). For further information on how this information will be used please [visit the HESA website](https://www.hesa.ac.uk/about/regulation/data-protection/notices).
 
 #### Other websites
 
