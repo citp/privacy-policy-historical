@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the igvault.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021218id_/http%3A//www.igvault.com/Company/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igvault.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084407id_/http%3A//www.igvault.com/Company/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy IGVault - IGVault
 
 **Privacy Policy**  
 
-IGVault.Co., Limited. and its affiliated companies (collectively, the 'Company' respect your privacy rights and recognize the importance of protecting the Personal Information (as defined below) provided by you to us. This Privacy Policy describes how the Company collects, stores, and uses the Personal Information you provide to us through the Company's web sites and through telephone or e-mail communications you may have with us. This Privacy Policy also describes the choices available to you regarding the Company's use of the Personal Information you provide to us, and the actions you can take to access this information and request that the Company correct or it.
+IGVault Co., Limited. and its affiliated companies (collectively, the 'Company' respect your privacy rights and recognize the importance of protecting the Personal Information (as defined below) provided by you to us. This Privacy Policy describes how the Company collects, stores, and uses the Personal Information you provide to us through the Company's web sites and through telephone or e-mail communications you may have with us. This Privacy Policy also describes the choices available to you regarding the Company's use of the Personal Information you provide to us, and the actions you can take to access this information and request that the Company correct or it.
 
 **Consent  **
 
