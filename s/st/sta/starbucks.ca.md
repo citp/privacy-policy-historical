@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.ca privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818113154id_/http%3A//www.starbucks.ca/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231722id_/https%3A//www.starbucks.ca/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Starbucks Coffee Company
 
@@ -150,4 +150,4 @@ This Statement went into effect on the date noted at the top of this webpage. We
 
 ### Contact Us
 
-We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at <http://www.starbucks.ca/customer-service>, by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, PO Box 6363 Dover, DE 19905-6363. 
+We welcome your questions, comments and concerns about privacy. You may use [this form](https://app.smartsheet.com/b/form?EQBCT=0f8ebb54ca5542b685412fa4cfda78d5) to ask Starbucks a privacy question or correct personal information found in your Starbucks.com profile, mobile application, or another Starbucks owned digital property.You can contact Starbucks Customer Service online at <http://www.starbucks.ca/customer-service>, by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, PO Box 6363 Dover, DE 19905-6363.
