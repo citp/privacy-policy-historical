@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stuccu.ca privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101133059id_/http%3A//www.stuccu.ca/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuccu.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070427id_/http%3A//n.stuccu.ca/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | STUCCU.CA
+# Stuccu: Best Deals on . Up To 70% off!
 
-PRIVACY POLICY 
+Privacy Policy 
 
-This is the privacy policy ("Privacy Policy") that governs how we, , StuccoMedia Ltd, company number: 514733849, registered office: Veizman 2 Tel Aviv, Israel ( "StuccoMedia", "we", "our" or "us"), use Personal Information (defined below) that we collect, receive and store about individuals in connection with the use of the website www.Stuccu.ca, and any other website that we operate (each, together with its sub-domains, content and services, a "Site"). 
+This is the privacy policy ("Privacy Policy") that governs how we, , StuccoMedia Ltd, company number: 10008044, registered office: 54-56 Camden Lock Place, London, NW1 8AF, England ( "StuccoMedia", "we", "our" or "us"), use Personal Information (defined below) that we collect, receive and store about individuals in connection with the use of the website Stuccu.ca, and any other website that we operate (each, together with its sub-domains, content and services, a "Site"). 
 
 1\. Introduction
 
@@ -12,7 +12,7 @@ We have implemented this Privacy Policy because your privacy, and the privacy of
 
 2\. User Agreement
 
-This Privacy Policy forms part of our User Agreement which is available at [ http://Stuccu.ca/privacypolicy ](http://stuccu.ca/privacypolicy) ("User Agreement"). Any capitalized but undefined term in this Privacy Policy shall have the meaning given to it in the User Agreement. 
+This Privacy Policy forms part of our User Agreement which is available at [ http://www.Stuccu.ca/privacypolicy ](http://www.stuccu.ca/privacypolicy) ("User Agreement"). Any capitalized but undefined term in this Privacy Policy shall have the meaning given to it in the User Agreement. 
 
 3\. Consent and Modification
 
@@ -32,7 +32,7 @@ Order Information. If you place an order through the Site, you will be required 
 
 Log Files: We may make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser may send to us. We may use such information to analyze trends, administer the Site, track user's movement around the Site, and gather demographic information. 
 
-Cookies and Other Tracking Technologies : Our Site may utilize "cookies", anonymous identifiers and other tracking technologies in order to for us to provide our Site and present you with information that is customized for you. A "cookie" is a small text file that may be used, for example, to collect information about activity on the Site. Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.For more information on cookies, please visit our page available at [ http://Stuccu.ca/useofcookies ](http://stuccu.ca/useofcookies)
+Cookies and Other Tracking Technologies : Our Site may utilize "cookies", anonymous identifiers and other tracking technologies in order to for us to provide our Site and present you with information that is customized for you. A "cookie" is a small text file that may be used, for example, to collect information about activity on the Site. Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.For more information on cookies, please visit our page available at [ http://www.Stuccu.ca/useofcookies ](http://www.stuccu.ca/useofcookies)
 
 Google Analytics: The Site may use a tool called “Google Analytics” to collect information about use of the Site. Google Analytics collects information such as how often users visit this Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site. We use the information we get from Google Analytics to maintain and improve the Site and our products. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics Terms of Service, available [www.google.com/analytics/terms/us.html ](http://www.google.com/analytics/terms/us.html), and the Google Privacy Policy,available at [www.google.com/policies/privacy/](http://www.google.com/policies/privacy/). You may learn more about how Google collects and processes data specifically in connection with Google Analytics at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). You may prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at [tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/). 
 
@@ -48,11 +48,11 @@ if you submit or we collect Personal Information through the Site, then we may u
 
 5.4 We may share your Personal Information with our third party service providers and partners, to assist us with our business operations and to provide our Site to you and other users. Such information may be transferred to other countries. We use commercially reasonable efforts to only engage or interact with third party service providers and partners that post a privacy policy governing their processing of Personal Information (see below). 
 
-5.5 We may disclose your Personal Information or any information you submitted via the Site if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our User Agreement and EULA, including investigations of potential violations thereof; (iii) detect, prevent, or otherwise address fraud or security issues; or (iv) protect against harm to the rights, property or safety of Stuccu.com, our users, yourself or the public. 
+5.5 We may disclose your Personal Information or any information you submitted via the Site if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our User Agreement and EULA, including investigations of potential violations thereof; (iii) detect, prevent, or otherwise address fraud or security issues; or (iv) protect against harm to the rights, property or safety of Stuccu.ca, our users, yourself or the public. 
 
-5.6 Sharing the information: Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Stuccu.com, controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+5.6 Sharing the information: Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Stuccu.ca, controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
 
-5.6.1 **Affiliated Businesses We Do Not Control** : We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Stuccu.com or sell offerings to you at Stuccu.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. 
+5.6.1 **Affiliated Businesses We Do Not Control** : We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Stuccu.ca or sell offerings to you at Stuccu.ca. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. 
 
 5.6.2 **Third-Party Service Providers** : We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
 
@@ -76,7 +76,7 @@ At all times, you may choose whether or not to provide or disclose Personal Info
 
 9\. Access/Accuracy
 
-To the extent that you do provide us with Personal Information, we wish to maintain accurate Personal Information. If you would like to delete or correct any of your other Personal Information that we may be storing, you may use the tools that we make available on the Site or you may submit an access request by sending an email to [ contact@Stuccu.com](mailto:contact@Stuccu.com). Your email should include adequate details of your request. 
+To the extent that you do provide us with Personal Information, we wish to maintain accurate Personal Information. If you would like to delete or correct any of your other Personal Information that we may be storing, you may use the tools that we make available on the Site or you may submit an access request by sending an email to [contact@Stuccu.ca](mailto:contact@Stuccu.ca.). Your email should include adequate details of your request. 
 
 10\. Links to and Interaction with Third Party Products
 
@@ -84,11 +84,11 @@ The Site may enable you to interact with or contain links to your Third Party Ac
 
 11\. Children's Privacy
 
-The Site is a general audience websites and not structured to attract children under the age of 13 years. We do not intend to collect Personal Information from anyone we know to be under 13 years. If we learn that we have collected Personal Information from a child under 13 years, we will delete that information as quickly as possible. If you believe that we might have any such information, please contact us at [contact@Stuccu.com](mailto:contact@Stuccu.com). 
+The Site is a general audience websites and not structured to attract children under the age of 13 years. We do not intend to collect Personal Information from anyone we know to be under 13 years. If we learn that we have collected Personal Information from a child under 13 years, we will delete that information as quickly as possible. If you believe that we might have any such information, please contact us at [contact@Stuccu.ca](mailto:contact@Stuccu.ca). 
 
 12\. Security
 
-The security of Personal Information is important to us. We follow generally accepted industry standards, including the use of appropriate administrative, physical and technical safeguards, to protect the Personal Information submitted to us. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use reasonably acceptable means to protect your Personal Information, we cannot guarantee its absolute security or confidentiality. If you have any questions about security on the Service, you can contact us at [contact@Stuccu.com](mailto:contact@Stuccu.com). 
+The security of Personal Information is important to us. We follow generally accepted industry standards, including the use of appropriate administrative, physical and technical safeguards, to protect the Personal Information submitted to us. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use reasonably acceptable means to protect your Personal Information, we cannot guarantee its absolute security or confidentiality. If you have any questions about security on the Service, you can contact us at [contact@Stuccu.ca](mailto:contact@Stuccu.ca). 
 
 13\. Merger, Sale or Bankruptcy
 
@@ -100,6 +100,6 @@ We do not currently respond or take any action with respect to web browser "do n
 
 16\. Commitment
 
-We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and we are constantly evolving our Service to meet these demands. If you have any comments or questions regarding our Privacy Policy, or your Personal Information that we may be storing and using, please contact us at [contact@Stuccu.com](mailto:contact@Stuccu.com). 
+We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and we are constantly evolving our Service to meet these demands. If you have any comments or questions regarding our Privacy Policy, or your Personal Information that we may be storing and using, please contact us at [contact@Stuccu.ca](mailto:contact@Stuccu.ca). 
 
 Last updated: 21/4/2016 
