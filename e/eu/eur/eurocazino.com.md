@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108153331id_/http%3A//eurocazino.com/privacy.php%3Fid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125715id_/http%3A//eurocazino.com/privacy.php%3Fid%3D0) for the most accurate reproduction.*
 
 # Privacy policy of our Online Casino. Description of security and cashouts rules
 
 |  |    |   
 ---|---  
-**[**Double Drive Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=doubledrive)  
+**[**View a Win Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=viewawin)  
 ** **    |   
 ---|---  
    |   
