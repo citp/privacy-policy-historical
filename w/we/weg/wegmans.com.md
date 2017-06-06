@@ -1,78 +1,97 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2012-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120824115714id_/http%3A//www.wegmans.com/webapp/wcs/stores/servlet/ProductDisplay%3FstoreId%3D10052%26catalogId%3D10002%26langId%3D-1%26partNumber%3DUNIVERSAL_3568) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224900id_/https%3A//www.wegmans.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Wegmans
+# Privacy - Wegmans
 
-### Wegmans pledge to you
+### **Wegmans pledge to you**
 
-You have our word that the information gathered through this site will only be used on behalf of giving you, our valued customer, our very best. We will hold all such information in the strictest of confidence, even within Wegmans, and pledge never to sell your name, address, or purchase information to anyone. We guarantee it!
+Since 1916, our business philosophy has been to be the very best at serving the wants and needs of our customers. Wegmans understands that you care how information about you is used and shared, and we appreciate your trust that we will use the information wisely and legitimately. You have our word that the information gathered through this site will only be used on behalf of giving you, our valued customer, our very best.
 
-* * *
+### **Why do we need personal information from you?**
 
-### Privacy policy for wegmans.com
+The information you provide helps us understand your preferences, so we can personalize and continually improve your shopping experience.
 
-Since 1916, our business philosophy has been to best serve the wants and needs of our customers. The Internet is just one more way for us to serve you. Wegmans understands that you care how information about you is used and shared, and we appreciate your trust that we will use the information wisely and legitimately.
+### **What information do we collect?**
 
-* * *
+We collect the following information which you provide to us:
 
-### Why do we need personal information from you?
-
-The information you provide helps us understand your preferences, so we can personalize and continually improve your online experience (see examples below).
-
-If at any time you would like us to cancel your registration, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/ContactUsView?storeId=10052&catalogId=&langId=-1). Inactive accounts are automatically purged after 1 year.
-
-* * *
-
-### Methods of gathering information
-
-  * Information from you  
-This information comes directly from what you enter during registration on wegmans.com. The information you provide is used for creating personal [shopping lists](https://web.archive.org/webapp/wcs/stores/servlet/ShoppingListsView?storeId=10052&catalogId=&langId=-1), detailing what's on sale in your Wegmans store, and sending you [Fresh News Emails](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1) according to your personal preferences. You also have easy access to expanded wegmans.com services, which adds value and convenience to your shopping experience.
-  * Email communications  
-When you register for a service that we offer, such as our [Fresh News Email](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1), we store your information in an electronic database, which is for Wegmans' use only. If at any time you do not want to receive our emails, please adjust your preferences in [My Account.](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1)
-  * Cookies  
-Whenever you interact on our site, we receive and store certain information. This is done through Internet "cookies," which allow you to take advantage of some of our best features. We do NOT use cookies to examine your surfing behavior before or after leaving the Wegmans website.
-  * Why does wegmans.com use Internet cookies?Internet cookies allow the website to identify you each time you return, and offer you personalized content and services.
-
-Internet cookies allow you to take advantage of all the features wegmans.com offers.
-
-An Internet cookie is a text file placed on your computer by wegmans.com. It cannot transmit a virus or do damage to your system.
-
-  * Shoppers Club information  
-If you have a Wegmans Shoppers Club account, the information you provided on your application is merged with your wegmans.com profile (if you choose to register for our online services). Whether we interact with you online or at our stores, we feel it's important to have one account for you, to facilitate customer service. Any information you share with us in either place is held in the strictest of confidence, even within Wegmans, and is never sold to anyone else.
+  * Contact information, such as name, address, telephone number and email address
+  * Your favorite stores, products and recipes
+  * Household information
+  * Payment information, such as your credit or debit card number and expiration date
+  * Questions, communications and other content you submit
+  * Wegmans.com login credentials, including your password
+  * Purchases made with your Shoppers Club card or number
+  * Job application information
 
 
 
-* * *
+In addition, we use cookies to receive and store information whenever you interact with us through your computer or mobile device.  This information, which may include the pages you visit on our site, your web address, the type of browser, device or hardware you are using, search terms and IP-based geographic location, helps us recognize you and customize your website experience.
 
-### In what ways does wegmans.com share the information that it receives?
+### **Your Account**
 
-  * Employees  
-Access to customer information is limited to employees who need it in order to serve customers or maintain our information systems. All employees are subject to our company Privacy Policy. We have a Privacy Committee that periodically reviews access, system safeguards, and company policies.
-  * Vendors  
-We may provide purchase information to vendors in aggregate form (i.e., customer non-specific) in order to bring you special offers on products and services. We may also provide a list of names and addresses to a mail house so that they can send a direct mail offer from us to you. The mail house would be required to sign a strict Nondisclosure Agreement, which prohibits them from disclosing the information to anyone else.
-  * Other situations  
+If you have a Wegmans Shoppers Club account, the information you provided on your application is merged with your wegmans.com profile (if you choose to register for our online services). Whether we interact with you online or at our stores, we feel it's important to have one account for you, to facilitate customer service.
+
+### **How do we use your information?**
+
+We may use the information we collect in a variety of ways, including:
+
+  * Communicating with you about products, events and promotions
+  * Conducting research and analysis, including surveys and focus groups
+  * Administering contests and sweepstakes
+  * Processing purchases and payments
+  * Sending notices of product recalls
+  * Administering your account
+  * Evaluating and improving our products and services
+  * Preventing fraud, managing exposure to risk, and complying with our legal obligations
+
+
+
+**Wegmans does not sell your personal information to anyone.**
+
+### **How is your information shared?**
+
+  * **Employees**  
+Access to customer information is limited to employees who need it in order to serve customers or maintain our information systems. All employees are subject to our company Information Security Policies.
+  * **Vendors**  
+We may provide purchase information to vendors in aggregate form (i.e., customer non-specific) in order to bring you special offers on products and services.
+  * **Service Providers**  
+We may share information with companies that provide support services to us, such as direct mail, email, web hosting, and payment processing.  These companies are not authorized to share or use the information we provide for any other purpose.
+  * **Third Parties**  
+Third parties that we contract with may use cookies and similar technologies to collect or receive information from our website and use that information to provide measurement services and target ads. You may opt-out of the collection and use of information for ad targeting. For more information visit [a __boutads.info/choices](http://www.aboutads.info/choices).
+  * **Other situations**  
 We may release customer information when we believe it is necessary to comply with the law, enforce our legal rights; or to protect our customers or us. We may also release your information if you request or authorize us to do so.
 
 
 
-* * *
+### **How secure is information about me?**
 
-### How secure is information about me?
-
-  * We make every effort to ensure that your personal information, including your credit card number, is protected while you are on our site. Our website uses Secure Socket Layer (SSL) encryption so that your personal information cannot be read as it passes over the Internet. A padlock appears in the corner of your web browser when you are using SSL encryption.
+  * Securing your personal information is a top priority.  We have administrative, technical and physical safeguards in place to protect your information. Our website uses Secure Socket Layer (SSL) encryption so that your personal information cannot be read as it passes over the Internet.
   * Remember to keep your email address and password secure. Also, be sure to sign off when finished using a shared computer.
 
 
 
-* * *
+### **What information can I access about myself?**
 
-### What information can I access about myself?
+Wegmans.com gives you access to your record for updating information and for viewing it. All of the information you've shared with us is available to you only, through [My Account](https://web.archive.org/my-account.html). Please review your profile on a regular basis and up-date it so we can serve you better.
 
-Wegmans.com gives you access to your record for updating information and for viewing it. All of the information you've shared with us is available to you only, through [My Account](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1). Please review your profile on a regular basis and up-date it so we can serve you better.
+### **Privacy of Mobile Applications**
 
-* * *
+Our mobile applications may allow you to create a shopping list, search or add products to a favorites list, check price or product availability, print coupons and engage in a variety of other activities and services.
 
-### Who can use wegmans.com?
+Also, our mobile applications collect information about the location of your device. You must first provide permission through your device before our mobile applications obtain such location information from technologies like GPS, Wi-Fi, or cell tower proximity (or a combination of these technologies). We, and our service providers, may use and store this information, in combination with other location-based information such as IP address and billing, to provide enhanced location based services, such as store specific services, search results, and other content. You can stop all collection of information by our mobile applications easily by uninstalling the mobile applications. Also, you may opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.
 
-Everyone! All of the content contained on wegmans.com is suitable for people of all ages.
+### **Pharmacy**
 
-Privacy Policy last updated August 2007
+[Pharmacy customers can find our Notice of Privacy Practices here.](https://web.archive.org/content/dam/wegmans/pdf/rx/wegmans-pharmacy-notice-of-privacy-practice.pdf)
+
+### **Children's Privacy**
+
+Our website is not designed nor intended to collect personal information from children under the age of thirteen.  If we become aware that we have received personal information on this web site from a visitor under the age of thirteen, we will delete the information from our records.
+
+### **Links to Other Sites**
+
+Our website may provide links to other sites for your convenience and information.  These websites are operated by companies not affiliated with us, and have their own privacy policies.  We are not responsible for the content of those websites, your use of them, or their privacy practices.
+
+### **Changes to this Policy**
+
+This Privacy Policy was last updated in _July of 2014_.  We may further update this policy at any time.  We encourage you to review it from time to time for changes.
