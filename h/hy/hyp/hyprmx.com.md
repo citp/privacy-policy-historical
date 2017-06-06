@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyprmx.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129151007id_/http%3A//hyprmx.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyprmx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184701id_/http%3A//hyprmx.com/pp.html) for the most accurate reproduction.*
 
 # HyprMX Mobile, LLC Terms of Use
 
@@ -57,7 +57,7 @@ We refer to browser cookies and other tracking technologies such as pixels, beac
 
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. By blocking cookies, you may not have access to certain features, content or personalization available through our services. We do not respond to browser "Do Not Track" signals. 
 
-###  Internet-Based Advertising 
+###  Interest-Based Advertising 
 
 Interest-based advertising refers to using information collected across non-affiliated, third-party sites and applications over time to provide more relevant advertising to you, based on your interests inferred from that information. The Digital Advertising Alliance (DAA) is a coalition of digital advertising companies that has created a self-regulatory code for interest based advertising, and we comply with those [self-regulatory principles. ](http://www.aboutads.info/principles)
 
@@ -83,7 +83,7 @@ Our services are for a general audience, are not targeted to children, and we do
 
 ###  Security 
 
-Our services are for a general audience, are not targeted to children, and we do not knowingly collect "personal information" as defined in the Children's Online Privacy Protection Act, or COPPA, from children less than 13 years of age other than unique identifiers (e.g., IP address and device identifiers). Some partner properties may be targeted to children, and in any case we collect unique identifiers from children younger than 13 or properties targeted to children only to support our internal operations. Our partners and clients are responsible for their own compliance with COPPA. If you believe your child has provided us with information covered by COPPA, please contact us at the address below and we will use reasonable efforts to delete the applicable information from our records. 
+We use certain reasonable administrative, technical and physical measures intended to safeguard information in our possession against loss, theft and unauthorized use, disclosure or modification. No method of online information storage or transmission is entirely secure, and we cannot guarantee information security.
 
 ###  Access and Control 
 
