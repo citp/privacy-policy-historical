@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associateprograms.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109091303id_/http%3A//www.associateprograms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associateprograms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185822id_/https%3A//www.associateprograms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | AssociatePrograms.com
 
@@ -8,20 +8,20 @@ AssociatePrograms.com does not collect information on its website visitors such 
 
 AssociatePrograms.com does not sell or otherwise make available email addresses to anyone except Aweber.
 
-If you have any questions about your privacy while using AssociatePrograms.com, please [contact us](http://www.associateprograms.com/contact-us "Contact Us").
+If you have any questions about your privacy while using AssociatePrograms.com, please [contact us](https://www.associateprograms.com/contact-us "Contact Us").
 
-Here’s the legal jargon version.
+Here's the legal jargon version.
 
 * * *
 
 **Protecting your private information is our priority.**  This Statement of Privacy applies to the www.associateprograms.com and Zed Seven Pty Ltd ATF The Stockwell Family Trust and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Zed Seven Pty Ltd ATF The Stockwell Family Trust include www.associateprograms.com and Zed Seven. The Zed Seven website is a Affiliate Education & Media site. By using the Zed Seven website, you consent to the data practices described in this statement.
 
 **Collection of your Personal Information**  
-Zed Seven may collect personally identifiable information, such as your name. If you purchase Zed Seven’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.
+Zed Seven may collect personally identifiable information, such as your name. If you purchase Zed Seven's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.
 
 Information about your computer hardware and software may be automatically collected by Zed Seven. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Zed Seven website.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Zed Seven’s public message boards, this information may be collected and used by others.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Zed Seven's public message boards, this information may be collected and used by others.
 
 Zed Seven encourages you to review the privacy statements of websites you choose to link to from Zed Seven so that you can understand how those websites collect, use and share your information. Zed Seven is not responsible for the privacy statements or other content on websites outside of the Zed Seven website.
 
@@ -48,7 +48,7 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 **Security of your Personal Information**  
 To secure your personal information from unauthorized access, use or disclosure, Zed Seven uses the following:
 
-WPEngine.com
+[WPEngine](https://www.associateprograms.com/wpengine "WPEngine.com").com
 
 **Children Under Thirteen**  
 Zed Seven does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
