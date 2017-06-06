@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123030345id_/http%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104909id_/http%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Five Star Alliance
 
-Last Updated 07/20/2015
+Last Updated 02/08/2017
 
-[](https://privacy.truste.com/privacy-seal/Five-Star-Alliance/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b)
 
-The TRUSTe program covers only the information that is collected through this website: [www.FiveStarAlliance.com](http://www.fivestaralliance.com/). In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, you you should first contact Five Star Alliance's privacy policy administrator, by phone at (703) 836-0692. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have questions or complaints regarding our privacy policy or practices you should first contact Five Star Alliance's privacy policy administrator, by phone at +1 (703) 836-0692.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ### Overview
 
 Five Star Alliance takes your privacy very seriously, and we appreciate the fact that by using our service you are placing a great deal of trust in us. Our service has been built from the ground up with your privacy foremost in mind. We know that privacy is an important issue for our clients, and it is thus an important issue for us. We make it our highest priority to secure and protect the confidentiality of the personally identifiable information that you provide to us.
 
-This policy clearly explains the type of personally identifiable information we gather when you use the Five Star Alliance service found on our web site: www.fivestaralliance.com. This privacy policy describes how we collect and use the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. This policy also outlines the steps we have taken to safeguard the data we collect, and it explains the control we provide to you over the data we collect.
+This policy clearly explains the type of personally identifiable information we gather when you use the Five Star Alliance service found on our web site: [www.fivestaralliance.com](http://www.fivestaralliance.com/). This privacy policy describes how we collect and use the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. This policy also outlines the steps we have taken to safeguard the data we collect, and it explains the control we provide to you over the data we collect.
 
 ### Information we collect
 
@@ -72,7 +74,7 @@ We may provide your personally identifiable information to companies that provid
 
 We strive to give you full control over the information you provide to us. To unsubscribe from our newsletter and all promotional communications, we provide clear instructions on our web site (via the newsletter link found on every page). You may also unsubscribe via the link at the bottom of all emails delivered to you, or you may unsubscribe by sending us [by email](https://web.archive.org/luxury-hotel-experts/contact-us).
 
-Due to the nature of the hotel industry's Global Distribution System (GDS), it is not currently feasible to automatically update the details of a reservation over our web site. Thus, should you need to make an update to your booking information, we ask that you [contact us](https://web.archive.org/luxury-hotel-experts/contact-us). We will be happy to assist you. You may reach us by phone at (703) 836-0692, and links to [our contact information](https://web.archive.org/luxury-hotel-experts/contact-us), are provided on every page of our site.
+Due to the nature of the hotel industry's Global Distribution System (GDS), it is not currently feasible to automatically update the details of a reservation over our web site. Thus, should you need to make an update to your booking information, we ask that you [contact us](https://web.archive.org/luxury-hotel-experts/contact-us). We will be happy to assist you. You may reach us by phone at +1 (703) 836-0692, and links to [our contact information](https://web.archive.org/luxury-hotel-experts/contact-us), are provided on every page of our site.
 
 ### Links to 3rd Party Sites
 
@@ -93,7 +95,9 @@ In addition, as our business changes, we may buy or sell various assets. In the 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Five Star Alliance  
-1900 L Street NW, Suite 401  
+1900 L Street NW, 4th Floor  
 Washington, DC 20036 USA  
-(703) 836-0692  
-http://www.fivestaralliance.com/
++1 (703) 836-0692  
+<http://www.fivestaralliance.com/>
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b)
