@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentqgroup.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203092016id_/https%3A//www.talentqgroup.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentqgroup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172909id_/https%3A//www.talentqgroup.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Legal | Talent Q
 
@@ -16,4 +16,4 @@ In addition to any personal data you might supply to us, we collect aggregate in
 
 ## How we protect your information
 
-The Internet is not a secure medium. However, we have put in place various security procedures to help ensure that your information is as secure as is possible. We also keep your information confidential. Our internal procedures cover the storage, access and disclosure of your information.
+The internet is not a secure medium. However, we have put in place various security procedures to help ensure that your information is as secure as is possible. We also keep your information confidential. Our internal procedures cover the storage, access and disclosure of your information.
