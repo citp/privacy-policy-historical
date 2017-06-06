@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janssen.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120082632id_/http%3A//www.janssen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janssen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111823id_/http%3A//www.janssen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Janssen
 
@@ -46,7 +46,7 @@ We may also use information from or about you:
 
 We may also disclose information collected through the Site:
 
-  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates [is available here](http://www.investor.jnj.com/governance/sec-filings.cfm "is available here")(click on the link for Form 10K, Exhibit 21, under “SEC Filings”). **Janssen Global Services, LLC,** is the party responsible for the management of the jointly-used Personal Information;
+  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates [is available here](http://www.investor.jnj.com/sec.cfm "is available here"). **Janssen Global Services, LLC,** is the party responsible for the management of the jointly-used Personal Information;
   * to our third party service providers who provide services such as website hosting and moderating, data analysis, order fulfillment, infrastructure provision, IT services, customer service, e-mail and direct mail delivery services, auditing services, and other services, in order to enable them to provide services; and
   * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
 
