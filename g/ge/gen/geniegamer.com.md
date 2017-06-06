@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geniegamer.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122125532id_/http%3A//geniegamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniegamer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135952id_/http%3A//www.geniegamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GenieGamer
 
