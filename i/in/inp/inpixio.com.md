@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inpixio.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326043130id_/http%3A//www.inpixio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inpixio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172758id_/https%3A//www.inpixio.com/privacy-policy) for the most accurate reproduction.*
 
 # InPixio Privacy Policy
 
