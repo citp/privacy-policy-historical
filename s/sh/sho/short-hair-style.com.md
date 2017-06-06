@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the short-hair-style.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315093101id_/http%3A//www.short-hair-style.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-hair-style.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060730id_/http%3A//www.short-hair-style.com/privacy.html) for the most accurate reproduction.*
 
 # Short-Hair-Style.com - Privacy Statement
 
@@ -51,7 +51,7 @@ Short-Hair-Style.com reserves the right to make changes in this policy. If there
 
 ### Agreeing to Terms
 
-If you do not agree to monochromeskincare.com's privacy policy as posted here on this website, please do not use this site or any services offered by this site. 
+If you do not agree to Short-Hair-Style.com's privacy policy as posted here on this website, please do not use this site or any services offered by this site. 
 
 Your use of this site indicates acceptance of this privacy policy. 
 
