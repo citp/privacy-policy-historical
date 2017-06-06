@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lang-8.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126133634id_/http%3A//lang-8.com/register/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lang-8.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192836id_/http%3A//lang-8.com/register/privacy) for the most accurate reproduction.*
 
 # Lang-8: For learning foreign languages
 
