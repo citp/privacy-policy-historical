@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techntechie.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128170608id_/http%3A//www.techntechie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techntechie.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031834id_/http%3A//www.techntechie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech N Techie
 
@@ -27,3 +27,5 @@ techntechie.com has no access to or control over these cookies that are used by 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. techntechie.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+Techntechie.com is not responsible for the quality of a physical or online product advertised in this website. This is visitors responsibility to check the product before purchasing.
