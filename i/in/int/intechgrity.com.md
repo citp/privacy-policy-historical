@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intechgrity.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122200703id_/http%3A//www.intechgrity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechgrity.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231029id_/https%3A//www.intechgrity.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - InTechgrity
 
-Y our Privacy is important to us. We are committed to safeguarding your privacy while online at our site [http://www.inTechgrity.com](http://www.intechgrity.com/) . The following discloses the information gathering and dissemination practices for this Web site….  
+Y our Privacy is important to us. We are committed to safeguarding your privacy while online at our site [http://www.inTechgrity.com](https://www.intechgrity.com/) . The following discloses the information gathering and dissemination practices for this Web site….  
 
 
 #### The Information We Collect
@@ -33,7 +33,7 @@ We have previously used **[intensedebate](http://intensedebate.com/)** commentin
 
 #### Newsletter
 
-If a user wishes to subscribe to our newsletter (powered by Feedburner), we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. To know more about Subscribing to Newsletter Please [Click here](http://www.intechgrity.com/subscribe-rss-feed/)
+If a user wishes to subscribe to our newsletter (powered by Feedburner), we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. To know more about Subscribing to Newsletter Please [Click here](https://www.intechgrity.com/subscribe-rss-feed/)
 
 #### Links
 
@@ -43,7 +43,7 @@ This Web site contains links to other sites. Please be aware that we are not res
 
 Please don’t copy the whole post. A short paragraph with content in quotes is acceptable with a link-back to the post at **inTechgrity.com**
 
- **Credit the Source:** You need to clearly highlight the fact that the content was derived from [http://www.](http://www.intechgrity.com/)[inTechgrity](http://www.intechgrity.com/).com
+ **Credit the Source:** You need to clearly highlight the fact that the content was derived from [http://www.](https://www.intechgrity.com/)[inTechgrity](https://www.intechgrity.com/).com
 
  **Link Back:** You need to link back to the article from which you derived the excerpt.
 
@@ -61,4 +61,4 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [Contact us](http://www.intechgrity.com/contct-us/ "greenTechspot Contact Us form").
+If users have any questions or suggestions regarding our privacy policy, please [Contact us](https://www.intechgrity.com/contct-us/ "greenTechspot Contact Us form").
