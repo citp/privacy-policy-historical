@@ -1,31 +1,5 @@
-> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317071603id_/https%3A//www.alertra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221259id_/https%3A//www.alertra.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Alertra
+# Privacy - Website monitoring service & web site uptime monitoring tool
 
-We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site.
-
-**Registration Forms**  
-Our site's registration form requires users to give us their e-mail address, other contact information, and optionally credit card billing information.
-
-Your account e-mail address will be used in the following ways: 1) To notify you of changes in device status; 2) To notify you of system changes or problems with your account that may affect your service; and 3) To send you a weekly device summary report.
-
-Your e-mail address and other contact information will never be shared with a third party.
-
-You may enter other e-mail addresses as notification contacts. Those e-mail addresses will never be used for purposes other than notification of change in device status.
-
-Your credit card billing information will be used only for authorization and settlement of charges you incur by using our services or buying our products.
-
-**Security**  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Because our service is subscription-based, it may be necessary to keep your credit card billing information in our database depending on the services you select. When you create or update your account, including credit card information, your session will be encrypted by our secure server (SSL). Once your credit card information has been entered it will be stored in an encrypted format on our server. After that, we will only display the last four digits of your credit card number on your account information form, just in case an unauthorized person should obtain access to your account.
-
-**Data Quality/Access**  
-This site gives users the option of changing and modifying information previously provided. You can change account settings on your account information form.
-
-**Information Automatically Logged**  
-We log your IP address while you are visiting our site so we can understand how to improve our site's navigation, etc. If you log into a user account on our site, we save your IP address with your user record to help protect ourselves from fraudulent use.
-
-**Cookies**  
-When you log in to your account we send your browser one cookie containing a session key. The session key is used for no other purpose than to allow you to navigate our site, and to automatically log you in when you return. The cookie expires when you click "Logout" on the menu. We will delete the corresponding session record from our server if you leave it active without visiting for more than 30 days.
-
-**External Links**  
-This site contains links to other sites. Alertra, Inc. is not responsible for the privacy practices or the content of such web sites.
+We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site. **Registration Forms** Our site's registration form requires users to give us their e-mail address, other contact information, and optionally credit card billing information. Your account e-mail address will be used in the following ways: 1) To notify you of changes in device status; 2) To notify you of system changes or problems with your account that may affect your service; and 3) To send you a weekly device summary report. Your e-mail address and other contact information will never be shared with a third party. You may enter other e-mail addresses as notification contacts. Those e-mail addresses will never be used for purposes other than notification of change in device status. Your credit card billing information will be used only for authorization and settlement of charges you incur by using our services or buying our products. **Security** This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Because our service is subscription-based, it may be necessary to keep your credit card billing information in our database depending on the services you select. When you create or update your account, including credit card information, your session will be encrypted by our secure server (SSL). Once your credit card information has been entered it will be stored in an encrypted format on our server. After that, we will only display the last four digits of your credit card number on your account information form, just in case an unauthorized person should obtain access to your account. **Data Quality/Access** This site gives users the option of changing and modifying information previously provided. You can change account settings on your account information form. **Information Automatically Logged** We log your IP address while you are visiting our site so we can understand how to improve our site's navigation, etc. If you log into a user account on our site, we save your IP address with your user record to help protect ourselves from fraudulent use. **Cookies** When you log in to your account we send your browser one cookie containing a session key. The session key is used for no other purpose than to allow you to navigate our site, and to automatically log you in when you return. The cookie expires when you click "Logout" on the menu. We will delete the corresponding session record from our server if you leave it active without visiting for more than 30 days. **External Links** This site contains links to other sites. Alertra, Inc. is not responsible for the privacy practices or the content of such web sites.
