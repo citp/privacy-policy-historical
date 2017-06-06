@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbandaddy.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811132438id_/https%3A//www.urbandaddy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbandaddy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180436id_/https%3A//www.urbandaddy.com/privacypolicy) for the most accurate reproduction.*
 
 # UrbanDaddy | Privacy Policy
 
