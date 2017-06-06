@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqua-calc.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817134437id_/http%3A//www.aqua-calc.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqua-calc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074856id_/http%3A//www.aqua-calc.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
