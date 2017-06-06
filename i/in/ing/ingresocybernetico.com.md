@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingresocybernetico.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806033010id_/https%3A//www.ingresocybernetico.com/nic/pages/privacy-6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingresocybernetico.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224146id_/https%3A//www.ingresocybernetico.com/nic/pages/privacy-6) for the most accurate reproduction.*
 
 # Privacy Policy Ingreso Cybernetico
 
