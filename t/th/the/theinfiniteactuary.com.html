@@ -1,31 +1,51 @@
-<!--The following is the downloaded HTML source of the theinfiniteactuary.com privacy policy that was archived on 2014-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227220619id_/http%3A//www.theinfiniteactuary.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theinfiniteactuary.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606060547id_/http%3A//www.theinfiniteactuary.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=980">
   <title>Privacy Policy - The Infinite Actuary</title>
-  
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-1.7.1.min.js?v=1411101629"></script>
-<script type="text/javascript" src="/js/jquery-ui-1.9.2.custom.min.js?v=1411101629"></script>
-<script type="text/javascript" src="/js/jquery.main.js?v=1413248709"></script>
-<script type="text/javascript" src="/js/font.fix.js?v=1411101629"></script>
-<script type="text/javascript" src="/js/jwplayer.js?v=1411101629"></script>
-<script type="text/javascript" src="/js/sessions.js?v=1411101629"></script>
-<script type="text/javascript" src="/js/user.preferences.js?v=1411101629"></script>
-<script type="text/javascript" src="/js/user.feature.test.js?v=1411101629"></script>
-<script type="text/javascript" src="/js/registration.js?v=1411101629"></script>
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.gstatic.com/firebasejs/4.1.1/firebase.js"></script>
 
-<!--[if IE]><script type="text/javascript" src="/js/ie.js?v=1411101629"></script><![endif]-->
+<script type="text/javascript">
+// Initialize Firebase
+var config = {
+
+    apiKey: "AIzaSyDZjRWbD-1bGzcnuXMpv_wbbhC7PbzRmz4",
+    authDomain: "flashcards-649b9.firebaseapp.com",
+    databaseURL: "https://flashcards-649b9.firebaseio.com",
+    projectId: "flashcards-649b9",
+    storageBucket: "flashcards-649b9.appspot.com",
+    messagingSenderId: "339234875801"
+};
+firebase.initializeApp(config);
+
+
+function logoutHook() {
+  firebase.auth().signOut();
+}
+</script>
+  
+  
+  
+<script type="text/javascript" src="/js/jquery-1.7.1.min.js?v=1477871751"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.9.2.custom.min.js?v=1477871751"></script>
+<script type="text/javascript" src="/js/jquery.main.js?v=1477871751"></script>
+<script type="text/javascript" src="/js/font.fix.js?v=1477871751"></script>
+<script type="text/javascript" src="/js/sessions.js?v=1477871751"></script>
+<script type="text/javascript" src="/js/user.preferences.js?v=1477871751"></script>
+<script type="text/javascript" src="/js/registration.js?v=1477871751"></script>
+
+<!--[if IE]><script type="text/javascript" src="/js/ie.js?v=1477871751"></script><![endif]-->
 
 <style type="text/css" media="screen"> @import url(/css/smoothness-1.9/jquery-ui-1.9.2.custom.css); </style>
-<link media="all" rel="stylesheet" type="text/css" href="/css/all.css?v=1411101629">
-<link media="all" rel="stylesheet" type="text/css" href="/css/rider.css?v=1413733641">
-<link media="all" rel="stylesheet" type="text/css" href="/css/msg.css?v=1411101629">
-<link media="all" rel="stylesheet" type="text/css" href="/css/cart.css?v=1411101629">
+<link media="all" rel="stylesheet" type="text/css" href="/css/all.css?v=1490788329">
+<link media="all" rel="stylesheet" type="text/css" href="/css/rider.css?v=1495077945">
+<link media="all" rel="stylesheet" type="text/css" href="/css/msg.css?v=1477871751">
+<link media="all" rel="stylesheet" type="text/css" href="/css/cart.css?v=1477871751">
 
-<link media="print" type="text/css" rel="stylesheet" href="/css/print.css?v=1411101629">
-<link media="print" type="text/css" rel="stylesheet" href="/css/print_rider.css?v=1411101629">
+<link media="print" type="text/css" rel="stylesheet" href="/css/print.css?v=1477871751">
+<link media="print" type="text/css" rel="stylesheet" href="/css/print_rider.css?v=1477871751">
 <link type="text/css" rel="stylesheet" href="/css/jquery.qtip.min.css">
 
 
@@ -60,9 +80,7 @@
 
   });
 </script>  
-
-  
-</head>
+<style type="text/css">.js-slide-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style><style type="text/css">.js-tab-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style></head>
 <body class="fonts">
   <div id="wrapper" style="">
     <header id="header">
@@ -73,11 +91,11 @@
       <a class="sing-in" href="/login"><span>Sign In</span></a>
       <nav id="nav">
     <ul>
-  <li><a href="#">Products</a>
+  <li class="has-drop-down"><a href="#" class="has-drop-down-a">Products</a>
     <div class="drop">
-      <ul class="drop-area">
-        <li><a href="#"><span>ASA</span></a>
-          <div class="drop-frame drop-area">
+      <ul class="drop-area same-height-left same-height-right" style="height: 189px;">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ASA</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 130px;">
             <ul>
               <li><a href="/exams/1">P</a></li>
               <li><a href="/exams/2">FM</a></li>
@@ -87,23 +105,21 @@
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>ACAS</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ACAS</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 182px;">
             <ul>
               <li><a href="/exams/1">P</a></li>
               <li><a href="/exams/2">FM</a></li>
               <li><a href="/exams/3">MFE</a></li>
-              <li><a href="/exams/30">LC</a></li>
-              <li><a href="/exams/10">MLC</a></li>
-              <li><a href="/exams/31">ST</a></li>
+              <li><a href="/exams/35">S</a></li>
               <li><a href="/exams/4">C</a></li>
               <li><a href="/exams/6">Exam 5</a></li>
               <li><a href="/exams/8">Exam 6</a></li>
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>CERA</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>CERA</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
             <ul>
               <li><a href="/exams/26">ERM</a></li>
               <li><a href="/exams/7">Exam 7</a></li>
@@ -111,21 +127,24 @@
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>FSA</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FSA</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 260px;">
             <ul>
-              <li><a href="/exams/26">ERM</a></li>
-              <li><a href="/exams/27">CFE FD</a></li>
-              <li><a href="/exams/13">ILA LFV - U</a></li>
               <li><a href="/exams/17">ILA LP</a></li>
+              <li><a href="/exams/13">ILA LFV - U</a></li>
+              <li><a href="/exams/14">ILA LFV - C</a></li>
+              <li><a href="/exams/36">ILA LRM</a></li>
+              <li><a href="/exams/26">ERM</a></li>
+              <li><a href="/exams/12">QFI - Core</a></li>
+              <li><a href="/exams/38">QFI - Adv</a></li>
               <li><a href="/exams/19">GH - Core</a></li>
               <li><a href="/exams/15">GH - Adv</a></li>
               <li><a href="/exams/32">GH - Specialty</a></li>
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>FCAS</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FCAS</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 130px;">
             <ul>
               <li><a href="/exams/6">Exam 5</a></li>
               <li><a href="/exams/8">Exam 6</a></li>
@@ -135,8 +154,8 @@
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>EA</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>EA</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
             <ul>
               <li><a href="/exams/20">1</a></li>
               <li><a href="/exams/21">2L</a></li>
@@ -144,21 +163,23 @@
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>SKILLS</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>SKILLS</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
             <ul>
               <li><a href="/skills">TSC</a></li>
+              <li><a href="/databases">Databases</a></li>
+              <li><a href="/mia_online">MIA</a></li>
             </ul>
           </div>
         </li>
       </ul>
     </div>
   </li>
-  <li><a href="#">Lessons</a>
+  <li class="has-drop-down"><a href="#" class="has-drop-down-a">Lessons</a>
     <div class="drop">
-      <ul class="drop-area">
-        <li><a href="#"><span>ASA</span></a>
-          <div class="drop-frame drop-area">
+      <ul class="drop-area same-height-left same-height-right" style="height: 189px;">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ASA</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 130px;">
             <ul>
               <li><a href="/lessons/1">P</a></li>
               <li><a href="/lessons/2">FM</a></li>
@@ -168,23 +189,21 @@
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>ACAS</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ACAS</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 182px;">
             <ul>
               <li><a href="/lessons/1">P</a></li>
               <li><a href="/lessons/2">FM</a></li>
               <li><a href="/lessons/3">MFE</a></li>
-              <li><a href="/lessons/30">LC</a></li>
-              <li><a href="/lessons/10">MLC</a></li>
-              <li><a href="/lessons/31">ST</a></li>
+              <li><a href="/lessons/35">S</a></li>
               <li><a href="/lessons/4">C</a></li>
               <li><a href="/lessons/6">Exam 5</a></li>
               <li><a href="/lessons/8">Exam 6</a></li>
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>CERA</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>CERA</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
             <ul>
               <li><a href="/lessons/26">ERM</a></li>
               <li><a href="/lessons/7">Exam 7</a></li>
@@ -192,21 +211,24 @@
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>FSA</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FSA</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 260px;">
             <ul>
-              <li><a href="/lessons/26">ERM</a></li>
-              <li><a href="/lessons/27">CFE FD</a></li>
-              <li><a href="/lessons/13">ILA LFV - U</a></li>
               <li><a href="/lessons/17">ILA LP</a></li>
+              <li><a href="/lessons/13">ILA LFV - U</a></li>
+              <li><a href="/lessons/14">ILA LFV - C</a></li>
+              <li><a href="/lessons/36">ILA LRM</a></li>
+              <li><a href="/lessons/26">ERM</a></li>
+              <li><a href="/lessons/12">QFI - Core</a></li>
+              <li><a href="/lessons/38">QFI - Adv</a></li>
               <li><a href="/lessons/19">GH - Core</a></li>
               <li><a href="/lessons/15">GH - Adv</a></li>
               <li><a href="/lessons/32">GH - Specialty</a></li>
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>FCAS</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FCAS</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 130px;">
             <ul>
               <li><a href="/lessons/6">Exam 5</a></li>
               <li><a href="/lessons/8">Exam 6</a></li>
@@ -216,8 +238,8 @@
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>EA</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>EA</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
             <ul>
               <li><a href="/lessons/20">1</a></li>
               <li><a href="/lessons/21">2L</a></li>
@@ -225,10 +247,12 @@
             </ul>
           </div>
         </li>
-        <li><a href="#"><span>SKILLS</span></a>
-          <div class="drop-frame drop-area">
+        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>SKILLS</span></a>
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
             <ul>
               <li><a href="/lessons/33">TSC</a></li>
+              <li><a href="/lessons/34">Databases</a></li>
+              <li><a href="/lessons/39">MIA</a></li>
             </ul>
           </div>
         </li>        
@@ -573,7 +597,7 @@ Updated 8/12/2014
 				</ul>
 			</nav>
 		</div>
-		<p>© 2014 The Infinite Actuary, LLC</p>
+		<p>© 2017 The Infinite Actuary, LLC</p>
 	</div>
 </footer>
 
@@ -591,4 +615,4 @@ Updated 8/12/2014
 
 
 
-</body></html>
+<iframe id="font-resize-frame-975" class="font-resize-helper" style="width: 100em; height: 10px; position: absolute; border-width: 0px; top: -9999px; left: -9999px;"></iframe></body></html>
