@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the devfiles.co privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009224450id_/http%3A//www.devfiles.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devfiles.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020913id_/http%3A//www.devfiles.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DevFiles.co - Free file hosting for Android devs!
-
-## Privacy Policy
 
   
 
@@ -54,6 +52,3 @@ Team Android reserves the right to make any (major or minor) change to this priv
 ## Further Information
 
 If you require any further information about the policy or clarification on any of the clauses, please feel free to contact haris[at]harisnadeem[dot]com. 
-
-  
-
