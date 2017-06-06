@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibcjapan.co.jp privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203200841id_/http%3A//ibcjapan.co.jp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibcjapan.co.jp privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084144id_/http%3A//ibcjapan.co.jp/privacy-policy) for the most accurate reproduction.*
 
 # IBC Japan Privacy and Policy
 
