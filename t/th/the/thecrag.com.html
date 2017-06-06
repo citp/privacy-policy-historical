@@ -1,0 +1,445 @@
+<!--The following is the downloaded HTML source of the thecrag.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606103355id_/http%3A//www.thecrag.com/processmap/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+
+
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<title>Privacy Policy | theCrag</title>
+
+<meta property="fb:app_id" content="">
+<meta property="og:url" content="http://www.thecrag.com">
+<meta property="og:site_name" content="theCrag">
+<meta property="og:title" content="Privacy Policy | theCrag">
+
+
+
+<meta property="og:image" content="http://static.thecrag.com/cids/images/logo-474-borderless-1.1.0.png">
+
+
+
+<link rel="shortcut icon" href="http://static.thecrag.com/cids/images/favicon-1.1.0.ico" type="image/x-icon">
+<meta name="viewport" content="width=980">
+<link rel="apple-touch-icon-precomposed" href="http://static.thecrag.com/cids/images/logo-129-1.1.1.png">
+<link rel="apple-touch-icon-precomposed" href="http://static.thecrag.com/cids/images/logo-114-1.1.0.png" sizes="114x114">
+<link rel="apple-touch-icon-precomposed" href="http://static.thecrag.com/cids/images/logo-144-borderless-1.1.0.png" sizes="144x144">
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="/open-search.xml" title="Search theCrag"> 
+
+
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="http://static.thecrag.com/cids/portal-1.1.44.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://static.thecrag.com/cids/process-1.2.7.css">
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+
+
+
+
+
+
+<!--[if lt IE 8]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/json2/20160511/json2.min.js"></script>
+<![endif]-->
+
+<script src="http://static.thecrag.com/cids/process-min-1.2.19.js" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-18400027-1', {
+ 'siteSpeedSampleRate': 100,
+ 'userId': ''
+});
+ga('require', 'linkid', 'linkid.js');
+var l = window.location;
+var gapath = l.pathname.replace(/([^\/])$/, '$1/');
+var gaurl = gapath+l.search;
+ga('send', 'pageview', gaurl);
+
+ga('set', 'dimension1', '');
+ga('set', '&uid', '');
+
+window.onerror=function(e,f,l){
+ ga('send', 'exception', {
+  'exDescription': e+':'+l,
+  'exFatal': false,
+  'appName': f
+ });
+}
+var s='unknown';if(parent!==self){
+ try{s=parent.location.href}catch(e){}
+ ga('send', 'exception', {
+  'exDescription': 'Inside frame:'+parent.location.href,
+  'exFatal': false
+ });
+}
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1033036326794604');
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" src="https://www.facebook.com/tr?id=1033036326794604&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
+<script type="text/javascript">
+var staticBase = 'http://static.thecrag.com/';
+</script>
+</head>
+<body id="default" class="">
+
+<div id="fb-root"></div>
+<script>
+function responseLogin(response) {
+  responseFB(response,'btnLogin');
+}
+function responseSignup(response) {
+  responseFB(response,'btnSignup');
+}
+function responseFB(response,btnLabel) {
+ if (response.authResponse) {
+  var auth = response.authResponse;
+  $('<input id="token" name="D:Token" type="hidden" value="' + auth.accessToken + '" />' +
+    '<input id="extUser" name="D:ExternalUser" type="hidden" value="' + auth.userID + '" />' +
+    '<input type="hidden" name="D:LoginOrRegister" value="1" />' + 
+    '<input id="extIFace" name="D:ExternalIFace" type="hidden" value="facebook_www" />').insertBefore('#'+btnLabel);
+  $('#'+btnLabel).closest('form').find('.control-group input[type!=hidden]').removeAttr('required')
+  $("#"+btnLabel).trigger('click');
+ }
+}
+function fbLoginSuccess() { 
+ FB.getLoginStatus(responseLogin);
+}
+function fbSignupSuccess() { 
+ FB.getLoginStatus(responseSignup);
+}
+window.fbAsyncInit = function() {
+ FB.init({
+  appId      : '141410435911098',
+  channelURL : 'http://www.thecrag.com/channel.html',
+  status     : true,
+  cookie     : true,
+  oauth      : true,
+  xfbml      : true
+ });
+};
+function FBboot(){
+(function(d, s, id) {
+ var js, fjs = d.getElementsByTagName(s)[0];
+ if (d.getElementById(id)) return;
+ js = d.createElement(s); js.id = id;
+ js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=141410435911098";
+ fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+}
+</script>
+
+<div id="result"></div>
+<script>
+function gLoginSuccess(auth) { 
+ if (auth['g-oauth-window'] && auth.access_token) {
+  var btnLabel = 'btnLogin';
+  $('<input id="token" name="D:Code" type="hidden" value="' + auth.code + '" />' +
+    '<input id="extUser" name="D:IDToken" type="hidden" value="' + auth.id_token + '" />' +
+    '<input type="hidden" name="D:LoginOrRegister" value="1" />' + 
+    '<input id="extIFace" name="D:ExternalIFace" type="hidden" value="google_www" />').insertBefore('#'+btnLabel);
+  $('#'+btnLabel).closest('form').find('.control-group input[type!=hidden]').removeAttr('required')
+  $("#"+btnLabel).trigger('click');
+ }
+}
+function googleBoot(){
+ var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+ po.src = 'https://apis.google.com/js/client:plusone.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+}
+</script>
+
+
+  <div id="wrapper" class="">
+    <div id="header"><div class="inner">
+      <div id="headerlogo">
+         <a href="/"><img src="http://static.thecrag.com/cids/images/logo-318x100-1.1.0.png" class="logo fixed" width="159" height="50" alt="rock climbing"></a> 
+<span class="strapline" title="theCrag: the largest collaborative rock climbing &amp; bouldering platform">collaborative climbing</span>
+      </div>
+      <div id="headercontrol">
+
+<a class="btn btn-success login " href="/dashboard"><i class="icon-off"></i><label>Sign up/</label><span>Log in</span></a>
+<div class="popover bottom" id="loginpopover">
+<div class="popover-content">
+<div style="height: 38px;text-align:center" class="waiting-c fb">
+<div class="fb-login-button" size="xlarge" scope="email,publish_actions" onlogin="fbLoginSuccess();"></div>
+</div>
+
+<div class="divider"></div>
+<div style="height: 31px;text-align:center" class="waiting-c">
+<div id="signinButton">
+ <span class="g-signin" data-callback="gLoginSuccess" data-clientid="693569563172.apps.googleusercontent.com" data-cookiepolicy="http://thecrag.com/" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email" data-redirecturi="postmessage" data-accesstype="offline" data-height="standard"></span>
+</div>
+</div>
+
+<div class="divider"></div>
+<form class="bs-docs-example form-horizontal" action="https://www.thecrag.com//CIDS/cgi-bin/cids.cgi" method="post">
+ <div class="control-group">
+  <label class="control-label" for="username">Username</label><input autocorrect="off" autocapitalize="off" type="text" id="username" placeholder="Username" name="D:Login">
+ </div>
+ <div class="control-group">
+  <label class="control-label" for="inputPassword">Password</label><input type="password" id="inputPassword" placeholder="Password" name="D:Password">
+ </div>
+ <div class="control-group">
+  <div class="">
+    <button id="btnLogin" type="submit" class="btn btn-primary btn-block" name="State:Login">Login</button> 
+    <a class="forgot" href="/processmap/requestpassword">Forgot your login details?</a>
+  </div>
+ </div>
+ <input type="hidden" name="C:ResetContinueURL" value="1">
+ <input type="hidden" name="C:Portal" value="Default Licensee">
+ <input type="hidden" name="D:LoginTarget" value="">
+ <input type="hidden" name="D:CSRF" value="d7tFmPfRfO6RqfmKAVR7lA">
+</form>
+<div class="divider"></div>
+<a class="btn btn-block" href="/processmap/signup?return=">Create an account</a>
+</div>
+</div>
+<style>
+.waiting-c::before {
+	display: block;
+	height: 20px;
+	width: 53px;
+	margin: 5px 0 -25px 69px;
+	line-height: 20px;
+	top: 13px;
+	color: white;
+}
+.waiting-c::before {
+	background: #DD4B39;
+	content: 'Google';
+}
+.waiting-c.fb::before {
+	background: #5F78AB;
+	content: 'Facebook';
+}
+</style>
+<script>
+$('.login').click(function(e){
+ if (!window.FB && typeof FBboot == 'function') FBboot(); 
+ if (!window.gapi && typeof googleBoot == 'function') googleBoot();
+ $('#loginpopover').toggle();
+ $('.login').toggleClass('btn-success');
+ e.preventDefault();
+});
+$('body').click(function(e){
+ if ($(e.target).closest('#headercontrol').length) return;
+ $('#loginpopover').hide();
+ $('.login').addClass('btn-success');
+});
+</script>
+
+      </div>
+
+ <div id="headerusage" class="visible-desktop">
+	<p><a href="/article/ContactUs/">Contact us</a> 
+<span id="contacts">
+ <a href="http://www.facebook.com/thecragcom" target="_blank" title="Follow us on Facebook"><i class="icon-facebook-sign"></i></a>
+ <a href="http://www.instagram.com/thecrag_worldwide/" target="_blank" title="Follow us on Instagram"><i class="icon-instagram"></i></a>
+ <a href="https://plus.google.com/115717187790858454818/posts" title="Follow us on Google Plus" target="_blank"><i class="icon-google-plus-sign"></i></a>
+ <a href="/article/issues" title="Follow us on GitHub"><i class="icon-github-sign"></i></a>
+</span>
+</p>
+      </div>
+
+</div></div>
+
+
+
+
+
+
+<!--
+</head>
+<body id="default">
+  <div id="wrapper">
+    <div id="header">
+      <div id="headerlogo">
+        <a href="/" title="www.thecrag.com"><img src="cids/images/logo-1.1.1.gif" width="300" height="60" alt="www.thecrag.com"></a>
+      </div>
+      <div id="logout">
+      </div>
+    </div>
+-->    <!-- close header -->
+<div id="primary-navigation"><div class="inner">
+<p class="structure-label">Site navigation</p>
+<ul><li id="pt_index"><a href="/climbing/world"><i class="icon-sitemap icon-large"></i><span>Index</span></a></li><li id="pt_map"><a href="/climbing/world/maps"><i class="icon-map-marker icon-large"></i><span>Map</span></a><ul class="dropdown-menu bubble-top-left">
+<li><a href="/climbing/world/maps"> World map</a></li>
+</ul>
+</li><li id="pt_climbers"><a href="/climbing/world/contributors"><i class="icon-male icon-large"></i><span>Climbers</span></a><ul class="dropdown-menu bubble-top-left">
+<li><a href="/climbing/world/contributors">World contributors</a></li>
+<li><a href="/climbing/world/climbers/using-stat/trad-rating/">Trad rating</a></li>
+<li><a href="/climbing/world/climbers/using-stat/sport-rating/">Sport rating</a></li>
+<li><a href="/climbing/world/climbers/using-stat/boulder-rating/">Boulder rating</a></li>
+</ul>
+</li><li id="pt_forum"><a href="/climbing/world/forum"><i class="icon-comments icon-large"></i><span>Forum</span></a><ul class="dropdown-menu bubble-top-left">
+<li><a href="/forum/release"> Release forum</a></li>
+</ul>
+</li><li id="pt_photos"><a href="/climbing/world/photos"><i class="icon-camera icon-large"></i><span>Photos</span></a><ul class="dropdown-menu bubble-top-left">
+</ul>
+</li><li id="pt_logbook"><a href="/climbing/world/ascents"><i class="icon-check icon-large"></i><span>Logbook</span></a><ul class="dropdown-menu bubble-top-left">
+</ul>
+</li><li id="pt_help"><a href="/article/ContactUs"><i class="icon-info-sign icon-large"></i><span>Help</span></a><ul class="dropdown-menu bubble-top-left">
+</ul>
+
+</li></ul>
+</div></div><!-- end primary-navigation -->
+<script>
+function closeNav(e){
+    if ($(e.target).closest('.hover').length != 0) return;
+    $('#primary-navigation .inner > ul > li').removeClass('hover');
+    document.removeEventListener('touchstart', closeNav, false);
+}
+function touchNav(e){
+
+    var $li = $(e.target).closest('li');
+    if (!$li.hasClass('hover') && $li.find('> ul').length != 0){
+        $li.addClass('hover');
+        $li.siblings().removeClass('hover');
+        e.stopPropagation();
+        e.preventDefault();
+
+        document.addEventListener('touchstart', closeNav, false);
+
+    } else {
+    }
+}
+$('#primary-navigation .inner > ul')[0].addEventListener('touchstart', touchNav, true);
+</script>
+
+
+<div class="page-content col-all">
+
+
+    <div id="content"><div class="inner">
+      <ul id="breadCrumbs"></ul>
+      
+      <h1>Privacy Policy</h1>
+<p>www.thecrag.com is committed to respecting the privacy of its customers. The following policy discusses how personal information received by www.thecrag.com will be dealt with.</p>
+<p>As part of its member service www.thecrag.com may collect personal information, for example account name, email address and person's name.</p>
+<p>Personal details (including email address) are not passed on to any third party unless requested by the user, required to by law or as the direct fulfilment of the offered service.</p>
+<p>Website management reserves the right to send emails to its members. Unless otherwise agreed these emails will be limited to website notifications, service notifications and newsletters.</p>
+<p>Membership cancellations must be requested in writing (email is fine).</p>
+<p>Members may control the visibility of their account information to the general public, in particular a member may opt to have:</p>
+<ol>
+  <li>a version of their home page visible to the public, a private network of members or not available; and</li>
+  <li>their account listed in directories and other community initiatives.</li>
+</ol>
+<p>The website uses Cookies. Site access will be restricted if your browser does not accept Cookies from www.thecrag.com. The site's use of Cookies includes storing information required for your internet session with the website. Cookies are stored either for the duration of your Internet session or for a number of weeks. Cookies are used solely to deliver the service offered at www.thecrag.com and are not passed on to any third parties.</p>
+<p>The site does not use a secure shell for login and therefore your login request will be transferred unencrypted over the public Internet before it is encoded on our site. It is therefore recommended that you use a different password from all your other passwords. Do NOT use your bank PIN or other important passwords.</p>
+<p>www.thecrag.com may use account information for deriving aggregate statistical information. For example, www.thecrag.com uses climb ticks of all accounts for deriving most popular climbs.</p>
+<p>www.thecrag.com may target internal services, commercial offers, or advertising based on account information. In such a case, thecrag.com will NOT transfer personal information, that identifies you, to any third party. (For example we may make a commercial offer to beginner climbers, on behalf of another organization, but we will NOT supply the details of who we made the offer to).</p>
+<p>Submissions made to www.thecrag.com's services (eg database of climbs, forums) may be made publicly available.</p>
+
+
+
+<br style="clear: both">
+
+    </div></div><!-- close content -->
+
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"></script>
+<div id="footer" role="contentinfo"><div class="inner">
+<h2 class="hide">General information</h2>
+
+<div class="links">
+  <h4>Privacy</h4>
+  <ul>
+	<li><a href="/processmap/copyright">Copyright</a>
+	</li><li><a href="/processmap/siteusagepolicy">Site usage policy</a>
+	</li><li><a href="/processmap/privacypolicy">Privacy policy</a>
+	</li><li><a href="/article/Behavior">Acceptable behavior</a>
+  </li></ul>
+</div>
+<div class="links">
+  <h4>About theCrag</h4>
+  <ul>
+	<li><a href="/article/ContactUs">Contact us</a>
+	</li><li><a href="/article/Vision">Our vision</a>
+  </li></ul>
+</div>
+<div class="links">
+  <h4>Contribute</h4>
+  <ul>
+	<li><a href="/article/Contributing">Adding content</a>
+	</li><li><a href="/article/Donate">Donations</a>
+	</li><li><a href="/article/Sponsor">Sponsorship</a>
+	</li><li><a href="/article/Issues">Feature requests</a>
+  </li></ul>
+</div>
+<div class="links">
+  <h4>Follow theCrag</h4>
+  <ul>
+	<li><a href="https://www.facebook.com/thecragcom" target="_blank"><i class="icon-facebook-sign"></i>Facebook</a>
+        </li><li><a href="https://plus.google.com/115717187790858454818" target="_blank" rel="publisher"><i class="icon-google-plus-sign"></i>Google+</a>
+	</li><li><a href="https://www.instagram.com/thecrag_worldwide/" target="_blank"><i class="icon-instagram"></i>Instagram</a>
+	</li><li><a href="http://www.linkedin.com/company/2041579" target="_blank"><i class="icon-linkedin-sign"></i>LinkedIn</a>
+	</li><li><a href="http://www.youtube.com/user/supportatthecrag" target="_blank"><i class="icon-youtube-play"></i>Youtube</a>
+  </li></ul>
+</div>
+
+</div></div><!-- close footer -->
+<div id="tip"></div>
+
+
+
+<script>
+ tc_translate = {
+   keys: {
+    'process.button.log-ascent.one': 'Log ascent',
+    'js.common.hide.label': 'Hide {label}',
+    'js.common.hide': 'hide',
+    'process.button.log-ascent': 'Log ascent(s)',
+    'js.common.show-more': 'Show more',
+    'js.process.edit-to-preview': 'Edit to preview',
+    'process.button.log-ascent.many': 'Log {count} ascents'
+   }
+ };
+</script>
+<script src="http://static.thecrag.com/cids/tc_translate-min-1.1.0.js" type="text/javascript"></script>
+<script src="http://static.thecrag.com/jquery/poshytip-1.1/jquery.poshytip.local.min.js" type="text/javascript"></script>
+<script src="http://static.thecrag.com/bootstrap/2.1.1-c7/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="http://static.thecrag.com/cids/common-min-1.1.34.js" type="text/javascript"></script>
+<script src="http://static.thecrag.com/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" type="text/javascript"></script>
+
+</div><!-- close wrapper -->
+
+
+
+
+
+
+  <!-- close wrapper -->
+
+
+</body></html>
