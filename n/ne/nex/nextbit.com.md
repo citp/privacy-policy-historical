@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextbit.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408155235id_/https%3A//www.nextbit.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextbit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190240id_/https%3A//www.nextbit.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Nextbit
 
