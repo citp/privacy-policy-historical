@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thelalit.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119125234id_/http%3A//www.thelalit.com/privacy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelalit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023116id_/http%3A//www.thelalit.com/privacy-policy) for the most accurate reproduction.*
 
-# The Lalit Hotels | Top Indian Hotels | Privacy Policy
+# Privacy Policy
 
-**The Lalit Suri Hospitality Group**
+##  Privacy Policy
+
+ **The Lalit Suri Hospitality Group**
 
 At The Lalit Hotels our effort is to provide our guests Limitless Hospitality at our hotels and resorts in India and outside. We value our guests’ patronage and faith in us as we try and live up to their expectations and strive to remain amongst the top Indian hotels for business and leisure travel.
 
@@ -10,7 +12,7 @@ We request our guests to read this policy document carefully before sharing thei
 
 The Lalit Suri Hospitality Group reserves the right to change the privacy policy from time to time and guests are requested to visit our website frequently to learn about the recent changes.
 
-**Personal information collected by The Lalit Hotels**
+ **Personal information collected by The Lalit Hotels**
 
 We may collect the following personal information: Guest name and contact information; date of birth; how they prefer to be addressed in communication from us, preferred modes of communication; job designation and business address; spouse name, anniversary, credit card details, including the three-digit code that appears on the back of credit card, dates of arrival and departure from our hotels / restaurants / other outlets, guests preferences when they stay or dine at The Lalit, transaction history at The Lalit; offers guests may have availed of from third party marketers in response to communication from The Lalit. We may also record details on guests who have stayed or dined with other guests at The Lalit, including their names and contact details.
 
@@ -24,13 +26,13 @@ Besides the above, we may also collect the following:
 
 We do not knowingly collect personal information from individuals under 18 years of age. As a parent or legal guardian, please do not to allow children to submit personal information without prior permission. We do not knowingly collect information related to your racial or ethnic origin, political opinions, religious or other beliefs, health, criminal background or political affiliations, unless it is volunteered by guests themselves. We may use any health-related information provided by guests only to serve them better and meet their specific needs when they stay or dine at The Lalit.
 
-**How does The Lalit Hotels use the personal information collected from its guests**
+ **How does The Lalit Hotels use the personal information collected from its guests**
 
 We use guests’ personal information to provide them with the services requested from The Lalit, to help them make room reservations, to provide them with information about conferences and events at The Lalit, to send them promotional material on our services by email, direct mail and phone, to conduct surveys from time to time, to make offers sourced from third parties, as per guests’ stated preferences or usage pattern exhibited at The Lalit.
 
 Information collected regarding their preferences when guests stay or dine at The Lalit will be disseminated across. The Lalit Group of Hotels to ensure that guests enjoy similar level of service and satisfaction across all the hotels at the chain.
 
-**How does The Lalit share the personal information collected from its guests, including with third parties**
+ **How does The Lalit share the personal information collected from its guests, including with third parties**
 
 To ensure that you enjoy the same level of service across all Lalit Hotels and Resorts, owned or franchised around the world, we may share your personal information with hotels within The Lalit Group. While doing so, The Lalit will ensure that guests’ personal information is handled as per this policy.
 
@@ -46,7 +48,7 @@ o From time to time The Lalit may partner with other companies to provide co-spo
 
 • The Lalit with or without prior notice to its guests, may have to share some guest information in order to comply with applicable laws or respond to governmental inquiries or requests from public authorities or to comply with valid legal process, to protect the rights, privacy, safety or property of The Lalit Suri Hospitality Group, its guests, employees or the public or to permit us to pursue available remedies or limit the damages that we may sustain or to respond to an emergency.
 
-**Non-personal or anonymous information collected by The Lalit**
+ **Non-personal or anonymous information collected by The Lalit**
 
 Information that does not personally identify a guest is referred to as non-personal or anonymous information. When guest visit and interact with the sites [www.thelalit.com](http://www.thelalit.com/) or third parties with whom The Lalit has contracted to provide services, non-personal information, like, list of website pages visited by guest, could be collected. Technology like cookies could be used to help deliver content as per guest preference, to help guest process their reservations or other requests. While this cannot be used to disclose their identity, this information will identify the browser used by guest to our servers when they visit our site. To remove the cookies at any point from a computer, guests can delete them using their browser.
 
@@ -56,11 +58,11 @@ From time to time, we may allow third party advertisers to advertise on our webs
 
 We may use or disclose non-personal information for any purpose from time to time. For instance, we may embed e-mail addresses with images. In such cases where we combine non-personal information with personal information, the combined information will be treated by us as personal information per this policy.
 
-**Links to websites of third party marketers**
+ **Links to websites of third party marketers**
 
-If our websites contain links to third parties' websites, please do note that we will not be responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. For information provided by guests on third party sites, the privacy policy and terms of service on those sites will be applicable and it is advisable to read the privacy policies of websites that the guests visit before submitting personal information.
+If our websites contain links to third parties’ websites, please do note that we will not be responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. For information provided by guests on third party sites, the privacy policy and terms of service on those sites will be applicable and it is advisable to read the privacy policies of websites that the guests visit before submitting personal information.
 
-**The Lalit has a strict  policy regarding the protection of its guests’ personal information**
+ **The Lalit has a strict  policy regarding the protection of its guests’ personal information**
 
 The Lalit will take the necessary measures to:
 
@@ -71,11 +73,11 @@ The Lalit will take the necessary measures to:
 
 
 
-**How long does The Lalit retain your personal information**
+ **How long does The Lalit retain your personal information**
 
 The Lalit will retain guests’ personal information for the period necessary to fulfil the purposes outlined in this policy document, unless a longer retention period is required or permitted/mandated by applicable law.
 
-**To ensure your security**
+ **To ensure your security**
 
   * For your own privacy we advise guests not to include sensitive personal information in any emails they may send to us. Please do not send credit card numbers or any sensitive personal information to us via email.
   * We do not knowingly collect personal information from individuals under 18 years of age. As a parent or legal guardian, please do not to allow children to submit personal information without prior permission.
