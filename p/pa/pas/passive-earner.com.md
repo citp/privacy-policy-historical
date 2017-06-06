@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the passive-earner.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423131712id_/http%3A//www.passive-earner.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passive-earner.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173914id_/https%3A//www.passive-earner.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Passive-Earner.com Privacy Policy
-
-**Privacy Policy Statement**  
-
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
