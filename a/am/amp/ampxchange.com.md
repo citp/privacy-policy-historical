@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ampxchange.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001136id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampxchange.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055258id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
 
 # adMarketplace | Leading Search Advertising Marketplace
 
 adMarketplace, Inc.'s ("adMarketplace's") website, [www.adMarketplace.com](http://www.admarketplace.com/), serves two basic functions. First, it is a portal for information about adMarketplace products and services as well as online advertising generally. Second, it contains password-protected pages where adMarketplace partners (Partners) can access partner-only materials.
 
-adMarketplace follows generally accepted practices for stewardship of data, including transparency, accountability and choice regarding the collection, use, and disclosure of information collected through our website [www.adMarketplace.com](http://www.admarketplace.com/) and our service accessible from [http://my.adMarketplace.com](http://my.admarketplace.com/). The use of information collected through our service shall be limited to the purpose of providing the service for which our Partner has engaged adMarketplace. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@admarketplace.com](mailto:privacy@admarketplace.com).
+adMarketplace follows generally accepted practices for stewardship of data, including transparency, accountability and choice regarding the collection, use, and disclosure of information collected through our website [www.adMarketplace.com](http://www.admarketplace.com/) and our service accessible from [http://my.adMarketplace.com](http://my.admarketplace.com/). The use of information collected through our service shall be limited to the purpose of providing the service for which our Partner has engaged adMarketplace. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://www.admarketplace.com/contact.php).
 
 adMarketplace complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at <http://export.gov/safeharbor>
 
@@ -35,7 +35,7 @@ We use this information to
 
 
 
-Our Partner's may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [optout@admarketplace.com](mailto:optout@admarketplace.com)
+Our Partner's may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can [contact us](https://www.admarketplace.com/contact.php)
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
@@ -93,21 +93,21 @@ adMarketplace will retain personal data we process on behalf of our Partners for
 Security  
 The security of your personal information and our clients' information is important to us. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security onour Web site, you can contact [privacy@admarketplace.com](mailto:privacy@admarketplace.com).
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us](https://www.admarketplace.com/contact.php).
 
 Tell-a-Friend  
 If you choose to use our referral service to tell a friend about one of our blog posts, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. adMarketplace stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [optout@admarketplace.com](mailto:optout@admarketplace.com) to request that we remove this information from our database.
+Your friend may [contact us](https://www.admarketplace.com/contact.php) to request that we remove this information from our database.
 
 Third Party Links  
 Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy.
 
 Data Retention  
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@admarketplace.com](mailto:privacy@admarketplace.com). We will retain and use yourinformation as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](https://www.admarketplace.com/contact.php). We will retain and use yourinformation as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Access  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at [support@admarketplace.com](mailto:support@admarketplace.com) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by submitting a [contact us](https://www.admarketplace.com/contact.php) form, or by contacting us by telephone or postal mail at the contact information listed below.
 
 Notification of Privacy Statement Changes  
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
@@ -142,7 +142,7 @@ As our company and services evolve, this Privacy Policy may be revised to reflec
 
 #### Questions?
 
-Please [](https://web.archive.org/contact.php)contact us at adMarketplace, 3 Park Avenue, 27th Floor, New York, NY 10016 with any questions about this website Privacy Policy.
+Please [](https://web.archive.org/contact.php)contact us at adMarketplace, 1250 Broadway, 31st Floor, New York, NY 10001 with any questions about this website Privacy Policy.
 
 [IP Address Opt-Out Request Form](http://www.admarketplace.com/opt-out/optout.php)
 
