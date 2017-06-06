@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peliculasaudiolatino.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205052101id_/http%3A//peliculasaudiolatino.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peliculasaudiolatino.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150338id_/http%3A//peliculasaudiolatino.com/pp.php) for the most accurate reproduction.*
 
 # Ver Peliculas Online Español Audio Latino Gratis Full HD
 
