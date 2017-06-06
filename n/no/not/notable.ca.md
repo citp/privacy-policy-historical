@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notable.ca privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218094516id_/http%3A//notable.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notable.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152254id_/http%3A//notable.ca/privacy-policy) for the most accurate reproduction.*
 
 # Notable.ca | Privacy Policy -
 
