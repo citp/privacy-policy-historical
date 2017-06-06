@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the everydayroots.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023144947id_/http%3A//everydayroots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayroots.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163131id_/http%3A//everydayroots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Everyday Roots
-
-### Privacy Policy:
 
 Everyday Roots (" **Everyday Roots** ") operates EverydayRoots.com and may operate other websites. It is Everyday Roots policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -46,7 +44,7 @@ Although most changes are likely to be minor, Everyday Roots may change its Priv
 
 By Claire Goodall
 
-Claire is a lover of life, the natural world, and wild blueberries. On the weekend you can find her fiddling in the garden, playing with her dogs, and enjoying the great outdoors with her horse. Claire is very open-minded, ask her anything :) [Meet Claire](http://everydayroots.com/claire)
+Claire is a lover of life, the natural world, and wild blueberries. On the weekend you can find her fiddling in the garden, playing with her dogs, and enjoying the great outdoors with her horse. Claire is very open-minded, ask her anything 🙂 [Meet Claire](http://everydayroots.com/claire)
 
 [](https://everydayroots.leadpages.co/leadbox/1459771fff72a2%3A11403d646346dc/5696939483987968/)
 
