@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantaga.gov privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221083847id_/http%3A//www.atlantaga.gov/index.aspx%3Fpage%3D638) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantaga.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072636id_/http%3A//atlantaga.gov/index.aspx%3Fpage%3D638) for the most accurate reproduction.*
 
 # City of Atlanta, GA : Privacy Policy
 
