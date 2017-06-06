@@ -1,151 +1,6 @@
-> *The following text is extracted and transformed from the tsogosunhotels.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105201717id_/https%3A//www.tsogosun.com/m/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsogosunhotels.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211610id_/https%3A//www.tsogosun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tsogo Sun Protects Your Privacy
-
-  * [Destinations](https://web.archive.org/m/destinations)
-  * [Hotels](https://web.archive.org/m/hotels)
-  * [Casinos](https://web.archive.org/m/gaming-and-casinos)
-  * [Meetings](https://web.archive.org/m/meetings-events)
-
-
-
-  * Gauteng (Johannesburg & Surrounds)
-  * KwaZulu-Natal (Durban)
-  * Western Cape (Cape Town)
-  * Eastern Cape
-  * Mpumalanga
-  * North West
-  * Free State
-  * Northern Cape
-  * Limpopo
-
-
-
-  * Nigeria
-  * Mozambique
-  * Kenya
-  * Zambia
-  * Tanzania
-
-
-
-Middle East &  
-Indian Ocean
-
-  * Seychelles
-  * United Arab Emirates
-
-
-
-  * Gauteng (Johannesburg & Surrounds)
-  * KwaZulu-Natal (Durban)
-  * Western Cape (Cape Town)
-  * Eastern Cape
-  * Mpumalanga
-  * North West
-  * Free State
-  * Northern Cape
-  * Limpopo
-
-
-
-  * Nigeria
-  * Mozambique
-  * Kenya
-  * Zambia
-  * Tanzania
-
-
-
-Middle East &  
-Indian Ocean
-
-  * Seychelles
-  * United Arab Emirates
-
-
-
-  * Gauteng (Johannesburg & Surrounds)
-  * KwaZulu-Natal (Durban)
-  * Western Cape (Cape Town)
-  * Eastern Cape
-  * Mpumalanga
-  * Free State
-
-
-
-  * Gauteng (Johannesburg & Surrounds)
-  * KwaZulu-Natal (Durban)
-  * Western Cape (Cape Town)
-  * Eastern Cape
-  * Mpumalanga
-  * North West
-  * Free State
-  * Northern Cape
-  * Limpopo
-
-
-
-  * Nigeria
-  * Mozambique
-  * Kenya
-  * Zambia
-  * Tanzania
-
-
-
-Middle East &  
-Indian Ocean
-
-  * Seychelles
-  * United Arab Emirates
-
-
-
-### Make a Booking
-
-S| M| T| W| T| F| S  
----|---|---|---|---|---|---  
-26| 27| 28| 29| 30| 31| 1  
-2| 3| 4| 5| 6| 7| 8  
-9| 10| 11| 12| 13| 14| 15  
-16| 17| 18| 19| 20| 21| 22  
-23| 24| 25| 26| 27| 28| 29  
-  
-  * Johannesburg
-  * Durban
-  * Cape Town
-  * Gauteng (Johannesburg & Surrounds)
-  * KwaZulu-Natal (Durban)
-  * Western Cape (Cape Town)
-  * Eastern Cape
-  * Mpumalanga
-  * North West
-  * Free State
-  * Northern Cape
-  * Limpopo
-
-
-
-  * Nigeria
-  * Mozambique
-  * Kenya
-  * Zambia
-  * Tanzania
-
-
-
-Middle East &  
-Indian Ocean
-
-  * Seychelles
-  * United Arab Emirates
-
-
-
-Destinations Reservations
-
-## Your Privacy Is Important to Us
 
 Tsogo Sun is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Privacy Policy applies to The Tsogo Sun Web site and governs data collection and usage.
 
@@ -177,7 +32,7 @@ Tsogo Sun makes use of Google Analytics on its websites. Google Analytics is a s
 
 Tsogo Sun collects and uses your personal information to operate Tsogo Sun Web site and deliver the services you have requested. Tsogo Sun also uses your personally identifiable information to inform you of other products or services available from Tsogo Sun and its affiliates. Tsogo Sun may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Tsogo Sun does not sell, rent or lease its customer lists to third parties. Tsogo Sun may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Tsogo Sun may share data with trusted partners to help us perform research and, historical and statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Tsogo Sun , and they are required to maintain the confidentiality of your information by way of confidentiality agreements. Should you wish that your personal information not be used in this manner, simply send ‘unsubscribe’ to tsogogroup.webmaster@tsogosun.com.
+Tsogo Sun does not sell, rent or lease its customer lists to third parties. Tsogo Sun may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Tsogo Sun may share data with trusted partners to help us perform research and, historical and statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Tsogo Sun , and they are required to maintain the confidentiality of your information by way of confidentiality agreements. Should you wish that your personal information not be used in this manner, simply send ‘unsubscribe’ to [tsogogroup.webmaster@tsogosun.com](mailto:tsogogroup.webmaster@tsogosun.com.?subject=Corporate%20%20%7C%20Privacy%20Policy%20%20%7C%20Website%20enquiry).
 
 Tsogo Sun does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
@@ -205,4 +60,4 @@ Tsogo Sun will occasionally update this Statement of Privacy to reflect company 
 
 Tsogo Sun welcomes your comments regarding this Statement of Privacy. If you believe that Tsogo Sun has not adhered to this Statement, please contact Tsogo Sun via
 
-**Tel:** +27 11 510-7700, **Fax:** +27 11 510-7277 or **Email:**  [tsogogroup.webmaster@tsogosun.com](mailto:tsogogroup.webmaster@tsogosun.com?subject=Corporate%20%7C%20Privacy%20Policy%20%7C%20Website%20Enquiry). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Tel: +27 11 510-7700, Fax: +27 11 510-7277 or Email: [tsogogroup.webmaster@tsogosun.com](mailto:tsogogroup.webmaster@tsogosun.com.?subject=Corporate%20%20%7C%20Privacy%20Policy%20%20%7C%20Website%20enquiry). We will use commercially reasonable efforts to promptly determine and remedy the problem.
