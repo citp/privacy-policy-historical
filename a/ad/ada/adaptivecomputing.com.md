@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adaptivecomputing.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328040237id_/http%3A//www.adaptivecomputing.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptivecomputing.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123418id_/http%3A//www.adaptivecomputing.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Adaptive Computing
+# Privacy Policy
 
 Adaptive Computing offers online resources to aid in accelerating dynamic cloud and HPC workload management solutions, as well as corporate and financial news and employment information. 
 
