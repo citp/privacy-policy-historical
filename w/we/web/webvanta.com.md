@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webvanta.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125034010id_/http%3A//www.webvanta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvanta.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034310id_/http%3A//www.webvanta.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Webvanta - Web Development for Higher Education
 
 ## Website Privacy Statement
 
@@ -8,7 +8,7 @@
 
 ## 1\. Acknowledgement And Acceptance Of Terms
 
-Webvanta Inc. is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Webvanta Inc., you acknowledge and fully understand this Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Webvanta is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Webvanta, you acknowledge and fully understand this Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 ## 2\. Participating Merchant Policies
 
@@ -16,7 +16,7 @@ Related services and offerings with links from this website, including vendor si
 
 ## 3\. Information We Collect And How We Use It
 
-Webvanta Inc. collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+Webvanta collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
 ### a. Web Server Logs
 
@@ -74,7 +74,7 @@ We will provide you with the means to ensure that personally identifiable inform
 
 ### 6\. Changes To This Statement
 
-Webvanta Inc. has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+Webvanta has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 ### 7\. Contacting Us
 
