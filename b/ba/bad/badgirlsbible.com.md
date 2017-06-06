@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the badgirlsbible.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023164424id_/http%3A//badgirlsbible.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgirlsbible.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152302id_/http%3A//badgirlsbible.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Thank you for visiting this web site (BadGirlsBible.com). We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site. Please read this Privacy Policy before using this site or submitting any personal information. By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
-**Information We Collect**  
+ **Information We Collect**  
 In order to serve our customers, we collect personally identifiable information, like names, addresses, phone numbers, email addresses, and sometimes credit card information when such information is voluntarily submitted by our visitors. We will only use your personal information for the following purposes: (1) to deliver the products and/or services to you that you have requested; (2) to validate your compliance with the terms and conditions; (3) for content improvement and feedback purposes; and (4) to reach you, when necessary, regarding your use of the web site or product(s).
 
 We will NEVER share your information with third parties unless you have given us explicit permission to do so, such as in order to fulfill a third party offer that you have accepted from us. By permitting us to collect this information, you will be able to receive free information on products and services that may be of interest to you, including related third party offers that we may send to you. You also enable us to personalize your experience with us so that we can provide you with the highest quality of service. By submitting your email address on this web site, you agree to receive email from us. You can cancel your participation in any of these email lists at any time by clicking the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do.
 
-**Third Party Actions**  
+ **Third Party Actions**  
 We do not control and are not liable for the actions of any third parties who we may promote. We pride ourselves in working with quality companies, but have no control over the actions of those third parties. While we are not liable for any of the actions of those third parties, you should feel free to give us feedback from time to time on your experiences with any third parties to whom we work with so that we may enhance our future service to all customers.
 
-**Use of Cookies and Web Beacons**
+ **Use of Cookies and Web Beacons**
 
 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site’s services, a cookie enables badgirlsbible.com to recall your specific information on subsequent visits.
 
@@ -26,16 +26,16 @@ Some third-party advertisements may be provided by Google,which uses cookies to 
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn’t cause a problem with our site, should you so choose.
 
-**IP Addresses**  
+ **IP Addresses**  
 We may use your IP address to help prevent fraud, to help diagnose problems with our server, to gather broad demographic information, and to offer you products and services.
 
-**Third Party Web Sites**  
+ **Third Party Web Sites**  
 This web site and/or the products and/or services offered herein may direct you to web sites that are owned and/or controlled by third parties. We have no control over those third parties and are not responsible for the content or the privacy practices of those sites or companies.
 
-**Commitment to Data Security**  
+ **Commitment to Data Security**  
 All information collected from you is stored in a technically and physically secure environment. We take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
 
-**Contacting Us**  
+ **Contacting Us**  
 If you need to contact us, you can send us an email [here](https://web.archive.org/contact),
 
 (Privacy Policy Last Revised January 24, 2012)
