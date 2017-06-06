@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lsc.edu privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203100145id_/http%3A//www.lsc.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsc.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173246id_/http%3A//www.lsc.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Lake Superior College|Duluth, MN Lake Superior College|Duluth, MN
 
 **Effective: 2/27/2015**
 
-The Minnesota State Colleges and Universities system (MnSCU) is firmly committed to respecting the privacy of all website visitors to the extent permitted by state and federal laws, including the Minnesota Government Data Practices Act, Minn. Stat. Ch. 13.  This Privacy Statement of Lake Superior College is intended to explain the ways in which we collect information, the way we will use the information collected, and the protections we will provide the information you choose to give to us.
+The Minnesota State system is firmly committed to respecting the privacy of all website visitors to the extent permitted by state and federal laws, including the Minnesota Government Data Practices Act, Minn. Stat. Ch. 13.  This Privacy Statement of Lake Superior College is intended to explain the ways in which we collect information, the way we will use the information collected, and the protections we will provide the information you choose to give to us.
 
 **Information Collected and Stored Automatically**
 
@@ -31,7 +31,7 @@ We use “cookies” to customize your browsing experience.  “Cookies” are 
 
 We also may use cookies to evaluate our website and to track advertising campaign performance from banner ads, opt-in e-mails and through third party advertising services. These cookies and tracking pixels (also called web beacons, action tags, floodlight tags, or transparent GIF files) contain an ID number that allows us to track the pages you’ve visited within our website.  We compile this data with that of other users to track overall traffic patterns to help us improve the layout of our site and to understand, for example, the effectiveness of our advertising and marketing campaigns.  The tags are industry-standard technology and are anonymous.  No personally identifiable information is stored on these cookies or web pixels.
 
-We also use Google Analytics to analyze traffic to our site.  Google uses cookies to provide this service to us.  Google’s cookies are used to store information, such as what time your visit occurred, whether you have been to the site before, and what site referred you to our web page.  MnSCU does not share its analytics with outside parties, unless required or permitted by law.  However, information about your visits to specific MnSCU college or university websites and the mnscu.edu page and its subdomains may be combined and shared within the MnSCU system.
+We also use Google Analytics to analyze traffic to our site.  Google uses cookies to provide this service to us.  Google’s cookies are used to store information, such as what time your visit occurred, whether you have been to the site before, and what site referred you to our web page.  Minnesota State does not share its analytics with outside parties, unless required or permitted by law.  However, information about your visits to specific Minnesota State college or university websites and the minnstate.edu page and its subdomains may be combined and shared within the Minnesota State system.
 
 Cookies remain on your computer until you delete them.   Unless otherwise notified on this site, we do not use cookies to track your movement among different websites and do not exchange cookies with other entities.  If you prefer not to receive cookies, you may turn them off in your browser settings, or you may set your browser to ask you before accepting a new cookie.  Some pages may not function properly if the cookies are turned off.
 
@@ -57,7 +57,7 @@ All information that you voluntarily provide to us becomes public data once we r
 
 **Security Statement**
 
-MnSCU has taken a number of steps to safeguard the integrity of its data and prevent unauthorized information that is maintained it our computer systems.  These measures are designed and intended to prevent the corruption of data, block unknown or unauthorized access to our systems and information, ensure the integrity of information that is transmitted to us, and to provide reasonable protection of private information that is in our possession.
+Minnesota State has taken a number of steps to safeguard the integrity of its data and prevent unauthorized information that is maintained it our computer systems.  These measures are designed and intended to prevent the corruption of data, block unknown or unauthorized access to our systems and information, ensure the integrity of information that is transmitted to us, and to provide reasonable protection of private information that is in our possession.
 
 In the course of ensuring network security and consistent services for all users, we employee software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, detect computer viruses and other software that might damage our computers or network, and monitor and tune the performance of our network.  In the course of such monitoring, these programs may detect information such as e-mail headers, addresses from network packets, and other information. Information from these activities is used only for the purpose of maintaining the security and performance of our networks and computer systems.  As with other personally identifiable information, we do not release this information to others without your consent unless permitted or required by law, including Minn. Stat. § 13.15.
 
@@ -71,7 +71,7 @@ We may provide links to other websites or resources on the internet.  We do not
 
 **Disclaimers**
 
-The Minnesota State College and Universities system makes no representations or warranties, express or implied, with respect to the use of or reliance on the data provided on this web site, regardless of its format or means of transmission.  There are no guarantees or representations to the user as to the accuracy, currency, completeness, suitability, or reliability of this data for any purpose.  **The user accepts the data “as is” and assumes all risks associated with its use.**  MnSCU assumes no responsibility for actual, consequential, incidental, special, or exemplary damages resulting from, caused, by, or associated with any user’s reliance on or use of this web site, even if appraised of the likelihood of such damages occurring.
+The Minnesota State College and Universities system makes no representations or warranties, express or implied, with respect to the use of or reliance on the data provided on this web site, regardless of its format or means of transmission.  There are no guarantees or representations to the user as to the accuracy, currency, completeness, suitability, or reliability of this data for any purpose.  **The user accepts the data “as is” and assumes all risks associated with its use.**  Minnesota State assumes no responsibility for actual, consequential, incidental, special, or exemplary damages resulting from, caused, by, or associated with any user’s reliance on or use of this web site, even if appraised of the likelihood of such damages occurring.
 
 **Changes to this Statement**
 
