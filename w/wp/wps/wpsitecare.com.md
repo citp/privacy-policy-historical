@@ -1,77 +1,96 @@
-> *The following text is extracted and transformed from the wpsitecare.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026232721id_/https%3A//www.wpsitecare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsitecare.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190526id_/https%3A//www.wpsitecare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | WP Site Care
 
-**What information do we collect?**
+*** Updated February 2, 2017 ***
 
-We collect information from you when you register on our site or place an order.
+**Privacy Policy for** **WP Site Care, LLC (“we” and “us”)**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+**Scope of this Policy**
 
-**What do we use your information for?**
+We understand you care about how information about you is collected and used. We are committed to protecting the privacy of individuals who interact with us. This Privacy Policy describes our privacy practices for our website and, as applicable, to other resources we link to.
 
-Any of the information we collect from you may be used in one of the following ways:
+**Form submission information**
 
-To process transactions
+You may choose to provide us information when you fill out a form on the website or otherwise contact us. When you do so, we collect information that identifies you personally. For example, we may collect your name, company name, address, email address, phone number, position, title, and similar information.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+**Use of cookies**
 
-To send periodic emails
+Through the use of first-party and third-party cookies, web beacons, and similar technologies, we receive and store certain information about how you use our websites and when you visit them. This includes information that your browser or device sends to our servers whenever you visit one of our websites. Your browser or device may tell us your internet protocol (IP) address used to connect your computer to the Internet, and connection information such as browser type, version, language, time zone setting, browser plug-in types, operating system, and type of device you are using. When you visit our websites, your browser may also tell us information such as the actions you take on our website, the page that led you to our website and, if applicable, the search terms you typed into a search engine that led you to our website.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+**Buttons, tools, and content from other parties**
 
-**How do we protect your information?**
+Our website includes content that links to other companies’ services (e.g., a Facebook “Like” button). We may collect information about your use of these features. In addition, when you see or interact with such content, some information from your browser may automatically be sent to the other company. Please read that company’s privacy policy for more information regarding its use of that information. Our website also includes links that will direct you away from our website to third-party websites (e.g., billingportal.com). By accessing those third-party websites, you will be obligated to comply with their respective privacy policies and we encourage you to read them carefully.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+**Social networking pages**
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We maintain our own pages on multiple social networking sites and may collect information when you interact with these sites.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+**Online advertising**
 
-**Do we use cookies?**
+When we advertise online, we collect information about which ads are displayed to you, which ads you click on, and on which web page the ad was displayed to you.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**User postings**
 
-We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+You may choose to provide personal information through your public participation in our open communications tools or other interactive webpages (e.g., blogs, comments, etc.). Such information may be available to anyone who has access to the website.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+**Use of the information we collect**
 
-**Do we disclose any information to outside parties?**
+We use the information we collect about you to:
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  * Provide you website content and other services, support, or information you have requested
+  * Operate and improve our websites and diagnose related problems
+  * Personalize our websites and communications to your likely interests and needs
+  * Send you business messages
+  * Send you information about us, special offers, and similar marketing information
+  * Conduct market research about our customers, their interests, and the effectiveness of our marketing campaigns
+  * Display personalized ads to you across the Internet
+  * Combine information we collect about you with other public or private information sources in order to provide you with communications that may be relevant to you
+  * Contact you via telephone to discuss our services and related offers with you
 
-**Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**
+**Subscription information**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+From time to time, we provide information to our customers and potential customers in the form of electronic newsletters / updates. When you subscribe to these updates, you will be added to our mailing list and will receive announcements and information about us. These will be emailed to the address(es) that you provide when you subscribe.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account, clicking “My Account” and editing their personal profile.
+**Sharing information collected by us**
 
-**Childrens Online Privacy Protection Act Compliance**
+We work with companies that help us run our business. These companies may provide services such as delivering customer support, processing payments, and sending emails on our behalf. In some cases, these companies may have access to your personal information as required to help us run our business. They are not permitted to access or use your information for their own purposes.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We may also share your personal information:
 
-**Terms and Conditions**
+  * When you have consented to the sharing
+  * With companies affiliated with us
+  * With our resellers and other sales partners
+  * When we are required to provide information in response to a subpoena, court order, applicable law, government statute, regulation or other legal process
+  * When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud, defend our websites against attacks, or to protect customers, users or our property and security
+  * To the extent necessary to meet national security, law enforcement, or public interest requirements
+  * If we merge with or are acquired by another company, we sell one of our websites or business units, or all or a substantial portion of our assets are acquired by another company. In those cases, your information may be one of the assets that is transferred
+  * When we hire companies to help us market our websites and services and provide you with information and offers related to us, including displaying ads to you across the Internet
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.wpsitecare.com/tos>
 
-**Your Consent**
 
-By using our site, you consent to our online privacy policy.
+**Information security and storage**
 
-**Changes to our Privacy Policy**
+We understand that the security of your personal information is important. We provide reasonable administrative, technical, and physical security controls to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration, or destruction. However, despite our efforts, no security controls are completely fail proof and we cannot ensure or warrant the security of your personal information. Your personal information and data files are stored on our servers and the servers of companies we hire to provide services to us.
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes.
+**Reviewing, updating or deleting your personal information**
 
-**Contacting Us**
+You have the ability to accept or reject cookies and similar technologies through your web browser settings. You can also use your web browser settings to prompt you each time a cookie is offered. Please review the instructions provided by the provider of your web browser for more information.
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+You may also submit a request to us to review, edit, or delete your personal information by emailing your request to hello@wpsitecare.com. We will assist you with your request once your identity has been verified.
 
-[https://www.wpsitecare.com](https://www.wpsitecare.com/)  
-1755 East 200 North  
-Spanish Fork, UT 84660  
-United States  
-[ hello@wpsitecare.com](mailto:hello@wpsitecare.com)
+We will retain your personal information for as long as necessary to provide you with the websites and services you are eligible to use or as needed to comply with our legal obligations or enforce our agreements. For example, we may retain certain records for legal or internal business reasons, such as fraud prevention. Some of your information may also remain on backup systems, in compliance with applicable law.
+
+**Opting out of our communications**
+
+You may opt out of receiving certain communications by unsubscribing from the marketing, mailings or newsletters you no longer desire. To unsubscribe, please follow the “Unsubscribe” instructions that are contained within the email, newsletter, or other communication that we send to you.
+
+**Changes to this Privacy Policy**
+
+Occasionally, we may change or update this Privacy Policy to allow us to use or share your previously collected personal information in a materially different way. We encourage you to periodically review this Privacy Policy for the latest information on our privacy practices.
+
+**Questions or concerns**
+
+If you have any questions related to this Privacy Policy, please email us at hello@wpsitecare.com.
