@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelightforge.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425105433id_/http%3A//thelightforge.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelightforge.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105602id_/http%3A//thelightforge.com//About/PrivacyPolicy) for the most accurate reproduction.*
 
-# PrivacyPolicy - The Lightforge
+# Lightforge - PrivacyPolicy
 
 TheLightforge.com owned and operated by GrinningGoat is strongly committed to protecting the privacy of your personal information. This privacy statement explains The Lightforge’s data collection and use practices with respect to its website (the “Site”). By using the pages in this site, you agree to the information collection and use practices described in this privacy statement.
 
