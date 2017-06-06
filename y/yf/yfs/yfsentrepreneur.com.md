@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yfsentrepreneur.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524070033id_/http%3A//yfsentrepreneur.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yfsentrepreneur.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185632id_/http%3A//yfsmagazine.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy — YFS Magazine: Startups, Small Business and Entrepreneurship Culture
 
 YFS Magazine is committed to protecting the privacy of its users. The following outlines our privacy and data protection policy.
 
