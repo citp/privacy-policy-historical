@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vergegirl.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515093153id_/http%3A//www.vergegirl.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vergegirl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210534id_/https%3A//www.vergegirl.com/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -6,10 +6,8 @@ Verge Girl Online Store recognises and values the protection of your personal in
 
 For further information we can be contacted on:
 
- **PHONE:** (07) 3003 0888  
- **MAIL:** SHOP 11, ELIZABETH ARCADE  
-99 ELIZABETH ST  
-BRISBANE QLD 4000
+ **PHONE:** (07) 3252 5493  
+ **MAIL:**  20 BROOKES STREET, BOWEN HILLS 4006 QLD
 
 We recognise that you may have concerns about our collection of your personal information via our website, which is located at www.vergegirl.com and how we may use that information.
 
@@ -75,4 +73,4 @@ If you wish to access, modify or remove any personal information that you have p
 
 We reserve our right to modify or amend this privacy policy at any time. Should any significant amendments occur, notification would be provided by publication on our website. For further information about privacy, please refer to the Australian Privacy Commissioner’s website www.privacy.gov.au.
 
-**Last updated on 31 March 2014.**
+**Last updated on 23 June 2016**
