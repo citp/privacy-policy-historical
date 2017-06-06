@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qqtube.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419064634id_/http%3A//www.qqtube.com/content/2-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qqtube.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211900id_/http%3A//www.qqtube.com/content/2-privacy-policy-how-we-use-info) for the most accurate reproduction.*
 
-# Privacy Policy - QQTube
+# Privacy Policy - How we use info - QQTube
 
 This Privacy Policy governs the manner in which QQTube collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.QQTube.com website ("Site"). This privacy policy applies to the Site and all products and services offered by QQTube. 
 
