@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icmarc.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203061347id_/http%3A//www.icmarc.org/about-us/policies-and-disclosures/icma-rc-policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icmarc.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110623id_/http%3A//www.icmarc.org/about-us/policies-and-disclosures/icma-rc-policies/privacy-policy.html) for the most accurate reproduction.*
 
 # ICMA-RC Privacy Policy | ICMA-RC
 
