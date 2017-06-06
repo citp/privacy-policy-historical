@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the studymafia.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119170914id_/http%3A//studymafia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studymafia.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080208id_/http%3A//studymafia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-This Privacy Policy governs the manner in which studymafia collects, uses, maintains and discloses information collected from users of the www.studymafia.com website. This privacy policy applies to the Site and all products and services offered by studymafia.
+This Privacy Policy governs the manner in which studymafia collects, uses, maintains and discloses information collected from users of the www.studymafia.org website. This privacy policy applies to the Site and all products and services offered by studymafia.
 
 **Personal  identification information**
 
@@ -51,4 +51,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-**www.studymafia.com**
+**www.studymafia.org**
