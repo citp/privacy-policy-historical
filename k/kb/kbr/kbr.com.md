@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbr.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913181903id_/https%3A//www.kbr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbr.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172636id_/https%3A//kbr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
