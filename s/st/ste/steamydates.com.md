@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamydates.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119073323id_/http%3A//www.steamydates.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamydates.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135414id_/http%3A//www.steamydates.com/site/privacy) for the most accurate reproduction.*
 
 # Steamydates - Find people, socialize, hookup and chat.
 
@@ -91,15 +91,3 @@ You have the following choices to modify or delete your profile information from
 #### 11\. Opt-out provisions
 
 You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of HK International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in. 
-
-  
-
-
-#### Our address:
-
-FH International Limited  
-PO Box 142  
-The Beehive, Rohais  
-St Peter Port  
-Guernsey  
-GY1 3HT 
