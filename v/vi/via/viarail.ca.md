@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233235id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171411id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | VIA Rail
 
@@ -54,6 +54,14 @@ Personal information may be kept as a hard copy or in electronic form. Personal 
 
 VIA only shares personal information with third parties in accordance with this policy. VIA may provide personal information to subcontractors and professional consultants (who are subject to personal information protection requirements by virtue of their contract with VIA), only in so much as their activities require the use of this information, and only for the purposes for which the information was collected. VIA never discloses your personal information without your consent to third parties for purposes other than those for which this information was collected, unless VIA is obliged to do so by law or by court order (i.e. in very exceptional circumstances).  
 Furthermore, under the Act, VIA has an obligation to inform the Privacy Commissioner of Canada in writing before making any disclosure or use of personal information for purposes other than those for which this information was obtained.
+
+###  Communications
+
+As a business entity, VIA Rail sends commercial electronic messages as part of its marketing strategy and customer service. When you purchase a product or book your travel using a VIA Rail profile, you may provide us with your express consent to be added or not to our email list which will be used to contact you occasionally with commercial electronic messages such as offers and promotions. When you purchase a product or book your travel without using a VIA Rail profile or using a VIA Rail profile but without providing us with your express consent, you provide VIA Rail with your implied consent to be added to our email list.
+
+If you do not want to receive commercial electronic messages from us, you may withdraw your consent at any time by simply changing your profile information or by following the instructions on how to unsubscribe contained in every email sent by VIA Rail. If you later change your mind, it is just as simple to opt back in.
+
+Please note that operational emails are not commercial electronic messages and provide relevant information that must be communicated to you including, but not limited to, emails containing information on purchases made or emails containing travel related information, for instance delayed trains. Consequently, VIA Rail will continue to send such messages as appropriate.
 
 ###  Links to external Web sites
 
