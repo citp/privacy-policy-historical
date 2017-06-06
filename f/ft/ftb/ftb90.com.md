@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ftb90.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130190341id_/http%3A//www.ftb90.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftb90.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123429id_/http%3A//www.ftb90.com/privacy) for the most accurate reproduction.*
 
-# 
+# Premier League table, fixtures and results in one place
 
 Last modified on February 3, 2014.   
 We understand you want to keep your information private and that you value our emphasis on keeping your information safe and discrete. As a result we have drafted the following privacy policy (the "Policy") which ensures that you are adequately notified as to the ways in which we collect and use your information. This Policy is designed to help you decide whether to use the Service and in what manner, by outlining the restrictions we take upon ourselves in gathering, storing and using your information. 
