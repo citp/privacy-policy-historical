@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116012627id_/http%3A//www.michaelpage.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112552id_/http%3A//www.michaelpage.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Michael Page
 
@@ -58,7 +58,7 @@ We gather information and statistics collectively about all visitors to our webs
 
 ##  Use of Cookies
 
-Access our new Cookie Policy and read how we abide by the changes [here](https://web.archive.org/cookies).
+Access our new Cookie Policy and read how we abide by the changes [here](https://web.archive.org/cookie-policy).
 
 ##  Access
 
