@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gshock.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002115id_/http%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gshock.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154505id_/http%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
 
 # Casio G-Shock Website Privacy Information | Casio - G-Shock
 
@@ -67,10 +67,6 @@ It is not possible for web sites to achieve perfect security. We do, however, ta
 **Our Commitment To Children’s Privacy**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
-
-**Access to your information**
-
-You can access all your personally identifiable information that we collect online and maintained by Casio through your “My Account” page (click [here](https://web.archive.org/account/) for more information regarding your account). We use this method to allow you, the Casio member, to correct, amend or delete any inaccurate entries, and to better maintain and safeguard your information. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
