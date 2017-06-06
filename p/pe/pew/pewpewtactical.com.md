@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pewpewtactical.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104031809id_/http%3A//www.pewpewtactical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewpewtactical.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201838id_/https%3A//www.pewpewtactical.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pew Pew Tactical
 
@@ -61,3 +61,5 @@ If you have any questions about this Policy, our practices related to this Site,
 6.2. UPDATES AND CHANGES
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+Last edited on 11.21.2016
