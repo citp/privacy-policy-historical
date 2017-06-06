@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babycenter.com.au privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120122944id_/http%3A//www.babycenter.com.au/e7814/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234308id_/https%3A//www.babycenter.com.au/e7814/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BabyCenter
+# Privacy Policy - BabyCenter Australia
 
 ## Welcome
 
@@ -12,11 +12,11 @@ By using this site, you agree to the terms of this Privacy Policy and the BabyCe
 
 ## About Children
 
-This site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this site from visitors in this age group. We do, however, collect information about children and babies from their parents. We ask that our users not provide information about a baby or child without first getting the parents' consent. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites. 
+This site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this site from visitors in this age group. We do, however, collect information about children and babies from their parents. We ask that our users not provide information about a baby or child without first getting the parents' consent. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
 
 ## Information You Provide
 
-This site actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via e-mail, feedback forms, and/or chat rooms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number, and so on). 
+This site actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via e-mail, feedback forms, and/or chat rooms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number, and so on).
 
 Some areas of this site may ask you to submit personally identifiable information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, order processing, or resume submission) or to participate in a particular activity (such as sweepstakes or other promotions). You will be informed what information is required and what information is optional. 
 
@@ -32,7 +32,7 @@ Except as otherwise stated, we may use information collected via this site to im
 
 If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We also may disclose personally identifiable information you provide via this site to third parties, but only: 
 
-(i) to carefully selected partners who have offers that may be of interest to you, provided you have requested such offers, in which case we will require such partners to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. 
+(i) to carefully selected partners who have offers that may be of interest to you, provided you have requested such offers, in which case we will require such partners to agree to treat it in accordance with this Privacy Policy and use it for the same purposes.
 
 (ii) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. 
 
@@ -52,7 +52,7 @@ Our site also has public areas such as chat rooms and message boards. Please rem
 
 ## Access, Correction, and Deletion
 
-To keep personally identifiable information that you provide via this site accurate, current, and complete, please contact us as specified below and we will take appropriate steps to update or correct such information in our possession, or to delete your information from our contact list. If we no longer need personally identifiable information for any of the purposes referred to in this policy, we will take reasonable steps to either destroy or de-identify your information. 
+To keep personally identifiable information that you provide via this site accurate, current, and complete, please contact us as specified below and we will take appropriate steps to update or correct such information in our possession, or to delete your information from our contact list. If we no longer need personally identifiable information for any of the purposes referred to in this policy, we will take reasonable steps to either destroy or de-identify your information.
 
 ## Security
 
@@ -60,30 +60,30 @@ This site takes reasonable steps to protect personally identifiable information 
 
 ## Links to Other Web Sites
 
-This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit. 
+This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit.
 
-BabyCenter Australia frequently provides links to articles and other web pages at BabyCentre UK. BabyCentre UK is also owned and operated by BabyCenter, L.L.C. Please read the [BabyCenter UK privacy policy](http://www.babycentre.co.uk/e7814) for more information. 
+BabyCenter Australia frequently provides links to articles and other web pages at BabyCentre UK. BabyCentre UK is also owned and operated by BabyCenter, L.L.C. Please read the [BabyCenter UK privacy policy](https://www.babycentre.co.uk/e7814) for more information.
 
 ## How to Contact Us
 
-To keep your personally identifiable information accurate, current, and complete, please visit our member center at [http://www.babycenter.com.au/account](https://web.archive.org/account), or contact us as follows: 
+To keep your personally identifiable information accurate, current, and complete, please visit our member center at [https://www.babycenter.com.au/account](https://web.archive.org/account), or contact us as follows: 
 
-BabyCenter, L.L.C.   
-Attention: Customer Service   
-163 Freelon St.   
-San Francisco, CA 94107   
-U.S.A.   
-[http://www.babycenter.com.au/about/contact](https://web.archive.org/e536987/contact-us)   
-+1-866-241-2229 
+BabyCenter, L.L.C.  
+Attention: Customer Service  
+163 Freelon St.  
+San Francisco, CA 94107  
+U.S.A.  
+[https://www.babycenter.com.au/about/contact](https://web.archive.org/e536987/contact-us)  
++1-866-241-2229
 
 If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, please contact us as follows: 
 
-BabyCenter, L.L.C.   
-Attention: Chief Privacy Officer   
-163 Freelon St.   
-San Francisco, CA 94107   
-U.S.A.   
-[http://www.babycenter.com.au/about/contact](https://web.archive.org/e536987/contact-us)
+BabyCenter, L.L.C.  
+Attention: Chief Privacy Officer  
+163 Freelon St.  
+San Francisco, CA 94107  
+U.S.A.  
+[https://www.babycenter.com.au/about/contact](https://web.archive.org/e536987/contact-us)
 
 ## Changes to This Privacy Policy
 
