@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsmuk.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210100833id_/https%3A//www.rsmuk.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmuk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230524id_/https%3A//www.rsmuk.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies | RSM UK
 
@@ -111,7 +111,7 @@ Where you have consented to additional information being provided by RSM UK or o
 
 ### Security of information
 
-The data controller collecting the information described in this statement is RSM UK. Unless you instruct us otherwise, information you provide will be used by the UK group of companies and LLPs trading as RSM and controlled (directly or indirectly) by Baker Tilly UK Holdings Limited (“ **RSM group entities** ”). Personal data collected by RSM UK will not be transferred to other members of the RSM network.
+The data controller collecting the information described in this statement is RSM UK. Unless you instruct us otherwise, information you provide will be used by the UK group of companies and LLPs trading as RSM and controlled (directly or indirectly) by RSM UK Holdings Limited (“ **RSM group entities** ”). Personal data collected by RSM UK will not be transferred to other members of the RSM network.
 
 Generally accepted standards of technology and operational security have been implemented to protect personal information from loss, misuse, alteration or destruction. All personnel of RSM group entities are required to keep personal information confidential and only authorised persons have access to such information.
 
