@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviemint.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115041235id_/http%3A//moviemint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemint.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225313id_/http%3A//moviemint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Movie Mint
 
@@ -117,4 +117,4 @@ Send an e-mail to : [moviesmint@gmail.com](mailto:moviesmint@gmail.com)
 
 We reserve the right to change or update these policies at any time upon reasonable notice, effective immediately upon posting to this site.
 
-1,683 total views, 5 views today
+3,220 total views, 11 views today
