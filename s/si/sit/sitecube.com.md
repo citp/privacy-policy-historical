@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitecube.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211024021id_/http%3A//www.sitecube.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecube.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145032id_/http%3A//sitecube.com/privacy.htm) for the most accurate reproduction.*
 
 # Free Website Builder, Build a Website Easily!
 
@@ -34,7 +34,7 @@ This Privacy Policy is incorporated into and subject to the terms of the
 
 If you have any questions about this privacy statement or the practices of this site, please [contact us](http://www.sitecube.com/contact.html). 
 
-Copyright © 2006-2016 SiteCube.com All rights Reserved.
+Copyright © 2006-2017 SiteCube.com All rights Reserved.
 
 ## Privacy Policy
 
