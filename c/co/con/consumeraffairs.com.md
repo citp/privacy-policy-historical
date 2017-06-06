@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414003243id_/https%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200102id_/https%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
 
 # ConsumerAffairs - Privacy Policy
 
@@ -50,7 +50,7 @@ We may use the information collected for the following purposes:
 
 We do not rent, sell, or share your information with third parties except as described in this Privacy Policy. We may share information we receive about you in the following ways:
 
-  * We may share consumer complaints we receive from you with expert consultants, regulatory and law enforcement authorities and members of the news media. We may also share consumer complaints with attorneys at no cost to you. Consumer complaints shared with attorneys are not subject to this Privacy Policy. For example, consumer complaints you provide may be used in the course of prosecuting claims and therefore may become a part of an official court record and/or proceeding. 
+  * We may share consumer complaints we receive from you with consultants, regulatory and law enforcement authorities and members of the news media. 
   * We may share consumer complaints we receive from you with companies about which the consumer is complaining who pay us to receive that information. To receive such information, companies must agree that they will use the information only in an attempt to resolve the complaint and/or improve their practices. They must also agree not to use the information for litigation purposes. 
   * We may also share Submissions (i.e., comments that you have posted on our web site) with companies with whom we have business relationship, who may use those Submissions (along with your first name, but not your e-mail address) for marketing purposes on their website or other outlets (such as social media platforms). 
   * We may also share consumer complaints with our affiliates or other entities with whom we have a business relationship. These entities may post consumer complaints on their respective websites. 
