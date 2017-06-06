@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iimcal.ac.in privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516061247id_/https%3A//www.iimcal.ac.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimcal.ac.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171009id_/https%3A//iimcal.ac.in/privacy%23content) for the most accurate reproduction.*
 
 # Privacy | IIM Calcutta
 
