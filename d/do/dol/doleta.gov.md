@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doleta.gov privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228084150id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doleta.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180621id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statement | United States Department of Labor
 
@@ -52,3 +52,5 @@ If you are concerned about the potential use of the information gathered from yo
 For security purposes and to ensure that this service remains available to all users, our Web site also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and The National Information Infrastructure Protection Act of 1996.
+
+(Last Reviewed: 4/26/2017)
