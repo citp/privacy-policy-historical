@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storyofstuff.org privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027104934id_/http%3A//storyofstuff.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyofstuff.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103907id_/http%3A//storyofstuff.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Story of Stuff Project
 
