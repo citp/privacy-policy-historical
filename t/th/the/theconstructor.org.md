@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theconstructor.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121192738id_/http%3A//theconstructor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconstructor.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234320id_/https%3A//theconstructor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Constructor
 
-The following Privacy Statement discloses the information gathering and dissemination practices for The Constructor (http://theconstructor.org).
+The following Privacy Statement discloses the information gathering and dissemination practices for The Constructor (https://theconstructor.org).
 
 Our site, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. A cookie is a message that is sent to a browser from a Web server and stored on your computer’s hard drive. Cookies help us keep track of the size of our audience, the frequency of visits to our Site and the areas that are most popular. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
 
@@ -19,6 +19,6 @@ Our site may contain links to other websites of interest. However, once you use 
  **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. These companies may use some information (such as your domain type, your IP address, about your visits to this and other Websites) in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, or to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
+Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, or to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html). Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: theconst@theconstructor.org
