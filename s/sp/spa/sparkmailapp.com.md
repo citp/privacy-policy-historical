@@ -1,63 +1,129 @@
-> *The following text is extracted and transformed from the sparkmailapp.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501161140id_/https%3A//readdle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkmailapp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234832id_/https%3A//sparkmailapp.com/privacy) for the most accurate reproduction.*
 
-# Readdle
+# 
 
-  1. Our Privacy Principles
-  2. General Readdle Privacy Policy
-  3. Information Collection and Use
-  4. Information Disclosure
-  5. Cookies
-  6. Use of Emails
-  7. Use of App Analytics Services and third party Software
-  8. Confidentiality and Security
-  9. Changes to this Privacy Policy
-  10. Questions and Suggestions
-
+  1. Introduction
+  2. General Statistical Information
+  3. Personal Information
+  4. Use of Email Addresses
+  5. Deletion of account authentication/passwords and data
+  6. Use of Personal Information
+  7. Confidentiality and Security
+  8. Changes to This Privacy Policy
+  9. Questions and Suggestions
 
 
-Readdle takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-We are at the business of making best productivity tools out there and selling them directly to you, our customer. While other companies might base their entire existence on selling their users data, we decided that we will never base our business on activities like this and we are committed to this decision.
+Readdle takes your privacy seriously. Please read the following to learn more about our privacy policy ("Privacy Policy").
 
-That's why we treat your data very seriously and always try to avoid having access to your data if it is possible by nature of the application or service we provide to you.
+This Privacy Policy describes what information we collect when you use our Spark mobile app product ("Spark") and what we do with this information. The information is used solely for purposes of providing better service to you. We do not loan, rent or sell information to others, other than as stated herein. This Privacy Policy applies only to our Spark app. Please see our general privacy policy that applies to our other products at [readdle.com/privacy](https://readdle.com/privacy).
 
-Most of our mobile app products collect only anonymized or personally unidentifiable usage data that help us make our products better. Some products like Spark have access to more information and thus have their own or additional privacy policies. Below you can find more detailed description of information that we collect at Readdle and how we use it. By using any of our products, you accept the terms of this privacy policy. If you do not agree with our policies and practices, your choice is not to use our website or our products.
+We are committed to protect your privacy. We collect two types of information through the Spark app: General Statistical Information and Personal Information.
 
-Readdle takes your privacy seriously. This privacy policy covers how Readdle treats personal information that Readdle collects and receives when you use the Readdle website (“Website”) or products, except Spark and Fluix. If you are using our Spark or Fluix products, please refer to [Spark Privacy Policy](https://sparkmailapp.com/privacy) and [Fluix Privacy Policy](https://fluix.io/privacy-policy) respectively. Please read the following to learn more about our privacy policy.
+When you use the Spark app we gather statistics and analytics on your usage of Spark. We may collect information about your mobile device and internet connection, including the application-specific device identifier, IP address, operating system, browser type, mobile network information, location, installed email, etc. This information is collectively referred to as "General Statistical Information". This data helps us to determine how different parts of the Spark app are used. This information is used by us to provide you with the best user experience possible.
 
-Readdle collects information when you use Readdle products or services, when you visit Website pages or the pages of certain Readdle partners. Readdle may combine information about you that we have with information we obtain from business partners or other companies.
+We use third party services, such as Google Analytics, Facebook Analytics and Amplitude, to collect and analyze how you use Spark. These services may collect information about you and your usage of Spark in accordance with their respective privacy policies.
 
-Readdle automatically receives and records information on our server logs from your browser, including your IP address, Readdle cookie information, and the page you request.
+In addition to General Statistical Information we may ask you to provide us with certain personally identifiable information. Information that can reasonably be used to identify you is referred to as "Personal Information". The first email you add to Spark is used as your username. We might use that email address to reach out to you periodically with information about features, updates, announcements or to request your feedback. All general email activity is mostly done on your device. Our servers are only involved for delivering the push notifications and, in some cases, for sending your email messages.
 
-We may collect additional information related to your contact with our customer support team or store results when you respond to a survey. Also, we receive and store your email when you subscribe to Readdle newsletters and marketing communications.
+Accounts are added to Spark through OAuth where possible. Where OAuth is not supported we keep your account username and password on our secure servers. We then use the authorization provided to download your emails to our virtual servers and push to your device. We use Amazon Web Services (AWS) infrastructure to store your data. Apart from the AWS' security policies we take a number of measures to ensure that your data is never read by anyone else. We ensure that all transmission is secured with HTTPS so that no one else can access your data. Your account credentials are stored on secure cloud-based servers using asymmetric encryption.
 
-You also may provide information, such as reviews, feedback, comments, etc., which may be published or displayed (" **posted** ") on public areas of the our Website or our blogs or forum, via our products, or transmitted to other users of the Website or third parties (collectively, " **Content** "). Your Content is posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Website with whom you may choose to share your Content. Therefore, we cannot and do not guarantee that your Content will not be viewed by unauthorized persons.
+The safety and security of your information also depends on you. You should not share your email user name and password with anyone. If you find out that anyone has improperly obtained your login credentials and accesses your email account through Spark, you should immediately change your password. We are not responsible for such unauthorized access unless the access is our fault.
 
-We may collect information about your mobile device and internet connection, including the application-specific device identifier, IP address, operating system, browser type, mobile network information, location, installed email, etc.
+Primary function of Spark servers is to send push notifications and badge numbers to your device. To do that, Spark servers download email headers and text parts from your email service provider and use them to compose push notifications. We delete email headers and text as soon as push message has been prepared and sent. We store messages and emails in encrypted form on secure cloud-based servers.
+
+When you delete your email account from Spark, we permanently delete your data and credentials from our servers after we get notification from the Spark app or from Apple Push Notifications Service. If you turn off Push Notifications for your email account on all devices we will delete it from our servers as well.
+
+To provide you with synchronization of your email accounts and settings between different devices, we encrypt authorization information and user settings with unique encryption key stored in your iCloud account, out of our own reach, and sync it with other devices through our servers (we currently use Firebase for this purpose). We keep this information even after you deleted Spark from all your devices to allow you restore your accounts and settings quickly in case of application reinstall. However, since we don't have access to the encryption key, your data are completely secured.
+
+We do not knowingly collect Personal Information from children under the age of 13. If we learn that we have inadvertently collected personally identifiable information such as email address or name from children under the age of 13, we will promptly delete it. Parents and guardians can contact us on [rdsupport@readdle.com](mailto:rdsupport@readdle.com) if they are aware that their child has provided us with Personal Information without their consent.
+
+The support queries you write to us about might contain Personal Information. We use information in these queries solely to help you resolve the issues reported and improve the product quality.
+
+When you start to use Spark we collect email address of the first email account you connected to the app. We use it as primary way to let you know about important Spark announcements and send you tips and tricks on getting most of the app. You can always opt-out of receiving email messages and newsletters from us. Unsubscribe instructions are located within each newsletter and on our Website, or you may contact our [customer support](https://readdle.com/support) team and ask them to unsubscribe you manually.
+
+When you contact our customer support via email or using our online form your email will be retained in our customer support system. We may use this email to contact you later with updates about your request, with information about related features and other announcements.
+
+In the event you delete your data from Spark, or revoke access to your data, or delete your Spark account, all your data, as well as your authentication/password information, is completely and permanently deleted from our servers, and we, therefore, do not have access to any of your data anymore.
+
+Also, you can delete your email account from Spark manually at any time using our [Account Deletion page](https://sparkmailapp.com/account_deletion). Please [click here](https://sparkmailapp.com/account_deletion#info) to read about information that might possibly remain in our archived records after your account has been deleted.
 
 Readdle does not rent, sell, or share personally identifiable information about you with non-affiliated third parties (other than our subsidiaries and affiliates), except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
   * We believe it is necessary to share personally identifiable information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Readdle's terms of use, this privacy policy, or as otherwise required by law.
   * We believe disclosure is necessary or appropriate to protect the rights, property, or safety of our company, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-  * We transfer your information in the event a merger, divestiture, restructuring, reorganization, dissolution or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding and you agree to and do hereby consent to our assignment or transfer of rights to your personal information.
+  * We transfer your information in the event a merger, divestiture, restructuring, reorganization, dissolution or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding and you agree to and do hereby consent to our assignment or transfer of rights to your Personal Information.
 
 
 
-We also use standard technologies, which may include cookies, flash cookies, and other technologies, to collect and track information about how you use our Website and to record certain information. For example, we may collect and/or log Internet protocol addresses, Internet domain names, the Web browser and operating system used to access our Website, the files visited, the time spent in each file, and the time and date of each visit. We may collect these through the use of log files and Web beacons that could enable us to track your activity. Cookies are files that can be sent from a Website via your browser to be placed on your computer's hard drive. Thereafter, when you visit a Website, a message is sent back to the Web server by the browser accessing the Website. You may elect not to accept cookies by changing the designated settings on your Web browser. The information collected from the use of cookies is used and analyzed to improve our Website, such as by gaining a better understanding of your interests and requirements regarding our Website. You can set your browser to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+We limit access to Personal Information about you to employees, contractors and service providers who we believe reasonably need to have access to that information to provide products or services to you or in order to do their jobs.
 
-Some our products allows you to subscribe to Readdle newsletters. This process is completely opt-in and you can always opt-out of receiving future e-mail messages and newsletters by ending your subscription. Unsubscribe instructions are located within each newsletter and on our website, or you may contact our [customer support](https://web.archive.org/support) team and ask them to unsubscribe you manually.
+We have physical, electronic, and procedural safeguards that are designed to comply with federal regulations to protect your Personal Information.
 
-When you contact our customer support via email or using our online form your email will be retained in our customer support system. We may use this email to contact you later with updates about your request, with information about related features and other announcements or to request your feedback.
+It is our policy to post any changes we make to our Privacy Policy on this page. Your continued use of the Spark app after we make changes is deemed to be acceptance of those changes, so please check the Privacy Policy (posted at [sparkmailapp.com/privacy](https://sparkmailapp.com/privacy)) periodically for updates.
+
+If you have any questions about this Privacy Policy or don't see your concerns addressed here, please [contact us](https://readdle.com/support).
+
+  1. Introduction
+  2. General Statistical Information
+  3. Personal Information
+  4. Use of Email Addresses
+  5. Deletion of account authentication/passwords and data
+  6. Use of Personal Information
+  7. Confidentiality and Security
+  8. Changes to This Privacy Policy
+  9. Questions and Suggestions
+
+
+
+Readdle takes your privacy seriously. Please read the following to learn more about our privacy policy ("Privacy Policy").
+
+This Privacy Policy describes what information we collect when you use our Spark mobile app product ("Spark") and what we do with this information. The information is used solely for purposes of providing better service to you. We do not loan, rent or sell information to others, other than as stated herein. This Privacy Policy applies only to our Spark app. Please see our general privacy policy that applies to our other products at [readdle.com/privacy](https://readdle.com/privacy).
+
+We are committed to protect your privacy. We collect two types of information through the Spark app: General Statistical Information and Personal Information.
+
+When you use the Spark app we gather statistics and analytics on your usage of Spark. We may collect information about your mobile device and internet connection, including the application-specific device identifier, IP address, operating system, browser type, mobile network information, location, installed email, etc. This information is collectively referred to as "General Statistical Information". This data helps us to determine how different parts of the Spark app are used. This information is used by us to provide you with the best user experience possible.
+
+We use third party services, such as Google Analytics, Facebook Analytics and Amplitude, to collect and analyze how you use Spark. These services may collect information about you and your usage of Spark in accordance with their respective privacy policies.
+
+In addition to General Statistical Information we may ask you to provide us with certain personally identifiable information. Information that can reasonably be used to identify you is referred to as "Personal Information". The first email you add to Spark is used as your username. We might use that email address to reach out to you periodically with information about features, updates, announcements or to request your feedback. All general email activity is mostly done on your device. Our servers are only involved for delivering the push notifications and, in some cases, for sending your email messages.
+
+Accounts are added to Spark through OAuth where possible. Where OAuth is not supported we keep your account username and password on our secure servers. We then use the authorization provided to download your emails to our virtual servers and push to your device. We use Amazon Web Services (AWS) infrastructure to store your data. Apart from the AWS' security policies we take a number of measures to ensure that your data is never read by anyone else. We ensure that all transmission is secured with HTTPS so that no one else can access your data. Your account credentials are stored on secure cloud-based servers using asymmetric encryption.
 
 The safety and security of your information also depends on you. You should not share your email user name and password with anyone. If you find out that anyone has improperly obtained your login credentials and accesses your email account through Spark, you should immediately change your password. We are not responsible for such unauthorized access unless the access is our fault.
 
-We use third party Software and services such as Google Analytics, Facebook Analytics and Amplitude to collect and analyze how people use Readdle applications. This data helps us improve our products and services and better tailor our advertising campaigns on Google, Facebook and other platforms. Also, we use third party software from Dropbox, Evernote and others to provide you with various useful functions across our apps. All these third parties may collect information about you and your usage of our applications in accordance with their respective privacy policies.
+Primary function of Spark servers is to send push notifications and badge numbers to your device. To do that, Spark servers download email headers and text parts from your email service provider and use them to compose push notifications. We delete email headers and text as soon as push message has been prepared and sent. We store messages and emails in encrypted form on secure cloud-based servers.
 
-We limit access to personally identifiable information about you to employees, contractors and service providers who we believe reasonably need have access to that information to provide products or services to you or in order to do their jobs.
+When you delete your email account from Spark, we permanently delete your data and credentials from our servers after we get notification from the Spark app or from Apple Push Notifications Service. If you turn off Push Notifications for your email account on all devices we will delete it from our servers as well.
 
-We have physical, electronic, and procedural safeguards that are designed to comply with federal regulations to protect personal information about you.
+To provide you with synchronization of your email accounts and settings between different devices, we encrypt authorization information and user settings with unique encryption key stored in your iCloud account, out of our own reach, and sync it with other devices through our servers (we currently use Firebase for this purpose). We keep this information even after you deleted Spark from all your devices to allow you restore your accounts and settings quickly in case of application reinstall. However, since we don't have access to the encryption key, your data are completely secured.
 
-It is our policy to post any changes we make to our privacy policy on this page. Your continued use of our Website or products after we make changes is deemed to be acceptance of those changes, so please check the privacy policy (posted at [readdle.com/privacy](https://readdle.com/privacy)) periodically for updates.
+We do not knowingly collect Personal Information from children under the age of 13. If we learn that we have inadvertently collected personally identifiable information such as email address or name from children under the age of 13, we will promptly delete it. Parents and guardians can contact us on [rdsupport@readdle.com](mailto:rdsupport@readdle.com) if they are aware that their child has provided us with Personal Information without their consent.
 
-If you have any questions about this Privacy Policy or don't see your concerns addressed here, please [contact us.](https://web.archive.org/support)
+The support queries you write to us about might contain Personal Information. We use information in these queries solely to help you resolve the issues reported and improve the product quality.
+
+When you start to use Spark we collect email address of the first email account you connected to the app. We use it as primary way to let you know about important Spark announcements and send you tips and tricks on getting most of the app. You can always opt-out of receiving email messages and newsletters from us. Unsubscribe instructions are located within each newsletter and on our Website, or you may contact our [customer support](https://readdle.com/support) team and ask them to unsubscribe you manually.
+
+When you contact our customer support via email or using our online form your email will be retained in our customer support system. We may use this email to contact you later with updates about your request, with information about related features and other announcements.
+
+In the event you delete your data from Spark, or revoke access to your data, or delete your Spark account, all your data, as well as your authentication/password information, is completely and permanently deleted from our servers, and we, therefore, do not have access to any of your data anymore.
+
+Also, you can delete your email account from Spark manually at any time using our [Account Deletion page](https://sparkmailapp.com/account_deletion). Please [tap here](https://sparkmailapp.com/account_deletion#info) to read about information that might possibly remain in our archived records after your account has been deleted.
+
+Readdle does not rent, sell, or share personally identifiable information about you with non-affiliated third parties (other than our subsidiaries and affiliates), except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * We believe it is necessary to share personally identifiable information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Readdle's terms of use, this privacy policy, or as otherwise required by law.
+  * We believe disclosure is necessary or appropriate to protect the rights, property, or safety of our company, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * We transfer your information in the event a merger, divestiture, restructuring, reorganization, dissolution or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding and you agree to and do hereby consent to our assignment or transfer of rights to your Personal Information.
+
+
+
+We limit access to Personal Information about you to employees, contractors and service providers who we believe reasonably need have access to that information to provide products or services to you or in order to do their jobs.
+
+We have physical, electronic, and procedural safeguards that are designed to comply with federal regulations to protect your Personal Information.
+
+It is our policy to post any changes we make to our Privacy Policy on this page. Your continued use of the Spark app after we make changes is deemed to be acceptance of those changes, so please check the Privacy Policy (posted at [sparkmailapp.com/privacy](https://sparkmailapp.com/privacy)) periodically for updates.
+
+If you have any questions about this Privacy Policy or don't see your concerns addressed here, please [contact us](https://readdle.com/support).
