@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the cspire.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227211217id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspire.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154847id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
 ### C SPIRE PRIVACY POLICY
 
-Effective Date: February 9, 2015
+Effective Date: January 24, 2017
 
 **SCOPE**
 
 This Privacy Policy applies to C Spire's wireless services, websites, mobile and web-based applications and personalized service offerings (the "Sites"). This privacy policy describes how C Spire collects and uses the personal information of its wireless customers, as well as information provided by customers and non-customers who visit the Sites. It also describes the choices available to you regarding our use of your personal information. C Spire™ is owned by Cellular South, Inc.
 
 This Privacy Policy does not apply to other websites, third party application providers or to the Internet generally. C Spire may make content or services from other websites available to you from links located on our Sites. C Spire is not responsible for the privacy, security, or content of such sites. C Spire also uses third parties to advertise its products and services on the Internet and websites owned by parties that are unaffiliated with C Spire. You should review the privacy policy of each application provider you use and at any third party website you visit to determine how that provider or site protects your privacy. 
-
-C Spire has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through desktop website (www.cpsire.com) and the mobile website (www.cspire.com/mobile).
 
 **INFORMATION COLLECTION AND USE**
 
@@ -61,7 +59,7 @@ We will share your personal information with third parties in the ways that are 
 
 C Spire prides itself on providing you a personalized experience. But we understand that participating in personalization is your choice to make. That is why we have created a [Your Preference Profile](https://www.cspire.com/my_account/personal/profile/), so you may view your choices about how we may contact you. If you are a customer of C Spire and the Account Holder, then you can manage the privacy preferences of each mobile number on your account. If you are not the Account Holder on the C Spire account, you may have the ability to manage certain preferences subject to modification by the Account Holder. 
 
-You may request that we stop collection and delete certain information by sending an email with such request to [askus@cspire.com](mailto:askus@cspire.com); however, please note that we have legal obligations to retain certain information, and must retain certain information necessary for us to provide our customers services. Notwithstanding these limitations, if you make such a request, we will stop the collection and ensure that information we are not otherwise legally obligated to keep and not needed to provide the services is removed according to our normal processes. 
+Upon request C Spire will provide you with information about whether we hold any of your personal information. You may request that we stop collection and delete certain information by sending an email with such request to [askus@cspire.com](mailto:askus@cspire.com); however, please note that we have legal obligations to retain certain information, and must retain certain information necessary for us to provide our customers services. Notwithstanding these limitations, if you make such a request, we will stop the collection and ensure that information we are not otherwise legally obligated to keep and not needed to provide the services is removed according to our normal processes. We will respond to your request within a reasonable timeframe 
 
 **CPNI**
 
@@ -80,10 +78,6 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 You can remove persistent cookies by following the directions provided in your Internet browser's "help" file. If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited.
 
 As is true of most websites, we gather certain information automatically and store it in log files. As discussed above, this information includes IP addresses, browser type, ISP provider, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about the user base as a whole. We do not link this automatically collected data to personally identifiable information, except that IP addresses may be tied to personally identifiable information.
-
-We use local shared objects, also known as Flash cookies, to store your preferences, or display content based upon what you view on the Sites to personalize your visit. Third parties, with whom we partner to provide certain features on the Sites or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To manage Flash cookies please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
-
-As stated above, the use of cookies and/or clear gifs by our advertising partners and service providers is not covered by our privacy policy. We do not have access or control over these cookies. 
 
 We partner with third parties to either display advertising on the Sites or to manage our advertising on other websites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by changing your settings on [Your Preference Profile](https://www.cspire.com/my_account/personal/profile/) or by clicking the AdChoices link in the footer of the website. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
@@ -121,4 +115,4 @@ Contact Us:
 
 Support 24 hours a day: 1-855-CSPIRE5 (277-4735)
 
-If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
