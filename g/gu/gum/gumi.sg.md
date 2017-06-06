@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the gumi.sg privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124030801id_/http%3A//gumi.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumi.sg privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200918id_/http%3A//gumi.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GUMI SG
 
 **PRIVACY POLICY**
 
- **(Effective Date: May 16, 2016)**
+ **(Effective Date: February 3, 2015)**  
+**(Last Updated: February 24, 2017)**
 
-gumi Asia Pte. Ltd. (“Company,” “we”, “us” or “our”) maintains this Privacy Policy (“Privacy Policy”) that summarizes the treatment of information provided or collected on the sites and in connection with our various services (collectively, the “Services”) where this Privacy Policy is made available to you, including, without limitation: (1) our website(s) (our “Sites”), and (2) our applications and related services for Mobile Devices (defined below), including those accessible through third party social networking sites or platforms (“SNS”) (collectively, the “Applications”).
+gumi Inc. (“Company,” “we”, “us” or “our”) maintains this Privacy Policy (“Privacy Policy”) that summarizes the treatment of information provided or collected on the sites and in connection with our various services (collectively, the “Services”) where this Privacy Policy is made available to you, including, without limitation: (1) our website(s) (our “Sites”), and (2) our applications and related services for Mobile Devices (defined below), including those accessible through third party social networking sites or platforms (“SNS”) (collectively, the “Applications”).
 
 By accepting our Privacy Policy and the applicable Terms of Service you consent to our collection, storage, use and disclosure of your information as described in this Privacy Policy.
 
-###  **A. Types and Collection of Information**
+ **A. Types and Collection of Information**
 
 Our primary goal in collecting the information described below is to provide you, the user, with a customized experience on our Service and to deliver better service, products, and more relevant content to our customers, prospective customers, and visitors.
 
-  1.  ** _Types of Information We Collect_**
-
-
+ **1.     Types of Information We Collect**
 
 We collect three basic types of information in connection with our Service: (a) Personal Information; (b) Anonymous Information; and (c) Aggregated Information. Personal Information, Anonymous Information and Aggregated Information as used in this Privacy Policy are defined below:
 
@@ -26,9 +25,7 @@ We collect three basic types of information in connection with our Service: (a) 
 
 “Aggregated Information” means information about groups or categories of persons, which does not identify and cannot reasonably be used to identify an individual person.
 
-  2.  ** _How We Collect Your Information_**
-
-
+ **2.     How We Collect Your Information**
 
  **Information Collected Directly From You**
 
@@ -52,7 +49,7 @@ Employment Opportunities. Parts of our Service may relate to employment opportun
 
 Other Sources. We may collect your information from other sources, including, without limitation, other users of the Service and third party information providers and partners. For example, we collect information you provide to us or third party partners when you enter any promotions, sweepstakes and loyalty program. Such information may be used to supplement your account information and/or profile and may be combined with other information we collect from you.
 
- ** _Information Collected by Automated Technologies_**
+ **Information Collected by Automated Technologies**
 
 When you interact with the Service, we collect Anonymous Information through automated technologies as described below:
 
@@ -72,61 +69,53 @@ The use of cookies, web beacons, or similar automated information collection tec
 
 Click Through URLs. Some of our Services, including email messages, use “click-through URLs” linked to other content on our Services. We track this click-through data to help us determine interest in topics and use of the Services.
 
-###  **B. Use and Disclosure of Personal Information**
+ **B. Use and Disclosure of Personal Information**
 
-Unless otherwise described elsewhere in this Privacy Policy, we will not use or disclose any Personal Information collected from you.  Your Personal Information may be used alone or in the aggregate with information collected from other users.
+Unless otherwise described elsewhere in this Privacy Policy, we will not use or disclose any Personal Information collected from you. Your Personal Information may be used alone or in the aggregate with information collected from other users.
 
-  1.  **      _Use by Company_**
-
-
+ **1.     Use by Company**
 
 We use your Personal Information for any one or more of the following purposes:
 
-  1. to allow you to register with us to create an account or profile within the Service;
-  2. to operate, maintain and improve our Service;
-  3. to conduct market research analyses, including, without limitation, to analyze user characteristics and usage patterns in order to better understand how our Services are used and market them more effectively and to optimize the display of advertisements;
-  4. to communicate with you concerning your account or, with your explicit consent or as permitted by law, to send you announcements, newsletters, promotional materials and other information about our Services or offerings of our business partners, and to offer you opportunities to participate in surveys, campaigns, contests and sweepstakes;*
-  5. to prevent or investigate actual or suspected fraud, hacking, infringement, or other misconduct involving our Service;
-  6. to respond to customer service and technical support inquiries, troubleshoot problems, investigate incidents, and handle complaints;
-  7. to provide the Services to you and our customers;
-  8. to complete payment and billing transactions;
-  9. to comply with applicable laws, regulations, legal processes or enforceable government requests;
-  10. to send notices, such as communications about your purchases and changes to our Terms of Service, this Privacy Policy and other Service-specific policies, and to enforce applicable terms and conditions set forth in such policies;
-  11. to enable user-to-user communications and other in-Service communications and interaction;
-  12. to enable us to link your game ID with other game platforms;
-  13. to enable us to deliver information to SNS when you use or access an Application through such SNS;
-  14. to evaluate your potential employment at the Company, and if you are offered a job or become employed by us, for purposes related to your employment; and
-  15. to protect against harm to the rights, property or safety of the Company, its users or the public as required or permitted by law.
+(a)     to allow you to register with us to create an account or profile within the Service;  
+(b)     to operate, maintain and improve our Service;  
+(c)     to conduct market research analyses, including, without limitation, to analyze user characteristics and usage patterns in order to better understand how our Services are used and market them more effectively and to optimize the display of advertisements;  
+(d)     to communicate with you concerning your account or, with your explicit consent or as permitted by law, to send you announcements, newsletters, promotional materials and other information about our Services or offerings of our business partners, and to offer you opportunities to participate in surveys, campaigns, contests and sweepstakes;*  
+(e)     to prevent or investigate actual or suspected fraud, hacking, infringement, or other misconduct involving our Service;  
+(f)     to respond to customer service and technical support inquiries, troubleshoot problems, investigate incidents, and handle complaints;  
+(g)    to provide the Services to you and our customers;  
+(h)    to complete payment and billing transactions;  
+(i)     to comply with applicable laws, regulations, legal processes or enforceable government requests;  
+(j)     to send notices, such as communications about your purchases and changes to our Terms of Service, this Privacy Policy and other Service-specific policies, and to enforce applicable terms and conditions set forth in such policies;  
+(k)    to enable user-to-user communications and other in-Service communications and interaction;  
+(l)     to enable us to link your game ID with other game platforms;  
+(m)   to enable us to deliver information to SNS when you use or access an Application through such SNS;  
+(n)    to evaluate your potential employment at the Company, and if you are offered a job or become employed by us, for purposes related to your employment; and  
+(o)    to protect against harm to the rights, property or safety of the Company, its users or the public as required or permitted by law.
 
+*Any promotional emails we send will identify us as the sender and will include our contact details. Moreover, such emails will provide for an unsubscribe option. In addition, your consent to receiving promotional emails will remain current for two years or until you advise us otherwise in writing.
 
-
-*Any promotional emails we send will identify us as the sender and will include our contact details. Moreover, such emails will provide for an unsubscribe option. In addition, your consent to receiving promotional emails will remain current for two years or until you advise us otherwise in writing
-
-  2.  ** _Disclosure to Third Parties_**
-
-
+ **2.     Disclosure to Third Parties**
 
 Third Party Service Providers. We may disclose your Personal Information to third party service vendors and partners (including carriers and content providers) in connection with our provision of the Services. Such third party service vendors and partners may be located in countries other than your country of residence and provide such services as payment processing, data analysis, e-mail delivery, hosting, order fulfillment, infrastructure and network storage, customer service, technical support, auditing, content licensing and promotional services.
 
 Advertising of Third Party Products and Services. We may share (i) Aggregated Information; (ii) Anonymous Information; and (iii) certain technical information with third party advertisers for their direct marketing purposes, including, without limitation, to develop and deliver targeted advertising in the Service and on the websites of third parties.
 
-Affiliates. We may disclose Personal Information to our “Affiliates” (which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership located anywhere in the world) for the purpose of transferring and processing such Personal Information based on our instructions and such purposes as described in this Privacy Policy. Such Affiliates shall include, but not limited to, gumi Inc. (Japan), gumi America, Inc., gumi Canada, Inc., gumi Europe, S.A.S., gumi Germany, GmbH, gumi Sweden, A.B., gumi China, Inc., gumi Korea, Inc., gumi Taiwan, Inc., gumi West, Inc., Fenris, Inc., gumi ventures, Inc., Fuji&gumi Games, Inc.
+Affiliates. We may disclose Personal Information to our “Affiliates” (which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership located anywhere in the world) for the purpose of transferring and processing such Personal Information based on our instructions and such purposes as described in this Privacy Policy. Such Affiliates shall include, but not limited to, gumi America, Inc., gumi Canada, Inc., gumi Europe, S.A.S., gumi Germany, GmbH, gumi Sweden, A.B., gumi Asia, pte ltd., gumi China, Inc., gumi Korea, Inc., gumi Taiwan, Inc., Primus, Inc., gumi West, Inc., Fenris, Inc., gumi ventures, Inc., Fuji&gumi Games, Inc.
 
 Ownership Change. In the event Company combines with another company in the future through a corporate merger, sale, acquisition, liquidation or other similar process, your Personal Information may be transferred with the business or a part of it, or may be sold as an asset of the business, to the successor organization in such transaction. If material changes to the Company’s privacy practices will occur as a result of such transaction, you will be notified via prominent notice in our Service of any change in ownership or uses of your Personal Information, as well as choices you may have regarding your Personal Information.
 
 Termination of License Arrangements. Upon the expiration or a termination of any third party license arrangements involving one or more parts of the Service, your Personal Information may be transferred to the subject third party licensor in accordance with the terms of the applicable license agreement. In advance of such transfer to a third party licensor, the Company will notify you and other users in writing in the manner described in this Privacy Policy.
 
-  3.  ** _Safety, Security and Legally Required Disclosures_**
-
-
+ **3.     Safety, Security and Legally Required Disclosures**
 
 Your Personal Information, and communications you make within the Service, may be accessed and disclosed if we believe that our Service is being used in the commission of a crime, when we believe in good faith that there is an emergency that poses a threat to the safety of you or another person and when necessary either to protect our rights or property including to enforce our Terms of Service, or for us to render the service you have requested.
 
 We may also disclose Personal Information when required by law, regulation, court order, or in response to a subpoena or litigation discovery request, or in the good faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on us. In addition, we will make any legally required disclosures to government authorities and provide notice to you of any breach of security, confidentiality or unauthorized release of personal or private data in accordance with applicable laws, rules and regulations.
 
-###  **C.  Storage of Information and Security**
+ **C. Storage of Information and Security**
 
-We employ reasonable measures (both online and offline) to protect the security of information we collect from you. Such information is housed in secure databases, equipment and servers located in Singapore, Japan or other countries designated by the Company. The databases, equipment and servers we utilize may be owned by third party providers. To prevent unauthorized access, loss, or misuse, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to safeguard and secure the information we maintain. We use industry-standard technology, such as firewalls, in an effort to protect the confidentiality of your Personal Information. Moreover, in addition to password protection offered in connection with your Service account, we encrypt your transmission of sensitive information to us (e.g., account passwords and payment-related identifiable information) via SSL (secured socket layer) protocol in the interest of heightened privacy protection and information integrity.
+We employ reasonable measures (both online and offline) to protect the security of information we collect from you. Such information is housed in secure databases, equipment and servers located in Japan, the Republic of Singapore, the Republic of Korea and elsewhere. The databases, equipment and servers we utilize may be owned by third party providers. To prevent unauthorized access, loss, or misuse, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to safeguard and secure the information we maintain. We use industry-standard technology, such as firewalls, in an effort to protect the confidentiality of your Personal Information. Moreover, in addition to password protection offered in connection with your Service account, we encrypt your transmission of sensitive information to us (e.g., account passwords and payment-related identifiable information) via SSL (secured socket layer) protocol in the interest of heightened privacy protection and information integrity.
 
 Although we take reasonable precautions against possible security breaches of our Service, databases, equipment or servers, and records, we cannot guarantee that unauthorized access, hacking, data loss, or other security breaches and factors beyond our control will never take place and result in disclosure of your Personal Information. Accordingly, we disclaim any guarantees, warranties or representations relating to maintenance or nondisclosure of any Personal Information collected from you. We strongly urge you to take reasonable measures at all times (online and offline) to protect your Personal Information, including your password and other sensitive information.
 
@@ -134,91 +123,75 @@ In addition, while we strive to protect your Personal Information, you should kn
 
 We will investigate, attempt to resolve and take all reasonable steps necessary to ensure that your Personal Information and data is treated securely and in accordance with this Privacy Policy.
 
-Subject to your rights under Section D.3 (Review, Update, Correct or Delete Personal Information), we reserve the right to preserve your Personal Information for record and/or legal compliance purposes for a reasonable period of time.
+Subject to your rights under Section D.2 (Review, Update, Correct or Delete Personal Information), we reserve the right to preserve your Personal Information for record and/or legal compliance purposes for a reasonable period of time and will delete your Personal Information in accordance with our document retention policy and applicable laws.
 
 Additionally, we reserve the right to preserve and use Anonymous Information and Aggregated Information for statistical purposes without any restriction.
 
-###  **D. Additional Privacy Policy Terms**
+ **D. Additional Privacy Policy Terms**
 
-  1.  ** _Opt-Out Provision_**
+ **1.     Opt-Out Provision**
 
+You may opt out of having your Personal Information used for the following purposes at any time by emailing us at privacy@gu3.co.jp and include your user ID or registered email address so that we can confirm your identity. We will use our commercially reasonable efforts to comply with your request.
 
+(a)     Receiving Marketing Communications from the Company. You may opt out of receiving marketing communications from us relating to our Services, including, without limitation, announcements, newsletters and promotional materials or offers to participate in surveys, campaigns, contests or sweepstakes, by choosing not to opt in when we ask for your prior consent to receive commercial electronic messages, including text and email messages, and direct social media messages.
 
-You may opt out of having your Personal Information used for the following purposes at any time by emailing us at privacy@gumi.sg and include your user ID or registered email address so that we can confirm your identity. We will use our commercially reasonable efforts to comply with your request.
+(b)     Disclosing Personal Information to Affiliates. You may opt out of us disclosing your Personal Information to our Affiliates for marketing purposes by choosing not to opt in if we ask for your consent in advance or emailing us.
 
-(a)    Receiving Marketing Communications from the Company. You may opt out of receiving marketing communications from us relating to our Services, including, without limitation, announcements, newsletters and promotional materials or offers to participate in surveys, campaigns, contests or sweepstakes, by choosing not to opt in when we ask for your prior consent to receive commercial electronic messages, including text and email messages, and direct social media messages.
+(c)     Disclosing Personal Information to Third Party Service Providers. You may opt out of us disclosing your Personal Information to authorized third party service providers for marketing purposes by choosing not to opt in if we ask for your consent in advance or emailing us.
 
-(b)    Disclosing Personal Information to Affiliates. You may opt out of us disclosing your Personal Information to our Affiliates for marketing purposes by choosing not to opt in if we ask for your consent in advance or emailing us.
+ **2.     Access, Review, Update, Correct, or Delete Personal Information**
 
-(c)    Disclosing Personal Information to Third Party Service Providers. You may opt out of us disclosing your Personal Information to authorized third party service providers for marketing purposes by choosing not to opt in if we ask for your consent in advance or emailing us.
-
-If you withdraw your consent to any use or disclosure of your Personal Information, depending on the nature of your request, we may not be in a position to continue to provide our products or services to you or administer any contractual relationship in place. Such withdrawal may result in the termination of any agreement you may have with us. Our legal rights and remedies are expressly reserved in such event.
-
-  2.  ** _Access,  Review, Update, Correct, or Delete Personal Information_**
-
-
-
-Generally, you may access, review, update, correct or delete your Personal Information collected by or through our Service by logging into your account. You may also correct factual inaccuracies. Certain types of Personal Information that is necessary to check eligibility, such as birth date or age, cannot be deleted for active accounts, but may be modified with sufficient verification of the new information. Note that we reserve the right to terminate or delete any registration or promotional entry if we believe the Personal Information submitted was knowingly false or fraudulent. To delete your Personal Information, you may also contact us by email at privacy@gumi.sg. We will use commercially reasonable efforts to honor your request.
+Generally, you may access, review, update, correct or delete your Personal Information collected by or through our Service by logging into your account. You may also correct factual inaccuracies. Certain types of Personal Information that is necessary to check eligibility, such as birth date or age, cannot be deleted for active accounts, but may be modified with sufficient verification of the new information. Note that we reserve the right to terminate or delete any registration or promotional entry if we believe the Personal Information submitted was knowingly false or fraudulent. To delete your Personal Information, you may also contact us by email at privacy@gu3.co.jp. We will use commercially reasonable efforts to honor your request.
 
 To have access to your Personal Information, you must provide proof of identification such as full name, street address, city/state and zip/postal code, user ID, and/or information about your recent activity on our Service. We reserve the right to deny access to any user if we believe there is a question about your identity. In certain situations, we may be unable to provide you with access to all of the Personal Information that we hold about you. Exceptions may include information that is prohibitively costly to provide, information that contains references to other individuals, information that cannot be disclosed for legal, security or commercial proprietary reasons, and information that is subject to solicitor-client or litigation privilege. Moreover, we may still retain an archived copy of your Personal Information in our files as required by law or for legitimate business purposes, including, resolving disputes, enforcing the Terms of Service, and for other technical and legal requirements and constraints related to our Service.
 
-To manage the information we receive about you from an SNS or third party site where you access our Service, you will need to follow the instructions at that SNS or third party site for updating your information and changing your privacy settings.
+To manage the information we receive about you from an SNS where you access our Service, you will need to follow the instructions at that SNS for updating your information and changing your privacy settings.
 
-Pursuant to Section 1798.83 of the California Civil Code, customers, prospective customers, and visitors of our Service who are residents of the State of California have the right to request certain information regarding its disclosure of Personal Information to third parties for direct marketing purposes. Canadian federal and provincial laws provide a similar right of access. If you are a resident of California or Canada and wish to request such information, please email us at privacy@gumi.sg with “California/Canada Privacy Rights” in the subject line.
+Pursuant to Section 1798.83 of the California Civil Code, customers, prospective customers, and visitors of our Service who are residents of the State of California have the right to request certain information regarding its disclosure of Personal Information to third parties for direct marketing purposes. Canadian federal and provincial laws provide a similar right of access. If you are a resident of California or Canada and wish to request such information, please email us at privacy@gu3.co.jp with “California/Canada Privacy Rights” in the subject line.
 
-  3.  ** _Notification of Changes_**
+ **3.     Notification of Changes**
 
-
-
-We reserve the right to update and change the terms of this Privacy Policy at any time. Any changes to this Privacy Policy will become effective when the revised Privacy Policy is posted through the Services or otherwise made available to you. If we decide to update and materially change the terms of our Privacy Policy, we will post those changes in our Services and/or on the applicable Sites, and in the updated Privacy Policy. You should periodically check this Privacy Policy for updates.
+We reserve the right to update and change the terms of this Privacy Policy at any time. Any changes to this Privacy Policy will become effective when the revised Privacy Policy is posted through the Services or otherwise made available to you. If we decide to update and materially change the terms of our Privacy Policy, we will post those changes in our Services and/or on the applicable Sites, and in the updated Privacy Policy. You should periodically check this Privacy Policy for updates. We will also keep prior versions of this Privacy Policy in an archive for your review.
 
 By continuing to access or use the Services after we have posted an updated Privacy Policy or have provided you with notice of any material modifications to same, you are agreeing to be bound by the modified Privacy Policy. If the modified Privacy Policy is not acceptable to you, your only recourse is to cease using the Services.
 
-  4.  ** _Links to Third Party Websites, Services and Offers_**
+ **4.     Links to Third Party Websites, Services and Offers**
 
+Our Service may contain links to other websites, services and/or offers from third parties. We are not responsible for, nor will it be liable to you or any third party for, your interaction with such third parties or the information requests initiated by such third parties or the subsequent use, treatment or dissemination of the information (including any Personal Information) you voluntarily chose to provide to them. You should review the applicable privacy policies and information practices of such third parties carefully before providing Personal Information to them. Moreover, if you have any questions or concerns, you should contact the third party directly.
 
-
-Our Service may contain links to other websites, services and/or offers from third parties.  We are not responsible for, nor will it be liable to you or any third party for, your interaction with such third parties or the information requests initiated by such third parties or the subsequent use, treatment or dissemination of the information (including any Personal Information) you voluntarily chose to provide to them. You should review the applicable privacy policies and information practices of such third parties carefully before providing Personal Information to them.  Moreover, if you have any questions or concerns, you should contact the third party directly.
-
-  5.  ** _Protection of Children’s Privacy_**
-
-
+ **5.     Protection of Children’s Privacy**
 
 If you reside in the United States, the following applies: Company is committed to providing special protection for the privacy of children who may use our Service. The Service is not intended for nor directed to children under the age of 13 and we do not knowingly collect, use or retain Personal Information from such children. If we discover that we have inadvertently collected Personal Information from children under the age of 13, we will take all reasonable measures to delete any records of such Personal Information that come to our attention.
 
-If you reside in a country within the European Economic Area (“EEA”), the following applies: We do not knowingly collect Personal Information from children under 13. When our Services request age information, and users identify themselves as being under 13 or the equivalent minimum age in the relevant jurisdiction, the Applications may block such users from providing personal information. We strongly recommend that the parents and legal guardians of children using our Services actively monitor their children’s use of the same. If we find children under 13 or the equivalent minimum age in the relevant jurisdiction using our Services, we will ensure that consent is obtained from their parents or legal guardians for processing of the children’s Personal Information. The parents or legal guardians can review, edit, request the deletion, or prevent further collection or use of their children’s Personal Information or make inquiries regarding this Privacy Policy by sending an email to privacy@gumi.sg.
+If you reside in a country within the European Economic Area (“EEA”), the following applies: We do not knowingly collect Personal Information from children under 13. When our Services request age information, and users identify themselves as being under 13 or the equivalent minimum age in the relevant jurisdiction, the Applications may block such users from providing personal information. We strongly recommend that the parents and legal guardians of children using our Services actively monitor their children’s use of the same. If we find children under 13 or the equivalent minimum age in the relevant jurisdiction using our Services, we will ensure that consent is obtained from their parents or legal guardians for processing of the children’s Personal Information. The parents or legal guardians can review, edit, request the deletion, or prevent further collection or use of their children’s Personal Information or make inquiries regarding this Privacy Policy by sending an email to privacy@gu3.co.jp.
 
-  6.  ** _Special Note to Parents_**
+ **6.     Special Note to Parents**
 
+If you become aware that your child has provided us with Personal Information without your consent, please notify us so that we may delete such information from our records and discontinue any related features or services (see Opt-Out Provision above). We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet. We appreciate your cooperation in assisting us to provide a safe and enjoyable online experience for your children.
 
+ **7.     Users Outside Japan**
 
-If you become aware that your child has provided us with Personal Information without your consent, please notify us so that we may delete such information from our records and discontinue any related features or services (see Opt-Out Provision above).  We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet.  We appreciate your cooperation in assisting us to provide a safe and enjoyable online experience for your children.
+The Company is a Japanese company and Company’s business operations are primarily conducted in Japan. We operate our company and administer this Privacy Policy under applicable laws and regulations of Japan. If you use our Service from outside Japan, you are thereby consenting for your Personal Information to be transferred to, stored in and be processed in Japan by the Company and/or its Affiliates in the manner described in this Privacy Policy. Your consent to this Privacy Policy followed by your submission of your Personal Information represents your agreement to such transfer, storage and processing of your Personal Information. Furthermore, you acknowledge that the privacy laws of Japan may differ from the laws in the country where you are located and may not provide you the same rights or protections for your Personal Information as those laws.
 
-  7.  ** _Users Outside  Japan_**
+As described elsewhere in this Privacy Policy, when you submit Personal Information to us, the information is housed in secure databases, equipment and servers located in Japan. The databases, equipment and servers we utilize may be owned by third party providers.
 
-
-
-The Company is a Singapore company and Company’s business operations are primarily conducted in Singapore. We operate our company and administer this Privacy Policy under applicable laws and regulations of Singapore. As described elsewhere in this Privacy Policy, when you submit Personal Information to us, the information is housed in secure databases, equipment and servers located in Singapore, Japan or other countries designated by the Company. The databases, equipment and servers we utilize may be owned by third party providers.
-
-If you use our Service from outside Singapore, you are thereby consenting for your Personal Information to be transferred to, stored in and processed in Singapore or other countries designated by the Company and/or its Affiliates in the manner described in this Privacy Policy. Your consent to this Privacy Policy followed by your submission of your Personal Information represents your agreement to such transfer, storage and processing of your Personal Information. Furthermore, you acknowledge that the privacy laws of Singapore may differ from the laws in the country where you are located and may not provide you the same rights or protections for your Personal Information as those laws.
-
-Users in certain jurisdictions may have a right to access his/her Personal Information held by the Company, its Affiliates or authorized third party service providers. Your right of access to such Personal Information can be exercised in accordance with applicable laws, rules and regulations. Please submit any requests for such access by email at privacy@gumi.sg.
+Users in certain jurisdictions may have a right to access his/her Personal Information held by the Company, its Affiliates or authorized third party service providers. Your right of access to such Personal Information can be exercised in accordance with applicable laws, rules and regulations. Please submit any requests for such access by email at privacy@gu3.co.jp.
 
 If you reside in a country within the EEA, the following applies: The Personal Information that we collect from you may be transferred to and stored at a country outside EEA. The Personal Information collected may also be processed by our employees or contractors outside the EEA for payment processing, data analysis, e-mail delivery, hosting, order fulfillment, infrastructure and network storage, customer service, technical support, auditing, content licensing and promotional services. By submitting your Personal Information, you are deemed to have agreed the transfer of your Personal Information to the outside of the EEA for such purposes. We will take all steps reasonably necessary to ensure that your Personal Information is treated securely in accordance with this Privacy Policy.
 
-  8.  ** _Do Not Track_. **We do not respond to DNT (Do Not Track) signals.
+ **8.     Language**
 
+The controlling language of this Privacy Policy is English. If you have received a translation into any other language, it has been provided for your convenience only. The English version of this Privacy Policy shall govern to the extent of any inconsistency between the English version and any translated version.
 
-  9.  ** _Contact Us_**
+ **9.     Do Not Track.** We do not respond to DNT (Do Not Track) signals.
 
+ **10.     Contact Us**
 
+If you have any questions, inquiries, requests, complaints, or comments regarding this Privacy Policy, or have other questions or suggestions about our information practices, please contact us by email at privacy@gu3.co.jp. If you reside in the Republic of Korea, please contact the department in charge of privacy matters at the following address, telephone number and/or email address.
 
-If you have any questions, inquiries, requests, complaints, or comments regarding this Privacy Policy, or have other questions or suggestions about our information practices, please contact us our Data Protection Officer at:
+Publishing Department  
+11F, Sung Han Building, 37-7, Jamwon-dong, Seocho-gu, Seoul, Korea 137-905  
++82-70-4610-4516  
+pub@gumiprimus.com
 
-1 Fusionopolis Way  
-#07-10, Connexis North Tower  
-Singapore 138632  
-T: +65 6535 0733 (main line)  
-E: privacy@gumi.sg 
-
-© gumi Inc.  All rights reserved.
+Copyright © 2015 gumi Inc. All rights reserved.
