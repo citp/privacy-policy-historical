@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prowrestling.net privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123201839id_/http%3A//prowrestling.net/site/our-privacy-policy-at-prowrestling-net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestling.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022915id_/http%3A//prowrestling.net/site/our-privacy-policy-at-prowrestling-net) for the most accurate reproduction.*
 
-# Our Privacy Policy at ProWrestling.net – Pro Wrestling Dot Net
+# Our Privacy Policy at ProWrestling.net - Pro Wrestling Dot Net
 
 **Last updated: May 1, 2016**
 
