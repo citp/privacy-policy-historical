@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ora.tv privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115061800id_/http%3A//www.ora.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ora.tv privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055551id_/http%3A//www.ora.tv/privacy) for the most accurate reproduction.*
 
 # Ora.tv: Privacy Policy
 
@@ -83,9 +83,9 @@ We welcome your comments or questions about this privacy policy. You may also co
 
 Ora Media, LLC
 
-134 Charles Street
+40 FULTON ST., 11th FLOOR
 
-New York, New York 10014
+New York, NY 10038
 
 [contact@ora.tv](mailto:contact@ora.tv)
 
