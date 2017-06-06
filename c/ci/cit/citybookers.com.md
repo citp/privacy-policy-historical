@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citybookers.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116184940id_/http%3A//www.citybookers.com/en/Shared/CmsPage%3Fpagename%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybookers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042334id_/http%3A//www.citybookers.com/en/Shared/CmsPage%3Fpagename%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
