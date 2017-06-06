@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirtlocal.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214004641id_/http%3A//www.flirtlocal.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtlocal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125251id_/http%3A//www.flirtlocal.com/site/privacy) for the most accurate reproduction.*
 
 # Flirtlocal - Find people, socialize, hookup and chat.
 
@@ -91,16 +91,3 @@ You have the following choices to modify or delete your profile information from
 #### 11\. Opt-out provisions
 
 You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of HK International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in. 
-
-  
-
-
-#### Our address:
-
-HK International Limited  
-PO Box 440  
-Envoy House, La Vrangue  
-GY1 3ZN  
-St Peter Port  
-Guernsey  
-+1 661-705-7087 
