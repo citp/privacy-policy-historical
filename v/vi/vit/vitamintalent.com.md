@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026122910id_/http%3A//vitamintalent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222434id_/https%3A//vitamintalent.com/privacy-policy) for the most accurate reproduction.*
 
-# Creative Staffing Agency | privacy-policy
+# Creative Staffing Agency | Privacy Policy
 
 **Participation in Privacy shield**. Aquent is committed to safeguarding the privacy of its employees, applicants, clients, and user of its website.  Aquent complies with Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries.  Aquent has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse Enforcement and Liability.  If there is a conflict between this policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.    This Policy outlines our general policy and practices for implementing the Principles. To learn more about Privacy Shield and to view Aquent’s certification please visit <https://www.privacyshield.gov/list>.
 
