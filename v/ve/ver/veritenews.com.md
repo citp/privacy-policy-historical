@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veritenews.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205212409id_/http%3A//veritenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veritenews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134840id_/http%3A//www.veritenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Verite News
 
@@ -27,7 +27,7 @@ Information you provide helps us respond to your customer service requests and s
 We may use feedback you provide, to improve our products and services.  
 – To send periodic emails  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information. If at any time, the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.  
- **How we protect your information?**
+**How we protect your information?**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
