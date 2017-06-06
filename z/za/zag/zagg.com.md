@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zagg.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222081248id_/http%3A//www.zagg.com/us/en_us/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zagg.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171707id_/https%3A//www.zagg.com/us/en_us/company/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy US
 
 The ZAGG family (ZAGG Inc, iFrogz Inc., ZAGG Retail, Inc., ZAGG Intellectual Property Holding Co., Inc.) (hereinafter "ZAGG" or "We") is committed to the protection and proper use of our customers' personal information. Accordingly, we have developed this Policy to set forth the information we collect and how we collect, use, disclose and store your information.
 
