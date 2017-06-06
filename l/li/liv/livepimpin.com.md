@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livepimpin.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213044545id_/http%3A//www.livepimpin.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livepimpin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160223id_/http%3A//livepimpin.com/pp) for the most accurate reproduction.*
 
 # Livepimpin Privacy Policy, cam to cam live sex chat network at only 0.99c per minute
 
