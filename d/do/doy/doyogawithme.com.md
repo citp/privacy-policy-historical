@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyogawithme.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228000840id_/https%3A//www.doyogawithme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyogawithme.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184002id_/https%3A//www.doyogawithme.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DoYogaWithMe.com
 
@@ -102,4 +102,4 @@ www.DoYogaWithMe.com is a participant in the Amazon Services LLC Associates Prog
 
 Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent via e-mail to[ legal@doyogawithme.com](mailto:legal@doyogawithme.com).
 
-Questions or comments regarding this website shoudl be sent via e-mail to [help@doyogawithme.com](mailto:help@doyogawithme.com)
+Questions or comments regarding this website should be sent via e-mail to [support@doyogawithme.com](mailto:support@doyogawithme.com)
