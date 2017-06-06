@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the superoffers.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013180100id_/http%3A//www.superoffers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superoffers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163617id_/http%3A//www.superoffers.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - superoffers.com
+# Privacy Policy - SuperOffers.com
 
 IMPORTANT: BY USING THE SERVICES (AS DEFINED BELOW) YOU GIVE YOUR CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND THAT ALL PERSONALLY IDENTIFIABLE INFORMATION (" **PII** ") THAT YOU SUBMIT OR THAT IS COLLECTED THROUGH THE SERVICES MAY BE PROCESSED BY THE COMPANY IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.  
 IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, PLEASE DO NOT USE THE SERVICES.
 
-At Commerce Systems LLC. (the " **Company** " or " **we** "), we recognize that privacy is important. This policy applies to all of the software, services, information, tools, features and functionality offered by the Company and/or its subsidiaries and/or affiliated companies on our website at www.SuperOffers.com (collectively, the " **Services** ") and covers how PII that the Company collects and receives, including in respect of any use of the Services, is treated. If you have any questions about this policy, please feel free to contact us at: [contact@superoffers.com](mailto:contact@superoffers.com)
+At Bidwise, Inc., we recognize that privacy is important. This policy applies to all of the software, services, information, tools, features and functionality offered by the Company and/or its subsidiaries and/or affiliated companies on our website at www.superoffers.com (collectively, the " **Services** ") and covers how PII that the Company collects and receives, including in respect of any use of the Services, is treated. If you have any questions about this policy, please feel free to contact us at: [contact@superoffers.com](mailto:contact@superoffers.com)
 
 #### Information We Collect and How We Use It
 
@@ -14,6 +14,8 @@ Unless stated otherwise, the Company will not share, sell, auction off or give a
 Personal information. We currently do not intentionally collect PII from users, unless you provide it to us. We process your PII only for specific and limited purposes, including the provision of the Services, market research and internally to help us improve our Services and to help resolve any problems. We ask only for PII that is adequate, relevant and not excessive for those purposes.
 
 ##### Third Parties. 
+
+We are compensated for displaying sponsored search listings that provide a link to third party sites. Some of these search listings are provided by Bing.
 
 We sometimes supplement your PII with information that is received from third parties. For example to investigate fraud or for cyber security purposes.
 
@@ -51,7 +53,7 @@ The Company uses all of the PII that we collect to understand the usage trends a
 
 ##### Choices for personal information
 
-We will not collect or use PII for purposes other than those described in this policy and/or in any other legal instrument in effect between us. If we intend to use your PII for any purposes other than those described in this policy and/or in the SuperOffers.com Terms of Use, then we will ask for your consent prior to such use. You can decline to submit PII, in which case the Company may not be able to provide you with Services.
+We will not collect or use PII for purposes other than those described in this policy and/or in any other legal instrument in effect between us. If we intend to use your PII for any purposes other than those described in this policy and/or in the superoffers.com Terms of Use, then we will ask for your consent prior to such use. You can decline to submit PII, in which case the Company may not be able to provide you with Services.
 
 #### Information sharing
 
