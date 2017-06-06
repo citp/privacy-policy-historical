@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vouchercodes.in privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315201902id_/http%3A//www.vouchercodes.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131926id_/http%3A//www.vouchercodes.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer - www.vouchercodes.in
 
-**Disclaimer:**  Below are the terms and conditions that apply to all our users on this website [www.vouchercode.in](http://www.vouchercode.in/). You have to be about 18 years of age or above to create a user account on this website or to get pleasure from our discount coupons or gift vouchers. By clicking on any of the links that are available on this website, you have agreed to all our terms and conditions.
+**Disclaimer:**  Below are the terms and conditions that apply to all our users on this website www.vouchercodes.in. You have to be about 18 years of age or above to create a user account on this website or to get pleasure from our discount coupons or gift vouchers. By clicking on any of the links that are available on this website, you have agreed to all our terms and conditions.
 
 **Your Personal Data/Information:-**
 
@@ -28,16 +28,10 @@ If any user wants to update or remove his/her personal data, then it’s your re
 
 **Customer’s Right-**
 
-Our company makes every effort to make you feel relaxed and calm while using our website and attain a wide range of practices, procedures and systems with the relevant data protection legislation.  We are a registered company, as a data controller for the purposes of the Act with registration number U72200DL2014PTC267216. Our main concern is to use your personal data in accordance with the legal requirements, principles and best practice recommendations that the Act allows us to grant you various rights in concern with the processing of your personal data. For further information about your rights under this Act, the rules that we stick here is to collecting and storing your personal information, and how you can check your data records. As you have a right to receive a copy of the information that we hold about your personal information, by sending a simple request form in writing, to us at [www.vouchercodes.in](http://www.vouchercodes.in/) c/o Voucher Codes India Pvt. Ltd, 306, 3rd Floor, Welldone Tech Park, Sohna Road, Sector-48, 122018 (Gurgaon)
+Our company makes every effort to make you feel relaxed and calm while using our website and attain a wide range of practices, procedures and systems with the relevant data protection legislation.  We are a registered company, as a data controller for the purposes of the Act with registration number U72200DL2014PTC267216. Our main concern is to use your personal data in accordance with the legal requirements, principles and best practice recommendations that the Act allows us to grant you various rights in concern with the processing of your personal data. For further information about your rights under this Act, the rules that we stick here is to collecting and storing your personal information, and how you can check your data records. As you have a right to receive a copy of the information that we hold about your personal information, by sending a simple request form in writing, to us at [www.vouchercodes.in](http://www.vouchercodes.in/) c/o Voucher Codes India Pvt. Ltd, 927-931, 9th Floor, JMD Megapolis, Sohna Road, Sector-48Pin: 122018 Gurgaon, Haryana, India.
 
 **How To Reach Us-**
 
-If you have any kind of question regarding our services and website, then you can easily contact us at 0124- 4125533 or you can also send an e-mail at [info@vouchercodes.in](mailto:info@vouchercodes.in) mentioning all your issues or queries that you have while using our website. Alternatively, you can also write us at Voucher Codes India Pvt. Ltd, 306, 3rd Floor, Welldone Tech Park, Sohna Road, Sector-48, 122018 (Gurgaon)
+If you have any kind of question regarding our services and website, then you can easily contact us at +91-124-4576880 or you can also send an e-mail at [info@vouchercodes.in](mailto:info@vouchercodes.in) mentioning all your issues or queries that you have while using our website. Alternatively, you can also write us at Voucher Codes India Pvt. Ltd, 927-931, 9th Floor, JMD Megapolis, Sohna Road, Sector-48Pin: 122018 Gurgaon, Haryana, India.
 
 **Cookies and Data** : We do not force any customer to register or subscribe with our website. All customers subscribed from this website will get promotional e mailers to keep them updated with latest offers. We do not sell any customer data in any case to anyone. While clicking on any link a cookie is stores in customers browser who is on auto removes between 15 to 90 days period. You can remove cookies anytime by using browser removal process.
-
-## Popular Stores
-
-### Never Miss!
-
-The best voucher codes again!
