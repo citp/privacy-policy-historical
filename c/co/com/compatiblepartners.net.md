@@ -1,28 +1,8 @@
-> *The following text is extracted and transformed from the compatiblepartners.net privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102092003id_/http%3A//www.compatiblepartners.net/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compatiblepartners.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205233id_/http%3A//www.compatiblepartners.net/privacy/statement) for the most accurate reproduction.*
 
 # Compatible Partners - Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/eharmony-com/validation?rid=0621fe1a-d05e-436e-bbaa-34d4bca785fb "TRUSTe online privacy certification")
-
-eHarmony has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that may be collected through this Web site, www.compatiblepartners.net. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@eHarmony.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
-
-By displaying the TRUSTe trustmark, this website has agreed to notify you of:
-
-1\. Any personally identifiable information of yours or third party personal identification is collected from you through the eHarmony, Inc. ("eHarmony") website
-
-2\. The organization collecting the information;
-
-3\. How the information is used;
-
-4\. With whom the information may be shared;
-
-5\. What choices are available to you regarding collection, use and distribution of the information;
-
-6\. The kinds of security procedures that are in place to protect the loss, misuse or alteration of information under eHarmony's control; and
-
-7\. How you can correct any inaccuracies in the information.
-
-If you have questions or concerns regarding this statement, you should first contact the website by writing to eHarmony, Inc., P.O. Box 241810, Los Angeles, CA 90024 USA, or by sending an email to [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe by clicking [here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 This privacy statement discloses the privacy practices of eHarmony, Inc. and all websites owned or operated by eHarmony, Inc. and its subsidiaries and corporate affiliates.
 
@@ -115,6 +95,10 @@ Compatible Partners
 P.O. Box 241810, Los Angeles, CA 90024 USA  
 Tel: [(800) 673-3548](tel:1-800-673-3548)
 
+## **Dispute Resolution**
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+
 ## **Acceptance of Privacy Statement**
 
 Your use of our website(s), including any dispute concerning privacy, is subject to this privacy statement and the applicable Terms and Conditions of Service. **BY USING OUR WEBSITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY STATEMENT AND THE APPLICABLE TERMS AND CONDITIONS OF SERVICE.**
@@ -125,4 +109,4 @@ Your continued use of any portion of our website following posting of the update
 
 **Effective Date**
 
-This privacy statement was last revised on May 12, 2016.
+This privacy statement was last revised on December 7, 2016.
