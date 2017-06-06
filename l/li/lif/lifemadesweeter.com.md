@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lifemadesweeter.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204152623id_/http%3A//lifemadesweeter.com/policies-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifemadesweeter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125715id_/http%3A//lifemadesweeter.com/policies-terms) for the most accurate reproduction.*
 
 # Privacy and Disclosure Policy - Life Made Sweeter
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Flifemadesweeter.com%2Fpolicies-terms%2F&media=http%3A%2F%2Flifemadesweeter.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fbadge-large.jpg&description=Privacy%20%20and%20Disclosure%20Policy)
+### Amazon Affiliate Disclosure
+
+Life Made Sweeter is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. When you click on that link and purchase the item, we may receive compensation.
 
 ## Privacy Policy
 
@@ -97,10 +99,4 @@ To get your own policy, go to http://www.disclosurepolicy.org
 
 **The contents of this statement may be altered at any time, at the blog owner’s discretion.**
 
-[](http://cf.lifemadesweeter.com/wp-content/uploads/2014/01/badge-large.jpg)
-
-Amazon Associates disclosure:  I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://www.amazon.com/).
-
-This blog does have affiliate links.  When you click on that link and purchase the item, we may receive compensation.
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Flifemadesweeter.com%2Fpolicies-terms%2F&media=http%3A%2F%2Flifemadesweeter.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fbadge-large.jpg&description=Privacy%20%20and%20Disclosure%20Policy)
+[](http://lifemadesweeter.com/wp-content/uploads/2014/01/badge-large.jpg)
