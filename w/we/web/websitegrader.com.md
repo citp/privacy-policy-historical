@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitegrader.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233209id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegrader.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040957id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,8 +10,6 @@ We periodically update this Privacy Policy. If you subscribe to the Subscription
 
 #### **EU – U.S. Privacy Shield**
 
-HubSpot submitted its self-certification to the US Department of Commerce on September 30, 2016. Once we've been added to the list available on their website, we'll update our [Data Privacy Resources](https://legal.hubspot.com/data-privacy) page with a link.
-
 HubSpot participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. The following affiliated entities adhere to the Privacy Shield principles: HubSpot Ireland Limited, HubSpot Australia Pty Ltd, HubSpot Asia Pte. Ltd., and HubSpot Japan KK. HubSpot is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
 HubSpot is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. HubSpot complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
@@ -19,6 +17,8 @@ HubSpot is responsible for the processing of personal data it receives under the
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, HubSpot is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, HubSpot may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 You may direct any inquiries or complaints related to our Privacy Shield compliance to privacy@hubspot.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 #### **U.S. – Swiss Safe Harbor**
 
