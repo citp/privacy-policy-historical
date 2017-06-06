@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimedical.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130075505id_/http%3A//www.idexx.com/view/xhtml/en_us/corporate/common/privacy-policy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimedical.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231445id_/http%3A//www.idexx.com/view/xhtml/en_us/corporate/common/privacy-policy.jsf) for the most accurate reproduction.*
 
 # Privacy Policy Statement, United States - IDEXX Laboratories
 
