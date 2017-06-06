@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the sc2casts.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120110550id_/http%3A//sc2casts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sc2casts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052701id_/http%3A//sc2casts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SC2Casts.com
-
-Live 
-
-Starcraft
-
-2 Streams checked every 5 minutes
-
-Online: [**ByuN**](https://web.archive.org/stream/ByuN "1797 viewers"), [**WinterStarcraft**](https://web.archive.org/stream/WinterStarcraft "1354 viewers"), [**CatZ**](https://web.archive.org/stream/CatZ "60 viewers")  
-Offline: [**TLO**](https://web.archive.org/stream/TLO "Last online: 4 days ago"), [**iNcontroL**](https://web.archive.org/stream/iNcontroL "Last online: 5 days ago"), [**Tyler**](https://web.archive.org/stream/Tyler "Last online: 10 days ago"), [**Destiny**](https://web.archive.org/stream/Destiny "Last online: 2 days ago"), [**Minigun**](https://web.archive.org/stream/Minigun "Last online: 1 day ago"), [**Dimaga**](https://web.archive.org/stream/Dimaga "Last online: 23 hours ago"), [**DeMuslim**](https://web.archive.org/stream/DeMuslim "Last online: 4 days ago"), [**Naniwa**](https://web.archive.org/stream/Naniwa "Last online: 14 days ago"), [**Polt**](https://web.archive.org/stream/Polt "Last online: 1 month and 29 days ago"), [**Dragon**](https://web.archive.org/stream/Dragon "Last online: 4 hours ago"), [**ViBE**](https://web.archive.org/stream/ViBE "Last online: 5 hours ago"), [**TOP**](https://web.archive.org/stream/TOP "Last online: 1 hour ago"), [**KawaiiRice**](https://web.archive.org/stream/KawaiiRice "Last online: 16 days ago"), [**Crank**](https://web.archive.org/stream/Crank "Last online: 3 days ago"), [**Suppy**](https://web.archive.org/stream/Suppy "Last online: 2 days ago"), [**MaNa**](https://web.archive.org/stream/MaNa "Last online: 11 days ago"), [**RotterdaM**](https://web.archive.org/stream/RotterdaM "Last online: 3 days ago"), [**Stardust**](https://web.archive.org/stream/Stardust "Last online: 25 days ago"), [**avilo**](https://web.archive.org/stream/avilo "Last online: 4 hours ago"), [**State**](https://web.archive.org/stream/State "Last online: 10 days ago"), [**Beastyqt**](https://web.archive.org/stream/Beastyqt "Last online: 5 days ago"), [**StarLeague**](https://web.archive.org/stream/StarLeague "Last online: 1 month and 26 days ago"), [**HeroMarine**](https://web.archive.org/stream/HeroMarine "Last online: 3 days ago"), [**TRUE**](https://web.archive.org/stream/TRUE "Last online: 1 day ago")
-
-[](https://web.archive.org/premium "Check Out SC2Casts Premium")
 
 This Privacy Policy governs the manner in which SC2Casts collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://sc2casts.com](http://sc2casts.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by SC2Casts.
 
