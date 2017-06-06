@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the allen-heath.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905094252id_/http%3A//www.allen-heath.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allen-heath.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111123id_/http%3A//www.allen-heath.com/company/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Allen & Heath
 
 ###  1 Introduction
 
-1.1 This website (“Website”) belongs to Allen & Heath Limited. Allen & Heath Limited is the data controller within the meaning of the UK Data Protection Act. Allen & Heath recognizes privacy and security as being a concern for individuals accessing the internet. Even when you’re just browsing our Website, we want to make you comfortable with our privacy practices and the security measures we take to protect your personal information. Personal information is data that can be used to uniquely identify or contact an individual.
+1.1 This website ("Website") belongs to Allen & Heath Limited. Allen & Heath Limited is the data controller within the meaning of the UK Data Protection Act. Allen & Heath recognizes privacy and security as being a concern for individuals accessing the internet. Even when you're just browsing our Website, we want to make you comfortable with our privacy practices and the security measures we take to protect your personal information. Personal information is data that can be used to uniquely identify or contact an individual.
 
-1.2 With this privacy statement (“Statement”) we inform you on Allen & Heath’s privacy practices and security measures concerning your personal information collected during your use of this Website, including the service to download software for your Allen & Heath device (the “Service”).
+1.2 With this privacy statement ("Statement") we inform you on Allen & Heath's privacy practices and security measures concerning your personal information collected during your use of this Website, including the service to download software for your Allen & Heath device (the "Service").
 
 1.3 If we decide to change our Statement, such changes will be posted here on this Website, so please check back periodically to ensure you have the most current Statement.
 
@@ -24,9 +24,9 @@
 
 ### 4 How is your information used?
 
-4.1 Allen & Heath’s primary goal in collecting personal information is to enable you to use the Service, and to enable us to contact you to confirm the receipt of your download order or if a problem arises. If you have permitted us to do so, we will also use your e-mail address to send you information on our products and services (“Mailing”).
+4.1 Allen & Heath's primary goal in collecting personal information is to enable you to use the Service, and to enable us to contact you to confirm the receipt of your download order or if a problem arises. If you have permitted us to do so, we will also use your e-mail address to send you information on our products and services ("Mailing").
 
-4.2 Allen & Heath may undertake research on our users’ demographics, interests, etc. from our server log files. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis so as to prevent identification of personal information relating to an individual.
+4.2 Allen & Heath may undertake research on our users' demographics, interests, etc. from our server log files. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis so as to prevent identification of personal information relating to an individual.
 
 ### 5 Security measures
 
@@ -56,3 +56,5 @@ Tel. +44 (0)1326 372070
 E-mail address: marketing@allen-heath.com
 
 VAT number: 876333694
+
+We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies.Accept [Find out more](https://web.archive.org/company/privacy-statement/)
