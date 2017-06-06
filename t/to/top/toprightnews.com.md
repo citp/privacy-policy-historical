@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toprightnews.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119075621id_/http%3A//toprightnews.com/%3Fpage_id%3D8570) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toprightnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183916id_/http%3A//toprightnews.com/%3Fpage_id%3D8570) for the most accurate reproduction.*
 
 # Privacy Policy | Top Right News
 
