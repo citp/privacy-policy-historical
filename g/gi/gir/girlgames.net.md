@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlgames.net privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225031917id_/http%3A//www.girlgames.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgames.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060109id_/http%3A//www.girlgames.net/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Girl Games Net
 
