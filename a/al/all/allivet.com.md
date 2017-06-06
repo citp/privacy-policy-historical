@@ -1,13 +1,27 @@
-> *The following text is extracted and transformed from the allivet.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022030909id_/http%3A//www.allivet.com/t-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allivet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213839id_/http%3A//www.allivet.com/t-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
+* * *
+
+## Coupons, Discounts, Promotions & Offers: 
+
 Coupons, discounts, promotions and offers are provided by Allivet.com from time to time. These offers are only valid for the duration indicated and cannot be applied to previous purchases, eGift Cards, AutoShip items or be combined with any other offers.
+
+* * *
+
+## Allivet data Transfer: Safe, Secure and Encrypted
 
 #### Shop with confidence.   
 Your personal data is 100% safe and secure 
 
 With our highest level of security and encryption, your personal data, order data and credit card information are both safe and secure during transmission (through secure socket layer SSL encryption) as well as storage (through a private non-shared server).
+
+* * *
+
+## Allivet Privacy Policy 
+
+### Privacy Policy 
 
 ##### What information do we collect?
 
@@ -26,7 +40,7 @@ We may use the information we collect from you when you register, purchase produ
   * To allow us to better service you in responding to your customer service requests. 
   * To quickly process your transactions. 
   * To administer a contest, promotion, survey or other site feature. 
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+  * Allivet may send you promotional marketing emails about products or offers that we believe could be of interest to you.
 
 
 
@@ -52,11 +66,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-##### How can you opt-out, remove or modify information you have provided to us?
+##### How can you remove or modify information you have provided us?
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.  
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
 ##### Third party links
 
@@ -65,7 +78,7 @@ In an attempt to provide you with increased value, we may include third party li
 
 ##### Changes to our policy
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on December 4, 2014.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was modified on Jun 1, 2017.
 
 ##### Questions and feedback
 
@@ -79,7 +92,7 @@ This online privacy policy applies only to information collected through our web
 
 ##### Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20161022030909id_/http%3A//www.allivet.com/t-terms-and-conditions.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.  
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20170606213839id_/http%3A//www.allivet.com/t-terms-and-conditions.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.  
 
 
 ##### Your consent
