@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashfashions.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126152649id_/http%3A//www.splashfashions.com/ae/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashfashions.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050308id_/http%3A//www.splashfashions.com/ae/en/privacypolicy) for the most accurate reproduction.*
 
 # Online Shopping at Splash
 
@@ -73,10 +73,16 @@ Or via email
 
 __Email entered is registered already
 
+__Your recaptcha challenge answer is invalid. Please check and try again.
+
 Or via email
 
 Go ahead and use your LandmarkShops account if you have one.
 
 __Your Username or Password is incorrect
+
+__Your recaptcha challenge answer is invalid. Please check and try again.
+
+__Your recaptcha challenge answer is invalid. Please check and try again.
 
 We're sorry, we've run into a technical issue. Please try again later.
