@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the julep.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122135010id_/http%3A//www.julep.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the julep.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150524id_/http%3A//www.julep.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Julep
 
@@ -23,7 +23,7 @@ When you buy something on Julep.com, you have to supply a billing address, phone
 
 ## Children Under 13
 
-We comply with the Children's Online Privacy Protection Act of 1998. If you are under the age of 13, you can look at our Sites, but you cannot make a purchase. You also cannot become a registered user, or use any service on our Sites that asks for personal information. Our Sites are not designed for children. We do not wish to collect personal information from children under 13. This policy is designed to protect children. Federal law requires us to take special steps to safeguard children's privacy. For more information about this federal law and about children's privacy, click here. If you register with us and we discover that you are under 13, we will delete your registration. We will send you a message if we do this. If you are under 13 and want to make a purchase, please ask a parent  or legal guardian to place the order for you.
+We comply with the Children's Online Privacy Protection Act of 1998. If you are under the age of 13, you can look at our Sites, but you cannot make a purchase. You also cannot become a registered user, or use any service on our Sites that asks for personal information. Our Sites are not designed for children. We do not wish to collect personal information from children under 13. This policy is designed to protect children. Federal law requires us to take special steps to safeguard children's privacy. For more information about this federal law and about children's privacy, [click here](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy). If you register with us and we discover that you are under 13, we will delete your registration. We will send you a message if we do this. If you are under 13 and want to make a purchase, please ask a parent  or legal guardian to place the order for you.
 
 ## Social Commerce and Other Third Parties
 
