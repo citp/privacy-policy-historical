@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sex3.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120091230id_/http%3A//sex3.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sex3.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161753id_/http%3A//sex3.com/policy.php) for the most accurate reproduction.*
 
 # SEX3.COM PRIVACY POLICY
 
 ###  PRIVACY POLICY 
 
 for [sex3.com](http://sex3.com/)  
-Effective Date: January 19, 2016  
+Effective Date: June 5, 2017  
 Last Modified: 16 April, 2013 
 
   * I. **General**
