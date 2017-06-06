@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the insomniagamingfestival.com privacy policy that was archived on 2016-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161102232934id_/https%3A//insomniagamingfestival.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insomniagamingfestival.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606165133id_/https%3A//insomniagamingfestival.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -18,7 +18,13 @@
     <link rel="stylesheet" href="/assets/javascript/libraries/swiper/css/swiper.min.css">
 
     <!-- Core CSS -->
-    <link href="/assets/scss/compiled/bundle.min.css" rel="stylesheet">
+    <!-- Theme -->
+
+    <link href="/assets/scss/compiled/theme-yellow-orange.css" rel="stylesheet">
+
+    <!-- Custom styles defined from back office-->
+    <link href="/css/custom-styles.css" rel="stylesheet">
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -27,15 +33,15 @@
     <![endif]-->
     <!-- Page data -->
 
-    <link rel="canonical" href="https://insomniagamingfestival.com/privacy">
+    <link rel="canonical" href="http://insomniagamingfestival.com/privacy">
 
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Privacy">
     <meta property="og:description" content="">
-    <meta property="og:url" content="https://insomniagamingfestival.com/privacy">
+    <meta property="og:url" content="http://insomniagamingfestival.com/privacy">
     <meta property="og:site_name" content="Multiplay Insomnia Gaming Festival">
-    <meta property="og:image" content="https://insomniagamingfestival.com/assets/images/opengraph-default-image.jpg">
+    <meta property="og:image" content="http://insomniagamingfestival.com/assets/images/opengraph-default-image.jpg">
 
     <meta property="article:publisher" content="https://www.facebook.com/insomniagamesfestival/">
 
@@ -43,11 +49,21 @@
     <meta name="twitter:description" content="">
     <meta name="twitter:title" content="Privacy">
     <meta name="twitter:site" content="@MultiplayEvents">
-    <meta name="twitter:image" content="https://insomniagamingfestival.com/assets/images/opengraph-default-image.jpg">
+    <meta name="twitter:image" content="http://insomniagamingfestival.com/assets/images/opengraph-default-image.jpg">
     <meta name="twitter:creator" content="@MultiplayEvents">
 
+    <!-- Google Tag Manager -->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MRCGK32"></script><script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MRCGK32');</script>
+    <!-- End Google Tag Manager -->
+
+
     <!-- Facebook Pixel Code -->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+    <script>
     !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
     n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
     n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -62,11 +78,14 @@
     </noscript>
     <!-- End Facebook Pixel Code -->
 
-
 </head>
 
 <body>
-
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MRCGK32" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -89,163 +108,27 @@
 
         var app = new App();
 
+        currentEventURL = '/insomnia/';
+
         // Data dumps from CMS
 
 
-        app.categories = [
-  {
-    "id": 1189,
-    "url": "/system/categories/main-stage/",
-    "name": "Main Stage",
-    "sortOrder": 78,
-    "description": "Let the games begin. Quite literally, as the Insomnia Stage is where all the key action takes place over the weekend. Alongside a host of interactive events we’ve got special guest Q&A panels and live gameplay demos planned. Just grab a seat and enjoy the show.",
-    "codeID": "main-stage",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1190,
-    "url": "/system/categories/expo-stage/",
-    "name": "Expo Stage",
-    "sortOrder": 79,
-    "description": "The Insomnia Stage is the centre of the show. Featuring interactive content throughout all three live days, you can see Special Guests, catch live gameplay demos, and generally sit down and enjoy the show. Our Expo Hall featuring Q&A’s, Panels talks from some of our Special Guests. Come to our Esports Stage and come and join in our community events or watch our tournaments throughout the weekend.",
-    "codeID": "expo-stage",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1191,
-    "url": "/system/categories/special-guests/",
-    "name": "Special Guests",
-    "sortOrder": 80,
-    "description": "It just wouldn’t be Insomnia without our friends from Twitch and YouTube coming along and causing carnage. When not appearing on the Insomnia Stage, you’ll find them randomly causing mischief around the venue.",
-    "codeID": "special-guests",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1188,
-    "url": "/system/categories/tournaments/",
-    "name": "Tournaments",
-    "sortOrder": 81,
-    "description": "What’s Insomnia without a little friendly competition? This year’s tournaments include Battlefield 1, Rocket League, Hearthstone and some old school Modern Warfare. Will it be a flawless victory or total pwnage – only time will tell.",
-    "codeID": "tournaments",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1193,
-    "url": "/system/categories/retail-expo-zone/",
-    "name": "Retail / Expo Zone",
-    "sortOrder": 82,
-    "description": "Been there, done that, now get the t-shirt. Or plushy. Or latest AAA title. Get your hands on exclusive merchandise from your favourite games and special guests in the ever-popular retail zone.",
-    "codeID": "retail-expo-zone",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1194,
-    "url": "/system/categories/vr-and-tech-zone/",
-    "name": "VR and Tech Zone",
-    "sortOrder": 83,
-    "description": "Believe the hype, virtual reality has arrived in style and we’ve got all the latest headsets for you to strap on including HTC Vive, Oculus and the newly launched PlayStation VR. We’ll also be showcasing the cutting-edge tech that will be shaping the future of gaming for years to come.",
-    "codeID": "vr-tech",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1195,
-    "url": "/system/categories/lan-hall-arena/",
-    "name": "LAN Hall Arena",
-    "sortOrder": 84,
-    "description": "It’s the classic Insomnia experience. You, your battlestation (or console) and thousands of other players all camped out together for three solid days of gaming escapism. With a BYOC (Bring Your Own Computer/Console) ticket you’ll be given your own seat in our LAN arena and access to all other festival areas.",
-    "codeID": "lan-hall-arena",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1196,
-    "url": "/system/categories/latest-games/",
-    "name": "Latest Games",
-    "sortOrder": 85,
-    "description": "The home of banter and bragging rights, you’ll find all the latest triple-A titles in our gaming zones to try out with your mates. Whether tackling the deserts of Battlefield 1, Modern Warfare’s infamous terminal or showing off you flying ball control in Rocket League, friendships will be tested. Happy days.",
-    "codeID": "latest-games",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1197,
-    "url": "/system/categories/drone-arena/",
-    "name": "Drone Arena",
-    "sortOrder": 86,
-    "description": "It’s time to take robot wars to the skies as the Drone Racing iSeries returns to the NEC for more adrenalin-fuelled action. Just head to our new and improved Drone Zone and watch the world’s top pilots reach speeds of up to 60mph in Europe’s biggest indoor championship.",
-    "codeID": "drone-arena",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1198,
-    "url": "/system/categories/indie-zone/",
-    "name": "Indie Zone",
-    "sortOrder": 87,
-    "description": "If like us you’ve lost hours Spelunkying, Fezzing and Binding Isaac you’ll definitely want to spend some quality time in the Indie Zone. Featuring a host of new and upcoming independently developed titles to try out, you’ll also get to meet the passionate brains behind the code.",
-    "codeID": "indie-zone",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1199,
-    "url": "/system/categories/minecraft-zone/",
-    "name": "Minecraft Zone",
-    "sortOrder": 88,
-    "description": "No Insomnia is complete with its fair share of creepers, villagers and chickens. So head to our ever-popular Minecraft Zone to take part in prize tournaments, grab some cool swag and chat with special guests from the world of Minecraft.",
-    "codeID": "minecraft-zone",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1200,
-    "url": "/system/categories/tabletop-zone/",
-    "name": "Tabletop Zone",
-    "sortOrder": 89,
-    "description": "Enjoy a screen break and head to our Tabletop Zone to try out and buy a wide range of card, board and dice games. Managed by our partner Big Orbit, there’s also space to set up your own game and turn the tables on your opposition.",
-    "codeID": "tabletop-zone",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1201,
-    "url": "/system/categories/retro-zone/",
-    "name": "Retro Zone",
-    "sortOrder": 90,
-    "description": "Sorry Master Chief. Apologies Drake. Bad luck Lara. In our Retro Zone you’ll only find the true originals of gaming. So come along and take Mario, Pac-Man and Sonic for a spin on their original consoles. Alongside all the classic games on show our partners Retro GT also stock a wide selection of old school memorabilia.",
-    "codeID": "retro-zone",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1202,
-    "url": "/system/categories/live-music/",
-    "name": "Live Music",
-    "sortOrder": 91,
-    "description": "Every festival needs banging tunes, which is why we’ve lined up some of the biggest names from both Island Records and Universal Records to bring some fresh beats to Insomnia59.",
-    "codeID": "live-music",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  },
-  {
-    "id": 1203,
-    "url": "/system/categories/cosplay/",
-    "name": "Cosplay",
-    "sortOrder": 92,
-    "description": "From the sublime to the intentionally ridiculous, we’ll once again be welcoming cosplayers from around the UK and beyond to take part in our cosplay masquerade. With top prizes on offer, don’t miss the chance to showcase your creativity and costumes live on the Insomnia Stage.",
-    "codeID": "cosplay",
-    "properties": "id, url, name, sortOrder, description, codeID",
-    "propertyTypes": "description (Umbraco.TextboxMultiple), codeID (Umbraco.Textbox)"
-  }
-];
+        app.categories = [{"id":1189,"codeID":"main-stage","name":"Main Stage"},{"id":1190,"codeID":"expo-stage","name":"Expo Stage"},{"id":1191,"codeID":"special-guests","name":"Special Guests"},{"id":1188,"codeID":"tournaments","name":"Tournaments"},{"id":1193,"codeID":"retail-expo-zone","name":"Retail / Expo Zone"},{"id":1194,"codeID":"vr-tech","name":"VR and Tech Zone"},{"id":1195,"codeID":"lan-hall-arena","name":"LAN Hall Arena"},{"id":1196,"codeID":"latest-games","name":"Latest Games"},{"id":1198,"codeID":"indie-zone","name":"Indie Zone"},{"id":1199,"codeID":"minecraft-zone","name":"Minecraft Zone"},{"id":1200,"codeID":"tabletop-zone","name":"Tabletop Zone"},{"id":1201,"codeID":"retro-zone","name":"Retro Zone"},{"id":1203,"codeID":"cosplay","name":"Cosplay"},{"id":4492,"codeID":"head-2-head","name":"Head2Head"},{"id":4521,"codeID":"creator-zone","name":"Creator Zone"},{"id":4528,"codeID":"fighting-games -zone","name":"Fighting Games Zone"}];
 
         $(function () {
+
+            // Switch Events, navigate between England,Scotland,Ireland
+            $('#events_switch_btn').click(function(e){
+                e.preventDefault();
+                //$("#sites_menu").toggleClass('hidden');
+                $("#sites_menu" ).slideToggle( "slow");
+            });
+            // Close site menu
+            $('#sites_menu_close').click(function(e){
+                e.preventDefault();
+                $('#sites_menu').slideToggle('slow');
+            });
+
 
             // animate back to top button
             $('.back-to-top').click(function () {
@@ -272,6 +155,8 @@
     </script>
     <!-- NAVBAR
     ================================================== -->
+
+
     <div class="navbar-wrapper navbar-fixed-top">
         <div class="container">
 
@@ -283,27 +168,71 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/"><img src="/assets/images/logo.png" alt="Insmonia" class="img-responsive"></a>
+                    
+
+                    <a class="navbar-brand" href="/">
+                        <img src="/media/1416/logo.png" alt="Insmonia" class="img-responsive">
+                    </a>
+
                 </div>
+
+
+
                 <div id="navbar" class="navbar-collapse collapse clearfix">
 
                     <ul class="nav navbar-nav">
-                        <li class=""><a href="/">Home</a></li>
-                        <li class=""><a href="/whats-on">What's on</a></li>
-                        <li class=""><a href="/whats-on?categories=tournaments">Tournaments</a></li>
-                        <li class=""><a href="/news">News</a></li>
-                        <li class=""><a href="/info">Info</a></li>
-                        <li class=""><a href="/contact-us">Contact</a></li>
-                    </ul>
 
-                    <a href="/tickets" class="btn btn-brand-v2 buy-tickets hidden-sm">Buy Tickets</a>
+                            <li class=""><a href="/insomnia/home">Home</a></li>
+
+                            <li class=""><a href="/insomnia/whats-on">What's on</a></li>
+
+                            <li class=""><a href="/insomnia/whats-on?categories=tournaments">Tournaments</a></li>
+
+
+                            <li class=""><a href="/insomnia/info">Info</a></li>
+
+                            <li class=""><a href="/insomnia/contact">Contact</a></li>
+                                                        <li id="events_switch_btn"><a href="#" class="color-brand-accent-2">Festivals</a></li>
+
+
+
+                    </ul>
+                    <a href="https://www.theticketfactory.com/multiplay/online/" class="btn btn-brand-v2 buy-tickets hidden-sm">Buy Tickets</a>
+                    <div class="row sites-listing visible-xs">
+                                        <a href="/ireland/home" class="text-center btn-block">Visit Insomnia Ireland</a>
+                                        <a href="http://www.insomniaresonate.com/" class="text-center btn-block">Visit Insomnia Scotland</a>
+
+                    </div>
                 </div>
             </nav>
 
         </div>
     </div>
 
+            <div id="sites_menu" class="hidden-xs ">
+                <div class="clearfix">
+                    <div id="sites_menu_close"><span class="glyphicon glyphicon-remove"></span></div>
+                </div>
+                <div class="container">
+                    <div class="row text-center">
+                            <a href="/insomnia/home" class="site-logo text-center site-logo--active ">
+                            <img src="/media/1415/insomnia-logo-white.png" class="img-responsive" alt="Insmonia Logo">                               
+                        </a>
+                            <a href="/ireland/home" class="site-logo text-center  ">
+                            <img src="/media/1420/insomnia-logo-ire-white.png" class="img-responsive" alt="Insmonia Logo">                               
+                        </a>
+                            <a href="http://www.insomniaresonate.com/" class="site-logo text-center  ">
+                            <img src="/media/1417/insomnia-logo-scot-white.png" class="img-responsive" alt="Insmonia Logo">                               
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+
+
+
     <div class="body-wrapper">
+
         
 
     
@@ -410,6 +339,10 @@
     </div>
 </div>
     </div>
+    <!-- Buy tickets fixed button
+    ================================================== -->
+    <a href="https://www.theticketfactory.com/multiplay/online/" class="btn btn-tickets btn-tickets-sm tickets-fixed visible-xs">Tickets</a>
+    <a href="https://www.theticketfactory.com/multiplay/online/" class="btn btn-tickets btn-tickets-lg tickets-fixed visible-sm"><span class="ticket-icon"></span>Tickets</a>
 
     <!-- FOMO Form
     ================================================ -->
@@ -431,11 +364,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 text-center">
-                    <div class="fomo-title">FOMO? &nbsp;&nbsp;&nbsp; <a class="btn btn-brand-v2 btn-lg" href="http://multiplay.us1.list-manage.com/subscribe?u=dbf8f6aa51def2414f4ab989b&amp;id=ac3db99fef">Sign up to receive the latest info and more...</a></div>
-                    
-                </div>
+                    <div class="fomo-title">
+                        FOMO? &nbsp;&nbsp;&nbsp;
+                        <a target="_blank" class="btn btn-brand-v2 btn-lg" href="http://multiplay.us1.list-manage.com/subscribe?u=dbf8f6aa51def2414f4ab989b&amp;id=ac3db99fef">Sign up to receive the latest info and more...</a>
+                    </div>
 
-                
+                </div>
             </div>
         </div>
     </div>
@@ -449,13 +383,13 @@
                 <div class="container">
                     <div class="footer-top-wrapper-top clearfix">
                         <div class="footer-eye">
-                            <img class="img-responsive" src="/assets/images/icons/footer-eye-icon.png" alt="Insomnia">
+                            <img class="img-responsive" src="/assets/images/theme/footer-eye-icon-theme-yellow-orange.png" alt="Insomnia">
                         </div>
                         <div class="col-xs-12 col-sm-4 col-sm-offset-4 text-center footer-forum-btn">
                             <a target="_blank" href="https://forums.multiplay.com/" class="btn btn-brand-v1">Visit the forum</a>
                         </div>
                         <div class="back-to-top-wrapper">
-                            
+
                             <a id="back_to_top" class="back-to-top" href="#navbar" title="Top">Back to Top <img src="/assets/images/icons/download.png" alt="Arrow Up"></a>
                         </div>
                     </div>
@@ -466,90 +400,98 @@
                             </div>
                             <div class="footer-nav">
                                 <nav class="visible-xs">
+
                                     <ul>
-                                        <li class=""><a href="/">Home</a></li>
-                                        <li class=""><a href="/whats-on">What's on</a></li>
-                                        <li class=""><a href="/contact-us">Contact</a></li>
+                                        <li><a href="/insomnia/home">Home</a></li>
+                                        <li><a href="/insomnia/whats-on">What's on</a></li>
+                                        <li><a href="/insomnia/contact">Contact</a></li>
                                     </ul>
+
                                 </nav>
                                 <nav class="hidden-xs">
                                     <ul class="row">
                                         <li class="col-xs-12 col-sm-4">
-                                            <a href="/whats-on">Everything</a>
+                                            <a href="/insomnia/whats-on">Everything</a>
                                         </li>
+
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=main-stage">
+                                                    <a href="/insomnia/whats-on?categories=main-stage">
                                                         Main Stage
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=expo-stage">
+                                                    <a href="/insomnia/whats-on?categories=expo-stage">
                                                         Expo Stage
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=special-guests">
+                                                    <a href="/insomnia/whats-on?categories=special-guests">
                                                         Special Guests
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=tournaments">
+                                                    <a href="/insomnia/whats-on?categories=tournaments">
                                                         Tournaments
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=retail-expo-zone">
+                                                    <a href="/insomnia/whats-on?categories=retail-expo-zone">
                                                         Retail / Expo Zone
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=vr-tech">
+                                                    <a href="/insomnia/whats-on?categories=vr-tech">
                                                         VR and Tech Zone
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=lan-hall-arena">
+                                                    <a href="/insomnia/whats-on?categories=lan-hall-arena">
                                                         LAN Hall Arena
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=latest-games">
+                                                    <a href="/insomnia/whats-on?categories=latest-games">
                                                         Latest Games
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=drone-arena">
-                                                        Drone Arena
-                                                    </a>
-                                                </li>
-                                                <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=indie-zone">
+                                                    <a href="/insomnia/whats-on?categories=indie-zone">
                                                         Indie Zone
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=minecraft-zone">
+                                                    <a href="/insomnia/whats-on?categories=minecraft-zone">
                                                         Minecraft Zone
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=tabletop-zone">
+                                                    <a href="/insomnia/whats-on?categories=tabletop-zone">
                                                         Tabletop Zone
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=retro-zone">
+                                                    <a href="/insomnia/whats-on?categories=retro-zone">
                                                         Retro Zone
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=live-music">
-                                                        Live Music
+                                                    <a href="/insomnia/whats-on?categories=cosplay">
+                                                        Cosplay
                                                     </a>
                                                 </li>
                                                 <li class="col-xs-12 col-sm-4">
-                                                    <a href="/whats-on?categories=cosplay">
-                                                        Cosplay
+                                                    <a href="/insomnia/whats-on?categories=head-2-head">
+                                                        Head2Head
+                                                    </a>
+                                                </li>
+                                                <li class="col-xs-12 col-sm-4">
+                                                    <a href="/insomnia/whats-on?categories=creator-zone">
+                                                        Creator Zone
+                                                    </a>
+                                                </li>
+                                                <li class="col-xs-12 col-sm-4">
+                                                    <a href="/insomnia/whats-on?categories=fighting-games -zone">
+                                                        Fighting Games Zone
                                                     </a>
                                                 </li>
 
@@ -558,22 +500,36 @@
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-4">
-                            <div class="hidden-xs footer-navs-header">
-                                Follow us
-                            </div>
-                            <div class="social-icons-wrapper">
-                                <ul class="social-icons text-left">
+                                    <div class="hidden-xs footer-navs-header">
+                                        Follow us
+                                    </div>
+                                    <div class="social-icons-wrapper">
+                                        <ul class="social-icons text-left">
+                                                    <li>
+                                                        <a target="_blank" href="https://twitter.com/MultiplayEvents" class="social-with-text social-icon--small"><img src="/media/1422/twitter-active.png"> @multiplayevents</a>
+                                                    </li>
+                                                    <li>
+                                                        <a target="_blank" href="https://www.twitch.tv/multiplayesports" class="social-with-text social-icon--small"><img src="/media/1423/twitch-active.png"> MultiplayEsports</a>
+                                                    </li>
+                                                    <li>
+                                                        <a target="_blank" href="https://www.youtube.com/c/InsomniaGamingFestivals" class="social-with-text social-icon--small"><img src="/media/1424/youtube-active.png"> @InsomniaGamingFestivals</a>
+                                                    </li>
+                                                    <li>
+                                                        <a target="_blank" href="https://www.instagram.com/insomniagamingfestivals" class="social-with-text social-icon--small"><img src="/media/1427/instagram-active.png"> Insomnia Gaming Festivals</a>
+                                                    </li>
+                                                    <li>
+                                                        <a target="_blank" href="https://www.facebook.com/insomniagamesfestival" class="social-with-text social-icon--small"><img src="/media/1426/facebook-active.png"> @Insomniagamesfestival</a>
+                                                    </li>
+                                                    <li>
+                                                        <a target="_blank" href="https://www.flickr.com/photos/mpuk/" class="social-with-text social-icon--small"><img src="/media/1425/flickr-active.png"> multiplay</a>
+                                                    </li>
+                                                    <li>
+                                                        <a target="_blank" href="https://forums.multiplay.com/" class="social-with-text social-icon--small"><img src="/media/1428/forum-active.png"> Forums</a>
+                                                    </li>
 
-                                    <li><a target="_blank" href="http://twitter.com/MultiplayEvents" class="social-twitter-with-text social-icon--small">@multiplayevents</a></li>
-                                    <li><a target="_blank" href="https://www.twitch.tv/multiplayesports" class="social-twitch-with-text social-icon--small">MultiplayEsports</a></li>
-                                    <li><a target="_blank" href="https://www.youtube.com/c/InsomniaGamingFestivals" class="social-youtube-with-text social-icon--small">@InsomniaGamingFestivals</a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/multiplayuk/" class="social-instagram-with-text social-icon--small">multiplayuk</a></li>
-                                    <li><a target="_blank" href="https://www.facebook.com/insomniagamesfestival" class="social-fb-with-text social-icon--small">@Insomniagamesfestival</a></li>
-                                    <li><a target="_blank" href="https://www.flickr.com/photos/mpuk/" class="social-flickr-with-text social-icon--small">multiplay</a></li>
-                                    <li><a target="_blank" href="https://forums.multiplay.com" class="social-forum-with-text social-icon--small">Forums</a></li>
+                                        </ul>
+                                    </div>
 
-                                </ul>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -582,28 +538,62 @@
             ================================================== -->
             <div class="footer-bottom-wrapper">
                 <div class="container">
-                    <div class="footer-bootom-title"><p>Brought to you by</p></div>
                     <hr>
-                    <div class="row">                        
-                        <div class="col-xs-6 col-sm-3 text-center">
-                            <a target="_blank" href="http://www.multiplay.com"><img src="/assets/images/multiplay-logo.png" alt="Multiplay Logo" class="img-responsive multiplay-logo"></a>
+                    <div id="footer-sites-listing">
+                        <div class="row">
+                                    <div class="col-xs-12 col-sm-4">
+                                        <a href="/insomnia/home" class="site-logo">
+                                            <img class="img-responsive" src="/media/1415/insomnia-logo-white.png" alt="Insomnia Logo">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4">
+                                        <a href="/ireland/home" class="site-logo">
+                                            <img class="img-responsive" src="/media/1420/insomnia-logo-ire-white.png" alt="Insomnia Logo">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4">
+                                        <a href="http://www.insomniaresonate.com/" class="site-logo">
+                                            <img class="img-responsive" src="/media/1417/insomnia-logo-scot-white.png" alt="Insomnia Logo">
+                                        </a>
+                                    </div>
+
+
                         </div>
-                        <div class="col-xs-6 col-sm-3 text-center">
-                            <a target="_blank" href="http://www.game.co.uk"><img src="/assets/images/game-logo.png" alt="Game Logo" class="img-responsive game-logo"></a>
-                        </div>                        
                     </div>
+                </div>
+                <div class="container">
+                            <div class="footer-bootom-title"><p>Brought to you by</p></div>
+                            <hr>
+                            <div class="row">
+                                        <div class="col-xs-6 col-sm-3 text-center footer-logo-item">
+                                            <a target="_blank" href="http://www.multiplay.com/"><img src="/media/1013/multiplay-logo.png" alt="Multiplay Logo" class="img-responsive"></a>
+                                        </div>
+                                        <div class="col-xs-6 col-sm-3 text-center footer-logo-item">
+                                            <a target="_blank" href="http://www.game.co.uk/"><img src="/media/1430/gama-logo.png" alt="Game Logo" class="img-responsive"></a>
+                                        </div>
+                                        <div class="col-xs-6 col-sm-3 text-center footer-logo-item">
+                                            <a target="_blank" href="http://www.multiplayrentals.com/"><img src="/media/1487/multiplay-logo-copy.png" alt="Multiplay Rentals Logo" class="img-responsive"></a>
+                                        </div>
+                                        <div class="col-xs-6 col-sm-3 text-center footer-logo-item">
+                                            <a target="_blank" href="https://www.gtomegaracing.com/"><img src="/media/1598/gt-omega-logo.png" alt="GT Omega Logo" class="img-responsive"></a>
+                                        </div>
+
+                            </div>
+
+
                     <hr>
-                    <div class="footer-tc">                        
+                    <div class="footer-tc">
                         <div class="small">
-                            <a target="_blank" href="/terms">Terms &amp; Conditions</a> <span class="separator hidden-xs">|</span>
-                            <a target="_blank" href="/privacy">Privacy Policy</a> <span class="separator hidden-xs">|</span>
-                            <a target="_blank" href="/sitemap">Sitemap</a> <span class="separator hidden-xs">|</span>
-                            <a href="http://support.multiplay.co.uk/">Support</a>
+                            <a href="/terms">Terms &amp; Conditions</a> <span class="separator hidden-xs">|</span>
+                            <a href="/privacy">Privacy Policy</a> <span class="separator hidden-xs">|</span>
+                            <a href="/sitemap">Sitemap</a> <span class="separator hidden-xs">|</span>
+                            <a target="_blank" href="http://support.multiplay.co.uk/">Support</a>
                         </div>
                     </div>
                 </div>
             </div>
         </footer>
+
     </div>
 
     <div id="ajax_loader" style="display: none;">
@@ -620,12 +610,6 @@
 			['pageTracker._setAccount', 'UA-1918255-17'],
 			['pageTracker._setAllowLinker', true],
 			['pageTracker._trackPageview']
-		);
-        _gaq.push(
-			['globalTracker._setAccount', 'UA-1918255-11'],
-			['globalTracker._setDomainName', 'none'],
-			['globalTracker._setAllowLinker', true],
-			['globalTracker._trackPageview']
 		);
         (function() {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -652,6 +636,25 @@
             <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/871313564/?guid=ON&amp;script=0" />
         </div>
     </noscript>
+
+    <!-- Google Code for Insomnia Ireland Conversion Tag - Tickemaster Conversion Page -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1014117809;
+    var google_conversion_language = "en";
+    var google_conversion_format = "3";
+    var google_conversion_color = "ffffff";
+    var google_conversion_label = "1vr5COnXgWYQsevI4wM";
+    var google_conversion_value = 18.50;
+    var google_conversion_currency = "EUR";
+    var google_remarketing_only = false;
+    /* ]]> */
+    </script>
+    
+    <noscript>
+        <div style="display:inline;"></div>
+    </noscript>
+
 
 
 
