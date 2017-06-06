@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the excitingdaily.com privacy policy that was archived on 2016-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161218051346id_/http%3A//excitingdaily.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the excitingdaily.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606061952id_/http%3A//excitingdaily.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
@@ -13,7 +13,7 @@
 
 <title>  - Most popular images, videos and gifs </title>
 <link rel="shortcut icon" type="image/x-icon" href="/static/dist/img/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/static/dist/css/style.css">
+<link rel="stylesheet" type="text/css" href="/static/dist/css/style.css?v=1.85">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
     
@@ -28,7 +28,33 @@
 
     ga('create', 'UA-88915578-1', 'auto');
     ga('send', 'pageview');
+
+    // metaslate global variables dictionary
+    var metaslate = {
+        ga: function(command, type, category, action, label) {
+            if(typeof(ga)=="undefined") {
+                if(typeof(_gaq)!="undefined") {
+                    window.ga = function(command, type, category, action, label) {
+                        _gaq.push(['_trackEvent', category, action, label]);
+                    }
+                } else {
+                    console.log('ga is Undefined;');
+                }
+            } else {
+                window.ga(command, type, category, action, label);
+            }
+        },
+        breakpoint_mobile : 728,
+        breakpoint_tablet : 992,
+    };
+
 </script>
+
+
+
+
+
+
 
 
 
@@ -37,7 +63,7 @@
 <script>
 window.fbAsyncInit = function() {
    FB.init({
-     appId      : '1702276570091768',
+     appId      : '',
      xfbml      : true,
      version    : 'v2.7'
    });
@@ -66,7 +92,13 @@ window.fbAsyncInit = function() {
 -->
 
 <nav class="navbar navbar-inverse navbar-static-top navbar-main" role="navigation">
-  <div class="navbar-header"><a class="navbar-brand topday-brand" data-label="site-logo" data-value="home-reset" href="/"><h2 class="briefnews-title"></h2></a></div>
+  <div class="navbar-header">
+    
+      <a class="site-brand" data-label="site-logo" data-value="home-reset" href="/">
+        <img class="img-responsive" src="/static/dist/img/excitingdaily-logo.png" alt="">
+      </a>
+    
+  </div>
   <div class="navbar-logged-in" id="">
     <ul class="nav navbar-nav">
       
@@ -128,10 +160,10 @@ window.fbAsyncInit = function() {
 <p>Although most changes are likely to be minor, ExcitingDaily.com may change its privacy policy from time to time, and in ExcitingDaily.com’s sole discretion. ExcitingDaily.com encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.</p>
 	</div>
 
-      <div class="col-sm-8 col-sm-offset-2 col-md-7 col-md-offset-0 col-xs-12 content-block"> 
+      <div class="col-xs-12 content-block"> 
          </div>
-      <div class="col-xs-12 col-sm-12 col-md-5 home-sidebar"> 
-         </div>
+      
+        
       <div class="col-xs-12 col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1 footer-row"> <div class="navbar navbar-default">
   <ul class="nav navbar-nav">
     <li><a href="/privacy/" data-label="footer-privacy">Privacy</a></li>
@@ -224,11 +256,14 @@ window.fbAsyncInit = function() {
               </ul>
             </div>
             <div class="tab-content">
-              <div id="login" class="tab-pane fade in active"> <a href="/accounts/facebook/login/" class="btn-sa btn-sa-facebook" data-label="login-with-facebook"><i class="fa fa-facebook-official"></i>Log In With Facebook</a>
-                <hr>
-                <div class="signup-or">or</div>
+              <div id="login" class="tab-pane fade in active">
+                
+                  <a href="/accounts/facebook/login/" class="btn-sa btn-sa-facebook" data-label="login-with-facebook"><i class="fa fa-facebook-official"></i>Log In With Facebook</a>
+                  <hr>
+                  <div class="signup-or">or</div>
+                
                 <form class="login form-horizontal" method="POST" action="/accounts/login/">
-                    <input type="hidden" name="csrfmiddlewaretoken" value="JNvPP7aQzfDll0gA2nG3bAD8t4ClpJCe">
+                    <input type="hidden" name="csrfmiddlewaretoken" value="9jeDRYxMEFv8Q7HQfWwnPx9L3H4YS34x">
                   <div class="form-group">
                     <label for="inputEmail">Email</label>
                     <input type="text" class="form-control" id="inputEmail" name="login" placeholder="Email" autocomplete="off">
@@ -242,12 +277,15 @@ window.fbAsyncInit = function() {
                   <p class="leading-line">Forgot your password? <a class="brighty login-button" href="/accounts/password/reset/" data-label="password-reset">Reset it</a></p>
                 </form>
               </div>
-              <div id="signup" class="tab-pane fade"> <a href="/accounts/facebook/login/?next=%2F" class="btn-sa btn-sa-facebook" data-label="signup-with-facebook"><i class="fa fa-facebook-official"></i>Sign Up With Facebook</a>
+              <div id="signup" class="tab-pane fade">
+              
+                <a href="/accounts/facebook/login/?next=%2F" class="btn-sa btn-sa-facebook" data-label="signup-with-facebook"><i class="fa fa-facebook-official"></i>Sign Up With Facebook</a>
                 <hr>
                 <div class="signup-or">or</div>
+              
                 <p class="leading-line">Sign up with your <a href="#" class="brighty" id="show-signup-form">Email Address</a></p>
                 <form class="login form-horizontal" id="signup-form" method="POST" action="/accounts/signup/">
-                <input type="hidden" name="csrfmiddlewaretoken" value="JNvPP7aQzfDll0gA2nG3bAD8t4ClpJCe">
+                <input type="hidden" name="csrfmiddlewaretoken" value="9jeDRYxMEFv8Q7HQfWwnPx9L3H4YS34x">
                   <div class="form-group">
                     <input type="text" class="form-control" id="inputEmail" placeholder="Username" name="username" autocomplete="off">
                   </div>
@@ -285,28 +323,15 @@ window.fbAsyncInit = function() {
 </div>
 
 
+
 <script type="text/javascript" src="/static/jquery/dist/jquery.js"></script>
 <script type="text/javascript" src="/static/bootstrap/dist/js/bootstrap.js"></script>
 <script type="text/javascript" src="/static/df-visible/jquery.visible.min.js"></script>
 <script type="text/javascript" src="/static/jquery-sticky/jquery.sticky.js"></script>
 <script type="text/javascript" src="/static/mobile-detect/mobile-detect.min.js"></script>
 <script type="text/javascript" src="/static/handlebars/handlebars.min.js"></script>
+
 <script type="text/javascript">
-    var metaslate = {
-        ga: function(command, type, category, action, label) {
-            if(typeof(ga)=="undefined") {
-                if(typeof(_gaq)!="undefined") {
-                    window.ga = function(command, type, category, action, label) {
-                        _gaq.push(['_trackEvent', category, action, label]);
-                    }
-                } else {
-                    console.log('ga is Undefined;');
-                }
-            } else {
-                window.ga(command, type, category, action, label);
-            }
-        }
-    };
 
     function trackJavaScriptError(e) {
         var errMsg = e.message;
@@ -436,7 +461,7 @@ window.fbAsyncInit = function() {
             noMorePosts = 0;
             infiniteScroller();
 
-            var post_timeline = $('.home-container>div.content-block');
+            var post_timeline = $('.home-container>div.content-block>div.row');
             post_timeline.fadeTo('slow', 0.5);
             var trendingFilterContext = $('#filter-form');
             var content_type = $('input[name="trending-content-type"]:checked', trendingFilterContext).val();
@@ -483,7 +508,7 @@ window.fbAsyncInit = function() {
                     // home container's content-block class child is basically the block content
                     post_timeline.fadeTo('fast', 1);
                     post_timeline.html(rendered_posts);
-                    post_timeline.append('<div class="loading"><span class="spinner" href="#">Loading</span></div>');
+                    post_timeline.append('<div class="loading"><span class="spinner" href="#"></span></div>');
                 }
             });
         }
@@ -531,7 +556,7 @@ window.fbAsyncInit = function() {
                   // filter button is clicked. show filter options if not visible, hide if visible
                   $('.filter-options').toggle();
                   // shown, bring it at top
-                  $('.filter-options').insertBefore('.home-container>div.content-block');
+                  $('.filter-options').insertBefore('.home-container>div.content-block>div.row');
               });
           }
           // filter content get values and logic
@@ -611,11 +636,11 @@ window.fbAsyncInit = function() {
               fetch_most_shared = false;
             }
 
-            var post_timeline = $('.home-container>div.content-block');
+            var post_timeline = $('.home-container>div.content-block>div.row');
             // infinite scroll
             logger('fetching new posts for infinite scroll:');
 
-            var last = $('.home-container>div').children('.panel-feed').last();
+            var last = $('.home-container>div>div').children('.panel-feed').last();
             var posts = null;
             params =  { max_id : last.data('postid')}
             if ('') {
@@ -665,10 +690,12 @@ window.fbAsyncInit = function() {
 
                     // insert only if it is not present already.
                     if ($('.no-more-posts').length < 1) {
-                      var no_more_posts = '<p class="no-more-posts text-center" style="display: none;margin-top: 50px;"><strong>Congratulations</strong>, you\'ve reached the end of the internet.</p>';
+                      var no_more_posts = '<p class="no-more-posts text-center" style="display: none; clear:both; margin-top: 50px;"><strong>Congratulations</strong>, you\'ve reached the end of the internet.</p>';
                       post_timeline.append(no_more_posts);
                     }
                       $('.no-more-posts').show();
+                      $('.no-more-posts').css('clear', 'both');
+                      $('.no-more-posts').css('display', 'block');
                     noMorePosts = 1;
                 }
                 posts = data;
@@ -978,5 +1005,6 @@ $(document).ready(function(){
     });
 });
 </script>
+
 
 </body></html>
