@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fanack.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402001907id_/https%3A//fanack.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanack.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203516id_/https%3A//fanack.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Fanack
+
+__February 16th, 2015 / April 11th, 2017
 
 Fanack respects your privacy and collects no personally identifiable information about you unless you affirmatively choose to make such information available to us. Fanack does not actively share personal information about website visitors. Personal information provided by visitors, such as e-mail addresses or information submitted via online forms, is used by Fanack to assist individual visitors as necessary. This assistance may involve redirecting an inquiry or comment to another Fanack individual or unit better suited to provide resolution.
 
