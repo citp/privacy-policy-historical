@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preapps.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221054142id_/http%3A//www.preapps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preapps.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225034id_/http%3A//www.preapps.com/privacy) for the most accurate reproduction.*
 
 # Preapps Privacy Policy
 
