@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125205523id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy%26src%3Dfooter2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145758id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy%26src%3Dfooter2) for the most accurate reproduction.*
 
 # Privacy | Orion Telescopes & Binoculars
 
@@ -48,6 +48,8 @@ In all cases, we will only use your information as permitted by law. Notwithstan
 
 Our Site uses "cookies" — data that is transferred from our Site to your hard drive for record-keeping purposes — to keep track of your shopping cart when you order merchandise through our Site. We also use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit our Site.
 
+We may share data, such as technical identifiers derived from your registration information on our website with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use.
+
 We use the following cookies and tracking pixels to deliver content, including advertisements on third-party websites, specific to your interests:
 
 > **AddThis**  
@@ -56,11 +58,11 @@ We use the following cookies and tracking pixels to deliver content, including a
 > **Bazaarvoice**  
 >  We use Bazaarvoice functionality to provide you with the ability to review our products and community items as well as read and interact with the reviews provided by others. You can learn more about Bazaarvoice's privacy policy and use of cookies, along with instructions on how to opt-out of Bazaarvoice data collection, at this url: <http://www.bazaarvoice.com/privacy-policy/>.
 > 
-> **Channel Advisor**  
->  We use Channel Advisor functionality to track activity related to those who have seen and clicked on our product listings at various shopping comparison websites. You can find information on Channel Advisor's privacy policies and use of cookies at this url: <http://www.channeladvisor.com/privacy-policy/>.
-> 
 > **Commission Junction**  
 >  We use Commission Junction functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on Commission Junction's privacy policies and use of cookies at this url: <http://www.cj.com/legal/privacy_web_user.html>.
+> 
+> **Criteo**  
+>  We use functionality from Criteo to serve interest-specific advertisements on third-party websites to those who have visited our websites. You can learn more about Criteo's privacy policy, data collection, etc. and how to opt out of Criteo advertisements at <http://www.criteo.com/privacy/>.
 > 
 > **DoubleClick**  
 >  We use DoubleClick functionality to serve interest-specific advertisements on third-party websites to those who have visited our websites. You can find instructions on how to opt-out from DoubleClick functionality at this url: <http://www.google.com/ads/preferences/html/opt-out.html>.
@@ -69,7 +71,7 @@ We use the following cookies and tracking pixels to deliver content, including a
 >  We use eBay Enterprise Affiliate Network functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on eBay Enterprise's privacy policies and use of cookies at this url: <http://www.ebayenterprise.com/privacy/services_privacy.php>.
 > 
 > **Facebook Connect and Social Plugins**  
->  We use Facebook functionality to allow visitors to our websites to "Like" our products and pages. Information on Facebook's privacy policies and adjusting your Facebook privacy settings can be found at this url: <https://www.facebook.com/about/privacy/>.
+>  We use Facebook functionality to allow visitors to our websites to "Like" our products and pages and also to track activity related to those who have seen and clicked on our product advertisements on Facebook properties. Information on Facebook's privacy policies and adjusting your Facebook privacy settings can be found at this url: <https://www.facebook.com/about/privacy/>.
 > 
 > **Google+**  
 >  We use Google+ functionalitiy to provide you with the ability to share pages from our website in your Google+ stream. You can find instructions on how to opt out of Google functionality at this url: <https://www.google.com/settings/ads/preferences?hl=en>.
@@ -80,23 +82,14 @@ We use the following cookies and tracking pixels to deliver content, including a
 > **Google Analytics**  
 >  We use Google Analytics to track user activity in aggregate across our various websites. In addition to tracking pixels, Google Analytics serves its __utma, __utmb, __utmc, and __utmz cookies to our website visitors. You can find tools to help you opt-out of Google Analytics tracking and cookies at this url: <https://tools.google.com/dlpage/gaoptout>.
 > 
-> **Kenshoo**  
->  We use Kenshoo functionality to track activity related to those who have seen and clicked on our advertisements on third-party websites. You can find information on Kenshoo's privacy policies and use of cookies at this url: <http://www.kenshoo.com/privacy-policy/>.
-> 
 > **LinkShare**  
 >  We use LinkShare functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on LinkShare's privacy policies and use of cookies at this url: <http://www.linkshare.com/legal/privacy/>.
 > 
 > **Microsoft**  
 >  We use Microsoft functionality to track activity related to those who have seen and clicked on our advertisements managed by Microsoft on third-party websites. You can find instructions on how to opt out of Microsoft functionality at this url: <http://choice.microsoft.com/en-us/opt-out>.
 > 
-> **NexTag**  
->  We use NexTag functionality to track activity related to those who have seen and clicked on our product listings at NexTag.com and its affiliated websites. You can find information on NexTag's privacy policy and use of cookies at this url: <http://www.nextag.com/buyer/help/prPrivacyPolicy.jsp>.
-> 
 > **ResellerRatings**  
 >  We use ResellerRatings functionality to provide you with the ability to review Orion as a company. You can learn more about ResellerRatings' privacy policy and use of cookies at this url: <http://www.resellerratings.com/faqs#privacy>.
-> 
-> **Shopzilla**  
->  We use Shopzilla functionality to track activity related to those who have seen and clicked on our product listings at Shopzilla.com and its affiliated websites. You can find information on Shopzilla's privacy policy and use of cookies at this url: <http://connexity.com/privacy-policy/>.
 > 
 > **Twitter**  
 >  We use Twitter functionality to provide you with the ability to share pages from our website in your Twitter stream.
