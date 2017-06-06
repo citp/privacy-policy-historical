@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221212550id_/https%3A//www.peacecorps.gov/about/open-government/website-policy/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173832id_/https%3A//www.peacecorps.gov/about/open-government/website-policy/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -30,7 +30,7 @@ Certain information about your visit can be collected when you browse websites. 
 
 ##  **Information Collected for Website Improvement and Customization (i.e., “cookies")**
 
-The Office of Management and Budget [Memorandum 10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF)](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf), allows federal agencies to use session and persistent cookies to improve the delivery of services.
+The Office of Management and Budget [Memorandum 10-22, Guidance for Online Use of Web Measurement and Customization Technologies [PDF]](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf), allows federal agencies to use session and persistent cookies to improve the delivery of services.
 
 The Peace Corps uses cookies to collect information about users’ visits to our site. Use of these technologies makes our website function better for you and allows us to better understand how the public is using the website. "Cookies" are files placed on your hard drive by a website that store information regarding your use of that site, usually without your knowledge.
 
@@ -53,6 +53,12 @@ iPerceptions uses a persistent cookie to prevent multiple pop-up survey invitati
 You may opt out of having the iPerceptions cookies installed on your machine or device by changing your browser settings to block them. You may also opt out of all Google Analytics tracking by installing the Google Analytics opt-out browser add-on. Even if you disable cookies, Google Analytics can still gather data about your website usage. The add-on instructs Google Analytics to prohibit sending information to Google Analytics. The browser add-on is available for most modern browsers. For instructions on how to block cookies from common browsers and additional information, visit [usa.gov/optout_instructions.shtml](http://www.usa.gov/optout_instructions.shtml).
 
 If you choose to block these technologies, you will continue to have access to comparable information and services on our website.
+
+## ClickDimensions
+
+The Peace Corps uses ClickDimensions to send emails, e-newsletters, alerts, calls-to-action and other messages to visitors who subscribe to them. To subscribe to a Peace Corps product, you must provide an email address and indicate your subscription preferences, including the items you want to receive. The email subscriber lists and all related information are kept in a secure on premise environment at Peace Corps that is both compliant with the Federal Information Security Modernization Act (FISMA) and the Federal Risk and Authorization Management Program (FedRAMP). Information about FISMA can be found here, [dhs.gov/fisma](https://www.dhs.gov/fisma), and information about FedRAMP can be found here [gsa.gov/portal/category/102371](https://www.gsa.gov/portal/category/102371). Only the Peace Corps employees who send emails, e-newsletters, alerts, calls-to-action and other messages via ClickDimensions and staff members who monitor the results of ClickDimensions email initiatives have access to the subscriber lists. No one outside of Peace Corps personnel is allowed access to the subscriber lists and any related information. If you opt-in to any of our marketing emails, clicking on a link in any of these emails may cause you to be personally identified on Peace Corps’ site and may cause some part of your past browsing history on our site to be available to our personnel to determine your interests.  If you do not wish for this tracking to occur, you can unsubscribe from our mailings or use private browsing mode to avoid tracking.
+
+ClickDimensions uses a first party cookie to track visitor activity on Peace Corps’ websites. This may include information that identifies you as an individual or relates to an identifiable individual, including: name, interests, postal address, telephone number, or email address. If you fill out a web form on this site, your information will be stored in Peace Corps secured, on premise FISMA and FedRAMP compliant CRM system and some amount of your past browsing on this site may be available as part of your profile. However, if you use private browsing, you may provide Peace Corps your information without making your past browsing activity available to us. If you do not wish for Peace Corps to have your personal information, please do not fill out any of the web forms on this site. The ClickDimensions privacy policy is available at [clickdimensions.com/about/privacy-policy](http://clickdimensions.com/about/privacy-policy/).
 
 ## GovDelivery
 
@@ -79,6 +85,11 @@ PLEASE NOTE: The Peace Corps does not discriminate based on race, color, religio
 To request an application to the Peace Corps, you may fill out our preliminary data page and share your personally identifiable information. This information will be used only to determine your interest in Peace Corps programs and related Volunteer programs. 
 
 We may use your contact information to send further information about the Peace Corps or to contact you when necessary. You may opt out of receiving future mailings; see the "Opt Out" section below. 
+
+  * [Interview: Privacy Act Statement [PDF]](http://files.peacecorps.gov/documents/interview-privacy-act.pdf)  
+
+
+
 
 ## Sending Us an Email
 
