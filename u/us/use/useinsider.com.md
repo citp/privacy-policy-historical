@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the useinsider.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119173022id_/http%3A//useinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the useinsider.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170051id_/http%3A//useinsider.com/privacy-policy) for the most accurate reproduction.*
 
-# Insider - Privacy Policy
+# Privacy Policy - Insider
 
 ## We collect personal and activity data, which may be linked.
 
