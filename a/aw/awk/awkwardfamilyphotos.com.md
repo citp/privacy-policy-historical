@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the awkwardfamilyphotos.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120072011id_/http%3A//awkwardfamilyphotos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awkwardfamilyphotos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081210id_/http%3A//awkwardfamilyphotos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AwkwardFamilyPhotos.com
-
-## Privacy Policy
 
 Awkward Family, LLC provides www.awkwardfamilyphotos.com (the “Website”) and related services for your personal non-commercial use only and subject to your compliance with this Privacy Statement and Awkward Family LLC’s Terms of Use Agreement.  Please read this Agreement carefully before using this Website.  Your use of this Website constitutes your acceptance to be bound by this Agreement without limitation, qualification or change.  If at any time you do not accept all the terms and conditions of this Agreement, you must immediately discontinue use of this Website.  This Agreement sets forth Awkward Family, LLC’s policies with respect to its operation of this Website.
 
