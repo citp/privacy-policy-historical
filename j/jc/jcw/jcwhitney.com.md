@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcwhitney.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030144634id_/http%3A//www.jcwhitney.com/about-us.jcwx%23aboutprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcwhitney.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152401id_/http%3A//www.jcwhitney.com/about-us.jcwx%23aboutprivacy) for the most accurate reproduction.*
 
 # About Us - JCWhitney.com
 
