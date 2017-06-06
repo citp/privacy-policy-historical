@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lowepro.com privacy policy that was archived on 2016-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123083712id_/http%3A//www.lowepro.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lowepro.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606155004id_/http%3A//www.lowepro.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" wf-loading"><head>
 	
@@ -16,7 +16,7 @@
 	<link rel="shortcut icon" href="/assets/favicon.ico">
 
 	<!-- Adaptive images script -->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//use.typekit.net/sjr2spk.js" async=""></script><script>document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';</script>
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//use.typekit.net/sjr2spk.js" async=""></script><script>document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';</script>
 	
 	<script type="text/javascript">
 	  (function(d) {
@@ -32,38 +32,153 @@
  	<!-- Page level overide stylesheet -->
 	
 
-	<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3330462-2']);
-  _gaq.push(['_setDomainName', '.lowepro.com']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_addIgnoredRef', 'lowepro.com']);
-  _gaq.push(['_trackPageview']);
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-3330462-2', {allowLinker: true});
+  ga('send', 'pageview');
+
 </script>
-
 	
 <!-- ie8 fix js -->	
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>	
 	
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
-	<!-- promo_banner -->
+	<div id="popup">
+    <div class="pop-inner">
+      <div class="popupcloser" onclick="clearPopup()" title="NO THANKS, CLOSE THIS" onmouseover="this.style.cursor='pointer'">×</div>     
+      <h1>ADVENTURE AWAITS</h1>
+      <h4>Get out there.<br> We'll keep you connected.</h4>
+	<br>
+      
+<!-- DISPLAY UK NOTICE -->
 
+<h4 class="popup-offer">Sign up and get <span>15% OFF</span> at Lowepro.com</h4>
+
+
+	<br><br>
+    </div>
+    <div class="opaquediv">        
+      
+
+<script type="text/javascript">
+function signup3() {
+  if(document.getElementById('signup_email3').value=='') {
+     alert('Please include your email address.');
+     document.getElementById('signup_email3').focus();
+     return;
+  }
+    
+  document.getElementById('form_message3').innerHTML = '';
+  document.getElementById('submitbtn3').disabled = true;
+  document.getElementById('submitbtn3').innerHTML = 'Connecting..';
+
+  if (window.XMLHttpRequest) { req3 = new XMLHttpRequest(); }
+  else if (window.ActiveXObject) { req3 = new ActiveXObject("Microsoft.XMLHTTP"); }
+  if (req3 != undefined) {
+    
+	  var params = "email=" + encodeURIComponent(document.getElementById('signup_email3').value)
+               + "&country=" +
+  'US';
+  	  //alert('params='+params);
+    req3.open("GET", "/popup_signup.php?"+params, true);
+    req3.onreadystatechange = function() {
+       if (req3.readyState == 4) {
+          if (req3.status == 200) {
+              xmldat = req3.responseText;
+			  //alert(xmldat);
+              if (/msie [1-8]./.test(navigator.userAgent.toLowerCase())) {
+                   var xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+                   xmlDoc.loadXML(xmldat);
+                   xmldat = xmlDoc;
+              }
+              if($(xmldat).find("ajaxreply").text() =='ok') {
+				  document.getElementById('form_message3').innerHTML = 
+  					  'Thank you! Your discount code is EXPLORE15. </br>We also sent you an email with the discount code.';
+  					  'Almost finished! We just sent you an email to confirm your subscription. Please click the link in the email to verify your email address.';
+                 document.getElementById('submitbtn3').disabled = false;
+                 document.getElementById('submitbtn3').innerHTML = "Subscribe";
+				 document.getElementById('signup_email3').value = '';
+   				 document.getElementById('form_message3').style.border = '2px solid green';
+				 document.getElementById('form_message3').style.display = 'inline-block';
+              } else {
+                 document.getElementById('form_message3').innerHTML = $(xmldat).find("ajaxreply").text();
+                 document.getElementById('submitbtn3').disabled = false;
+				 document.getElementById('signup_email3').focus();
+                 document.getElementById('submitbtn3').innerHTML = "Subscribe";
+				 document.getElementById('form_message3').style.border = '2px solid orange';
+				 document.getElementById('form_message3').style.display = 'inline-block';
+              }
+          } else {
+             document.getElementById('form_message3').innerHTML = 'Unable to connect. Please check your Internet connection and try again.';
+             document.getElementById('submitbtn3').disabled = false;
+             document.getElementById('submitbtn3').innerHTML = "Subscribe";
+          }
+       }
+    };
+    req3.send("");
+  }
+}
+	
+</script>
+
+<form action="javascript:void(0);" method="post">	
+	<label for="email">Sign up for news from Lowepro: </label>
+	<input type="text" id="signup_email3" name="signup_email3" placeholder="Enter your email address"> 
+		<button type="button" id="submitbtn3" name="submitbtn2" value="Subscribe" class="button" onclick="signup3();">Subscribe</button>	
+</form>
+<div id="form_message3" style="display:none; text-align:center;margin: 4px 0 10px 0; padding:2px 6px;">
+</div>   
+		<div style="font-size:11px;"><em>We promise to <a href="/privacy-policy" target="_blank">keep your info private</a> and not email you too often.</em></div>
+    </div>
+
+</div>
+<div id="ghostpop"></div>
+
+
+
+<!-- Homepage popup -->
+<script type="text/javascript">
+
+function showPopup() {
+   document.getElementById('popup').style.visibility='visible';
+   document.getElementById('ghostpop').style.visibility='visible';
+   $('#ghostpop').animate({ opacity: .6 }, 600, function() {});
+   $('#popup').animate({ opacity: 1 }, 600, function() {});
+   var expirydate = new Date();
+   expirydate.setDate(expirydate.getDate() + 3650); // 3650 days, 10 years in the future
+	/*line below sets cookie*/
+   document.cookie = 'welcomepop=true; expires=' + expirydate.toUTCString() + '; domain=.lowepro.com; path=/';
+}
+
+function clearPopup() {
+   $('#ghostpop').animate({ opacity: 0 }, 600, function() {});
+   $('#popup').animate({ opacity: 0 }, 600, function() {
+	   document.getElementById('popup').style.visibility='hidden';
+	   document.getElementById('ghostpop').style.visibility='hidden';
+   });
+}
+var cookies = document.cookie.split('; ')
+//for(i=0;i<cookies.length;i++) { alert("'"+cookies[i].split('=')[0]+"'"); }
+var found=false;
+for(i=0; i<cookies.length; i++) { if(cookies[i].split('=')[0]=='welcomepop') { found=true; break; } }
+if(! found) { setTimeout('showPopup()',3000); }
+	
+</script>
+	<!-- promo_banner -->
+	
 <header role="banner" id="top">
 	
 
-<div class="INTL_topbar" style="color:#fff;">
-	<strong>FREE</strong> ground shipping on orders over $50.00
-	<!-- <a href="http://store.lowepro.com/specials" style="color: #fff;">Father's Day Sale: <strong>25% OFF</strong> all ProTactic camera backpacks and shoulder bags</a> -->
-</div>
+<div class="top-bar">
+  <div class="top-bar-msg"><span>FREE ground shipping on orders over $50</span></div>
+</div>    
 
-	
+ 
   <div class="top-header">
       <div class="inner-wrap">
               
@@ -99,10 +214,6 @@
 <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 	
 </div>
-
-
-
-
       
       </div>
   </div>
@@ -112,335 +223,307 @@
           
     <!-- CUSTOM NAV PATH LOGIC -->
     
-<script src="/assets/js/jquery-1.9.1.min.js"></script>
-<!-- <script type="text/javascript" src="/assets/js/menuhover.js"></script> -->
-	
-			<nav role="navigation">
-				<div class="mobilemenu">
+  
+      <nav role="navigation">
+        <div class="mobilemenu">
                     <ul role="horizontalMenu">
                         <li id="mobilemenu-Menu"><img src="/assets/img/icon_menu_g.png" alt=""> <span id="mobilemenu-Text-Menu"></span>
-						</li><li id="mobilemenu-Search"><div id="mobilemenu-Tab-Search">
-						<img src="/assets/img/icon_search_g.png" alt=""> <span id="mobilemenu-Text-Search"></span>
-							</div> 
+            </li><li id="mobilemenu-Search"><div id="mobilemenu-Tab-Search">
+            <img src="/assets/img/icon_search_g.png" alt=""> <span id="mobilemenu-Text-Search"></span>
+              </div> 
+            
+            
+              <div class="search-dropdown">
 
-						
-						
-							<div class="search-dropdown">
-								<!--<form action="search_submit" method="get" accept-charset="utf-8">							
-							 		<input type="text" name="some_name" value="Search" id="some_name"/><img src="/assets/img/icon_search_g.png" alt="" />
-							 	</form>
-                                -->
-								
+                
 <form action="/search" id="cse-search-box">
   <div style="margin: 0 8px 0 10px; position:relative; top:0px;">
     <input type="hidden" name="cx" value="011866891656082036877:inili82prme">
     <input type="hidden" name="cof" value="FORID:11">
     <input type="hidden" name="ie" value="UTF-8">
-	<input type="text" id="search" name="Q" value="Search Lowepro" width="100%" maxlegth="75" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"><img id="searchIcon" src="/assets/img/icon_search_g.png" alt="">
-	        <!--   <input type="image" src="/assets/img/icon_search_g.png" width="28" height="20"  name="sa"  id="searchIcon"  />        
- <button type="submit"  name="sa" value="Search" title="Go" class="button"><img id="searchIcon" src="/assets/img/icon_search_g.png" alt="" /></button> -->
-
+  <input type="text" id="search" name="Q" value="Search Lowepro" width="100%" maxlegth="75" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"><img id="searchIcon" src="/assets/img/icon_search_g.png" alt="">
+    
   </div>
 </form>
-					
+          
 <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
          
-							</div>
-						
-						
-						
-						</li>
-						<li><a href="http://store.lowepro.com/customer/account/"><img src="/assets/img/icon_acct_g.png" alt=""> <span id="mobilemenu-Text-Acct"></span></a></li>                           <li><a href="http://store.lowepro.com/checkout/cart/"><img src="/assets/img/icon_cart_g.png" alt=""> <span id="mobilemenu-Text-Cart"></span></a></li>
+              </div>
+            
+            
+            
+            </li>
+            <li><a href="http://store.lowepro.com/customer/account/"><img src="/assets/img/icon_acct_g.png" alt=""> <span id="mobilemenu-Text-Acct"></span></a></li>                           <li><a href="http://store.lowepro.com/checkout/cart/"><img src="/assets/img/icon_cart_g.png" alt=""> <span id="mobilemenu-Text-Cart"></span></a></li>
                      </ul>
                   </div>
-				<div class="country_selector">
-			    		<ul>
-			    			<li>			    				
-			    				    										<div class="default_country flag_US">US </div>
-									      
-																
-			    				 <div class="country_list">
-						            <ul class="countries">
-										<a href="/select_region.php?region=CA"><li class="flag_CA">CA </li></a>    
-										<a href="/select_region.php?region=GB"><li class="flag_UK">UK </li></a>    
-										<a href="/select_region.php?region=DE"><li class="flag_DE">DE </li></a>    
-										<a href="/select_region.php?region=FR"><li class="flag_FR">FR </li></a>    
-										<a href="/select_region.php?region=JP"><li class="flag_JP">JP </li></a>    
-  	
-									 </ul>									 
-			        			</div>
-					        </li>
-					    </ul>      
-			    	</div>
-				<ul role="menubar"> <!-- Menu gets toggled here -->
+        <div class="country_selector">
+              <ul>
+                <li>                  
+                                          <div class="default_country flag_US">US </div>
+                        
+                                
+                   <div class="country_list">
+                        <ul class="countries">
+                    <a href="/select_region.php?region=CA"><li class="flag_CA">CA </li></a>    
+                    <a href="/select_region.php?region=GB"><li class="flag_UK">UK </li></a>    
+                    <a href="/select_region.php?region=DE"><li class="flag_DE">DE </li></a>    
+                    <a href="/select_region.php?region=FR"><li class="flag_FR">FR </li></a>    
+                    <a href="/select_region.php?region=JP"><li class="flag_JP">JP </li></a>    
+   
+                   </ul>                   
+                    </div>
+                  </li>
+              </ul>      
+            </div>
+        <ul role="menubar"> <!-- Menu gets toggled here -->
 
-					<li role="menuitem" class="category" aria-haspopup="true">
-						<span class="menuLabel">Products</span><span class="menuArrow">&gt;</span>
-						<div class="menuContent products">
-							<div class="headerSection prod-threeCol">
-								<span class="headerSectionLabel">Camera</span>
-								<ul role="menu" class="productsColumn oneThird">
-									<li role="menuitem" class="prodLink1" name="adventura"><a href="http://www.lowepro.com/adventura" onclick="_gaq.push(['_trackEvent', 'Adventura-Mod', 'menuclick', 'Adventura']);">Adventura</a></li>
-									<li role="menuitem" class="prodLink1" name="dryzone"><a href="http://www.lowepro.com/dryzone" onclick="_gaq.push(['_trackEvent', 'DryZone-Mod', 'menuclick', 'DryZone']);">DryZone</a></li>
-									<li role="menuitem" class="prodLink1" name="fastpack"><a href="http://www.lowepro.com/fastpack" onclick="_gaq.push(['_trackEvent', 'Fastpack-Mod', 'menuclick', 'Fastpack']);">Fastpack</a></li>
-									<li role="menuitem" class="prodLink1" name="flipside"><a href="http://www.lowepro.com/flipside" onclick="_gaq.push(['_trackEvent', 'Flipside-Mod', 'menuclick', 'Flipside']);">Flipside</a></li>
-									<li role="menuitem" class="prodLink1" name="passport-series"><a href="http://www.lowepro.com/passport-series" onclick="_gaq.push(['_trackEvent', 'Passport-Mod', 'menuclick', 'Passport']);">Passport</a></li>
-									<li role="menuitem" class="prodLink1" name="photo-classic"><a href="http://www.lowepro.com/photo-classic" onclick="_gaq.push(['_trackEvent', 'Photo Classic-Mod', 'menuclick', 'Photo Classic']);">Photo Classic</a></li>
-									<li role="menuitem" class="prodLink1" name="photo-hatchback-aw"><a href="http://www.lowepro.com/photo-hatchback-aw" onclick="_gaq.push(['_trackEvent', 'Photo Hatchback-Mod', 'menuclick', 'Photo Hatchback']);">Photo Hatchback</a></li>
-									<li role="menuitem" class="prodLink1" name="photosport"><a href="http://www.lowepro.com/photosport" onclick="_gaq.push(['_trackEvent', 'Photo Sport-Mod', 'menuclick', 'Photo Sport']);">Photo Sport</a></li>								
-								</ul>
-								<ul role="menu" class="productsColumn oneThird">
-									<li role="menuitem" class="prodLink1" name="photostream"><a href="http://www.lowepro.com/photostream" onclick="_gaq.push(['_trackEvent', 'PhotoStream-Mod', 'menuclick', 'PhotoStream']);">PhotoStream</a></li>
-									<li role="menuitem" class="prodLink1" name="pro-roller-x-aw"><a href="http://www.lowepro.com/pro-roller-x-aw" onclick="_gaq.push(['_trackEvent', 'Pro Roller-Mod', 'menuclick', 'Pro Roller']);">Pro Roller</a></li>
-									<li role="menuitem" class="prodLink1" name="prorunner"><a href="http://www.lowepro.com/prorunner" onclick="_gaq.push(['_trackEvent', 'Pro Runner-Mod', 'menuclick', 'Pro Runner']);">Pro Runner</a></li>
-									<li role="menuitem" class="prodLink1" name="protactic"><a href="http://www.lowepro.com/protactic" onclick="_gaq.push(['_trackEvent', 'ProTactic-Mod', 'menuclick', 'ProTactic']);">ProTactic</a></li>
-									<li role="menuitem" class="prodLink1" name="protrekker"><a href="http://www.lowepro.com/trekker" onclick="_gaq.push(['_trackEvent', 'Pro Trekker-Mod', 'menuclick', 'Pro Trekker']);">Pro Trekker</a></li>
-									<li role="menuitem" class="prodLink1" name="slingshot"><a href="http://www.lowepro.com/slingshot" onclick="_gaq.push(['_trackEvent', 'Slingshot Edge-Mod', 'menuclick', 'Slingshot Edge']);">Slingshot Edge</a></li>
-									<li role="menuitem" class="prodLink1" name="sfseries"><a href="http://www.lowepro.com/sfseries" onclick="_gaq.push(['_trackEvent', 'SF Series-Mod', 'menuclick', 'SF Series']);">Street &amp; Field</a></li> 
-									<li role="menuitem" class="prodLink1" name="whistler"><a href="http://www.lowepro.com/whistler" onclick="_gaq.push(['_trackEvent', 'Whislter-Mod', 'menuclick', 'Whistler']);">Whistler</a></li>
-								</ul>
-								<div class="sideImgProd narrow">
-									<a href="http://www.lowepro.com/whistler"><img id="ProdImg1" src="/assets/img/menu/product/whistler.png" alt=""></a>
-								</div>
-								<div class="clearfloat"></div>
-								<div class="btmImg">
-									<a href="http://www.lowepro.com/protactic"><img src="/assets/img/menu/lifestyle_bg1.png" alt=""></a>
-								</div>
-							</div>
-							<div class="headerSection prod-twoCol">
-								<span class="headerSectionLabel">Travel, Laptop &amp; Tablet</span>
-								<ul role="menu" class="productsColumn">
-									<li role="menuitem" class="prodLink2" name="highline"><a href="http://www.lowepro.com/highline" onclick="_gaq.push(['_trackEvent', 'HighLine-Mod', 'menuclick', 'HighLine']);">HighLine</a></li>
-									<li role="menuitem" class="prodLink2" name="ridgeline"><a href="http://www.lowepro.com/ridgeline" onclick="_gaq.push(['_trackEvent', 'RidgeLine-Mod', 'menuclick', 'RidgeLine']);">RidgeLine</a></li>
-									<li role="menuitem" class="prodLink2" name="streetline"><a href="http://www.lowepro.com/streetline" onclick="_gaq.push(['_trackEvent', 'StreetLine-Mod', 'menuclick', 'StreetLine']);">StreetLine</a></li>
-								</ul>
-								<div class="sideImgProd">
-									<a href="http://www.lowepro.com/streetline"><img id="ProdImg2" src="/assets/img/menu/product/streetline.png"></a>
-								</div>
-								<div class="clearfloat"></div>
-								<div class="btmImg">
-									<a href="http://www.lowepro.com/highline"><img src="/assets/img/menu/lifestyle_bg2.png" alt=""></a>
-								</div>
-							</div>
-							<div class="headerSection prod-twoCol">
-								<span class="headerSectionLabel">Drone &amp; Quadcopter</span>
-								<ul role="menu" class="productsColumn">
-									<li role="menuitem" class="prodLink3" name="droneguard"><a href="http://www.lowepro.com/droneguard" onclick="_gaq.push(['_trackEvent', 'DroneGaurd-Mod', 'menuclick', 'DroneGuard']);">DroneGuard</a></li>
-									<li role="menuitem" class="prodLink3" name="quadguard"><a href="http://www.lowepro.com/quadguard" onclick="_gaq.push(['_trackEvent', 'QuadGaurd-Mod', 'menuclick', 'QuadGuard']);">QuadGuard</a></li>
+          <li role="menuitem" class="category" aria-haspopup="true">
+            <span class="menuLabel">Products</span><span class="menuArrow">&gt;</span>
+            <div class="menuContent products">
+              <div class="headerSection prod-threeCol">
+                <span class="headerSectionLabel">Camera Bags</span>
+                <ul role="menu" class="productsColumn oneThird">
+                  <li role="menuitem" class="prodLink1" name="adventura"><a href="http://www.lowepro.com/adventura" onclick="ga('send', 'event', 'Adventura-Modx', 'menuclick', 'Adventura');">Adventura</a></li>
+                  <li role="menuitem" class="prodLink1" name="dryzone"><a href="http://www.lowepro.com/dryzone" onclick="ga('send', 'event', 'DryZone-Modx', 'menuclick', 'DryZone');">DryZone</a></li>
+                  <li role="menuitem" class="prodLink1" name="fastpack"><a href="http://www.lowepro.com/fastpack" onclick="ga('send', 'event', 'Fastpack-Modx', 'menuclick', 'Fastpack');">Fastpack</a></li>
+                  <li role="menuitem" class="prodLink1" name="flipside"><a href="http://www.lowepro.com/flipside" onclick="ga('send', 'event', 'Flipside-Modx', 'menuclick', 'Flipside');">Flipside</a></li>
+					<li role="menuitem" class="prodLink1" name="photo-hatchback-aw"><a href="http://www.lowepro.com/photo-hatchback-aw" onclick="ga('send', 'event', 'Photo Hatchback-Modx', 'menuclick', 'Photo Hatchback');">Hatchback</a></li>
+                  <li role="menuitem" class="prodLink1" name="nova"><a href="http://www.lowepro.com/nova" onclick="ga('send', 'event', 'Nova-Modx', 'menuclick', 'Nova');">Nova</a></li>
+				<li role="menuitem" class="prodLink1" name="passport-series"><a href="http://www.lowepro.com/passport-series" onclick="ga('send', 'event', 'Passport-Modx', 'menuclick', 'Passport');">Passport</a></li>
+                  <li role="menuitem" class="prodLink1" name="photo-classic"><a href="http://www.lowepro.com/photo-classic" onclick="ga('send', 'event', 'Photo Classic-Modx', 'menuclick', 'Photo Classic');">Photo Classic</a></li>
+                  
+                  <li role="menuitem" class="prodLink1" name="photosport"><a href="http://www.lowepro.com/photosport" onclick="ga('send', 'event', 'Photo Sport-Modx', 'menuclick', 'Photo Sport');">Photo Sport</a></li>                
+                </ul>
+                <ul role="menu" class="productsColumn oneThird">
+                  <li role="menuitem" class="prodLink1" name="photostream"><a href="http://www.lowepro.com/photostream" onclick="ga('send', 'event', 'PhotoStream-Modx', 'menuclick', 'PhotoStream');">PhotoStream</a></li>
+                  <li role="menuitem" class="prodLink1" name="pro-roller-x-aw"><a href="http://www.lowepro.com/pro-roller-x-aw" onclick="ga('send', 'event', 'Pro Roller-Modx', 'menuclick', 'Pro Roller');">Pro Roller</a></li>
+                  <li role="menuitem" class="prodLink1" name="prorunner"><a href="http://www.lowepro.com/prorunner" onclick="ga('send', 'event', 'Pro Runner-Modx', 'menuclick', 'Pro Runner');">Pro Runner</a></li>
+                  <li role="menuitem" class="prodLink1" name="protactic"><a href="http://www.lowepro.com/protactic" onclick="ga('send', 'event', 'ProTactic-Modx', 'menuclick', 'ProTactic');">ProTactic</a></li>
+                  <li role="menuitem" class="prodLink1" name="protrekker"><a href="http://www.lowepro.com/trekker" onclick="ga('send', 'event', 'Pro Trekker-Modx', 'menuclick', 'Pro Trekker');">Pro Trekker</a></li>
+                  <li role="menuitem" class="prodLink1" name="slingshot"><a href="http://www.lowepro.com/slingshot" onclick="ga('send', 'event', 'Slingshot Edge-Modx', 'menuclick', 'Slingshot Edge');">Slingshot</a></li>
+				<li role="menuitem" class="prodLink1" name="sfseries"><a href="http://www.lowepro.com/sfseries" onclick="ga('send', 'event', 'SF Series-Modx', 'menuclick', 'SF Series');">Street &amp; Field</a></li>
+                  <li role="menuitem" class="prodLink1" name="tahoe"><a href="http://www.lowepro.com/tahoe" onclick="ga('send', 'event', 'Tahoe-Modx', 'menuclick', 'Tahoe');">Tahoe</a></li>
+				<li role="menuitem" class="prodLink1" name="whistler"><a href="http://www.lowepro.com/whistler" onclick="ga('send', 'event', 'Whislter-Modx', 'menuclick', 'Whistler');">Whistler</a></li>
+                </ul>
+                <div class="sideImgProd narrow">
+                  <a href="http://www.lowepro.com/whistler"><img id="ProdImg1" src="/assets/img/menu/product/whistler.png" alt=""></a>
+                </div>
+              </div>
+              <div class="headerSection prod-twoCol">
+                <span class="headerSectionLabel">Laptop &amp; Tablet</span>
+                <ul role="menu" class="productsColumn">
+                  <li role="menuitem" class="prodLink2" name="highline"><a href="http://www.lowepro.com/highline" onclick="ga('send', 'event', 'HighLine-Modx', 'menuclick', 'HighLine');">HighLine</a></li>
+                  <li role="menuitem" class="prodLink2" name="ridgeline"><a href="http://www.lowepro.com/ridgeline" onclick="ga('send', 'event', 'RidgeLine-Modx', 'menuclick', 'RidgeLine');">RidgeLine</a></li>
+                  <li role="menuitem" class="prodLink2" name="streetline"><a href="http://www.lowepro.com/streetline" onclick="ga('send', 'event', 'StreetLine-Modx', 'menuclick', 'StreetLine');">StreetLine</a></li>
+                </ul>
+                <div class="sideImgProd">
+                  <a href="http://www.lowepro.com/streetline"><img id="ProdImg2" src="/assets/img/menu/product/streetline.png"></a>
+                </div>
+              </div>
+              <div class="headerSection prod-twoCol">
+                <span class="headerSectionLabel">Drone &amp; Quad</span>
+                <ul role="menu" class="productsColumn">
+                  <li role="menuitem" class="prodLink3" name="droneguard"><a href="http://www.lowepro.com/droneguard" onclick="ga('send', 'event', 'DroneGaurd-Modx', 'menuclick', 'DroneGuard');">DroneGuard</a></li>
+                  <li role="menuitem" class="prodLink3" name="quadguard"><a href="http://www.lowepro.com/quadguard" onclick="ga('send', 'event', 'QuadGaurd-Modx', 'menuclick', 'QuadGuard');">QuadGuard</a></li>
 
-									<span class="headerSectionLabel lower"><span>GoPro, 360 &amp; </span>Action Video</span>
+                  <span class="headerSectionLabel lower"><span>Action &amp; </span>360° Cam</span>
 
-									<li role="menuitem" class="prodLink3" name="dashpoint"><a href="http://www.lowepro.com/dashpoint" onclick="_gaq.push(['_trackEvent', 'Dashpoint-Mod', 'menuclick', 'Dashpoint']);">Dashpoint</a></li>
-									<li role="menuitem" class="prodLink3" name="viewpoint"><a href="http://www.lowepro.com/viewpoint" onclick="_gaq.push(['_trackEvent', 'ViewPoint-Mod', 'menuclick', 'ViewPoint']);">ViewPoint</a></li>
-								</ul>
-								<div class="sideImgProd">
-									<a href="http://www.lowepro.com/dashpoint"><img id="ProdImg3" src="/assets/img/menu/product/dashpoint.png"></a>
-								</div>
-								<div class="clearfloat"></div>
-								<div class="btmImg">
-									<a href="http://www.lowepro.com/droneguard"><img src="/assets/img/menu/lifestyle_bg3.png" alt=""></a>
-								</div>
-							</div>
-						</div>
-						
-					</li><!-- END category
-				--><li role="menuitem" class="category" aria-haspopup="true">
-						<span class="menuLabel">Shop By</span><span class="menuArrow">&gt;</span>
-						<div class="menuContent shopBy">
-							<!-- Background image divs -->
-							<div class="headerSection twoCol">
+                  <li role="menuitem" class="prodLink3" name="dashpoint"><a href="http://www.lowepro.com/dashpoint" onclick="ga('send', 'event', 'Dashpoint-Modx', 'menuclick', 'Dashpoint');">Dashpoint</a></li>
+                  <li role="menuitem" class="prodLink3" name="viewpoint"><a href="http://www.lowepro.com/viewpoint" onclick="ga('send', 'event', 'ViewPoint-Modx', 'menuclick', 'ViewPoint');">ViewPoint</a></li>
+                </ul>
+                <div class="sideImgProd">
+                  <a href="http://www.lowepro.com/dashpoint"><img id="ProdImg3" src="/assets/img/menu/product/dashpoint.png"></a>
+                </div>
+              </div>
+            </div>
+            
+          </li><!-- END category
+        --><li role="menuitem" class="category" aria-haspopup="true">
+            <span class="menuLabel">Shop By</span><span class="menuArrow">&gt;</span>
+            <div class="menuContent shopBy">
+              <!-- Background image divs -->
+              <div class="headerSection twoCol">
 
-								<span class="headerSectionLabel">Bag Type</span>
-								<ul role="menu" class="productsColumn">
-									<li role="menuitem"><a href="http://store.lowepro.com/backpacks" onclick="_gaq.push(['_trackEvent', 'Backpacks-Mod', 'menuclick', 'Backpacks']);">Backpacks</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shoulder-bags" onclick="_gaq.push(['_trackEvent', 'Shoulder Bags-Mod', 'menuclick', 'Shoulder Bags']);">Shoulder Bags</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/sling-bags" onclick="_gaq.push(['_trackEvent', 'Sling Bags-Mod', 'menuclick', 'Sling Bags']);">Sling Bags</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/rolling-cases" onclick="_gaq.push(['_trackEvent', 'Rolling Cases-Mod', 'menuclick', 'Rolling Cases']);">Rolling Cases</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/hard-cases" onclick="_gaq.push(['_trackEvent', 'Hard Cases-Mod', 'menuclick', 'Hard Cases']);">Hard Cases</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/lens-cases" onclick="_gaq.push(['_trackEvent', 'Lens Cases-Mod', 'menuclick', 'Lens Cases']);">Lens Cases</a></li>
-								</ul>
-								<ul role="menu" class="productsColumn">
-									<li role="menuitem"><a href="http://store.lowepro.com/duffle" onclick="_gaq.push(['_trackEvent', 'Duffle Bags-Mod', 'menuclick', 'Duffle Bags']);">Duffle Bags</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/toploading" onclick="_gaq.push(['_trackEvent', 'Toploading-Mod', 'menuclick', 'Toploading']);">Toploading</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/modular" onclick="_gaq.push(['_trackEvent', 'Modular-Mod', 'menuclick', 'Modular']);">Modular</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/beltpacks" onclick="_gaq.push(['_trackEvent', 'Beltpacks-Mod', 'menuclick', 'Beltpacks']);">Beltpacks</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/pouches" onclick="_gaq.push(['_trackEvent', 'Pouches-Mod', 'menuclick', 'Pouches']);">Pouches</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/lowepro-accessories" onclick="_gaq.push(['_trackEvent', 'Accessories-Mod', 'menuclick', 'Accessories']);">Accessories</a></li>
-								</ul>
-							</div>
-							<div class="headerSection oneCol">
-								<span class="headerSectionLabel">Camera</span>
-								<ul role="menu" class="productsColumn">
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/dslr" onclick="_gaq.push(['_trackEvent', 'DSLR-Mod', 'menuclick', 'DSLR']);">DSLR</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/mirrorless" onclick="_gaq.push(['_trackEvent', 'Mirrorless-Mod', 'menuclick', 'Mirrorless']);">Mirrorless/ILC</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/pro-video" onclick="_gaq.push(['_trackEvent', 'Pro Video-Mod', 'menuclick', 'Pro Video']);">Pro Video</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/pouches" onclick="_gaq.push(['_trackEvent', 'Point &amp; Shoot-Mod', 'menuclick', 'Point &amp; Shoot']);">Point&nbsp;&amp;&nbsp;Shoot</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/lens-cases" onclick="_gaq.push(['_trackEvent', 'Lens Cases-Mod', 'menuclick', 'Lens Cases']);">Lens</a></li>
-								</ul>
-							</div>
-							<div class="headerSection oneCol">
-								<span class="headerSectionLabel">Device</span>
-								<ul role="menu" class="productsColumn">					
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/drones-quadcopters" onclick="_gaq.push(['_trackEvent', 'Drone-Mod', 'menuclick', 'Drones']);">Drones</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/tablet" onclick="_gaq.push(['_trackEvent', 'Tablet-Mod', 'menuclick', 'Tablet']);">Tablet</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/laptop" onclick="_gaq.push(['_trackEvent', 'Laptop-Mod', 'menuclick', 'Laptop']);">Laptop</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/action-video-cam" onclick="_gaq.push(['_trackEvent', 'Action Video-Mod', 'menuclick', 'Action Video']);">Action&nbsp;Cam</a></li>
-									<!-- <li role="menuitem"><a href="TBD" onclick="_gaq.push(['_trackEvent', 'Phone-Mod', 'menuclick', 'Phone']);">Phone</a></li> -->
-									<!-- <li role="menuitem"><a href="TBD" onclick="_gaq.push(['_trackEvent', 'Personal-Mod', 'menuclick', 'Personal']);">Personal&nbsp;Gear</a></li>   -->                               
-								</ul>
-							</div>
-							<div class="headerSection oneCol">
-								<span class="headerSectionLabel">Activity</span>
-								<ul role="menu" class="productsColumn">
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/outdoor-adventure" onclick="_gaq.push(['_trackEvent', 'Outdoor Adventure-Mod', 'menuclick', 'Outdoor Adventure']);">Outdoor Adventure</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/action-sports" onclick="_gaq.push(['_trackEvent', 'Action Sports-Mod', 'menuclick', 'Action Sports']);">Action Sports</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/drones-quadcopters" onclick="_gaq.push(['_trackEvent', 'Aerial Photography-Mod', 'menuclick', 'Aerial Photography']);">Aerial Photography</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/wedding-and-event" onclick="_gaq.push(['_trackEvent', 'Wedding &amp; Event-Mod', 'menuclick', 'Wedding and Event']);">Wedding &amp; Event</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/travel-and-vacation" onclick="_gaq.push(['_trackEvent', 'Travel and Vacation-Mod', 'menuclick', 'Travel and Vacation']);">Travel &amp; Vacation</a></li>
-									<li role="menuitem"><a href="http://store.lowepro.com/shop/everyday-commute" onclick="_gaq.push(['_trackEvent', 'Daily Commute-Mod', 'menuclick', 'Daily Commute']);">Daily Commute</a></li>
-								</ul>
-							</div>
-						</div>
-					</li><!-- END category
-				--><li role="menuitem" class="category" aria-haspopup="true">
-						<span class="menuLabel">Bagfinder</span><span class="menuArrow">&gt;</span>
-						<div class="menuContent bagfinder">
-							<div class="headerSection twoCol">
-								<span class="headerSectionLabel">Fit your gear with Bagfinder</span>
-								<div class="bagfinderImg">
-									<a href="http://www.lowepro.com/bagfinder"><img src="/assets/img/menu/menu_bagfinder.jpg"></a>
-								</div>
+                <span class="headerSectionLabel">Bag Style</span>
+                <ul role="menu" class="productsColumn">
+                  <li role="menuitem"><a href="http://store.lowepro.com/backpacks" onclick="ga('send', 'event', 'Backpacks-Modx', 'menuclick', 'Backpacks');">Backpacks</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/shoulder-bags" onclick="ga('send', 'event', 'Shoulder Bags-Modx', 'menuclick', 'Shoulder Bags');">Shoulder Bags</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/sling-bags" onclick="ga('send', 'event', 'Sling Bags-Modx', 'menuclick', 'Sling Bags');">Sling Bags</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/rolling-cases" onclick="ga('send', 'event', 'Rolling Cases-Modx', 'menuclick', 'Rolling Cases');">Rolling Cases</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/hard-cases" onclick="ga('send', 'event', 'Hard Cases-Modx', 'menuclick', 'Hard Cases');">Hard Cases</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/lens-cases" onclick="ga('send', 'event', 'Lens Cases-Modx', 'menuclick', 'Lens Cases');">Lens Cases</a></li>
+                </ul>
+                <ul role="menu" class="productsColumn">
+                  <li role="menuitem"><a href="http://store.lowepro.com/duffle" onclick="ga('send', 'event', 'Duffle Bags-Modx', 'menuclick', 'Duffle Bags');">Duffle Bags</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/toploading" onclick="ga('send', 'event', 'Toploading-Modx', 'menuclick', 'Toploading');">Toploading</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/modular" onclick="ga('send', 'event', 'Modular-Modx', 'menuclick', 'Modular');">Modular</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/beltpacks" onclick="ga('send', 'event', 'Beltpacks-Modx', 'menuclick', 'Beltpacks');">Beltpacks</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/pouches" onclick="ga('send', 'event', 'Pouches-Modx', 'menuclick', 'Pouches');">Pouches</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/lowepro-accessories" onclick="ga('send', 'event', 'Accessories-Modx', 'menuclick', 'Accessories');">Accessories</a></li>
+                </ul>
+              </div>
+              <div class="headerSection oneCol">
+                <span class="headerSectionLabel">Camera</span>
+                <ul role="menu" class="productsColumn">
+                  <li role="menuitem"><a href="http://store.lowepro.com/shop/dslr" onclick="ga('send', 'event', 'DSLR-Modx', 'menuclick', 'DSLR');">DSLR</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/shop/mirrorless" onclick="ga('send', 'event', 'Mirrorless-Modx', 'menuclick', 'Mirrorless');">Mirrorless / ILC</a></li>
+				<li role="menuitem"><a href="http://store.lowepro.com/shop/action-video-cam" onclick="ga('send', 'event', 'Action Video-Modx', 'menuclick', 'Action Video');">360° VR / Action</a></li>     
+                  <li role="menuitem"><a href="http://store.lowepro.com/shop/pro-video" onclick="ga('send', 'event', 'Pro Video-Modx', 'menuclick', 'Pro Video');">Pro Video</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/pouches" onclick="ga('send', 'event', 'Point &amp; Shoot-Modx', 'menuclick', 'Point &amp; Shoot');">Point&nbsp;&amp;&nbsp;Shoot</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/lens-cases" onclick="ga('send', 'event', 'Lens Cases-Modx', 'menuclick', 'Lens Cases');">Lens</a></li>
+                </ul>
+              </div>
+              <div class="headerSection oneCol">
+                <span class="headerSectionLabel">Device</span>
+                <ul role="menu" class="productsColumn">         
+                  <li role="menuitem"><a href="http://store.lowepro.com/shop/drones-quadcopters" onclick="ga('send', 'event', 'Drone-Modx', 'menuclick', 'Drones');">Drone &amp; Quad</a></li>
+				<li role="menuitem"><a href="http://store.lowepro.com/shop/laptop" onclick="ga('send', 'event', 'Laptop-Modx', 'menuclick', 'Laptop');">Laptop Bags</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/shop/tablet" onclick="ga('send', 'event', 'Tablet-Modx', 'menuclick', 'Tablet');">Tablet Cases</a></li>                                         
+                </ul>
+              </div>
+              <div class="headerSection oneCol">
+                <span class="headerSectionLabel">Activity</span>
+                <ul role="menu" class="productsColumn">
+					<li role="menuitem"><a href="http://store.lowepro.com/pro-gear/" onclick="ga('send', 'event', 'Pro Photo-Modx', 'menuclick', 'Pro Photography');">Pro Photography</a></li>
+					<li role="menuitem"><a href="http://store.lowepro.com/shop/everyday-commute" onclick="ga('send', 'event', 'Daily Commute-Modx', 'menuclick', 'Daily Commute');">Daily Commute</a></li>
+					<li role="menuitem"><a href="http://store.lowepro.com/shop/travel-and-vacation" onclick="ga('send', 'event', 'Travel and Vacation-Modx', 'menuclick', 'Travel and Vacation');">Travel &amp; Vacation</a></li>
+					<li role="menuitem"><a href="http://store.lowepro.com/pro-gear/expedition-ready" onclick="ga('send', 'event', 'Expedition Ready-Modx', 'menuclick', 'Expedition Ready');">Expedition Ready</a></li>
+					<li role="menuitem"><a href="http://store.lowepro.com/shop/wedding-and-event" onclick="ga('send', 'event', 'Wedding &amp; Event-Modx', 'menuclick', 'Wedding and Event');">Wedding &amp; Event</a></li>
+					<li role="menuitem"><a href="http://store.lowepro.com/shop/action-sports" onclick="ga('send', 'event', 'Action Sports-Modx', 'menuclick', 'Action Sports');">Action Sports</a></li>					
+					<li role="menuitem"><a href="http://store.lowepro.com/shop/drones-quadcopters" onclick="ga('send', 'event', 'Aerial Photography-Modx', 'menuclick', 'Aerial Photography');">Aerial Photography</a></li>
+                  <li role="menuitem"><a href="http://store.lowepro.com/shop/drones-quadcopters/fpv-racing-drone-bags" onclick="ga('send', 'event', 'FPV Racing-Modx', 'menuclick', 'FPV Racing');">FPV Racing</a></li>
+                </ul>
+              </div>
+            </div>
+          </li><!-- END category
+        --><li role="menuitem" class="category" aria-haspopup="true">
+            <span class="menuLabel">Bagfinder</span><span class="menuArrow">&gt;</span>
+            <div class="menuContent bagfinder">
+              <div class="headerSection twoCol">
+                <span class="headerSectionLabel">Fit your gear</span>
+                <div class="bagfinderImg">
+                  <a href="http://www.lowepro.com/bagfinder"><img src="/assets/img/menu/bagfinder.png"></a>
+				  </div>
+                <ul role="menu" class="productsColumn full" id="bagfinderLink">
+                  <li role="menuitem"><a href="http://www.lowepro.com/bagfinder" onclick="ga('send', 'event', 'Bagfinder-Modx', 'menuclick', 'Bagfinder');">Bagfinder</a></li>
+                </ul>
+              </div>
+              <div class="headerSection twoCol">
+                <span class="headerSectionLabel">Bag &amp; Backpack Guides</span>
+                <ul role="menu" class="productsColumn full">
+                  <li role="menuitem"><a href="http://www.lowepro.com/travel" onclick="ga('send', 'event', 'Guide To Travel Bags-Modx', 'menuclick', 'Guide To Travel Bags');">Guide to Travel Bags, Backpacks &amp; Luggage</a></li>
+                  <li role="menuitem"><a href="http://www.lowepro.com/camera-backpacks" onclick="ga('send', 'event', 'Guide To Camera Backpacks-Modx', 'menuclick', 'Guide To Camera Backpacks');">Guide to Camera Backpacks</a></li>
+                  <li role="menuitem"><a href="http://www.lowepro.com/camera-messenger-bags" onclick="ga('send', 'event', 'Guide To Camera Shoulder Bags-Modx', 'menuclick', 'Guide To Camera Shoulder Bags');">Guide to Camera Shoulder Bags</a></li>
+                  <li role="menuitem"><a href="http://www.lowepro.com/camera-sling-bags" onclick="ga('send', 'event', 'Guide To Camera Sling Bags-Modx', 'menuclick', 'Guide To Camera Sling Bags');">Guide to Camera Sling Bags</a></li>
+                  <li role="menuitem"><a href="http://www.lowepro.com/rolling-camera-bag" onclick="ga('send', 'event', 'Guide To Camera Rolling Cases-Modx', 'menuclick', 'Guide To Camera Rolling Cases');">Guide to Camera Rolling Cases</a></li>
+                  <li role="menuitem"><a href="http://www.lowepro.com/guide-to-protect-and-carry-drones-quadcopters" onclick="ga('send', 'event', 'Guide To Protecting Drones and Quadcopters-Modx', 'menuclick', 'Guide to Drone Backpacks &amp; Cases');">Guide to Drone Backpacks &amp; Cases</a></li>
+        <li role="menuitem"><a href="http://www.lowepro.com/mavic-pro-drone-backpacks-and-cases" onclick="ga('send', 'event', 'Guide To Protecting Drones and Quadcopters-Modx', 'menuclick', 'Best Bags for DJI Mavic Pro');">  Best Bags for DJI Mavic Pro</a></li>
+                  <li role="menuitem"><a href="http://www.lowepro.com/action" onclick="ga('send', 'event', 'Guide to Action Video Bags', 'menuclick', 'Guide to Action Video Bags');">Guide to Action Video Bags</a></li>
+                </ul>
+              </div>
+              <div class="headerSection oneCol">
+                <span class="headerSectionLabel">Where to Buy</span>
+                <ul role="menu" class="productsColumn">
+                  <li role="menuitem"><a href="http://www.lowepro.com/about-us/where-to-buy" onclick="ga('send', 'event', 'Lowepro Dealer Locator-Modx', 'menuclick', 'Lowepro Dealer Locator');">Store Locator</a></li>
+                  	<li role="menuitem"><a href="http://www.lowepro.com/about-us/international-distributors" onclick="ga('send', 'event', 'International Distributors-Modx', 'menuclick', 'International Distributors');">Int'l Distributors</a></li>
+                  	<li role="menuitem"><a href="http://www.lowepro.com/about-us/online-retailers" onclick="ga('send', 'event', 'U.S. Online Retailers-Modx', 'menuclick', 'U.S. Online Retailers');">Online Retailers</a></li>
+					<li role="menuitem"><a href="/select_region.php?region=GB" onclick="ga('send', 'event', 'Lowepro UK-Modx', 'menuclick', 'Lowepro UK');">Lowepro UK</a></li>
+					<li role="menuitem"><a href="/select_region.php?region=CA" onclick="ga('send', 'event', 'Lowepro Canada-Modx', 'menuclick', 'Lowepro Canada');">Lowepro Canada</a></li>
+					<li role="menuitem"><a href="/select_region.php?region=DE" onclick="ga('send', 'event', 'Lowepro Germany-Modx', 'menuclick', 'Lowepro Germany');">Lowepro Germany</a></li>
+					<li role="menuitem"><a href="/select_region.php?region=FR" onclick="ga('send', 'event', 'Lowepro France-Modx', 'menuclick', 'Lowepro France');">Lowepro France</a></li>
+					<li role="menuitem"><a href="/select_region.php?region=US" onclick="ga('send', 'event', 'Lowepro USA-Modx', 'menuclick', 'Lowepro USA');">Lowepro USA</a></li>
+                </ul>
+              </div>
+            </div>
+          </li><!-- END category
+        --><li role="menuitem" class="category" aria-haspopup="true">
+            <span href="" class="menuLabel">Community</span><span class="menuArrow">&gt;</span>
+            <div class="menuContent professional">
+              <div class="headerSection threeCol">
+                <span class="headerSectionLabel">Loweprofessionals</span>
+                <ul role="menu" class="productsColumn oneThird">
+                  <li role="menuitem" class="profLink" name="chris_mclennan"><a href="http://www.lowepro.com/loweprofessionals/chris_mclennan" onclick="ga('send', 'event', 'Chris Mclennan-Modx', 'menuclick', 'Chris Mclennan');">Chris McLennan</a></li>
+                  <li role="menuitem" class="profLink" name="kt_miller"><a href="http://www.lowepro.com/loweprofessionals/kt_miller" onclick="ga('send', 'event', 'Kt Miller-Modx', 'menuclick', 'Kt Miller');">Kt Miller</a></li>
+                  <li role="menuitem" class="profLink" name="dana_distortion"><a href="http://www.lowepro.com/loweprofessionals/dana_distortion" onclick="ga('send', 'event', 'Dana Distortion-Modx', 'menuclick', 'Dana Distortion');">Dana Distortion</a></li>
+                  <li role="menuitem" class="profLink" name="jed_jacobsohn"><a href="http://www.lowepro.com/loweprofessionals/jed_jacobsohn" onclick="ga('send', 'event', 'Jed Jacobsohn-Modx', 'menuclick', 'Jed Jacobsohn');">Jed Jacobsohn</a></li>
+				<li role="menuitem" class="profLink" name="michael_coleman"><a href="http://www.lowepro.com/loweprofessionals/michael_coleman" onclick="ga('send', 'event', 'Michael Coleman-Modx', 'menuclick', 'Michael Coleman');">Michael Coleman</a></li>                
+                </ul>
+                <ul role="menu" class="productsColumn oneThird">
+                  <li role="menuitem" class="profLink" name="paul_morrison"><a href="http://www.lowepro.com/loweprofessionals/paul_morrison" onclick="ga('send', 'event', 'Paul Morrison-Modx', 'menuclick', 'Paul Morrison');">Paul Morrison</a></li>
+                  <li role="menuitem" class="profLink" name="ian_spanier"><a href="http://www.lowepro.com/loweprofessionals/ian_spanier" onclick="ga('send', 'event', 'Ian Spanier-Modx', 'menuclick', 'Ian Spanier');">Ian Spanier</a></li>
+                  <li role="menuitem" class="profLink" name="rebecca_bathory"><a href="http://www.lowepro.com/loweprofessionals/rebecca_bathory" onclick="ga('send', 'event', 'Rebecca Bathory-Modx', 'menuclick', 'Rebecca Bathory');">Rebecca Bathory</a></li>
+                  <li role="menuitem" class="profLink" name="petr_jan_juracka"><a href="http://www.lowepro.com/loweprofessionals/petr_jan_juracka" onclick="ga('send', 'event', 'Petr Jan Juracka-Modx', 'menuclick', 'Petr Jan Juracka');">Petr Jan Juračka</a></li>
+				 <li role="menuitem" class="profLink" name="chris_higgins"><a href="http://www.lowepro.com/loweprofessionals/chris_higgins" onclick="ga('send', 'event', 'Chris Higgins', 'menuclick', 'Chris Higgins');">Chris Higgins</a></li>
+                </ul>
+                <div class="sideImgLP">
+                  <a href="http://www.lowepro.com/loweprofessionals/chris_mclennan"><img id="loweproImg" src="/assets/img/home/chris_mclennan.jpg" alt=""></a>
+                </div>
+              </div>
+              <div class="headerSection twoCol">
+				<img class="communityImg" src="/assets/img/menu/community-bg.png" alt="Community">
+                <span class="headerSectionLabel">Community</span>
+                <ul role="menu" class="productsColumn oneCol">
+					
+                  	<li role="menuitem"><a href="http://www.lowepro.com/loweprofessionals/#storytellers" onclick="ga('send', 'event', 'StoryTellers-Modx', 'menuclick', 'StoryTellers');">Lowepro Storytellers</a></li>
+					<li role="menuitem"><a href="http://blog.lowepro.com" onclick="ga('send', 'event', 'Lowepro Blog-Modx', 'menuclick', 'Lowepro Blog');">Lowepro Blog</a></li>
+					
+					<span class="headerSectionLabel lower">Social</span>
+					
+					<li role="menuitem"><a href="https://www.instagram.com/loweprobags/" onclick="ga('send', 'event', 'Instagram-Modx', 'menuclick', 'Instagram');">Instagram</a></li>
+					<li role="menuitem"><a href="https://www.facebook.com/LoweproBags" onclick="ga('send', 'event', 'Facebook-Modx', 'menuclick', 'Facebook');">Facebook</a></li>
+					<li role="menuitem"><a href="https://www.youtube.com/user/LoweproBags" onclick="ga('send', 'event', 'YouTube-Modx', 'menuclick', 'YouTube');">YouTube</a></li>
+					<li role="menuitem"><a href="https://twitter.com/lowepro" onclick="ga('send', 'event', 'Twitter-Modx', 'menuclick', 'Twitter');">Twitter</a></li>
+                </ul>
+              </div>
+            </div>
+          </li><!-- END category
+         --><li role="menuitem" class="category" aria-haspopup="true">
+            <span class="menuLabel">About</span><span class="menuArrow">&gt;</span>
+            <div class="menuContent about">
+              <div class="headerSection fullWidth">
+				<img class="aboutImg" src="/assets/img/menu/about-bg.jpg" alt="About Lowepro">
+				  <span class="headerSectionLabel">Explore</span>
+                <ul role="menu" class="productsColumn oneCol">
+					<li role="menuitem"><a href="http://www.lowepro.com/about" onclick="ga('send', 'event', 'About Lowepro-Modx', 'menuclick', 'About Lowepro');">About Lowepro</a></li>
+					<li role="menuitem"><a href="http://www.lowepro.com/alaska" onclick="ga('send', 'event', '50 Years-Modx', 'menuclick', '50 Years');">Celebrating 50 Years</a></li>
+					<li role="menuitem"><a href="http://www.lowepro.com/innovation" onclick="ga('send', 'event', 'Innovation-Modx', 'menuclick', 'Innovation');">Innovative Technology</a></li>
+					<li role="menuitem"><a href="http://www.lowepro.com/heritage" onclick="ga('send', 'event', 'Heritage-Modx', 'menuclick', 'Heritage');">Heritage of Design</a></li>
+					<li role="menuitem"><a href="http://www.lowepro.com/news/media-coverage" onclick="ga('send', 'event', 'Industry Reviews-Modx', 'menuclick', 'Industry Reviews');">Industry Reviews</a></li>
+                </ul>
+                              
+              </div>
+              
+            </div>
+          </li>
 
-								<a href="http://www.lowepro.com/bagfinder"><button type="button" title="Buy Now" class="button start-now"><span><span>Start Now</span></span></button></a>
-								<ul role="menu" class="productsColumn full" id="bagfinderLink">
-									<li role="menuitem"><a href="http://www.lowepro.com/bagfinder" onclick="_gaq.push(['_trackEvent', 'Guide To Camera Backpacks-Mod', 'menuclick', 'Guide To Camera Backpacks']);">Bagfinder</a></li>
-								</ul>
-							</div>
-							<div class="headerSection twoCol">
-								<span class="headerSectionLabel">Bag &amp; Backpack Buying Guides</span>
-								<ul role="menu" class="productsColumn full">
-									<li role="menuitem"><a href="http://www.lowepro.com/travel" onclick="_gaq.push(['_trackEvent', 'Guide To Travel Bags-Mod', 'menuclick', 'Guide To Travel Bags']);">Guide to Travel Bags, Backpacks &amp; Luggage</a></li>
-									<li role="menuitem"><a href="http://www.lowepro.com/camera-backpacks" onclick="_gaq.push(['_trackEvent', 'Guide To Camera Backpacks-Mod', 'menuclick', 'Guide To Camera Backpacks']);">Guide to Camera Backpacks</a></li>
-									<li role="menuitem"><a href="http://www.lowepro.com/camera-messenger-bags" onclick="_gaq.push(['_trackEvent', 'Guide To Camera Shoulder Bags-Mod', 'menuclick', 'Guide To Camera Shoulder Bags']);">Guide to Camera Shoulder Bags</a></li>
-									<li role="menuitem"><a href="http://www.lowepro.com/camera-sling-bags" onclick="_gaq.push(['_trackEvent', 'Guide To Camera Sling Bags-Mod', 'menuclick', 'Guide To Camera Sling Bags']);">Guide to Camera Sling Bags</a></li>
-									<li role="menuitem"><a href="http://www.lowepro.com/rolling-camera-bag" onclick="_gaq.push(['_trackEvent', 'Guide To Camera Rolling Cases-Mod', 'menuclick', 'Guide To Camera Rolling Cases']);">Guide to Camera Rolling Cases</a></li>
-									<li role="menuitem"><a href="http://www.lowepro.com/guide-to-protect-and-carry-drones-quadcopters" onclick="_gaq.push(['_trackEvent', 'Guide To Protecting Drones and Quadcopters-Mod', 'menuclick', 'Guide To Protecting Drones and Quadcopters']);">Protect &amp; Carry Drones &amp; Quadcopters</a></li>
-									<li role="menuitem"><a href="http://www.lowepro.com/action" onclick="_gaq.push(['_trackEvent', 'Guide To Protecting Action Video Cameras-Mod', 'menuclick', 'Organize and Protect Action Video']);">Organize &amp; Protect Action Video Cameras </a></li>
-								</ul>
-							</div>
-							<div class="headerSection oneCol">
-								<span class="headerSectionLabel">Where to Buy</span>
-								<ul role="menu" class="productsColumn">
-									<li role="menuitem"><a href="http://www.lowepro.com/about-us/where-to-buy" onclick="_gaq.push(['_trackEvent', 'Lowepro Dealer Locator-Mod', 'menuclick', 'Lowepro Dealer Locator']);">Lowepro Dealer Locator</a></li>
-									<li role="menuitem"><a href="http://www.lowepro.com/about-us/international-distributors" onclick="_gaq.push(['_trackEvent', 'International Distributors-Mod', 'menuclick', 'International Distributors']);">International Distributors</a></li>
-									<li role="menuitem"><a href="http://www.lowepro.com/about-us/online-retailers" onclick="_gaq.push(['_trackEvent', 'U.S. Online Retailers-Mod', 'menuclick', 'U.S. Online Retailers']);">U.S. Online Retailers</a></li>
-								</ul>
-							</div>
-						</div>
-					</li><!-- END category
-				--><li role="menuitem" class="category" aria-haspopup="true">
-						<span href="" class="menuLabel">Professional</span><span class="menuArrow">&gt;</span>
-						<div class="menuContent professional">
-							<div class="headerSection threeCol">
-								<span class="headerSectionLabel"><a href="/loweprofessionals">Loweprofessionals</a></span>
-								<ul role="menu" class="productsColumn oneThird">
-									<li role="menuitem" class="profLink" name="chris_mclennan"><a href="http://www.lowepro.com/loweprofessionals/chris_mclennan" onclick="_gaq.push(['_trackEvent', 'Chris Mclennan-Mod', 'menuclick', 'Chris Mclennan']);">Chris McLennan</a></li>
-									<li role="menuitem" class="profLink" name="kt_miller"><a href="http://www.lowepro.com/loweprofessionals/kt_miller" onclick="_gaq.push(['_trackEvent', 'Kt Miller-Mod', 'menuclick', 'Kt Miller']);">Kt Miller</a></li>
-									<li role="menuitem" class="profLink" name="blair_bunting"><a href="http://www.lowepro.com/loweprofessionals/blair_bunting" onclick="_gaq.push(['_trackEvent', 'Blair Bunting-Mod', 'menuclick', 'Blair Bunting']);">Blair Bunting</a></li>
-									<li role="menuitem" class="profLink" name="dana_distortion"><a href="http://www.lowepro.com/loweprofessionals/dana_distortion" onclick="_gaq.push(['_trackEvent', 'Dana Distortion-Mod', 'menuclick', 'Dana Distortion']);">Dana Distortion</a></li>
-									<li role="menuitem" class="profLink" name="mike_escamilla"><a href="http://www.lowepro.com/loweprofessionals/mike_escamilla" onclick="_gaq.push(['_trackEvent', 'Mike Escamilla-Mod', 'menuclick', 'Mike Escamilla']);">Mike Escamilla</a></li>
-                                    <li role="menuitem" class="profLink" name="jed_jacobsohn"><a href="http://www.lowepro.com/loweprofessionals/jed_jacobsohn" onclick="_gaq.push(['_trackEvent', 'Jed Jacobsohn-Mod', 'menuclick', 'Jed Jacobsohn']);">Jed Jacobsohn</a></li>									
-									
-								</ul>
-								<ul role="menu" class="productsColumn oneThird">
-									<li role="menuitem" class="profLink" name="paul_morrison"><a href="http://www.lowepro.com/loweprofessionals/paul_morrison" onclick="_gaq.push(['_trackEvent', 'Paul Morrison-Mod', 'menuclick', 'Paul Morrison']);">Paul Morrison</a></li>
-									<li role="menuitem" class="profLink" name="ian_spanier"><a href="http://www.lowepro.com/loweprofessionals/ian_spanier" onclick="_gaq.push(['_trackEvent', 'Ian Spanier-Mod', 'menuclick', 'Ian Spanier']);">Ian Spanier</a></li>
-									<li role="menuitem" class="profLink" name="ryan_schembri"><a href="http://www.lowepro.com/loweprofessionals/ryan_schembri" onclick="_gaq.push(['_trackEvent', 'Ryan Schembri-Mod', 'menuclick', 'Ryan Schembri']);">Ryan Schembri</a></li>
-									<li role="menuitem" class="profLink" name="rebecca_bathory"><a href="http://www.lowepro.com/loweprofessionals/rebecca_bathory" onclick="_gaq.push(['_trackEvent', 'Rebecca Bathory-Mod', 'menuclick', 'Rebecca Bathory']);">Rebecca Bathory</a></li>
-									<li role="menuitem" class="profLink" name="michiko_yone"><a href="http://www.lowepro.com/loweprofessionals/michiko_yone" onclick="_gaq.push(['_trackEvent', 'Michiko Yone-Mod', 'menuclick', 'Michiko Yone']);">Michiko Yone</a></li>
-									<li role="menuitem" class="profLink" name="petr_jan_juracka"><a href="http://www.lowepro.com/loweprofessionals/petr_jan_juracka" onclick="_gaq.push(['_trackEvent', 'Petr Jan Juracka-Mod', 'menuclick', 'Petr Jan Juracka']);">Petr Jan Juračka</a></li>
-								</ul>
-								<div class="sideImgLP">
-								  <a href="http://www.lowepro.com/loweprofessionals/chris_mclennan"><img id="loweproImg" src="/assets/img/home/chris_mclennan.jpg" alt=""></a>
-								</div>
-							</div>
-							<div class="headerSection twoCol">
-								<span class="headerSectionLabel"><a href="http://store.lowepro.com/pro-gear/">Professional Products</a></span>
-								<ul role="menu" class="productsColumn oneCol">
-									<li role="menuitem" class="profProdLink" name="Cat-Pro-menu-Expedition" id="expedition-ready"><a href="http://store.lowepro.com/pro-gear/expedition-ready" onclick="_gaq.push(['_trackEvent', 'Expedition Ready-Mod', 'menuclick', 'Expedition Ready']);">Expedition Ready</a></li>
-									<li role="menuitem" class="profProdLink" name="Cat-Pro-menu-Studio-Location" id="location-studio"><a href="http://store.lowepro.com/pro-gear/location-studio" onclick="_gaq.push(['_trackEvent', 'Location &amp; Studio-Mod', 'menuclick', 'Location &amp; Studio']);">Location &amp; Studio</a></li>
-									<li role="menuitem" class="profProdLink" name="Cat-Pro-menu-Urban-Event" id="urban-event"><a href="http://store.lowepro.com/pro-gear/urban-event" onclick="_gaq.push(['_trackEvent', 'Urban Event-Mod', 'menuclick', 'Urban Event']);">Urban Event</a></li>
-									<li role="menuitem" class="profProdLink" name="Cat-Pro-menu-SandF" id="modular"><a href="http://store.lowepro.com/pro-gear/modular" onclick="_gaq.push(['_trackEvent', 'Pro S&amp;F-Mod', 'menuclick', 'Pro S&amp;F']);">Street &amp; Field</a></li>
-								</ul>
-								<div class="sideImgPP">
-									<a href="http://store.lowepro.com/pro-gear/expedition-ready"><img id="profProdImg" src="/assets/img/menu/Cat-Pro-menu-Expedition.jpg"></a>
-								</div>
-							</div>
-						</div>
-					</li><!-- END category
-				 --><li role="menuitem" class="category" aria-haspopup="true">
-						<span class="menuLabel">DNA</span><span class="menuArrow">&gt;</span>
-						<div class="menuContent dna">
-							<div class="headerSection oneThird">
-								<ul role="menu">
-									<li role="menuitem"><a href="http://www.lowepro.com/heritage" onclick="_gaq.push(['_trackEvent', 'Heritage-Mod', 'menuclick', 'Heritage']);">Heritage</a></li>
-								</ul>
-								<div class="btmImg">
-									<a href="http://www.lowepro.com/heritage"><img src="/assets/img/menu/DNA-Arnold_Crane_bag.jpg" alt=""></a>
-								</div>								
-							</div>
-							<div class="headerSection oneThird">
-								<ul role="menu">
-									<li role="menuitem"><a href="http://www.lowepro.com/innovation" onclick="_gaq.push(['_trackEvent', 'Innovation-Mod', 'menuclick', 'Innovation']);">Innovation</a></li>
-								</ul>
-								<div class="btmImg">
-									<a href="http://www.lowepro.com/innovation"><img src="/assets/img/menu/DNA-technology.jpg" alt=""></a>
-								</div>								
-							</div>
-							<div class="headerSection oneThird">
-								<ul role="menu">
-									<li role="menuitem"><a href="http://www.lowepro.com/about" onclick="_gaq.push(['_trackEvent', 'About Lowepro-Mod', 'menuclick', 'About Lowepro']);">About Lowepro</a></li>
-								</ul>
-								<div class="btmImg">
-									<a href="http://www.lowepro.com/about"><img src="/assets/img/menu/DNA-Greg_Lowe.jpg"></a>
-								</div>								
-							</div>
-						</div>
-					</li>
-
- 			        
-					<li role="menuitem" class="category countrySelector" aria-haspopup="true">
-						<span class="menuLabel">Sites</span><span class="menuArrow">&gt;</span>
-						<div class="menuContent bagfinder">
-							<div class="headerSection twoCol">
-								<ul role="menu" class="productsColumn full">
+               
+          <li role="menuitem" class="category countrySelector" aria-haspopup="true">
+            <span class="menuLabel">Sites</span><span class="menuArrow">&gt;</span>
+            <div class="menuContent bagfinder">
+              <div class="headerSection twoCol">
+                <ul role="menu" class="productsColumn full">
 
 
 
-									<li role="menuitem" class="flag_US">
-										United States <span style="color:#737373; font-size:12px;">«selected</span>
-									</li>
+                  <li role="menuitem" class="flag_US">
+                    United States <span style="color:#737373; font-size:12px;">«selected</span>
+                  </li>
    
 
-									<a href="/select_region.php?region=CA"><li role="menuitem" class="flag_CA">Canada</li></a>  
-									<a href="/select_region.php?region=GB"><li role="menuitem" class="flag_UK">United Kingdom</li></a>
-									<a href="/select_region.php?region=DE"><li role="menuitem" class="flag_DE">Germany</li></a>
-									<a href="/select_region.php?region=FR"><li role="menuitem" class="flag_FR">France</li></a>
-									<a href="/select_region.php?region=JP"><li role="menuitem" class="flag_JP">Japan</li></a>
+                  <a href="/select_region.php?region=CA"><li role="menuitem" class="flag_CA">Canada</li></a>  
+                  <a href="/select_region.php?region=GB"><li role="menuitem" class="flag_UK">United Kingdom</li></a>
+                  <a href="/select_region.php?region=DE"><li role="menuitem" class="flag_DE">Germany</li></a>
+                  <a href="/select_region.php?region=FR"><li role="menuitem" class="flag_FR">France</li></a>
+                  <a href="/select_region.php?region=JP"><li role="menuitem" class="flag_JP">Japan</li></a>
    
-								</ul>
-							</div>
-						</div>
-					</li>
-														
-				</ul>
-<!-- 							</div>
-													</div>
-												</li>
-											</ul> -->
-			</nav>
+                </ul>
+              </div>
+            </div>
+          </li>
+                            
+        </ul>
 
-
+      </nav>
      
   </div> <!--END Navigation Container-->
 	
@@ -460,7 +543,7 @@
 
 <div class="Content">
  <div class="section group">
-   <span class="B_crumbBox"><span class="B_firstCrumb"><a class="B_homeCrumb" href="/" title="Camera bags, backpacks, sling bags and rolling cases to protect and carry photographic and digital devices">Home</a></span>  »  <span class="B_lastCrumb"><span class="B_currentCrumb">Privacy Policy</span></span></span> <br> 
+   <span class="B_crumbBox"><span class="B_firstCrumb"><a class="B_homeCrumb" href="/" title="Camera bags, backpacks, and rolling cases to protect and carry  photographic and digital devices">Home</a></span>  »  <span class="B_lastCrumb"><span class="B_currentCrumb">Privacy Policy</span></span></span> <br> 
 	<div class="col_1_of_1">
       <div class="productWrap ContentWrap">
       
@@ -521,8 +604,13 @@ This policy is subject to change. If we decide to change our privacy policy in w
 </div>
 
 
+	
+	
+	</div> <!-- .end wrapper -->
+	
+<div class="newsletter-wrapper">
 	<div class="section group">
-		<div class="col_4_of_4" id="newsletter">
+		<div class="col_1_of_1" id="newsletter">
 			
 <script type="text/javascript">
 function signup() {
@@ -603,7 +691,8 @@ function signup() {
 	<input type="text" id="signup_email" name="signup_email" placeholder="Enter your email address"> 
 	<select name="signup_country" id="signup_country">
 		<option value="" disabled="disabled" selected="selected">Please Select Your Country</option>
-		<option value="US" selected="selected">United States</option>
+		
+<option value="US" selected="selected">United States</option>
 <option value="AF">Afghanistan</option>
 <option value="AX">Aland Islands</option>
 <option value="AL">Albania</option>
@@ -853,19 +942,16 @@ function signup() {
 <option value="YE">Yemen</option>
 <option value="ZM">Zambia</option>
 <option value="ZW">Zimbabwe</option>
-
+		
+	<!-- [  !CountryDropDown!  ]  -->
 	</select>
 	<button type="button" id="submitbtn" name="submitbtn" title="Subscribe" class="button" onclick="signup();">Subscribe</button>
 </form>
 <div id="form_message" style="display:none; text-align:center;margin: -4px 0 10px 0; padding:2px 6px;">
-</div>
-
-
-				
+</div>				
 		</div>
-	</div>			
-	
-	</div> <!-- .end wrapper -->
+	</div> 
+</div>	
 	
 	<div id="footer">
 		<div id="footer_wrapper">
@@ -886,7 +972,7 @@ function signup() {
 		<ul>
 			<li><a href="/support">Customer Service</a></li>
 			<li><a href="/support/warranty">Warranty</a></li>
-			<!-- <li><a href="/support/product-registration">Product Registration</a></li> -->
+			<li><a href="/register">Product Registration</a></li>
 		</ul>
 	</div>
 	<div class="col_1_of_4">
@@ -902,6 +988,7 @@ function signup() {
 		<h4 class="light">News</h4>
 		<ul>
 			<li><a href="/news/media-coverage">Media Coverage</a></li>
+			<li><a href="/news/press-releases">Press Releases</a></li>
 			<li><a href="http://blog.lowepro.com">Lowepro Blog</a></li>
 		</ul>		
 		
@@ -1033,6 +1120,7 @@ function signup() {
 			<li><a href="http://blog.lowepro.com"><span class="blog">LpBlog</span></a></li>
 		</ul>
 		
+		
 		Check out our sister brand <a href="http://joby.com" style="color:#DC291E;">JOBY.com</a>. Home of the famous GorillaPod!
 		
 	</div>
@@ -1056,7 +1144,6 @@ function signup() {
         else {window.attachEvent('onload', _onload)}
     }());
 </script>
-
 		</div>
 		<div id="legal">
 			<div id="legal_wrapper">
@@ -1066,7 +1153,7 @@ function signup() {
 	<a href="http://www.daymen.com/SB657_compliance.php">SB 657 Compliance</a> &nbsp;|&nbsp; 
 	<a href="http://www.daymen.com/code_of_conduct.php">Code of Conduct</a>
 </p>	
-<p>Copyright © 2016 <a href="http://www.daymen.com/">DayMen Canada Acquisition ULC</a>. All rights reserved.</p>
+<p>Copyright © 2017 <a href="http://www.daymen.com/">DayMen Canada Acquisition ULC</a>. All rights reserved.</p>
 	
 </div>
 		</div>
@@ -1096,7 +1183,7 @@ function signup() {
 	</script>
 
 	
-
+	
 	<!-- GOOGLE REMARKETING TAG - Category/series - 11/19/14 -->
 	<script type="text/javascript">
 	var google_tag_params = {
@@ -1119,6 +1206,7 @@ function signup() {
 	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990092667/?value=0&amp;guid=ON&amp;script=0"/>
 	</div>
 	</noscript>	
+		
 	
 
 </body></html>
