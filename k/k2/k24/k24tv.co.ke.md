@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k24tv.co.ke privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224094447id_/http%3A//www.mediamaxnetwork.co.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k24tv.co.ke privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104422id_/http%3A//www.mediamaxnetwork.co.ke/privacy-policy) for the most accurate reproduction.*
 
 # Mediamax - Privacy Policy
 
