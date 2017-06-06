@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfreewebsites.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021752id_/http%3A//www.bestfreewebsites.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfreewebsites.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222016id_/http%3A//www.bestfreewebsites.net/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Top 3 & 5 Lists of Web Services & Games
 
