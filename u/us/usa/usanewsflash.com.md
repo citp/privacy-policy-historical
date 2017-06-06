@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usanewsflash.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122055536id_/http%3A//usanewsflash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usanewsflash.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051820id_/http%3A//www.usanewsflash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • USA Newsflash
+# Privacy Policy * USA Newsflash
 
 [USA News Flash](http://www.usanewsflash.com/) – Privacy policy
 
@@ -17,3 +17,7 @@ We also visualize third party advertisements on [USA News Flash](http://www.usan
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security, AVG, Avira, Kaspersky . However, it can affect your ability to interact with our site as well as other websites and it may include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless, you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+**COPYRIGHT**
+
+Every single content and article on this website is copyrighted. If you want to use our content, contact us at newsflashusa@yahoo.com
