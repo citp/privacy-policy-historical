@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127204935id_/http%3A//hirebridge.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064936id_/http%3A//www.hirebridge.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Hirebridge Applicant Tracking Solutions :: Privacy Policy
 
@@ -7,8 +7,6 @@
 Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Hirebridge's Web pages without telling us who you are or revealing any Personal Information about yourself. 
 
 If you choose to provide us with your Personal Information to us via our website, we may transfer that Information within Hirebridge or to Hirebridge's third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
-
-Hirebridge strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to Hirebridge Hirebridge intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. Our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
 
 **Cookies and Other Tracking Technologies  
 **Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.   
@@ -40,8 +38,18 @@ Hirebridge does not intend to transfer Personal Information without your consent
 **Your Consent  
 **By using this Web site, you consent to the terms of our Online Privacy Policy and to Hirebridge's processing of Personal Information for the purposes given above as well as those explained where Hirebridge collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
 
+[EU – U.S. PRIVACY SHIELD](https://www.hirebridge.com/corp/privacy_shield.asp)  
+Hirebridge complies with the EU – U.S. Privacy Shield Framework (the “Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield principles, the Privacy Shield principles shall govern. To learn more about the Privacy Shield program, please visit [https://www.privacyshield.gov.](https://www.privacyshield.gov./)
+
+[The Personal Information Protection and Electronic Documents Act (PIPEDA) of Canada](https://www.priv.gc.ca/information/pub/guide_ind_e.asp)  
+Hirebridge complies with The Personal Information Protection and Electronic Documents Act (PIPEDA) set forth by the Office of the Privacy Commissioner of Canada which details the rules for the collection, use and disclosure of personal information in the course of commercial activity as defined by the Act. 
+
+To learn more about PIPEDA, please visit <https://www.priv.gc.ca/information/pub/guide_ind_e.asp>.
+
+If you have questions about PIPEDA as it pertains to the use or storage of, and access to your personal information, please contact us at [privacy@hirebridge.com](mailto:privacy@hirebridge.com)
+
 * * *
 
-Have questions about Hirebridge's applicant tracking software or hiring management solutions? Visit our [Features Page](https://web.archive.org/web/20161127204935id_/http%3A//hirebridge.com/corp/applicant_tracking_features.asp) or give us a call at 1-954-906-5727. We are here to help.
+Have questions about Hirebridge's applicant tracking software or hiring management solutions? Visit our [Features Page](https://web.archive.org/web/20170606064936id_/http%3A//www.hirebridge.com/corp/applicant_tracking_features.asp) or give us a call at 1-954-906-5727. We are here to help.
 
 Our [free trial account](http://www.hirebridge.com/corp/demo_form.asp) gives you plenty of time to get familiar with the powerful features available with Hirebridge Recruiter. It's risk free. No credit card required. Sign up today! 
