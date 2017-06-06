@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschronicle.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413130010id_/http%3A//www.uschronicle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschronicle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123456id_/http%3A//uschronicle.com/privacy) for the most accurate reproduction.*
 
 # Privacy - US Chronicle
 
@@ -80,3 +80,13 @@ admin@uschronicle.com
 admin@uschronicle.com
 
 This document was last updated on September 15, 2016
+
+* Issue: *  
+
+* Your Name:   
+
+* Your Email:   
+
+
+* Details: *   
+
