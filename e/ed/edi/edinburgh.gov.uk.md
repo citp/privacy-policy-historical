@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinburgh.gov.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126212607id_/http%3A//www.edinburgh.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburgh.gov.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042833id_/http%3A//www.edinburgh.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Privacy | The City of Edinburgh Council
 
