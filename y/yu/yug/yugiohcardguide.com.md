@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yugiohcardguide.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503144943id_/https%3A//www.yugiohcardguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugiohcardguide.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221200id_/https%3A//www.yugiohcardguide.com/privacy.html) for the most accurate reproduction.*
 
 # YuGiOhCardGuide.com Privacy Statement
 
