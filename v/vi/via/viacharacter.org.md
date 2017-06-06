@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viacharacter.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616170301id_/https%3A//www.viacharacter.org/www/About-Institute/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viacharacter.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105641id_/https%3A//www.viacharacter.org/www/About-Institute/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ We also ask you, during registration, to give us your e-mail address, and a name
 
 Provided you have opted-in, we may also use your e-mail address and name to send out e-mail messages with information on how to utilize your strengths and links to resources.
 
-If you register and complete the VIA Survey using a consultant's unique professional link, your information (name, email address and survey results) will be shared with that professional.  Your registration through the professional link will serve as permission to do so. 
+If you register and complete the VIA Survey using a consultant's unique professional link, your information (name, email address and survey results/responses) will be shared with that professional.  Your registration through the professional link will serve as permission to do so. 
 
 You are not required to give us your real e-mail address or name, but we hope that you will in case you need any help with your account. If we receive a request for information about your account, the response will be sent to the registered address, not the one making the request, unless we can verify that the registered address is an invalid or defective address and that the person making the request is the person who created the account.
 
@@ -24,11 +24,17 @@ You are not required to provide us with any of this data, but if you choose to s
 
 ### What We Share
 
-Other researchers have allowed us to use their questionnaires on this Web site. In return, we share your responses with them for their own research. They may receive the responses to their questionnaire, plus the age, sex, geographic location, education, and occupation categories of the person who provided them. They do not receive your name or e-mail address.
+We partner with researchers to help advance the science of character. We support them in their work in two ways. First, we share   
+de-identified survey results and demographics including age, gender, geographic location, education and occupation. In this case,   
+researchers will not receive your name or e-mail address and will not be able to match you to your survey results or other data. Second, we   
+allow researchers to conduct their own studies on our site. In these cases, when specific consent is given by the study participant, we share  
+survey results/responses, demographic information and name/email. 
 
 For the development and maintenance of this Web site, we contract with Information Technology professionals that might require access to the data collected on this Web site, solely for the purpose of assisting in the operations of this Web site and not for any commercial purpose. These individuals are bound by strict confidentiality requirements.
 
-We may also share this same information with research partners for their own research projects. Again, no identifying information will be included.
+We may also share this same information with research partners for their own research projects. Again, no identifying information will be included unless you give consent. 
+
+If you use a Discount Code, that was provided to you by a third party, to download an in-depth VIA Report or register for a VIA course, your name and email address may be shared with that third party. 
 
 ### How We Use Cookies
 
@@ -83,4 +89,4 @@ We take reasonable technical, administrative, and physical precautions to keep y
 
 ### Changes
 
-We retain the right to change this Privacy Statement. If we do, the revised Privacy Statement would apply only prospectively to future data collected. We will post changes to this page in a prompt manner. This statement is effective as of July 10, 2014.
+We retain the right to change this Privacy Statement. If we do, the revised Privacy Statement would apply only prospectively to future data collected. We will post changes to this page in a prompt manner. This statement is effective as of July 10, 2014; updated March 14, 2017.
