@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkf.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115215217id_/http%3A//www.wkf.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkf.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192657id_/http%3A//www.wkf.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Walter Knoll Florist - Saint Louis MO - Delivery Anywhere Your Personal, Florist Since 1883, Same Day Delivery
 
