@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cleverlysimple.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202024608id_/http%3A//www.cleverlysimple.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverlysimple.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145909id_/http%3A//www.cleverlysimple.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Cleverly Simple®
+# Privacy Policy - Cleverly Simple® : Recipes & DIY From Our Farmhouse
 
 **What information do we collect?**
 
