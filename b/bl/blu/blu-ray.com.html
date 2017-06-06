@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the blu-ray.com privacy policy that was archived on 2016-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161030092751id_/http%3A//www.blu-ray.com/link/link.php%3Furl%3Dhttp%3A//www.blu-ray.com/contact/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blu-ray.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606181346id_/http%3A//www.blu-ray.com/link/link.php%3Furl%3Dhttp%3A//www.blu-ray.com/contact/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<title>Blu-ray.com - Privacy Policy</title>
 		<meta name="robots" content="noindex, follow, noodp, noydir">
-		<meta name="copyright" content="2002-2016 Blu-ray.com. All rights reserved. Duplication of any content on this site is strictly prohibited.">
+		<meta name="copyright" content="2002-2017 Blu-ray.com. All rights reserved. Duplication of any content on this site is strictly prohibited.">
 <!--		<meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1">-->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<link rel="search" type="application/opensearchdescription+xml" title="Blu-ray.com" href="http://www.blu-ray.com/opensearch.xml">
@@ -1090,7 +1090,8 @@ United States&nbsp;			<select title="Site wide packaging filter" name="setglobal
 <option value="2421">IronPack</option>
 <option value="2423">Standard Blu-ray case</option>
 			</select>
-</td></tr></tbody></table>				<form id="loginform" action="http://forum.blu-ray.com/login.php" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+</td></tr></tbody></table><div id="loginformarea" style="display:none;">
+				<form id="loginform" action="http://forum.blu-ray.com/login.php" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
 				<table valign="top" cellpadding="0" cellspacing="2" border="0">
 				<tbody><tr>
 					<td style="vertical-align: top; text-align: left"><input type="text" class="bginput" style="font-family: verdana, arial, sans-serif; font-size: 11px; border: 1px solid #c5c7cf; color: #666" size="10" name="vb_login_username" id="navbar_username" accesskey="u" tabindex="11" title="Username" onfocus="if(this.value == this.defaultValue) { this.value = ''; this.style.color = '#000' }" onblur="if(this.value == '') { this.value = this.defaultValue; this.style.color = '#666' }" value="Username"></td>
@@ -1127,6 +1128,12 @@ New member</div>								&nbsp;|&nbsp;
 				<input type="hidden" name="vb_login_md5password">
 				<input type="hidden" name="vb_login_md5password_utf">
 				</form>
+</div>
+<div id="loginareabutton"><div onclick="document.getElementById('loginformarea').style.display = 'block'; document.getElementById('loginareabutton').style.display = 'none';" style="margin-left:0px; margin-top:5px; display:inline-block;"><div style="display: inline-block; width: 70px; text-align: center; background-color: #529edc; background-color: #2385c9; color: #fff; border-radius: 8px; padding: 4px 15px; font-size: 16px; font-weight: bold; font-size: 14px; text-transform: uppercase; border: 1px solid rgba(255, 255, 255, 0.3); cursor:pointer; cursor:hand;">Login</div>
+</div>
+		<div onclick="$.getJSON('http://www.blu-ray.com/products/ajax.php?action=humanverify', function(data) { document.getElementById('humanverify[input]').value = data.input; document.getElementById('humanverify[hash]').value = data.hash; }); { window.onkeydown = function(event) { if(event.keyCode === 27) { document.getElementById('signup_overlay').style.display = 'none'; document.getElementById('signup_lightbox').className = 'signup-lightbox'; }}; document.getElementById('signup_overlay').style.display = 'block'; document.getElementById('signup_lightbox').className = 'signup-lightbox rotatein';
+		$('#email').trigger('touchstart'); $('#email').on('touchstart', function() { $(this).focus(); }); }" style="cursor: pointer; display:inline">
+<div style="display: inline-block; width: 70px; text-align: center; background-color: #529edc; background-color: #2385c9; color: #fff; border-radius: 8px; padding: 4px 15px; font-size: 16px; font-weight: bold; font-size: 14px; text-transform: uppercase; border: 1px solid rgba(255, 255, 255, 0.3); cursor:pointer; cursor:hand;">Join</div></div></div>
 		</td>
 		<td>
 			<br>
@@ -1153,6 +1160,7 @@ New member</div>								&nbsp;|&nbsp;
 											<a href="http://www.blu-ray.com/wii/">Wii</a>
 											<a href="http://www.blu-ray.com/ds/">DS</a>
 											<a href="http://www.blu-ray.com/3ds/">3DS</a>
+											<a href="http://www.blu-ray.com/switch/">Switch</a>
 											<a href="http://www.blu-ray.com/pc/">PC</a>
 										</li>
 									</ul>
@@ -1184,61 +1192,7 @@ New member</div>								&nbsp;|&nbsp;
 			</td>
 			<td width="560" style="font: bold 15px trebuchet ms, trebuchet, arial, verdana; color: #222222; text-align: left" nowrap="">
 <font style="font-size: 8px"><br></font>
-				<script type="text/javascript">
-					var Timer;
-					var TotalSeconds;
-
-					function CreateTimer(TimerID, Time)
-					{
-					        Timer = document.getElementById(TimerID);
-					        TotalSeconds = Time;
-					        UpdateTimer();
-						window.setInterval("Tick()", 1000);
-					}
-
-					function Tick()
-					{
-					        if(TotalSeconds <= 0)
-					                return;
-
-					        TotalSeconds -= 1;
-					        UpdateTimer();
-					}
-
-					function UpdateTimer()
-					{
-					        var Seconds = TotalSeconds;
-					        var Days = Math.floor(Seconds / 86400);
-					        Seconds -= Days * 86400;
-					        var Hours = Math.floor(Seconds / 3600);
-					        Seconds -= Hours * (3600);
-					        var Minutes = Math.floor(Seconds / 60);
-					        Seconds -= Minutes * (60);
-var TimeStr = ((Days > 0) ? Days + ((Days > 1) ? " days, " : " day, ") : "") + LeadingZero(Hours) + "h " + LeadingZero(Minutes) + "m " + LeadingZero(Seconds) + "s ";
-
-						Timer.className = 'salebutton';
-						if(Seconds >= 0)
-//						        Timer.innerHTML = 'Amazon Prime Day starts in: ' + TimeStr + ' &raquo;';
-						        Timer.innerHTML = 'Black Friday Deals Week starts in: ' + TimeStr + ' &raquo;';
-						else
-							Timer.innerHTML = 'Black Friday Deals Week is Live &raquo;';
-//							Timer.innerHTML = 'Amazon Prime Day is Live &raquo;';
-					}
-
-					function LeadingZero(Time)
-					{
-					        return (Time < 10) ? "0" + Time : + Time;
-					}
-				</script>
-<a href="http://www.blu-ray.com/deals/#2" onclick="document.cookie = 'blackfriday=1; expires='+new Date(new Date().getTime()+90*24*60*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'" rel="nofollow" style="color: #ffffff; margin-bottom: 3px"><span id="timer" class="salebutton">Black Friday Deals Week starts in: 7 days, 01h 41m 48s  »</span></a>
-<a href="http://www.blu-ray.com/deals/" rel="nofollow" target="parent" style="display:inline-block; color: #fff; font-size: 15px"><span id="timer"></span></a>
-			<script type="text/javascript">
-				if(document.addEventListener)
-					document.addEventListener('DOMContentLoaded', function() { CreateTimer("timer", 610909) }, false);
-//					window.addEventListener('load', function() { CreateTimer("timer", 610909) }, false);
-				else if(document.attachEvent)
-					window.attachEvent('onload', function() { CreateTimer("timer", 610909) });
-			</script>
+<a href="http://www.blu-ray.com/deals/?category=bluray" rel="nofollow" style="color: #000000; font-size: 15px">Best Blu-ray Movie Deals, See All the Deals »</a>
 <font style="font-size: 5px;"><br></font>			</td>
 			<td width="320" class="bottom" valign="bottom" style="font-size: 12px; padding-bottom: 3px; text-align: right">
 <b>Top deals</b> <font style="color: #aaa">|</font>
@@ -1246,33 +1200,33 @@ var TimeStr = ((Days > 0) ? Days + ((Days > 1) ? " days, " : " day, ") : "") + L
 &nbsp;<select id="dealcovers" title="12 covers" onchange="setcookie('dealcovers', this.value, 90*24*60*60, '/', '.blu-ray.com'); window.location.reload()" style="background-color: transparent; border: 1px solid #cccccc; margin: 5px 0px 1px 0px; font: 11px verdana, arial, sans-serif; color: #000000; background-color: transparent"><option value="12" selected="">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option></select>
 <select id="deallink" title="Link to Amazon" onclick="" onchange="setcookie('deallink', this.value, 90*24*60*60, '/', '.blu-ray.com'); window.location.reload()" style="background-color: transparent; border: 1px solid #cccccc; margin: 5px 0px 1px 0px; font: 11px verdana, arial, sans-serif; color: #000000; background-color: transparent"><option value="direct">Amazon</option><option value="bluray">Blu-ray.com</option></select>
 <br>
-&nbsp;<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=all&amp;t=1479104301" rel="nofollow"><img src="http://images2.static-bluray.com/flags/ALL.png" border="0" width="18" height="12" alt="All countries" title="All countries" style="vertical-align: text-bottom;"></a>
-<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=us&amp;t=1479104301" rel="nofollow"><img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States" style="vertical-align: text-bottom;"></a>
-<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=uk&amp;t=1479104301" rel="nofollow"><img src="http://images3.static-bluray.com/flags/UK.png" border="0" width="18" height="12" alt="United Kingdom" title="United Kingdom" style="vertical-align: text-bottom;"></a>
-<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=ca&amp;t=1479104301" rel="nofollow"><img src="http://images3.static-bluray.com/flags/CA.png" border="0" width="18" height="12" alt="Canada" title="Canada" style="vertical-align: text-bottom;"></a>
-<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=de&amp;t=1479104301" rel="nofollow"><img src="http://images2.static-bluray.com/flags/DE.png" border="0" width="18" height="12" alt="Germany" title="Germany" style="vertical-align: text-bottom;"></a>
-<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=fr&amp;t=1479104301" rel="nofollow"><img src="http://images.static-bluray.com/flags/FR.png" border="0" width="18" height="12" alt="France" title="France" style="vertical-align: text-bottom;"></a>
-<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=es&amp;t=1479104301" rel="nofollow"><img src="http://images3.static-bluray.com/flags/ES.png" border="0" width="18" height="12" alt="Spain" title="Spain" style="vertical-align: text-bottom;"></a>
-<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=it&amp;t=1479104301" rel="nofollow"><img src="http://images2.static-bluray.com/flags/IT.png" border="0" width="18" height="12" alt="Italy" title="Italy" style="vertical-align: text-bottom;"></a>
-<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=jp&amp;t=1479104301" rel="nofollow"><img src="http://images3.static-bluray.com/flags/JP.png" border="0" width="18" height="12" alt="Japan" title="Japan" style="vertical-align: text-bottom;"></a>
+&nbsp;<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=all&amp;t=1496722600" rel="nofollow"><img src="http://images2.static-bluray.com/flags/ALL.png" border="0" width="18" height="12" alt="All countries" title="All countries" style="vertical-align: text-bottom;"></a>
+<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=us&amp;t=1496722600" rel="nofollow"><img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States" style="vertical-align: text-bottom;"></a>
+<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=uk&amp;t=1496722600" rel="nofollow"><img src="http://images3.static-bluray.com/flags/UK.png" border="0" width="18" height="12" alt="United Kingdom" title="United Kingdom" style="vertical-align: text-bottom;"></a>
+<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=ca&amp;t=1496722600" rel="nofollow"><img src="http://images3.static-bluray.com/flags/CA.png" border="0" width="18" height="12" alt="Canada" title="Canada" style="vertical-align: text-bottom;"></a>
+<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=de&amp;t=1496722600" rel="nofollow"><img src="http://images2.static-bluray.com/flags/DE.png" border="0" width="18" height="12" alt="Germany" title="Germany" style="vertical-align: text-bottom;"></a>
+<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=fr&amp;t=1496722600" rel="nofollow"><img src="http://images.static-bluray.com/flags/FR.png" border="0" width="18" height="12" alt="France" title="France" style="vertical-align: text-bottom;"></a>
+<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=es&amp;t=1496722600" rel="nofollow"><img src="http://images3.static-bluray.com/flags/ES.png" border="0" width="18" height="12" alt="Spain" title="Spain" style="vertical-align: text-bottom;"></a>
+<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=it&amp;t=1496722600" rel="nofollow"><img src="http://images2.static-bluray.com/flags/IT.png" border="0" width="18" height="12" alt="Italy" title="Italy" style="vertical-align: text-bottom;"></a>
+<a style="text-decoration: none" href="http://www.blu-ray.com/setcountry.php?country=jp&amp;t=1496722600" rel="nofollow"><img src="http://images3.static-bluray.com/flags/JP.png" border="0" width="18" height="12" alt="Japan" title="Japan" style="vertical-align: text-bottom;"></a>
 <br>			</td>
 			<td width="8">
 			</td>
 		</tr>
 		</tbody></table>
 <table width="1262" border="0" cellpadding="0" cellspacing="0" style="background: #ffffff; table-layout: fixed">
-<tbody><tr><td width="12"></td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=167782&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=167782&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Blair-Witch-Blu-ray/167782/'; return false" style="color: #333333; text-decoration: none"><img src="http://images3.static-bluray.com/movies/covers/167782_medium.jpg" border="0" width="97" height="120" title="Blair Witch (Blu-ray)" alt="Blair Witch (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$19.96</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=106441&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=106441&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Spartacus-The-Complete-Series-Blu-ray/106441/'; return false" style="color: #333333; text-decoration: none"><img src="http://images2.static-bluray.com/movies/covers/106441_medium.jpg" border="0" width="97" height="120" title="Spartacus: The Complete Series (Blu-ray)" alt="Spartacus: The Complete Series (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$34.99</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=122386&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=122386&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/GoodFellas-Blu-ray/122386/'; return false" style="color: #333333; text-decoration: none"><img src="http://images4.static-bluray.com/movies/covers/122386_medium.jpg" border="0" width="97" height="120" title="GoodFellas (Blu-ray)" alt="GoodFellas (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$15.49</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=142383&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=142383&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Pan-3D-Blu-ray/142383/'; return false" style="color: #333333; text-decoration: none"><img src="http://images.static-bluray.com/movies/covers/142383_medium.jpg" border="0" width="97" height="120" title="Pan 3D (Blu-ray)" alt="Pan 3D (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$18.49</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=106187&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=106187&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Edge-of-Tomorrow-3D-Blu-ray/106187/'; return false" style="color: #333333; text-decoration: none"><img src="http://images3.static-bluray.com/movies/covers/106187_medium.jpg" border="0" width="97" height="120" title="Edge of Tomorrow 3D (Blu-ray)" alt="Edge of Tomorrow 3D (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$18.49</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=79125&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=79125&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/CHUD-Blu-ray/79125/'; return false" style="color: #333333; text-decoration: none"><img src="http://images4.static-bluray.com/movies/covers/79125_medium.jpg" border="0" width="97" height="120" title="C.H.U.D (Blu-ray)" alt="C.H.U.D (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$22.19</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=164094&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=164094&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/2016-World-Series-Collectors-Edition-Chicago-Cubs-Blu-ray/164094/'; return false" style="color: #333333; text-decoration: none"><img src="http://images2.static-bluray.com/movies/covers/164094_medium.jpg" border="0" width="97" height="120" title="2016 World Series Collector's Edition: Chicago Cubs (Blu-ray)" alt="2016 World Series Collector's Edition: Chicago Cubs (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$55.11</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=164245&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=164245&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Taxi-Driver-Blu-ray/164245/'; return false" style="color: #333333; text-decoration: none"><img src="http://images4.static-bluray.com/movies/covers/164245_medium.jpg" border="0" width="97" height="120" title="Taxi Driver (Blu-ray)" alt="Taxi Driver (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$9.99</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=167140&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=167140&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/The-Twilight-Zone-The-Complete-Series-Blu-ray/167140/'; return false" style="color: #333333; text-decoration: none"><img src="http://images3.static-bluray.com/movies/covers/167140_medium.jpg" border="0" width="97" height="120" title="The Twilight Zone: The Complete Series (Blu-ray)" alt="The Twilight Zone: The Complete Series (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$82.22</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=97842&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=97842&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/The-Hobbit-The-Desolation-of-Smaug-3D-Blu-ray/97842/'; return false" style="color: #333333; text-decoration: none"><img src="http://images4.static-bluray.com/movies/covers/97842_medium.jpg" border="0" width="97" height="120" title="The Hobbit: The Desolation of Smaug 3D (Blu-ray)" alt="The Hobbit: The Desolation of Smaug 3D (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$25.49</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=118111&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=118111&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Finding-Dory-Blu-ray/118111/'; return false" style="color: #333333; text-decoration: none"><img src="http://images3.static-bluray.com/movies/covers/118111_medium.jpg" border="0" width="97" height="120" title="Finding Dory (Blu-ray)" alt="Finding Dory (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$19.99</b></a>
-</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=165006&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=165006&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Storks-Blu-ray/165006/'; return false" style="color: #333333; text-decoration: none"><img src="http://images4.static-bluray.com/movies/covers/165006_medium.jpg" border="0" width="97" height="120" title="Storks (Blu-ray)" alt="Storks (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$24.99</b></a>
+<tbody><tr><td width="12"></td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=103848&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=103848&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Fantastic-Beasts-and-Where-to-Find-Them-Blu-ray/103848/'; return false" style="color: #333333; text-decoration: none"><img src="http://images2.static-bluray.com/movies/covers/103848_medium.jpg" border="0" width="97" height="120" title="Fantastic Beasts and Where to Find Them (Blu-ray)" alt="Fantastic Beasts and Where to Find Them (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="position: relative; top: 1px; font-size: 12px; font-weight: bold">$12.99</b><div style="padding-bottom: 2px"></div></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=178601&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=178601&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/New-Battles-Without-Honor-and-Humanity-The-Complete-Trilogy-Blu-ray/178601/'; return false" style="color: #333333; text-decoration: none"><img src="http://images3.static-bluray.com/movies/covers/178601_medium.jpg" border="0" width="97" height="120" title="New Battles Without Honor and Humanity: The Complete Trilogy (Blu-ray)" alt="New Battles Without Honor and Humanity: The Complete Trilogy (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$66.09</b></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=172359&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=172359&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Split-Blu-ray/172359/'; return false" style="color: #333333; text-decoration: none"><img src="http://images.static-bluray.com/movies/covers/172359_medium.jpg" border="0" width="97" height="120" title="Split (Blu-ray)" alt="Split (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$14.99</b></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=178926&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=178926&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Fargo-Blu-ray/178926/'; return false" style="color: #333333; text-decoration: none"><img src="http://images.static-bluray.com/movies/covers/178926_medium.jpg" border="0" width="97" height="120" title="Fargo (Blu-ray)" alt="Fargo (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$13.12</b></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=136883&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=136883&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Suicide-Squad-Blu-ray/136883/'; return false" style="color: #333333; text-decoration: none"><img src="http://images.static-bluray.com/movies/covers/136883_medium.jpg" border="0" width="97" height="120" title="Suicide Squad (Blu-ray)" alt="Suicide Squad (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="position: relative; top: 1px; font-size: 12px; font-weight: bold">$12.99</b><div style="padding-bottom: 2px"></div></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=178881&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=178881&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/The-Fog-Blu-ray/178881/'; return false" style="color: #333333; text-decoration: none"><img src="http://images.static-bluray.com/movies/covers/178881_medium.jpg" border="0" width="85" height="120" title="The Fog (Blu-ray)" alt="The Fog (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$17.06</b></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=168607&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=168607&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Planet-Earth-II-4K-Blu-ray/168607/'; return false" style="color: #333333; text-decoration: none"><img src="http://images2.static-bluray.com/movies/covers/168607_medium.jpg" border="0" width="97" height="120" title="Planet Earth II 4K (Blu-ray)" alt="Planet Earth II 4K (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$34.99</b></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=178883&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=178883&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/They-Live-Blu-ray/178883/'; return false" style="color: #333333; text-decoration: none"><img src="http://images3.static-bluray.com/movies/covers/178883_medium.jpg" border="0" width="85" height="120" title="They Live (Blu-ray)" alt="They Live (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$16.77</b></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=169540&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=169540&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Underworld-Blood-Wars-4K-Blu-ray/169540/'; return false" style="color: #333333; text-decoration: none"><img src="http://images.static-bluray.com/movies/covers/169540_medium.jpg" border="0" width="97" height="120" title="Underworld: Blood Wars 4K (Blu-ray)" alt="Underworld: Blood Wars 4K (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$19.99</b></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=175354&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=175354&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Underworld-Ultimate-Collection-Blu-ray/175354/'; return false" style="color: #333333; text-decoration: none"><img src="http://images3.static-bluray.com/movies/covers/175354_medium.jpg" border="0" width="97" height="120" title="Underworld: Ultimate Collection (Blu-ray)" alt="Underworld: Ultimate Collection (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$34.99</b></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=180156&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=180156&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Warlock-Collection-Blu-ray/180156/'; return false" style="color: #333333; text-decoration: none"><img src="http://images.static-bluray.com/movies/covers/180156_medium.jpg" border="0" width="97" height="120" title="Warlock Collection (Blu-ray)" alt="Warlock Collection (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$24.88</b></a>
+</td><td width="62" valign="bottom" class="bottom" style="font-size: 10px; text-align: center"><a href="http://www.blu-ray.com/link/click.php?id=175803&amp;tid=030&amp;c=7" rel="nofollow" target="parent" onclick="document.cookie = 'tid=030; expires='+new Date(new Date().getTime()+20*60*1000).toUTCString()+'; path=/; domain=.blu-ray.com'; window.open('http://www.blu-ray.com/link/click.php?id=175803&amp;tid=030&amp;c=7','parent'); window.location = 'http://www.blu-ray.com/movies/Power-Rangers-4K-Blu-ray/175803/'; return false" style="color: #333333; text-decoration: none"><img src="http://images4.static-bluray.com/movies/covers/175803_medium.jpg" border="0" width="97" height="120" title="Power Rangers 4K (Blu-ray)" alt="Power Rangers 4K (Blu-ray)" style="-ms-interpolation-mode: bicubic"><br><b style="color: #cc2222; font-size: 13px; font-weight: bold">$24.99</b></a>
 </td><td width="12"></td></tr></tbody></table>		<style type="text/css">
 			.signup-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: #000; opacity: 0.8; filter: alpha(opacity=80); z-index: 1001; }
 			.signup-lightbox { display: none; position: fixed; left: 0; right: 0; top: 0; bottom: 0; width: 55%; height: 40%; margin: auto; padding: 16px; background-color: rgba(0, 0, 0, 0.2); background: url(http://images4.static-bluray.com/transparent.gif) no-repeat; background-position: center; background-size: cover; -ms-behavior: url(/inc/background-size.htc); border: 1px solid rgba(0, 0, 0, 0.2); border-radius: 8px; box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.25); text-align: center; min-width: $(window).width(); min-height: 400px; overflow: auto; z-index: 1002; }
@@ -1325,6 +1279,42 @@ var TimeStr = ((Days > 0) ? Days + ((Days > 1) ? " days, " : " day, ") : "") + L
 				<input type="submit" name="signup" value="Sign up" style="margin-top: 2px; padding: 5px; background-color: #529ecc; border: 0px; color: #fff; width: 202px; height: auto; font-size: 17px; font-weight: bold; border-radius: 5px; box-sizing: border-box; -webkit-appearance: none">
 			</form>
 			<div style="position: absolute; bottom: 5px; right: 10px; color: #222b33; font-size: 9px; font-family: trebuchet ms; text-transform: uppercase">Image from: Life of Pi (2012)</div>
+		</div>
+		<div id="getstarted" style="position: relative; width: 1262px; height: 110px; background: url('http://images.static-bluray.com/getstarted.jpg'); padding-top: 10px; border-bottom: 1px solid #9ba2b4">
+		<table width="910" border="0" cellspacing="0" cellpadding="0" style="margin-top: 5px; padding: 15px; margin-bottom: 0px; background-color: #bbb; background-color: rgba(0, 32, 64, 0.7); border-radius: 8px; box-shadow: rgba(255, 255, 255, 0.3) 0px 0px 15px 5px;">
+		<tbody><tr>
+			<td width="350">
+				<table width="350" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="65" class="middle" title="Collect movies"><center><span class="fa fa-film" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px; font-size: 35px"></span></center></td>
+					<td width="60" class="middle" title="Watch movies"><center><span class="fa fa-eye" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px"></span></center></td>
+					<td width="50" class="middle" title="Price track movies"><center><span class="fa fa-dollar" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px"></span></center></td>
+					<td width="55" class="middle" title="Rate movies"><center><span class="fa fa-star-o" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px"></span></center></td>
+					<td width="60" class="middle" title="Review movies"><center><span class="fa fa-file-text-o" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px; font-size: 35px"></span></center></td>
+					<td width="60" class="middle" title="Always keep your movie collection with you in your mobile"><center><span class="fa fa-tablet" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px; font-size: 45px"></span></center></td>
+				</tr>
+				<tr>
+					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">COLLECT</span></td>
+					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">WATCH</span></td>
+					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">TRACK</span></td>
+					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">RATE</span></td>
+					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">REVIEW</span></td>
+					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">APP</span></td>
+				</tr>
+				</tbody></table>
+			</td>
+			<td width="5"></td>
+			<td width="320"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">Manage your own movie collection and always keep it with you with our Apps. Price track movies and get price drop notifications instantly. Become a member to take full advantage of all site features.</span></td>
+			<td width="15"></td>
+			<td width="170" class="middle">
+		<div onclick="$.getJSON('http://www.blu-ray.com/products/ajax.php?action=humanverify', function(data) { document.getElementById('humanverify[input]').value = data.input; document.getElementById('humanverify[hash]').value = data.hash; }); { window.onkeydown = function(event) { if(event.keyCode === 27) { document.getElementById('signup_overlay').style.display = 'none'; document.getElementById('signup_lightbox').className = 'signup-lightbox'; }}; document.getElementById('signup_overlay').style.display = 'block'; document.getElementById('signup_lightbox').className = 'signup-lightbox rotatein';
+		$('#email').trigger('touchstart'); $('#email').on('touchstart', function() { $(this).focus(); }); }" style="cursor: pointer; display:inline">
+<div style="display: inline-block; background-color: #a00; background-color: rgba(220, 0, 0, 0.7); color: #fff; border-radius: 8px; padding: 10px; font-size: 20px; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); border: 1px solid rgba(255, 255, 255, 0.2)">GET STARTED</div></div>			</td>
+		</tr>
+		</tbody></table>
+		<div style="position: absolute; top: 10px; right: 10px">
+			<a href="#" onmouseover="document.getElementById('hidegetstarted').style.color = '#555'" onmouseout="document.getElementById('hidegetstarted').style.color = '#aaa'" onclick="setcookie('hidegetstarted', '1', 30*24*60*60, '/', '.blu-ray.com'); document.getElementById('getstarted').style.display = 'none'; return false;" style="text-decoration: none"><span id="hidegetstarted" class="fa fa-times-circle" style="font-size: 20px; color: #aaa"></span></a>
+		</div>
 		</div>
 		<table width="1262" cellpadding="0" cellspacing="0" border="0" style="background: #ffffff; table-layout: fixed">
 		<tbody><tr>
@@ -1493,7 +1483,7 @@ $(window).load(function() {
 		<br>
 				<div style="overflow: hidden; width: 300px; height: 58px; background-color: #eff4f8; border-radius: 4px; -moz-border-radius: 4px; box-shadow: 0 0 2px #bbb;">
 <div style="margin-top: -5px; margin-left: -1px; margin-bottom: 4px; width: 100%; height: 41px; padding: 11px; background-color: #eceff5; border-bottom: 1px solid #d8dfea">
-<a href="https://www.facebook.com/pages/Blu-raycom/214887365191463" style="float: left; margin-top: 1px" target="_blank"><img src="http://images2.static-bluray.com/facebook.gif" border="0" width="40" height="40"></a><div style="float: left; margin-left: 10px"><a href="https://www.facebook.com/pages/Blu-raycom/214887365191463" target="_blank" style="font-family: 'lucida grande',tahoma,verdana,arial,sans-serif; font-size: 11px; color: #3b5998; text-decoration: none"><span style="font-size: 14px; font-weight: bold">Blu-ray.com</span> on Facebook</a><br><a href="https://www.facebook.com/pages/Blu-raycom/214887365191463" target="_blank"><div style="margin-top: 5px; background: url(http://images3.static-bluray.com/fblike.gif); width: 47px; height: 24px" onclick="alert('To like us, click the Like-button on our Facebook page, which you are now being redirected to. Thank you!')" onmouseover="this.style.backgroundPosition = '0px -24px'" onmouseout="this.style.backgroundPosition = '0px 0px'"></div></a> <div style="position: relative; top: -19px; left: 54px"><div style="font-family: 'lucida grande',tahoma,verdana,arial,sans-serif; font-size: 11px">38,166</div></div>
+<a href="https://www.facebook.com/pages/Blu-raycom/214887365191463" style="float: left; margin-top: 1px" target="_blank"><img src="http://images2.static-bluray.com/facebook.gif" border="0" width="40" height="40"></a><div style="float: left; margin-left: 10px"><a href="https://www.facebook.com/pages/Blu-raycom/214887365191463" target="_blank" style="font-family: 'lucida grande',tahoma,verdana,arial,sans-serif; font-size: 11px; color: #3b5998; text-decoration: none"><span style="font-size: 14px; font-weight: bold">Blu-ray.com</span> on Facebook</a><br><a href="https://www.facebook.com/pages/Blu-raycom/214887365191463" target="_blank"><div style="margin-top: 5px; background: url(http://images3.static-bluray.com/fblike.gif); width: 47px; height: 24px" onclick="alert('To like us, click the Like-button on our Facebook page, which you are now being redirected to. Thank you!')" onmouseover="this.style.backgroundPosition = '0px -24px'" onmouseout="this.style.backgroundPosition = '0px 0px'"></div></a> <div style="position: relative; top: -19px; left: 54px"><div style="font-family: 'lucida grande',tahoma,verdana,arial,sans-serif; font-size: 11px">39,081</div></div>
 </div>
 <style>
 .link { float: left; color: #808080; font-size: 11px; text-align: center; text-decoration: none; margin-top: 1px; margin-right: 5px }
@@ -1507,152 +1497,138 @@ a:hover { text-decoration: underline }
 				<br>
 <div class="boxheader">Trending Blu-ray Movies <img src="http://images3.static-bluray.com/flags/US.png" width="18" height="12"></div>
 <table width="300" cellpadding="0" cellspacing="2" border="0" style="background-color: #eff4f8; border-radius: 4px; -moz-border-radius: 4px; box-shadow: 0 0 2px #bbb;; padding: 3px; padding-bottom: 10px;">
-<tbody><tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">1.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Lone-Wolf-and-Cub-Blu-ray/156430/">Lone Wolf and Cub</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">2.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Sausage-Party-Blu-ray/163228/">Sausage Party</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">3.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Rush-Hour-Trilogy-Blu-ray/164037/">Rush Hour Trilogy</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">4.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Sausage-Party-Blu-ray/162010/">Sausage Party</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">5.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Daredevil-The-Complete-First-Season-Blu-ray/122368/">Daredevil: The Complete First Season</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">6.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Star-Trek-Beyond-Blu-ray/145430/">Star Trek Beyond</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">7.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Sausage-Party-4K-Blu-ray/162002/">Sausage Party 4K</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">8.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Star-Trek-Beyond-Blu-ray/161274/">Star Trek Beyond</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">9.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Star-Trek-Beyond-4K-Blu-ray/156886/">Star Trek Beyond 4K</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">10.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Star-Trek-Beyond-3D-Blu-ray/160491/">Star Trek Beyond 3D</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">11.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Bubba-Ho-Tep-Blu-ray/111668/">Bubba Ho-Tep</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">12.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Taxi-Driver-Blu-ray/164245/">Taxi Driver</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">13.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/X-Men-Apocalypse-Blu-ray/138424/">X-Men: Apocalypse</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">14.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Finding-Dory-Blu-ray/118111/">Finding Dory</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">15.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Star-Wars-Episode-VII-The-Force-Awakens-3D-Blu-ray/64238/">Star Wars: Episode VII - The Force ...</a></td></tr>
+<tbody><tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">1.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Logan-Blu-ray/169931/">Logan</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">2.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Logan-4K-Blu-ray/169929/">Logan 4K</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">3.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Logan-4K-Blu-ray/177152/">Logan 4K</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">4.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Logan-Blu-ray/175008/">Logan</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">5.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Wonder-Woman-4K-Blu-ray/180524/">Wonder Woman 4K</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">6.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Get-Out-Blu-ray/174642/">Get Out</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">7.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Wonder-Woman-4K-Blu-ray/180987/">Wonder Woman 4K</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">8.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Wonder-Woman-Blu-ray/136854/">Wonder Woman</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">9.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Heat-Blu-ray/123744/">Heat</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">10.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Wonder-Woman-3D-Blu-ray/181067/">Wonder Woman 3D</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">11.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Ghost-World-Blu-ray/44107/">Ghost World</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">12.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Speed-Racer-Complete-Series-Blu-ray/173875/">Speed Racer: Complete Series</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">13.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/The-Blackcoats-Daughter-Blu-ray/177095/">The Blackcoat's Daughter</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">14.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Rogue-One-A-Star-Wars-Story-Blu-ray/139135/">Rogue One: A Star Wars Story</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">15.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/movies/Resident-Evil-The-Final-Chapter-Blu-ray/114468/">Resident Evil: The Final Chapter</a></td></tr>
 </tbody></table><br><div class="boxheader">Trending in Theaters</div>
 <table width="300" cellpadding="0" cellspacing="2" border="0" style="background-color: #eff4f8; border-radius: 4px; -moz-border-radius: 4px; box-shadow: 0 0 2px #bbb;; padding: 3px; padding-bottom: 10px;">
-<tbody><tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">1.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Doctor-Strange/181720/">Doctor Strange</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">2.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Hacksaw-Ridge/587989/">Hacksaw Ridge</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">3.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Batman-Return-of-the-Caped-Crusaders/612049/">Batman: Return of the Caped Crusaders</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">4.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Accountant/555479/">The Accountant</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">5.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Trolls/579439/">Trolls</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">6.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Inferno/377299/">Inferno</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">7.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Jack-Reacher-Never-Go-Back/510891/">Jack Reacher: Never Go Back</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">8.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Magnificent-Seven/464152/">The Magnificent Seven</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">9.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Imperium/600371/">Imperium</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">10.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Handmaiden/587245/">The Handmaiden</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">11.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Ouija-Origin-of-Evil/458489/">Ouija: Origin of Evil</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">12.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/American-Honey/597549/">American Honey</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">13.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/War-Dogs/571252/">War Dogs</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">14.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Miss-Peregrines-Home-for-Peculiar-Children/356167/">Miss Peregrine's Home for Peculiar Children</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">15.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/31/357848/">31</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">16.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Keeping-Up-with-the-Joneses/437832/">Keeping Up with the Joneses</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">17.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Blair-Witch/585912/">Blair Witch</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">18.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Storks/577458/">Storks</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">19.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Kingsglaive-Final-Fantasy-XV/594643/">Kingsglaive: Final Fantasy XV</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">20.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Kickboxer-Vengeance/571909/">Kickboxer: Vengeance</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">21.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/In-a-Valley-of-Violence/591969/">In a Valley of Violence</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">22.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Kubo-and-the-Two-Strings/402795/">Kubo and the Two Strings</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">23.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Moonlight/605486/">Moonlight</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">24.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Dont-Breathe/558590/">Don't Breathe</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">25.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Girl-on-the-Train/555482/">The Girl on the Train</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">26.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Snowden/423523/">Snowden</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">27.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Oasis-Supersonic/619717/">Oasis: Supersonic</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">28.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Morgan/589824/">Morgan</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">29.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Sully/555480/">Sully</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">30.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Light-Between-Oceans/411320/">The Light Between Oceans</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">31.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Mechanic-Resurrection/385073/">Mechanic: Resurrection</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">32.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Beauty-and-the-Beast/305936/">Beauty and the Beast</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">33.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/I-Am-the-Pretty-Thing-That-Lives-in-the-House/625230/">I Am the Pretty Thing That Lives in the House</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">34.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Dressmaker/385852/">The Dressmaker</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">35.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Certain-Women/609056/">Certain Women</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">36.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Deepwater-Horizon/374190/">Deepwater Horizon</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">37.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Southside-with-You/577346/">Southside with You</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">38.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Boo-A-Madea-Halloween/579435/">Boo! A Madea Halloween</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">39.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Yoga-Hosers/429091/">Yoga Hosers</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">40.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/King-Cobra/627453/">King Cobra</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">41.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Sea-of-Trees/452876/">The Sea of Trees</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">42.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Antibirth/619253/">Antibirth</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">43.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Perfect-Weapon/583713/">The Perfect Weapon</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">44.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Morris-from-America/595870/">Morris from America</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">45.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/My-Blind-Brother/615517/">My Blind Brother</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">46.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Loving/579438/">Loving</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">47.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Birth-of-a-Nation/577460/">The Birth of a Nation</a></td></tr>
-<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">48.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Ben-Hur/326836/">Ben-Hur</a></td></tr>
+<tbody><tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">1.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Alien-Covenant/577989/">Alien: Covenant</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">2.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Pirates-of-the-Caribbean-Dead-Men-Tell-No-Tales/41496/">Pirates of the Caribbean: Dead Men Tell No Tales</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">3.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Guardians-of-the-Galaxy-Vol-2/355014/">Guardians of the Galaxy: Vol. 2</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">4.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Baywatch/569345/">Baywatch</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">5.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Beauty-and-the-Beast/416457/">Beauty and the Beast</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">6.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Kong-Skull-Island/399811/">Kong: Skull Island</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">7.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Blackcoats-Daughter/558596/">The Blackcoat's Daughter</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">8.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Ghost-in-the-Shell/413197/">Ghost in the Shell</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">9.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/King-Arthur-Legend-of-the-Sword/322402/">King Arthur: Legend of the Sword</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">10.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/War-Machine/714647/">War Machine</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">11.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Berlin-Syndrome/739725/">Berlin Syndrome</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">12.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Void/627167/">The Void</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">13.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Life/581727/">Life</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">14.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Fate-of-the-Furious/455827/">The Fate of the Furious</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">15.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Raw/626401/">Raw</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">16.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Boss-Baby/581729/">The Boss Baby</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">17.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Power-Rangers/374283/">Power Rangers</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">18.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Black-Butterfly/717012/">Black Butterfly</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">19.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Free-Fire/524236/">Free Fire</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">20.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Smurfs-The-Lost-Village/570023/">Smurfs: The Lost Village</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">21.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/T2-Trainspotting/596144/">T2 Trainspotting</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">22.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Personal-Shopper/688132/">Personal Shopper</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">23.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Wakefield/737988/">Wakefield</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">24.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Colossal/677476/">Colossal</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">25.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Your-Name/618655/">Your Name</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">26.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Snatched/645218/">Snatched</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">27.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Promise/708146/">The Promise</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">28.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Zookeepers-Wife/596243/">The Zookeeper's Wife</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">29.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Lovers/721843/">The Lovers</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">30.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Commune/603984/">The Commune</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">31.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/The-Lost-City-of-Z/632380/">The Lost City of Z</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">32.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Obit/739488/">Obit</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">33.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/3-Generations/511597/">3 Generations</a></td></tr>
+<tr><td style="text-align: right"><font style="font: bold 13px arial; color: #222222">34.</font>&nbsp;</td><td><a href="http://www.blu-ray.com/Drone/724595/">Drone</a></td></tr>
 </tbody></table><br><div class="boxheader"><a href="http://www.blu-ray.com/movies/top.php" class="noline black">Top 10 Sellers</a> <img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States"></div>
 <table width="300" cellpadding="2" cellspacing="0" border="0" style="background-color: #eff4f8; border-radius: 4px; -moz-border-radius: 4px; box-shadow: 0 0 2px #bbb;">
 <tbody><tr><td width="300" style="padding-top: 0px" colspan="2">
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">1.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Finding-Dory-Blu-ray/118111/" rel="nofollow">Finding Dory</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/AVGN-X-Collection-Blu-ray/146180/" rel="nofollow">AVGN X Collection</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">2.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Star-Trek-Beyond-Blu-ray/145430/" rel="nofollow">Star Trek Beyond</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Logan-Blu-ray/169931/" rel="nofollow">Logan</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">3.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/The-Secret-Life-of-Pets-Blu-ray/145426/" rel="nofollow">The Secret Life of Pets</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/John-Wick-Chapter-2-Blu-ray/161297/" rel="nofollow">John Wick: Chapter 2</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">4.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Game-of-Thrones-The-Complete-Sixth-Season-Blu-ray/133855/" rel="nofollow">Game of Thrones: The Complete Sixth...</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Rogue-One-A-Star-Wars-Story-Blu-ray/139135/" rel="nofollow">Rogue One: A Star Wars Story</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">5.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Beauty-and-the-Beast-Blu-ray/158280/" rel="nofollow">Beauty and the Beast</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/The-LEGO-Batman-Movie-Blu-ray/167931/" rel="nofollow">The LEGO Batman Movie</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">6.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Star-Wars-Episode-VII-The-Force-Awakens-3D-Blu-ray/64238/" rel="nofollow">Star Wars: Episode VII - The Force ...</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Fantastic-Beasts-and-Where-to-Find-Them-Blu-ray/103848/" rel="nofollow">Fantastic Beasts and Where to Find ...</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">7.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Finding-Dory-3D-Blu-ray/118112/" rel="nofollow">Finding Dory 3D</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/The-Shack-Blu-ray/156360/" rel="nofollow">The Shack</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">8.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Petes-Dragon-Blu-ray/162219/" rel="nofollow">Pete's Dragon</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/The-Fate-of-the-Furious-Blu-ray/170135/" rel="nofollow">The Fate of the Furious</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">9.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Jason-Bourne-Blu-ray/160977/" rel="nofollow">Jason Bourne</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/La-La-Land-Blu-ray/170885/" rel="nofollow">La La Land</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">10.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Suicide-Squad-Blu-ray/136883/" rel="nofollow">Suicide Squad</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Moana-Blu-ray/145431/" rel="nofollow">Moana</a><br>
 </td></tr><tr><td colspan="2" style="padding-top: 3px">
 &nbsp;&nbsp;<b style="color: #223355">»</b> <a href="http://www.blu-ray.com/movies/top.php">See more top sellers</a><br><br></td></tr></tbody></table><br><div class="boxheader"><a href="http://www.blu-ray.com/movies/top.php?show=preorders" class="noline black">Top 10 Pre-orders</a> <img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States"></div>
 <table width="300" cellpadding="2" cellspacing="0" border="0" style="background-color: #eff4f8; border-radius: 4px; -moz-border-radius: 4px; box-shadow: 0 0 2px #bbb;">
 <tbody><tr><td width="300" style="padding-top: 0px" colspan="2">
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">1.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Finding-Dory-Blu-ray/118111/" rel="nofollow">Finding Dory</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/John-Wick-Chapter-2-Blu-ray/161297/" rel="nofollow">John Wick: Chapter 2</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">2.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/The-Secret-Life-of-Pets-Blu-ray/145426/" rel="nofollow">The Secret Life of Pets</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/The-LEGO-Batman-Movie-Blu-ray/167931/" rel="nofollow">The LEGO Batman Movie</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">3.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Game-of-Thrones-The-Complete-Sixth-Season-Blu-ray/133855/" rel="nofollow">Game of Thrones: The Complete Sixth...</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/The-Fate-of-the-Furious-Blu-ray/170135/" rel="nofollow">The Fate of the Furious</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">4.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Star-Wars-Episode-VII-The-Force-Awakens-3D-Blu-ray/64238/" rel="nofollow">Star Wars: Episode VII - The Force ...</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/John-Wick-Chapter-2-4K-Blu-ray/170797/" rel="nofollow">John Wick: Chapter 2 4K</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">5.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Finding-Dory-3D-Blu-ray/118112/" rel="nofollow">Finding Dory 3D</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Wonder-Woman-Blu-ray/136854/" rel="nofollow">Wonder Woman</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">6.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Petes-Dragon-Blu-ray/162219/" rel="nofollow">Pete's Dragon</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Shin-Godzilla-Blu-ray/170824/" rel="nofollow">Shin Godzilla</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">7.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Jason-Bourne-Blu-ray/160977/" rel="nofollow">Jason Bourne</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Power-Rangers-Blu-ray/40291/" rel="nofollow">Power Rangers</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">8.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Suicide-Squad-Blu-ray/136883/" rel="nofollow">Suicide Squad</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Alien-Covenant-Blu-ray/170137/" rel="nofollow">Alien: Covenant</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">9.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Kubo-and-the-Two-Strings-Blu-ray/162479/" rel="nofollow">Kubo and the Two Strings</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Alien-Covenant-4K-Blu-ray/178550/" rel="nofollow">Alien: Covenant 4K</a><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">10.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Rush-Time-Stand-Still-Blu-ray/166255/" rel="nofollow">Rush: Time Stand Still</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Life-Blu-ray/170817/" rel="nofollow">Life</a><br>
 </td></tr><tr><td colspan="2" style="padding-top: 3px">
 &nbsp;&nbsp;<b style="color: #223355">»</b> <a href="http://www.blu-ray.com/movies/top.php?show=preorders">See more pre-orders</a><br><br></td></tr></tbody></table><br><div class="boxheader"><a href="http://www.blu-ray.com/movies/deals.php?action=bestdeals" class="noline black">Top 10 Bargains</a> <img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States"></div>
 <table width="300" cellpadding="2" cellspacing="0" border="0" style="background-color: #eff4f8; border-radius: 4px; -moz-border-radius: 4px; box-shadow: 0 0 2px #bbb;">
 <tbody><tr><td width="300" style="padding-top: 0px" colspan="2">
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">1.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Finding-Dory-Blu-ray/118111/" rel="nofollow">Finding Dory</a><br>
-<font style="color: #006600">$19.99, Save 50%</font><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Logan-Blu-ray/169931/" rel="nofollow">Logan</a><br>
+<font style="color: #006600">$19.96, Save 50%</font><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">2.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Star-Trek-Beyond-Blu-ray/145430/" rel="nofollow">Star Trek Beyond</a><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/John-Wick-Chapter-2-Blu-ray/161297/" rel="nofollow">John Wick: Chapter 2</a><br>
 <font style="color: #006600">$19.96, Save 50%</font><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">3.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Game-of-Thrones-The-Complete-Sixth-Season-Blu-ray/133855/" rel="nofollow">Game of Thrones: The Complete Sixth...</a><br>
-<font style="color: #006600">$39.99, Save 47%</font><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/The-Shack-Blu-ray/156360/" rel="nofollow">The Shack</a><br>
+<font style="color: #006600">$19.99, Save 50%</font><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">4.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/X-Men-Apocalypse-Blu-ray/138424/" rel="nofollow">X-Men: Apocalypse</a><br>
-<font style="color: #006600">$19.21, Save 52%</font><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Moana-Blu-ray/145431/" rel="nofollow">Moana</a><br>
+<font style="color: #006600">$19.99, Save 50%</font><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">5.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Harry-Potter-Complete-8-Film-Collection-Blu-ray/30040/" rel="nofollow">Harry Potter: Complete 8-Film Colle...</a><br>
-<font style="color: #006600">$54.96, Save 45%</font><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Beauty-and-the-Beast-Blu-ray/158280/" rel="nofollow">Beauty and the Beast</a><br>
+<font style="color: #006600">$18.99, Save 53%</font><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">6.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Independence-Day-Resurgence-Blu-ray/77544/" rel="nofollow">Independence Day: Resurgence</a><br>
-<font style="color: #006600">$19.96, Save 50%</font><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Resident-Evil-The-Final-Chapter-Blu-ray/114468/" rel="nofollow">Resident Evil: The Final Chapter</a><br>
+<font style="color: #006600">$14.99, Save 57%</font><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">7.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Deadpool-Blu-ray/136817/" rel="nofollow">Deadpool</a><br>
-<font style="color: #006600">$14.99, Save 63%</font><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Doctor-Strange-Blu-ray/117433/" rel="nofollow">Doctor Strange</a><br>
+<font style="color: #006600">$18.99, Save 53%</font><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">8.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/The-Polar-Express-Blu-ray/552/" rel="nofollow">The Polar Express</a><br>
-<font style="color: #006600">$7.99, Save 68%</font><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Heat-Blu-ray/123744/" rel="nofollow">Heat</a><br>
+<font style="color: #006600">$6.99, Save 59%</font><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">9.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Outlander-Season-Two-Blu-ray/159607/" rel="nofollow">Outlander: Season Two</a><br>
-<font style="color: #006600">$29.99, Save 46%</font><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Split-Blu-ray/172359/" rel="nofollow">Split</a><br>
+<font style="color: #006600">$14.99, Save 57%</font><br>
 </td></tr><tr><td width="20" style="text-align: right"><font style="font: bold 13px arial; color: #222222">10.</font>&nbsp;
-</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Elf-Blu-ray/1181/" rel="nofollow">Elf</a><br>
-<font style="color: #006600">$7.99, Save 68%</font><br>
+</td><td><a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Trolls-Blu-ray/167933/" rel="nofollow">Trolls</a><br>
+<font style="color: #006600">$17.41, Save 53%</font><br>
 </td></tr><tr><td colspan="2" style="padding-top: 3px">
 &nbsp;&nbsp;<b style="color: #223355">»</b> <a href="http://www.blu-ray.com/movies/deals.php?action=bestdeals">See more deals</a><br><br></td></tr></tbody></table><br><br><div id="mostpopulardeals">
 <script type="text/javascript">
@@ -1699,11 +1675,11 @@ $(document).ready(function()
 						</td>
 						<td width="290" class="middle">
 							<font style="font-size: 5px"><br></font>
-<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Blair-Witch-Blu-ray/167782/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><img src="http://images.static-bluray.com/movies/covers/167782_small.jpg" width="70" height="84" border="0" style="float: left; margin-right: 12px; margin-bottom: 5px"></a><br>
-<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Blair-Witch-Blu-ray/167782/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><h3 style="color: #111111">Blair Witch</h3> &nbsp;<img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States"></a><br><font style="font-size: 1px"><br></font>
-<a href="http://www.blu-ray.com/link/click.php?id=167782&amp;tid=077" rel="nofollow" target="parent" class="noline"><b><font style="font-size: 14px; color: #444444"><strike>$39.99</strike></font></b>&nbsp;<b><font style="font-size: 14px; color: #aa0000">$19.96</font></b></a><br>
+<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Fantastic-Beasts-and-Where-to-Find-Them-Blu-ray/103848/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><img src="http://images4.static-bluray.com/movies/covers/103848_small.jpg" width="70" height="89" border="0" style="float: left; margin-right: 12px; margin-bottom: 5px"></a><br>
+<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Fantastic-Beasts-and-Where-to-Find-Them-Blu-ray/103848/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><h3 style="color: #111111">Fantastic Beasts and Where to Find Them</h3> &nbsp;<img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States"></a><br><font style="font-size: 1px"><br></font>
+<a href="http://www.blu-ray.com/link/click.php?id=103848&amp;tid=077" rel="nofollow" target="parent" class="noline"><b><font style="font-size: 14px; color: #444444"><strike>$15.00</strike></font></b>&nbsp;<b><font style="font-size: 14px; color: #aa0000">$12.99</font></b></a><br>
 <font style="font-size: 1px"><br></font>
-<a href="http://www.blu-ray.com/link/click.php?id=167782&amp;tid=077" rel="nofollow" target="parent"><img src="http://images.static-bluray.com/buttons/preordernow.gif" border="0"></a><br>
+<a href="http://www.blu-ray.com/link/click.php?id=103848&amp;tid=077" rel="nofollow" target="parent"><img src="http://images4.static-bluray.com/buttons/buynow.gif" border="0"></a><br>
 							<br>
 						</td>
 						<td width="5">
@@ -1714,11 +1690,11 @@ $(document).ready(function()
 						</td>
 						<td width="290" class="middle">
 							<font style="font-size: 5px"><br></font>
-<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Spartacus-The-Complete-Series-Blu-ray/106441/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><img src="http://images4.static-bluray.com/movies/covers/106441_small.jpg" width="70" height="88" border="0" style="float: left; margin-right: 12px; margin-bottom: 5px"></a><br>
-<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Spartacus-The-Complete-Series-Blu-ray/106441/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><h3 style="color: #111111">Spartacus: The Complete Series</h3> &nbsp;<img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States"></a><br><font style="font-size: 1px"><br></font>
-<a href="http://www.blu-ray.com/link/click.php?id=106441&amp;tid=077" rel="nofollow" target="parent" class="noline"><b><font style="font-size: 14px; color: #444444"><strike>$149.99</strike></font></b>&nbsp;<b><font style="font-size: 14px; color: #aa0000">$34.99</font></b></a><br>
+<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/New-Battles-Without-Honor-and-Humanity-The-Complete-Trilogy-Blu-ray/178601/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><img src="http://images.static-bluray.com/movies/covers/178601_small.jpg" width="70" height="88" border="0" style="float: left; margin-right: 12px; margin-bottom: 5px"></a><br>
+<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/New-Battles-Without-Honor-and-Humanity-The-Complete-Trilogy-Blu-ray/178601/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><h3 style="color: #111111">New Battles Without Honor and Humanity: The Complete Trilogy</h3> &nbsp;<img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States"></a><br><font style="font-size: 1px"><br></font>
+<a href="http://www.blu-ray.com/link/click.php?id=178601&amp;tid=077" rel="nofollow" target="parent" class="noline"><b><font style="font-size: 14px; color: #444444"><strike>$99.95</strike></font></b>&nbsp;<b><font style="font-size: 14px; color: #aa0000">$66.09</font></b></a><br>
 <font style="font-size: 1px"><br></font>
-<a href="http://www.blu-ray.com/link/click.php?id=106441&amp;tid=077" rel="nofollow" target="parent"><img src="http://images4.static-bluray.com/buttons/buynow.gif" border="0"></a><br>
+<a href="http://www.blu-ray.com/link/click.php?id=178601&amp;tid=077" rel="nofollow" target="parent"><img src="http://images.static-bluray.com/buttons/preordernow.gif" border="0"></a><br>
 							<br>
 						</td>
 						<td width="5">
@@ -1729,11 +1705,11 @@ $(document).ready(function()
 						</td>
 						<td width="290" class="middle">
 							<font style="font-size: 5px"><br></font>
-<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/GoodFellas-Blu-ray/122386/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><img src="http://images2.static-bluray.com/movies/covers/122386_small.jpg" width="70" height="88" border="0" style="float: left; margin-right: 12px; margin-bottom: 5px"></a><br>
-<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/GoodFellas-Blu-ray/122386/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><h3 style="color: #111111">GoodFellas</h3> &nbsp;<img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States"></a><br><font style="font-size: 1px"><br></font>
-<a href="http://www.blu-ray.com/link/click.php?id=122386&amp;tid=077" rel="nofollow" target="parent" class="noline"><b><font style="font-size: 14px; color: #444444"><strike>$34.99</strike></font></b>&nbsp;<b><font style="font-size: 14px; color: #aa0000">$15.49</font></b></a><br>
+<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Split-Blu-ray/172359/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><img src="http://images3.static-bluray.com/movies/covers/172359_small.jpg" width="70" height="90" border="0" style="float: left; margin-right: 12px; margin-bottom: 5px"></a><br>
+<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/movies/Split-Blu-ray/172359/" rel="nofollow" target="parent" onclick="setcookie('tid', '077', 20*60)" class="noline"><h3 style="color: #111111">Split</h3> &nbsp;<img src="http://images3.static-bluray.com/flags/US.png" border="0" width="18" height="12" alt="United States" title="United States"></a><br><font style="font-size: 1px"><br></font>
+<a href="http://www.blu-ray.com/link/click.php?id=172359&amp;tid=077" rel="nofollow" target="parent" class="noline"><b><font style="font-size: 14px; color: #444444"><strike>$34.98</strike></font></b>&nbsp;<b><font style="font-size: 14px; color: #aa0000">$14.99</font></b></a><br>
 <font style="font-size: 1px"><br></font>
-<a href="http://www.blu-ray.com/link/click.php?id=122386&amp;tid=077" rel="nofollow" target="parent"><img src="http://images4.static-bluray.com/buttons/buynow.gif" border="0"></a><br>
+<a href="http://www.blu-ray.com/link/click.php?id=172359&amp;tid=077" rel="nofollow" target="parent"><img src="http://images4.static-bluray.com/buttons/buynow.gif" border="0"></a><br>
 <font style="font-size: 5px"><br></font>
 							<br>
 						</td>
@@ -1749,42 +1725,7 @@ $(document).ready(function()
 </center>
 
 <center>
-		<div id="getstarted" style="position: relative; width: 1262px; height: 110px; background: url('http://images.static-bluray.com/getstarted.jpg'); padding-top: 10px; border-bottom: 1px solid #9ba2b4">
-		<table width="910" border="0" cellspacing="0" cellpadding="0" style="margin-top: 5px; padding: 15px; margin-bottom: 0px; background-color: #bbb; background-color: rgba(0, 32, 64, 0.7); border-radius: 8px; box-shadow: rgba(255, 255, 255, 0.3) 0px 0px 15px 5px;">
-		<tbody><tr>
-			<td width="350">
-				<table width="350" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="65" class="middle" title="Collect movies"><center><span class="fa fa-film" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px; font-size: 35px"></span></center></td>
-					<td width="60" class="middle" title="Watch movies"><center><span class="fa fa-eye" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px"></span></center></td>
-					<td width="50" class="middle" title="Price track movies"><center><span class="fa fa-dollar" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px"></span></center></td>
-					<td width="55" class="middle" title="Rate movies"><center><span class="fa fa-star-o" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px"></span></center></td>
-					<td width="60" class="middle" title="Review movies"><center><span class="fa fa-file-text-o" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px; font-size: 35px"></span></center></td>
-					<td width="60" class="middle" title="Always keep your movie collection with you in your mobile"><center><span class="fa fa-tablet" style="text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px; font-size: 40px; color: rgba(255, 255, 255, 0.9); margin-bottom: 5px; font-size: 45px"></span></center></td>
-				</tr>
-				<tr>
-					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">COLLECT</span></td>
-					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">WATCH</span></td>
-					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">TRACK</span></td>
-					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">RATE</span></td>
-					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">REVIEW</span></td>
-					<td style="text-align: center"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">APP</span></td>
-				</tr>
-				</tbody></table>
-			</td>
-			<td width="5"></td>
-			<td width="320"><span style="font-size: 12px; color: rgba(255, 255, 255, 0.9); -webkit-text-size-adjust: none;">Manage your own movie collection and always keep it with you with our Apps. Price track movies and get price drop notifications instantly. Become a member to take full advantage of all site features.</span></td>
-			<td width="15"></td>
-			<td width="170" class="middle">
-		<div onclick="$.getJSON('http://www.blu-ray.com/products/ajax.php?action=humanverify', function(data) { document.getElementById('humanverify[input]').value = data.input; document.getElementById('humanverify[hash]').value = data.hash; }); { window.onkeydown = function(event) { if(event.keyCode === 27) { document.getElementById('signup_overlay').style.display = 'none'; document.getElementById('signup_lightbox').className = 'signup-lightbox'; }}; document.getElementById('signup_overlay').style.display = 'block'; document.getElementById('signup_lightbox').className = 'signup-lightbox rotatein';
-		$('#email').trigger('touchstart'); $('#email').on('touchstart', function() { $(this).focus(); }); }" style="cursor: pointer; display:inline">
-<div style="display: inline-block; background-color: #a00; background-color: rgba(220, 0, 0, 0.7); color: #fff; border-radius: 8px; padding: 10px; font-size: 20px; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); border: 1px solid rgba(255, 255, 255, 0.2)">GET STARTED</div></div>			</td>
-		</tr>
-		</tbody></table>
-		<div style="position: absolute; top: 10px; right: 10px">
-			<a href="#" onmouseover="document.getElementById('hidegetstarted').style.color = '#555'" onmouseout="document.getElementById('hidegetstarted').style.color = '#aaa'" onclick="setcookie('hidegetstarted', '1', 30*24*60*60, '/', '.blu-ray.com'); document.getElementById('getstarted').style.display = 'none'; return false;" style="text-decoration: none"><span id="hidegetstarted" class="fa fa-times-circle" style="font-size: 20px; color: #aaa"></span></a>
-		</div>
-		</div>
+
 <table width="1262" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
 <tbody><tr>
 	<td style="text-align: center">
@@ -1792,7 +1733,7 @@ $(document).ready(function()
 		<small>
 		This web site is not affiliated with the Blu-ray Disc Association.<br>
 		All trademarks are the property of the respective trademark owners.<br>
-		© 2002-2016 Blu-ray.com. All rights reserved.<br>
+		© 2002-2017 Blu-ray.com. All rights reserved.<br>
 		<a href="http://www.blu-ray.com/link/link.php?url=http://forum.blu-ray.com/showthread.php?t=59948" rel="nofollow">Registration problems</a> |
 		<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/contact/" rel="nofollow">Business/Advertising Inquiries</a> |
 		<a href="http://www.blu-ray.com/link/link.php?url=http://www.blu-ray.com/contact/privacy.php" rel="nofollow">Privacy Policy</a> |
