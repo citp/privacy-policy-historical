@@ -1,53 +1,33 @@
-> *The following text is extracted and transformed from the kenoshanews.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919102520id_/http%3A//www.kenoshanews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenoshanews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152202id_/http%3A//www.kenoshanews.com/site/privacy.html) for the most accurate reproduction.*
 
-# Kenosha News Online
+# Privacy Policy | Site | kenoshanews.com
 
-  
-[](http://kenoshanews.shopmountain.com/Shopping/Shop/digit.aspx)  
+### Information we gather
 
+IP address, User Name, Password, Your name, Address, Locale
 
-[](https://web.archive.org/horoscope/)[](https://web.archive.org/homes/property_sales.php)
+### How we use the information we gather
 
-[](https://web.archive.org/horoscope/)[](https://web.archive.org/horoscope/)[](http://kenoshanews.upickem.net/) [](https://web.archive.org/lottery/)
+We use the information to enhance your visitor experience. We do not share any of your information with any third party. Occasionally, you may receive an email offer from us regarding your membership, subscription, or information from us that may enhance your experience on any of our member sites.
 
-[](https://web.archive.org/subscriptions/)
+### The people that are given access to this information
 
-|  Privacy Statement
+Your personal information is accessible by the Information Technology Department (IT Dept.), Marketing Department, and the Advertising Manager.
 
-KenoshaCounty.com respects the privacy of its users. In this document we explain how we use information you supply us via the kenoshacounty.com Web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on our web sites. 
+### The security measures we have in place to protect your personal information
 
-This Web site is the product of Kenosha Newspaper, a division of United Communications Corporation, Inc. You may have linked to this Web site from a kenoshacounty.com affiliate (the newspaper or other partner whose name appears at the top of the home page of this Web site). If so, please be aware that this Web site was customized by kenoshacounty.com for the affiliate, that kenoshacounty.com may share your information with the affiliate (as described below in the Section entitled "With whom do we share the information we collect?) and that during your visit to this Web site the affiliate may independently collect other information from you. 
+To safeguard your personal information, we do not retain or save your private financial information for any internet related purpose. We also protect any financial transaction you make with our company by providing a secure, encrypted method for logging in and sharing any information regarding a financial transaction you make with us.
 
-The policy that follows is applicable to kenoshacounty.com's information collection, use and disclosure practices. For information on the policy applicable to the affiliate's information collection, use and disclosure practices, please review the privacy statement on the affiliate's Web site (this may be the site from which you linked to get here). Also, please note that this Web site contains links to other Web sites. kenoshacounty.com and its affiliates are not responsible for the content or the privacy policies of any Web sites to which you may link. kenoshacounty.com and its affiliates are not responsible for the content or the privacy policies of any Web sites to which you may link. 
+### Our use of cookies
 
-What personal information do we collect?  
-Registration: When you sign up to use one of our services, request a price quote or enter a contest, we may ask for information about you, including your name, age, address, and phone number, as well as demographic information. To sign up to use one of our services, request a price or enter a contest, you must be at least 18 years of age and agree to the Terms and Conditions of the web site. 
+Our website makes use of cookies which are small digital files that are stored in your web browser that enable us to track your return visits to our website.
 
-Premium Services: Visitors 18 years of age and older may use an order form to request optional services at some parts of our Web site. We collect a visitor's credit card information to bill the visitor for these optional services. All other areas of our web site are free and may be used by visitors over 18 years of age or older. 
+Your browser settings may allow you to block these cookies. Our web site requires the use of cookies in order to provide you with a suitable browsing experience. If you disallow cookies, you will not be able to register with kenoshanews.com, use the financial tools available on the kenoshanews.com site, place classified advertising through the kenoshanews.com website or participate in any forum, discussion, contest or other function requiring registration or login.
 
-Cookies: Cookies are small text files that are placed on your computer's hard drive by our computers (or servers) to identify your computer. Cookies are only read by the server that placed them there and are unable to execute any code or virus. We use cookies to recognize you when you visit our site, to personalize your experience and generally to serve you better. For example, if you enter your name, address, telephone number, email address, ZIP code or other personally identifiable information on one of our forms, such information will be stored in a cookie so you do not have to enter this information again. Cookies can also tell us which advertising you have seen on our site, allowing us to offer you a more diverse selection of advertising information. Cookies may also compile data about our visitors. 
+Additionally, 3rd party advertisers on our site may use cookies for tracking purposes.
 
-IP Addresses: kenoshacounty.com also compiles your IP address - the location of your computer on the Internet - for administrative purposes only. kenoshacounty.com does not collect any personally identifiable information through its compilation of your IP addresses or the location of your computer on the Internet. 
+Google, as a third party vendor, uses cookies to serve ads.
 
-How do we use the information we collect?  
-kenoshacounty.com may perform statistical analyses of user behavior in order to measure interest in the various areas of our site, for development purposes, and to inform advertisers and partners about consumers clicking on their advertising or other messages. In these analyses, we will disclose information to third parties only in aggregate form. 
+Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
 
-E-mail: Using the e-mail addresses provided by registrants 18 years of age and older, kenoshacounty.com, its advertisers, affiliates, partners, or third parties may periodically send promotional e-mail. In any case where we might use an email address for this purpose, you will be able to indicate at registration that you do not wish to receive such promotional e-mails from kenoshacounty.com, its advertisers, affiliates, partners or third parties. However, by registering, you agree that kenoshacounty.com may contact you by e-mail regarding account status, changes to the registrant agreement, and to confirm registration. In addition, if you provide your email address or other contact data in connection with a request for product information, kenoshacounty.com, an advertiser, affiliate, partner or third parties, as applicable, will use that information to contact you.   
-Data Security: To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place appropriate procedures to protect the information we collect online, including reasonable and appropriate security for credit card submissions. 
-
-What is kenoshacounty.com's relationship with affiliates and business partners?  
-We have close relationships with affiliated newspapers and other business partners. Certain of those affiliates and partners have web pages that are branded both with our trademarks and the trademarks of our business partners. You may visit us through a co-branded page that is, for example, an kenoshacounty.com page that is co-branded with XYZ Newspaper's web site. 
-
-With whom do we share the information we collect?  
-In the future, kenoshacounty.com may share your personally identifiable information with third parties for direct marketing purposes, but only if you have authorized kenoshacounty.com to do so and only if you are over the age of 18. At the present time, kenoshacounty.com will only share personally identifiable information with third parties as is necessary for those third parties to provide information or perform services specifically requested by you. Additionally, if you entered the kenoshacounty.com web site through a site maintained by one of our affiliates or business partners, then your personally identifiable information may be shared with that affiliate or business partner, provided that use of the information does not violate this privacy policy. 
-
-Third Party Advertising Company: kenoshacounty.com uses a third-party advertising company to serve ads when you visit our site. This company may use information (not including your name, address, email address or telephone number) about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. In addition, we share web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our site through the use of pixel tags (also called clear gifs). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your computer. If you would like more information about the information collection practices of this third-party advertising company and to know your choices about not having this information used by this company, click here 
-
-Message Boards: kenoshacounty.com offers message boards, or forums, on some of its web sites for use by visitors who are 18 years of age and older. Any information you disclose when posting a message in these forums becomes public. Moreover, registrants who post a message in our forums make their e-mail addresses available to others through a feature of our software, which could result in unsolicited e-mail from third parties. 
-
-Children's Guidelines: We believe that it is especially important to protect children's privacy online. We encourage parents to get involved with your children's online usage and to be aware of the activities in which they are participating. Note: we define "children" as minors younger than 13 years of age. We do not knowingly collect or use any personally identifiable information from children, and we do not provide any personally identifiable information, regardless of its source, to any third party for any purpose whatsoever from our visitors under 13 years of age. We do not knowingly allow children to register with us, or to participate in any of our promotions or contents. 
-
-Does this privacy statement extend to links to other sites?  
-This site contains links to other sites. While we encourage our business partners to adopt privacy policies that build users' trust and confidence in the Internet, we are not responsible for the privacy practices or the content of web sites linked to any of our sites. We may allow third parties to sponsor promotions and sweepstakes through our site. Use of any personal information provided to such a third party will be governed by that party's privacy policy. 
-
-If you have any questions about this privacy statement, please e-mail us at feedback@kenoshacounty.com. 
+Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
