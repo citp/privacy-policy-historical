@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website-traffic-hog.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123115813id_/http%3A//website-traffic-hog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-traffic-hog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060627id_/http%3A//website-traffic-hog.com/privacy.php) for the most accurate reproduction.*
 
 # Website-Traffic-Hog and Mailer - Free Traffic Exchange and Mailer
 
@@ -76,7 +76,7 @@ Effective Date: March 18, 2014
 marty@website-traffic-hog.com   
 Marty Petrizza   
 doing business as Website Traffic Hog LLC  
-1012 Aquia Dr., Stafford, VA 22554, USA  
+922 SE 43rd St., Cape Coral, FL 33904, USA  
 540-602-9928 
 
 ~:~:~:~:~:~:~:~:~:~
