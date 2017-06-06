@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the go4expert.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311164935id_/http%3A//www.go4expert.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4expert.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180226id_/https%3A//www.go4expert.com/help/privacy) for the most accurate reproduction.*
 
-# Go4Expert.com - Programming and Web Development Forum - Privacy Policy
+# Privacy | Go4Expert
 
-**Overview**
+Go4Expert.com, Inc. is a community of programmers on the web and this "Privacy Statement" discloses the privacy practices for the entire Go4Expert.com website and Go4Expert.com respects your privacy. Below is an outline of the information that Go4Expert.com gathers, how it's used, and how you can "opt-out". 
 
-Go4Expert.com, Inc. is a community of programmers on the web and this "Privacy Statement" discloses the privacy practices for the entire Go4Expert.com website and Go4Expert.com respects your privacy. Below is an outline of the information that Go4Expert.com gathers, how itâ€™s used, and how you can "opt-out". 
+We invite you to contact us if you have questions about this policy. You may [contact us](https://web.archive.org/misc/contact).
 
-We invite you to contact us if you have questions about this policy. You may [contact us](http://www.go4expert.com/sendmessage.php).
-
-**Statement**
+### Statement
 
 Go4Expert.com respects your right to privacy. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather and how we use it.
 
-**What Information does Go4Expert.com collect ?**
+### What Information does Go4Expert.com collect ?
 
 Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive revenue mainly from advertising, collecting information is essential to keep our services affordable to users.
 
@@ -38,7 +36,7 @@ This information is kept on a secure dedicated server.
 
 The email addresses collected from the forums are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out whatever you request us to send. You will not receive any mailings you did not request. 
 
-**What is Go4Expert.com's practice regarding cookies ?**
+### What is Go4Expert.com's practice regarding cookies ?
 
 Your Internet browser has a feature called "cookies" which stores small amounts of data on your computer about your visit to Internet websites. You do not need to have cookies turned on to visit Go4Expert.com. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information which we may use to enhance your services in the ways described below. You may choose not to allow cookies to be collected by adjusting your settings on your browser.
 
@@ -51,9 +49,10 @@ Cookies on this site are used by ourselves, our ad management system, and occasi
 
 We allow other companies that are presenting advertisements on our websites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the website of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
 
-**How does Go4Expert.com use the information it collects ?**
+### How does Go4Expert.com use the information it collects ?
 
-The information collected during the registration process for the Go4Expert.com Community is used to:
+The information collected during the registration process for the Go4Expert.com Community is used to:  
+
 
   * Customize content based upon user preferences 
   * Contact members 
@@ -65,24 +64,26 @@ The information collected during the registration process for the Go4Expert.com 
 
 Information collected in this process can also be used to prevent banned users from re-registering under a different username. 
 
-**How does Go4Expert.com share this information and with whom ?**
+### How does Go4Expert.com share this information and with whom ?
 
 We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally. For example, we may tell our business partners how many customers in certain demographic groups access some articles.
 
-**What is Go4Expert.com's practice regarding IP addresses ?**
+### What is Go4Expert.com's practice regarding IP addresses ?
 
 We collect and analyze traffic though Google Analytics on our website by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message.
 
 Go4Expert.com uses reasonable precautions to keep the personal information disclosed to us secured. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. Go4Expert.com also links to a wide variety of other websites. We are not responsible for their privacy policies or how they treat information about their users. 
 
-**How does Go4Expert.com handle 3rd Party Advertising ?**
+### How does Go4Expert.com handle 3rd Party Advertising ?
 
 We use third-party advertising companies to serve ads when you visit our website. Our third-party advertising companies also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this website. These companies may use information (not including your name, address e-mail address or telephone number) about your visits to and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit their respective privacy policies. 
 
-**Questions and Comments**
+### Questions and Comments
 
-If you have any questions, comments or suggestions regarding our web site's privacy policy, or regarding any other aspects of our website, please [contact us](http://www.go4expert.com/sendmessage.php). 
+If you have any questions, comments or suggestions regarding our web site's privacy policy, or regarding any other aspects of our website, please [contact us](https://web.archive.org/misc/contact/). 
 
-**Notification of Changes**
+### Notification of Changes
 
-If we decide to change the Privacy Policy, the changes will be posted [here](http://www.go4expert.com/privacy.php)
+If we decide to change the Privacy Policy, the changes will be posted [here](https://web.archive.org/help/privacy/)
+
+[ ](https://www.go4expert.com/)
