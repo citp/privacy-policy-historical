@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highrises.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125122549id_/http%3A//www.highrises.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highrises.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040219id_/http%3A//www.highrises.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Service
 
@@ -26,4 +26,4 @@ When you provide us with Personal Information such as your name, email and/or ph
 
 ### Your Consent
 
-When you provide us with Personal Information, you consent to the collection and use of this information by Highrises.com.  If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+When you provide us with Personal Information, you consent to the collection and use of this information by Highrises.com.  This includes phone calls, emails and text notifications by us and/or our partner agents. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
