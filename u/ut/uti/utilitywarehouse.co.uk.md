@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019104514id_/https%3A//www.utilitywarehouse.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232936id_/https%3A//www.utilitywarehouse.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Utility Warehouse - Privacy Statement
 
@@ -99,7 +99,7 @@ These security policies do not permit the disclosure of how we implement our con
 
 We welcome your requests to provide you with copies of any personal information that we hold about you. If you would like to have access to your personal information, please write to us specifying what type of information you would like us to provide copies of. We will ask you for a £10 charge to cover the administration cost. If we are holding any information about you that is incorrect, let us know and we will update it as soon as we can.
 
-For a personal information request please write into the Correspondence Department, Utility Warehouse, enclosing a cheque or postal order for £10 made payable to Telecom Plus PLC.
+For a personal information request please write into the Correspondence Department, Utility Warehouse, enclosing a cheque or postal order for £10 made payable to Utility Warehouse Limited.
 
 ### Links from this site to other sites
 
