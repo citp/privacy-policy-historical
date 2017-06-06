@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomovix.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235817id_/http%3A//www.gomovix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomovix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044952id_/http%3A//www.gomovix.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - goMovix
 
@@ -88,4 +88,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by emailing us at: support@gomovix.com
 
-   This product uses the TMDb API but is not endorsed or certified by TMDb. 
+   This product uses the TMDb API but is not endorsed or certified by TMDb.
