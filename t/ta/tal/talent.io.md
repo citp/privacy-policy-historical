@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talent.io privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103230032id_/https%3A//www.talent.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talent.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223553id_/https%3A//www.talent.io/privacy) for the most accurate reproduction.*
 
 # talent.io - Great Jobs for Great Developers
 
