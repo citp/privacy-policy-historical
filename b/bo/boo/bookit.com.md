@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookit.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114140855id_/https%3A//bookit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookit.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607003903id_/https%3A//bookit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BookIt.com | Powered by FROM™ Technology
 
@@ -8,6 +8,10 @@ The Privacy Policy covers treatment of personally identifiable information colle
 
 BookIt.com collects personally identifiable information in order to process reservations. We ask for your name, email address, street address, zip code, and, (when processing a reservation only) your credit card number. BookIt.com also automatically receives and records information on our server logs from your browser including your IP Address and the page you requested, along with requests for specific price quotes for lodging. BookIt.com uses information for these general purposes: to fulfill your requests for reservations or information and to contact you about specials and new products, as well as to determine what offerings are of most interest to our users.
 
+Information from Other Sources
+
+We may receive information about you from other sources such as address information.  This information may help us to improve our ability to serve your needs such as ensuring the accurate delivery of direct mail materials. 
+
 Information Sharing and Disclosure
 
 BookIt.com will not sell or rent your personally identifiable information to anyone. We need to send the information to companies who work as partners with BookIt.com to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.). This information is limited to only necessary information in reference to any reservations you may make online. Credit Card numbers are never emailed, but are only accessible to our partners who log into a password protected secure site. All such credit card views are logged by BookIt.com as a final protection to our guests. Usually, only top-level personnel at a company are privileged to have access to credit card numbers.
@@ -16,7 +20,7 @@ Some of the advertisements and other services that appear on our web site(s) are
 
 Display Advertising
 
-BookIt.com utilizes Display Advertising features that may include and are not limited to: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting. You can opt-out and manage your settings or customize your Google Display Network ads by going to [https://www.google.com/settings/u/0/ads/](https://www.google.com/settings/u/0/ads)
+BookIt.com utilizes Display Advertising features that may include and are not limited to: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting. You can opt-out and manage your settings or customize your Google Display Network ads by going to [//www.google.com/settings/u/0/ads/](https://www.google.com/settings/u/0/ads)
 
 Cookies
 
@@ -38,6 +42,6 @@ Questions or Suggestions
 
 If you have questions or suggestions, please [click here to contact us](https://bookit.com/customer-support/).
 
-©2015 BookIt.com
+©2017 BookIt.com
 
 Privacy Policy above is for all BookIt.com generated sites.
