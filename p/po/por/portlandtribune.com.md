@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125212824id_/http%3A//portlandtribune.com/component/content/article/113-internal-information/contact-us/111170-pamplin-media-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192833id_/http%3A//portlandtribune.com/component/content/article/113-internal-information/contact-us/111170-pamplin-media-group-privacy-policy) for the most accurate reproduction.*
 
 # Oregon Local News - Pamplin Media Group
 
