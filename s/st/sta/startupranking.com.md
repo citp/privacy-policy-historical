@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupranking.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206053751id_/http%3A//www.startupranking.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupranking.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034538id_/http%3A//www.startupranking.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Startup Ranking
 
@@ -6,7 +6,7 @@
 
 ### Account Information
 
-When you create an account on StartupRanking Service (an "Account"), through Facebook or Twitter, you will provide information such as your username, password, and email address. This information may personally identify you. For example, if you use your full name as your username, you are disclosing your identity to the public. 
+When you create an account on StartupRanking Service (an "Account"), through Facebook, Twitter or LinkedIn, you will provide information such as your username, password, and email address. This information may personally identify you. For example, if you use your full name as your username, you are disclosing your identity to the public. 
 
   
 
