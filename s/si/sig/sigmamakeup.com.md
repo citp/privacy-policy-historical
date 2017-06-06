@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigmamakeup.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219044322id_/http%3A//www.sigmabeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmamakeup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223222id_/https%3A//www.sigmabeauty.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
@@ -47,7 +47,8 @@ We may contract with third-party service providers to assist us in better unders
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
-## Do We Disclose The Information We Collect To Outside Parties?
+Do We Disclose The Information We Collect To Outside Parties?  
+
 
 ## 
 
@@ -56,6 +57,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 ## HOWEVER, NON-PERSONALLY IDENTIFIABLE VISITOR INFORMATION MAY BE PROVIDED TO OTHER PARTIES FOR MARKETING, ADVERTISING, OR OTHER USES.
 
 ## 
+
+We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://networkadvertising.org/>.
 
 How can you opt-out, remove or modify information you have provided to us? To modify your e-mail subscriptions, please let us know by modifying your preferences in the "Customize Your Emails" page. Please note that due to email production schedules you may receive any emails already in production.
 
@@ -71,7 +74,7 @@ In an attempt to provide you with increased value, we may include third party li
 
 ## 
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modiﬁed on June 30, 2014.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modiﬁed on March 21, 2017.
 
 ## Questions And Feedback
 
@@ -97,4 +100,4 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 By using our site, you consent to our privacy policy.
 
-© 2015 Sigma Enterprises, LLC.
+© 2017 Sigma Enterprises, LLC.
