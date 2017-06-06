@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiki-errors.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206054834id_/http%3A//wiki-errors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiki-errors.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091742id_/http%3A//wiki-errors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy « wiki-errors.com
 
@@ -82,6 +82,4 @@ If you contact WIKI-ERRORS.COM through any link with personal information, that 
 
 ## Information Collected By Payment Processing System
 
-Clickbank is our credit card processing system. Please view Clickbank’s privacy policy for more information:
-
-ClickBank customer privacy policy <http://www.clickbank.com/customer_privacy.html>
+Clickbank is our credit card processing system. Please view Clickbank’s [privacy policy ](https://accounts.clickbank.com/privacy.html)for more information.
