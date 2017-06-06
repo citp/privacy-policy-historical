@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216140747id_/http%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023707id_/http%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
 
 # Disclaimer | TigerNet
 
@@ -46,4 +46,4 @@ Tommy Crumpton
 PO Box 1053   
 Central, SC 29630 
 
-[Submit Feedback](https://web.archive.org/contact.do)
+[Submit Feedback](http://www.tigernet.com/contact.do)
