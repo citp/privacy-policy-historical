@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playboysfreshfaces.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011238id_/http%3A//www.playboyplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboysfreshfaces.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063527id_/http%3A//playboyplus.com/privacy-policy) for the most accurate reproduction.*
 
 # PlayBoy Plus™ Privacy Policy Page
 
 ## Introduction
 
-We respect your privacy and are committed to protecting it through our compliance with this privacy policy. This privacy policy describes the types of information we may collect from you or that you may provide when you visit [www.playboyplus.com](http://www.playboyplus.com/) (hereinafter “PlayboyPlus” or the “ **Website** ”)1, our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures. We encourage you to read this privacy policy carefully when visiting our Website. By using our Website, you are accepting the practices described in this privacy policy. If you have any questions about our privacy practices, please refer to the end of this privacy policy for information on how to contact us. This privacy policy applies to information we collect: 
+We respect your privacy and are committed to protecting it through our compliance with this privacy policy. This privacy policy describes the types of information we may collect from you or that you may provide when you visit [www.playboyplus.com](http://www.playboyplus.com/) (hereinafter “PlayboyPlus” or the “ **Website** ”), our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures. We encourage you to read this privacy policy carefully when visiting our Website. By using our Website, you are accepting the practices described in this privacy policy. If you have any questions about our privacy practices, please refer to the end of this privacy policy for information on how to contact us. This privacy policy applies to information we collect: 
 
   * on this Website,
   * in e-mail, text and other communications between you and this Website,
@@ -24,7 +24,7 @@ Please read this privacy policy carefully to understand our policies and practic
 
 ## Information We May Collect About You and How We Collect It
 
-We may collect several types of information from and about users2 of our Website, including information:
+We may collect several types of information from and about users of our Website, including information:
 
   * by which you may be personally identified, such as first and last name, mailing address, email address, billing information, IP or “Internet Protocol” addresses, demographics, passwords or other online contact information, telephone number, any other information the Website collects that is defined as personal or personally identifiable information under applicable law or other identifier by which you may be contacted online or offline (" **personal information** ");
   * hat is about you but individually does not identify you; or
@@ -47,7 +47,7 @@ All information we collect on this Website is subject to this Privacy Policy. By
 The information we collect on or through our Website may include:
 
   * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
-  * Records and copies of your correspondence (including e-mail addresses), if you3 contact us.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
   * Your responses to surveys that we might ask you to complete for research purposes.
   * Details of transactions, if any, you may carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
   * Your search queries on the Website.
@@ -147,11 +147,11 @@ We may use the information we have collected from you to enable us to display ad
 
 We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on the Website or while using our services.
 
-We may transfer your information and process it outside your country of residence, wherever the Website, its [affiliates](https://www.linkedin.com/legal/privacy-policy#Section_2_5) and service providers operate.
+We may transfer your information and process it outside your country of residence, wherever the Website, its affiliates and service providers operate.
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop content and services that we hope you and other users will find of interest and to target content and advertising.
 
-We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to [opt out](https://vimeo.com/opt_out) of having your personal information shared:
+We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared:
 
   * To our subsidiaries and affiliates.
   * To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, risk and fraud detection and mitigation, providing customer service and marketing assistance, performing business and sales analysis, supporting our Website functionality, and supporting contests, sweepstakes, surveys and other features offered through our Website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
