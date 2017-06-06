@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startpage.pro privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119100228id_/http%3A//startpage.pro/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startpage.pro privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163548id_/http%3A//www.startpage.pro/privacy.html) for the most accurate reproduction.*
 
 # StartPage.pro - Privacy Policy
 
@@ -136,5 +136,5 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-info@startpage.pro  
-www.StartPage.pro
+info@webstart.me  
+www.WebStart.me
