@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchofficespace.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225005937id_/http%3A//www.searchofficespace.com/more/privacy-policy/%3Fclxs%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchofficespace.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084013id_/http%3A//www.searchofficespace.com/more/privacy-policy/%3Fclxs%3Dfooter) for the most accurate reproduction.*
 
 # Search Office Space | Privacy Policy
 
@@ -75,12 +75,12 @@ Search Office Space
 
 Head Offices
 
-Jubilee House | Merrion Avenue | Stanmore |  Middlesex |  HA7 4RY | United Kingdom
+**• Stanmore Business & Innovation Centre, Howard Road, Stanmore, Middlesex, HA7 1GB, United Kingdom**
 
-1500 Broadway | 5th Floor | Suite 505 | New York, NY 10036 | United States
+ **• 1500 Broadway, 5th Floor, Suite 505, New York, NY 10036, United States**
 
 e-mail address: info@searchofficespace.com or submit the form on the [contact page](http://www.searchofficespace.com/row/dyna/office-space/contact.html).
 
 [www.searchofficespace.com](http://www.searchofficespace.com/)
 
-_This document was last updated in Feb 2013_
+_This document was last updated in April 2017_
