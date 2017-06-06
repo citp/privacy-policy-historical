@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227092329id_/http%3A//www.esteelauder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111003id_/http%3A//www.esteelauder.com/privacy) for the most accurate reproduction.*
 
 # EsteeLauder Inc. United States Privacy Policy | Estée Lauder Official Site
 
@@ -98,7 +98,7 @@ We may use third party web analytics services on this site, our social network p
 
 ^ top
 
-We also may contract with third-party advertising networks that collect IP addresses and other information through the use of cookies, web server logs and web beacons on our websites and emails; on third-party websites and emails; and on our advertising placed on third-party websites. They use this information to provide advertisements about products and services tailored to your interests (including for companies not affiliated with us). You may see these advertisements on our websites and other websites. This process also helps us manage and track the effectiveness of our marketing efforts. To learn more about advertising networks and to opt out of interest-based advertising, visit the Digital Advertising Alliance at [www.aboutads.info/choices](https://web.archive.org/web/20161227092329id_/http%3A//www.esteelauder.com/www.aboutads.info/choices) or the Network Advertising Initiative at [www.networkadvertising.org/choices.](https://web.archive.org/web/20161227092329id_/http%3A//www.esteelauder.com/www.networkadvertising.org/choices)
+We also may contract with third-party advertising networks that collect IP addresses and other information through the use of cookies, web server logs and web beacons on our websites and emails; on third-party websites and emails; and on our advertising placed on third-party websites. They use this information to provide advertisements about products and services tailored to your interests (including for companies not affiliated with us). You may see these advertisements on our websites and other websites. This process also helps us manage and track the effectiveness of our marketing efforts. To learn more about advertising networks and to opt out of interest-based advertising, visit the Digital Advertising Alliance at [www.aboutads.info/choices](https://web.archive.org/web/20170606111003id_/http%3A//www.esteelauder.com/www.aboutads.info/choices) or the Network Advertising Initiative at [www.networkadvertising.org/choices.](https://web.archive.org/web/20170606111003id_/http%3A//www.esteelauder.com/www.networkadvertising.org/choices)
 
 #### How We Use the Information Collected by Automated Means
 
