@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the handsonhardcore.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916055128id_/http%3A//handsonhardcore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonhardcore.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114711id_/http%3A//handsonhardcore.com/legal/privacy) for the most accurate reproduction.*
 
-# Hands On Hardcore - Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 **Agreement**
 
