@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reversephonecheck.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120044225id_/http%3A//www.reversephonecheck.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reversephonecheck.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606201851id_/http%3A//www.reversephonecheck.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,27 +16,27 @@
 
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
 	<link href="js/flipcounter/style.css" rel="stylesheet" type="text/css">
-	<!-- Resizing Header On Scroll -->
-	<script src="js/header/classie.js"></script>
-	<script>
-		function init() {
-			window.addEventListener('scroll', function(e){
-				var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-					shrinkOn = 90,
-					header = document.querySelector("header");
-				if (distanceY > shrinkOn) {
-					classie.add(header,"smaller");
-				} else {
-					if (classie.has(header,"smaller")) {
-						classie.remove(header,"smaller");
-					}
-				}
-			});
-		}
-		window.onload = init();
-	</script>
 
-	</head><body>
+			<!-- Resizing Header On Scroll -->
+		<script src="js/header/classie.js"></script>
+		<script>
+			function init() {
+				window.addEventListener('scroll', function(e){
+					var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+						shrinkOn = 90,
+						header = document.querySelector("header");
+					if (distanceY > shrinkOn) {
+						classie.add(header,"smaller");
+					} else {
+						if (classie.has(header,"smaller")) {
+							classie.remove(header,"smaller");
+						}
+					}
+				});
+			}
+			window.onload = init();
+		</script>
+		</head><body>
 
 <!-- Header -->
 <header id="header">
@@ -47,7 +47,7 @@
 				<li><a href="http://www.reversephonecheck.com/">Home</a></li>
 				<li><a href="http://new-members.reversephonecheck.com/customer/help">Contact</a></li>
 				<li><a href="javascript: void(0)">800-309-9351</a></li>
-				<li><a href="http://members.reversephonecheck.com/customer">Login</a></li>
+				<li class="special"><a href="http://members.reversephonecheck.com/customer">Login</a></li>
 			</ul>
 		</div>
 	</div>
@@ -128,7 +128,7 @@
 			</ul>
 		</div>
 		<div class="fcopy">
-			<p>© Copyright 2016 ReversePhoneCheck.com. All Rights Reserved.</p>
+			<p>© Copyright 2017 ReversePhoneCheck.com. All Rights Reserved.</p>
 		</div>
 		<div class="fnav cf">
 			<ul>
@@ -155,6 +155,9 @@ $(document).ready(function(){
 	$('#hnav').slicknav();
 });
 </script>
+
+<!-- Equalizer -->
+<script src="js/equalizer.js"></script>
 
 <!-- Google Analytics code -->
 <script>
