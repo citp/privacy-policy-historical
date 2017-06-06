@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readers.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122093548id_/http%3A//www.readers.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190026id_/https%3A//www.readers.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy | Readers.com
 
@@ -22,7 +22,7 @@ On the Site, we place links to other Websites operated by other parties. Some of
 
 ### Promotional Communications
 
-We send out regular email newsletters with special discounts and offers, as well as information on product features and new product arrivals. If you are opted in to receiving promotional emails from us, you can expect to receive several emails per month. You can opt out of receiving promotional emails from us at any time by following the instructions provided in those emails or [contact us](http://www.readers.com/help.php?section=contactus&mode=update). Please note that even if you opt out of receiving promotional emails, we may continue to send you non-promotional emails, such as those about your account or our ongoing business relations.
+We send out regular email newsletters with special discounts and offers, as well as information on product features and new product arrivals. If you are opted in to receiving promotional emails from us, you can expect to receive several emails per month. You can opt out of receiving promotional emails from us at any time by following the instructions provided in those emails or [contact us](https://www.readers.com/help.php?section=contactus&mode=update). Please note that even if you opt out of receiving promotional emails, we may continue to send you non-promotional emails, such as those about your account or our ongoing business relations.
 
 ### Updating this Policy
 
@@ -30,4 +30,4 @@ We will revise or update this Policy as it deems appropriate, including for exam
 
 ### Contact Us
 
-We are committed to the policies set forth in this Policy. If you have any questions, comments or concerns about this Policy, please [contact us](http://www.readers.com/help.php?section=contactus&mode=update). 
+We are committed to the policies set forth in this Policy. If you have any questions, comments or concerns about this Policy, please [contact us](https://www.readers.com/help.php?section=contactus&mode=update). 
