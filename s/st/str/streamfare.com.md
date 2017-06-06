@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the streamfare.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003141id_/http%3A//streamfare.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamfare.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161150id_/http%3A//www.streamfare.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy  
-[ ](https://web.archive.org/web/20161119003141id_/http%3A//streamfare.com/money/insurance/what_progressive_can_do_for_homeowners.html)  
+[ ](https://web.archive.org/web/20170606161150id_/http%3A//www.streamfare.com/money/insurance/what_progressive_can_do_for_homeowners.html)  
 This website, Streamfare.com, does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals, which can occur in a variety of contexts such as emails sent to us. This information might be used for promotions, specials, or to contact you when you have a question. You are in complete control of what personally identifiable information you give us.
 
 This privacy policy only applies to this web site. The web site may contain links to external web sites. Please note that we are not responsible for the privacy practices of other web sites. We recommend that you check the privacy policy of any other web sites you may visit through the web site. The inclusion of links to such web sites does not imply any endorsement of the material on such sites nor any association with their owners or operators. If you have any complaints relating to such sites, please contact them directly.
