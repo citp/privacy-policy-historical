@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medievalcollectibles.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220041006id_/http%3A//www.medievalcollectibles.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medievalcollectibles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124004id_/http%3A//www.medievalcollectibles.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Medieval Collectibles Privacy Policy
 
