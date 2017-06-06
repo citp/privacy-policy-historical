@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rawlingsgear.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110071320id_/http%3A//rawlings.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawlingsgear.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162009id_/http%3A//www.rawlings.com/about/about-privacy.html) for the most accurate reproduction.*
 
-# Privacy :: Rawlings.com
-
-## Rawlings Consumer Privacy Policy
+# Rawlings Consumer Privacy Policy :: Rawlings.com
 
 This Privacy Policy (or "Policy") tells you how Rawlings ("Rawlings," "we," or "our") collects, uses, shares, and protects information about our consumers ("you"). It also tells you how you can access and update your information and make certain choices about how your information is used. This Policy covers both our online and offline data collection activities, including information that we may collect through our various websites and applications and offline programs and events. By using a Rawlings website or application or by otherwise giving us your information, you agree to this Privacy Policy. If you do not agree to this Policy, you must not use our website or application or give us any of your information.
 
