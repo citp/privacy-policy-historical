@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cookly.me privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625183237id_/https%3A//www.cookly.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookly.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193652id_/https%3A//www.cookly.me/privacy-policy) for the most accurate reproduction.*
 
-# Cookly - Discover Cooking Classes Anywhere in The World
-
-### Privacy Policy
+# Cookly - Book Authentic Cooking Classes
 
 1\. Scope and amendments 
 
