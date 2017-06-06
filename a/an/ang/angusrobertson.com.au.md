@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angusrobertson.com.au privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115120453id_/http%3A//www.angusrobertson.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angusrobertson.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025356id_/https%3A//www.angusrobertson.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Angus & Robertson Bookworld
 
