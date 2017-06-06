@@ -1,138 +1,165 @@
-> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130150812id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120444id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Formula 1 Australian Grand Prix
 
-The Australian Grand Prix Corporation (AGPC) respects your privacy and is committed to the protection of your personal information. This Policy outlines the policy of AGPC in managing personal information which it holds.
+**AUSTRALIAN GRAND PRIX CORPORATION**
 
-AGPC is a statutory corporation established by the  _Australian Grands Prix Act 1994 (Vic)_  (AGP Act) and is bound by the Information Privacy Principles contained in the  _Privacy and Data Protection Act (2014) (Vic)_  (IP Act).
+**PRIVACY POLICY**
 
-In summary, Personal Information is information relating to an individual which can be used to identify that individual.
+**Background**
 
-AGPC is also bound by the  _Spam Act 2003 (Cth)_  (Spam Act), which regulates the sending of commercial electronic messages such as by email or SMS as well as the  _Do Not Call Register Act 2006 (Cth)_ , which regulates phone calls. In addition, AGPC is bound by the  _Health Records Act 2001 (Vic)_  in respect of health-related information.
-
-**Why does AGPC collect personal information?**
-
-AGPC collects personal information in order to carry out its functions and exercise its powers under the AGP Act. Section 20 of the AGP Act states that AGPC is to undertake and facilitate the organisation, conduct, management and promotion of Formula One events and Australian Motorcycle Grand Prix events (as those expressions are defined by the AGP Act) (AGPC Events).
-
-Section 21 of the AGP Act states that AGPC may carry on advertising and promotional activities and may do all other things necessary or convenient to be done for or, in connection with, or as incidental to, the performance of its functions.
-
-**About whom does AGPC collect personal information?**
-
-The types of persons from whom AGPC may collect personal information about include (but are not limited to):
-
-  * patrons and prospective patrons of AGPC Events;
-  * drivers, riders and other participants in on-track and off-track activities at AGPC Events;
-  * members and representatives of racing, car and motorcycle clubs who participate in AGPC Events;
-  * persons with whom AGPC comes into contact in the course of conducting its business (such as persons who provide personal information through participation in a promotion); and
-  * employees, consultants and contractors, as well as prospective employees, consultants and contractors.
+  1. The Australian Grand Prix Corporation ( **AGPC** ) was established in 1994 under the Australian Grand Prix Act 1994 (Vic) ( **AGP Act** ).
+  2. The primary objectives of AGPC are: 
+    1. to facilitate the holding of an annual Formula One Grand Prix at Albert Park; and
+    2. to facilitate the holding of Australian Motorcycle Grand Prix at Phillip Island Grand Prix circuit ( **AGPC Events** ).
+  3. AGPC is bound by the: 
+    1. Victorian  _Privacy and Data Protection Act 2014_  (Vic) ( **PDPA** ) which replaces the Information Privacy Principles contained in the Information Privacy Act 2000 (Vic);
+    2. _Spam Act 2003_ (Cth) ( **Spam Act** ), which regulates the sending of commercial electronic messages such as by email or SMS;
+    3. _Do Not Call Register Act 2006_ (Cth), which regulates phone calls; and
+    4. _Health Records Act 2001_ (Vic), which regulates health-related information.
+  4. The PDPA contains information privacy protections, embodied in ten Information Privacy Principles ( **IPPs** ) set out in Schedule 1 of the PDPA. The IPPs govern the collection, use and handling of personal information by Victorian public sector organisations, local councils and contracted service providers.
 
 
 
-**What kinds of personal information does AGPC collect?**
+**Privacy Policy**
 
-AGPC collects personal information where it is necessary for AGPC to undertake its functions. In general, the types of personal information AGPC collects and holds include (but are not limited to): names, addresses, contact details, occupations and other types of information (depending on how you deal with AGPC).
-
-In most cases, if you do not provide personal information requested from you, AGPC may not be able to provide information to you about AGPC Events or supply relevant products or services.
-
-**How does AGPC collect personal information?**
-
-AGPC collects personal information in a number of ways, including:
-
-  * directly from you by phone, email, meetings, correspondence or from application forms you have submitted to us;
-  * from third parties such as credit reporting agencies or your representatives;
-  * from publicly available sources of information;
-  * from service-providers who manage the services AGPC provides to you (for example, Ticketmaster or the Grand Prix Travel Office); and
-  * from AGPC’s own records.
+  1. AGPC respects the privacy of the personal information it collects and is committed to its protection. 
+  2. AGPC collects personal information in order to carry out its functions and exercise its powers under the AGP Act.  Section 21 of the AGP Act states that AGPC may carry on advertising and promotional activities and may do all other things necessary or convenient to be done for or, in connection with, or as incidental to, the performance of its functions.
+  3. This Policy describes the manner in which AGPC may collect, hold and use personal information.
+  4. By providing your personnel information to AGPC, you consent to its use, storage and disclosure in accordance with this Policy.
+  5. This Policy may be reviewed from time to time to adapt to changing business practices, take account of new laws and technology.
+  6. The use, storage and disclosure of all personal information held by AGPC will be governed by the most current version of this Policy, posted on the [www.grandprix.com.au](http://www.grandprix.com.au/) and [www.motogp.com.au](http://www.motogp.com.au/) website or can be obtained by contacting the AGPC Privacy Officer.
 
 
 
-_**Web Site Collection**_
+**Personal Information**
 
-AGPC collects personal information from its web sites ([www.grandprix.com.au](http://www.grandprix.com.au/) and [www.motogp.com.au](http://www.motogp.com.au/)) (Web Sites) through subscription.
-
-**External Links**
-
-These Web Sites will, from time to time, contain links to other web sites. AGPC is not responsible for the privacy practices or the content of such other web sites.
-
-**Web Site Analytics**
-
-The Web Sites use Google Analytics, a tool provided by Google which allows AGPC to internally analyze visitor traffic and monitor site navigation, by transmitting website traffic data to servers located in the United States. Google Analytics gathers aggregate anonymous data, without identifying associations between IP addresses and the users’ preferences, in order to ultimately improve the user experience. By using the Web Site(s), you are consenting to Google processing the data collected through the Web Site(s) in accordance with the Google privacy policy for the purposes stated. You may choose to opt-out of Google Analytics by changing your computer settings accordingly.
-
-**Cookies**
-
-AGPC employs a standard technology called cookies on its Web Sites. A cookie is a simple text file that is stored on your computer and enables a website to remember your preferences, navigation and actions whilst you are using the Web Site(s) (Cookie). Cookies are used by the majority of web sites and are utilized in order to gather information that will allow AGPC to optimize the overall user experience.
-
-There are various types of Cookies that are used to satisfy different objectives. For its purposes, AGPC may use either a “session” Cookie which is active only for the duration of your visit on the Web Site(s) or a “persistent” Cookie which operates for repeat visits on the Web Site(s). The information gathered by a Cookie is not directly attributed to you and does not access information that is already stored on your computer or files.
-
-The information gathered by the Cookies on the Web Sites may be used by AGPC and reputable third party service providers, advertisers and/or our partners to assist in the delivery of relevant marketing messages and advertisements through the placement of web beacons on third party web sites.
-
-**How might AGPC use and disclose your personal information?**
-
-In general, AGPC may use and disclose your personal information for a number of reasons, including in order to:
-
-  * operate and manage the AGPC Events;
-  * conduct AGPC business, including for marketing and research purposes;
-  * provide the services you require (including charging, billing and collecting debts);
-  * enter you in AGPC competitions and promotions;
-  * inform you of ways the services provided to you could be improved;
-  * maintain and develop AGPC business systems and infrastructure (including testing and upgrading of these systems);
-  * research and develop AGPC services;
-  * communicate with you;
-  * prevent a threat to health or life;
-  * investigate suspected unlawful activity; and
-  * comply with AGPC’s legal obligations.
+  1. AGPC collects personal information where it is necessary for AGPC to undertake its functions. 
+  2. ‘Personal information’ means information or an opinion, whether true or not, about an identified individual (or an individual who is reasonably identifiable) that is recorded in a material form or otherwise. For example, AGPC collects and holds names, addresses, email addresses, telephone numbers, other contact details such as social media handles, occupations and other useful information such as clickstream and spending data.  Occasionally, AGPC may collect and record sensitive information like membership of a professional or trade association.
 
 
 
-When you provide AGPC with your personal information, your details will be added to AGPC’s mailing list for the purposes of direct marketing (either by post or email), so that AGPC can send you information about AGPC Events, AGPC services and other items that may be of interest to you. If you prefer that your details are not used in this way and you have received a form from AGPC, please complete the relevant section on the form and return it.
+**Collection**
 
-Otherwise, please send an email to [privacy@grandprix.com.au](mailto:privacy@grandprix.com.au) or phone on 03 9258 7100. If you send AGPC an email, you will be supplying your name and email address and those details will be used by AGPC if a response is required to the email received from you.
+  1. AGPC will collect personal information that is necessary for its function and activities, this includes the conduct and administration of its business functions and to market and provide its products and services.
+  2. Generally, AGPC will collect personal information directly from you and through a number of mediums. By way of example, personal information can be collected: 
+    1. when you provide your personal information, or agree to your personal information being provided via one of AGPC’s websites, including without limitation [www.grandprix.com.au](http://www.grandprix.com.au/) and [www.motogp.com.au](http://www.motogp.com.au/), or a website managed by AGPC (Websites).
+    2. when you enter your personal information, or agree to your personal information being entered into one of AGPC’s online IT systems
+    3. when you email AGPC or contact AGPC by telephone or mail;
+    4. when you engage with AGPC via social media;
+    5. when you elect to receive motor racing related newsletters or other information;
+    6. when you enter a competition that is being conducted by, or on behalf of AGPC;
+    7. when you purchase tickets to a AGPC Event from AGPC or an authorised agent or licensee;
+    8. when you purchase merchandise from AGPC or an authorised agent or licensee;
+    9. when you purchase other products or services from AGPC or an authorised agent or licensee; and/or
+    10. when you provide AGPC with information in an application or consent form, survey, feedback form or incident report.
+  3. AGPC may collect personal information regarding a child from the parent or other ‘responsible person’ associated with that child. At times AGPC may collect personal information regarding an adult from another ‘responsible person’ associated with that adult.
+  4. AGPC may also collect and use personal information that is given to it by a third party in the course of its business, if that collection is reasonably necessary for AGPC’s or the third party’s legitimate functions or activities. Examples of such third parties could include, without limitation, Confederation of Australian Motorsport, [Federation Internationale de l'Automobile](http://www.fia.com/), Fédération Internationale de Motocyclisme, Formula One Management, Dorna, Motorcycle Australia or Law enforcement bodies.
+  5. AGPC may, at times, collect information from publically maintained records, if that collection is reasonably necessary for AGPC’s legitimate functions or activities.
+  6. AGPC collects personal information in a number of ways, including from: 
+    1. individuals directly, for example by phone, email, in meetings, correspondence, or application forms;
+    2. third parties such as credit reporting agencies;
+    3. publicly available sources of information;
+    4. service-providers to AGPC (such as Foxtix, the Grand Prix Travel Office, AGPC on-sellers, promotions companies); and
+    5. AGPC’s own records.
 
-**To whom might AGPC disclose your personal information?**
 
-AGPC may disclose your personal information to:
 
-  * companies or individuals who assist AGPC in providing services or who perform functions on AGPC’s behalf (such as mailing houses) and organisations that carry out research activities;
-  * relevant authorities where:
+**Web Site**
 
-    * there are grounds to believe that disclosure is required in order to prevent a threat to health or life;
-    * AGPC suspects that unlawful activity is or has been engaged in and such personal information needs to be passed on to investigate the activity; or
-    * the disclosure is authorised by law or reasonably necessary to enforce the law;
-  * anyone else to whom you authorise AGPC to disclose it; and/or
-  * any one of those organisations or persons outlined in points 1-11 above.
+  1. AGPC collects personal information from its web sites ([www.grandprix.com.au](http://www.grandprix.com.au/) and [www.motogp.com.au](http://www.motogp.com.au/)) through subscription. These web sites will, from time to time, contain links to other web sites.  AGPC is not responsible for the privacy practices or the content of such other web sites.
+  2. The Web Sites use Google Analytics, a tool provided by Google which allows AGPC to internally analyze visitor traffic and monitor site navigation, by transmitting website traffic data to servers located in the United States. Google Analytics gathers aggregate anonymous data, without identifying associations between IP addresses and the users’ preferences, in order to ultimately improve the user experience. By using the Web Site(s), you are consenting to Google processing the data collected through the Web Site(s) in accordance with the Google privacy policy for the purposes stated. You may choose to opt-out of Google Analytics by changing your computer settings accordingly.
+  3. AGPC employs a standard technology called cookies on its Web Sites. A cookie is a simple text file that is stored on your computer and enables a website to remember your preferences, navigation and actions whilst you are using the Web Site(s) (Cookie). Cookies are used by the majority of web sites and are utilized in order to gather information that will allow AGPC to optimize the overall user experience and fulfil its functions.
+  4. There are various types of Cookies that are used to satisfy different objectives. For its purposes, AGPC may use either a “session” Cookie which is active only for the duration of your visit on the Web Site(s) or a “persistent” Cookie which operates for repeat visits on the Web Site(s). The information gathered by a Cookie is not directly attributed to you and does not access information that is already stored on your computer or files.
+  5. The information gathered by the Cookies on the Web Sites may be used by AGPC and reputable third party service providers, advertisers and/or our partners to assist in the delivery of relevant marketing messages and advertisements through the placement of web beacons on third party web sites.
 
 
 
-**Management of personal information**
+**Use and Disclosure**
 
-AGPC takes reasonable steps to protect the security of personal information from misuse and loss and from unauthorised access, modification or disclosure, for example by use of physical security and restricted access to electronic records. AGPC staff are required to respect the confidentiality of personal information and the privacy of individuals.
+  1. AGPC may use and disclose personal information for a number of reasons, and You acknowledge that such purposes may include, without limitation:
+    1. operate and manage the AGPC Events;
+    2. conduct AGPC business, including for marketing and research purposes;
+    3. provide services (including charging, billing and collecting debts);
+    4. promote AGPC trade promotions;
+    5. to manage your relationship with AGPC;
+    6. seek feedback on how AGPC services could be improved;
+    7. contact patrons during an AGPC Event to notify them of program changes and other important information;
+    8. maintain and develop AGPC business systems and infrastructure (including testing and upgrading of these systems);
+    9. direct marketing;
+    10. research and develop AGPC services;
+    11. to verify your identity and reduce the likelihood of duplications in IT Systems and Websites;
+    12. to complete and retain background checks;
+    13. manage safety and security;
+    14. to assist law enforcement bodies, when considered necessary or appropriate;
+    15. to disclose to AGPC’s professional advisors, including accountants, auditors and lawyers, or insurers or insurance brokers, when considered necessary or appropriate;
+    16. investigate suspected unlawful activity; and
+    17. comply with AGPC’s legal obligations.
+  2. In circumstances where AGPC provides factual (and not commercial) electronic messages, or comes within any other exception to the requirements of the Spam Act, it will identify itself as the sender of the message and will provide its contact details.
+  3. Where permitted by AGPC, personal information may be made available to third party corporate partners, licensees, sponsors, suppliers and broadcasters who have a relationship with AGPC (and who may, at times be outside Australia), to market and promote their products and services to you where you have consented to receive such communications or would reasonably expect to receive such communications, and have not requested not to receive such communications.
+  4. AGPC may disclose your personal information to: 
+    1. companies or individuals who assist AGPC in providing services or who perform functions on AGPC’s behalf (such as mailing houses) and organisations that carry out research activities;
+    2. relevant authorities where: 
+      1. there are grounds to believe that disclosure is required in order to prevent a threat to health or life;
+      2. AGPC suspects that unlawful activity is or has been engaged in and such personal information needs to be passed on to investigate the activity; or
+      3. the disclosure is authorised by law or reasonably necessary to enforce the law;
+      4. anyone else to whom you authorise AGPC to disclose it; and/or
+    3. any one of those organisations or persons outlined in paragraph 19 above.
 
-Depending on your reason for dealing with AGPC (for example as a patron, supplier or consultant) specific issues may arise with respect to the types of personal information AGPC collects and the handling of that information as a result of those dealings. AGPC will generally provide you with more details about why particular personal information has been collected, who AGPC tells and why you are asked to provide your personal information.
 
-How does AGPC we keep personal information accurate and up-to-date?
 
-AGPC endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. You can contact AGPC in order to access or update any personal information held about you. AGPC’s contact details are set out below. You may seek access to personal information which AGPC holds about you (subject to the limitations imposed by the IP Act) by contacting AGPC's Privacy Officer.
+**Management**
 
-AGPC will require you to verify your identity and to specify what information you require. A fee may be charged for providing access and you will be advised of the likely cost in advance.
+  1. AGPC takes reasonable steps to protect the security of personal information from misuse and loss and from unauthorised access, modification or disclosure, for example by use of physical security and restricted access to electronic records.
+  2. AGPC staff are required to respect the confidentiality of personal information and the privacy of individuals.
+  3. AGPC will take reasonable steps to destroy or permanently de-identify your personal information when AGPC deems that it is no longer needed.
 
-**Spam**
 
-AGPC ensures that any commercial electronic messages it sends to people’s email accounts or to their mobile phones (for example, advertising a product or a service) comply with its obligations under the Spam Act. AGPC obtains the consent (express or inferred) of intended recipients before it sends such messages, identifies itself as the sender, and includes instructions in all such messages so that a recipient is able to notify AGPC if they do not wish to receive commercial messages or advertisements from AGPC in the future.
-
-In circumstances where AGPC provides factual (and not commercial) electronic messages, or comes within any other exception to the requirements of the Spam Act, it will identify itself as the sender of the message and will provide its contact details.
-
-**Updates to this Policy**
-
-This Policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and the changing business environment. The most current version of this Policy can be obtained by contacting the AGPC Privacy Officer.
 
 **Enquiries**
 
-If you have any questions about privacy-related issues please contact AGPC’s Privacy Officer:
+  1. AGPC undertake using personal information in relation to products, including targeted online advertisements, services, AGPC Event tickets, merchandise and special offers made available by AGPC, respective corporate partners, licensees, sponsors, suppliers and broadcasters (who may, at times be outside Australia), where you have consented to receive such communications or would reasonably expect to receive such communications, and have not requested not to receive such communications. You will be able to opt-out of direct marketing at any time if you so choose, by utilizing the unsubscribe feature on electronic marketing communications, or in the case of other direct marketing materials contacting AGPC in accordance with this Policy.
+  2. AGPC endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. You can contact AGPC in order to access or update any personal information held about you. AGPC’s contact details are set out below.   You may seek access to personal information which AGPC holds about you (subject to the limitations imposed by the PDPA) by contacting AGPC's Privacy Officer.
+  3. AGPC will require you to verify your identity and to specify what information you require. A fee may be charged for providing access and you will be advised of the likely cost in advance.
+  4. If you have any questions about privacy-related issues please contact AGPC’s Privacy Officer:
 
-**Phone** : (03) 9258 7100  
-**Facsimile** : (03) 9699 3727  
-**Address** : AGPC Privacy Officer  
+
+
+Phone: (03) 9258 7100  
+Facsimile: (03) 9699 3727  
+Address: AGPC Privacy Officer  
 Australian Grand Prix Corporation  
 PO Box 577  
 SOUTH MELBOURNE VIC 3205  
-**Email** : [privacy@grandprix.com.au](mailto:privacy@grandprix.com.au)
+Email: privacy@grandprix.com.au
+
+Version 16.1
+
+Reviewed 2 November 2016
+
+  * Supercars Championship to debut at the 2018 Formula 1 Australian Grand Prix 
+
+The Australian Grand Prix Corporation (AGPC) announced today that Supercars will now be a round of the Supercars Championship calendar at the 2018... 
+
+[Read More](https://web.archive.org/fan-zone/news/supercars-championship-debut-2018-formula-1-australian-grand-prix "Read More")
+
+  * Ferrari divided after triumphant day 
+
+Kimi Raikkonen’s face told its own story on Sunday when he finished second behind Sebastian Vettel in Ferrari’s one-two triumph at the 75th... 
+
+[Read More](https://web.archive.org/fan-zone/news/ferrari-divided-after-triumphant-day "Read More")
+
+  * Vettel seeks to end Ferrari barren run in Monte Carlo 
+
+Championship leader Sebastian Vettel will this weekend seek to increase his advantage and inflict a demoralising blow to his rivals by securing... 
+
+[Read More](https://web.archive.org/fan-zone/news/vettel-seeks-end-ferrari-barren-run-monte-carlo "Read More")
+
+  * Breathless Hamilton beams with pleasure after tactical win 
+
+A beaming and breathless Lewis Hamilton paid tribute to his Mercedes team and championship leader Sebastian Vettel after reviving his title bid with... 
+
+[Read More](https://web.archive.org/fan-zone/news/breathless-hamilton-beams-pleasure-after-tactical-win "Read More")
+
+
+
