@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thechivery.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218220631id_/http%3A//www.resignationmedia.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechivery.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170532id_/http%3A//www.resignationmedia.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Resignation Media
+# Resignation Media
 
 The following privacy policy covers all of the websites of Resignation Media, LLC, Resignation Holdings, LLC and all of their subsidiaries and affiliates (collectively, “Resignation Media”) websites, the Mobile Services (as defined below) or desktop application services, software, or other materials or services made available on, from, or through the websites (collectively, the “Website(s)”). This policy does not, however, apply to entities that Resignation Media does not own or control, such as applications and websites using Facebook Platform. If you create a Resignation Media account using Facebook or another third party social media service, or if you link your Resignation Media account with any of these third party services, we may share your information with these third party services. This Privacy Policy applies only to information collected by the Website(s). Please read this policy. If you have any questions or suggestions regarding our privacy policy, please contact us.
 
