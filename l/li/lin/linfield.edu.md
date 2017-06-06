@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linfield.edu privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204164511id_/http%3A//www.linfield.edu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linfield.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032732id_/http%3A//www.linfield.edu/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Linfield College
+# Privacy Policy - Linfield College
 
 The website domain, linfield.edu, is owned by and is the responsibility of Linfield College. The following policies apply to linfield.edu and all other websites/pages owned and operated by Linfield College.
 
