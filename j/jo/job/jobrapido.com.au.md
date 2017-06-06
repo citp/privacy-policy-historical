@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobrapido.com.au privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324015400id_/https%3A//au.jobrapido.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060617id_/https%3A//au.jobrapido.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,33 +73,43 @@ The Site uses different kinds of cookies and similar technologies, each one with
 8.1 Web browsing cookies   
 These cookies are essential to allow the User to browse the Site and use its functions, such as accessing the website’s reserved areas (authentication cookies). Without these kind of cookies the services requested, such as access to the reserved area, cannot be provided. These cookies which are strictly necessary, are used to record one single identifier in order to manage and identify the User with respect to other Users visiting the Site at the same time, providing the User with a consistent and precise service. These cookies are necessary for the Site to work properly.
 
-8.2 Performance cookies   
-These cookies may come from Jobrapido or third parties, they may be session or persistent cookies, and their use is limited to the performance and enhancement of the website. They collect information on how a User uses the Site, such as the pages visited, and do not collect any information which enables the User to be identified. All the pieces of information collected by these cookies are aggregated on an anonymous basis and used exclusively to improve the website’s functions.
+8.2 Performance and analytics cookies set by Jobrapido  
+These cookies may be used by Jobrapido for the purposes of performance and improving the website. These cookies gather information about how users use the website, which pages are visited for example, and allows Jobrapido to recognise users, trace online behaviour and identify which features of the website are of most interest to users.  
+These cookies are not active yet. When they will be activated, you’ll have the possibility to refuse them.
 
-8.3 Analytics cookies  
-These cookies are used, for example by Google Analytics, to elaborate statistical analysis on the modalities in which Users browse the website through their computers or mobile applications, on the number of pages visited or the number of clicks on a specific page when browsing. Jobrapido processes the results of these analyses on an anonymous basis and exclusively for statistical purposes and only if the service providers use the cookies in connection with the browser installed on your computer or other devices used to browse the Site.
+8.3 Third party analytics cookies  
+These cookies are used by Google Analytics for example, Google Adwords, Google Doubleclick, Criteo, Facebook, Connexity in order to carry out statistical analyses of how users use our website using computers or mobile devices, such as how many pages a user has visited or the number of mouse clicks made on a page while using the website. The data obtained from this analysis by Jobrapido is used exclusively for statistical purposes and only if the service provider uses cookies in connection with the web browser installed on your computer or on other devices used for accessing the Site. For further information about the use of third party cookies and instructions on how to manage them, as well as how to opt-out of them, please visit the relevant third party websites for further information at the following links:  
+Google Analytics, Google Adwords, Google Doubleclick: [http://www.google.com/policies/technologies/cookies/ ](http://www.google.com/policies/technologies/cookies/)  
+Criteo: <http://www.criteo.com/privacy/>  
+Facebook: [https://www.facebook.com/help/cookies/update ](https://www.facebook.com/help/cookies/update)  
+Connexity: <http://connexity.com/privacy-policy/>
 
 8.4 Targeting cookies   
-These cookies are used to personalize the commercial information on the basis of the User’s interests. These cookies may also be used to limit the number of visualizations of a specific advertisement and to help estimate the effectiveness of an advertising campaign. Said cookies record that the visit to a specific website and the respective information may be shared with other parties, such as advertisers.   
-Although these types of cookie can record the visits to other websites, they don’t usually contain information on the User’s identity. The use of such cookies does not normally imply the processing of personal data, but may allow the connection to the User’s computer or other devices and track the data saved: these cookies connect to the browser installed by the User during Site browsing.   
-We may also insert web beacons (GIFT or web bugs) in our emails in order to verify the opening of the Job Alert emails and the clicks on the links contained therein. Such information is collected for statistical purposes.   
-For further information on cookies, please write to the following email address:   
-privacy@jobrapido.com
+This type of cookie is used for personalising information of a commercial nature based on the interests of the user. This type of cookie may also be used for limiting the number of times an advertisement is displayed and to help measure the effectiveness of online marketing campaigns. These cookies store information from visits to websites and the information may be shared with other parties, such as advertising companies for example. Even though this type of cookie is able to record visits to other websites, usually these cookies do not contain any information that can personally identify the user. The use of these cookies may create a connection to your computer or other device used by the User by tracking the information stored in it: these cookies connect to the User's browser during the navigation of the Website and allow for the recording of user behaviour and sending of advertising messages in line with your online preferences.  
+We may also insert web beacons (GIFT or web bugs) into our emails in order to verify the opening of advertising emails and clicks on links contained within them.  
+These cookies are not active yet. When they will be activated, you’ll have the possibility to refuse them.
+
+For further information on cookies, please write to the following email address: privacy@jobrapido.com
 
 8.5 How to disable cookies  
-Most web browsers are set to accept cookies. However, if you wish, you may set your browser to limit the number of cookies accepted or disable all cookies, by changing the browser’s settings with the following procedures:  
-• Microsoft Internet Explorer   
-Click “Tools” in the top right hand corner and select “Internet settings”. In the pop-up window select “Privacy”: the User may change the cookie settings here.   
-• Google Chrome   
-Click the “wrench” icon in the top right hand corner and select “Settings”. Then select “Show advanced settings” and change the “Privacy” settings.   
-• Mozilla Firefox   
-In the top left hand menu select “Settings”. In the pop-up window select “Privacy”: the User may change the cookie settings here.   
-• Safari   
-In the top right hand menu select “Preferences”. Then click “Security” and change the cookies settings.   
+Most web browsers are set to accept cookies. However, if you wish, you may set your browser to limit the number of cookies accepted or disable all cookies, by changing the browser’s settings with the following procedures:
+
+• [Microsoft Internet Explorer 7/8](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies) / [Microsoft Internet Explorer 9/10/11](http://windows.microsoft.com/en-us/windows7/how-to-manage-cookies-in-internet-explorer-9)  
+Click “Tools” in the top right hand corner and select “Internet settings”. In the pop-up window select “Privacy”: the User may change the cookie settings here.
+
+• [Google Chrome](https://support.google.com/accounts/answer/61416)  
+Click the “wrench” icon in the top right hand corner and select “Settings”. Then select “Show advanced settings” and change the “Privacy” settings. 
+
+• [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)  
+In the top left hand menu select “Settings”. In the pop-up window select “Privacy”: the User may change the cookie settings here. 
+
+• [Safari](https://support.apple.com/kb/PH17191)  
+In the top right hand menu select “Preferences”. Then click “Security” and change the cookies settings.
+
 In order to carry out this operation on your mobile phone, please consult your device handbook.   
 Please be aware that by disabling the cookies – web browsing cookies or performance cookies – certain functions of the Site may not be available.   
-For further information concerning cookies and on how to manage or disable third party cookies, marketing/retargeting cookies, please visit www.youronlinechoices.com.  
-To disable analytics cookies and prevent Google Analytics from collecting data on your browsing experience, you may download the browser’s additional component for the deactivation of Google Analytics: tools.google.co./dlpage/gaoptout 
+For further information concerning cookies and on how to manage or disable third party cookies, marketing/retargeting cookies, please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/).  
+To disable analytics cookies and prevent Google Analytics from collecting data on your browsing experience, you may download the browser’s additional component for the deactivation of Google Analytics: [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
 ###### 9\. Jobrapido App
 
