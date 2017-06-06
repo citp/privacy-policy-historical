@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamer.cash privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122082713id_/http%3A//gamer.cash/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamer.cash privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223640id_/http%3A//gamer.cash/privacy-policy) for the most accurate reproduction.*
 
-# GamerCash - Privacy Policy
+# Privacy Policy
 
 **Last updated on June 16, 2016.**
 
