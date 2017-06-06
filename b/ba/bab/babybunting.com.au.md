@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the babybunting.com.au privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112184846id_/https%3A//www.babybunting.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babybunting.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213056id_/https%3A//www.babybunting.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Baby Bunting
 
-## Our privacy commitment
+## Our Privacy Commitment
 
 Baby Bunting is committed to protecting the privacy of your personal information. We manage your personal information in an open and transparent way.
 
@@ -20,17 +20,17 @@ Where we can, we will allow you to deal with us anonymously or by using a pseudo
   
 
 
-### Our privacy obligations
+### Our Privacy Obligations
 
 Baby Bunting is bound by privacy laws, which regulate how we may collect, use, disclose and store personal information.  These laws also specify how individuals may access and correct personal information held about them.
 
 “Personal Information” means information or an opinion about an identified individual (or an individual who is reasonably identifiable), whether true or not, or recorded in a material form or not. For example, these types of information could include your name, contact details, age and other information.
 
-In this policy ‘we’, ‘us’, ‘our’ and ‘Baby Bunting’ refers to Baby Bunting Pty Ltd (ACN 128 546 154).
+In this policy ‘we’, ‘us’, ‘our’ and ‘Baby Bunting’ refers to Baby Bunting Pty Ltd (ABN 43 128 546 154).
 
 If you have any questions regarding Baby Bunting’s Privacy Policy, please contact us via email to [enquiries@babybunting.com.au](mailto:enquiries@babybunting.com.au).  If you would like Baby Bunting to send you a copy of this policy, please contact us and we will do so. By visiting our websites and/or providing your personal information to us, you consent to the terms and conditions in this Privacy Policy, unless you tell us to the contrary by contacting our [Privacy Contact Officer](http://www.babybunting.com.au/contacts/).
 
-This privacy policy is effective from March 2014. From time to time, our privacy policies and procedures will be reviewed and, if appropriate, updated.  If any changes are made to this policy these will be posted on our websites.
+This privacy policy is effective from October 2016. From time to time, our privacy policies and procedures will be reviewed and, if appropriate, updated.  If any changes are made to this policy these will be posted on our websites.
 
   
 
@@ -40,7 +40,7 @@ This privacy policy is effective from March 2014. From time to time, our privacy
   
 
 
-### How and why does Baby Bunting collect and hold your personal information?
+### How & Why Does Baby Bunting Collect & Hold Your Personal Information?
 
 Baby Bunting will only collect personal information about you by lawful and fair means, and not in an unreasonably intrusive manner.
 
@@ -48,16 +48,16 @@ It is Baby Bunting’s usual practice to collect personal information about you 
 
   * complete an online form on one of our websites; 
   * complete a hard copy form;
-  * join our VIP card program;
+  * join our VIP card program or other loyalty program;
   * contact our repair or lay-by centre; 
   * enter one of our competitions; or
-  * contact us by telephone, via mail, e-mail or online.
+  * contact us by telephone, via mail, e-mail or online ( Including social media)
 
 
 
 We may collect personal information about you from a third party or a publicly available source, but only if you have consented to such collection, or would reasonably expect us to collect your personal information in this way. 
 
-Baby Bunting only collects personal information for purposes that are directly related to our business activities, and only when it is necessary for or directly related to such purposes. We also collect personal information related to employment services, human resource management, and other corporate service functions.
+Baby Bunting collects personal information for purposes that are directly related to our business activities, and only when it is necessary for or directly related to such purposes. We also collect personal information related to employment services, human resource management, and other corporate service functions.
 
 If we receive information about you from a third party and it is not information we need in respect of our business activities, we will destroy or de-identify that information (provided it is lawful to do so).
 
@@ -69,7 +69,7 @@ If we receive information about you from a third party and it is not information
   
 
 
-### What kind of personal information does Baby Bunting collect and hold?
+### What Kind Of Personal Information Does Baby Bunting Collect & Hold?
 
 Any personal information that you provide via our websites or directly is collected and managed by Baby Bunting.
 
@@ -95,6 +95,8 @@ The types of personal information Baby Bunting may collect includes (but is not 
 
 If you provide us with information about any third party, you must obtain that person’s permission to give us the information, and inform them that you have given the information to us.
 
+Cookies are pieces of information that a website transfers to your computer for record-keeping purposes. The information collected may be used by Baby Bunting to improve your experience on our website. If you visit an area of the website where you are not required to log on, to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded. 
+
   
 
 
@@ -103,7 +105,7 @@ If you provide us with information about any third party, you must obtain that p
   
 
 
-### How does Baby Bunting use your personal information?
+### How Does Baby Bunting Use Your Personal Information?
 
 We use your personal information for a variety of reasons including to:
 
@@ -129,9 +131,9 @@ Whilst you may opt not to provide us with your personal information, you should 
   
 
 
-### In what circumstances will Baby Bunting disclose your personal information?
+### In What Circumstances Will Baby Bunting Disclose Your Personal Information?
 
-In the course of conducting our business and providing our products and services to you, we may disclose your personal information. We will often be required to provide your personal details such as your name and address to third party companies who perform part of our service delivery & installation such as fulfillment contractors and mail houses.
+In the course of conducting our business and providing our products and services to you, we may disclose your personal information. We will often be required to provide your personal details such as your name and address to third party companies who perform part of our service delivery & installation such as fulfilment contractors and mail houses.
 
 We only disclose personal information for the purposes for which it was given to us, or for purposes which are directly related to one of our functions or activities.  We do not give it to anyone else unless one of the following applies:
 
@@ -151,7 +153,7 @@ If we engage third party agents or contractors, we will take all reasonable step
   
 
 
-### Who do we disclose your personal information to?
+### Who Do We Disclose Your Personal Information To?
 
 We may disclose your personal information to:
 
@@ -173,7 +175,7 @@ In all circumstances where your personal information is disclosed, we will take 
   
 
 
-### Direct marketing
+### Direct Marketing
 
 We are committed to compliance with all laws and requirements relating to the use of your personal information.  We will only use or disclose your personal information for direct marketing purposes if you have provided your information for that purpose (and you would expect us to use the information for that purpose), or if you have provided consent for your information to be used in this way.
 
@@ -196,7 +198,7 @@ If you do not wish to be contacted by Baby Bunting, please contact us via email 
   
 
 
-### Does Baby Bunting disclose your personal information to overseas recipients?
+### Does Baby Bunting Disclose Your Personal Information To Overseas Recipients?
 
 In some circumstances, Baby Bunting may disclose your personal information to overseas recipients. If this occurs, we take steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the relevant privacy laws in relation to that information.
 
@@ -226,7 +228,7 @@ Baby Bunting will not use Government Identifiers, such as Medicare numbers, or a
   
 
 
-### Data quality and Security
+### Data Quality and Security
 
 We will take all reasonable steps to ensure that your personal information is stored securely and is protected from misuse and loss and from unauthorised access, modification or disclosure.
 
@@ -246,45 +248,7 @@ If you believe that your personal information is not accurate, complete or up to
   
 
 
-### Website usage
-
-Our website is professionally hosted and operates in a secure environment. You should however be aware that there is always an inherent risk in transmitting your personal information via the Internet.
-
-We use Magento Enterprise to process online orders. Customers can see their cards being debited in real time, all in an SSL secure environment.
-
-We take website and credit card security extremely seriously, and always endeavour to provide a secure safe platform on which to conduct online transactions - [babybunting.com.au](http://www.babybunting.com.au/) uses SecurePay and PayPal SSL.
-
-#### PayPal
-
-PayPal automatically encrypts your confidential information in transit from your computer to ours using the Secure Sockets Layer protocol (SSL) with an encryption key length of 128-bits (the highest level commercially available). Before you even register or log in to the PayPal site, our server checks that you're using an approved browser - one that uses SSL 3.0 or higher.
-
-Once your information reaches the PayPal site, it resides on a server that is heavily guarded both physically and electronically. PayPal servers sit behind an electronic firewall and are not directly connected to the internet, so your private information is available only to authorised computers.
-
-#### SecurePay
-
-SecurePay’s security is focused on the safe processing and storage of sensitive personal Credit Card, Charge Card and Direct Entry information.  PCI DSS (Payment Card Industry Data Security Standard) compliance is a strict security standard the card schemes (Visa and MasterCard) have introduced globally to ensure personal information is properly protected. SecurePay holds the highest level of PCIDSS accreditation.  SecurePay's Operations Network is audited on an ongoing basis by external auditors, namely Vectra Corporation, for the purpose of certifying compliance with PCI DSS. Ongoing network scans, a requirement of PCI DSS, are completely regularly and are performed by McAfee Secure.
-
-To make sure you are accessing a secure server, check for the unbroken key or closed lock symbol located generally either at the bottom left or top right of your browser window. If it appears, then SSL is active. You can double check this by looking at the URL as well. If SSL is active, then the first characters of that line will read ‘https’ rather than just ‘http’. It is important for you to take steps to protect against unauthorised access to your password and to your computer.  Also, you should ensure you logout when you have finished visiting [babybunting.com.au](http://www.kathmandu.com.au/), especially if you access it from a shared computer.
-
-Cookies are pieces of information that a website transfers to your computer for record-keeping purposes. The information collected may be used by Baby Bunting to improve your experience on our website. If you visit an area of the website where you are not required to log on, to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our system will not record any personally identifiable information about you without your consent.
-
-If you complete an online form on our website, the information that you enter on that form will only be collected if you actually submit the form to us. If you change your mind and do not submit the information, any information you have entered up to that point will not be collected by our system and will be discarded (note that if your browser has an “auto complete” function, it might automatically fill in the form again the next time you visit that page).
-
-Any personal information that you actually submit to us using our website or in an e-mail will only be used in accordance with this privacy policy.
-
-Baby Bunting endeavours to ensure the accuracy of our website pricing and content.  In the case of a technical based pricing or content error, we reserve the right to cancel or refund the mistaken purchase price to you.  If an order is rejected on our website we will endeavour to notify you within a reasonable time after the order has been submitted.
-
-If you come across what you believe to be a technical error or inaccuracy of our content please notify us at [enquiries@babybunting.com.au](mailto:enquiries@babybunting.com.au).
-
-  
-
-
-* * *
-
-  
-
-
-### Links to third party sites
+### Links To Third Party Sites
 
 Whilst links to third party websites are provided on our website, we are not responsible for the content or practices of these third party websites.
 
@@ -300,7 +264,7 @@ No links may be made to this website without our prior written consent. Applicat
   
 
 
-### How you can access or correct your personal information
+### How You Can Access Or Correct Your Personal Information
 
 You can request access to the personal information we hold about you at any time, and we will
 
@@ -320,7 +284,7 @@ If you believe that your personal information is not accurate, complete or up to
   
 
 
-### How you can notify us of a privacy concern or contact our Privacy Contact Officer
+### How You Can Notify Us Of A Privacy Concern Or Contact Our Privacy Contact Officer
 
 If you:
 
@@ -337,4 +301,4 @@ or
 
 If you consider your privacy concerns have not been resolved satisfactorily by us, or you wish to obtain more information on privacy requirements, you can contact The Office of the Australian Information Commissioner on 1300 363 992 or visit their website at [www.oaic.gov.au](http://www.oaic.gov.au/).
 
-_Last updated 15/04/2014_
+_Last updated 01/10/2016_
