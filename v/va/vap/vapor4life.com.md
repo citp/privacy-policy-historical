@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapor4life.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228012957id_/http%3A//www.vapor4life.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapor4life.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113232id_/http%3A//www.vapor4life.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,11 +63,11 @@ If we decide to change our privacy policy, we will post those changes on this Va
 
 **California Privacy Rights**
 
-California Civil Code 1798.83-.84 provide users that are California residents with a right to ask us for a notice describing what categories of personal information we may share with third parties for their direct marketing purposes. As noted above, we do not currently provide personally identifiable information to third parties for direct marketing purposes. However, if you are a California resident and would like to receive a separate written notice to this effect, please submit a written request to Vapor4Life, 4100 Commercial Avenue, Northbrook, IL 60062. In your request, please specify that you want a copy of your California Privacy Rights Notice. Please allow 30 days for us to respond.
+California Civil Code 1798.83-.84 provide users that are California residents with a right to ask us for a notice describing what categories of personal information we may share with third parties for their direct marketing purposes. As noted above, we do not currently provide personally identifiable information to third parties for direct marketing purposes. However, if you are a California resident and would like to receive a separate written notice to this effect, please submit a written request to Vapor4Life, 4080 Commercial Avenue, Suite A, Northbrook, IL 60062. In your request, please specify that you want a copy of your California Privacy Rights Notice. Please allow 30 days for us to respond.
 
 **Questions and Feedback**
 
-We welcome your questions, comments, and concerns about privacy or this policy. Please feel free to contact us via phone toll free at (844-827-3454) VAPE-4-LIFE or by snail mail at Vapor4Life, 4100 Commercial Avenue, Northbrook, IL 60062.
+We welcome your questions, comments, and concerns about privacy or this policy. Please feel free to contact us via phone toll free at (844-827-3454) VAPE-4-LIFE or by snail mail at Vapor4Life, 4080 Commercial Avenue, Suite A, Northbrook, IL 60062.
 
 **Online Policy Only**
 
