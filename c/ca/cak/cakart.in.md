@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakart.in privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225020651id_/http%3A//www.cakart.in/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakart.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165122id_/http%3A//cakart.in/terms%23privacy) for the most accurate reproduction.*
 
 # The best online video classes and video lecture coaching for CA, CS, CWA and Banking exams in India.
 
@@ -60,14 +60,3 @@ If paid by credit card, refunds will be issued to the original credit card provi
 
 
 
-
-Install CAKART Android App TODAY to get FLAT 10% OFF 
-
-Excellent Books, Test Papers, Notes, charts for any Exam 
-
-Top Downloads 
-
-Parveen sharma notes  |  All in one Excel formula   
----|---  
-Surbhi Bansal Audit Notes  |  Depriciation Notes   
-Munish Bhandari Law Notes  |  How to Prepare Guides 
