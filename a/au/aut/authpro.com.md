@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authpro.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128135230id_/http%3A//authpro.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authpro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051255id_/http%3A//www.authpro.com/policy.shtml) for the most accurate reproduction.*
 
 # AuthPro: Privacy policy
 
