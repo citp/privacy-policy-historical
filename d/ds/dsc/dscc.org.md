@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dscc.org privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111225047id_/http%3A//www.dscc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dscc.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152447id_/http%3A//www.dscc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DSCC: Democratic Senatorial Campaign Committee
 
