@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affiliatefuture.co.uk privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220143350id_/http%3A//www.affiliatefuture.co.uk/Legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefuture.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110819id_/http%3A//www.affiliatefuture.co.uk/Legal/privacy) for the most accurate reproduction.*
 
-# Affiliate Future
+# Affiliate Future privacy statement
 
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. This Policy is updated from time to time so please review this Policy regularly.
 
