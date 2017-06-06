@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202182524id_/https%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190231id_/https%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We will display your personal information on your profile and elsewhere on the s
 
 We may use your information, such as your age, ZIP code or IP address, in aggregate form to statistically analyze site usage and customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users. We may provide informational reports with our business partners who are involved with providing free content to gofobo members.
 
-If you elect to OPT-IN to receive additional promotional information from gofobo during the registration process, we may provide your personally identifiable information to other businesses, companies and organizations with which we partner or which we carefully select to offer you products, services and promotions through our Web site or offline.
+If you elect to OPT-IN to receive additional promotional information from gofobo during the registration process, we may provide your personally identifiable information to other businesses, companies and organizations with which we partner or which we carefully select to offer you products, services and promotions through our Web site, mobile app, email, or offline.
 
 Also, if you elect to OPT-IN to participate in any sweepstakes, surveys, questionnaires or other events during your visit to our Web site, the rules or terms and conditions for those events may indicate that your personally identifiable information will be shared with third parties. By choosing to elect to OPT-IN to participate and submitting your personally identifiable information with respect to such events, you consent to disclosure of your personally identifiable information to such third parties.
 
@@ -52,7 +52,7 @@ Gofobo.com contains links to other sites. Gofobo is not responsible for the priv
 
 #### THIRD-PARTY ADVERTISING.
 
-Gofobo may share profile information in a personally identifiable manner and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. Advertisements that appear on this Web site are delivered to users by our advertising partners. Our advertising partners may set cookies.
+Gofobo may share profile information in a personally identifiable manner and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. Advertisements that appear on this Web site, on mobile apps or in are delivered to users by our advertising partners. Our advertising partners may set cookies.
 
 #### Acquisition or Business Transfer.
 
