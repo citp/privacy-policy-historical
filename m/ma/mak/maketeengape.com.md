@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maketeengape.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817181428id_/http%3A//maketeengape.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maketeengape.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162341id_/http%3A//maketeengape.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
