@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015822id_/http%3A//www.gatehousemedia.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154058id_/http%3A//www.gatehousemedia.com/section/privacy) for the most accurate reproduction.*
 
-# Gatehouse Media » Privacy Policy
+# Privacy Policy – Gatehouse Media
 
 This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (“GateHouse”) and certain of GateHouse’s subsidiaries, including this website (the “websites”).
 
