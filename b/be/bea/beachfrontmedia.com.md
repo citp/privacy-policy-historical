@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachfrontmedia.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203050726id_/http%3A//beachfrontmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachfrontmedia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102655id_/http%3A//beachfrontmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -124,7 +124,7 @@ Our Services are combined with content from our customers and other third-party 
 
 #### Accessing Your Personally-Identifiable Information, Making Changes, Or Requesting Deletion
 
-Where we processes personally-identifiable information on our own behalf, you may request access to, correction of, or deletion of personal data held by us. If you desire to access such information we may hold, update the information, or for any privacy or data-protection-related question please write [support@beachfrontmedia.com](mailto:support@beachfrontmedia.com) for assistance. Because we generally process data for others, for any of that data you should make your request directly to the party collecting the information or on whose behalf it has been collected.
+Where we processes personally-identifiable information on our own behalf, you may request access to, correction of, or deletion of personal data held by us. If you desire to access such information we may hold, update the information, or for any privacy or data-protection-related question please write [iosupport@beachfrontmedia.com](mailto:iosupport@beachfrontmedia.com) for assistance. Because we generally process data for others, for any of that data you should make your request directly to the party collecting the information or on whose behalf it has been collected.
 
 #### Security
 
@@ -133,11 +133,11 @@ the confidentiality of customer and other data, limiting access only to those em
 
 #### Children
 
-Neither this Site nor the Service is directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. No sensitive segments or segments are targeted at children. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at support@beachfrontmedia.com. If we become aware that a child under 13 has provided us with personally identifiable information, we will delete such information from our files.
+Neither this Site nor the Service is directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. No sensitive segments or segments are targeted at children. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [iosupport@beachfrontmedia.com](mailto:iosupport@beachfrontmedia.com). If we become aware that a child under 13 has provided us with personally identifiable information, we will delete such information from our files.
 
 #### Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits End Users who are California residents to request certain information regarding BFM’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please email [support@beachfrontmedia.com](mailto:support@beachfrontmedia.com).
+California Civil Code Section 1798.83 permits End Users who are California residents to request certain information regarding BFM’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please email [iosupport@beachfrontmedia.com](mailto:iosupport@beachfrontmedia.com).
 
 #### Changes to Privacy Policy
 
