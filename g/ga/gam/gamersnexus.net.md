@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamersnexus.net privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130112908id_/http%3A//www.gamersnexus.net/policies/1218-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersnexus.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161950id_/http%3A//www.gamersnexus.net/policies/1218-privacy) for the most accurate reproduction.*
 
 # GN Privacy & Use Policy | GamersNexus - Gaming PC Builds & Hardware Benchmarks
 
@@ -36,4 +36,4 @@ Links to products are converted into affiliate links, which use cookies to track
 
 ### Legal Disclaimer ** **
 
-All contents posted on GamersNexus.net and its subsidiaries are the sole property of GamersNexus and protected by US & foreign copyright and trademark laws.
+All contents posted on GamersNexus.net and its subsidiaries are the sole property of GamersNexus and protected by US & foreign copyright and trademark laws. You are not permitted to reference more than two charts from GN content in your own commercial content.
