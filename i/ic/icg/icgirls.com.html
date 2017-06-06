@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icgirls.com privacy policy that was archived on 2016-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161212163746id_/http%3A//www.icgirls.com/exec/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icgirls.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606095135id_/http%3A//www.icgirls.com/exec/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -15,8 +15,8 @@
 <meta name="content" content="ICGirls hosts the hottest live webcam girls.  Users may chat with them for free.">
 
 <!-- disable iPhone inital scale -->
-<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0">
-
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    
 
 <title>Live Girls - IC Girls - Sexy Live Webcam Girls</title>
 
@@ -35,16 +35,18 @@
 
 <!-- web fonts -->
 <link href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900,500italic,400italic,700italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Podkova:700" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Raleway:200,300,400,500,700,900" rel="stylesheet" type="text/css">
 
 
   <base href="http://www.icgirls.com/templates/cwh_icgirls/english/">
-  <link rel="stylesheet" href="styles/cache_main1.css?nc=1481534268000" type="text/css">
+  <link rel="stylesheet" href="styles/cache_main1.css?nc=1496730520000" type="text/css">
   <link rel="stylesheet" type="text/css" href="../../resources/jquery/nyroModal/nyroModal.min.css" media="screen">
   <!--[if lt IE 7]>
   <link rel="stylesheet" type="text/css" href="../../resources/jquery/nyroModal/i6fix.min.css" media="screen" />
   <link rel="stylesheet" href="styles/cache_ie6fix.css" type="text/css" />
   <![endif]-->
-  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=596292207078202"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="scripts/cache_first1.js?nc=1481534266000"></script>
+  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=596292207078202"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="scripts/cache_first1.js?nc=1496730519000"></script>
   <script type="text/javascript" src="/exec/scripts/dynamic.jsp"></script>
   <script type="text/javascript">
   <!--
@@ -106,6 +108,7 @@ var current_model = 0;
 	</script>
 
   <header id="theheader">
+    <div class="relative_container">
     <section id="thesitebar">
       <section class="primary">
         <section class="theticker">
@@ -114,9 +117,9 @@ var current_model = 0;
           </div>
         </section>
         <ul class="socialmenu">
-          <li><a href="http://www.facebook.com/CWHGirls" target="_blank" title="Facebook"><img src="images/new/icons/social-facebook.png"></a></li>
           <li><a href="https://twitter.com/icgirls" target="_blank" title="Twitter"><img src="images/new/icons/social-twitter.png"></a></li>
-          <li><a href="http://www.camwithher.com/newsletter/?p=subscribe&amp;id=3" target="_blank" title="Newsletter"><img src="images/new/icons/social-newsletter.png"></a></li>
+          <li><a href="https://www.facebook.com/iccamgirls/" target="_blank" title="Facebook"><img src="images/new/icons/social-facebook.png"></a></li>
+          <!-- <li><a href="http://www.camwithher.com/newsletter/?p=subscribe&id=3" target="_blank" title="Newsletter"><img src="images/new/icons/social-newsletter.png" /></a></li> -->
         </ul>
         <div class="addthisblock">
           <!-- AddThis Button BEGIN -->
@@ -147,7 +150,7 @@ var current_model = 0;
     <nav id="thenav">
       <section class="primary">
         <ul class="themenu">
-        <li><a href="/exec/" target="_self">Models</a></li><li><a href="/exec/fanclubs" target="_self">Fan Clubs</a></li>
+        <li><a href="/exec/" target="_self">Models</a></li><li><a href="/exec/fanclubs" target="_self">Fan Clubs</a></li><li><a href="/exec/snapchats" target="_self">Snapchats</a></li>
         		<li class="ondemand dropdown">
         		  On Demand
               <div class="span">
@@ -209,10 +212,10 @@ var current_model = 0;
         <h1>Already a Member?</h1>
         <h2>Sign in with your account</h2>
       </header>
-      <form method="post" action="/exec/login">
+      <form method="post" action="/exec/login" class="recaptcha">
        <input type="hidden" name="login_redirect_url" value="http://www.icgirls.com/exec"><input type="hidden" name="remember_me" value="1">
-        <div><input type="text" name="customer_name" value=""></div>
-        <div><input type="password" name="customer_password" value=""></div>
+        <div class="field"><input type="text" name="customer_name" value=""></div>
+        <div class="field"><input type="password" name="customer_password" value=""></div>
         <input type="submit" value="LOGIN" class="loginbutton">
       </form>
       <footer>
@@ -221,14 +224,14 @@ var current_model = 0;
           <div><img src="images/new/icons/joinby-facebook.png"></div>
           <h1>LOGIN WITH FACEBOOK</h1>
           <script type="text/javascript">
-       function fblogin_customer() {
-         FB.login(function(response) {
-           if (response.status == 'connected') {
-             document.location.href = CustomerPerson.getFBConnectionUrl('','7765');
+           function fblogin_customer() {
+             FB.login(function(response) {
+               if (response.status == 'connected') {
+                 document.location.href = CustomerPerson.getFBConnectionUrl('','7825');
+               }
+             }, {perms:'email,user_birthday,user_about_me,user_photos,publish_stream'});
            }
-         }, {perms:'email,user_birthday,user_about_me,user_photos,publish_stream'});
-       }
-     </script>
+         </script>
         </a>
         <a href="/exec/forgotpassword" class="forgotpassword">Forgot password?</a>
       </footer>
@@ -236,9 +239,10 @@ var current_model = 0;
   </section>
       </section>
     </nav>
+    </div>
   </header>
-  <div class="thepagebg">
-  <section id="thepage">
+  <div class="thepagebg relative_container">
+  <section id="thepage" class="relative_container">
   <script>
     
     $(".trigger-loginbutton").click(function(event){
@@ -381,26 +385,88 @@ var current_model = 0;
 </div>
 
 
-
-
       <div class="clear"></div>
     </section>
   </div>
 <footer id="thefooter">
-  <footer id="thecopyright">
+  <footer id="thecopyright" class="relative_container">
     <section class="primary">
       <a href="#" class="theminilogo"><img src="images/new/logos/minilogo.png"></a>
-      <p class="copyrightinfo">© 2016 ICGirls.com | All rights reserved.<br class="tohide"><a target="_blank" href="/exec/2257.jsp" class="tohide">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a></p>
+      <p class="copyrightinfo">© 2017 ICGirls.com | All rights reserved.<br class="tohide"><a target="_blank" href="/exec/2257.jsp" class="tohide">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a></p>
       <p class="footerinfo"><a target="_blank" href="http://www.snrproductions.com/">Become a Camgirl</a> | <a target="_blank" href="http://www.snrcash.com/">Webmasters</a> | <a target="_blank" href="http://www.snrsupport.com/">Support</a> | <a target="_blank" href="/exec/privacy.jsp">Privacy Policy</a> | <a href="/exec/gtc.jsp">Terms &amp; Conditions</a>
       <br><a href="#" onclick="return goMobile();">Mobile</a> | <a target="_blank" href="http://cams.camwithher.com/">CamWithHer</a> | <a target="_blank" href="http://classycams.com/">ClassyCams</a> | <a target="_blank" href="http://camleap.com">CamLeap</a></p>
     </section>
   </footer>
 </footer>
 
+<!-- Snapchat panel Footer -->
+ <div class="pup-snapchatsub">
+   <div class="prmy-sub">
+     <div class="header">
+       <div class="ttl"><span class="fill_snapchat_peformerScreenName"></span>'s Snapchat</div>
+       <div class="lbl">You are purchasing a subscription to this performer's snapchat.</div>
+       <i class="fa fa-times btn hide-snapchatsub"></i>
+     </div>
+     <div class="btns-sub">
+       <div class="btn-sub btn-sub-1" onclick="window.location=Snapchat.recuringHref">
+         <div class="hdr">
+           <div class="left">
+             <div class="ttl">Per Month</div>
+             <div class="lbl fnt2">$<span class="fill_snapchat_pricePerMonth"></span></div>
+             <div class="txt">/ Per Month</div>
+             <div class="subtitle">Best value / Most popular</div>
+             <div class="desc tflw">Your credit card will be charged the above amount every 30 days.</div>
+           </div>
+           <div class="right">
+             <a class="btn yellow fill_snapchat_recuringHref">Subscribe</a>
+           </div>
+         </div>
+       </div>
+       <div class="btn-sub btn-sub-2" onclick="window.location=Snapchat.limitedHref">
+         <div class="hdr">
+           <div class="left">
+             <div class="ttl">1 Month</div>
+             <div class="lbl fnt2">$<span class="fill_snapchat_priceMonth"></span></div>
+             <div class="txt">/ One Time Charge</div>
+             <div class="desc tflw">Your credit card will be charged the above amount once for 30 day access.</div>
+           </div>
+           <div class="right">
+             <a class="btn fill_snapchat_limitedHref">Subscribe</a>
+           </div>
+         </div>
+       </div>
+       <div class="btn-sub btn-sub-3">
+         <div class="hdr">
+           <div class="left">
+             <div class="ttl">Account Balance</div>
+             <div class="lbl fnt2"><span class="fill_snapchat_priceMonth">10</span></div>
+             <div class="txt"><span class="currency">CR</span> / One Time Debit</div>
+             <div class="desc tflw">Your account credit balance will be debited the above amount for 30 day access. <a href="/exec/join">Need an Account?</a></div>
+           </div>
+           <div class="right">
+             <div class="sub snapchat-subs-cr">
+               <a class="btn animate" onclick="$('.snapchat-subs-cr').toggleClass('show');">Subscribe</a>
+               <div class="sub-panel animate">
+                 <input class="input-snapchat fill_snapchat_customerSnapchatId" type="text" value="" placeholder="Snapchat username" name="snapchat_id">
+                 <input class="submit-subscribe" type="submit" value="Confirm" onclick="$(document).trigger('buySnapchatSubscription',[$('.fill_snapchat_customerSnapchatId').first().val()]); return false;">
+               </div>
+             </div>
+           </div>
+         </div>
+       </div>
+     </div>
+     <div class="benefits snap">
+       <div class="ttl fill-snapchat_desc">Get instant access to the Premium Snapchat account of <span class="fill_snapchat_peformerScreenName"></span> now!</div>
+     </div>
+     <div class="subtxt"><a href="http://www.snrsupport.com">Customer Support</a></div>
+   </div>
+ </div>
+ <!-- /snapchat panel Footer -->
 
 
 
-<script type="text/javascript" src="scripts/cache_last1.js?nc=1481534271000"></script>
+
+<script type="text/javascript" src="scripts/cache_last1.js?nc=1496730519000"></script>
 <script type="text/javascript">
 <!--
 $(document).ready(function() {
