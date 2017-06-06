@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235707id_/http%3A//www.baltimoreravens.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103923id_/http%3A//www.baltimoreravens.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Baltimore Ravens | Privacy Policy
 
@@ -10,7 +10,7 @@ Effective Date: 02/04/2015
 
 The Baltimore Ravens organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our websites and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
 
-Baltimore Ravens has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. ** ** If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [**https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request). ****
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [**https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request). ****
 
 **1.      ****Information Collection** **  
 2.     ****Use of Information** **  
