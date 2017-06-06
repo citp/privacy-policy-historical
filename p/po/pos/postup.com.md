@@ -1,79 +1,115 @@
-> *The following text is extracted and transformed from the postup.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120223326id_/http%3A//postup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054914id_/https%3A//www.postup.com/privacy-policy) for the most accurate reproduction.*
 
-# PostUp | Privacy Policy
+# Privacy Policy – Postup
 
-PostUp, Inc. (“PostUp” or “We”) is committed to protecting online user privacy. In order to ensure your privacy while using this website, we collect your information only in the manner and for the purposes described below. This Privacy Policy (this “Policy”) informs you about the ways in which PostUp knowingly collects and uses information collected via its website (at [http://www.postup.com](https://web.archive.org/)) and via its Services and APIs. Capitalized terms used herein shall have the same meaning as designated in the PostUp Terms of Service located at [http://www.postup.com/terms](https://web.archive.org/terms), unless otherwise specifically defined in this Privacy Policy. 
+**PostUp Privacy Policy**
 
-### Definitions
+Your privacy is important, so PostUp Digital LLC (also doing business as UnsubCentral) (“PostUp,” “us,” “we,” “our”) has created the following privacy policy (this “Privacy Policy”) so that our customers (“customers,” “you,” “yours,” “they”) understand what types of personally identifiable information (“PII”) and other information we collect from our customers when they visit and use our website (the “Site”) and the products and services we offer (collectively, the “Service”), why we collect that information, and how the information is used or disclosed. Please take a moment to read this Privacy Policy to learn about PostUp’s information privacy practices.
 
-“Personal Information” means information about you that is personally identifiable, such as your name, address, email address, or phone number, and that is not otherwise publicly available. It may also include information specifically related to the Company’s Services, including but not limited to content you create for the Services, your online profile or other biographical information, information on your selected bids and keywords, and the fact that you are a user of the Service. 
+By using the Site or the Service, you agree to the collection, use, and disclosure of your PII and other information as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or the Service.
 
-“Non-Personal Information” means information that does not personally identify you and cannot be used to contact you or identify you (for example, your IP Address or browser type). 
+We may periodically make changes to this Privacy Policy, and those changes become effective immediately upon posting them to the Site. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. We are not required to provide notice to you of any changes to this Privacy Policy.
 
-“Information” means both Personal Information and Non-Personal Information. 
+**Information Collected and Received**
 
-### Information Collected
+**PII**
 
-#### Personal Information
+Through the use of this Site or Service, PostUp may collect or maintain the following PII about individuals from clients or prospective clients, which is typically business contact information:
 
-When we collect Personal Information via the Site, it is only done with your knowledge (such as filling out a submission form). This Personal Information may include your name, postal address, email address, telephone number, birth date, credit card information, content you create for the Services, your online profile or other biographical information, information on your selected bids and keywords, and the fact that you are a user of the Service. 
+  * First and Last Name
+  * Street or mailing address, city, state, and zip code
+  * E-mail Address
+  * Occupation/title
+  * Company
+  * Phone number
+  * Company URL
+  * Business type
+  * Information volunteered by customers, such as survey information
+  * Any other PII the customer submits during the course of normal correspondence with PostUp or its third-party partners
 
-Examples of where we might gather such information from you: when you sign up to receive e-mail updates or newsletters about the Site, our products, or services; to allow you to register or update your individual information on the Site; to help personalize the Site for you; or to allow you to provide feedback, or ask a question. In some situations, you will need to provide some or all of the above-described Personal Information in order for certain personalized features of the Site to function properly (e.g., company and product email alerts). 
 
-#### Non-Personal Information
 
-We also collect and store Non-Personal Information, such as visitor traffic, page hits, site referral information, browser information, downloads, and general Site use information through typical Internet data collection tools, such as web beacons, cookies, and embedded Web links. These tools collect information that your browser sends to our Site, such as your browser type and language, access times, and the address of the website from which you arrived at this Site, and can track clickstream behavior (i.e. the pages you view, the links you click, and other actions you take in using the Site). We use this Non-Personal Information to better understand the use of the Site, to improve and revise the Site and to track interest. 
+**Non-PII**
 
-We may use cookies to store your Site preferences, usage patterns, and other information so that the Site, and the Sites and tools of our partners, will function better for you on subsequent visits. The Site or its partners may also use cookies to deliver content specific to your interests and for other similar purposes. A “cookie” is a tiny file that your browser places on your computer’s hard drive, which acts to identify your computer. Cookie and cookie tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site and partner sites, and understanding how visitors use the Site. Cookies can also help tailor the Site and partner sites to visitors’ needs and help customize the Site and partner sites for visitors. Personally identifiable information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information (as discussed above), cookies may be tied to such information. Aggregated cookie and tracking information may be shared with third parties. Most modern browsers allow users to decide whether to accept cookies, but rejection of cookies may cause some parts of the Site to not function properly or be inaccessible. 
+Non-PII (information that that does not reveal the specific identity of the customer) is collected by PostUp in the normal course of operating its business. We collect certain aggregate and non-personal information when you visit the Site and through your use of the Service. When you visit the Website to browse, read or download information, we automatically collect standard computer information that your browser sends to every website you visit, such as your IP address, browser type and language, cookie information, access times, referring website addresses and the page you request. This information does not relate to a single identifiable visitor. It tells us such things as how many users visited the website and the pages accessed. Collecting this information helps us tailor our Website to our visitors. We generally do not link standard computer information to anything that will allow us to identify users unless to prevent fraud and to protect our Service, Website, users, customers or others. You may choose not to provide us with certain information, but then you might not be able to take advantage of many of our features offered with the Service.
 
-PostUp also collects Personal and Non-Personal Information from commercially available sources that may be used along with the information PostUp collects when you visit the Site. For example, PostUp may compare the geographic information acquired from commercial sources with the IP address collected by data collection tools to derive your general geographic area. If you elect to become an advertiser of the Company (an “Advertiser”), we may also gather information about you from sources such as blogs, Wikipedia, social media sites, and so on, inasmuch as these are publicly available. The Company intends to use this information to present your provided Content in the most meaningful context to users of the Service, but does not make any guarantees as to how this information will be used. 
+PostUp may keep a cached copy of the content you provide or disclose to us as a part of your use of the Site or Service, including media files, for an indeterminate or indefinite period of time. To assist in development, we may keep copies of HTTP requests and responses in your notification log. If your web server does not specify that we may cache your content, we will not keep a cached copy of any text or audio data transmitted through the Service during calls, but we may still maintain copies in your notification log. We may also keep call log, notification log, billing/payment, and other log data as we determine is appropriate.
 
-### Use of Information
+**Uses of  Information**
 
-PostUp may use Personal Information, for example your email address, to provide you with marketing or other communications. PostUp may share your Information with its trusted business partners so they may also offer services that complement those provided by us or with third parties that assist us with this Site. For example, we may engage third parties to make improvements on our Site, to offer new products, to provide e-mail and other marketing support, and to allow us to customize your experience on the Site. In addition, we engage another company to validate and process credit card payments. When we engage third party companies, they have access to Personal Information and Non Personal Information as needed to perform their functions, but they may not use it for other purposes. We may disclose any Information to third parties if we believe release is necessary to comply with any law, regulation, subpoena, or court order or to help prevent fraud or enforce or protect the rights and properties of PostUp or its affiliates. 
+PostUp uses PII and other collected information to provide the Service and to allow you to access and use the Site and the Service, all in a manner that is consistent with this Privacy Policy. If you provide PII for a certain purpose, we will use the PII only in connection with that purpose for which it was originally provided, for a different purpose that you later authorize, and for any other purpose consistent with the terms of this Privacy Policy. For instance, if you contact us by e-mail, we will use the PII you provide to answer your question or resolve your problem. Also, if you provide PII in order to obtain access to the Site or the Service, we will use such information to provide you with access the Site or the Service and to monitor your use of the Site or the Service. Your PII may be used to provide you with product information and support services offered on the Site or with respect to the Service, to notify you of technical updates or changes in policy, to improve the content and functionality of the Site or the Service, to help us better understand our customers and their preferences, and to deliver or offer additional services. We may also use PII to contact our corporate customers for marketing purposes if they elect to continue to receive such communications.
 
-Further, we may disclose Information if you opt-in (either at the time of providing personally identifiable information, or at a later time) to have us share your information with our partners for the purpose of receiving information from our partners and other companies. 
+PostUp will provide customers with the ability to opt-out prior to disclosing any customer information to a third party or using customer information for a purpose that is inconsistent with the purpose for which it was originally collected.
 
-In the event of an acquisition of all or part of PostUp by another company, or in the event that PostUp sells or disposes of all or a part of the PostUp business, the acquirer will have access to the information maintained by PostUp, which can include personally identifiable information, subject to applicable law. Similarly, information may be transferred as part of a reorganization or insolvency proceeding. 
+**The Information Shared or Disclosed with Third Parties**
 
-International Customers should note that the database of Personal Information is retained by PostUp in the United States. We may process information on servers outside of your country. In addition, Personal Information may be shared with a third party to support services for us as described above, and such third party may store Personal Information on servers located in or outside the United States. 
+PostUp is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your PII with certain third parties without further notice to you, as set forth below:
 
-Although we use reasonable efforts to maintain the privacy of your personally identifiable data and information, due to technological limitations, and the risk of unlawful interceptions and accessing of transmissions and/or data, we cannot completely assure you, and you should not expect, that your personally identifiable data and information, and any other electronically communicated information, will be absolutely confidential. 
+  * Third-Party Applications and Services: If you elect to use one or more third-party applications that interoperate with the Site or the Service, those applications may be given access to information (which may include PII) on our systems generated in connection with your use of the Service. Please remember that PostUp is not responsible for the policies and practices of third-party application providers, and we shall have no liability arising from any action of any such provider as it concerns your PII or other information. In connection with your use of any such third-party applications, please review carefully the applicable privacy policy of each such third-party application provider to become familiar with such provider’s policies and practices as it concerns your PII and other information.
 
-### Opting Out
 
-To unsubscribe from our mailing list(s), please follow the directions set forth within the promotional or other materials you receive from us or email us at [opt-out@postup.com](mailto:opt-out@postup.com). 
+  * Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution, or similar event, PII may be part of the transferred assets. You acknowledge that such transfers may occur, and that any acquirer or successor of PostUp may continue to use your information as set forth in this Privacy Policy.
 
-If enabled on the site, you may visit your account settings page to delete your account and/or information. You can also contact us at [remove@postup.com](mailto:remove@postup.com) to request deletion of your account and/or information. Please note that any information that we have may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases. Please note that log files are not affected by account deletion requests. 
 
-### Correspondence
+  * Agents, Consultants and Related Third Parties: PostUp, like many businesses, sometimes uses other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases, developing new services, enhancing the Service, and processing payments. When we employ another company or individual to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
 
-We maintain and review e-mail correspondence that you send to us. We will use the personally identifiable information disclosed in the e-mail. Because such correspondence contains information that is not transmitted through the operation of our web site, it is not subject to the terms of this Privacy Policy. 
 
-### Information Processing
+  * Legal Requirements and Other Circumstances: PostUp may also share PII in the following limited circumstances: (1) upon receipt of a properly authorized and authenticated governmental request for information; (2) in response to a subpoena or a court order; (3) to comply with relevant laws; (4) in response to an investigation of fraud regarding a specific individual; (5) in an effort to safeguard the person or property of PostUp, an PostUp employee or a third party; (6) when PostUp believes it is necessary to protect our interests or we believe in good faith that the law requires the sharing of your PII; (7) act in urgent circumstances to protect the personal safety of users of the Website or Service or the public; and (8) protect against legal liability.
 
-In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners, provided that we will not reveal such information except in accordance with this Privacy Policy. 
 
-### Demographic Information and Surveys and Polls
 
-We may ask for demographic or profile (age, gender, household, interests, etc.) information in a survey/poll or at registration. This information is used to assist us in tailoring the site, our communications, and our services and products to visitors and consumers. We may share aggregated demographic and survey information, as opposed to individual information, with third parties. You always have the option of not responding to any questionnaire, survey, or poll. 
+**Cookies and Web Beacons**
 
-### Credit Card Security
+Most web browsers are set up to accept cookies. You can, however, reset your browser to refuse all cookies or to indicate when a cookie is being sent. If you choose to decline cookies, some of the functionality of the Website may be impaired.
 
-Providing you with a secure ordering experience is a high priority. When you submit an order to the Site, we encrypt your order information by using Secure Sockets Layer (SSL) software when it is transmitted for credit card processing. Encryption is a process by which software scrambles information in transit. When confirming an order to you, we will reveal only the last four digits of your credit card numbers. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+We use a variety of technologies on the Site. Among these are cookies: a text-only string of information that a website transfers to the cookie file of the browser on your computer so that the website can remember your browser in the future. A cookie will typically contain the name of the domain from which the cookie has come, the “lifetime” of the cookie, and a value, usually a unique number. When you visit our Site, open our e-mail, encounter the Service online (including via one of our customer’s websites), or click on one of our banner ads or videos, we or an authorized third party may send you a cookie.
 
-### Linked Internet Web Sites
+Cookies may be used by us in many ways: They allow us to verify the login status of customers using products or services linked directly with our Site, track point of entry to point of registration for those users participating in our affiliate signup programs, track and measure the success of a particular marketing campaign, provide you with improved customer service, and provide you with more relevant content. Cookies also allow us to track overall site usage and determine areas users prefer, as well as enable us to make your visit to our Site easier by recognizing you when you return and help to provide you with a customized experience.
 
-The Site may include hyperlinks or data that can take you to a third party website, document, file, or other materials. These third party sites contain their own, different privacy provisions. We encourage you to review the privacy policy of any company before submitting Personal Information to those sites. We are not responsible for the collection, use, or disclosure of information collected through these other web sites, and we expressly disclaim any and all liability related to such collection, use, or disclosure. 
+Information gathered through usage of a cookie is not linked to any PII, unless you become a trial or paying customer. Once you submit PII on our Site (for example, by signing up to be a trial or paying customer or by signing up for a seminar or white paper), we may link such information with cookies or other identifiers that are associated with your visit(s) to our Site. You have the ability to accept or decline cookies by modifying the settings in your browser. If you choose to disable cookies, you may still use our Site; however, you may have limited access to some areas within our Site or a different experience.
 
-### Children
+Some of our web pages, e-mails, and other online content may contain electronic images provided by us or authorized third parties known as web beacons, also known as single-pixel GIFs, which are invisible graphical images. These web beacons allow us to count users who have visited our Site, seen our ads, or opened our e-mail, and to track whether messages are shared using our social share features and, once shared, whether these messages are opened by the recipient. In addition, when you click on a link in an e-mail, we record this individual response to allow us to customize our offerings to you. Web beacons collect only limited information, such as a cookie identifier, time and date of a page being viewed, and a description of the page on which the web beacon resides. Web beacons cannot be declined when delivered using a regular web page, but they can be refused when delivered by e-mail. If you do not wish to receive web beacons by e-mail, you will need to disable HTML images or refuse HTML (select text only) e-mails via your e-mail software.
 
-Our Site is not directed towards children 13 years of age or under and we do not knowingly collect any information from children 13 years of age or under through the Site. 
+**Links**
 
-### Changes to this Privacy Policy
+The Site may contain links to other sites that are not owned or controlled by us. Please be aware that PostUp is not responsible for the privacy policies of such other sites. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every website that collects PII. This Privacy Policy applies only to information collected by the Site and through customers’ use of the Service. Additionally, many other sites that are not associated or authorized by PostUp may have links leading to our Website. We cannot control these links and are not responsible for any content appearing on these sites.
 
-Reference is made to the Terms of Service for the Site which shall apply to this Privacy Policy as if set forth in full herein. You may wish to review the Terms of Service at [http://www.postup.com/terms](https://web.archive.org/terms). We reserve the right to amend this Privacy Policy periodically. Any amendments made to this Privacy Policy will be considered effective ten (10) days after the amendments are posted on the site. 
+**Security**
 
-### Contact Information
+PostUp uses industry-standard technologies when transferring and receiving consumer information exchanged between us and other companies to help ensure its security. This Website has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers are backed up regularly and protected by security systems. Please be advised that, although we take reasonable technological precautions to protect your information, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, PostUp cannot warrant that your information will be absolutely secure. Any transmission of data at or through our Website is at your own risk.
 
-If you have any questions about our services or Privacy Policy, please contact PostUp, Inc., 130 West Union Street, Pasadena, CA 91103 or send an e-mail to [privacy@postup.com](mailto:privacy@postup.com). 
+PostUp utilizes the third-party cloud services of various companies to store, use and transmit your PII and other information. These third-party cloud service providers are reputable companies, well known in our industry and they utilize current industry standard data encryption technologies and firewalls.
+
+**Consent to this Privacy Policy; Amendments; Notifications of Changes**
+
+By using the Website or the Service, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. To the extent that our terms of service provide additional protection to this Privacy Policy, it shall take precedence over any conflicting Privacy Policy provision and it shall apply to the maximum extent permitted by law with respect to our liability (if any) for a breach of this Privacy Policy. We may change this Privacy Policy by posting a new version of this Privacy Policy on the Site, and it is your responsibility to review the new version. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the PII we collect. If we decide to change this Privacy Policy in any material way as it applies to PII, we will notify you here, by means of a notice on the Website so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. In all cases, your continued use of this Site or the Service constitutes your consideration and binding acceptance to any changes or updates to this Privacy Policy.
+
+**Children’s Privacy**
+
+PostUp places the highest value on the privacy of children. PostUp does not knowingly collect PII from minors under the age of 13. Any person who provides their information to PostUp represents to us that they are 13 years of age or older. If you are the parent or legal guardian of a minor under the age of 13 who has provided PII to PostUp, please contact us so we can delete it.
+
+**Choices and Means to Access and Limit Use and Disclosure of PII**
+
+PostUp has reasonable measures in place to provide individuals with the right to access their PII stored by PostUp. In addition, PostUp will take reasonable steps to permit individuals to correct, amend, or delete information that such individuals deem inaccurate or incomplete.  Subscribers can request to access their PII or to correct, amend, or delete their PII by e-mailing [privacy@postup.com](mailto:privacy@postup.com) with the applicable request (i.e., to view, alter, update, or remove their PII) and the information necessary to enable PostUp to complete such action. Such requests may also be sent by regular mail to:
+
+PostUp Digital LLC
+
+Attn: Privacy Officer  
+3305 Steck Avenue, Suite 300  
+Austin, Texas 78757
+
+PostUp may have limited access to certain PII we process on behalf of our customers in connection with the Service. Therefore, if applicable, any requests to access, correct, amend, remove or limit the use and disclosure of PII that PostUp processes on behalf of its customers should include the name of the PostUp customer that submitted your PII to PostUp. We will forward such requests to the identified customer to respond directly to you and we will provide any necessary assistance in that customer’s response to your request.
+
+**Right to Contact via Telephone**
+
+By registering on the Site, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR § 310 et seq.), as amended from time to time (the “Rule”) and other telemarketing laws such as FCC rules. Notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, we reserve the right to contact you via telemarketing in accordance with the Rule.
+
+**Contacts**
+
+If you have any questions about this Privacy Policy, you may contact [privacy@postup.com](mailto:privacy@postup.com).
+
+**Opt-Out**
+
+The Site provides users the opportunity to opt-out of receiving communications from us (PostUp directly, NOT FROM OUR CLIENTS). Users may remove their information from our database in order to prevent future communications, or to no longer receive our service by sending an e-mail to [privacy@postup.com](mailto:privacy@postup.com).
+
+Effective Date: September 29, 2016
