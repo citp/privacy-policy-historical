@@ -1,7 +1,14 @@
-<!--The following is the downloaded HTML source of the comicbookplus.com privacy policy that was archived on 2016-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201014045id_/http%3A//comicbookplus.com%3Fcbplus%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comicbookplus.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606163127id_/http%3A//comicbookplus.com%3Fcbplus%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head><meta charset="UTF-8"><meta name="viewport" content="width=1024"><link rel="canonical" href="http://comicbookplus.com/?cbplus=privacy">
+<!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="canonical" href="http://comicbookplus.com/?cbplus=privacy">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9639869078401298",
+    enable_page_level_ads: true
+  });
+</script>
 
 <style type="text/css">
 <!--
@@ -20,7 +27,7 @@ a:hover{text-decoration:underline}
 .homedesc,.m{float:left;padding:3px;text-align:justify;border-top:1px solid #000;background:#dbb102;font-weight:bold}
 #Wscrollframe{height:440px;float:left;overflow:hidden}
 table{border-width:0;border-spacing:0;border-collapse:collapse}
-.cbptable,.cbpLtableright,.cbpLtable,.a{width:300px;table-layout:fixed}
+.cbptable,.cbpLtableright,.cbpLtable,.a{width:300px;table-layout:fixed;background:#E8E3CE}
 .cbpLtableright{margin:5px 0;float:right}
 .cbpLtable{margin:5px 0 0 40px;float:left}
 .cbptable,.a{float:left}
@@ -179,7 +186,7 @@ h2{text-align:center;font-size:16px;width:965px}
 <meta property="og:description" content="The premier site for legally available Golden and Silver Age comic books, with free downloads, online viewing plus a friendly and lively forum, and more ...">
 <meta name="description" content="The premier site for legally available Golden and Silver Age comic books, with free downloads, online viewing plus a friendly and lively forum, and more ...">
 <title>Privacy Policy - Comic Book Plus</title>
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">//<![CDATA[
+<script type="text/javascript">//<![CDATA[
 
 function submitcomicmark(thecomicmark)
 {if (thecomicmark == "")
@@ -281,7 +288,7 @@ document.getElementById('cbpremainderad'+thead).innerHTML='<a rel="nofollow" hre
 .nopadding{border:0;padding:0}
 .botad{height:90px;width:728px;text-align:center;float:left;margin-left:126px}
 .cblijit,.bsarocks{margin:0;float:left;padding:0;width:728px}
-.logoimg{float:right;background:url('http://images.furycomics.com/images/logo/L1130.png');width:625px;height:120px;position:relative}
+.logoimg{float:right;background:url('http://images.furycomics.com/images/logo/L0606.png');width:625px;height:120px;position:relative}
 .whiteback{background:#fff}
 .ya,.yellowanchor,.ya:link,.ya:visited,.ya:hover,
 .ya:active,.yellowanchor:link,.yellowanchor:visited,.yellowanchor:hover,.yellowanchor:active{color:#dcb204}
@@ -521,7 +528,7 @@ if(cookienumpagesarr[x]>0)
 else
 	a=recentreadtemplate2;
 
-if (cookiedlidarr[x] > 62586)
+if (cookiedlidarr[x] > 66513)
 	a=a.replace(/CBJserver/g,'')
 else	
 	a=a.replace(/CBJserver/g,imgserver)
@@ -554,17 +561,23 @@ mnames=['january','february','march','april','may','june','july','august','septe
 monthno= parseInt(monthno,10)-1;
 return mnames[monthno];}
 
-function getyns(){
+function getyns(sectionpagename){
+sectionpagename = sectionpagename || "yns";
 yy=document.getElementById("nsyy")[document.getElementById("nsyy").selectedIndex].value
 mm=document.getElementById("nsmm")[document.getElementById("nsmm").selectedIndex].value
 
 if((yy=='' && mm=='')||(yy=='' && mm=='00')||(yy=='none' && mm=='')||(yy=='none' && mm=='00'))
 	alert('You must choose a month or year!')
 else
-	if (yy=='none' || yy=='')
-		document.location.href='/?cbplus='+getmname(mm)+'_l_s_0';
+	if (yy=='none' || yy==''){
+		if (sectionpagename == "yns")
+			document.location.href='/?cbplus='+getmname(mm)+'_l_s_0';
+		else
+			document.location.href='/?cbplus='+sectionpagename+'_'+getmname(mm)+'_l_s_0';}
 	else		
-		document.location.href='/?cbplus=yns_'+yy+mm+'_0'}
+		document.location.href='/?cbplus='+sectionpagename+'_'+yy+mm+'_0'}
+		
+		
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-11367737-12']);
   _gaq.push(['_trackPageview']);
@@ -614,7 +627,7 @@ else
 <a class="l13" itemprop="url" href="/?cid=2949"><span itemprop="name">Vintage Movies &amp; TV</span></a>
 </div>
 <div class="logoimg">
-<div class="copyright">©2016 ComicBookPlus.com</div>
+<div class="copyright">©2017 ComicBookPlus.com</div>
 <div class="likebuttons">
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcomicbookplus.com&amp;layout=button_count&amp;show_faces=false&amp;share=true&amp;width=150&amp;action=like&amp;font&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" allowtransparency="true" width="150" height="25"></iframe>
 <div class="plusone"><!--<disabledg:disabledplusone size="medium" href="http://comicbookplus.com/"></disabledg:disabledplusone>--></div></div>
@@ -634,19 +647,23 @@ else
 <div class="introsection"><div class="Wwrapper">
 <select id="Wmenu" onchange="m(this);">
 <option class="wo" value="0" selected="selected">Latest Comics</option><option class="wo" value="1">My Last Views</option><option class="wo" value="2">Top Downloads</option><option class="wo" value="3">Top Rated</option><option class="wo" value="4">Most Rated</option><option class="wo" value="5">Most Comments</option><option class="wo" value="6">Most Views</option><option class="wo" value="7">The Random 12</option></select>
-<div id="Wscrollframe"><table><tbody><tr><td class="Wtd"><a href="/?dlid=66241"><img src="/pagecount/d7/d7c77160be0bc09afd85eeab3b7aa8a9.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66241" class="Wanchor">Real Life<br>Comics 17<br>60 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66240"><img src="/pagecount/1f/1f99c511900488448d2c39e672390f83.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66240" class="Wanchor">Capt. Marvel<br>Compilations<br>48 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66238"><img src="/pagecount/b8/b82c87691c84f85f0c1b04a9922767c7.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66238" class="Wanchor">Rivets 1<br>36 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66237"><img src="/pagecount/63/63439b909f27469ca7d31664002bcc5f.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66237" class="Wanchor">Rivets 2<br>36 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66236"><img src="/pagecount/96/96fe1d149a5e511a4a8b156a4ba23110.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66236" class="Wanchor">Texas<br>Rangers In<br>38 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66235"><img src="/pagecount/9f/9f8d0bfae6a66923087c783d66f48a5f.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66235" class="Wanchor">Teen-age<br>Temptations<br>36 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66234"><img src="/pagecount/14/145bb16b0f98ae20b364e47fe6358348.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66234" class="Wanchor">Scream<br>Comics 10<br>52 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66223"><img src="/pagecount/21/215a7290de148502da2b3672fd593e2c.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66223" class="Wanchor">Coo Coo<br>Comics 12<br>52 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66220"><img src="/pagecount/e4/e43cd694dbea57a541589a07351ff3fc.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66220" class="Wanchor">Pep Comics<br>71<br>52 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66219"><img src="/pagecount/b7/b7319729902e40dc516bfb98f0a2eab2.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66219" class="Wanchor">Minute Man<br>Archive Vol<br>44 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66217"><img src="/pagecount/b2/b289561336fb15176b275a9d305d98b6.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66217" class="Wanchor">Kathy 9<br>36 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66216"><img src="/pagecount/55/557c2ffedd071c4d167b7744ec0e561f.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66216" class="Wanchor">Complete<br>Love<br>37 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66215"><img src="/pagecount/dc/dc6ce79e2a843c8abf3ddbb1c8a4967f.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66215" class="Wanchor">Pep Comics<br>70<br>52 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66214"><img src="/pagecount/21/214ce6e87b1e3cfa3d5b6f383215231e.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66214" class="Wanchor">Jamboree 3<br>52 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=66213"><img src="/pagecount/c3/c3d2a7016d497899c164cbdaaf83518d.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=66213" class="Wanchor">It Really<br>Happened 5<br>54 pages</a></td></tr></tbody></table></div>
+<div id="Wscrollframe"><table><tbody><tr><td class="Wtd"><a href="/?dlid=68480"><img src="/pagecount/40/40d280f51c6a6de486ad789493c2d70f.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68480" class="Wanchor">Jean Lynx 5<br>Guerre<br>13 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68479"><img src="/pagecount/d6/d6576eafa2e4e994e31fa510e494183b.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68479" class="Wanchor">Jean Lynx 13<br>En Arizona<br>13 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68478"><img src="/pagecount/04/04cc8cb7b67df32efe6a0ece46935ed9.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68478" class="Wanchor">Jean Lynx 4<br>Terreur Au<br>13 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68477"><img src="/pagecount/84/84e784712616c8f5b68622a4a719d875.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68477" class="Wanchor">Cavalcade<br>V18 4<br>51 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68476"><img src="/pagecount/26/2624e27a915d78b65f3d18e0d31769a9.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68476" class="Wanchor">Cavalcade<br>1941-06<br>59 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68475"><img src="/pagecount/53/53b89427823d31bb80ec914536d92d77.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68475" class="Wanchor">Cavalcade<br>V02 4<br>65 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68474"><img src="/pagecount/49/49de1ff15a26b38b420f030a78056578.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68474" class="Wanchor">Real Heroes<br>5<br>68 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68473"><img src="/pagecount/c5/c577094facc3b0970a9e29224ce82922.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68473" class="Wanchor">Planet<br>Stories V01<br>132 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68471"><img src="/pagecount/36/363a8061fd173f8dd367d1d86e534edb.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68471" class="Wanchor">Amazing<br>Stories V15<br>148 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68470"><img src="/pagecount/86/8674f10f3334d3ec2c0b760ebeb50a3f.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68470" class="Wanchor">Amazing<br>Stories V03<br>99 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68469"><img src="/pagecount/80/80ed968cea18e972137d89159588192f.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68469" class="Wanchor">Amazing<br>Stories V02<br>102 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68468"><img src="/pagecount/57/5710ea3fbf1fbce7f53b1a6008247dac.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68468" class="Wanchor">True Story<br>Magazine V06<br>116 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68467"><img src="/pagecount/01/01393c65e82d6bef7793bd24977e9f46.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68467" class="Wanchor">The Sins Of<br>Hollywood<br>84 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68466"><img src="/pagecount/1e/1e39552809e26cf0ba01c80323a3f54f.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68466" class="Wanchor">Ten<br>Detective<br>113 pages</a></td></tr><tr><td colspan="2" class="Wtd"><hr class="Whr"></td></tr><tr><td class="Wtd"><a href="/?dlid=68465"><img src="/pagecount/45/457a8d44e1ab2e4b76114b3b3781d5b1.png" width="27" height="40" alt="tiny comicbook thumbnail"></a></td><td class="Wtd"><a href="/?dlid=68465" class="Wanchor">Amazing<br>Stories<br>132 pages</a></td></tr></tbody></table></div>
 <div class="Wcontrols"><div class="Wuparrow" onmouseover="resumeWscroll('up')" onmouseout="pauseWscroll()"></div><div class="Wdownarrow" onmouseover="resumeWscroll('down')" onmouseout="pauseWscroll()"></div></div>
 </div>
 <div class="adframeouter"><div class="logoinfopanel">
 <a href="/?cbplus=advertiseoncomicbookplus"><img src="http://images.furycomics.com/images/DollarADayTrans.png" width="58" height="92" alt="text saying advertise on our site"></a>
 </div><div id="cbpad0" class="adframe" itemscope="" itemtype="http://schema.org/WPAdBlock">
-<a rel="nofollow" href="https://www.amazon.com/dp/B01M302TBO/"><img src="http://images.furycomics.com/images/ads/CLJII-Banner-Star-Of-Justice.jpg" width="728" height="90" alt="advertising banner"></a></div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-9639869078401298" data-ad-slot="8003358372"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
 </div>
 <div class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1"></span>  &gt; <span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><span itemprop="item"><span itemprop="name">Privacy</span></span><meta itemprop="position" content="2"></span></div>
 <table class="cbplusbar" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><tbody><tr>
 <td class="cbplusleftmenutd"><table class="borderzero">
-<tbody><tr><td class="textr borderzero">&nbsp;Total:</td><td class="textleft borderzero">&nbsp;31,583 books</td></tr>
-<tr><td class="textr borderzero">&nbsp;New:</td><td class="textleft borderzero">&nbsp;<a href="/?cbplus=latestuploads_l_s_0">343 books</a></td></tr>
+<tbody><tr><td class="textr borderzero">&nbsp;Total:</td><td class="textleft borderzero">&nbsp;33,223 books</td></tr>
+<tr><td class="textr borderzero">&nbsp;New:</td><td class="textleft borderzero">&nbsp;<a href="/?cbplus=latestuploads_l_s_0">281 books</a></td></tr>
 </tbody></table></td>
 <td class="cbplusmenutd">
 <a itemprop="url" href="/?cbplus=categories">&nbsp;<span itemprop="name">Categories</span></a><br>
@@ -757,10 +774,10 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 </div>
 
 
-<div class="c centertext"><div class="botad" itemscope="" itemtype="http://schema.org/WPAdBlock"><!-- Ad Unit [582] #_#_http://comicbookplus.com-728x90-4 Lijit -->
-<div id="switch_placeholder_b22bcca6fde54e959afda0778de34e11" class="switch_placeholder"></div>
-<script> (__scads = window.__scads || []).push({"z":582,"targetId":"switch_placeholder_b22bcca6fde54e959afda0778de34e11","domain":"delivery.myswitchads.com","width":"728","height":"90"}); </script>
-<script async="" src="//delivery.myswitchads.com/adserver/sat.js?v=2"></script></div></div>
+<div class="c centertext"><div class="botad" itemscope="" itemtype="http://schema.org/WPAdBlock"><!-- Ad Unit [9128] #_#_http://comicbookplus.com-728x90-4 Lijit -->
+<div id="switch_placeholder_9276bc0734073a7af10185dc9adfb7ca" class="switch_placeholder"></div>
+<script> (__scads = window.__scads || []).push({"z":9128,"targetId":"switch_placeholder_9276bc0734073a7af10185dc9adfb7ca","domain":"delivery.c.switchadhub.com","width":"0","height":"0"}); </script>
+<script async="" src="//delivery.c.switchadhub.com/adserver/sat.js"></script></div></div>
 <div class="c"><strong>Disclaimer:</strong> If you have come to this site to find pirated or illegal material, you will be disappointed!
 We only hold comic books and images that are in the Public Domain. If you suspect that any of our content may be infringing copyright, then please use our <a href="/contact/">contact page</a>
 to let us know. So we can investigate further.</div></div></div></div>
