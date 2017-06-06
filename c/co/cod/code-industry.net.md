@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the code-industry.net privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018220141id_/https%3A//code-industry.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the code-industry.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211917id_/https%3A//code-industry.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Code Industry Ltd
 
