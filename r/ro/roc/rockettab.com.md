@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the rockettab.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122224515id_/http%3A//rockettab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockettab.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032202id_/http%3A//rockettab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Rocket Tab | Privacy Policy
-
-[](https://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=502&sealid=112)
-
-Rich River Media’s application RocketTab 2.0 has been certified by the TRUSTe’s Trusted Download Program signifying that the RocketTab application has been tested TRUSTe for compliance with TRUSTe’s TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the RocketTab application, please contact us at Rich River Media, LLC at 26895 Aliso Creek Road, Aliso Viejo, CA 92656 or by email at contact@rockettab.com. If you are not satisfied with our response you can contact TRUSTe [here](https://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=502&sealid=112).
-
-Trusted Download certification does not cover other applications such as mobile versions, Facebook or Twitter apps.
 
 Rich River Media LLC (“Rich River Media” or “we”) respects the privacy of its users (“you”). This privacy policy (“Privacy Policy”) is to inform you about how we intend to collect, use, disclose and protect your information that is received in connection with this site (the “Site”) or any services, applications and/or software provided through the Site (collectively, the “Services”). We seek to handle your information in a manner that complies fully with the privacy principles and requirements under all applicable United States federal and state privacy legislation and regulations. Rich River Media may modify this policy from time to time, and the changes will be posted here.
 
 ### Acceptance
 
-This privacy policy is incorporated into and subject to Rich River Media’s [Terms of Service](https://web.archive.org/web/20160122224515id_/http%3A//rockettab.com/terms-of-service.html). THE USE OF THE SITE OR ANY OF THE SERVICES CONSTITUTES THE ACCEPTANCE OF BOTH [TERMS OF SERVICE](https://web.archive.org/web/20160122224515id_/http%3A//rockettab.com/terms-of-service.html) AND THIS PRIVACY POLICY. If you do not agree with the terms and conditions of either document, please discontinue using the Site and the Services.
+This privacy policy is incorporated into and subject to Rich River Media’s [Terms of Service](https://web.archive.org/web/20170606032202id_/http%3A//rockettab.com/terms-of-service.html). THE USE OF THE SITE OR ANY OF THE SERVICES CONSTITUTES THE ACCEPTANCE OF BOTH [TERMS OF SERVICE](https://web.archive.org/web/20170606032202id_/http%3A//rockettab.com/terms-of-service.html) AND THIS PRIVACY POLICY. If you do not agree with the terms and conditions of either document, please discontinue using the Site and the Services.
 
 ### Information Collected And How We Use It
 
@@ -54,7 +48,7 @@ We may also collect data by using “pixel tags,” “web beacons,” “clear 
 
 We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information:
 
-  1. You may contact us at [contact@rockettab.com](mailto:contact@rockettab.com) for any inquiry or request regarding our privacy policy or the handling of your personal information.
+  1. You may contact us at [contact@rockettab.com](mailto:contact@rockettab.com) for any inquiry or request regarding our privacy policy or the handling of your personal information.
   2. You may unsubscribe to any of our e-mails by following the unsubscribe instructions in the body of any e-mail message.
 
   3. You also may write to us directly if you wish to: (a) update or delete your contact information; or (b) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to Rich River Media at the address below.
@@ -64,7 +58,7 @@ We believe that choice in how and when you are contacted is key to customer sati
 
 ### Third-Party Companies
 
-We allow third-party companies to serve ads and these third-party companies may collect certain anonymous information when you visit the Site or use any of the Services. These companies may use non-personally identifiable information during your visits and use in order to provide advertisements about goods and service likely to be of greater interest to you. These companies may use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+We allow third-party companies to serve ads and these third-party companies may collect certain anonymous information when you visit the Site or use any of the Services. These companies may use non-personally identifiable information during your visits and use in order to provide advertisements about goods and service likely to be of greater interest to you. These companies may use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 ### No Error-Free Performance
 
@@ -76,7 +70,7 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 ### Special Notice To California Residents
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared personal information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of Personal Information shared. If you are a California resident and wish to make such a request, please send an e-mail to [contact@rockettab.com](mailto:contact@rockettab.com) and include the phrase “California Privacy Request” in the subject line, and provide us with your name, address and e-mail address. We will respond to you within thirty (30) days of receiving such a request.
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared personal information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of Personal Information shared. If you are a California resident and wish to make such a request, please send an e-mail to [contact@rockettab.com](mailto:contact@rockettab.com) and include the phrase “California Privacy Request” in the subject line, and provide us with your name, address and e-mail address. We will respond to you within thirty (30) days of receiving such a request.
 
 ### Children’s Online Privacy Protection Act Compliance
 
