@@ -1,69 +1,112 @@
-> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120050937id_/http%3A//www.stauer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183950id_/https%3A//www.stauer.com/privacy-policy) for the most accurate reproduction.*
 
 # Stauer Privacy Policy
 
-### Types of personal information we collect
+Privacy Policy
 
-We collect and store personal information that you give us when you register on our website, submit an application, request a catalog, place an order, enroll in a promotional or rewards program, call us, or send us a letter or e-mail. This information may include your name, mailing address, e-mail address, telephone number, fax number, credit card number and expiration date, and other optional demographic information. If you respond to a sweepstakes or contest, we will ask you to verify that you are old enough to participate.
+Last updated: April 13, 2017
 
-### How we use and share personal information
+NextTen Stauer, LLC ("us", "we", or "our") operates the https://www.stauer.com website (the "Service").
 
-We use the personal information we collect to process your orders, identify you within our systems, contact you if we have questions about your order, and notify you about new services or special promotional programs.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-We share your personal information within the NeXtten Stauer, LLC family of businesses and with third parties that perform services for us or on our behalf (for example, credit card companies, financial institutions, shipping companies, printing houses, consultants and advisors, market research firms and rebate processors) and when, in our judgment, we believe it is necessary or appropriate to prevent fraud, injury, or harm to persons or property, to protect our rights or the rights of others, to comply with applicable laws and regulations, or as otherwise required by law. We limit the scope of the information provided to third parties, and we allow its use only for the purposes for which it was disclosed. Personal information may be transferred in connection with a business transition, such as a merger, acquisition, insolvency, or asset sale involving any NeXtten Stauer, LLC business or asset to which the information pertains. If you shop through our catalog or via Stauer.com, we may share your name and mailing address (but not your e-mail address or telephone number) for external direct mail campaigns conducted by companies or organizations which offer products or services we believe may be of interest to our customers.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-### Special information for Stauer.com shoppers
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.stauer.com
 
-If you shop with us online, we use third-party advertising technology to help us improve our marketing efforts. This technology uses non-personally identifiable information about your visits to Stauer.com and the sites upon which we advertise. We use Omniture, a service provider, to assist us with data collection and reporting. As part of that process, a "cookie" may be placed on your browser. Cookies are small data files that are stored on your computer's hard drive. They allow us to track your movement through our site, which gives us the opportunity to make the site more user-friendly. Omniture does not have the right to use the information we provide to them beyond what is necessary to assist us. For more information, including how to opt-out, go to www.omniture.com/privacy/policy#optout . In the course of delivering our online advertisements to you, a unique third-party "cookie" may be placed on your browser.
+Information Collection And Use
 
-For your convenience, our website may contain links to the sites of affiliates, manufacturers, and other companies. Please keep in mind that these sites are not under our control and we are not responsible for the privacy practices of the companies that run them. If you shop on one of these sites, we encourage you to locate and familiarize yourself with the applicable privacy policy.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information ("Personal Information").
 
-### How to let us know about your preferences?
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-NeXtten Stauer, LLC provides customers with marketing and promotional materials via e-mail, mail, telemarketing, and fax. If you'd prefer not to receive these materials, let us know using the instructions included in the following Q & A:
+Log Data
 
-### Q. How can I contact NeXtten Stauer, LLC?
+We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-A. You may contact us using any of the following options:  
-Send an e-mail to us at customerservice@stauer.com  
-Call us toll-free at 1-888-201-7123  
-Write to us at:  
-NeXtten Stauer, LLC  
-14101 Southcross Drive West  
-Burnsville, MN 55337
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-### Q. I don't want to receive marketing materials. What should I do?
+Cookies
 
-A. To remove your name from our marketing lists, please follow the instructions noted below.  
-E-mail - Click on the "unsubscribe link" located in all of our promotional e-mails Postal Mail, Fax and Telephone - Call, Write, or send an E-mail to NeXtten Stauer, LLC, using the contact information provided above.
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
 
-When submitting a request by telephone or mail, please be sure to include all of the contact information you have ever used or provided to NeXtten Stauer, LLC even if it is no longer current, including:
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
 
-All e-mail addresses  
-All telephone numbers  
-All names and addresses, including city, state, and zip code
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
-You may continue to receive direct mail or catalog mailings after you have asked us not to send them. This can occur due to timing delays in updating applicable computer systems or due to incorrect, out of date or duplicate contact information. If that happens to you, call us.
+Behavioral Remarketing
 
-### Q. I'd prefer not to have my name and postal mailing address shared with other companies for marketing purposes. What should I do?
+NextTen Stauer, LLC uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-A. If you'd prefer not to have your name and postal mailing address shared with other companies, let us know in writing via e-mail, fax, or letter using the contact information provided above. Please be sure to include your name and postal mailing address as well as specific instructions.
+  * Google
 
-### Accessing and amending personal information
+Google AdWords remarketing service is provided by Google Inc.
 
-It is important that our databases are accurate and current. To review and make any appropriate changes or deletions to information about you, please contact us in one of the ways provided above.
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
 
-### Our approach to security
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-We maintain reasonable physical, technical, and procedural measures to limit access to personal information to authorized individuals with appropriate purposes. Our web site is a "Secure Site" recognized by VeriSign, a leading computer network security company. If you believe that someone has improperly used personally identifiable information about you or has made purchases that you did not authorize, please contact us immediately. We are a member of BBBOnline, the online area of the Better Business Bureau, and we will strive to resolve any customer service complaints promptly in accordance with BBB procedures.
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
 
-### Policy changes
+  * Facebook
 
-NeXtten Stauer, LLC may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at http://www.stauer.com/privacy.asp. If policy changes materially affect our uses and disclosures of personal information that we have previously collected, we will notify you and, if appropriate, provide an opportunity to prevent us from applying the revised policy to such information.
+Facebook remarketing service is provided by Facebook Inc.
 
-Effective Date: May 11, 2007  
-Last Revised Date: May 11, 2007
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
 
-### Terms of Stauer's Coupons and Other Offers
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/about/ads/#568137493302217>
 
-Limit one coupon or other offer per order. Monthly coupons are valid for a single use, one coupon per month. Offer excludes gift certificates, special orders, repairs, purchase of items that included the receipt of additional gift coupons, clearance merchandise and prior purchases. Offer may be used one time only and cannot be combined with any other offer (including, but not limited to, free gifts, BOGO (buy one get one), free shipping, discounts), copied, transferred or sold. Cash value of any coupon is $0.01. This offer is not redeemable for cash, except where required by law]. Any unused portion of this coupon is void. Offer applies to merchandise total only and does not apply to shipping and handling (S+H), shipping and processing (S+P), or sales tax. Applicable taxes must be paid by bearer. Void where prohibited, taxed or restricted by law. Offer only redeemable in the U.S. Offer expires on the date listed. We reserve the right to cancel an order due to unauthorized, altered or ineligible use of offer and to modify or cancel this promotion due to system error or unforeseen problems.
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+
+
+
+
+Service Providers
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+
+Communications
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+Security
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+International Transfer
+
+Your information, including Personal Information, may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside the United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to the United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+Children's Privacy
+
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+Changes To This Privacy Policy
+
+This Privacy Policy is effective as of April 13, 2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+Contact Us
+
+If you have any questions about this Privacy Policy, please contact us.
