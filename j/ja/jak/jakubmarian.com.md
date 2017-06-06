@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jakubmarian.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212040402id_/https%3A//jakubmarian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakubmarian.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190312id_/https%3A//jakubmarian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 Thank you for visiting my website. This page tells you how I use personal information collected here. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described in this privacy policy.
 
-### No use of cookies and tracking
+### Use of cookies and tracking
 
-My website does not use any cookies and does not track you in any way. I respect the privacy of my visitors, and neither I nor any third parties keep track of your activity on this website (note, however, that third party services used by the website, such as Disqus for comments, may use their own tracking cookies to allow you to log in and interact with the website).
+My website itself does not use any cookies and does not track you in any way. However, third party services used by the website, such as Disqus for comments and Amazon for advertising, may use their own tracking cookies necessary for the delivery of their services.
 
 I may occasionally (once in a few months) run an experiment that allows me to better understand how my visitors use this website and, consequently, make improvements to it. Such an experiment requires setting up tracking cookies for a short period of time, which are completely anonymous, and all data related to your visit are deleted after the experiment has finished.
 
