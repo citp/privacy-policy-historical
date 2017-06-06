@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smarteventscloud.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114225553id_/http%3A//www.lanyon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarteventscloud.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081508id_/https%3A//www.lanyon.com/event-management-software/privacy-policy) for the most accurate reproduction.*
 
-# Lanyon - Privacy Policy
+# Privacy Policy
 
 **_Effective date: 10 October 2014_**
 
