@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the karamba.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023215936id_/https%3A//www.karamba.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karamba.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170714id_/https%3A//www.karamba.com/security-privacy) for the most accurate reproduction.*
 
 # Security and Privacy - Karamba.com
 
-Aspire Global International LTD (“ **we** ”, “ **us** ” or “ **the Company** ”) is a company registered in Malta for the purposes of operating online games and mobile application games. We respect your privacy and are committed to protect the privacy of our users (“ **user** ” or “ **you** ”). 
+Aspire Global International LTD (“ **the Company** ”) is a company registered in Malta for the purposes of operating online games and mobile application games. We respect your privacy and are committed to protect the privacy of our users (“ **user** ” or “ **you** ”). 
 
-We provide online and mobile gaming services to you via our in-house brands (each an " **In-House Brand** "), via third parties' " **white label** " brands (each a " **White Label Brand** ") and via mobile gaming platforms. This privacy and cookie policy (collectively: “ **Privacy Policy** ”) outlines our practices with respect to collecting, using and disclosing your information through the use of our websites, applications and gaming platforms controlled by us (collectively: “ **the Services** ”). 
+The Company provides online and mobile gaming services to you via our in-house brands (each an " **In-House Brand** "), via third parties' " **white label** " brands (each a " **White Label Brand** ") and via mobile gaming platforms. The Company and the White Label Brand owner (if applicable) (collectively " **we** ", " **our** " or " **us** ") have papered this privacy and cookie policy (collectively: “ **Privacy Policy** ”) to outline our practices with respect to collecting, using and disclosing your information through the use of our websites, applications and gaming platforms controlled by us (collectively: “ **the Services** ”). 
 
 The Privacy Policy is a part of our Terms of Service and is incorporated therein by references. 
 
-**Please Note** : If you play or register an account in the United Kingdom (UK) or Denmark, all references herein to "we", “us” or “the Company” shall be deemed as a reference to AG Communications LTD, which is within the same corporate group as Aspire Global International LTD. 
+**Please Note** : If you play or register an account in the United Kingdom (UK) or Denmark, all references herein to “the Company” shall be deemed also as a reference to AG Communications LTD, which is within the same corporate group as Aspire Global International LTD. 
 
 We encourage you to read the Privacy Policy carefully and use it to make informed decisions. By using our Services, you agree to the terms of this Privacy Policy and your continued use of the Services constitutes your ongoing agreement to this Privacy Policy. 
 
@@ -45,7 +45,7 @@ c. We collect information through our white label partners and our trusted third
 
 * **Cookies**
 
-We and our trusted partners (e.g. white label partners) use cookies and other technologies in our related services, including when you visit our site or access our Services. 
+We and our trusted partners use cookies and other technologies in our related services, including when you visit our site or access our Services. 
 
 A "cookie" is a small piece of information that a website assign to your device while you are viewing a website. Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and our Services quicker and easier. Cookies are also used to help ensure that the advertisements you see are relevant to you and your interests and to compile statistical data on your use of our Services. 
 
@@ -114,19 +114,19 @@ You may opt-out of many third-party ad networks, including those operated by mem
 
 * **Marketing**
 
-We may use your Personal Information, such as your email address, ourselves or by using our third party subcontractors for the purpose of providing you with promotional materials, concerning the Services of our Company, products and services of other companies within the Group or our business partners’ (e.g. white label partners) and affiliates’ websites and products, which we believe may interest you. 
+We may use your Personal Information, such as your name, email address, telephone numbr, etc. ourselves or by using our third party subcontractors for the purpose of providing you with promotional materials, concerning our Services as well, products, services websites and applichations which related to: (i) other companies within the Group; (ii) White Label Brands; or (iii) our business partners’ and affiliates’; (collectively " **Marketing Affiliates** ") which we believe may interest you. 
 
-We may also share and disclose Personal Information with our business partners and affiliates for the purpose of providing you different marketing offers we or our business partners and affiliates believe are relevant for you. 
+We may also share and disclose Personal Information with our Marketing, Affiliates for the purpose of providing you different marketing offers we or our Marketing Affiliates believe are relevant for you. Our Marketing Affiliates may use this Personal Information for different marketing techniques, such as direct email, SMS and telephone marketing purposis. 
 
-Out of respect to your right to privacy we provide you within such marketing materials with means to decline receiving further email offers from us or from our business partners and affiliates. In addition, at any time, you may request to unsubscribe and discontinue receiving marketing offers by contacting by sending a blank message with the word "remove" to [support@Karamba.com](mailto:support@Karamba.com). 
+Out of respect to your right to privacy we provide you within such marketing materials with means to decline receiving further marketing offers from us or from our Marketing Affiliates. In addition, at any time, you may request to unsubscribe and discontinue receiving marketing offers by contacting by sending a blank message with the word "remove" to [support@Karamba.com](mailto:support@Karamba.com). 
 
-If you unsubscribe we will remove your email address from our marketing distribution lists and from any future lists we may share with our marketing partners. However, you may need to separately unsubscribe from marketing offers sent by our marketing partners. Please note that even if you unsubscribe from our marketing mailing list, we may continue to send you service-related updates and notifications. 
+If you unsubscribe we will remove your email address from our marketing distribution lists and from any future lists we may share with our Marketing Affiliates. However, you may need to separately unsubscribe from marketing offers sent by our Marketing Affiliates. Please note that even if you unsubscribe from our marketing mailing list, we may continue to send you service-related updates and notifications. 
 
-You hereby acknowledge and agree that by downloading, installing or accessing to our Services, we may share your Personal Information with our trusted partners for the purpose of e-mail marketing. 
+**You hereby acknowledge and agree that by downloading, installing or accessing to our Services, we may share your Personal Information with our trusted partners and Marketing Affiliates for the purpose of direct marketing**. 
 
 * **Corporate transaction**
 
-We may share Information, including Personal Information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale of an asset or transfer in the operation thereof) of the Company or of any other company within the Group. In the event of the above, the acquiring company or transferee will assume the rights and obligations as described in this Privacy Policy. 
+We may share Information, including Personal Information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale of an asset or transfer in the operation thereof) of the Company or of any other company within the Group or in the event of a corporate transaction of the White Lable Brand (if applicable). In the event of the above, the acquiring company or transferee will assume the rights and obligations as described in this Privacy Policy. 
 
 * **Minors**
 
@@ -146,7 +146,12 @@ If you have any general questions about the Services or the information that we 
 
 * **Information about us**
 
+The details of the Company are as follows:   
 **Aspire Global International LTD >**\- 135, High street, Sliema SLM 1549, Malta   
 **Aspire Global LTD** \- Suites 7b & 8b, 50 Town Range, Gibraltar   
 **AG Communications LTD** \- 135, High street, Sliema SLM 1549, Malta   
 **AG Software LTD** \- 135, High street, Sliema SLM 1549, Malta 
+
+the White Label Brand owner (if applicable) details are as follows: 
+
+This page has been updated on November 2016. 
