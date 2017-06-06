@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k5learning.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121232948id_/http%3A//www.k5learning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k5learning.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204348id_/http%3A//www.k5learning.com/privacy) for the most accurate reproduction.*
 
 # Privacy | K5 Learning
 
@@ -82,10 +82,12 @@ However, no data transmission over the Internet is 100% secure and any informati
 
 K5 uses “cookies”. A cookie is a small amount of data sent to your browser from our web server and stored on your computer, then sent back to the server by your browser each time you access our website. Cookies enable us to track usage of our website, to remember and process items in shopping carts, to log parents and students into different learning modules and to help us track and save user preferences for future visits. Cookies are not used to gather personal information from your computer.
 
+We also use cookies to personalize ads and to analyze our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information you’ve provided to them or they’ve collected from your use of their services.
+
 If you disable cookies in your browser certain features of our website may not work properly.
 
 ## Consent
 
 Your use of this website site is conditioned on your having accepted these terms. This Privacy Policy is subject to change from time to time, and your continued use of the website is conditioned upon your acceptance of any modifications hereto.
 
-If you have any questions about your privacy or security measures at K5, please reach us using the contact information on the [Contact Us page](https://web.archive.org/web/20161121232948id_/http%3A//www.k5learning.com/contact) or email [privacy@k5learning.com](mailto:privacy@k5learning.com).
+If you have any questions about your privacy or security measures at K5, please reach us using the contact information on the [Contact Us page](https://web.archive.org/web/20170606204348id_/http%3A//www.k5learning.com/contact) or email [privacy@k5learning.com](mailto:privacy@k5learning.com).
