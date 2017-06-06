@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the leftronic.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530142627id_/https%3A//www.leftronic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leftronic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215746id_/https%3A//www.appinsights.com/privacy) for the most accurate reproduction.*
 
-# Privacy » Leftronic Leftronic
+# KPI dashboard app for your business | AppInsights
 
-Last updated on October 9th, 2012.
+Last updated on October 9th, 2012. 
 
-This Privacy Policy describes how Leftronic, Inc. protects your privacy when you use our website and application. Please read it carefully – by using the site you agree to all of the terms and conditions below.
+### Privacy Policy
 
-We understand how important your data is, and we take security very seriously. We are dedicated to making sure that your privacy is respected and that your data is always kept secure. You may add delete or modify your personal information at any time by contacting us at [support@leftronic.com](mailto:support@leftronic.com). We will not sell, exchange or otherwise share your personal information with third parties.
+This Privacy Policy describes how LeftronicDirect, Inc. protects your privacy when you use our website and application. Please read it carefully – by using the site you agree to all of the terms and conditions below. 
+
+We understand how important your data is, and we take security very seriously. We are dedicated to making sure that your privacy is respected and that your data is always kept secure. You may add delete or modify your personal information at any time by contacting us at support@leftronic.com. We will not sell, exchange or otherwise share your personal information with third parties.
 
 ### Collection of Personal Information
 
@@ -22,7 +24,7 @@ Personal information may be shared with companies and organizations that perform
 
 ### Opt-Out of Promotional Materials
 
-You may opt-out of receiving promotional communications by using the “Unsubscribe” link at the bottom of emails or by contacting us at [support@leftronic.com](mailto:support@leftronic.com).
+You may opt-out of receiving promotional communications by using the “Unsubscribe” link at the bottom of emails or by contacting us at support@leftronic.com.
 
 ### Security
 
