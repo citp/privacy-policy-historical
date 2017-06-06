@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wolves.co.uk privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003150354id_/http%3A//www.wolves.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolves.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090418id_/http%3A//www.wolves.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 **Introduction**
 
-This website, www.wolves.co.uk ( **"Site"** ) is owned and operated by EFL-Digital Limited (company number 04112553) ( **"EFL Digital"** ), a company wholly-owned by The Football League Limited (company number 00080612) ( **"EFL"** ) each having their registered office at 5b Edward VII Quay, Navigation Way, Ashton-On-Ribble, Preston, PR2 2YF. 'The English Football League' and 'EFL' are trading names of The Football League Limited.
+This website, www.wolves.co.uk ( **"Site"** ) is owned and operated by EFL-Digital Limited (company number 04112553) ( **"EFL Digital"** ), a company wholly-owned by The Football League Limited (company number 00080612) ( **"EFL"** ) each having their registered office at EFL House, 10-12 West Cliff, Preston, PR1 8HU. 'The English Football League' and 'EFL' are trading names of The Football League Limited.
 
 EFL Digital operate the Site on behalf of Wolverhampton Wanderers Football Club (1986) Limited _, (Company number 1989823),_ registered at Molineux Stadium, Waterloo Road, Wolverhampton, WV1 4QR (" **Club** ").
 
@@ -104,7 +104,7 @@ Where we share your personal information with third parties we will take reasona
 
  **Your rights to:**
 
-All requests set out in this section or other queries relating to this Policy should be addressed to Data Protection Compliance Officer at The Football League Limited, Edward VII Quay, Navigation Way, Preston, PR2 2YF or [privacy@efl.com](mailto:privacy@efl.com). Please include your name, address, and/or email address when you contact us.
+All requests set out in this section or other queries relating to this Policy should be addressed to Data Protection Compliance Officer at The Football League Limited, EFL House, 10-12 West Cliff, Preston, PR1 8HU or [privacy@efl.com](mailto:privacy@efl.com). Please include your name, address, and/or email address when you contact us.
 
  **Access Your Personal Information:**
 
