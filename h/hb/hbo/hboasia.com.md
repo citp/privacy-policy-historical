@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215233218id_/https%3A//hboasia.com/HBO/en-sg/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132110id_/https%3A//hboasia.com/HBO/en-sg/about/privacy) for the most accurate reproduction.*
 
 # Privacy And Data Protection Policy - HBO Asia
 
 Thank you for visiting the _HBO Asia_ site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site.
 
-By interacting with us, submitting information to us, or requesting/signing up for any of our products, programs and/or services, you agree and consent to Home Box Office (Singapore) Pte Ltd and its related companies (collectively referred to herein as " _HBO Asia_ ", " _us_ ", " _we_ " or " _our_ ") collecting, using, disclosing and sharing amongst ourselves your Personal Data, and disclosing such Personal Data to our authorised service providers and relevant third parties in the manner set forth in this Policy.
+By interacting with us, submitting information to us, or requesting/signing up for any of our products, programs and/or services, you agree and consent to Home Box Office (Singapore) Pte Ltd and its related companies (collectively referred to herein as " _HBO Asia_ ", " _us_ ", " _we_ " or " _our_ ") collecting, using, processing, transferring, disclosing and sharing amongst ourselves your Personal Data, and disclosing such Personal Data to our authorised service providers and relevant third parties in the manner set forth in this Policy.
 
 This Policy supplements but does not supersede nor replace any other consents you may have previously provided to HBO Asia in respect of your Personal Data, and your consents herein are additional to any rights which we may have at law to collect, use or disclose your Personal Data.
 
@@ -29,7 +29,7 @@ If you provide us with any Personal Data relating to a third party (e.g. informa
 
 You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in our inability to provide you with the products, programs and/or services you have requested.
 
-Use and Disclosure of Personal Data
+Use, Processing, Transfer and Disclosure of Personal Data
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs and/or services, to respond to your inquiries about our offerings, and to offer you other products, programs and/or services that we believe may be of interest to you, and/or in relation to any marketing and/or promotional activities with respect to our products, programs and/or services.
 
@@ -41,7 +41,7 @@ We sometimes use the information that we collect to improve the design and conte
 
 We may disclose Personal Data in response to legal process, for example, in response to a court order. We also may disclose such information in response to a law enforcement agency's request.
 
-Agents and contractors of HBO Asia who have access to Personal Data are required to protect this information in a manner that is consistent with this Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for HBO Asia.
+Agents and contractors of HBO Asia who have access to Personal Data for purposes of data processing are required to protect this information in a manner that is consistent with this Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for HBO Asia.
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that Personal Data that we collect will never be disclosed in a manner that is inconsistent with this Policy.
 
