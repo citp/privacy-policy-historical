@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the manjaree.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120131909id_/http%3A//www.manjaree.com/Info/PrivicyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manjaree.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606080114id_/http%3A//manjaree.com/Info/PrivicyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
     <meta charset="utf-8" />
@@ -32,7 +32,19 @@
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
     
-
+    <style type="text/css">
+        .css3gradient {
+            
+            background-color: #3a9626;
+            filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=#3a9626, endColorstr=#f2f2f2);
+            background-image: -moz-linear-gradient(right bottom, #3a9626 7%, #f2f2f2 54%,#ff8d00 96%);
+            background-image: linear-gradient(right bottom, #3a9626 7%, #f2f2f2 54%,#ff8d00 96%);
+            background-image: -webkit-linear-gradient(right bottom, #3a9626 7%, #f2f2f2 54%,#ff8d00 96%);
+            background-image: -o-linear-gradient(right bottom, #3a9626 7%, #f2f2f2 54%,#ff8d00 96%);
+            background-image: -ms-linear-gradient(right bottom, #3a9626 7%, #f2f2f2 54%,#ff8d00 96%);
+            background-image: -webkit-gradient(linear, right bottom, left top, color-stop(7%,#3a9626), color-stop(54%,#f2f2f2),color-stop(96%,#ff8d00));
+        }
+    </style>
     <script src="/Scripts/bootbox.js"></script>
     <script>
         paceOptions = {
@@ -196,7 +208,7 @@
 
 
         function saveInventory() {
-            
+
             var isValid = true;
             var a = $("#hdnSizeType").val()
             if (a &gt; 0) {
@@ -205,7 +217,7 @@
                     toastr.info('Please give your Quantity', 'Your Inventory');
                     return false
                 }
-                
+
             }
             else {
                 if ($("#txtinvQuantity").val() == "" || $("#txtinvQuantity").val() == null) {
@@ -255,7 +267,7 @@
                     contentType: 'application/json; charset=utf-8'
                 }).done(function (data) {
                     //alert(data.totalcartitem);   
-                    
+
                     if (data.message == 1) {
                         toastr.success('Product add to Inventory successfully.', 'Your Inventory Item');
                         clearInventoryForm();
@@ -289,37 +301,37 @@
             $.ajax({
                 type: "POST",
                 url: '/ShoppingCart/ShowMiniCart',
-            contentType: 'application/json; charset=utf-8'
-        }).done(function (data) {
-            $(".addtocartImg .dropdown-menu").html('');
-            $(".addtocartImg .dropdown-menu").html(data);
+                contentType: 'application/json; charset=utf-8'
+            }).done(function (data) {
+                $(".addtocartImg .dropdown-menu").html('');
+                $(".addtocartImg .dropdown-menu").html(data);
 
-        }).error(function (jqXHR, textStatus, errorThrown) {
-            //  alert(jqXHR+"sd");
-        });
-    }
-    function CountCart() {
-        // alert("CountCart");
-        $.ajax({
-            url: '/product/GetCartCount',
-                type: "GET",
-
-                contentType: "application/json; charset=utf-8",
-                success: function (response, status, xhr) {
-                    // $('#cartCount').text(response);
-                    $('#cartCount1').text(response);
-                    $('#cartCount3').text(response);
-
-                },
-                error: function (XMLHttpRequest, textStatus, errorThrown) {
-                    //alert(textStatus);
-                }
+            }).error(function (jqXHR, textStatus, errorThrown) {
+                //  alert(jqXHR+"sd");
             });
         }
-        function Countpcs() {
+        function CountCart() {
             // alert("CountCart");
             $.ajax({
-                url: '/product/GetCountpcs',
+                url: '/product/GetCartCount',
+            type: "GET",
+
+            contentType: "application/json; charset=utf-8",
+            success: function (response, status, xhr) {
+                // $('#cartCount').text(response);
+                $('#cartCount1').text(response);
+                $('#cartCount3').text(response);
+
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                //alert(textStatus);
+            }
+        });
+    }
+    function Countpcs() {
+        // alert("CountCart");
+        $.ajax({
+            url: '/product/GetCountpcs',
                 type: "GET",
 
                 contentType: "application/json; charset=utf-8",
@@ -404,7 +416,7 @@
             });
         }
         $(document).ready(function () {
-         
+
 
 
 
@@ -1374,13 +1386,16 @@
     </div>
 
     <!-- Fixed navbar start -->
-    <div class="navbar navbar-tshop navbar-fixed-top megamenu" role="navigation">
+    <div class="navbar navbar-tshop navbar-fixed-top megamenu " role="navigation">
         <div class="navbar-top">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-sm-6 col-xs-6 col-md-6 no-margin no-padding">
+                <div class="row ">
+                    <div class="col-lg-7 col-sm-6 col-xs-6 col-md-8 no-margin no-padding ">
+                        <div>
+                            
+                        </div>
                     </div>
-                    <div class="col-lg-6 col-sm-6 col-xs-6 col-md-6 no-margin no-padding">
+                    <div class="col-lg-5 col-sm-6 col-xs-6 col-md-4 no-margin no-padding">
                         <div class="pull-right">
                             <ul class="userMenu">
                                     <li><a><span class="hidden-xs">Wel come, Guest</span></a></li>
@@ -1401,10 +1416,10 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="sr-only">Toggle navigation </span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
 
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-cart"><i class="fa fa-shopping-cart colorWhite "></i><span class="cartRespons colorWhite">Cart (<span id="Mobileminicartfinalprice"><label id="cartCount2"></label></span>) </span></button>
-                   <a class="navbar-brand " href="/Dashboard">
-                    
-                    Manjaree
-                </a>
+                    <a class="navbar-brand " href="/Dashboard">
+                        
+                        Manjaree
+                    </a>
                 
             </div>
 
@@ -1545,7 +1560,7 @@
                     </li>
                     <li class="dropdown megamenu-80width">
 
-                        <a class="dropdown-toggle a4" data-toggle="dropdown" style="height: 57px; color: yellow"><b>Offer-Zone</b></a>
+                         <a class="dropdown-toggle a4" data-toggle="dropdown" style="height: 57px; color: yellow"><b>Offer-Zone</b></a>
                         <ul class="dropdown-menu">
                             <li class="megamenu-content">
 
@@ -1598,8 +1613,7 @@
                                 <div class="">
 
                                     <ul class="col-md-12 list-inline bindFlatprice">
-                                        <br />
-                                        
+                                       
                                     </ul>
                                 </div>
                             </li>
@@ -1853,13 +1867,15 @@ In addition to our own cookies, our third party advertisers may use them to both
                     </div>
                     <div class="col-lg-3  col-md-3 col-sm-6 col-xs-12" style="width: 15%">
                         <h3>Follow Us:</h3>
-                        <ul class="social">
+                        <ul class="social-icon">
                             <li style="margin-top: 10px"><a href="https://www.facebook.com/profile.php?id=100010427430514" title="Facebook"><i class=" fa fa-facebook">  </i></a></li>
                             <li style="margin-top: 10px"><a href="https://twitter.com/ManjareeIN"><i class="fa fa-twitter" title="Twitter">  </i></a></li>
                             <li style="margin-top: 10px"><a href="https://plus.google.com"><i class="fa fa-google-plus">  </i></a></li>
                             <li style="margin-top: 10px"><a href="https://in.pinterest.com/manjareein/"><i class="fa fa-pinterest" title="Pinterest">  </i></a></li>
                             <li style="margin-top: 10px"><a href="http://youtube.com"><i class="fa fa-youtube">  </i></a></li>
                         </ul>
+
+
                     </div>
                 </div>
                 <!--/.row-->
@@ -2196,7 +2212,8 @@ In addition to our own cookies, our third party advertisers may use them to both
                             <div>
                                 <input type="hidden" value="0" id="hdnInventoryId" />
                                 <input type="hidden" value="0" id="hdnSizeType" />
-                                Catalog No: <input id="txtinvmanjareeno" class="form-control input" size="20" placeholder="Catalog No" type="text" readonly="true" />
+                                Catalog No:
+                                <input id="txtinvmanjareeno" class="form-control input" size="20" placeholder="Catalog No" type="text" readonly="true" />
                             </div>
                         </div>
                         <div class="form-group login-username">
@@ -2206,22 +2223,26 @@ In addition to our own cookies, our third party advertisers may use them to both
                         </div>
                         <div class="form-group login-username">
                             <div>
-                                Your DesignNo: <input id="txtdesignnumber" class="form-control input InventoryRequire" size="20" placeholder="Your Design No" type="text" />
+                                Your DesignNo:
+                                <input id="txtdesignnumber" class="form-control input InventoryRequire" size="20" placeholder="Your Design No" type="text" />
                             </div>
                         </div>
                         <div class="form-group login-username">
                             <div>
-                                Brand: <input id="txtinvbrand" class="form-control input" size="20" placeholder="brand" type="text" readonly="true" />
+                                Brand:
+                                <input id="txtinvbrand" class="form-control input" size="20" placeholder="brand" type="text" readonly="true" />
                             </div>
                         </div>
                         <div class="form-group login-username">
                             <div>
-                                Price: <input id="txtinvprice" class="form-control input" size="20" placeholder="price" type="text" readonly="true" />
+                                Price:
+                                <input id="txtinvprice" class="form-control input" size="20" placeholder="price" type="text" readonly="true" />
                             </div>
                         </div>
                         <div class="form-group login-username" id="totalQunaity" style="display: none;">
                             <div>
-                                Your Quantity: <input id="txtinvQuantity" class="form-control input" size="20" placeholder="Your Quantity" type="text" />
+                                Your Quantity:
+                                <input id="txtinvQuantity" class="form-control input" size="20" placeholder="Your Quantity" type="text" />
                             </div>
                         </div>
                         <div class="form-group login-username fixedsize" id="fixedsize" style="display: none;">
