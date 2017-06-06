@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondnexus.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225022053id_/http%3A//secondnexus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondnexus.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043245id_/http%3A//secondnexus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Second Nexus
 
