@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053928id_/http%3A//www.apartmentguide.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134735id_/http%3A//www.apartmentguide.com/legal/privacy) for the most accurate reproduction.*
 
 # Apartments for Rent and Rentals - Free Apartment Finder | ApartmentGuide.com
 
@@ -8,7 +8,7 @@ ApartmentGuide.com is a technology platform owned and operated by Consumer Sourc
 
 ###  1\. Scope. 
 
-This Privacy Policy describes how we handle your personal information on the Apartment Guide.com website (the "Website"), the Apartment Guide mobile applications (collectively, the "App"), and on other related sites, tools, applications, or services. By accepting the Privacy Policy and the Terms of Service when you submit a property contact form on ApartmentGudie.com, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States or elsewhere in the world where RentPath has facilities. 
+This Privacy Policy describes how we handle your personal information on the ApartmentGuide.com website (the "Website"), the Apartment Guide mobile applications (collectively, the "App"), and on other related sites, tools, applications, or services. By accepting the Privacy Policy and the Terms of Service when you submit a property contact form on ApartmentGuide.com, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States or elsewhere in the world where RentPath has facilities. 
 
 ###  2\. Collection. 
 
