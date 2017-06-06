@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wakingtimes.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122033920id_/http%3A//www.wakingtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakingtimes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114101id_/http%3A//www.wakingtimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Waking Times : Waking Times
+# Privacy Policy - Waking Times
 
 WakingTimes.com is committed to protecting your privacy. WakingTimes.com currently collects no personal information about who visits our site. WakingTimes.com uses a hit service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc… but in no way does this reveal the name, email address, or any specific information whatsoever about the site’s visitors.
 
