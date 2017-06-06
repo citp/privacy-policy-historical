@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtosay.co.in privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522020218id_/http%3A//www.howtosay.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtosay.co.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031842id_/http%3A//www.howtosay.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Service of - howtosay.co.in
 
