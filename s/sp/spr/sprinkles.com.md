@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprinkles.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405123801id_/http%3A//sprinkles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprinkles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143456id_/http%3A//sprinkles.com/privacy-policy) for the most accurate reproduction.*
 
 # Sprinkles Privacy Policy
 
