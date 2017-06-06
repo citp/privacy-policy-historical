@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the smartvault.com privacy policy that was archived on 2012-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120805053628id_/http%3A//www.smartvault.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartvault.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154744id_/http%3A//www.smartvault.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SmartVault
+# Privacy Policy » SmartVault
 
 SmartVault (“we” or “us”) values its users’ privacy. This privacy policy is effective June 2, 2011; it summarizes what information we might collect from a registered user or other visitor (“you”), and what we will and will not do with it. Please note that this privacy policy does not govern the collection and use of information by companies that SmartVault does not control, nor by individuals not employed or managed by SmartVault. If you visit a Web site that we mention or link to, be sure to review its privacy policy before providing the site with information.
+
+Notice to users in the European Union and Australia / New Zealand / Asia-Pacific
 
 ### What we do with your personally identifiable information
 
@@ -21,7 +23,7 @@ If you do provide personally identifiable information to us, either directly or 
 
   * not sell or rent it to a third party without your permission — although unless you opt out (see below), we may use your contact information to provide you with information we believe you need to know or may find useful, such as (for example) news about our services and products and modifications to the [Terms of Service](http://www.smartvault.com/company/terms-of-service.php "Terms of Service");
   * take commercially reasonable precautions to protect the information from loss, misuse and unauthorized access, disclosure, alteration and destruction;
-  * not use or disclose the information except:
+  * not use or disclose the information except: 
     * as necessary to provide services or products you have ordered, such as (for example) by providing it to a carrier to deliver products you have ordered;
     * in other ways described in this privacy policy or to which you have otherwise consented;
     * in the aggregate with other information in such a way so that your identity cannot reasonably be determined (for example, statistical compilations);
@@ -54,9 +56,9 @@ To help protect your privacy, be sure:
 
 
 
-### Notice to European Union users
+### Notice to users in the European Union and Australia / New Zealand / Asia-Pacific
 
-SmartVault’s operations are located primarily in the United States. If you provide information to us, the information will be transferred out of the European Union (EU) to the United States. By providing personal information to us, you are consenting to its storage and use as described herein.
+SmartVault’s operations are located primarily in the United States. If you provide information to us, the information will be transferred out of your home jurisdiction to the United States. By providing personal information to us, you are consenting to its storage and use as described in this privacy policy.
 
 ### Information collected from children
 
