@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelsquid.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323155304id_/https%3A//support.pixelsquid.com/hc/en-us/articles/203472275-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelsquid.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213518id_/https%3A//support.pixelsquid.com/hc/en-us/articles/203472275-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – PixelSquid Support
 
@@ -34,7 +34,7 @@ If you have any questions, complaints, or comments regarding this Policy, please
 
 ##  I. The Web Sites and Services Covered by This Policy
 
-We currently operate the following web sites [turbosquid.com](http://www.turbosquid.com/), [pixelsquid.com](https://www.pixelsquid.com/), [squid.io](https://www.squid.io/), [fallingpixel.com](http://www.fallingpixel.com/), [exchange3d.com](http://www.exchange3d.com/) (the "Site" or "Sites") as well as certain ancillary services and applications collectively (“Services”):
+We currently operate the following web sites [turbosquid.com](http://www.turbosquid.com/), [pixelsquid.com](https://www.pixelsquid.com/), and [squid.io ](https://www.squid.io/)(the "Site" or "Sites") as well as certain ancillary services and applications collectively (“Services”):
 
 From time to time, we may add new Services that may not be listed above, but they will provide a link to this Policy and will be governed by its terms.
 
