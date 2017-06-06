@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041241id_/https%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075458id_/https%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
 
-# uShip - The Online Shipping Marketplace - Ship Freight, Furniture, Cars or Moves
+# The Online Shipping Marketplace | uShip
 
 ####  Privacy Policy 
 
@@ -114,6 +114,8 @@ We partner with a third party to manage our advertising on other sites. Our thir
 
 This Web site contains links to other sites that are not owned or controlled by uShip. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personal information. This privacy policy applies only to information collected by this Web site.
 
+Some portions of the uShip platform implement Google Maps mapping services, including Google Maps API(s). Your use of Google Maps is subject to [Google’s Terms of Service](https://www.google.com/intl/en/policies/terms) and [Google’s Privacy Policy](https://www.google.com/policies/privacy), as may be amended by Google from time to time.
+
 ##### Community Discussion Forums
 
 If you use a bulletin board on the Site, you should be aware that any personal information, including your email address, you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. All other information pertaining to the collection and use of information can be found in the [Discussion Forum rules](http://www.uship.com/discussion_rules.aspx). To request removal of your personal information from the uShip community, contact us at [privacy@uShip.com](mailto:privacy@uShip.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
@@ -161,11 +163,11 @@ We reserve the right to modify this privacy policy at any time, so please review
  _
 
 uShip, Inc.  
-205 Brazos St.  
-Austin, TX 78701  
+205 E Riverside Dr  
+Austin, TX 78704  
 United States  
 
 
-Last Revised Date: September 30, 2016
+Last Revised Date: May 3, 2017
 
 _
