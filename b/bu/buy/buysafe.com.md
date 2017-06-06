@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buysafe.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124193352id_/http%3A//buysafe.com/legal_notices/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysafe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024220id_/https%3A//www.buysafe.com/legal_notices/privacy_and_security.html) for the most accurate reproduction.*
 
 # buySAFE | Legal Notices
 
@@ -139,6 +139,6 @@ buySAFE's websites, products, and services are neither developed for, nor direct
 Residents of the European Union and other non-US residents who visit or use our site or services understand and consent to the processing of personally identifiable information in the United States.  
 
 
-If you have questions or concerns regarding buySAFE's privacy policy, please first contact Customer Support by phone at 1-888-926-6333, fax at 703-778-4455, email [customersupport@buySAFE.com](mailto:customersupport@buySAFE.com), or by mail at 1611 North Kent Street, Suite 803, Arlington, VA  22209,  Att: Customer Service. 
+If you have questions or concerns regarding buySAFE's privacy policy, please first contact Customer Support by phone at 1-888-926-6333, fax at 703-778-4455, email [customersupport@buySAFE.com](mailto:customersupport@buySAFE.com), or by mail at 1621 N Kent St, Suite 706, Arlington, VA  22209,  Att: Customer Service. 
 
-[ _This Privacy Policy last updated April 10th, 2013_ ]
+Revised March 6, 2017
