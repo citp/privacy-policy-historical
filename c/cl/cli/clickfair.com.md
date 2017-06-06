@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickfair.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155347id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickfair.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070912id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
 # Rewarding Ways - Privacy
 
@@ -29,6 +29,6 @@ To learn how to make money with Paid Surveys at Rewardingways.com [Click Here](h
 
 ### Site Statistics
 
-Current Members = 256510
+Current Members = 281422
 
-Total Payments = $404,339.30
+Total Payments = $496,154.24
