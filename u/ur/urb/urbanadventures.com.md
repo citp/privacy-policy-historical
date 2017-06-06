@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202153448id_/http%3A//www.urbanadventures.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140043id_/http%3A//www.urbanadventures.com/privacy-statement) for the most accurate reproduction.*
 
 # Urban Adventures | Privacy Statement
 
