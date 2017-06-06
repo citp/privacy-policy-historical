@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyshirts.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402121202id_/https%3A//www.crazyshirts.com/category/customer-service/privacy-security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyshirts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162042id_/https%3A//www.crazyshirts.com/category/customer-service/privacy-security.do) for the most accurate reproduction.*
 
 # Privacy and Security - Crazy Shirts Official Site
 
