@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cuingame.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122092954id_/http%3A//www.cuingame.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuingame.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081423id_/http%3A//www.cuingame.com/privacy_policy.html) for the most accurate reproduction.*
 
-# FIFA 17 coins , FIFA coins, FIFA 16 coins, FIFA17 coins
+# FIFA 17 coins , FIFA coins, NBA Live Mobile coins
 
 **                                                                                    Privacy Policy**
 
