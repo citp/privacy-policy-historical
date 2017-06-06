@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oyekitchen.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530185203id_/http%3A//oyekitchen.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyekitchen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125254id_/http%3A//oyekitchen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacy policy
 
 **Privacy Policy**
 
@@ -44,7 +44,7 @@ Platform may use your Personal Information for the aforementioned purposes of th
 
 ## **Deleting Your Information**
 
-****If You wish to have the Personal Information that You have provided to us deleted, You can always do so by sending a request to us on the e-mail id of our Customer Services department provided at the bottom of this page. You may note that deletion of certain Personal Information may lead to cancellation of your registration with the Website and your access to certain features of the Website.
+If You wish to have the Personal Information that You have provided to us deleted, You can always do so by sending a request to us on the e-mail id of our Customer Services department provided at the bottom of this page. You may note that deletion of certain Personal Information may lead to cancellation of your registration with the Website and your access to certain features of the Website. 
 
 ## **Security**
 
