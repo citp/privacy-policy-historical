@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monitor.us privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022085036id_/http%3A//www.monitis.com/en/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monitor.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034051id_/http%3A//www.monitis.com/en/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy – Monitis
 
@@ -29,8 +29,8 @@ A list of cookies we use, and their purpose, can be found below:
 Name | Source | Purpose  
 ---|---|---  
 __qca |  Various | This cookie is used to measure the websites 'audience reach' using data including IP address, referring HTTP location, search string, time of access, and other statistics.  
-WRUID | [www.monitis.com ](http://www.monitis.com/) | This cookie is used by Clicktale, a website analytics system, to record an identication number for each visitor.  
-_jsuid | [www.monitis.com ](http://www.monitis.com/) | This cookie is used by Clicktale, a website analytics system, to record an identication number for each visitor  
+WRUID | [www.monitis.com ](http://www.monitis.com/) | This cookie is used by Clicktale, a website analytics system, to record an identification number for each visitor.  
+_jsuid | [www.monitis.com ](http://www.monitis.com/) | This cookie is used by Clicktale, a website analytics system, to record an identification number for each visitor  
 __utmc| Various | This takes a timestamp of the exact moment in time when a visitor leaves a site.  
 SAPISID| [google.com](https://plus.google.com/117905979449296396502/posts) | This is used a part of the Google + sharing facility.  
 bcookie | [linkedin.com](http://www.linkedin.com/groups/Monitis-IT-Monitoring-Management-Services-1952939?itemaction=mclk&anetid=1952939&impid=&pgkey=anet_search_results&actpref=anetsrch_name&trk=anetsrch_name&goback=.gdr_1340716428293_1_*2) | This is a cookie used by LinkedIn as part of the sharing functionality on some pages on this website.  
@@ -178,7 +178,7 @@ The Act gives you the right to access information held about you. Your right of 
 
 ### Changes to our privacy policy
 
-It is our policy to post any changes we make to our privacy policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our services shall be deemed to be your consent to such changes.The date the privacy policy was last revised is identified at the top of the page. 
+It is our policy to post any changes we make to our privacy policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our services shall be deemed to be your consent to such changes. The date the privacy policy was last revised is identified at the top of the page. 
 
 ### Contact information
 
