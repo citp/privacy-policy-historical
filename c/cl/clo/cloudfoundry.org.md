@@ -1,185 +1,102 @@
-> *The following text is extracted and transformed from the cloudfoundry.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629033511id_/http%3A//www.linuxfoundation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudfoundry.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183610id_/https%3A//www.cloudfoundry.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Linux Foundation
+# Privacy Policy - Cloud Foundry
 
-THE LINUX FOUNDATION
+**PRIVACY POLICY OF CLOUD FOUNDRY.ORG FOUNDATION, INC.**  
+(Effective Date January 26, 2017)
 
-UNITED STATES/EUROPEAN UNION SAFE HARBOR PRIVACY STATEMENT ("PRIVACY STATEMENT")
+Cloud Foundry.Org Foundation, Inc. (“Cloud Foundry Foundation”) is committed to protecting the privacy of its users. This privacy policy (the “Privacy Policy”) describes the information Cloud Foundry Foundation collects about users of the Site (as defined below) and how that information may be used. This Privacy Policy applies to all Cloud Foundry Foundation websites (whether currently or in the future supported, hosted or maintained, including without limitation, cloudfoundry.org and any subdomains (each a “Site” and collectively, the “Sites”)). If you do not consent to the practices disclosed in this Privacy Policy, then do not submit any information to Cloud Foundry Foundation and do not use the Sites.
 
-   
-(Effective Date April 2, 2015)
+**Changes to the Privacy Policy**
 
-The Linux Foundation, ("Linux Foundation"), comprised of its Internet sites, and Linux.com (the "Sites"), is committed to protecting the privacy of users of the Sites. Linux Foundation intends to give users as much control as possible over user’s personally identifiable information, including registration data. This Privacy Statement applies to each of the Sites and describes the information Linux Foundation collects about users and how that information may be used. This privacy policy also governs the use of information obtained by the Linux Foundation from Linux Foundation collaborative partnerships, a list of which may be obtained at <http://collabprojects.linuxfoundation.org/>.
+Cloud Foundry Foundation may make changes to this Privacy Policy from time to time. The most current version of the Privacy Policy will be posted at cloudfoundry.org and will govern Cloud Foundry Foundation’s use of information about you. Cloud Foundry Foundation will notify users of material changes to the Privacy Policy by posting the amended terms on the cloudfoundry.org site prior to implementation or by directly sending users notification.
 
-Linux Foundation reserves the right to update and change this Privacy Statement from time to time. If Linux Foundation makes material changes to its privacy practices, a prominent notice will be posted on this web page. Each time a user uses the Sites, the current version of the Privacy Statement applies. Accordingly, a user should check the date of this Privacy Statement (which appears at the top) and review for any changes since the last version. If a user does not agree to the Privacy Statement, the user should not use the Sites.
+**Scope of Privacy Policy**
 
-Linux Foundation complies with the United States ("US")/European Union ("EU") Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use, and retention of data from the EU. Individuals who wish to file a complaint or who take issue with Linux Foundation's EU Safe Harbor policies should direct such communication to Linux Foundation Legal Services - Privacy via written communication at the contact information provided below. Filing a complaint in English will expedite the process. Linux Foundation will investigate and attempt to resolve complaints regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Statement. For complaints that cannot be resolved between Linux Foundation and the complainant, Linux Foundation participates in the dispute resolution procedures of the panel established by the EU data protection authorities to resolve disputes pursuant to the Safe Harbor framework.
+This Privacy Policy covers Cloud Foundry Foundation’s use and treatment of information collected by the Sites and personal information that you provide in connection with your use of the Sites. This Privacy Policy does not apply to the data collection and use practices of third parties that Cloud Foundry Foundation does not own or control, including but not limited to, any third party services you access through Cloud Foundry Foundation, or to individuals that Cloud Foundry Foundation does not employ or manage.
 
-Linux Foundation agrees to notify users of the following privacy principles: Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.
+**Children Under 13 Years of Age**
 
-**NOTICE**
+The Sites are not directed to children under the age of 13, and Cloud Foundry Foundation will never request personally identifiable information from anyone whom it knows to be under the age of 13 without verifiable parental or guardian consent. Cloud Foundry Foundation does not knowingly collect, or wish to obtain, personally identifiable information from children.
 
-Linux Foundation provides this Privacy Statement to make users aware of Linux Foundation privacy practices, and of the choices a user may make about the way the user’s information is collected and used.
+**User Information That Cloud Foundry Foundation Collects; Use of Cookies**
 
-**Children**
+On the Sites, users may order products or services, register to receive materials or attend events, and submit responses to surveys or comments generally. Through user interaction with the Sites, Cloud Foundry Foundation may collect personal information submitted by such users to the Sites, including community forum content, diaries, profiles, photographs, names, geographic location, unique identifiers (e.g., social media handles or usernames), contact information (e.g., email address, postal address, telephone, fax), and transaction information. Cloud Foundry Foundation may also collect information users provide regarding their interests, demographics, industry, title, experience, and detailed contact preferences.
 
-Users represent they are of legal age to create binding and financial obligations for any liability users may incur as a result of their use of the Sites. The Sites are not directed to children under the age of 13, and Linux Foundation will never request personally identifiable information from anyone whom it knows to be under the age of 13 without verifiable parental or guardian consent. Linux Foundation does not knowingly collect, or wish to obtain, personally identifiable information from children. If Linux Foundation becomes aware that a user is under the age of 13 and has provided personally identifiable information without prior verifiable parental or guardian consent, it will remove user’s personally identifiable information from its files.
+In order to access certain personalized services on the Sites, you may be asked to create a username and password for an account, which Cloud Foundry Foundation will store. However, users are responsible for all actions taken in their accounts and should select and safeguard their password accordingly.
 
-**What information Linux Foundation collects**
+When you make a payment to Cloud Foundry Foundation through Cloud Foundry Foundation’s payment page, our third party payment processor may collect credit card information from you in order to properly process your payment. Cloud Foundry Foundation does not store your credit card information and no one at Cloud Foundry Foundation can access your credit card information. We use RegOnline by Lanyon Solutions, Inc. (“RegOnline”), a PCI-certified third-party payment service to process payments. Although we do not process payments, we may require you to provide RegOnline with contact information (e.g., name, email address, and company name) and financial and billing information (e.g., billing name and address, credit card number, and the number of employees within your company). RegOnline’s privacy policy is found here: <http://lanyon.com/Terms-Conditions.aspx>.
 
-Linux Foundation may collect two types of information from users of Sites: "personally identifiable information" (such as name, email address, postal address, telephone, birth date, geographical location) and "aggregate information" (such as frequency of visits to Sites, IP address, Site pages accessed, browser type). Personally identifiable information is any piece of information which can potentially be used to uniquely identify, contact, or locate a user of the Sites. Aggregate information is non-personally identifiable/anonymous information about users of the Sites. Aggregate information is used in a collective manner and no single person can be identified by that compiled information.
+Cloud Foundry Foundation and third-party service providers and advertisers who interact with Cloud Foundry Foundation, may also collect certain technical information about your use of the Sites. This technical information may include information about user device(s), browser type and version, geo-location, computer, computer connection, statistics on page views, traffic to and from the Service, ad data, Wi-Fi connection, internet protocol (“IP”) address, and standard web log.
 
-However, if you provide personally identifiable information, it may also be linked with information that would otherwise be aggregate information. For example, the Sites may log your IP address, pages you have accessed, or links you click on, and store that information in connection your personally identifiable information. This is done to understand how you use the site, to assist in making the site function and in some cases it may be used to track how you arrived at one of the Sites, such as codes from affiliates that route traffic to the site.
+Cloud Foundry Foundation and third-party advertisers and service providers may use cookies, web beacons, locally shared objects (sometimes called “flash cookies”), and similar technologies in connection with your use of the Sites (collectively referred to as “Cookies”). If Cookies are used, they may be used to collect information about you and your use of the Sites, such as your browser type, preferences, data relating to content that has been displayed to you or that you have clicked on, and the date and time of your use. Cookies may also be used in order to further features and processes on the Sites, provide authentication and security for user transactions using the Site, store user preferences, facilitate relevant advertising, and help Cloud Foundry Foundation learn more about how users engage with the Sites.
 
-On the Sites, users may order products or services, and register to receive materials. Personally identifiable information collected on the Sites includes community forum content, diaries, profiles, photographs, name, unique identifiers (e.g., passwords), contact and billing information (e.g., email address, postal address, telephone, fax), and transaction information. Sites may also collect your actual location by methods such as IP address, GPS, or other sensors in your device that share location information.
+Cloud Foundry Foundation also uses third-party service providers to provide certain products and services or to integrate other Site features. These third-party service providers may collect information when you view or use them, including information about you and your device or browser. They may do this using Cookies or similar technologies. These third-party service providers also may use Cookies or similar technologies to help share information with us, like how you use their website or application. Cloud Foundry Foundation encourages users to evaluate privacy and security policies of any of the Sites’ transaction partners before entering into transactions or choosing to disclose information.
 
-In order to tailor Linux Foundation’s subsequent communications to users and continuously improve the Sites’ products and services, Linux Foundation may also ask users to provide information regarding their interests, demographics, experience with its products, and detailed contact preferences.
+For example, Cloud Foundry Foundation works with a service called Google Analytics provided by Google, Inc. (“Google”). Google Analytics uses cookies to help analyze how users use the Sites. The information generated by these cookies (including user truncated IP address) is transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your, and other users’, use of the Sites and services, compiling reports about how you and others use the Sites and services and providing other services relating to activity on the Sites and Internet usage. Please note that Google only receives your truncated IP address. This is sufficient for Google to identify (approximately) the country from which you are using the Sites, but is not sufficient to identify you, or your computer or mobile device, individually. Google’s privacy policy is found here: <https://support.google.com/analytics/answer/6004245>. To opt-out of analysis by Google Analytics on our products and services and other services, please visit: <http://tools.google.com/dlpage/gaoptout>.
 
-**Web beacons**
+As another example, Cloud Foundry Foundation works with a service provided by Salesforce.com, Inc. called Pardot B2B Marketing Automation (‘Pardot”) that uses Cookies for storing and organizing information Cloud Foundry Foundation receives from user interaction with the Sites, including but not limited to, your email address, name, company, the country from which you are using the site, and any comments. To view Pardot’s privacy policy, please visit: <http://www.pardot.com/company/legal/privacy-policy/>.
 
-Linux Foundation may use web beacons from time to time. Such web beacons may be provided by Linux Foundation’s third party advertising companies to help manage and optimize Linux Foundation’s online advertising. A web beacon is a string of code that provides a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data, or determining how many times a specific web page has been viewed. Web beacons enable Linux Foundation to recognize a browser’s cookie when a browser visits a Site, and to learn which banner ads bring users to each Site. For example, when a user visits a web page, the code for the page may include instructions to go to another server to gather a single pixel graphic image. Web beacons are not placed on a user’s computer, and users remain anonymous. To opt out of targeted advertising delivered by Linux Foundation, or third party advertisers, users can opt to use freely available ad blocking software, to prevent ads from displaying in their browser. The Linux Foundation does not promote or recommend any type of ad blocking software, nor guarantees that any of the Site services will remain fully functional if the user utilizes such software.
+**How Cloud Foundry Foundation Uses the Information Collected**
 
-**Cookies**
-
-Linux Foundation uses cookies on the Sites. A cookie is a unique text file that may be used for data analysis, and enables a web site to tailor information presented to a user based on a user’s browsing program. Linux Foundation may use cookies to personalize a user’s pages at a Site, to remember a user when the user registers for products or services, or to track visits to a Site. If a user does not want Linux Foundation to deploy cookies in the user’s browser, the user may set the browser to reject cookies or to notify the user when a web site tries to place cookies in the browser program. Rejecting cookies may affect a user’s ability to use some of the products, features, functions, or services on a Site. Cookies do not contain personally identifiable information.
-
-The ads appearing on the Sites are delivered to visitors by Linux Foundation, and third party web advertising partners  ("Advertisers"). The third party advertising technology that Linux Foundation uses on the Sites uses information derived from a user’s visits to the Sites to target advertising within the Sites. In addition, Linux Foundation’s advertisers may use other third party advertising technology to target advertising on the Sites. In the course of serving advertisements to the Sites, Advertisers may place or recognize a unique cookie on a user’s browser. The Linux Foundation may provide Information about users’ visits to the Sites to Advertisers, such as the number of times users have viewed or clicked on an ad (but no users’ names, addresses, or other personally identifiable information), are used to serve ads to visitors. It is also possible that the Advertisers will use information gathered from your visits to other third-party websites (i.e., not under the control of the Linux Foundation) that also use the Advertisers’ services, which could potentially including personally identifiable information you provided to those third parties, in choosing what advertisements to show. Any information provided by you to the Advertisers via third-party websites would be governed by the privacy policy of those third-party websites. As with other cookies, and consistent with Linux Foundation’s policy on cookies stated above, the user may use third party browser plugins or extensions to direct their web browser to block or delete such cookies.
-
-**Log files**
-
-Linux Foundation web servers may automatically log aggregate information, such as a user’s IP address, domain name, browser type, date and time of access, and other log file data. This information may be used to analyze trends or administer the Sites. Log files do not contain personally identifiable information.
-
-With respect to Linux.com, Linux Foundation contracts with third party mirror providers, who deliver integrated communications services, including Internet access services, to deploy mirrors of downloads in order to make file downloading via Linux.com faster and more convenient. Linux Foundation has no control over the privacy or logging policies of mirror providers, or the implementation thereof, and such policies may differ from this Privacy Statement.
-
-**Affiliate Programs**
-
-The Linux Foundation may engage in affiliate marketing, in which other websites advertise or route traffic to one of the Sites. The Linux Foundation and its affiliates may use one of several methods to track how you arrived at the Sites, including codes in hyperlinks or web forms, or cookies. This information may be stored in connection with your personally identifiable information. 
-
-**How Linux Foundation uses the information collected**
-
-Linux Foundation may use the personally identifiable information a user submits for any purposes related to Linux Foundation’s business, including, but not limited to:
+Cloud Foundry Foundation may use collected information for any lawful purpose related to Cloud Foundry Foundation’s business, including, but not limited to:
 
   1. To understand a user’s needs and create content that is relevant to the user;
   2. To generate statistical studies;
   3. To conduct market research and planning by sending user surveys;
-  4. To notify user referrals of Linux Foundation services, information, or products when a user requests that Linux Foundation send such information to referrals;
+  4. To notify user referrals of Cloud Foundry Foundation services, information, or products when a user requests that Cloud Foundry Foundation send such information to referrals;
   5. To improve services, information, and products;
   6. To help a user complete a transaction, or provide services or customer support;
   7. To communicate back to the user;
   8. To update the user on services, information, and products;
   9. To personalize a Site for the user;
   10. To notify the user of any changes with a Site which may affect the user;
-  11. To communicate with affiliates about traffic routed to the Linux Foundation by the affiliate, including reconciling which users arrived at the Linux Foundation website through the affiliate;
-  12. To enforce terms of use on a Site; and
-  13. To allow the user to purchase products, access services, or otherwise engage in activities the user selects.
+  11. To enforce terms of use on a Site; and
+  12. To allow the user to purchase products, access services, or otherwise engage in activities the user selects.
 
 
 
-User names, identifications ("IDs"), and email addresses (as well as any additional information that a user may choose to post) may be publicly available on a Site when users voluntarily and publicly disclose personally identifiable information, such as when a user posts personally identifiable information in conjunction with content subject to an Open Source license, or as part of a message posted to a public forum or a publicly-released software application. Users may not be able to change or remove public postings once posted. Such personally identifiable information may be used by visitors of these pages to send unsolicited messages. Linux Foundation is not responsible for any consequences which may occur from the use of personally identifiable information that a user chooses to submit to public pages.
+User names, identifications (“IDs”), and email addresses (as well as any additional information that a user may choose to post) may be publicly available on a Site when users voluntarily and publicly disclose personal information, such as when a user posts information in conjunction with content subject to an open source license, or as part of a message posted to a public forum or a publicly-released software application. The personal information you may provide to Cloud Foundry Foundation may reveal or allow others to discern aspects of your life that are not expressly stated in your profile (for example, your picture or your name may reveal your hair color, race or approximate age). You should be aware that your information may continue to be viewable to others after you close your account, such as on cached pages on Internet search engines. Users may not be able to change or remove public postings once posted. Such information may be used by visitors of these pages to send unsolicited messages. Cloud Foundry Foundation is not responsible for any consequences which may occur from the third-party use of information that a user chooses to submit to public pages. If you do not wish for others to view or access this information, please do not provide it to Cloud Foundry Foundation or post it on the Sites.
 
-With respect to surveys, in the event that responses are publicly disclosed, users will be notified at the time they take the survey. Linux Foundation will disclose only aggregate information regarding its users, which as stated earlier is anonymous information that does not identify any specific individual. Circumstances under which Linux Foundation would publicly disclose such aggregate information include, but are not limited to, sharing survey results with the site population, providing data to Linux Foundation advertisers on user preferences and/or demographics, and publicizing overall usage data in press communications.
+From time to time, Cloud Foundry Foundation may contact you with information, including promotional, marketing, and advertising information and recommendations that Cloud Foundry Foundation believes may be of interest to you. Consistent with applicable laws, including United States CAN-SPAM laws, if you do not wish to receive commercial emails, you may unsubscribe following the instructions on any email. Cloud Foundry Foundation may still send you administrative notices, however.
 
-Where surveys allow users to submit written comments, and where Linux Foundation advises users of the possibility of such disclosure at the time they take the survey, Linux Foundation reserves the right to disclose any information provided by users, provided that no personal information identifying a specific user is disclosed. Participation in surveys is at a user's option; Linux Foundation does not conduct mandatory surveys.
+**Links to Third Party Web Sites**
 
-**CHOICE/OPT OUT**
+The Sites may permit you to access or link to third party websites and information on the Internet, and other websites may contain links to the Sites. When a user uses these links, the user leaves the Sites. Cloud Foundry Foundation has not reviewed all of these third party sites, does not control, and is not responsible for, any of the third party sites, their content or privacy practices. The privacy and security practices of websites accessed from the Sites are not covered by this Privacy Policy, and Cloud Foundry Foundation is not responsible for the privacy or security practices or the content of such websites, including but not limited to, the third party services you access through Cloud Foundry Foundation. Please check the privacy and security policies of these websites before you submit any personal data.
 
-A user makes the decision whether to proceed with any activity that requests personally identifiable information. If a user does not provide requested information, the user may not be able to complete certain transactions.
+**Sharing of Information**
 
-Users who use the personally identifiable information of other users agree to use such information only for:
+Cloud Foundry Foundation may share the personally identifiable information a user provides online with other entities that are part of the Cloud Foundry Foundation corporate family, including our parent company, corporate affiliates, joint-venturers, and companies under common control, and/or outside service providers who may be used to distribute materials, create surveys, process credit cards, provide technical support, handle transaction processing, or otherwise act on Cloud Foundry Foundation’s behalf. Third-party service providers and suppliers receiving personal information are authorized to use such personal information only for the purpose it was originally intended or as required or permitted by law. Further, Cloud Foundry Foundation may share a user’s email and other personally identifiable information with its third party management services provider, The Linux Foundation, which may send email correspondence to the user on behalf of Cloud Foundry Foundation.
 
-  1. Using services offered through a Site;
-  2. Site transaction-related purposes and not for unsolicited commercial messages; or
-  3. Other purposes that the other user expressly chooses.
+Cloud Foundry Foundation may disclose personal information that is associated with your profile as described in this Privacy Policy, as permitted by law or as reasonably necessary to: (1) comply with a legal requirement or process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures; (2) investigate and enforce our then-current Terms of Use, if any; (3) respond to claims of a violation of the rights of third parties, including DMCA notifications; (4) respond to customer service inquiries; (5) protect the rights, property, or safety of Cloud Foundry Foundation, our users, or the public; or (6) as part of the sale of all or a portion of the assets of Cloud Foundry Foundation or as a change in control of the organization or one of its affiliates or in preparation for any of these events. Cloud Foundry Foundation may supply any such information to any organization into which Cloud Foundry Foundation may merge in the future or to which it may make any transfer of assets. Any third party to which Cloud Foundry Foundation transfers or sells all or any of its assets will have the right to use the personal and other information that you provide in the manner set out in this Privacy Policy.
 
+**Data Security**
 
+To keep your information safe, prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, Cloud Foundry Foundation implements industry-standard physical, electronic, and managerial procedures to safeguard and secure the information Cloud Foundry Foundation collects. However, Cloud Foundry Foundation does not guarantee that unauthorized third parties will never defeat measures taken to prevent improper use of personally identifiable information. As a result, Cloud Foundry Foundation cannot guarantee or warrant the security of any information transmitted on or through the Sites and you do so at your own risk.
 
-Users are not licensed to add other users to a Site, even users who entered into transactions with them, or to their mail lists without consent.
+Internal Cloud Foundry Foundation access to users’ nonpublic personally identifiable information is restricted to Cloud Foundry Foundation’s personnel, including contractors on a need-to-know basis. These individuals are bound by confidentiality agreements.
 
-Linux Foundation encourages users to evaluate privacy and security policies of any of the Sites’ transaction partners before entering into transactions or choosing to disclose personally identifiable information.
+In the event Cloud Foundry Foundation becomes aware that the security of a Site has been compromised or users’ personally identifiable information has been disclosed to unrelated third parties as a result of external activity, including but not limited to, security attacks or fraud, Cloud Foundry Foundation will take reasonable response measures, including but not limited to, investigation and reporting, and notification to and cooperation with law enforcement authorities.
 
-**Emails**
+**International Data Protection**
 
-Linux Foundation will not use or share the personally identifiable information provided to it online in ways unrelated to the items described above without first letting a user know and offering the user a choice. If a user no longer wishes to receive direct marketing materials, Linux Foundation will provide instructions in each of its emails on how to be removed from any lists. Linux Foundation will make commercially reasonable efforts to honor such requests.
+Given the international scope of Cloud Foundry Foundation, personal information may be visible to persons outside your country of residence, including to persons in countries that your own country’s privacy laws and regulations deem deficient in ensuring an adequate level of protection for such information. If you are unsure whether this Privacy Policy is in conflict with applicable local rules, you should not submit your information. If you are located within the European Union, you should note that your information will be transferred to the United States, which is deemed by the European Union to have inadequate data protection.
 
-**Profile or User ID Display**
+**California Privacy Rights; Do Not Track**
 
-A user’s personally identifiable information may be publicly available through a user's profile or user ID display. In such cases, users have the option and discretion to opt out of publicly displaying their real names at any time by changing their display name under the Sites’ user preferences. Profile or user ID display may allow other users to see a user’s activities, including purchase and sales content, ratings, and comments.
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, information related to the personal information disclosed by Cloud Foundry Foundation to third parties for direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. If you are a California resident, you may make one request each year by emailing Cloud Foundry Foundation at info@cloudfoundry.org or sending a letter to:
 
-**Email Display**
+Cloud Foundry Foundation  
+1 Letterman Drive  
+Building D, Suite 4700  
+San Francisco, CA 94129
 
-Users may have the opportunity to use a service to send electronic mail to another user or email list. In such cases, a user's valid email address and real name will be included with such messages. In order to prevent abuse, users may not opt out of such a display where possible, but may choose to refrain from using such service to transmit an email message.
+Please note that Cloud Foundry Foundation does not respond to “do not track” signals or other similar mechanisms intended to allow California residents to opt-out of Internet tracking under The California Online Privacy Protection Action. Cloud Foundry Foundation may track and/or disclose your online activities over time and across different websites to third parties when you use the Sites. Cloud Foundry Foundation and third party advertising companies may track information concerning a user’s use of the Sites, such as a user’s IP address.
 
-Linux.com offers an email alias service that allows a user to create an email alias that forwards to the user’s personal email account. Linux Foundation does not publish a user’s personal email address, but does publicize email aliases which may allow an individual to identify or contact a user. A user who obtains an email alias may not opt out of such publication of the email alias.
+**Retention of Your Information**
 
-**Photographs**
-
-Users may have the opportunity to submit photographs to the Sites for product promotions, contests, and other purposes to be disclosed at the time of request. In these circumstances, the Sites are designed to allow the public to view, download, save, and otherwise access the photographs posted. By submitting a photograph, users waive any privacy expectations users have with respect to the security of such photographs, and Linux Foundation’s use or exploitation of users’ likeness. All photographs submitted to Linux Foundation become the property of Linux Foundation and will not be returned.
-
-**ONWARD TRANSFER**
-
-**With whom may Linux Foundation share information?**
-
-Linux Foundation will not sell, rent, or lease a user’s personally identifiable information to others, except as described in this Privacy Statement. Unless Linux Foundation has a user’s permission or as required by law, Linux Foundation will only share the personally identifiable information a user provides online with other entities that are part of the Linux Foundation corporate family and/or outside service providers who may be used to ship products, process credit cards, provide technical support, handle order processing, or otherwise act on Linux Foundation’s behalf. These third parties are prohibited from using users’ information for any other purpose, including their own marketing.
-
-When Linux Foundation uses third parties to assist in processing a Site’s user personally identifiable information, Linux Foundation requests that they comply with Linux Foundation privacy practices, and other appropriate confidentiality and security measures.
-
-Please be advised that in certain instances, it may be necessary for Linux Foundation to disclose a user’s personally identifiable information without a user’s permission to government officials or otherwise as required by legal obligations. Linux Foundation may disclose such personally identifiable information when responding to subpoenas, court orders, or legal process, or to establish or exercise legal rights or defend against claims, including fraud or infringement investigations.
-
-Data collected online may be combined with information a user provides through other means of communication, such as postal mail or third parties to further carry out the purposes described above under the heading " How Linux Foundation uses the information collected regarding users".
-
-When users choose to provide Linux Foundation with personally identifiable information, users consent to the transfer and storage of such information by Linux Foundation servers in the United States.
-
-In addition, Linux Foundation reserves the right to share aggregate information collected from users of the Sites, without prior notice, with entities that are part of the Linux Foundation corporate family and unrelated third parties. As stated earlier, aggregate information is used in a collective manner and no single person can be identified by such compiled information.
-
-**Service Orders**
-
-To purchase services, users may be asked to be directed to a third party site, like PayPal, to pay for their purchases. If applicable, the third party site may collect payment information directly to facilitate a transaction. None of this information will be captured or stored by Linux Foundation.
-
-**Links to third party web sites**
-
-Links to third party web sites on the Sites are provided solely as a convenience to the user. When a user uses these links, the user leaves the Sites. Linux Foundation has not reviewed all of these third party sites, does not control, and is not responsible for, any of the third party sites, their content or privacy practices. Linux Foundation does not endorse or make any representations about the third party sites, or any information, services, or products found on the sites. If a user decides to access any of the linked sites, Linux Foundation encourages the user to read their privacy statements. The user accesses such sites at user’s own risk.
-
-**Bankruptcy or Sale of business**
-
-Linux Foundation reserves the right to share or transfer personally identifiable information and aggregate information to a third party should Linux Foundation ever file for bankruptcy or in the event of a sale, merger or acquisition of Linux Foundation, provided such third party agrees to adhere to the terms of this Privacy Statement.
-
-**Changes to this Privacy Statement**
-
-Linux Foundation may amend this policy occasionally. If Linux Foundation makes any substantial changes in the way we use your personal information that was gathered prior to the date the Privacy Statement was modified to accommodate or describe such substantial change, Linux Foundation will notify you.
+We retain information about you for as long as it is necessary and relevant for Cloud Foundry Foundation’s operations. Information about you that is no longer necessary and relevant for our operations will be disposed of securely. In addition, we may retain information from closed accounts collected from you to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with any investigations, and take other actions permitted by law or disclosed in this Privacy Policy to enforce the Site’s terms and conditions and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy. ** **
 
 **Feedback**
 
-If you have any questions regarding this Privacy Statement or Linux Foundation’s use of personal information on this site, please contact us at info (at) linuxfoundation dot org.
-
-**DATA INTEGRITY AND ACCESS**
-
-Should a user find inaccuracies in such user’s information, or desire to close an account or view the personally identifiable information Linux Foundation may have regarding the user, the user may contact Linux Foundation through the communication methods described below, or when technically feasible, directly on a Site. Linux Foundation will make commercially reasonable efforts to respond to requests for access within thirty (30) days of receiving requests. Linux Foundation may decline to process users’ access or update requests to their personally identifiable information if the requests require disproportionate technical effort, jeopardize the privacy of other users, or are impractical (for instance, requests concerning information residing on backup tapes).
-
-**SECURITY**
-
-To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, Linux Foundation implements physical, electronic, and managerial procedures to safeguard and secure the information Linux Foundation collects. Linux Foundation uses encryption when collecting or transferring sensitive personally identifiable information. However, Linux Foundation does not guarantee that unauthorized third parties will never defeat measures taken to prevent improper use of personally identifiable information.
-
-Internal Linux Foundation access to users’ nonpublic personally identifiable information is restricted to Linux Foundation’s administrators and individuals on a need-to-know basis. These individuals are bound by confidentiality agreements.
-
-User passwords are keys to accounts. Use unique numbers, letters, and special characters for passwords and do not disclose passwords to other people in order to prevent loss of account control. Users are responsible for all actions taken in their accounts. Notify Linux Foundation of any password compromises, and change passwords periodically to maintain account protection. 
-
-**ENFORCEMENT**
-
-In the event Linux Foundation becomes aware that the security of a Site has been compromised or user’s personally identifiable information has been disclosed to unrelated third parties as a result of external activity, including but not limited to security attacks or fraud, Linux Foundation reserves the right to take reasonable appropriate measures, including but not limited to, investigation and reporting, and notification to and cooperation with law enforcement authorities.
-
-If Linux Foundation becomes aware that a user's personally identifiable information has been disclosed in a manner not permitted by this Privacy Statement, Linux Foundation will make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that Linux Foundation knows this information.
-
-**CALIFORNIA DO-NOT-TRACK DISCLOSURES**
-
-The Sites currently do not respond to any “do not track” signals that may be communicated by a web browser.  The Sites may use third-party “plug-in” services on the Sites, such as those for social media sites or for website analytics. These third party services may use cookies or other technologies to track your web site usage over time and across different Web sites.
-
-**CONTACT INFORMATION**
-
-If a user has comments or questions about the Linux Foundation’s privacy statement, please contact:
-
-**The Linux Foundation**  
-660 York Street, Suite 102  
-San Francisco, CA 94110  
-Phone/Fax: +1-415-723-9709  
-Website: [http://www.linuxfoundation.org](http://www.linuxfoundation.org/)  
-Email: info (at) linuxfoundation dot org
+If you have any questions or concerns regarding Cloud Foundry Foundation’s Privacy Policy or practices, please send us a detailed message to info@cloudfoundry.org.
