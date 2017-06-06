@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogsnaturallymagazine.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210035829id_/https%3A//www.dogsnaturallymagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogsnaturallymagazine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082250id_/https%3A//www.dogsnaturallymagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Natural Care, Feeding and Nutrition for Dogs
 
