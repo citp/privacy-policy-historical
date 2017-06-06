@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupweekend.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125010306id_/http%3A//up.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupweekend.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144801id_/http%3A//up.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techstars
 
@@ -6,7 +6,7 @@
 
 **Last Revised: April 26, 2016** ** **
 
-Techstars Central LLC together with its affiliated entities (“ **Company** ”) is committed to protecting your privacy.  We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of all websites owned and operated by the Company including the websites located at [techstarswpjk6.wpengine.com](http://techstarswpjk6.wpengine.com/); [www.startupweekend.org](http://www.startupweekend.org/); [www.startupdigest.com](http://www.startupdigest.com/); [www.startupnext.co](http://www.startupnext.co/); [www.startupweek.com](http://www.startupweek.com/); [www.up.co](http://www.up.co/) and all related websites; our applications and/or APIs ( **“Application(s)”** ), (collectively, the “ **Site** ”) and online services made available through the Site ( **“Services”** ).
+Techstars Central LLC together with its affiliated entities (“ **Company** ”) is committed to protecting your privacy.  We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of all websites owned and operated by the Company including the websites located at [www.techstars.com](http://www.techstars.com/); [www.startupweekend.org](http://www.startupweekend.org/); [www.startupdigest.com](http://www.startupdigest.com/); [www.startupnext.co](http://www.startupnext.co/); [www.startupweek.com](http://www.startupweek.com/); [www.up.co](http://www.up.co/) and all related websites; our applications and/or APIs ( **“Application(s)”** ), (collectively, the “ **Site** ”) and online services made available through the Site ( **“Services”** ).
 
   1. **Questions; Contacting Company; Reporting Violations**. If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at [legal@techstars.com](mailto:legal@techstars.com).
   2. ******User Consent.** **** By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.
