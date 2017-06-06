@@ -1,11 +1,15 @@
-<!--The following is the downloaded HTML source of the vagex.com privacy policy that was archived on 2016-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161213074717id_/http%3A//vagex.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vagex.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606083856id_/http%3A//vagex.com/privacy.php) for the most accurate reproduction.-->
 
 <html lang="en"><head><script language="javascript" type="text/javascript">
 function show(id){
 if(id == 'link1'){
  document.getElementById('bg_mask').style.visibility='visible';
   document.getElementById('frontlayer').style.visibility='visible';
+}
+if(id == 'link2'){
+ document.getElementById('bg_mask2').style.visibility='visible';
+  document.getElementById('frontlayer2').style.visibility='visible';
 }
 }
 
@@ -16,6 +20,8 @@ function showFrontLayer() {
 function hideFrontLayer() {
   document.getElementById('bg_mask').style.visibility='hidden';
   document.getElementById('frontlayer').style.visibility='hidden';
+ document.getElementById('bg_mask2').style.visibility='hidden';
+  document.getElementById('frontlayer2').style.visibility='hidden';
 }
 
 </script>
@@ -129,6 +135,35 @@ h1 {
   border: 15px solid black;
   z-index: 1;
 } 
+#bg_mask2 {
+  position: absolute;
+  top: 0;
+  right: 0;  bottom: 0;
+  left: 0;
+  margin: auto;
+  margin-top: 0px;
+  width: 981px;
+  height: 610px;
+  background : url("images/pixel.png") center;
+  z-index: 0;
+  visibility: hidden;
+} 
+
+#frontlayer2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 82px 10px 5px 85px;
+  padding : 30px;
+  width: 715px;
+  height: 715px;
+  background-color: white;
+  visibility: hidden;
+  border: 15px solid black;
+  z-index: 1;
+} 
 -->
 </style>
 </head>
@@ -163,7 +198,7 @@ h1 {
     <input style="height:50px;width:250px;font-size:24px" type="password" name="passwd" size="20" maxlength="20"></td>
                     
           </tr><tr height="20"> 
-           <td width="50%" align="right">Save<input style="height:15px;width:15px" size="10" type="checkbox" name="save" checked=""></td> <td width="50%" align="left" class="boxtext"><input type="hidden" name="form" value="sent"> 
+           <td width="50%" align="right">Save<input style="height:15px;width:15px" size="10" type="checkbox" name="save" checked=""></td> <td width="50%" align="left" class="boxtext"><input type="hidden" name="lform" value="sent"> 
               <input style="height:40px;width:65px;font-size:18px" size="10" name="submit" type="submit" value="Login"></td>
           </tr>
 
@@ -180,6 +215,34 @@ h1 {
           </div>
         </div>
 
+<div id="bg_mask2">
+          <div id="frontlayer2">
+ <input type="button" value="X" onclick="hideFrontLayer();">
+            <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%"><form action="signup.php" method="post" name="nu"></form><input type="hidden" name="form" value="sent">
+<input type="hidden" name="ref" value=""><tbody><tr><td colspan="1" class="boxtext" width="50%" align="center" valign="top" style="font-size:24px">Username: (For Forum)</td></tr><tr><td class="boxtext" width="50%" align="center" valign="top"><input style="height:30px;width:250px;font-size:24px" value="" type="text" name="name" size="20" maxlength="100"></td></tr>
+<tr><td colspan="1" class="boxtext" align="center" valign="top">Please note: Microsoft email accounts may block our emails, even from junk.<br><font size="4" style="font-size:24px">Your E-mail address:</font></td></tr><tr><td class="boxtext" align="center" valign="top"><input style="height:30px;width:250px;font-size:24px" value="" type="text" name="email1" size="20" maxlength="100"></td></tr>
+<tr><td colspan="1" class="boxtext" align="center" valign="top"><font size="4" style="font-size:24px">Confirm E-mail address:</font></td></tr><tr><td class="boxtext" align="center" valign="top"><input style="height:30px;width:250px;font-size:24px" value="" type="text" name="email2" size="20" maxlength="100"></td></tr>
+<tr><td colspan="1" class="boxtext" align="center" valign="top"><font size="4" style="font-size:24px">Password:</font></td></tr><tr><td class="boxtext" align="center" valign="top"><input style="height:30px;width:250px;font-size:24px" value="" type="password" name="passwd" size="20" maxlength="20"></td></tr>
+
+ <tr><td colspan="2" align="center" class="boxtext">
+            <img width="215" height="80" id="captcha" src="securimage/securimage_show.php" alt="CAPTCHA Image">
+            </td></tr>
+            
+            <tr><td colspan="2" align="center" class="boxtext">
+            <input style="height:30px;width:120px;font-size:24px" type="text" name="captcha_code" size="10" maxlength="6">
+<a href="#" onclick="document.getElementById('captcha').src = '/securimage/securimage_show.php?' + Math.random(); return false">[ Different Image ]</a>
+            </td></tr>   
+
+<tr><td colspan="2" align="center" class="boxtext"> 
+
+</td></tr> 
+<tr><td class="boxtext" align="center" valign="top" colspan="2"><input style="height:15px;width:15px" type="checkbox" name="termscheck" value="1"><font> I agree with <a href="terms.php" target="_blank"><b><font>terms and conditions</font></b></a><font><br> <b><font size="1">The materials on vagex.com's web site are provided 'as is'. vagex.com makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, vagex.com does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site. </font><br><font size="1" color="#ADA205">We do not guarantee that every view, like and subscription we provide will show up on YouTube.</font></b></font></font></td></tr>
+<tr><td class="boxtext" align="center" valign="top" colspan="2"><input style="height:15px;width:15px" type="checkbox" name="emailcheck" value="1"><font> I agree to receive email from time to time. <b><font size="1">You may unsubscribe at any time by deleteing your account.</font></b><br></font></td></tr>
+<tr><td class="boxtext" align="center" valign="top" colspan="2"><input style="height:40px;width:100px;font-size:18px" type="submit" value="Register!"></td></tr>
+</tbody></table>
+          </div>
+        </div>
+
 <table width="811" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr valign="top">
     
@@ -189,7 +252,9 @@ h1 {
 <table width="780" height="50%" border="0" align="center" cellpadding="3" cellspacing="0" bgcolor="#FFFFFF">
    <tbody><tr height="50%">
     <td class="" width="30%" height="50%" rowspan="2" valign="top" align="left"><a href="http://vagex.com"><img border="0" src="images/yt.jpg" width="200" height="77"></a></td>
-     <td class="" width="30%" colspan="2" rowspan="1" valign="top" align="right"><a href="/signup.php">Sign Up</a> | <a href="javascript:show('link1')" id="link1">Login</a></td>
+     <td class="" width="30%" colspan="2" rowspan="1" valign="top" align="right">
+<a href="javascript:show('link2')" id="link2" "="">Sign Up</a> | 	<a href="javascript:show('link1')" id="link1">Login</a>
+	</td>
       </tr>        
 </tbody></table>
         
@@ -245,6 +310,8 @@ h1 {
 <p><strong>Contacting Us</strong></p>
 <p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
 <p>support@vagex.com</p>
+
+
 </td>
               </tr>
             </tbody></table></td>
@@ -269,9 +336,10 @@ h1 {
               
               <tr align="center">
                 <td height="50" colspan="2"><a href="/index.php">Home</a> |
-                  <a href="javascript:show('link1')" id="link1">Login</a> | <a href="/signup.php">Sign Up</a> |
+                  <a href="javascript:show('link1')" id="link1">Login</a> | <a href="javascript:show('link2')" id="link2">Sign Up</a> |
                   <a href="/faq.php">FAQ</a> | <a href="/terms.php">Terms</a>
-                  | <a href="/privacy.php">Privacy</a> | <a href="/contact.php">Contact</a>  </td>
+                  | <a href="/privacy.php">Privacy</a> | <a href="/contact.php">Contact</a>
+ | <a href="/killtime.php?h=kt">KT Broadcaster</a>  </td>
                   
               </tr>
               
@@ -279,10 +347,10 @@ h1 {
               
               <tr valign="bottom">
                 <td width="50%" align="center" class="footer">No Affiliation with YouTube LLC. All Rights Reserved.
-                  <a href="http://Vagex.com">Vagex.com</a> © 2016</td>
+                  <a href="http://Vagex.com">Vagex.com</a> © 2017</td>
               </tr>
             </tbody></table>
 
-</td><td valign="middle"><img src="http://vagex.com/images/cat.png"></td></tr></tbody></table>
+</td><td valign="middle"><img src="images/cat.png"></td></tr></tbody></table>
 
 </td></tr></tbody></table></body></html>
