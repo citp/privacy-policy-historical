@@ -1,117 +1,231 @@
-> *The following text is extracted and transformed from the ddo.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011185519id_/http%3A//www.turbine.com/%3Fpage_id%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163928id_/https%3A//www.daybreakgames.com/privacy%3Flocale%3Den_US) for the most accurate reproduction.*
 
-# Turbine > Privacy Policy
+# Privacy Policy | Daybreak Game Company
 
-**Turbine, Inc.**
+(Last Updated: March 13, 2015)
 
-**_Privacy Policy_**
+Click [here](https://web.archive.org/images/legal/downloads/daybreak_privacy_policy_20150313.pdf) for a printer-friendly version of the privacy policy
 
-Last updated:  April 24, 2007
+Daybreak Game Company LLC (“ **Daybreak Games** ” or “ **we** ” or “ **our** ”) respects your privacy and is committed to protecting the Personal Information (as defined below) that you may provide us while using the Services (as defined below). Your use of the Services is subject to your agreement to the terms and conditions of this Privacy Policy (the “ **Privacy Policy** ”) and our [Terms of Service](https://web.archive.org/terms-of-service) (the “ **Daybreak Terms of Service** ”).
 
-YOUR USE OF THE TURBINE SITES AND SERVICES IS SUBJECT TO YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY.
+This Privacy Policy sets out the basis on which we process the Personal Information and Other Information (as defined below) that we collect from or about you and is intended to notify you of our privacy practices concerning the following topics.
 
-This Web site is operated by, and information collected from this site is collected by, Turbine, Inc. (" **Turbine** ," the " **Company** " or " **we** ").
+  * [index]
 
-Turbine respects the privacy of its online visitors and users of its products and services.  Turbine recognizes the importance of protecting certain information collected from users and has adopted this Privacy Policy that guides how Turbine gathers, stores, and uses information provided from users through the Turbine Sites and Services as described below. 
 
-This policy is current as of its last revision date indicated above.  However, please note that this policy may be amended from time to time to reflect changes and additions to the Privacy Policy.  Please check back for the most current version before relying on any of the provisions in this Privacy Policy.  
 
-This Privacy Policy applies to **[www.turbine.com]()** , **[www.ddo.com](http://www.ddo.com/)**, www. **[lotro.com](http://www.middle-earthonline.com/)** , ac.turbine.com, beta.turbine.com, myaccount.turbine.com and all other web sites owned, operated, licensed or controlled by Turbine (including the related online products and services, the " **Turbine Sites and Services** "), unless such sites contain or link to a separate Privacy Policy.
+## The websites and services covered by this Privacy Policy
 
-**_Collection and Use of Information_**
+The Privacy Policy applies to the websites, software applications or programs, games, HTML email messages, information we collect through social media pages, and other properties and services that are operated by us and that link to this Privacy Policy (collectively, the “ **Services** ”). Please note that when visiting Daybreak Games’ pages hosted on social media websites (e.g., Facebook, Twitter, YouTube, Google+) or any other third-party websites, you should refer to their privacy policies and terms of use for more information about how they handle your information.
 
-By using the Turbine Sites and Services, users agree that Turbine may share with other parties aggregate information and non-identifiable information gathered by Turbine in the course of your use of the Turbine Sites and Services.  " **Aggregate information** " is information that describes the habits, usage patterns, and demographics of users as a group but does not describe or reveal the identity of any particular user.  " **Non-identifiable information** " is information about a user that is presented in a form distinguishable from information relating to other users but not in a form that personally identifies contact and/or billing information for any user, or enables the recipient to communicate directly with any user unless agreed to by the user in advance of such communication.  Aggregate information and/or non-identifiable information may be used by Turbine for any purpose, including, without limitation, to improve the Turbine Sites and Services, for internal marketing studies, or simply to collect demographic information about Turbine's users. 
+Back to top
 
-Turbine may use contact information provided by users to send information about (i) Turbine and the Turbine Sites and Services for which you subscribed or otherwise used or accessed, including, without limitation, news about product updates, contests, events, and other promotional materials, and (ii) only if the users agree to receive such communications, for unrelated products or services.  " **Personally identifiable information** " is information that permits a recipient to identify you as an individual, such as your name, mailing address, phone number, email address, and credit card information.  While Turbine collects personally identifiable information on a voluntary basis for the use of the Turbine Sites and Services, Turbine's collection of personally identifiable information may be a requirement for access to certain parts of the Turbine Sites or Services.  We may collect personally identifiable information from you from a variety of ways, including when you (a) make an online purchase from the Turbine Sites, (b) register to become a member or user of the Turbine Sites and Services, (c) voluntarily provide it when you use the Turbine Site and Services, (d) disclose it in a public area of the Turbine Site and Services, or (e) provide it when you communicate with us. 
+## Our participation in and certification by online privacy programs.
 
-If you make an online purchase or register to become a member or user of the Turbine Sites and Services, we may use the personally identifiable information that you provide in connection with such purchase for shipping and billing purposes, to administer and manage your account, or provide promotional updates regarding such Turbine Sites and Services as contemplated above.  In addition, we may send out periodic e-mails informing you of technical or security issues related to the Turbine Sites and Services you requested, confirming you requested a product or service, or providing periodic updates or information relating to the Turbine Sites and Services you requested.  For so long as you are subscribed to or otherwise using or accessing a Turbine Site or Service, you will not be able to choose to unsubscribe from these mailings, as they are considered an essential part of the product or service you have chosen.
+This Privacy Policy and the certification seals shown on our websites confirm that Daybreak Games is a valid licensee and participating member in the [ESRB Privacy Certified Program](http://www.esrb.org/privacy/faq.jsp). We have voluntarily undertaken this privacy initiative and the Services have been reviewed and certified by the ESRB Privacy Certified Program to meet established online information collection and use practices. As part of this program, we are subject to frequent audits of the Services and other enforcement and accountability mechanisms administered independently by ESRB.
 
-Except in the cases described below, Turbine will not share personally identifiable information with any third-party unless the user agrees to such disclosure in advance.
+If you have any questions, complaints, or comments regarding this Privacy Policy, please contact Daybreak Games Customer Service at [support@daybreakgames.com](mailto:support@daybreakgames.com). For complaints, you can also contact the ESRB Privacy Certified Program directly at [privacy@esrb.org](mailto:privacy@esrb.org) or by mail at Attn: Privacy Certified Program, 420 Lexington Avenue, Suite 2024, New York, NY 10170.
 
-Turbine may occasionally hire other companies to provide limited services on our behalf, including, without limitation, packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail, providing billing and collection services, conducting customer surveys, and processing event registration.  We will only provide these companies the information reasonably required to perform the applicable service, and they will be prohibited from using that information for any other purpose.  When these companies collect and/or have access to the personally identifiable information you provide, we require that they protect the confidentiality of personally identifiable information they collect or have access to in the course of their engagement by Turbine.
+Back to top
 
-Also, in certain cases, your personally identifiable information may be collected directly by our authorized distributors, sublicensees or subcontractors in connection with certain products or services made available through web sites operated by such companies.  In these cases, the privacy policies of such companies will apply rather than Turbine's policy.  If providing the information is a requirement of usage, the user may elect to decline to use that particular product or service. 
+## Personal Information we collect from and about you
 
-Turbine may elect to share personally identifiable information of users with certain business partners for marketing or other similar purposes but only if the users agree to share such information.  In such event, such partners will be prohibited from disclosing such information or using such information except for the limited purposes for which such users agree to share such information.  With respect to users of products and services relating to _DUNGEONS & DRAGONS ONLINETM: StormreachTM_ (including, without limitation, forums and chat rooms), your personally identifiable information will be shared with Atari, Inc. or its affiliates (" **Atari** ").  Atari's use of such information will be subject to the privacy policy of Atari found at **<http://www.atari.com/us/privacy>** and Turbine's use of such information will be subject to this Privacy Policy. 
+### A. General
 
-Furthermore, third-party web sites and companies with links to and from the Turbine Sites and Services may collect personally identifiable information about users.  You should be aware that these third-party web sites or links may have their own information collection practices and privacy policies.  We do not control the privacy policies of third parties that have web sites linked to the Turbine Sites and Services.  If you click on a third-party advertisement or link, the privacy policies of the third-party web site that you link to will govern the use of your information by that web site's operator.  Turbine's Privacy Policy does not extend to these external web sites and companies.  Please refer directly to these companies and web sites regarding their privacy policies.  We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise.  Accordingly, please make sure you are aware of and comfortable with the privacy policies of any third-party web sites to which you follow a link. 
+“ **Personal Information** ” is information that identifies you as an individual or relates to an identifiable person, including for example, your name, e-mail address, postal address, phone number, and payment card information. We do not collect any Personal Information from you unless you provide it to us voluntarily (e.g., through interaction or registration with the Services). We may combine the Personal Information we receive from you with information we receive about you from other sources, such as our affiliates, public databases, joint marketing partners, social media platforms, from people with whom you are friends or otherwise connected on social media platforms, and from other third parties. For example, if you elect to connect your social media account to your Services account, certain Personal Information from your social media account may be shared with us, such as your name, email address, photo, and location. This Personal Information may be combined with other information that is part of your profile or your friends’ profiles.
 
-Turbine may disclose your personally identifiable information or otherwise use such information to communicate with you if required or permitted to do so by law or in the good-faith belief that such action is necessary to:  (a) conform to legal requirements or comply with legal process or any governmental request; (b) protect and defend the rights or property of Turbine or its affiliated companies, licensors or licensees; (c) enforce the Terms of Service or any applicable License Agreements; or (d) protect the personal safety or interests of Turbine employees, users of Turbine products or services, or members of the public in urgent circumstances.  We also may disclose your personally identifiable information to a third-party that alleges that you have infringed their intellectual property rights, subject to reasonable verification of such claims.
+### B. Memberships and Registration
 
-In the event of a merger or consolidation of Turbine, or the sale of all or substantially all of its stock or assets, or the transfer of the operation and distribution of certain products or services to a third-party, or bankruptcy of Turbine, your personally identifiable information may be transferred to Turbine's successor or assign resulting from such events.
+Some areas of the Services may allow you to visit as a guest and remain anonymous, but you may not be able to access all the content and features of those areas without registering (e.g., in order to play our subscription-based games, information such as your real name and billing information is required). Important information regarding account registration procedures and the security of your account is set out in the Daybreak [Terms of Service](https://web.archive.org/terms-of-service).
 
-**_Children Under The Age of 13_**
+### C. E-mail Newsletters and Friend to Friend Promotions
 
-Once a child states that his/her age is under 13, we do not collect or store any personally identifiable information such as name, address, or email address.  We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when on-line.  Teenagers under the age of 17 and over the age of 12 should encourage their parents to review this policy and to contact us if they would like to opt out of receiving communications from us or removing personally identifiable information.
+Typically you need to have an account in order to receive e-mails from us, provided that you may receive e-mail communications from us if you have contacted us directly with regard to a specific request or if you have expressly agreed to receive e-mail communications for promotion, marketing, or newsletters. You may be asked for additional Personal Information when you subscribe. You can opt-out of receiving future marketing e-mails from us by following the unsubscribe directions contained in the e-mail. Also, except in jurisdictions where it may be prohibited by law, we may allow you to submit information about other people, such as in connection with a “Send to a Friend” promotion. In these situations, you may provide the e-mail address and, sometimes, the name of a friend. After the “Send to a Friend” transaction is completed, that information is deleted.
 
-**_Use of Cookies and Other Information Stored on a User's Machine_**
+### D. Sweepstakes, Contests, and Promotions
 
-Cookies are bits of electronic information stored on a user's hard drive to provide information needed by the user on a regular basis.  They are often used to save web site customizations and web site login information.
+To participate in some of our sweepstakes, contests, surveys, and other promotions, you may be asked to provide additional Personal Information such as your physical mailing address. This information may be collected by Daybreak Games and/or by third parties such as co-sponsors or vendors for the promotion. Potential winners will be required to provide additional Personal Information for the purpose of verifying eligibility, awarding prizes, and for tax purposes. The names of third parties such as co-sponsors (other than vendors hired by Daybreak Games to conduct, administer, and execute a promotion on behalf of Daybreak Games) will be disclosed to you when you are asked to sign up for the promotion. You should review such third parties’ privacy policies to see how they may use any information that they collect.
 
-We use third party media management tools and services to deliver ads on our behalf across the Internet.  Such third parties may also collect anonymous information about your visits the Turbine Sites and Services.  This is primarily accomplished through the use of anonymous cookies, and a technology device, commonly referred to as a Web Beacon or Action Tag, which we place on various pages within the Turbine Sites and Services and other online content or in e-mails, that allow such third parties to collect anonymous information.  Such third parties may use information about your visits to the Turbine Sites and Services and other websites in order to provide ads about goods and services of interest to you.  If you would like more information about this practice, and your ability to opt out of third party cookies, [**click here**](http://www.networkadvertising.org/).
+### E. Online Purchases and Technical Support
 
-Turbine may use clear gifs, frames, server log analysis, and other technology to customize your experience with the Turbine Sites and Services. We will handle personal information collected through the use of these technologies according to this Privacy Policy.
+When you sign up to play one of our fee-based games or you make certain online purchases from us, we will require that you provide us with the necessary billing information, such as your name, credit card or payment information, street address, etc., so that we may provide the content, game, service, or product to you. In order to resolve issues related to customer service, billing questions, technical, and computer support, etc., we may also require you to provide us with some Personal Information so that we may resolve such issues properly.
 
-An IP address is a number that uniquely identifies your computer on the Internet.  We may collect IP addresses for the purposes of providing our products and services, including, without limitation, system administration, troubleshooting, user compliance with our terms of service, investigating security breaches, and compiling aggregate information (such as how many visitors logged on to the Turbine Sites and Services).  When you visit a particular web page on the Turbine Sites, our servers log your IP address. 
+We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use, and disclosure of your Personal Information.
 
-Turbine stores information on a user's hard drive that is used in conjunction with online play of Turbine products.  For example, some user configuration settings for multiplayer game play, including the player name input by the user, may be uploaded to the server for online play.  The player name along with current game play stats is displayed to other users during multiplayer game play or the related Turbine Sites.  Users should be aware that this game play information disclosed during multiplayer game play is public information.  Turbine will not disclose a user's personally identifiable information associated with such game play to other users except as permitted herein. 
+### F. Hosting of Third-Party Services
 
-**_Chat Rooms/Forums_**
+Certain Services may be provided to you in conjunction with a third party. During the registration process for any such Service, you may be notified that such third party wishes access to some of your Personal Information and you will be given an opportunity to decline to share that information with that third party. If you decline, you may not be able to use the relevant Services. A third party’s use of the shared Personal Information will be governed by the third party’s own privacy policy, and Daybreak Games’ use of such information will be governed by this Privacy Policy.
 
-From time to time, Turbine may provide online chat (voice or text) rooms and/or forums to users.  Any information that is disclosed in these chat rooms and forums is public information and users should exercise caution when deciding to disclose personal information in such chat rooms and forums.  If you voluntarily disclose information in a public area of the Turbine Sites and Services, such as a voice or text chat room or forum, that information may be collected and used by a third-party to send you unsolicited messages, advertisements or for other purposes.  We do not control the actions of these third parties in public areas of the Turbine Sites and Services, so if you disclose information in a public area, you do so at your own risk.  Further, any communication (voice or chat) within any online game or any other communication feature within the Turbine Sites and Services (e.g. instant message services or voice), including without limitation, communications conducted "privately" with another person, go through Turbine's servers and any such communications that you send or receive may be monitored by Turbine. 
+### G. Consent to Store & Monitor
 
-**_Resumes_**
+Please note that, when running, some of our games may monitor your computer’s random access memory (“ **RAM** ”), media access control (“ **MAC** ”) address, configuration files and system files, etc., for unauthorized third party programs running concurrently with your game which, in Daybreak Games’ sole determination: (i) enable or facilitate cheating of any type; (ii) allow users to modify or hack the applicable Daybreak Games game interface, environment, and/or experience in any way not expressly authorized by Daybreak Games; or (iii) intercept, “mine” or otherwise collect information from or through the applicable Daybreak Games game (each, an “ **Unauthorized Third Party Program** ”). In the event that a Daybreak Games game detects an Unauthorized Third Party Program, (a) the Daybreak Games game may communicate information back to Daybreak Games, including without limitation, your Daybreak Games account username, details about the Unauthorized Third Party Program detected and the activities or functions performed thereby, and/or details about your computer, and/or (b) Daybreak Games may exercise any or all of its rights and remedies, including, without limitation, its rights and remedies under the Daybreak [Terms of Service](https://web.archive.org/terms-of-service) and/or the Daybreak Games end user license agreement without prior notice to the user linked to such Unauthorized Third Party Program.
 
-Turbine allows for the online submission of resumes via the Turbine corporate website.  Please note that the information (including personal information) collected from a resume is not subject to this Privacy Policy.  The information obtained from your resume will be used for the purpose of evaluating your submission for a job with Turbine.
+When you communicate with another game player or with us within the Services (e.g., through live chat, instant message services, message boards, and the like), even when you believe you are doing so “privately” with another person, you do so with the understanding that those communications go through our servers, and you expressly agree to waive any rights of confidentiality that you may have in and to such communications, you agree you have no expectation of privacy in such communications and, accordingly, where and to the extent permitted by applicable law, you expressly consent to our (or our agents’) monitoring of the communications that you send and receive through the Services (including, without limitation, technical support and customer service communications). You also acknowledge that any and all character data that is stored and is resident on our servers may be monitored by us or our agents (to the extent permitted by applicable law).
 
-**_Choice/Opt-out_**
+### H. Business Capacity and Resume Submissions
 
-Except as otherwise provided in this Privacy Policy, Turbine provides users the opportunity to opt-out of receiving communications from Turbine when you are asked to provide information and the option of discontinuing receipt of communications from Turbine by removing your information from Turbine's databases.  Instructions for discontinuing receipt of communications from Turbine will be made available with the communication or on the related Turbine Site. 
+Daybreak Games allows for the online submission of tax forms and resumes. Please be advised that information (including Personal Information) contained in a tax form, a job applicant’s resume, or otherwise submitted to Daybreak Games in a business capacity is not subject to the terms of any other section of this Privacy Policy. The information obtained in these instances will only be used for the purpose for which it was collected (i.e., accepting and evaluating your submission for a job, contacting you, your previous employers, and your references, processing payments, etc.).
 
-**_Storage and Security of Information_**
+When we collect Social Security numbers in the course of our business (such as when a vendor or Player Studio registrant submits a tax form), it is our policy to protect the confidentiality of such numbers, prohibit their unlawful disclosure, and limit access to them.
 
-Personally identifiable information may be stored and processed in the United States or any other country in which Turbine or its affiliates, subsidiaries or agents maintain facilities, and by using the Turbine Sites and Services, you consent to any such transfer of information outside of your country.  Turbine will take reasonable steps to protect the information users share with us.  We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure.
+### I. Collection of Personal Information about Other Individuals
 
-**_Corrections, Updates and Removal of Information_**
+Daybreak Games may collect from you Personal Information relating to certain third parties, such as your family members and friends. Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Personal Information to us or our service providers without the relevant individual’s consent.
 
-If you are concerned about the accuracy of personally identifiable information maintained by Turbine or would like your personally identifiable information removed from Turbine's records, you may use the tools, if any, made available with the particular Turbine Site or Service to update or remove such information or you may contact us by e-mail or mail at the address set forth below.  If you choose to delete your personally identifiable information, you may not be able to access some areas of the Turbine Sites or Services to which you have subscribed.  For your protection, you will be required to provide proof of your identity to obtain a copy of your personally identifiable information.  We will not provide a refund for any prepaid service which is inaccessible to you because of your deletion of personally identifiable information.  We may still retain your information in our files, however, to resolve disputes, enforce our user agreements, and due to technical and legal requirements and constraints related to the security, integrity and operation of our web sites.
+Back to top
 
-**_No Absolute Safeguards_**
+## Other Information we collect from you
 
-Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure.  Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.
+We and our service providers may collect information that does not reveal your specific identity or does not directly relate to an individual (“ **Other Information** ”). Because Other Information does not personally identify you, we may use and disclose it for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for all the purposes for which we use and disclose Personal Information.
 
-**_Your Role in Protecting Your Privacy_**
+We may combine the Other Information we collect from and about you with Personal Information. If we do, we will treat the combined information as Personal Information for as long as it is combined.
 
-Please remember that protection of your privacy begins with you.  You are solely responsible for maintaining the secrecy of any account ID or password you use to register, and you should always be careful and responsible whenever disclosing information online.  We caution you against giving out personally identifiable information to others online or in-game, as this information may be used for illegal or harmful purposes.
+We and our service providers may collect Other Information in a variety of ways, including:
 
-**_Acceptance of Privacy Policy_**
+### A. Browser and Device Information
 
-If you use the Turbine Sites and Services, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy.  If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Turbine Sites and Services.  We reserve the right to modify this Privacy Policy at any time.  Your continued use of the Turbine Sites and Services after we either personally notify you or generally post such changes on the Turbine Sites will constitute your acceptance of those changes.
+Certain information is collected by most browsers or automatically through your device or with session information, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the name and version of the Services you are using. We use this information to ensure that the Services function properly.
 
-**_Other Agreements_**
+Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications, and other services. We use IP Addresses for purposes such as calculating usage levels of the Services, helping diagnose server problems, and administering the Services.
 
-In addition to this Privacy Policy, your rights and obligations concerning the Turbine Sites and Services, are governed by the applicable terms of service, end user license agreement, and code of conduct.  Please review each such agreement carefully, as you must agree to be bound by each such agreement before you may use the Turbine Sites and Services.
+In addition, when you play our games or use the communication features available through the Services, we may collect your IP address. When any Daybreak Games game is updated or “patched,” our patch routine may check your computer to see that you have the most recent version of Daybreak Games game-specific files. When you log into one of the Daybreak Games’ games, we may collect your system specifications (such as RAM, video card, monitor, system configuration, crash data, etc.) for the purposes of analyzing and optimizing your Daybreak Games game experience and in order to provide you with customer service.
 
-**_Language_**
+### B. Through your use of our apps
 
-The parties hereto have requested that this Privacy Policy, and all correspondence and all documentation relating to this policy, be written in the English language.  If you prefer, a French version of this Privacy Policy is located here [**index.php?page_id=77**](http://www.turbine.com/index.php?page_id=77). 
+When you download and use one of our applications, we and our service providers may track and collect app usage data, such as the date and time the app on your device accesses our servers and what information and files have been downloaded to the app based on your device number.
 
-Les parties aux présentes ont exigé que la présente politique de confidentialité, de même que toute la correspondance et la documentation relative à cette politique, soient rédigées en langue anglaise. Si vous le préférez, une version de cette politique de confidentialité en langue française est disponible à [**index.php?page_id=77**](http://www.turbine.com/index.php?page_id=77).
+### C. Information collected through cookies, pixel tags, and other technology
 
-By consenting to this Privacy Policy, you confirm that your command and knowledge of English (or in some cases, French) is sufficient to understand the terms and conditions set forth herein.
+We and our service providers may use cookies, pixel tags, and other tracking technology when you visit or use the Services. Please see our [Cookie Policy](https://web.archive.org/cookies) for details on our use of these technologies and instructions on how you may manage them.
 
-**_Local Laws_**
+We assign a unique identifier to every user of our websites and launchpad (i.e., our game launchers). The unique identifier allows us to recognize the same user when he or she uses our various Services, including through different devices, and to track his or her use of the Services, thereby giving us a full picture of the user’s activity across our Services. If we have collected your Personal Information, or if we collect your Personal Information in the future, we will combine it with the information we have collected through our use of the unique identifier. We use the information collected for analytics purposes and to serve targeted Daybreak Games offers and content to you when you are on the Services.
 
-For persons in European Union countries, as used herein, terms such as "personal information" refer to "personal data" as defined by the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ("Directive"). Turbine will not collect any personal data from you unless you provide it voluntarily by providing Turbine with your freely given specific and informed consent. By using Turbine Sites or Services, you agree that Turbine may transfer your personal information outside the European Union in connection with the purposes stated in this Privacy Policy. Your personal data may be transferred to the United States (and/or other non-EU jurisdictions, as applicable).
+We and our service providers may also use cookies and other technologies to automatically collect the website or advertisement from which you reached the Services, to track responses to our online advertisements, and to collect information across your use of different Daybreak Games websites. We do not track your behavior on third-party websites or other online services.
 
-In certain jurisdictions in which local law may be required to apply, some of the information collected by Turbine (or its designees) may be personal information and entitle you to the right to object to its collection and to the right to access and correct the collected information pertaining to you.
+Daybreak Games does not control cookies in third party ads and visitors are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. The ads appearing on the Services may be delivered to you by third-party advertising companies. These companies may use information about your visits to the Services and other sites or online services in order to provide advertisements on the Services and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices with respect to it, please visit here <http://www.networkadvertising.org/optout_nonppii.asp> or <http://www.aboutads.info/>.
 
-**_Contacting Turbine_**
+We use Google Analytics, which uses cookies and similar technologies to analyze how users use the Services, compile statistical reports on Services activity, and provide other services related to the Services. Google Analytics may also collect information about our users’ use of other websites. For more information about Google Analytics, or to opt out of Google Analytics, please go to: <https://tools.google.com/dlpage/gaoptout>.
 
-If you have any questions or comments about this Privacy Policy, please contact us by postal mail or email to: 
+### D. Physical location
 
-Turbine, Inc.  
-PO Box 747  
-Westwood, MA 02090  
-Attn:     Privacy Officer  
-E-mail:  [privacy@turbine.com](mailto:privacy@turbine.com)
+We may collect the physical location of your device by, for example, using satellite, cell phone tower, or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. In some instances, you may be permitted to allow or deny such uses of your device’s location, but if you do, we may not be able to provide you with the applicable personalized services and content.
+
+### E. Demographic information and other information provided by you
+
+In connection with some Services, or through surveys or polls, we may ask you to provide information that does not personally identify you. For example, we may ask you to provide information concerning your entertainment preferences, purchasing habits, and the like. This information is generally optional. Daybreak Games requests this information to understand you better and to also bring to your attention new services, programs, or offers that may be of interest to you. Unless combined with Personal Information, this information does not personally identify you.
+
+### F. Aggregated information
+
+Aggregated Personal Information does not personally identify you or any other user of the Services (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
+
+Back to top
+
+## How we use and share the information that we collect from you
+
+### A. How we use information that we collect from you
+
+In addition to the uses described in the sections above, we may use the Personal Information we collect from and about you to enable us:
+
+  * To provide you with technical support, customer service, and account maintenance;
+  * To learn what you like and tailor your experience accordingly;
+  * To improve and develop the Services and our other products and services;
+  * To provide services or products you request;
+  * To allow you to participate in or use our communication features;
+  * To allow you to download and/or play one of our games;
+  * To allow you to benefit from any other promotions or offers, such as sweepstakes and contests;
+  * To manage your Daybreak Games account and fulfill your orders and respond to your requests;
+  * To inform you of any changes made to the Services or send other administrative information to you;
+  * To inform you of products, services, promotions, and offers which you may find interesting, including by serving advertisements to you when you are on third-party sites, services, and social media platforms; and
+  * For our internal business purposes, such as data analysis, audits, fraud monitoring and prevention, determining the effectiveness of our promotional campaigns, and operating and expanding our business activities.
+
+
+
+### B. Information disclosed to third parties
+
+We may disclose your Personal Information to other companies that we have engaged to provide services to us and whom we subject to confidentiality requirements. This may include, but is not limited to, fulfillment houses, billing services, transaction managers, credit verification services, ad serving services, and other third party service providers.
+
+We may disclose your Personal Information to identify you to anyone to whom you send messages through the Services.
+
+You may disclose your Personal Information on message boards, chat, profile pages, and other services to which you are able to post information and materials. Any information you post or disclose through these services will become public information and may be available to other users of the Services and to the general public. Please be careful when deciding to disclose your Personal Information, or any other information, on or through the Services.
+
+We may disclose your Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock, including in connection with any bankruptcy or similar proceedings.
+
+We may use or disclose your Personal Information if we believe such disclosure is necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+### C. Information about affiliated companies
+
+Daybreak Games may share your Personal Information for the purposes described in this Privacy Policy (except for direct marketing) with its parent companies, which consist of Columbus Nova Private Equity Group (“ **CN** ”) and any company controlled by CN that directly or indirectly owns fifty percent (50%) or more of the outstanding equity in Daybreak.
+
+Back to top
+
+## Information about links
+
+We may provide links to third party websites. This Privacy Policy does not apply to any such websites, and we are not responsible for them, so we encourage you to review the policies of all such sites carefully. Additionally, there may be unauthorized third party websites that may be providing links from their sites to the Services without our knowledge or control. We are not responsible for the content of any third party websites, expressly disclaim any statements or assertions made on such websites, and deny all liability associated with your use of, and the content on, such other sites or advertisements contained therein.
+
+Back to top
+
+## How you may access, change, or delete the information you have provided to us
+
+Subject to security and privacy concerns (e.g., regarding your password and credit card number), your Daybreak Games account will give you the ability to access, change, delete, and/or update the Personal Information you have provided, and adjust your communications preferences. If you choose to have your Personal Information removed from our active databases, we will try to do so within a reasonable time after your request and we will take reasonable steps to ensure that your Personal Information is not used (except as may be required by law) by Daybreak Games after your notification to us.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+Back to top
+
+## Special note about children’s privacy
+
+The Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from such children. If Daybreak Games learns that we have inadvertently gathered personal data from children under the age of 13, Daybreak Games will take reasonable measures to promptly delete such personal data from Daybreak Games’ records.
+
+If you believe that we have unintentionally collected personal information about your child, please contact us:
+
+Email: [accounts@daybreakgames.com](mailto:accounts@daybreakgames.com)
+
+Mail: Daybreak Games Privacy Officer, 15051 Avenue of Science, San Diego, CA 92128
+
+Phone: 858-239-0500 (ask for the Privacy Officer)
+
+Back to top
+
+## Special note about California Minors
+
+Please note that if you are a resident of California, under the age of 18, and a registered user of our Services (a “ **Minor** ”), you have the right to remove or to request the removal of content or information you may have posted publicly on bulletin boards, message boards, chat rooms, communities, or other publicly viewable forums. We strongly recommend that all of our users avoid posting personal or sensitive information at any time. Should you wish to edit or remove this content or information after you have posted it, you may do so by accessing your account profile.
+
+Removal of this content or information from public view does not guarantee complete or comprehensive removal. After your removal request has been honored, we may retain copies of the content or information you have previously posted on our servers. We are not required to remove your posted content or information if it has been rendered anonymous or if we are required by law to retain it. Additionally, we do not have control over third parties (e.g., other users) who may have copied or reposted this information.
+
+Back to top
+
+## Information for persons outside the United States
+
+The Services are operated and controlled by us from the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services, you consent to the transfer of information to countries outside your country of residence, including the United States, which may have different data protection rules than your country.
+
+Back to top
+
+## Our commitment to secure the Personal Information we have collected
+
+In order to provide you with added protection, Daybreak Games employs a security technology known as a secure-socket-layer (“ **SSL** ”) to protect the transmission of payment information to the Services. Unless otherwise specified herein or on the Services where you make a purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes.
+
+We seek to use reasonable organizational, technical, and administrative measures to protect Personal Information within our organization. Unfortunately, no website data transmission or storage system can be guaranteed to be completely secure. Daybreak Games urges you to take steps to keep your Personal Information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your user account, and closing your web browser when you are finished using the Services. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contact Us”_ section below.
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+Back to top
+
+## Notice of changes to this Privacy Policy
+
+Daybreak Games reserves the right to modify this Privacy Policy from time to time and to provide you with notice of such modifications by any reasonable means, including, without limitation, by making available the revised version of the Privacy Policy through the Services. You can determine when the policy was last revised by referring to the “Last Updated” legend at the top of this Privacy Policy. Your continued use of the Services following our making available any revised version of this Privacy Policy will mean that you accept that revised version; however, any material change to this Privacy Policy will not apply retroactively to any claim or dispute between you and us in connection with this Privacy Policy that arose prior to the “Last Updated” date applicable to that version of this Privacy Policy in which we included such material change. If we make any material changes in the way we collect, use, or share your Personal Information, we will notify you by prominently posting notice of the changes on Daybreak Games’ home page. If you do not agree to any changes made to this Privacy Policy, you may not access or use the Services.
+
+Back to top
+
+## Contact us with questions, comments, or requests
+
+Questions, comments, and requests regarding this Privacy Policy are welcomed and should be addressed to:
+
+Email: [accounts@daybreakgames.com](mailto:accounts@daybreakgames.com)
+
+Mail: Daybreak Games Privacy Officer, 15051 Avenue of Science, San Diego, CA 92128
+
+Phone: 858-239-0500 (ask for the Privacy Officer)
+
+If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <https://www.esrb.org/privacy/contact.jsp>, or 420 Lexington Avenue, Suite 2024, New York, NY 10170.
+
+Back to top
