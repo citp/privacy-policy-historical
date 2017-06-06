@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shareist.com privacy policy that was archived on 2016-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219225736id_/http%3A//www.shareist.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shareist.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606034756id_/http%3A//www.shareist.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
@@ -122,20 +122,22 @@ var local_storage_name = "shareist_"+js_user_id+"_" +js_site_id;
                       
 <script>
 	$(document).ready(function() {	
-	
-		var js_cur_url 		= '/privacy/';
-		var js_channel_url 	= 'channel.html';
-		var js_page_from 	= '';
-		var is_iframe 		= '';
-		var str_get_hash_key = '';		
-		 				
-		//var str_fb_perms 	= 'email,user_birthday,status_update,publish_stream,offline_access,manage_pages,user_groups';
-		var str_fb_perms 	= 'email,manage_pages,publish_actions,user_managed_groups';
+
+		var js_page_from='';
+		var is_iframe='';
+		var str_get_hash_key='';
+		var str_fb_perms='email,manage_pages,publish_actions,user_managed_groups';
 				
-		window.fbAsyncInit = function() {
-			FB.init({appId: js_fb_api_id,channelUrl: js_channel_url, status: true, cookie: true, xfbml: true});
+		window.fbAsyncInit=function(){
+			FB.init({
+				appId:js_fb_api_id,
+				status:true,
+				cookie:true,
+				xfbml:true,
+				version:'v2.8'
+			});
 		};
-		
+
 		(function(d){
 			var js, id = 'facebook-jssdk'; 
 			if (d.getElementById(id)) return;
@@ -146,104 +148,99 @@ var local_storage_name = "shareist_"+js_user_id+"_" +js_site_id;
 			d.getElementsByTagName('head')[0].appendChild(js);
 		}(document));
 		
-		
-		function fnSetFbLogin(load_current_page)
-		{
-			FB.login(function(response) {	
-			
-				if(response.status != "connected")
-				{					
-					return false; // not connected to fb
-				}								
-				
-				/******** SET IS LOGGED IN VIA FB SESSION  ********/
-				
-				var data={"page":js_page_from};
-				if(load_current_page) data.reload_page=window.location;
-								
-				$.ajax({
-					url: "/ajax/fblogin/",
-					data: data,
-					type:"post",
-					success: function(responseText) {
-						/**** SUCCESS ****/	
-						
-						var json_fb_obj = $.parseJSON(responseText);
-						
-						if(json_fb_obj.msg_type == "success")
-						{																							
-							//window.location= js_cur_url;
-							if(is_iframe == 1)
-							json_fb_obj.redr_url += "&is_iframe_signin=1";
-							
-							if(str_get_hash_key)
-							{
-								json_fb_obj.redr_url += "&hash_key="+str_get_hash_key;
-							}			
-							window.location= json_fb_obj.redr_url;	
-						}												
-					},
-					error: function(msg) {
-					/* Sorry....! Unable to process your request...! */
-					}						 
-				});		
-				
-				/******** END FOR SET IS LOGGED IN VIA FB SESSION  ********/				
-			
-			}, {scope:str_fb_perms});  // end of FB.login 		
-		}	
-		
-		
 		$("#id_btn_fb_login,#id_btn_fb_login_pages").click(function(e){
-							
-				e.preventDefault();
-				var int_pri_account = $(this).data("account");
-				var reload_current_page = $(this).data("reload")?1:0;
-				
-				fnSetFbLogin(reload_current_page);
-
-				/*
-				if(int_pri_account)
-				{						
-					//first remove account 
-					$.ajax({
-						url: "/update/?action=rm_social_ac&for_social=facebook&for_social_id="+int_pri_account,
-						data: "",
-						type:"post",					
-						success: function(responsehtml) { 						
-							FB.getLoginStatus(function (resp_one) {					 					
-								fnSetFbLogin(reload_current_page);
-							});	// end of FB.login_status													
+			e.preventDefault();
+			FB.login(function(response){
+				if(response.status!="connected") return false; // not connected to fb
+				$.ajax({
+					url:"/ajax/fblogin/",
+					data:{
+						"page":js_page_from,
+						"reload_page":window.location.href
+					},
+					type:"post",
+					success:function(responseText){
+						var json_fb_obj=$.parseJSON(responseText);
+						if(json_fb_obj.msg_type=="success"){
+							if(is_iframe==1) json_fb_obj.redr_url+="&is_iframe_signin=1";
+							if(str_get_hash_key) json_fb_obj.redr_url+="&hash_key="+str_get_hash_key;
+							window.location.href=json_fb_obj.redr_url;
 						}
-					});		
-				}
-				else { 				
-					FB.getLoginStatus(function (resp_one) {					 					
-						fnSetFbLogin(reload_current_page);
-					});	// end of FB.login_status	
-				}	
-				*/
-		
-		});	// end of click
-	});	// end document
+					},
+					error:function(msg){
+						//Unable to process your request
+					}
+				});
+			},{scope:str_fb_perms});
+		});
+	});
 </script>
 	
                           
 						  <div class="sociallogin_header">
-							  <div style="margin-bottom:15px;">
+							  <div style="margin-bottom:15px;">	
+<script>
+	$(document).ready(function() {	
 
-							
-		
-                             
-                  <button type="button" class="btn fb-btn signup-btn ipd-signup-btn" name="btnsignup" id="id_btn_fb_login">
-          <i class="pull-left"><img alt="Facebook" src="/images/sites/fb-button-icon.png"></i> Connect with Facebook
-          </button>                 
+		var js_page_from='signin';
+		var is_iframe='';
+		var str_get_hash_key='';
+		var str_fb_perms='email,manage_pages,publish_actions,user_managed_groups';
 				
+		window.fbAsyncInit=function(){
+			FB.init({
+				appId:js_fb_api_id,
+				status:true,
+				cookie:true,
+				xfbml:true,
+				version:'v2.8'
+			});
+		};
+
+		(function(d){
+			var js, id = 'facebook-jssdk'; 
+			if (d.getElementById(id)) return;
+			js = d.createElement('script'); 
+			js.id = id; 
+			js.async = true;
+			js.src = "//connect.facebook.net/en_US/all.js";
+			d.getElementsByTagName('head')[0].appendChild(js);
+		}(document));
 		
-     
+		$("#id_btn_fb_login,#id_btn_fb_login_pages").click(function(e){
+			e.preventDefault();
+			FB.login(function(response){
+				if(response.status!="connected") return false; // not connected to fb
+				$.ajax({
+					url:"/ajax/fblogin/",
+					data:{
+						"page":js_page_from,
+						"reload_page":window.location.href
+					},
+					type:"post",
+					success:function(responseText){
+						var json_fb_obj=$.parseJSON(responseText);
+						if(json_fb_obj.msg_type=="success"){
+							if(is_iframe==1) json_fb_obj.redr_url+="&is_iframe_signin=1";
+							if(str_get_hash_key) json_fb_obj.redr_url+="&hash_key="+str_get_hash_key;
+							window.location.href=json_fb_obj.redr_url;
+						}
+					},
+					error:function(msg){
+						//Unable to process your request
+					}
+				});
+			},{scope:str_fb_perms});
+		});
+	});
+</script>
+	
+	<button type="button" class="btn fb-btn signup-btn ipd-signup-btn" name="btnsignup" id="id_btn_fb_login">
+		<i class="pull-left"><img alt="Facebook" src="/images/sites/fb-button-icon.png"></i> Connect with Facebook
+	</button>
 </div>
 							 
-							  <div style="margin-bottom:15px;">	<button type="button" class="btn gp-btn signup-btn ipd-signup-btn" name="btnsignup" id="id_btn_gp_login">
+							  <!--<div style="margin-bottom:15px;">	<button type="button" class="btn gp-btn signup-btn ipd-signup-btn" name="btnsignup" id="id_btn_gp_login">
 		<i class="pull-left"><img alt="Google+" src="/images/sites/gp-button-icon.png"></i> Connect with Google+
 	</button>   
 
@@ -286,7 +283,7 @@ var local_storage_name = "shareist_"+js_user_id+"_" +js_site_id;
 	
 });	
 </script>
-	</div>
+	</div>-->
 							  
 							  <div style="margin-bottom:15px;">	<button type="button" class="btn tw-btn signup-btn ipd-signup-btn" name="btnsignup" id="id_btn_tw_login">
 		<i class="pull-left"><img alt="Twitter" src="/images/sites/tweet-button-icon.png"></i> Connect with Twitter
@@ -300,35 +297,8 @@ var local_storage_name = "shareist_"+js_user_id+"_" +js_site_id;
 	var is_iframe 		= '';
 	var str_get_hash_key = '';
 	$(".tw-btn").click(function(e){
-			
-				
-				var strseturl = "/ajax/twitterlogin/";
-				
-				$.ajax({
-					url: strseturl,
-					type:"post",
-					success: function(responseText) {
-						/**** SUCCESS ****/	
-						
-						var json_fb_obj = $.parseJSON(responseText);
-						
-						if(json_fb_obj.msg_type == "success")
-						{																							
-							if(is_iframe == 1)
-								json_fb_obj.redr_url += "&is_iframe_signin=1";
-							
-							if(str_get_hash_key)
-							{
-								json_fb_obj.redr_url += "&hash_key="+str_get_hash_key;
-							}			
-							
-							window.location= json_fb_obj.redr_url;
-						}									
-					}					 
-				});	
-		
-		});	// end of click
-	
+		window.location="/socialsignup?request_type=signup&service=twitter";
+	});
 });	
 </script>
 	</div>
@@ -619,7 +589,7 @@ $(function(){
 			</li>	
 		       	<li class="span2">
         	<ul class="unstyled">
-			<li class="paddB5"><h5>© 2016 Shareist</h5></li>
+			<li class="paddB5"><h5>© 2017 Shareist</h5></li>
 			<li><a href="http://www.shareist.com/" class="signup-footer margin-none"><img src="/images/sites/branding/shareist_header.png" alt="powered by Shareist"></a></li>
 		</ul>
         </li>
