@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fullpunch.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230030705id_/http%3A//www.fullpunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullpunch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140302id_/http%3A//www.fullpunch.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | EverydayKiss
 
 At Full Punch, our job is to provide you with the best stuff to Entertain you. All images on FullPunch.com are readily available and believed to be in public domain, if you find anything here that violates your copyright you may [contact us here](http://www.everydaykiss.comcontact-us/)
 
-At [www.fullpunch.com](https://web.archive.org/web/20161229193510id_/http://www.everydaykiss.com/privacy-policy/www.fullpunch.com), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.fullpunch.com](https://web.archive.org/web/20161229193510id_/http://www.everydaykiss.com/privacy-policy/www.fullpunch.com) and how it is used.
+At [www.fullpunch.com](https://web.archive.org/web/20170606003916id_/http://www.everydaykiss.com/privacy-policy/www.fullpunch.com), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.fullpunch.com](https://web.archive.org/web/20170606003916id_/http://www.everydaykiss.com/privacy-policy/www.fullpunch.com) and how it is used.
 
 ### Third Party Advertising
 
@@ -26,4 +26,4 @@ If you enjoyed this post, please Like FullPunch & become a fan!
 
 **Our Sponsors:**
 
-[](http://www.watchviral.com/)
+[](http://www.gamespoon.com/)
