@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622140556id_/http%3A//www.shaneco.com/About/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021438id_/http%3A//www.shaneco.com/About/PrivacyPolicy/%3Fnid%3DGN_Footer_PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Shane Co.
 
 Effective September 1, 2014 
 
@@ -44,7 +44,7 @@ The Help feature on most browsers will tell you how to prevent your browser from
 
 **We get information about you from third parties.** For example, social media platforms may also give us information about you. This might include getting information from social media plugins. Affiliates or other business partners may also give us information. This might include information they gathered passively. 
 
-Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices.>
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to [http://www.aboutads.info/choices.](http://www.aboutads.info/choices)
 
 We use information as disclosed and described here. 
 
@@ -64,7 +64,7 @@ To decide what is relevant to you, we use information you make available to us w
 
 We work with third parties who might help gather this information or with whom we might share your information. These third parties might link your name or email address to other information they collect. That might include past purchases made offline or online. Or, it might include online usage information. 
 
-The Self-Regulatory Program for Online Behavioral Advertising program provides consumers with the ability to opt-out of having their online behavior recorded and used for advertising purposes. If you want to opt out, visit <http://www.aboutads.info/choices.>. Your opt-out is both browser and device specific. 
+The Self-Regulatory Program for Online Behavioral Advertising program provides consumers with the ability to opt-out of having their online behavior recorded and used for advertising purposes. If you want to opt out, visit [http://www.aboutads.info/choices.](http://www.aboutads.info/choices). Your opt-out is both browser and device specific. 
 
 We Use Various Tracking Technologies. 
 
