@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prioritypass.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427032405id_/https%3A//www.prioritypass.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prioritypass.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182948id_/https%3A//www.prioritypass.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Priority Pass
 
