@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the planetf1.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125003412id_/http%3A//planetf1.com.onnet.it/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetf1.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191026id_/http%3A//www.planetf1.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : PlanetF1
+# Privacy Policy | PlanetF1 : PlanetF1
 
-We at Planet Sport Publishing, (incorporating this site and all of the sites within our network – as seen on the footer of this website), strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.  
+We at Planet Sport Publishing, (incorporating this site and all of the sites within our network – as seen on the footer of this website), strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.
+
 **Why We Need to Know About You**  
-We need to know about you so that we can provide you with information on products and services and better target our sports content offering to your interests. What we need to know about you includes your address, age and preferences.
-
-**How We Learn About You**  
+We need to know about you so that we can provide you with information on products and services and better target our sports content offering to your interests. What we need to know about you includes your address, age and preferences. **How We Learn About You**  
 What we know about you we get mostly from you. But we may also have to find out more about you from other sources in order to make sure that what we know about you is correct and complete. We do not collect personally identifiable information about you except when you specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from competitions, message boards, suggestions and transactional areas.
 
 **Your Right To Opt Out**  
