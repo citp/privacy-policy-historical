@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartageous.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119071801id_/http%3A//cartageous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartageous.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055934id_/http%3A//cartageous.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy - Cartageous
 
 **Blender Networks Inc.**
 
@@ -10,7 +10,7 @@
 
 **Our Policy:**
 
-Welcome to this website of Blender Networks Inc. (the “Company” or “we”). The Company operates the website located at  _[http://www.cartageous.com](http://www.cartageous.com/)_  (the “Site) and has created the Site to provide certain services and information to our users (“you”). This Privacy Policy sets for the Company’s policy with respect to information, including personally identifiable data (“Personal Data”) and other information that is collected from Site visitors and users of the services.
+Welcome to this website of Blender Networks Inc. (the “Company” or “we”). The Company operates the website located at [ _http://www.cartageous.com_](http://www.cartageous.com/) (the “Site) and has created the Site to provide certain services and information to our users (“you”). This Privacy Policy sets for the Company’s policy with respect to information, including personally identifiable data (“Personal Data”) and other information that is collected from Site visitors and users of the services.
 
 **Information We Collect:**
 
