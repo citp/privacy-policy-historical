@@ -1,87 +1,97 @@
-> *The following text is extracted and transformed from the sharepointmaven.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222171108id_/http%3A//sharepointmaven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharepointmaven.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055417id_/http%3A//sharepointmaven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SharePoint Maven
 
-This Privacy Policy defines the terms by which the SharePointMaven.com website (“the Website”) collects and uses personal information. SharePoint Maven, a province of Ontario, Canada corporation (“Company”) and the Website (collectively “we” or “us”) are committed to protecting the privacy and security of our visitors. By using this Website, you acknowledge that you have read and accepted our privacy practices set forth below. If you do not accept our privacy practices, then you should not continue to use this Website. This Privacy Policy is incorporated by reference into and forms part of our Terms of Use.
+**This Privacy Policy was last modified on February 20, 2017**
 
-## Confidentiality and Security of Personal Information
+SharePoint Maven is committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used and is provided by SharePoint Maven, an Ontario corporation with a principal place of business located in Ottawa, Canada. If you have requests concerning your personal information or any questions, please contact me at [greg@sharepointmaven.com](mailto:greg@sharepointmaven.com).
 
-We follow generally accepted industry standards to protect personally identifiable information sent to our Website, both during transmission and afterwards. It is your responsibility to ensure that you do not disclose your password to anyone.  
-However, despite our efforts to maintain the confidentiality and security of your account, no method of transmission over the Internet and no method of electronic storage is completely secure. Although we make every effort to protect your personal information, we cannot guarantee its absolute security.
+**If you have objections to the Privacy Policy, you should immediately discontinue use of the Web site and Services offered by SharePoint Maven.**
 
-## Personal Information We Will Collect
+## Definitions
 
-We may collect the IP address of your computer in order to enable us to detect unauthorized transactions and to better manage website traffic.  
-We may also use “cookies,” which are small data files placed and stored on your computer, to help you manage your use of our Website. Cookies are used as follows:
+  * For purposes of this Privacy Policy references to “us,” “we,” and/or “our,”  mean SharePoint Maven.
+  * References to the “Services” mean any and all services offered by us, including but not limited to SharePoint-related services, such as consulting and coaching.
+  * References to the “Web site” mean the Web site bearing the URL www.sharepointmaven.com.
+  * References to “you,” and/or “User,” mean the User of the Web site and/or the Services.
 
-1\. To recognize you as a regular user;  
-2\. To remind us of who you are;  
-3\. To estimate our audience size by determining repeat usage of the Website to help target advertisements based on user interests and behavior;  
-4\. To track your progress;  
-5\. To measure traffic patterns for use as a research tool to understand how our users habits are similar or different from one another; and  
-6\. To conduct other research.
 
-You can set your browser to notify you when you receive a cookie, in order to give you the chance to determine whether or not to accept it. If you do not accept cookies, some pages of this Website may not display properly or you may not be permitted to access certain information.
 
-## Purposes for Which We Will Use Personal Information
+## Agreement to be Bound
 
-We make every effort to identify the purposes for which we will collect personal information at or before the time the information is collected. We will use personal information only for the purposes disclosed at the time of collection or as otherwise set out in this Privacy Policy, unless we have you or the third party owner’s consent for another use, or unless such other use is authorized or required by law.
+The following Privacy Policy governs SharePoint Maven’s collection and use of its User’s private information. By accessing the Web site and/or participating in the Services you represent that you have read and understand the Privacy Policy and that you agree to be bound by thereby.
 
-## Our policy is to collect personal information for the following purposes:
+This Privacy Policy may be additionally subject to our Web site Terms and Conditions, Terms of Service or any other agreement entered into between us.
 
-1\. to maintain a commercial relationship with you and to communicate with you (which may include: providing services, advertising, promotions, and account verification);  
-2\. to identify your needs and/or preferences;  
-3\. to meet legal and regulatory requirements;  
-4\. to administer, maintain, manage, and improve our business operations; and  
-5\. as otherwise required by law.
+## Modifications and Changes to Privacy Policy
 
-## Sharing of Personal Information
+We may modify, add to, suspend or delete the Privacy Policy, in whole or in part, at our sole discretion at any time, with such modifications, additions or deletions being effective thirty (30) days following their posting to the Web site and emailing of a notice to our registered Users. Your use and/or access to the Web site and/or Services after modification, addition or deletion of the Privacy Policy shall be deemed to constitute acceptance by you of the modification, addition or deletion.
 
-This Website does not rent, trade, or share personal information with third parties, except to provide products or services, which you requested, when we have your permission, or under the following circumstances:
+## The Information We Collect
 
-1\. We may share your information with PayPal in the event you purchase a service from us.  
-2\. We may share your personal information if required by law and if we believe that the disclosure is required or necessary to protect our rights and/or comply with a judicial processing or legal process served on our Website.  
-3\. We may share personal information if we believe that it is required in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, a potential threat to the physical safety of a third party, or as otherwise required by law.  
-4\. We may transfer personal information to a third party entity in the event of an assignment of this Website for any reason. You will be notified via email of any such change in ownership or control of personal information.  
-5\. We may share personal information with our legal, financial, and other professional advisors.  
-6\. We may share personal information with website developers in the event that we are upgrading or improving our Website.  
-7\. We may share personal information with third parties upon receiving your consent as required by law.
+We collect both personally-identifiable information and non-personally-identifiable information from our Users. This information may include your full name; email address; phone number, credit card/debit card number, billing information, and your corporate contact information.
 
-Except as provided above, we will not share any personal information to any third party without permission.
+We also collect non-personally-identifiable information, such as your IP address, browser/software used to access the Web site, the Web sites you visit before/after visiting the Web site, type of device used to access the Web site, and the date and time of your visit to the Web site.
 
-## Children
+For how we respond to Do Not Track requests regarding such information, please see this Privacy Policy.
 
-We are committed to protecting the privacy of children. In furtherance of this commitment, we restrict the use of our Website to persons eighteen (18) years of age or older. We do not knowingly or intentionally collect personal information from children under the age of thirteen (13).
+## Use of Your Information and Your Preferences
 
-## CAN SPAM Act
+We may use your personally-identifiable information to personalize your User experience; to improve customer service; to process transactions; and to contact Users in order to respond to inquiries and/or to send them information and updates pertaining to an order.
 
-We are committed to adhering to the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (“CAN SPAM Act”) and the rules promulgated by the Federal Trade Commission thereunder. In compliance with those rules, we include our opt-out mechanism and postal address in each message.
+## Our Marketing Mailings and How to Opt-Out
 
-## Canada’s Anti-Spam Legislation (“CASL”)
+__We operate an email marketing program, used to inform subscribers about products and services supplied by us. Users may opt in to receiving such information via a registration form.
 
-We are committed to adhering to the Canada’s Anti-Spam Legislation (“CASL”) and the rules promulgated by the Industry Canada thereunder. In compliance with those rules, we provide express consent sign-up mechanism as well as opt-out mechanism in each message.
+Email marketing campaigns published by us may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include but shall not be limited to: the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates, and frequency of activity.  
+This information is used to refine future email campaigns and supply the User with more relevant content based around their activity.
 
-## Contact with You
+Users may opt-out or otherwise unsubscribe for our newsletter at any time via the unsubscribe link contained in the footer of each newsletter.
 
-We may use your email address to contact you from time to time, in order to send notices required by law, to provide information regarding this Website, or to resolve any complaint or suspicious transactions. We also may contact you by telephone for the same reasons. We also reserve the right to mail or email information to you about our services, to provide offers to customers, or to send out our newsletter to you. You may at any time choose to unsubscribe (or “opt-out”) of any of our mailings, by adjusting your email preferences.
+## Do Not Track (DNT) Disclosure
 
-## Changes and Updates to this Privacy Policy
+__Please note that while you may have the opportunity to opt-out of targeted advertising as discussed in the “How to Opt-Out” section above, and you may be able to control the use of cookies through your Web browser as described in the “Use of Cookies” section below, some Web browsers may also give you the ability to enable a “do not track” setting. This setting sends a special signal to the Web sites you encounter while Web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. We do not respond to Web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Policy. For more information about “do not track,” visit  [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
-We may modify this Privacy Policy at any time at our sole discretion and without prior notice. If we make any material amendments, we will advise you about those changes by notifying you in a prominent place on our Website. You should check back with us from time to time in order to confirm that there have been no significant changes.
+## Disclosures of your Information
 
-Please note that the use of information that we gather is subject to the Privacy Policy then in effect at the time of use.
+Your personal information may be used by us for the purposes provided for herein. We do not share your information with anyone who is not an employee of your company or otherwise on a need-to-know basis.
 
-## Other Legal Notices
+## Legal Disclaimer
 
-If you ever have a dispute over privacy or security, it will be subject to this Privacy Policy and our Terms of Use. We will always make every effort to resolve any concerns that you have regarding privacy that arises in connection with this Privacy Policy.
+In addition to the forgoing disclosures contained in Section 8, we reserve the right to disclose your personally-identifiable information as required by law and when believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms and Conditions or another agreement into which we have entered with you, or as otherwise required by law.
 
-## Contact Us
+## Other Web Sites
 
-If you have any questions or concerns over this Privacy Policy or if you need further information regarding the access to your personal information, or how your personal information is used, you may contact us as listed below:
+Our Web site may contain links to other Web sites or software, which are outside our control and are not covered by this Privacy Policy. If you access other Web sites and/or software using the links provided, the operators of these Web sites and/or software may collect information from you, which will be used by them in accordance with their privacy policies, which may differ from ours. Please note that this may include PayPal.com for the purposes of processing transactions.
 
-**SharePoint Maven, Inc.**  
-**info@sharepointmaven.com**
+## Cookies & Activity Tracking
 
-## Effective Date
+Our Web site does not use “cookies” or similar activity tracking technologies at this time. In the event we decide to implement such technologies in the future, we will update this section of our Privacy Policy with a Cookie Policy and notify you of the same.
 
-This Privacy Policy was last modified on **April 25, 2015**.
+## Access to and/or Modification of Your Information
+
+If you access the Web site or use the Services and volunteer personally-identifiable information, you may modify, update or delete such information by sending us an email at greg@sharepointmaven.com. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of the Web site or Services.
+
+## Privacy Protection for Children Using the Internet
+
+Protecting children’s privacy is important to us. For that reason, we do not collect or maintain information of those persons we actually know are under the age of thirteen (13) nor is any part of the Web site or the Services targeted to attract anyone under the age of thirteen (13). We request that all users of the Web site and the Services who are under the age of thirteen (13) not disclose or provide any personally-identifiable information. If we discover that a child under thirteen (13) has provided us with personally-identifiable information, we will delete that child’s personally-identifiable information from our records.
+
+## Notice to Minors
+
+In addition to protecting the privacy of children under age (13) we are committed to protect the privacy of minors. Though our Web site and Services are not targeted to minors nor is it intended to be used by minors, if, for any reason a minor has shared information via our Web site or Services said minor may request and obtain removal of such information by contacting us at greg@sharepointmaven.com. Although we offer deletion capability for our Web site and Services, you should be aware that the removal of content may not ensure complete or comprehensive removal of that content or information posted through the Web site or Services.
+
+## Data Security
+
+We take reasonable steps to maintain the security of the personally-identifiable information that we collect, including limiting access to your personally-identifiable information to management only; however, no data transmission over the Internet can be guaranteed to be completely secure. Thus, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk. Please note that non-encrypted communication using email is not secure. Thus, we cannot guarantee data security in email communication and, therefore, recommend using physical mail for confidential information.
+
+## International Transfer
+
+We operate globally so it is necessary to transfer your information internationally. In particular, your information will likely be transferred to and processed in the United States where may of our servers are located. The data protection and other laws of other countries may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By accessing our Web site or using our Services you consent to your information being collected, used and transferred as set forth in this Privacy Policy.
+
+## How to Contact Us
+
+If you have any questions or concerns about our Privacy Policy or its implementation you may contact us at greg@sharepointmaven.com.
+
+## Updates
+
+From time-to-time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personally-identifiable information by posting a notice of said changes online to the Web site and Services and by notifying registered Users via email. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.
