@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deposts.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221175702id_/http%3A//deposts.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deposts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151704id_/http%3A//deposts.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - deposts.com
 
