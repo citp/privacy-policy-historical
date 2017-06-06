@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maurices.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009002750id_/http%3A//www.maurices.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maurices.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063544id_/http%3A//mauricescareteam.custhelp.com/app/answers/detail/a_id/45) for the most accurate reproduction.*
 
-# Maurices - customer service -
+# Privacy Policy
 
 **Effective Date: July 7, 2014**
 
@@ -12,17 +12,17 @@ We review and change our privacy practices from time to time. Please review this
 
 **CONTENTS**
 
-  * Information We Collect
-  * Our Use of Information
-  * Sharing of Information
-  * Information Collected by Third Parties
-  * Promotional Communications
-  * How We Protect Personally Identifiable Information
-  * Children
-  * Consent to Transfer and Storage in the United States
-  * Updating Information and Choices
-  * Contact Us
-  * Your California Privacy Rights
+  * [Information We Collect](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#iwc)
+  * [Our Use of Information](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#oui)
+  * [Sharing of Information](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#soi)
+  * [Information Collected by Third Parties](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#3pi)
+  * [Promotional Communications](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#pc)
+  * [How We Protect Personally Identifiable Information](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#pii)
+  * [Children](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#c)
+  * [Consent to Transfer and Storage in the United States](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#tsus)
+  * [Updating Information and Choices](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#uic)
+  * [Contact Us](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#cu)
+  * [Your California Privacy Rights](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#cpr)
 
 
 
@@ -54,7 +54,7 @@ The methods used to collect Usage Information may include:
 
 _Cookies._ "Cookies" and "Flash cookies" are small files placed on your device to make your shopping experience more efficient, convenient, and personalized. Through the use of these cookies, we and our third-party service providers may automatically collect Usage Information, enable features, or remember your preferences.
 
-Many web browsers allow you to remove or reject cookies. However, these tools may not affect Flash cookie preferences. For more information about disabling Flash cookies, see [www.adobe.com](http://www.adobe.com/). If you choose to disable cookies or Flash cookies, some features of the Sites may not function properly, including the shopping cart and ordering processes. 
+Many web browsers allow you to remove or reject cookies. However, these tools may not affect Flash cookie preferences. For more information about disabling Flash cookies, see [www.adobe.com](http://www.adobe.com/). If you choose to disable cookies or Flash cookies, some features of the Sites may not function properly, including the shopping cart and ordering processes.
 
 _Web Beacons._ Small graphic images or other web programming code called web beacons (also known as "1x1 GIFs" or "clear GIFs") may be included in our Sites and in email messages. Web beacons may be invisible to you. Web beacons or similar technologies may be used for a number of purposes, including to count visitors to the Site, to monitor how users navigate the Site, to count how many emails that were sent were actually opened, or to count how many particular articles or links were actually viewed.
 
@@ -70,7 +70,7 @@ Our primary purpose for collecting PII is for maurices to provide you with a saf
   * To verify your eligibility for, and to provide you with, products and services;
   * To contact you regarding any problems with your merchandise order or account;
   * To help us serve you better, enhance, and personalize your shopping experience;
-  * To provide you with information about other products and services which may be of interest to you (for information about how to manage these communications, see Updating My Information and Choices;
+  * To provide you with information about other products and services which may be of interest to you (for information about how to manage these communications, see [Updating My Information and Choices](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#uic);
   * To manage and develop our business and operations, generate statistics and aggregate reports, and for internal business purposes;
   * To meet legal and regulatory requirements;
   * To detect and troubleshoot problems, resolve disputes, and enforce applicable agreements and policies for the Sites; and
@@ -83,8 +83,8 @@ Our primary purpose for collecting PII is for maurices to provide you with a saf
 We may share information, including PII, about you as follows:
 
   * With third-party service providers who may assist us in operating the Sites or with marketing or administrative tasks, including creation and distribution of marketing, delivering packages, analyzing data and providing Site analytics, providing search results and links (including paid listings and links), processing credit card payments, powering certain features within a Site, and providing customer service. In those situations, the outside company is performing work for maurices, and maurices takes appropriate steps designed to ensure your privacy and that your PII is used only to provide the services requested by us, and not for other purposes.
-  * With Ascena Retail Group, Inc. (the parent company of maurices), other brands owned by Ascena Retail Group, and our business partners for their own marketing (including direct marketing) purposes, unless you opt out as described in Updating My Information and Choices.
-  * With third-parties for purposes of sending their own direct marketing messages, unless you opt out as described in Updating My Information and Choices.
+  * With Ascena Retail Group, Inc. (the parent company of maurices), other brands owned by Ascena Retail Group, and our business partners for their own marketing (including direct marketing) purposes, unless you opt out as described in [Updating My Information and Choices](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#uic).
+  * With third-parties for purposes of sending their own direct marketing messages, unless you opt out as described in [Updating My Information and Choices](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#uic).
   * With third-parties who sponsor or co-sponsor with maurices a sweepstakes, contest, or other prize promotion in which you choose to participate. We also will disclose publicly information about the winner(s) of a prize promotion.
   * When we believe release is appropriate to ensure compliance with the law and the safety and security of our Sites, including in response to legal process and law enforcement requests; to enforce or apply our policies and other agreements; or to protect the rights, property, safety or other interests of maurices, our parent company, affiliates and shareholders, or any other organization or individual. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
   * If maurices goes through a business transition, including a merger, acquisition, sale of all or substantially all of our assets, or any other change in corporate structure, including, without limitation, during the course of any due diligence process.
@@ -97,9 +97,11 @@ Information about you may also be collected and stored by third parties, and it 
 
 **_Analytics Providers and Ad Servers._** We work with vendors (including network advertisers, ad agencies, and analytics companies) to provide us with information regarding traffic on the Site, to serve our advertisements elsewhere online, and to provide us with information regarding the use of the Sites and the effectiveness of our advertisements. For example, if you clicked on one of our advertisements that led you to the Site, our service provider(s) may be able to tell us which advertisement you clicked on and where you were viewing the advertisement.
 
-In connection with serving content and providing analytics and advertisement services, third parties may collect certain information about your visits to the Sites or other websites. These third parties may set and access their own tracking technologies such as those identified above and may otherwise collect or have access to your device identifier, Usage Information, and related information about you. We may share device identifier and Usage Information about visitors with third-party advertising companies, analytics providers, and other vendors for similar purposes.
+In connection with serving content and providing analytics and advertisement services, third parties may collect certain information about your visits to the Sites or other websites. These third parties may set and access their own tracking technologies such as those identified [above](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#iwc) and may otherwise collect or have access to your device identifier, Usage Information, and related information about you. We may share device identifier and Usage Information about visitors with third-party advertising companies, analytics providers, and other vendors for similar purposes.
 
 _Tracking Technologies._ Tracking technologies, including those set by third-party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. At this time, we do not respond to browser-based "do not track" signals, but some of the variety of service providers we use to perform advertising and analytics services may be members of the Network Advertising Initiative ("NAI") or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You may want to visit <http://www.networkadvertising.org/managing/opt_out.asp>, which provides information regarding targeted advertising and the "opt-out" procedures of NAI members. You may also want to visit or <http://www.aboutads.info/choices/>, which provides information regarding targeted advertising and offers an "opt-out" by participating companies in the DAA Self-Regulatory Program. Please note opting out through these mechanisms does not opt you out of being served advertising. You will continue to receive generic ads while online.
+
+We may also use technologies, such as our own cookies, to provide you with relevant online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](http://dtmc.maurices.com/adinfo/choice/prod/?type=fpc&cid=61636&cname=Maurices&cmagic=499136&clogo=61636.png&loc=us&lang=en-us). 
 
 **_Social Features and User Content._** If you choose to utilize Social Features or submit User Content, certain information, such as your name, may be displayed in association with that action. If you choose to voluntarily disclose PII, that information will be considered public information and the protections of this Privacy Policy will not apply. We cannot control the use of information disclosed in public forums. You should exercise caution when disclosing information in these public areas and be careful how you disclose your PII.
 
@@ -109,7 +111,7 @@ _Tracking Technologies._ Tracking technologies, including those set by third-par
 
 **5\. Promotional Communications**
 
-We may send you emails and/or other promotional information if we have collected your information in any of the ways described above. We will send you text messages only if you sign up to receive text communications. If at any time you do not want to continue to receive information, emails, texts, or mailings, you may change your preferences as described in Updating My Information and Choices.
+We may send you emails and/or other promotional information if we have collected your information in any of the ways described above. We will send you text messages only if you sign up to receive text communications. If at any time you do not want to continue to receive information, emails, texts, or mailings, you may change your preferences as described in [Updating My Information and Choices](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/45#uic).
 
 **6\. How We Protect Personally Identifiable Information**
 
@@ -125,19 +127,16 @@ Your information is stored on servers located in the United States. If you are l
 
 **9\. Updating Information and Choices**
 
-The Sites may contain webpages through which you can correct or update some of the PII you have provided or through which you may be able to unsubscribe or modify the email newsletters or similar communications we send to you. To opt out of PII sharing [click here](http://www.maurices.com/family/index.jsp?categoryId=42007836). To opt out of marketing email messages [click here](http://www.maurices.com/helpdesk/index.jsp?display=account&subdisplay=unsubscribe). You may also contact us through the information provided below under [Contact Us](http://www.maurices.com/helpdesk/index.jsp?display=store&subdisplay=corpContact). maurices will make requested changes in our active databases as soon as reasonably practicable. Note, however, that information you update or change may persist internally or for maurices' administrative purposes. It is not always possible to completely remove or delete all of your information from our databases, and residual data may remain on backup media or for other reasons. Also, if you have made any public postings, these communications generally will not be removed. You can also unsubscribe from marketing emails through the opt-out mechanism included in each marketing email we send to you. Note that we reserve the right to send you certain email or postal communications relating to your use of our Site, service announcements, notices of changes to this Privacy Policy, or similar administrative or transactional messages, and these transactional account messages may be unaffected if you choose to opt-out from marketing communications. If you sign up to receive SMS or MMS messages that may be offered on the Sites, you may unsubscribe by replying "STOP." 
+The Sites may contain webpages through which you can correct or update some of the PII you have provided or through which you may be able to unsubscribe or modify the email newsletters or similar communications we send to you. To opt out of PII sharing [click here](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/56/session/L2F2LzEvdGltZS8xNDkzMzEwMDM0L3NpZC9mVUp4dnlZJTdFVTVkSTZoSHJXUUR4VHdtQm5JS1Y5S21LY0ZoWkplMHRRZjNlTlpJUzZGd2FrM3lsaXhmc3liT0cwTmRTcUZFcllWSl9Lek9VVm93REkwT2NINlF4TkRLV09GUjJVS3VucEVvc0RlRmVUZDRJazVjdyUyMSUyMQ%3D%3D). To opt out of marketing email messages [click here](http://mauricescareteam.custhelp.com/app/answers/detail/a_id/42/session/L2F2LzEvdGltZS8xNDkzMzEwMDM0L3NpZC9mVUp4dnlZJTdFVTVkSTZoSHJXUUR4VHdtQm5JS1Y5S21LY0ZoWkplMHRRZjNlTlpJUzZGd2FrM3lsaXhmc3liT0cwTmRTcUZFcllWSl9Lek9VVm93REkwT2NINlF4TkRLV09GUjJVS3VucEVvc0RlRmVUZDRJazVjdyUyMSUyMQ%3D%3D). You may also contact us through the information provided below under [Contact Us](http://mauricescareteam.custhelp.com/app/contact/session/L2F2LzEvdGltZS8xNDkzMzEwMDM0L3NpZC9mVUp4dnlZJTdFVTVkSTZoSHJXUUR4VHdtQm5JS1Y5S21LY0ZoWkplMHRRZjNlTlpJUzZGd2FrM3lsaXhmc3liT0cwTmRTcUZFcllWSl9Lek9VVm93REkwT2NINlF4TkRLV09GUjJVS3VucEVvc0RlRmVUZDRJazVjdyUyMSUyMQ%3D%3D). maurices will make requested changes in our active databases as soon as reasonably practicable. Note, however, that information you update or change may persist internally or for maurices' administrative purposes. It is not always possible to completely remove or delete all of your information from our databases, and residual data may remain on backup media or for other reasons. Also, if you have made any public postings, these communications generally will not be removed. You can also unsubscribe from marketing emails through the opt-out mechanism included in each marketing email we send to you. Note that we reserve the right to send you certain email or postal communications relating to your use of our Site, service announcements, notices of changes to this Privacy Policy, or similar administrative or transactional messages, and these transactional account messages may be unaffected if you choose to opt-out from marketing communications. If you sign up to receive SMS or MMS messages that may be offered on the Sites, you may unsubscribe by replying "STOP."
 
 **10\. Contact Us**
 
 _By mail:_ maurices Online Customer Service, 105 W Superior St., Duluth, MN 55802
 
-_By email:_ [onlineservice@maurices.com](mailto:onlineservice@maurices.com)
+_By email:_ [customerservice@maurices.com](mailto:customerservice@maurices.com)
 
 _By phone:_ 1-866-977-1542
 
 **11\. Your California Privacy Rights**
 
-Under California law, you may request information about how we have shared your information with third parties for direct marketing purposes. You may make the request by either (a) sending a written request via email to [onlineservice@maurices.com](mailto:onlineservice@maurices.com) and writing "Privacy Policy" in the subject line; or (b) sending a written request via postal mail to: Maurices Online Customer Service, 105 W Superior St., Duluth, MN 55802. In response to your written request, we may provide you with a notice describing the cost-free means to opt-out of our direct marketing promotions and/or other third party information sharing.
-
-  
-
+Under California law, you may request information about how we have shared your information with third parties for direct marketing purposes. You may make the request by either (a) sending a written request via email to [customerservice@maurices.com](mailto:customerservice@maurices.com) and writing "Privacy Policy" in the subject line; or (b) sending a written request via postal mail to: Maurices Online Customer Service, 105 W Superior St., Duluth, MN 55802. In response to your written request, we may provide you with a notice describing the cost-free means to opt-out of our direct marketing promotions and/or other third party information sharing.
