@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecanary.co privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016151842id_/http%3A//www.thecanary.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecanary.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173750id_/http%3A//www.thecanary.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Canary
 
@@ -10,7 +10,7 @@ At CML we collect different types of information about our users for four main r
 
   1. To provide personalised services unique to individual users.
   2. To help us to monitor and improve the services we offer
-  3. To sell advertising space on the site, the income from which is used to **[support us](http://www.thecanary.co/support-us/)** in our mission to build a new media and distributed to our writers based on **[our values](http://www.thecanary.co/values/)**.
+  3. To sell advertising space on the site, the income from which is used to **[support us](https://www.thecanary.co/support-us/)** in our mission to build a new media and distributed to our writers based on **[our values](https://www.thecanary.co/values/)**.
   4. If we have permission from the user, to market services to them.
 
 
@@ -81,7 +81,7 @@ We use cookies for a number of reasons.
 
 
 
-For more information please visit our  **[Cookies policy](http://www.thecanary.co/cookies/)**.
+For more information please visit our  **[Cookies policy](https://www.thecanary.co/cookies/)**.
 
 By using the sites you are agreeing to the use of cookies as described.
 
@@ -89,7 +89,7 @@ By using the sites you are agreeing to the use of cookies as described.
 
 Our sites contain links to other websites from which we may earn revenue. Our articles are never influenced by advertisers or affiliates, nor are they written for the purpose of promoting a product.
 
-In order to deliver The Canary as a free, open and accessible publication we make use of advertising to generate revenue to cover costs and to compensate [our team](http://www.thecanary.co/team/) for the work they do. In order to provide the most relevant and highest performing advertisements we may use statistical behaviour of our visitors to identify the most valid adverts. The behavioural analysis we perform is anonymous and records preferences around articles they may read and sections they may find interesting and not who they are.
+In order to deliver The Canary as a free, open and accessible publication we make use of advertising to generate revenue to cover costs and to compensate [our team](https://www.thecanary.co/team/) for the work they do. In order to provide the most relevant and highest performing advertisements we may use statistical behaviour of our visitors to identify the most valid adverts. The behavioural analysis we perform is anonymous and records preferences around articles they may read and sections they may find interesting and not who they are.
 
 We may also share anonymised behavioural data with advertising partners. This may mean that when you are on other websites, you will be shown advertising based on your behaviour on thecanary.co. We may also show you advertising on our site based on your behaviour on other sites.
 
