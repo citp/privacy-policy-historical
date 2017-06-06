@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesellingfamily.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121184150id_/http%3A//thesellingfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesellingfamily.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171008id_/http%3A//thesellingfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Selling Family
 
