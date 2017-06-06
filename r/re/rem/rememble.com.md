@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rememble.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120152047id_/http%3A//rememble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rememble.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145646id_/http%3A//www.rememble.com/privacy) for the most accurate reproduction.*
 
 # Rememble
 
