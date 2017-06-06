@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantestore.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626145159id_/http%3A//www.instantestore.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantestore.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171357id_/https%3A//instantestore.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # InstanteStore Privacy Policy
 
@@ -79,10 +79,11 @@ This policy was last modified on 23rd August 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[http://www.instantestore.com/ecommerce-support.cfm](https://web.archive.org/web/20140626145159id_/http%3A//www.instantestore.com/ecommerce-support.cfm)  
+[http://www.instantestore.com/ecommerce-support.cfm](https://web.archive.org/web/20170606171357id_/https%3A//instantestore.com/ecommerce-support.cfm)
+
 eSolved MSC Sdn. Bhd.  
 6th Floor Hotel Royal Penang  
 3 Jalan Larut  
-10050 Georgetown  
-Penang, Malaysia  
+Georgetown, Penang  
+10050, Malaysia  
 [support@instantestore.com](mailto:support@instantestore.com)
