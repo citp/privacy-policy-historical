@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastimag.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123103822id_/http%3A//www.mastimag.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastimag.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121303id_/http%3A//www.mastimag.io/privacy) for the most accurate reproduction.*
 
 # Privacy ― Download and Play Hindi Bollywood MP3 Songs Music - MastiMag.io
 
@@ -17,10 +17,6 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-#### Create new
-
-Playlist title
 
 #### Someting went wrong, try later
 
