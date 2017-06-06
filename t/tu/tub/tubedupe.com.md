@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tubedupe.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222171557id_/http%3A//tubedupe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubedupe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150225id_/http%3A//tubedupe.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy @ Tubedupe
+# ▶ Privacy Policy @ TubeDupe
 
-## PRIVACY POLICY
+## __PRIVACY POLICY
 
-Effective Year:2015   
+Effective Year:2017   
 Last Modified: 16 December, 2011   
-Sites Covered: tubedupe.com, m.tubedupe.com 
+Sites Covered: tubedupe.com 
 
   * I. **General**
     * A.The operative parties referred to in this policy are Company and You, the User of this site. 
@@ -45,4 +45,5 @@ Sites Covered: tubedupe.com, m.tubedupe.com
   * XI. **Where to Direct Questions About Our Privacy Policy.**
   * If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [support@tubedupe.com](mailto:support@tubedupe.com).
 
+  
 
