@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stepchange.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118060056id_/http%3A//www.stepchange.org/Legal/Privacyandcookiespolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepchange.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231109id_/https%3A//www.stepchange.org/Legal/Privacyandcookiespolicy.aspx) for the most accurate reproduction.*
 
-# Privacy & cookies policy | Legal |StepChange (CCCS) debt advice charity
+# Privacy & Cookie Policy. StepChange Debt Charity
 
 We are committed to respecting and protecting your privacy.
 
@@ -30,7 +30,7 @@ Cookies are small data files that are sent to your browser. We use these to coll
 
 Cookies can be deleted from your computer and if you wish you may set your browser not to receive cookies in future. For more information on how to control cookies on your machine, read this guide.
 
-[www.aboutcookies.org/Default.aspx](http://www.aboutcookies.org/Default.aspx?page=1)
+<http://www.aboutcookies.org/>
 
 The information that the cookies collect is used to monitor the usage and measure the performance of the service that the Site offers.
 
