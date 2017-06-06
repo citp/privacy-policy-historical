@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinavasion.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113104209id_/https%3A//www.chinavasion.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinavasion.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170618id_/https%3A//www.chinavasion.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Chinavasion Privacy Policy - Data Protection and Security at China's No.1 Wholesaler
 
