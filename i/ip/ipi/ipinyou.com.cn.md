@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipinyou.com.cn privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224140414id_/http%3A//www.ipinyou.com.cn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipinyou.com.cn privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145907id_/http%3A//www.ipinyou.com.cn/privacy) for the most accurate reproduction.*
 
 # iPinYou
 
@@ -58,4 +58,4 @@ The Platform uses cookies, beacons, tags, mobile SDKs, and in some cases non-coo
 
 Ipinyou uses the information collected on the Platform to provide, operate, manage, maintain, and enhance the Platform.The Platform enables Ipinyou's clients to use their Platform Data to buy and sell online advertising, including interest-based advertising, using real-time transactions.
 
-You have the option to accept or reject cookies. You can modify your browser settings to reject cookies. However, if you choose to decline cookies, you may not use the Ipinyou’s service or functionality relied on cookies. **Please click to choose whether to disable Cookies** ([ Yes ](http://stats.ipinyou.com/optout-en.html)/ No).
+You have the option to accept or reject cookies. You can modify your browser settings to reject cookies. However, if you choose to decline cookies, you may not use the Ipinyou’s service or functionality relied on cookies. **Please click to choose whether to disable Cookies** ([ Yes ](https://stats.ipinyou.com/optout-en.html)/ No).
