@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade-a-plane.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212192120id_/http%3A//www.tappublishing.com/static/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-a-plane.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145120id_/http%3A//www.tappublishing.com/static/Privacy-Policy.html) for the most accurate reproduction.*
 
 # TAP Publishing Company
 
@@ -19,9 +19,6 @@ As our businesses continue to evolve, we might sell one or more of our companies
 
 **Protection of Our Website and Others:**  
 We reserve the right to release personally identifiable information to unaffiliated third parties when we believe its release is appropriate to comply with the law, enforce or apply our Terms and Conditions and other agreements, or protect the rights, property or safety of TAP Publishing Company, our users or others. This includes exchanging information with other unaffiliated third parties in connection with fraud protection and credit risk reduction.
-
-**With Your Consent:**  
-Other than as set out above, you will receive notice and have the opportunity to withhold consent when personally identifiable information about you might be shared with unaffiliated third parties. 
 
 **Your Options Regarding Personally Identifiable Information**  
 Except where we believe the release of your personally identifiable information is necessary or appropriate (a) to allow third party service provider functions on our behalf or (b) to comply with law, enforce or apply our Terms and Conditions and other agreements, or protect the rights, property or safety of TAP Publishing Company, our users or others, you may opt out of our sharing of your personally identifiable information with unaffiliated third parties by completing our Email Opt Out Form.
