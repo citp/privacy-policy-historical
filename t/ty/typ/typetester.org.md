@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the typetester.org privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908171848id_/https%3A//www.typetester.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typetester.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160754id_/https%3A//www.typetester.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Typetester
-
-More legal stuff
 
 **We don’t collect your personal information** , unless you provide it to us via web forms on this website (for example, when signing-up, signing-in, sending a message, subscribing to our newsletter etc.)
 
