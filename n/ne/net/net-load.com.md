@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net-load.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211190644id_/http%3A//net-load.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-load.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152456id_/http%3A//net-load.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NET-LOAD
 
@@ -29,7 +29,7 @@ We use personally identifiable information collected through the Service for the
 • to request feedback and to otherwise contact you about your use of the Service and Apps;  
 • to respond to your emails, questions, comments, requests and complaints, and to provide customer service;  
 • to monitor and analyze Service usage and trends;  
-• to personalize and improve the Service, and our users’ experiences with the Service (such as providing content or features that match interests), and to increase the Service’s functionality and user friendliness;  
+• to personalize and improve the Service, and our users' experiences with the Service (such as providing content or features that match interests), and to increase the Service's functionality and user friendliness;  
 • to send you confirmations, updates, security alerts, additional information about our products and services and support and administrative messages, and otherwise facilitate your use of, and our administration and operation of, the Service . When sending marketing information about our services or products, we will only use your email address used during registration; we will not use other email addresses you may have provided to us, for instance in a feedback form, to send marketing emails;  
 • to notify you about important changes to the Service and Apps.
 
@@ -53,7 +53,7 @@ We will retain your information for as long as your account is active or as need
 
 Links to Other Websites
 
-The Service may contain links to other websites. Any personally identifiable information you provide on the linked pages is provided directly to that third- party and is subject to that third- party’s privacy policy. This Policy does not apply to such linked websites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other websites that are linked to/from the Service. We encourage you to learn about their privacy and security practices and policies before providing them with personally identifiable information.
+The Service may contain links to other websites. Any personally identifiable information you provide on the linked pages is provided directly to that third- party and is subject to that third- party's privacy policy. This Policy does not apply to such linked websites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other websites that are linked to/from the Service. We encourage you to learn about their privacy and security practices and policies before providing them with personally identifiable information.
 
 What Steps Do We Take To Protect Your Information Online?
 
