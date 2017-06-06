@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206113225id_/http%3A//fidm.edu/en/college%2Bpolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104122id_/http%3A//fidm.edu/en/college%2Bpolicies) for the most accurate reproduction.*
 
 # en | FIDM.edu
 
@@ -36,7 +36,7 @@ _**Affirmative Consent**_
 In alignment with California statute, FIDM’s policy concerning sexual assault, domestic violence, dating violence, and stalking, includes an affirmative consent standard in the determination of whether consent was given by both parties to sexual activity.  “Affirmative consent” means affirmative, conscious, and voluntary agreement to engage in sexual activity.   It is the responsibility of each person involved in the sexual activity to ensure that he or she has the affirmative consent of the other or others to engage in the sexual activity.  Lack of protest or resistance does not mean consent, nor does silence mean consent.  Affirmative consent must be ongoing throughout a sexual activity and can be revoked at any time.  The existence of a dating relationship between the persons involved, or the fact of past sexual relations between them, should never by itself be assumed to be an indicator of consent.
 
 [FIDM Sexual Misconduct Grievance Policy and Procedures](https://web.archive.org/wps/wcm/connect/75abbbe5-8d2b-4e53-8ea5-9475c61ddb46/FIDM%2BSexual%2BMisconduct%2BGrieveance%2BPolicy%2Band%2BProcedures%2Brev+9.2016+v2.pdf?MOD=AJPERES&CVID=ltpqKdo&CVID=ltpqKdo) (PDF)  
-[Reporting Options and Resources for Sexual Assault and Relationship Violence](https://web.archive.org/wps/wcm/connect/6aa31ad6-865b-4407-ac2b-0e74de3b774a/Reporting%2BOptions%2BPacket%2Brev%2B1.2016.pdf?MOD=AJPERES&CVID=l91lp71&CVID=l91lp71) (PDF)  
+[Reporting Options and Resources for Sexual Assault and Relationship Violence](https://web.archive.org/wps/wcm/connect/6aa31ad6-865b-4407-ac2b-0e74de3b774a/Reporting%2BOptions%2BPacket%2Brev%2B5.2017.pdf?MOD=AJPERES&CVID=lLUOp13&CVID=l91lp71) (PDF)  
 [Sexual Assault Risk Reduction Tips](https://web.archive.org/wps/wcm/connect/25f2f8c9-1a7a-4062-8109-19b29182ef7b/Sexual+Assault+Risk+Reduction+Tips+Rev+1.2016.pdf?MOD=AJPERES&CVID=l91m4Mm&CVID=l91m4Mm) (PDF)
 
 ##### __Non-Discrimination Policy
