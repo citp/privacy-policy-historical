@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfhsnetwork.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235855id_/http%3A//www.nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfhsnetwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020810id_/http%3A//www.nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Live high school sports video and live stats on the NFHS Network | NFHSNetwork.com
 
@@ -42,6 +42,10 @@ Information we may collect automatically on our site and other user interfaces:
 ## Newsletters and Promotional Emails
 
 We may use your e-mail address or other methods to send you newsletters, as well as messages about new website features, special offers, promotional announcements, consumer surveys and other correspondence concerning our service. If you no longer want to receive marketing promotions from us, simply use your account name and password to access your account information on our website and uncheck those items to unsubscribe or click on the unsubscribe link in our email communications. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.
+
+## NFHS Network Rewards
+
+The NFHS Rewards program connects NFHS subscribers with third party providers offering certain products or services. The NFHS Network is not responsible for products or services purchased or obtained through the NFHS Network Rewards program and does not make any guarantee, warranty, or representation of any kind regarding products or services purchased through the NFHS Network Rewards program, including but not limited to, warranties of merchantability or fitness for a particular purpose.  The NFHS Network does not endorse any provider of goods or services through the NFHS Network Rewards program.  You may be subject to additional terms and conditions, warranties, or other requirements of the merchant, manufacturer, or other provider of Rewards. You release and hold NFHS Network, and all parties associated with the NFHS Network Rewards Program harmless from any claim, liability, or damage relating to the Program or your use of NFHS Network Rewards program products or services.
 
 ## Disclosure of Information
 
