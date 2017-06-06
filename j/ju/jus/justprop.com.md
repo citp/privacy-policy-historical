@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justprop.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123012225id_/http%3A//www.justprop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justprop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103811id_/http%3A//www.justprop.com/privacy-policy) for the most accurate reproduction.*
 
 # JustProp - About Us
 
@@ -65,8 +65,3 @@ This policy was last modified on 10-09-2016
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-[www.justprop.com](http://www.justprop.com/)   
-1st floor , Express Trade Tower 2   
-NOIDA, Uttar Pradesh 201301   
-India
