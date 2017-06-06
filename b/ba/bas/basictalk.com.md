@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basictalk.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122102805id_/http%3A//www.basictalk.com/privacy-policy%3Frefer_id%3DBTPPP0312130001W1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basictalk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144214id_/http%3A//www.basictalk.com/privacy-policy%3Frefer_id%3DBTPPP0312130001W1) for the most accurate reproduction.*
 
 # BasicTalk | Privacy Policy
 
@@ -46,7 +46,7 @@ Subject to certain security requirements, BasicTalk will do its best to honor re
 
 **Children's Privacy Policy**
 
-BasicTalk does not sell products or services for purchase by children. BasicTalk does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to BasicTalk, [report this to us](https://support.basictalk.com/app/ask).
+BasicTalk does not sell products or services for purchase by children. BasicTalk does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to BasicTalk, [report this to us](https://support.basictalk.com/ask).
 
 **BasicTalk Spam Policy**
 
@@ -60,7 +60,7 @@ BasicTalk does not assume, and expressly disclaims, any liability for third part
 
 **Opt-out Policy**
 
-If you do not want your PII used by BasicTalk for any direct marketing purposes, then you may opt-out of such disclosures by sending an email via [https://support.basictalk.com/app/ask](https://support.basictalk.com/app/ask).
+If you do not want your PII used by BasicTalk for any direct marketing purposes, then you may opt-out of such disclosures by sending an email via [https://support.basictalk.com/ask](https://support.basictalk.com/ask).
 
 However, we are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy. Since BasicTalk must use a Customer's PII in order to provide them with BasicTalk services, Customers cannot opt-out of all uses of their PII unless they cancel their service.
 
