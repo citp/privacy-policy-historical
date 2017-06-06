@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the ineedmotivation.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201020749id_/http%3A//www.ineedmotivation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedmotivation.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044759id_/http%3A//ineedmotivation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - INeedMotivation.com
+# Privacy Policy – INeedMotivation
 
-The web site you have entered is operated by INeedMotivation, Inc.  
-Last Updated: December 28th 2010
+Last Updated: January 25th 2017
 
 INeedMotivation.com want to help you make the most of your visit to our web site, and that includes helping to protect your personal privacy. Most of the features on our web site are offered without collecting any Personal Information from you. You can surf our site and view much of our content anonymously. For those areas of our web site and services that do require us to collect Personal Information, this Privacy Policy will tell you what you need to know to make good decisions for yourself and your family.
 
@@ -16,18 +15,18 @@ As used in this Privacy Policy, Personal Information means personally identifiab
 Collection of Personal Information  
 INeedMotivation.com collects Personal Information from visitors to our web site in the following ways:
 
-\- Subscriptions to our free daily, weekly, and monthly newsletters, which include updates, special offers and promotions from INeedMotivation.com.  
-\- Purchases of merchandise (including course downloads), Streaming audio and video courses & seminars, personal & business coaching, and transactions where home delivery is required.  
-\- E-mail transmitted via various links on our web sites.
+– Subscriptions to our free daily, weekly, and monthly newsletters, which include updates, special offers and promotions from INeedMotivation.com.  
+– Purchases of merchandise (including course downloads), Streaming audio and video courses & seminars, personal & business coaching, and transactions where home delivery is required.  
+– E-mail transmitted via various links on our web sites.
 
 The use of any of these services is entirely optional and voluntary; however, if you do not provide the Personal Information requested, we may elect to not make the related services available for your use. If you send us an e-mail in which you disclose Personal Information, we will use it to discuss the subject of your correspondence and, if appropriate, share it with other parties (such as merchant processor of your payment like Paypal, Google, or Moneris).
 
 If you send us an e-mail, you should know that e-mail is not necessarily secure against interception. So, if your communication needs to include sensitive information like your bank account, credit card, or social security number, please contact us by postal mail or telephone (See Contact Us Page) rather than e-mail.
 
 Cookies  
-INeedMotivation.com uses www.opentracker.net to collect and analyze traffic on our site. This information helps us understand customer interests and helps us improve our website. A cookie is used to store small amounts of information. This information is collected for traffic analysis only. The cookie does not contain personal details. Opentracker does not sell, give, or trade the statistics they store to any 3rd parties for data-mining or marketing purposes.
+INeedMotivation.com uses Google Analytics to collect and analyze traffic on our site. This information helps us understand customer interests and helps us improve our website. A cookie is used to store small amounts of information. This information is collected for traffic analysis only. The cookie does not contain personal details. Google Analytics does not sell, give, or trade the statistics they store to any 3rd parties for data-mining or marketing purposes.
 
-In order to track your use of the site, "cookies" may be employed. Cookies are pieces of information that are sent by web sites and stored in your computer's hard drive, which provide you a service by allowing us to recognize your computer to save you from having to re-enter the same data every time you visit our web sites. They also allow us to learn how visitors use our web site. This user data is aggregated for tracking purposes primarily by tallying pages viewed throughout our web sites and logging Internet Protocol (IP) addresses and browser types.
+In order to track your use of the site, “cookies” may be employed. Cookies are pieces of information that are sent by web sites and stored in your computer’s hard drive, which provide you a service by allowing us to recognize your computer to save you from having to re-enter the same data every time you visit our web sites. They also allow us to learn how visitors use our web site. This user data is aggregated for tracking purposes primarily by tallying pages viewed throughout our web sites and logging Internet Protocol (IP) addresses and browser types.
 
 Aggregated usage data enables us to tailor our content to our visitors interests. This information does not reveal your identity although, in some cases, we may have to combine this non-identifiable information with Personal Information to protect our service, web site, visitors or others.
 
@@ -37,12 +36,12 @@ Visitors From Outside the United States & Canada
 All Personal Information collected at our web site is collected and stored in the United States as well as in Canada. By submitting Personal Information to this web site, you are consenting to the storage of your Personal Information in the United States, as well as in Canada.
 
 How We Use Your Information  
-We limit the manner in which your Personal Information is used. We use Personal Information to provide you the products and services you want, to better understand and serve the needs of the INeedMotivation.com community, and to provide news and information to community members on new content, products and features of the web site via direct e-mail. If you have registered with us and do not want to be contacted in the future by INeedMotivation.com, please contact us to "Opt Out".
+We limit the manner in which your Personal Information is used. We use Personal Information to provide you the products and services you want, to better understand and serve the needs of the INeedMotivation.com community, and to provide news and information to community members on new content, products and features of the web site via direct e-mail. If you have registered with us and do not want to be contacted in the future by INeedMotivation.com, please contact us to “Opt Out”.
 
 Finally, please note that we will release your Personal Information if required to do so by law, or by search warrant, subpoena or court order.
 
 Links to Third Party Web Sites  
-Please be advised that this web site contains certain hyperlinks to other web sites, some of which may display INeedMotivation.com's logos and content. These web sites may have privacy policies; however, all of these web sites and their privacy policies are independent of our web sites or this Privacy Policy. INeedMotivation.com is not responsible for compliance with other web sites privacy policies or data collection practices. You should review these privacy policies carefully before providing any Personal Information to these web sites.
+Please be advised that this web site contains certain hyperlinks to other web sites, some of which may display INeedMotivation.com’s logos and content. These web sites may have privacy policies; however, all of these web sites and their privacy policies are independent of our web sites or this Privacy Policy. INeedMotivation.com is not responsible for compliance with other web sites privacy policies or data collection practices. You should review these privacy policies carefully before providing any Personal Information to these web sites.
 
 Limitations on Use of Personal Information  
 We will only use or retain your Personal Information in accordance with the terms of this Privacy Policy, and only for so long as is needed to fulfill your requests, support the services you have requested, process your orders, or comply with the law.
