@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tigerair.com.au privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627213438id_/https%3A//tigerair.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerair.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172613id_/https%3A//tigerair.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | tigerair
+# Privacy Policy | tigerair Australia
 
   1. About this policy
   2. Collecting your personal information
@@ -64,7 +64,7 @@ We may also collect personal information about you from someone other than you.�
   * a person who makes or changes a flight or other booking on your behalf or who otherwise interacts with us on your behalf (such as travel or booking agents, or your employer or other representative as part of a corporate or [group booking](http://www.tigerair.com/au/en/privacy.php#group_booking));  
   * recruitment agencies and previous employers, if you have applied for a position with us and with your consent;  
   * our related entities;
-  * our service providers and contractors (such as ground handlers, call centre operator, marketing agencies and payment fulfilment and processing providers);
+  * our service providers and contractors (such as ground handlers, customer contact centre operator, marketing agencies and payment fulfilment and processing providers);
   * if you are Velocity member, from Velocity Frequent Flyer Pty Ltd and Velocity Rewards Pty Ltd (as trustee of the Loyalty Trust) (collectively, **Velocity** );
   * our airline or corporate partners, such as car rental providers, hoteliers, airport transfer and parking providers, travel insurance providers and foreign exchange services.
   * government agencies and regulatory authorities, including immigration and border security and police, and airport security. 
@@ -100,7 +100,7 @@ We will use and disclose your personal information for the purpose for which it 
 We may also use and disclose your personal information:
 
   * to our related entities
-  * in order to receive services from our third party service providers, including those providing catering, ground handling, technology and related support services, call centre services, marketing and advertising services, payment fulfilment and fraud protection services and data analysts, as part of our activities and operations;
+  * in order to receive services from our third party service providers, including those providing catering, ground handling, technology and related support services, customer contact centre services, marketing and advertising services, payment fulfilment and fraud protection services and data analysts, as part of our activities and operations;
   * if you have made a booking using Velocity points, to Velocity;
   * to your immediate family members (or your other representative to whom you provide your PNR) and our emergency response and support team in connection with the management of an emergency or other serious incident;
   * to our professional advisers and insurers, as part of our operations;  
@@ -186,7 +186,7 @@ If you are a customer of Tigerair Australia and your complaint relates to our ai
 ## 11\. Contact us
 
 You can contact us by:  
-Email: [privacy.au@tigerair.com](mailto:privacy.au@tigerair.com)  
+Email: [privacy.au@tigerair.com.au](mailto:privacy.au@tigerair.com.au)  
 Telephone:  1300 174266 (dialling within Australia) or +61 7 3295 2104.  
 Writing to us at:  
 Privacy Officer  
