@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the futures.io privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722001627id_/https%3A//futures.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futures.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185302id_/https%3A//futures.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - futures.io Forum
 
-Last modified: October 11, 2015
+Last modified: October 7, 2016
 
 This Privacy Policy discloses our privacy practices and the possible uses of the information that we gather on the futures.io Forum web site (“Website”). This policy can be modified at any time and it is your responsibility to observe any changes to the policy by reviewing this page on an ongoing basis.
 
@@ -29,6 +29,8 @@ We may use Internet Protocol (IP) addresses to analyze trends, administer our si
 We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
 
 Your personally identifiable information is not retained, shared, stored or used by our third-party service providers, except in cases where the user has voluntarily signed up for their services. These third-party service providers are not allowed to use personally identifiable information except for the purpose of providing these services.
+
+We may share content that you contribute to the site by way of other outlets, including but not limited to social media marketing.
 
 **_Offsite Links_**
 
