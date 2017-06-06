@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the drugbank.ca privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109195747id_/http%3A//www.drugbank.ca/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugbank.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185834id_/https%3A//www.drugbank.ca/legal/privacy_policy) for the most accurate reproduction.*
 
 # DrugBank
-
-You are using an unsupported browser. Please upgrade your browser to a newer version to get the best experience on DrugBank. 
 
 _Effective June 20, 2016_
 
@@ -24,16 +22,21 @@ When you choose to create an account with DrugBank and use the Platform, we will
 
 Identifying information includes but is not necessarily limited to:
 
+
+
+    
+    
     * Your name;
     * Your email address;
     * Your Education Institution;
     * Your intended use cases for utilizing the DrugBank database.
+    
+    We will not use this identifying information to contact you for any reason unrelated to your use of the Platform.  Except with your consent or where required by law, we will not provide your identifying information to any third-party.
+    
+    We will not use your identifying information for commercial reasons unrelated to DrugBank.
+    
 
-We will not use this identifying information to contact you for any reason unrelated to your use of the Platform. Except with your consent or where required by law, we will not provide your identifying information to any third-party.
-
-We will not use your identifying information for commercial reasons unrelated to DrugBank.
-
-  2. Additional Data We Collect
+  1. Additional Data We Collect
 
 To learn about your user experience and to make periodic improvements to the Platform and Service, we collect and retain information routinely collected by web browsers and mobile devices. We will automatically record information about your activity on the Platform. This may include your internet protocol address, browser type, the web pages visited before and after you came to the Platform, locale preferences, identification numbers associated with your computer or mobile devices, your mobile carrier, date and time stamps associated with transactions, system configuration information, metadata, and other interactions with DrugBank, our Platform and Service.
 
@@ -45,7 +48,7 @@ We also make use of technology developed by TrendMD Inc. (“TrendMD”). TrendM
 
 Details of how TrendMD collects, stores, and protects the data it obtains as a result of your use of the Platform can be found in their Privacy Policy here: https://www.trendmd.com/privacy.
 
-  3. Deleting Your Information
+  2. Deleting Your Information
 
 If you want us to permanently delete your information from our servers at any time, please send an email to info@drugbank.ca. We will ensure your information is deleted in a reasonable time after receiving that request. Deleting such information may require us to terminate your account in its entirety.
 
@@ -57,7 +60,7 @@ When deleting your information, whether by request or due to inactivity, we will
 
 We will also retain any and all information that we are required to retain under any applicable laws for the full duration of time required under those laws.
 
-  4. Keeping Your Information Secure
+  3. Keeping Your Information Secure
 
 We will store your information only in electronic format on industry-standard servers that we have selected. Our servers are located in Canada, and thus are subject to applicable Canadian privacy laws. Except where required to do so by law, we will not store your personal information in any physical or paper-based format.
 
@@ -67,21 +70,21 @@ However, no security system is perfect and there is always a risk of unauthorize
 
 Further information on the servers employed by DrugBank will be made available upon request to the extent necessary to ensure Users are fulfilling their statutory, legal and professional privacy obligations. The University and OMx make no guarantees or representations as to the technical or legal compliance of its servers.
 
-  5. Security Breaches
+  4. Security Breaches
 
 In the event User information is disclosed as the result of any breach of security of the Platform or its servers, regardless of who is at fault, OMx will take steps to advise all known affected Users within one week of learning of the breach.
 
-  6. Using Third-Party Applications
+  5. Using Third-Party Applications
 
 We cannot control or dictate how any third-party application you use in conjunction with the Platform, now or at any point in the future, will treat your information. We advise you to contact those parties directly to review their privacy policies.
 
 In order to provide an enhanced experience to Users, certain features of the Platform may now or in the future connect with various third-party applications. By using these third-party application to interact with the Platform, we will not be given access to your login credentials, user name, password, or any information you may provide directly to these applications.
 
-  7. Disclosure of Personal Information in Testimonials and User-Generated Content
+  6. Disclosure of Personal Information in Testimonials and User-Generated Content
 
 At times we may ask you to submit Testimonials and/or other Content to describe your experience using the Platform. If you choose to submit any Content, including Testimonials, you hereby explicitly consent for us to publicly disclose on the DrugBank Platform certain basic personal information, such as your name, and city of residence. Users must ensure no sensitive information of any kind is included within any Testimonials and/or Content.
 
-  8. Contact Us
+  7. Contact Us
 
 We encourage you to send us questions and inquiries on the Policy and the steps we take to keep your information secure. Please send us an email: [info@omx.io](mailto:info@omx.io).
 
