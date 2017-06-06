@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localstack.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205214237id_/http%3A//www.localstack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localstack.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171321id_/https%3A//localstack.com/privacy) for the most accurate reproduction.*
 
 # LocalStack Privacy Policy
 
