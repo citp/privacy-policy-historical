@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325042246id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183945id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wordans.com
-
-  
-
 
 ##  Wordans.com ("Wordans") is committed to protecting your online privacy
 
@@ -30,7 +27,7 @@ You may provide us with certain personally identifiable information when you:
   * sign up for, or redeem, special offers
   * respond to surveys
   * use our Email-to-a-Friend or Refer-A-Friend features
-  * approve your child's request to open a My Wordans account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA).
+  * approve your child's request to open a Wordans account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA).
 
 
 
@@ -48,7 +45,7 @@ Wordans collects certain non-personally identifiable information through the use
 
 ##  How do we secure your information?
 
-When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your My Wordans account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select.
+When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your Wordans account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select.
 
 We operate internationally and all of our computer systems are currently based in Canada. As a result, your personal data will be processed by us in Canada where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this privacy policy and you consent to the transfer of all information you provide to the United States.
 
@@ -123,17 +120,17 @@ Parents can review any information Wordans has received from a child and the par
 
 Contact Us, and sending an email relating to Parental Notification. Alternatively, you may contact the Wordans Privacy Representative by phone, email, or letter at:
 
-Wordans.Com, Inc.
+Wordans.com
 
 Attn: Privacy
 
-5605 avenue de Gaspé  
-Suite 504
+7240 rue Waverly  
+Bureau 113
 
 Montreal, QC 
 
 ##  How can I change, delete, or update my information?
 
-Most of your account information can be changed in the My Wordans section of the Wordans Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at questions@Wordans.com. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
+Most of your account information can be changed in the My Account section of the Wordans Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at questions@wordans.com. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
 
 The current version of the Wordans Privacy Policy was designated effective as of 10/30/2006.
