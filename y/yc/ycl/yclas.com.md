@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yclas.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411135043id_/https%3A//yclas.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yclas.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221150id_/https%3A//yclas.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Create a FREE classifieds site
+# Privacy Policy - Create a FREE classifieds / marketplace site
 
 Protecting your personal details on our website.
 
