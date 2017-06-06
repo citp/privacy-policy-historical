@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129095907id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135746id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
 
 # Online Privacy Notice | Fannie Mae
 
