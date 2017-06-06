@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookmark4you.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316204022id_/http%3A//www.bookmark4you.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmark4you.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083854id_/http%3A//www.bookmark4you.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bookmark4You | Social Bookmarking
+# Bookmark4You | Privacy Policy
 
-Remember your favorite pages of the internet. Save and share interesting links | 46383 bookmarks 
+Remember your favorite pages of the internet. Bookmark and share interesting links for free! | 16,701,265 bookmarks 
 
 ## Privacy
 
@@ -20,4 +20,8 @@ We may use the non-personally identifiable information that we collect to improv
 
 #### 3rd Party Cookies
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+### Info
+
+Bookmark4You is completely free and is not laid out on maximum profit but it is high User friendly. So come on and [Sign up!](http://www.bookmark4you.com/register)
