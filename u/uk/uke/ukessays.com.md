@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315002349id_/http%3A//www.ukessays.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172348id_/https%3A//www.ukessays.com/contact/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | UK Essays
 
@@ -80,7 +80,7 @@ You generally have the opportunity to set your computer to accept all cookies, t
 
 If you refuse a cookie it may prevent the proper operation of the site or even prevent your access to certain areas. The customer login area, for example, relies on cookies to help identify you, and to identify if you are logged in or logged out at any time.
 
-[Click here for more information about the cookies we use on this website.](https://web.archive.org/cookie-info.php "Cookie information")
+[Click here for more information about the cookies we use on this website.](https://web.archive.org/cookie-info.php)
 
 ## Links to other websites
 
