@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download-for.me privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102013443id_/http%3A//download-for.me/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-for.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043827id_/http%3A//download-for.me/page/privacy.html) for the most accurate reproduction.*
 
 # Download-For.me
 
