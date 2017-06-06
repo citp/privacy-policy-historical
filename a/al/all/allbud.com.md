@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbud.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320020812id_/https%3A//www.allbud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbud.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190510id_/https%3A//www.allbud.com/privacy-policy) for the most accurate reproduction.*
 
 # AllBud.com | MMJ Dispensary Locator and Strain Resource - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Last updated on _July 3, 2014_. This Privacy Policy is effective immediately for users.
 
-This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our websites, mobile applications and related services ("Site"). The terms "we", "us", and "Allbud.com" refer to AB Resources, LLC, a Nevada company. When you use the Site, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
+This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our websites, mobile applications and related services ("Site"). The terms "we", "us", and "Allbud.com" refer to AllBud. When you use the Site, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
 
  _1\. INFORMATION WE COLLECT AND HOW WE USE IT_
 
