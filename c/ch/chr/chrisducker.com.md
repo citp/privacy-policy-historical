@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chrisducker.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204173728id_/http%3A//chrisducker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrisducker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193126id_/http%3A//chrisducker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ChrisDucker.com -
 
-#### Last Updated: FEBRUARY 2015
+#### Last Updated: FEBRUARY 2017
 
 The following Privacy Policy governs the online information collection practices of [www.chrisducker.com](http://www.chrisducker.com/) (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the www.chrisducker.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
