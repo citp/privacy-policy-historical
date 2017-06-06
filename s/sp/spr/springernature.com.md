@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the springernature.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029144048id_/http%3A//www.springernature.com/gp/privacy-statement/829158) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springernature.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131822id_/http%3A//www.springernature.com/gp/privacy-statement/829158) for the most accurate reproduction.*
 
-# Privacy policy for springernature.com
+# Privacy policy for springernature.com | Research Publisher
 
 ### 1\. Purpose of collecting and using data according to § 13 paragraph 1 of the Telemediengesetz (German Telemedia Act)
 
