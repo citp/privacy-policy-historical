@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the factaholics.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016031825id_/http%3A//factaholics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factaholics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102338id_/http%3A//factaholics.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Factaholics
 
 SoViral Media, including our affiliated companies (collectively, “SoViral Media” or “we” or “our” or “us”), knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy (this “Privacy Policy”). In addition, please read our terms of service (the “Terms of Service”). By visiting or using one of our network of websites, applications, products, software, data feeds, and services provided to you by SoViral Media (collectively, the “Service”), or viewing our Content (“Content” includes the text, software, scripts, graphics, photos, sounds, music, videos, audiovisual combinations, interactive features and other materials you may view on, access through, or contribute to the Service), you are accepting the practices outlined in this Privacy Policy. If you do not agree to the collection and use of information from or about you in accordance with this Privacy Policy and our Terms of Service, then you may not use the Service.
 
