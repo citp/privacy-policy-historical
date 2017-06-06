@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the expertblogz.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517102720id_/http%3A//expertblogz.com/page/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertblogz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110846id_/http%3A//expertblogz.com/page/Privacy-Policy-Disclaimer.aspx) for the most accurate reproduction.*
 
 # Expert's BLOG | Privacy Policy & Disclaimer
 
-**Disclaimer**
+This website is an online portal community where different users can post the content and we show aggregate blogs, There is no adult or any 18+ related content on the website. All trademarks, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies.
 
-This website is an online portal commounity where diffrent users can post the content and we show agreegate blogs, There is no adult or any 18+ related content on the website. All trademarks, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies.
+Please read and understand clearly that We do not host any of the images/videos here nor we have uploaded any, they have added by respective users. We only facilitate service for blog writing. if there are some images or videos they directly come from third party video hosting sites such as Dailymotion, YouTube and various other third party video hosting sites. Contact those sites for any video removals. This website is NOT hosting content you see. Therefore, our website is not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of other linked sites. If you have any legal issues please contact the appropriate media file owners / host sites. These videos are publicly available and you can contact the appropriate sites for removal. All the videos linked in this website are from licensed distributors. 
 
-Please read and understand clearly that We do not host any of the images/videos here nor we have uploaded any, they have added by respective users. We only facilate service for blog writing. if there are some images or videos they directly come from third party video hosting sites such as Dailymotion, YouTube and various other third party video hosting sites. Contact those sites for any video removals. This website is NOT hosting content you see. Therefore, our website is not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of other linked sites. If you have any legal issues please contact the appropriate media file owners / host sites. These videos are publicily available and you can contact the appropriate sites for removal. All the videos linked in this website are from licensed distributors. 
+If a video/logo/artical are violating copyright and you want us to remove that videos/content or have any Questions/Suggestions/Problems contact us before sending email please read our Digital Millennium Copyright Act (DMCA)
+
+All the media files in this site are used only for sampling purposes. Neither we intentionally distribute any copy righted media files nor are we aware that they are copy righted. expertblogz owns none of the files hosted or published on this site. All the files are taken from free servers which don’t claim any copy rights associated with the files. We have complete control over the site to remove any files which are violating copyrights of an individual or organization. If any of the files are copyrighted please notify us and we promptly remove those files from our site.
 
 This Privacy Policy governs the manner in which Expert's Blog collects, uses, maintains and discloses information collected from users (each, a "User") of the Expert's Blog.co website ("Site"). This privacy policy applies to the Site and all products and services offered by Expert's Blog.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+** ** We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
@@ -36,7 +38,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+** ** We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 **Third party websites**
 
@@ -45,6 +47,12 @@ Users may find advertising or other content on our Site that link to the sites a
 **Advertising**
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
+  * Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).)
+
+
 
 **Google Adsense**
 
