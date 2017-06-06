@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestoexperts.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235236id_/http%3A//www.prestoexperts.com/lp/prestoexperts_privacy_policy/%3Fmobile%3Doff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestoexperts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083854id_/http%3A//www.prestoexperts.com/lp/prestoexperts_privacy_policy/%3Fmobile%3Doff) for the most accurate reproduction.*
 
 # Privacy Policy
 
