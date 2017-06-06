@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monolithicpower.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120212908id_/http%3A//www.monolithicpower.com/Company/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monolithicpower.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155402id_/http%3A//www.monolithicpower.com/Company/Privacy-Policy) for the most accurate reproduction.*
 
 # MPS > Company > Privacy Policy
 
