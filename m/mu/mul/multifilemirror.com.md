@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the multifilemirror.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013155id_/http%3A//www.multifilemirror.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multifilemirror.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162640id_/http%3A//www.multifilemirror.com/privacy) for the most accurate reproduction.*
 
-# Multifilemirror - Upload your files to multiple file hosts with one click
+# MultiFileMirror - Upload your files to multiple file hosts with one click
 
-## Your Privacy
+### _verified_user_  Your Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
