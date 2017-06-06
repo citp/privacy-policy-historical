@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107121627id_/https%3A//www.varian.com/about-varian/legal-information/varian-medical-systems-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607002054id_/https%3A//www.varian.com/about-varian/legal-information/varian-medical-systems-privacy-statement) for the most accurate reproduction.*
 
 # Varian Medical Systems Privacy Statement | Varian Medical Systems
 
@@ -74,7 +74,7 @@ We partner with a third party ad network to manage our advertising on other site
 
 ### SECURITY
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. We suggest that you change your passwords often, that your passwords include a combination of letters and numbers, and that you make certain that you are using a secure browser. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). Products and services are available which can help give you privacy protection while navigating the web. See<http://www.privacyalliance.org/resources/rulesntools/>  for an overview of many privacy-related tools.
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. We suggest that you change your passwords often, that your passwords include a combination of letters and numbers, and that you make certain that you are using a secure browser. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). Products and services are available which can help give you privacy protection while navigating the web. See <http://www.privacyalliance.org/resources/rulesntools/> for an overview of many privacy-related tools.
 
 If you have any questions about security on our website, you can email us at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com).
 
@@ -152,7 +152,7 @@ By using our website, you consent to the collection and use of your information 
 
 ### OVERSIGHT AND QUESTIONS
 
-We welcome comments and questions on this privacy statement. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure. If you have any questions or comments about this statement you can contact us electronically at[dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com). Additionally you may contact us by writing via postal mail at the following address:
+We welcome comments and questions on this privacy statement. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure. If you have any questions or comments about this statement you can contact us electronically at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com). Additionally you may contact us by writing via postal mail at the following address:
 
 Varian Medical Systems, Inc.,  
 Attention: Data Privacy Office  
