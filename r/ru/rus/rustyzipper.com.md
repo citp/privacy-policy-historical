@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054039id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020601id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
-
-[](http://www.rustyzipper.com/)   
-
 
 **What information do we collect?**
 
@@ -89,21 +86,9 @@ This policy was last modified on July 10th, 2009
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.rustyzipper.com  
-5714 Crooked Finger Rd NE  
-Scotts Mills, OR 97375  
+PO BOX 3050  
+Wilsonville, OR 97070  
 United States  
 jen@rustyzipper.com  
 503-980-1929  
 
-
-* **Orders placed before 11:30am** Pacific Mon-Fri, are shipped that day. After 11:30am, orders are shipped the next business day.
-* We ship US Orders via Ground, 2nd day, or Overnight Delivery. We also ship to most countries worldwide.
-* **Shipping rates** and options are shown upon adding items to your order.
-* **Returns** : We want you to love your purchase - if you don't, return it within 15 days for a refund (shipping not refundable)
-* Copyright 1995-2013 Rusty Zipper™ Vintage Clothing - [Privacy Policy](http://www.rustyzipper.com/shop.cfm?page=privacy)
-
-**Questions? View our[Help Page](http://www.rustyzipper.com/shop.cfm?page=contact&type=&ERA=ALL&GENDER=ALL&PRICE=ALL&ERA=ALL&SIZE=Any%20Size&SEARCH=&SITE=RUSTYZIPPER&QPRICE=ALL&startshow=1) or contact Jen at [jen@rustyzipper.com](mailto:jen@rustyzipper.com)**
-
- **  
-Phone 866-387-5944 in US, or 503-980-1929 outside US (Mon-Fri 8am-3pm PST)**  
-UK (020) 3002-8263 (Mon-Fri 5pm-11pm London time) [Like our Facebook Page](http://www.facebook.com/rustyzippercom/)
