@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mcxstar.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122192524id_/http%3A//mcxstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcxstar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083130id_/http%3A//mcxstar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MCXStar : Online MCX Commodity Markets Free ti
+# Privacy Policy | MCXStar : Online MCX Commodity Markets Live Update
+
+## Privacy Policy
 
 This policy covers how we treat personal information collected and received, including information about you that is personally identifiable but is not otherwise publicly available.We are collecting your information while registering you on our website.For your information below is how we use this information.
 
