@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minecraftposts.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121115013id_/http%3A//minecraftposts.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftposts.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062344id_/http%3A//minecraftposts.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MinecraftPosts
+# Privacy Policy | Minecraft 1.11.2
 
 ### Information
 
