@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the srax.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110214402id_/http%3A//srax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srax.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051923id_/http%3A//srax.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – SRAX
+# Privacy Policy - SRAX
 
 **SRAX Privacy and Cookie Policy**
 
