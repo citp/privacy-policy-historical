@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pongoresume.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905110311id_/https%3A//www.pongoresume.com/content/5/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pongoresume.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185806id_/https%3A//www.pongoresume.com/content/5/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Pongo
 
