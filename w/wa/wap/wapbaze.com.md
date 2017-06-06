@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapbaze.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912165106id_/http%3A//wapbaze.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapbaze.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040954id_/http%3A//wapbaze.com/content/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
