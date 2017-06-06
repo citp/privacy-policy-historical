@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askmehelpdesk.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601204947id_/https%3A//www.askmehelpdesk.com/faq.php%3Ffaq%3Dnew_faq_item%23faq_faq_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmehelpdesk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170126id_/https%3A//www.askmehelpdesk.com/faq.php%3Ffaq%3Dnew_faq_item%23faq_faq_privacy_policy) for the most accurate reproduction.*
 
 # About Ask Me Help Desk
 
