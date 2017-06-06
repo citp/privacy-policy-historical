@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flintobox.com privacy policy that was archived on 2016-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224071442id_/http%3A//flintobox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flintobox.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606091603id_/http%3A//flintobox.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,15 +14,16 @@
 <meta name="twitter:site" content="@flintobox">
 <link rel="icon" href="//d1qafhd1kon6or.cloudfront.net/images/flinto-favicon.ico" type="image/x-icon">
 <link rel="publisher" href="https://plus.google.com/+Flintobox-kids">
-<link rel="Stylesheet" type="text/css" href="//d18itrbs42xee0.cloudfront.net/css/all-common-boot-min.css?v=13757">
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0028/1919.js?438992" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WM24LK"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" src="//d18itrbs42xee0.cloudfront.net/js/all-common-boot-min.js?v=13757"></script>
+<link rel="Stylesheet" type="text/css" href="//d18itrbs42xee0.cloudfront.net/css/all-common-boot-min.css?v=12337">
+<script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WM24LK"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" src="//d18itrbs42xee0.cloudfront.net/js/all-common-boot-min.js?v=12337"></script>
+
+
 
 
 
 
 
     <!-- google analytics -->
-
     <script>
         (function(i,s,o,g,r,a,m){
             i['GoogleAnalyticsObject']=r;
@@ -35,33 +36,46 @@
             a.src=g;
             m.parentNode.insertBefore(a,m)
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
+     
         ga('create', 'UA-46462041-1', 'flintobox.com');
         ga('require', 'linkid', 'linkid.js');
         ga('require', 'displayfeatures');
         ga('send', 'pageview');
 
     </script>
-    <!-- facebook -->
-    
-    
     <!-- Facebook Pixel Code -->
     <script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-    document,'script','//connect.facebook.net/en_US/fbevents.js');
+            !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
 
-    fbq('init', '692014314167199');
-    fbq('track', "PageView");</script>
+        fbq('init', '692014314167199');
+        fbq('track', "PageView");
+        
+        //fire the event if only view content and event is false
+        if($("head").data("fb-event")==undefined && '' == ''){
+            //adding the view content event
+            fbq('track', 'ViewContent');
+            //add the view content cookie if not present
+            addviewContentSession(true);
+        }
+        
+         
+    </script>
     <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=692014314167199&ev=PageView&noscript=1"
-    /></noscript>
+                   src="https://www.facebook.com/tr?id=692014314167199&ev=PageView&noscript=1"
+                   /></noscript>
     <!-- End Facebook Pixel Code -->
 
-<!--     Optimizely -->
-<!--    <script type="text/javascript" src="//cdn.optimizely.com/js/581220150.js"></script>-->
+    <!--     Optimizely -->
+    <!--    <script type="text/javascript" src="//cdn.optimizely.com/js/581220150.js"></script>-->
+
+
+
+  
+
  <!--Common Inclusions-->
         <title>Privacy - Flintobox</title>
         <meta property="og:title" content="Privacy - Flintobox">
@@ -121,53 +135,151 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     .custDropdown{border:none !important;}
     select.age-mobile{padding:0; border: 1px solid #000; background: #fff; font-size: 15px; color: #007671; font-weight: bold;}
     .navbar-toggle .bar{width:15px;}
+    /* Note: Try to remove the following lines to see the effect of CSS positioning */
+    /* Note: Try to remove the following lines to see the effect of CSS positioning */
+    .miniHeader {
+        border-bottom: #CCC solid 1px;
+        margin-bottom: 15px;
+        width: 100%;
+        background-color: #fff;
+        position: fixed;
+        z-index: 1000;
+        top: 0px;
+        transform: translate3d(0, -100px, 0);
+        transition: transform .2s cubic-bezier(0, 1.22, .76, .99);
+    }
+
+    .mobile-only-fixed-menu{
+        width: 100%;
+        display: block;
+        margin: 0;
+        position: relative;
+        overflow: visible;
+        border: 1px solid #DFDFDE;
+    }
+    .mobile-only-fixed-menu div{
+        padding: 4px 0;
+    }
+    .mobileMiniHeader select.age-mobile{border:none !important;padding:5px;margin-top: 10px;
+                                        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.4);}
+    .shopHref-mobile {color: #FFF !important;}.mobileMiniHeader{background: #fff;}
+    .mobileMiniHeader{ box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.4);   
+                       transition: transform .2s cubic-bezier(0, 1.22, .76, .99); transform: translate3d(0, -100px, 0);}
+    #miniHeaderMenuFont li select,#miniHeaderMenuFont li a{font-size: 18px !important;}
+    .miniHeaderhidden{
+        transform: translate3d(0, -100px, 0);
+    }
+    .miniVisible {
+        transform: translate3d(0, 0px, 0);
+    }
 </style>
+
 
 <!-- New Header -->
 
 
-<div itemprop="brand" itemscope="" itemtype="http://schema.org/Brand" class="menu visible-xs hidden-sm hidden-md hidden-lg" style="margin-top:-5px;">
-    
-    <nav class="navbar navbar-default">
-        <div class="navbar-header">
-            <div class="col-xs-4"><a class="navbar-brand" style="padding: 10px 0 0 0;" href="/"><img alt="Flintobox Logo" src="//d1qafhd1kon6or.cloudfront.net/images/logo.png?v=1" width="85px"></a></div>
-            <div class="col-xs-4" style="padding-top: 17px;">
-                <select class="age-mobile age-group">
-                    <option value="select">Age Group</option>
-<!--                    <option value="1.5-to-2" data-minage="1.5" data-maxage="2"><a class="ageValues" href="/subscription-activity-box-for-babies" data-minage="1.5" data-maxage="2">1.5 to 2 Years</a></option>-->
-                    <option value="2-to-3" data-minage="2" data-maxage="3">2 to 3 Years</option>
-                    <option value="3-to-4" data-minage="3" data-maxage="4">3 to 4 Years</option>
-                    <option value="4-to-8" data-minage="4" data-maxage="8">4 to 8 Years</option>
-                    <option value="8-to-12" data-minage="8" data-maxage="12">8 to 12 Years</option><!--
-<!--                 <option value=10-to-12" data-minage="10" data-maxage="12"><a class="ageValues" href="/subscription-activity-box-for-10-to-12-year-kids" data-minage="10" data-maxage="12">10 to 12 Years</a></option>-->
-                    <option value="11-to-15" data-minage="11" data-maxage="15">12+ Years</option>
-                </select> 
-            </div>
+<div itemprop="brand" itemscope="" itemtype="http://schema.org/Brand" class="menu visible-xs hidden-sm hidden-md hidden-lg" style="padding-bottom:50px;">
 
-            <div>
-                <button id="main-button" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar bar"></span>
-                    <span class="icon-bar bar"></span>
-                    <span class="icon-bar bar"></span>
-                </button>
+    <nav class="navbar navbar-default navbar-fixed-top mobileMiniHeader ">
+        <div class="navbar-header">
+
+            <div class="row  ">
+                <div class="col-xs-12 mobile-only-fixed-menu">
+                    <div class="col-xs-2 text-center">
+
+                        <button id="main-button" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar bar"></span>
+                            <span class="icon-bar bar"></span>
+                            <span class="icon-bar bar"></span>
+                        </button>
+                    </div>
+                    <div class="col-xs-5 text-center menu" style="background:#FFFFFF;">
+                        <select class="age-mobile age-group">
+                            <option class="option" value="select">Age Group</option>
+                            <!--                    <option value="1.5-to-2" data-minage="1.5" data-maxage="2"><a class="ageValues" href="/subscription-activity-box-for-babies" data-minage="1.5" data-maxage="2">1.5 to 2 Years</a></option>-->
+                            <option value="2-to-3" data-minage="2" data-maxage="3">2 to 3 Years</option>
+                            <option value="3-to-4" data-minage="3" data-maxage="4">3 to 4 Years</option>
+                            <option value="4-to-8" data-minage="4" data-maxage="8">4 to 8 Years</option>
+                            <option value="8-to-12" data-minage="8" data-maxage="12">8 to 12 Years</option><!--
+                            <!--                   <option value="11-to-15" data-minage="11" data-maxage="15"><a class="ageValues" href="/robotics-kit" data-minage="11" data-maxage="15">12+ Years</a></option>-->
+                        </select>
+                    </div>
+                    <div class="col-xs-5 text-center" id="shopHref"><a href="#shop " class="shopHref-mobile  sub-menu-font button-1 mtop5">Shop &gt;&gt;</a></div>
+                </div>
+
             </div>
         </div>
-
-        <div class="collapse navbar-collapse custnavbar-collapse" id="bs-example-navbar-collapse-1">
+        <div class="collapse navbar-collapse custnavbar-collapse" id="bs-example-navbar-collapse-2">
             <ul class="nav navbar-nav">
-<!--                <li><a class="sub-menu-font active"  href="/what-is-flinto">What is Flintobox?</a></li>-->
-                <li class="4-to-8" style="display:none"><a class="sub-menu-font" href="/box/wildlife-safari">Dec: Wildlife Safari</a></li> 
-                <li class="3-to-4" style="display:none"><a class="sub-menu-font" href="/box/jn-colour-scientist">Dec: Jn Colour Scientist</a></li> 
-                <li class="2-to-3" style="display:none"><a class="sub-menu-font" href="/box/colour-carnival">Dec: Colour Carnival</a></li>
-                <li><a class="sub-menu-font" id="shopHref" href="/shop">Shop</a></li> 
+                <li class="8-to-12" style="display:none"><a class="sub-menu-font" href="/box/glowing-chemistry">Jun: Glowing Chemistry</a></li> 
+                <li class="4-to-8" style="display:none"><a class="sub-menu-font" href="/box/lights-and-shadows">Jun: Lights and Shadows</a></li>
+                <li class="3-to-4" style="display:none"><a class="sub-menu-font" href="/box/sky-adventure">Jun: Sky Adventure</a></li>
+                <li class="2-to-3" style="display:none"><a class="sub-menu-font" href="/box/healthy-habits">Jun: Healthy Habits</a></li> 
+                <!--                
+                                <li class="2-to-3" style="display:none"><a class="sub-menu-font"  href="/box/house-explorer">Apr: House Explorer</a></li> -->
                 <li><a class="sub-menu-font" href="/gift">Gift</a></li> 
                 <li><a class="sub-menu-font" href="/review">Review</a></li>  
                 <li><a class="sub-menu-font" target="_blank" href="http://flintobox.com/blog">Blog</a></li> 
 
 
                 
-                    <li><a id="mobileSignup" class="sub-menu-font" href="#">Login / Signup</a></li> 
+                    <li><a id="header-sign-in" href="/login" class="sub-menu-font" onclick="loginRedirect();">Login / Signup</a></li> 
+                
+                 
+
+            </ul>
+        </div>
+    </nav>
+
+
+
+
+
+    <nav class="navbar navbar-default navbar-fixed-top  mobileHeader">
+        <div class="navbar-header">
+
+            <div class="row ">
+                <div class="col-xs-4"><a class="navbar-brand" style="padding: 10px 0 0 0;" href="/"><img alt="Flintobox Logo" src="//d1qafhd1kon6or.cloudfront.net/images/logo-v1.png?v=1" width="85px"></a></div>
+                <div class="col-xs-4" style="padding-top: 17px;">
+                    <select class="age-mobile age-group">
+                        <option class="option" value="select">Age Group</option>
+                        <!--                    <option value="1.5-to-2" data-minage="1.5" data-maxage="2"><a class="ageValues" href="/subscription-activity-box-for-babies" data-minage="1.5" data-maxage="2">1.5 to 2 Years</a></option>-->
+                        <option value="2-to-3" data-minage="2" data-maxage="3">2 to 3 Years</option>
+                        <option value="3-to-4" data-minage="3" data-maxage="4">3 to 4 Years</option>
+                        <option value="4-to-8" data-minage="4" data-maxage="8">4 to 8 Years</option>
+                        <option value="8-to-12" data-minage="8" data-maxage="12">8 to 12 Years</option><!--
+                        <!--                   <option value="11-to-15" data-minage="11" data-maxage="15"><a class="ageValues" href="/robotics-kit" data-minage="11" data-maxage="15">12+ Years</a></option>-->
+                    </select>
+                </div>
+
+                <div>
+                    <button id="main-button" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar bar"></span>
+                        <span class="icon-bar bar"></span>
+                        <span class="icon-bar bar"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="collapse navbar-collapse custnavbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li class="8-to-12" style="display:none"><a class="sub-menu-font" href="/box/glowing-chemistry">Jun: Glowing Chemistry</a></li> 
+                <li class="4-to-8" style="display:none"><a class="sub-menu-font" href="/box/lights-and-shadows">Jun: Lights and Shadows</a></li>
+                <li class="3-to-4" style="display:none"><a class="sub-menu-font" href="/box/sky-adventure">Jun: Sky Adventure</a></li>
+                <li class="2-to-3" style="display:none"><a class="sub-menu-font" href="/box/healthy-habits">Jun: Healthy Habits</a></li> 
+                <!--                
+                                <li class="2-to-3" style="display:none"><a class="sub-menu-font"  href="/box/house-explorer">Apr: House Explorer</a></li> -->
+                <li><a class="sub-menu-font" href="#shop">Shop</a></li> 
+                <li><a class="sub-menu-font" href="/gift">Gift</a></li> 
+                <li><a class="sub-menu-font" href="/review">Review</a></li>  
+                <li><a class="sub-menu-font" target="_blank" href="http://flintobox.com/blog">Blog</a></li> 
+
+
+                
+                    <li><a id="header-sign-in" href="/login" class="sub-menu-font" onclick="loginRedirect();">Login / Signup</a></li> 
                 
                  
 
@@ -177,18 +289,60 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta itemprop="name" content="Flintobox">
 </div>   
 
+
+
+
+
+<!--minheader for showing when only the user scrolls the page in desktop-->
+<div itemprop="brand" itemscope="" itemtype="http://schema.org/Brand" id="top-bar " class="container-fluid miniHeader ">
+    <div class="nav-wrapper">
+        <div class="row header-offset-web hidden-xs visible-sm visible-md visible-lg"> 
+            <div class="col-xs-12 nav-strip">
+                <div class="custContainer">
+                    <div class="col-xs-2 mtop5">
+                        <div class="hidden-xs col-sm-3">
+                            <div class="logo">
+                                <img itemprop="logo" alt="Flintobox Logo" src="//d1qafhd1kon6or.cloudfront.net/images/logo-v1.png?v=1" width="125px">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-10 text-right">  
+                        <div class="row" style="text-align:right;">
+                            <div class="hidden-xs deskbar navigationbar top-nav" style="margin:0px !important;">
+                                <ul id="miniHeaderMenuFont">
+                                    <li class="top-nav-list">
+                                        <select class="body2 age-group">
+                                            <option value="select">Age Group</option>
+                                            <!--                                        <option value="1.5-to-2" data-minage="1.5" data-maxage="2"><a class="ageValues" href="/subscription-activity-box-for-babies" data-minage="1.5" data-maxage="2">1.5 to 2 Years</a></option>-->
+                                            <option value="2-to-3" data-minage="2" data-maxage="3">2 to 3 Years</option>
+                                            <option value="3-to-4" data-minage="3" data-maxage="4">3 to 4 Years</option>
+                                            <option value="4-to-8" data-minage="4" data-maxage="8">4 to 8 Years</option>
+                                            <option value="8-to-12" data-minage="8" data-maxage="12">8 to 12 Years</option>
+                                            <!--                                        <option value="11-to-15" data-minage="11" data-maxage="15"><a class="ageValues" href="/robotics-kit" data-minage="11" data-maxage="15">12+ Years</a></option>-->
+                                        </select>
+                                    </li>
+
+                                    <li class="top-nav-list"><a class="button-1" id="shopHref" href="#shop">Shop &gt;&gt;</a></li>
+                                </ul> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
 <div itemprop="brand" itemscope="" itemtype="http://schema.org/Brand" id="top-bar" class="container-fluid" style="margin-top:-5px;">
-    
-    <!--    <div class="row">
-           <a href="/offer/big-bang-sale"><img src="//d1qafhd1kon6or.cloudfront.net/images/offer/big-bang-sale/mbanner-strip-1.jpg" width="100%" class="image-responsive visible-xs hidden-sm hidden-md hidden-lg" /></a>
-       </div> -->
     <div class="row header-offset-web hidden-xs visible-sm visible-md visible-lg"> 
         <div class="col-xs-12 nav-strip">
             <div class="custContainer">
                 <div class="col-xs-2 mtop10">
                     <div class="hidden-xs col-sm-3">
                         <div class="logo">
-                            <img itemprop="logo" alt="Flintobox Logo" src="//d1qafhd1kon6or.cloudfront.net/images/logo.png?v=1" width="125px">
+                            <img itemprop="logo" alt="Flintobox Logo" src="//d1qafhd1kon6or.cloudfront.net/images/logo-v1.png?v=1" width="125px">
                         </div>
                     </div>
                 </div>
@@ -199,27 +353,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <li class="top-nav-list">
                                     <select class="body2 age-group">
                                         <option value="select">Age Group</option>
-<!--                                        <option value="1.5-to-2" data-minage="1.5" data-maxage="2"><a class="ageValues" href="/subscription-activity-box-for-babies" data-minage="1.5" data-maxage="2">1.5 to 2 Years</a></option>-->
+                                        <!--                                        <option value="1.5-to-2" data-minage="1.5" data-maxage="2"><a class="ageValues" href="/subscription-activity-box-for-babies" data-minage="1.5" data-maxage="2">1.5 to 2 Years</a></option>-->
                                         <option value="2-to-3" data-minage="2" data-maxage="3">2 to 3 Years</option>
                                         <option value="3-to-4" data-minage="3" data-maxage="4">3 to 4 Years</option>
                                         <option value="4-to-8" data-minage="4" data-maxage="8">4 to 8 Years</option>
                                         <option value="8-to-12" data-minage="8" data-maxage="12">8 to 12 Years</option>
-<!--                                        <option value="10-to-12" data-minage="10" data-maxage="12"><a class="ageValues" href="/subscription-activity-box-for-10-to-12-year-kids" data-minage="10" data-maxage="12">10 to 12 Years</a></option>-->
-                                        <option value="11-to-15" data-minage="11" data-maxage="15">12+ Years</option>
+                                        <!--                                        <option value="11-to-15" data-minage="11" data-maxage="15"><a class="ageValues" href="/robotics-kit" data-minage="11" data-maxage="15">12+ Years</a></option>-->
                                     </select>
                                 </li>
-<!--                                <li class="top-nav-list"><a class="body2" href="/what-is-flinto">What is Flintobox?</a></li>-->
-                                <li class="top-nav-list 4-to-8" style="display:none"><a class="body2" href="/box/wildlife-safari">Dec: Wildlife Safari</a></li> 
-                                <li class="top-nav-list 3-to-4" style="display:none"><a class="body2" href="/box/jn-colour-scientist">Dec: Jn Colour Scientist</a></li>  
-                                <li class="top-nav-list 2-to-3" style="display:none"><a class="body2" href="/box/colour-carnival">Dec: Colour Carnival</a></li>
-                                <li class="top-nav-list"><a class="body2" id="shopHref" href="/shop">Shop</a></li>
+                                <li class="top-nav-list 8-to-12" style="display:none"><a class="body2" href="/box/glowing-chemistry">Jun: Glowing Chemistry</a></li> 
+                                <li class="top-nav-list 4-to-8" style="display:none"><a class="body2" href="/box/lights-and-shadows">Jun: Lights and Shadows</a></li> 
+                                <li class="top-nav-list 3-to-4" style="display:none"><a class="body2" href="/box/sky-adventure">Jun: Sky Adventure</a></li>
+                                <li class="top-nav-list 2-to-3" style="display:none"><a class="body2" href="/box/healthy-habits">Jun: Healthy Habits</a></li> 
+                                <!--                                
+                                                                <li class="top-nav-list 2-to-3" style="display:none"><a class="body2" href="/box/house-explorer">Apr: House Explorer</a></li> -->
+                                <li class="top-nav-list"><a class="body2" id="shopHref" href="#shop ">Shop</a></li>
+
                                 <li class="top-nav-list"><a class="body2" href="/gift">Gift</a></li>
                                 <li class="top-nav-list"><a class="body2" href="/review">Review</a></li> 
                                 <li class="top-nav-list"><a class="body2" target="_blank" href="http://flintobox.com/blog">Blog</a></li>
                                 <li class="top-nav-list"><div id="login-like" class="text-center">
                                         <div class="cart"> 
                                             
-                                                <a href="#" class="body2" id="openSigninPopup">Login / Sign Up</a>
+                                                <a class="body2" id="header-sign-in" href="/login">Login / Sign Up</a>
                                             
                                                 
                                         </div>
@@ -233,16 +389,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </div>
     <meta itemprop="name" content="Flintobox">
-</div>     
+</div>
 
 
 <script>
-    var cookieValue ;
-    if('' != ''){
-        cookieValue = JSON.parse(''); 
-    }
+var cookieValue ;
+if('' != ''){
+cookieValue = JSON.parse(''); 
+}
+var minAge='';
+var maxAge='';
 </script> 
-<script type="text/javascript" src="//d18itrbs42xee0.cloudfront.net/js/header-min.js?v=13757"></script>
+<script type="text/javascript" src="//d18itrbs42xee0.cloudfront.net/js/header-min.js?v=12336"></script>
 
         <div class="separartor" style="margin:5px 0px"></div>
         <div class="container">
@@ -315,130 +473,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<div id="loginContainer" class="modal fade">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-                <div class="connect-with-facebook text-center">
-                    <form id="signinForm" action="/signin/facebook" method="post" target="connectWindow">
-                        <input type="hidden" id="scope" name="scope" value="user_about_me,email">
-                        <button type="button" id="fbSignUp" class="btn normal-btn btn-fb-connect facebookConnect"></button>
-                    </form>
-                </div>
-            </div>
-            <div class="modal-body text-center">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-6 col-md-6">
-                        <div class="emailDiv text-center ">
-                            <div class="row">
-                                <div class="col-xs-12 header4">Existing User? Login</div>
-                            </div>
-                            <div class="errorDiv" id="loginErrorDiv" style="display:none;"></div>    
-                            <div id="loginDiv">
-                                <form id="loginForm" action="/privacy;jsessionid=2D72294A45CCAF23C1CDB808A6A05628" method="post">
-                                    <div class="row mtop10">
-                                        <div class="col-xs-12 text-left" style="padding-left:20px;"><label>Email Address</label></div>
-                                        <div class="col-xs-12"><input id="liEmail" name="email" style="width:225px" type="text" value=""></div>
-                                    </div>
-                                    <div class="row mtop20">
-                                        <div class="col-xs-12 text-left" style="padding-left:20px;"><label>Password</label></div>
-                                        <div class="col-xs-12"><input id="liPassword" name="keyString" style="width:225px" class="pwd" type="password" value=""></div>
-                                    </div>
-                                    <div class="row mtop20">
-                                        <div class="col-xs-12"><a type="submit" id="login" class="button-1">Login</a></div>
-                                    </div>
-                                </form>
-                                <div class="row mtop20">
-                                    <div class="col-xs-12"><a href="#" id="forgotPassword"><u>RESET PASSWORD</u></a></div>
-                                </div>
-                            </div>
-                            <div id="forgotPasswordDiv" style="display:none">
-                                <div class="row mtop20"><div class="col-xs-12">Password reset link will be sent to your email id.</div></div>
-                                <div class="row mtop10"><div class="col-xs-12"><b>Please enter your email Id</b></div></div>
-                                <div class="row mtop10"><div class="col-xs-12"><input type="text" id="fpEmail" style="width:225px;"></div></div>
-                                <div class="row mtop10"><div class="col-xs-12"><a id="fpSubmit" class="button-1">Submit</a></div></div>
-                                <div class="row mtop20"><div class="col-xs-12"><a href="#" class="loginScreen"><u>LOGIN SCREEN</u></a></div></div>
-                            </div>
-                            <div id="emailSentDiv" style="display:none">
-                                <div class="row mtop20"><div class="col-xs-12"><b>Check your Inbox</b></div></div>
-                                <div class="row mtop20"><div class="col-xs-12">An email has been sent to entered email Id. The will contain a link to reset your new password.</div></div>
-                                <div class="row mtop20"><div class="col-xs-12"><a href="#" class="loginScreen"><u>LOGIN SCREEN</u></a></div></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-6">
-                        <div class="signDiv text-center">
-                            <h3 class="header4">New to Flinto? Sign Up</h3>
-                            <div id="signupDiv">
-                                <form id="registerForm" action="/register" method="post">
-                                    <div class="errorDiv" id="signupErrorDiv" style="display:none;"></div>
-                                    
-                                    <div class="row mtop10">
-                                        <div class="col-xs-12 text-left toAlignCenter"><label>Email Address</label></div>
-                                        <div class="col-xs-12"><input id="suEmail" name="email" style="width:225px;padding:3px 0px" type="text" value=""></div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-6 col-md-6">
-                                            <div class="row mtop20">
-                                                <div class="col-xs-12 text-left toAlignCenter"><label>Password</label></div>
-                                                <div class="col-xs-12 text-left toAlignCenter"><input id="suPassword" name="keyString" style="width:130px;padding:3px 0px;" class="pwd largeWidth" type="password" value=""></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-6 col-md-6">
-                                            <div class="row mtop20 text-right">
-                                                <div class="col-xs-12 text-left toAlignCenter"><label>Retype Password</label></div>
-                                                <div class="col-xs-12 text-left toAlignCenter"><input type="password" id="rePassword" class="pwd largeWidth" style="width:130px;margin-right:15px;padding:3px 0px;"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-6 col-md-6">
-                                            <div class="row mtop20">
-                                                <div class="col-xs-12 text-left toAlignCenter"><label>First Name</label></div>
-                                                <div class="col-xs-12 text-left toAlignCenter"><input id="suFirstName" name="firstName" style="width:130px; padding:3px 0px;" class="largeWidth" type="text" value="" maxlength="50"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-6 col-md-6">
-                                            <div class="row mtop20">
-                                                <div class="col-xs-12 text-left toAlignCenter"><label>Last Name</label></div>
-                                                <div class="col-xs-12 text-left toAlignCenter"><input id="suLastName" name="lastName" style="width:130px;margin-right:15px; padding:3px 0px;" class="largeWidth" type="text" value="" maxlength="50"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="row mtop20">
-                                        <div class="col-xs-12 text-left toAlignCenter"><label>Phone number</label></div>
-                                        <div class="col-xs-12"><input id="suPhoneNumber" name="phoneNumber" style="width:225px;padding:3px 0px;" class="phoneNumber" type="text" value=""></div>
-                                    </div>
-
-                                    <div class="row mtop20">
-                                        <div class="col-xs-12"><a href="#" id="signUp" class="button-1">Sign up</a></div>
-                                    </div>
-                                </form>
-                            </div>
-                            <div id="signupResponse" style="display:none;">
-                                <div class="labelRow"><b>Thanks for signup with Flinto</b></div>
-                                <div class="labelRow"></div>
-                                <div class="labelRow">Just one more step away for ordering Flintobox.</div>
-                                <div class="labelRow"></div>
-                                <div class="labelRow"><b>We have sent a mail to your Inbox. Please verify your account just by clicking the link. </b>
-                                    <br><br>Note: Please check Spam folder if you did not find in Inbox.
-                                </div> 
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-
 
 
     <!-- remarketing -->
@@ -453,18 +487,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <img height="1" width="1" style="border-style:none;" alt="adwords" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990266438/?value=0&amp;guid=ON&amp;script=0"/>
     </div>
     </noscript>
-
-    <!-- Crazyegg -->
-    <script>
-        setTimeout(function(){
-            var a=document.createElement("script");
-            var b=document.getElementsByTagName("script")[0];
-            a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0028/1919.js?"+Math.floor(new Date().getTime()/3600000);
-            a.async=true;
-            a.type="text/javascript";
-            b.parentNode.insertBefore(a,b)
-        }, 1);
-    </script>
     <script>
         $(document).ready(function(){
             $("#GoDaddySSLSeal").click(function(){
@@ -510,6 +532,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <noscript>
         <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=8415&fmt=gif" />
     </noscript>
+    
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/3356455.js"></script>
+    <!-- End of HubSpot Embed Code -->
 
 
 
@@ -540,12 +566,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="col-xs-12">
                         <div class="heading footer1 mtop10">We Accept</div>
                         <div class="payment-method">
+                            <span class="paytm"></span>
                             <span class="visa"></span>
                             <span class="master"></span>
                             <span class="amex"></span>
-                            <span class="diners"></span>
-                            <span class="rupay"></span>
+<!--                            <span class="diners"></span>-->
+<!--                            <span class="rupay"></span>-->
                             <span class="nb"></span>
+                            
                         </div>
                     </div>
                     <div class="col-xs-12 mtop20">
@@ -591,7 +619,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                    <div class="row">
                     <div class="col-xs-12 col-sm-6 mtop10 footer-link"><a class="footer2" href="/career">career</a></div>
-                    <div class="col-xs-hidden col-sm-6 mtop10 footer-link"></div>
+                    <div class="col-xs-12 col-sm-6 mtop10 footer-link"><a class="footer2" href="/themes-for-8-to-12-year-kids">themes 8 to 12 years</a></div>
                 </div>
                 
             </div>
