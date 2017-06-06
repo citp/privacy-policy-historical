@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dxstar.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426164024id_/http%3A//www.3dxstar.com/terms/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dxstar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105329id_/http%3A//www.3dxstar.com/terms/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -69,9 +69,6 @@ This privacy policy may be changed, modified or edited at any time. It is the su
 ### TERMS AND CONDITIONS OF MEMBERSHIP
 
 Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
-
-Cordiacon Developments Ltd (P.V) Unit 5, 15-17 Caledonian Road P.O. Box 206 London N1 9DX  
-Froytal Services Limited, 33 Larnakos Avenue, Suite 101, 1046, Nicosia, Cyprus 
 
 Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](http://info.yahoo.com/privacy/us/yahoo/webbeacons/)
 
