@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdsmstreak.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910160607id_/http%3A//bdsmstreak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdsmstreak.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061428id_/http%3A//bdsmstreak.com/privacy) for the most accurate reproduction.*
 
 # 2257
 
