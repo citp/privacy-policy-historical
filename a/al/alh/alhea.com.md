@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the alhea.com privacy policy that was archived on 2016-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160111054845id_/http%3A//www.alhea.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alhea.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114025id_/http%3A//alhea.com/support/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Alhea
+
+## Privacy Policy
 
 Ego Cogito, S.L. ("Ego Cogito") owns and operates a number of different sites on the Web. Ego Cogito is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information Ego Cogito may gather about individuals who visit the Ego Cogito Sites, how that information is used, and Ego Cogito's disclosure practices. Please note that this policy applies only to the Ego Cogito Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the Ego Cogito Sites.
 
