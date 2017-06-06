@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skuvault.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831104540id_/http%3A//skuvault.com/resources/privacy-policy.php%3Flinkpos%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skuvault.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114543id_/http%3A//www.skuvault.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # SkuVault Warehouse Management System · Privacy Policy
 
