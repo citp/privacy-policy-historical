@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202183331id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175029id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | FireEye
 
@@ -14,7 +14,7 @@ Here are the principles governing our information practices and other privacy as
 
   * Information Collection and Use
   * Information Sharing and Disclosure
-  * Cross boarder transfer
+  * Cross-border transfer
   * Questions or Suggestions
   * IP Information Collection and Use Practices
   * Cookies
@@ -44,7 +44,7 @@ Here are the principles governing our information practices and other privacy as
 
 
 
-#### Cross Boarder Transfer
+#### Cross-Border Transfer
 
   * FireEye complies with the requirements of the U.S.-EU [Privacy Shield Framework](https://www.privacyshield.gov/welcome), as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FireEye adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity and purpose limitation, access and recourse, enforcement and liability with respect to all personal information transferred from the EU or Switzerland to the US within the scope of its Privacy Shield certification. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>.
   * FireEye remains to adhere to the U.S.-EU Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce, which will not be affected by the participation in the Privacy Shield Framework.
