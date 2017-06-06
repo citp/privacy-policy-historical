@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sifterapp.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201074714id_/http%3A//sifterapp.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sifterapp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170605id_/http%3A//sifterapp.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sifter
 
@@ -24,7 +24,7 @@ We believe that your personal data should only be seen by you unless you choose 
 
 The only instances where we would share your information are…
 
-  * When you explicitly setup an integration with a third party service provider. In this case, we only share the bare minimum amount of information to connect with the other service.
+  * When you explicitly set up an integration with a third party service provider. In this case, we only share the bare minimum amount of information to connect with the other service.
   * If Sifter is acquired by or merges with another company. We don’t expect this to ever happen, but if it does, we’ll notify you well in advance of your data becoming subject to another privacy policy.
   * When it’s necessary in order to investigate, prevent, or take action related to illegal activities, suspected fraud, violations of our [Terms of Service](https://web.archive.org/polocies/terms/), or as otherwise required by law.
 
