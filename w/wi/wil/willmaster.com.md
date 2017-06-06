@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willmaster.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122055426id_/http%3A//www.willmaster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willmaster.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074334id_/http%3A//willmaster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Will Bontrager Software LLC Privacy Policy
 
@@ -48,4 +48,4 @@ If you have any questions about this privacy policy, the practices of any of the
 
 © 1998-2001 William and Mari Bontrager   
 © 2001-2011 Bontrager Connection, LLC   
-© 2011-2016 Will Bontrager Software LLC 
+© 2011-2017 Will Bontrager Software LLC 
