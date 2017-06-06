@@ -1,15 +1,36 @@
-> *The following text is extracted and transformed from the rapidshare-search-engine.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126202037id_/http%3A//rapid-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidshare-search-engine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151631id_/http%3A//ww43.rapidshare-search-engine.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Rapidshare search engine - Search files hosted on rapidshare
+# Privacy Policy
 
-Rapid-search-engine.com committed to user privacy and our policy below describes our principles in maintaining user trust and confidence and protecting your personal information.
+* **Overview**
 
-## Information Collection and Use
+Thank you for visiting ww43.rapidshare-search-engine.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-Any emails that you enter on this site for the purpose of subscribing to any of our services are used strictly for these purposes, at any time you can unsubscribe from our services in which case the email address is permanently deleted from our database.
+* **What Type of Information We Collect**
 
-Rapid-search-engine.com does not collect or use any personally identifying information when you visit our website. Rapid-search-engine.com may, however, from time-to-time, collect non-personally identifying information available from your browser when you request a page from our website. This information includes your IP address, your browser type, the URL requested by your browser and the date and time of your query. We use this information to monitor the usage of our website and to improve the quality of our service.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-On occasion and in the future, non-personally-identifiable information we collect may be shared with third-parties to provide more relevant services and advertisements to our visitors. For instance, we may share the number of users that have searched for a specific files or clicked on a specific advertisement featured on our site.
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-We adhere to valid legal processes and may provide information as required by law to protect and defend the rights of our company, and in certain instances, to protect the personal safety of users and the public. 
+* **Uses May Include**
+
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
+
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
+
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
+
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
