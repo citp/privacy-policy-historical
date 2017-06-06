@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coinmedia.co privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330163559id_/http%3A//coinmedia.co/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinmedia.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193726id_/http%3A//coinmedia.co/policy.html) for the most accurate reproduction.*
 
-# coinmedia.co
+# CoinMedia.Co - Bitcoin Advertising Network.
 
 ## What is this Privacy Policy for?
 
