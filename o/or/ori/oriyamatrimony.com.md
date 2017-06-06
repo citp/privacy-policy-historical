@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oriyamatrimony.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225085953id_/http%3A//www.oriyamatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPORIYA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oriyamatrimony.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180316id_/https%3A//www.oriyamatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPORIYA) for the most accurate reproduction.*
 
 # www.oriyamatrimony.com
 
