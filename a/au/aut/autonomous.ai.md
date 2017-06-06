@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autonomous.ai privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322061147id_/https%3A//www.autonomous.ai/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonomous.ai privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215042id_/https%3A//www.autonomous.ai/policies) for the most accurate reproduction.*
 
-# Autonomous: Everyday Smart Products
+# Policies | Autonomous
 
 This Privacy Policy describes the types of information that Autonomous. (" **we** " or " **us** ") collects and how we use that information. This policy is effective 10/1/2013. 
 
