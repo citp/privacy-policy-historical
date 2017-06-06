@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mbsdirect.net privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216013427id_/http%3A//www.mbsdirect.net/disclaimer/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbsdirect.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111849id_/http%3A//www.mbsdirect.net/disclaimer/privacy-policy.php) for the most accurate reproduction.*
 
 # MBS Direct | Course material fulfillment for the future of education
 
 Home __Disclaimer __Privacy Policy
 
-### Effective date: July 7, 2016
+### Effective date: January 3, 2017
 
 This Privacy Policy describes and governs the information collection, use and sharing practices of MBS Direct, LLC ("MBS") with respect to this Website.
 
@@ -123,6 +123,8 @@ Contests, sweepstakes and promotions. Occasionally, we may run a promotion such 
   5. ### Security of your information
 
 We take reasonable and appropriate measures to help keep information secure and to help prevent it from becoming disclosed. Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect so we cannot promise, and you should not expect, that your information will be secure in all circumstances.
+
+For security purposes, we do not accept credit card information via email, web form, or social media. 
 
   6. ### Editing your Personal Information
 
