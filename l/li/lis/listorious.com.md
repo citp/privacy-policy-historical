@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listorious.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427053041id_/http%3A//muckrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listorious.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222009id_/https%3A//muckrack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,10 +55,10 @@ You must be at least 13 years old to register to use the Service.
 
 The Service is hosted in the United States and is primarily intended for and directed to users in the United States. If you are accessing the Service from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Service, which is governed by U.S. law, this Privacy Policy, and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.
 
-**California Privacy Rights  
-**  
+#### California Privacy Rights
+
 California Civil Code Section 1798.83 permits users of the Service who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to [privacy@sawhorsemedia.com](mailto:privacy@sawhorsemedia.com)  or write us at:
 
 Sawhorse Privacy Rights  
-632 Broadway, Suite 901  
+588 Broadway #503  
 New York, New York 10012 
