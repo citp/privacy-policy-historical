@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906131517id_/http%3A//www.biggerbras.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134041id_/http%3A//www.biggerbras.com/privacy-and-security) for the most accurate reproduction.*
 
 # Big Girls Bras Privacy Policy and Security Information
 
@@ -11,7 +11,7 @@ BGB does not release or sell email addresses obtained through our website or oth
 BGB does not release or sell the names and addresses of its customers obtained through its website or other activities. All personal information is held as "strictly confidential" by BGB.
 
 Packaging  
-BGB mails your package in a plain white poly-vinyl envelope, a standard Post Office priority box, or a plain brown box. The return label reads: BGB - 3540 N.W. 56th Street, Suite 207 - Ft. Lauderdale, FL 33309. No indication of the contents of the package is visible on the package except for the word "clothing" and the value of the contents when needed for Canadian, European or other international customs stickers.
+BGB mails your package in a plain white poly-vinyl envelope, a standard Post Office priority box, or a plain brown box. The return label reads: BGB - PO Box 590250 - Ft. Lauderdale, FL 33359. No indication of the contents of the package is visible on the package except for the word "clothing" and the value of the contents when needed for Canadian, European or other international customs stickers.
 
 Cookies
 
