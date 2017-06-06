@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixten.info privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127012434id_/http%3A//clixten.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixten.info privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135138id_/http%3A//clixten.info/privacy.php) for the most accurate reproduction.*
 
 # ClixTen.info
 
