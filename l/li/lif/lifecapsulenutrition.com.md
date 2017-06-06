@@ -1,49 +1,81 @@
-> *The following text is extracted and transformed from the lifecapsulenutrition.com privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907094303id_/http%3A//lifecapsulenutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecapsulenutrition.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173621id_/https%3A//www.lifecapsulenutrition.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Life Capsule Quality Nutrition
+# Privacy Policy | Life Capsule Nutrition
 
-Effective Date: May, 2014
+**Legal Notice**
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.  
-The following Privacy Policy governs the online information collection practices of GETLIFECAPSULE.COM. Specifically, it outlines the types of information that we gather about you while you are using the GetLifeCapsule.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).  
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+LIFE CAPSULE is edited by 50 Square OÜ 50 Square OÜ, SARL with capital of 2,500 euros Headquarters: Narva mnt 5, Tallinn 10117, Estonia Publication Director: Pierre Coutilard EU VAT: EE101769664 Phone: 09 77 55 59 90
 
-##### How We Collect and Use Information
+**Statement of Privacy / Data Protection - Data Protection Act** **Introduction**
 
-We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). GetLifeCapsule.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. GetLifeCapsule.com collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
+The information collected on this site is subject to data processing intended for the exclusive use of LIFE CAPSULE.
 
-We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a “cookie” to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
+LIFE CAPSULE is committed to protecting the privacy of its customers and visitors to its websites, and views the protection of personal data as being of fundamental importance for the operation of its business. The personal data of customers and site visitors are protected and treated with the utmost care. LIFE CAPSULE is in compliance with the requirements of the Data Protection Act of 6 January 1978.
 
-We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features; advertising that appear on the Site; and, making other offers available to you via email, direct mail or otherwise. We also may provide your information to third parties, such as service providers contractors and third-party publishers and advertisers for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.
+Under the Data Protection Act of 6 January 1978, you have a right to access, modification, cancellation and opposition to the data. If you wish to exercise these rights, please contact our customer service at 09 77 55 59 90 or write to support@GetLifeCapsule.com
 
-Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example on message boards, web logs, through email, or in chat areas – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+We undertake not to disclose to third parties information about you unless you give us permission.
 
-Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party’s privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party’s use of cookies or web beacons or use of your information, you should visit that party’s website and review its privacy policy.
+**Your consent**
 
-The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.  
-We may also make some content, products and services available through our Site or by emailing messages to you through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner’s use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.
+By using our site you accept our privacy policy.
 
-Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.
+**Processing of personal data**
 
-Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
+The data collected by the LIFE CAPSULE is to provide the services requested. Your personal details are stored when you purchase a subscription to a newsletter or order a book
 
-##### Children’s Privacy Statement
+or product, have subscribed to one of our services, or have opened an Internet account. The stored personal data is data such as contact details, information about payments, invoices, ordered products, business data (company and position held) and / or the interest you have shown in a product or service.
 
-This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.  
-This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
+LIFE CAPSULE uses this information to deliver the services you have subscribed to the administrative and business processing services (delivery, opening access rights, billing, etc.), and inform you of new products and services offered by LIFE CAPSULE.
 
-Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties. We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
+**How do we protect your information?**
 
-Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.
+We are implementing a series of security measures to ensure the security of your personal information when you place an order or access your personal information.
 
-##### How do we store your information?
+These security measures include: password protected directories to protect your information, an SSL (Secure Sockets Layer) to ensure that your information is fully encrypted and the data is sent over a secure web or PCI scanning to proactively protect our servers from hackers and other vulnerabilities.
 
-Your information is stored at the list server that delivers GetLifeCapsule.com content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive GetLifeCapsule.com material.  
-All of the messaging or emails that are sent to you by GetLifeCapsule.com include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.
+We offer the use of a secure server. Sensitive information / credit card information provided is transmitted via Secure Socket Layer (SSL) technology, to then be encrypted in the database of our payment gateway provider, accessible only by authorized persons, with specific access rights to such systems, and required to keep the information confidential.
 
-##### Disclaimer
+After a transaction, your private information (credit cards, social security numbers, financial data, etc.) will not be stored in our servers.
 
-Although it is highly unlikely, This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.  
-If you have any questions or concerns regarding our privacy policy please direct them to:
+**Your email address**
 
-[support@GetLifeCapsule.com](mailto:support@getlifecapsule.com)
+If you provided your email address (e.g. to subscribe to a newsletter), it can be used to inform you of other products and services offered by LIFE CAPSULE that may interest you. If you do not wish to receive this information, you can exercise your right of access, modification, cancellation and opposition to your data at any time by contacting our Customer Service by email support @ lifecapsulenutrition.com .
+
+**Navigation and IP History**
+
+To improve the quality of its sites, and Internet services, LIFE CAPSULE collects data concerning navigation on its websites. These data are not personal.
+
+LIFE CAPSULE also uses the IP address of your computer for this purpose. The IP address is a number that is automatically assigned to your computer whenever you surf the Internet.
+
+This information can be used to study the use of the site for analysis and reporting, to display information geographically targeted (geo-targeting), or to adapt the information or services based navigation.
+
+In general, IP addresses are not linked to any information that could identify you, unless you have given your express permission for this.
+
+**Use of Cookies by LIFE CAPSULE**
+
+A cookie is a result of information sent by a website to a computer in the form of a small data file. Cookies are useful for easy customization of your access to our online services. They can be used for authentication, session and store specific information such as preferences on a website or the content of an electronic shopping cart. Storage of cookies is done through the web browser used by the user (e.g. Internet Explorer).
+
+There are two types of cookies:
+
+  *  Session cookies are deleted e d from your computer when you close your browser. 
+  *  Permanent cookies are stock e d on your computer after è s closing the browser. Cookies are however anonymous and are in no way used to collect personal information. LIFE CAPSULE uses cookies to allow and facilitate electronic communication, provide online services subscribed by subscribers, analyze site usage with the aim of improving the quality of its sites, collect general data (not nominative) on its customers for the purposes of targeted communication, including the provision of targeted information on products or services provided by LIFE CAPSULE. Website LIFE CAPSULE broadcast advertising also use "cookies" for advertising purposes, to direct certain advertisements based on the geographic area of Internet and or advertising that will present a number of times limited by the recipient. **Refusal of cookies** You are free to accept or decline cookies by configuring your browser (disabling or all of the cookies - see your web browser manual or help function). Disabling cookies may result in the unavailability of certain services which they are associated. It does not prevent access to non-reserved areas of the site. Furthermore, we keep track of connections to our sites, including their origin. This information is used for purposes of statistical analysis. The corresponding data do not contain personal data and are destroyed after use. **Hyperlinks**
+
+
+
+Users are formally informed that the sites they can access through hyperlinks do not all belong to LIFE CAPSULE. LIFE CAPSULE is not responsible for the content of information provided on sites that do not belong to him, under the activation of the hyperlink.
+
+**Do we disclose information to third parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personal information. This does not include trusted third parties who assist us in operating our website, operate our business or service to you, as long as those parties agree to keep this information confidential. We may also disclose your information when we believe it is necessary to comply with the law, to implement policies of our site and to protect our rights, our property, our security or those / that of others. However, non-identifiable information may be provided to third parties for commercial or advertising purposes or other.
+
+**Legal notice to users**
+
+The user agrees to the characteristics and limitations of the Internet and, in particular, recognize:
+
+  *   Have knowledge of the nature of the I nternet and in particular its technical performance and response t ime to consult, question or transfer t he data or information. 
+  *  The communication by the u ser to third parties of his credentials and a gernal way of any information found by the user as personal or confidential is at risk 
+  *  That it is up to the user to take all appropriate measures to protect its own data and or software from contamination by virus on the Internet 
+  *  That data circulating on the Internet can be regulated in terms of use or protect by right of prosperity. Generally, the user is solely responsible for the selection, use and interpretation of the data he consults, questions and transfers on the Internet and use online services offered by LIFE CAPSULE. **Subject to change** LIFE CAPSULE reserves the right to make changes to this privacy statement. Visitors and clients' websites LIFE CAPSULE are encouraged to regularly visit this privacy statement to consult the latest version of the group's privacy policy. For any questions regarding this privacy policy, please contact us using the contact information below. 
+
+
