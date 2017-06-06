@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the shemaleyum.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141050id_/http%3A//www.shemaleyum.com/compliance/privacypolicy.php%3Fsite%3Dshemaleyum.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemaleyum.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055434id_/http%3A//www.shemaleyum.com/compliance/privacypolicy.php%3Fsite%3DShemale%2520Yum) for the most accurate reproduction.*
 
-# shemaleyum.com - Privacy Policy
+# Shemale Yum - Privacy Policy
 
 PRIVACY POLICY
 
 FOR
 
-“shemaleyum.com”
+“Shemale Yum”
 
 Effective Date: May 17, 2011
 
