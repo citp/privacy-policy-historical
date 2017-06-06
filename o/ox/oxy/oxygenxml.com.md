@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109093339id_/http%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123056id_/https%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - oXygen XML Editor
+# Privacy Policy - Oxygen XML Editor
 
   * Collection of Your Personal Information
   * Use of Your Personal Information
