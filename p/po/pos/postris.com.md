@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postris.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028104842id_/http%3A//postris.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postris.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104830id_/http%3A//postris.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Postris
+# Privacy Policy | Postris.com
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
