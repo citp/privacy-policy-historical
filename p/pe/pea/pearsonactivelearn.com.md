@@ -1,136 +1,104 @@
-> *The following text is extracted and transformed from the pearsonactivelearn.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212132937id_/http%3A//uk.pearson.com/pearson-privacy/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonactivelearn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024602id_/http%3A//uk.pearson.com/pearson-privacy/policy/digital-learning-services-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Pearson UK
+# Digital Learning Services Privacy Policy | Pearson UK
 
-(Updated 3 December 2014)
+This Privacy Policy explains to our users and institutional customers how personal information will be used by Pearson in relation to our Digital Learning Services, which we refer to as the 'Services'.
 
-Please read our privacy policy as it explains how your personal information will be used by Pearson.
+By using these Services you are agreeing to the user terms and conditions which apply to the Services concerned, and to this Privacy Policy. If you do not agree to these conditions, please do not use these Services.
 
-  1. [Introduction](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#1)
-  2. [What information does Pearson collect about me?](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#2)
-  3. [How does Pearson collect my personal information?](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#3)
-  4. [What will Pearson do with my personal information?](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#4)
-  5. [Email marketing and opt-out](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#5)
-  6. [How does Pearson keep my personal information safe?](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#6)
-  7. [Will Pearson share my personal information with anyone else?](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#7)
-  8. [What if I am under 18 years old?](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#8)
-  9. [Abuses of this Privacy Policy](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#9)
-  10. [Changes to this Privacy Policy](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#10)
-  11. [Contacting Pearson](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#11)
+At Pearson we provide a number of Digital Learning Services, which aim to make learning more engaging for both adults and children.
+
+Services linking to this Privacy Policy or referring to this Privacy Policy, are operated by Pearson Education Limited which is registered with the Information Commissioners Office under registration number Z8325164.  
 
 
+Institutional customers who use these Services must get the necessary consent (in accordance with relevant privacy legislation) to upload personal information about teachers and learners to the Services. Institutional customers must also ensure that any personal information they upload is accurate.
 
-### 1\. Introduction
+If you have any doubt whether you have consent to upload the personal information, please do not use these Services.
 
-At Pearson, we know that you care how your personal information is used and we appreciate that you trust us to do that carefully and sensibly.
+As an institutional customer you are also required to maintain appropriate technical and organisational measures against unauthorised or unlawful processing of that personal information and against accidental loss, theft, destruction of or damage to that personal information. Passwords and user names for these Services should not be written down or shared. If you are a learning provider registering learners, please only upload school-issued email addresses for learners (not personal email addresses such as hotmail accounts). Legally as an institutional customer you are the data controller in respect of your teachers' and learners' personal information which is collected and used by the Services.
 
-This Privacy Policy is designed to help you understand how we and other companies in our group collect and use your personal information. We want you to make informed decisions when using our websites and any features on them, including any registration and e-commerce services.
+In an automatic operation the web server will collect users’ IP address and browser type and details of the website the user came from before entering these Services. This information is used to:
 
-This Privacy Policy applies to all the pages on our sites and any features of them and any e-commerce, purchasing or other areas which require registration. However, it won’t apply to any third-party sites which are linked to our sites. We recommend that you read the privacy policy of any such sites that you visit as we are not responsible for them.
-
-When we refer to our website or sites, we mean any of our websites from which you have accessed this Privacy Policy.
-
-We have included full details of who we and our group companies are at the end of this Privacy Policy.  
-
-
-### 2\. What information does Pearson collect about me?
-
-Personal information that we collect may include your name, contact details (phone numbers, email address and addresses), your date of birth, job, course information, your personal interests, credit card or billing information, shopping selections and data about the pages you visit on our site, as well as any other personal information relating to you or a third party that you supply to us.  
-
-
-### 3\. How does Pearson collect my personal information?
-
-We collect your information in two ways:  
-
-
-  1. Personal information you choose to disclose. You may, for example, provide us with your information when you post something on our site, when you register for any features on our site that require registration, when you contact us (online or offline) or when you order goods or services from us.  
- 
-  2. Information collected by us when you interact with our site, our mobile applications or when you open our email communications. We use cookies (a small piece of computer code that we store for a period of time on your computer or mobile device) and other similar technologies to collect this information. To find out more, please visit our [**Cookie Policy**](http://uk.pearson.com/pearson-privacy/your-data-at-pearson/cookies/cookie-policy) page.
+  * work out how many times these Services are visited;
+  * record which parts of these Services have been visited so we can improve the content and layout of the Services.
 
 
 
-In a separate automatic operation the web server will collect your IP address and browser type and details of the website, mobile application or email communication you came from before entering our site. This information is used to:
+This information is anonymous – it is not used to identify individual users. We may from time to time supply third parties with this anonymous data for uses in connection with our Services.
 
-a) work out how many times our site has been visited  
-b) record which parts of our site have been visited so we can improve the content and layout of the site  
-c) understand the effectiveness of our email communications.
+[Find out more about how we use cookies at Pearson](https://web.archive.org/uk/pearson-privacy-and-you/cookie-policy.html)
 
-We may from time to time supply this data to third parties in an anonymised form for uses in connection with our site.
+Marketing will not be sent to any learners aged under 18 registered to use these Services unless consent has been provided on behalf of the learners.
 
-### 4\. What will Pearson do with my personal information?
+Contact details for teachers and adult subscribers using these Services may be used for these purposes:
 
-We and our group companies may use your personal information to process your online purchases, to inform you about products and services offered by us and our group companies, to improve the products and services offered to you, for market research purposes, for marketing, statistical or analytical purposes, and otherwise to better meet the needs and preferences of our customers. We will not allow unrelated third parties to use your personal information for marketing without your consent.
-
-In particular, we may use your information to: 
-
-  1. contact you with more information on our products and services and those of our group companies, except where you have told us not to
-  2. inform you of activities on our site
-  3. invite you to participate in surveys, discussions and prize draws and ask for your views on our services via online surveys and discussion forums. 
+  1. to contact the user with more information about our products and services and those of our group companies, except where the user has told us not to
+  2. to inform the user of activities on our Services
+  3. to invite the user to participate in surveys, discussions and prize draws and ask for the user’s views on our Services via online surveys and discussion forums.
 
 
 
-We also use personal information in aggregate form (so that no individual user is identified by name) to build marketing profiles, audit how our sites are used, and to help with the strategic development of our sites.
+Participation in surveys and discussion forums is entirely voluntary. Users may unsubscribe from being contacted for these purposes at any time. Survey information will be used for market research with the aim of improving our Services.
 
-Participation in surveys and discussion forums is entirely voluntary. You may unsubscribe from being contacted for these purposes at any time. Survey information will be used for market research with the aim of improving our services.    
-We will show your username on any content you submit or post on our sites (including discussions, bulletin boards and forums).
+We will not send marketing emails to a user who has opted out of receiving them. Any marketing communications we send will include an unsubscribe link at the end of the email.
 
-### 5\. Email marketing and opt-out
+Personal information which relates to these Services will be kept for a reasonable amount of time, and for a minimum of one calendar year after a subscription expires.
 
-We will not send you marketing emails if you have opted out of receiving them. Any marketing emails we send you will include an unsubscribe link at the end of the email. Some Pearson sites also provide contact details you may use if you want to contact us by email, post or telephone in order to unsubscribe. In addition, some Pearson sites have a "My Account" page where you can choose whether or not to receive marketing communications from us.  
+Any improper collection or misuse of personal information is a violation of this Privacy Policy and of our ‘Terms and Conditions’. Please report it by emailing [UKDataProtection@pearson.com](mailto:UKDataProtection@pearson.com).
 
+All institutional customers and users must agree not to misuse any personal information available on these Services or to gather personal information or use robots or other automated scripts, codes or functionalities to do so.
 
-### 6\. How does Pearson keep my personal information safe?
+We may immediately suspend or terminate users’ and institutional customers’ access without notice if we become aware that they are in breach of our Terms and Conditions or of this Privacy Policy.
 
-We seek to protect the safety of all your personal information. In particular, provided your browser accepts Secure Sockets Layer encryption, we seek to protect your payment information against unauthorised access through a secure server. Where we use third parties to process personal information, we require them to ensure the safety of your information. We use appropriate security measures on our own systems, but the internet is not a secure medium and we cannot guarantee the security of information transmitted via the internet. 
+If you have any questions about our Privacy Policy or would like to make a subject access request (for which a £10.00 fee is charged), please do not hesitate to contact us at:
 
-Any personal information that you voluntarily post on a public area of our site, such as a bulletin board or discussion forum, or an interactive area requiring registration and/or subscription, may be collected and used by others. Please be careful what personal information you disclose in this way. You understand that we cannot control the actions of other users.
-
-### 7\. Will Pearson share my personal information with anyone else?
-
-We will never sell your personal information. We may disclose and share personal information with the third parties listed below. Because the internet is a global environment, you accept and agree that this will include the transfer of your personal information to other countries around the world, including countries outside of the European Economic Area which may not have the same data protection laws as the UK. We may share your personal information:  
-
-
-  1. with our group companies or any entity which acquires any part of our business
-  2. with our service providers (including, for example, credit reference agencies and payment processors, distributors/agents of our products, suppliers who develop or host our sites) 
-  3. with third-party search engines that may index user profile pages and usernames as part of the URL of the user profile page by default 
-  4. if required or permitted by law
-  5. with relevant third parties (such as your employer, your school, your internet service provider, law enforcement agencies) if we reasonably believe you may be in breach of the law (e.g. if you have posted defamatory content on our sites)
-  6. with other third parties with your consent.
-
-
-
-### 8\. What if I am under 18 years old?
-
-If you are under 18, please be sure to read this Privacy Policy with your parent or guardian and ask them questions about anything you don’t understand. Please get their permission before you provide Pearson with any personal information.
-
-### 9\. Abuses of this Privacy Policy
-
-Any improper collection or misuse of personal information is in violation of this Privacy Policy and of our [**Legal Notice**](https://web.archive.org/legal-notice.html). Please report it by emailing [ **UKDataProtection@pearson.com**](mailto:UKDataProtection@pearson.com).
-
-You agree not to misuse any personal information available on our Site or to gather it or use robots or other automated scripts, codes or functionalities to do so. 
-
-We may immediately suspend or terminate your access to our site without notice if we become aware that you are in breach of applicable terms and conditions of use or of this Privacy Policy.
-
-### 10\. Changes to this Privacy Policy
-
-We may update this Privacy Policy from time to time. We will always include the date of a new version so that you know when there has been a change. If you don’t agree to the changes, please don’t continue to use our site or provide us with your personal information.  
-
-
-### 11\. Contacting Pearson
-
-If you have any questions about our Privacy Policy or the data we hold about you, or you wish to ensure that the data we hold about you is accurate and kept up to date, please do not hesitate to contact us at: 
-
-Data Protection Officer   
-Pearson   
+Data Protection Officer  
+Pearson  
 80 Strand  
 London  
-WC2R 0RL  
-United Kingdom 
+WC2R 0DT  
+United Kingdom
 
-\- or email us at [ **UKDataProtection@pearson.com**](mailto:UKDataProtection@pearson.com).
+or email us at [UKDataProtection@pearson.com](mailto:UKDataProtection@pearson.com).
 
-This Privacy Policy is provided by Pearson Education Limited (registered number 872828, registered office 80 Strand, London, WC2R 0RL, United Kingdom) on its own behalf, and on behalf of its group companies.  
+This Privacy Policy is provided by Pearson Education Limited (registered number 872828, registered office 80 Strand, London, WC2R 0RL, United Kingdom) on its own behalf.
 
-References in this Privacy Policy to “Pearson”, “we”, “us”, “our” or similar refer to Pearson Education Limited or whichever Pearson group company is operating the relevant website.
+References in this Privacy Policy to "Pearson", "we", "us", "our" or similar refer to Pearson Education Limited.
 
-Our “group companies” mean companies which are under common control with Pearson Education Limited by Pearson Plc, including without limitation Edexcel Limited (and its subsidiaries), Fronter AS (and its subsidiaries), Pearson Assessment & Information GmbH, Pearson Education Inc, Pearson College Limited, Pearson Education Deutschland GmbH, Pearson Education Schweiz AG, Pearson Educación S.A, Pearson Education France SAS, Pearson Education Benelux BV, Pearson Education Hellas SA, Pearson Italia SpA, Pearson Education Central Europe Sp Zoo, Pearson Education South Asia Ltd, Pearson Education Asia Ltd, Pearson Education Japan KK, Pearson Education Korea Ltd, Pearson Australia Group Pty Ltd, Pearson New Zealand Ltd, Pearson South Africa Pty Ltd, Longman Nigeria plc, Pearson Education de Mexico SA de CV, Pearson Education de Colombia Ltda, Pearson Education do Brazil Ltda.
+In this Privacy Policy individuals who use the Services are referred to as “users”. Users could include learners and teachers, or individual subscribers who purchase access to the Services for themselves or for a child in their care.
+
+When we refer to “institutional customers” we mean learning providers, such as schools and colleges, who purchase access to the Services for use in their institutions.
+
+Limited personal information is collected during the registration process for these Services. As a guide we normally request the following data fields for learners: First Name, Last Name and Year Group, DOB, plus a school-issued email address where required (or a personal email address if an individual adult purchases access for their or their child’s personal use, rather than access being purchased by an institution). We do not usually collect personal addresses for learners where a service is sold through an institution. Limited personal information is also uploaded by learning providers for teachers: First Name, Last Name and Email address. If you would like to find out exactly what personal data will be collected as part of your service please contact [ukdataprotection@pearson.com](mailto:ukdataprotection@pearson.com).
+
+Email addresses for learners are collected in order to be able to issue passwords securely through our systems. Please also refer to section 7 of this Privacy Policy to see how else email addresses may be used.
+
+Institutional customers are responsible for ensuring that accurate information is uploaded to the Services. Please see institutional customer responsibilities outlined under section 3 of this Privacy Policy.
+
+Learners and teachers may also generate personal information when using these Services. For example, the Services may record the number of points obtained by a learner, details of the books or activities a learner has read, and any learner/ teacher comments that have been entered as part of online exercises.  
+
+
+The personal information that is collected about users will only be used to provide these Services and in accordance with this Privacy Policy. We will never sell users’ personal information and we will not pass users’ personal information to any third parties without the users’ consent except that we may disclose and share personal information:
+
+with our service providers (for example, suppliers who develop or host our Services) – in which case we will require them to provide the same level of protection as provided by Pearson; and/or
+
+  * if required or permitted by law; and/or
+  * with relevant third parties (such as law enforcement agencies) if we reasonably believe a user may be in breach of the law (e.g. if a user has posted defamatory content on our Services);
+  * with users’ school, employer or parent where the school, employer or parent has purchased access to the Services on the users’ behalf; and/or
+  * with our group companies who may use the information in accordance with the Marketing Communications and the Opting Out section below. Please note information on learners aged under 18 will not be shared with group companies for marketing purposes.
+
+
+
+We also use personal information in aggregate form (so that no individual user is identified by name) to build marketing profiles, audit how our Services are used, and to help with the strategic development of our Services.
+
+At Pearson we will maintain appropriate technical and organisational measures against unauthorised or unlawful processing of personal information and against accidental loss, theft, destruction of or damage to personal information.
+
+We seek to protect the safety of all personal information. In particular, provided a user’s browser accepts Secure Sockets Layer encryption, we seek to protect payment information against unauthorised access through a secure server. Where we use third parties to process personal information, we require them to ensure the safety of personal information. We use appropriate security measures on our own systems, but the internet is not a secure medium and we cannot guarantee the security of information transmitted via the internet. 
+
+The personal information for these Services is usually hosted within the European Economic Area (EEA). If we contract service providers who will process personal data outside the EEA, we will require them to provide the same level of protection as provided by Pearson. Please see our commitment regarding what we will do with the personal information outlined in [section 6 of this Privacy Policy.
+
+These Services may be aimed at learners aged under 18.
+
+If a learner is under 18 and has any questions in relation to their personal information and these Services, we recommend that the questions are directed to their parent or legal guardian, or the learner’s teacher where relevant.
+
+We may update this Privacy Policy from time to time. We will always include the date of a new version so that you know when there has been a change. If you don't agree to the changes, please don’t continue to use these Services or to provide us with your personal information.
