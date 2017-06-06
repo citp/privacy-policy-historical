@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapbookscrapbook.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418021453id_/http%3A//www.scrapbookscrapbook.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapbookscrapbook.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043807id_/http%3A//www.scrapbookscrapbook.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Free Printable Scrapbooking Papers from ScrapbookScrapbook.com
 
