@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009110330id_/https%3A//www.redcort.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183558id_/https%3A//www.redcort.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Redcort Software Inc.
 
