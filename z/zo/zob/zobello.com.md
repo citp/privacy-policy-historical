@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zobello.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120133958id_/http%3A//www.zobello.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zobello.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210722id_/https%3A//www.zobello.com/privacy-policy) for the most accurate reproduction.*
 
 # Zobello Privacy Policy
 
-Zobello respects the privacy of all visitors to its website and is highly committed to maintaining the privacy of all online visitors to its website [www.zobello.com](http://www.zobello.com/).
+Zobello respects the privacy of all visitors to its website and is highly committed to maintaining the privacy of all online visitors to its website [www.zobello.com](https://www.zobello.com/).
 
 We will use your data to make sure that your orders will be handled as fast and easy as possible or that certain parts of sites are more tailored to your interests. However, we will not share your Personally Identifiable ‘Information’ with others without your prior consent. This document describes how we deal with your online privacy and online security.
 
