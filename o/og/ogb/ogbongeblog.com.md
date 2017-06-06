@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ogbongeblog.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613192457id_/http%3A//goo.gl/3Hr8t) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogbongeblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134937id_/http%3A//www.ogbongeblog.com/p/privacy.html) for the most accurate reproduction.*
 
-# Tech Blog in Nigeria for How TOs : OgbongeBlog: Privacy |
+# Privacy
 
 **Privacy Policy** for http://www.ogbongeblog.com
 
@@ -23,3 +23,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 AdSense Privacy Policy Provided by [OgbongeBlog](http://www.ogbongeblog.com/)
+
+  
+
