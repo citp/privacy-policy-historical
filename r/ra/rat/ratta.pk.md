@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratta.pk privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228225040id_/http%3A//www.ratta.pk/p/blog-page_13.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratta.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140047id_/http%3A//www.ratta.pk/p/blog-page_13.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ratta.pk
 
