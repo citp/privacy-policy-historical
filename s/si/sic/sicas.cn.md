@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sicas.cn privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124172846id_/http%3A//www.sicas.cn/AboutUs/Info/Content_111110165913945.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sicas.cn privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184711id_/https%3A//www.sicas.cn/AboutUs/Info/Content_111110165913945.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
