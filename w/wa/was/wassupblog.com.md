@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wassupblog.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129075431id_/http%3A//wassupblog.com/disclosure/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wassupblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093438id_/http%3A//wassupblog.com/disclosure/privacy) for the most accurate reproduction.*
 
-# Privacy | WassupBlog
+# Privacy - WassupBlog
 
 [](http://en.winspark.com/lps/zombies.html?brandId=3&campaignId=24809&mediaId=4979&affiliateProfileName= "200spins")  
 
