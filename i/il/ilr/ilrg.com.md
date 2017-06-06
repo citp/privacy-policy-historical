@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206155227id_/http%3A//ilrg.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234443id_/https%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
 
 # ILRG.com: Our Privacy Policy
 
