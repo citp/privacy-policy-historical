@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryforchange.tv privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108120512id_/http%3A//www.hungryforchange.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryforchange.tv privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115007id_/http%3A//www.hungryforchange.tv/privacy) for the most accurate reproduction.*
 
 # Privacy | HUNGRY FOR CHANGE
 
