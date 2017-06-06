@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checksinthemail.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224114042id_/https%3A//secure.checksinthemail.com/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksinthemail.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231714id_/http%3A//secure.checksinthemail.com/security.aspx) for the most accurate reproduction.*
 
 # Security Details
 
