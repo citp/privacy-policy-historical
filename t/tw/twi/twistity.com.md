@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the twistity.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105054622id_/http%3A//twistity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistity.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090307id_/http%3A//twistity.com/privacy) for the most accurate reproduction.*
 
 # TWISTITY PRIVACY POLICY
 
 **_TWISTITY Privacy Policy_**
 
-_Version 2.4 Dated March 2, 2015_
+_Version 2.4 Dated March 2, 2016_
 
 _BY ACCESSING THIS WEBSITE OR ANY OTHER SITE OPERATED BY Twistity.com, LLC., INCLUDING ALL OF ITS DIVISIONS, SUBSIDIARIES AND RELATED COMPANIES (COLLECTIVELY, THE “Twistity.com SITES”), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, WHETHER YOU ARE A “VISITOR” (WHICH MEANS THAT YOU SIMPLY BROWSE THE Twistity.com SITES) OR YOU ARE A “MEMBER” (WHICH MEANS THAT YOU HAVE REGISTERED WITH ANY OF THE Twistity.com SITES). THE TERM “USER” REFERS TO A VISITOR OR A MEMBER. “YOU” REFERS TO YOU AS A VISITOR OR A MEMBER._
 
