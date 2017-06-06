@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chasingthedonkey.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122105621id_/http%3A//www.chasingthedonkey.com/croatia-travel-blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasingthedonkey.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181423id_/https%3A//www.chasingthedonkey.com/croatia-travel-blog/privacy-policy) for the most accurate reproduction.*
 
 # Croatia Travel Blog: Privacy Policy | Chasing the Donkey
 
@@ -80,7 +80,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   1. whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  2. if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time [by contacting us](http://www.chasingthedonkey.com/travel-croatia-work-with-me/).
+  2. if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time [by contacting us](https://www.chasingthedonkey.com/travel-croatia-work-with-me/).
 
 
 
