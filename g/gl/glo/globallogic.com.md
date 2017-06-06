@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2016-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160705172628id_/https%3A//www.globallogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175455id_/https%3A//www.globallogic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GlobalLogic
 
@@ -31,7 +31,5 @@ E. How to Manage the Sharing Of Your Personally Identifiable Information. You ca
 F. Linking to other Internet sites. You should be aware that other Internet sites that are linked from the Site(s) or from a GlobalLogic email message may contain privacy provisions that differ from the provisions of this Privacy Policy. To ensure your privacy is protected, we recommend that you review the privacy statements of these other linked sites, applications or other digital properties.
 
 G. Security. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure, however. Accordingly, and despite our efforts, GlobalLogic cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services.
-
-H. Safe Harbor. GlobalLogic Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. GlobalLogic Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. GlobalLogic Inc. will cooperate with data protection authorities located in the European Union or their authorized representative to investigate unresolved complaints regarding GlobalLogic’s Safe Harbor commitments. To learn more about the Safe Harbor program please visit <http://www.export.gov/safeharbor/>.
 
 If you have questions about this Privacy Policy or if you believe that we have not adhered to this Privacy Policy you may write to us at the following address: info@globallogic.com.
