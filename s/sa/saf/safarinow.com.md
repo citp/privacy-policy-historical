@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the safarinow.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506181715id_/https%3A//www.safarinow.com/cms/privacy/irie.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safarinow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235047id_/https%3A//www.safarinow.com/cms/privacy/irie.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
 **SafariNow** respects your privacy and is committed to protecting it. This privacy policy is intended to inform you of our privacy principles and of the choices you can make about the way your information is collected online and how that information is utilized by us.
 
