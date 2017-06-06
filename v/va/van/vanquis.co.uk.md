@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214033416id_/https%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184919id_/https%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies - Vanquis
+# Privacy & Cookie Policy - Vanquis
 
 **June 2016**
 
@@ -117,7 +117,7 @@ We may monitor or record phone calls for training and/or security purposes.
 
 ##  Security 
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, we cannot guarantee the security of any data you disclose online. You should be aware of the inherent security risks of providing information and dealing online over the internet. You do not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, we cannot guarantee the security of any data you disclose online. You should be aware of the inherent security risks of providing information and dealing online over the internet. You do not hold us responsible for any breach of security unless this is due to our negligence or willful default.
 
   
 
@@ -159,7 +159,7 @@ A guide to behavioural advertising and online privacy produced by the internet a
 
 Information on the ICC (UK) UK cookie guide is available on the ICC website:
 
-<http://www.international-chamber.co.uk/our-expertise/digitaleconomy>
+http://www.international-chamber.co.uk/our-expertise/digitaleconomy
 
 Please note that we take no responsibility for the content of these or any other third party websites.
 
@@ -486,4 +486,4 @@ Please consult your documentation or online help files.
 
 ## Website Recording 
 
-Our website mayuse the ServiceTick Limited SessionCam web site recording service. Data collected by SessionCam is used to improve our website by enabling our web team to find and fix errors and improve the functionality of the website. To do this SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into web site forms, however we do not record any card payment details. The information collected is stored and is also used for aggregated and statistical reporting.
+Our website may use the ServiceTick Limited SessionCam web site recording service. Data collected by SessionCam is used to improve our website by enabling our web team to find and fix errors and improve the functionality of the website. To do this SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into web site forms, however we do not record any card payment details. The information collected is stored and is also used for aggregated and statistical reporting.
