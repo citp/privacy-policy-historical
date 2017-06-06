@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mozomotors.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017142700id_/http%3A//mozomotors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozomotors.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035828id_/http%3A//mozomotors.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mozo Motors
+# Privacy Policy
 
 This Application collects some Personal Data from its Users.
 
