@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthtrader.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322232312id_/https%3A//www.healthtrader.com/uk/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthtrader.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222516id_/https%3A//www.healthtrader.com/us/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - HealthTrader
 
-[__****](https://www.healthtrader.com/uk/)Privacy and Cookie Policy ****
+[__****](https://www.healthtrader.com/us/)Privacy and Cookie Policy ****
 
 This Policy applies as between you, the User of this Web Site and HealthTrader Ltd t/a www.healthtrader.com the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
 
@@ -125,6 +125,6 @@ PHPSESSID | Used for essential website features.
 
 Name of Cookie | Name of Provider | Purpose  
 ---|---|---  
-__ar_v4 | Adroll | AdRoll retargeting cookie. For more information visit the [Adroll Privacy page](http://www.adroll.com/about/privacy).  
-__lc.visitor_id | Live Chat  | Tracks users on the website allowing for better support. For more information visit the [Live Chat Privacy page.](http://www.livechatinc.com/privacy-policy/)  
+__ar_v4 | Adroll | AdRoll retargeting cookie. For more information visit the [Adroll Privacy page](https://www.adroll.com/about/privacy).  
+__lc.visitor_id | Live Chat  | Tracks users on the website allowing for better support. For more information visit the [Live Chat Privacy page.](https://www.livechatinc.com/privacy-policy/)  
 _ga | Google | Used to collect information about how visitors interact with our website.
