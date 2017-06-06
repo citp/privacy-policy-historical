@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lurnworkshop.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002606id_/http%3A//lurnworkshop.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lurnworkshop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183035id_/http%3A//www.lurnworkshop.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Lurn
 
@@ -68,7 +68,7 @@ Under California Law SB 27, California residents have the right to receive, once
 
 "Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
 
-Deleting Cookies: If you don't want our Company's cookies on your computer, to be used for the purposes stated herein, they are easy to delete. Simply go to <http://www.aboutcookies.org/Default.aspx?page=2> for instructions.
+Deleting Cookies: If you don't want our Company's cookies on your computer, to be used for the purposes stated herein, they are easy to delete. Simply go to <http://wiht.link/cookiesguide> for instructions.
 
 Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
 
