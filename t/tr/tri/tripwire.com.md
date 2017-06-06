@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202041550id_/http%3A//www.tripwire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195801id_/http%3A//www.tripwire.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Tripwire
-
-  1. [Home](https://web.archive.org/ "Home")
-  2. [Legal](https://web.archive.org/legal/ "Legal")
-  3. [Privacy Policy](https://web.archive.org/legal/privacy/ "Privacy Policy")
-
-
+# Tripwire Privacy Policy
 
 ### Does my privacy matter to Tripwire?
 
@@ -67,4 +61,4 @@ Tripwire Headquarters
 101 SW Main St., Ste. 1500  
 Portland, OR 97204
 
-We can be reached via e-mail at [webmaster@tripwire.com](mailto:webmaster@tripwire.com "webmaster@tripwire.com") or you can reach us by telephone at 503.276.7500
+We can be reached via e-mail at [webmaster@tripwire.com](mailto:webmaster@tripwire.com) or you can reach us by telephone at 503.276.7500
