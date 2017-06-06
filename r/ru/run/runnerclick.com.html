@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the runnerclick.com privacy policy that was archived on 2016-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161207222303id_/http%3A//runnerclick.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the runnerclick.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606153828id_/http%3A//runnerclick.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.pushcrew.com/js/e7a1b05f10f6fb0dab444fad4c6e6949.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.pushcrew.com/js/e7a1b05f10f6fb0dab444fad4c6e6949.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 	<meta name="viewport" content="width=device-width">
 	<meta name="p:domain_verify" content="6c139916ec6faa6208fa13f56dfec51f">
 	
@@ -24,7 +24,7 @@
 </script>
 <!-- End PushCrew Asynchronous Code -->
 
-<!-- This site is optimized with the Yoast SEO plugin v3.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v4.6 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Privacy Policy</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="canonical" href="http://runnerclick.com/privacy-policy/">
@@ -37,16 +37,15 @@
 <meta property="article:author" content="Daniel Gonzalez">
 <!-- / Yoast SEO plugin. -->
 
-<link rel="dns-prefetch" href="//www.youtube.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="RunnerClick » Feed" href="http://runnerclick.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="RunnerClick » Comments Feed" href="http://runnerclick.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="RunnerClick » Privacy Policy Comments Feed" href="http://runnerclick.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/runnerclick.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://runnerclick.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/runnerclick.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://runnerclick.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -61,75 +60,63 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="yarppWidgetCss-css" href="http://runnerclick.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="strcomfrontendStylesheet-css" href="http://runnerclick.com/wp-content/plugins/wordpress-social-login_wp-starcomments/assets/css/style-frontend.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="strcomFontAwesome-css" href="http://runnerclick.com/wp-content/plugins/wordpress-social-login_wp-starcomments/assets/css/font-awesome.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="OpenSans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C400italic%2C700&amp;subset=latin%2Ccyrillic-ext&amp;ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="cptch_stylesheet-css" href="http://runnerclick.com/wp-content/plugins/captcha/css/style.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="http://runnerclick.com/wp-includes/css/dashicons.min.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="cptch_desktop_style-css" href="http://runnerclick.com/wp-content/plugins/captcha/css/desktop_style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="yarppWidgetCss-css" href="http://runnerclick.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="cptch_stylesheet-css" href="http://runnerclick.com/wp-content/plugins/captcha/css/style.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://runnerclick.com/wp-includes/css/dashicons.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="cptch_desktop_style-css" href="http://runnerclick.com/wp-content/plugins/captcha/css/desktop_style.css?ver=4.7.5" type="text/css" media="all">
 <link rel="stylesheet" id="contact-form-7-css" href="http://runnerclick.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="up-posts-css" href="http://runnerclick.com/wp-content/plugins/isup-posts/css/front.css?ver=1.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="et_monarch-open-sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="all">
-<link rel="stylesheet" id="et_monarch-css-css" href="http://runnerclick.com/wp-content/plugins/monarch/css/style.css?ver=1.1" type="text/css" media="all">
-<link rel="stylesheet" id="rvpsSiteStyle-css" href="http://runnerclick.com/wp-content/plugins/review-posts/assets/site/css/style.css?t=1481149383&amp;ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="rvpsAwsSiteStyle-css" href="http://runnerclick.com/wp-content/plugins/review-posts/assets/site/css/font-awesome.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="rvpsSlickSiteStyle-css" href="http://runnerclick.com/wp-content/plugins/review-posts/assets/site/css/slick.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="srp-style-css" href="http://runnerclick.com/wp-content/plugins/simple-review-post//public/assets/css/style.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://runnerclick.com/wp-content/plugins/simple-review-post//public/assets/css/font-awesome.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="srp-table-style-css" href="http://runnerclick.com/wp-content/plugins/simple-review-post/public/assets/css/stp-table-front.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="et_monarch-css-css" href="http://runnerclick.com/wp-content/plugins/monarch/css/style.css?ver=1.1.2" type="text/css" media="all">
+<link rel="stylesheet" id="srp-style-css" href="http://runnerclick.com/wp-content/plugins/simple-review-post//public/assets/css/style.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://runnerclick.com/wp-content/plugins/simple-review-post//public/assets/css/font-awesome.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="srp-table-style-css" href="http://runnerclick.com/wp-content/plugins/simple-review-post/public/assets/css/stp-table-front.css?ver=4.7.5" type="text/css" media="all">
 <link rel="stylesheet" id="toc-screen-css" href="http://runnerclick.com/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=9601" type="text/css" media="all">
-<link rel="stylesheet" id="wsl-widget-css" href="http://runnerclick.com/wp-content/plugins/wordpress-social-login_wp-starcomments/assets/css/style.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="easyazonpro-popovers-css" href="http://runnerclick.com/wp-content/plugins/amazon.affiliate/public/popovers/resources/popovers.css?ver=1.1" type="text/css" media="all">
+<link rel="stylesheet" id="yjin_ratings_front_style-css" href="http://runnerclick.com/wp-content/plugins/yjin-ratings/assets/css/front.css?ver=0.11" type="text/css" media="all">
+<link rel="stylesheet" id="easyazonpro-popovers-css" href="http://runnerclick.com/wp-content/plugins/amazon.affiliate/public/popovers/resources/popovers.css?ver=1.5" type="text/css" media="all">
 <link rel="stylesheet" id="runnerclick-fonts-css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="genericons-css" href="http://runnerclick.com/wp-content/themes/runnerclick/genericons/genericons.css?ver=1481149383" type="text/css" media="all">
-<link rel="stylesheet" id="runnerclick-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/style.css?ver=1481149383" type="text/css" media="all">
-<link rel="stylesheet" id="slick-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/css/slick.css?ver=1481149383" type="text/css" media="all">
-<link rel="stylesheet" id="bxslider-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/css/jquery.bxslider.css?ver=1481149383" type="text/css" media="all">
-<link rel="stylesheet" id="flipclock-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/css/flipclock.css?ver=1481149383" type="text/css" media="all">
-<link rel="stylesheet" id="runnerclick-main-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/css/main-style.css?ver=1481149383" type="text/css" media="all">
+<link rel="stylesheet" id="genericons-css" href="http://runnerclick.com/wp-content/themes/runnerclick/genericons/genericons.css?ver=1.9" type="text/css" media="all">
+<link rel="stylesheet" id="runnerclick-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/style.css?ver=1.9" type="text/css" media="all">
+<link rel="stylesheet" id="slick-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/css/slick.css?ver=1.9" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/inc/fancybox/source/jquery.fancybox.css?ver=1.9" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-buttons-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/inc/fancybox/source/helpers/jquery.fancybox-buttons.css?ver=1.9" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-thumbs-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/inc/fancybox/source/helpers/jquery.fancybox-thumbs.css?ver=1.9" type="text/css" media="all">
+<link rel="stylesheet" id="bxslider-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/css/jquery.bxslider.css?ver=1.9" type="text/css" media="all">
+<link rel="stylesheet" id="flipclock-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/css/flipclock.css?ver=1.9" type="text/css" media="all">
+<link rel="stylesheet" id="runnerclick-main-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/css/main-style.css?ver=1.9" type="text/css" media="all">
+<link rel="stylesheet" id="runnerclick-arrow-animation-css" href="http://runnerclick.com/wp-content/themes/runnerclick/css/arrow-animation.css?ver=1.9" type="text/css" media="all">
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='runnerclick-ie-css'  href='http://runnerclick.com/wp-content/themes/runnerclick/css/ie.css?ver=1481149383' type='text/css' media='all' />
+<link rel='stylesheet' id='runnerclick-ie-css'  href='http://runnerclick.com/wp-content/themes/runnerclick/css/ie.css?ver=1.9' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="tablepress-default-css" href="http://runnerclick.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.7" type="text/css" media="all">
-<link rel="stylesheet" id="rating-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/inc/rating/runnerclick-rating.css?ver=1481149383" type="text/css" media="all">
-<script type="text/javascript">
-/* <![CDATA[ */
-var affiliate_stat = {"url":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","action":"aaff_stat"};
-/* ]]> */
-</script>
+<link rel="stylesheet" id="guide_badge-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/inc/guide_badge/guide_badge.css?ver=1.9" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="http://runnerclick.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.8" type="text/css" media="all">
+<link rel="stylesheet" id="rating-style-css" href="http://runnerclick.com/wp-content/themes/runnerclick/inc/rating/runnerclick-rating.css?ver=1.9" type="text/css" media="all">
 <script type="text/javascript" src="http://runnerclick.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://runnerclick.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=4.0.6"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ajax_objects = {"ajax_url":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","nonce":"069902e805"};
+var cptch_vars = {"nonce":"853be170c7","ajaxurl":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","enlarge":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/wordpress-social-login_wp-starcomments/assets/js/mainScript.js?ver=4.6.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var cptch_vars = {"nonce":"6619548702","ajaxurl":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","enlarge":"0"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/captcha/js/front_end_script.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/review-posts/assets/site/js/script.js?t=1481149383&amp;ver=4.6.1"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/review-posts/assets/site/js/slick.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/captcha/js/front_end_script.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/isup-posts/js/front.js?ver=1.0.0"></script>
 <link rel="https://api.w.org/" href="http://runnerclick.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://runnerclick.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://runnerclick.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.6.1">
+<meta name="generator" content="WordPress 4.7.5">
 <link rel="shortlink" href="http://runnerclick.com/?p=621">
 <link rel="alternate" type="application/json+oembed" href="http://runnerclick.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Frunnerclick.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://runnerclick.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Frunnerclick.com%2Fprivacy-policy%2F&amp;format=xml">
 <style type="text/css" id="et-social-custom-css">
-				 .button_orange { text-decoration: none; background: orange; margin: 0 3px 5px; border: none; box-shadow: none; color: #fff; cursor: pointer; font-family: \\\\\\\\\\\\\\\\\\\\\\\\\'Arial\\\\\\\\\\\\\\\\\\\\\\\\\', Helvetica, Arial, sans-serif; padding: 16px 20px; font-size: 15px; font-weight: bold; width: auto; display: inline-block; } .button_red { text-decoration: none; background: red; margin: 0 3px 5px; border: none; box-shadow: none; color: #fff; cursor: pointer; font-family: \\\\\\\\\\\\\\\\\\\\\\\\\'Arial\\\\\\\\\\\\\\\\\\\\\\\\\', Helvetica, Arial, sans-serif; padding: 16px 20px; font-size: 15px; font-weight: bold; width: auto; display: inline-block; } .button_green { text-decoration: none; background: green; margin: 0 3px 5px; border: none; box-shadow: none; color: #fff; cursor: pointer; font-family: \\\\\\\\\\\\\\\\\\\\\\\\\'Arial\\\\\\\\\\\\\\\\\\\\\\\\\', Helvetica, Arial, sans-serif; padding: 16px 20px; font-size: 15px; font-weight: bold; width: auto; display: inline-block; }
+				 .button_orange { text-decoration: none; background: orange; margin: 0 3px 5px; border: none; box-shadow: none; color: #fff; cursor: pointer; font-family: \\\\\\\\\\\\\\\\\\\\\\\\\\'Arial\\\\\\\\\\\\\\\\\\\\\\\\\\', Helvetica, Arial, sans-serif; padding: 16px 20px; font-size: 15px; font-weight: bold; width: auto; display: inline-block; } .button_red { text-decoration: none; background: red; margin: 0 3px 5px; border: none; box-shadow: none; color: #fff; cursor: pointer; font-family: \\\\\\\\\\\\\\\\\\\\\\\\\\'Arial\\\\\\\\\\\\\\\\\\\\\\\\\\', Helvetica, Arial, sans-serif; padding: 16px 20px; font-size: 15px; font-weight: bold; width: auto; display: inline-block; } .button_green { text-decoration: none; background: green; margin: 0 3px 5px; border: none; box-shadow: none; color: #fff; cursor: pointer; font-family: \\\\\\\\\\\\\\\\\\\\\\\\\\'Arial\\\\\\\\\\\\\\\\\\\\\\\\\\', Helvetica, Arial, sans-serif; padding: 16px 20px; font-size: 15px; font-weight: bold; width: auto; display: inline-block; }
 			</style><!-- <meta name="vfb" version="2.9.2" /> -->
 	<style type="text/css" id="runnerclick-header-css">
 			</style>
-	<link rel="icon" href="http://runnerclick.com/wp-content/uploads/2016/06/cropped-fav_imgpsh_fullsize-32x32.png" sizes="32x32">
-<link rel="icon" href="http://runnerclick.com/wp-content/uploads/2016/06/cropped-fav_imgpsh_fullsize-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="http://runnerclick.com/wp-content/uploads/2016/06/cropped-fav_imgpsh_fullsize-180x180.png">
-<meta name="msapplication-TileImage" content="http://runnerclick.com/wp-content/uploads/2016/06/cropped-fav_imgpsh_fullsize-270x270.png">
+	<link rel="icon" href="http://runnerclick.com/wp-content/uploads/2017/02/cropped-logo-512-32x32.png" sizes="32x32">
+<link rel="icon" href="http://runnerclick.com/wp-content/uploads/2017/02/cropped-logo-512-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="http://runnerclick.com/wp-content/uploads/2017/02/cropped-logo-512-180x180.png">
+<meta name="msapplication-TileImage" content="http://runnerclick.com/wp-content/uploads/2017/02/cropped-logo-512-270x270.png">
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -149,7 +136,7 @@ var cptch_vars = {"nonce":"6619548702","ajaxurl":"http:\/\/runnerclick.com\/wp-a
 	  })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 	</script><script async="" src="//static.hotjar.com/c/hotjar-332159.js?sv=5"></script>
 </head>
-<body class="page page-id-621 page-template-default et_monarch sidebar">
+<body class="page-template-default page page-id-621 et_monarch sidebar">
 	<div id="page" class="site">
 		<header id="masthead" class="site-header" role="banner">
 			<div class="header-wrapper-before"></div>
@@ -176,6 +163,8 @@ var cptch_vars = {"nonce":"6619548702","ajaxurl":"http:\/\/runnerclick.com\/wp-a
 		<li id="menu-item-6271" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://runnerclick.com/reviews/running-shoes/barefoot/">Barefoot</a></li>
 		<li id="menu-item-6281" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://runnerclick.com/reviews/running-shoes/triathlon/">Triathlon</a></li>
 		<li id="menu-item-7179" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="http://runnerclick.com/reviews/?brand_filter=brands">Brand</a></li>
+		<li id="menu-item-23525" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="/reviews/?latest_reviews=1">Latest Reviews</a></li>
+
 	</ul>
 </li>
 	<li id="menu-item-6259" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="http://runnerclick.com/reviews/running-clothes/">Running Clothes</a>
@@ -254,10 +243,19 @@ var cptch_vars = {"nonce":"6619548702","ajaxurl":"http:\/\/runnerclick.com\/wp-a
 	<li id="menu-item-6249" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://runnerclick.com/reviews/accessories/">Accessories</a></li>
 </ul>
 </li>
-<li id="menu-item-106" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://runnerclick.com/blog/">The Blog</a></li>
-<li id="menu-item-6366" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://runnerclick.com/contact-us/">Contact Us</a></li>
-<li id="menu-item-17850" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://runnerclick.com/about-us/">About Us</a></li>
+<li id="menu-item-106" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://runnerclick.com/blog/">Blog</a></li>
+<li id="menu-item-32937" class="main-menu-item  menu-item-even menu-item-depth-0 menu-tools-item menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children"><a href="http://runnerclick.com/">Tools</a>
+<ul class="sub-menu menu-odd  menu-depth-1">
+	<li id="menu-item-32936" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="http://runnerclick.com/running-injuries/">Find your Injury</a></li>
+</ul>
+</li>
+<li id="menu-item-6366" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://runnerclick.com/contact-us/" rel="nofollow">Contact</a></li>
+<li id="menu-item-17850" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://runnerclick.com/about-us/" rel="nofollow">About</a></li>
 </ul></div>							<div class="header-right-block">
+								<ul class="header-social">
+									<li><a href="https://www.facebook.com/Runnerclick/" rel="nofollow" class="social-fb" target="_blank"></a></li>
+									<li><a href="https://www.instagram.com/runnerclick/" rel="nofollow" class="social-inst" target="_blank"></a></li>
+								</ul>
 								<div class="site-navigation-search">
 									<span>Search</span>
 									<form role="search" method="get" class="search-form" action="http://runnerclick.com/">
@@ -277,13 +275,13 @@ var cptch_vars = {"nonce":"6619548702","ajaxurl":"http:\/\/runnerclick.com\/wp-a
 					class_headerNav.init(
 						'.nav-menu>li:nth-child(2)>.sub-menu>.menu-item',
 						'http://runnerclick.com',
-						'2e6c5c7bcf',
+						'8afca84b3e',
 						'http://runnerclick.com/wp-admin/admin-ajax.php'
 					);
 				});
 			</script>
 		</header><!-- #masthead -->
-		<div id="main" class="site-main">
+				<div id="main" class="site-main">
 
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content " role="main">
@@ -323,22 +321,22 @@ Amazon&nbsp;Associates</p>
 									</div>
 									<div class="main-sidebar">
 										<div class="sidebar-sign"><!--signup widget-->
-    <div class="sidebar-sign-title">Sign me up for a weekly summary of the best articles published on the blog</div>
+    <div class="sidebar-sign-title"><img src="http://runnerclick.com/wp-content/themes/runnerclick/images/sign/sign_w_title_run.jpg"></div>
     <div class="sidebar-sign-form">
         <form class="sidebar-subscribe-form" action="http://runnerclick.com/wp-admin/admin-ajax.php" type="post">
             <div class="sidebar-sign-mail"><input name="email" type="text" placeholder="Your email ..."></div>
             <div class="sidebar-sign-radio">
                 <span class="radio-btn">
                     <input type="radio" id="r1" name="type" value="weekly" checked="">
-                    <label for="r1"><span></span>weekly</label>
+                    <label for="r1"><span></span><img src="http://runnerclick.com/wp-content/themes/runnerclick/images/sign/sign_w_title_w_run.jpg"></label>
                 </span>
                 <span class="radio-btn">
                     <input type="radio" id="r2" name="type" value="monthly">
-                    <label for="r2"><span></span>monthly</label>
+                    <label for="r2"><span></span><img src="http://runnerclick.com/wp-content/themes/runnerclick/images/sign/sign_w_title_m_run.jpg"></label>
                 </span>
             </div>
             <div class="sidebar-sign-btn"><input type="submit" name="blog_subscribe" class="submit-button" value="Sign up"></div>
-            <p>Your email is safe with us. Pinky swear</p>
+            <p><img src="http://runnerclick.com/wp-content/themes/runnerclick/images/sign/sign_w_title_b_run.jpg"></p>
         </form>
     </div>
     <script type="text/javascript">
@@ -346,11 +344,69 @@ Amazon&nbsp;Associates</p>
             class_signup.init(
                 'sidebar-subscribe-form',
                 'inside',
-                '89b89a9b24'
+                'a908df5ac0'
             );
         });
     </script>
-</div><!--signup widget-->									</div>
+</div><!--signup widget-->	<div class="fixed_gw">
+	<div class="popup_head">GIVEWAY<span class="p_closer"></span></div>
+    <div class="monthly-giveway-item monthly-giveway-item-sticky"><!--monthly giveway widget-->
+        <div class="monthly-giveway-title">Win The Brand New Glycerin 15</div>
+        <div class="monthly-giveway-counter">
+            <div class="monthly-giveway-counter-title">Next Giveaway draw</div>
+            <div class="clock-builder-output-wrap"><div class="clock-builder-output"></div></div>
+        </div>
+        <div class="monthly-giveway-main">
+                            <div class="monthly-giveway-image">
+                    <a class="easyazon-link" data-alternatives="{&quot;UK&quot;:{&quot;identifier&quot;:&quot;B01N8PO6C6&quot;,&quot;tag&quot;:&quot;runnerclick-21&quot;}}" data-cart="n" data-cloak="n" data-identifier="B01N8PO6C6" data-locale="US" data-localize="y" data-popups="n" data-tag="runnerclick02-20" data-title="Brooks  Men's Glycerin 15 Black/Electric Brooks Blue/Green Gecko Athletic Shoe" href="https://www.amazon.com/Brooks-Glycerin-Black-Electric-Athletic/dp/B01N8PO6C6?tag=runnerclick02-20" rel="nofollow" target="_blank"><img src="http://runnerclick.com/wp-content/uploads/2017/05/Glycerin-15-2-1.jpg" alt="Win The Brand New Glycerin 15"></a>                    <div class="monthly-giveway-content">
+                                                <div class="giveway-logo-wrap"><img src="http://runnerclick.com/wp-content/uploads/2017/05/Brooks-1.png" alt="Win The Brand New Glycerin 15"></div>                        <div class="giveway-content-url"><a class="easyazon-link" data-alternatives="{&quot;UK&quot;:{&quot;identifier&quot;:&quot;B01N8PO6C6&quot;,&quot;tag&quot;:&quot;runnerclick-21&quot;}}" data-cart="n" data-cloak="n" data-identifier="B01N8PO6C6" data-locale="US" data-localize="y" data-popups="n" data-tag="runnerclick02-20" data-title="Brooks  Men's Glycerin 15 Black/Electric Brooks Blue/Green Gecko Athletic Shoe" href="https://www.amazon.com/Brooks-Glycerin-Black-Electric-Athletic/dp/B01N8PO6C6?tag=runnerclick02-20" rel="nofollow" target="_blank"><span>Brooks Glycerin 15 (Specs)</span><span>see product details</span></a></div>                    </div>
+                </div>
+            							<form class="monthly-giveway-form">
+					<input type="text" name="giveway_email" class="giveway-email" placeholder="Your email...">
+					<input type="hidden" name="giveway_entries_post" value="43919">
+					<span class="giveway-form-label">Your email is safe with us. Pinky swear</span>
+					<input type="submit" class="submit-giveway" value="Enter the giveaway">
+				</form>
+						<div class="giveway-partnerships-link"><a href="http://runnerclick.com/giveaway-partnerships/" target="_blank" rel="nofollow">See rules and winners!</a></div>
+							<div class="giveway-share">
+					<span class="giveway-share-title">Share:</span>
+					<ul>
+						<li><a href="https://www.facebook.com/dialog/feed?app_id=398423643846433&amp;link=http://runnerclick.com/giveaway-partnerships/&amp;picture=http://runnerclick.com/wp-content/uploads/2017/05/Glycerin-15-2-1.jpg&amp;name=Runnerclick Giveway&amp;caption=Runnerclick.com&amp;description=Win The Brand New Glycerin 15&amp;display=popup" class="giveway_fb" onclick="popUp=window.open(this.href, 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"></a></li>
+						<li><a href="https://www.pinterest.com/pin/create/button/?url=http://runnerclick.com/giveaway-partnerships/&amp;media=http://runnerclick.com/wp-content/uploads/2017/05/Glycerin-15-2-1.jpg&amp;description=Win The Brand New Glycerin 15" class="giveway_pin" onclick="popUp=window.open(this.href, 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"></a></li>
+						<li><a href="https://twitter.com/intent/tweet?text=Win The Brand New Glycerin 15&amp;url=http://runnerclick.com/giveaway-partnerships/" class="giveway_tw" onclick="popUp=window.open(this.href, 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"></a></li>
+					</ul>
+				</div>
+			        </div>
+        <script type="text/javascript">
+            jQuery(document).ready(function(){
+				jQuery('.buttom_giveaway').on('click', function(){
+					jQuery(this).attr('style', 'display:none;');
+					jQuery('.fixed_gw').attr('style', 'display:block; z-index:444;');
+					jQuery('.site-header').attr('style', 'top:-150px');
+				});
+				jQuery('.p_closer').on('click', function(){
+					jQuery('.fixed_gw').attr('style', 'display:none; z-index:0;');
+					jQuery('.buttom_giveaway').attr('style', 'display:block;');
+					jQuery('.site-header').attr('style', '');
+				});
+				if(jQuery('*').is('.buttom_giveaway')){
+					jQuery('.et_social_mobile').attr('style', 'display:none;');
+					jQuery('.et_social_active_button').attr('style', 'display:none;');
+				}
+                class_giveway.init(
+                    'monthly-giveway-form',
+                    1498126560,
+                    '83857817e0',
+                    'http://runnerclick.com/wp-admin/admin-ajax.php'
+                );
+            });
+        </script>
+    </div> <!--monthly giveway widget-->
+	</div>
+	<div class="buttom_giveaway">
+		WIN RUNNING GEAR
+	</div>
+									</div>
 								</div>
 							</div><!-- .entry-content -->
 							<footer class="entry-meta">
@@ -379,7 +435,7 @@ Amazon&nbsp;Associates</p>
             class_signup.init(
                 'subscribe-form',
                 'common',
-                '89b89a9b24'
+                'a908df5ac0'
             );
         });
     </script>
@@ -395,15 +451,16 @@ Amazon&nbsp;Associates</p>
 		<div class="container">
 			<div class="site-info">
 				<div class="copy">© 2016.</div>
-				<div class="menu-footer-container"><ul id="footer-menu" class="footer-nav-menu"><li id="menu-item-628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-628"><a href="http://runnerclick.com/contact-us/">Contact Us</a></li>
-<li id="menu-item-629" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-621 current_page_item menu-item-629"><a href="http://runnerclick.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879"><a href="http://runnerclick.com/about/">About</a></li>
-<li id="menu-item-6234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6234"><a href="http://runnerclick.com/amazon-affiliate-disclosure/">Amazon Affiliate</a></li>
+				<div class="menu-footer-container"><ul id="footer-menu" class="footer-nav-menu"><li id="menu-item-628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-628"><a rel="nofollow" href="http://runnerclick.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-629"><a rel="nofollow" href="http://runnerclick.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-23384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23384"><a rel="nofollow" href="http://runnerclick.com/about-us/">About Us</a></li>
+<li id="menu-item-6234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6234"><a rel="nofollow" href="http://runnerclick.com/amazon-affiliate-disclosure/">Amazon Affiliate</a></li>
+<li id="menu-item-37904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37904"><a href="http://runnerclick.com/sitemap/">Sitemap</a></li>
 </ul></div>				<div class="footer-right-block">
 					<ul class="footer-social">
-						<li><a href="https://www.facebook.com/Runnerclick/" class="social-fb" target="_blank"></a></li>
-						<li><a href="https://www.instagram.com/runnerclick/" class="social-inst" target="_blank"></a></li>
-						<li><a href="https://twitter.com/runner_click" class="social-tw" target="_blank"></a></li>
+						<li><a href="https://www.facebook.com/Runnerclick/" rel="nofollow" class="social-fb" target="_blank"></a></li>
+						<li><a href="https://www.instagram.com/runnerclick/" rel="nofollow" class="social-inst" target="_blank"></a></li>
+						<li><a href="https://twitter.com/runner_click" rel="nofollow" class="social-tw" target="_blank"></a></li>
 					</ul>
 				</div>
 			</div><!-- .site-info -->
@@ -413,164 +470,106 @@ Amazon&nbsp;Associates</p>
 		<div class="container">
 			<div class="footer-nav-items">
 				<div class="footer-nav-menu-item footer-nav-menu-item-left">
-					<div class="footer-list" id="nav_menu-8"><div class="footer-title">Running shoes</div><div class="menu-running-shoes-footer-menu-container"><ul id="menu-running-shoes-footer-menu" class="menu"><li id="menu-item-7566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7566"><a href="http://runnerclick.com/best-overall-running-shoes/">Best running shoes overall</a></li>
-<li id="menu-item-7578" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7578"><a href="http://runnerclick.com/best-running-shoes-for-women/">Best Running shoes for Women</a></li>
-<li id="menu-item-7568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7568"><a href="http://runnerclick.com/top-10-best-trail-running-shoes/">Trail</a></li>
-<li id="menu-item-7569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7569"><a href="http://runnerclick.com/ultimate-list-best-neutral-running-shoes/">Neutral</a></li>
-<li id="menu-item-7570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7570"><a href="http://runnerclick.com/best-stability-running-shoes/">Stability</a></li>
-<li id="menu-item-7571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7571"><a href="http://runnerclick.com/best-motion-control-running-shoes/">Motion Control</a></li>
-<li id="menu-item-7572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7572"><a href="http://runnerclick.com/best-racing-running-shoes/">Racing</a></li>
-<li id="menu-item-7573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7573"><a href="http://runnerclick.com/best-lightweight-running-shoes/">Lightweight</a></li>
-<li id="menu-item-7574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7574"><a href="http://runnerclick.com/best-minimal-running-shoes/">Minimalist</a></li>
-<li id="menu-item-7575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7575"><a href="http://runnerclick.com/10-best-running-shoes-flat-feet/">Flat Feet</a></li>
-<li id="menu-item-7576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7576"><a href="http://runnerclick.com/naturalists-guide-best-barefoot-running-shoes/">Barefoot</a></li>
-<li id="menu-item-7577" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7577"><a href="http://runnerclick.com/best-triathlon-running-shoes">Triathlon</a></li>
-</ul></div></div><div class="footer-list footer-brand-list" id="nav_menu-9"><div class="footer-title">Best Shoes By Brand</div><div class="menu-best-shoes-by-brand-footer-menu-container"><ul id="menu-best-shoes-by-brand-footer-menu" class="menu"><li id="menu-item-7579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7579"><a href="http://runnerclick.com/best-running-shoes-for-women/">Adidas</a></li>
-<li id="menu-item-7580" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7580"><a href="http://runnerclick.com/best-asics-running-shoes/">Asics</a></li>
-<li id="menu-item-7582" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7582"><a href="http://runnerclick.com/best-brooks-running-shoes/">Brooks</a></li>
-<li id="menu-item-7583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7583"><a href="http://runnerclick.com/best-hoka-running-shoes-reviewed/">Hoka One One</a></li>
-<li id="menu-item-7584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7584"><a href="http://runnerclick.com/best-mizuno-running-shoes/">Mizuno</a></li>
-<li id="menu-item-7585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7585"><a href="http://runnerclick.com/best-new-balance-running-shoes-reviewed/">New Balance</a></li>
-<li id="menu-item-7586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7586"><a href="http://runnerclick.com/best-nike-running-shoes-for-road-and-trail/">Nike</a></li>
-<li id="menu-item-7587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7587"><a href="http://runnerclick.com/best-salomon-trail-running-shoes-reviewed/">Salomon</a></li>
-<li id="menu-item-7588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7588"><a href="http://runnerclick.com/best-saucony-running-shoes-reviewed/">Saucony</a></li>
-<li id="menu-item-7589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7589"><a href="http://runnerclick.com/best-puma-running-shoes/">Puma</a></li>
-<li id="menu-item-7590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7590"><a href="http://runnerclick.com/best-armour-running-shoes-comfort-lovers/">Under Armour</a></li>
-<li id="menu-item-7591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7591"><a href="http://runnerclick.com/best-vibram-fivefingers-running-shoes-reviewed/">FiveFingers</a></li>
-<li id="menu-item-7592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7592"><a href="http://runnerclick.com/top-10-best-skechers-running-shoes-reviewed/">Skechers</a></li>
-<li id="menu-item-10285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10285"><a href="http://runnerclick.com/10-best-running-shoes-reebok-reviewed/">Reebok</a></li>
-</ul></div></div><div class="footer-list footer-individual-reviews-list" id="nav_menu-15"><div class="footer-title">Most Popular Runnings Shoes</div><div class="menu-most-popular-runnings-shoes-footer-menu-container"><ul id="menu-most-popular-runnings-shoes-footer-menu" class="menu"><li id="menu-item-12061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12061"><a href="http://runnerclick.com/adidas-adistar-boost-review/">Adistar Boost</a></li>
-<li id="menu-item-12062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12062"><a href="http://runnerclick.com/adidas-duramo-7-review/">Duramo 7</a></li>
-<li id="menu-item-12082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12082"><a href="http://runnerclick.com/adidas-terrex-swift-r-gtx-review/">Terrex Swift R GTX</a></li>
-<li id="menu-item-12083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12083"><a href="http://runnerclick.com/adidas-ultra-boost-review/">Ultra Boost</a></li>
-<li id="menu-item-12084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12084"><a href="http://runnerclick.com/altra-torin-20-review/">Torin 2.0</a></li>
-<li id="menu-item-12085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12085"><a href="http://runnerclick.com/asics-fuzex-review/">FuzeX</a></li>
-<li id="menu-item-12086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12086"><a href="http://runnerclick.com/asics-gel-cumulus-16-review/">Cumulus 16</a></li>
-<li id="menu-item-12088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12088"><a href="http://runnerclick.com/asics-gel-nimbus-18-review/">Nimbus 18</a></li>
-<li id="menu-item-12089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12089"><a href="http://runnerclick.com/asics-gel-venture-4-review/">Venture 4</a></li>
-<li id="menu-item-12090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12090"><a href="http://runnerclick.com/asics-gel-venture-5-review/">Venture 5</a></li>
-<li id="menu-item-12091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12091"><a href="http://runnerclick.com/asics-gt-1000-3-review/">GT 1000 3</a></li>
-<li id="menu-item-12095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12095"><a href="http://runnerclick.com/asics-gt-2000-4-review/">GT 2000 4</a></li>
-<li id="menu-item-12098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12098"><a href="http://runnerclick.com/asics-gel-kayano-21-review/">Kayano 21</a></li>
-<li id="menu-item-12108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12108"><a href="http://runnerclick.com/brooks-adrenaline-gts-16-review/">Adrenaline GTS 16</a></li>
-<li id="menu-item-12118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12118"><a href="http://runnerclick.com/brooks-adrenaline-gts-15-review/">Adrenaline GTS 15</a></li>
-<li id="menu-item-12127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12127"><a href="http://runnerclick.com/brooks-beast-14-review/">Beast 14</a></li>
-<li id="menu-item-12128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12128"><a href="http://runnerclick.com/brooks-cascadia-10-review/">Cascadia 10</a></li>
-<li id="menu-item-12134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12134"><a href="http://runnerclick.com/brooks-ghost-6-review/">Ghost 6</a></li>
-<li id="menu-item-12140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12140"><a href="http://runnerclick.com/brooks-ghost-8-review/">Ghost 8</a></li>
-<li id="menu-item-12144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12144"><a href="http://runnerclick.com/brooks-glycerin-11-review/">Glycerin 11</a></li>
-<li id="menu-item-12145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12145"><a href="http://runnerclick.com/brooks-glycerin-13-review/">Glycerin 13</a></li>
-<li id="menu-item-12155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12155"><a href="http://runnerclick.com/brooks-launch-3-review/">Launch 3</a></li>
-<li id="menu-item-12161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12161"><a href="http://runnerclick.com/brooks-pureflow-5-review/">Pureflow 5</a></li>
-<li id="menu-item-12162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12162"><a href="http://runnerclick.com/brooks-transcend-3-review/">Transcend 3</a></li>
-<li id="menu-item-12163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12163"><a href="http://runnerclick.com/merrell-all-out-peak-review/">All Out Peak</a></li>
-<li id="menu-item-12164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12164"><a href="http://runnerclick.com/merrell-trail-glove-3-review/">Trail Glove 3</a></li>
-<li id="menu-item-12165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12165"><a href="http://runnerclick.com/merrell-vapor-glove-2-review/">Vapor Glove 2</a></li>
-<li id="menu-item-12166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12166"><a href="http://runnerclick.com/mizuno-wave-catalyst-reviewed/">Wave Catalyst</a></li>
-<li id="menu-item-12167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12167"><a href="http://runnerclick.com/mizuno-wave-creation-17-review/">Creation 17</a></li>
-<li id="menu-item-12168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12168"><a href="http://runnerclick.com/mizuno-wave-enigma-5-review/">Wave Enigma 5</a></li>
-<li id="menu-item-12170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12170"><a href="http://runnerclick.com/mizuno-wave-inspire-11-review/">Wave Inspire 11</a></li>
-<li id="menu-item-12171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12171"><a href="http://runnerclick.com/mizuno-wave-rider-19-review/">Wave Rider 19</a></li>
-<li id="menu-item-12172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12172"><a href="http://runnerclick.com/new-balance-1080v5-review/">1080v5</a></li>
-<li id="menu-item-12173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12173"><a href="http://runnerclick.com/new-balance-fresh-foam-boracay-980-v2-review/">Fresh Foam Boracay</a></li>
-<li id="menu-item-12175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12175"><a href="http://runnerclick.com/new-balance-vazee-pace-review/">Vazee Pace</a></li>
-<li id="menu-item-12176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12176"><a href="http://runnerclick.com/nike-air-max-sequent-review/">Max Sequent</a></li>
-<li id="menu-item-12177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12177"><a href="http://runnerclick.com/nike-air-zoom-structure-19-review/">Structure 19</a></li>
-<li id="menu-item-12179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12179"><a href="http://runnerclick.com/nike-free-rn-distance-review/">Free RN Distance</a></li>
-<li id="menu-item-12180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12180"><a href="http://runnerclick.com/nike-free-flyknit-4-0-review/">Free Flyknit 4.0</a></li>
-<li id="menu-item-12181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12181"><a href="http://runnerclick.com/nike-lunarepic-flyknit-review/">LunarEpic Flyknit</a></li>
-<li id="menu-item-12183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12183"><a href="http://runnerclick.com/nike-lunarglide-6-review/">LunarGlide 6</a></li>
-<li id="menu-item-12184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12184"><a href="http://runnerclick.com/nike-lunarglide-7-review/">LunarGlide 7</a></li>
-<li id="menu-item-12185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12185"><a href="http://runnerclick.com/nike-lunartempo-review/">LunarTempo</a></li>
-<li id="menu-item-12186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12186"><a href="http://runnerclick.com/nike-lunartempo-2-review/">LunarTempo 2</a></li>
-<li id="menu-item-12187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12187"><a href="http://runnerclick.com/nike-air-zoom-pegasus-33-review/">Pegasus 33</a></li>
-<li id="menu-item-12188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12188"><a href="http://runnerclick.com/nike-revolution-2-review/">Revolution 2</a></li>
-<li id="menu-item-12189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12189"><a href="http://runnerclick.com/nike-zoom-vomero-10-review/">Vomero 10</a></li>
-<li id="menu-item-12191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12191"><a href="http://runnerclick.com/salomon-fellraiser-review/">Salomon Fellraiser</a></li>
-<li id="menu-item-12192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12192"><a href="http://runnerclick.com/salomon-speedcross-3-review/">Speedcross 3</a></li>
-<li id="menu-item-12194" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12194"><a href="http://runnerclick.com/salomon-xa-pro-3d-review/">XA Pro 3D</a></li>
-<li id="menu-item-12195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12195"><a href="http://runnerclick.com/saucony-cohesion-9-review/">Cohesion 9</a></li>
-<li id="menu-item-12197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12197"><a href="http://runnerclick.com/saucony-guide-7-review/">Guide 7</a></li>
-<li id="menu-item-12198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12198"><a href="http://runnerclick.com/saucony-guide-9-review/">Guide 9</a></li>
-<li id="menu-item-12200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12200"><a href="http://runnerclick.com/saucony-kinvara-4-review/">Kinvara 4</a></li>
-<li id="menu-item-12202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12202"><a href="http://runnerclick.com/saucony-omni-13-review/">Omni 13</a></li>
-<li id="menu-item-12204" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12204"><a href="http://runnerclick.com/saucony-peregrine-6-review/">Peregrine 6</a></li>
-<li id="menu-item-12206" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12206"><a href="http://runnerclick.com/saucony-ride-6-shoe-review/">Ride 6</a></li>
-<li id="menu-item-12208" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12208"><a href="http://runnerclick.com/saucony-shadow-6000-review/">Shadow 6000</a></li>
-<li id="menu-item-12209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12209"><a href="http://runnerclick.com/skechers-gorun-4-review/">GOrun 4</a></li>
-</ul></div></div>				</div>
+									</div>
 				<div class="footer-nav-menu-item">
-					<div class="footer-list" id="nav_menu-10"><div class="footer-title">Running Clothes</div><div class="menu-running-clothes-footer-menu-container"><ul id="menu-running-clothes-footer-menu" class="menu"><li id="menu-item-7595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7595"><a href="http://runnerclick.com/best-running-headlamps-reviewed/">Headlamps</a></li>
-<li id="menu-item-7596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7596"><a href="http://runnerclick.com/top-10-best-running-caps/">Caps</a></li>
-<li id="menu-item-7597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7597"><a href="http://runnerclick.com/best-running-jackets-reviewed/">Jackets</a></li>
-<li id="menu-item-7598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7598"><a href="http://runnerclick.com/best-long-sleeve-shirts-running-reviewed/">Long Sleeve Shirts</a></li>
-<li id="menu-item-7599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7599"><a href="http://runnerclick.com/best-running-t-shirts-reviewed/">T-shirts</a></li>
-<li id="menu-item-7600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7600"><a href="http://runnerclick.com/best-running-tops-and-singlets-reviewed/">Tops &amp; Singlets</a></li>
-<li id="menu-item-7601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7601"><a href="http://runnerclick.com/best-compression-sleeves-runners-reviewed/">Compression Sleeves</a></li>
-<li id="menu-item-7602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7602"><a href="http://runnerclick.com/best-running-gloves-reviewed/">Gloves</a></li>
-<li id="menu-item-7603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7603"><a href="http://runnerclick.com/best-running-underwear-reviewed/">Underwear</a></li>
-<li id="menu-item-7604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7604"><a href="http://runnerclick.com/top-10-best-sports-bras-high-impact-running/">Sports Bras</a></li>
-<li id="menu-item-7605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7605"><a href="http://runnerclick.com/best-running-tights-reviewed/">Tights</a></li>
-<li id="menu-item-7606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7606"><a href="http://runnerclick.com/best-running-compression-shorts-reviewed/">Shorts</a></li>
-<li id="menu-item-7607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7607"><a href="http://runnerclick.com/best-running-shorts-reviewed/">Shorts</a></li>
-<li id="menu-item-7608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7608"><a href="http://runnerclick.com/best-running-pants-reviewed">Pants</a></li>
-<li id="menu-item-7609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7609"><a href="http://runnerclick.com/best-running-socks-reviewed/">Socks</a></li>
-<li id="menu-item-7610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7610"><a href="http://runnerclick.com/best-compression-running-socks-reviewed/">Compression Socks</a></li>
-<li id="menu-item-7611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7611"><a href="http://runnerclick.com/best-winter-gear-runners-reviewed/">Winter Gear</a></li>
-<li id="menu-item-7612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7612"><a href="http://runnerclick.com/best-trisuits-reviewed/">Tri Suits</a></li>
-</ul></div></div><div class="footer-list" id="nav_menu-11"><div class="footer-title">GPS and Tracking</div><div class="menu-gps-and-tracking-footer-menu-container"><ul id="menu-gps-and-tracking-footer-menu" class="menu"><li id="menu-item-7613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7613"><a href="http://runnerclick.com/best-gps-running-watches/">GPS Sports Watches</a></li>
-<li id="menu-item-7614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7614"><a href="http://runnerclick.com/best-fitness-watches-reviewed/">Fitness Watches</a></li>
-<li id="menu-item-7615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7615"><a href="http://runnerclick.com/best-handheld-GPS-reviewed/">Handheld GPS</a></li>
-<li id="menu-item-7616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7616"><a href="http://runnerclick.com/best-running-heart-rate-monitors-reviewed/">Heart Rate Monitors</a></li>
-</ul></div></div><div class="footer-list" id="nav_menu-12"><div class="footer-title">Nutrition</div><div class="menu-nutrition-footer-menu-container"><ul id="menu-nutrition-footer-menu" class="menu"><li id="menu-item-7626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7626"><a href="http://runnerclick.com/best-energy-gels-running/">Energy Gels</a></li>
-<li id="menu-item-7627" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7627"><a href="http://runnerclick.com/best-energy-bars-for-runners-reviewed/">Energy Chews &amp; Bars</a></li>
-<li id="menu-item-7628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7628"><a href="http://runnerclick.com/best-hydration-drinks-reviewed">Hydration Drinks</a></li>
-<li id="menu-item-7629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7629"><a href="http://runnerclick.com/best-recovery-drinks-for-runners-reviewed/">Recovery Drinks</a></li>
-<li id="menu-item-7630" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7630"><a href="http://runnerclick.com/best-electrolytes-and-hydration-tablets-reviewed">Hydration &amp; Electrolytes</a></li>
-<li id="menu-item-7631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7631"><a href="http://runnerclick.com/best-salt-pills-and-tablets-reviewed">Salt &amp; Electrolytes</a></li>
-<li id="menu-item-7632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7632"><a href="http://runnerclick.com/best-supplements-for-runners-reviewed/">Supplements</a></li>
-<li id="menu-item-7633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7633"><a href="http://runnerclick.com/best-blenders-reviewed/">Kitchen Supplies</a></li>
-</ul></div></div>				</div>
+									</div>
 				<div class="footer-nav-menu-item footer-nav-menu-item-right">
-					<div class="footer-list" id="nav_menu-13"><div class="footer-title">Accessories</div><div class="menu-accessories-footer-menu-container"><ul id="menu-accessories-footer-menu" class="menu"><li id="menu-item-7635" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7635"><a href="http://runnerclick.com/best-running-lights-reviewed/">Lights</a></li>
-<li id="menu-item-7636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7636"><a href="http://runnerclick.com/best-fanny-pack-runners-reviewed/">Fanny Packs</a></li>
-<li id="menu-item-7637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7637"><a href="http://runnerclick.com/top-10-best-running-backpacks/">Backpacks</a></li>
-<li id="menu-item-7638" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7638"><a href="http://runnerclick.com/best-running-sunglasses-reviewed/">Sunglasses</a></li>
-<li id="menu-item-7639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7639"><a href="http://runnerclick.com/best-foam-rollers-reviewed/">Foam Rollers</a></li>
-<li id="menu-item-7640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7640"><a href="http://runnerclick.com/best-massage-balls-relaxation-reviewed/">Massage Balls</a></li>
-<li id="menu-item-7641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7641"><a href="http://runnerclick.com/best-sunscreen-runners-reviewed-tested/">Sunscreen</a></li>
-<li id="menu-item-7642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7642"><a href="http://runnerclick.com/best-reflective-running-gear-reviewed/">Reflective Gear</a></li>
-<li id="menu-item-7643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7643"><a href="http://runnerclick.com/best-detergent-workout-clothes-reviewed/">Cleaning Products</a></li>
-<li id="menu-item-7644" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7644"><a href="http://runnerclick.com/top-10-best-running-books-reviewed/">Books</a></li>
-<li id="menu-item-7645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7645"><a href="http://runnerclick.com/10-best-plantar-fasciitis-insoles-reviewed/">Plantar Fasciitis Insoles</a></li>
-<li id="menu-item-7646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7646"><a href="http://runnerclick.com/top-10-best-plantar-fasciitis-night-splints/">Insoles For Flat Feet</a></li>
-<li id="menu-item-7647" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7647"><a href="http://runnerclick.com/top-10-best-plantar-fasciitis-night-splints/">Night Splints</a></li>
-<li id="menu-item-7648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7648"><a href="http://runnerclick.com/best-types-kinesiology-tape-reviewed/">Kinesiology Tape</a></li>
-<li id="menu-item-7649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7649"><a href="http://runnerclick.com/best-products-foot-blisters-reviewed/">Foot Blisters</a></li>
-<li id="menu-item-7650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7650"><a href="http://runnerclick.com/11-tools-for-treating-plantar-fasciitis/">Treating Plantar Fasciitis</a></li>
-<li id="menu-item-7651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7651"><a href="http://runnerclick.com/best-ice-packs-runners-reviewed/">Ice Packs</a></li>
-<li id="menu-item-7652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7652"><a href="http://runnerclick.com/best-knee-braces-running-support-reviewed/">Knee Braces</a></li>
-<li id="menu-item-7653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7653"><a href="http://runnerclick.com/best-headphones-and-earbuds-for-running/">Headphones &amp; Earbuds</a></li>
-<li id="menu-item-11862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11862"><a href="http://runnerclick.com/best-jogging-and-running-strollers-reviewed/">Jogging Strollers</a></li>
-</ul></div></div><div class="footer-list" id="nav_menu-14"><div class="footer-title">Hydration</div><div class="menu-hydration-footer-menu-container"><ul id="menu-hydration-footer-menu" class="menu"><li id="menu-item-7656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7656"><a href="http://runnerclick.com/best-sports-water-bottles-reviewed/">Sports Water Bottles</a></li>
-<li id="menu-item-7657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7657"><a href="http://runnerclick.com/best-running-vests-reviewed/">Vests</a></li>
-<li id="menu-item-7658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7658"><a href="http://runnerclick.com/best-hydration-backpacks-running-reviewed/">Hydration Backpacks</a></li>
-<li id="menu-item-7659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7659"><a href="http://runnerclick.com/best-running-waist-packs-reviewed">Waist Packs</a></li>
-<li id="menu-item-7660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7660"><a href="http://runnerclick.com/best-hydration-bladders-reviewed-tested/">Hydration Bladders</a></li>
-<li id="menu-item-7661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7661"><a href="http://runnerclick.com/best-water-running-belts-reviewed/">Water Belts</a></li>
-</ul></div></div>				</div>
+									</div>
 			</div>
-							<div class="footer-copyright"><div class="footer-copyright-content" id="text-12">			<div class="textwidget"><p>Runnerclick.com is part of Gringo Group Media that also runs <a href="http://nicershoes.com/" target="_blank">Nicershoes.com</a></p></div>
+							<div class="footer-copyright"><div class="footer-copyright-content" id="text-12">			<div class="textwidget"><p>Runnerclick.com is part of a media company that also runs <a href="http://nicershoes.com/" target="_blank">Nicershoes.com</a>, <a href="http://www.gearweare.com/" target="_blank">GearWeAre</a> and a gear site called <a href="https://thegearhunt.com/" target="_blank">TheGearHunt</a> </p></div>
 		</div></div>
 					</div>
 	</div>
 </footer><!-- #colophon -->
+
 <div class="et_social_pin_images_outer">
 					<div class="et_social_pinterest_window">
 						<div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div>
 						<div class="et_social_pin_images"></div>
 					</div>
-				</div>	<script type="text/javascript">
+				</div>        <div id="badge-modal" class="rc-modal">
+            <div class="overlay" onclick="jQuery(this).closest('.rc-modal').hide()"></div>
+            <div class="modal-panel">
+                <a href="javascript:;" class="close" onclick="jQuery(this).closest('.rc-modal').hide()"></a>
+                <div class="modal-body">
+
+
+                    <form id="badge-code">
+                        <input type="hidden" name="badge_id">
+                        
+                        <input id="badge_type_short" class="badge_type" type="radio" name="badge_type" value="short" checked="">
+                        <label for="badge_type_short">Small Badge</label>
+                        
+                        <input id="badge_type_full" class="badge_type" type="radio" name="badge_type" value="full">
+                        <label for="badge_type_full">Full Badge</label>
+
+                        <div class="tabbed-pannel">
+                            <div class="viewer"></div>
+                            <textarea class="code" name="code" readonly="" rows="3"></textarea>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!--Badges modal script-->
+        <script type="text/javascript">
+
+            (function ($) {
+                var $document = $(document);
+
+                $(window).on('resize', function() {
+                    resize_badge_iframe();
+                });
+
+                $document.on('click', '.open-badge-popup', function() {
+
+                    var id = jQuery(this).data('id');
+
+                    jQuery('#badge-code input[name=badge_id]').val(id);
+                    jQuery('#badge-code input[name=badge_type]:eq(0)').change();
+                    jQuery('#badge-code input[name=badge_type]:eq(0)').attr('checked', 'checked');
+
+                    jQuery('#badge-modal').show();
+                });
+                jQuery(document).on('change', '#badge-code input[name=badge_type]', function () {
+                    var form = $('#badge-code');
+
+                    var textarea = form.find('textarea.code');
+                    var viewer = form.find('div.viewer');
+
+                    textarea.val('');
+                    viewer.html('');
+
+                    var options = {
+                        action: 'get_badge_code',
+                        badge_id: form.find('input[name=badge_id]').val(),
+                        badge_type: this.value,
+                        nonce: 'c016eab59b'
+                    };
+
+                    jQuery.post('http://runnerclick.com/wp-admin/admin-ajax.php', options, function(data) {
+                        textarea.val(data);
+                        viewer.html(data);
+
+                        resize_badge_iframe();
+                    });
+                });
+                function resize_badge_iframe() {
+                    var iframe = jQuery('#badge-code iframe');
+
+                    var width = iframe.attr('width');
+                    var height = iframe.attr('height');
+                    var factor = width / height;
+
+                    var new_width = iframe.width();
+                    var new_height = new_width / factor;
+
+                    iframe.height(new_height);
+                }
+            })(jQuery);
+        </script>
+
+        	<script type="text/javascript">
 		(function($) {
 			'use strict';
 
@@ -604,7 +603,7 @@ Amazon&nbsp;Associates</p>
 						{action: 'search_statistics', 
 						content: content, 
 						type: type, 
-						_nonce: '4070a58d15'});
+						_nonce: '35032c8a9c'});
 
 
 					$(this).trigger('submit', true);
@@ -658,13 +657,13 @@ var _wpcf7 = {"loaderUrl":"http:\/\/runnerclick.com\/wp-content\/plugins\/contac
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/monarch/js/ouibounce.js?ver=1.1"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/monarch/js/ouibounce.js?ver=1.1.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var monarchSettings = {"ajaxurl":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/runnerclick.com\/privacy-policy\/","stats_nonce":"40600928ae","share_counts":"63bf42748b","follow_counts":"59eef42c1f","total_counts":"8dcb875039","media_single":"bf9f244b2c","media_total":"d82816912f"};
+var monarchSettings = {"ajaxurl":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/runnerclick.com\/privacy-policy\/","stats_nonce":"7c21120b21","share_counts":"3c22ad8bda","follow_counts":"cf19507c4b","total_counts":"1f7185c4b2","media_single":"6bf78af8da","media_total":"39614afebd"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/monarch/js/custom.js?ver=1.1"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/monarch/js/custom.js?ver=1.1.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var tocplus = {"visibility_show":"show","visibility_hide":"hide","width":"Auto"};
@@ -673,39 +672,48 @@ var tocplus = {"visibility_show":"show","visibility_hide":"hide","width":"Auto"}
 <script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/table-of-contents-plus/front.min.js?ver=9601"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var EasyAzonPro_Localize_Links = {"ajaxAction":"easyazonpro_localize","ajaxUrl":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","visitorLocale":"US"};
+var yjin_ratings_data = {"ajaxurl":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","post_id":"621"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/amazon.affiliate/public/localization/links/resources/links.js?ver=1.1"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/yjin-ratings/assets/js/front.js?ver=0.11"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var Aaff_Localize_Links = {"ajaxAction":"easyazonpro_localize","ajaxUrl":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","visitorLocale":"US"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/amazon.affiliate/public/localization/links/resources/links.js?ver=1.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var EasyAzonPro_Components_Popovers = {"ajaxUrl":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","ajaxAction":"easyazon_get_popover_markup","loading":"Loading product data.","placement":"top","template":"<div class=\"popover easyazon-popover\"><div class=\"arrow\"><\/div><h3 class=\"popover-title\"><\/h3><div class=\"popover-content easyazon-popover-content\"><\/div><\/div>","timeout":"750"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/amazon.affiliate/public/popovers/resources/popovers.js?ver=1.1"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-includes/js/comment-reply.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/plugins/amazon.affiliate/public/popovers/resources/popovers.js?ver=1.5"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-includes/js/comment-reply.min.js?ver=4.7.5"></script>
 <script type="text/javascript" src="http://runnerclick.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script>
 <script type="text/javascript" src="http://runnerclick.com/wp-includes/js/masonry.min.js?ver=3.3.2"></script>
 <script type="text/javascript" src="http://runnerclick.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var runnerclick_function = {"ajax_url":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","nonce":"02dbce6b37"};
+var runnerclick_function = {"ajax_url":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","nonce":"75cc49a5a6"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/functions.js?ver=1481149383"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/slick.js?ver=1481149383"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/tocca.js?ver=1481149383"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/jquery.bxslider.min.js?ver=1481149383"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/jquery.zoom.js?ver=1481149383"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/flipclock.js?ver=1481149383"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/jquery.countdown.min.js?ver=1481149383"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/common.js?ver=1481149383"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/theia-sticky-sidebar.js?ver=1481149383"></script>
-<script type="text/javascript" src="https://www.youtube.com/iframe_api?ver=4.6.1"></script>
-<script type="text/javascript" src="http://runnerclick.com/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/functions.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/slick.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/tocca.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/jquery.bxslider.min.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/jquery.zoom.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/flipclock.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/jquery.countdown.min.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/inc/fancybox/source/jquery.fancybox.pack.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/inc/fancybox/source/helpers/jquery.fancybox-buttons.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/inc/fancybox/source/helpers/jquery.fancybox-media.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/inc/fancybox/source/helpers/jquery.fancybox-thumbs.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/common.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-content/themes/runnerclick/js/theia-sticky-sidebar.js?ver=1.9"></script>
+<script type="text/javascript" src="http://runnerclick.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
         <script>
             (function ($) {
-                var $rating, box = {}, rating_obj = {"ajax_url":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","post_id":621,"rating":0,"approved":0,"_ajax_nonce":"68961929a2","action":"add_rating"};
+                var $rating, box = {}, rating_obj = {"ajax_url":"http:\/\/runnerclick.com\/wp-admin\/admin-ajax.php","post_id":621,"rating":0,"approved":0,"_ajax_nonce":"f4b43d897f","action":"add_rating"};
                 $(document).ready(function () {
                     $rating = $('.post-users-rating');
                     box.ready();
@@ -804,33 +812,10 @@ var runnerclick_function = {"ajax_url":"http:\/\/runnerclick.com\/wp-admin\/admi
             })(jQuery);
         </script>
 
-                <script type="text/javascript">
-            (function ($) {
-                $(document).ready(function () {
-                    $('body').on('click', 'a.easyazon-link[data-cloak="n"]', function (e, one) {
-
-                        var $this = $(this);
-
-                        $.post(
-                            affiliate_stat.url,
-                            {
-                                action: affiliate_stat.action,
-                                data: $this.data(),
-                                url: $this.attr('href')
-                            },
-                            function (response) {
-
-                            }
-                        );
-
-                    })
-                })
-            })(jQuery);
-        </script>
         <script type="text/javascript">
 	jQuery(document).ready(function() {
 		jQuery('.site-footer .search-form .search-field, .site-header .search-field').attr('placeholder', 'Enter the post name...')
 	});
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ba51518800","applicationID":"33618994","transactionName":"ZFFXNRcCCBBQWhVbV10bdAIRCgkNHkkAVV0=","queueTime":0,"applicationTime":540,"atts":"SBZUQ18YGx4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ba51518800","applicationID":"33618994","transactionName":"ZFFXNRcCCBBQWhVbV10bdAIRCgkNHkkAVV0=","queueTime":0,"applicationTime":201,"atts":"SBZUQ18YGx4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
