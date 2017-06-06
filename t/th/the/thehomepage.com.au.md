@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehomepage.com.au privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722104828id_/http%3A//www.thehomepage.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehomepage.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080551id_/http%3A//www.thehomepage.com.au/page/privacy) for the most accurate reproduction.*
 
 # 
 
