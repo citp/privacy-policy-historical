@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repos.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606233107id_/http%3A//www.repo.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repos.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221215id_/http%3A//www.repo.com/static/privacy) for the most accurate reproduction.*
 
 # Repo.com : Privacy Policy
 
