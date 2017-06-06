@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffer31.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011443id_/http%3A//stuffer31.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffer31.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223821id_/https%3A//stuffer31.com/privacy.html) for the most accurate reproduction.*
 
 # Stuffer31 :: stuffer31.com - PRIVACY POLICY
 
@@ -8,7 +8,7 @@
     
     This Privacy Policy applies to Stuffer31 Inc.'s and Stuffer31.com, Inc.'s
     (collectively, "Stuffer31") family of websites (the "Sites"). These include
-    Stuffer31.com; vids.stuffer31.com; and any other sites at which this Policy
+    Stuffer31.com and any other sites at which this Policy
     appears.
     This Policy explains what information we collect about you and what we do
     with it. We reserve the right to modify this Policy at any time, and we will
@@ -82,4 +82,4 @@
     limited administrative access.
     
 
-#### [BACK](https://web.archive.org/web/20161119011443id_/http%3A//stuffer31.com/index.html)
+#### [BACK](https://web.archive.org/web/20170606223821id_/https%3A//stuffer31.com/index.html)
