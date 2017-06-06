@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldofbrowsers.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803231608id_/http%3A//worldofbrowsers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofbrowsers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104615id_/http%3A//worldofbrowsers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · World of Browsers – Web Browsers Reviews & Updates
+# Privacy Policy & Affiliate Disclosure
 
-World of Browsers is committed to protecting the privacy of online users. This document outlines our technology and the practices we use to collect information.
+[World of Browsers](http://worldofbrowsers.com/) is committed to protecting the privacy of online users. This document outlines our technology and the practices we use to collect information.
 
 ## What information we collect
 
@@ -12,11 +12,11 @@ World of Browsers provides its users with a range of articles published via its 
 
 ## Using cookies
 
-A cookie is a small text file placed onto your device that enables some World of Browsers features and functionality to enhance your user experience. For example, cookies help us to identify your device and offer you the latest article you haven’t seen yet or to figure out how many new visitors we get each month. Cookies also make it simple for you to share interesting content on our website and help us serve relevant ads to you. In a nutshell, they contain information about the use of your device but don’t include personal information about you (for example, they don’t store your name).
+A cookie is a small text file placed onto your device that enables some [World of Browsers](http://worldofbrowsers.com/) features and functionality to enhance your user experience. For example, cookies help us to identify your device and offer you the latest article you haven’t seen yet or to figure out how many new visitors we get each month. Cookies also make it simple for you to share interesting content on our website and help us serve relevant ads to you. In a nutshell, they contain information about the use of your device but don’t include personal information about you (for example, they don’t store your name).
 
 ## Children’s online privacy
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products, and services are all directed to people who are at least 13 years old or older.
 
 ## Information security
 
@@ -27,6 +27,10 @@ Please keep in mind, however, that despite these reasonable efforts to protect d
 ## Spam and email lists
 
 We do not intentionally send unsolicited email messages that could be construed as spam.
+
+## Affiliate disclosure
+
+In accordance with FTC guidelines, [World of Browsers](http://worldofbrowsers.com/) has financial relationships with some of the products and services mentioned on this website, and World of Browsers may be compensated if consumers choose to click these links in our content and ultimately sign up for them.
 
 ## Contact us
 
