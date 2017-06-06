@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsigroup.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014134320id_/http%3A//www.bsigroup.com/en-GB/about-bsi/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsigroup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161939id_/https%3A//www.bsigroup.com/en-GB/about-bsi/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | BSI Group
 
