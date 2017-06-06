@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927042923id_/http%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210338id_/https%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pro Tool Reviews
 
@@ -65,7 +65,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us online](http://www.protoolreviews.com/contact "Contact PTR") or by mail at.
+If there are any questions regarding this privacy policy you may [contact us online](https://www.protoolreviews.com/contact "Contact PTR") or by mail at.
 
 Pro Tool Reviews, LLC  
 PO Box 25004  
