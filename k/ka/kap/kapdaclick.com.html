@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kapdaclick.com privacy policy that was archived on 2016-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161103153104id_/http%3A//www.kapdaclick.com/policy-page.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kapdaclick.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606042029id_/http%3A//www.kapdaclick.com/policy-page) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"><link rel="shortcut icon" href="http://www.kapdaclick.com/images/favicon.ico" type="image/x-icon">
@@ -21,7 +21,6 @@
 <script type="text/javascript" src="http://www.kapdaclick.com/js/10-bootstrap.min.js"></script>
 <script type="text/javascript" src="http://www.kapdaclick.com/js/functions.js"></script>
 <script type="text/javascript" src="http://www.kapdaclick.com/js/javascript.js"></script>
-<script type="text/javascript" src="http://www.kapdaclick.com/js/jquery.extend.js"></script>
 <script type="text/javascript" src="http://www.kapdaclick.com/js/jquery.validationEngine-en.js"></script>
 <script type="text/javascript" src="http://www.kapdaclick.com/js/jquery.validationEngine.js"></script>
 <script type="text/javascript" src="http://www.kapdaclick.com/js/jquery.colorbox.js"></script>
@@ -234,43 +233,126 @@ _atrk_opts = { atrk_acct:"XcRam1a47E807i", domain:"kapdaclick.com",dynamic: true
     width: 600px;
 }
     </style>
+	<script type="text/javascript"> 
+$(document).ready(function(){  
+ /*$(document).on('click','.mm-next1',function() {    
+		var aa = $(this).prev('a').attr('href');
+		//alert(aa);
+		$(this).attr('href',aa);
+		$(this).attr('data-target',aa);
+ });*/
+ $( window ).load(function() {
+  $(".mm-next").each(function(i) {
+		var aa = $(this).attr('href');
+		//alert(aa);
+		//alert($(this).next('a').attr('class'));
+		$(this).next('.mm-next1').attr('href',aa);
+		$(this).next('.mm-next1').attr('data-target',aa);
+  });
+});
+ });
+</script>
 <script>
 	
 	$(document).ready(function(){
 		$.ajaxSetup({ cache: false });
-		$(document).on('click','#finish_gift12',function(e){
-			//alert("hi");
-			var email = $('#email').val();
+		$(document).on('click','#finish_gift12',function(e){			
+			var email = $('#email').val();			
+			//var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
+			var pattern = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+			var ddd = pattern.test(email);
+			var nameddd = $('#name').val();
+			var mobile = $('#mobile').val();
 			
-			    var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
-    var ddd = pattern.test(email);
-    var nameddd = $('#name').val();
-    if(nameddd == '')
+	if(nameddd == '')
     {
-    		$('.success_msg').html("<span style='color:#EB5A46'>Enter Name</span>");
+            $('.success_msg').html("<span style='color:#EB5A46'>Enter Name</span>");
     }
+	else if(email == '')
+	{
+		$('.success_msg').html("<span style='color:#EB5A46'>Enter Email</span>");
+	}
+	else if(mobile == '')
+    {
+            $('.success_msg').html("<span style='color:#EB5A46'>Enter Mobile Number</span>");
+    }
+	else if(!(mobile.match(/^[0]?[789]\d{9}$/))) {
+		$('.success_msg').html("<span style='color:#EB5A46'>Enter Currect Mobile Number</span>");
+	}
+	else if($.trim(ddd) != 'true')
+	{
+		$('.success_msg').html("<span style='color:#EB5A46'>Enter Valid Email</span>");
+	}
 	else if($.trim(ddd) == 'true'){
-			var name = $('#name').val();
-			$.post(SITEURLJS+"reg_popu_mail.php",{email:email,name:name},function(data){
-					
-					if(data == 0)
-					{
-						
-						$('#success_msg').html("<span style='color:green;font-weight:bold;'>Thank you for Login Account.</span>");
-						$('#name').val('');
-                        $('#email').val('');
-					}else{
-						$('#success_msg').html(data);
-					}
+					var name = $('#name').val();
+					$.post(SITEURLJS+"reg_popu_mail.php",{email:email,name:name,mobile:mobile},function(data){
+							
+							if(data == 0)
+							{
+								
+								$('#success_msg').html("<span style='color:green;font-weight:bold;'>Thank you for Login Account.</span>");
+								$('#name').val('');
+								$('#email').val('');
+								$('#mobile').val('');
+								$('#myModal').modal('hide');
+								$('.success_msg').hide();
+								$('#myModal_otp').modal('show');						
+								$('#otp_email').val(email);
+								$('#otp_mobile').val(mobile);
+							}else{
+								$('#success_msg').html(data);
+							}
+					});
+				}
+				else{
+					$('.success_msg').html("<span style='color:#EB5A46'>Enter Email Address.</span>");
+				}
+
+
+				
 			});
-		}
-		else{
-			$('.success_msg').html("<span style='color:#EB5A46'>Enter Email Address.</span>");
-		}
-
-
 			
-		});
+			$(document).on('click','#finish_gift12_cancel',function(e){			
+				$('#myModal').modal('hide');	
+			}); 
+		
+			
+			$(document).on('click','#otp_submit_button',function(e){   
+				$('.success_msg').show();
+				$('.success_msg').html("");
+				var otp = $('#otp').val();
+				var email = $('#otp_email').val();
+				var mobile = $('#otp_mobile').val();
+				
+				if(otp == '')
+				{
+						$('.success_msg').html("<span style='color:#EB5A46'>Enter OTP</span>");
+				}
+				else {
+						var name = $('#name').val();
+						$.post(SITEURLJS+"check_otpforpopup.php",{email:email,otp:otp,mobile:mobile},function(data){
+							   
+								if(data['status'] == '1')
+								{
+									//alert("success");
+									$('#success_msg').html("<span style='color:green;font-weight:bold;'>Thank you for Login Account.</span>");					
+									$('#name').val('');
+									$('#email').val('');
+									$('#mobile').val('');												
+									$('#myModal_otp').modal('hide');
+									location.reload();
+									
+								}
+								else if (data['status'] == '0')
+								{
+									$('.success_msg').html("<span style='color:#EB5A46'>Enter correct OTP</span>");
+								}
+								else{
+									$('#success_msg').html(data);
+								}
+						});
+					}
+        });  
 
 $(document).on("click", ".fa-shopping-cart", function() {           
              $("#cart-items").toggle();
@@ -280,9 +362,31 @@ $(document).on("click", ".fa-shopping-cart", function() {
 	});
 	
 	
-</script>	  
+</script>	
+<script>
+$(document).ready( function() {
+    var height = $(window).height();
+    var width = $(window).width();
+	
+    $.ajax({
+        url: 'body.php',
+        type: 'post',
+        data: { 'width' : width, 'height' : height, 'recordSize' : 'true' },
+        success: function(response) {
+           
+        }
+    });
+});
+</script>   
 
-	 
+      
+		      	<script type="text/javascript">
+		        $(window).load(function(){
+		        	
+		           // $('#myModal').modal('show');
+		            });
+		    	</script>
+      	 
 
 <script type="text/javascript" src="http://www.kapdaclick.com/js/jquery.mmenu.min.all.js" defer="defer"></script>
 <link rel="stylesheet" type="text/css" href="http://www.kapdaclick.com/homeassets/lib/bootstrap/css/bootstrap.min.css">
@@ -316,14 +420,41 @@ fbq('init', '1202312419792722');
 fbq('track', 'PageView');
 </script>
 
+	<!-- Facebook Pixel Code -->
+		<script>
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window,document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+		 
+		fbq('init', '1202312419792722');
+		fbq('track', 'PageView');
+		</script>
+		<noscript>
+		<img height="1" width="1" src="https://www.facebook.com/tr?id=1202312419792722&ev=PageView&noscript=1"/>
+		</noscript>
+	<!-- End Facebook Pixel Code -->
+
+
 <noscript>
 <img height="1" width="1" src="https://www.facebook.com/tr?id=1202312419792722&ev=PageView&noscript=1"/>
 </noscript>
 <!-- End Facebook Pixel Code -->
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6239495896737099",
+    enable_page_level_ads: true
+  });
+</script>
 <!-- HEADER -->
 <div style="display:none" id="dvloader"><img src="http://www.kapdaclick.com/images/loading.gif" alt="loading"></div>
 <div id="header" class="header">
-	<div class="top-header">
+	<div class="top-header vimaltop3">
         <div class="container">
             <div class="nav-top-links" style="float: right;">
                 <a href="#">Call Us: +91 9510200500</a>
@@ -453,12 +584,63 @@ fbq('track', 'PageView');
                     <input type="text" id="email" name="email" value="" style="width:45%;background-color:#8C8C8C;" placeholder="Email Id">
                     </td>
                 </tr>
+				<tr>
+                    <td>
+                    <input type="text" id="mobile" name="mobile" value="" style="width:45%;background-color:#8C8C8C;" placeholder="Mobile Number">
+                    </td>
+                </tr>
                 <tr>
                     <td>&nbsp;</td>
                 </tr>
                 <tr>
                     <td>
                     <input type="submit" id="finish_gift12" name="Submit" value="SIGN UP" class="submit_td_new">
+					<input type="submit" id="finish_gift12_cancel" name="cancel" value="CANCEL" class="submit_td_new">
+                    </td>
+                </tr>
+        </tbody></table>
+                
+        </div>
+                
+               <!--<img src="http://108.170.1.182/beta/newsletter_image/newsletter_background.jpg" /> -->
+            </div>
+            <div class="success_msg" id="success_msg"></div>
+        </div>
+    </div>
+</div>
+
+
+<div id="myModal_otp" class="modal fade">
+    <div class="modal-dialog" style="">
+        <div class="modal-content" style="text-align: center; height: auto;background-image: url('http://www.kapdaclick.com/newsletter_image/newsletter_background.jpg') !important;">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            <div class="modal-header" style="border-bottom:0px !important;padding:0px !important;">
+                
+                <h4 class="modal-title" style="margin-top: 50px !important;">Verify OTP</h4>
+            </div>
+            <div class="modal-body" style=" margin-top: 20px;">
+                  
+                    
+            <div class="mmen">
+            <table>
+                
+				<tbody><tr>
+                    <td>
+                    <input type="text" id="otp" name="otp" value="" style="width:45%;background-color:#8C8C8C;" placeholder="OTP">
+                    </td>
+                </tr>
+				<tr>
+                    <td>
+                    <input type="hidden" id="otp_email" name="otp_email">
+					 <input type="hidden" id="otp_mobile" name="otp_mobile">
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                    <input type="submit" id="otp_submit_button" name="otp_submit_button" value="VERIFY" class="submit_td_new">
                     </td>
                 </tr>
         </tbody></table>
@@ -512,7 +694,7 @@ fbq('track', 'PageView');
                 </div>
                 </div>
 				<div class="col-sm-9 col-md-9 group-link-main-menu header_tag_line">
-																			<img src="http://www.kapdaclick.com/advt/add.jpg" alt="Kapdaclick Free Gifts And Coupons">
+																			<img src="http://www.kapdaclick.com/advt/top2.png" alt="Kapdaclick Free Gifts And Coupons">
 						
 							
 							<!--<img src="http://www.kapdaclick.com/advt/header901-41.jpg" alt="Kapdaclick Free Gifts And Coupons"> -->
@@ -913,12 +1095,8 @@ For this purpose, KAPDACLICK adopts internal reviews of the data collection, pro
          
       <!--    <div class="footer-row footer-center footer-newsletter">
              <div class="container">
-
-
-
                  <h3>Sign up below for early updates</h3>
-                 <p>Sign Up To Our Newsletter And Get Exclusive Deals You Wont Find Anywhere Else Straight To Your Inbox!</p>             
-                
+                 <p>Sign Up To Our Newsletter And Get Exclusive Deals You Wont Find Anywhere Else Straight To Your Inbox!</p>     
                  <form class="form-inline form-subscribe" id="newsletter_subscriber" onsubmit="return newsletter_check(this)" action="http://www.kapdaclick.com/blog/?na=s" method="post">
                       <div class="form-group">
                         <input type="text" class="form-control required email" autocomplete="off" name="ne" id="newsletter-input-footer" placeholder="Enter Your E-mail Address">
@@ -937,106 +1115,8 @@ For this purpose, KAPDACLICK adopts internal reviews of the data collection, pro
                         </span>
                       </div>
               </form>
-
-
-
-
              </div>
          </div> -->
-                 <div class="footer-inner" style="display:none;">
-            <div class="container">
-                       
-                <div class="brandContainerFooter">
-                    <span class="brandValueFooter">
-                        <ul class="footerSubCategoriesUl">
-                        <a class="brandLabelFooter" href="#">demo2:</a>
-                          
-                                        
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo2" title="demo2">demo2</a>
-                                                    </li>
-                                                </ul>
-                    </span>
-                </div>
-                       
-                <div class="brandContainerFooter">
-                    <span class="brandValueFooter">
-                        <ul class="footerSubCategoriesUl">
-                        <a class="brandLabelFooter" href="#">demo1:</a>
-                          
-                                        
-                                                <li class="footerSubCategory">
-                            <a href="demo1" title="demo1">demo1</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo1" title="demo1">demo1</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo1" title="demo1">demo1</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo1" title="demo1">demo1</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo1" title="demo1">demo1</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo1" title="demo1">demo1</a>
-                                                        <span class="slash">/</span>
-                                                    </li>
-                                                <li class="footerSubCategory">
-                            <a href="demo1" title="demo1">demo1</a>
-                                                    </li>
-                                                </ul>
-                    </span>
-                </div>
-                    </div>
-         </div>
                   <div class="footer-row">
              <div class="container">
                  <div class="row">
@@ -1046,8 +1126,8 @@ For this purpose, KAPDACLICK adopts internal reviews of the data collection, pro
                              <div class="widget-body">
                                  <ul>
                                                                                      <li><a href="http://www.kapdaclick.com/page/about-us/" title="About us">About us</a></li>
-                                                                                                <li><a href="http://www.kapdaclick.com/careers.php" title="Careers">Careers</a></li>
-                                                                                       <li><a href="http://www.kapdaclick.com/sitemap.php" title="Site map">Site map</a></li>
+                                                                                                <li><a href="http://www.kapdaclick.com/careers" title="Careers">Careers</a></li>
+                                                                                       <li><a href="http://www.kapdaclick.com/sitemap" title="Site map">Site map</a></li>
                                                                         </ul>
                              </div>
                          </div>
@@ -1057,9 +1137,9 @@ For this purpose, KAPDACLICK adopts internal reviews of the data collection, pro
                              <h3 class="widget-title">Our Policies</h3>
                              <div class="widget-body">
                                  <ul>
-                                                                                <li><a href="http://www.kapdaclick.com/policy-page.php" title="Privacy Policy">Privacy Policy</a></li>
-                                                                               <li><a href="http://www.kapdaclick.com/terms-of-use.php" title="Terms of Use">Terms of Use</a></li>
-                                                                               <li><a href="http://www.kapdaclick.com/terms-of-sale.php" title="Terms of Sale">Terms of Sale</a></li>
+                                                                                <li><a href="http://www.kapdaclick.com/policy-page" title="Privacy Policy">Privacy Policy</a></li>
+                                                                               <li><a href="http://www.kapdaclick.com/terms-of-use" title="Terms of Use">Terms of Use</a></li>
+                                                                               <li><a href="http://www.kapdaclick.com/terms-of-sale" title="Terms of Sale">Terms of Sale</a></li>
                                                                                <li><a href="http://www.kapdaclick.com/page/copyright-policy" title="Copyright Policy">Copyright Policy</a></li>
                                                                     </ul>
                              </div>
@@ -1070,11 +1150,10 @@ For this purpose, KAPDACLICK adopts internal reviews of the data collection, pro
                              <h3 class="widget-title">Need Help?</h3>
                              <div class="widget-body">
                                  <ul>
-                                                                                <li><a href="http://www.kapdaclick.com/faqs.php" title="FAQ’s">FAQ’s</a></li>
-                                                                               <li><a href="http://www.kapdaclick.com/contact-us.php" title="Contact Us">Contact Us</a></li>
+                                                                                <li><a href="http://www.kapdaclick.com/faqs" title="FAQ’s">FAQ’s</a></li>
+                                                                               <li><a href="http://www.kapdaclick.com/contact-us" title="Contact Us">Contact Us</a></li>
                                                                     </ul>
-                                 <a href="http://www.alexa.com/siteinfo/kapdaclick.com"><script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/t/a?url=kapdaclick.com"></script></a>
-
+                                <!-- <a href="http://www.alexa.com/siteinfo/kapdaclick.com"><script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/t/a?url=kapdaclick.com"></script></a>-->
                              </div>
                          </div>
                      </div>
@@ -1083,9 +1162,9 @@ For this purpose, KAPDACLICK adopts internal reviews of the data collection, pro
                              <h3 class="widget-title">Business with Us</h3>
                              <div class="widget-body">
                                  <ul>
-                                                                                 <li><a href="http://www.kapdaclick.com/seller-register.php" title="Sell With Us">Sell With Us</a></li>
+                                                                                 <li><a href="http://www.kapdaclick.com/seller-register" title="Sell With Us">Sell With Us</a></li>
                                                                                <li><a href="http://www.kapdaclick.com/mystore/" title="Selling made easy">Selling made easy</a></li>
-                                                                               <li><a href="http://www.kapdaclick.com/seller-care.php" title="Seller Care">Seller Care</a></li>
+                                                                               <li><a href="http://www.kapdaclick.com/seller-care" title="Seller Care">Seller Care</a></li>
                                                                     </ul>
                                    
                              </div>
@@ -1162,7 +1241,7 @@ For this purpose, KAPDACLICK adopts internal reviews of the data collection, pro
                      <div class="row">
                          <div class="col-sm-6">
                              <div class="footer-coppyright">
-                                 Copyright © 2016 Kapdaclick. All rights reserved.
+                                 Copyright © 2017 Kapdaclick. All rights reserved.
                              </div>
 
                          </div>
@@ -1196,7 +1275,7 @@ For this purpose, KAPDACLICK adopts internal reviews of the data collection, pro
             </li>
             <li class="email"><a href="javascript:void(0)"><i class="fa fa-envelope"></i></a>
                 <div class="chat-hover">
-                    <a class="email_us" href="http://www.bannerbuzz.com/contact-us.html" rel="nofollow"><span>Email Us</span>
+                    <a class="email_us" href="mailto:kapdaclick@gmail.com" rel="nofollow"><span>Email Us</span>
                     Have a question? Let us help.</a>
                 </div>
             </li>
@@ -1323,9 +1402,9 @@ function search_filter_form()
 <script type="text/javascript" src="http://www.kapdaclick.com/homeassets/js/jquery.actual.min.js" defer="defer"></script>
 <script type="text/javascript" src="http://www.kapdaclick.com/homeassets/js/theme-script.js" defer="defer"></script>
 <script type="text/javascript" src="http://www.kapdaclick.com/homeassets/js/option4.js" defer="defer"></script>
-<!--
-<script type="text/javascript" async src="http://www.kapdaclick.com/js/autosuggestion.js" data-pagespeed-no-defer></script> 
--->
+
+<script type="text/javascript" async="" src="http://www.kapdaclick.com/js/autosuggestion.js"></script> 
+
 <script>
     $(window).load(function() {
         var url_find = window.location.href;    
