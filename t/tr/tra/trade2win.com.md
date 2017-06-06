@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade2win.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203184234id_/http%3A//www.trade2win.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade2win.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094757id_/http%3A//www.trade2win.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
