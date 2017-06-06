@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rumorfix.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404174419id_/http%3A//rumorfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumorfix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103703id_/http%3A//rumorfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RumorFix - The Anti Tabloid
 
@@ -20,7 +20,7 @@ We only collect personal information that is relevant to the purpose of the Se
 
 2\. Automatic Information:
 
-  * We receive and store certain types of information whenever you interact with the Service. Zealot, and our authorized agents, automatically receive and record certain “traffic data” on server logs, including your IP address, cookie information, the page you requested, device and software characteristics (such as type and operating system), location, activity on the Service, ad data, referral URLs, device identifiers or other unique identifiers such as advertising identifiers (e.g., “ad-ID” or “IDFA”).
+  * We receive and store certain types of information whenever you interact with the Service. Zealot, and our authorized agents, automatically receive and record certain “traffic data” on server logs, including your IP address, cookie information, the page you requested, device and software characteristics (such as type and operating system), location, activity on the Service, ad data, referral URLs, device identifiers or other unique identifiers such as advertising identifiers (e.g., "ad-ID" or "IDFA").
   * This traffic data is used to help diagnose problems with servers, analyze trends and administer the Service.
   * We may collect and, on any page, display the total counts that page has been viewed.
   * Many companies offer programs that help you to visit or use the Service anonymously. While we will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
@@ -77,7 +77,7 @@ The Service is not directed to children. You must be 13 years and older to regi
 
 **California Privacy Rights**
 
-If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by us to third parties for the third parties’ direct marketing purposes. California Business and Professions Code Section 22581 permits registered users who are minors to request and obtain deletion of certain posted content. To make any such requests, please send an email to legal@zealotnetworks.com or write us at:
+If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by us to third parties for the third parties' direct marketing purposes. California Business and Professions Code Section 22581 permits registered users who are minors to request and obtain deletion of certain posted content. To make any such requests, please send an email to legal@zealotnetworks.com or write us at:
 
 Zealot Networks, Inc.
 
@@ -99,7 +99,6 @@ If you decide to visit or use the Service, your visit and use and any possible d
 
 If you have any questions regarding this Privacy Policy, you may email us at legal@zealotnetworks.com or contact us by mail addressed to:
 
-  
 Zealot Networks, Inc.
 
 660 Venice Blvd.
