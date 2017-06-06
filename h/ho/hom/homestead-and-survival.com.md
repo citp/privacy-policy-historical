@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homestead-and-survival.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225095929id_/http%3A//homestead-and-survival.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestead-and-survival.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071957id_/http%3A//homestead-and-survival.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Homestead & Survival
+# Privacy Policy - Homestead & Survival
 
 This privacy policy sets out how Homestead-And-Survival.com uses and protects any information that you provide when you use this website.
 
