@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omniplex.ie privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326045537id_/https%3A//www.omniplex.ie/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omniplex.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162527id_/https%3A//omniplex.ie/company/privacy) for the most accurate reproduction.*
 
 # Omniplex Cinemas - Book Films Tickets and View Cinema Listings | Privacy
 
