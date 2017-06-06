@@ -1,44 +1,63 @@
-> *The following text is extracted and transformed from the allrefer.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012937id_/http%3A//reference.allrefer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrefer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104505id_/http%3A//www.allrefer.com/privacy) for the most accurate reproduction.*
 
-# AllRefer.com - Privacy Statement
+# Privacy - ALLRefer
 
-### Privacy Policy
+## Introduction
 
-We have created this privacy statement in order to demonstrate our firm commitment to privacy. AllRefer.com provides encyclopedia, reference, and educational information and resources. The following discloses our information gathering and dissemination practices for the Web site, AllRefer.com. 
+ALLRefer.com (“ALLRefer”) takes the private nature of your personal information very seriously.
 
-We collect no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us via the contact/feedback form or email. All personal information you provide on this site is kept confidential. 
+This privacy policy, which we adapted from a policy originally provided by Automattic (WordPress.com), describes how we treat the information we collect when you visit and use our websites. Please read this notice very carefully.
 
-However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation, and will be used only as a source of anonymous statistical information. This information may include:  
-• [](http://www.adam.com/home/editorialexcellence/contentreview.asp)Internet Protocol (IP) address of the domain from which you access the Internet, either your individual address or the proxy provided by your Internet Service Provider (ISP).   
-• [](http://www.adam.com/home/editorialexcellence/contentreview.asp)Date and time you access our site.   
-• [](http://www.adam.com/home/editorialexcellence/contentreview.asp)Pages you view (recorded by the text and graphics files that compose that page).   
-• [](http://www.adam.com/home/editorialexcellence/contentreview.asp)Web address of the site from which you linked directly to our site.   
-• [](http://www.adam.com/home/editorialexcellence/contentreview.asp)Browser version and operating system of the computer you are using. 
+## Website Visitors
 
-We may use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site�s technical design specifications and identifying system performance or problem areas. 
+Like most website operators, ALLRefer collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. ALLRefer’s purpose in collecting non-personally identifying information is to better understand how ALLRefer’s visitors use its website. From time to time, ALLRefer may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website.
 
-##### Cookies
+ALLRefer also collects potentially personally-identifying information like Internet Protocol (IP) addresses. ALLRefer does not use such information to identify its visitors, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-Cookies are minute pieces of information that your browser stores on your hard drive. Cookies help everyone in that they help to make navigation around the site more swift, and prevent you from having to enter certain information that you have already given us each time you visit the site. Cookies help us to see how visitors use us, and when. They help us to discover which parts of our site are popular and which are not. We use cookies to assist with our site development. Most browsers these days are set up to automatically accept cookies. You may choose to provide us with personal information, by sending e-mail with questions or comments or by filling out an online form and submitting it to us through our web site. We use this information to  
-•Gather the requested information.  
-• Respond to Your message.  
-• Follow-up as appropriate.
+## Gathering of Personally-Identifying Information
 
-We do not create individual profiles with the information you provide. If information is collected, it will be used solely in connection with AllRefer.com or for such other purposes as are described at the point of collection. We do not give, sell, or transfer any personal information to a third party.
+Certain visitors to ALLRefer’s websites choose to interact with ALLRefer in ways that require ALLRefer to gather personally-identifying information. The amount and type of information that ALLRefer gathers depends on the nature of the interaction. For example, we ask visitors who sign up for ALLRefer.com to provide a username and email address. In each case, ALLRefer collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with ALLRefer. ALLRefer does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-However, your e-mail message, question, or comment may be forwarded to other AllRefer.com employees, contractors or subcontractors, who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations. However, e-mail and on-line forms are not secure against interception and senders cannot expect privacy. 
+## Aggregated Statistics
 
-We reserve the right, and you authorize us, to use and assign all information regarding our site uses by you and all information provided by you in any manner consistent with this section. AllRefer.com may modify, alter, amend, modify, or otherwise fundamentally change its privacy policy at its sole discretion without prior notice to you by posting a change to its privacy policy on the site or by altering this agreement and posting it to the site. 
+ALLRefer may collect statistics about the behavior of visitors to its websites. For instance, ALLRefer may monitor the most popular collections on ALLRefer.com. ALLRefer may display this information publicly or provide it to others. However, ALLRefer does not disclose personally-identifying information other than as described below.
 
-##### Links to other Sites
+## Protection of Certain Personally-Identifying Information
 
-AllRefer.com contains links to web sites operated by other parties. The links are provided for your convenience only. We do not control such web sites and are not responsible for the content and performance of these sites or for your transactions with them. Inclusion of links to such web sites does not imply any endorsement of the material on such web sites or any association with their operators. 
+ALLRefer discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on ALLRefer’s behalf or to provide services available at ALLRefer’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using ALLRefer’s websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if ALLRefer or substantially all of its assets were acquired, or in the unlikely event that ALLRefer goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of ALLRefer may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, ALLRefer will not rent or sell potentially personally-identifying and personally-identifying information to anyone.
 
-##### Advertisements on our Site
+Other than to its employees, contractors and affiliated organizations, as described above, ALLRefer discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when ALLRefer believes in good faith that disclosure is reasonably necessary to protect the property or rights of ALLRefer, third parties or the public at large. If you are a registered user of a ALLRefer website and have supplied your email address, ALLRefer may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with ALLRefer and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. ALLRefer takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-We use Maxworldwide, FastClick, and other third-party advertising companies to serve ads when you visit our Web site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. For more information about their Privacy Policies, the use of cookies, and your right to "opt-out", please click on the following links
+You should also be aware that if you submit information to “chat rooms,” “forums” or “message boards” such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications.
 
-•[Max Worldwide](http://www.maxworldwide.com/privacy_policy/index.php)  
-• [FastClick](http://www.fastclick.com/about/privacy2.html)
+## Cookies
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by accessing the [Contact Us](https://web.archive.org/contact.html) form.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. ALLRefer uses cookies to help ALLRefer identify and track visitors, their usage of ALLRefer websites, and their website access preferences. ALLRefer visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using ALLRefer’s websites, with the drawback that certain features of ALLRefer’s websites may not function properly without the aid of cookies.
+
+## Ads
+
+Ads appearing on any ALLRefer websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by ALLRefer and does not cover the use of cookies by any advertisers.
+
+## Links to Third Party Sites
+
+This privacy policy only applies to information collected by ALLRefer. This privacy policy does not apply to the practices of companies that ALLRefer does not own or control, or employees that ALLRefer does not manage. A ALLRefer website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and ALLRefer and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
+
+## Security
+
+All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers.
+
+## Choice/Opt-out
+
+If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices.
+
+## Address Book Data
+
+Any external address book data (email contacts, etc.) that a user voluntarily gives ALLRefer access to will only be used for the described feature (looking up friends, etc.), and will not be stored or repurposed.
+
+## Privacy Policy Changes
+
+Although most changes are likely to be minor, ALLRefer may change its privacy policy from time to time, and in ALLRefer’s sole discretion. ALLRefer encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.
+
+## Contact Us
+
+If you have any questions about this privacy policy or our sites in general, please contact us.
