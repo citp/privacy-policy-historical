@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fftodayforums.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206172407id_/http%3A//www.fftoday.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fftodayforums.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115638id_/http%3A//www.fftoday.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy - FF Today
 
-We record your personal information (name, address, e-mail address) only when you voluntarily offer it. We do not sell or rent any information you submit to us.
+We record your personal information (name, address, e-mail address) only when you voluntarily offer it for access to premium areas and special content features. We do not sell or rent any information you submit to us.
 
 FFToday.com makes use of a technology called "cookies" which stores small pieces of information on your computer. Sites often use cookies to identify repeat visitors and offer them personalized service. Our sites uses cookies to keep track of your preferences. Cookies, by themselves, cannot be used to find out the identity of any user. FFToday.com will only store information that adds to your browsing experience. This information is not personally identifiable. If for some reason you would rather not take advantage of the benefits made possible with cookies, most Web browsers allow you to reject cookies or to choose which cookies to accept. Check your browser's documentation and help files, or contact your browser vendor, for more information about its cookie features.
 
