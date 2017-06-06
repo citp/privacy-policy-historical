@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119031645id_/http%3A//www.clipart.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042322id_/http%3A//www.clipart.com/en/company/privacy) for the most accurate reproduction.*
 
-# Clipart - Download Royalty-Free Clipart, Images, Fonts, Web Art and Graphics
-
-| 
-
-* * *
+# Information about our website privacy policy | Clipart.com
 
 Last updated: March 2014
 
@@ -105,4 +101,4 @@ We reserve the right to change the terms of this privacy policy at any time. Whe
 **Contact Information**   
 You can contact Vital Imagery Ltd. Sales by emailing [support@vitalimagery.com](mailto:support@vitalimagery.com), or by phone at 1-519-489-4694, or by postal mail at Vital Imagery Ltd., PO Box 312, 61 Dunedin Dr., Brussels, Ontario, Canada, N0G1H0.
 
-© 1999-2012 Vital Imagery Ltd. All rights reserved. Privacy Policy.
+© 1999-2017 Vital Imagery Ltd. All rights reserved. Privacy Policy.
