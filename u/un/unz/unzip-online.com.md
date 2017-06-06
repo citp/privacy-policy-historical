@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unzip-online.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072707id_/http%3A//unzip-online.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unzip-online.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161231id_/https%3A//unzip-online.com/en/privacypolicy) for the most accurate reproduction.*
 
-# unzip-online.com | Privacy policy
+# unzip-online.com | Index
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@unzip-online.com](mailto:info@unzip-online.com).
 
