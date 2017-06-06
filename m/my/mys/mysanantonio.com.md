@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219164238id_/http%3A//www.mysanantonio.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055104id_/http%3A//www.mysanantonio.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | mySanAntonio.com | SA Express-News - San Antonio Express-News
-
-[](http://www.mysanantonio.com/text-alerts/)
 
   1. **Purpose and Scope of this Privacy Policy.**
     1. This privacy policy describes how Hearst, publisher of San Antonio Express-News and its Affiliates (collectively, **"Newspaper"** ) treat the Personally Identifiable Information that is collected about you when you visit the web sites, mobile-optimized versions of the web sites, and digital applications to which this policy is linked (collectively, **"Covered Sites"** ). For the purposes of this policy, an entity controlling, controlled by, or under common control with another entity shall be deemed to be an "Affiliate", where control means ownership of 15% or more of the voting stock or other ownership interests. For the purposes of this policy, **"Personally Identifiable Information"** is information that we can use to identify or contact you as an individual, and includes your name, email address, address, telephone number and any other information that we associate with any of the foregoing. By submitting Personally Identifiable Information through any of our Covered Sites, you agree to the terms of this privacy policy and you expressly consent to the collection, use and disclosure of your Personally Identifiable Information in accordance with this privacy policy.
@@ -59,5 +57,3 @@
 
 
 Last Update: November 20th, 2014
-
-[](http://www.mysanantonio.com/text-alerts/)
