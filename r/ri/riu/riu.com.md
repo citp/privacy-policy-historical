@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riu.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023070623id_/http%3A//www.riu.com/en/PaginasFinales/rwd_politicas.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200012id_/http%3A//www.riu.com/en/PaginasFinales/rwd_politicas.jsp) for the most accurate reproduction.*
 
 # 
 
@@ -35,6 +35,8 @@ RIU Hotels & Resorts is pleased to inform its customers that it has adopted the 
  **D.- Consent of the user**
 
 for the processing and transfer of personal data By providing their details to RIU Hotels & Resorts or to any company associated to RIU Hotels & Resorts, the users indicate their express acceptance of these conditions and regulations of use, granting unequivocal consent for the processing of their personal data according to the purposes set forth herein. They also accept that their data may be transferred to relevant entities for fulfilment of the obligations pursuant to the service requested, exclusively for the reserved purposes, and guaranteeing they will not under any other circumstances be transferred to third parties for any other purpose, without the additional consent of the owner. By legal obligation and to ensure collaboration with the Authorities, the data may be provided to public bodies which require it. In these cases, it is specified that the minimum information required will be provided for the corresponding legal compliance, protecting the rest of the data with the utmost rigour.
+
+When you use our online booking process in riu.com details of any hotel that you seek to reserve and your email address may be collected as you fill in the reservation process. If you do not complete your purchase, we may contact you using these details to offer our assistance (in case, for instance, you were suffering from technical difficulties). In the event that we contact you to offer you our assistance to complete your reservation process, you may exercise your rights to revocation of consent.
 
  **E.- Exceptions to the authorisation for data processing**
 
@@ -189,4 +191,4 @@ Information about your IP address, language preferences, browser and other data 
 
 Please note that we will register information concerning Internet or email connections in order to troubleshoot any problems that may arise, improve our performance and services, and manage security issues.
 
-September 2016
+January 2017
