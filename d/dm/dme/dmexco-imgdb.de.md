@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmexco-imgdb.de privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206153653id_/http%3A//www.koelnmesse.com/Koelnmesse/security-and-data-protection-2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmexco-imgdb.de privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110836id_/http%3A//www.koelnmesse.com/Koelnmesse/security-and-data-protection-2.php) for the most accurate reproduction.*
 
 # Security and data protection | Koelnmesse
 
@@ -18,6 +18,22 @@ Disable Google Analytics
 Further information concerning the terms and conditions of use and data privacy can be found at  
 [ http://www.google.com/analytics/terms/de.html ](http://www.google.com/analytics/terms/de.html)   
 [ https://www.google.de/intl/de/policies/ ](https://www.google.de/intl/de/policies/)
+
+### Social plugins from Facebook, Twitter, Google+, LinkedIn and Xing
+
+We offer you on our website the possibility to use so-called social plugins from the following companies:
+
+  * „Share“-Button from Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA;
+  * „Tweet“-Button from Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA;
+  * „+1“-Button from Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA;
+  * „Recommended-Button“ von LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA;
+  * „Share-Button“ from XING AG, Gänsemarkt 43, 20354 Hamburg, Germany.
+
+
+
+To protect the privacy of your data, we implement this with the solution “Shariff”. By doing this, the plugins are displayed on our website merely as graphics (images) that contain a link to the website of the plugin provider. By clicking on the graphic you will be forwarded to the services of the provider. Only then will your data be sent to the providers. As long as you do not click on the plugin graphic, there will be no transmission of data between you and the so-called social networks.
+
+More information about the collection and usage of your data in social networks can be found in the terms and conditions of the individual service providers. More information about the Shariff solution can be found  [ here ](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html) .
 
 ### EXPANDED DATA PROTECTION REGULATIONS
 
@@ -55,10 +71,11 @@ Whenever you visit one of our websites, our servers generally store not only the
   * The IP number that has been assigned to you by your Internet provider
   * The web page you are currently visiting
   * The tool (i.e. web browser, operating system) you have used to access the site
-  * The terms you use in the search engines and for the site search
+  * The carried out action on our website
+  * The terms you use in the search engines and for the site search and the search result
   * Whether a site was successfully accessed or not
   * What information was called up (incl. downloads)
-  * From which server you accessed the site
+  * From which server and which website you accessed the site
 
 
 
@@ -78,7 +95,7 @@ We have taken every technical and organizational step required to ensure that al
 
 In addition, our employees are obliged to keep data confidential. They regularly receive training in data protection and data security.
 
-### Which information do we forward?
+ **Which information do we forward?**
 
 Koelnmesse forwards your personal data to third parties if this is necessary to process your orders, organize your trade fair participation or invoice services.
 
@@ -138,6 +155,8 @@ Achim Stolzki | Messeplatz 1, 50679 Köln, Germany
 
 The company’s mission is to promote business by organizing trade fairs and exhibitions in Germany and abroad, by organizing and staging congresses and conferences, and by engaging in activities and offering services related to the trade fair, exhibition, congress and conference business. To fulfill its mission, the company maintains trade fair and exhibition facilities as well as conference rooms and convention halls. It uses these facilities for its events or rents them out for an appropriate fee. The company is also entitled to use its grounds for events of an athletic, cultural or other nature or to rent out its facilities for this purpose. Data is collected, processed and used to fulfill the above-mentioned mission.
 
+The temporary storage of your IP adress has the purpose of filtering out the accesses of the website operator and its service providers to improve the range of services and the overall experience of the service. In case of serious violations of our terms of use and of unlawful access or attempted access to our servers, we reserve the right to use individual data records to track personal information.
+
 ### 5\. Description of the groups affected and the relevant data and data categories
 
 Visitor data, exhibitor data, other business partner data, employee data insofar it is needed to fulfill the purpose listed in item 4.
@@ -154,4 +173,4 @@ The law contains a number of regulations concerning the obligation to store data
 
 The personal data of German citizens or citizens of other EU countries is forwarded to third countries that do not offer a sufficiently high level of data protection only if the recipient of the data has accepted the stipulations of the EU-standard contract.
 
-(Status: January 2016)
+(Status: May 2017)
