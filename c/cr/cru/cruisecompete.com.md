@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisecompete.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120072331id_/http%3A//www.cruisecompete.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecompete.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163009id_/http%3A//www.cruisecompete.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CruiseCompete.com - Privacy Policy
 
@@ -79,4 +79,4 @@ See the online American Express credit card applications for details about terms
 Read more: [Compare credit cards here - CreditCards.com](http://www.creditcards.com/American-Express.php#ixzz2ebBS42mU)
 
 ***Third parties using cookies and pixels to target advertisements***  
-We allow third parties to use cookies and pixels on our site so that they can receive certain non personal (PII) information about you or your device. These third-party partners use cookies and related technologies to deliver content and advertisements relevant to your interests on our and other third-party sites and to collect site statistical data. 
+We allow third parties to use cookies and pixels on our site so that they can receive certain non personal (PII) information about you or your device. These third-party partners use cookies and related technologies to deliver content and advertisements relevant to your interests on our and other third-party sites and to collect site statistical data. You may choose to opt-out of industry-wide Interest-Based Advertising (aka; online behavioral advertising) by clicking through to the Digital Advertising Alliance (DAA) here: [http://optout.aboutads.info](http://optout.aboutads.info/)
