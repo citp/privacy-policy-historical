@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elmotalent.com.au privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109170304id_/http%3A//elmotalent.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elmotalent.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170530id_/http%3A//elmotalent.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - ELMO Talent Management Software
 
