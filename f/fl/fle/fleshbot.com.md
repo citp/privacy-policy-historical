@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fleshbot.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032311id_/http%3A//www.fleshbot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshbot.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140327id_/http%3A//www.fleshbot.com/privacy-policy) for the most accurate reproduction.*
 
-# Fleshbot Porn Blog | Pure Filth | Sex Culture
+# 
 
 Thank you for visiting this site operated by SK Intertainment, Inc (the “Site”). We are committed to protecting your privacy online and to providing you with the very best experience we can on the Site. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of the Site. This policy may change from time to time so please check back periodically.
 
