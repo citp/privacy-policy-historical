@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordunscrambler.me privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303024348id_/http%3A//wordunscrambler.me/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordunscrambler.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142842id_/http%3A//wordunscrambler.me/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
