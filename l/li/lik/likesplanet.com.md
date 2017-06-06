@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likesplanet.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804193344id_/https%3A//likesplanet.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likesplanet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164940id_/https%3A//likesplanet.com/privacy-policy.php) for the most accurate reproduction.*
 
 # LikesPlanet- Get Facebook Photo Likes | Free Instagram Followers | Free YouTube Likes
 
