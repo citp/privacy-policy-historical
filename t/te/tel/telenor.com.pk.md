@@ -1,95 +1,224 @@
-> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422072821id_/https%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173415id_/https%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy|Telenor Pakistan
 
-## Privacy Statement
+Privacy matters to us, and we want to be transparent about how we collect and work with your personal information. Please take a moment to read this statement, and if you have any questions, you can [contact us](https://web.archive.org/help-support/contact-us) any time.
 
-Telenor (hereinafter referred to as "Telenor" "us" "we" or "our") is committed to respecting your privacy. You can visit www.Telenor.com.pk without disclosing any personally identifiable information.
+This statement outlines your rights to your personal information, and contains general principles that apply to the handling of your personal information when you use any of Telenor Pakistan’s products or services, websites, and any product or service that we offer in conjunction with our partners. Depending on the product or service, you may also receive service- specific and/or region-specific terms. You will be legally bound by both this statement and the service/region specific term to the extent you have accepted them when signing up to service or product, therefore, you should read these terms carefully. In the event of conflict or inconsistency, the service and/or region-specific terms prevail.
 
-We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit our website. Please take a few moments to read the privacy statement and learn how we may use your personal information.
+Telenor Pakistan is a subsidiary of Telenor Group ASA. Our companywide commitment to your privacy is reflected in Telenor Group’s [Privacy Position](https://www.telenor.com/sustainability/responsible-business/privacy-and-data-protection/our-privacy-position/)
 
-You should read this notice in conjunction with the Terms and Conditions of use for the website.
+We believe that all of our customers should be able to trust Telenor with their information, regardless of where they reside. This is why we apply the following key privacy principles in every country in which we operate:
 
-## Personal Information Collection
+  * We will process your personal information in accordance with this privacy statement and all applicable laws.
+  * We will do our best to be transparent on how we handle your personal information.
+  * We will only process your personal information for legitimate purposes, and only for as long as it is necessary to achieve those purposes. We will dispose of your personal information safely and securely once it is no longer required.
+  * We will enable you to exercise choice and control over our processing of your personal information, not only when we are required to do so by the applicable law, but also in other circumstances where we think it is the right thing to do.
+  * We will inform you about your privacy rights, respect them and help you to exercise those rights.
+  * We will make sure that your personal information is safe through appropriate security measures.
+  * We will take steps to ensure that your personal information is adequately protected.
+  * We build privacy and data protection into our products and services by design and by default. This means that we prioritise the privacy of your data, and we will endeavour to build privacy safeguards in everything we develop.
 
-We endeavor to collect and use your personal data only with your knowledge and consent when you use our services, make customer enquiries, register for information or other services, or when you respond to communications from us (such as questionnaires or surveys).
-
-  * "Personal Data" is any data that identifies you. The Personal Data which you supply to us you agree will be true, complete and accurate in all respects and you agree to notify us immediately of any changes to that.
 
 
+### The what, why and how
 
-2\. We endeavor to collect and use your personal data only with your knowledge and consent and typically when you use services, make customer enquiries, register for information or other services, or when you respond to communications from us (such as questionnaires or surveys).
+What we collect and the way we collect your personal information vary depending on why we collect your information, which in turn depends on which one of our products and services you are using. Generally, we collect and use your personal information where:
 
-3\. The type of personal data we may collect could include, for example, your name and postal address, date of birth, gender, telephone and fax numbers, email address, and lifestyle and other information collected on registration or through surveys. If you choose to provide us with personal data it will be used in support of the intended purposes stated at the time at which it was collected, and subject to any preferences indicated to you.
+  * The information is necessary for us to provide the services you use
+  * The information is needed for us to better improve our service and your user experience
+  * The information is needed for us to help protect your security
 
-4\. You acknowledge that by providing data to us, you consent to the processing of your data in accordance with this Privacy Policy Statement. Personal Data will be collected, processed and used by Telenor for the purposes of providing the Telenor.com.pk Personal Data may also be processed and used by such other organizations on our behalf for the purpose of providing Telenor.com.pk services to you.
 
-5\. We encourage you to tell Us what your preferences are for using your Personal Data for marketing purposes. At this time by agreeing to these terms and conditions you are agreeing that your name and address may be disclosed to third party suppliers of goods and services who may use it to market their products and services to you.
 
-6\. We only send email and text messages to you about new products and services which We consider may be of interest to you only if you have given Us permission to do so.
+We may also collect your information from other sources.
 
-7\. We may collect Personal Data about your usage of the services on the Telenor.com.pk website in order to provide a service to meet your needs. However the data will only be disclosed on an anonymous and aggregated basis not in a way in which you will be identified.
+  
 
-8\. We had implemented Google Analytics features based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Using the Ads Settings, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads
 
-9\. If You have any questions about the handling or protection of your Personal Data or your rights under this Online Agreement please contact Customer Relations by writing to: Data Services Manager 15 Silver Square F -11 Markaz Islamabad
+### 1\. Information that is necessary for us to perform the services
 
-Please quote your name and address. We would be grateful if you could also provide brief details of what information you want a copy (this helps us to more readily locate your data). We will take all steps to confirm your identity before providing you with details of any personal information we may hold about you.
+There is certain personal information that is necessary for us to perform services you use. These include:
 
-*we may charge Pak Rs.100 to cover the administration costs involved.
+  * Your name, phone number, email address, postal address, date of birth, and other information provided when you register to use our services.
+  * Payment related information, such as credit or debit card information or other banking and payment information;
 
-10\. Telenor may disclose your Personal Data acting in good faith if it believes such action is necessary: to conform with a legal requirement or comply with the legal process, protect and defend the rights or property of Telenor.com.pk enforce this Online Agreement, or act to protect the interests of its users.
 
-## Information Security
 
-11\. Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Intranet. Telenor cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
+Typically, we collect this information:
 
-## Transferring your information outside of Pakistan
+  * When you sign up, buy, or use our products or services.
+  * When you subscribe to our newsletters or promotions about our products or services.
+  * When you contact us for information, question or feedback about our product, service or website.
 
-12\. It may be necessary to transfer your personal information to other companies within the Telenor Group located in other countries. This may happen where companies are based outside of Pakistan or where you use our services and products while visiting countries outside of Pakistan.
 
-## Privacy Support
 
-13\. Telenor reserves the right to amend or modify this Privacy Policy Statement at any time. If you have any enquiry about Telenor's data protection and privacy policy or practices, please write to:
+We generally use this information to:
 
-Data Protection Manager 15 Silver Square F -11 Markaz Islamabad
+  * Perform the relevant service or provide the relevant product
+  * Manage your account.
+  * Carry out credit checks.
+  * Request payments.
+  * Communicate with you.
 
-## What is spamming via SMS/MMS?
 
-SMS/MMS is a very useful means for persons/companies who wish to send information on their products/services quickly. Unfortunately it is also improperly used by some who send mass advertisements to people with whom they have no contractual relationship.
 
-Spamming is the unsolicited dissemination of mass advertising/information via telecommunications. When mobile owners receive such SMS/MMS messages, it must be assumed that these messages are sent systematically via the internet to entire blocks of numbers.
+### 2.Other information that is needed for us to provide and improve our services
 
-## What responsibility does Telenor bear?
+  * During the course of you using our products, services or websites, we may also collect other information from you. Some examples of such information include:
+  * Information about your account and our communications with you, such as any customer support requests that you make or any feedback that you provide, dates of payments, and date of invoices;
+  * Product usage data, such as your last active use of an application, the duration you spent on an application and how much you spent on a product.
+  * Network data, including mobile calls and sms data, such as the date and time of the calls and texts you send or receive, and the duration of calls received and made through our network;
 
-Telenor is responsible for transporting information across its network and cannot monitor messages sent by private individuals or companies. Telenor only ensures that these messages are transported without being aware of their contents. Telenor cannot filter the SMS/MMS received by its customers because this would mean checking the content of the messages, therefore violating the confidentiality of telecommunications.
 
-Telecommunication companies are not in a position to monitor and prohibit the transmission of unsolicited messages because they cannot know if a commercial relationship exists between the sender and the recipient of the advertising message. They are only aware of spamming after complaints are received from customers, whose responsibility it is first and foremost to take action against the spammers. Depending on where the spam has come from and following unsuccessful interventions by customers against spammers, the companies can then intervene with the spammer to demand that they stop this practice, and if the offence is repeated, the spammer can be prohibited access to the network. Unfortunately this is not possible in every case.
 
-## How can you protect yourself against spamming?
+Your location data, when:
 
-There are some basic rules you can apply in order to reduce as much as possible the risk of being bothered by unsolicited SMS/MMS. You handle your mobile phone number with care and do not give it out over the internet, in forums or other lists or competitions. Many forms often contain in the small print a statement such as 'I am interested in receiving information/advertisements for other products...', which effectively authorizes the sending of commercial SMS/MMS message(s).
+  * You use our telecommunications services, such as call, sms or broadband services.
+  * You choose to use our location based service. For example, when you enable direction applications on your mobile phone.ou signed up to a certain location based promotional activities.
 
-## What can you do if spamming continues?
 
-Please contact Customer Care in writing, including all the details of the SMS/MMS message(s) including the number of origin of message, content of the message, date and time of receipt etc. Unfortunately, Telenor cannot guarantee that you will not receive messages of this sort in future, since anyone who has access to the mobile network can send advertising SMS/MMS messages without Telenor being able to monitor this.
 
-## What can we do if spamming continues?
+Your browsing data, when:
 
-Telenor will do what it can to intervene with the sender of the messages. We will do all we can to identify the origin of the message and to demand the sender to stop sending such messages. In some cases we can cut off access to the mobile network for the sender of unsolicited messages. Unfortunately the legal situation as regards spamming is not clear: it is not considered illegal. Telenor supports the GSMA’S Spam Code of Practice in the fight against spam.
+  * You visit one of our websites and/or use some of our services.
 
-## Customers Beware
 
-Please be aware that some Telenor Pakistan customers are receiving hoax calls and fraudulent SMS informing them that they have won a valuable prize. To get the prize, customers are told to buy some scratch cards and tell the calling party the numbers on them. The fraudulent party immediately transfers the balance to unknown accounts thus depriving the customers of their money.
 
-Please also be aware that in some instances, Telenor Pakistan customers are receiving hoax calls and fraudulent SMS asking them to reply. The SMS contains a hidden message which transfers prepaid balance from the customer's account on reply.
+Information that we collect may include:
 
-PLEASE NOTE THAT SUCH CALLS AND SMS ARE A FRAUD.
+  * Information relating to your device, such as IP address, device model and settings.
+  * Network information.
+  * Details and logs of when, where and how you used the service.
+  * Browser information such as type and version and browser plug-in.
+  * Information about your visit, including the websites that directed you to us, the pages on our website that you visited, services and products that you viewed or searched for, length of visit, our interaction with you, and the next websites you visit after our website.
 
-This notice is being given in the public-interest to inform our customers from fraudulent practices. However Telenor Pakistan does not hold any responsibility or is in any way liable for compensation what so ever against such fraudulent activities.
 
-To read Telenor Pakistan’s customer charter in the language of your choice:
 
-•             [Click here for English](http://www.telenor.com.pk/images/stories/pdf/English.pdf)
+Typically, we use the information above and any other information necessary to:
 
-•             [Click here for Urdu](http://www.telenor.com.pk/images/stories/pdf/Urdu.pdf)
+  * Perform our services upon requests. For example, where you have requested that we link your digital services with third parties such as social networks, we will collect any information necessary to enable us to link and integrate our services;
+  * Improve customer experience, such as for troubleshooting, network management and network optimisation purposes.
+  * Use the recorded communications information for training quality assurance, feedback or for records purposes.
+  * Find ways in which we can better improve our service, such as using personal and/or aggregated statistics or de-identified information about sales, services, customers, network traffic and location patterns to conduct research to help improve our understanding of your behaviours.
+  * Conduct research that create value for the community. You can find out more about Telenor Group and our research activities [here](https://www.telenor.com/innovation/research/).
+  * Create customer profiles about you to offer you personalised content, provide a more relevant user experience or products and services, and to ensure that we will not be recommending you products and services that you may not be interested in. We may also use this information to find out whether you enjoy receiving our personalised services.
+  * Analyse use of our network and services to identify general trends and partner with third parties to develop new services for you;
+  * Send you marketing communications about products and services based on your preferences and interests; and/or
+  * Share your information within our affiliate companies, for processing, advertising, service development, cross product marketing and sales, product and service creation, measurement, analytics and research purposes.
+
+
+
+You may object to the processing by [contacting us](https://web.archive.org/help-support/contact-us) , unless the information is required for us to perform the services.
+
+### 3.Information needed for us to protect your security
+
+We use the information we have to keep our services and communities safe and secure.
+
+  * we may investigate or take action regarding suspicious and illegal activities that violate our Terms of Services, or the applicable law; and/or
+  * share your information, in accordance with applicable law/regulations and/or court orders, with the relevant authorities, for example, to protect you or someone else from harm or damage.
+
+
+
+You can find out more about how we cooperate with the local law enforcement authorities [here.](https://www.telenor.com/sustainability/responsible-business/privacy-and-data-protection/handling-access-requests-from-authorities/)
+
+### 4.Information you consented to provide to us
+
+We may also collect and process information about you when you consent to us collecting and processing this information. Examples are your demographic and other personal information when you participate in one of our competitions, prize draws, research surveys or consumer panels, or health information when you utilise our Tele- health or mobile health products and services.
+
+### 5.Information that we collect from other sources
+
+We sometimes collect personal information about you from third parties. Examples of the type of information that we collect are:
+
+  * Your credit information, to help us with customer authentication and credit-related decisions;
+  * If you consented, other information, such as demographic information, to better understand you and your interests and to offer you personalised services. Examples of third parties that we collect the information from include payment and delivery services, advertising networks, analytics providers, search information providers.
+  * Social media information, such as your interests, “Likes” and friends list, when you use your social media credentials to interact with a Telenor webpage or offer.
+
+
+
+You can object to any of the processing above by [contacting us](https://web.archive.org/help-support/contact-us), unless the information was required for us to perform the services.
+
+### How we share your information and other responsible entities
+
+We may share your personal information with an affiliate company or third parties for the purposes listed above. Sometimes, the third party with which we share your personal information with may determine the purposes for which and the means by which your personal information is processed, and therefore we shall ensure that the said third party follows the same privacy practices towards your information in accordance with our key privacy principles, this privacy statement and applicable law.
+
+More detailed examples of the third parties we may share your information with include:
+
+  * Any of the affiliate companies
+  * Data processors to process your information on our behalf.
+  * Third party services whom you have asked us to integrate with, such as social networks.
+  * Third /parties who conduct research, analytics or marketing in conjunction with us or on our behalf.
+  * Relevant third parties whom you consented, or that you requested that we share the information with.
+  * Prospective business partners, following your consent, if we decide to sell, buy, merge or otherwise re-organise our business.
+  * Following your consent, third parties that conduct advertising, measurement and analytics.
+  * Law enforcement agencies, where we are required to provide our cooperation for law enforcement purposes.
+  * Third party service providers such as debt collection agencies and credit check agencies.
+
+
+
+### How we protect your personal information
+
+We ensure that your personal information is safe and secure through the following measures:
+
+  * When you log into your account to use our services with your phone number or username and password, all of the data is encrypted using cryptographic protocols such as Transport Layer Security (TLS) and Secure Socket Layer (SSL) encryption. We employ such cryptographic protocols on all pages on our websites where we collect personal information. To make purchases from these web pages, you must use a TLS or SSL-enabled browser such as Internet Explorer, Safari, Firefox, or Chrome. This ensures that your personal information remains confidential and is protected white it is transmitted over the Internet;
+  * If you have a username and password to access our services, and have been inactive for some time, we automatically log you out of the account to keep your details secure;
+  * When we use service providers or other data processors to process your personal information on our behalf, we ensure that the relevant providers and processors will implement appropriate technical and organisational measures to protect the information. Such controls include access control to the information and the infrastructure that stores the information, contractual arrangement that requires the third parties to comply with all relevant laws, We apply privacy and data protection by design and by default , and build privacy and data protection into the foundation of our products and services;
+  * We conduct Data Protection/Privacy Impact Assessment where appropriate to measure and reduce the impact of a particular activity to the privacy of your personal information.
+
+
+
+### How long we keep your personal information for
+
+As mentioned in our 3rd Privacy Principle, we will only process your personal information for legitimate purposes, and only for as long as it is necessary to achieve those purposes. We will dispose of your personal information safely and securely once it is no longer required subject to applicable laws for retention of data.
+
+### Your rights
+
+It is important to us that you understand your privacy rights. Therefore, we have listed out below a non-exclusive list of privacy rights that you could exercise whilst entrusting us with your information:
+
+  
+
+
+  * Right to withdraw consent: Where you have consented for us to use, process, or share your personal information, you can withdraw that consent any time, unless the information is required for us to perform our services.
+  * Right to access your information: You can access and request a copy of the personal information that we hold about you any time by contacting us, or access the information directly through your online account.
+  * Right to erasure: You can request that we erase some of the personal information we hold about you, provided that certain circumstances apply:
+  * The information is no longer needed by us and there is no legal requirement on us to retain the information.
+  * You object to our profiling of your information, also in instances where the profiling is conducted for direct marketing purposes.
+  * Other legal grounds which permit you to do so.
+
+
+
+We will do our best in accommodating the request, but please bear in mind that this may result in you being ineligible to receive certain services.
+
+You can [contact us](https://web.archive.org/help-support/contact-us) any time to discuss these privacy rights in more details.
+
+### Handling Children’s Information
+
+As a general rule, we do not process personal information of children under the age of 18, unless we have the consent from their guardians. If we become aware that we have collected information about children under the age of 18 without consent, we will take steps to inform the guardians, seek consent, and if consent is not obtained, erase the information. Where services are designed for use by children under the age of18, we will seek the consent of the guardians and inform the guardians of their privacy rights.
+
+### Revision of this privacy statement
+
+We commit to reviewing this statement at least once annually, and on an ongoing as needed basis.
+
+If there are substantial changes to the statement, we will inform you through ways in which we think fit, which may include a prominent announcement on our homepage, emails or text messages. We will consider factors such as materiality of the change, the services affected by the change, and the reach when we choose a method of notification.
+
+### Questions about this privacy statement
+
+Telenor Pakistan is responsible for the handling of your personal information, and the legal frameworks in which we operate include:
+
+  * Pakistan Telecommunication (Re-organisation) Act, 1996
+  * Prevention of Electronic Crimes Act, 2016.
+  * Investigation for Fair Trial Act, 2013.
+  * Telecom Consumer Protection Regulations, 2016
+  * Protection from SPAM, Unsolicited fraudulent and obnoxious communication Regulations 2009
+
+
+
+If you have a question, concern or complaint about this privacy statement or our handling of your information, you can contact our Local Privacy Officer via the following methods:
+
+### Local Privacy Officer
+
+Email: privacy@telenor.com.pk
+
+We will respond to your query as soon as we can and try to resolve it to the best of our capability.
+
+If you lodged a complaint and are unsatisfied with our response, you can refer your complaint to the Pakistan Telecommunications Authority.
