@@ -1,68 +1,159 @@
-> *The following text is extracted and transformed from the rtrk.com.au privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529112201id_/https%3A//www.reachlocal.com/us/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtrk.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022603id_/http%3A//www.reachlocal.com/au/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReachLocal
 
-ReachLocal, Inc. (“ReachLocal”, “we”, “us”) iss committed to respecting your privacy and recognizes your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us. ReachLocal has established this Privacy Policy to let you know what information we may collect from you on the publicly available portion of Reachlocal.com (the “Site”) and through various other interactions with you, and how we may use and share that information. Please take a moment to review the terms of our Privacy Policy. By using the Site and/or providing us Personal Information, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or provide us any Personal Information. This Privacy Policy applies to information that we collect on the Site and to information which we may collect by other “offline” means, including, without limitation, sales calls and other business transactions.
+ReachLocal Australia Pty Limited ( **ReachLocal** ) and its related bodies corporate ( **we** , **our** , **us** ) recognise the importance of protecting the privacy and the rights of individuals in relation to their personal information. This document is our privacy policy and it tells you how we collect and manage your personal information.
 
-###  Personal Information test
+We respect your rights to privacy under the _Privacy Act 1988 (Cth)_ ( **Act** ) and we comply with all of the Act’s requirements in respect of the collection, management and disclosure of your personal information.
 
-####  Information We May Collect
+**What is your personal information?**
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home, business, or other physical address, a phone number, and an email address. We collect Personal Information from our Site users and customers only when such information is voluntarily provided to us, including, without limitation, in connection with inquiries about our services through the “Contact Us” page, as part of signing up for our email subscriptions, or in the process of your business transactions with us. To make our content more relevant to you, we may also ask for information about your present place of employment, such as company name, size, industry sector and number of employees. Of course, if you send us an email in connection with an inquiry about a job listed on the “Careers” page, we may also store the Personal Information provided in connection with that inquiry.
+When used in this privacy policy, the term “personal information” has the meaning given to it in the Act. In general terms, it is any information that can be used to personally identify you. This may include your name, address, telephone number, email address and profession or occupation. If the information we collect personally
 
-We also offer a variety of email subscriptions where you can get information about online marketing and promotions and special offers. You can [subscribe for such emails](http://go.reachlocal.com/manage-subscription-signup.html) and you can [manage your email preferences ](http://go.reachlocal.com/manage-subscription-signup.html). If you become a customer of ReachLocal, we will always retain the right to email you regarding the Site or services that we’re providing to you.
+identifies you, or you are reasonably identifiable from it, the information will be considered personal information.
 
-####  How We May Use Your Information
+**What personal information do we collect and hold?**
 
-If you provide us with Personal Information, we may retain and use that information for several purposes, including facilitating and otherwise addressing your inquiry, request, subscriptions, or business transactions and relationship with ReachLocal. For example, we may use your Personal Information in order to respond to your questions or requests for information about ReachLocal. We may also use Personal Information to ensure compliance with our policies and applicable law.
+We may collect the following types of personal information:
 
-####  With Whom We May Share Your Information
+  * name;
+  * mailing or street address;
+  * email address;
+  * telephone number;
+  * facsimile number;
+  * age or birth date;
+  * profession, occupation or job title;
+  * details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries;
+  * any additional information relating to you that you provide to us directly through our websites or indirectly through use of our websites or online presence, through our representatives or otherwise; and
+  * information you provide to us through our service teams, customer surveys or visits by our representatives from time to time.
 
-We may sometimes use other businesses to perform certain services for us, such as maintaining the Site and our e-mail services and processing inquiries. We may provide Personal Information to those businesses when that information is necessary for them to complete a requested transaction or otherwise perform their duties. ReachLocal will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on ReachLocal’s behalf. ReachLocal will not sell or share your Personal Information with any unaffiliated third parties for marketing purposes. In the event that ReachLocal or all of its assets are acquired, all of the data collected by ReachLocal through the Site and through other means and services provided by ReachLocal would be among the transferred assets. We reserve the right to disclose such information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other visitors, or anyone else that could be harmed by such activities. We also reserve the right to disclose such information when we believe in good faith that the law requires it.
 
-###  Non-Personal Information
 
-From time to time, we may collect general, non-personal, statistical information about the use of the Site, such as from what sites visitors are coming from when they visit our Site, when they first visited our Site, their IP address, how many visitors visit a specific page on the Site, how long they stay on that page and which hyperlinks, if any, they “click” on. We may use the IP address to infer information about such visitor, including its company, city and state. We collect this information through the use of “cookies” and other tracking technologies, which are discussed in greater detail below. We collect this information in order to determine which areas of the Site are most popular and to enhance the Site for visitors. We may group this information into aggregate visitor data in order to describe the use of the Site to our existing or potential business partners, sponsors, advertisers, or other third parties, or in response to a government request. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Site.
+**Aggregate Information**
+
+From time to time, we may collect general, non-personal, statistical information about the use of our websites, such as how many visitors visit a specific page on the website, how long they stay on that page and which hyperlinks, if any, they “click” on. We collect this information through the use of “cookies” and other tracking technologies, which are discussed in greater detail below. We collect this information in order to determine which areas of the website are most popular and to enhance the website for visitors. We may group this information into aggregate visitor data in order to describe the use of the website to our existing or potential business partners, sponsors, advertisers, or other third parties, or in response to a government request. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the website.
+
+**How do we collect your personal information?**
+
+We collect your personal information directly from you unless it is unreasonable or impracticable to do so. When collecting personal information from you, we may collect in ways including:
+
+  * through your access and use of our websites;
+  * through your access and use of our mobile apps;
+  * during conversations between you and our representatives; or
+  * when you complete an application or order form.
+
+
+
+We may also collect personal information from third parties including:
+
+  * from third party companies such as credit reporting agencies, law enforcement agencies and other government entities;
+  * form our network of partners, resellers and affiliates.
+
+
 
 ####  Cookies and Other Tracking Technologies
 
-Some of our web pages utilize “cookies” and other tracking technologies.  A cookie is a small text file that a website transfers to an individual’s web browser and is stored on the device.  Cookies and other tracking technologies may record information such as URL and domain requested, referral URL, Internet protocol (IP) addresses, browser software and operating system types, clickstream patterns, and dates and times that our Site is accessed.  We, and/or our third-party advertising service providers, may place cookies or similar files on your computer for security purposes (such as authentication), to facilitate site navigation and to personalize your experience while visiting our Site.  Cookies allow us to collect technical and navigational information, such as browser type, time spent on our Site and pages visited (these types of cookies are typically referred to as “Session Cookies”).  We also use cookies that enable us to serve advertisements of our products and services, including special offers, when you visit other websites (these cookies may be referred to as “Advertising Cookies”).
+Some of our web pages utilise “cookies” and other tracking technologies. A cookie is a small text file that a website transfers to an individual’s hard drive for record-keeping purposes. For example, we may use cookies to collect information about website activity. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of our websites may not function properly or may be slower if you refuse cookies. We do not link the information we store in cookies to any personal information you submit while on the website. Tracking technologies may record information such as internet domain and host names; internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our website is accessed. It is not our practice to link the information we record using tracking technologies to any personal information you submit while on the website. However, we reserve the right to use IP addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with the website’s policies, to protect the website, our customers, or others, or when we believe in good faith that the law requires it.
 
-We do not obtain, store or maintain any Personal Information about you through our use of cookies (either the Session Cookies or the Advertising Cookies).  Also, we do not link the information we store in cookies to any Personal Information you may submit while on the Site. However, we reserve the right to use IP addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with the Site’s policies, to protect the Site, our customers, or others, or when we believe in good faith that the law requires it.  
+**What happens if we can’t collect your personal information?**
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.  However, please be aware that some features of the Site may not function properly or may be slower if you refuse cookies.  While the Site does not currently respond to ‘Do Not Track’ signals submitted by your browser, you can opt out of any of the Advertising Cookies at any time by simply visiting <http://www.reachlocal.com/opt-out> to adjust your preferences.  You can find out more about your ‘Do Not Track’ options, please visit [http://www.allaboutDNT.com](http://www.allaboutdnt.com/)..
+If you do not provide us with the personal information described above, some or all of the following may happen:
 
-If you have any questions regarding ReachLocal’s privacy practices, you are encouraged to contact ReachLocal at [privacy@reachlocal.com.](mailto:privacy@reachlocal.com)
+  * we may not be able to provide the requested products or services to you, either to the same standard or at all;
+  * we may not be able to provide you with information about products and services that you may want, including information about discounts, sales or special promotions; or
+  * we may be unable to tailor the content of our websites to your preferences and your experience of our websites may not be as enjoyable or useful.
 
-###  Links to Other Sites; Public Venues test
 
-Please be aware that when you are on the Site, you could be directed to other sites that are beyond our control via hyperlinks. For example, if you choose to use the ReachLocal Directory at the Site, you may be sent to a third party website if you click on a hyperlink. These other websites may send their own cookies to visitors, collect data, or solicit Personal Information. The privacy policies of these other sites may be significantly different from this Privacy Policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your Personal Information collected there.
 
-###  Security
+**For what purposes do we collect, hold, use and disclose your personal information?**
 
-The security of your Personal Information is important to us. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to ReachLocal employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. For more information visit the [Security](http://www.reachlocal.com/security) page.
+We collect personal information about you so that we can perform our business activities and functions and to provide best possible quality of customer service.  We collect, hold, use and disclose your personal information for the following purposes:
 
-###  Account
+  * to provide products and services to you and to send communications requested by you;
+  * to answer enquiries and provide information or advice about existing and new products or services;
+  * to provide you with access to protected areas of our websites;
+  * to assess the performance of our websites and to improve the operation of our websites;
+  * to conduct business processing functions including providing personal information to our related bodies corporate, contractors, service providers or other third parties;
+  * for the administrative, marketing (including direct marketing), planning, product or service development, quality control and research purposes of ReachLocal, its related bodies corporate, contractors or service providers;
+  * to provide your updated personal information to our related bodies corporate, contractors or service providers;
+  * to update our records and keep your contact details up to date;
+  * to process and respond to any complaint made by you; and
+  * to comply with any law, rule, regulation, lawful and binding determination, decision or direction of a regulator, or in co-operation with any governmental authority of any country (or political sub-division of a country).
 
-If you become a customer, you will be able to access ReachCentral™, our advertiser portal, through the Site with a unique password. Your access to and use of ReachCentral, together with all other aspects of your relationship as customer of ReachLocal will be governed by your agreement with ReachLocal. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account.
 
-###  Children’s Privacy
 
-This Site is not intended for use by children under 13. We do not knowingly collect Personal Information from anyone under 13 years of age. If we become aware that we have unknowingly collected Personal Information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database.
+Your personal information will not be shared, sold, rented or disclosed other than as described in this Privacy Policy.
 
-###  Changes to Our Privacy Policy
+**To whom may we disclose your information?**
 
-The terms of this Privacy Policy may change from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on the homepage of the Site for a reasonable period of time after such changes are made that this Privacy Policy has been updated and by changing the “Last Modified” date at the top of this Privacy Policy. We encourage you to check this page periodically for any changes. Your continued use of the Site following the posting of changes to these terms will mean you accept those changes.
+We may disclose your personal information to our employees and related bodies corporate, contractors or service providers for the purposes of operation of our websites or our business (including marketing), fulfilling requests by you, and to otherwise provide products and services to you including, without limitation, web hosting providers, publisher networks, IT systems administrators, mailing houses, couriers, payment processors, data entry service providers, electronic network administrators, debt collectors, and professional advisors such as accountants, solicitors, business advisors and consultants.
 
-###  Governing Law
+We may disclose your personal information to any organisation for any authorised purpose with your express consent.
 
-ReachLocal makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. If you reside outside of the United States, by using our Site, you consent to the transfer and use of your information outside your country.
+We will take reasonable steps to ensure that these third-party service providers are obligated to protect personal information on our behalf. ReachLocal will not sell or share your personal information with any unaffiliated third parties for marketing purposes. In the event that ReachLocal or all of its assets are acquired, it is very likely that customer information (including personal information) would be one of the transferred assets.
 
-###  Contacting Us
+We reserve the right to disclose personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property or anyone else that could be harmed by such activities. We also reserve the right to disclose personal information when we believe in good faith that the law requires it.
 
-If you have any comments or questions regarding our Privacy Policy, please contact us at [privacy@reachlocal.com](mailto:privacy@reachlocal.com), or at our contact information below.
+We may combine or share any information that we collect from you with information collected by any of our related bodies corporate.
 
-ReachLocal, Inc.  
-21700 Oxnard Street Suite 1600  
-Woodland Hills, CA 91367  
-888-466-2520
+**Direct marketing materials**
+
+We may send you direct marketing communications and information about our products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS, fax and email, in accordance with applicable marketing laws, such as the _Spam Act 2003_ (Cth). If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so.
+
+In addition, at any time you may opt-out of receiving marketing communications from us by contacting us via email at [marketing@reachlocal.com.au](mailto:marketing@reachlocal.com.au) or by using opt-out facilities provided in the marketing communications and we will then ensure that your name is removed from our mailing list.
+
+**How can you access and correct your personal information?**
+
+You may request access to any personal information we hold about you at any time by contacting us (see the details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We may charge you a fee to cover our administrative and other reasonable costs in providing the information to you and, if so, the fees will be $50.00. We will not charge for simply making the request and will not charge for making any corrections to your personal information.
+
+There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal. If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment then we will add a note to the personal information stating that you disagree with it.
+
+**What is the process for complaining about a breach of privacy?**
+
+If you believe that your privacy has been breached, please contact us using the contact information below and provide details of the incident so that we can investigate it.  Our Privacy Officer (currently our legal counsel) will investigate and deal with alleged privacy breaches that have been notified to us.
+
+**Do we disclose your personal information to anyone outside Australia?**
+
+We may disclose personal information to our related bodies corporate and third party suppliers and service providers located overseas for some of the purposes listed above.  We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information.
+
+We may disclose your personal information to entities located outside of Australia, including the following:
+
+  * our related bodies corporate, located in the countries identified in our website [www.reachlocal.com.au](http://www.reachlocal.com.au/);
+  * our data hosting and other IT service providers located in the United States of America, India and Singapore; and
+  * other third parties located in New Zealand, Japan, the United States of America, and Singapore.
+
+
+
+**Security**
+
+The security of your Personal Information is important to us. We may hold your information in either electronic or hard copy form.  We take reasonable steps to ensure your personal information is protected from misuse and loss and from unauthorised access, modification or disclosure. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to ReachLocal employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+As our websites are linked to the internet, and the internet is inherently insecure, we cannot provide any assurance regarding the security of transmission of information you transmit to us online. We also cannot guarantee that the information you supply will not be intercepted while being transmitted over the internet. Accordingly, any personal information or other information which you transmit to us online is transmitted at your own risk.
+
+**Account**
+
+If you create an account on one of our websites, you will be asked to choose a password for your account, in which case your online account information shall be protected by your password. We recommend that you do not disclose your password to any other person. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account. If you have registered for an account, you may view and update your account information at any time by logging into your account.
+
+**Links**
+
+Please be aware that when you are on our websites, you could be directed to other sites that are beyond our control via hyperlinks. These other websites may send their own cookies to visitors, collect data, or solicit personal information. The privacy policies of these other sites may be significantly different from this Privacy Policy. We make no representations or warranties in relation to the privacy practices of any third party website and we are not responsible for the privacy policies or the content of any third party website. Third party websites are responsible for informing you about their own privacy practices.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, any concerns or a complaint regarding the treatment of your privacy or a possible breach of your privacy, please use the contact link on our website or contact our Privacy Officer using the details set out below.
+
+We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in timely and appropriate manner. Please contact our Privacy Officer at:
+
+Privacy Officer
+
+ReachLocal Australia Pty Ltd
+
+**Post:** Level 20, 141 Walker Street, North Sydney, NSW 2060
+
+**Tel:** 1300 655 312
+
+**Email:** [privacy@reachlocal.com.au](mailto:privacy@reachlocal.com.au)
+
+**Changes to our privacy policy**
+
+We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated on **12 March 2014**.
