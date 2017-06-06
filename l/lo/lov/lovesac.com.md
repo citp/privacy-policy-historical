@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the lovesac.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014947id_/http%3A//www.lovesac.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesac.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182710id_/https%3A//www.lovesac.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Hurry! Order by Dec 16 for Guaranteed Christmas Delivery, [exclusions apply](https://web.archive.org/terms_and_conditions#shipping). Free shipping on all orders.
-
 Effective on May 24, 2010
 
-This privacy statement describes how Lovesac collects and uses the personal information you provide on our Web site: www.lovesac.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how The Lovesac Company collects and uses the personal information you provide on our Web site: www.lovesac.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Collection and Use of Personal Information
 
@@ -31,7 +29,7 @@ We use this information to
 
 ## Choice/Opt-Out 
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at arealperson@lovesac.com
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at customerlove@lovesac.com 
 
 ## Information Sharing
 
@@ -70,9 +68,9 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ## Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at arealperson@lovesac.com We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at customerlove@lovesac.com. We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at arealperson@lovesac.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at customerlove@lovesac.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Additional Policy Information
 
@@ -80,7 +78,7 @@ Our Web site includes Widgets, which are interactive mini-programs that run on o
 
 ## Correcting and Updating Your Personal Information
 
-To review and update your personal information to ensure it is accurate, contact us at arealperson@lovesac.com .
+To review and update your personal information to ensure it is accurate, contact us at customerlove@lovesac.com.
 
 ## Notification of Privacy Statement Changes
 
@@ -90,8 +88,8 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Lovesac  
+The Lovesac Company  
 2 Landmark Square, Suite 300  
 Stamford, CT, United States 06901  
-Email: arealperson@lovesac.com  
+Email: customerlove@lovesac.com  
 Phone: (888) 636-1223
