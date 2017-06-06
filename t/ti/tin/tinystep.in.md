@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinystep.in privacy policy that was archived on 2016-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160728083717id_/http%3A//www.tinystep.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinystep.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224958id_/https%3A//www.tinystep.in/privacy) for the most accurate reproduction.*
 
 # Tiny Step - Privacy Policy
 
