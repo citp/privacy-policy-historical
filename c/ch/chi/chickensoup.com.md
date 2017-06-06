@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123140646id_/http%3A//www.chickensoup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043644id_/http%3A//www.chickensoup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chicken Soup for the Soul
 
