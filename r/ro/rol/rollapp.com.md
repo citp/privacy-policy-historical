@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollapp.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406003938id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollapp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194205id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.*
 
 # rollApp - Run Desktop Applications Online - Privacy Policy
 
@@ -28,7 +28,7 @@ In addition to the above, we may use the information we collect to:
 
 If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
-rollApp processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information outside your own country.
+rollApp processes personal information on our servers in the United States of America and Canada, in the EU countries and in other countries. In some cases, we may process personal information outside of your own country.
 
 ## Children’s Privacy
 
