@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bossgoo.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107193729id_/http%3A//www.bossgoo.com/helpCenter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossgoo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080500id_/http%3A//www.bossgoo.com/helpCenter/privacy.html) for the most accurate reproduction.*
 
 # China Suppliers & Manufacturers, China wholesale Products Directory - Bossgoo.com - Privacy HelpCenter
 
 Privacy Policy
 
-Bossgoo.com makes a firm commitment to protect your privacy. The following policy, as part of [Terms & Conditions](https://web.archive.org/web/20161107193729id_/http%3A//www.bossgoo.com/helpCenter/terms.html) which has to be agreed with by users while visiting our website, provides details of how your information is treated. This policy may be subject to changes without notice. So please check the latest version periodically.
+Bossgoo.com makes a firm commitment to protect your privacy. The following policy, as part of [Terms & Conditions](https://web.archive.org/web/20170606080500id_/http%3A//www.bossgoo.com/helpCenter/terms.html) which has to be agreed with by users while visiting our website, provides details of how your information is treated. This policy may be subject to changes without notice. So please check the latest version periodically.
 
 Our Commitment to Privacy
 
