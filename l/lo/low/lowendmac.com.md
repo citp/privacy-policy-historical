@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129155850id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121357id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -35,8 +35,8 @@ Low End Mac is an independent publication and has not been authorized, sponsored
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [Power Mac G3](https://web.archive.org/1997/beige-power-mac-g3-1997/), introduced 1997.11.15. The first G3 Power Mac and the last Mac in a beige enclosure.
-* List of the Day: [Mac mini Group](http://lowendmac.com/lists/macmini.html) is for anyone using a G4 or Intel Mac mini.  
+* Mac of the Day: [Performa 520](https://web.archive.org/1993/mac-lc-520-performa-520/), introduced 1993.06.28. The Color Classic grew up with a 15" screen and CD-ROM.
+* List of the Day: [Jaguar Group](http://lowendmac.com/lists/jaguar.html) is for anyone using Mac OS X 10.2.x.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/2005/power-mac-index/)  
