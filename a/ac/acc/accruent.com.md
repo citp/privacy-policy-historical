@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the accruent.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212032027id_/http%3A//www.accruent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accruent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121927id_/http%3A//www.accruent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=2bad846c-20e2-4674-8f6b-04d76e698093)
 
 _Effective Date: September 21, 2016_
 
