@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127210215id_/http%3A//www.naturehills.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033927id_/http%3A//www.naturehills.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](http://www.naturehills.com/ "Nature Hills Nursery")
 
-Questions? (888) 864-7663
-
 [](http://www.naturehills.com/ "Nature Hills Nursery")
 
-**FINAL DAY!  $9.95 Flat Rate Shipping* Ends Tonight  
-***Excludes hard goods. Oversized handling fees apply where indicated. Only available on orders placed during promotion.
+**Up to 50% Off [Clearance Item](https://web.archive.org/clearance "Click to shop Clearance Items")s! 10% to 30% Off All Other Trees, Shrubs & Perennials**
 
 | 
 
@@ -37,7 +34,7 @@ We will not make personal information available to outside organizations, except
 
 When requested, we will remove a person from our email list or mailing list.  
   
-© 2002-2016, Nature Hills Nursery, Inc. or its affiliates.  
+© 2002-2017, Nature Hills Nursery, Inc. or its affiliates.  
 9910 N. 48th Street, Suite 200 Omaha, NE 68152
 
   Loading... 
