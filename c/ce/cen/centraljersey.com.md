@@ -1,79 +1,63 @@
-> *The following text is extracted and transformed from the centraljersey.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305123120id_/http%3A//www.centraljersey.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraljersey.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212959id_/http%3A//www.centraljersey.com/site/privacy.html) for the most accurate reproduction.*
 
-# Centraljersey.com | Central Jersey News,Princeton Breaking News Sports, Entertainment, Obits, Homes, Jobs, Cars, Classifieds, Real Estate, Princeton News, Dining,Princeton Dining, The Princeton Packet
+# Privacy Policy | Site | centraljersey.com
 
-**How We Collect and Use Information**  
+The following Privacy Policy summarizes the various ways that The Princeton Packet, Inc. (“Service Provider,” “we” or “our”) treats the information you provide while using www.centraljersey.com (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://www.centraljersey.com/privacy_policy/. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
-We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the [centraljersey.com](http://centraljersey.com/) site or in responding via email to a feature provided on the [centraljersey.com](http://centraljersey.com/) site).  
+In addition to reviewing this Privacy Policy, please read our User Agreement. Your use of the Website constitutes agreement to its terms and conditions as well.
 
+This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the [centraljersey.com](http://centraljersey.com/) site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience on the [centraljersey.com](http://centraljersey.com/) website. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use [centraljersey.com](http://centraljersey.com/), cookies help us deliver advertisements, identify how many unique browsers visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the [centraljersey.com](http://centraljersey.com/) site where you may have entered preference information before. [centraljersey.com](http://centraljersey.com/) also may use web beacons (also known as "transparent GIFs") to access cookies and to count users who visit the [centraljersey.com](http://centraljersey.com/) site or open [centraljersey.com](http://centraljersey.com/)'s HTML-formatted email messages.  
+Back to top
 
+ **THE TYPE OF INFORMATION THE WEBSITE COLLECTS**
 
-[centraljersey.com](http://centraljersey.com/) uses the information it collects from you while you are using the Site in a variety of ways, including using the information to customize features and advertising that appear on the Site. We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes. Unless you inform us otherwise, [centraljersey.com](http://centraljersey.com/) reserves the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable [centraljersey.com](http://centraljersey.com/) or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-party vendors.  
+The Website generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
 
+Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university.
 
-Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online - for example on message boards, web logs, through email, or in chat areas - that information can be seen, collected and used by others besides [centraljersey.com](http://centraljersey.com/). [centraljersey.com](http://centraljersey.com/) cannot be responsible for any unauthorized third-party use of such information.  
+ **HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU**
 
+Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
 
-Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party's privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party's use of cookies or use of your information, you should visit that party's website and review its privacy policy.  
+Unless otherwise specified on the Website, Service Provider may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your personally identifying information shared, write to us at the street address set forth at the end of this document. If you do not wish to receive future commercial communications from us by e-mail, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such date accurate and up-to-date.
 
+We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on the Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. We may also provide access to our database in order to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal process.
 
-[centraljersey.com](http://centraljersey.com/) also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.  
+In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website.
 
+While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
 
-We also make some content, products and services available through our Service through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.  
+In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets.
 
+ **COOKIES**
 
-Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Terms of Service agreement, or to protect the rights, property or safety of users of our Services, the public, or [centraljersey.com](http://centraljersey.com/).  
+You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.
 
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
 
-Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we, some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.   
+We may also use advertising service vendors to help present advertisements on the Website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting http://www.networkadvertising.org/optout_nonppii.asp.
 
+If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.
 
-**Children's Privacy Statement**  
+ **INFORMATION SECURITY AND NOTIFICATION**
 
+Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Service Provider cannot guarantee the security of the information you send to us or the security of our servers or databases, and by using the Website you agree to assume all risk in connection with the information sent to us or collected by us when you use the Website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail (provided we have your e-mail address).
 
-This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding your rights under federal law with respect to such information.  
+ **KIDS AND PARENTS**
 
+This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
 
-· This Service is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.   
+If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
+If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
 
-· Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.   
+Online Department
 
+The Princeton Packet Inc
 
-· We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.   
+300 Witherspoon St
 
-
-· Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation in the Site's online activities of a child under thirteen on providing personally identifiable information.   
-
-
-**How To Make Changes to Your Information**  
-
-
-If you have subscribed to one or more [centraljersey.com](http://centraljersey.com/) email newsletters, you may change your subscriber information, Email us at [feedback@centraljersey.com](mailto:feedback@centraljersey.com)
-
- **Questions Regarding Privacy**  
-
-
-If you have any questions about this Privacy Policy, the privacy practices of [centraljersey.com](http://centraljersey.com/), or your dealings with [centraljersey.com](http://centraljersey.com/), you can contact:  
-
-
-Online Privacy Coordinator  
-
-
-New Media Department  
-
-
-The Princeton Packet, Inc.  
-
-
-300 Witherspoon Street  
-
-
-P.O. Box 350  
-
-
-Princeton, New Jersey 08542
+Princeton, NJ 08542
