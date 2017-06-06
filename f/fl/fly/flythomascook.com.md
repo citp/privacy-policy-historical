@@ -1,98 +1,114 @@
-> *The following text is extracted and transformed from the flythomascook.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411060432id_/http%3A//flythomascook.com/PrivacyPolicy.aspx%23intcmp%3Dsearch_footer_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flythomascook.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234928id_/https%3A//www.thomascookairlines.com/en/our-company/privacy-policy.jsp) for the most accurate reproduction.*
 
-# flythomascook - Privacy Policy
+# Privacy Policy - Thomas Cook Airlines
 
-##### Cookies
+Our Company
 
-This site uses cookies to distinguish you from other users. Some of these cookies are essential to make this site work properly, to allow you to make your travel booking or other purchases, and to enable Thomas Cook Retail Limited to fulfil your purchase requests. Other types of cookie help us to provide you with a good experience when you browse our site, allow us to improve our site or the way we provide our service to customers, or are used to provide you with information or offers from Thomas Cook companies or third parties that may be of interest to you.
+Current:  Privacy Policy 
 
-_Cookie Listings on this website:_
+## Privacy
 
-Cookie Type | Purpose | Cookie Names  
----|---|---  
-First Party Cookies set by flythomascook | Used for analytics (Google) |  __utmb  
-__utmc  
-__utma  
-__utmz  
-___utmv  
-___utmx   
-First Party Cookies set by flythomascook | Used for tracking in connection with the Bold Chat application |  _bcvm_vid_700628025874094646  
-_bcvm_vrid_700628025874094646  
-_bcvm_vid_3703131938619912677  
-_bcvm_vrid_3703131938619912677   
-Third Party Cookies set by non-flythomascook companies | Advertising, Data aggregation, Audiance Targetting, Search Re-targetting |  TCCSADBID  
-TCCSAkey  
-TCCSAuvt  
-svid  
-usy46gabsosd   
-  
-You can accept or decline cookies at any time by accessing the preference panels from your browser's main menu (usually found under 'Edit', 'Tools' or 'Options'). However, if you choose to remove cookies parts of the site may not work properly or your use of the site may be impaired.
+Thomas Cook Airlines is committed to protecting and respecting your privacy. This privacy policy (together with our website [Terms and Conditions](https://web.archive.org/en/help-contact/terms-conditions.jsp "Opens internal link in current window")) sets out how we will use your personal information and who it will be shared with. Please read the following carefully.
 
-In order to help us maintain and improve our service to you we also use 'cookies' to collect information about your use of the website. Cookies are a feature of web browser software that allows web servers to temporarily store information within your browser, which in turn allows us to recognise the computer used to access our site. Most browsers automatically accept cookies but you can delete existing cookies from your browser. You can also edit your browser options to choose not to receive cookies in future. We may use cookies to keep track of the transaction from one page to the next.
+This web site is operated by Thomas Cook Airlines Limited. Thomas Cook Airlines Ltd is the airline/carrier which supplies the majority of flight seats sold via this web site. When you make a flight booking via this website, your payment will be processed by Thomas Cook Airlines Limited, but your contract will be with either Thomas Cook Airlines Limited or with our affiliated tour operator company, Thomas Cook Tour Operations Limited. 
 
-We use third-party application service providers to perform some tracking functions. These companies may use cookie-based information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness. We may also collect information about your visit to our website, based on your browsing (click stream) activities. This information may include the pages you browse and products and services viewed or booked for example. This helps us to better manage and develop our offers and to provide you with better products and services tailored to your individual interests and needs. We may use this information to measure the entry and exit points of visitors to the Site and respective numbers of visitors to various pages and sections of the Site and details of searches performed. We may also use this information to measure the usage of advertising banners, other click-throughs from the site. We may disclose information of this nature in aggregate form to third parties, personal information on individual visitors will not be passed on to any third party.
+This is because:
 
-_PLEASE NOTE:_ if you choose to use this site without declining any non-essential cookies, then your use will constitute implied consent to the non-essential cookies that are set. 
+  * If your booking only consists of flights operated by Thomas Cook Airlines Limited , your contract will be with Thomas Cook Airlines Limited.
+  * If your booking includes a flight with an airline that is not Thomas Cook Airlines Limited (including, but not limited to Condor Flugdienst GmbH, Thomas Cook Airlines Belgium NV and Thomas Cook Airlines Scandinavia A/S), your contract will be with Thomas Cook Tour Operations Limited. 
 
-##### Privacy Policy
 
-Thomas Cook Retail Ltd understands and respects the importance of your privacy. The following information explains what personal data we may collect from you when you use this site, and how we will hold and use that data.
 
-_Information we may collect from you_
+Personal data collected via this website is collected by Thomas Cook Airlines Limited and Thomas Cook Airlines Scandinavia A/S trading as Airshoppen. Thomas Cook Airlines Limited and Airshoppen understand and respect the importance of your privacy. The following information explains what personal data may be collected from you when you use this site, and how  that data will be used.
 
-We may collect and process the following data about you:
+#### What Information Do We Collect About You?
 
-  * Information that you provide in order to make a travel booking or purchase any other services via this Site
-  * Information you provide in order to enter a competition or promotion via this Site, complete a survey, or if you report a problem with this Site
-  * If we ask you for your contact details for future marketing use, although you have the option to opt-out of such use.
-  * Details of transactions you carry out through this Site and of the fulfilment of your bookings.
-  * Details of your visits to this Site (including, but not limited to, traffic data and location data) whether this is required for our own purposes or otherwise, and the resources that you access.
+When you use this web site, the following data may be collected and processed: 
+
+  * Information that you provide in order to make a travel booking or to purchase any other services via this site
+  * Information that you provide to make a purchase from our online duty free shop, Airshoppen, which is operated by one of our affiliated companies – Thomas Cook Airlines Scandinavia A/S.   Thomas Cook Airlines Scandinavia A/S is a Danish subsidiary company within the Thomas Cook group of companies.
+  * Information you provide in order to enter a competition or promotion via this site, complete a survey, or if you report a problem with this site
+  * Information you provide if we ask you for your contact details for future marketing use, although you have the option to opt-out of such use.
+  * Details of transactions you carry out through this site and of the fulfilment of your bookings/purchases.
+  * Details of your visits to this site (including, but not limited to, traffic data and location data) and the resources that you access, which is collected and used for our internal research purposes and to improve our customer service.
   * If you contact us, we may keep a record of your email or other correspondence
 
 
 
-_IP addresses_
+We are aware that your privacy is important and we will protect the confidentiality of your personal information in accordance with our normal procedures and legal requirements.
 
-We may collect information about your computer including, where available, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+#### IP addresses
 
-_Where we store your personal data_
+We may collect information about your computer including, where available, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about users' browsing actions and patterns, and does not identify any individual.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by organisations operating outside the EEA that work for us or for any of our suppliers (e.g. Airlines, hoteliers, etc). Countries outside of the EEA may not have the same level of privacy laws as exist in the UK. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+#### How will we use your information?
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+We will use your information in the following ways:
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site and any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-_Uses made of the information_
-
-We use information held about you in the following ways:
-
-  * To ensure that content from our Site is presented in the most effective manner for you and for your computer.
-  * To carry out our obligations arising in connection with any contracts entered into between you and us, or between you and a third party supplier.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
-  * To provide you with information and offers that we or selected third parties feel may interest you.
+  * To ensure that content from this site is presented in the most effective manner for you and for your computer;
+  * For our internal purposes, such as quality control, site performance, system administration and to evaluate use of our site so that we can provide your with enhanced services;
+  * To supply you with, or to arrange for you to be supplied with, the flight seats or other services/products that you purchase via this site;
+  * To allow you to participate in interactive features of this site when you choose to do so;
+  * To notify you about changes to your booking or changes to the flights or other services/products made available via this site.
+  * To provide you with information and offers that  may be of interest you.   Your data will only be used for marketing purposes via email, post or SMS if you have opted-in to such use or if you have made a booking or purchase via this web site, have not opted-out of marketing at the time of the booking/purchase and the offers or information sent to you concern similar services/goods to those you have purchased.   We will not pass your data to third parties outside of the Thomas Cook group for marketing purposes
 
 
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+If you do not want your data to be used for marketing purposes please tick the relevant box to opt-out at the point where your data is requested.
 
-If you do not want us to use your data for marketing purposes, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
+We only keep your personal information for as long as is necessary.
 
-_Disclosure of your information_
+#### Marketing
 
-We may disclose your personal information to any member of our Group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006, to relevant third parties who will supply the travel arrangements or other services you request, to Government bodies and other authorities to whom we are legally obliged to pass your data (e.g. border agencies of countries you intend to visit) and to relevant third parties for the purpose of fraud protection and credit risk reduction.
+We may use your information to provide you with marketing information that you request or that we feel may interest you  by post and/or telephone.
 
-_Your rights_
+If you are an existing customer, we may contact you by email with information about products and services which are similar to those we have previously provided to you, unless you have indicated that you do not want to hear from us.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by ticking/un-ticking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by writing to: The Data Management Department, Customer Knowledge, Thomas Cook Group UK Ltd, The Thomas Cook Business Park, Coningsby Road, Peterborough, PE3 8SB.
+If you are a new customer, we may contact you by email, only if you consent.
 
-Our site contains links to and from the websites of our principals, suppliers, advertisers and other third parties. If you follow a link to any of these other websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies or for these 3rd party websites. Please check these policies before you submit any personal data to these websites.
+You have the right to request that your personal data is not used for marketing purposes.  As stated above, you will be informed (before collecting your data) if it is intended to use your data for such purposes. You can exercise your right to prevent such processing by opting-out of such use at the point where your data is collected. Even if you have initially agreed that your data can be used for marketing purposes you can subsequently exercise the right to unsubscribe from such use at any time by writing to: The Data Management Department, Customer Knowledge, Thomas Cook Airlines, The Thomas Cook Business Park, Coningsby Road, Peterborough, PE3 8SB.    
 
-_Access to your personal data_
+Please note that if you wish to be removed from the Airshoppen marketing database, you will need to write to The Data Management Department, Customer Knowledge, Thomas Cook Airlines, The Thomas Cook Business Park, Coningsby Road, Peterborough, PE3 8SB and state within your request that you wish to be removed from the Airshoppen marketing database.
 
-The Data Protection Act 1998 gives you the right to check that your personal data is being processed lawfully ("subject access right"). Your subject access right can be exercised in accordance with the Act. Any subject access request must be made in writing to: The Company Secretary, Legal & Compliance Dept., Thomas Cook Retail Ltd, The Thomas Cook Business Park, Unit 17 Coningsby Road, Peterborough, PE3 8SB, and may be subject to a fee of £10 to meet our costs in providing you with details of any personal data we hold about you.
+Please also note that it is not possible for you to opt-out of receiving necessary operational/booking emails or mobile phone messages that provide you with essential information regarding your booking or purchase.  
 
-_Changes to our privacy policy_
+#### Where do we store your personal data and how do we keep your personal data secure?
 
-We reserve the right to update or alter this Privacy Policy from time to time without notice to you.
+The personal data collected from you when you make a booking or other purchase via this web site will be transferred to, Thomas Cook Airlines Limited, Airshoppen, Thomas Cook Tour Operations Limited and in some cases to third party airlines/other suppliers, in order to provide you with the services/products you have purchased.   This may require your data to be transferred to, and be processed and/or stored at, a destination outside the European Economic Area ("EEA") if the relevant supplier is located outside of the EEA. Countries outside of the EEA may not have the same level of privacy laws as exist in the UK and the rest of the EEA. By making a booking/purchase and submitting your personal data, you agree to this transfer, storing or processing. All reasonable steps will be taken to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to any Thomas Cook company is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where you have been given (or where you have chosen) a password which enables you to access certain parts of this site, you are responsible for keeping this password confidential. Please do not share your password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although all reasonable steps are taken to protect your personal data, it is not possible to guarantee the security of your data transmitted to this site and any transmission is at your own risk. Once  your information has been received, strict procedures and security features are used to try to prevent unauthorised access.
+
+#### Who do we share your information with?
+
+When you make a booking via this web site, your personal data will be collected by Thomas Cook Airlines Limited.   Where you book a flight with a third party airline/carrier, your personal data will be passed to Thomas Cook Tour Operations Limited as the party with whom you are contracting and to the third party airline/carrier providing your flight (as applicable). 
+
+If you make a duty free purchase via Airshoppen, you will be providing some personal data to Thomas Cook Airlines Scandinavia A/S to enable that company to fulfil your purchase order. 
+
+Thomas Cook Airlines Limited sometimes needs to sub-contract its services to other airlines, some of which are within the Thomas Cook Group of companies.  In that case, it will be necessary to pass your personal data to the relevant airline on which you will be carried.  This will be either Condor Flugdienst GmbH or Thomas Cook Airlines Belgium NV (companies that are within the Thomas Cook Group) or a third party airline. 
+
+In order for you to travel abroad, it may be mandatory (as required by government authorities at the point of departure and/or destination) to disclose and process your personal data for immigration, border control, security and anti-terrorism purposes, or for any other purposes which they determine appropriate. Some countries will only permit travel if you provide advance passenger information. These requirements may differ dependent on your destination and you are advise to check. Even if not mandatory, we may exercise our discretion to assist where appropriate. 
+
+We may also be required to disclose your personal information to   other relevant third parties (including, but not limited to the police) for the purpose of fraud protection and credit risk reduction.
+
+#### Your Rights - Access to your personal data
+
+You have the right to check that your personal data is being processed lawfully ("subject access right"). Your subject access right can be exercised in accordance with the Act. 
+
+Any subject access request must be made in writing to: Group Airlines Data Protection Officer Thomas Cook Airlines Limited, Hangar 1, Western Maintenance Area, Runger Lane, Manchester Airport, M90 5FL, and may be subject to a fee of £10 per subject access request to meet our costs in providing you with details of any personal data we hold about you. We will provide your personal data to you within the statutory timeframes, which are currently within 40 days of receiving your request and the £10 data processing fee. Please note that if your booking is for a third party flight and your contract is with Thomas Cook Tour Operations Limited, your subject access request will be passed to the  UK Compliance Manager of Thomas Cook Tour Operations Limited.   To enable us to trace any of your personal data that we may be holding, we may need to request further information from you, such as a booking reference number, a UK departure date and the names of other passengers on your booking.   Where you require a copy of any of your personal data that is held by a third party airline, it will be necessary for you to make your request directly to the airline concerned.
+
+If you have a complaint about how we have used your information, you have the right to complain to the Information Commissioners Office.
+
+#### Links To Other Web Sites
+
+Our site contains links to and from the websites of  suppliers, advertisers and other third parties. If you follow a link to any of these other websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for those third party websites. Please check their privacy policies before you submit any personal data to those websites.
+
+  1. Caricom API Data: Please note that some or all of the Caricom states listed below have entered into an agreement with the USA whereby advance passenger data, required by and provided to Caricom states for border security purposes, will be passed to the USA Department for Homeland Security for processing on behalf of those Caricom states listed as follows: Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Cayman Islands, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saint Lucia, St Kitts and Nevis, St Vincent and the Grenadines, Surinam, Trinidad and Tobago, Turks and Caicos Islands. Collectively members or associate members of ‘Caricom’. The UK Information Commissioner’s Office has accepted that this will not breach the Data Protection Act. 
+  2. US Secure Flight Data: The Transportation Security Administration (TSA) requires you to provide your full name, date of birth and gender for the purpose of watch list screening, under the authority of 49 U.S.C section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your Redress Number, if available.  Failure to provide your full name, date of birth and gender may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TCA Web Site at www.tsa.gov.
+
+
+
+#### Changes to this privacy policy
+
+We reserve the right to update or alter this Privacy Policy from time to time.  We will notify you of this by posting the most up to date version of the privacy policy on our website.
