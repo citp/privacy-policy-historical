@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxgp-tv.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230104139id_/http%3A//www.mxgp-tv.com/info/privacy-policy%3Flocale%3DEN_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxgp-tv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154924id_/http%3A//www.mxgp-tv.com/info/privacy-policy%3Flocale%3DEN_en) for the most accurate reproduction.*
 
 # Privacy Policy - MXGP-TV.com
 
