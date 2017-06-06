@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referralrock.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507152857id_/https%3A//referralrock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralrock.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232227id_/https%3A//referralrock.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -41,7 +41,13 @@ We implement a variety of security measures when a user places an order enters, 
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
- **Do we use 'cookies'?**
+  
+**How do we use use information inside your account?     
+**   
+Demographic information collected in your account for your referral programs are for your use only.  This includes but is not exclusive to member and referral demographic information such as name, email address, IP address (for tracking purposes), and any other custom fields you set in the software. Referral Rock doesn't contact, share, distribute, sell or otherwise use accound data in any way outside of the built in functionality within the software. It is only accessible by the Referral Rock team for troubling shooting and support purposes.  
+
+
+**Do we use 'cookies'?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
