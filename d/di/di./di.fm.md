@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the di.fm privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203617id_/http%3A//www.di.fm/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the di.fm privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141509id_/http%3A//www.di.fm/member/privacy) for the most accurate reproduction.*
 
 # DI Privacy Policy - DI Radio
 
