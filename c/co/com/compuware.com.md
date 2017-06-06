@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027095849id_/http%3A//www.compuware.com/en_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192907id_/http%3A//www.compuware.com/en_us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Compuware
 
@@ -72,7 +72,7 @@ You have the option of setting your browser to reject cookies. In most cases, if
 
 ### Opt-Out
 
-Compuware provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, you can go to the [Compuware Unsubscribe](http://resources.compuware.com/unsubscribes) page or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel.
+Compuware provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, you can go to the [Compuware Unsubscribe](http://resources.compuware.com/privacy-page-unsubscribe) page or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel.
 
 ### Links to Other Websites
 
@@ -98,7 +98,7 @@ This site may make chat rooms, forums, message boards, feedback forms, web logs,
 
 ### Online Job Applications
 
-Compuware’s website provides the opportunity for candidates to submit their resume or curriculum vitae online. All resumes received by Compuware will be held in confidence and used only for the purpose of considering the candidate for employment or for such other purpose as requested by the candidate. Compuware will not sell, trade, rent or distribute the personal information contained in any online application to any third party.
+Compuware’s website provides the opportunity for candidates to submit their resume or curriculum vitae online. All resumes received by Compuware will be held in confidence and used only for the purpose of considering the candidate for employment or for such other purpose as requested by the candidate. Compuware will not sell, trade, rent or distribute the personal information contained in any online application to any third-party.
 
 All open positions offered by Compuware or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
 
@@ -112,6 +112,6 @@ Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recru
 
 ### Issue Resolution
 
-Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue with Compuware, or have suggestions on how we can improve our policies, please contact us at [privacy_concerns@compuware.com](mailto:privacy_concerns@compuware.com).
+Our goal is to respect your privacy. If you seek a resolution to any privacy or data collection issue with Compuware, or have suggestions on how we can improve our policies, please contact us at [privacy_concerns@compuware.com](mailto:privacy_concerns@compuware.com).
 
 Compuware may modify or update this Privacy Statement at any time without prior notice.  We encourage you to check this Statement often so that you are aware of how we are protecting your personal information.  Your continued use of this website constitutes your consent to the contents of this Privacy Statement.
