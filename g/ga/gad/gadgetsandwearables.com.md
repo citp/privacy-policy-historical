@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gadgetsandwearables.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127044803id_/http%3A//gadgetsandwearables.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsandwearables.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133118id_/http%3A//gadgetsandwearables.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Gadgets & Wearables
+# Privacy policy - H&F Gadgets & Wearables
 
 Gadgets & Wearables is committed to protecting and respecting your privacy. Although we will do our utmost to protect your information, we cannot guarantee the security of the data you submit to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures to try to prevent unauthorised access.
 
