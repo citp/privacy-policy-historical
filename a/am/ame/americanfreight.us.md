@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanfreight.us privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052503id_/http%3A//www.americanfreight.us/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanfreight.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173629id_/https%3A//www.americanfreight.us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | American Freight
 
@@ -30,9 +30,9 @@ We intend to use the data provided to us above to operate the web site and to as
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
 
-Email addresses obtained may be  used to send promotional emails. Should you no longer want to receive emails from American Freight you can unsubscribe by visiting [this page.](http://www.americanfreight.us/unsubscribe/)
+Email addresses obtained may be  used to send promotional emails. Should you no longer want to receive emails from American Freight you can unsubscribe by clicking unsubscribe at thebottom of any email you receive from American Freight.
 
-By accessing and using our web sites, you agree that, with respect to other users’ personally identifiable information that you obtain through the Site or through a www.americanfreight.us-related communication or American Freight-facilitated transaction, American Freight® hereby grants to you a license to use such information only for: (a) [www.americanfreight.us-related](http://www.americanfreight.us-related/) communications that are not unsolicited commercial messages, and (b) any other purpose that such user expressly opts into after adequate disclosure of the purpose(s). In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this se ction, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure.
+By accessing and using our web sites, you agree that, with respect to other users’ personally identifiable information that you obtain through the Site or through a www.americanfreight.us-related communication or American Freight-facilitated transaction, American Freight® hereby grants to you a license to use such information only for: (a) [www.americanfreight.us](http://www.americanfreight.us/) related communications that are not unsolicited commercial messages, and (b) any other purpose that such user expressly opts into after adequate disclosure of the purpose(s). In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this se ction, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure.
 
 Use of IP Addresses
 
@@ -66,7 +66,7 @@ Our web sites contain links to other third-party Web sites. American Freight® i
 
 Public Forums
 
-This site may make chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Views reflected in these forums do not reflect the views or opinions of American Freight®. American Freight® reserves the right, in its sole discretion, to move any comments or posts made on its website, for any reason. 
+This site may make chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Views reflected in these forums do not reflect the views or opinions of American Freight®. American Freight® reserves the right, in its sole discretion, to move any comments or posts made on its website, for any reason.
 
 Children
 
@@ -74,14 +74,13 @@ American Freight® does not knowingly collect personal information on children. 
 
 Questions
 
-If you have any questions or concerns about this privacy notice, the practices of this site or your interaction with this web site, please contact info at [contactus@americanfreight.us](mailto:contactus@americanfreight.us)
+If you have any questions or concerns about this privacy notice, the practices of this site or your interaction with this web site, please contact info at [contactus@americanfreight.us](mailto:contactus@americanfreight.us)
 
-Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 **SMS Terms & Conditions**
 
 To stop receiving messages from our SMS shortcode service, reply STOP to any message. To receive more information regarding the SMS shortcode service, reply HELP to any message. The SMS Gateway provider is MessageMedia and provides American Freight with the ability to send SMS messages to the subscribed number for the purpose of delivering opted-in subscribers layaway information regarding payments.
 
-**Message & Data Rates May Apply.**   
-If you have questions regarding the service, you may contact American Freight at 740-363-2222 or MessageMedia at +1.866.751.8337. Under normal circumstances we expect to send out no more than 4msgs/month. The American Freight program is designed to notify the subscriber of delinquent layaway payments. It is not binding, and is subject to change without notice. This service may not be available on all carriers. To determine if your carrier is supported, please contact MessageMedia support at +1.866.751.8337.   
- 
+**Message & Data Rates May Apply.**   
+If you have questions regarding the service, you may contact American Freight at 740-363-2222 or MessageMedia at +1.866.751.8337. Under normal circumstances we expect to send out no more than 4msgs/month. The American Freight program is designed to notify the subscriber of delinquent layaway payments. It is not binding, and is subject to change without notice. This service may not be available on all carriers. To determine if your carrier is supported, please contact MessageMedia support at +1.866.751.8337. 
