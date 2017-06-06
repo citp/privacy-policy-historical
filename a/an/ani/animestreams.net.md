@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animestreams.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227121517id_/http%3A//www.animestreams.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animestreams.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024219id_/http%3A//www.animestreams.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Watch Anime Online Free English Dubbed - English Subbed
 
