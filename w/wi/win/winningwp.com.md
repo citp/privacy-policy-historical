@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningwp.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119064900id_/http%3A//winningwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningwp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183256id_/https%3A//winningwp.com/privacy-policy) for the most accurate reproduction.*
 
 # WinningWP Privacy Policy - WinningWP
 
@@ -68,6 +68,6 @@ WinningWP has the discretion to update this privacy policy at any time. When we 
 
 By using this site, it is deemed you have agreed to these terms and conditions of use. If at any time you choose not to accept these terms and conditions of use, please do not continue to use this site. Your continued use of the site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-If you have any questions regarding our policies, the practices of this website, or your dealings with WinningWP, please [contact us](http://winningwp.com/contact/).
+If you have any questions regarding our policies, the practices of this website, or your dealings with WinningWP, please [contact us](https://winningwp.com/contact/).
 
 **_This document was last updated on January 21, 2014_**
