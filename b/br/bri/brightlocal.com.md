@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightlocal.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913185935id_/https%3A//www.brightlocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightlocal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170917id_/https%3A//www.brightlocal.com/privacy-policy) for the most accurate reproduction.*
 
 # BrightLocal Privacy Policy | We Respect Your Privacy
 
