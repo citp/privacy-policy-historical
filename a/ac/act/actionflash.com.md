@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the actionflash.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021091108id_/http%3A//www.actionflash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionflash.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000405id_/https%3A//www.actionflash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Action Flash
+# Privacy Policy
 
 **Action Flash Privacy Policy**
 
@@ -33,3 +33,8 @@ Action Flash may update this Privacy Policy from time to time. We will notify yo
 **Contact Us**
 
 If you have any questions about this Privacy Policy, please contact us.
+
+Internet user privacy and confidentiality is of the utmost importance to ACTIONFLASH.COM!  
+We don’t collect, store or sell any personal information about our site users.Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information. Our “High Score” tables contain only names or aliases visitors wish to enter in order to identify themselves on the tables. This data is not and cannot be used for any other purpose.
+
+Thanks for using ACTIONFLASH.COM!
