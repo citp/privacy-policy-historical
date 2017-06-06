@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsrmagazine.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226084918id_/http%3A//www.qsrmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsrmagazine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183054id_/https%3A//www.qsrmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - QSR magazine
 
@@ -16,7 +16,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 **Information Collection and Used**
 
-When you complete any form on one of our web sites, such as a Subscription Form, registration for a Webcast seminar, submit a request for information, and other forms, we are collecting personally identifiable information such as name, email address, address, and telephone number.  We use this information to provide you with your request and sometimes to collect data about our usage or readership or about industry to disseminate in aggregate and without reference to personally identifiable information.  
+When you complete any form on one of our web sites, such as a Subscription Form, registration for a Webcast seminar, submit a request for information, and other forms, we are collecting personally identifiable information such as name, email address, address, and telephone number.  We use this information to provide you with your request and sometimes to collect data about our usage or readership or about industry to disseminate in aggregate and without reference to personally identifiable information. If you view content labeled as "Sponsored," we can sometimes identify you, and we may make the sponsor aware of your identity.  
   
 Orders-  
 If you apply for or purchase a subscription from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for fulfillment purposes. If we have trouble processing an order, we will use this information to contact you.  
