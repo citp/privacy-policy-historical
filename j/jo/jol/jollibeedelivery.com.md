@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jollibeedelivery.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210233731id_/http%3A//jollibeedelivery.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jollibeedelivery.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164606id_/http%3A//jollibeedelivery.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Jollibee Online Delivery - Privacy Policy
 
