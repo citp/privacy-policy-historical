@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the athemes.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124072110id_/http%3A//athemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athemes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182629id_/https%3A//athemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - aThemes
 
-If you would like more information or have any questions about our privacy policy, please feel free to [contact us](http://athemes.com/contact/ "Contact").
+If you would like more information or have any questions about our privacy policy, please feel free to [contact us](https://athemes.com/contact/ "Contact").
 
 At athemes.com, the privacy of our visitors is of utmost importance to us. This privacy policy document outlines the types of personal information that is received and collected by athemes.com and how it is used.
 
