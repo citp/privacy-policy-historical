@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the iamthatlady.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124074820id_/http%3A//www.laurengreutman.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamthatlady.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093707id_/http%3A//www.laurengreutman.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lauren Greutman
 
-Privacy Policy for iamthatlady.com
+Privacy Policy for laurengreutman.com
 
-The privacy of our visitors to iamthatlady.com is important to us.
+The privacy of our visitors to laurengreutman.com is important to us.
 
-At iamthatlady.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit iamthatlady.com, and how we safeguard your information. We never sell your personal information to third parties.
+At laurengreutman.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit laurengreutman.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 #### Log Files
 
