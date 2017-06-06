@@ -1,77 +1,71 @@
-> *The following text is extracted and transformed from the polkaudio.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604130419id_/http%3A//www.polkaudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polkaudio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180350id_/https%3A//www.polkaudio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Polk Audio
 
-EFFECTIVE DATE JULY 2014   
-  
-Onestop Internet, Inc. ("Onestop") operates this Web site, pursuant to agreements with Polk Audio. Both Onestop and Polk Audio ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site.
+### Privacy Policy
 
-• With Whom Do You Share Your Information?
+Polk Audio, LLC understands that the protection and use of information provided by you to us is very important to you. Polk Audio is committed to maintaining your privacy. This Privacy Policy Statement sets out our information collection, use, and dissemination practices for PolkAudio.com (the "Website"). By visiting any part of the Website, you accept the practices described in this Privacy Policy Statement. Please read this Privacy Policy Statement to understand how Polk Audio collects, uses, and disseminates information through our Website.
 
-We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy. We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.
+##### What Personal Information About You Does Polk Audio Collect?
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our [Customer Service Department](https://web.archive.org/contact-us "Contact Us") in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
+The information we obtain from customers helps us personalize and continually improve your website browsing and shopping experience. Listed below we provide examples of the types of information we gather.
 
-• What Information About Me Is Collected and Stored?
+##### Information You Give Us:
 
-We collect and store information that you enter into this Web site or that you provide to our Customer Service Department. For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications in connection with this Web site.
+We receive and store any information you enter on this Website or give us in any other way. This information may include demographic information and contact information such as names, addresses, phone numbers, fax numbers, and email addresses. You may choose not to provide certain information, however choosing to do so may prevent you from being able to take advantage of many of our Website's features or from conducting transactions.
 
-We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience.
+When you create a Polk ID, register your products, purchase a product, download Polk apps, download software updates, or participate in surveys, sweepstakes, contests or functionality offerings related to your Polk product, we may collect a variety of information, including your name, e-mail address, address, date, and contact preferences. When you share your content with other people, or when you invite others to join you on or in connection with Polk forums or applications related to Polk products, Polk may collect the information you provide and we may use the information you provide to administer those programs.
 
-Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies do not contain personally identifiable information. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Cookies are not used on this Web site to store your account information; this information is stored securely on this Web site's server. When you log in at this Web site with your username and password, we will assign you a secure session id. The server then passes your information to you through this secure session id. Also, we will use cookies to monitor and maintain information about your use of this Web site. Cookies are also used to track the identity of the Web site you visited immediately prior to visiting this Web site; otherwise, we do not track information about your use of other Web sites. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web site.
+##### Information Automatically Collected
 
-We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you. 
+Polk Audio may automatically collect non-personal information and data through the use of Cookies. Cookies are alphanumeric identifiers that enable our systems to recognize your browser and to enhance your experience using our Website. Through cookies, the Website can recognize repeat users, facilitate your access to and use of the Website, and allow a site to optimize your experience. Examples of the information we may collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; email address; computer and connection information such as browser type and version, operating system, and platform; and purchase history, which we sometimes aggregate with similar information from other consumers.
 
-• Is Information Collected From Children?
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of our Website's features, and we recommend that you leave them turned on.
 
-This Web Site is a general audience website and is not directed for use by children. We do not intend to collect Personal Information from anyone who is under the age of 13. If you are under the age of 13, you should not provide any Personal Information to us and you should use this Web Site only with the involvement of a parent or guardian.
+We may also use a third-party service provider to serve ads on our behalf across the Internet. The service provider may collect anonymous information about your visits to our Website, and your interaction with our products and services. The service provider may also use information about your visits to this and other websites to show relevant advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click here.
 
-• With Whom Do You Share Your Information?
+We may also collect information regarding customer activities on our website or in association with our products.
 
-We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy.   
-We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.
+##### How is Collected Information Used?
 
-We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of Onestop and/or Polk Audio, or any of our respective affiliates, business partners, customers or others.   
-We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web site during a specific time period or purchased a specific product through this Web site. This information generally is shared in an aggregated form.
+We use the information that you provide for such purposes as responding to your requests, fulfilling your orders, customizing future shopping for you, improving our stores, communicating with you, or for any other purpose disclosed at the point of collection.
 
-As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that Onestop or Polk Audio, or substantially all of our respective assets, are acquired by a third party, such information may be one of the transferred assets (unless the information was collected under a previous Privacy Policy that did not permit such disclosure). Under such circumstances, Onestop or Polk Audio, as the case may be, would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy.
+At times, Polk may make certain personal information available to strategic partners that work with Polk to provide products and services. We may also disclose the information you provide to our subsidiaries and/or affiliates.
 
-• Can I Indicate Whether or Not I Want To Receive Promotional Communications?
+##### Protection of Personal Information
 
-You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may e-mail us at our[Customer Service Department](https://web.archive.org/contact-us "Contact Us")
+When you use some Polk products, services, or applications or post on Polk’s forums or social networking service, the personal information you share is visible to others and can be read, collected, or used by them. We are not liable or responsible for the information that you choose to share. Please exercise care when using these features.
 
-• What Steps Are Taken To Keep My Information Secure?
+##### Location-Based Services
 
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our [Customer Service Department](https://web.archive.org/contact-us "Contact Us").
+In order to provide location based-services in connection with Polk’s applications and products, Polk and our partners and licensees may collect, use, and share precise location data, including real-time geographic location of your product or device. This location data is collected anonymously and does not personally identify you and is used by Polk and its partners, contractors, and licensees to administer the services.
 
-• How Can I Access, Correct and Update My Personal Information?
+##### Does Polk Audio Share Information?
 
-You can access, correct and update certain personal information that you have provided to us by clicking on "Update Account" within the "[My Account](https://web.archive.org/my-account "My Account")" area of this Web site.
+Polk Audio does not share your information with others except as outlined below.
 
-• Can I Indicate Whether or Not I Want To Receive Promotional Communications?
+· Affiliated Businesses We Do Not Control: For certain transactions we work closely with our affiliated businesses to package, ship, and fulfill your order. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. If you choose to opt-in, we may share customer information related to these transactions with such third parties, who may use the information to inform you of their product or service offerings that may be of an interest to you.
 
-You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may e-mail us at our [Customer Service Department](https://web.archive.org/contact-us "Contact Us") or write to us at:  
+· Agents: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. When you place an order, from time to time we may share your name, email address, mailing address and purchase category information with a few carefully selected marketing partners who may bring you offers of interest. During checkout, you may opt out of receiving marketing information via email.
 
+· Third party service providers: We may use third parties to provide services in connection with our products, services, or site, and to manage our relationship with you. This may include website hosting and organizations that assist us in our direct marketing activities. Third party processors and providers will be given access only to the information needed to perform their support functions, and are prohibited for using it for other purposes.
 
-Polk Audio, Online Customer Service  
-3040 E Ana St., Rancho Dominguez, CA 90221.
+· Protection of Polk Audio and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Polk Audio, our parent company or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
+· Links: Our Website may contain links to third-party websites. Please consult their privacy notices for the privacy practices governing their websites.
 
-• What Happens When I Link To or From Another Web Site?
+##### How Do I Grant Consent?
 
-This Web site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web site and to read the privacy policies of each and every Web site that you visit.
+By visiting our Website, you grant consent for Polk Audio to collect the information as set out in this Privacy Policy Statement. You may opt in to have your information shared with third parties who may use the information for their own marketing purposes or to provide you with products or services that may be of interest to you.
 
-If you have accessed this Web site through a link from certain of our advertising or marketing partners, this Web site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy.
+##### What About Children?
 
-• What About Contests and Sweepstakes?
+Our Website is a general audience website and is not directed for use by children. It is Polk Audio's intention that our Website will be used only by persons over age 16. We do not intend to collect Personal Information from anyone who is under the age of 16. From time to time, Polk Audio may offer promotions to consumers age 16 or over and collect data from such persons. If you are under the age of 16, you should not provide any Personal Information to us and you should only use this Website with the involvement of a parent or guardian. Please consult the Terms and Conditions for the eligibility requirements and policies governing those promotions.
 
-When we run a contest or sweepstakes relating to this Web site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed.
+##### What About Other Policies and Revisions?
 
-• What About Online Surveys?
+If you choose to visit our Website, your visit and any dispute over privacy is subject to this Privacy Policy Statement and our Terms of Use which are incorporated herein by reference, including limitations on damages, arbitration of disputes, and application of the law of the state of California. From time to time, we may update this Privacy Policy Statement. We will notify you of any material changes to the Privacy Policy Statement by posting updates on this page. We encourage you to familiarize yourself with this policy and to visit this page frequently for any policy revisions.
 
-We may from time to time conduct on-line surveys. When you complete an online survey, we may ask for certain information including your age, zip code, shopping habits, email and/or mailing address. This information will be treated in accordance with this Privacy Policy.
+##### How You Can Contact Us?
 
-• How Will I Be Informed About Changes Regarding This Privacy Policy?
-
-If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.
+If you have any questions, comments, or concerns regarding our Privacy Policy Statement, please contact us at [cs@polkaudio.com](mailto:cs@polkaudio.com) or 800 377-7655.
