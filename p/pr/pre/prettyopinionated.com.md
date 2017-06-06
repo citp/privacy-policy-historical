@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prettyopinionated.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121193016id_/http%3A//www.prettyopinionated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettyopinionated.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074332id_/http%3A//www.prettyopinionated.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Pretty Opinionated
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
