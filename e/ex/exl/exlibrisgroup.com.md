@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exlibrisgroup.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231180045id_/http%3A//www.exlibrisgroup.com/category/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exlibrisgroup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104019id_/http%3A//www.exlibrisgroup.com/category/Privacy) for the most accurate reproduction.*
 
 # Ex Libris the bridge to knowledge, Privacy Policy
 
@@ -34,12 +34,6 @@ We may share or transfer Personal Information (i) as directed by our library cus
 
 We may also share or transfer Personal Information (i) within the Ex Libris group of companies, but only for the uses described in this Privacy Policy, such as responding to Users; and/or (ii) to third party service providers solely for hosted storage purposes.  If we transfer Personal Information to our affiliates, we will do so only if they are first bound by terms at least as restrictive as this Privacy Policy.  
 
-**Safe Harbor Privacy Framework**
-
-Ex Libris complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Ex Libris has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. 
-
-As part of our participation in safe harbor, we have agreed to the  [TRUSTe Dispute Resolution Requirements ](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html)for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have complaints regarding our compliance with the Safe Harbor you should first contact us by email to [privacy@exlibrisgroup.com](mailto:privacy@exlibrisgroup.com). If contacting us does not resolve your complaint, you may raise your complaint by contacting [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint), by fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaints shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, please visit [TRUSTe ](http://watchdog.truste.com/pvr.php?page=complaint)or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
-
 **User rights regarding Personal Information**
 
 As required by law, we provide Users with the right to access, correct, or delete any of their Personal Information that we may be holding.  Any such request should be forwarded to our Privacy Officer (the details are provided below).  We may request that Users first attempt to resolve their concern (and show proof thereof) with the library that collected the Personal Information and provided it to us for storage purposes and in connection with the Products and Services. 
@@ -66,4 +60,4 @@ We will conduct compliance audits of our relevant privacy practices to verify ad
 
 We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time.  Any such changes will be posted on our website at [www.exlibrisgroup.com](http://www.exlibrisgroup.com/). 
 
-Last modified 22 June 2011
+Last modified 23 March 2017
