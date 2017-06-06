@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the docplayer.net privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207194900id_/http%3A//docplayer.net/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docplayer.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021202id_/http%3A//docplayer.net/support/privacy-policy) for the most accurate reproduction.*
 
-# ⭐Privacy Policy
+# Privacy Policy
 
 We strongly respect your privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the DocPlayer website. DocPlayer provides this Privacy Notice to help you make an informed decision about whether to use or continue using DocPlayer. DocPlayer reserves the right to amend the privacy policy at any time.
 
