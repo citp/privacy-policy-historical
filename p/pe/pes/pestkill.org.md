@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pestkill.org privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216190328id_/http%3A//pestkill.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pestkill.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131826id_/http%3A//pestkill.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for PestKill.org
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at molesoff@gmail.com.
 
