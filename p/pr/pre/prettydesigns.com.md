@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettydesigns.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201021027id_/http%3A//www.prettydesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettydesigns.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064246id_/http%3A//www.prettydesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pretty Designs
 
@@ -11,6 +11,8 @@ Prettydesigns.com is committed to protecting your privacy online. Please take a 
 At Prettydesigns.com, we provide many interactive features which allow you to vote in polls, provide commentary on our features, participate in online forums, and subscribe to our magazine online. While you may use many of the features of the website without providing any personal information, we may at times ask that you provide us with certain information so that we may perform the service you request.
 
 This information may include, but is not limited to, your name, e-mail or home address, telephone number, fax number, credit card information, birth date, gender, and information about your interests in and use of various products, programs, and services.
+
+[](http://shop.nordstrom.com/)
 
 We will never collect personal information from you without your knowledge or consent, and you may always choose not to provide the information we request. Please note, however, that if you do not provide us with this information, you may be unable to access some of the features of the website.
 
@@ -35,6 +37,8 @@ We use cookies, as well as other tracking programs, for various features on Pret
  **Security information**
 
 We take the protection of your personal information seriously. Our databases are stored in a secure location and your information is guarded by firewalls and other technology. Although we take appropriate precautions to ensure the security of your information, we cannot assure you that the personal information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
+
+[](http://shop.nordstrom.com/)
 
  **Changes to the policy**
 
