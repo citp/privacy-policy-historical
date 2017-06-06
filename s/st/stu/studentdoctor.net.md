@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230625id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181253id_/https%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Student Doctor Network
 
@@ -48,7 +48,7 @@ We will occasionally send you email messages from the SDN Forums. We only send i
 **Choice/Opt-Out**
 
 You may indicate when you register whether or not you would like to receive messages from our Web Administrator as described above.  
-To opt-out of SDN Forum messages, please edit your messaging and notification options at: <http://forums.studentdoctor.net/account/contact-details>  
+To opt-out of SDN Forum messages, please edit your messaging and notification options at: <https://forums.studentdoctor.net/account/contact-details>  
 Contact us at <http://www.studentdoctor.net/about-sdn/contact-us/> should you have any trouble administering your account.
 
 **Service-related Announcements**
