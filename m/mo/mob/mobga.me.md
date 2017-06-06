@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobga.me privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120002056id_/http%3A//mobga.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobga.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051230id_/http%3A//mobga.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MobGame
+# Privacy Policy – MobGame
 
 Privacy Policy for [mobga.me](http://mobga.me/)
 
