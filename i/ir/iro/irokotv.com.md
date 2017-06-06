@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irokotv.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212170704id_/http%3A//irokotv.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irokotv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024557id_/http%3A//irokotv.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Number One Home For Nollywood & Ghanaian Movies
+# iROKOtv | Privacy Policy
 
 At iROKO Partners Limited (the “Company”); we recognize your privacy is important. This Policy explains the Company’s privacy practices on its website iROKOtv (the “Site”). This Policy also explains what information we collect about you (the “User”) and how we use this information. 
 
