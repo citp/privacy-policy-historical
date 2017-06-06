@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneacademy.eu privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231757id_/http%3A//www.oneacademy.eu/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneacademy.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055054id_/http%3A//www.oneacademy.eu/en/privacy) for the most accurate reproduction.*
 
 # OneAcademy
 
@@ -123,5 +123,4 @@ By accepting this Agreement you hereby agree, fully and with no objections, that
 
 However, if You withdraw your consent to receive our communications electronically, You are at the same time discontinuing your use of your personal OneLife account, and thereby also all benefits connected to your personal rights as an Independent Marketing Associate.
 
-_Effective as of 19.04.2016_  
- 
+_Effective as of 19.04.2016_
