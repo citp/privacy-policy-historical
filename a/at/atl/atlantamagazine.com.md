@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203011524id_/http%3A//www.atlantamagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123002id_/http%3A//www.atlantamagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Atlanta Magazine
 
 **1.   Introduction**
 
-Emmis Publishing, L.P. (“Company,” “We,” or “Us”) respects your privacy and is committed to protecting it through compliance with this policy.
+Hour Media (“Company,” “We,” or “Us”) respects your privacy and is committed to protecting it through compliance with this policy.
 
 This policy describes the types of information we may collect from you or that you may provide when you visit this Website (defined below) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
@@ -117,7 +117,7 @@ We may disclose personal information that we collect or you provide as described
 
   * To our subsidiaries and affiliates.
   * To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Emmis Publishing L.P.’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Emmis Publishing, L.P. about our Website users is among the assets transferred.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Hour Media’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Hour Media about our Website users is among the assets transferred.
   * To fulfill the purpose for which you provide it.
   * For any other purpose disclosed by us when you provide the information.
   * With your consent.
@@ -128,7 +128,7 @@ We may also disclose your personal information:
 
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
   * To enforce or apply our terms of use and other agreements, including for billing and collection purposes.
-  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Emmis Publishing L.P., our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Hour Media, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -174,7 +174,7 @@ It is our policy to post any changes we make to our Privacy Policy on this page 
 
 **14.   Your Comments and Concerns**
 
-This Website is operated by Emmis Publishing L.P., One EMMIS Plaza, 40 Monument Circle, Suite 700, Indianapolis, IN  46204.
+This Website is operated by Hour Media, 260 Peachtree Street, Suite 300, Atlanta, GA 30303.
 
 All feedback, comments, requests for technical support, notices of copyright infringement and other communications relating to the Website should be directed to the contact set forth below for this Website.
 
@@ -182,9 +182,4 @@ All feedback, comments, requests for technical support, notices of copyright inf
 
 This “Website” is the website through which you accessed these Terms of Use set forth below:
 
-[www.atlantamagazine.com](http://www.atlantamagazine.com/) – Atlanta Magazine – [eflorio@atlantamagazine.com](mailto:eflorio@atlantamagazine.com?subject=Privacy%20Policy)  
-[www.cincinnatimagazine.com](http://www.cincinnatimagazine.com/) – Cincinnati Magazine – [ABrownlee@cincinnatimagazine.com](mailto:ABrownlee@cincinnatimagazine.com?subject=Privacy%20Policy)  
-[www.indianapolismonthly.com](http://www.indianapolismonthly.com/) – Indianapolis Monthly – [JPScott@IndianapolisMonthly.com](mailto:JPScott@IndianapolisMonthly.com?subject=Privacy%20Policy)  
-[www.lamag.com](http://www.lamag.com/) – Los Angeles Magazine – [ILemus@lamag.com](mailto:ILemus@lamag.com?subject=Privacy%20Policy)  
-[www.orangecoast.com](http://www.orangecoast.com/) – Orange Coast Magazine – [LAllen@OrangeCoastMagazine.com](mailto:LAllen@OrangeCoastMagazine.com?subject=Privacy%20Policy)  
-[www.texasmonthly.com](http://www.texasmonthly.com/) – Texas Monthly – [DSuch@texasmonthly.com ](mailto:DSuch@texasmonthly.com?subject=Privacy%20Policy)
+[www.atlantamagazine.com](http://www.atlantamagazine.com/) – Atlanta Magazine – mscafidi@atlantamagazine.com
