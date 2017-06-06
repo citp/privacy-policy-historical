@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitecourses.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120065628id_/http%3A//www.infinitecourses.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitecourses.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161031id_/http%3A//www.infinitecourses.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Infinite courses: Privacy Policy-Study in India, Higher Education in India
 
@@ -6,7 +6,7 @@
 ---  
 |  |    |  [Colleges](http://www.infinitecourses.com/Top-Colleges-In-India.aspx) |  [Institutes](http://www.infinitecourses.com/Institutes-Colleges-in-India.aspx) |  [Courses](http://www.infinitecourses.com/Diploma-Degree-PG-Courses-in-India.aspx) |  [Careers](http://www.infinitecourses.com/Career-options-in-India.aspx) |  [Distance Learning](http://www.infinitecourses.com/Distance-learning-education-in-India.aspx) |  [Universities](http://www.infinitecourses.com/Universities-in-India.aspx) |  [Schools](http://www.infinitecourses.com/Schools-in-India.aspx) |  [Exams](http://www.infinitecourses.com/Entrance-exams-in-india.aspx) |  [Coaching](http://www.infinitecourses.com/coaching-institutes-in-india.aspx) |  [ Study Abroad](http://www.infinitecourses.com/StudyAbroad.aspx) |  [Jobs](http://www.infinitecourses.com/Jobs-in-India.aspx) |  [Forums](http://forums.infinitecourses.com/) |     
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|    |   
+|  * |   
 ---|---  
   | 
 
@@ -41,19 +41,19 @@ E.g. Mumbai, Delhi, Bangalore, Pune, USA, UK, etc.
 
 ##  Which Sports you like the most? 
 
+| 
+
 Cricket  
-
-
+---  
+  
 Football  
-
-
+  
 Table Tennis  
-
-
+  
 Golf  
+  
+Counter Strike  
 
-
-Counter Strike 
 
 
 **Next Vote:** **Next Vote :** Vote for Your Prime Minister 
@@ -62,7 +62,7 @@ Connect and win. Your College and University photos and videos can win you excit
 
 Upload photos and videos of your college or university and win exiciting prizes.
 
-|  Please Enter your Name / Email Address to Continue..  
+Please Enter your Name / Email Address to Continue..  
   
 ---  
 **Name** | :  |  |   
