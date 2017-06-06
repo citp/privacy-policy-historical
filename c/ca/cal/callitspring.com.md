@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callitspring.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222122108id_/http%3A//www.callitspring.com/us/en_US/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callitspring.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112825id_/http%3A//www.callitspring.com/us/en_US/privacyPolicy) for the most accurate reproduction.*
 
 # Call it Spring | Shoes, Boots, Sandals, Handbags & Accessories
 
@@ -15,7 +15,8 @@ How can I exercise my choices about receiving promotional communications?
 What are cookies and how does Call it Spring use cookies on its site?  
 How can I access or change my personal information, withdraw my consent, or make inquiries or complaints in relation to this Policy and Call it Spring's privacy practices?  
 How long is personal information retained?  
-How is personal information secured?
+How is personal information secured?  
+Call It Spring SMS Mobile Alerts 
 
 **_What kind of information does Call it Spring collect?_**  
 We may collect personal information from you when you save or otherwise provide your personal information to us, such as by setting up a user account and password, logging in as a registered user of [www.callitspring.com](https://web.archive.org/us/en_US), searching for a product, providing information in your account (and you might have more than one, if you've used more than one e-mail address when visiting our website), communicating with us by phone, e-mail, or otherwise or if you complete an entry form to participate in a contest, promotion or survey, whether online or at one of our retail stores. As a result of these actions, you might supply us with personal information, such as your name, e-mail and postal addresses, phone number(s), including address and telephone numbers, product interest information and in certain circumstances, your opinions and individual preferences. We may also maintain a record of your product interests and acquire information about you from our present and future affiliates or divisions, such as Aldo, Aldo Accessories, Feetfirst/Locale, Globo and Stoneridge/Little Burgundy (collectively, “ **ALDO Affiliates** ”).
@@ -59,5 +60,8 @@ We will keep your personal information only as long as is reasonably necessary f
 
 **_How is personal information secured?_**  
 We have adopted appropriate measures to ensure the confidentiality of personal information and to safeguard personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, in light of, among other things, the sensitivity of the information and the purposes for which it is to be used. Furthermore, each and every Call it Spring employee, mandatory or agent must abide by this Policy.
+
+**_Call It Spring SMS Mobile Alerts_**  
+By participating in Call It Spring alerts you are agreeing to receive recurring autodialed marketing messages at the mobile number that’s been provided at opt-in. Consent is not a condition of purchase. Message frequency varies to your mobile phone, upon providing your mobile number to Call It Spring. The text messages may include updates, alerts and exclusive offers. You can reply STOP to 77483 to cancel this service or HELP for help. For more information, contact Customer Service at 1-888-818-2536 or comments@aldogroup.com. Standard message and data rates may apply. 
 
 Effective: September 17, 2013 
