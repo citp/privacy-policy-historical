@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mega.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124002208id_/http%3A//www.mega.com/en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mega.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135910id_/http%3A//www.mega.com/en/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MEGA
+# Privacy Policy | Enterprise Architecture Software for Digital Transformation | MEGA
 
 MEGA appreciates your visit to our Web site and thanks you for your interest in our company, products, and services. Your privacy is important to MEGA, so we created a policy that explains how we collect, use, share, and store your information. This policy discloses the information practices for all MEGA Web sites.
 
@@ -36,7 +36,6 @@ We also use session cookies, which are temporary files to identify and track use
     2. Select “Settings”.
     3. Click on “Advanced settings”.
     4. In the “Privacy” section, click on “Content settings” to select your configuration.
-    5.  
   2. Internet Explorer  
 
     1. Click on “Tools”, then on “Internet options”.
@@ -62,15 +61,15 @@ Here are the main examples of how we may use your personal information:
 
 ### Fulfilling your request
 
-If you request something from MEGA, such as a product or service, a callback, marketing materials, or specific information, we use the information you provide to fulfill your request.  
-Personalizing the interaction with you - Marketing
+If you request something from MEGA, such as a product or service, a callback, marketing materials, or specific information, we use the information you provide to fulfill your request and personalizing the interaction with you.
 
 The personal information you provide MEGA, as well as the information we can collect about you indirectly, may be used for marketing purposes, which may keep you informed about on MEGA’s latest publications, corporate information, product and services announcements, upcoming events, or other types of information that may interest you. You may at any time choose not to receive marketing materials from us by following the unsubscribe instructions included in each email you may receive, by indicating so when we call you, or by contacting us directly.
 
 ### Providing Support
 
-We may use your personal information to support products or services you have obtained from us, such as notifying you of a product update or change. In any case, MEGA will use your personal information in an effort to provide you with the highest quality services, personalized in accordance with your wishes.  
-Sharing of personal information
+We may use your personal information to support products or services you have obtained from us, such as notifying you of a product update or change. In any case, MEGA will use your personal information in an effort to provide you with the highest quality services, personalized in accordance with your wishes.
+
+### Sharing of personal information
 
 As an international organization, the personal information we collect may be transferred throughout MEGA’s worldwide organization and certified partner distributor network. We will not sell your personal information or share it with any other third party. Each time you provide us with your personal information, you are notified about the reason, whether it is to download information, inquire about a product, register for a Webinar, or any other purpose. It is completely up to you whether you want to provide personal information.
 
