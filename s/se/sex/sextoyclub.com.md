@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sextoyclub.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916212202id_/http%3A//www.sextoyclub.com/stc_infopage.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextoyclub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131735id_/http%3A//www.sextoyclub.com/stc_infopage.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to Sex Toy Club - Wholesale Adult Products & Drop Shipping Distributor - SexToyClub.com
 
