@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolnameideas.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221153045id_/http%3A//www.coolnameideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolnameideas.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174318id_/http%3A//www.coolnameideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cool Name Ideas
 
@@ -16,19 +16,21 @@ This document was created using an [SEQ Legal](http://www.seqlegal.com/free-lega
 
 We may collect, store and use the following kinds of personal information:
 
-(a)      information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation and other information as collected by Google Analytics see [www.google.com/analytics/](http://www.google.com/analytics/);
+(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths);
 
-(b)      information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services this would include the normal details as collected by PayPal see [www.paypal.com](https://www.paypal.com/);
+(b) information that you provide to us when registering with our website including your email address;
 
-(c)      information that you provide to us for the purpose of registering with us (including your name and e-mail address);
+(c) information that you provide when completing your profile on our website (including your name, profile pictures, gender, date of birth, relationship status, interests and hobbies, educational details and employment details);
 
-(d)      information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including your name and e-mail address);
+(d) information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including your name and email address);
 
-(e)      information that you provide by filling in forms and searching our site;
+(e) information that you provide to us when using the services on our website, or that is generated in the course of the use of those services (including the timing, frequency and pattern of service use);
 
-(f)      information relating to the work that you require us to complete; and
+(f) information that you post to our website for publication on the internet (including your user name, your profile pictures and the content of your posts);
 
-(g)      any other information that you choose to send to us.
+(g) information contained in or relating to any communication that you send to us or send through our website (including the communication content and metadata associated with the communication); and
+
+(h) any other personal information that you choose to send to us.
 
 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with the terms of this privacy policy.
 
@@ -74,35 +76,60 @@ comment_author_url_
 
 These cookies are used to collect information about how you use our site, but not to identify you as an individual. We use the information to help improve the site content and usability. The cookies collect information such as the number of visitors to the site, where visitors have come to the site from and the pages they visited.  For information about the data Google Analytics’ cookies contain, [click here](http://www.google.com/analytics/learn/privacy.html).
 
-### Google Analytics Cookie Names:
+#### Google Analytics Cookie Names:
 
 __utma  
 __utmb  
 __utmc  
-__utmz
+__utmz  
+_ga  
+_gat
 
-### ShareThis
+### Google DoubleClick
 
-These cookies are used to track which pages are being shared and by whom. Most of the cookies expire in a maximum of 12 months. For information about the data ShareThis cookies contain, [click here](http://sharethis.com/privacy).
+These cookies are associated with the DoubleClick for Publishers service from Google. Its purpose is to do with the showing of adverts on the site.
 
-### ShareThis Cookie Names:
+Google AdSense is an advertising service provided by Google. this site uses the “Doubleclick” Cookie, which tracks use of this site and user behavior concerning ads, products and the services we offer.
 
-__uset  
-__seg  
-__stid  
-__unam
+You can set preferences for how Google advertises to you using the [Google Ad Preferences](http://www.google.com/settings/ads/onweb/) page, and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](https://www.google.com/settings/ads/plugin).
 
-### ClickDesk ****
+To find out about DoubleClick cookies and how to control those cookies, go to <http://www.google.co.uk/policies/privacy/ads/>.
 
-These cookies are used to track your interactions with us via our live chat software.  The cookies collect information such as your interactions with this site, whether or not you are a returning visitor and are used to autofill the contact form. For information about the data ClickDesk’s cookies contain, [click here](http://www.clickdesk.com/).
+#### Google DoubleClick Cookie Names:
 
-### ClickDesk Cookie Names: ****
+DSID  
+IDE  
+__gads  
+_drt_  
+test_cookie  
+id
 
-****all_ag9zfmNsaWNrZGVza2NoYXRyDgsSBXVzZXJzGN7MvAoM-proactive_rules_session_cookie  
-all_ag9zfmNsaWNrZGVza2NoYXRyDgsSBXVzZXJzGN7MvAoM-http://*clickdesk_returning_visitor  
-all_ag9zfmNsaWNrZGVza2NoYXRyDgsSBXVzZXJzGN7MvAoM-http://*once_per_dayfirst_visit  
-all_ag9zfmNsaWNrZGVza2NoYXRyDgsSBXVzZXJzGN7MvAoM-visitor_email  
-all_ag9zfmNsaWNrZGVza2NoYXRyDgsSBXVzZXJzGN7MvAoM-visitor_name
+### Google Tracking and Safe Browsing
+
+Google tracking and safe browsing cookies. Google’s NID and PREF cookies are set by browsers to protect users against known intrusive sites. If you arrive at one of these sites it allows your browser to take action or notify you. Users can stop these cookies being set by turning off their browser’s ‘safe browsing’ mode.  [More information about Google’s privacy policy](http://www.google.com/intl/en_uk/policies/privacy/).
+
+#### Google Tracking and Safe Browsing Cookies Names:
+
+NID  
+PREF
+
+### Embedded YouTube Videos
+
+To track visitor views, and to remember user preferences when viewing YouTube videos embedded in our website web pages. [More information about YouTube cookies](https://www.google.com/policies/privacy/).
+
+#### Embedded YouTube Videos Cookie Names:
+
+PREF  
+VISITOR_INFO1_LIVE  
+YSC
+
+### Commission Junction
+
+We use Commission Junction to provide advertising on this website. You can find information on Commission Junction’s privacy policies and use of cookies at this url: <http://www.cj.com/legal/privacy_web_user.html>.
+
+#### Commission Junction Cookie Names:
+
+Unavailable.
 
 ### (5)      Cookies and personal information
 
@@ -238,7 +265,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 ### (16)    Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email using our [contact form](https://web.archive.org/contact/) or by post to 17 Haven Avenue, Bridgend, Stonehouse, Gloucestershire GL10 2AS.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email using our [contact form](https://web.archive.org/contact/) or by post to 1 Bathleaze, Kings Stanley, Stonehouse, Gloucestershire, GL10 3JN, UK.
 
 ### (17)    Data controller
 
