@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessconsumeralliance.org privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218232318id_/http%3A//www.checkbca.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessconsumeralliance.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181747id_/https%3A//www.checkbca.org/privacy.aspx) for the most accurate reproduction.*
 
 # Business Consumer Alliance
 
