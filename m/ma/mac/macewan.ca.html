@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macewan.ca privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120171046id_/http%3A//www.macewan.ca/wcm/Forms/Privacy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macewan.ca privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606150541id_/http%3A//www.macewan.ca/wcm/Forms/Privacy/index.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><script src="https://amikay-ape.appspot.com/c/C0D1BC651C330725A76E4A93F8A1599E5C" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
    var _U = "undefined";
@@ -16,11 +16,13 @@
        g_navNode_Path[2] = '1487';
    var g_ssSourceNodeId = "1487";
    var g_ssSourceSiteId = "wcm";
-   var g_strLanguageId = "en";
 </script>
 <script id="SSNavigationFunctionsScript" type="text/javascript" src="/contribute/websites/wcm/sitenavigationfunctions.js"></script>
 <script id="SSNavigationScript" type="text/javascript" src="/contribute/websites/wcm/sitenavigation.js"></script>
 
+<script type="text/javascript">
+	var g_strLanguageId = "en";
+</script>
 	<script type="text/javascript" src="/contribute/resources/wcm/sitestudio/wcm.toggle.js"></script>
 	<script type="text/javascript" src="/contribute/resources/sitestudio/ssajax/ssajax.js"></script>
 
@@ -32,20 +34,19 @@
   <meta name="GENERATOR" content="MSHTML 8.00.7600.16671">
   
   
-   <link type="text/css" href="/macewan_css/jquery-ui-1.8.5.custom/css/custom-theme/jquery-ui-1.8.5.custom.css" rel="stylesheet"> 
-<link type="text/css" href="/macewan_css/jquery-ui-1.8.5.custom/css/custom-theme/jquery-ui-1.8.5.custom.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
   
   <link rel="stylesheet" type="text/css" href="/macewan_css/reset.css" media="all">
 <link rel="stylesheet" type="text/css" href="/macewan_css/style.css" media="all">
 <link rel="stylesheet" type="text/css" href="/macewan_css/macewan_changes.css" media="all">
 
 
- <script src="//code.jquery.com/jquery-1.6.4.min.js"></script>
-
+ <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
   
-<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.js"></script>
-  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
-  <script type="text/javascript" src="/macewan_css/js/jquery.maskedinput-1.3.min.js"></script>
+<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.15.0/jquery.validate.js"></script>
+ 
+  <script type="text/javascript" src="//cdn.rawgit.com/digitalBush/jquery.maskedinput/1.4.1/dist/jquery.maskedinput.min.js"></script>
   
 
  
@@ -62,12 +63,13 @@ padding-left: 0px;
 padding-right: 0px;
 padding-top: 0px;
 float:left;
-width:700px;
+width:100% !important;
 }
+
 
 #header{
 float: left;
-width: 100%;
+width: 98%;
 border-bottom:5px solid #75222e;
 padding-top:10px;
 padding-bottom:10px;
@@ -102,24 +104,6 @@ p { clear: both; }
 .submit { margin-left: 12em; }
 em { font-weight: bold; padding-right: 1em; vertical-align: top; }
 </style>
-  <script>
-  $(document).ready(function(){
-    $("#questionsForm").validate();
-  });
-  </script>
-  
-  <script>
-  jQuery(function($){
-   
-   $("#phone").mask("999-999-9999");
- 
-});
-
-  $(document).ready(function(){
-    $("#questionsForm").validate();
-  });
-  </script>
-  
   
  <!-- Start Google Analytics -->
 	 <script type="text/javascript">
@@ -157,18 +141,19 @@ var APEcode='C0D1BC651C330725A76E4A93F8A1599E5C', APEtracker = APEtracker || { c
    
    $("#phone").mask("(999) 999-9999");
  
-});
+  });
 
-  $(document).ready(function(){
-    $("#questionsForm").validate();
+  $(function(){
+    $(function() {
+      $("#questionsForm").validate();
+    });
+   
     $.getJSON("https://secure.mymacewan.ca/getip.php?callback=?",
-    function(data){
-    $('#remoteIP').val(data.ip);
-
-       
+      function(data){
+        $('#remoteIP').val(data.ip);
+    });
   });
-  });
-  </script>
+</script>
 
 </head>
 
@@ -238,8 +223,8 @@ Questions or concerns regarding privacy protection may be directed to: Informati
 </p>
     </div>
     </div>
-        	<div align="center" id="foip" style="font-size:10px;width:700px;align:center;float:left;margin-top:25px;">
-    	The personal information on this form is collected under s.33(c) of the Freedom of Information and Protection of Privacy Act, for the purpose of facilitating your communication with MacEwan University. Questions concerning this collection should be directed to the Information Management and Privacy Coordinator, MacEwan University, 10700 - 104 Avenue, Edmonton, AB T5J 4S2; tel.: 780-497-5423.
+        	<div align="center" id="foip" style="font-size:10px;align:center;float:left;margin:20px 10px;">
+    	The personal information on this form is collected under s.33(c) of the Freedom of Information and Protection of Privacy Act and will be protected under Part 2 of that Act for the purpose of facilitating your communication with MacEwan University. Questions concerning this collection should be directed to Privacy and Information Management at MacEwan University at 10700 – 104 Avenue, Edmonton, AB. T5J 4S2 or by email at privacy@macewan.ca.
     	</div>
 
 
