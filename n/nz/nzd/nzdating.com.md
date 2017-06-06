@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzdating.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223348id_/http%3A//www.nzdating.com/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzdating.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152148id_/http%3A//www.nzdating.com/general/privacy.aspx) for the most accurate reproduction.*
 
 # NZDating - New Zealands premier NZ dating and friendship service
 
@@ -21,7 +21,7 @@ In the case of known or suspected abuse of our systems or members, we reserve th
 
   * **IP Address** \- We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help gather broad demographic information that is not tied back to you personally. 
   * **Cookies** \- Our site uses cookies as for logins and for keeping options specific to a browser. 
-  * **Personal Details** \- As a dating and freindship website we ask our members for a number of personal details for use on the website. We always try to identify which information is for system use and which is for displaying to other members. 
+  * **Personal Details** \- As a dating and friendship website we ask our members for a number of personal details for use on the website. We always try to identify which information is for system use and which is for displaying to other members. 
   * **Email Address** \- The email address provided will only be used by NZDating for notification events, contacting the member ourselves and newsletters. It will not be sold for other purposes or given to other members. Where possible opt out options may exist for notifications and newsletters, however some newsletters are not optional and you will need to remove your NZDating membership to unsubscribe. 
   * **Demographic Data** \- Demographic and profile data is also collected at this site. We use this data to tailor the visitor's experience at this site, showing them customised content we think they might be interested in, and displaying the content according to their preferences. We also employ the services of [Netratings](http://www.nielsen-netratings.com/about_pri.jsp) and [Google Analytics](http://www.google.com/analytics/) to independently verify the number of visitors and other basic demographic information on our site. 
   * **Advertisers** \- From time to time we summarise demographics and other details, such as the number of members under 30, any information is shared with advertisers on an aggregate basis only. 
@@ -50,7 +50,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 Messages using our internal email system are not able read by any other members other than the sender and receiver. Once a message is sent it is not possible to retract it. Some membership options may allow a sender of an email to see when their sent email was read or if it was deleted. NZDating have a number of security filters and procedures that are run over internal email to prevent site abuse, commercial use and spam. As part of these processes from time to time NZDating staff may be required to view messages, however they will always remain private and confidential, the only time these messages will be disclosed to any other party is if the member is involved in legal proceedings and either NZDating is satisfied that the legal action is justified, or the disclosure is a legal requirement. 
 
 **Member Profiles, Adverts and Photos**  
-NZDating have a number of security filters and procedures that are run over member profiles and photos to help prevent site misuse, unathorised commercial use and spam. As part of these processes from time to time authorised NZDating staff may be required to view member profiles, adverts and associated material. 
+NZDating have a number of security filters and procedures that are run over member profiles and photos to help prevent site misuse, unauthorised commercial use and spam. As part of these processes from time to time authorised NZDating staff may be required to view member profiles, adverts and associated material. 
 
 **Shared Member Information**  
 As a core function of NZDating, various elements of your profile, the last time your have been on the NZDating website, and other statistical information may also be available to members such as ratios on how often you reply, block, use messageboard hammers and other information that may assist a member to deciding if they will interact. Members may also have the option to list who has viewed their profile and who is currently online. 
@@ -64,10 +64,10 @@ This site is restricted to Adults aged 18 or higher, as such any children using 
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt out of receiving communications from NZDating. NZDating gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. However we do also have mandatory newsletters for our members and the only unsubscribe option is to remove your membership from NZDating. 
 
-You can visit the following URL: http://www.nzdating.com/personalise/ or visit our [contact form](https://web.archive.org/general/contact.aspx) and give us enough detail to correct the problem. 
+You can visit the following URL: https://www.nzdating.com/personalise/ or visit our [contact form](https://web.archive.org/general/contact.aspx) and give us enough detail to correct the problem. 
 
 **Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided. Visit http://www.nzdating.com/personalise/ to personalise this web site, or visit our [contact form](https://web.archive.org/general/contact.aspx) and give us enough detail to correct the problem. 
+This site gives users the following options for changing and modifying information previously provided. Visit https://www.nzdating.com/personalise/ to personalise this web site, or visit our [contact form](https://web.archive.org/general/contact.aspx) and give us enough detail to correct the problem. 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
