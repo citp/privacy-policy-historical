@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224235447id_/https%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607001631id_/https%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,7 +106,7 @@ California Privacy Rights: Under California Civil Code sections 1798.83-1798.84,
 
 ## How Can I Delete My Account?
 
-Should you ever decide to delete your Account, you may do so by emailing Help@Harrys.com. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
+Should you ever decide to delete your Account, you may do so by emailing [help@harrys.com](mailto:help@harrys.com). If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
 
 ## What Choices Do I Have Regarding My Information?
 
@@ -122,7 +122,7 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ## What If I Have Questions or Concerns?
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to help@harrys.com We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [help@harrys.com](mailto:help@harrys.com). We will make every effort to resolve your concerns.
 
 ## Effective Date:
 
