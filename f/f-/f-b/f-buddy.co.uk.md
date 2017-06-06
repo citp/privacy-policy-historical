@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f-buddy.co.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230061440id_/http%3A//app.f-buddy.co.uk/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-buddy.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070701id_/http%3A//app.f-buddy.co.uk/help/privacy.cfm) for the most accurate reproduction.*
 
 # F-Buddy :: F-Buddy Member Privacy Policy
 
