@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231093850id_/http%3A//www.xda-developers.com/xda-developers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235705id_/https%3A//www.xda-developers.com/xda-developers-privacy-policy) for the most accurate reproduction.*
 
 # XDA-Developers Privacy Policy
 
@@ -12,7 +12,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 
 **Third Party Ad Servers**
 
-We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer web site at [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer web site at [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) or DAA’s web site at [http://www.aboutads.info/choices](http://www.aboutads.info/choices).
 
 **What do we use your information for?**
 
@@ -72,8 +72,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **Use of VigLink**  
 Please note that xda-developers.com makes use of a system called VigLink in order to change links to certain online retailers being displayed on the site to include an affiliate marketing tag. This tag permits those online retailers to know that a user clicking those links has been referred by our site so that we may receive a commission on certain sales. VigLink and other online referral software programs are commonly used across the Internet, though if you have a problem with this practice, we urge you to [turn off VigLink](http://www.viglink.com/policies/ftc).
 
-**Use of Magnetic**  
-Company allows Magnetic to monitor Company affiliated sites for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities, and such Magnetic may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Company users. For further information about Magnetic’s search re-targeting product, Magnetic’s homepage on the Web is located at http://www.magnetic.com. The full text of Magnetic’s privacy policy is available on the Web at http://privacy.magnetic.com. Magnetic may allow third parties to monitor Magnetic associated sites for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Magnetic users. Users may go to http://magnetic.com for information on what is being tracked. Users may go to http://privacy.magnetic.com/w3c/optout.html for information on how to opt-in or opt-out of use of their information by Magnetic and may go to http://www.networkadvertising.org/managing/opt_out.asp to opt-out of most third party tracking.
+All user generated content, posts, and discussions, contained on [xda-developers.com](http://xda-developers.com/) are the intellectual property of KC Online Media, LLC.  We reserve the right to overwrite or replace any affiliate, commercial, or monetizable links, posted by users with our own internal tracking. You agree not to post or otherwise make available Content that constitutes or contains “affiliate marketing,” “link referral code,” or “unsolicited commercial advertisement.”
 
 **Terms and Conditions**
 
@@ -91,6 +90,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-KC Online Media, LLC  
-http://www.xda-developers.com  
-webmaster@xda-developers.com 
+KC Online Media, LLC
+
+> [XDA-Developers Android Forums](https://www.xda-developers.com/)
+
+  
+webmaster@xda-developers.com
