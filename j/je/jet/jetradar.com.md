@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetradar.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102194105id_/http%3A//www.jetradar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetradar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090026id_/http%3A//www.jetradar.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -19,6 +19,7 @@ We (Go Travel Un Limited doing business as JetRadar, a Hong Kong Limited Liabili
   * ca.jetradar.com
   * ie.jetradar.com
   * www.jetradar.co.th
+  * www.jetradar.my
   * www.jetradar.in
   * www.jetradar.co.nz
   * www.aviasales.ru
