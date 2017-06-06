@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the listen360.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107090414id_/http%3A//www.listen360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listen360.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082636id_/http%3A//www.listen360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Listen360
 
-**Last revised: May 13, 2013**
+**Last revised:  2016**
 
 To print this page, please use the Print Command CTRL+P (Windows) or Command+P (Apple OS).
 
@@ -12,7 +12,7 @@ This policy applies to our collection, use and disclosure of information that we
 
 In this policy, we refer to the following terms: “client” as a business with whom we have an established business relationship for the use of our customer feedback system and services to solicit, collect and report voluntary feedback provided to us with respect to our client; “respondent” as a person who voluntarily provides us feedback regarding our client; “Listen360 Services” as our services to solicit, collect and report respondent feedback to our clients; and “Digital Properties” as our Listen360.com website and those other websites from which we provide the Listen360 Services.
 
-If you are located in the European Economic Area, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the European Economic Area. Listen360 is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce and European Commission regarding the collection, storage, use, transfer and other processing of personal data transferred from the European Economic Area to the U.S. Our Safe Harbor Privacy Policy applicable to personal information that we collect from within the European Economic Area that is transferred to countries outside the European Economic Area is located at http://www.listen360.com/safeharbor. 
+If you are located in the European Economic Area, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the European Economic Area. Listen360 is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce and European Commission regarding the collection, storage, use, transfer and other processing of personal data transferred from the European Economic Area to the U.S. Our Safe Harbor Privacy Policy applicable to personal information that we collect from within the European Economic Area that is transferred to countries outside the European Economic Area is located at http://www.listen360.com/safe-harbor. 
 
 **Terms of Use and Terms of Service**
 
