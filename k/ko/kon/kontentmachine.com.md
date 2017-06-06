@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kontentmachine.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028083125id_/http%3A//kontentmachine.com/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontentmachine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170059id_/http%3A//kontentmachine.com/opanda_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kontent Machine
 
