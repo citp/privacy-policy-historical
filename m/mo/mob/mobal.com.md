@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobal.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417132840id_/https%3A//www.mobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184239id_/https%3A//www.mobal.com/privacy) for the most accurate reproduction.*
 
 # Mobal | Privacy Information
 
-#### The Mobell Group Privacy Policy – Last Updated 1st March 2016
+#### The Mobell Group Privacy Policy
 
 The purpose of this policy is to help you understand how we collect, use and protect the information you provide us with when visiting our websites and using our products and services.
 
@@ -131,3 +131,5 @@ Hednesford
 Staffordshire  
 WS12 0QU  
 United Kingdom 
+
+1st March 2016
