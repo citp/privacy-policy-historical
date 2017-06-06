@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stihl.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228185442id_/http%3A//www.stihl.com/imprint-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stihl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071313id_/http%3A//www.stihl.com/imprint-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Imprint & Privacy Policy of the STIHL Website | STIHL
 
@@ -50,6 +50,16 @@ Google Tag Manager is operated by Google Inc., 1600 Amphitheatre Parkway, Mounta
 Tags are snippets of code on our website, which are used i.a. to measure traffic and visitor behaviour and to detect the impact of online advertising and social channels.
 
 When you visit our website, the current tag configuration is sent to the end-user's browser with instructions for which tags should fire. The tool itself does not collect any personally identifiable information. The tool instructs other tags to fire, and these other tags may collect data. For more information on how Google Tag Manager works please visit: [https://support.google.com/tagmanager/answer/2772432?hl=en&topic=2574304&ctx=topic](https://support.google.com/tagmanager/answer/2772432?hl=en&topic=2574304&ctx=topic) and the use policy: <https://www.google.com/analytics/tag-manager/use-policy/>.
+
+**Google web fonts**  
+Google web fonts are used to improve the visual presentation of various information on this website (<https://fonts.google.com/specimen/Roboto> und <https://fonts.google.com/specimen/Roboto+Condensed>).  
+These web fonts are transferred to the browser’s cache from where the browser loads them for displaying information. If the browser does not support Google web fonts or prevents them from being accessed, the text will be displayed in a standard font.
+
+The Google web fonts “Roboto” and “Roboto Condensed” are licensed under the Apache Licence, version 2.0:  
+<http://www.apache.org/licenses/LICENSE-2.0>.
+
+Information about personal privacy is available at the Google Privacy Center:  
+<http://www.google.com/intl/de-DE/policies/privacy/>.
 
 **Social media and social plugins**  
 We also provide comprehensive individual support via our pages on social media. If you make a query through one of these social media sites, we will forward your query on to the relevant department. The data will be used solely for the purpose of responding to your query and will not be disclosed to third parties. If you wish to contact us through social media sites, you must be logged into your respective accounts. The companies that operate these services may collect, store and use personal data for this purpose. We have no control over the nature, scope and the processing of this data.
