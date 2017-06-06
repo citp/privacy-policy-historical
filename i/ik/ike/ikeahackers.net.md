@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikeahackers.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223751id_/http%3A//www.ikeahackers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikeahackers.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170208id_/http%3A//www.ikeahackers.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IKEA Hackers - IKEA Hackers
 
@@ -25,7 +25,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
   * [Google Adsense](http://www.google.com/policies/privacy/)
   * [Amazon.com](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
-  * [SayMedia.com](http://www.saymedia.com/website-privacy-policy)
+  * SayMedia.com
   * [Viglink.com](http://www.viglink.com/legal/disclosures/users)
 
 
