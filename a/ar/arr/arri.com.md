@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arri.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220093655id_/http%3A//www.arri.com/corporate/about_arri/legal/privacy_declaration.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arri.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063604id_/http%3A//www.arri.com/corporate/about_arri/legal/privacy_declaration.html) for the most accurate reproduction.*
 
 # ARRI Group: Privacy Declaration
 
@@ -92,11 +92,11 @@ If you use the Retweet functions, the websites you visit are disclosed to third 
 
 Please note that we, as a provider of the pages, are not informed of the content of the transferred data and its use by Twitter. For information on the way your data is handled by Twitter Inc. as well as on your rights and setting options for the protection of your personal data, please refer to the data protection advice from Twitter (<http://twitter.com/privacy>). You can change your data protection settings at Twitter under account settings.
 
-8\. NewsletterWe offer you the opportunity to subscribe to our newsletter. For the dispatch of our newsletter, we use the list [i.e. email service] provider MailChimp. MailChimp is a service provided by The Rocket Science Group, LLC, 512 Means Street, Ste 404 Atlanta, GA 30318. When you register for our newsletter, the data, including your IP address, allocated to your terminal device at the time of registration, is transferred to MailChimp and stored there. 
+8\. NewsletterWe offer you the opportunity to subscribe to our newsletter. For the dispatch of our newsletter, we use Newsletter2Go, an offer of Newsletter2Go GmbH, Marie-Elisabeth-Lüders-Str. 1, D-10625 Berlin. Newsletter2Go has its principal place of business in Germany and data protection legislation of Germany applies. 
 
-MailChimp offers extensive analytics tools for analyzing how the newsletters are opened and used. These analyses are group-related and are not used for individual evaluation. In addition, MailChimp uses the web analytics tool Google Analytics incorporating it into newsletters.
+Newsletter2Go offers extensive analytics tools for analyzing how the newsletters are opened and used. In addition, Newsletter2Go uses the web analytics tool Google Analytics incorporating it into newsletters.
 
-For more information on MailChimp and data protection at MailChimp, please refer to: <http://mailchimp.com/legal/privacy/>.
+For more information on Newsletter2Go please refer to (<https://www.newsletter2go.com/features>) and data protection at Newsletter2Go to (<https://www.newsletter2go.com/data-protection/>).
 
 You can revoke your consent to storage of data, the e-mail address as well as its use for the dispatch of the newsletter, at any time. 
 
@@ -134,4 +134,4 @@ Tel.: +49 (0)89 3809 0
 Fax: +49 (0)89 3809 1244  
 E-mail: [webmaster@arri.de](mailto:webmaster@arri.de)
 
-Last updated: 2016
+Last updated: 2017
