@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124211159id_/http%3A//www.mnscu.edu/system/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154259id_/http%3A//mnscu.edu/system/privacy.html) for the most accurate reproduction.*
 
 # Minnesota State - Online Privacy Statement
 
