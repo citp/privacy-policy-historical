@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furla.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123145012id_/http%3A//www.furla.com/us/en/privacy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furla.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103305id_/http%3A//www.furla.com/us/en/privacy-us) for the most accurate reproduction.*
 
 # Furla.com | Privacy US
 
@@ -62,3 +62,72 @@ You have rights regarding your personal data, including the rights to do the fol
 
 
 To exercise any of these rights, please send to Furla, at the address provided above, a registered letter with return receipt, or email [privacy@furla.com](mailto:privacy@furla.com).
+
+#### FURLA S.P.A.
+
+Via Bellaria 3/5 40068  
+San Lazzaro di Savena,  
+Bologna IT
+
+#### KENT SA FURLA Bruxelles
+
+Avenue Louise 58/A  
+1050 Bruxelles BE
+
+#### FURLA UK LTD
+
+Regent Street 221,  
+W1B 4NU, London UK
+
+#### FURLA ESPANA SL
+
+Paseo de Gracia, 59  
+08007 Barcellona, España
+
+#### FURLA IRELAND ACCESSORIES LTD
+
+Lower Mount Street 28/30  
+Verschoyle House,  
+Dublin 2, Ireland
+
+#### FURLA GERMANY GMBH
+
+Theatinerstr. 30  
+80333 Munchen,  
+Germany
+
+#### FURLA FRANCE SAS
+
+7/9 Rue La Boétie  
+75008 Paris, France
+
+#### FURLA JAPAN CO., LTD
+
+RENAI Aoyama Building 7th floor  
+3-3-11 Kita Aoyama, Minatoku, Tokyo  
+107-0061 Japan
+
+#### FURLA (U.S.A.), INC.
+
+432 Park Avenue South  
+14th Floor New York, NY 10016
+
+#### FURLA AUSTRIA GMBH
+
+Designer Outlet Strasse 1  
+Parndorf A-7111 Austria
+
+#### FURLA HOLLAND B.V.
+
+Stadsweide 454,  
+6041TP Roermond - The Netherlands
+
+#### FURLA POLSKA Sp. Z.o.o.
+
+Ul. Sienna 82  
+00-815 Warsaw - Poland
+
+#### FURLA SWITZERLAND SA
+
+Beroldingen 26 CH- 6850  
+Mendrisio
