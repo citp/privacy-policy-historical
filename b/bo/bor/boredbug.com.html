@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the boredbug.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119144336id_/http%3A//boredbug.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boredbug.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606114850id_/http%3A//boredbug.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
@@ -7,315 +7,20 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://boredbug.com/xmlrpc.php">
 <link rel="stylesheet" href="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/themes/twentyfifteen/style.css?1475250379" type="text/css" media="screen">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<script src="//boredbug.com/doubleclick/gpt.js?2d0d7e"></script>
-<script type="text/javascript">
-	var ad_jsLoadHistory = {};
-	function adWorx_loadScript(url, async, noiframe, utf8) {
-	    if (noiframe && window != window.top)
-	        return;
-	    if (ad_jsLoadHistory[url])
-	        return;
-	    ad_jsLoadHistory[url] = true;
-	
-	    var elem = $("<script>").attr("src", url);
-	    
-	    if (async)
-	        elem[0].async = true;
-	        
-	    if (utf8)
-	        elem[0].charset = 'utf-8';
-	
-	    var head = $("head");
-	    if (head.length > 0 && elem.length > 0) {
-	        $("head")[0].appendChild(elem[0]);
-	    }
-	    else {
-	        console.log("Cannot call append child for script: ", url);
-	    }
-	}
-  </script>
-<script> 
-    var pb_timeout = 1000;
-	var pb_win = window.innerWidth && document.documentElement.clientWidth ? Math.min(window.innerWidth, document.documentElement.clientWidth) : window.innerWidth||document.documentElement.clientWidth||document.getElementsByTagName('body')[0].clientWidth; 
-	var adWorx = {
-    	slotsReady: false,
-		slots: {},
-		sizeMap: {}
-	}
-
-	adWorx.sizeMap = {
-    	'lb_top' : { 
-			'd' : [[728, 90], [970, 90], [970, 250]],
-			'tl' : [728, 90],
-			'tp' : [728, 90],
-			'm' : []
-        },
-		'lb_mid' : {
-	        	'd' : [728, 90],
-			'tl' : [300, 250],
-			'tp' : [300, 250],
-			'm' : [[320, 50], [320, 100]]
-		},
-		'below_post' : {
-	        	'd' : [300, 250],
-			'tl' : [300, 250],
-			'tp' : [300, 250],
-			'm' : [300, 250]
-		},
-		'sidebar_atf' : {
-	        	'd' : [300, 600],
-			'tl' : [300, 600],
-			'tp' : [300, 250],
-			'm' : [300, 250]
-		}
-	}
-
-	function getSizes( slot ) {
-    	if (pb_win > 1024) { 
-			return adWorx.sizeMap[slot]['d'];
-		} else if (pb_win >= 1024 && pb_win < 1204) {
-			return adWorx.sizeMap[slot]['tl']; 
-		} else if ( pb_win >= 768 && pb_win < 1024 ) {
-        	return adWorx.sizeMap[slot]['tp'];
-		} else {
-        	return adWorx.sizeMap[slot]['m'];
-		}
-	}
-
-    adWorx.slots = {
-	       'lb_top' : {
-			code: '/'+uid+'/BB_Leaderboard_Top',
-		        sizes: getSizes('lb_top'),
-		        bids: [{
-		            bidder: 'aol',
-		            params: {
-		                placementId: '4180343', 
-		                network: '10624.1',    
-		                sizeId : '225',       
-						adContainerId: 'div-gpt-ad-1471681040999-3',
-						alias: 'lbtop728x90',   
-		                size : getSizes('lb_top')
-		            }
-		        }]
-			},
-	       'lb_mid' : {
-			code: '/'+uid+'/BB_Leaderboard_Middle',
-		        sizes: getSizes('lb_mid'),
-		        bids: [{
-		            bidder: 'aol',
-		            params: {
-		                placementId: '4180341', 
-		                network: '10624.1',    
-		                sizeId : '225',       
-						adContainerId: 'div-gpt-ad-1471681040999-2',
-						alias: 'lbMid728x90',   
-		                size :  getSizes('lb_mid')
-		            }
-		        }]
-			},
-	       'lb_bottom' : {
-			code: '/'+uid+'/BB_Leaderboard_Bottom',
-		        sizes: [300, 250],
-		        bids: [{
-		            bidder: 'aol',
-		            params: {
-		                placementId: '4180339', 
-		                network: '10624.1',    
-		                sizeId : '225',       
-						adContainerId: 'div-gpt-ad-1471681040999-1',
-						alias: 'lbBottom300x250',   
-		                size : [300, 250]
-		            }
-		        }]
-			},
-	       'below_post' : {
-			code: '/'+uid+'/BB_BelowPost',
-		        sizes: [300, 250],
-		        bids: [{
-		            bidder: 'aol',
-		            params: {
-		                placementId: '4180344', 
-		                network: '10624.1',    
-		                sizeId : '225',       
-				adContainerId: 'div-gpt-ad-1471681040999-0',
-				alias: 'mRecBelowPost',   
-		                size : [300, 250]
-		            }
-		        }]
-			},
-	       'sidebar_atf' : {
-			code: '/'+uid+'/BB_Sidebar_ATF',
-		        sizes: getSizes('sidebar_atf'),
-		        bids: [{
-		            bidder: 'aol',
-		            params: {
-		                placementId: '4180345', 
-		                network: '10624.1',    
-		                sizeId : '225',       
-				adContainerId: 'div-gpt-ad-1471681040999-4',
-				alias: 'mRecSideATF300x250',   
-		                size : getSizes('sidebar_atf')
-		            }
-		        }]
-			},
-	       'sidebar_btf' : {
-				code: '/'+uid+'/BB_Sidebar_BTF',
-		        sizes: [300, 250],
-		        bids: [{
-		            bidder: 'aol',
-		            params: {
-		                placementId: '4180342', 
-		                network: '10624.1',    
-		                sizeId : '225',       
-						adContainerId: 'div-gpt-ad-1471681040999-5',
-						alias: 'mRecSideBTF300x250',   
-		                size : [300, 250]
-		            }
-		        }]
-			}			
-	    };
-	
-    var adUnits = [];
-    adUnits.push(adWorx.slots['lb_top']);	
-    adUnits.push(adWorx.slots['lb_mid']);
-    adUnits.push(adWorx.slots['lb_bottom']);
-    adUnits.push(adWorx.slots['below_post']);
-    adUnits.push(adWorx.slots['sidebar_atf']);
-    adUnits.push(adWorx.slots['sidebar_btf']);
-    var pbjs = pbjs || {};
-    pbjs.que = pbjs.que || [];
-
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-
-    googletag.cmd.push(function() {
-        googletag.pubads().disableInitialLoad();
-    });
-
-    adWorx_loadScript('http://boredbug.com/adapters/prebid.v0.12.0.js', true, true);
-
-    pbjs.que.push(function() {
-	        pbjs.addAdUnits(adUnits);
-
-     		pbjs.bidderSettings = 
-            {
-			    standard: {
-			        adserverTargeting: [{
-			            key: "hb_bidder",
-			            val: function(bidResponse) {
-			                return bidResponse.bidder;
-			            }
-			        }, {
-			            key: "hb_adid",
-			            val: function(bidResponse) {
-			                return bidResponse.adId;
-			            }
-			        }, {
-			            key: "hb_pb",
-			            val: function(bidResponse) {
-			                return bidResponse.pbHg;
-			            }
-			        }, {
-			            key: "hb_size",
-			            val: function(bidResponse) {
-			                return bidResponse.size;
-			            }
-			        }]
-			    }
-        	};
-
-        	pbjs.requestBids({
-            	bidsBackHandler: sendAdserverRequest
-        	});
-    });
-
-    function sendAdserverRequest() {
-        if (pbjs.adserverRequestSent) return;
-        pbjs.adserverRequestSent = true;
-
-        googletag.cmd.push(function() {
-            pbjs.que.push(function() {
-
-               pbjs.setTargetingForGPTAsync();
-               pbjs.setPriceGranularity('medium');
-
-               /*console.log('Are all bids available? : ' + pbjs.allBidsAvailable());
-               console.log(pbjs.getAdserverTargeting());
-               console.log('Dumping all bid objects to console:');
-               console.log(pbjs.getBidResponses());*/
-
-               googletag.pubads().refresh();
-
-            });
-        });
-    }
-
-    setTimeout(sendAdserverRequest, pb_timeout);
-
-    adWorx_loadScript('//www.googletagservices.com/tag/js/gpt.js', true, true);
-
-    googletag.cmd.push(function () {
-    var map_top = googletag.sizeMapping().
-        addSize([1024, 200], [[970, 90], [728, 90], [970, 250]]). 
-        addSize([768, 200], [728, 90]).
-	addSize([0, 0], []).
-        build(),
-    map_mid = googletag.sizeMapping().
-        addSize([1204, 200], [728, 90]). 
-        addSize([768, 200], [300, 250]).
-        build(),
-    map_bottom = googletag.sizeMapping().
-        addSize([1204, 200], [728, 90]).
-        addSize([667, 200], [[336, 280], [300, 250]]).
-        build(),
-    map_side = googletag.sizeMapping().
-        addSize([1024, 200], [300, 600]).
-        build(),
-    map_rec = googletag.sizeMapping().
-        addSize([667, 200], [[336, 280], [300, 250]]).
-        build();
-    googletag.defineSlot('/'+uid+'/BB_Leaderboard_Top', [[970, 90], [728, 90], [970, 250]], 'div-gpt-ad-1471681040999-3').
-        defineSizeMapping(map_top).
-        addService(googletag.pubads());
-    googletag.defineSlot('/'+uid+'/BB_Leaderboard_Middle', [[320, 50], [320, 100]], 'div-gpt-ad-1471681040999-2').
-        defineSizeMapping(map_mid).
-        addService(googletag.pubads());	
-    googletag.defineSlot('/'+uid+'/BB_Leaderboard_Bottom', [300, 250], 'div-gpt-ad-1471681040999-1').
-        defineSizeMapping(map_bottom).
-        addService(googletag.pubads());
-    googletag.defineSlot('/'+uid+'/BB_BelowPost', [300, 250], 'div-gpt-ad-1471681040999-0').
-        defineSizeMapping(map_rec).
-        addService(googletag.pubads());	
-    googletag.defineSlot('/'+uid+'/BB_Sidebar_ATF', [300, 250], 'div-gpt-ad-1471681040999-4').
-        defineSizeMapping(map_side).
-        addService(googletag.pubads());
-    googletag.defineSlot('/'+uid+'/BB_Sidebar_BTF', [300, 250], 'div-gpt-ad-1471681040999-5').addService(googletag.pubads());
-    googletag.pubads().setTargeting("isCPXi", "false");
-    googletag.pubads().setTargeting("isCriteo", "false");
-    googletag.pubads().setTargeting("isKomoona", "false");
-    googletag.pubads().setTargeting("isMediaNet", "false");
-    googletag.pubads().setTargeting("isPulsePoint", "false");
-    googletag.pubads().setTargeting("postID", "101");
-    googletag.pubads().enableSingleRequest();
-    googletag.pubads().enableAsyncRendering();
-    googletag.enableServices();
-    });
-</script>
 <title>Privacy Policy – BoredBug</title>
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="BoredBug » Feed" href="http://boredbug.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="BoredBug » Comments Feed" href="http://boredbug.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="BoredBug » Privacy Policy Comments Feed" href="http://boredbug.com/privacy-policy/feed/">
-<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/boredbug.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://boredbug.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/boredbug.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://boredbug.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
 <link rel="stylesheet" id="font-awesome-css" href="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/themes/twentyfifteen/css/font-awesome.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="semplicemente-googlefonts-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700&amp;ver=1724bd7733074681a970ea7b1d69f06d" type="text/css" media="all">
-<link rel="stylesheet" id="sccss_style-css" href="http://boredbug.com?sccss=1&amp;ver=1724bd7733074681a970ea7b1d69f06d" type="text/css" media="all">
+<link rel="stylesheet" id="semplicemente-googlefonts-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700&amp;ver=12a744975e375c09108d5cee11773c2c" type="text/css" media="all">
+<link rel="stylesheet" id="sccss_style-css" href="http://boredbug.com?sccss=1&amp;ver=12a744975e375c09108d5cee11773c2c" type="text/css" media="all">
 <script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-includes/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <!--[if lt IE 9]>
@@ -341,16 +46,29 @@
 </script>
  
  
-<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js?2d0d7e"></script>
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+ 
+ 
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '940641802638841'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=940641802638841&ev=PageView&noscript=1"/></noscript>
+ 
  
 </head>
-<body class="page page-id-101 page-template-default group-blog">
+<body class="page-template-default page page-id-101 group-blog">
 <header id="masthead" class="site-header" role="banner">
 <div class="site-branding">
 <p class="site-title"><a href="http://boredbug.com/" rel="home"><img src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/uploads/2016/04/ladybug_static.gif"></a></p>
 <p class="site-description">cure your boredom!</p>
 <div class="top-header-ad">
-<div data-id="86749" id="advads-77350208"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?2d0d7e"></script>
+<div data-id="86749" id="advads-834757800"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
  
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6338917013334997" data-ad-slot="3392645264" data-ad-format="auto"></ins>
 <script>
@@ -436,13 +154,13 @@
 <div id="content" class="site-content">
 <div class="top-header-native">
 <center> 
-<div id="div-gpt-ad-1471681040999-3">
 <div class="add-info">ADVERTISEMENT</div>
+<div data-id="86754" id="advads-1959186729"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6338917013334997" data-ad-slot="3253044467"></ins>
 <script>
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1471681040999-3'); });
-		</script>
-</div></center>
-</div>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div> </center></div>
 <div id="primary" class="content-area">
 <main id="main" class="site-main" role="main">
 <article id="post-101" class="post-101 page type-page status-publish hentry">
@@ -490,13 +208,21 @@
 </main> 
 </div> 
 <div id="secondary" class="widget-area" role="complementary">
-<aside id="text-46" class="widget widget_text"> <div class="textwidget"><center> 
-<div id="div-gpt-ad-1471681040999-4">
+<div id="widget_code_php_in_widget-2" class="widget code_php_in_widget" data-version="1.4">
+<h3 class="widget-title widget_title">
+<span></span>
+</h3>
+<div>
+<div class="execphpwidget"><div class="add-info">ADVERTISEMENT</div>
+<div class="sidebar-300-top">
+<div data-id="86835" id="advads-601725729"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-6338917013334997" data-ad-slot="7875047261"></ins>
 <script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1471681040999-4'); });
-</script>
-</div></center></div>
-</aside><aside class="widget advads-widget"><div data-id="85553" id="advads-64381032"><div id="contentad130937"><script type="text/javascript" async="" src="https://api.content.ad/Scripts/widget2.aspx?id=37f57f2d-a67e-4b83-ab19-43ca6cca316a&amp;d=Ym9yZWRidWcuY29t&amp;wid=130937&amp;cb=1580396072896"></script></div>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+<div class="sidebar-native">
+<div data-id="85553" id="advads-1079608742"><div id="contentad130937"><script type="text/javascript" async="" src="https://api.content.ad/Scripts/widget2.aspx?id=37f57f2d-a67e-4b83-ab19-43ca6cca316a&amp;d=Ym9yZWRidWcuY29t&amp;wid=130937&amp;cb=1580396071150"></script></div>
 <script type="text/javascript">
     (function(d) {
         var params =
@@ -514,17 +240,22 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1471681040999-4');
         s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
         d.getElementById("contentad130937").appendChild(s);
     })(document);
-</script></div></aside><aside id="text-47" class="widget widget_text"> <div class="textwidget"><center> 
-<div id="div-gpt-ad-1471681040999-5">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1471681040999-5'); });
-</script>
-</div></center></div>
-</aside></div> 
+</script></div></div>
+<div class="add-info">ADVERTISEMENT</div>
+<div class="sidebar-300-bottom">
+<div data-id="87055" id="advads-656262079"><script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+Criteo.DisplayAd({
+    "zoneid": 415226,
+    "async": false});
+</script></div> </div>
+</div></div>
+</div>
+</div> </div> 
 </div> 
 <footer id="colophon" class="site-footer" role="contentinfo">
 <div class="site-info">
-<p class="footer-copy">Copyright © 2016 <a href="http://boredbug.com/">BoredBug</a> </p>
+<p class="footer-copy">Copyright © 2017 <a href="http://boredbug.com/">BoredBug</a> </p>
 <nav class="footer-navigation">
 <ul id="menu-footer-menu" class="nav footer-nav cf"><li id="menu-item-85769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85769"><a href="http://boredbug.com/us/">About Us</a></li>
 <li id="menu-item-85771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85771"><a href="http://boredbug.com/contact/">Contact</a></li>
@@ -535,7 +266,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1471681040999-5');
 </ul> </nav>
 </div> 
 </footer> 
-</div> 
+ 
 <script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/themes/twentyfifteen/js/jquery.semplicemente.js"></script>
 <script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/themes/twentyfifteen/js/navigation.js"></script>
 <script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-includes/js/comment-reply.min.js"></script>
@@ -559,7 +290,7 @@ qacct:"p-uRGvAB9Yw2LDG"
 </script>
 <noscript>
 <div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-uRGvAB9Yw2LDG.gif?2d0d7e" border="0" height="1" width="1" alt="Quantcast"/>
+<img src="//pixel.quantserve.com/pixel/p-uRGvAB9Yw2LDG.gif" border="0" height="1" width="1" alt="Quantcast"/>
 </div>
 </noscript>
  
@@ -587,17 +318,17 @@ qacct:"p-uRGvAB9Yw2LDG"
         if (width <= 480) {    
 
             //rewrite subid for mobile devices here
-           var Subid = "BB1-"+Source+"-"+Medium+"-"+Content+"-"+Campaign+"-"+Term;
+           var Subid = "BB7-"+Source+"-"+Medium+"-"+Content+"-"+Campaign+"-"+Term;
             
         } else if (width > 480 && width < 1024) {
 
             //rewrite subid for mobile devices here
-           var Subid = "BB2-"+Source+"-"+Medium+"-"+Content+"-"+Campaign+"-"+Term;
+           var Subid = "BB8-"+Source+"-"+Medium+"-"+Content+"-"+Campaign+"-"+Term;
           
         } else {
 
             //default subid for desktop
-            var Subid = "BB3-"+Source+"-"+Medium+"-"+Content+"-"+Campaign+"-"+Term;
+            var Subid = "BB9-"+Source+"-"+Medium+"-"+Content+"-"+Campaign+"-"+Term;
 
         }
 
@@ -610,12 +341,9 @@ qacct:"p-uRGvAB9Yw2LDG"
         document.getElementsByTagName('body')[0].appendChild(script);
     }
     catch (e) {}
-</script><script type="text/javascript" src="http://interyield.td573.com/InterYield/bindevent.do?e=click&amp;affiliate=Dojo2045&amp;subid=BB3-null-null-null-null-null&amp;ecpm=0&amp;pv=2&amp;debug=false&amp;snoozeMinutes=1&amp;adCountIntervalHours=24&amp;maxAdCountsPerInterval=2&amp;pop=under&amp;attributionDisabled=true&amp;endpoint=http%3A%2F%2Finteryield.td573.com"></script>
+</script><script type="text/javascript" src="http://interyield.td573.com/InterYield/bindevent.do?e=click&amp;affiliate=Dojo2045&amp;subid=BB9-null-null-null-null-null&amp;ecpm=0&amp;pv=2&amp;debug=false&amp;snoozeMinutes=1&amp;adCountIntervalHours=24&amp;maxAdCountsPerInterval=2&amp;pop=under&amp;attributionDisabled=true&amp;endpoint=http%3A%2F%2Finteryield.td573.com"></script>
  
-<script data-cfasync="false" language="javascript" async="" src="//udmserve.net/udm/img.fetch?sid=9200;tid=1;ev=1;dt=6;"></script>
- 
- 
-<div id="contentad127603"><script type="text/javascript" async="" src="https://api.content.ad/Scripts/widget2.aspx?id=8623eee5-97ef-49a8-a56f-6ec98e313f51&amp;d=Ym9yZWRidWcuY29t&amp;wid=127603&amp;exitPop=true&amp;cb=1580396072903"></script></div>
+<div id="contentad127603"><script type="text/javascript" async="" src="https://api.content.ad/Scripts/widget2.aspx?id=8623eee5-97ef-49a8-a56f-6ec98e313f51&amp;d=Ym9yZWRidWcuY29t&amp;wid=127603&amp;exitPop=true&amp;cb=1580396071175"></script></div>
 <script type="text/javascript">
     (function(d) {
         var params =
@@ -638,4 +366,4 @@ qacct:"p-uRGvAB9Yw2LDG"
  
 
 
- </body></html>
+</body></html>
