@@ -1,93 +1,121 @@
-> *The following text is extracted and transformed from the shagle.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429104704id_/https%3A//shagle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shagle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180339id_/http%3A//www.shagle.com/privacy) for the most accurate reproduction.*
 
 # Shagle Privacy Policy
 
-**PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY AND THE TERMS OF USE AGREEMENT ON THIS WEBSITE. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. YOU SHOULD CHECK THIS POLICY REGULARLY TO SEE IF ANY CHANGES HAVE BEEN MADE.**
+### Acceptance of this Privacy Statement
 
-This Privacy Policy is effective as of: 05/01/2014.
+Welcome to Shagle.com, (hereinafter referred to as " **Shagle** ", " **Company** ", " **we** " or " **us** "). The following Privacy Statement, together with any documents we expressly incorporate by reference (collectively,) this " **Privacy Statement** ", govern your use of Shagle.com, (the " **Website** " " **Site** "or " **Service** ").
 
-Your privacy is important, so Shagle has created the following Privacy Policy to let you know what information we collect when you visit our website, www.shagle.com ("Site"), why we collect it and how it is used. This Privacy Policy explains the data collection and use practices of the Site; it does not apply to other online sites, products or services. The terms "you," "your," "yours," and "user" refer to the user or visitor using, accessing, or viewing our Site. The terms "Shagle," "we," "us," and "our" refer to Shagle
+By visiting the Site, you signify your acceptance to the terms of the Site’s Privacy Statement. If you do not agree with the terms of this Privacy Statement, please do not use this Site.
 
-By using the Site, you consent to the data collection and use practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
+We know that protecting your privacy is very important to you.
 
-1\. Personally Identifiable Information
+At Shagle, we respect your privacy rights. This privacy policy is offered to our users to help them understand what information we collect and how we use it when you use our Service.
 
-"Personally Identifiable Information" means any information that may be used to identify an individual, such as, without limitation, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home. This Site may contain features that require registration. If registration is required to use this Site or portions of this Site, Shagle may collect Personally Identifiable Information from you when you register such as the following: first and last name, address (including zip code), email address, telephone number, authentication data, age, company, country, and such other information. Shagle also automatically receives and records information on our server logs from your browser, including your internet protocol (IP) address, cookie information and the page you request. We may collect and store Personally Identifiable Information when you register to use our Site, ask a question, complete a form, access certain areas of our site, or send us an email. You can choose not to provide us with certain information, but then you might not be able to take advantage of many of our features and we may not be able to provide you with certain services.
+### What information do we collect?
 
-We may use your Personally Identifiable Information to complete transactions, respond to your requests, answer your questions, and notify you of promotions, updates, or special offers that we think may interest you. In addition, Personally Identifiable Information is used to optimize the operation of the Site, enhance our promotional and marketing activities, improve our products and services, to share with third parties as described in this Privacy Policy, trouble shoot, perform administrative tasks, handle disputes, enforce our agreements, comply with laws and regulations, cooperate with law enforcement activities, and other purposes that are necessary for us to provide services you requested from us. If you use our Site or a link to our Site to send information about a product or service to another person, we may collect and store your Personally Identifiable Information, and the Personally Identifiable Information of any recipient. We may use the recipient’s Personally Identifiable Information to allow him or her to view or access the information you requested we provide.
+All users may be asked at some point to provide personally identifiable information (name, phone number, e-mail address, etc.) in order to access certain features, now existing or created in the future.
 
-For Personally Identifiable Information provided if and when applying for a job with us, we will use that information only to contact you regarding job opportunities that may be of interest. This information may also be used to contact you about announcements, administration, requests or inquires, your account, changes to our Site or policies, promotional offerings and other marketing activities, and requesting feedback through surveys and questionnaires.
+In addition, demographic, statistical or aggregate data may be gathered for our business use, none of which contains any identifiable information about any individual or user.
 
-We may from time to time send you promotional emails relating to our product, promotional, and services offerings. You are given the opportunity to opt-out of receiving promotional e-mails by simply following the "unsubscribe" instructions that appear in every email from us.
+### Information you provide to us.
 
-2\. Non-Personally Identifiable Information
+  * Information that you provide at the time of registering to use certain features of our service.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Details of transactions you carry out through our Service. You may be required to provide financial information before placing an order through our Service.
 
-We, or our third party service providers, collect and store certain other information automatically whenever you interact with the Site. For example, we collect your internet protocol (IP) address, URL, browser information and reference site domain name every time you visit the Site. We also collect information regarding customer traffic patterns, site usage, hits to our server, Site, page views, date and time of your query, and navigational patterns. The information that is collected in this manner does not provide us with any Personally Identifiable Information about users. This non-personally identifiable information assists us in tracking the location of our users, helps determine high traffic areas and facilitates analysis of the most effective ways to communicate with our users. As part of that ongoing analysis, we may also use devices called "web beacons" to help us identify when emails sent to you have been received and read.
 
-Like many web sites, we also use standard technologies such as "cookies," which are files placed on your computer’s hard drive by the sites you visit, including without limitation, local shared objects (also known as " flash cookies"). Cookies are small text files stored by your browser in your computer when you visit our Site. Websites use temporary cookies called "session" cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. Websites also use cookies called "persistent" cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. We may install both persistent and session cookies when you visit our Site. We use cookies to improve our Site and make it easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same information. Most browsers will accept cookies until you change your browser settings to refuse them. If you block or refuse to accept cookies, or delete cookies after visiting our Site, you may not be able to access or use certain features or functions of our Site.
 
-We may use any combination of your IP address, cookies, and other information to identify you or your computer when you visit this Site and to allow us to, in our sole discretion, immediately and without notice, block, suspend, or terminate you, temporarily or permanently, from viewing, accessing, or using this Site, or its Content and Services (a) if you have violated or breached our Terms of Use found at <https://shagle.com/terms/>; (b) if you have violated, infringed or misappropriated Shagle’s or any third party’s intellectual property, proprietary, privacy, contract rights, or other rights; or (c) for any other reason or no reason. You agree that Shagle shall not be liable to you or any third party for any such blocking, suspension, or termination. In the event of such violation, we reserve all of our rights and remedies under this Privacy Policy and Terms of Use, at law, and in equity.
+Any user of our Services may make use of interactive messaging and comment features to post through the Service. Any information to be published or displayed on public areas of the Service, or transmitted to other users of the Service or third parties falls within the category of "User Generated Contribution." User Generated Contribution are posted on and transmitted to others at your own risk according to the Acceptable Use Policy found in our Terms and Conditions.
 
-The non-personally identifiable information we collect is also used to analyze and improve the Site and to help us provide our customers with a fulfilling and pleasant online experience. We may also use the non-personally identifiable information for trouble shooting, performing administrative tasks, managing the Site, complying with laws and regulations, and to cooperate with law enforcement activities. We also may use this information in the aggregate to analyze Site usage and to gather broad demographic information.
+Be aware, we cannot control the actions of other users of the Service with whom you may choose to share your User Generated Contribution. Therefore, we cannot and do not guarantee that your User Generated Contribution will not be viewed by unauthorized persons, or used in violation of our Terms of Service. Some users are able to cache or record User Generated Contributionin violation of our Terms of Service, and in some instances re-distribute it, or make use of it in manners which not licensed by you. If you become aware of such use, contact third parties and appropriate authorities to make them aware the use was not authorized.
 
-3\. Is The Information Shared, Stored or Disclosed?
+#### Information collected by automatic data collection technologies.
 
-Shagle does not rent or sell the Personally Identifiable Information it collects about you to or with third parties.  Since there is no expectation of privacy Shagle may disclose Personally Identifiable Information if required to do so by law or in the belief that such action is necessary to: (a) comply with law or legal process, court order or a subpoena served on Shagle or the Site to cooperate with law enforcement authorities; (b) to work with law enforcement to investigate, prevent or take action regarding suspected or actual illegal activity or fraud on the Site; (c) protect and defend the rights, property or safety of us or Service Providers (defined below), licensees, business partners, agents, customers, users, or others; or (d) act in situations involving actual or potential threats to the physical safety of any person, violations of our agreements, abuse of this Site, security breaches of this Site, or as necessary to protect our systems, business, users or others. We may disclose the information obtained from you through the Site, including Personally Identifiable Information, to a successor entity as part of a merger, acquisition, or other sale of our assets or business or should we file for bankruptcy.
+As you navigate through and interact with our Services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
-In addition, we may disclose aggregated information to advertisers. In these situations, we do not disclose to these entities any information that could be used to personally identify you. We may disclose volume or usage statistical information as a representative audience to advertisers.
+  * Details of your visits to our Service, including traffic data, location data, logs and other communication data and the resources that you access and use on the Service.
+  * Information about your computer or device and Internet connection, including your IP address, operating system and browser type.
 
-We may contract with third-party providers, business partners or persons to provide certain products and services, including without limitation, operating, administering, maintaining or hosting the Site, payment processing, and authorization, distribution, data management, marketing and promotional support, trouble shooting, customer support, goods and services, or companies that offer affinity, frequent-user, and reward programs, etc., ("Service Providers"). We provide the Service Providers with the information needed for them to perform these services with the requirement that they use the information only in connection with their performance of these services for us. Our Service Providers may enlist third parties to perform services related to the operation of our business. Examples of these services include payment processing and authorization, order fulfillment and shipping, and Site hosting, marketing or evaluation. Our Service Providers may provide Personally Identifiable Information to these third parties, but we authorize them to use this information only in connection with the services the Service Providers perform for us. We disclaim all responsibility or liability for, and you hereby agree to hold us harmless from, the actions of such Service Providers. The use of your Personally Identifiable Information is subject to the privacy practices of such Service Providers, and their third parties, and the actions of such Service Providers, and their third parties, are outside of our control.
 
-Webcam images may be captured from Shagle video chats, uploaded to Shagle's servers, and monitored for misbehavior. Captured images may also be stored and used to improve Shagle’s monitoring process.  Monitoring is not perfect, and you may still encounter users in video chat that are violating our terms of service, you are using the service at your own risk.
 
-The records Shagle keeps about your chats may be shared with third parties for the purpose of law enforcement; to monitor and enforce compliance with Shagle's terms of service; or to improve Shagle's monitoring and enforcement processes.
+The information we collect automatically is statistical data. It helps us to improve our Services and to deliver a better and more personalized experience, by enabling us to:
 
-Shagle uses Google Analytics to track non-personally-identifying statistical information about site usage. Google provides a [browser add-on to opt out of Google Analytics](http://tools.google.com/dlpage/gaoptout?hl=en).
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Service according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Service.
 
-4\. How You Can Access or Change Your Information
 
-If we offer an account registration process and you have signed up for an account with us on the Site, you can access or change your Personally Identifiable Information by logging into your account and editing your profile. You are responsible for maintaining the secrecy of your password and account information at all times.
 
-If you do not have an account with us accessible on the Site, you can access or change your Personally Identifiable Information that we collect online and maintain by emailing us at info at Shagle dot com
+The technologies we use for this automatic data collection may include:
 
-We may retain original and updated information for reasons such as technical constraints, dispute resolution, troubleshooting, record retention, and enforcement of our agreements. For security purposes, we may request information to help verify your identity before granting access or making changes to your information.
+  1. **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Service. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Service.
+  2. **Flash Cookies.** Certain features of our Service may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Service. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+  3. **Web Beacons.** Portions of our Service may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit Company, for example, to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-5\. Notice of Privacy Rights of California Residents
 
-California Civil Code Section 1798.83 ("Code") permits users of our Site who are California residents from whom we have received Personally Identifiable Information to request from us certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes.
 
-As required by the Code, at your request we will provide you with the categories of Personally Identifiable Information that we collect through the Site and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes. California law requires us to inform you, at your request, of (a) the categories of Personally Identifiable Information we collect and the third parties with whom we share that information; (b) the names and addresses of those third parties; and (c) examples of the products marketed by those third parties. To make such a request, please send an e-mail to info at Shagle dot com or write us at: 244 5th Ave. #1835, New York, NY 10001, United States.
+#### How We Use Your Information
 
-The Code allows you to control the parties with whom we share Personally Identifiable Information and the specific Personally Identifiable Information which you do not wish to be shared with those third parties. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with third parties for direct marketing purposes. The request should be emailed to the attention of our Legal Department, info at shagle.com and labeled "California Customer Choice Notice." Please allow 30 days for a response. Please note that there is no charge for controlling the sharing of your Personally Identifiable Information or for processing this request.
+We use information that we collect about you or that you provide to us, including any personal information:
 
-We are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through the above email address.]
+  * To present our Services to you, or have our authorized third party affiliates or independent third parties provide support or services related to provision of our Services and operation of our Site.
+  * For our independent third parties or us to provide you with information, products or services that you have expressed an interest in, related to this Service, or those of our independent third parties or affiliates.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account or subscription
+  * To inform you of obligations, rights or responsibilities arising from any transactions you have entered into for purposes of billing and disbursement.
+  * To notify you about changes to our Service.
+  * For any other purpose with your consent.
 
-6\. The Security of Your Information.
 
-To help protect the privacy of the personal information you transmit through use of the Site, we use commercially reasonable security practices that are technically feasible for us to protect the user data we collect against unauthorized access, including without limitation, physical, technical, and administrative safeguards.
 
-Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your personal information to our employees, agents, and officers who need the information to perform their responsibilities. However, please be aware that the Site and our services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control. We cannot guarantee the security of the information on and sent from our Site, and are not responsible for the acts and omissions of any third parties who receive the information. Please be aware that despite our best intentions and the guidelines outlined in this Privacy Policy, no data transmission over the internet can be guaranteed to be 100% secure.
+#### Disclosure of Your Information
 
-7\. What Happens When You Link To or From Another Site.
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-The Site may contain links to other sites operated by Service Providers, our affiliates or other third parties. We are not responsible for the privacy policies, practices or contents of such other sites. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through other sites. When you leave the Site the privacy policies and practices of that other site apply; we encourage you to be aware of those privacy policies and practices when you are on those other sites and submitting Personally Identifiable Information. You are responsible for reviewing the privacy policies and practices of each and every site that you visit.
+We may disclose personal information that we collect, or you provide as described in this privacy policy:
 
-8\. International Transfers.
+  * Only to the extent necessary to fulfill any purposes or transaction for which you provide it among our trusted third party affiliates or independent third parties.
+  * For any other purpose disclosed by us when you provide the information.
+  * OR with your consent.
 
-Personally Identifiable Information collected on the Site may be stored and processed in the United States or any other country in which Shagle or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
 
-You agree to comply with all local laws, rules and regulations regarding online conduct and acceptable content. Without limiting the generality of the foregoing, you agree to comply with all applicable laws, rules and regulations regarding the transmission of data exported from the United States or the country in which you reside.
 
-9\. Children.
+In rare circumstances we may be required to disclose your personal information:
 
-This Site is directed to persons 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction). This Site and Shagle do not knowingly collect Personal Information from persons under age 18 (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction) or children under age 13. Any person who provides their information to Shagle through the Site or any other part of the Site represents to Shagle that they are 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for your jurisdiction). If you are under the age of 18 (or for jurisdictions in which 18 years old is not the age of majority, under the age of majority for your jurisdiction) you may not use, view, or access this Site and you must leave this Web site immediately by clicking [here](https://www.yahoo.com/). If you are under age 13, you are not permitted to use this Site or to submit any Personal Information to the Site and you must leave this Web site immediately by clicking [here](https://www.yahoo.com/).
+  * To comply with any court order, law or legal process, including responding to any government or regulatory request, including DMCA notices.
+  * To enforce or apply our Terms and Conditions or other policies.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Shagle, our customers, affiliated sites, independent third parties, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-10\. Your Consent To This Privacy Policy and Updates.
 
-By using the Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version.
 
-We may occasionally update this Privacy Policy. When we do, we will indicate the date that this Privacy Policy was last updated. Any changes we make will be effective immediately upon notice, which we may provide by one or more of the following means including, without limitation, posting a prominent notice on the Site or personal notice. We are not responsible for your failure to receive an email due to the actions of your ISP or any email filtering service. Consequently, you should add shagle.com to the list of domains approved to send you email. Your continued use of the Site after such notice will be deemed acceptance of such changes. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy. If we make changes to this Privacy Policy and you continue to use our Site, you are agreeing to this Privacy Policy and any updates. We will only use Personally Identifiable Information in accordance with the Privacy Policy that was in effect at the time the information was collected.
+#### Minors and Children
 
-11\. Contacting Shagle.
+Our Services are intended for adults, and we do not direct any of our content or the content of our independent third parties or Services at minors less than 18 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online. If we learn, or have reason to suspect, that a user is less than 18 years of age, we will promptly take any action we may deem appropriate, including without limitation conducting further inquiry/investigation and/or deleting that user's account.
 
-If you have any questions regarding this Privacy Policy, please [contact us by clicking here](https://shagle.com/contact/)
+#### Links to other websites
+
+The Site may have links to third-party websites, which may have privacy policies that differ from our own. Shagle.com is not responsible for the practices of such sites.
+
+#### Third party collection of information.
+
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. For example, when making a payment by credit card our third party billers / IPSP's (and not Shagle.com) collect your credit card information and other information necessary for processing / authorizing your credit card payments. These payment companies may also provide certain of your details to us, but this shall not include your credit card number.
+
+#### Accessing and Correcting Your Information
+
+You can review and change any personal information you have submitted by logging into your account profile page. You are required to keep all information up to date, however you may limit any information that is publicly shared.
+
+If you need assistance in doing so, please contact [Privacy@Shagle.com](mailto:Privacy@Shagle.com "Contact Us") to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+#### Security
+
+We have security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we can make no assurances regarding our ability to prevent any such loss, misuse or alteration.
+
+#### Contacting us
+
+If you have any questions about this Policy, or, our practices related to our Services, please submit your questions to [Privacy@Shagle.com](mailto:Privacy@Shagle.com "Contact Us").
+
+#### Updates and changes
+
+We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Privacy Policy from time to time to ensure that you continue to agree with all of its terms.
