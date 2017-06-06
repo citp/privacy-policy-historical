@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top13.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121145943id_/http%3A//www.top13.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top13.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154217id_/http%3A//www.top13.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top13
 
@@ -64,3 +64,7 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please [contact us](http://www.top13.net/contact/ "Contact").
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+#### Affiliate links
+
+Top13.net is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
