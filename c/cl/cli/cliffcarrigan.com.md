@@ -1,52 +1,75 @@
-> *The following text is extracted and transformed from the cliffcarrigan.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219033309id_/http%3A//cliffcarrigan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliffcarrigan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034143id_/http%3A//locustware.com/live/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CliffCarrigan.com
+# Privacy Policy – LocustWare | Video Marketing Software
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
+Please read the following Privacy Policy for this site…
 
-When accessing our Website, will learn certain information about you during your visit.
+ **Collecting Information**
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.  
-**What Are Cookies?**
+We collect information from you when you register on our site or subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your e-mail address.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.  
-**IP Addresses**
+You may, however, visit our site anonymously.
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.  
-**Email Information**
+ **Use Of Information**
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.  
-**How Do We Use the Information That You Provide to Us?**
+Any of the information we collect from you may be used in one of the following ways:
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions securely and appropriately
 
-Odessa Business Directory will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-**  
-A Special Note About Children**
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested; to administer a contest, promotion, survey or other site feature; or to send periodic emails.
 
-Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.  
-**How Do We Protect Your Information and Secure Information Transmissions?**
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, promotions, and so on.
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
+Note: If at any time you would like to unsubscribe from receiving future emails, we have included a one-click unsubscribe link at the bottom of each email.
 
-Odessa Business Directory may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+ **Protecting Your Information**
 
-For site security purposes and to ensure that this service remains available to all users, Odessa Business Directory uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
-**Policy Changes**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+ **Disclosing Information To Outside Parties**
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
-**  
-Contact**
+This does not include trusted third parties who assist in operating this website, conducting this business, or servicing you, so long as those parties agree to keep this information confidential.
 
-If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
+We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our own (or others) rights, property, or safety.
 
-P.O. box 1491
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-McCamey Tx 79752  
-clientcare@5-web.com
+ **Third Party Links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on this website. These third party sites have separate and independent privacy policies.
+
+We therefore have no responsibility or liability for the content and activities of these linked sites.
+
+Nonetheless, we seek to protect the integrity of this website and welcome any feedback about these third party sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy, we’ve taken the necessary precautions to be in compliance with the California Online Privacy Protection Act.
+
+We therefore will not distribute your personal information to outside parties without your consent.
+
+ **COPPA Compliance**
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), as we do not collect any information from anyone under 13 years of age.
+
+This website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Terms & Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of this website.
+
+ **Your Consent**
+
+By using this site, you consent to our website privacy policy.
+
+ **Changes To This Privacy Policy**
+
+If we decide to change this privacy policy, we’ll post those changes on this page.
+
+[HOME​](http://locustware.com/live/)
