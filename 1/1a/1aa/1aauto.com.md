@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1aauto.com privacy policy that was archived on 2016-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160824183612id_/http%3A//www.1aauto.com/customer_service/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1aauto.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214702id_/https%3A//www.1aauto.com/customer_service/privacy_statement) for the most accurate reproduction.*
 
 # 1A Auto | Privacy Statement
 
@@ -8,7 +8,7 @@ Effective on November 23, 2009: This privacy statement describes how 1A Auto, In
 
 ## Collection and Use of Personal Information
 
-1A Auto is the sole owner of the information collected on our site (http://www.1aauto.com) from our visitors. We will not sell, share or rent this information to others. When visitors or site members send email inquiries to 1A Auto, the return address is used to answer these emails. In addition, information such as name, address, email and other relevant information is collected upon placing an order with 1A Auto. The information collected from both of these actions is used strictly by 1A Auto to provide service and will not be used for any other purpose. 
+1A Auto is the sole owner of the information collected on our site (//www.1aauto.com) from our visitors. We will not sell, share or rent this information to others. When visitors or site members send email inquiries to 1A Auto, the return address is used to answer these emails. In addition, information such as name, address, email and other relevant information is collected upon placing an order with 1A Auto. The information collected from both of these actions is used strictly by 1A Auto to provide service and will not be used for any other purpose. 
 
 We collect the following personal information from you: 
 
@@ -54,7 +54,7 @@ Our Web pages contain electronic images known as Web beacons (sometimes called s
 
 ## Use of third party cookies
 
-Cookies are pieces of information that are placed from web sites you visited to your computer or mobile devices, and they may serve a variety of purposes. For example, cookies help 1A Auto track your browsing patterns and evaluate how the web sites are used to improve our services. Cookies also enable 1AAuto and third parties to deliver targeted advertising to you. Most browsers allow you to turn off cookies. To do this look at the help menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.
+Cookies are pieces of information that are placed from web sites you visited to your computer or mobile devices, and they may serve a variety of purposes. For example, cookies help 1A Auto track your browsing patterns and evaluate how the web sites are used to improve our services. Cookies also enable 1AAuto and third parties to deliver targeted advertising to you. Most browsers allow you to turn off cookies. To do this look at the help menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates. 
 
 ## Links to Other Websites
 
@@ -66,7 +66,7 @@ To review and update your personal information to ensure it is accurate, contact
 
 ## Notification of Privacy Statement Changes
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Contact Information You can contact us about this privacy statement by writing or email us at the address below: 1A Auto, Inc. 8 Chapel Pl Pepperell, MA, United States 01463 Email: [marketing@1aauto.com](mailto:marketing@1aauto.com) Phone: 978-433-4100. 
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Contact Information You can contact us about this privacy statement by writing or email us at the address below: 1A Auto, Inc. 10 Technology Park Drive, Suite 101, Westford, MA, United States 01886 Email: [marketing@1aauto.com](mailto:marketing@1aauto.com) Phone: 978-433-4100. 
 
 ## Log Files
 
