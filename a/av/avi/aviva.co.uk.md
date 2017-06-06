@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123135131id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183946id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - Aviva
 
-This Privacy Policy applies to this website and to our online platform MyAviva (collectively the “Websites”).
+This Privacy Policy applies to this website, our online platform MyAviva and our mobile applications (collectively the “Websites”).
 
 Aviva
     
@@ -44,6 +44,14 @@ We use information from public sources such as the electoral roll and the Britis
 We will always be transparent with you about how we use this information including providing further information in our fair processing notices and obtaining your consent where necessary.
 
 Please note that if you choose to populate a registration form on a Website with details that originate from a social media provider such as Facebook, or from another related Aviva website, such as the Aviva Community Fund, we cannot control or verify the information supplied, nor accept liability for any information supplied which may be false, misleading, corrupted, tampered with or inaccurate.
+
+**Online channels**
+
+We may use information from online sources, such as websites, social media and information sharing platforms. This information may be used to help tailor and improve our services and communicate with you effectively, as we know many of our customers use a range of media channels to communicate and share information. 
+
+Where we use information from these sources, we will respect any permissions you have set about how you would like your information to be used. 
+
+We recommend you routinely review the privacy notices and preference settings that are available to you on any social media platforms, so these can be followed, as well as your preferences within the Profile section of MyAviva. 
 
 **Information we collect through Cookies and similar technologies**
 
@@ -88,7 +96,7 @@ Your information may be disclosed when we believe in good faith that the disclos
 
 
 
-We may disclose your information to third party suppliers or service providers to conduct our business, for example, to help us manage and store data, provide data analytics, etc. 
+We may disclose your information to third party suppliers or service providers to conduct our business, for example, to help us manage and store data, provide data analytics, etc. This may include any online partners we work with, so we, or our online partners on our behalf, can communicate with you through their platforms.
 
 In addition, unless you opt out of receiving direct marketing, we may share your information with third parties who help us conduct market research and run our marketing campaigns.
 
@@ -120,7 +128,7 @@ Managing your marketing preferences
 
 We may:
 
-  * provide you with updates and offers for Aviva’s products and services via marketing tailored to you, whether on MyAviva, or by direct marketing (e.g. phone, e-mail, text, social networking channels, post); and
+  * provide you with updates and offers for Aviva’s products and services via marketing tailored to you, whether on MyAviva, through online digital services (e.g. online advertising, social media communications), or by direct marketing (e.g. phone, e-mail, text, post); and 
   * use information we hold about you from across the Aviva Group to help us identify, tailor and package our products and services, determine pricing and offer discounts that may be of interest to you.
 
 
@@ -129,7 +137,7 @@ We want you to have control over how we use your information to make offers and 
 
   * We will always give you the opportunity to ‘opt out’ of direct marketing when you complete a registration with us, request an online quote, purchase a product or service online or receive any email, text or other direct marketing communication.
   * You can change your marketing preferences to 'opt out' at any other time by contacting us
-  * If you are logged in to MyAviva, we would like to provide you with customised quotes and offers. If you would rather not see these offers, you can change your preference at any time within the Profile section of MyAviva. If you choose to opt out of this type of tailored marketing, you will still see general marketing offers on MyAviva but will not see any offers that use your personal information.
+  * If you are logged in to MyAviva, we would like to provide you with customised quotes and offers. If you would rather not see these offers, you can change your preference at any time within the Profile section of [MyAviva](http://portcullis.aviva.co.uk/portcullis/ukdi-mypolicy/?source=ZVC4). If you choose to opt out of this type of tailored marketing, you will still see general marketing offers on MyAviva but will not see any offers that use your personal information.
   * We will not use sensitive personal details (such as information relating to your health record or any criminal issues) in order to provide you with marketing, discounts or pricing unless you have given your explicit consent to allow us to use this information for these purposes.
 
 
@@ -161,7 +169,7 @@ Surrey Street
 Norwich   
 NR1 3NG 
 
-You can also choose whether you wish to see tailored offers within MyAviva by changing your preferences within your Profile on [MyAviva](https://web.archive.org/myaviva/)
+You can also choose whether you wish to see tailored offers within MyAviva by changing your preferences within your Profile on [MyAviva](https://web.archive.org/myaviva/). You also have choices when it comes to online advertising - see our [Cookie Policy](https://web.archive.org/legal/aviva-cookie-policy.html) which explains how you can control cookies and online advertising preferences. 
 
 Data subject access request
     
