@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the constellation.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222210404id_/http%3A//www.constellation.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constellation.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211054id_/http%3A//www.constellation.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Constellation
 
 Exelon Corporation, its major affiliates Baltimore Gas and Electric Company (BGE), Commonwealth Edison Company (ComEd), Constellation NewEnergy, Inc, Exelon Generation Company, LLC, PECO Energy Company (PECO) and their respective subsidiaries (hereinafter referred to collectively as "us," “we,” or “our”), are strongly committed to protecting the privacy of you, its customers and the users of this website. In light of this commitment, we adhere to the practices provided below. You should note that Exelon companies may use other electronic media for communications (such as social media) which may have their own separate privacy policies that govern the privacy of information that is shared or collected through your use of them.
 
