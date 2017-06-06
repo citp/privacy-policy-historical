@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waterliberty.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506204837id_/http%3A//www.waterliberty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterliberty.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606220431id_/http%3A//www.waterliberty.com/privacy-policy) for the most accurate reproduction.*
 
-# Water Liberty Research Center - Privacy Policy
+# Privacy Policy - Water Liberty | Love Your Water
 
 ## **Privacy Policy**
 
