@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221014902id_/http%3A//ameinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142207id_/http%3A//ameinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AMEInfoAMEInfo
+# Privacy Policy – AMEInfo – Online Business News Magazine
 
-This Privacy Policy sets out the policy of Mediaquest FZ LLC of PO Box 72184, Zee Tower, Office 206, Dubai Media City, United Arab Emirates (“AMEinfo.com”), who controls this website (www.ameinfo.com) (“the Website”). The terms of this Privacy Policy apply in addition to the Terms of Use for the Website and any other additional terms that may be provided in connection with any particular service offered on the Website.
+This Privacy Policy sets out the policy of Mediaquest FZ LLC of PO Box 72184, Zee Tower, Office 206, Dubai Media City, United Arab Emirates (“AMEinfo.com”), who controls this website (www.orig.orig.ameinfo.com) (“the Website”). The terms of this Privacy Policy apply in addition to the Terms of Use for the Website and any other additional terms that may be provided in connection with any particular service offered on the Website.
 
 AMEinfo.com keeps log files that include your IP address for statistic and logging of abuse purpose only. Log files are under no circumstances shared with any third party except if required by law or court order by a competent court.
 
@@ -42,18 +42,18 @@ We have described the main cookies we use and what we use these for below:
 
 Cookie name | Purpose | More Information  
 ---|---|---  
-ame_session | Login for ameinfo.com | http://www.ameinfo.com/privacy/  
-ame_username | To remember a username | http://www.ameinfo.com/privacy/  
-ameinfo_code | To track marketing campaigns, including competitions | http://www.ameinfo.com/privacy/  
-gpoll | To moderate poll activity | http://www.ameinfo.com/privacy/  
+ame_session | Login for orig.orig.ameinfo.com | http://www.orig.orig.ameinfo.com/privacy/  
+ame_username | To remember a username | http://www.orig.orig.ameinfo.com/privacy/  
+ameinfo_code | To track marketing campaigns, including competitions | http://www.orig.orig.ameinfo.com/privacy/  
+gpoll | To moderate poll activity | http://www.orig.orig.ameinfo.com/privacy/  
   
-Additionally on Jobs.ameinfo.com:
+Additionally on Jobs.orig.orig.ameinfo.com:
 
 Cookie name | Purpose | More Information  
 ---|---|---  
-Session_Jobseeker | To remember preferences | http://www.ameinfo.com/privacy/  
-User_WebSite | To remember a username | http://www.ameinfo.com/privacy/  
-Logon_WebSite | Login for ameinfo.com | http://www.ameinfo.com/privacy/  
+Session_Jobseeker | To remember preferences | http://www.orig.orig.ameinfo.com/privacy/  
+User_WebSite | To remember a username | http://www.orig.orig.ameinfo.com/privacy/  
+Logon_WebSite | Login for orig.orig.ameinfo.com | http://www.orig.orig.ameinfo.com/privacy/  
   
 b) Third party cookies
 
@@ -63,13 +63,9 @@ Webtrends
 WT.FPC  
 ACOOKIE | WebTrends uses a cookie to track the number of unique users of this website. It basically tells us whether the website has a small number of regular visitors or a large number of infrequent visitors. The cookie only relates to what goes on in this website | http://webtrends.com/privacy-policy/  
 Google Analytics  
-_utma 
-
-_utmb  
+_utma_utmb  
 _utmc  
-_utmz
-
-| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | http://www.google.co.uk/intl/en/analytics/privacyoverview.html  
+_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | http://www.google.co.uk/intl/en/analytics/privacyoverview.html  
 google.ae  
 NID  
 PREF | A unique identifier used by Google applications to store user preference information | https://www.google.ae/intl/en/policies/  
@@ -136,7 +132,7 @@ AMEinfo.com may also disclose your information as follows:
   * to any service providers, sub-contractors and agents appointed by AMEinfo.com to perform the above functions on its behalf and in accordance with its instructions;
   * to A 4C Service (UK company no.537204) and all other affiliated companies (wherever in the world) which are part of the same group of companies to which AMEinfo.com belongs;
   * to the third party who is the originator of a White Paper that you have downloaded from AMEinfo.com’s White Papers Library (and to equivalent third parties in connection with any similar or equivalent service offered by this Website);
-  * in connection with the jobs section of this Website (www.jobs.ameinfo.com, and to which further Terms apply in connection with use of the same), to a recruiter (i) that has downloaded your CV (which you have uploaded and made available to the Website); and (ii) where you have replied to a job listing that has been advertised by such recruiter on the Website;to third parties selected by AMEinfo.com as part of aggregated and anonymised statistics about users, traffic patterns etc of the AMEinfo.com Website(s);
+  * in connection with the jobs section of this Website (www.jobs.orig.orig.ameinfo.com, and to which further Terms apply in connection with use of the same), to a recruiter (i) that has downloaded your CV (which you have uploaded and made available to the Website); and (ii) where you have replied to a job listing that has been advertised by such recruiter on the Website;to third parties selected by AMEinfo.com as part of aggregated and anonymised statistics about users, traffic patterns etc of the AMEinfo.com Website(s);
   * to such individuals and/or bodies as necessary to ensure AMEinfo.com compliance with any applicable law, regulation, legal proceeding or governmental request;
   * (where you post material that does or may constitute a criminal offence, breach the rights of a third party, give rise to a civil action or breach the Website’s Terms of Use and as otherwise necessary to protect the rights, property or safety of AMEinfo.com and its customers), to any relevant authority or third party requiring AMEinfo.com to disclose the identity of or locate anyone posting such material on an Mediaquest FZ LLC Service website; and
   * to any individual making a subject information request to AMEinfo.com.
@@ -209,7 +205,7 @@ In the future, we may sell, buy, merge, or partner with other companies or busin
 
 #### External Services
 
-External services beyond _AME Info_ ‘s control are integrated with _AME Info_ where necessary, such as [Google Analytics](http://www.google.com/analytics/) for traffic measurement and tracking. _AME Info_ makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but we cannot be held responsible for data collection and usage by such services. ****
+External services beyond _AME Info_ ‘s control are integrated with _AME Info_ where necessary, such as [Google Analytics](http://www.google.com/analytics/) for traffic measurement and tracking. _AME Info_ makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but we cannot be held responsible for data collection and usage by such services.
 
 **Will Mediaquest sell or give my personal information to third parties?**
 
@@ -241,7 +237,7 @@ T: +971 4 446 53 01 | F: +971 4 390 87 37
 
 Email: [info@mediaquestcorp.com](mailto:info@mediaquestcorp.com)
 
-**How will I know if the Privacy Policy has been updated?** __
+**How will I know if the Privacy Policy has been updated?**
 
 _AME Info_ reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of _AME Info_ following the posting of changes to this policy will mean you accept those changes.
 
