@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the northerncu.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518070428id_/https%3A//www.northerncu.com/TrueNorthStrong/OnlinePolicies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerncu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180137id_/https%3A//www.northerncu.com/true-north-strong/about-us/online-policies/privacy) for the most accurate reproduction.*
 
-# Northern Credit Union - Protecting Your Personal Information and Our Privacy Code
+# Northern Credit Union - Privacy
+
+  * [True North Strong](https://web.archive.org/true-north-strong/) /
+  * [About Us](https://web.archive.org/true-north-strong/about-us/) /
+  * [Online Policies](https://web.archive.org/true-north-strong/about-us/online-policies/) /
+  * Privacy
+
+
+
+## **PROTECTING YOUR PERSONAL INFORMATION AND OUR PRIVACY CODE**
 
 Northern Credit Union is committed to maintaining the confidentiality and security of our member's personal and private information by faithfully adhering to the Credit Union Code for the Protection of Personal Information. The code was created in co-operation with provincial and national credit union organizations and recognizes your right to control your personal information.
 
@@ -12,10 +21,10 @@ We collect only the personal information we need to know:
   * To determine what products and services are best for you;
   * To evaluate credit standing and exchange information with credit reporting agencies;
   * To detect and prevent fraud and safeguard the financial interests of you and Northern Credit Union;
-  * To meet our legal and regulatory requirements.
+  * To meet our legal and regulatory requirements. 
 
 
 
 To provide the services and products you want, we collect information from you and the product and service agreements you've made with us. To maintain the integrity of the credit reporting system we may share this information with the credit bureau and other financial institutions. With your permission we may also obtain information from the references you give us. We may share your personal information with our business partners such as our cheque printers. Under no circumstances do we ever sell your information to any other business.
 
-[Click here](https://web.archive.org/TrueNorthStrong/OnlinePolicies/Privacy/TenPrinciples/ "Ten Principles") to learn about the 10 governing principles relating to the way we respect your personal information.
+[Click here to learn about the 10 governing principles relating to the way we respect your personal information.](https://web.archive.org/true-north-strong/about-us/online-policies/privacy/ten-principles/ "Ten Principles")
