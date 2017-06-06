@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703193404id_/https%3A//www.foxcreekleather.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171320id_/https%3A//www.foxcreekleather.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 #### Terms of Use, Notices, and Revisions
 
-If you choose to visit foxcreekleather.com, your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](http://foxcreekleather.com/pages/terms_of_use), including limitations on damages, resolution of disputes, and application of the law of the commonwealth of Virginia. If you have any concern about privacy at foxcreekleather.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Terms of Use below will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+If you choose to visit foxcreekleather.com, your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://www.foxcreekleather.com/pages/terms_of_use), including limitations on damages, resolution of disputes, and application of the law of the commonwealth of Virginia. If you have any concern about privacy at foxcreekleather.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Terms of Use below will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
 #### Access to Personally Identifiable Information
 
@@ -68,9 +68,7 @@ Our third party advertising partners employ a software technology called clear g
 
 #### Security
 
-The security of your personal information is important to us. All information entered throughout the checkout process is encrypted using secure socket layer technology (SSL). Our SSL certificate is issued by [Comodo](http://www.comodo.com/). At no point in time do we transfer your information over a non encrypted connection.
-
-Additional measures we take to secure your information include protecting our server by placing it behind a hardware firewall, partnering with [ScanAlert](http://www.scanalert.com/) to proactively monitor our Web site for security flaws, and a daily audit of our server for intrusion.
+The security of your personal information is important to us. All information entered throughout the checkout process is encrypted using secure socket layer technology (SSL). Our SSL certificate is issued by [Comodo](https://www.comodo.com/). At no point in time do we transfer your information over a non encrypted connection.
 
 However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
