@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the affec.tv privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011203817id_/http%3A//affectv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affec.tv privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083512id_/http%3A//affectv.com/privacy) for the most accurate reproduction.*
 
-# Affectv | Cookies
-
-## Opt Out _Of Affectv Cookies_
+# Affectv
 
 ### What We Do
 
@@ -34,7 +32,7 @@ Affectv maintains anonymous analytical and interaction data for up to 12 months 
 
 ### Opt Out & Choices
 
-If you would still not like to have ads tailored to your interests, please [click here](https://web.archive.org/opt-out) to opt out. This will stop you receiving ads by Affectv. If you would like to opt out of other targeted ads from other providers, please go here.
+If you would still not like to have ads tailored to your interests, please [click here](https://web.archive.org/opt-out) to opt out. This will stop you receiving ads by Affectv. If you would like to opt out of other targeted ads from other providers, please go [here](http://www.youronlinechoices.com/).
 
 Alternatively, you can disable cookies in your internet browser (usually by selecting Tools-Options-Privacy).
 
