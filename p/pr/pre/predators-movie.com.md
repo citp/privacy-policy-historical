@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the predators-movie.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227154638id_/http%3A//www.foxmovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predators-movie.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034532id_/http%3A//www.foxmovies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 20th Century Fox
 
-Effective August 26, 2015
+Effective March 08, 2017
 
-## INTRODUCTION
+## INTRODUCTION: What and who this Policy covers
 
 Fox Filmed Entertainment Group (“Fox FE” or “we”), which includes Twentieth Century Fox Film Corporation, Fox Searchlight Pictures, Inc. and Twentieth Century Fox Home Entertainment LLC, wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Fox FE Services”). By using Fox FE Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at [www.21cf.com](http://www.21cf.com/). 
 
@@ -12,7 +12,7 @@ As set forth in our [Terms of Use](http://www.foxprivacy.com/us/terms.html), the
 
 This Privacy Policy applies to all users, including both those who use the Fox FE Services without being registered with or subscribing to a Fox FE Service and those who have registered with or subscribed to a Fox FE Service. This Privacy Policy applies to Fox FE’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox FE’s practices for handling non-personal information (for example, interests, demographics and services usage). 
 
-## COLLECTION OF INFORMATION 
+## COLLECTION OF INFORMATION: The sources of and methods by which we, our service providers and our advertisers collect information from and about you, including information about your interaction with the Fox FE Services
 
 Fox FE and our service providers collect the following information from and about you: 
 
@@ -24,9 +24,9 @@ Fox FE and our service providers collect the following information from and abou
 
 **Activity Information.** When you access and interact with the Fox FE Services, Company and its service providers may collect certain information about those visits. For example, in order to permit your connection to the Fox FE Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Fox FE Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data (including your precise location), or other transactional information for that device. 
 
-Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier. Fox FE’s websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer or other device so the website or app can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the Fox FE Services, such as pages you have visited, the video and other content you have viewed, search queries you have run and advertisements you have seen. 
+Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data. Fox FE’s websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer or other device so the website or app can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the Fox FE Services, such as pages you have visited, the video and other content you have viewed, search queries you have run and advertisements you have seen. 
 
-Third parties that support the Fox FE Services by serving advertisements or providing services, such as allowing you to share content (e.g. Facebook) or tracking aggregate Fox FE Services usage statistics (e.g. Google Analytics), may also use these technologies to collect similar information when you use the Fox FE Services or third-party services. Fox FE does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, including your choices with respect to them, see the section entitled “To deliver relevant advertisements,” below. 
+Third parties that support the Fox FE Services by serving advertisements or providing services, such as allowing you to share content (e.g. Facebook) or tracking aggregate Fox FE Services usage statistics (e.g. Google Analytics), may also use these technologies to collect similar information when you use the Fox FE Services or third-party services. These third parties may also use these technologies, along with activity information they collect, to recognize you across the devices you use, such as a mobile device and a laptop or other computer. Fox FE does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, including your choices with respect to them, see the section entitled “To deliver relevant advertisements,” below. 
 
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Fox FE Services. 
 
@@ -34,9 +34,9 @@ Most browsers are initially set to accept cookies, but you can change your setti
 
 **Do Not Track Signals.** At this time we do not respond to browser 'Do Not Track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted. 
 
-## USE AND DISCLOSURE
+## USE AND DISCLOSURE: How we use the information we collect from and about you, and who we might share it with and why
 
-We use the information we collect from and about you to provide the Fox FE Services and features to you, including: to measure and improve those Fox FE Services and features; to improve your experience with both online and off-line Fox FE Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries. In order to provide you with content and advertising that is more interesting and relevant to you, we may use the information from and about you to make inferences and predictions about your potential areas of interest. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties. 
+We use the information we collect from and about you to provide the Fox FE Services and features to you, including: to measure and improve those Fox FE Services and features and to develop new products and services; to improve your experience with both online and off-line Fox FE Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, other promotions, or rewards programs; to provide you with customer support and to respond to inquiries. In order to provide you with content and advertising that is more interesting and relevant to you, we may use the information from and about you to make inferences and predictions about your potential areas of interest. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties, to the extent permitted by applicable law. 
 
 We use the information we collect from and about you for these additional purposes: 
 
@@ -46,7 +46,7 @@ We use the information we collect from and about you for these additional purpos
 
 **To provide co-branded services and features.** We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on Fox FE Services or on the third party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your information will be governed by the third party’s privacy policy. 
 
-**To deliver relevant advertisements.** Fox FE and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the Fox FE Services or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info/consumer](http://www.aboutads.info/consumers). If you would like to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices) to opt-out in desktop and mobile web browsers. You may download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) to opt-out in mobile apps. To opt-out of Google Analytics specifically, go to <https://tools.google.com/dlpage/gaoptout>. 
+**To deliver relevant advertisements.** Fox FE and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the Fox FE Services (on any of your devices) or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and information the different devices you use and your activity on such devices, to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info/consumers](http://www.aboutads.info/consumers). If you would like to opt-out of such ad networks’ and services’ advertising practices on the particular device on which you are accessing this policy, go to [www.aboutads.info/choices](http://www.aboutads.info/choices) to opt-out in desktop and mobile web browsers. You may download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) to opt-out in mobile apps. To opt-out of Google Analytics specifically, go to <https://tools.google.com/dlpage/gaoptout>. 
 
 **To contact you.** Fox FE may periodically send promotional materials or notifications related to the Fox FE Services. If you want to stop receiving promotional materials, follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the Fox FE Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app. 
 
@@ -58,25 +58,25 @@ We use the information we collect from and about you for these additional purpos
 
 **To complete a merger or sale of assets.** If Fox FE sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business (including in connection with a bankruptcy or similar proceedings), Fox FE may transfer your information to the party or parties involved in the transaction as part of that transaction. 
 
-## SECURITY
+## SECURITY: How we protect your information from loss or misuse
 
 Fox FE uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information. 
 
-## USER ACCESS AND CONTROL 
+## USER ACCESS AND CONTROL: How you can access and control the information we maintain about you
 
 If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable. 
 
 You may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [californiaprivacy@foxcustomercare.com](mailto:californiaprivacy@foxcustomercare.com), with “Fox: Disclosure Opt-out” in the subject line. Please include your full name, email address, postal address and the relevant Fox FE Service in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable. 
 
-**Deletion Rights of Minors.** If you are an eligible registered user under 18, you may ask us to remove content or information that you have posted to the Fox Services by writing to [privacypolicy@foxhome.com.](mailto:privacypolicy@foxhome.com) Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user. 
+**Deletion Rights of Minors.** If you are under 18 and a registered user of the Fox FE Services, you may ask us to remove content or information that you have posted to the Company Services by writing to [privacypolicy@foxhome.com.](mailto:privacypolicy@foxhome.com) Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user. 
 
-## OTHER IMPORTANT INFORMATION 
+## OTHER IMPORTANT INFORMATION: Other things you should know about this Policy and how we handle your information
 
 **Updates to Privacy Policy.** Fox FE may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Fox FE Services. 
 
-**Location of Data.** The Fox FE Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care. 
+**Location of Data.** The Fox FE Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in the United States may be entitled to access your personal information. As a result, please read this Privacy Policy with care. 
 
-**Linked Services.** The Fox FE Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. Fox FE is not responsible for the privacy practices of unaffiliated companies, and once you leave the Fox FE Services or click an advertisement you should check the applicable privacy policy of the other service. 
+**Linked Services.** The Fox FE Services may be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. Fox FE is not responsible for the privacy practices of unaffiliated companies, and once you leave the Fox FE Services or click an advertisement you should check the applicable privacy policy of the other service. 
 
 In addition, Fox FE is not responsible for the privacy or data security practices of other organizations, such as Facebook, Tumblr, Twitter, Apple, Google, Microsoft or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including in connection with any information you disclose to other organizations through or in connection with the Fox FE Services. 
 
@@ -88,12 +88,12 @@ Remember that even after you cancel your account, copies of some information fro
 
 **Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Fox FE Services or otherwise. 
 
-## CONTACT US 
+## CONTACT US: How to contact Fox FE about this Policy
 
 If you have questions about this Privacy Policy, please contact us at: 
 
 Email: [privacypolicy@foxhome.com](mailto:privacypolicy@foxhome.com)
 
-Mail: C/O Twentieth Century Fox Home Entertainment Online  
+Mail: C/O Fox Filmed Entertainment Online  
 2816 Columbia Street  
 Torrance, CA 90503 
