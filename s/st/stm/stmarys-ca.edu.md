@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stmarys-ca.edu privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110013832id_/http%3A//www.stmarys-ca.edu/college-communications/guidelines-resources/web-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stmarys-ca.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193252id_/https%3A//www.stmarys-ca.edu/college-communications/guidelines-resources/web-privacy) for the most accurate reproduction.*
 
 # Web Privacy | Saint Mary's College
 
