@@ -1,0 +1,730 @@
+<!--The following is the downloaded HTML source of the exprealty.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606022142id_/https%3A//www.exprealty.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-spa-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7a4aacbf1e","applicationID":"6010591","transactionName":"MlBTZxRWXkpTVBVbWQsafGUlGHhWX1IiXVgRR15fClJCFmJFCERXBkw=","queueTime":0,"applicationTime":142,"ttGuid":"DF12367AAA59EB47","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg8EWFJWGwUAVVFXDgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(19),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(20),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(p){"stack"in p&&(t(12),t(11),"addEventListener"in window&&t(6),s.xhrWrappable&&t(13),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){C++,N=y.hash,this[u]=M.now()}function o(){C--,y.hash!==N&&i(0,!0);var t=M.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){x.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=M.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location;if(w[v]){var b=t(9),g=t(10),x=t(8),E=t(6),O=t(12),R=t(7),P=t(13),T=t("ee"),S=T.get("tracer");t(14);var M=t("loader");M.features.spa=!0;var N,j=w[v],C=0;T.on(u,r),T.on(p,r),T.on(d,o),T.on(h,o),T.buffer([u,d,"xhr-done","xhr-resolved"]),E.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),P.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),x.buffer(["newURL"]),b.buffer([u]),g.buffer(["propagate",p,h,"executor-err","resolve"+c]),S.buffer([u,"no-"+u]),a(P,"send-xhr"+c),a(T,"xhr-resolved"),a(T,"xhr-done"),a(R,m+c),a(R,m+"-done"),x.on("pushState-end",i),x.on("replaceState-end",i),j("hashchange",i,!0),j("load",i,!0),j("popstate",function(){i(0,C>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(12),c=t(11),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(22)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(19);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(22)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){var r=t("ee").get("mutation"),o=t(22)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],10:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(22),a=t("ee").get("promise"),c=i(a),s=t(19),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],11:[function(t,e,n){var r=t("ee").get("raf"),o=t(22)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],12:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(22)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],13:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){w.push(t),l&&(b=-b,g.data=b)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(22)(u),p=NREUM.o,h=p.XHR,l=p.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,y),y.prototype=h.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var b=1,g=document.createTextNode(b);new l(a).observe(g,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],14:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(15),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(18),l=t(17),m=window.XMLHttpRequest;a.features.xhr=!0,t(13),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],15:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],16:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(19),c=t(20),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],17:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],18:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],19:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],20:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],21:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],22:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(20),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(19),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(19),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1026.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(16),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(21)},{}]},{},["loader",2,14,5,3,4]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no">
+        <base href="//www.exprealty.com">
+
+    <title>Privacy Policy | eXp Realty -  The Agent-Owned Cloud Brokerage®</title>
+
+    <meta property="og:title" content="Privacy Policy | eXp Realty -  The Agent-Owned Cloud Brokerage®">
+    <meta property="og:site_name" content="eXp Realty -  The Agent-Owned Cloud Brokerage®">
+    <meta property="og:type" content="article">
+    <link rel="shortcut icon" href="/img/favicon.png">
+        <link rel="canonical" href="http://www.exprealty.com/privacy">
+        <meta property="og:url" content="http://www.exprealty.com/privacy">
+        <!-- scheme is http -->
+            <meta name="description" content="Privacy Policy for eXp Realty -  The Agent-Owned Cloud Brokerage®">
+        <meta property="og:description" content="Privacy Policy for eXp Realty -  The Agent-Owned Cloud Brokerage®">
+                <meta property="og:image" content="http://s-static.cinccdn.com/images/header/UP85F8CB97521D4E.png">
+        
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2932202-46', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+        <link href="//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C100%2C700%7CRoboto%20Slab%3A400%2C300%7COpen%20Sans%7COswald%7CWork%20Sans%3A400%2C600%7CNunito%3A400%2C700%7CDroid%20Serif" rel="stylesheet" type="text/css">
+    <link href="/Content/lib/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/Content/lib/icomoon.css" rel="stylesheet" type="text/css">
+
+    <link href="/bundles/8205654/css?v=xgCm-CPlyUWtz3aNDynAhxD3e-IcaAVugP6U2Cz8KDI1" rel="stylesheet">
+
+
+        <link href="//uni.cinccdn.com/versionedresource/v/8205654/Content/experience_theme.css" rel="stylesheet" type="text/css">
+
+    
+
+        <script type="text/javascript">
+            window.lh = function (x, y, z) { };
+        </script>
+    
+    <!-- Unconditional Preload Scripts -->
+    <script type="text/javascript" src="/bundles/8205654/preload?v=eJhnt8Mv-GX_2IBfi83vZTOp70PI0QHfqCs9r7vsCbI1"></script>
+
+    <script>
+        CINC.BaseImageUrlTemplate = "http://s-static.cinccdn.com/images/{0}/{1}";
+    </script>
+
+    
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2932202-46', 'auto');
+  ga('send', 'pageview');
+
+</script>    <style>.hero {
+    background-position: center !important;
+}
+
+header .header-logo img {
+    max-height: 75px;
+}
+
+.top-menu .site-logo img {
+    max-height: 75px;
+}
+
+.footer-logo img {
+    height: 75px;
+}
+
+p {
+    font-weight: 300;
+    line-height: 1.33;
+}
+
+.hero-overlay {
+    background: rgba(0,0,0, .4) !important;
+}
+
+.grid__flex:after, .grid__flex--gutter:after {
+    width:0;
+}
+
+@media (min-width: 1px) and (max-width:420px) {
+    .hero .hero-overlay .tabs .tab-list li a {
+        font-size: 18px !important;
+    }
+}</style>    
+    <style></style>
+</head>
+
+<body id="body">
+
+
+
+            <header id="header" class="header header--dark js-header">
+                <div class="grid no-bottom-margin">
+                    <div class="header-logo">
+                        <div class="">
+                                <a class="site-logo" href="/"><img src="//s-static.cinccdn.com/images/header/UPBA8780A5D49B4C.png" alt="eXp Realty -  The Agent-Owned Cloud Brokerage®"></a>
+                        </div>
+                    </div>
+                    <div class="header-navigation">
+    <div class="pull-right"><a class="menu-button is-displayed-mobile" id="open-button">MENU</a></div>
+    <div id="nav" class="nav is-collapsed-mobile cl-effect-4">
+            <ul>
+                        <li class="nav__item hidden-xs"><a href="/">Home</a></li>
+                        <li class="nav__item hidden-xs"><a href="http://www.exprealty.com/page/buy-a-home/cpc92b5a79960b48">Buy a Home</a></li>
+                        <li class="nav__item hidden-xs"><a href="http://www.exprealty.com/page/sell-a-home/cp9498ce15314142">Sell a Home</a></li>
+                        <li class="nav__item hidden-xs hidden-sm"><a href="http://www.exprealty.com/page/join-our-team/cp41ebb86c631141">Join Our Team</a></li>
+                        <li class="nav__item hidden-xs hidden-sm"><a href="/agents">Find an Agent</a></li>
+                        <li class="nav__item hidden-xs hidden-sm hidden-md"><a href="//investors.exprealty.com">Investor Relations</a></li>
+                    <li class="nav__item js-nav-more" style="display: none;">
+        <div class="ui dropdown">
+            <a class="text-header">More</a>
+            <i class="dropdown icon"></i>
+            <div class="menu header-nav transition">
+                    <div class="item" style="display: none;">
+                        <a href="/">Home</a>
+                    </div>
+                    <div class="item" style="display: none;">
+                        <a href="http://www.exprealty.com/page/buy-a-home/cpc92b5a79960b48">Buy a Home</a>
+                    </div>
+                    <div class="item" style="display: none;">
+                        <a href="http://www.exprealty.com/page/sell-a-home/cp9498ce15314142">Sell a Home</a>
+                    </div>
+                    <div class="item" style="display: none;">
+                        <a href="http://www.exprealty.com/page/join-our-team/cp41ebb86c631141">Join Our Team</a>
+                    </div>
+                    <div class="item" style="display: none;">
+                        <a href="/agents">Find an Agent</a>
+                    </div>
+                    <div class="item" style="display: none;">
+                        <a href="//investors.exprealty.com">Investor Relations</a>
+                    </div>
+            </div>
+        </div>
+    </li>
+
+            </ul>
+    </div>
+</div>
+                    <div class="header-signin">
+                            <ul class="pull-right" style="padding-left: 15px;">
+                                <li class="nav__item pull-right is-collapsed-mobile"><label><a class="modal-trigger js-promptforlogin nav-login">Sign In</a> </label></li>
+                            </ul>
+                    </div>
+                </div>
+            </header>
+
+
+<div class="menu-wrap">
+    <nav class="menu">
+            <div class="profile center">
+                <img src="img/agent.png" class="img--avatar" style="width: 80px; height: 80px;" alt="Guest"><br>
+                <div class="name"><a href="/notebook">Guest</a></div>
+            </div>
+            <br>
+            <div class="icon-list">
+                    <a href="/">Home</a>
+                    <a href="http://www.exprealty.com/page/buy-a-home/cpc92b5a79960b48">Buy a Home</a>
+                    <a href="http://www.exprealty.com/page/sell-a-home/cp9498ce15314142">Sell a Home</a>
+                    <a href="http://www.exprealty.com/page/join-our-team/cp41ebb86c631141">Join Our Team</a>
+                    <a href="/agents">Find an Agent</a>
+                    <a href="//investors.exprealty.com" target="_blank">Investor Relations</a>
+                <a href="/account/settings">My Settings</a>
+                <a class="modal-trigger js-promptforlogin">Sign In / Sign Up</a>
+            </div>
+    </nav>
+    <button class="close-button" id="close-button">Close Menu</button>
+</div>
+    <div id="st-container" class="st-container" style="">
+        <div class="content-wrap">
+
+
+            <div id="content" class="sub-page">
+    <section class="color--default">
+        <h1 style="color: #ffffff; text-align: center;">Privacy Policy</h1>
+    </section>
+    <section class="light">
+        <div class="grid">
+
+                <h2>Privacy Policy</h2>
+                <h3>Our Commitment to You</h3>
+                <p>exprealty.com is committed to making your experience satisfying and safe. Protecting the privacy of our users is a primary concern for us.</p>
+                <p>By clicking the Submit button you agree you are providing an electronic signature expressly authorizing exprealty.com to contact you at any telephone number or email address you entered, so we can assist you with your request. This authorization overrides any previous registrations on a federal or state Do Not Call registry or any internal exprealty.com privacy or solicitation preference you have previously expressed. You agree that exprealty.com may use automatic telephone dialing systems in connection with calls made to any telephone number you entered, even if the telephone number is assigned to a cellular telephone service or other service for which the called party is charged.</p>
+                <p>When you request exprealty.com's online services, the information you provide to us is used only to provide our home selling services, to deliver email notifications to you (or to people you designate as your recipients), and from time to time, to validate your identity. Although a certain limited amount of information is required for us to be able to serve you, our data collection policies otherwise allow you to choose how much information you provide to us. The information you provide will be shared ONLY with our network of independent professional home buyers and other real estate professionals and organizations that can assist you in the process of selling your home, moving, and meeting your financial and home loan needs.</p>
+                <p>By visiting exprealty.com, you accept the policies set forth in this Privacy Policy.</p>
+                <h3>The Information We Collect</h3>
+                <p>The information we collect allows us to provide you with the services we offer. We ask you to provide information about yourself and your property - such as your name, email address, street address, contact phone number and other personal information - so that our real estate professionals can assist you. Information collected online is typically defined as being either Anonymous or Personally Identifiable:</p>
+                <p><strong>Anonymous (or Technical) Information</strong> <span data-translationid="privacy1">means information that we can't identify with a specific individual. For instance, we know that thousands of people have visited this privacy policy page, but we do not necessarily know their names, where they live, or their e-mail addresses. Also, some of our pages collect technical information about your session (such as browser type, ISP, referring/exit pages, platform type, date/time stamp, number of clicks, domain name and country/state). This information may be used to analyze trends, administer our website and track usage of our website. What we collect from interactions such as this constitutes "anonymous information." Visiting the exprealty.com website will also cause a exprealty.com cookie to be issued. This cookie allows exprealty.com to gather such anonymous or technical information.</span></p>
+                <p><strong>Personally Identifiable Information</strong> <span data-translationid="privacy2">means information that tells us something specific about an individual, such as their name, email address or phone number. We need this type of information to provide the personalized services that you have requested, specifically, we need this type of information to allow one of our professional home buyers or real estate agents to contact you. We hope that, like many of our customers, you will find it beneficial to provide Personally Identifiable Information to exprealty.com so that we may provide our valuable services to you.Again, this type of information will be shared ONLY with real estate and related professionals who can assist you in a real estate transaction.</span></p>
+                <h3>Third Party Advertisers</h3>
+                <p data-translationid="privacy3">We allow outside companies to advertise on certain sections of our web site. We select product and service providers that are responsible and afford privacy protections to their customers. These third parties serve their ads from their own web sites, independently of exprealty.com. As such, they may use cookies or request personal information from you, or they may share anonymous information about your visit with third parties. Please be aware that any such third parties would be separate entities from exprealty.com, and that we would not be responsible for the practices employed by websites linked to or from our website, nor the information or content contained in such sites, and we may not be held liable in the event they violate their own or our privacy policy. exprealty.com may receive fees from third party affiliates for marketing services. In the course of serving ads to this site, a third-party advertiser may place or recognize a unique "cookie" on your browser.</p>
+                <h3>Information Distribution</h3>
+                <p data-translationid="privacy4">If you are providing us Personally Identifiable Information, it will be used within exprealty.com's system to deliver our services. exprealty.com will not share, rent or sell your information to third parties without your permission other than to exprealty.com's network of real estate professionals and organizations that will assist you in the home buying and moving process. Notwithstanding the foregoing, exprealty.com may disclose Personally Identifiable Information if we believe we are required to do so by law, regulation, subpoena, court order or other governmental authority.</p>
+                <p data-translationid="privacy5">exprealty.com offers you the ability to control the email and other communications we make to you. It is our intention to give you as much control over our relationship as possible. When you submit an application for our services, you consent to receive communications by email, phone, text message, fax, chat, and voice blast about that service from exprealty.com and its affiliates. However, exprealty.com gives you the opportunity to unsubscribe from such communications from us and our affiliates. Clear directions for doing so will appear in the email messages we send to you.</p>
+                <p data-translationid="privacy6">At times, exprealty.com may enter into co-branding arrangements with other companies, and if so, an opt-in or opt-out question may be provided to allow email contact from these companies as well. Their opt-in/out features are specific to each organization, but you should not receive email from these organizations unless you have indicated that it is acceptable. Before consenting to receive email from third parties, you should read their privacy policy and terms of use, if applicable, to make sure you are comfortable dealing with that company. exprealty.com cannot make representations or commitments on behalf of other companies. All email from exprealty.com affiliates who gain your permission to send you commercial email will include an opportunity to opt out of future communications. exprealty.com reserves the right to send a one-time registration confirmation email to its customers to inform them of service changes or issues with the Privacy Policy or Terms and Conditions of Use.</p>
+                <h3>Children's Information</h3>
+                <p>exprealty.com does not knowingly collect information from children and does not target or direct its websites to children.</p>
+                <h3>Correction of Information</h3>
+                <p>If you wish to correct or delete any information you have provided to us, you may access your account online or contact us at .</p>
+                <h3>Security Procedures</h3>
+                <p>exprealty.com operates secure data networks protected by industry standard firewall and password protection systems as well as physical protections and managerial safeguards. Our security and privacy policies and other safeguards are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers.</p>
+                <h3>Policy Change</h3>
+                <p>If we alter our privacy policy, any changes will be posted on this page of our Site so that you are informed of the information we collect about you, how we use it, and the circumstances under which we may disclose it. Please check back from time to time to ensure you are aware of our current privacy policy.</p>
+
+        </div>
+    </section>
+</div>
+
+
+
+
+                <footer class="footer">
+                    <div class="grid footer-links ">
+                        <div class="grid__col--4">
+
+                                <div class="footer-logo">
+                                    <a href=""><img src="//s-static.cinccdn.com/images/header/UPBA8780A5D49B4C.png" alt="eXp Realty -  The Agent-Owned Cloud Brokerage®"></a>
+                                </div>
+                                                            <ul class="footer-contact">
+                                </ul>
+
+
+                                                    </div>
+                            <div class="grid__col--2 js-seller-suite-hide">
+                                <h4>Site Map</h4>
+                                <ul>
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="http://www.exprealty.com/page/buy-a-home/cpc92b5a79960b48">Buy a Home</a></li>
+                                        <li><a href="http://www.exprealty.com/page/sell-a-home/cp9498ce15314142">Sell a Home</a></li>
+                                        <li><a href="http://www.exprealty.com/page/join-our-team/cp41ebb86c631141">Join Our Team</a></li>
+                                        <li><a href="/agents">Find an Agent</a></li>
+                                        <li><a href="//investors.exprealty.com" target="_blank">Investor Relations</a></li>
+                                </ul>
+                            </div>
+                        <div class="grid__col--2">
+                            <h4>Terms</h4>
+                            <ul>
+                                <li><a href="/terms">Terms of Use</a></li>
+                                <li><a href="/privacy">Privacy Policy</a></li>
+                                <li class="footer-li"><img class="footer-icon" src="//s-static.cinccdn.com/images/six/equalhousinglogo_75.jpg" alt="Fair Housing/Equal Opportunity" title="eXp Realty is an Equal Opportunity Employer and supports the Fair Housing Act"></li>
+                            </ul>
+                        </div>
+
+                            <div class="grid__col--4">
+                                <h4>Connect with Us</h4>
+                                <ul class="footer-social">
+                                        <li><a target="_blank" href="http://facebook.com/exprealty"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a target="_blank" href="http://twitter.com/exprealty"><i class="fa fa-twitter"></i></a></li>
+                                </ul>
+                            </div>
+
+                    </div>
+
+                </footer>
+            <div class="panel panel-default cinc-chat js-consumer-chat" id="chat-container" style="display:none; position: fixed; padding:0px"></div>
+        </div> 
+    </div>
+
+    <div class="modal">
+    <input class="modal-state" id="acceptterms-modal" type="checkbox">
+    <div class="modal-window non-dismissable">
+        <div class="modal-inner box">
+            <h4>Accept Terms</h4>
+            <p>To continue searching, you must agree to the <a href="/terms" target="_blank">Terms of Use</a>.</p>
+            <div class="text-center">
+                <button type="button" class="btn--default js-acceptterms-accept" style="width: 100%;">I Agree</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="modal optin-modal">
+    <input class="modal-state" id="optinimport-modal" type="checkbox">
+    <div class="modal-window">
+        <div class="modal-inner box">
+            <h3>Opt-In</h3>
+            <p>For the best experience, please provide your cell phone number and select accept below to opt-in to our <a href="terms/" target="_blank">Terms &amp; Conditions</a> and <a href="privacy/" target="_blank">Privacy Policy</a> to begin receiving text and voice communications.</p>
+            
+            <label>Please enter your cell phone</label>
+            <div class="text-center">
+                <input type="text" name="cellphone" class="form-control">
+            </div>
+            
+            <div class="text-center">
+                <button type="button" class="btn--default js-importoptin-accept" style="width: 100%;">Accept</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="modal">
+    <input class="modal-state" id="socialshare-modal" type="checkbox">
+    <div class="modal-window">
+        <div class="modal-inner box">
+            <label class="modal-close" for="socialshare-modal"></label>
+
+            <h4>Share a Link</h4>
+            <div>
+                
+<div class="grid">
+    <div class="grid__col--12">
+        <a href="#" class="js-share js-facebookproperty facebook"><i class="fa fa-facebook-square fa-3x"></i></a>
+        <a href="#" class="js-share js-tweetproperty twitter"><i class="fa fa-twitter-square fa-3x"></i></a>
+        <a href="#" class="js-share js-pinproperty pinterest"><i class="fa fa-pinterest-square fa-3x"></i></a>
+        <a href="#" class="js-share js-gplusproperty gplus"><i class="fa fa-google-plus-square fa-3x"></i></a>
+    </div>
+</div>
+
+<div class="grid">
+    <div class="grid__col--9">
+        <input class="form-control js-emailaddress" placeholder="share via email address">
+    </div>
+    <div class="grid__col--3">
+        <button class="btn--default js-share js-emailproperty">Send</button>
+    </div>   
+        
+</div>
+            </div>
+
+        </div>
+    </div>
+</div> 
+
+    
+<div class="modal">
+    <input class="modal-state" id="note-modal" type="checkbox">
+    <div class="modal-window">
+        <div class="modal-inner box">
+            <label class="modal-close" for="note-modal"></label>
+
+            <h4>Create a Note</h4>
+            <div>
+                <label>Write a quick note about this property:</label>
+                
+<textarea class="form-control js-notetext" name="notes"></textarea>
+<button class="btn--default js-savenote" data-objdid="" data-objtype="Unknown">Save Note</button>
+
+
+            </div>
+
+        </div>
+    </div>
+</div> <!--END MODAL-->
+
+
+    
+<div class="modal">
+    <input class="modal-state" id="notebooks-modal" type="checkbox">
+    <div class="modal-window">
+        <div class="modal-inner box">
+            <label class="modal-close" for="notebooks-modal"></label>
+
+            <h4>Select a Notebook</h4>
+            <div id="notebooksmodal-list">
+            </div>
+            <hr>
+            <h4>or make a new notebook</h4>
+            <input class="form-control js-createnotebookname" placeholder="Notebook name">
+            <button type="submit" class="btn--warning js-createnotebook">Create</button>
+        </div>
+    </div>
+</div> <!--END MODAL-->
+
+<script id="notebooksmodal_tmpl" type="text/x-handlebars">
+    {{#each headers}}
+        <div><a data-organizerdid="{{organizerDID}}" class="js-changenotebook">{{name}}</a></div>
+    {{/each}}
+</script>
+    <div class="modal">
+    <input class="modal-state" id="loading-modal" type="checkbox">
+    <div class="modal-window non-dismissable">
+        <div class="modal-inner box">
+            <div class="center"><img src="/img/Preloader_3.gif" alt="Loading"></div>
+            <br><br>
+            <p class="center lead">Loading...</p>
+            <p class="js-loadingmodaltext center"></p>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal">
+    <input class="modal-state" id="signin-modal" type="checkbox">
+    <div class="modal-window">
+        <div class="signin js-signupform" style="display: none">
+                <div class="modal-inner modal-legacy js-signup-step" data-signup-step="1">
+                    <div class="modal-header">
+                        <h2>Create Your Free Account</h2>
+                    </div>
+                    <p class="center">Search All Homes and Exclusive Property Listings<br><i>(Prices and inventory current as of June 5, 2017)</i>
+                    </p>
+                    <form action="#" class="js-signupform-form" method="post" role="form">                        <input type="text" class="form-control" placeholder="Full Name" name="FirstName">
+                        <input type="text" class="form-control" placeholder="Email Address" name="Email">
+    <input type="text" class="form-control js-phonefield" placeholder="Phone (# is used as password)" name="Phone">
+                        <p class="center"><button id="signupButton" class="btn--link" type="submit" style="font-size: 24px;color: #09C;">Continue My Search &gt;</button></p>
+                        <p class="center" style="font-size: 14px; text-decoration: underline; font-style: italic"><a class="toggleSignup">Already have an account?</a></p>
+</form>                                            <div class="modal-footer" style="font-size:10px;text-align:center">By registering, you agree to our <a href="/terms">Terms</a> and <a href="/privacy">Privacy Policy</a></div>
+                </div>
+                <div class="modal-inner box modal-legacy js-signup-step" data-signup-step="2" style="display: none;">
+                    <div class="modal-header">
+                        <h2>Create Your Free Account</h2>
+                    </div>
+<form action="#" class="js-signupform-extra" method="post" role="form">                        <p class="modal-question"><b>Have you been pre-qualified for a mortgage?</b></p>
+                        <div class="modal-checkboxes">
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-preq1" type="radio" name="Prequalified" value="true">
+                                <label for="signupform-extra-preq1">Yes</label>
+                            </div>
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-preq0" type="radio" name="Prequalified" value="false">
+                                <label for="signupform-extra-preq0">No</label>
+                            </div>
+                        </div>
+                        <p class="modal-question"><b>Are you a first time home buyer?</b></p>
+                        <div class="modal-checkboxes">
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-first1" type="radio" name="FirstTimeBuyer" value="true">
+                                <label for="signupform-extra-first1">Yes</label>
+                            </div>
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-first0" type="radio" name="FirstTimeBuyer" value="false">
+                                <label for="signupform-extra-first0">No</label>
+                            </div>
+                        </div>
+                        <p class="modal-question"><b>Within how many months do you plan to buy a home?</b></p>
+                        <div class="modal-checkboxes">
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-timeframe0" type="radio" name="TimeframeToBuy" value="0-1 months">
+                                <label for="signupform-extra-timeframe0">0-1</label>
+                            </div>
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-timeframe1" type="radio" name="TimeframeToBuy" value="1-3 months">
+                                <label for="signupform-extra-timeframe1">1-3</label>
+                            </div>
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-timeframe3" type="radio" name="TimeframeToBuy" value="3-6 months">
+                                <label for="signupform-extra-timeframe3">3-6</label>
+                            </div>
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-timeframe6" type="radio" name="TimeframeToBuy" value="6-12 months">
+                                <label for="signupform-extra-timeframe6">6-12</label>
+                            </div>
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-timeframe12" type="radio" name="TimeframeToBuy" value="12+ months">
+                                <label for="signupform-extra-timeframe12">12+</label>
+                            </div>
+                        </div>
+                        <p class="modal-question"><b>Do you have a house to sell first?</b></p>
+                        <div class="modal-checkboxes">
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-housetosell1" type="radio" name="HouseToSell" value="true">
+                                <label for="signupform-extra-housetosell1">Yes</label>
+                            </div>
+                            <div class="ui radio checkbox">
+                                <input id="signupform-extra-housetosell0" type="radio" name="HouseToSell" value="false">
+                                <label for="signupform-extra-housetosell0">No</label>
+                            </div>
+                        </div>
+                        <br>
+                        <p class="center"><button id="signupButton2" class="btn--default" type="submit" style="font-size: 18px;background:#FFA642; text-transform:none; border-radius:5px; padding:10px 100px">Confirm</button></p>
+</form>                </div>
+                <div class="modal-inner box modal-legacy js-signup-step" data-signup-step="3" style="display: none;">
+                    <div class="modal-header">
+                        <h2>Create Your Free Account</h2>
+                    </div>
+<form action="#" class="js-signupform-disc" method="post" role="form">                        <p class="modal-question"><b>What is most important to you during your home search?</b></p>
+                            <div class="ui radio checkbox">
+                                <input type="radio" name="DiscType" value="d">
+                                <label>Smoking hot home deals and distressed properties</label>
+                            </div>
+                            <br>
+                            <div class="ui radio checkbox">
+                                <input type="radio" name="DiscType" value="i">
+                                <label>Beautiful homes in popular communities</label>
+                            </div>
+                            <br>
+                            <div class="ui radio checkbox">
+                                <input type="radio" name="DiscType" value="s">
+                                <label>Top rated school districts in safe neighborhoods</label>
+                            </div>
+                            <br>
+                            <div class="ui radio checkbox">
+                                <input type="radio" name="DiscType" value="c">
+                                <label>Comprehensive and detailed reports of specific districts</label>
+                            </div>
+                            <br>
+                        <p class="center"><button id="signupButton3" class="btn--default" type="submit" style="font-size: 18px; background:#FFA642; text-transform:none; border-radius:5px; padding:10px 100px">Confirm</button></p>
+</form>                </div>
+                <div class="modal-inner box modal-legacy js-signup-step" data-signup-step="3a" style="display: none;">
+                    <div class="modal-header">
+                        <h2>Have a house to sell?</h2>
+                    </div>
+                    <p class="center">Find Out How Much Your Home Is Worth (optional)</p>
+<form action="#" class="js-signupform-seller" method="post" role="form">                        <input type="text" class="form-control" placeholder="Enter Your Full Property Address" name="Address">
+                        <div class="input-group">
+                            <div>
+                                <label for="signupform-seller-beds">Beds</label>
+                                <br>
+                                <select id="signupform-seller-beds" class="form__select" name="Beds">
+                                    <option value="" selected="selected">Beds</option>
+                                    <option value="1">1 Bed</option>
+                                    <option value="2">2 Beds</option>
+                                    <option value="3">3 Beds</option>
+                                    <option value="4">4 Beds</option>
+                                    <option value="5">5+ Beds</option>
+                                </select>
+                            </div>
+                            <div>
+                                <label for="signupform-seller-baths">Baths</label>
+                                <br>
+                                <select id="signupform-seller-baths" class="form__select" name="Baths">
+                                    <option value="" selected="selected">Baths</option>
+                                    <option value="1">1 Bath</option>
+                                    <option value="2">2 Baths</option>
+                                    <option value="3">3 Baths</option>
+                                    <option value="4">4 Baths</option>
+                                    <option value="5">5+ Baths</option>
+                                </select>
+                            </div>
+                        </div>
+                        <p class="center"><button id="signupButton3a" class="btn--default" type="submit" style="font-size: 18px;background:#FFA642; text-transform:none; border-radius:5px; padding:10px 100px">Confirm</button></p>
+                        <p class="center" style="font-size: 14px;"><a class="js-signupform-seller-close" style="text-decoration: underline;">No Thanks</a></p>
+</form>                </div>
+<div class="modal-inner box modal-legacy js-signup-step" data-signup-step="4" style="display: none;">
+    <div class="modal-header">
+        <h2>Thank you!</h2>
+    </div>
+    <p style="font-size: 16px;">You now have full access to our site, so please feel free to continue browsing the most up-to-date real estate listings around.</p>
+    <div class="js-signup-phone-desktopwrap">
+        <p style="font-size: 16px;"><b>If we get new information about a property meeting your search criteria, do you have a cell number where we can text you?</b></p>
+<form action="#" class="js-signupform-phone" method="post" role="form">            <input type="text" class="form-control js-phonefield" placeholder="Cell Phone Number" name="CellPhone">
+            <p class="center"><button class="btn--default" type="submit" style="font-size: 18px; background:#FFA642; text-transform:none; border-radius:5px; padding:10px 50px">Continue My Search</button></p>
+            <p class="center js-signupform-phone-close" style="font-size: 14px;"><a class="" style="text-decoration:underline">No Thanks</a></p>
+</form>    </div>
+    <div class="js-signup-phone-mobilewrap" style="display: none;">
+        <p class="center js-signupform-phone-close"><button class="btn--default" type="button" style="font-size: 18px; background:#FFA642; text-transform:none; border-radius:5px; padding:10px 50px;">Close</button></p>
+    </div>
+</div><div class="modal-inner box modal-legacy js-signup-step" data-signup-step="1-phone" style="display: none;">
+    <div class="modal-header">
+        <h2>Almost there!</h2>
+    </div>
+    <p class="center">We just need your phone number to finish creating your account.</p>
+    <form action="#" class="js-signupform-required-phone" method="post" role="form">
+        <input type="tel" class="form-control js-phonefield" placeholder="Phone (# is used as password)" name="Phone">
+        <p class="center">
+            <button id="signupButton" class="btn--link" type="submit" style="font-size: 24px;color: #09C;">Continue My Search &gt;</button>
+        </p>
+    </form>
+</div>        </div>
+        <div class="static js-signinform">
+            <div class="modal-inner box">
+                <label class="modal-close js-signup-close" for="signin-modal"></label>
+                <h3>Sign In</h3>
+                <div class="js-loginmessage"></div>
+
+                
+                <form action="#" class="js-loginform" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="mdg73ljUsKnIrNnGJSEEX3z_KHiuHOc2QlGcowYa9WibyGlekGEXaEFQ8yaSSHH9-ixTuhrqSVoqZxiOr-QBg4XeMqI1">                    <label for="signin-email">
+                        <span>Email</span>
+                    </label>
+<input class="form-control js-signin-email" data-val="true" data-val-email="The Email field is not a valid e-mail address." data-val-required="The Email field is required." id="signin-email" name="Email" type="text" value="">                    <label for="signin-password">
+                        <span>Password</span>
+                    </label>
+                    <input type="text" id="signin-password" class="form-control js-signin-password" name="password" style="font-family:password" autocomplete="off">
+<input name="InviteDID" type="hidden" value="">                    <button type="submit" class="btn--default js-signin-submit" style="width: 100%;">Sign in</button>
+</form>                <div class="modal-footer"><a href="/account/forgotpassword">Forgot your password?</a> &nbsp; No account? <a class="toggleSignup">Sign Up!</a></div>
+            </div>
+
+        </div>
+    </div>
+</div>
+        <script type="text/x-handlebars-template" id="chad-panel">
+    <div class="js-chat-dialog cinc-chat panel panel-default" data-mdid="{{mdid}}">
+        <div class="panel-heading chat-header">
+            <div class="panel-title">{{name}} ({{title}})</div>
+            <span class="panel-toolbar text-right">
+                {{#if isConsumer}}
+                <a class="btn btn-default btn-sm down" data-toggle="panelcollapse"><span class="fa fa-minus"></span></a>
+                {{/if}}
+                <a class="btn btn-default btn-sm js-chad-close"><span class="fa fa-close"></span></a>
+            </span>
+        </div>
+        <div class="panel-collapse pull out cinc-chat-body">
+            <div class="panel-body js-chat-body">
+                <div class="row">
+                    <div class="chat-history">
+                        {{#each chats}}
+                        {{#if receiving}}
+                        <div class="row clearfix">
+                            <div class="message-data align-right" data-cdid="{{cdid}}">
+                                <span class="message-data-time">{{date createDT format='mmm d, yyyy hh:MM tt'}}</span>
+                                <span class="message-data-name">{{fromFirstName}}</span>
+                            </div>
+                            <div class="message other-message float-right">
+                                {{message}}
+                            </div>
+                        </div>
+                        {{else}}
+                        <div class="row">
+                            <div class="message-data" data-cdid="{{cdid}}">
+                                <span class="message-data-name">Me</span>
+                                <span class="message-data-time">{{date createDT format='mmm d, yyyy hh:MM tt'}}</span>
+                                {{#if received}}
+                                <i class="ico-checkmark text-success"></i>
+                                {{/if}}
+                            </div>
+                            <div class="message my-message">
+                                {{message}}
+                            </div>
+                        </div>
+                        {{/if}}
+                        {{/each}}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="chat-message">
+                        <textarea class="js-chad-message" name="message-to-send" placeholder="Type your message" rows="3" data-mdid="{{mdid}}"></textarea>
+                        <button class="btn btn-sm js-chad-send">Send</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/x-handlebars-template" id="chad-sent-message">
+    <div class="row">
+        <div class="message-data" data-cdid="{{cdid}}">
+            <span class="message-data-name">Me</span>
+            <span class="message-data-time">{{date createDT format='mmm d, yyyy hh:MM tt'}}</span>
+        </div>
+        <div class="message my-message">
+            {{message}}
+        </div>
+    </div>
+</script>
+<script type="text/x-handlebars-template" id="chad-received-message">
+    <div class="row clearfix">
+        <div class="message-data align-right" data-cdid="{{cdid}}">
+            <span class="message-data-time">{{date createDT format='mmm d, yyyy hh:MM tt'}}</span>
+            <span class="message-data-name">{{fromName}}</span>
+        </div>
+        <div class="message other-message float-right">
+            {{message}}
+        </div>
+    </div>
+</script>
+    
+
+
+<script type="text/javascript">
+    
+    if (/PhantomJS/.test(window.navigator.userAgent)) {
+        window.location.href = "http://google.com/#q=phantom%20js";
+    }
+
+    (function() {
+        CINC = (window.CINC || {});
+        CINC.User = null;
+        CINC.Site = {"On_MoneyButton":false,"On_SoldPropertyData":false,"On_HideCraigsList":true,"On_GreatSchools":false,"On_LeadAlertCall":false,"LeadAlertCallStartHour":8,"LeadAlertCallEndHour":21,"LR_AgentOverflow":"","HonorDripCategory":true,"On_InfusionSoft":false,"On_FirstOption":false,"On_CallCenter":false,"On_FishPond":false,"On_CincChat":true,"On_BrokermintIntegration":false,"On_TeamCalendar":true,"UsesMegaDashboard":false,"On_SubdomainShare":false,"On_ShareAgentRouting":true,"CSA":null,"SiteName":"eXp Realty -  The Agent-Owned Cloud Brokerage®","CompanyName":"eXp Realty","CompanyLogoUrl":"//s-static.cinccdn.com/images/header/UP85F8CB97521D4E.png","On_SingleAgentSite":false,"On_LiteSite":false,"ReassignEnabled":false,"Status":"Active","TeamVerbiage":"Team","PromptPages":1,"PromptViews":0,"PromptLevel":0,"PromptPhoneStep":true,"On_DevilStepThree":true,"ContactName":"","ContactEmail":"","ContactPhone":"","ContactAddress":"","State":"GA","Country":"US","StartLat":0.0,"StartLong":0.0,"Social":[{"Name":"Facebook","Url":"http://facebook.com/exprealty"},{"Name":"Twitter","Url":"http://twitter.com/exprealty"}],"IsAppointmentsInc":false,"IsHousesDotNet":false,"IsBrandedSite":false,"IsBrandedSlaveSite":false,"SearchRequiresAccept":false,"On_LandingPages":true,"On_MultiLineNav":false,"On_LegacySite":false,"On_SellerSuite":true,"On_Blog":true,"On_Plans":true,"On_CustomPages":true,"ConversionTrackingScripts":"\u003cdiv style=\"display:inline;\"\u003e\n\u003cimg height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//www.googleadservices.com/pagead/conversion/955101673/?label=lgHiCI7DhmQQ6eO2xwM\u0026amp;guid=ON\u0026amp;script=0\"/\u003e\n\u003c/div\u003e","On_CRMPlusChat":true,"On_WhiteLabel":true,"IsEnterprise":true,"MasterSite":null,"DDID":"DNVLZZZTYV7MCJWB","DomainName":"exprealty.com","DomainGroupDID":""};
+        CINC.InDev = false;
+        CINC.ControllerName = "Home";
+        CINC.ActionName = "Privacy";
+        CINC.QS = {};
+        CINC.Form =  {};
+        CINC.ServerUTCOffset = -5;
+
+        $(CINC).trigger('loaded');
+    }());
+</script>
+
+<script type="text/javascript" src="/bundles/8205654/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+<script type="text/javascript" src="/bundles/8205654/js/signalr?v=C43KkfADuPFELS0aflPUhqEhBL1X4h76-RcxU5mbSJM1"></script>
+<script type="text/javascript" src="/bundles/8205654/consumerpreload/js?v=Imm2zNARsXsOjGRfIx7UyPjcSb0pBtT2sZZlImY_zpE1"></script>
+        <script type="text/javascript" src="https://uni.cinccdn.com/signalr/8205654/hubs"></script>
+<script type="text/javascript" src="/bundles/8205654/js?v=jnJyYEOFtUiV3Yzy8EtInWK4vgtpX5odTF35tNHlDt81" defer=""></script>
+    <script src="https://apis.google.com/js/platform.js" async="" defer="" onload="this.onload=function(){};CINC.Integrations.Google.Load();" onreadystatechange="if (this.readyState === 'complete') this.onload();"></script>
+
+
+
+
+    
+
+    
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1511236642422301'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1511236642422301&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+            <script type="text/javascript">
+                (function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            </script>
+                <script type="text/javascript">
+                    ga('create', 'UA-34319713-1', 'auto', { 'name': 'cinc' });
+                </script>
+            <script type="text/javascript">
+                ga('cinc.require', 'linkid', 'linkid.js'); 
+                ga('cinc.set', 'dimension1', '0');
+                ga('cinc.set', 'dimension2', 'newplatform');
+                ga('cinc.send', 'pageview');
+            </script>
+
+
+
+
+</body></html>
