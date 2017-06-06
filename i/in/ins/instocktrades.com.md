@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instocktrades.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223173302id_/http%3A//www.instocktrades.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instocktrades.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082238id_/http%3A//www.instocktrades.com/privacy.aspx) for the most accurate reproduction.*
 
 # InStockTrades - up to 42% off and no shipping on orders over $50!
 
