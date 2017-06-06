@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoviebox.net privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221193013id_/http%3A//themoviebox.net/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoviebox.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102728id_/http%3A//themoviebox.net/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — TheMovieBox.Net
 
