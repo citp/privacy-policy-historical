@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spottedfashion.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127034838id_/http%3A//www.spottedfashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spottedfashion.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121527id_/http%3A//www.spottedfashion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Spotted Fashion
+# Privacy Policy – Spotted Fashion
 
 **Privacy Policy**  
 Spotted Fashion  
