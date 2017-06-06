@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgdone.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205034449id_/http%3A//imgdone.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgdone.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170025id_/http%3A//imgdone.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # imgdone.com » More Information » Privacy Policy
 
@@ -8,4 +8,4 @@ We may also collect the URL from which you linked into our site, your IP address
 
 User privacy is something we take very seriously at imgdone.com. We do not, and have never, sold or disseminated (except in cases where required to by law enforcement agencies) the personal information of our users to any parties outside of imgdone.com. We use account information for the purposes of creating and maintaining individual user accounts, contacting a user in case of a problem with their account, for statistical purposes, to administer our systems, and to provide technical support. 
 
-If you have any question, please do not hesitate to [contact us](http://www.imgdone.com/contact.php?act=contact_us). 
+If you have any question, please do not hesitate to [contact us](http://imgdone.com/contact.php?act=contact_us). 
