@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betsapi.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124151629id_/http%3A//betsapi.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betsapi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093207id_/http%3A//betsapi.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BetsAPI
 
