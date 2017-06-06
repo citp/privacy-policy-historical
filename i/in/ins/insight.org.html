@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the insight.org privacy policy that was archived on 2016-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201221220id_/http%3A//www.insight.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insight.org privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606180904id_/http%3A//insight.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//api.reftagger.com/v2/RefTagger.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0e8821e297","applicationID":"3005267","transactionName":"MwRXNhYFC0EHUkMLCQpOdDE0SxZUFlBQBxUBE0MLBwFKUFUBVVMCUFMYU11UVR9QUwZRS1xXUVtJAgMCVgEHV1FRU1EEOwoKRg5UWgdIBRJFGg==","queueTime":0,"applicationTime":48,"ttGuid":"FAC17AA5D484028B","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//api.reftagger.com/v2/RefTagger.js"></script><script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0e8821e297","applicationID":"3005267","transactionName":"MwRXNhYFC0EHUkMLCQpOdDE0SxZUFlBQBxUBE0MLBwFKUFUBVVMCUFMYU11UVR9QUwZRS1xXUVtJAgMCVgEHV1FRU1EEOwoKRg5UWgdIBRJFGg==","queueTime":0,"applicationTime":24,"ttGuid":"C59D48571B5F5692","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:image" content="http://insight.org/img/chuck-swindoll-fbshare.jpg">
+
         
 		<script src="//use.typekit.net/vwz3quk.js"></script>
 		<script>try { Typekit.load(); } catch (e) { }</script>		
@@ -11,32 +13,74 @@
 		
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55b25a2a1e9c5f0d" async="async"></script>	
-		<script type="text/javascript" src="//insight.org/js/plugins/jwplayer/jwplayer.js"></script>
-        <script>jwplayer.key = "okrKmctzS0LfjbVXfbRgZgH1YDu1HUXR2Z52uz31toQ=";</script> 
-
+		<script type="text/javascript" src="/js/plugins/jwplayer/jwplayer.js?v=7.7.4"></script>
+        <script>jwplayer.key = "NNiHbhAoIA4QA3UgBFQh4Q77HQue3AxOy/5iw8RCgg0=";</script> 
+		<script type="text/javascript">
+			var $mcGoal = {'settings':{'uuid':'089de1a9400fa16e923356315','dc':'us10'}};
+			(function() {
+				 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+				sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+			})(); 
+		</script>
+		
     	<!--[if lte IE 9]>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<![endif]-->
-    
-<meta property="og:image" content="http://insight.org/img/chuck-swindoll-fbshare.jpg">
-<meta name="Generator" content="Sitefinity 8.1.5800.0 SE"><link rel="canonical" href="http://insight.org/privacy-policy"></head>
+    <meta name="Generator" content="Sitefinity 8.1.5800.0 SE"><link rel="canonical" href="http://www.insight.org/privacy-policy"></head>
     <body>
 <noscript><div class='no-js-warning'><p>Your browser does not support JavaScript. Please note, our website requires JavaScript to be supported.</p><p>Please <a href="http://insight.org/connect/contact-us">contact us</a> or <a href="http://www.activatejavascript.org/">click here</a> to learn more about how to enable JavaScript on your browser.</p></div></noscript>
 
-        <form method="post" action="./privacy-policy" id="form">
+        <form method="post" action="./privacy-policy" onsubmit="javascript:return WebForm_OnSubmit();" id="form">
 <div class="aspNetHidden">
 <input type="hidden" name="ctl08_TSM" id="ctl08_TSM" value="">
 <input type="hidden" name="ctl09_TSSM" id="ctl09_TSSM" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTEwOTU2NzU1Ng9kFgICAQ9kFgICAw9kFgpmDxYCHhFPdXRwdXRDb21wcmVzc2lvbgspeVRlbGVyaWsuV2ViLlVJLk91dHB1dENvbXByZXNzaW9uLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDE1LjIuNjIzLjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQAZAIED2QWAgIBD2QWAmYPZBYEZg8WAh4LXyFJdGVtQ291bnQCBxYOAgEPZBYCAgEPFgIeBWNsYXNzZRYEAgEPDxYCHgtOYXZpZ2F0ZVVybAUMfi9icm9hZGNhc3RzZBYCZg8VAQpCcm9hZGNhc3RzZAIDDxYCHwECCRYSAgEPZBYCAgEPZBYCAgEPDxYCHwMFG34vYnJvYWRjYXN0cy9jdXJyZW50LXNlcmllc2QWAmYPFQERQ3VycmVudCBCcm9hZGNhc3RkAgIPZBYCAgEPZBYCAgEPDxYCHwMFFH4vYnJvYWRjYXN0cy9saWJyYXJ5ZBYCZg8VARFCcm9hZGNhc3QgTGlicmFyeWQCAw9kFgICAQ9kFgICAQ8PFgIfAwUUfi9icm9hZGNhc3RzL3BvZGNhc3RkFgJmDxUBB1BvZGNhc3RkAgQPZBYCAgEPZBYCAgEPDxYCHwMFGn4vYnJvYWRjYXN0cy9tZXNzYWdlLW1hdGVzZBYCZg8VAQ1NZXNzYWdlIE1hdGVzZAIFD2QWAgIBD2QWAgIBDw8WAh8DBR9+L2Jyb2FkY2FzdHMvYnJvYWRjYXN0LXNjaGVkdWxlZBYCZg8VARJCcm9hZGNhc3QgU2NoZWR1bGVkAgYPZBYCAgEPZBYCAgEPDxYCHwMFG34vYnJvYWRjYXN0cy9zdGF0aW9uLWZpbmRlcmQWAmYPFQEOU3RhdGlvbiBGaW5kZXJkAgcPZBYCAgEPZBYCAgEPDxYCHwMFG2h0dHA6Ly93d3cuaW5zaWdodHdvcmxkLm9yZ2QWAmYPFQENSW50ZXJuYXRpb25hbGQCCA9kFgICAQ9kFgICAQ8PFgIfAwUZfi9icm9hZGNhc3RzL3Bhd3NhbmR0YWxlc2QWAmYPFQEMUGF3cyAmIFRhbGVzZAIJD2QWAgIBD2QWAgIBDw8WAh8DBRt+L2Jyb2FkY2FzdHMvY2xhc3NpYy1zZXJpZXNkFgJmDxUBDkNsYXNzaWMgU2VyaWVzZAICD2QWAgIBDxYCHwJlFgQCAQ8PFgIfAwULfi9yZXNvdXJjZXNkFgJmDxUBCVJlc291cmNlc2QCAw8WAh8BAgkWEgIBD2QWAgIBD2QWAgIBDw8WAh8DBR5+L3Jlc291cmNlcy9iaWJsaWNhbC1yZXNvdXJjZXNkFgJmDxUBEkJpYmxpY2FsIFJlc291cmNlc2QCAg9kFgICAQ9kFgICAQ8PFgIfAwUcfi9yZXNvdXJjZXMvZGFpbHktZGV2b3Rpb25hbGQWAmYPFQEQRGFpbHkgRGV2b3Rpb25hbGQCAw9kFgICAQ9kFgICAQ8PFgIfAwURfi9yZXNvdXJjZXMvYmlibGVkFgJmDxUBFUluc2lnaHRzIG9uIHRoZSBCaWJsZWQCBA9kFgICAQ9kFgICAQ8PFgIfAwUdfi9yZXNvdXJjZXMvaW5zaWdodHMtYnktdG9waWNkFgJmDxUBEUluc2lnaHRzIGJ5IFRvcGljZAIFD2QWAgIBD2QWAgIBDw8WAh8DBRt+L3Jlc291cmNlcy9hcnRpY2xlLWxpYnJhcnlkFgJmDxUBD0FydGljbGUgTGlicmFyeWQCBg9kFgICAQ9kFgICAQ8PFgIfAwUcfi9yZXNvdXJjZXMvY2h1cmNoLXJlc291cmNlc2QWAmYPFQEQQ2h1cmNoIFJlc291cmNlc2QCBw9kFgICAQ9kFgICAQ8PFgIfAwUsL3Jlc291cmNlcy9pbnNpZ2h0cy1ieS10b3BpYy9ob3ctdG8ta25vdy1nb2RkFgJmDxUBD0hvdyB0byBLbm93IEdvZGQCCA9kFgICAQ9kFgICAQ8PFgIfAwUcfi9yZXNvdXJjZXMvY2h1Y2tzLW5leHQtYm9va2QWAmYPFQERQ2h1Y2sncyBOZXh0IEJvb2tkAgkPZBYCAgEPZBYCAgEPDxYCHwMFGX4vcmVzb3VyY2VzL3ZpZGVvLWxpYnJhcnlkFgJmDxUBDVZpZGVvIExpYnJhcnlkAgMPZBYCAgEPFgIfAmUWBAIBDw8WAh8DBQh+L2V2ZW50c2QWAmYPFQEGRXZlbnRzZAIDDxYCHwECAxYGAgEPZBYCAgEPZBYCAgEPDxYCHwMFHn4vZXZlbnRzL2NvbmZlcmVuY2VzLWFuZC10b3Vyc2QWAmYPFQEVQ29uZmVyZW5jZXMgYW5kIFRvdXJzZAICD2QWAgIBD2QWAgIBDw8WAh8DBRR+L2V2ZW50cy9hbGFza2EtMjAxN2QWAmYPFQELQWxhc2thIDIwMTdkAgMPZBYCAgEPZBYCAgEPDxYCHwMFH2h0dHA6Ly8yMDE2LWlzcmFlbC5pZmxibG9nLmNvbS9kFgJmDxUBGzIwMTYgSXNyYWVsIFRyYXZlbGVycycgQmxvZ2QCBA9kFgICAQ8WAh8CZRYEAgEPDxYCHwMFCX4vY29ubmVjdGQWAmYPFQEHQ29ubmVjdGQCAw8WAh8BAgsWFgIBD2QWAgIBD2QWAgIBDw8WAh8DBRZ+L2Nvbm5lY3Qvc29jaWFsLW1lZGlhZBYCZg8VAQxTb2NpYWwgTWVkaWFkAgIPZBYCAgEPZBYCAgEPDxYCHwMFG34vY29ubmVjdC9jb25mZXJlbmNlcy10b3Vyc2QWAmYPFQETQ29uZmVyZW5jZXMgJiBUb3Vyc2QCAw9kFgICAQ9kFgICAQ8PFgIfAwUSfi9jb25uZWN0L3BvZGNhc3RzZBYCZg8VAQhQb2RjYXN0c2QCBA9kFgICAQ9kFgICAQ8PFgIfAwU+aHR0cDovL2luc2lnaHQub3JnL3Jlc291cmNlcy9jaHVyY2gtcmVzb3VyY2VzL3RoZS1wYXN0b3JzLWJsb2dkFgJmDxUBDVBhc3RvcidzIEJsb2dkAgUPZBYCAgEPZBYCAgEPDxYCHwMFggFodHRwOi8vcmVmcmFtaW5nbWluaXN0cmllcy5pZmxibG9nLmNvbS8/dXRtX3NvdXJjZT1pbnNpZ2h0Lm9yZyZ1dG1fbWVkaXVtPXRvcC1tZW51JnV0bV9jb250ZW50PWNvbm5lY3QmdXRtX2NhbXBhaWduPVJlZnJhbWluZy1ibG9nZBYCZg8VARlSZWZyYW1pbmcgTWluaXN0cmllcyBCbG9nZAIGD2QWAgIBD2QWAgIBDw8WAh8DBQ1+L2Nvbm5lY3QvYXBwZBYCZg8VAQpNb2JpbGUgQXBwZAIHD2QWAgIBD2QWAgIBDw8WAh8DBSR+L2Nvbm5lY3QvZnJlcXVlbnRseS1hc2tlZC1xdWVzdGlvbnNkFgJmDxUBBEZBUXNkAggPZBYCAgEPZBYCAgEPDxYCHwMFFH4vY29ubmVjdC9jb250YWN0LXVzZBYCZg8VAQpDb250YWN0IFVzZAIJD2QWAgIBD2QWAgIBDw8WAh8DBRp+L2Nvbm5lY3Qvc2hhcmUteW91ci1zdG9yeWQWAmYPFQEQU2hhcmUgWW91ciBTdG9yeWQCCg9kFgICAQ9kFgICAQ8PFgIfAwUYfi9jb25uZWN0L2lsaXN0ZW50b2NodWNrZBYCZg8VARFJIExpc3RlbiB0byBDaHVja2QCCw9kFgICAQ9kFgICAQ8PFgIfAwUWfi9jb25uZWN0L3ByYXktZm9yLWlmbGQWAmYPFQEMUHJheSBmb3IgSUZMZAIFD2QWAgIBDxYCHwJlFgQCAQ8PFgIfAwUHfi9hYm91dGQWAmYPFQEFQWJvdXRkAgMPFgIfAQIIFhACAQ9kFgICAQ9kFgICAQ8PFgIfAwUrfi9hYm91dC9hYm91dC1pbnNpZ2h0LWZvci1saXZpbmctbWluaXN0cmllc2QWAmYPFQEjQWJvdXQgSW5zaWdodCBmb3IgTGl2aW5nIE1pbmlzdHJpZXNkAgIPZBYCAgEPZBYCAgEPDxYCHwMFGX4vYWJvdXQvZXNzZW50aWFsLWJlbGllZnNkFgJmDxUBEUVzc2VudGlhbCBCZWxpZWZzZAIDD2QWAgIBD2QWAgIBDw8WAh8DBRZ+L2Fib3V0L2NodWNrLXN3aW5kb2xsZBYCZg8VAQ5DaHVjayBTd2luZG9sbGQCBA9kFgICAQ9kFgICAQ8PFgIfAwUdfi9hYm91dC9xdWVzdGlvbnMtYWJvdXQtY2h1Y2tkFgJmDxUBFVF1ZXN0aW9ucyBhYm91dCBDaHVja2QCBQ9kFgICAQ9kFgICAQ8PFgIfAwUNfi9hYm91dC9ib2FyZGQWAmYPFQESQm9hcmQgb2YgRGlyZWN0b3JzZAIGD2QWAgIBD2QWAgIBDw8WAh8DBRJ+L2Fib3V0L2xlYWRlcnNoaXBkFgJmDxUBCkxlYWRlcnNoaXBkAgcPZBYCAgEPZBYCAgEPDxYCHwMFGn4vYWJvdXQvd2hlcmUtZG9uYXRpb25zLWdvZBYCZg8VARJXaGVyZSBEb25hdGlvbnMgR29kAggPZBYCAgEPZBYCAgEPDxYCHwMFFX4vYWJvdXQvb3Bwb3J0dW5pdGllc2QWAmYPFQEWT3Bwb3J0dW5pdGllcyB3aXRoIElGTGQCBg9kFgICAQ8WAh8CBQcgbm8tc3ViFgQCAQ8PFgIfAwUHfi9zdG9yZWQWAmYPFQEFU3RvcmVkAgMPFgQfAQL/////Dx4HVmlzaWJsZWhkAgcPZBYCAgEPFgIfAmUWBAIBDw8WAh8DBQh+L2RvbmF0ZWQWAmYPFQEGRG9uYXRlZAIDDxYCHwECCRYSAgEPZBYCAgEPZBYCAgEPDxYCHwMFFX4vZG9uYXRlL2RvbmF0ZS10b2RheWQWAmYPFQEIR2l2ZSBOb3dkAgIPZBYCAgEPZBYCAgEPDxYCHwMFFX4vZG9uYXRlL2dpdmUtbW9udGhseWQWAmYPFQEMR2l2ZSBNb250aGx5ZAIDD2QWAgIBD2QWAgIBDw8WAh8DBR1+L2RvbmF0ZS9vdGhlci1naXZpbmctb3B0aW9uc2QWAmYPFQEST3RoZXIgV2F5cyB0byBHaXZlZAIED2QWAgIBD2QWAgIBDw8WAh8DBRh+L2RvbmF0ZS9lc3RhdGUtcGxhbm5pbmdkFgJmDxUBHkdpdmluZyB0aHJvdWdoIEVzdGF0ZSBQbGFubmluZ2QCBQ9kFgICAQ9kFgICAQ8PFgIfAwUofi9kb25hdGUvc3RvY2stYW5kLWNlcnRpZmljYXRlLXRyYW5zZmVyc2QWAmYPFQEeR2l2aW5nIFRocm91Z2ggU3RvY2sgVHJhbnNmZXJzZAIGD2QWAgIBD2QWAgIBDw8WAh8DBRd+L2RvbmF0ZS9naXZpbmctaGlzdG9yeWQWAmYPFQEOR2l2aW5nIEhpc3RvcnlkAgcPZBYCAgEPZBYCAgEPDxYCHwMFGH4vZG9uYXRlL3doeS1zdXBwb3J0LWlmbGQWAmYPFQEIV2h5IEdpdmVkAggPZBYCAgEPZBYCAgEPDxYCHwMFF34vZG9uYXRlL29mZmxpbmUtZ2l2aW5nZBYCZg8VARZPZmZsaW5lIEdpdmluZyBhbmQgRUZUZAIJD2QWAgIBD2QWAgIBDw8WAh8DBSJ+L2RvbmF0ZS9tb250aGx5LWxldHRlci1mcm9tLWNodWNrZBYCZg8VARNUaGlzIE1vbnRoJ3MgTGV0dGVyZAICDxYCHhJTdGFydGluZ05vZGVPZmZzZXQC/////w9kAgYPZBYCAgEPZBYCZg9kFgJmD2QWAgIGD2QWDmYPZBYCAgEPFgQeBGhyZWYFCy9icm9hZGNhc3RzHgZ0YXJnZXRkFgJmDxUBCkJyb2FkY2FzdHNkAgEPZBYCAgEPFgQfBgUKL3Jlc291cmNlcx8HZBYCZg8VAQlSZXNvdXJjZXNkAgIPZBYCAgEPFgQfBgUHL2V2ZW50cx8HZBYCZg8VAQZFdmVudHNkAgMPZBYCAgEPFgQfBgUIL2Nvbm5lY3QfB2QWAmYPFQEHQ29ubmVjdGQCBA9kFgICAQ8WBB8GBQYvYWJvdXQfB2QWAmYPFQEFQWJvdXRkAgUPZBYCAgEPFgQfBgUGL3N0b3JlHwdkFgJmDxUBBVN0b3JlZAIGD2QWAgIBDxYEHwYFBy9kb25hdGUfB2QWAmYPFQEGRG9uYXRlZAISD2QWAgIBD2QWAmYPZBYGAgEPFgIeBFRleHQFDUVtYWlsIFVwZGF0ZXNkAgMPFgIfCAU9U2lnbiB1cCB0byByZWNlaXZlIGUtbWFpbCBmcm9tIEluc2lnaHQgZm9yIExpdmluZyBNaW5pc3RyaWVzLmQCBQ9kFgJmD2QWAgIBD2QWDAIBDxYCHwRoFgICBA8PFgYeD1ZhbGlkYXRpb25Hcm91cAUWdmdFbWFpbFVwZGF0ZXNfMjM2MTc2Nx4HRW5hYmxlZGgfBGhkZAIDDxYCHwRoFgICBA8PFgYfCQUWdmdFbWFpbFVwZGF0ZXNfMjM2MTc2Nx8KaB8EaGRkAgcPDxYCHwkFFnZnRW1haWxVcGRhdGVzXzIzNjE3NjdkZAIJDw8WAh8JBRZ2Z0VtYWlsVXBkYXRlc18yMzYxNzY3ZGQCCw8PFgIfCQUWdmdFbWFpbFVwZGF0ZXNfMjM2MTc2N2RkAg0PDxYCHwkFFnZnRW1haWxVcGRhdGVzXzIzNjE3NjdkZAIUDxYCHwgFBDIwMTZkGAEFLmN0bDAwJGNwRm9vdGVyRGV2b3Rpb25hbCRUNEUzMDY5MjcwMDUkbXZTaW5ndXAPD2RmZA4cBiKihNFdnvJXkP9+KT98FypEIFC+L3pNPYXM6a9k">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTEwOTU2NzU1Ng9kFgICAQ9kFgQCAw9kFgpmDxYCHhFPdXRwdXRDb21wcmVzc2lvbgspeVRlbGVyaWsuV2ViLlVJLk91dHB1dENvbXByZXNzaW9uLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDE1LjIuNjIzLjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQAZAIED2QWAgIBD2QWAmYPZBYEZg8WAh4LXyFJdGVtQ291bnQCBxYOAgEPZBYCAgEPFgIeBWNsYXNzZRYEAgEPDxYCHgtOYXZpZ2F0ZVVybAUMfi9icm9hZGNhc3RzZBYCZg8VAQpCcm9hZGNhc3RzZAIDDxYCHwECCRYSAgEPZBYCAgEPZBYCAgEPDxYCHwMFG34vYnJvYWRjYXN0cy9jdXJyZW50LXNlcmllc2QWAmYPFQERQ3VycmVudCBCcm9hZGNhc3RkAgIPZBYCAgEPZBYCAgEPDxYCHwMFFH4vYnJvYWRjYXN0cy9saWJyYXJ5ZBYCZg8VARFCcm9hZGNhc3QgTGlicmFyeWQCAw9kFgICAQ9kFgICAQ8PFgIfAwUUfi9icm9hZGNhc3RzL3BvZGNhc3RkFgJmDxUBB1BvZGNhc3RkAgQPZBYCAgEPZBYCAgEPDxYCHwMFGH4vYnJvYWRjYXN0cy9zdHMtc3R1ZGllc2QWAmYPFQELU1RTIFN0dWRpZXNkAgUPZBYCAgEPZBYCAgEPDxYCHwMFH34vYnJvYWRjYXN0cy9icm9hZGNhc3Qtc2NoZWR1bGVkFgJmDxUBEkJyb2FkY2FzdCBTY2hlZHVsZWQCBg9kFgICAQ9kFgICAQ8PFgIfAwUbfi9icm9hZGNhc3RzL3N0YXRpb24tZmluZGVyZBYCZg8VAQ5TdGF0aW9uIEZpbmRlcmQCBw9kFgICAQ9kFgICAQ8PFgIfAwUbaHR0cDovL3d3dy5pbnNpZ2h0d29ybGQub3JnZBYCZg8VAQ1JbnRlcm5hdGlvbmFsZAIID2QWAgIBD2QWAgIBDw8WAh8DBRl+L2Jyb2FkY2FzdHMvcGF3c2FuZHRhbGVzZBYCZg8VAQxQYXdzICYgVGFsZXNkAgkPZBYCAgEPZBYCAgEPDxYCHwMFG34vYnJvYWRjYXN0cy9jbGFzc2ljLXNlcmllc2QWAmYPFQEOQ2xhc3NpYyBTZXJpZXNkAgIPZBYCAgEPFgIfAmUWBAIBDw8WAh8DBQt+L3Jlc291cmNlc2QWAmYPFQEJUmVzb3VyY2VzZAIDDxYCHwECChYUAgEPZBYCAgEPZBYCAgEPDxYCHwMFHn4vcmVzb3VyY2VzL2JpYmxpY2FsLXJlc291cmNlc2QWAmYPFQESQmlibGljYWwgUmVzb3VyY2VzZAICD2QWAgIBD2QWAgIBDw8WAh8DBRx+L3Jlc291cmNlcy9kYWlseS1kZXZvdGlvbmFsZBYCZg8VARBEYWlseSBEZXZvdGlvbmFsZAIDD2QWAgIBD2QWAgIBDw8WAh8DBRF+L3Jlc291cmNlcy9iaWJsZWQWAmYPFQEVSW5zaWdodHMgb24gdGhlIEJpYmxlZAIED2QWAgIBD2QWAgIBDw8WAh8DBR1+L3Jlc291cmNlcy9pbnNpZ2h0cy1ieS10b3BpY2QWAmYPFQERSW5zaWdodHMgYnkgVG9waWNkAgUPZBYCAgEPZBYCAgEPDxYCHwMFG34vcmVzb3VyY2VzL2FydGljbGUtbGlicmFyeWQWAmYPFQEPQXJ0aWNsZSBMaWJyYXJ5ZAIGD2QWAgIBD2QWAgIBDw8WAh8DBRx+L3Jlc291cmNlcy9jaHVyY2gtcmVzb3VyY2VzZBYCZg8VARBDaHVyY2ggUmVzb3VyY2VzZAIHD2QWAgIBD2QWAgIBDw8WAh8DBRt+L3Jlc291cmNlcy9ob3ctdG8ta25vdy1nb2RkFgJmDxUBD0hvdyB0byBLbm93IEdvZGQCCA9kFgICAQ9kFgICAQ8PFgIfAwUcfi9yZXNvdXJjZXMvY2h1Y2tzLW5leHQtYm9va2QWAmYPFQERQ2h1Y2sncyBOZXh0IEJvb2tkAgkPZBYCAgEPZBYCAgEPDxYCHwMFGX4vcmVzb3VyY2VzL3ZpZGVvLWxpYnJhcnlkFgJmDxUBDVZpZGVvIExpYnJhcnlkAgoPZBYCAgEPZBYCAgEPDxYCHwMFHX4vcmVzb3VyY2VzL2luc2lnaHRzLXRvLXNoYXJlZBYCZg8VARFJbnNpZ2h0cyB0byBTaGFyZWQCAw9kFgICAQ8WAh8CZRYEAgEPDxYCHwMFCH4vZXZlbnRzZBYCZg8VAQZFdmVudHNkAgMPFgIfAQIE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ZWQWAmYPFQEGRG9uYXRlZAIDDxYCHwECCRYSAgEPZBYCAgEPZBYCAgEPDxYCHwMFFX4vZG9uYXRlL2RvbmF0ZS10b2RheWQWAmYPFQEIR2l2ZSBOb3dkAgIPZBYCAgEPZBYCAgEPDxYCHwMFFX4vZG9uYXRlL2dpdmUtbW9udGhseWQWAmYPFQEMR2l2ZSBNb250aGx5ZAIDD2QWAgIBD2QWAgIBDw8WAh8DBR1+L2RvbmF0ZS9vdGhlci1naXZpbmctb3B0aW9uc2QWAmYPFQEST3RoZXIgV2F5cyB0byBHaXZlZAIED2QWAgIBD2QWAgIBDw8WAh8DBRh+L2RvbmF0ZS9lc3RhdGUtcGxhbm5pbmdkFgJmDxUBHkdpdmluZyB0aHJvdWdoIEVzdGF0ZSBQbGFubmluZ2QCBQ9kFgICAQ9kFgICAQ8PFgIfAwUofi9kb25hdGUvc3RvY2stYW5kLWNlcnRpZmljYXRlLXRyYW5zZmVyc2QWAmYPFQEeR2l2aW5nIFRocm91Z2ggU3RvY2sgVHJhbnNmZXJzZAIGD2QWAgIBD2QWAgIBDw8WAh8DBRd+L2RvbmF0ZS9naXZpbmctaGlzdG9yeWQWAmYPFQEOR2l2aW5nIEhpc3RvcnlkAgcPZBYCAgEPZBYCAgEPDxYCHwMFGH4vZG9uYXRlL3doeS1zdXBwb3J0LWlmbGQWAmYPFQEIV2h5IEdpdmVkAggPZBYCAgEPZBYCAgEPDxYCHwMFF34vZG9uYXRlL29mZmxpbmUtZ2l2aW5nZBYCZg8VARZPZmZsaW5lIEdpdmluZyBhbmQgRUZUZAIJD2QWAgIBD2QWAgIBDw8WAh8DBSJ+L2RvbmF0ZS9tb250aGx5LWxldHRlci1mcm9tLWNodWNrZBYCZg8VARNUaGlzIE1vbnRoJ3MgTGV0dGVyZAICDxYCHhJTdGFydGluZ05vZGVPZmZzZXQC/////w9kAgYPZBYCAgEPZBYCZg9kFgJmD2QWAgIGD2QWDmYPZBYCAgEPFgQeBGhyZWYFCy9icm9hZGNhc3RzHgZ0YXJnZXRkFgJmDxUBCkJyb2FkY2FzdHNkAgEPZBYCAgEPFgQfBgUKL3Jlc291cmNlcx8HZBYCZg8VAQlSZXNvdXJjZXNkAgIPZBYCAgEPFgQfBgUHL2V2ZW50cx8HZBYCZg8VAQZFdmVudHNkAgMPZBYCAgEPFgQfBgUIL2Nvbm5lY3QfB2QWAmYPFQEHQ29ubmVjdGQCBA9kFgICAQ8WBB8GBQYvYWJvdXQfB2QWAmYPFQEFQWJvdXRkAgUPZBYCAgEPFgQfBgUGL3N0b3JlHwdkFgJmDxUBBVN0b3JlZAIGD2QWAgIBDxYEHwYFBy9kb25hdGUfB2QWAmYPFQEGRG9uYXRlZAISD2QWAgIBD2QWAmYPZBYGAgEPFgIeBFRleHQFDUVtYWlsIFVwZGF0ZXNkAgMPFgIfCAU9U2lnbiB1cCB0byByZWNlaXZlIGUtbWFpbCBmcm9tIEluc2lnaHQgZm9yIExpdmluZyBNaW5pc3RyaWVzLmQCBQ9kFgJmD2QWAgIBD2QWDAIBDxYCHwRoFgICBA8PFgYeD1ZhbGlkYXRpb25Hcm91cAUWdmdFbWFpbFVwZGF0ZXNfNzYxNzA3Nh4HRW5hYmxlZGgfBGhkZAIDDxYCHwRoFgICBA8PFgYfCQUWdmdFbWFpbFVwZGF0ZXNfNzYxNzA3Nh8KaB8EaGRkAgcPDxYCHwkFFnZnRW1haWxVcGRhdGVzXzc2MTcwNzZkZAIJDw8WAh8JBRZ2Z0VtYWlsVXBkYXRlc183NjE3MDc2ZGQCCw8PFgIfCQUWdmdFbWFpbFVwZGF0ZXNfNzYxNzA3NmRkAg0PDxYCHwkFFnZnRW1haWxVcGRhdGVzXzc2MTcwNzZkZAIUDxYCHwgFBDIwMTdkAgUPZBYEZg8WAh8IBXw8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCcgc3JjPSIvL2lwLmlmbG1lZGlhLm9yZy90cmFja2VyLnBocD91cmw9aHR0cDovL3d3dy5pbnNpZ2h0Lm9yZy9wcml2YWN5LXBvbGljeSIgYXN5bmM+PC9zY3JpcHQ+ZAIBDxYCHwgFfDxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9Ii8vaXAuaWZsbWVkaWEub3JnL3RyYWNrZXIucGhwP3VybD1odHRwOi8vd3d3Lmluc2lnaHQub3JnL3ByaXZhY3ktcG9saWN5IiBhc3luYz48L3NjcmlwdD5kGAEFLmN0bDAwJGNwRm9vdGVyRGV2b3Rpb25hbCRUNEUzMDY5MjcwMDUkbXZTaW5ndXAPD2RmZIIvYpMqACqjA+E6Wi+x5OeCkMaY8fv1ww6GZsc4b9e9">
 </div>
 
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form'];
+if (!theForm) {
+    theForm = document.form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
+
+<script src="/WebResource.axd?d=6KZQr7OVvA1JFOk_Dt49SxabivYyYrnbC_I8-Lc951H0CjOJ0-QD6oUr_K_Lt5jc35ejJAZ_LfYk_lFJePGAVbV_fVI4F5z6-B-aI9GDwRc1&amp;t=636264156700000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=pc70OSZKipgrFS3q7v5LfMrfTv3Nvz5vqiECWRVHF-9VA8SBjMolfirBcxqbovXUdBMV3KoNm34AE3DxsJnP8Frxo1Fjg5LhHojU6mqj-QIdPlk_QEFs6yC98TS0PEoDVAAZ3voVe6CgQ9o67ctxgkYDcwi6FvW34pTi_dVCCiI1&amp;t=6abbd6ed" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 var __cultureInfo = {"name":"en","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135575200000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM dd, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM dd, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM dd","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM, yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]},"eras":[1,"A.D.",null,0]};//]]>
 </script>
 
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl08_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3ad28568d3-e53e-4706-928f-3765912b66ca%3aea597d4b" type="text/javascript"></script><input type="hidden" name="ctl00$ctl08" id="ctl08">
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl08_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3aba042b74-ece8-499a-8da9-ecf37f7b3e32%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl08', 'form', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+<input type="hidden" name="ctl00$ctl08" id="ctl08">
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.setServerId("ctl08", "ctl00$ctl08");
@@ -89,7 +133,7 @@ Sys.Application._enableHistoryInScriptManager();
                         </li>
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_0_liItem_3">
-                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_0_lnkItem_3" href="broadcasts/message-mates">Message Mates</a>
+                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_0_lnkItem_3" href="broadcasts/sts-studies">STS Studies</a>
                         </li>
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_0_liItem_4">
@@ -146,7 +190,7 @@ Sys.Application._enableHistoryInScriptManager();
                         </li>
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_1_liItem_6">
-                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_1_lnkItem_6" href="/resources/insights-by-topic/how-to-know-god">How to Know God</a>
+                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_1_lnkItem_6" href="resources/how-to-know-god">How to Know God</a>
                         </li>
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_1_liItem_7">
@@ -155,6 +199,10 @@ Sys.Application._enableHistoryInScriptManager();
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_1_liItem_8">
                             <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_1_lnkItem_8" href="resources/video-library">Video Library</a>
+                        </li>
+                    
+                        <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_1_liItem_9">
+                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_1_lnkItem_9" href="resources/insights-to-share">Insights to Share</a>
                         </li>
                          
                         </ul>
@@ -171,11 +219,15 @@ Sys.Application._enableHistoryInScriptManager();
                         </li>
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_2_liItem_1">
-                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_2_lnkItem_1" href="events/alaska-2017">Alaska 2017</a>
+                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_2_lnkItem_1" href="events/alaska">Alaska 2017</a>
                         </li>
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_2_liItem_2">
-                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_2_lnkItem_2" href="http://2016-israel.iflblog.com/">2016 Israel Travelers' Blog</a>
+                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_2_lnkItem_2" href="events/israel">Israel 2018</a>
+                        </li>
+                    
+                        <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_2_liItem_3">
+                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_2_lnkItem_3" href="http://2016-israel.iflblog.com/">2016 Israel Travelers' Blog</a>
                         </li>
                          
                         </ul>
@@ -200,11 +252,11 @@ Sys.Application._enableHistoryInScriptManager();
                         </li>
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_liItem_3">
-                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_lnkItem_3" href="http://insight.org/resources/church-resources/the-pastors-blog">Pastor's Blog</a>
+                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_lnkItem_3" href="connect/pastor's-blog">Pastor's Blog</a>
                         </li>
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_liItem_4">
-                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_lnkItem_4" href="http://reframingministries.iflblog.com/?utm_source=insight.org&amp;utm_medium=top-menu&amp;utm_content=connect&amp;utm_campaign=Reframing-blog">Reframing Ministries Blog</a>
+                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_lnkItem_4" href="connect/reframing-ministries-blog">Reframing Ministries Blog</a>
                         </li>
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_liItem_5">
@@ -224,11 +276,7 @@ Sys.Application._enableHistoryInScriptManager();
                         </li>
                     
                         <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_liItem_9">
-                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_lnkItem_9" href="connect/ilistentochuck">I Listen to Chuck</a>
-                        </li>
-                    
-                        <li id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_liItem_10">
-                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_lnkItem_10" href="connect/pray-for-ifl">Pray for IFL</a>
+                            <a id="cpNavigation_T4E306927001_rptNav_rptSubNav_3_lnkItem_9" href="connect/pray-for-ifl">Pray for IFL</a>
                         </li>
                          
                         </ul>
@@ -505,19 +553,19 @@ Sys.Application._enableHistoryInScriptManager();
     <p>Sign up to receive e-mail from Insight for Living Ministries.</p>
 	<div class="form-group">
 	    
-	            <div id="cpFooterDevotional_T4E306927005_pnlEmailSignup">
+	            <div id="cpFooterDevotional_T4E306927005_pnlEmailSignup" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'cpFooterDevotional_T4E306927005_btnSubmit')">
 	
 	                
                     
                     <label for="cpFooterDevotional_T4E306927005_txtEmail" id="cpFooterDevotional_T4E306927005_lblEmail" class="sr-only">Email address</label>
 	                <input name="ctl00$cpFooterDevotional$T4E306927005$txtEmail" id="cpFooterDevotional_T4E306927005_txtEmail" class="form-control" placeholder="Email Address" type="email">
                     <div class="error">
-                        
+                        <span id="cpFooterDevotional_T4E306927005_rfvEmailAddress" style="display:none;">Please enter your email address</span>
                     </div>
                     <div class="error">
-                        
+                        <span id="cpFooterDevotional_T4E306927005_revEmailAddress" style="display:none;">Please enter a valid email address</span>
                     </div>
-                    <input type="submit" name="ctl00$cpFooterDevotional$T4E306927005$btnSubmit" value="Sign up" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cpFooterDevotional$T4E306927005$btnSubmit&quot;, &quot;&quot;, true, &quot;vgEmailUpdates_2361767&quot;, &quot;&quot;, false, false))" id="cpFooterDevotional_T4E306927005_btnSubmit" class="btn">
+                    <input type="submit" name="ctl00$cpFooterDevotional$T4E306927005$btnSubmit" value="Sign up" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cpFooterDevotional$T4E306927005$btnSubmit&quot;, &quot;&quot;, true, &quot;vgEmailUpdates_7617076&quot;, &quot;&quot;, false, false))" id="cpFooterDevotional_T4E306927005_btnSubmit" class="btn">
 	            
 </div>
 	        
@@ -529,7 +577,7 @@ Sys.Application._enableHistoryInScriptManager();
 					    <div class="row">
 					        <div class="col-sm-12 copy-follow">
 					            <hr>
-						        <p>© 2016 Insight for Living Ministries. <span>All rights reserved.</span><a class="ascendio" href="http://ascendio.com" target="_blank">Site by Ascendio</a></p>
+						        <p>© 2017 Insight for Living Ministries. <span>All rights reserved.</span><a class="ascendio" href="http://ascendio.com" target="_blank">Site by Ascendio</a></p>
                                 
 <div class="sfContentBlock"><p class="social">Follow us: <a class="fa fa-facebook" href="https://www.facebook.com/pages/Insight-for-Living/90063340236?ref=ts"></a><a class="fa fa-twitter" href="https://twitter.com/ifl_usa"></a><a class="fa fa-pinterest-p" href="https://www.pinterest.com/insight4living/"></a><a class="fa fa-youtube" href="https://www.youtube.com/user/insightforliving"></a></p>
 
@@ -541,13 +589,73 @@ Sys.Application._enableHistoryInScriptManager();
 			    </section>
 		    </footer>
         
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("cpFooterDevotional_T4E306927005_rfvEmailAddress"), document.getElementById("cpFooterDevotional_T4E306927005_revEmailAddress"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var cpFooterDevotional_T4E306927005_rfvEmailAddress = document.all ? document.all["cpFooterDevotional_T4E306927005_rfvEmailAddress"] : document.getElementById("cpFooterDevotional_T4E306927005_rfvEmailAddress");
+cpFooterDevotional_T4E306927005_rfvEmailAddress.controltovalidate = "cpFooterDevotional_T4E306927005_txtEmail";
+cpFooterDevotional_T4E306927005_rfvEmailAddress.errormessage = "Please enter your email address";
+cpFooterDevotional_T4E306927005_rfvEmailAddress.display = "Dynamic";
+cpFooterDevotional_T4E306927005_rfvEmailAddress.validationGroup = "vgEmailUpdates_7617076";
+cpFooterDevotional_T4E306927005_rfvEmailAddress.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+cpFooterDevotional_T4E306927005_rfvEmailAddress.initialvalue = "";
+var cpFooterDevotional_T4E306927005_revEmailAddress = document.all ? document.all["cpFooterDevotional_T4E306927005_revEmailAddress"] : document.getElementById("cpFooterDevotional_T4E306927005_revEmailAddress");
+cpFooterDevotional_T4E306927005_revEmailAddress.controltovalidate = "cpFooterDevotional_T4E306927005_txtEmail";
+cpFooterDevotional_T4E306927005_revEmailAddress.errormessage = "Please enter a valid email address";
+cpFooterDevotional_T4E306927005_revEmailAddress.display = "Dynamic";
+cpFooterDevotional_T4E306927005_revEmailAddress.validationGroup = "vgEmailUpdates_7617076";
+cpFooterDevotional_T4E306927005_revEmailAddress.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+cpFooterDevotional_T4E306927005_revEmailAddress.validationexpression = "^(([A-Za-z0-9]+_+)|([A-Za-z0-9]+\\-+)|([A-Za-z0-9]+\\.+)|([A-Za-z0-9]+\\++))*[A-Za-z0-9]+@((\\w+\\-+)|(\\w+\\.))*\\w{1,63}\\.[a-zA-Z]{2,6}$";
+//]]>
+</script>
+
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F4714394">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOYguqYU0IKS0bepA6cXXH82Dai5Ya/kQ3CXuFO5KSGAx7Izuu3dmshlOkObx1l2mztMAVA1Fd444Yn0ZrmBSlXYCTWMMU3c2q2aPDRa8t+fg==">
-</div></form>
-	    
-    <script type="text/javascript">document.write('<script src="https://ip.iflmedia.org/tracker.php?url=' + window.location.href + '"><\/script>');</script><script src="https://ip.iflmedia.org/tracker.php?url=https://web.archive.org/web/20161201221220id_/http%3A//www.insight.org/privacy-policy"></script>
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAANUccZUY6/qjsC4DoFd/01s2Dai5Ya/kQ3CXuFO5KSGAx7Izuu3dmshlOkObx1l2mwgvDfE1bL+NPdKjiKU+IXgUHgPRK2yzM7tLwzmtZNpCA==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+
+document.getElementById('cpFooterDevotional_T4E306927005_rfvEmailAddress').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cpFooterDevotional_T4E306927005_rfvEmailAddress'));
+}
+
+document.getElementById('cpFooterDevotional_T4E306927005_revEmailAddress').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cpFooterDevotional_T4E306927005_revEmailAddress'));
+}
+//]]>
+</script>
+</form>
+	    <script type="text/javascript" src="//ip.iflmedia.org/tracker.php?url=http://www.insight.org/privacy-policy" async=""></script>
 	<script type="text/javascript" src="/js/plugins.min.js"></script>
 	<script type="text/javascript" src="/js/main.min.js"></script>
 
