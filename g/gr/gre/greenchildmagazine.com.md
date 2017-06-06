@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the greenchildmagazine.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208154913id_/http%3A//www.greenchildmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenchildmagazine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060825id_/http%3A//www.greenchildmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Fresh Green Media, LLC Privacy Policy**  
-Updated on August 23, 2016
+Updated on January 25, 2017
 
 At Fresh Green Media, LLC (parent company of Green Child Magazine), your privacy is important to us. This privacy policy applies to all websites, apps, services and publications provided by Fresh Green Media, LLC (FGM, LLC).
 
@@ -49,9 +49,15 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Affiliate Disclosure
+**Affiliate Disclosure**
 
-Green Child Magazine is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to products we feel our readers may find helpful on [amazon.com](http://amzn.to/2beL8dO).
+In compliance with the FTC guidelines, please assume the following about all links, posts, photos and other material on this website:
+
+Any/all of the links on this website are affiliate links of which Fresh Green Media, LLC receives a small commission from sales of certain items, but the price is the same for you.
+
+Green Child Magazine is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to products we feel our readers may find helpful on [Amazon.com](http://amzn.to/2jqLXV4).
+
+For instance, if you click on a link on this website for an [Instant Pot](http://amzn.to/2kutsRu), [glass storage cubes](http://amzn.to/2jghber), [baby swing](http://amzn.to/2j6ahgq), or any other item we link to from Amazon, we will receive a small commission (the average is around $1.00 to $1.42 per item).
 
 **Children’s Online Privacy Protection Act Compliance**
 
@@ -64,3 +70,18 @@ By using our site, you consent to our websites privacy policy.
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
+
+  * About
+  * Latest Posts
+
+
+
+[](http://www.greenchildmagazine.com/ "Green Child Magazine")
+
+### [Green Child Magazine](http://www.greenchildmagazine.com/)
+
+Since 2010, Green Child has published a digital magazine devoted to natural parenting and conscious living. Hailed as “good for a green mama’s soul,” Green Child has grown into a resource valued by parents who care about bringing simplicity, compassion, social responsibility, and instinctual intelligence back to parenting.
+
+[](http://www.greenchildmagazine.com/ "Green Child Magazine")
+
+#### Latest posts by Green Child Magazine ([see all](http://www.greenchildmagazine.com/author/green-child-magazine/))
