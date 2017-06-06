@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guide2research.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127041312id_/http%3A//www.guide2research.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guide2research.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075208id_/http%3A//www.guide2research.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Guide 2 Research « Guide 2 Research
 
 [Home](http://www.guide2research.com/)  »  Privacy Policy
 
