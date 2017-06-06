@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superheroyou.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103094328id_/http%3A//superheroyou.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superheroyou.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060254id_/http%3A//superheroyou.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - SuperheroYou
 
@@ -42,7 +42,7 @@ This Site strives to offer its visitors the many advantages of Internet technolo
 
 ## II. Personally Identifiable Information That We Collect
 
-Kwik Learning respects your privacy and is committed to protecting personally identifiable information that you provide in connection with your use of its websites and Services. We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). This Site only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. This Site collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you. 
+Kwik Learning respects your privacy and is committed to protecting personally identifiable information that you provide in connection with your use of its websites and Services. We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). This Site only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. This Site collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
 
 Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online — for example on message boards, web logs, through email, or in chat areas — that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information. 
 
@@ -110,7 +110,7 @@ COMPANY encourages parents and guardians to spend time online with their childre
 
 **a.** Non-Personally Identifiable Information
 
-From time to time, Kwik Learning may use and share with third parties aggregate, non-personally identifiable user information to show general demographic and preference information among users of the COMPANY Web sites. When you visit or download information from this Site, our web servers may automatically collect website usage information. Website usage information is non-personally identifying information that describes how our visitors use the Site. It can include the number and frequency of visitors to each web page and the length of their stays, browser type, referrer data that identifies the web page visited prior and subsequent to visiting the Site, and IP addresses (see below for more information on IP addresses). COMPANY may use IP addresses for a number of purposes, such as system administration, to generally determine your computer’s server location, to report aggregate information to our business partners or to audit use of the Site. We also may determine your screen resolution and the technology available in order to serve you the most appropriate version of a web page, e-mail or similar service. 
+From time to time, Kwik Learning may use and share with third parties aggregate, non-personally identifiable user information to show general demographic and preference information among users of the COMPANY Web sites. When you visit or download information from this Site, our web servers may automatically collect website usage information. Website usage information is non-personally identifying information that describes how our visitors use the Site. It can include the number and frequency of visitors to each web page and the length of their stays, browser type, referrer data that identifies the web page visited prior and subsequent to visiting the Site, and IP addresses (see below for more information on IP addresses). COMPANY may use IP addresses for a number of purposes, such as system administration, to generally determine your computer’s server location, to report aggregate information to our business partners or to audit use of the Site. We also may determine your screen resolution and the technology available in order to serve you the most appropriate version of a web page, e-mail or similar service.
 
 **b.** Personally Identifiable Information
 
@@ -136,7 +136,7 @@ Whenever you give COMPANY sensitive or confidential information (for example, cr
 
 ## XIV. Hyperlinks To and From Other Sites
 
-Kwik Learning sites may frame, and/or contain links to, or advertisements about, non- COMPANY Web sites. Other sites may also reference, advertise, or link to COMPANY websites. COMPANY does not endorse or sponsor other websites, is not responsible for the privacy practices or the content of non-COMPANY sites, expressly disclaims any statements or assertions made on such websites, and denies and disclaims all liability associated with your use of, and the content on, such other sites and advertisements. 
+Kwik Learning sites may frame, and/or contain links to, or advertisements about, non- COMPANY Web sites. Other sites may also reference, advertise, or link to COMPANY websites. COMPANY does not endorse or sponsor other websites, is not responsible for the privacy practices or the content of non-COMPANY sites, expressly disclaims any statements or assertions made on such websites, and denies and disclaims all liability associated with your use of, and the content on, such other sites and advertisements.
 
 The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
@@ -148,8 +148,7 @@ Please also note that as our business grows, we may buy or sell various assets. 
 
 ## XV. Consent to Processing in the United States
 
-By providing any personally identifiable information to Kwik Learning, all users, including, without limitation, users in the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection, storage, and processing of such information in the United States of America.  
-
+By providing any personally identifiable information to Kwik Learning, all users, including, without limitation, users in the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection, storage, and processing of such information in the United States of America.
 
 ## XVI. Contact Us Regarding Privacy
 
