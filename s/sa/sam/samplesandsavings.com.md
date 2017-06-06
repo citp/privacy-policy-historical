@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samplesandsavings.com privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921200217id_/http%3A//www.samplesandsavings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplesandsavings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182251id_/http%3A//www.samplesandsavings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Samples and Savings
+# Privacy Policy | Samples and Savings
 
 **Privacy  
 Policy**
@@ -13,7 +13,7 @@ Last Revised: April 15, 2016**
 
 This privacy policy (“Policy”) covers  
 [www.SamplesAndSavings.com](http://www.samplesandsavings.com/), a samples and savings themed website (the “Site”),  
-created, owned and operated by Reward Zone USA, LLC (“us” or “we”) and is  
+created, owned and operated by SamplesAndSavings.com (“us” or “we”) and is  
 applicable to all information about you (“you” or “your”) collected through a  
 Site.  All references in this Policy to the Site includes future samples and  
 savings themed Sites that we and our Affiliates (defined below) may create, own  
@@ -80,50 +80,50 @@ Information We Collect**
 We may use the Information  
 (whether PII or non-PII) that a User provides us to, among other things:
 
-·         
+·  
 Help administer and protect the  
 security of the Site and provide communication and other services and, in that  
 regard, may share Information with third parties, including vendors and  
 contractors who provide services to us;
 
-·         
+·  
 Process or complete  
 transactions that a User requests including providing a User’s Information to  
 Affiliates and other third parties;
 
-·         
+·  
 Contact Users regarding  
-customer service and administrative issues, such as questions about a User’s   
+customer service and administrative issues, such as questions about a User’s  
 specific request, or otherwise respond to a User’s comments or requests;
 
-·         
+·  
 Send Users emails with  
 information and offers from us, our marketing partners and/or Affiliates;
 
-·         
+·  
 Maintain suppression or opt-out  
 lists that we may share with third parties so that a User is not  contacted  
 when the User has asked not to be;
 
-·         
+·  
 Develop and/or enhance products  
 and/or services by our Affiliates and/or third parties;
 
-·         
+·  
 Make telephone calls and send  
 text messages to you with information and offers provided you consent to be  
 marketed to in this manner as described further below;
 
-·         
+·  
 Compile anonymous statistical  
 information and analysis which may be provided to Affiliates and other third  
 parties;
 
-·         
+·  
 Provide, sell, or rent your  
 Information to Affiliates and other third parties for advertising purposes; and
 
-·         
+·  
 Permit you to access certain  
 web-based programs or applications on the Site.
 
@@ -207,7 +207,7 @@ your consent to receive telemarketing calls.
 **Opting-Out**
 
 Users may opt-out from receiving  
-future offers from us including have their email address removed –   
+future offers from us including have their email address removed –  
 unsubscribed – from email marketing lists by following the Opt-Out instructions  
 contained in the marketing communication or by [clicking here](http://contact.samplesandsavings.com/unsub.aspx).  If you receive offers or other communications from our  
 third party marketing partners and would like to opt-out from future  
@@ -279,7 +279,7 @@ tailor the User’s experience should they visit our Site or sites belonging to
 our Affiliate in the future.  Setting your browser to “do not track” will have  
 no impact on these practices.   
 
-**Changes to this Privacy Policy    
+**Changes to this Privacy Policy  
 **
 
 We reserve the right to revise and  
