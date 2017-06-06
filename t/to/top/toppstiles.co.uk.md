@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122213410id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122741id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Topps Tiles
 
 Topps Tiles (UK) Ltd. (company number 4781209) ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of website use](https://web.archive.org/page63/terms-of-website-use.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.toppstiles.co.uk you are accepting and consenting to the practices described in this policy.
+This updated policy (together with our [terms of website use](https://web.archive.org/page63/terms-of-website-use.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.toppstiles.co.uk you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Topps Tiles (UK) Ltd. (company number 4781209) of Grove Park, Thorpe Way, Enderby, Leicestershire, LE19 1SU.
 
@@ -33,7 +33,10 @@ We use information held about you in the following ways:
     * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
     * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the [order form **OR** registration form]);
     * to notify you about changes to our service;
+    * where you are a member of any customer loyalty or reward scheme to notify you about changes in relation to the scheme's terms and conditions and any potential loss of benefits that may have accrued to you by virtue of your membership of such scheme
     * to ensure that content from our site is presented in the most effective manner for you and for your computer.
+
+
   * **Information we collect about you.** We will use this information: 
     * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
     * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
@@ -90,3 +93,5 @@ Any changes we may make to our privacy policy in the future will be posted on th
 **CONTACT**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to customerservices@toppstiles.co.uk
+
+Last updated 26/01/2017
