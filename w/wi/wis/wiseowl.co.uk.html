@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wiseowl.co.uk privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120230314id_/http%3A//www.wiseowl.co.uk/sundry/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wiseowl.co.uk privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606034028id_/http%3A//www.wiseowl.co.uk/sundry/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,11 +46,15 @@
                             <li><a href="/sundry/about-wise-owl/">What we do</a></li>
                             <li><a href="/trainers/">Meet the Wise Owls</a></li>
                             <li><a href="/benefits/">Why we're different</a></li>
+                            <li><a href="/mannequin/">Watch a course!</a></li>
                             <li><a href="/enquiry/">Contact us</a></li>
                         </ul>
                     </li>
                     <li><a href="/venue/">Venues</a></li>
-                    <li><a href="/reviews/">900+ testimonials</a></li>
+                   
+
+
+                     <li><a href="/reviews/" title="505 testimonials in the last 3 years">505 testimonials</a></li>
                     <li class="dropdown">
                         <a href="/resources/">Resources</a>
                         <ul>
@@ -91,8 +95,10 @@
                     <div class="our-courses__dropdown">
 
                         
-                        <div class="col our-courses-excel">
-                            <h2><a href="/excel/" title="MS Excel training courses">Microsoft Excel training +</a></h2>
+                        <div class="col">
+                            <h2><a href="/excel/" title="MS Excel training courses">
+                                <img id="col-excel-training" src="/Images/course_menu/excel-training-blue.png" alt="Excel training" title="Excel training">
+                            </a></h2>
                             <ul>
                                 <li><a href="/excel/" title="Excel training courses">Excel training</a></li>
                                 <li><a href="/vba-macros/" title="Visual Basic for Applications courses">VBA (macros)</a></li>
@@ -103,8 +109,10 @@
                         </div>
 
                         
-                        <div class="col our-courses-sql-server">
-                            <h2><a href="/sql-server/" title="SQL Server training">SQL Server training</a></h2>
+                        <div class="col">
+                            <h2><a href="/sql-server/" title="SQL Server training">
+                                <img id="col-sql-server" src="/Images/course_menu/sql-server-blue.png" alt="SQL Server training" title="SQL Server training">
+                            </a></h2>
                             <ul>
                                 <li><a href="/sql/" title="SQL training courses">Writing SQL</a></li>
                                 <li><a href="/integration-services/" title="SQL Server Integration Services training">Integration Services</a></li>
@@ -115,20 +123,24 @@
                         </div>
 
                         
-                        <div class="col our-courses-programming">
-                            <h2><a href="/programming/" title="VB, VBA, C#, SQL and DAX training">Programming courses</a></h2>
+                        <div class="col">
+                            <h2><a href="/programming/" title="VB, VBA, C#, SQL and DAX training">
+                                <img id="col-prog-course" src="/Images/course_menu/prog-course-blue.png" alt="Programming courses" title="Programming courses">   
+                            </a></h2>
                             <ul>
                                 <li><a href="/sql/" title="SQL training courses">T-SQL</a></li>
                                 <li><a href="/vba-macros/" title="VBA training courses">VBA macros</a></li>
                                 <li><a href="/c-sharp/" title="Visual C# training courses">C#</a></li>
                                 <li><a href="/visual-basic/" title="Visual Basic training">Visual Basic</a></li>
-                                <li><a href="/powerpivot/" title="DAX training">DAX</a></li>
+                                <li><a href="/asp-net/" title="ASP.NET training">ASP.NET</a></li>
                             </ul>
                         </div>
 
                         
-                        <div class="col our-courses-bi">
-                            <h2><a href="/business-intelligence/" title="Business Intelligence (BI) training">Business Intelligence</a></h2>
+                        <div class="col">
+                            <h2><a href="/business-intelligence/" title="Business Intelligence (BI) training">
+                                <img id="col-business-int" src="/Images/course_menu/business-int-blue.png" alt="Business Intelligence training" title="Business Intelligence training">
+                            </a></h2>
                             <ul>
                                 <li><a href="/reporting-services/" title="Reporting Services training">SSRS</a></li>
                                 <li><a href="/courses/ssas-tabular-analysis-services.htm" title="Analysis Services (tabular model) training">SSAS (Tabular)</a></li>
@@ -311,7 +323,7 @@ We never give your details to third parties to use your data to enable them to p
             </div>
             <div class="large-12 columns tac">
                 <div class="footer-note">
-                    <p>© Wise Owl Business Solutions Ltd 2016. All Rights Reserved</p>
+                    <p>© Wise Owl Business Solutions Ltd 2017. All Rights Reserved</p>
                     <p><a href="/site-map.htm">Sitemap</a></p>
                     <p><a href="/sundry/terms-conditions/">Terms &amp; Conditions</a></p>
                     <p><a href="/sundry/privacy-policy/">Privacy policy</a></p>
@@ -340,6 +352,18 @@ We never give your details to third parties to use your data to enable them to p
 
         ga('create', 'UA-7467174-1', 'auto');
         ga('send', 'pageview');
+        
+    </script>
+
+    <script>
+
+        // mouse overs for course menu (attribute starts with ...)
+        var thisImage = '/images/course_menu/';
+        $('[id^="col-"]').hover(function () {
+            $(this).attr('src', thisImage + this.id.substring(4) + '-white.png');
+        }, function () {
+            $(this).attr('src', thisImage + this.id.substring(4) + '-blue.png');
+        });
 
     </script>
 
