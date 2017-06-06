@@ -1,25 +1,40 @@
-<!--The following is the downloaded HTML source of the flixbus.com privacy policy that was archived on 2015-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151114200348id_/https%3A//www.flixbus.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flixbus.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606184039id_/https%3A//www.flixbus.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-QFH9M"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMGV1JaGwIBVFNXBQcA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document;t(2);var f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+  <meta itemprop="name" content="FlixBus">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-QFH9M"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W6FDFB"></script><script async="" src="//try.abtasty.com/1b8fd245af1d84da60e62df6477d800e.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMGV1JaGwIBVFNXBQcA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="mobile-web-app-capable" content="yes">
   <meta property="og:image" content="https://www.flixbus.de/sites/default/files/facebookimage.png?17082015ver1">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="alternate" hreflang="de-de" href="https://www.flixbus.de/datenschutz">
+    <link rel="manifest" href="/sites/all/themes/flixbus_2014/templates/app-install-banner/manifest.json">
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="alternate" hreflang="de" href="https://www.flixbus.de/datenschutz">
+<link rel="alternate" hreflang="de-at" href="https://www.flixbus.at/datenschutz">
+<link rel="alternate" hreflang="da" href="https://www.flixbus.dk/privatlivspolitik">
 <link rel="alternate" hreflang="cs" href="https://www.flixbus.cz/ochrana-osobnich-udaju">
 <link rel="alternate" hreflang="fr" href="https://www.flixbus.fr/confidentialite">
-<link rel="alternate" hreflang="nl" href="https://www.flixbus.nl/privacyverklaring">
-<link rel="alternate" hreflang="sv" href="https://www.flixbus.se/sekretesspolicy">
-<link rel="alternate" hreflang="da" href="https://www.flixbus.dk/privatlivspolitik">
 <link rel="alternate" hreflang="fr-be" href="https://fr.flixbus.be/confidentialite">
+<link rel="alternate" hreflang="hr" href="https://www.flixbus.hr/zastita-podataka">
+<link rel="alternate" hreflang="sv" href="https://www.flixbus.se/sekretesspolicy">
+<link rel="alternate" hreflang="ru" href="https://www.flixbus.ru/zashhita-dannyh">
+<link rel="alternate" hreflang="nl" href="https://www.flixbus.nl/privacyverklaring">
 <link rel="alternate" hreflang="nl-be" href="https://www.flixbus.be/privacyverklaring">
+<link rel="alternate" hreflang="pl" href="https://www.flixbus.pl/polityka-prywatnosci">
 <link rel="alternate" hreflang="es" href="https://www.flixbus.es/politica-privacidad">
-<link rel="alternate" hreflang="it" href="https://www.flixbus.it/normativa-privacy">
-<link rel="alternate" hreflang="de-at" href="https://www.flixbus.at/datenschutz">
+<link rel="alternate" hreflang="ro" href="https://www.flixbus.ro/politica-de-confidentialitate">
+<link rel="alternate" hreflang="sl" href="https://www.flixbus.si/pravilnik-o-zasebnosti">
+<link rel="alternate" hreflang="sr" href="https://www.flixbus.rs/zastita-podataka">
+<link rel="alternate" hreflang="hu" href="https://www.flixbus.hu/adatvedelem">
+<link rel="alternate" hreflang="nb" href="https://www.flixbus.no/personvernregler">
 <link rel="alternate" hreflang="tr" href="https://tr.flixbus.com/veri-koruma">
+<link rel="alternate" hreflang="bg" href="https://www.flixbus.bg/poveritelnost">
+<link rel="alternate" hreflang="it" href="https://www.flixbus.it/normativa-privacy">
+<link rel="alternate" hreflang="sk" href="https://www.flixbus.sk/ochrana-osobnych-udajov">
 <link rel="alternate" hreflang="en" href="https://www.flixbus.com/privacy-policy">
+<link rel="alternate" hreflang="en-gb" href="https://www.flixbus.co.uk/privacy">
 <link rel="alternate" hreflang="x-default" href="https://www.flixbus.com/privacy-policy">
 <link rel="shortcut icon" href="https://www.flixbus.com/sites/all/themes/flixbus_2014/favicon.ico" type="image/vnd.microsoft.icon">
 <meta name="description" content="Data Privacy Statement and Consent for Data Usage. Your data is safe at FlixBus!">
@@ -30,14 +45,9 @@
 <meta name="google-play-app" content="app-id=de.flixbus.app">
 <meta name="apple-itunes-app" content="app-id=778437357">
   <title>Data Privacy → FlixBus</title>
-  <link type="text/css" rel="stylesheet" href="https://www.flixbus.com/sites/default/files/advagg_css/css__9cWqptSUNYq5YedfIwh33VxtugFVWjDdEsblT8GhLKI__quUjyhSfbEukHj8a0hYvzm9VTmPALmSZvA0xfM_Oxzo__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.flixbus.com/sites/default/files/advagg_css/css___7ECjJE-VfQ1zqoufXer48AAPkG6S0wc6p3ufIsJ9XI__DZeIOHXkKIOJ8IfcFiQkKnAGHPF9vSyxSEFaDeQ3GkI__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.flixbus.com/sites/default/files/advagg_css/css__hXSp7Bb5s0tKM5IeuEEFTNrvZ-rf9NHfgrmjZy6kxNU__noSTyFWw7peXXyNjj2pjbTB1pIG7ejfcauEQm-4H9WE__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.flixbus.com/sites/default/files/advagg_css/css__9y14cSNsoV_R4vDDKp3ZYlyLCAd0hFl1cUUuzGCQc1k__EVecfHXrvq32JpSmPDp9owvCyJ5wKx_pgZ41yoKzpYU__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.flixbus.com/sites/default/files/advagg_css/css__nM5bGpDXzYDoTrI0tE90YxKIh2O2Li8smtzz5Cqxa9g__MTo_j3cZ7a_5BFcDoJou4N9gFySzxvBATwdoM9KRKug__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.css" media="all">
-  <script src="https://cdn.optimizely.com/js/1916610717.js"></script>
-
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800&amp;subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+  <link type="text/css" rel="stylesheet" href="//www.flixbus.com/sites/default/files/advagg_css/css__9Pe-hE0Nkel5FPeElbrULf-5vRNG8MaBQuNZyJXONqo__sDbfKF94M3IcII3-KvfICuM5b12OFoqInyzbQMxkHXA__SZV6ZsKJOXXk9rAz6l0QdFzP29kNPbSDIIJG2n4oWq4.css" media="all">
+  <script> (function (i, s, o, g, r, a, m) { i[r] = i[r] || [], i['abtiming'] = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//try.abtasty.com/1b8fd245af1d84da60e62df6477d800e.js', '_abtasty'); </script>
 
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
@@ -55,18 +65,14 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <script src="https://www.flixbus.com/sites/default/files/advagg_js/js__dU859nniAHOO3ZZ49DZUXr5Frl9T3QSa81hYdDf9Uas__ktfy3vRZCP1kqHMr0STpLbgL2jP61kiGIl64IhbE_Sk__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.js"></script>
-<script src="https://www.flixbus.com/sites/default/files/advagg_js/js__J367ahxs0z324sA8sL-NlytxIvtukuO45EF0nrQMnqU__UPPs-OUsgvcA4dqA6QBaRAulQTwwYpc5tXF3v062w9Y__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.js"></script>
-<script src="https://www.flixbus.com/sites/default/files/advagg_js/js__7lxxr7aUwBrU7vBlNxe7eaIc6L8FkgiytRtbIyix6Jw__uzfIsNlQeDMP-484B6sGU1Idf_ZcHfH3BtuQwvEM-gs__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.js"></script>
-<script src="https://www.flixbus.com/sites/default/files/advagg_js/js__u1iFAevITclGrekL0a96OLY6nG0OksfFi0ABkvKwCJc__sRL1_ZfUnHPLm1abgqZ4ZYhPf5ig6CuTxXD19h1zDRc__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.js"></script>
-<script src="https://www.flixbus.com/sites/default/files/advagg_js/js__VzRc3uSE_JH2PqKxLwp3h6Nmlqt8GAQu4UvuU3mSjAM__IuUHN-ZIYb8Kp8-ZD7zgxhkWVLC5INJwtkITe8AN6xs__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.js"></script>
-<script src="https://www.flixbus.com/sites/default/files/advagg_js/js__IxSHOBp_A8ieMjBfvHmDzp-SjCsS35zoFbutfg8qLrM__dzC6Zc8aIth7WR0Mv23Brg6FXUN7eJY4Q5lHZVoHyqE__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"flixbus_2014","theme_token":"s3kljqQRV4hw1ojpHfoSTA9ct74ccbqpbbh6MFGMzPk","jquery_version":"1.10","css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/libraries\/ms-Dropdown\/css\/msdropdown\/dd.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.css":1,"sites\/all\/modules\/custom\/fb_admin\/css\/fb_admin.css":1,"sites\/all\/modules\/custom\/fb_static_page\/css\/fb_static_page.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/flixbus_2014\/layouts\/top2column\/top2column.css":1,"sites\/all\/themes\/flixbus_2014\/layouts\/threeRegionPage\/threeRegionPage.css":1,"sites\/all\/themes\/flixbus_2014\/layouts\/miniHtmlFree\/miniHtmlFree.css":1,"sites\/all\/modules\/contrib\/lang_dropdown\/msdropdown\/css\/msdropdown\/ldsSkin.css":1,"sites\/all\/themes\/flixbus_2014\/sassBootstrap\/stylesheets\/jquery.selectBoxIt.css":1,"sites\/all\/themes\/flixbus_2014\/sassBootstrap\/stylesheets\/styles.css":1},"js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/color.js":1,"sites\/all\/modules\/contrib\/lazyloader\/jquery.lazyloader.js":1,"sites\/all\/modules\/contrib\/linkit\/js\/linkit.js":1,"sites\/all\/modules\/custom\/fb_base\/js\/locale.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/all\/libraries\/ms-Dropdown\/js\/msdropdown\/jquery.dd.min.js":1,"sites\/all\/modules\/contrib\/lang_dropdown\/lang_dropdown.js":1,"sites\/all\/themes\/flixbus_2014\/js\/bootstrap.min.js":1,"sites\/all\/themes\/flixbus_2014\/js\/jquery.selectBoxIt.min.js":1,"sites\/all\/themes\/flixbus_2014\/js\/customscript.js":1,"sites\/all\/themes\/flixbus_2014\/js\/smartbanner.js":1,"sites\/all\/themes\/flixbus_2014\/js\/passengers.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1}},"fb_base":{"locale":{"language":{"language":"en","name":"English","native":"English","direction":"0","enabled":"1","plurals":"0","formula":"","domain":"www.flixbus.com","prefix":"","weight":"-10","javascript":"","provider":"locale-url","init_language":"en","dir":"ltr"},"languageList":{"en":"en","de":"de","tr":"tr","de-at":"at","it":"it","nl":"nl","fr":"fr","cs":"cs","sv":"sv","da":"da","ru":"ru","es":"es","pl":"pl","nl-be":"nl_BE","fr-be":"fr_BE"}}},"linkit":{"autocompletePath":"https:\/\/www.flixbus.com\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"https:\/\/www.flixbus.com\/linkit\/dashboard\/","currentInstance":{}},"lang_dropdown":{"language":{"jsWidget":{"languageicons":{"en":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/en.png","de":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/de.png","tr":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/tr.png","de-at":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/de-at.png","it":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/it.png","nl":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/nl.png","fr":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/fr.png","cs":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/cs.png","sv":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/sv.png","da":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/da.png","es":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/es.png","nl-be":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/nl-be.png","fr-be":"https:\/\/www.flixbus.com\/sites\/all\/modules\/contrib\/languageicons\/flags\/fr-be.png"},"widget":"msdropdown","visibleRows":"10","roundedCorner":0,"animStyle":"slideDown","event":"click","mainCSS":"ldsSkin"}}},"urlIsAjaxTrusted":{"\/privacy-policy":true},"angularApp":"fbDefaultApp","bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+  <script src="//www.flixbus.com/sites/default/files/advagg_js/js__0qrZsI6TPHQBTppYMaLsuobzsvRS4oZpFlLKWrDPbdY__wRJWGushuccHyxMLAucvvgjQqfrWsdU1HYBUWwoOir0__SZV6ZsKJOXXk9rAz6l0QdFzP29kNPbSDIIJG2n4oWq4.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"flixbus_2014","theme_token":"P2w5pAVgMjkMWj5od-xX5wYrAyxWP-_6DdSRGSJuSYI","jquery_version":"1.10","css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/libraries\/ms-Dropdown\/css\/msdropdown\/dd.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.css":1,"sites\/all\/modules\/custom\/fb_admin\/css\/fb_admin.css":1,"sites\/all\/modules\/custom\/fb_static_page\/css\/fb_static_page.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/flixbus_2014\/layouts\/top2column\/top2column.css":1,"sites\/all\/themes\/flixbus_2014\/layouts\/miniHtmlFree\/miniHtmlFree.css":1,"sites\/all\/themes\/flixbus_2014\/layouts\/threeRegionPage\/threeRegionPage.css":1,"sites\/all\/libraries\/ms-Dropdown\/css\/msdropdown\/.css":1,"sites\/all\/themes\/flixbus_2014\/sassBootstrap\/stylesheets\/jquery.selectBoxIt.css":1,"sites\/all\/themes\/flixbus_2014\/sassBootstrap\/stylesheets\/styles.css":1},"js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/color.js":1,"sites\/all\/modules\/contrib\/lazyloader\/jquery.lazyloader.js":1,"sites\/all\/modules\/contrib\/linkit\/js\/linkit.js":1,"sites\/all\/modules\/custom\/fb_base\/js\/locale.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/all\/modules\/contrib\/lang_dropdown\/lang_dropdown.js":1,"sites\/all\/modules\/custom\/fb_shop_login\/js\/fb_shop_login.js":1,"sites\/all\/libraries\/ms-Dropdown\/js\/msdropdown\/jquery.dd.min.js":1,"sites\/all\/themes\/flixbus_2014\/js\/bootstrap.min.js":1,"sites\/all\/themes\/flixbus_2014\/js\/jquery.selectBoxIt.min.js":1,"sites\/all\/themes\/flixbus_2014\/js\/customscript.js":1,"sites\/all\/themes\/flixbus_2014\/js\/smartbanner.js":1,"sites\/all\/themes\/flixbus_2014\/js\/passengers.js":1,"sites\/all\/themes\/flixbus_2014\/js\/webtrekk_abtest.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1}},"fb_base":{"locale":{"language":{"language":"en","name":"English","native":"English","direction":"0","enabled":"1","plurals":"0","formula":"","domain":"www.flixbus.com","prefix":"","weight":"-10","javascript":"","provider":"locale-url","init_language":"en","dir":"ltr"},"languageList":{"en":"en","de":"de","it":"it","en-gb":"en-gb","tr":"tr","de-at":"at","nl":"nl","fr":"fr","cs":"cs","sv":"sv","bg":"bg","nb":"no","pt-pt":"pt-pt","sr":"sr_Latn_RS","ro":"ro","da":"da","hu":"hu","sk":"sk","sl":"sl","hr":"hr","sq":"sq","nl-be":"nl_BE","fr-be":"fr_BE","pl":"pl","ru":"ru","es":"es"},"languageMapping":{"en":"English","de":"Deutsch","it":"Italiano","en-gb":"English (UK)","tr":"T\u00fcrk\u00e7e","de-at":"Deutsch","nl":"Nederlands","fr":"Fran\u00e7ais","cs":"\u010ce\u0161tina","sv":"Svenska","bg":"\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438","nb":"Bokm\u00e5l","pt-pt":"Portugu\u00eas","sr":"\u0421\u0440\u043f\u0441\u043a\u0438","ro":"Rom\u00e2n\u0103","da":"Dansk","hu":"Magyar","sk":"Sloven\u010dina","sl":"Sloven\u0161\u010dina","hr":"Hrvatski","sq":"Shqip","nl-be":"Nederlands","fr-be":"Fran\u00e7ais","pl":"Polski","ru":"\u0420\u0443\u0441\u0441\u043a\u0438\u0439","es":"Espa\u00f1ol"}},"currency_by_language":"EUR","get_currency_symbol":"\u20ac","get_currency_symbol_position":"suffix","get_currency_decimal_point":",","locale_by_language":"de-DE","node_type":"static_page"},"linkit":{"autocompletePath":"https:\/\/www.flixbus.com\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"https:\/\/www.flixbus.com\/linkit\/dashboard\/","currentInstance":{}},"lang_dropdown":{"language":{"jsWidget":{"languageicons":{"en":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/en.png","de":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/de.png","it":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/it.png","en-gb":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/en-gb.png","tr":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/tr.png","de-at":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/de-at.png","nl":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/nl.png","fr":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/fr.png","cs":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/cs.png","sv":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/sv.png","bg":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/bg.png","nb":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/nb.png","sr":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/sr.png","ro":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/ro.png","da":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/da.png","hu":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/hu.png","sk":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/sk.png","sl":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/sl.png","hr":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/hr.png","nl-be":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/nl-be.png","fr-be":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/fr-be.png","pl":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/pl.png","ru":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/ru.png","es":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/es.png"},"widget":"msdropdown","visibleRows":"10","roundedCorner":0,"animStyle":"slideDown","event":"click","mainCSS":""}}},"urlIsAjaxTrusted":{"\/privacy-policy":true},"angularApp":"fbDefaultApp","bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
   <script>
     if (typeof angular != 'undefined') angular.module('fbDefaultApp', Drupal.settings.angularDependencies);
   </script>
+
 </head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1280 node-type-static-page i18n-en shopLayer">
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1280 node-type-static-page   i18n-en shopLayer">
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
@@ -86,39 +92,77 @@
                         </span>
                     </button>
                     <a class="frontLogo logo navbar-btn pull-left" href="https://www.flixbus.com/" title="Home">
-                        <img src="/sites/all/themes/flixbus_2014/sassBootstrap/images/logo.png?green" alt="Bus travel with FlixBus">
+                        <img src="/sites/all/themes/flixbus_2014/sassBootstrap/images/logo.png?2016" alt="Bus travel with FlixBus">
                     </a>
                 </div>
                 <div id="navbar-collapse-1" class="navbar-collapse borderNone collapse" style="height: 0px;">
-                        
-<div class="panel-pane pane-menu-tree pane-menu-global-menu-com">
+                          
+<div class="panel-pane pane-block pane-lang-dropdown-language">
+        
   
-      
+    
+      <div class="feed">
+          </div>
   
   <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-ctools-menu-global-menu-com-1 menu-name-menu-global-menu-com parent-mlid-0 menu-level-1">
-  <ul class="en menu nav topNav topNavFirst navbar-nav"><li class="first leaf menu-mlid-13255"><span title="From a German landline the first 30 seconds are free, after that You will be charged €0.14 per minutes. Max. cellphone rate: € 0.42 per minute. Price incl. VAT. Price from abroad may be different." class="servicenumber nolink">+49 (0)1807 123 99 123</span></li>
-<li class="leaf menu-mlid-13258"><a href="https://www.flixbus.com/service/faq">FAQ</a></li>
-<li class="leaf menu-mlid-13261"><a href="https://www.flixbus.com/current-route-information">Route Info</a></li>
-<li class="last leaf menu-mlid-13264"><a href="https://shop.flixbus.com/booking/login" target="_blank">Agency Login</a></li>
-</ul></div>
-  </div>
+    <form class="lang_dropdown_form language" id="lang_dropdown_form_language" action="/privacy-policy" method="post" accept-charset="UTF-8"><div><div class="form-type-select form-item-lang-dropdown-select form-item form-group">
+ <select style="width:43px" class="lang-dropdown-select-element form-control form-select" id="lang-dropdown-select-language" name="lang_dropdown_select"><option value="en" selected="selected">en</option><option value="de">de</option><option value="it">it</option><option value="en-gb">en-gb</option><option value="tr">tr</option><option value="de-at">de-at</option><option value="nl">nl</option><option value="fr">fr</option><option value="cs">cs</option><option value="sv">sv</option><option value="bg">bg</option><option value="nb">nb</option><option value="sr">sr</option><option value="ro">ro</option><option value="da">da</option><option value="hu">hu</option><option value="sk">sk</option><option value="sl">sl</option><option value="hr">hr</option><option value="nl-be">nl-be</option><option value="fr-be">fr-be</option><option value="pl">pl</option><option value="ru">ru</option><option value="es">es</option></select>
+</div>
+<input type="hidden" name="en" value="https://www.flixbus.com/privacy-policy">
+<input type="hidden" name="de" value="https://www.flixbus.de/datenschutz">
+<input type="hidden" name="it" value="https://www.flixbus.it/normativa-privacy">
+<input type="hidden" name="en-gb" value="https://www.flixbus.co.uk/privacy">
+<input type="hidden" name="tr" value="https://tr.flixbus.com/veri-koruma">
+<input type="hidden" name="de-at" value="https://www.flixbus.at/node/1280">
+<input type="hidden" name="nl" value="https://www.flixbus.nl/privacyverklaring">
+<input type="hidden" name="fr" value="https://www.flixbus.fr/confidentialite">
+<input type="hidden" name="cs" value="https://www.flixbus.cz/ochrana-osobnich-udaju">
+<input type="hidden" name="sv" value="https://www.flixbus.se/sekretesspolicy">
+<input type="hidden" name="bg" value="https://www.flixbus.bg/poveritelnost">
+<input type="hidden" name="nb" value="https://www.flixbus.no/personvernregler">
+<input type="hidden" name="sr" value="https://www.flixbus.rs/zastita-podataka">
+<input type="hidden" name="ro" value="https://www.flixbus.ro/politica-de-confidentialitate">
+<input type="hidden" name="da" value="https://www.flixbus.dk/privatlivspolitik">
+<input type="hidden" name="hu" value="https://www.flixbus.hu/adatvedelem">
+<input type="hidden" name="sk" value="https://www.flixbus.sk/ochrana-osobnych-udajov">
+<input type="hidden" name="sl" value="https://www.flixbus.si/pravilnik-o-zasebnosti">
+<input type="hidden" name="hr" value="https://www.flixbus.hr/zastita-podataka">
+<input type="hidden" name="nl-be" value="https://www.flixbus.be/node/1280">
+<input type="hidden" name="fr-be" value="https://fr.flixbus.be/node/1280">
+<input type="hidden" name="pl" value="https://www.flixbus.pl/polityka-prywatnosci">
+<input type="hidden" name="ru" value="https://www.flixbus.ru/zashhita-dannyh">
+<input type="hidden" name="es" value="https://www.flixbus.es/politica-privacidad">
+<noscript><div>
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Go" type="submit">Go</button>
 
+</div></noscript><input type="hidden" name="form_build_id" value="form-zSppmqlrILuRRrdH1uxKQzf8tQz-KgrIxB1Ps6cg6vw">
+<input type="hidden" name="form_id" value="lang_dropdown_form">
+</div></form>  </div>
+
+      <div class="links">
+          </div>
   
+      <div class="more-link">
+          </div>
   </div>
 
-<div class="panel-separator"></div>
+  <div class="panel-separator"></div>  
 <div class="panel-pane pane-menu-tree pane-menu-main-menu-com">
+        
   
-      
+    
+      <div class="feed">
+          </div>
   
   <div class="pane-content">
     <div class="menu-block-wrapper menu-block-ctools-menu-main-menu-com-3 menu-name-menu-main-menu-com parent-mlid-0 menu-level-1">
-  <ul class="en menu nav topNav topNavFirst navbar-nav"><li class="first leaf menu-mlid-19069"><a href="https://shop.flixbus.com">Book Tickets</a></li>
-<li class="expanded menu-mlid-13282 dropdown"><a href="https://www.flixbus.com/bus-routes" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Bus Routes <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-13285"><a href="https://www.flixbus.com/current-route-information">Current Route Information</a></li>
-<li class="leaf menu-mlid-13288"><a href="https://www.flixbus.com/bus-schedule-bus-stop">Bus Schedules &amp; Bus Stops</a></li>
-<li class="leaf menu-mlid-13291"><a href="https://www.flixbus.com/bus">Buses to Your City</a></li>
-<li class="last leaf menu-mlid-13294"><a href="https://www.flixbus.com/overnight-bus">Overnight Buses</a></li>
+  <ul class="en menu nav topNav topNavFirst navbar-nav"><li class="first leaf menu-mlid-19069"><a href="https://shop.flixbus.com">Book Ticket</a></li>
+<li class="leaf menu-mlid-37339"><a href="https://www.flixbus.com/bus-routes#/map">Route Map</a></li>
+<li class="expanded menu-mlid-13282 dropdown"><a href="https://www.flixbus.com/bus-schedule-bus-stop" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Schedules &amp; Stops <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-13291"><a href="https://www.flixbus.com/bus">Bus destinations</a></li>
+<li class="leaf menu-mlid-13294"><a href="https://www.flixbus.com/overnight-bus">Overnight Buses</a></li>
+<li class="leaf menu-mlid-32926"><a href="https://www.flixbus.com/travel-tips">Travel tips</a></li>
+<li class="leaf menu-mlid-38993"><a href="https://charter.flixbus.com/?utm_source=schedules&amp;utm_medium=Link&amp;utm_campaign=Flixbus.com-Link">Rent a bus</a></li>
+<li class="last leaf menu-mlid-37870"><a href="https://interflix.flixbus.com/">InterFlix: 5 cities for 99 €</a></li>
 </ul></li>
 <li class="expanded menu-mlid-13297 dropdown"><a href="https://www.flixbus.com/service" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Service <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-13300"><a href="https://www.flixbus.com/service/faq">FAQ</a></li>
 <li class="leaf menu-mlid-13303"><a href="https://www.flixbus.com/service/services-on-our-buses">On Board</a></li>
@@ -126,9 +170,11 @@
 <li class="leaf menu-mlid-13309"><a href="https://www.flixbus.com/service/bus-app">App</a></li>
 <li class="leaf menu-mlid-13312"><a href="https://www.flixbus.com/service/baggage">Baggage</a></li>
 <li class="leaf menu-mlid-13318"><a href="https://www.flixbus.com/service/book-through-a-travel-agency">Ticket outlets</a></li>
-<li class="last leaf menu-mlid-13321"><a href="https://www.flixbus.com/service/lost-and-found">Lost &amp; Found</a></li>
+<li class="leaf menu-mlid-13321"><a href="https://www.flixbus.com/service/lost-and-found">Lost &amp; Found</a></li>
+<li class="leaf menu-mlid-35163"><a href="https://www.flixbus.com/service/special-offers">Special Offers</a></li>
+<li class="last leaf menu-mlid-37330"><a href="https://www.flixbus.com/service/current-route-information">Travel information</a></li>
 </ul></li>
-<li class="last expanded menu-mlid-13327 dropdown"><a href="https://www.flixbus.com/company" class="lastLink dropdown-toggle" data-target="#" data-toggle="dropdown">Company <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-13330"><a href="https://www.flixbus.com/company/about-flixbus">About us</a></li>
+<li class="expanded menu-mlid-13327 dropdown"><a href="https://www.flixbus.com/company" class="lastLink dropdown-toggle" data-target="#" data-toggle="dropdown">Company <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-13330"><a href="https://www.flixbus.com/company/about-flixbus">About us</a></li>
 <li class="leaf menu-mlid-13333"><a href="https://www.flixbus.com/company/safety">Safety</a></li>
 <li class="leaf menu-mlid-13336"><a href="https://www.flixbus.com/company/sustainability">Sustainability</a></li>
 <li class="leaf menu-mlid-13339"><a href="https://www.flixbus.com/company/customer-satisfaction">Customer Satisfaction</a></li>
@@ -138,13 +184,19 @@
 <li class="leaf has-children menu-mlid-18043"><a href="https://www.flixbus.com/company/press-room">Press</a></li>
 <li class="last leaf menu-mlid-13414"><a href="https://www.flixbus.com/company/contact-us">Contact</a></li>
 </ul></li>
+<li class="leaf menu-mlid-37480"><a href="https://www.flixbus.com/my-account-menu-com" class="shop-my-account-link shop-links" style="display:none">My Account</a></li>
+<li class="last leaf menu-mlid-37417"><a href="https://www.flixbus.com/login-menu-com" class="shop-login-link shop-links">Login</a></li>
 </ul></div>
   </div>
 
+      <div class="links">
+          </div>
   
+      <div class="more-link">
+          </div>
   </div>
 
-                </div>
+                  </div>
             </nav>
         </div>
     </header>
@@ -156,65 +208,50 @@
 <div class="main-container container">
   <div class="row">
     <section ng-app="fbDefaultApp">
-      
-<div class="panel-pane pane-block pane-lang-dropdown-language">
-  
-      
-  
-  <div class="pane-content">
-    <form class="lang_dropdown_form language" id="lang_dropdown_form_language" action="/privacy-policy" method="post" accept-charset="UTF-8"><div><div class="form-type-select form-item-lang-dropdown-select form-item form-group">
- <select style="width:43px" class="lang-dropdown-select-element form-control form-select" id="lang-dropdown-select-language" name="lang_dropdown_select"><option value="en" selected="selected">English</option><option value="de">Deutsch</option><option value="tr">Türkçe</option><option value="de-at">Deutsch</option><option value="it">Italiano</option><option value="nl">Nederlands</option><option value="fr">Français</option><option value="cs">Čeština</option><option value="sv">Svenska</option><option value="da">Dansk</option><option value="es">Español</option><option value="nl-be">Nederlands</option><option value="fr-be">Français</option></select>
-</div>
-<input type="hidden" name="en" value="https://www.flixbus.com/privacy-policy">
-<input type="hidden" name="de" value="https://www.flixbus.de/datenschutz">
-<input type="hidden" name="tr" value="https://tr.flixbus.com/veri-koruma">
-<input type="hidden" name="de-at" value="https://www.flixbus.at/node/1280">
-<input type="hidden" name="it" value="https://www.flixbus.it/normativa-privacy">
-<input type="hidden" name="nl" value="https://www.flixbus.nl/privacyverklaring">
-<input type="hidden" name="fr" value="https://www.flixbus.fr/confidentialite">
-<input type="hidden" name="cs" value="https://www.flixbus.cz/ochrana-osobnich-udaju">
-<input type="hidden" name="sv" value="https://www.flixbus.se/sekretesspolicy">
-<input type="hidden" name="da" value="https://www.flixbus.dk/privatlivspolitik">
-<input type="hidden" name="es" value="https://www.flixbus.es/politica-privacidad">
-<input type="hidden" name="nl-be" value="https://www.flixbus.be/node/1280">
-<input type="hidden" name="fr-be" value="https://fr.flixbus.be/node/1280">
-<noscript><div>
-<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Go" type="submit">Go</button>
-
-</div></noscript><input type="hidden" name="form_build_id" value="form-DeOFeAFAwfRgR7qHl8uBw4fcTRyKuZdyiaKdu2f4wvc">
-<input type="hidden" name="form_id" value="lang_dropdown_form">
-</div></form>  </div>
-
-  
-  </div>
-
-<div class="panel-separator"></div>
+        
 <div class="panel-pane pane-page-breadcrumb">
+        
   
-      
+    
+      <div class="feed">
+          </div>
   
   <div class="pane-content">
-    <p class="element-invisible">You are here</p><div class="breadcrumb"><span class="inline odd first"><a href="https://www.flixbus.com/">Home</a></span> <span class="delimiter">/</span> <span class="inline even last">Privacy Policy</span></div>  </div>
+    <p class="element-invisible">You are here</p><div class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span class="inline odd first" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><meta itemprop="position" content="1"><a href="https://www.flixbus.com/" itemprop="item"><span itemprop="name">Home</span></a></span> <span class="delimiter">/</span> <span class="inline even last" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><meta itemprop="position" content="2"><span itemprop="name">Privacy Policy</span></span></div>  </div>
 
+      <div class="links">
+          </div>
   
+      <div class="more-link">
+          </div>
   </div>
 
-<div class="panel-separator"></div>
+  <div class="panel-separator"></div>  
 <div class="panel-pane pane-pane-messages">
+        
   
-      
+    
+      <div class="feed">
+          </div>
   
   <div class="pane-content">
       <div class="tabs"></div>
   </div>
 
+      <div class="links">
+          </div>
   
+      <div class="more-link">
+          </div>
   </div>
 
-<div class="panel-separator"></div>
+  <div class="panel-separator"></div>  
 <div class="panel-pane pane-page-content">
+        
   
-      
+    
+      <div class="feed">
+          </div>
   
   <div class="pane-content">
        
@@ -223,189 +260,282 @@
       
     
             <div class="col-md-12 content-right-full">
-          
+            
 <div class="panel-pane pane-node-content">
+        
   
-      
+    
+      <div class="feed">
+          </div>
   
   <div class="pane-content">
     <div class="ds-1col node node-static-page node-viewmode-full view-mode-full  clearfix">
 
   
-  <h1>Privacy Policy</h1><div class="field field-name-field-enable-search-form field-type-list-boolean field-label-hidden"><div class="field-items"><div class="field-item even"></div></div></div><div class="field field-name-field-rel-content-element field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even"><div class="ds-1col entity entity-content-element content-element-text view-mode-default row clearfix">
+  <h1>Privacy Policy</h1><div class="field field-name-field-enable-search-form field-type-list-boolean field-label-hidden"><div class="field-items"><div class="field-item even"></div></div></div><div class="field field-name-field-rel-content-element field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even"></div><div class="field-item odd"><div class="ds-1col entity entity-content-element content-element-text view-mode-default row clearfix">
 
   
-  <div class="field field-name-field-content-text field-type-text-long field-label-hidden col-md-12"><div class="field-items"><div class="field-item even"><h2>Data Privacy Statement and Consent for Data Usage</h2>
+  <div class="field field-name-field-content-text field-type-text-long field-label-hidden col-md-12"><div class="field-items"><div class="field-item even"><h2>Privacy Policy and Consent for Data Usage</h2>
 
-<p>We appreciate Your interest in our website. Protecting Your privacy and the handling Your personal information is very important for us. Therefore, the Data Privacy Policy of FlixBus has high priority. During collection, processing and usage we strictly comply with the legal provisions of the Data Protection Act and the Telemedia Act.<br>
-By agreeing to the following data privacy policy, You provide consent to the FlixBus GmbH in the collection, processing and use in accordance with the data protection laws and the provisions below. The consent can be revoked at any time with effect for the future.</p>
+<p>FlixMobility GmbH’s Internet portal and the booking portal integrated therein (hereinafter jointly referred to as “web page") are operated by FlixMobility GmbH, Birketweg 33, 80639 Munich, Germany (hereinafter “FlixMobility” or “we”). Protecting your personal data is very important to us. Data protection is therefore a high priority for FlixMobility GmbH. We strictly comply with the legal provisions of the Data Protection Act and the Telemedia Act when collecting, processing and using your data.</p>
+
+<p>By agreeing to the following privacy policy, you consent to the collection, processing and use by FlixMobility GmbH in accordance with data protection laws and the provisions below. The consent can be revoked at any time with effect for the future.</p>
 
 <h2>Collection, Processing and Use of Personal Data</h2>
 
-<p>The use of our website is usually possible without providing personal data. To handle the ticket order and the payment processing for it as well as for signing up for our newsletter, we collect, store and process Your data.&nbsp; For the payment of a booked trip by credit card FlixBus requires Your full name, e-mail address and Your credit card. The credit card number will not be stored. When paying a booked trip via direct debiting, FlixBus records Your full name, address, date of birth, e-mail address and Your checking account data.&nbsp; If payment is made by instant bank transfer and Paypal no payment data is stored.</p>
+<p>Personal data are all information relating to a specific or identifiable person.&nbsp; This includes, for example, your name, your telephone number or your postal and email addresses.</p>
 
-<p>The data required for the contract and for the implementation of the bus rides are passed on to the performing bus companies and other third parties (e.g. payment service) as part of the registration and processing of ticket sales. In justified cases (e.g. damages to the buses) we reserve the right to pass on the customer data to the transporting bus partner. &nbsp;Such disclosure may be used by our service providers exclusively for the fulfillment of their task and not for other purposes.<br><br>
-FlixBus will not share personal data for marketing purposes to third parties.<br>
-&nbsp;</p>
+<p>You can generally use our web page without providing personal data.</p>
 
-<h2>Identity check and credit assessment upon selection of Billpay payment methods</h2>
+<p>In order to process ticket orders and deliver transportation services, we collect, store and process your first and last name and your cell phone number. The following additional data may be required for necessary payment processing: to pay for a booked trip by credit card, FlixMobility requires your full name, your email address and your credit card data. FlixMobility will not store your credit card number; it is transmitted directly to the payment processing service. When paying for a booked trip via direct debit, FlixMobility records your full name, address, date of birth, email address and your checking account data. If payment is made by instant bank transfer and Paypal, no payment data ara stored.</p>
 
-<p>If you choose one of the payment options provided by our partner&nbsp;<a href="https://www.billpay.de/endkunden/">Billpay GmbH</a>, you are asked during the ordering procedure to consent to the transmission to Billpay of the data required to handle the payment and carry out an identity check and credit assessment. If you grant your consent, the data (first name and surname, street, number, postal code, town or city, date of birth, telephone number and, in the event of a direct debit purchase, the bank details indicated), as well as your data in connection with your order, are transmitted to Billpay.<br><br>
-For the purpose of its own identity check and credit assessment, Billpay or partner companies delegated by Billpay shall transmit data to credit reporting agencies (credit agencies) and shall receive information from them and, if available, credit-rating information based on mathematical-statistical procedures into whose calculations address data, among other things, are fed. Detailed information on this subject and about the credit agencies used can be found in Billpay GmbH’s <a href="https://www.billpay.de/agb/">data protection regulations</a>.<br><br>
-In order to detect and prevent fraud, moreover, Billpay makes use of third-party resources where necessary. Data obtained using such resources can, if required, be stored in encrypted form with third parties in such a way that they are readable only for Billpay. These data shall be used only if you select a payment method offered by our cooperation partner Billpay; otherwise these data shall expire automatically after 30 minutes.</p>
+<p>The data required for contract processing and for the provision of transportation services are only forwarded to the performing bus companies and other third parties (e.g. service providers for IT, transportation, customer service and payment processing) to the extent necessary for registering and processing ticket sales.&nbsp; In justified cases (e.g. damage to buses), we reserve the right to pass on the customer data to the transporting bus partners. Such disclosure may be used by our service providers exclusively for the fulfillment of their task and not for other purposes.</p>
+
+<p>FlixMobility will not share personal data with third parties for marketing purposes.</p>
+
+<h2>Payment Processing Service</h2>
+
+<p>You can initiate a booking process on our web page.&nbsp; For this purpose, your data may be transferred to one of the following payment processing services as selected during the specific booking process. Payment can only be made via the online payment processes listed in the shop.</p>
+
+<ul><li>Payments are processed by our partner Adyen BV, Simon Carmiggelstraat 6–50, 1011 DJ Amsterdam, the Netherlands. In order to prevent and detect cases of fraud, we transfer your IP address to our partner Adyen BV, Simon Carmiggelstraat 6–50, 1011 DJ Amsterdam, the Netherlands. Adyen BV stores your IP address. Any and all data are transmitted in encrypted form. You can revoke your consent at any time with effect for the future by using the contact information in the legal notice.</li>
+</ul>
+
+<ul><li>Payments by credit card, Giropay (direct debit from checking account) and iDeal are handled by Heidelberger Payment GmbH, headquartered at Gaisbergstr. 11–13, 69115 Heidelberg, Germany.&nbsp;In addition, PAY.ON AG company, headquartered at Lucile-Grahn-Str. 37, 81675 Munich, Germany, comes into contact with your payment data. Heidelberger Payment GmbH is a payment service as defined by the Zahlungsdiensteaufsichtsgesetz (ZAG, Payment Services Supervision Act) and is registered with the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin, Federal Financial Supervisory Authority), Graurheindorfer Str. 108, 53117 Bonn, Germany (register number: 122914).</li>
+</ul>
+
+<ul><li>Payment by PayPal is handled by PayPal (Europe) S.à r.l. &amp; Cie, S.C.A., 5th floor, 22–24 Boulevard Royal, L-2449 Luxembourg. Additional information about Paypal’s privacy policy is available in <a href="https://www.paypal.com/cg/webapps/mpp/ua/privacy-full">Paypal’s Privacy Policy</a>.</li>
+</ul>
+
+<ul><li>In order to prevent and detect cases of fraud, we transfer your IP address to Paymill GmbH, St.-Cajetan-Straße 43, 81669 Munich, Germany. Your IP address will be stored by PAYMILL GmbH for 72 hours. You can revoke your consent at any time with effect for the future by using the contact information in the legal notice.</li>
+</ul>
+
+<h2>Credit Check During Direct Debit Payment via Billpay</h2>
+
+<p>If you choose to use one of the payment options offered by our partner <a href="https://www.billpay.de/en/">Billpay GmbH</a>, you will be asked during the order process to agree to the transmission to Billpay of the data required to process your payment and verify your identity and credit standing. If you agree, your personal data (first and last name, street, house number, ZIP code, town, date of birth, telephone number and, in case of purchase via direct debit, the bank account listed) as well as the data relating to your order will be transmitted to Billpay.</p>
+
+<p>In order to perform its own identity and credit check, Billpay or partner companies authorized by Billpay transmit data to commercial credit reporting agencies (credit reporting agencies) and receive from them disclosure and, if necessary, information on creditworthiness based on mathematical statistics processes that use, among other things, address data. Detailed information on this process and the credit reporting agencies used is available in the <a href="https://www.billpay.de/en/terms/">Privacy Policies</a> of Billpay GmbH.</p>
+
+<p>In addition, Billpay may use tools from third parties in order to detect and prevent cases of fraud. Data collected using these tools may be saved in encrypted form at third-party sites so that they can only be read by Billpay. These data are only used if you select one of the payment types from our cooperation partner Billpay, otherwise the data automatically expire after 30 minutes.</p>
 
 
 
-<h2>Heidelpay</h2>
+<h2>Paymill GmbH</h2>
 
-<p>On our website you have the possibility of initiating a booking procedure. For this purpose your data might be forwarded to a payment service provider.<br>
-The payment methods sofortüberweisung.de, giropay, iDeal, and credit card are handled by Heidelberger Payment GmbH, based at Gaisbergstr. 11-13, 69115 Heidelberg.<br>
-In addition, the company PAY.ON AG, based at Lucile-Grahn-Str. 37, 81675 Munich, comes into contact with the payment data.<br>
-Heidelberger Payment GmbH is a payment institution within the meaning of the German Payment Services Supervision Act (ZAG) and is registered with the German Federal Financial Supervisory Authority (BaFin), Graurheindorfer Str. 108, 53117 Bonn (register number: 122914).</p>
+<p>In order to prevent and detect cases of fraud, we transfer your IP address to Paymill GmbH, St.-Cajetan-Straße 43, 81669 Munich, Germany. Your IP address will be stored by PAYMILL GmbH for 72 hours. You can revoke your consent at any time with effect for the future by using the contact information in the legal notice.</p>
 
 
 
-<h2>Paypal</h2>
+<h2>User Login/Customer Account</h2>
 
-<p>On our website you have the possibility of initiating a booking procedure. For this purpose your data might be forwarded to a payment service provider.<br>
-The payment method Paypal is operated by PayPal (Europe) S.à r.l. &amp; Cie, S.C.A., 5th floor, 22-24 Boulevard Royal, L-2449 Luxembourg.<br>
-More information about data protection by Paypal can be found in Paypal’s&nbsp;<a href="https://www.paypal.com/de/webapps/mpp/ua/privacy-full?locale.x=de_DE">data protection declaration</a>.</p>
+<p>You have the option of setting up a personal customer account with us. In the password-protected area of the customer account, you can easily manage your bookings and save your data for future trips.</p>
+
+<p>The fields marked as required (*), which include personal data, are only used to implement and process your account. Initially, only your email address is required. We use it to verify your identity. During registration, you can optionally also enter your name, your address and, if you wish, your bank account data.</p>
+
+<p>These data are used both for creating invoices and to automatically pre-fill your information during future bookings.&nbsp; In addition, you can also voluntarily save your cell phone number so we can contact you in the event of a delay or change to your trip’s route.</p>
+
+<p>If you have agreed to this, the “Stay Signed In” function saves so-called persistent cookies on your end device; these are used to automatically sign you in during subsequent visits to our web page. This function is not available if you have deactivated saving of such cookies in your browser settings.</p>
+
+<p>You can update or delete your account—and thus also your saved personal data—at any time in your personal customer account.</p>
+
+<p>Due to legally mandated data retention periods, personal data required for contract performance are not deleted when you delete your account.</p>
+
+
 
 <h2>Newsletter</h2>
 
-<p>When signing up to our newsletter You are agreeing to receive frequent information from us. In addition to this, we use Your e-mail address to communicate with You and to send You, for example, service messages, system messages, e-mails confirming Your registration for the submission of user account information, information about Your tickets, and itineraries or Your personal travel profiles. Additionally we use Your email address for promotional purposes. You can unsubscribe at any time.</p>
+<p>If you subscribe to our newsletter, your email address is used to communicate with you and to send you, for example, service messages, system messages, emails confirming your registration,to transmit user account information, information about your tickets and itineraries or your travel profiles, until such time as you unsubscribe from the newsletter. In addition, we use your email address for our own advertising purposes. You can unsubscribe at any time.</p>
 
-<p>When we have obtained Your email address after You have made a booking or purchased a trip, and You have not objected prior to this, we reserve the rights to send You regular offers via email for similar products such as those You have already purchased, from our selected product line.</p>
+<p>If we receive your email address in connection with a booking or trip and you have not opted out of this, we reserve the right to regularly send you offers for products similar to those you have previously purchased from us. You can opt out of this use of your email address at any time by emailing <a href="mailto:unsubscribe@flixbus.com">unsubscribe@flixbus.com</a>&nbsp;or by using the opt-out link in the advertising email, without incurring any costs beyond the cost of transmission according to the base rates.</p>
 
-<p>You can always object to this use of Your email address by sending a message to <a href="mailto:service@flixbus.com">service@flixbus.com</a>&nbsp;or via the unsubscribe link in the advertising mail, without incurring any costs other than the transmission costs in accordance to the basic tariffs.</p>
+
 
 <h2>Data Security</h2>
 
-<p>We protect the privacy of users of our website and the connected systems through technical and organizational measures. To ensure the secure transmission of personal data, we use the encryption protocol SSL 3.0 (the underlying encryption scheme is the RSA-2048 used for the Public Key Infrastructure). This method has been successfully used in the entire World Wide Web. All personal data (name, address, payment information, etc.) are encrypted and thus transmitted safely in the Internet. Indicated by a symbol (closed padlock) in the bottom bar of Your browser window, You can see that You are moving in a secured area.<br>
-&nbsp;</p>
+<p>We employ technical and organizational measures to protect the privacy of users of our web page and the connected systems. To ensure the secure transmission of personal data, we use the encryption protocol SSL 3.0 (the underlying encryption scheme is the RSA-2048 used for the Public Key Infrastructure). This method is successfully used throughout the World Wide Web. All personal data (name, address, payment information, etc.) are encrypted and thus transmitted safely on the Internet. A symbol (closed padlock) in the bottom bar of your browser window indicates that you are in a secure area.</p>
+
+
 
 <h2>Cookies</h2>
 
-<p>FlixBus uses so-called cookies on its website. Cookies are small files that are stored on Your disk and store certain settings and data for exchange with our system through Your browser. Some of the cookies we use are deleted after the end of the browser session, i.e. after You close Your browser (so-called session cookies). Other cookies remain on Your device and allow us or our partners to recognize Your browser the next time You visit the website (persistent cookies). This storing helps us to customize the website according to You, and simplifies the use, for example, by saving certain inputs from You so that You do not have to constantly repeat them. Your browser allows You restrict settings to use or delete cookies. The help function on most browsers will tell You how You perform these settings. Not accepting cookies may affect the service function of our website.<br>
-&nbsp;</p>
+<p>FlixMobility uses so-called cookies on its web page. Cookies are small files that are stored on your disk and store certain settings and data for exchange with our system through your browser. Some of the cookies we use are deleted after the end of the browser session, i.e. after you close your browser (so-called session cookies). Other cookies remain on your device and allow us or our partners to recognize your browser the next time you visit the web page (persistent cookies). Storing this information helps us to customize our web page for you and makes it easier to use by, for example, saving certain data entries from you so that you do not have to constantly repeat them. Your browser offers settings to restrict the use or deletion of cookies. The help function on most browsers will tell you how to make these settings. Not accepting cookies may affect the service functionalities of our web page.</p>
 
-<h2>Information Right and Right of Appeal</h2>
 
-<p>Under the Federal Privacy Act, You have a right to free information about Your stored data, and a right to rectification, erasure or blocking of data. For this as well as further information or for the assertion of revocation rights, please consult: FlixBus GmbH, Germany, 80335 München, Sandstraße 3 or <a href="mailto:service@flixbus.com">service@flixbus.com</a>.<br>
-&nbsp;</p>
 
-<h2>Web Analyses and Social Plugins</h2>
+<h2>Right to Information and Right of Appeal</h2>
 
-<p><strong>1. Google Analytics &nbsp;</strong><br>
-This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses "cookies", text files, that are stored on Your computer, to help analyze how users use the site. The Google tracking codes of this website use the "_anonymizeIP". Thus, the IP address will be processed only shortened within Member States of the European Union or other parties to the Agreement on the European Economic Area to exclude a direct person relateability. Only in exceptional cases is the complete IP address transmitted to a Google server in the USA and shortened there. On behalf of the operator of this website, Google will use this information to evaluate Your use of the website and compile reports on website activity and provide other with website and Internet related services with respect to the website owner. Google will not associate Your IP address with any other data held by Google. You can prevent the installation of cookies by selecting the appropriate settings on Your browser software; but here, we like to point out that You can not possibly use all features of this website in this case.&nbsp; You can prevent the data generated by the cookie about Your use of the website (including Your IP address) to Google and the processing of these data by Google in addition, by opposing using the following deactivation link from Google: <a href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a></p>
+<p>Under the Federal Privacy Act, you have the right to request information about your stored data free of charge, as well as the right to demand the rectification, erasure or blocking of these data. For more information or to revoke your consent to data storage as outlined above, please contact: FlixMobility GmbH, Birketweg 33, 80639 Munich, Germany or <a href="mailto:datenschutz@flixbus.de">datenschutz@flixbus.de</a>.</p>
 
-<p><br><strong>2. Google AdWords </strong>&nbsp;<br>
-This website uses the online advertising program "Google AdWords" and within the scope of Google the AdWords conversion tracking. The cookie for conversion tracking is set when a user clicks on an ad delivered by Google ads.&nbsp; Cookies are small text files that are stored on Your computer system.&nbsp; These cookies expire after 30 days and are not used for personal identification. Should the user visit certain pages of this website and the cookie has not yet expired, then Google and we know that the user clicked on the ad and was redirected to this page. Every Google AdWords customer gets a different cookie.&nbsp; Cookies can thus not be tracked through the websites of the AdQords customer.&nbsp; The information obtained using the conversion cookie information is used to create conversion statistics for AdWords customers who have opted for conversion tracking. Customers are given the total number of users who have clicked on their ad and proceeded to a page provided with a conversion tracking tag. However, they will not get any information that can identify users personally. If You do not wish to participate in tracking, You can object to this by disabling the cookie of the Google conversion tracking on Your Internet browser under user settings. You are then not included in the Conversion Tracking statistics. More information about the Google data protection can be obtained from Google: <a href="http://www.google.de/policies/privacy/">http://www.google.de/policies/privacy/</a></p>
 
-<p><br><strong>3. Facebook</strong>&nbsp;<br>
-Our website uses social plugins ("plugins") provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). The plugins are identified by a Facebook logo or the addition "Facebook Social Plugin". You can find an overview of the Facebook plugins and their appearances here: <a href="https://developers.facebook.com/docs/plugins">https://developers.facebook.com/docs/plugins</a>.<br>
-When You visit a website of our webpresence that contains a social plugin, Your browser establishes a direct connection to the Facebook servers. The content of the plugin is transferred by Facebook directly to Your browser which embeds the latter into the website. By integrating the plugin Facebook receives the information that Your browser has accessed the corresponding page of our website, even if You do not have a Facebook account or are not currently logged in to Facebook. This information (including Your IP address) is transmitted from Your browser directly to a Facebook server in the USA and stored there. If You are logged into Facebook, Facebook can assign Your visit to our website directly to Your Facebook account. If You interact with the plugins, for example press the "Like" button or comment, then the corresponding information is also transmitted directly to a Facebook server and stored there. The information will also be published on Facebook and shown to Your Facebook friends.<br>
-Facebook can use this information for purposes of advertising, market research and tailored design of the Facebook pages. For this purpose, Facebook creates usage, interests and relationship profiles, e.g. in order to evaluate Your use of our website with regard to Facebook advertisements appearing on Your page, to inform other Facebook users about Your activities on our website and provide related services with the use of Facebook. If You do not want Facebook to assign the collected data about our website to Your Facebook account, then You must log out of Facebook before You visit our site. Purpose and scope of data collection and the further processing and use of data by Facebook, and Your rights in this respect and settings options for protecting Your privacy can be found in the privacy policies of Facebook: <a href="http://de-de.facebook.com/policy.php">http://de-de.facebook.com/policy.php</a>.<br>
-You can also completely prevent the loading of the Facebook plugins and add-ons for Your browser, e.g. with ‘Facebook blocker’ (<a href="http://webgraph.com/resources/facebookblocker/">http://webgraph.com/resources/facebookblocker/</a>).<br>
-&nbsp;</p>
 
-<p><strong>4. The use of Twitter plugins (e.g. ‘Twitter’ button)</strong><br>
-Our website uses social plugins (‘plugins’) operated by the Micro blogging service twitter, from Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA.<br>
-The plugins are a Twitter logo, for example characterized by the formation of the blue ‘Twitter bird.’<br>
-You can find an overview of the Twitter plugins and their appearances here: <a href="https://twitter.com/about/resources/buttons">https://twitter.com/about/resources/buttons</a>.<br>
-When You visit a page of our website that contains a social plugin, Your browser will make a direct connection to Twitter’s server. The content of the plugin is transmitted directly from Titter to Your browser and is integrated onto the page. By integrating the plugin Twitter receives the information that Your browser has accessed the corresponding page of our website, even if You do not have a profile with Twitter or are currently not logged in to Twitter. This information (including Your IP address) is transmitted from Your browser directly to Twitter’s server in the USA and stored there. If You are logged into Twitter, Twitter can assign Your visit to our website directly to Your Twitter account. If You interact with the plugins, for example press the "Twitter" button, then the corresponding information is also transmitted directly to a Twitter server and stored there. The information will also be published on Your Twitter-account and shown to Your Twitter contacts. Purpose and scope of data collection and the further processing and use of data by Twitter, Your rights in this respect and settings options for protecting Your privacy, can be found in the privacy policies of Twitter: <a href="https://twitter.com/privacy">https://twitter.com/privacy</a>.<br>
-If You do not want Twitter to assign the collected data about our website to Your Twitter profile, then You must log out of Twitter before You visit our site. You can also completely prevent the loading of the Twitter plugins and add-ons for Your browser, e.g. with the script-blocker ‘NoScript’ (<a href="http://noscript.net/">http://noscript.net/</a>).</p>
+<h2>Google Remarketing</h2>
 
-<p><br><strong>5. The use of Google+ plugins (e.g. ‘+1’ button)</strong><br>
-Our website uses social plugins (‘plugins’) from the social network Google operated by Google Inc., 1600 Ampitheatre Parkway, Mountain View, CA 94043, USA (‘Google’).<br>
-The plugins are e.g. buttons with the design ‘+1’ that are visible on white or black backgrounds.<br>
-You can find an overview of the Google plugins and their appearances here: <a href="https://developers.google.com/+/plugins">https://developers.google.com/+/plugins</a>.<br>
-When You visit a page of our website that contains a social plugin, Your browser will make a direct connection to Google’s server. The content of the plugin is transmitted directly from Google to Your browser and is integrated onto the page. By integrating the plugin Google receives the information that Your browser has accessed the corresponding page of our website, even if You do not have a profile with Google+ or are currently not logged in to Google+. This information (including Your IP address) is transmitted from Your browser directly to Google’s server in the USA and stored there. If You are logged into Google+, Google can assign Your visit to our website directly to Your Google+ account. If You interact with the plugins, for example press the "+1" button, then the corresponding information is also transmitted directly to a Google server and stored there. The information will also be published on Google+ and shown to Your contacts. Purpose and scope of data collection and the further processing and use of data by Google, Your rights in this respect and settings options for protecting Your privacy, can be found in the privacy policies of Google: <a href="http://www.google.com/intl/de/+/policy/+1button.html">http://www.google.com/intl/de/+/policy/+1button.html</a>.<br>
-If You do not want Google to assign the collected data about our website to Your Google profile, then You must log out of Google before You visit our site. You can also completely prevent the loading of the Google plugins and add-ons for Your browser, e.g. with the script-blocker ‘NoScript’ (<a href="http://noscript.net/">http://noscript.net/</a>).</p>
+<p>In order to optimize our web page and make product recommendations, we use the technologies of Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; “Google”) to create pseudonymous user profiles of web page`s visitors’ surfing behavior for marketing purposes.&nbsp; For this purpose cookies may be used that allow an Internet browser to be recognized during a subsequent visit. Your stored browsing behavior is analyzed based on an algorithm that makes it possible to subsequently display targeted interest-based product recommendations on third-party web pages in the form of advertising banners or advertisements. The pseudonymous user profiles are not merged with personal data of the pseudonym bearer without separate explicit consent by the person in question. You can opt out of pseudonymous user profiles for interest-based promotion/advertising specifications at any time by accessing the web page <a href="https://www.google.de/settings/ads">https://www.google.de/settings/ads</a>. Additional information about interest-based promotion is available at&nbsp;<a href="http://www.google.com/policies/technologies/ads/">http://www.google.com/policies/technologies/ads/</a>.</p>
 
-<p><br><strong>6. adjust</strong><br>
-This website/app uses the analyzing technology “adjust” provided by adjust GmbH (“adjust”). For such analysis, adjust uses the users IP- and Mac-addresses which are solely used anonymously so that the personal identity of an individual user cannot be revealed. By using this website/app you consent to the collection and processing of the anonymously collected data as described above.</p>
+
+
+<h2>Web Analyses</h2>
+
+<h4>1. Google Analytics</h4>
+
+<p>This web page uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses so-called "cookies", text files that are stored on your computer, to help analyze how you use the web page. The Google tracking codes on this web page use the “_anonymizeIp()” function. Thus, the IP address will be processed only in a shortened form within Member States of the European Union or other countries of the Agreement on the European Economic Area to prevent direct correlation with an individual person. Only in exceptional cases is the complete IP address transmitted to a Google server in the USA and shortened there. On behalf of the operator of this web page, Google will use this information to evaluate your use of the web page, to compile reports on web page activity and to provide other services related to web page and Internet use with respect to the web page owner. The IP address transmitted by your browser as part of Google Analytics is not merged with other Google data. You can prevent your browser from storing these cookies by making the appropriate settings in your browser software; we would however like to point out that you may not be able to use all the features of this web page if you do so. You can also prevent capture of the data on your use of this web page (including your IP address) generated by the cookie and the processing of these data by Google by downloading and installing the browser plugin available at this link: <a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a></p>
+
+<h4>2. adjust</h4>
+
+<p>This web page/app also uses the “adjust” analytical technology by adjust GmbH (“adjust”). adjust here utilizes users’ IP and Mac addresses for the analysis; however, such data are used only in anonymous form. It is therefore not possible to link these data to a natural person. By using this web page/app for analytical purposes, you consent to processing of the anonymous data collected hereby in the way described above and for the purpose listed above.</p>
+
+<h4>3. Webtrekk</h4>
+
+<p>We employ the technologies of Webtrekk GmbH, Robert-Koch-Platz 4, 10115 Berlin, Germany for statistical analysis of our web pages. We use the Webtrekk services to collect statistical data about the use of our web page.&nbsp;&nbsp; Webtrekk GmbH was certified in the Web Controlling sector by TÜV (German Technical Inspection Association). In particular, collection and processing of tracking data is checked and certified for its conformity with privacy protections and data security. When you use these web pages, information transmitted by your browser is collected and analyzed using cookie technology and so-called pixels, which are incorporated into each web page.&nbsp; It is not possible to directly link these data to an individual person. The data collected in this way are used to create anonymous usage profiles, which form the basis for web statistics. The data collected with Webtrekk technologies are not used to personally identify the visitors to these web pages without separate consent by the person in question, and are not merged at any time with personal data about the pseudonym' bearers.</p>
+
+<p>You can opt out of data collection and storage by Webtrekk at any time with effect for the future. To do so and for additional information about Webtrekk’s privacy policy, please visit the following link: <a href="http://www.webtrekk.com/index/datenschutzerklaerung/opt-out.html">http://www.webtrekk.com/index/datenschutzerklaerung/opt-out.html</a>.</p>
+
+<h4>4. AdClear campaign tracking</h4>
+
+<p>We use the services of AdClear GmbH, Robert-Koch-Platz 4, 10115 Berlin ('AdClear') to collect statistical data for campaign tracking and thereby optimize our offer for our customers. We also use cookies for this purpose. The data is only collected in pseudonymized form. No personal data is sent to AdClear. AdClear GmbH is certified by TÜV Saarland for data protection in the field of campaign tracking systems.<br>
+If you object to the collection of your data by AdClear campaign tracking, a cookie with the name "adclearoptout" will be placed on your computer.<br>
+You have not objected to the collection of your data by AdClear.<br><a href="http://www.adclear.de/service/adclear-opt-out/?advid=A3115206" target="_blank">Object to the collection of your data by AdClear</a></p>
+
+<h4>5. AB Tasty</h4>
+
+<p>In addition, this web page uses the AB Tasty web analytics service by AB TASTY SAS, which is used for A/B and multivariate testing. This service uses cookies to identify a visitor's browser and to analyze the use of this web page. The cookies do not collect personal data. More information about how AB Tasty processes your data is available at <a href="http://www.optimizely.com/privacy">https://www.abtasty.com/uk/terms-of-use/</a>. On this website you can also find instructions on how to&nbsp;deactivate the tracking at any time.</p>
+
+<h4><br>
+6. Crazy Egg</h4>
+
+<p>In addition, this web page uses Crazy Egg, a web analysis service by Crazy Egg, Inc. that specializes in web usability. This service is used to optimize our offers as best as possible to serve our users’ needs. The service analyzes how users interact with the web page. Personal data are not stored under any circumstances by this service. You have the option to prevent Crazy Egg analysis by following the “opting out” instructions on the following page (<a href="http://www.crazyegg.com/opt-out">http://www.crazyegg.com/opt-out</a>).</p>
+
+<h4>7. Hotjar</h4>
+
+<p>To improve the user experience on our web pages, we use software by Hotjar (<a href="http://www.hotjar.com">http://www.hotjar.com</a>, 3 Lyons Range, 20 Bisazza Street, Sliema SLM 1640, Malta, Europe). The software allows us to measure and analyze the user behavior (mouse movements, clicks, key entries, scroll depth, etc.) on our web pages. To do so, cookies are set on the user’s end device, and user data, such as browser information, operating system, dwell time, etc., can be stored. More information on data processing by Hotjar is available at <a href="https://www.hotjar.com/privacy">https://www.hotjar.com/privacy</a>. You can opt out of Hotjar’s service at <a href="https://www.hotjar.com/opt-out">https://www.hotjar.com/opt-out</a>.</p>
+
+<h2>Social Plugins</h2>
+
+<h4>1. Facebook</h4>
+
+<p>Our web page uses so-called social plugins ("plugins") provided by the social network Facebook, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). These plugins are marked with a Facebook logo or the addition “social plugin by Facebook” or “Facebook Social Plugin.” An overview of Facebook plugins and their appearance is available here: <a href="https://developers.facebook.com/docs/plugins">https://developers.facebook.com/docs/plugins</a>.<br>
+When you visit a page of our web presence that contains such a plugin, your browser establishes a direct connection to the Facebook servers. The content of the plugin is transferred by Facebook directly to your browser and embedded in the page. Embedding the plugin provides Facebook with the information that your browser has accessed the corresponding page of our website, even if you do not have a Facebook profile or are not currently logged in to Facebook. This information (including your IP address) is transmitted by your browser directly to a Facebook server in the USA and stored there.<br>
+If you are logged in to Facebook, Facebook can assign your visit to our web page directly to your Facebook profile. If you interact with the plugins, for example by pressing the "Like" button or commenting, the corresponding information is also transmitted directly to a Facebook server and stored there. The information will also be published on your Facebook profile and shown to your Facebook friends.<br>
+Facebook can use this information for purposes of advertising, market research and tailored design of the Facebook pages. For this purpose, Facebook creates usage, interest and relationship profiles, e.g. in order to evaluate your use of our web page with regard to advertisements appearing on your Facebook page, to inform other Facebook users about your activities on our web page and to provide other services related to the use of Facebook. If you do not want Facebook to assign the data collected via our web page to your Facebook account, then you must log out of Facebook before you visit our web page.<br>
+Purpose and scope of data collection and the further processing and use of these data by Facebook as well as your rights in this respect and the settings available for protecting your privacy can be found in Facebook’s privacy policies: <a href="http://www.facebook.com/policy.php">http://www.facebook.com/policy.php</a>.<br>
+If you do not want Facebook to assign the data collected via our web page directly to your Facebook profile, you must log out of Facebook before you visit our web page. You can also prevent the loading of the Facebook plugin altogether by using add-ins to your browser, such as the “Facebook Blocker” (<a href="http://webgraph.com/resources/facebookblocker/">http://webgraph.com/resources/facebookblocker/</a>).</p>
+
+<h4><br>
+2. Twitter Plugins (e.g. “Tweet” button)</h4>
+
+<p>Our web page uses so-called social plugins ("plugins") provided by the microblogging service Twitter, operated by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA (“Twitter”). The plugins are marked with a Twitter logo, for example in the form of a blue “Twitter bird.” An overview of Twitter plugins and their appearance is available here: <a href="https://twitter.com/about/resources/buttons">https://twitter.com/about/resources/buttons</a>.<br>
+When you visit a page of our web presence that contains such a plugin, your browser establishes a direct connection to the Twitter servers. The content of the plugin is transferred by Twitter directly to your browser and embedded in the page. Embedding the plugin provides Twitter with the information that your browser has accessed the corresponding page of our website, even if you do not have a Twitter profile or are not currently logged in to Twitter. This information (including your IP address) is transmitted by your browser directly to a Twitter server in the USA and stored there. If you are logged in to Twitter, Twitter can assign your visit to our web page directly to your Twitter account. If you interact with the plugins, for example by pressing the "Tweet" button, the corresponding information is also transmitted directly to a Twitter server and stored there. The information will also be published on your Twitter account and shown to your contacts there.<br>
+Purpose and scope of data collection and the further processing and use of data by Twitter as well as your rights in this respect and the available settings for protecting your privacy can be found in Twitter’s privacy policies: <a href="https://twitter.com/privacy">https://twitter.com/privacy</a>.<br>
+If you do not want Twitter to assign the data collected via our web page directly to your Twitter account, you must log out of Twitter before you visit our web page. You can also prevent the loading of the Twitter plugin altogether by using add-ins to your browser, such as the “No Script” script blocker (<a href="http://noscript.net">http://noscript.net</a>/).</p>
+
+<h4><br>
+3. Google+ Plugins (e.g., “+1” button)</h4>
+
+<p>Our web page uses so-called social plugins ("plugins") provided by the social network Google+, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). The plugins can be identified, e.g., by the symbol “+1” on a white or colored background. An overview of Google plugins and their appearance is available here: <a href="https://developers.google.com/+/plugins">https://developers.google.com/+/plugins</a>.<br>
+When you visit a page of our web presence that contains such a plugin, your browser establishes a direct connection to the Google servers. The content of the plugin is transferred by Google directly to your browser and embedded in the page. Embedding the plugin provides Google with the information that your browser has accessed the corresponding page of our website, even if you do not have a Google+ profile or are not currently logged in to Google+. This information (including your IP address) is transmitted by your browser directly to a Google server in the USA and stored there. If you are logged in to Google+, Google can assign your visit to our web page directly to your Google+ profile. If you interact with the plugins, for example by pressing the "+1" button, the corresponding information is also transmitted directly to a Google server and stored there. The information will also be published on Google+ and shown to your contacts there. Purpose and scope of data collection and the further processing and use of data by Google as well as your rights in this respect and the available settings for protecting your privacy can be found in Google's privacy policies: <a href="http://www.google.com/intl/de/+/policy/+1button.html">http://www.google.com/intl/de/+/policy/+1button.html</a>.<br>
+If you do not want Google to assign the data collected via our web page directly to your Google+ profile, you must log out of Google+ before you visit our web page. You can also prevent the loading of the Google plugins altogether by using add-ins to your browser, such as the “No Script” script blocker (<a href="http://noscript.net/">http://noscript.net/</a>).</p>
 </div></div></div></div>
 
 </div></div></div></div>
 
   </div>
 
+      <div class="links">
+          </div>
   
+      <div class="more-link">
+          </div>
   </div>
 
-        </div>
+          </div>
       </section>  </div>
 
+      <div class="links">
+          </div>
   
+      <div class="more-link">
+          </div>
   </div>
 
-    </section>
+      </section>
   </div>
 </div>
 
 
 
 <footer class="footer container">
-      
+        
 <div class="panel-pane pane-block pane-fb-base-social-media">
+        
   
-      
+    
+      <div class="feed">
+          </div>
   
   <div class="pane-content">
-          <div class="col-md-6 col-md-offset-3">
-        <ul itemscope="" itemtype="http://schema.org/Organization" class="smBox">
-<link itemprop="url" href="https://www.flixbus.com">
-          <li>FLIXBUS ON:</li>
+    <div class="col-md-6 col-md-offset-3">
+        <ul class="smBox">
+          <li>FlixBus on:</li>
           <li>
-            <a itemprop="sameAs" href="https://www.facebook.com/FlixBus" class="smIcons bg1" target="_blank"></a>
+            <a href="https://www.facebook.com/FlixBus" class="smIcons bg1" target="_blank"></a>
           </li>
           <li>
-            <a itemprop="sameAs" href="https://twitter.com/FlixBus" class="smIcons bg2" target="_blank"></a>
+            <a href="https://twitter.com/FlixBus" class="smIcons bg2" target="_blank"></a>
           </li>
           <li>
-            <a itemprop="sameAs" href="https://plus.google.com/114561312723359392850/posts" class="smIcons bg3" target="_blank"></a>
+            <a href="http://www.youtube.com/user/EinfachBusfahren?feature=watch" class="smIcons bg4" target="_blank"></a>
           </li>
           <li>
-            <a itemprop="sameAs" href="http://www.youtube.com/user/EinfachBusfahren?feature=watch" class="smIcons bg4" target="_blank"></a>
-          </li>
+            <a href="https://www.instagram.com/flixbus" class="smIcons bg5" target="_blank"></a>
+         </li>
+         <li>
+            <a href="https://www.snapchat.com/add/FlixBusOfficial" class="smIcons bg6" target="_blank"></a>
+         </li>
         </ul>
-      </div>  </div>
+</div>  </div>
 
+      <div class="links">
+          </div>
   
+      <div class="more-link">
+          </div>
   </div>
 
-<div class="panel-separator"></div>
+  <div class="panel-separator"></div>  
 <div class="panel-pane pane-menu-tree pane-menu-footer-menu-com">
+        
   
-      
+    
+      <div class="feed">
+          </div>
   
   <div class="pane-content">
     <div class="menu-block-wrapper menu-block-ctools-menu-footer-menu-com-1 menu-name-menu-footer-menu-com parent-mlid-0 menu-level-1">
-  <ul class="en menuFooter col-md-12"><li class="first expanded menu-mlid-13120 col-md-2 col-sm-2" data-target=".menuBlock-13120"><button class="nolink"><div class="footerHead">Travel Options</div></button><ul class="menuBlock-13120 collapseBlock collapse"><li class="first leaf menu-mlid-13123"><a href="https://www.flixbus.com/bus">Bus</a></li>
+  <ul class="en menuFooter col-md-12"><li class="first expanded menu-mlid-13120 col-md-2 col-sm-2 collapsed" data-target=".menuBlock-13120"><button class="nolink"><div class="footerHead">Travel Options</div></button><ul class="menuBlock-13120 collapseBlock collapse"><li class="first leaf menu-mlid-38999"><a href="https://charter.flixbus.com/?utm_source=footer&amp;utm_medium=Link&amp;utm_campaign=Flixbus.com-Link">Rent a bus</a></li>
+<li class="leaf menu-mlid-13123"><a href="https://www.flixbus.com/bus/">Bus destinations</a></li>
 <li class="leaf menu-mlid-13126"><a href="https://www.flixbus.com/bus-travel">Bus Travel</a></li>
 <li class="leaf menu-mlid-13129"><a href="https://www.flixbus.com/bus-schedule-bus-stop">Bus Schedules &amp; Bus Stops</a></li>
 <li class="leaf menu-mlid-13132"><a href="https://www.flixbus.com/bus-journey">Bus Journey</a></li>
-<li class="leaf menu-mlid-13135"><a href="https://www.flixbus.com/bus-trips">Bus Trips</a></li>
-<li class="last leaf menu-mlid-13138"><a href="https://www.flixbus.com/overnight-bus">Overnight Buses</a></li>
+<li class="leaf menu-mlid-13138"><a href="https://www.flixbus.com/overnight-bus">Overnight Buses</a></li>
+<li class="leaf menu-mlid-13135"><a href="https://www.flixbus.com/postbus">Postbus joins FlixBus</a></li>
+<li class="last leaf menu-mlid-37096"><a href="https://www.flixbus.com/flixbus-languages" title="Here you go to our overview of all languages FlixBus speaks" target="_blank">All languages</a></li>
 </ul></li>
-<li class="expanded menu-mlid-13141 col-md-2 col-sm-3" data-target=".menuBlock-13141"><button class="nolink"><div class="footerHead">Destinations</div></button><ul class="menuBlock-13141 collapseBlock collapse"><li class="first leaf menu-mlid-13144"><a href="https://www.flixbus.com/bus/paris">Paris Bus</a></li>
-<li class="leaf menu-mlid-13147"><a href="https://www.flixbus.com/bus/berlin">Berlin Bus</a></li>
-<li class="leaf menu-mlid-13150"><a href="https://www.flixbus.com/bus/amsterdam">Amsterdam Bus</a></li>
-<li class="leaf menu-mlid-13153"><a href="https://www.flixbus.com/bus/salzburg">Salzburg Bus</a></li>
-<li class="leaf menu-mlid-13156"><a href="https://www.flixbus.com/bus/trier">Trier Bus</a></li>
-<li class="leaf menu-mlid-13159"><a href="https://www.flixbus.com/bus/aachen">Aachen Bus</a></li>
-<li class="last leaf menu-mlid-13162"><a href="https://www.flixbus.com/bus/cologne">Cologne Bus</a></li>
+<li class="expanded menu-mlid-13141 col-md-2 col-sm-3 collapsed" data-target=".menuBlock-13141"><button class="nolink"><div class="footerHead">Destinations</div></button><ul class="menuBlock-13141 collapseBlock collapse"><li class="first leaf menu-mlid-13144"><a href="https://www.flixbus.com/bus/berlin">Bus Berlin</a></li>
+<li class="leaf menu-mlid-13147"><a href="https://www.flixbus.com/bus/paris">Bus Paris</a></li>
+<li class="leaf menu-mlid-13150"><a href="https://www.flixbus.com/bus/london">Bus London</a></li>
+<li class="leaf menu-mlid-13153"><a href="https://www.flixbus.com/bus/barcelona">Bus Barcelona</a></li>
+<li class="leaf menu-mlid-13156"><a href="https://www.flixbus.com/bus/bremerhaven">Bus Bremerhaven</a></li>
+<li class="leaf menu-mlid-13159"><a href="https://www.flixbus.com/bus/rennes">Bus Rennes</a></li>
+<li class="last leaf menu-mlid-13162"><a href="https://www.flixbus.com/bus/bordeaux">Bus Bordeaux</a></li>
 </ul></li>
-<li class="expanded menu-mlid-13165 col-md-2 col-sm-3" data-target=".menuBlock-13165"><button class="nolink"><div class="footerHead">Bus Routes</div></button><ul class="menuBlock-13165 collapseBlock collapse"><li class="first leaf menu-mlid-13168"><a href="https://www.flixbus.com/bus-routes/bus-berlin-leipzig">Bus Berlin - Leipzig</a></li>
+<li class="expanded menu-mlid-13165 col-md-2 col-sm-3 collapsed" data-target=".menuBlock-13165"><button class="nolink"><div class="footerHead">Bus Routes</div></button><ul class="menuBlock-13165 collapseBlock collapse"><li class="first leaf menu-mlid-13168"><a href="https://www.flixbus.com/bus-routes/bus-paris-london">Bus Paris - London</a></li>
 <li class="leaf menu-mlid-13171"><a href="https://www.flixbus.com/bus-routes/bus-amsterdam-paris">Bus Amsterdam - Paris</a></li>
-<li class="leaf menu-mlid-13174"><a href="https://www.flixbus.com/bus-routes/bus-copenhagen-berlin">Bus Berlin - Copenhagen</a></li>
-<li class="leaf menu-mlid-13177"><a href="https://www.flixbus.com/bus-routes/bus-dresden-hamburg">Bus Dresden - Hamburg</a></li>
-<li class="leaf menu-mlid-13180"><a href="https://www.flixbus.com/bus-routes/bus-berlin-amsterdam">Bus Berlin - Amsterdam</a></li>
-<li class="leaf menu-mlid-13183"><a href="https://www.flixbus.com/bus-routes/bus-prague-berlin">Bus Berlin - Prague</a></li>
-<li class="last leaf menu-mlid-13186"><a href="https://www.flixbus.com/bus-routes/bus-bremen-groningen">Bus Bremen - Groningen</a></li>
+<li class="leaf menu-mlid-13174"><a href="https://www.flixbus.com/bus-routes/bus-amsterdam-london">Bus Amsterdam - London</a></li>
+<li class="leaf menu-mlid-13177"><a href="https://www.flixbus.com/bus-routes/bus-rome-genoa">Bus Rome - Genoa</a></li>
+<li class="leaf menu-mlid-13180"><a href="https://www.flixbus.com/bus-routes/bus-paris-bordeaux">Bus Paris - Bordeaux</a></li>
+<li class="leaf menu-mlid-13183"><a href="https://www.flixbus.com/bus-routes/bus-paris-berlin">Bus Paris - Berlin</a></li>
+<li class="last leaf menu-mlid-13186"><a href="https://www.flixbus.com/bus-routes/bus-rome-cesena">Bus Rome - Cesena</a></li>
 </ul></li>
-<li class="expanded active-trail menu-mlid-13189 col-md-2 col-sm-2" data-target=".menuBlock-13189"><button class="active-trail nolink"><div class="footerHead">FlixBus</div></button><ul class="menuBlock-13189 collapseBlock collapse"><li class="first leaf menu-mlid-13192"><a href="https://www.flixbus.com/company/about-flixbus">About FlixBus</a></li>
+<li class="expanded active-trail menu-mlid-13189 col-md-2 col-sm-2 collapsed" data-target=".menuBlock-13189"><button class="active-trail nolink"><div class="footerHead">FlixBus</div></button><ul class="menuBlock-13189 collapseBlock collapse"><li class="first leaf menu-mlid-13192"><a href="https://www.flixbus.com/company/about-flixbus">About FlixBus</a></li>
 <li class="leaf menu-mlid-15179"><a href="https://www.flixbus.com/company/jobs">Jobs</a></li>
 <li class="leaf menu-mlid-30721"><a href="https://www.flixbus.com/company/press-room">Press Room</a></li>
 <li class="leaf active-trail active menu-mlid-13198"><a href="https://www.flixbus.com/privacy-policy" class="active-trail active">Privacy Policy</a></li>
@@ -413,7 +543,7 @@ This website/app uses the analyzing technology “adjust” provided by adjust G
 <li class="leaf menu-mlid-13204"><a href="https://www.flixbus.com/legal-notice">Legal Notice</a></li>
 <li class="last leaf menu-mlid-19732"><a href="https://www.flixbus.com/photo-credits">Photo credits</a></li>
 </ul></li>
-<li class="expanded menu-mlid-13207 col-md-2 col-sm-2" data-target=".menuBlock-13207"><button class="nolink"><div class="footerHead">Customer Service</div></button><ul class="menuBlock-13207 collapseBlock collapse"><li class="first leaf menu-mlid-13210"><a href="https://www.flixbus.com/service/faq">FAQ</a></li>
+<li class="expanded menu-mlid-13207 col-md-2 col-sm-2 collapsed" data-target=".menuBlock-13207"><button class="nolink"><div class="footerHead">Customer Service</div></button><ul class="menuBlock-13207 collapseBlock collapse"><li class="first leaf menu-mlid-13210"><a href="https://www.flixbus.com/service/faq">FAQ</a></li>
 <li class="leaf menu-mlid-13213"><a href="https://www.flixbus.com/service/newsletter">Newsletter</a></li>
 <li class="leaf menu-mlid-13216"><a href="https://www.flixbus.com/vouchers">Vouchers</a></li>
 <li class="leaf menu-mlid-13219"><a href="https://www.flixbus.com/service/bus-app">Bus App </a></li>
@@ -421,53 +551,78 @@ This website/app uses the analyzing technology “adjust” provided by adjust G
 <li class="leaf menu-mlid-13225"><a href="https://shop.flixbus.com/rebooking/" target="_blank">Change/Cancel a Booking</a></li>
 <li class="last leaf menu-mlid-13228"><a href="https://www.flixbus.com/company/contact-us">Contact</a></li>
 </ul></li>
-<li class="last leaf menu-mlid-13231 col-md-2 col-md-offset-0 col-sm-7 col-sm-offset-5" data-target=".menuBlock-13231"><button class="nolink"><div class="footerHead">Pay Safely With</div></button></li>
+<li class="last leaf menu-mlid-13231 col-md-2 col-md-offset-0 col-sm-7 col-sm-offset-5 collapsed" data-target=".menuBlock-13231"><button class="nolink"><div class="footerHead">Pay Safely With</div></button></li>
 </ul></div>
   </div>
 
+      <div class="links">
+          </div>
   
+      <div class="more-link">
+          </div>
   </div>
 
-<div class="panel-separator"></div>
+  <div class="panel-separator"></div>  
 <div class="panel-pane pane-block pane-fb-base-copyright">
+        
   
-      
-  
-  <div class="pane-content">
-            <div class="col-md-4 col-md-offset-4 col-sm-12 copyRight">
-          © 2015 FlixBus GmbH
-         <br>Go green
-        </div>  </div>
-
-  
-  </div>
-
-<div class="panel-separator"></div>
-<div class="panel-pane pane-international-company-info">
-  
-      
+    
+      <div class="feed">
+          </div>
   
   <div class="pane-content">
-    <script type="application/ld+json">
-    {
-      "@context" : "http://schema.org",
-      "@type" : "Organization",
-      "url" : "https://www.flixbus.com",
-      "logo": "https://www.flixbus.com/sites/default/files/meinfernbus-flixbus_logo_weiss_hgr.jpg",
-      "contactPoint" : [{
-        "@type" : "ContactPoint",
-        "telephone" : "+49 (0)1807 123 99 123",
-        "contactType" : "customer service",
-        "areaServed" : ["AT", "BE", "CZ", "DE", "DK", "ES", "FR", "IT", "NL", "SE"],
-        "availableLanguage" : ["English", "German", "French"]
-      }]
-    }
-  </script>  </div>
+    <div class="copyRight">
 
+<div id="app-link-head" class="footerHead">App</div>
+
+<div class="copyRight-text">
+© 2017 FlixMobility GmbH
+</div>
+
+<div class="footer-logo">
+<a id="applink-footer" rel="nofollow" href="https://app.adjust.com/xzg7kl_67gsoo_vdpzc0?campaign=Footer&amp;adgroup=COM&amp;deep_link=flixbus%3A%2F%2Fbooking&amp;fallback=https%3A%2F%2Fwww.flixbus.com%2Fnode%2F1242">
+<img src="/sites/all/themes/flixbus_2014/sassBootstrap/images/footer-logo.png">
+</a>
+<img src="/sites/all/themes/flixbus_2014/sassBootstrap/images/footer-2x.png" class="footer-bg-image img-responsive hidden-xs">
+<img src="/sites/all/themes/flixbus_2014/sassBootstrap/images/footer-2x-mobile.png" class="footer-bg-image img-responsive hidden-sm hidden-md hidden-lg">
+</div>
+</div> 
+
+<style>
+footer > .pane-fb-base-copyright {z-index: -1;}
+footer .pane-fb-base-social-media {padding-top: 0;margin-top: 0;margin-left: 0;margin-right: 0;}
+ul.smBox > li:first-child {margin-right: 0;min-width: 300px;}
+@media (min-width: 992px) {
+.sv.menuFooter > li.expanded {min-height: 240px;}
+.nl.menuFooter > li.expanded {min-height: 256px;}
+.menu-name-menu-footer-menu-hu > ul > li.expanded {min-width: 200px}
+.menu-name-menu-footer-menu-nb > ul > li > ul {min-height: 200px}
+}
+form .btn-primary:active:active {
+background: rgb(255,200,85) !important; /* Old browsers */
+background: -moz-linear-gradient(top, rgba(255,200,85,1) 0%, rgba(255,140,0,1) 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(255,200,85,1) 0%,rgba(255,140,0,1) 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(255,200,85,1) 0%,rgba(255,140,0,1) 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc855', endColorstr='#ff8c00',GradientType=0 ) !important; /* IE6-9 */
+}
+form .btn-primary:focus {
+background: rgb(255,200,85) !important; /* Old browsers */
+background: -moz-linear-gradient(top, rgba(255,200,85,1) 0%, rgba(255,140,0,1) 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(255,200,85,1) 0%,rgba(255,140,0,1) 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(255,200,85,1) 0%,rgba(255,140,0,1) 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc855', endColorstr='#ff8c00',GradientType=0 ) !important; /* IE6-9 */
+}
+ol.carousel-indicators {width: 120px !important;left: auto !important;right: 30px !important;}
+</style>  </div>
+
+      <div class="links">
+          </div>
   
+      <div class="more-link">
+          </div>
   </div>
 
-</footer>
+  </footer>
 <div id="topSmoothScrollingDiv" style="display: none;">
   <span>To the top</span>
 </div>
@@ -476,20 +631,20 @@ This website/app uses the analyzing technology “adjust” provided by adjust G
         <style type="text/css" media="all">
           img[data-src] { display: none !important; }
         </style>
-      </noscript>  <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-QFH9M');</script>
+      </noscript><!-- Google Tag Manager 2--><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W6FDFB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W6FDFB');</script><!-- End Google Tag Manager 2--><script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-QFH9M');</script>
   <script type="text/javascript">
   var dataLayer = window.dataLayer || [];
     dataLayer.push({
   });
   </script>
-  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-QFH9M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>      (function ($) {
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-QFH9M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><iframe src="https://shop.flixbus.com/user/refresh-login-status" style="display: none;"></iframe><script>      (function ($) {
         Drupal.behaviors.lazyloader = {
           attach: function (context, settings) {
             $("img[data-src]").lazyloader({distance: 100, icon: "/sites/all/modules/contrib/lazyloader/loader/loader-0.gif" });
           }
         };
       }(jQuery));</script>
-<script src="https://www.flixbus.com/sites/default/files/advagg_js/js__i11V-7AETPhfL9YzRpXBpECwVkYyQ_ahu2eHxES_mK0__Tgy2Gm7LmUJY8GXZeWxVbS51f3txED35LX1ul4UiOfk__bAxOW1Tt2ncVpYXzxr1QNH5zm27ykJFccAzvw5qVeiY.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a5941c69e7","applicationID":"11025267","transactionName":"NF1abRNRV0MFVUdcXQ0XbUsIH1BeAFNLG0ILSA==","queueTime":0,"applicationTime":13,"atts":"GBpZG1tLRE0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
+<script src="//www.flixbus.com/sites/default/files/advagg_js/js__i11V-7AETPhfL9YzRpXBpECwVkYyQ_ahu2eHxES_mK0__Tgy2Gm7LmUJY8GXZeWxVbS51f3txED35LX1ul4UiOfk__SZV6ZsKJOXXk9rAz6l0QdFzP29kNPbSDIIJG2n4oWq4.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a5941c69e7","applicationID":"11025267","transactionName":"NF1abRNRV0MFVUdcXQ0XbUsIH1BeAFNLG0ILSA==","queueTime":0,"applicationTime":15,"atts":"GBpZG1tLRE0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
