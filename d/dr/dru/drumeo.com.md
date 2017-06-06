@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121135929id_/https%3A//www.drumeo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211717id_/https%3A//www.drumeo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Drumeo - Privacy Policy
 
@@ -26,7 +26,7 @@ This website contains some links to external websites. We are not responsible fo
 
 ## Customers
 
-Those that buy products on this website are asked for additional information. This data is used to process each sale, and to mail out each order to the correct customer. We keep records of customer data including: name, street address, e-mail address, phone number, and other contact information. However, we do NOT hold credit card data of any kind. Our credit card processing partner Internet Secure™ manages all of that information. In some cases we have the ability to see the last 4-5 digits of a credit card for future client verification.
+Those that buy products on this website are asked for additional information. This data is used to process each sale, and to mail out each order to the correct customer. We keep records of customer data including: name, street address, e-mail address, phone number, and other contact information. However, we do NOT hold credit card data of any kind. Our credit card processing partner Stripe™ manages all of that information. In some cases we have the ability to see the last 4-5 digits of a credit card for future client verification.
 
 Customers that have purchased from us are also added to our mailing-list by default. However, as stated above – all outgoing e-mail contains a simple unsubscribe link that can be used by the recipient at anytime.
 
