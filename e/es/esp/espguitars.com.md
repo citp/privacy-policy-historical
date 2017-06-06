@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espguitars.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233519id_/http%3A//www.espguitars.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espguitars.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043604id_/http%3A//espguitars.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - The ESP Guitar Company
 
