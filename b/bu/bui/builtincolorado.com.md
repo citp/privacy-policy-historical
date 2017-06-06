@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtincolorado.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106142227id_/http%3A//www.builtincolorado.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtincolorado.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034243id_/http%3A//www.builtincolorado.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Built In Colorado
 
@@ -50,7 +50,7 @@ From time to time, we may change our privacy practices, and this Privacy Policy,
   
  **7.     Any questions? Please contact us at:**  
 Built in  
-440 North Wells Suite 340  
+440 North Wells Suite 502  
 Chicago, Illinois 60654  
 Telephone: 312-447-6119  
 Email: [support@builtin.com](mailto:support@builtin.com)
