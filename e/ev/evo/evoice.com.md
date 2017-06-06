@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025085849id_/https%3A//www.evoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180623id_/https%3A//www.evoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eVoice
 
@@ -84,7 +84,7 @@ Subpoena Department
 6922 Hollywood Boulevard   
 5th Floor   
 Los Angeles, CA 90028   
-Fax: 1-310-943-2400 
+Fax: 1-323-446-8660
 
 Upon receipt of a valid subpoena, it is the Company's policy to notify the subscriber whose information is sought. In non-emergency circumstances, the Company will generally not produce the subpoenaed subscriber's identity information until approximately two weeks after receipt of the subpoena, unless a formal objection is filed by the user or we are legally required to do so.
 
