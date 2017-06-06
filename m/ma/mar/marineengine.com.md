@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marineengine.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027162512id_/http%3A//www.marineengine.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineengine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055657id_/http%3A//www.marineengine.com/privacy_policy.html) for the most accurate reproduction.*
 
 # MarineEngine.com Privacy Policy
 
@@ -33,7 +33,7 @@ Your information, whether public or private, will not be sold, exchanged, transf
 
   * ### To send periodic emails
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+The email address you provide for order processing, will only be used to send you information, updates and inquiries pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
