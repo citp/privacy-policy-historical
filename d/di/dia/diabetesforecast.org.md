@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesforecast.org privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210145650id_/http%3A//www.diabetes.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesforecast.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164609id_/http%3A//www.diabetes.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: American Diabetes Association®
 
@@ -50,7 +50,7 @@ You can request that we do not share, sell, or exchange your information for thi
 
 ### 6\. Our Commitment to Children's Privacy
 
-Protecting the privacy of the very young is especially important. We adhere to the 1998 Children's Online Privacy Protection Act (COPPA). (For more information, visit the Federal Trade Commission's [COPPA site](http://business.ftc.gov/privacy-and-security/children%E2%80%99s-online-privacy).
+Protecting the privacy of the very young is especially important. We adhere to the 1998 Children's Online Privacy Protection Act (COPPA). (For more information, visit the Federal Trade Commission's [COPPA site](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy).
 
 #### Special Considerations for Parents and Legal Guardians Regarding Planet D and Diabetes CampMessage Boards
 
