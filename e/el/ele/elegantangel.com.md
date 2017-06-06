@@ -1,71 +1,115 @@
-> *The following text is extracted and transformed from the elegantangel.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012252id_/http%3A//www.clubelegantangel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elegantangel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075005id_/http%3A//www.elegantangel.com/help/privacy_policy) for the most accurate reproduction.*
 
-# Club Elegant Angel
+# Privacy Policy - Elegant Angel Membership
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on this site and other sites part or our network. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
+## Privacy Policy
 
-**Adults Only Service**
+Your privacy very is important to EmpireStores.Co ("Us"). We realize that visiting this website ("The Website") requires trust on your part. We value your trust very highly and pledge to you, our customer, that we will work to protect the security and privacy of your personal information.
 
-This is an adult site that expressly and strictly limits its membership to adults. This site does not knowingly seek or collect any personal information or data from persons under the age of 18. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents on this site without exception. If you are under the age of 18 and/or under the age of majority in the jurisdiction you reside and from which you access the website, then your account will be terminated without notice or delay.
+We believe that you have a right to know the personal information that we collect from you, why we collect it and how we use the information. This Privacy Policy covers how we collect, use, disclose, store and protect your personal information.
 
-**Information We Collect From You**
+  1. Personal information collected
+  2. Use of your personal information
+  3. With whom we share your personal information
+  4. How you can control the use of your personal information
+  5. How you can decide what marketing communication you receive from us
+  6. How we protect the security of your personal information
+  7. Changes to the Privacy Policy
+  8. How to contact Us
 
-Any customer that joins/signs up as a subscriber of the site will be required to provide personal information as well as demographic information which may include the subscriber's name, physical address, e-mail address, zip code, country, username, and password. The site collects any and all such information and includes it in its customer database. In addition, other information such as IP address(es), referring website information, browser information, and other related data may be collected.
 
-**Use of Personal Information**
 
-We may use "cookies" and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. The site may also automatically collect traffic and click-through data as well as information regarding the online behaviour of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way. We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites. If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database. If a subscriber sends any personal communication or correspondence by any means, to the site, or any of its employees, agents or representatives, the site may collect the information regarding that communication and include that information in its customer database. Financial Data will only be shared with third party processors as necessary to initiate and complete any orders placed by your account.
+* * *
 
-**Disclosures of Information**
+## 1\. Personal Information Collected
 
-Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary fulfill technical requirement or to comply with applicable law, to cooperate with law enforcement and the court system.
+We collect personal information that you choose to provide voluntarily when using The Website. This information includes your name, email address and a password when you create an Account. While you can browse our online store without opening an account, you will need to create an account in order to make purchases and take advantage of certain features. We may also ask for personal information when you contact [Customer Service](https://web.archive.org/help/home). This will allow us to protect your confidentiality by verifying your identity.
 
-**Financial Information**
+The Website contains sexually-oriented adult material and they are not intended for individuals under 18 years of age. EmpireStores.Co does not knowingly collect personally identifiable information from individuals under 18 years of age who visit The Website. If a person under 18 years of age has provided Us with personally identifiable information, we ask that a parent or guardian immediately contact [Customer Service](https://web.archive.org/help/home) for assistance.
 
-All financial data will only be shared with the site's third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions.
+* * *
 
-Subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials.
+### Purchase Information
 
-**Security of Information**
+When you make a purchase using a credit card, we collect your name and billing address for the card, the card type, number, and expiration date. We collect this information in order to verify your billing address. We also collect information that allows us to ship your purchase and keep you informed of the status of your order. This includes your email address and the name, address, and telephone number of the intended recipient(s). Billing information may also be provided over the phone by calling Us.
 
-We has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site.
+If you created an account, you can choose to save your billing information for one or more credit cards in "Your Account". You may change or delete this saved information anytime. Simply go to [Your Account](https://web.archive.org/account), log-in with your username and password and edit whatever personal information you wish.
 
-While we uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information, the transmission of information via the Internet is not completely secure. All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
+* * *
 
-**Advertisements**
+### Cookies & Computer Information
 
-We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or "action tags" to measure advertising effectiveness on an "anonymous basis". Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser's website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers' websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers' website(s).
+When you visit The Website, you will be assigned a "cookie" (a small, unique identifier text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit The Website so that we can enhance and customize your online shopping experience.
 
-**EMAIL OPT-IN AND USER COMMUNICATION**
+You can choose to shop on The Website without cookies, but without these identifier files you will not be able to take advantage of certain features of our site. These features include remembering your password (so you don't have to log in each time you visit), storing your Order for later use and, in the future, providing a more personalized shopping experience. To shop without cookies, you can configure your browser to reject all cookies or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
 
-The subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. These communications shall be deemed to be opt-in email communications by virtue of the subscriber joining this site.
+We also collect certain technical information from your computer each time you visit a page on The Website. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring website, if any. We collect this information to enhance the quality of your experience during your visit to our site.
 
-The subscriber may opt-out of a mailing list by clicking on the removal link located at the bottom of the promotional email or by visiting the site: 
+We have turned on Google Analytics Demographics and Interest Reporting to get an idea of our demographics and users' interests. You can opt-out of the Google Analytics Advertising Features we use through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out at [http://www.networkadvertising.org/choices/ ](http://www.networkadvertising.org/choices/) ). You may also opt out by using this link: <https://tools.google.com/dlpage/gaoptout/>
 
-**Disclaimer**
+* * *
 
-By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administrative, research and development, customer administration, marketing, trading of personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.
+## 2\. Use of Your Personal Information
 
-By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties.
+Information we collect on The Website may be used to enhance your shopping experience in the following ways:
 
-All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site. 
+  * Deliver merchandise that you purchase online
+  * Register you as a member of The Website
+  * Bill your credit card for your purchases
+  * Verify your completed orders
+  * Respond to your customer service inquiries or requests
+  * Notify you about sales and specials, as well as offers that compliment your shopping experience, unless you choose to opt-out of such communications
+  * Identify and stock the products you want
+  * Customize your shopping experience
 
-The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. The site shall not be responsible for the privacy policy or the content of other such websites. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites.
 
-Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.
 
-All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals.
+* * *
 
-A subscriber's IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites.
+## 3\. With Whom we Share your Personal Information
 
-**Changes and Modification to the Privacy Policy**
+We never sell or rent your email address to unaffiliated companies. We may use your email address to send you messages that describe new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails from Us or our affiliates, please click on [Your Account](https://web.archive.org/account) and follow the instructions outlined in the Notification Options section.
 
-We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.
+We also do not sell other personal customer information to unaffiliated third-parties. We will share personal customer information that we collect only with our affiliates, agents, representatives and trusted service providers for the limited purposes of fulfilling customer orders; offering certain products and services in connection with The Website; offering products or services which we believe you may be interested; communicating to customers; providing customer service; enhancing and improving the customer shopping experience; and providing a personalized shopping experience and completing credit card transactions. We may use or share with our strategic partners and affiliates, aggregated demographic and statistical information. This information is not linked to any personal information that can identify any individual person. We may assign or transfer any or all of your personal information to the relevant third-party in the event of a reorganization, merger, or sale of our assets. 
 
-**Changes in the Ownership of the Sites**
+Aside from the purposes described above, we may also disclose your personal information in special circumstances if required to do so by law, court order or other governmental authority or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact, or bring legal action against someone who may be causing injury to or interfering with the rights or property of EmpireCtores.Co, another user or anyone else that could be harmed by such activities.
 
-We are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
+* * *
 
-**Terms and Conditions of the Sites**
+## 4\. Controlling the Use of Your Personal Information
 
-Each subscriber should carefully read each of the terms and conditions of the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
+Creating an account lets us provide a better shopping experience for you and allows you to make purchases more conveniently without having to re-enter your payment and shipping information each time you make a purchase on our site. Although you must create an account in order to purchase products, it is not necessary to open an account to visit our site. As an existing customer, you can modify your personal information anytime. Simply go to [Your Account](https://web.archive.org/account) then click "Contact Information" and edit whatever information you wish. To have your personal information deleted, contact our Customer Service Department.
+
+Do not share your password with anyone. Other than requested on The Website, we will never ask you for your password.
+
+* * *
+
+## 5\. Controlling Marketing Communication you Receive
+
+We may periodically send you email messages describing new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails from Us, please click on [Your Account](https://web.archive.org/account) click on "Notification Options" and remove the check in the box next to the "Sales & Specials" notification option. You can also opt-out of receiving these messages by clicking the "Unsubscribe" link in the email message itself.
+
+The only email messages you will receive from us when you elect not to receive informational emails will be to confirm any purchases you make on our site, let you know your order has been shipped, respond to your Help Desk inquiries and to answer any other questions you may have about our site. We may also need to send operational emails to inform you of any changes to our site that might affect your personal information, or to announce product recalls.
+
+* * *
+
+## 6\. How we Protect your Personal Information
+
+The security of your personal information is very important to us. In our efforts to protect your online transactions, we use a technology called Secure Sockets Layer (SSL). If your browser is capable of SSL (and most are), your personal information will be automatically encrypted, or encoded, before it is sent over the Internet.
+
+We have also obtained a digital certificate from DigiCert®, a leading provider of Internet trust services. When you enter a secure portion of our site (which is any page containing any of your personal information), an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small pop-up window displaying site-security information will appear. This certificate guarantees that your personal information is being transmitted in secure (encrypted) form to an EmpireStores.Co web server, not to some unknown or unauthorized server.
+
+Ultimately, your personal information is protected by the password that you entered when you created an account (or another password you chose after changing a previous password). Please keep this password confidential. The confidentiality of your password is your responsibility to protect. You may change it anytime by going to [Your Account](https://web.archive.org/account), then click "Change Password" and enter a new password.
+
+* * *
+
+## 7\. Changes to the Privacy Policy
+
+We reserve the right to change, modify or amend this Privacy Policy at any time, without prior notice, and we encourage you to check this Privacy Policy periodically for any changes. You are responsible for regularly reviewing this Privacy Policy and your continued use of The Website constitutes your agreement as to all such updated or modified Privacy Policies. By using or visiting The Website, you acknowledge that you have read, understand and agree to be bound by this Privacy Policy. If you do not agree to the terms of this policy, then do not use or visit The Website.
+
+* * *
+
+## 8\. How to Contact Us
+
+If you have comments or questions regarding our privacy policy, please contact [Customer Service](https://web.archive.org/Account/Inquiry). We will address any issue to the best of our abilities.
+
+Thank you for your support of our policies.
