@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iko-system.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208094743id_/http%3A//www.iko-system.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iko-system.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071218id_/http%3A//www.iko-system.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Sales automation
 
