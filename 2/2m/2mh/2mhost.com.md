@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2mhost.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216012833id_/https%3A//www.2mhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2mhost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184558id_/https%3A//www.2mhost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 2MHost.com
 
@@ -9,10 +9,6 @@ Effective Date: 11/18/2010
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. Please read the following carefully. If you have any questions or concerns, please [Contact us](http://www.2mhost.com/contact.html)
 
 This privacy statement describes how 2MHost dot com ltd. collects and uses the personal information you provide on our Web site: www.2mhost.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-2MHost dot com ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with _[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)_ including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at _<http://www.2mhost.com/contact.html>_. If you are not satisfied with our response you can contact _[TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)_ . 
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 **Gathering and Use of Information**
 
