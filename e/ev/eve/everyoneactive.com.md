@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the everyoneactive.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412022955id_/http%3A//www.everyoneactive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyoneactive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195430id_/https%3A//www.everyoneactive.com/privacy) for the most accurate reproduction.*
 
 # Everyone Active » Privacy Policy
 
-This Privacy Policy relates to the website [www.everyoneactive.com](http://www.everyoneactive.com/). Everyone Active is the trading name for Sports & Leisure Management Ltd, the data controller. This policy informs users of Everyone Active about the collection, use and sharing of personal information collected through the [www.everyoneactive.com](http://www.everyoneactive.com/) (“the website”) and at our centres.
+This Privacy Policy relates to the website [www.everyoneactive.com](https://www.everyoneactive.com/). Everyone Active is the trading name for Sports & Leisure Management Ltd, the data controller. This policy informs users of Everyone Active about the collection, use and sharing of personal information collected through the [www.everyoneactive.com](https://www.everyoneactive.com/) (“the website”) and at our centres.
 
 This Policy is designed to protect you, our users by informing you how personal information is collected, how we look after that information and with whom we share it. Quick links have been provided to help you find the section you wish to read.
 
 Everyone Active is committed to complying with the Data Protection Act 1998 and The Privacy and Electronic Communications (EC Directive) Regulations 2003. By using our website and our centres you are consenting to us processing your information in the ways stated here.
 
-**_What information do we collect?_**
+### What information do we collect?
 
 The information we collect may include any of the following.
 
@@ -22,7 +22,7 @@ Information you type into the website when you become a member and create your p
 
 
 
-Such as Member ID and pin number. Storing this data saves you from re-entering your details again when you return to the website to make a booking.
+Such as Member ID and pin number. Storing this data saves you from re-entering your details again when you return to the website to make a booking. Your Photograph also allows us to ensure that your card is not misused if lost or stolen and helps us identify you to ensure we support you on your activity journey.
 
   * _Details of your transactions._
 
@@ -36,7 +36,7 @@ Information about website visits including IP address.
 
 
 
-We use your IP address to capture information about website visits so we can learn more about how our customers use the website in order to find ways to improve the website and our products and services for your benefit. Please see our [Cookie Policy](http://www.everyoneactive.com/privacy-policy/cookie-policy/) for more information.
+We use your IP address to capture information about website visits so we can learn more about how our customers use the website in order to find ways to improve the website and our products and services for your benefit. Please see our [Cookie Policy](https://www.everyoneactive.com/privacy-policy/cookie-policy/) for more information.
 
   * _Customer feedback_
 
@@ -56,13 +56,13 @@ We may ask you for information about your health in order to recommend appropria
 
 We keep a record of any permissions and preferences you give us about what types of communication you are happy to receive from us.
 
-**_Data relating to children_**
+### Data relating to children
 
 Our services are used by people of all ages. Everyone Active may accept website registrations and collect personal information from individuals under the age of13. If you are under 13 we do not allow you to post information about yourself in any Everyone Active forums or community areas. Everyone Active accepts no liability if this instruction is ignored.
 
 Children aged under 13 years must have a parent or guardian’s consent before providing personal information to us. We do not wish to collect any personal information without this consent.
 
-**_How do we store and protect your personal information?_**
+### How do we store and protect your personal information?
 
 These are the basic guidelines we use to look after your personal data.
 
@@ -78,20 +78,25 @@ We follow strict procedures when storing or handling information that you have g
 
 Everyone Active reserves the right to store and process information securely outside of the European Economic Area (“EEA”).
 
-**_Services provided by third parties_**
+### Services provided by third parties
 
 Everyone Active may also share information with third party organisations that provide specific services which enhance your membership and experience with us. These organisations may process data securely outside of the EEA. There is a contract in place with each third party which includes strict terms and conditions to protect your privacy.
 
-Please find below links to the terms and conditions and/or Privacy Policies of these third party organisations.
+Our current processing partners include [Aqua Passport](https://www.everyoneactive.com/terms-conditions-online/sports-passport-terms-and-conditions/), [Bounts](https://www.everyoneactive.com/terms-conditions-online/ea-rewards-terms-and-conditions/), Precor, Technogym, Media Blaze, Gladstone, Acteol and [Nutrition Complete](https://www.everyoneactive.com/terms-conditions-online/nutrition-complete-terms-and-conditions/).
 
-**Nutrition Complete**
+_Please note:_ Use of services provided by our partners [Bounts](https://www.everyoneactive.com/terms-conditions-online/ea-rewards-terms-and-conditions/), Precor, Technogym and [Nutrition Complete](https://www.everyoneactive.com/terms-conditions-online/nutrition-complete-terms-and-conditions/) will be subject to the terms and conditions and/or Privacy Policies of these third party organisations. Please see the links to these third party terms that also apply above and beyond these here:
 
-  * [Privacy Policy](https://everyoneactive.nutritioncompleteonline.com/privacy)
-  * [General Terms](https://everyoneactive.nutritioncompleteonline.com/generalterms)
+[Everyone Active Rewards (Bounts) – Terms and Conditions](https://www.everyoneactive.com/terms-conditions-online/ea-rewards-terms-and-conditions/)
+
+[Nutrition Complete – Terms and Conditions and Privacy Policy](https://www.everyoneactive.com/terms-conditions-online/nutrition-complete-terms-and-conditions/)
+
+**Leisure Partners**
+
+  * Westway Trust run activities and events that they provide for their local community.
 
 
 
-**_How do we use your information?_**
+### How do we use your information?
 
 We use your information to help us provide and improve our services for you. We may use your information in the following ways.
 
@@ -105,31 +110,29 @@ We use your information to help us provide and improve our services for you. We 
 
 
 
-**_Keeping you updated_**
+### Keeping you updated
 
 We may from time to time contact you about our services or products we think you might find interesting by email, by post, telephone or SMS, but only if you have given us your permission to do so.
 
 If you do not want us to contact you by email please let us know by ticking the relevant box in the Permissions page in ‘My Settings and Preferences’ in your profile, or click on the ‘unsubscribe’ link on any emails we send. You may also opt-out of email or any other communications by contacting the support team at Datamanagerreceived@everyoneactive.com
 
-**_Access to the information we store about you_**
+### Access to the information we store about you
 
 If you believe the information we hold about you is out of date or incorrect, please tell a member of staff at any of our centres. You will need a form of identification to request any changes. The Data Protection Act 1998 gives you the right to access the personal information held about you. This is called a Subject Access Request and it will be incur a fee of £10. If you would like to make a request you should write to us at:
 
-Subject Access
-
 Sports and Leisure Management Ltd  
-3 Watling Drive  
+2 Watling Drive  
 Sketchley Meadows  
 Hinckley  
 Leicestershire  
-LE10 3EY  
-_  
-**Links to other websites**_
+LE10 3EY
+
+### Links to other websites
 
 The Everyone Active website contains links to and from external websites, advertisers and affiliates. If you follow a link to other sites please note that these will be governed by their own privacy policies. We cannot accept liability for data use on those websites.
 
-**_Changes to this privacy policy_**
+### Changes to this privacy policy
 
 This policy may be updated from time to time on this page. If you have any questions or comments about our Privacy Policy or how we use your personal information please contact us at [datamanager@everyoneactive.com](mailto:datamanager@everyoneactive.com)
 
-_Dated: October 2015_
+_Dated: December  2016_
