@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105235222id_/http%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124437id_/http%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
 
-# Neuroscience News Privacy Policy – Neuroscience News
+# Neuroscience News Privacy Policy - Neuroscience News
 
 ### Privacy Policy  
 _Effective July 6, 2010_
 
-**Our Commitment To Privacy  
+ **Our Commitment To Privacy  
 **  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**The Information We Collect:**
+ **The Information We Collect:**
 
 This notice applies to all information collected or submitted on the NeuroscienceNews.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
@@ -25,7 +25,7 @@ Name
 Address  
 Phone Number
 
-**The Way We Use Information:**
+ **The Way We Use Information:**
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
@@ -35,15 +35,15 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-**Our Commitment To Data Security**
+ **Our Commitment To Data Security**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-**Our Commitment To Children’s Privacy:**
+ **Our Commitment To Children’s Privacy:**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-**How You Can Access Or Correct Your Information**
+ **How You Can Access Or Correct Your Information**
 
 You can access all your personally identifiable information that we collect online and maintain by logging in to your Neuroscience News account and checking your profile. You can change your information displayed on Neuroscience News by going into your profile and settings areas and following the instructions there. Should you have any further questions, email us, or message us and we will do our best to help you. We will safeguard your information to the best of our capabilities.
 
@@ -51,11 +51,11 @@ You can correct factual errors in your personally identifiable information by ma
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections to member account information.
 
-**How To Contact Us**
+ **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please leave us a comment on a post, page, or forum. You can also email us at [contact @ neurosciencenews.com].
 
-**Advertising Information**
+ **Advertising Information**
 
 Only Google and their ad network partners serve ads on our website currently. We do not share your data with anyone and we do our best to protect any data that is left on our website. We do not email users, nor share any data outside of that used by Google and their partners. Below is information regarding Google and their networks, as well as ways to opt-out of sharing data.
 
