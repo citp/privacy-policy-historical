@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satoristudio.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120000115id_/http%3A//satoristudio.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satoristudio.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151024id_/http%3A//satoristudio.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Satori
 
@@ -109,7 +109,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 **_  
 Satori Studio  
-Skolas 12-23  
+Antonijas 26-15  
 Riga, LV1010 Latvia  
 support@satoristudio.net  
 _**
