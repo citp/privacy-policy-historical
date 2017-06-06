@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011235211id_/http%3A//www.qad.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110303id_/http%3A//www.qad.com/terms-privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Terms | QAD
 
@@ -70,12 +70,17 @@ QAD may transfer data to third parties, such as business partners (e.g. a QAD di
 
 **Access to Personal Data**
 
-If you wish to access, correct or delete your personal data, or if you wish to obtain information on and/or restrict the use of your personal data, please direct any requests to [privacy@qad.com](mailto:privacy@qad.com). Please note that an individual who seeks access to or wishes to correct or delete personal data processed in a QAD Cloud environment or to data QAD processes for the benefit of a customer in the context of the provision of services, should direct his or her query to the QAD customer responsible for the personal data (i.e. to the data controller). If such a query is sent to QAD directly, QAD will forward it to the customer.
+If you wish to access, correct or delete your personal data or if you wish to obtain information on and/or restrict the use of your personal data, please direct any requests to [privacy@qad.com](mailto:privacy@qad.com). Please note that an individual who seeks access to or wishes to correct or delete personal data processed in a QAD Cloud environment or to data QAD processes for the benefit of a customer in the context of the provision of services, should direct his or her query to the QAD customer responsible for the personal data (i.e. to the data controller). If such a query is sent to QAD directly, QAD will forward it to the customer.
 
 **Privacy Shield**
 
-QAD complies with the Privacy Shield requirements and the underlying principles regarding the collection, use, and retention of data exported from the European Union. The EU-U.S. Privacy Shield Framework was designed by the U.S. Department of Commerce and European Commission to provide companies on both sides of the Atlantic with a mechanism to comply with EU data protection requirements when transferring personal data from the European Union to the United States in support of transatlantic commerce. Information regarding the privacy Shield can be found at: <https://www.privacyshield.gov/welcome>. A list of all parties that have subscribed to the principles of the Privacy Shield is available at: <https://www.privacyshield.gov/list>.
+QAD complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  QAD has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
-**Conflicts and Dispute Resolutions**
+  
+**Complaints, Conflicts and Dispute Resolutions**
 
-QAD is committed to resolving any conflicts or disputes that may arise in relation to QAD’s Privacy Policy. For any issues that may arise in the European Union, QAD has submitted to the authority of the European Data Protection Authorities as part of its compliance with the Privacy Shield. Under certain limited conditions, individuals may invoke binding arbitration as a last resort before the Privacy Shield Panel. Additionally, QAD acknowledges that it is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). For issues that may arise outside of the European Union, parties shall agree on an appropriate means of dispute resolution, or, failing such agreement, the dispute shall be brought before a competent court. 
+QAD is committed to resolving any conflicts or disputes that may arise in relation to QAD’s Privacy Policy. If you have a compliant, please contact QAD at:
+
+[privacy@qad.com](mailto:privacy@qad.com)
+
+QAD has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs or the Swiss FDPIC for more information or to file a complaint.  The services of EU DPAs and the Swiss FDPIC are provided at no cost to you. Additionally, QAD acknowledges that it is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). For issues that may arise outside of the European Union, parties shall agree on an appropriate means of dispute resolution, or, failing such agreement, the dispute shall be brought before a competent court. 
