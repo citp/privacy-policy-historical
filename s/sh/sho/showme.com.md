@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showme.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208125223id_/http%3A//www.showme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showme.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110317id_/http%3A//www.showme.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - ShowMe Online Learning
 
@@ -64,7 +64,7 @@ Business Transfers: In some cases, we may choose to buy or sell assets. In these
 
 Protection of ShowMe and Others: We may release Personal Information or Children’s Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of ShowMe, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection.
 
-With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information.
+With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information. We make sure that all third parties we share data with follow the same privacy and security practices we do as laid out in our policies.
 
 Children’s Personal Information: Other than as stated above, we never share Children’s Personal Information with any third parties.
 
@@ -93,16 +93,18 @@ As stated previously, you can always opt not to disclose information, even thoug
 
 You are able to add or update certain information on pages, such as those listed in the “What Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. Certain types of communication you send to other users cannot be removed, such as messages.
 
-You may request deletion of your ShowMe account by emailing info@showme.com. Please note that some information may remain in our records after deletion of your account. Further, information may remain viewable elsewhere to the extent that it was copied or stored by other users. We may use any aggregated data derived from or incorporating your Personal Information after you delete your information, but not in a manner that would identify you personally.
+You may request deletion of your ShowMe account by emailing info@showme.com. Please note that after 30 days we will automatically delete all data associated with deleted accounts. Teachers and school administrators who have created student accounts also may request deletion of their students ShowMe accounts by emailing info@showme.com. Further, information may remain viewable elsewhere to the extent that it was copied or stored by other users. We may use any aggregated data derived from or incorporating your Personal Information after you delete your information, but not in a manner that would identify you personally.
 
 If you do not wish to receive email or other communications or notifications from us, please email us at info@showme.com. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
 ## CHANGES TO THIS PRIVACY POLICY
 
-ShowMe may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information or Children’s Personal Information, we will notify you via email or by posting an announcement on the Website. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
+ShowMe may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information or Children’s Personal Information, we will notify you via email and by posting an announcement on the Website. You will have the choice to consent to the new changes. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
 
 ## QUESTIONS OR CONCERNS
 
 If you have any questions or concerns regarding privacy at ShowMe or www.showme.com, please send us a detailed message to info@showme.com. We will make every effort to resolve your concerns.
 
-Effective: June 1, 2011
+ShowMe is a proud signatory of the [Student Privacy Pledge.](https://studentprivacypledge.org/)
+
+Effective: June 5, 2017
