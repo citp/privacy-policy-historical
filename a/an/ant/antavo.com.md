@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the antavo.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205134928id_/https%3A//antavo.com/legals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antavo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163607id_/https%3A//antavo.com/legals/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Antavo Loyalty Software
+# Privacy Policy - Antavo Loyalty Management Platform
 
 ### 1\. General
 
