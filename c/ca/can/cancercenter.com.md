@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancercenter.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053229id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancercenter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043828id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CTCA
 
@@ -83,3 +83,27 @@ For detailed information regarding how medical information about you may be used
   * [Tulsa](https://web.archive.org/southwestern/preparing-for-your-visit/notice-of-privacy-practices/)
 
 
+
+## Online Chat
+
+Fill out all of the form below and we will connect you to someone to assist you.
+
+First Name:
+
+Don't forget to enter your first name.
+
+Last Name:
+
+Don't forget to enter your last name.
+
+Email Address
+
+Please enter a valid email address so we can respond to your inquiry.
+
+Who are you seeking cancer care for?
+
+Please enter who you are seeking care for.
+
+I have read and understand the disclaimer. Please review the disclaimer.
+
+[Chat now](https://web.archive.org/contact/patients-caregivers/chat-form-processing/)
