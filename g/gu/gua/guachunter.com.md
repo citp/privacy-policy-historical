@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guachunter.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225134117id_/https%3A//www.chipotle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guachunter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181509id_/https%3A//www.chipotle.com/privacy-policy) for the most accurate reproduction.*
 
 # Chipotle — Privacy Policy
 
 ## CHIPOTLE’S PRIVACY POLICY
 
-###### (Last updated October 17, 2016) 
+###### (LAST UPDATED APRIL 5, 2017)
 
 Thank you for visiting Chipotle online. This Privacy Policy describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliated companies (collectively, "Chipotle", “we” or “our”) collect, use and disclose personal information of visitors to our websites, users of our online services and others to whom we expressly provide that this Privacy Policy will apply.
 
@@ -47,7 +47,11 @@ Well, actually, not that kind of cookie. But like many websites, we use cookies 
 
 You can use the options in your web browser to notify you when you receive a cookie or otherwise change your cookie preferences. Click on the "Help" section of your browser to learn how to make those changes. But remember, if you disable cookies, you may not be able to take advantage of all the exciting features of our websites.
 
-Our websites may also use web beacons or pixel tags, which are electronic images that may be used on our websites or in our emails. We use these tools to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
+In addition to adjusting the appropriate settings in your browser, many advertising companies that may collect anonymous information for advertising targeting purposes are also members of the Digital Advertising Alliance or the Network Advertising Initiative, both of which provide an opt-out from advertisement targeting by their members. You can find more information on these opt-out capabilities on [www.aboutads.info](https://aboutads.info/) and [www.networkadvertising.org](https://networkadvertising.org/).
+
+Our website uses third party cookies from Google Analytics for Demographics and Interest Reporting. This feature gives us insight into behavior information relating to visitor age, gender and interests on an anonymous and aggregate level. This will help us to understand browsing behavior to give you a better experience while visiting our site.
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/u/0/ads/authenticated) Feature on Google. By clicking [Ads Settings](https://www.google.com/settings/u/0/ads/authenticated), you will be taken out of chipotle.com to a page on Google where you can control the information Google uses to show you ads. In addition, you can use [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics.
 
 ###### Sharing of Personal Information
 
