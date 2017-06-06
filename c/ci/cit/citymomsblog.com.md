@@ -1,60 +1,91 @@
-> *The following text is extracted and transformed from the citymomsblog.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822024409id_/http%3A//citymomsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citymomsblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165015id_/http%3A//www.citymomsblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | City Moms Blog Network
+# Privacy Policy
 
-This Privacy Policy governs the manner in which CityMomsBlog.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://citymomsblog.com website (“Site”). This privacy policy applies to the Site and all products and services offered by City Moms Blog Network.
+**Privacy Policy**
 
-Personal Identification Information
+This privacy notice discloses the privacy practices for citymomsblog.com.  “You” and similar terms refers to you, the individual using this Website, as well as any person or entity on whose behalf you are using this Website and all others who may have rights through you.  Terms such as “CMBN”, “we”, “us” or “our” refer to City Moms Blog Network, LLC.  
 
-We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**Information We Collect About You on this Website**
 
-Non-personal Identification Information
+When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and non-personal information collected on an aggregate basis as you and others browse our website.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Personal information includes information that identifies you individually and personally, such as name, postal address, e-mail address, telephone number, account name, or any other identifier by which you may be contacted online or offline. It also includes information that concerns you but may not directly identify you, such as zip code or certain demographic information. Finally, it may include information that you send to us or post to our website, such as the content of your submissions to your account or e-mail communications to us.
 
-Web browser cookies
+Non-personal information includes information describing your Internet connection, the equipment you use to access our website, and other usage details.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**How We Collect Information on this Website**
 
-How we use collected information
+You will provide us information about yourself when you register for services, purchase products, or register for email newsletters and alerts. You may also upload personal information to your account, fill out forms on our website, or otherwise share information by communicating to or through our website. You may also provide information by directly contacting us, such as by email.
 
-CityMomsBlog.com collects and uses Users personal information for the following purposes:
+You provide non-personal information to us automatically as you navigate through the website. Information collected automatically may include usage details, IP addresses and information collected through cookies and other passive tracking technologies.  
 
-  * _To improve our Site.  _We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _To send periodic emails._  If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+**How We Use Your Information**
+
+We use information that we collect about you or that you provide to us, including personal information:
+
+  * To present our website and its contents to you and to allow you to participate in interactive features on our website;
+  * To provide you with information, products, or services that you request from us;
+  * To provide you with notices about your account and status, changes to our website or any products or services we offer or provide through it;
+  * To provide personal information to others as per your requests;
+  * To fulfill any other purpose for which you provide it, such as subscribing you to an email newsletter;
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, or to otherwise protect our rights or those of third parties;
+  * To comply with applicable laws, regulations, and legal process;
+  * To keep a record of our transactions and communications;
+  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law; 
+  * In any other way we may describe when you provide the information; and 
+  * For any other purpose with your consent.
 
 
 
-How we protect your information
+**How We Share Your Information**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We will only share your personal information with third parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law. We will not sell or rent your personal information to third parties, except to a successor if all or part of our business is sold, merged, dissolved, acquired, or in a similar transaction, or in the event of a corporate reorganization .
 
-Sharing your personal information
+We share and give access to personal information to our employees and agents (including employees and agents or our affiliates) in the course of operating our businesses. We may also share personal information with vendors we hire to perform services on our behalf, including processing credit card payments. 
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We share and give access to personal information when you request it. As part of our services, you may request that we share specific information with specific persons, and we will share your personal information as reasonably necessary to fulfill those requests.
 
-Third party websites
+We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting website visitors who violate our rules, or engage in behavior that is harmful to other visitors, or is illegal. 
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Because non-personal information does not identify who you are, we do not limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government. 
 
-Advertising
+**Security**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+We have put in place reasonable physical, electronic, and managerial procedures designed to safeguard the information we collect online at the Website. Due to the nature of the Internet and online communications, however, we cannot guarantee that any information transmitted online will remain confidential. Due to the nature of the Internet and online communications, however, we cannot guarantee that any information transmitted online will remain confidential. We are not responsible for the illegal acts of third parties such as hackers.
 
-Changes to this privacy policy
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a username and password for access to certain parts of our website, you are responsible for keeping the username and password confidential.  Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-CityMomsBlog.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Cookies**
 
-Your acceptance of these terms
+This website utilizes cookies. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies through your browser settings.  If you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our website. 
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use this Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+**Do Not Track Disclosure**
 
-Contacting me
+This website does not monitor for or behave differently if your computer transmits a “do not track” or similar beacon or message. 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+**Children’s Information**
 
-CityMomsBlog.com
+We do not intentionally collect any personal information from children under the age of 13 through this website. This website is not directed towards children under 13.  If you believe that we have collected personal information from a child under the age of 13 through this website, please contact us.
 
-http://www.citymomblog.com
+**U.S. Audience**
+
+This site is intended for a United States audience. If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.
+
+**California Privacy Rights**
+
+California Civil code § 1798.83 provides certain rights to California residents, including the right to request information regarding our disclosure of personal information to third parties for marketing purposes.  To request such information, please contact us as described below.
+
+**Changes**
+
+We may change this Website Privacy Policy.  If we revise this Website Privacy Policy we will post the changes on this page.  We will also provide appropriate notice to you on this website and in other appropriate locations based on the type changes made.  Please visit this page to read about any updates.
+
+**Contact Information  **
+
+If there are any questions regarding the Privacy Policy you may contact us at:
+
+City Moms Blog Network, LLC
+
+http://www.citymomsblog.com
 
 info@citymomsblog.com
