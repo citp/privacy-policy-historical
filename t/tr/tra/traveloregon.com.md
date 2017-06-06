@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126185904id_/http%3A//traveloregon.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154453id_/http%3A//traveloregon.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Oregon
 
@@ -18,7 +18,7 @@ We can be reached via e-mail at [ info@traveloregon.com](mailto:info@traveloreg
 
 Your privacy is important to Travel Oregon and we will treat any of your information with care.
 
-Our Privacy Statement lets you know how we handle personally identifiable information you share with us through our digital and printed communication vehicles.
+Our Privacy Statement lets you know how we handle both personally identifiable information you share with us through our digital and printed communication vehicles and non-personally identifiable information that we may automatically collect.
 
 ### Personal Information Collection
 
@@ -30,13 +30,17 @@ It is Travel Oregon’s policy to treat any personally identifiable information 
 
 However, Travel Oregon may use the information you voluntarily offer to inform you directly about information, products or services that may be of interest to you, improve content on our web site or electronic newsletter, or to assist with marketing research. We may disclose your personal information as required by law, in conjunction with a public records request, government inquiry, or in litigation or dispute resolution.
 
+### Cookies
+
+We use tracking tools such as cookies, or other technologies or methods of integration that may be placed in the browser of your device (e.g., computer or mobile phone) to collect non-personally identifiable information such as internet protocol (IP) addresses to provide us with general location data, sometimes across multiple devices. We may share with our service providers your IP address to monitor how effective our advertisements are at inspiring you to visit Oregon.
+
 ### Links to Outside Websites
 
 This site may contain links to third party sites not controlled by Travel Oregon, which therefore are not covered by this privacy statement, such as those belonging to Travel Oregon partners and advertisers. We recommend that you check the privacy statement of other sites you visit before providing any personal information.
 
 ### Unsubscribe
 
-We do not want to send you information you do not want to receive. All of our e-newsletters include links in the footer of the e-mail for managing all aspects of your subscription, including the ability to globally unsubscribe from such communications.
+We do not want to send you information you do not want to receive. All of our e-newsletters include links in the footer of the e-mail for managing all aspects of your subscription, including the ability to globally unsubscribe from such communications. If you wish to opt out of cookies that allow us to serve our advertisements while you are in Oregon, and collect aggregate information on arrivals, [click here](http://dc.arrivalist.com/optout/).
 
 ### Changes to Privacy
 
@@ -48,7 +52,7 @@ Content and information contained in this site has been compiled by the Oregon T
 
 ### Google Analytics
 
-User information from both the Travel Oregon and You Might Like Oregon websites is collected primarily to provide a more efficient experience. TravelOregon.com and YouMightLikeOregon.com both use “cookies” “pixel tags” and “spotlight tags,” to provide more relevant content, advertising, and to improve the web site. These may be small text files which are put on your computer or small graphic files. Information provided through these methods is anonymous in nature. If you wish, you may set your browser to refuse cookies. Some cookies may remain on your computer until you manually delete them.
+User information from both the Travel Oregon and You Might Like Oregon websites is collected primarily to provide a more efficient experience. TravelOregon.com, RideOregonRide.com, YouMightLikeOregon.com and OregonWeatherCompass.com use “cookies” “pixel tags” and “spotlight tags,” to provide more relevant content, advertising, and to improve the web site. These may be small text files which are put on your computer or small graphic files. Information provided through these methods is anonymous in nature. If you wish, you may set your browser to refuse cookies. Some cookies may remain on your computer until you manually delete them.
 
 This web site uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help the web site analyze how users use the site. The information generated by the cookie about your use of the web site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the web site, compiling reports on web site activity for web site operators and providing other services relating to web site activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google offers opt-outs for analytics and for Google’s remarketing services.
 
