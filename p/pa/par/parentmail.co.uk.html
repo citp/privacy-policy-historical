@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the parentmail.co.uk privacy policy that was archived on 2016-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161115032430id_/https%3A//www.parentmail.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parentmail.co.uk privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606181435id_/https%3A//www.parentmail.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB" prefix="og: http://ogp.me/ns#"><head>
 	<meta charset="UTF-8">
@@ -11,26 +11,63 @@
 	<!--[if lt IE 9]>
 		<script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
 	<![endif]-->
+	
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
-    <link rel="stylesheet" type="text/css" href="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/font-awesome/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/style.css" media="all">
+    <link rel="stylesheet" type="text/css" href="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/style.css" media="all">
     <!--
-	<link rel="stylesheet" type="text/css" href="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/slick/slick.css" />
-	<link rel="stylesheet" type="text/css" href="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/slick/slick-theme.css" />
+	<link rel="stylesheet" type="text/css" href="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/slick/slick.css" />
+	<link rel="stylesheet" type="text/css" href="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/slick/slick-theme.css" />
     -->
-	<link rel="stylesheet" type="text/css" href="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/css/mobile.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/css/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/css/mobile.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/css/print.css" media="print">
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://www.parentmail.co.uk/feed">
 	<link rel="alternate" type="text/xml" title="RSS .92" href="https://www.parentmail.co.uk/feed/rss">
 	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="https://www.parentmail.co.uk/feed/atom">
-	<link rel="pingback" href="http://www.parentmail.co.uk/xmlrpc.php">
-	<link rel="shortcut icon" href="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/images/favicon.ico">
-	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-    <!--
-	<script src="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/js/masonry.pkgd.min.js"></script>
-	<script type="text/javascript" src="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/slick/slick.min.js"></script>
-    -->
-	<script type="text/javascript" src="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/js/custom.js"></script>
+	<link rel="pingback" href="https://www.parentmail.co.uk/xmlrpc.php">
+	<link rel="shortcut icon" href="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/images/favicon.ico">
+	
+	<link rel="stylesheet" href="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/modal/bootstrap.css">
+	<link type="text/css" href="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/css/jscrollpane.css" rel="stylesheet" media="all">
+	
+	<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+	
+	var disqus_shortname = 'parentmailuk';
+	var disqus_identifier; //made of post id and guid
+	var disqus_url; //post permalink
+	
+	function loadDisqus(source, identifier, url) {
+	
+	if (window.DISQUS) {
+	
+	   jQuery('#disqus_thread').insertAfter(source); //append the HTML after the link
+	
+	   //if Disqus exists, call it's reset method with new parameters
+	   DISQUS.reset({
+	      reload: true,
+	      config: function () {
+	      this.page.identifier = identifier;
+	      this.page.url = url;
+	      }
+	   });
+	
+	} else {
+	
+	   //insert a wrapper in HTML after the relevant "show comments" link
+	   jQuery('<div id="disqus_thread"></div>').insertAfter(source);
+	   disqus_identifier = identifier; //set the identifier argument
+	   disqus_url = url; //set the permalink argument
+	
+	   //append the Disqus embed script to HTML
+	   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	   dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+	   jQuery('head').append(dsq);
+	
+	}
+	};
+		
+	</script>
+
 	
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -43,9 +80,8 @@
  
 	</script>
 	
-		
 	
-<!-- This site is optimized with the Yoast SEO plugin v3.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v4.7 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://www.parentmail.co.uk/privacy-policy">
 <meta property="og:locale" content="en_GB">
 <meta property="og:type" content="article">
@@ -58,12 +94,13 @@
 <meta name="twitter:title" content="Data Protection &amp; Privacy Policy - ParentMail">
 <!-- / Yoast SEO plugin. -->
 
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="ParentMail » Feed" href="https://www.parentmail.co.uk/feed">
 <link rel="alternate" type="application/rss+xml" title="ParentMail » Comments Feed" href="https://www.parentmail.co.uk/comments/feed">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.parentmail.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.5"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.parentmail.co.uk/wp-includes/js/wp-emoji-release.min.js?ver=4.4.5" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.parentmail.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.parentmail.co.uk/wp-includes/js/wp-emoji-release.min.js?ver=4.7.4" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -78,18 +115,17 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="ctl_gfontsinherit-css" href="https://fonts.googleapis.com/css?family=inherit" type="text/css" media="all">
-<link rel="stylesheet" id="ctl_default_fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800" type="text/css" media="all">
-<link rel="stylesheet" id="custom-404-pro-css" href="http://www.parentmail.co.uk/wp-content/plugins/custom-404-pro/public/css/custom-404-pro-public.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="page-list-style-css" href="http://www.parentmail.co.uk/wp-content/plugins/sitemap/css/page-list.css?ver=4.3" type="text/css" media="all">
-<link rel="stylesheet" id="sticky_popup-style-css" href="http://www.parentmail.co.uk/wp-content/plugins/sticky-popup/css/sticky-popup.css?ver=1.2" type="text/css" media="all">
-<script type="text/javascript" src="http://www.parentmail.co.uk/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="http://www.parentmail.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.parentmail.co.uk/wp-content/plugins/custom-404-pro/public/js/custom-404-pro-public.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://www.parentmail.co.uk/wp-content/plugins/sticky-popup/js/modernizr.custom.js?ver=1.2"></script>
+<link rel="stylesheet" id="custom-404-pro-css" href="https://www.parentmail.co.uk/wp-content/plugins/custom-404-pro/public/css/custom-404-pro-public.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="page-list-style-css" href="https://www.parentmail.co.uk/wp-content/plugins/sitemap/css/page-list.css?ver=4.3" type="text/css" media="all">
+<link rel="stylesheet" id="wptu-front-style-css" href="https://www.parentmail.co.uk/wp-content/plugins/ticker-ultimate/assets/css/wptu-front.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="sticky_popup-style-css" href="https://www.parentmail.co.uk/wp-content/plugins/sticky-popup/css/sticky-popup.css?ver=1.2" type="text/css" media="all">
+<script type="text/javascript" src="https://www.parentmail.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.parentmail.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.parentmail.co.uk/wp-content/plugins/custom-404-pro/public/js/custom-404-pro-public.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://www.parentmail.co.uk/wp-content/plugins/sticky-popup/js/modernizr.custom.js?ver=1.2"></script>
 <link rel="https://api.w.org/" href="https://www.parentmail.co.uk/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.parentmail.co.uk/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.parentmail.co.uk/wp-includes/wlwmanifest.xml"> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.parentmail.co.uk/wp-includes/wlwmanifest.xml"> 
 <link rel="shortlink" href="https://www.parentmail.co.uk/?p=411">
 <link rel="alternate" type="application/json+oembed" href="https://www.parentmail.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.parentmail.co.uk%2Fprivacy-policy">
 <link rel="alternate" type="text/xml+oembed" href="https://www.parentmail.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.parentmail.co.uk%2Fprivacy-policy&amp;format=xml">
@@ -107,15 +143,26 @@ img.emoji {
 							color : #ffffff;		
 					}
 				</style>
-			
+		
+	<meta name="msvalidate.01" content="1205C47F3FFBAAF7323BC53AA5513C6E">
+	
 </head>
 
-<body class="page page-id-411 page-template-default">
+<body class="page-template-default page page-id-411">
 
 
 	<header>
 	<div id="top_menu">
 		<div class="wrap">
+			
+			<div id="header__social_links" class="s-false">
+				<a href="http://www.facebook.com/parentmail" target="_blank"><i class="fa fa-facebook"></i></a>
+				<a href="http://www.twitter.com/parentmail" target="_blank"><i class="fa fa-twitter"></i></a>
+				<a href="http://www.linkedin.com/company/parentmail" target="_blank"><i class="fa fa-linkedin"></i></a>
+				<a href="https://plus.google.com/u/1/116342018614170943887" target="_blank"><i class="fa fa-google-plus"></i></a>
+				<a href="https://www.youtube.com/channel/UCzONjBiKeZNtwyzd_y7pbQA" target="_blank"><i class="fa fa-youtube"></i></a>
+			</div>
+
 	
 			<div id="top_menu_tel">Sales Hotline&nbsp;&nbsp;<strong>01733 595959</strong></div>
 			
@@ -131,13 +178,13 @@ img.emoji {
 		<div class="wrap">
 			
 			<div id="logo">
-				<a href="https://www.parentmail.co.uk"><img src="http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/images/parentmail-logo.png" alt="ParentMail" title="ParentMail"></a>
+				<a href="https://www.parentmail.co.uk"><img src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/images/parentmail-logo.png" alt="ParentMail" title="ParentMail"></a>
 			</div>
 			
 			<nav>
 				<h3 class="menu-toggle">Menu</h3>
 				<div id="menu" role="navigation">
-					<div class="menu-header"><ul id="menu-main-menu" class="menu"><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://www.parentmail.co.uk/">Home</a></li>
+					<div class="menu-header"><ul id="menu-main-menu" class="menu"><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-34"><a href="https://www.parentmail.co.uk/">Home</a></li>
 <li id="menu-item-1985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1985"><a href="#">Services</a>
 <ul class="sub-menu">
 	<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-857"><a href="https://www.parentmail.co.uk/services/school-branded-app">School Branded App</a></li>
@@ -177,7 +224,7 @@ img.emoji {
 	
 			
 		
-						<div id="banner" class="small" style="background-image: url('http://www.parentmail.co.uk/wp-content/themes/parentmail_v3_3/images/default_banner.jpg'); background-position: 50% 50%; background-repeat: no-repeat; background-size: cover;">
+						<div id="banner" class="small" style="background-image: url('https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/images/default_banner.jpg'); background-position: 50% 50%; background-repeat: no-repeat; background-size: cover;">
 						<div class="wrap">
 							<div id="banner_overlay"><h1>Data Protection &amp; Privacy Policy</h1>
 </div>
@@ -261,6 +308,7 @@ Deleted records will immediately cease to be visible/available to any school/clu
 						<li><a href="https://www.parentmail.co.uk/services/online-form-collection">Online Form Collection</a></li>
 						<li><a href="https://www.parentmail.co.uk/services/meetings-and-events">Meetings &amp; Events</a></li>
 					</ul>
+				 <div style="margin:20px 0 0 0"><script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=invert&amp;code=44eb825e1b0b4ee7b627d4b5d4bb2d1a"></script></div>
 				</div>
 				
 				<div class="footer_block">
@@ -273,6 +321,7 @@ Deleted records will immediately cease to be visible/available to any school/clu
 						<li><a href="https://www.parentmail.co.uk/customers/clubs">Clubs</a></li>
 						<li><a href="https://www.parentmail.co.uk/customers/parents">Parents</a></li>
 					</ul>
+				<div style="margin:40px 0 0 0"><img height="52px" src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/images/Cyber-Essentials-Badge.png"></div>
 				</div>
 				
 				<div class="footer_block">
@@ -299,7 +348,6 @@ Deleted records will immediately cease to be visible/available to any school/clu
 
 						<li><strong><a href="https://www.parentmail.co.uk/login">Login</a></strong></li>
 					</ul>
-
 				</div>
 				
 				<div class="footer_block">
@@ -316,6 +364,8 @@ Deleted records will immediately cease to be visible/available to any school/clu
 						<li><a href="https://www.parentmail.co.uk/cloud-software-services-for-schools">Cloud Software Services for Schools</a></li>
 					</ul>
 				</div>
+
+				
 			
 			</div>
 					
@@ -325,17 +375,34 @@ Deleted records will immediately cease to be visible/available to any school/clu
 				<a href="http://www.facebook.com/parentmail" target="_blank"><i class="fa fa-facebook"></i></a>
 				<a href="http://www.twitter.com/parentmail" target="_blank"><i class="fa fa-twitter"></i></a>
 				<a href="http://www.linkedin.com/company/parentmail" target="_blank"><i class="fa fa-linkedin"></i></a>
-				<a href="https://plus.google.com/118163957644776274991/posts" target="_blank"><i class="fa fa-google-plus"></i></a>
-				<a href="http://www.youtube.com/user/ParentMail" target="_blank"><i class="fa fa-youtube"></i></a>
+				<a href="https://plus.google.com/u/1/116342018614170943887" target="_blank"><i class="fa fa-google-plus"></i></a>
+				<a href="https://www.youtube.com/channel/UCzONjBiKeZNtwyzd_y7pbQA" target="_blank"><i class="fa fa-youtube"></i></a>
 			</div>
 			
-			Copyright © 123Comms Ltd 2016. All rights reserved. Data Protection No: Z8936949.<br>
+			Copyright © 123Comms Ltd 2017. All rights reserved. Data Protection No: Z8936949.<br>
 
 		</div>
 	</div>
 	</footer>
 
-<div class="sticky-popup"><div class="popup-wrap"><div class="popup-header"><span class="popup-title">More information?<div class="popup-image"></div></span></div><div class="popup-content"><div class="popup-content-pad"><p style="line-height: 15px;">For more information on ParentMail, simply complete the fields below and we’ll be in touch.</p>
+<script type="text/javascript">
+<!--
+piCId = '2147';
+piAId = '340641';
+
+
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();
+-->
+</script><div class="sticky-popup"><div class="popup-wrap"><div class="popup-header"><span class="popup-title">More information?<div class="popup-image"></div></span></div><div class="popup-content"><div class="popup-content-pad"><p style="line-height: 15px;">For more information on ParentMail, simply complete the fields below and we’ll be in touch.</p>
+<p style="line-height: 15px; text-align: left;"><strong>Parents – We are unable to accept support requests through this form.</strong></p>
 <div class="salesforce_w2l_lead"><form id="sf_form_salesforce_w2l_lead_5" class="w2llead placeholders" method="post" action="#sf_form_salesforce_w2l_lead_5"><div class="sf_field sf_field_first_name sf_type_text">	<input type="text" placeholder="First Name" value="" id="sf_first_name" class="w2linput text" name="first_name"><div class="clearfix"></div></div><div class="sf_field sf_field_last_name sf_type_text">	<input type="text" placeholder="Last Name" value="" id="sf_last_name" class="w2linput text" name="last_name"><div class="clearfix"></div></div><div class="sf_field sf_field_email sf_type_text">	<input type="text" placeholder="Email *" value="" id="sf_email" class="w2linput text" name="email"><div class="clearfix"></div></div><div class="sf_field sf_field_phone sf_type_text">	<input type="text" placeholder="Phone Number" value="" id="sf_phone" class="w2linput text" name="phone"><div class="clearfix"></div></div><div class="sf_field sf_field_company sf_type_text">	<input type="text" placeholder="School Name *" value="" id="sf_company" class="w2linput text" name="company"><div class="clearfix"></div></div><div class="sf_field sf_field_zip sf_type_text">	<input type="text" placeholder="Post Code *" value="" id="sf_zip" class="w2linput text" name="zip"><div class="clearfix"></div></div>		<input type="hidden" id="sf_oid" class="w2linput hidden" name="oid" value="00DU0000000LYSS">		<input type="hidden" id="sf_retURL" class="w2linput hidden" name="retURL" value="https://www.parentmail.co.uk/">	<input type="text" name="message" class="w2linput" value="" style="display: none;">	<input type="hidden" name="form_id" class="w2linput" value="5">	<div class="w2lsubmit"><input type="submit" name="w2lsubmit" class="w2linput submit" value="Submit"></div></form><p class="sf_required_fields_msg" id="requiredfieldsmsg"><sup><span class="required">*</span></sup> These fields are required.</p></div>
 </div></div></div></div>			<script type="text/javascript">
 				jQuery( document ).ready(function() {	
@@ -363,14 +430,58 @@ Deleted records will immediately cease to be visible/available to any school/clu
 			        });		    
 				});
 			</script>
-		<script type="text/javascript" src="http://www.parentmail.co.uk/wp-includes/js/wp-embed.min.js?ver=4.4.5"></script>
-<script type="text/javascript">
+		<script type="text/javascript">
 /* <![CDATA[ */
-var countVars = {"disqusShortname":"parentmailonline"};
+var site = {"theme_path":"https:\/\/www.parentmail.co.uk\/wp-content\/themes\/parentmail_v3_9","ajaxurl":"https:\/\/www.parentmail.co.uk\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.parentmail.co.uk/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.4.5"></script>
-<script type="text/javascript" src="http://www.parentmail.co.uk/wp-content/plugins/salesforce-wordpress-to-lead/assets/js/jquery-placeholder/jquery.placeholder.js?ver=4.4.5"></script>
+<script type="text/javascript" src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/js/custom.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.parentmail.co.uk/wp-includes/js/wp-embed.min.js?ver=4.7.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"parentmailuk"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.parentmail.co.uk/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.parentmail.co.uk/wp-content/plugins/salesforce-wordpress-to-lead/assets/js/jquery-placeholder/jquery.placeholder.js?ver=4.7.4"></script>
+
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/js/packery.pkgd.js"></script>
+	<script src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/js/imagesloaded.pkgd.min.js"></script>
+
+    <!--
+	<script src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/js/masonry.pkgd.min.js"></script>
+	<script type="text/javascript" src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/slick/slick.min.js"></script>
+    -->
+	<script type="text/javascript" src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/js/custom.js"></script>
+	<!-- the mousewheel plugin - optional to provide mousewheel support -->
+	<script type="text/javascript" src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/js/jquery.mousewheel.js"></script>
+	<!-- the jScrollPane script -->
+	<script type="text/javascript" src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/js/jquery.jscrollpane.min.js"></script>
+		
+	<script type="text/javascript" id="sourcecode">
+		$(document).ready(function()
+		{
+			$('.scroll-pane').jScrollPane();
+		});
+		
+		
+	    // init Packery
+		var $grid = $('.grid').packery({
+		  itemSelector: '.grid-item',
+		  gutter: '.gutter-sizer',
+		  stamp: '.stamp',
+		  percentPosition: true,
+		  columnWidth:".grid-sizer"
+		});
+		// layout Packery after each image loads
+		$grid.imagesLoaded().progress( function() {
+		  $grid.packery();
+		});  
+						
+	</script>
+	
+	<script src="https://www.parentmail.co.uk/wp-content/themes/parentmail_v3_9/modal/bootstrap.min.js"></script>
 
 
 </body></html>
