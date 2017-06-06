@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surf.sy privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423122447id_/http%3A//surf.syriatel.sy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf.sy privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155716id_/http%3A//www.syriatel.sy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Surf
+# Privacy Policy | Syriatel
 
 Syriatel Corporate Website - Internet Privacy Policy Terms and Conditions
 
