@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperdirect.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121054144id_/http%3A//www.wallpaperdirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperdirect.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191011id_/https%3A//www.wallpaperdirect.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Wallpaper Direct
 
@@ -10,7 +10,7 @@ In this Privacy Policy, references to we, us or our (or words of similar import)
 
 In this Privacy Policy, references to you mean the person whose personal information (as defined below) we collect, use and process. This includes anyone who contacts us in connection with the products and services we provide or otherwise interacts with us (for example, via our Website (as defined below) or in store). 
 
-In this Privacy Policy, references to Website means our website at the following URL: [www.brewers.co.uk](http://www.brewers.co.uk/ "Opens www.brewers.co.uk in a new window") together with the websites at the following URLs: [www.wallpaperdirect.com](http://www.wallpaperdirect.com/ "Opens www.wallpaperdirect.com in a new window"); [www.designerpaint.com](http://www.designerpaint.com/ "Opens www.designerpaint.com in a new window"); [www.spraystore.co.uk](http://www.spraystore.co.uk/ "Opens www.spraystore.co.uk in a new window"); [www.brewershome.co.uk](https://www.brewershome.co.uk/ "Opens www.brewershome.co.uk in a new window"); [www.caneadam.co.uk](http://www.caneadam.co.uk/ "Opens www.caneadam.co.uk in a new window"); [www.mpdirect.co.uk](http://www.mpdirect.co.uk/ "Opens www.mpdirect.co.uk in a new window")
+In this Privacy Policy, references to Website means our website at the following URL: [www.brewers.co.uk](https://www.brewers.co.uk/ "Opens www.brewers.co.uk in a new window") together with the websites at the following URLs: [www.wallpaperdirect.com](https://www.wallpaperdirect.com/ "Opens www.wallpaperdirect.com in a new window"); [www.designerpaint.com](http://www.designerpaint.com/ "Opens www.designerpaint.com in a new window"); [www.spraystore.com](http://www.spraystore.com/ "Opens www.spraystore.com in a new window"); [www.brewershome.co.uk](https://www.brewershome.co.uk/ "Opens www.brewershome.co.uk in a new window"); [www.caneadam.co.uk](https://www.caneadam.co.uk/ "Opens www.caneadam.co.uk in a new window"); [www.mpdirect.co.uk](http://www.mpdirect.co.uk/ "Opens www.mpdirect.co.uk in a new window")
 
 We are committed to protecting your privacy. We will use your personal information in accordance with the Data Protection Act 1998 (the DPA) and other applicable laws and regulations that relate to data protection and privacy. 
 
@@ -55,7 +55,7 @@ We use your personal information in connection with our business activities. In 
 
 
 
-In accordance with your preferences, we may also use your personal information to provide you with information about products, services, promotions and offers that may be of interest to you. We may use your personal information in order to ascertain the products, services, promotions and offers that are likely to be of particular interest to you. The section below entitled ["What choices do I have?"](http://www.wallpaperdirect.com/privacy#what-choices-do-I-have) explains how you can change whether to receive this information. Please note that, even if you choose not to receive this information, we may still use your personal information to provide you with important services communications, including communications in relation to any orders you submit or products you purchase. We may also offer you the opportunity to indicate the specific types of marketing communications you are particularly interested in receiving from us; where possible, we will tailor the communications you receive to reflect your choices, but we may send you other communications that may be of interest to you. 
+In accordance with your preferences, we may also use your personal information to provide you with information about products, services, promotions and offers that may be of interest to you. We may use your personal information in order to ascertain the products, services, promotions and offers that are likely to be of particular interest to you. The section below entitled ["What choices do I have?"](https://www.wallpaperdirect.com/privacy#what-choices-do-I-have) explains how you can change whether to receive this information. Please note that, even if you choose not to receive this information, we may still use your personal information to provide you with important services communications, including communications in relation to any orders you submit or products you purchase. We may also offer you the opportunity to indicate the specific types of marketing communications you are particularly interested in receiving from us; where possible, we will tailor the communications you receive to reflect your choices, but we may send you other communications that may be of interest to you. 
 
 Your personal information may also be used by us, our employees, contractors or agents, and disclosed to third parties, in order to comply with any legal obligation (including in connection with a court order), or in order to enforce or apply our website terms of use or terms and conditions of sale or other agreements we have with or otherwise concerning you (including agreements between you and us (or one or more of our affiliates)), or to protect our rights, property or safety or those of our customers, employees or other third parties. 
 
@@ -87,7 +87,7 @@ It is not possible to place orders and purchase goods and services using the Web
 
 Our cookies enable us to provide features such as the ability to store items in your Shopping Basket between visits. 
 
-To find out more about the types of cookies we use on the Website, how we use them and how you can change your cookies settings, please read our [Cookies policy](http://www.wallpaperdirect.com/cookies). 
+To find out more about the types of cookies we use on the Website, how we use them and how you can change your cookies settings, please read our [Cookies policy](https://www.wallpaperdirect.com/cookies). 
 
 ##  Links 
 
@@ -117,7 +117,7 @@ The DPA gives you the right to access your personal information. Your right of a
 
 If you have any questions, comments or requests regarding this Privacy Policy, please feel free to contact us in any of the following ways: 
 
-  * online via the [Contact Us](http://www.wallpaperdirect.com/contact-us) page on our Website 
+  * online via the [Contact Us](https://www.wallpaperdirect.com/contact-us) page on our Website 
   * by telephone on [+44 (0)1323 430886](tel:+441323430886)
   * by writing to us at: to Customer Services C Brewer & Sons Ltd, Maple Road, Eastbourne, BN23 6NY, United Kingdom 
 
