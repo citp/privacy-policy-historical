@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freedommortgage.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013104359id_/https%3A//www.freedommortgage.com/mtg/loan/fhmc/site2/HomepageV2/legal/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedommortgage.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183307id_/https%3A//www.freedommortgage.com/mtg/loan/fhmc/site2/HomepageV2/legal/legal-privacy) for the most accurate reproduction.*
 
 # legal-privacy
 
-Rev. June 2015
+Rev. March 2017
 
 **FACTS**
     **WHAT DOES FREEDOM MORTGAGE DO WITH YOUR PERSONAL INFORMATION?**
@@ -18,6 +18,8 @@ Rev. June 2015
 
 **How?**
     When you are no longer our customer, we will continue to share your information as described in this Privacy Notice. All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Freedom Mortgage chooses to share; and whether you can limit this sharing.
+
+If you no longer wish to receive marketing/promotional emails from Freedom Mortgage Corporation, please click the unsubscribe link included in the footer of our emails.
 
 **Reasons we can share your personal information** | **Does Freedom Mortgage share?** | **Can you limit this sharing?**  
 ---|---|---  
