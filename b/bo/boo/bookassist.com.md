@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookassist.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126052756id_/http%3A//www.bookassist.com/global/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookassist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031640id_/http%3A//www.bookassist.com/global/security.jsp) for the most accurate reproduction.*
 
 # Bookassist_Security_Privacy
 
@@ -93,7 +93,7 @@ Functional Cookies are Cookies which allow the website to remember choices made 
 
 ##### Examples of Functional Cookies that may be used on this site:
 
-  * [Expression Engine cookie:](https://ellislab.com/expressionengine/user-guide/add-ons/cookie_consent/index.html) maintains user preferences such as language.
+  * Expression Engine cookie: maintains user preferences such as language.
   * [Bookassist booking_reference:](http://www.bookassist.com/global/security.jsp) saves user preferences.
 
 
