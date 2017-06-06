@@ -1,47 +1,29 @@
-> *The following text is extracted and transformed from the studyandexam.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127201255id_/http%3A//www.studyandexam.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyandexam.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094638id_/http%3A//studyandexam.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | STUDYANDEXAM.COM
 
-[](https://www.facebook.com/Study-And-Exam-131091663608077)
+We understand the importance of the viewers of our website. We ensure to protect the privacy of our viewers. This page delineates that which type of information of viewers is collected and how is it used.
 
-www.studyandexam.com understands the importance of privacy of its visitors and is committed to ensure that the privacy of the visitors is protected. The Privacy Policy document mentions which type of data is collected from the visitors and how it is used.
+**Log Files:** This website, like many other websites, makes use of log file. Log file contains IP address, type of browser, time, date and number of clicks by viewers. This file helps us determine statistics, demographics and viewer’s movement around the website. The information stored in Log File, _such as demographics, IP address or other such information,_ is not associated to any information that is personally identifiable. 
 
-## Log Files
+**Cookies:** This website uses cookies to store information such as viewer’s preferences, viewer-specific information on pages the user access, customize the web-page content according to viewer’s browser of other information that the viewer sends via their browser.
 
-Like many other websites, www.studyandexam.com makes use of log file. The information in the log files consists of “Internet Protocol (IP) addresses, type of browser, date/time, Internet Service Provider (ISP) and number of clicks to analyze trends, administer the site, track visitor’s movement around the website and to determine statistics of webpages viewed. The log files include demographic information, IP addresses and other such information that are not associated to any information that is personally identifiable. 
+The above data is safely and securely stored for improving our website according to the expectations of our viewers. Your privacy is protected by restricting access to your data collected in log files. Your data collected is securely destroyed after a regular period of time when they are no longer needed for record retention. 
 
-## Cookies 
+**Contact Us Form:** The ‘Contact Form’ on the website is for viewers to contact the owner of the website if they need to contact the owner of the website for asking or suggesting anything regarding the website. The viewer’s information, given by the viewer in the Contact Form, is kept strictly confidential and destroyed safely when they are no longer needed for retention.
 
-www.studyandexam.com uses cookies to store information about visitors’ preferences, record user-specific information on which pages the users access or visit, customize Web page content based on visitor’s browser type or other information that the visitor sends via their browser. 
+**Double Click DART Cookie:**
 
-Security of data collected.
-
-The above data collected is securely and safely stored. Your privacy is protected by restricting access to your data collected in log file. The data collected is securely destroyed after a regular period of time when they are no longer needed for record retention purposes.
-
-##   
-Contact Us Form
-
-Visitors may use “Contact Us Form” on this website to send mail to any information. Name, Email addresses input in “Contact Us Form” on this website are kept confidential. 
-
-## DoubleClick DART Cookie 
-
-  1. Google, as a third party vendor, uses cookies to serve ads on www.studyandexam.com.
-  2. Google's use of the DART cookie enables it to serve ads to users based on their visit to www.studyandexam.com and other sites on the Internet. 
-  3. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
+  1. Google, a third party vender, uses cookies to serve ads on this website.
+  2. Google’s use of the DART cookie enables it to serve ads to viewers based on their visit to this website and other websites. 
+  3. User may opt out the use of the DART cookie by visiting Google ad and content network privacy policy at the URL: _<http://www.google.com/privacy_ads.html>_
 
 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
-Google Adsense
+Our advertising partner may use cookies and web beacons this site. These third-party ad server or networks use technology to the advertisements and links appear on this website send directly to your browsers. They automatically received your IP address when this occurs. Other technologies such as cookies, JavaScript or Web Beacons may also be used by the third-party ad networks to measure the effectiveness their advertisement and /or to personalize their advertising content. This website has no access to or control over these cookies used by the third-party advertisers.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.studyandexam.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+You may consult the respective privacy policies of the third-party ad servers for more detailed information on their practices as well as for instruction regarding how to opt-out of certain practices. This website’s privacy policy does not apply to, and cannot control activities of the other advertises of websites. 
 
-www.studyandexam.com has no access to or control over these cookies that are used by third-party advertisers. 
+If you wish to disable cookies, you may do so by using the options given in your browser.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.studyandexam.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-### Note: 
-
-For further information regarding Privacy Policy, contact us by mailing us info@studyandexam.com 
+**Thank You!**
