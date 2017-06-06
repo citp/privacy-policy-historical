@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120140147id_/http%3A//www.cv-library.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225550id_/http%3A//www.cv-library.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - UK jobs, Careers, Recruitment - CV-Library
 
@@ -41,6 +41,10 @@ CV-Library may set and access cookies on your computer. You can choose whether o
 CV-Library currently uses Criteo as a service to serve personalized adverts when visiting other Criteo ad network sites. Criteo are authorized by CV Library to place and read cookies on our websites (including network websites and emails).
 
 Other choice options for display: Users can also express their choices, through the following platforms: IAB opt-out platform, Network Advertising Initiative opt-out platform, Digital Advertising Alliance platform that provide options to express their choices for all companies that are registered in this platform.
+
+CV-Library uses a specific cookie in order to facilitate the use of Google Universal Analytics for logged in Candidates or Recruiters (“Logged-In User”). If you are a Logged-In User, CV-Library may use your Candidate or Recruiter user ID in combination with Google Universal Analytics and Google Analytics to track and analyse the pages of CV-Library that you visit. We do this to better understand how you use CV-Library, with the aim of improving CV-Library for all users. We do not pass any Logged-In User personal identification information to Google Analytics.
+
+[Learn more about privacy at Google](https://support.google.com/analytics/answer/6004245) or opt-out of this feature by installing the [Google Analytics Opt-out Browser Add-on.](https://tools.google.com/dlpage/gaoptout/)
 
 ## Statistical information
 
