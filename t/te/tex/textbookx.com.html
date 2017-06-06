@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the textbookx.com privacy policy that was archived on 2016-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129001949id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the textbookx.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606030823id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="not-ie"><!--<![endif]--><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
 	<meta name="keywords" content="textbook, textbooks, used textbook, used textbooks, buy textbooks, sell textbooks, textbook buyback, cheap textbooks, textbook marketplace, used books, buy textbooks, sell textbooks, text books, college books, college textbooks, texts, new textbooks, discount textbooks, used text books, cheap textbooks, textbookx, textbookx.com, school books, buyback, bookstore">
 	<meta name="google-site-verification" content="OQz1jnddg1mHB3Af6QIMXD43j5vDUfMoXAWLxDfgS1A">
 	<meta name="description" content="TextbookX.com sells new and used textbooks, reference titles, and bestsellers at discounts 10% to 80% off retail prices.  Buy cheap used textbooks on our marketplace, and earn 200% more for textbook buyback. Free shipping over $49.">
     <meta name="apple-mobile-web-app-title" content="Bookstore">
     <meta name="application-name" content="Bookstore">
 	<meta id="viewport" name="viewport" content="">
-	<title>Customer Service Center</title>
+	<title>Privacy Policy</title>
 
 	
 	<script>
@@ -25,7 +25,7 @@
 	<!--[if lt IE 9]>
 	
 	<script>
-		var html5elements = ("article,aside,figcaption,figure,footer,header,hgroup,nav,section,time").split(',');
+		var html5elements = ("article,aside,figcaption,figure,footer,header,hgroup,nav,section,time,main").split(',');
 		for (var i = 0; i < html5elements.length; i++) {
 			document.createElement(html5elements[i]);
 		}
@@ -50,8 +50,6 @@
     </style>
     
 	
-	
-
     <link rel="shortcut icon" href="/favicon.ico">
 <link rel="apple-touch-icon" href="/img/bookstore_bookmark.png">
 <link id="mobile_fav" rel="" href="">
@@ -66,23 +64,23 @@
     </script>
 
 
-<link href="/tools/less/less_compiler.php?design=main&amp;mtime=1479848307" type="text/css" rel="stylesheet">
+<link href="/tools/less/less_compiler.php?design=main&amp;mtime=1496692511" type="text/css" rel="stylesheet">
 
-<script type="text/javascript" src="/version/1479848254/lib/js/jquery.min.js"></script>
-<script type="text/javascript" src="/version/1479848254/lib/js/error_handler.js"></script>
-<script type="text/javascript" src="/version/1479848254/lib/js/jquery-ui-1.8.17.custom.min.js"></script>
-<script type="text/javascript" src="/version/1479848254/lib/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="/version/1496692426/lib/js/jquery.min.js"></script>
+<script type="text/javascript" src="/version/1496692426/lib/js/error_handler.js"></script>
+<script type="text/javascript" src="/version/1496692426/lib/js/jquery-ui-1.8.17.custom.min.js"></script>
+<script type="text/javascript" src="/version/1496692426/lib/js/jquery.tools.min.js"></script>
 
-    <link href="/version/1479848254/skins/css/default.css" type="text/css" rel="stylesheet">
-    <link href="/version/1479848254/skins/css/spec_files/default_table.css" type="text/css" rel="stylesheet">
-    <link href="/version/1479848254/skins/css/spec_files/default_bookinfo.css" type="text/css" rel="stylesheet">
-    <link href="/version/1479848254/skins/css/spec_files/default_addon.css" type="text/css" rel="stylesheet">
-    <link href="/version/1479848254/skins/css/spec_files/default_main.css" type="text/css" rel="stylesheet">
+    <link href="/version/1496692426/skins/css/default.css" type="text/css" rel="stylesheet">
+    <link href="/version/1496692426/skins/css/spec_files/default_table.css" type="text/css" rel="stylesheet">
+    <link href="/version/1496692426/skins/css/spec_files/default_bookinfo.css" type="text/css" rel="stylesheet">
+    <link href="/version/1496692426/skins/css/spec_files/default_addon.css" type="text/css" rel="stylesheet">
+    <link href="/version/1496692426/skins/css/spec_files/default_main.css" type="text/css" rel="stylesheet">
 
 
-<script src="/version/1479848254/skins/analytics.js"></script>
-<script src="/version/1479848254/skins/css/default_main.js"></script>
-<!--textbookx-php56-webserver-004.prod.local-->
+<script src="/version/1496692426/skins/analytics.js"></script>
+<script src="/version/1496692426/skins/css/default_main.js"></script>
+<!--textbookx-php56-webserver-001.prod.local-->
 
 <script type="text/javascript">
 	var is_inst = '', true_domain = 'textbookx', is_moodle = 'false';
@@ -106,11 +104,28 @@
         if (cb.checked) fm.action = 'https://www.textbookx.com/institutional/login.php';
         else fm.action = 'https://www.textbookx.com/account/login.php';
 
-		var $login_box_title = $('#login-box .hfa-please-log-in > h4');
+		var $login_box_title = $('#login-box .hfa-please-log-in > .header');
 		if ($login_box_title.length > 0) $login_box_title.html(cb.checked ? 'Faculty and Administrator Login' : 'Login')
     }
 
 	$(function() {
+		$('form.tbx-main-login-form').bind('keypress', function (ev) {
+			var key = ev.keyCode ? ev.keyCode : (ev.charCode ? ev.charCode : 0);
+			if (key === 13) {
+				var $form = $(this);
+				var el_name_in_focus = $(this).find(':focus')[0].name;
+				var el_name_not_in_focus = el_name_in_focus === 'username' ? 'password' : 'username';
+				var auth = {
+					username: $form.find('input[name="username"]'),
+					password: $form.find('input[name="password"]')
+				};
+				if ($.trim(auth.username.val()) && $.trim(auth.password.val())) {
+					$form.submit();
+				} else if (el_name_in_focus && el_name_not_in_focus && $.trim(auth[el_name_in_focus].val())) {
+					auth[el_name_not_in_focus].focus();
+				}
+			}
+		});
 		$('.tbx-button-auto-submit').click(function(){
 			var form = $(this).parents('form').first();
 			if (form.length == 0) return false;
@@ -142,77 +157,129 @@
 
 
 
+	
+	<link href="/skins/fonts/ss-air.css" type="text/css" rel="stylesheet">
 	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic" rel="stylesheet" type="text/css">
-	<link href="/tools/less/less_compiler.php?design=header_2014&amp;mtime=1479848329" type="text/css" rel="stylesheet">
+	<link href="/tools/less/less_compiler.php?design=header_2014&amp;mtime=1496692567" type="text/css" rel="stylesheet">
+	<link href="/tools/less/less_compiler.php?design=header_2016&amp;mtime=1496692489" type="text/css" rel="stylesheet">
 
 	
-		<link href="/tools/less/less_compiler.php?design=header_2014_mobile&amp;mtime=1479848381" media="screen and (min-device-width : 320px) and (max-device-width : 480px)" type="text/css" rel="stylesheet">
+		<link href="/tools/less/less_compiler.php?design=header_2014_mobile&amp;mtime=1496692598" media="screen and (min-device-width : 320px) and (max-device-width : 480px)" type="text/css" rel="stylesheet">
+	<link href="/tools/less/less_compiler.php?design=header_2016_mobile&amp;mtime=1496692597" media="screen and (min-device-width : 320px) and (max-device-width : 480px)" type="text/css" rel="stylesheet">
 	
-		<script type="text/javascript" src="/version/1479848254/skins/common.js"></script>
+		<script type="text/javascript" src="/version/1496692426/skins/common.js"></script>
 
-	
-</head>
+	</head>
 <body class="inst-student-mode">
 <div id="textbookx-page-wrapper" class="">
 
-<header id="header-wrap-2014">
+<header id="header-wrap-2014" tabindex="-1" role="banner">
+	
+<div id="accessibility-links-block" role="presentation">
+	<ul>
+		<li><a href="#header-wrap-2014">Skip to navigation</a></li>
+
+		
+		<li><a href="#tbx-main-content-block">Skip to content</a></li>
+
+		<li><a href="#footer-wrap-2014">Skip to footer</a></li>
+	</ul>
+</div>
 	<div id="tbx-device-width"></div>
 	<section id="h-top-line">
 		<span class="margin-bug-fix">&nbsp;</span>
-		<div id="h-main-menu-block">
+		<div id="h-main-menu-block" role="menubar">
+
+			<nav id="h-main-menu">
+				
+
+					<div class="" id="tbx-main-home" role="menuitem" title="Home Page"><a aria-label="Home Page" tabindex="0" href="http://www.textbookx.com/" title="Home Page"><span role="presentation" class="hub-icon">⌂</span></a></div>
+
+					
+										<div class="" id="tbx-main-schools" role="menuitem"><a tabindex="0" href="http://www.textbookx.com/college_bookstore.html">Schools</a></div>										<div class="" id="tbx-main-sell" role="menuitem"><a tabindex="0" href="http://www.textbookx.com/sell-your-textbooks">Sell</a></div>
+					<div class="" id="tbx-main-returns" role="menuitem"><a tabindex="0" href="http://www.textbookx.com/returns">Returns</a></div>
+					<div class="" id="tbx-main-track" role="menuitem"><a tabindex="0" href="http://www.textbookx.com/track">Track</a></div>
+					<div class="" id="tbx-main-help" role="menuitem"><a tabindex="0" href="http://www.textbookx.com/help">Help</a></div>
+
+					
+					<div id="tbx-main-mobile-version" role="menuitem"><a href="http://www.textbookx.com/?disable_mobile=0">Mobile version</a></div>
+
+				
+			</nav>
 
 			<div id="h-user-block">
 
-				                <div id="hub-username-block-template" class="hub-toggle-popup header-mode" data-gaaction="header-username-block" style="display:none;">
+				
+								<div tabindex="0" id="hub-financial-aid-block-template" class="hub-toggle-popup header-mode" data-gaaction="header-toggle-financial-aid" style="display:none;" role="menuitem" aria-haspopup="true" aria-label="My Account Menu">
+					<div class="hub-toggle-popup-static-part">
+						<span class="hfa-balance_name"></span>&nbsp;&nbsp;
+						<span class="hub-icon">💳</span>
+						<span class="hfa-amount"></span>
+					</div>
+					<div id="hub-financial-aid-modal-template" class="hub-popup" role="menu">
+						<div class="hfa-header" role="menuitem">
+							Your <span class="hfa-balance_name"></span>:
+							<span class="hfa-amount"></span>
+							<div class="clearboth"></div>
+						</div>
+						<div class="hfa-body" role="menuitem">
+							<span class="hub-icon">❓</span>
+															<strong><span class="hfa-balance_name"></span>:</strong>
+								This is the current balance of gift cards and/or gift certificates that have been saved to your account. You can apply these discounts, and any additional gift cards/certificates, during the checkout process.
+													</div>
+					</div>
+				</div>
+                <div tabindex="0" id="hub-username-block-template" class="hub-toggle-popup header-mode" data-gaaction="header-username-block" style="display:none;" role="menuitem" aria-haspopup="true" aria-label="My Account Menu">
                     <div class="hub-toggle-popup-static-part">
+	                    <span class="hub-icon">👤</span>
                         <span class="hub-username-span"></span>
                     </div>
-                    <div id="hub-account-shortcuts-template" class="hub-popup">
-                        <ul>
+                    <div id="hub-account-shortcuts-template" class="hub-popup" role="alert">
+                        <ul role="menu">
 	                        
-                            <li><a href="/account/new_purchases.php">Purchases</a></li>
-                            <li><a href="/track_order.php">Track Order</a></li>
-                            <li><a href="/account/new_sales.php">Book Sales</a></li>
-                            <li><a href="/account/elibrary.php">eLibrary</a></li>
-                            <li><a href="/account/new_messages.php">Messages</a></li>
-                            <li><a href="/account/">Settings</a></li>
+                            <li role="menuitem"><a href="/account/new_purchases.php">Purchases</a></li>
+                            <li role="menuitem"><a href="/track_order.php">Track Order</a></li>
+                            <li role="menuitem"><a href="/account/new_sales.php">Book Sales</a></li>
+                            <li role="menuitem"><a href="/account/elibrary.php">eLibrary</a></li>
+                            <li role="menuitem"><a href="/account/new_messages.php">Messages</a></li>
+                            <li role="menuitem"><a href="/account/">Settings</a></li>
 	                        
-                            <li class="hub-li-with-border"><a href="">Log Out</a></li>
+                            <li class="hub-li-with-border"><a href="/account/logout.php">Log Out</a></li>
                         </ul>
                     </div>
                 </div>
-				<div id="hub-username-block" class="hub-toggle-popup header-mode" data-gaaction="header-username-block">
+				<div tabindex="0" id="hub-username-block" class="hub-toggle-popup header-mode" data-gaaction="header-username-block" role="menuitem" aria-haspopup="true">
 					<div class="hub-toggle-popup-static-part" data-gaaction="header-toggle-loginbox">
-						<span class="hub-username-span">Student Login</span>
+						<span class="hub-username-span no-auth">Student Login</span>
 					</div>
-					<div id="login-box" class="hub-popup header-mode">
+					<div id="login-box" class="hub-popup header-mode" role="alert">
 						<div class="hfa-please-log-in">
-							<h4>Login</h4>
-							<a href="#" onclick="return tbx_header.hideLoginToSaveCourse();">✖</a>
+							<div class="header">Login</div>
+							<a href="#" onclick="return tbx_header.hideLoginToSaveCourse();" aria-label="Close" role="button">✖</a>
 						</div>
 
 						<div class="hfa-you-must-be-logged-in">
-							<h4>Log in to your account to save courses</h4>
+							<div class="header">Log in to your account to save courses</div>
 						</div>
 
 						<div class="hfa-header">
-							<form action="https://www.textbookx.com/account/login.php" method="post" id="loginForm">
-								<button type="submit" class="submit-button-hidden"></button>
-								<input id="username" name="username" type="text" required="required" placeholder="Email or Username">
-								<input id="password" name="password" type="password" required="required" placeholder="Password">
+							<form action="https://www.textbookx.com/account/login.php" method="post" id="loginForm" class="tbx-main-login-form">
+								<button aria-hidden="true" tabindex="-1" type="submit" class="submit-button-hidden"></button>
+								<input id="username" name="username" type="text" required="required" placeholder="Email or Username" tabindex="0" aria-label="Email or Username">
+								<input id="password" name="password" type="password" required="required" placeholder="Password" tabindex="0" aria-label="Password">
 
 								<div class="controls">
 									<label id="login-save-password-checkbox">
-																					<input type="checkbox" name="saveCookie">Remember Me
+																					<input type="checkbox" name="saveCookie" tabindex="0">Remember Me
 																			</label>
-									<span class="tbx-button-auto-submit tbx-button-big-1">Log In</span>
+									<span role="button" class="tbx-button-auto-submit tbx-button-big-1" tabindex="0">Log In</span>
 								</div>
 								
-								<input type="hidden" class="login-form-return-url" name="return_url" value="/service/privacy.php?">
+								<input aria-hidden="true" tabindex="-1" type="hidden" class="login-form-return-url" name="return_url" value="/service/privacy.php?">
 							</form>
 						</div>
-						<div class="hfa-body">
-							No account? <a href="https://www.textbookx.com/account/register.php" class="create-account">Create one now</a>
+						<div class="hfa-body" aria-hidden="true">
+							<span aria-hidden="true">No account?</span> <a href="https://www.textbookx.com/account/register.php" class="create-account" aria-label="Registration page">Create one now</a>
 						</div>
 						<div class="hfa-footer">
 							<a href="https://www.textbookx.com/account/register.php" class="tbx-button-big-2" onclick="tbx_header.hideLoginToSaveCourse(); return true;">
@@ -221,43 +288,26 @@
 						</div>
 					</div>
 				</div>
-                <div id="hub-financial-aid-block-template" class="hub-toggle-popup header-mode" data-gaaction="header-toggle-financial-aid" style="display:none;">
-                    <div class="hub-toggle-popup-static-part">
-                        <span class="hfa-balance_name"></span><br>
-                        <span class="hfa-amount"></span>
-                    </div>
-                    <div id="hub-financial-aid-modal-template" class="hub-popup">
-                        <div class="hfa-header">
-                            <div class="hfa-header-name"><span class="hfa-balance_name"></span></div>
-                            Your <span class="hfa-balance_name"></span>:
-                            <span class="hfa-amount"></span>
-                            <div class="clearboth"></div>
-                        </div>
-                        <div class="hfa-body">
-                            <span class="hub-icon">J</span> <strong><span class="hfa-balance_name"></span>:</strong>
-                            <span id="non-domain-text">This is the current balance of gift cards and/or gift certificates that have been saved to your account. You can apply these discounts, and any additional gift cards/certificates, during the checkout process.</span>
-                            <span id="domain-text">If your school assigned you a voucher, or if you were issued a gift certificate or store credit code by TextbookX.com, you can use this code during checkout to pay for your order.</span>
-                        </div>
-                    </div>
-                </div>
 				
-				
-				<div id="hub-in-cart-block" class="hub-toggle-popup header-mode" data-gaaction="header-toggle-scart">
-					<div class="hub-toggle-popup-static-part">Cart<span class="hub-icon">B</span><span class="cart_items_count">0</span></div>
-					<div id="hub-cart-modal" class="hub-popup mobile-menu-popup  cart-modal-no-items">
-						<div id="sc-modal-no-items">
+			<div tabindex="0" id="hub-in-cart-block" class="hub-toggle-popup header-mode" data-gaaction="header-toggle-scart" role="menuitem" aria-haspopup="true" aria-label="Shopping Cart No Items">
+					<div class="hub-toggle-popup-static-part" title="Shopping Cart">
+						<span class="hub-icon">🛒</span>
+						<span class="cart_items_count"></span>
+					</div>
+					<div id="hub-cart-modal" class="hub-popup mobile-menu-popup  cart-modal-no-items" role="alert">
+						<div id="sc-modal-no-items" tabindex="0" aria-label="No Items in Shopping Cart">
 							No Items
 						</div>
 						<div class="hfa-header">
 							<div class="hfa-sc-column">
 								<span>Your cart</span>
-								<strong class="modal-cart-materials-and-edit"><span class="cart_items_count">0</span><span id="cart_materials">Item</span></strong>
+								<strong class="modal-cart-materials-and-edit"><span class="cart_items_count"></span><span id="cart_materials">Item</span></strong>
 							</div>
 							<div class="hfa-sc-column hfa-sc-second-column" id="sc-header-price-additional">
 								<span>Your price</span>
 								<strong class="cart_total_amount">$0.00</strong>
 							</div>
-							<div class="clearboth"></div>
+							<div aria-hidden="true" class="clearboth"></div>
 						</div>
 						<div class="hfa-body">
 							<div id="hfa-sc-price-savings">
@@ -270,8 +320,8 @@
 									<strong id="cart_total_saving">$0.00</strong>
 								</div>
 							</div>
-							<div class="clearboth"></div>
-							<div id="hfa-sc-more-items" style="display:none;">
+							<div aria-hidden="true" class="clearboth"></div>
+							<div id="hfa-sc-more-items" style="display:none;" role="alert">
 								You still need <strong id="neededCourseItems">0 Item</strong> for all of your courses.
 							</div>
 							<a id="hub-go-to-checkout" class="tbx-button-big-1" href="/sc/index.php">Checkout Now</a>
@@ -283,22 +333,22 @@
 
 			
 			<div id="tbx-main-mobile-menu">
-				<a id="tbm-link-menu" href="#" onclick="return toggle_mobile_menu();" data-gaaction="mobile-side-menu">N</a>
-				<div>
-					<a id="tbm-link-home" href="/">Q</a>
-					<a id="tbm-link-find" href="#" data-gaaction="mobile-header-searchbox">C</a>
-					<a id="tbm-link-courses" href="#" style="display: none" data-gaaction="mobile-header-my-courses">M</a>
-					<a id="tbm-link-help" href="/help">L</a>
-					                        <a id="tbm-link-finaid" class="hub-toggle-popup-static-part" href="#" data-gaaction="mobile-header-finaid" style="display:none;">O</a>
-										<a id="tbm-link-login" class="hub-toggle-popup-static-part" style="" href="#" data-gaaction="mobile-header-toggle-loginbox">R</a>
-					<a id="tbm-link-shopping-cart" class="hub-toggle-popup-static-part" href="#" data-gaaction="mobile-header-scart">B</a>
+				<a id="tbm-link-menu" href="#" onclick="return toggle_mobile_menu();" data-gaaction="mobile-side-menu"></a>
+				<div role="menubar">
+					<a role="menuitem" tabindex="0" id="tbm-link-home" href="/">⌂</a>
+					<a role="menuitem" tabindex="0" id="tbm-link-find" href="#" data-gaaction="mobile-header-searchbox">🔍</a>
+					<a role="menuitem" tabindex="0" id="tbm-link-courses" href="#" style="display: none" data-gaaction="mobile-header-my-courses"></a>
+					<a role="menuitem" tabindex="0" id="tbm-link-help" href="/help">?</a>
+					                        <a role="menuitem" tabindex="0" id="tbm-link-finaid" class="hub-toggle-popup-static-part" href="#" data-gaaction="mobile-header-finaid" style="display:none;">$</a>
+										<a role="menuitem" tabindex="0" id="tbm-link-login" class="hub-toggle-popup-static-part" style="" href="#" data-gaaction="mobile-header-toggle-loginbox">👨</a>
+					<a role="menuitem" tabindex="0" id="tbm-link-shopping-cart" class="hub-toggle-popup-static-part" href="#" data-gaaction="mobile-header-scart">🛍</a>
 				</div>
 
 				<div id="mm-my-courses-block" class="fixed-with-main-menu mobile-menu-popup">
 					<div id="mm-my-courses-internal">
 						<div id="mm-my-courses-header">
 							<a class="tbx-button-big-2" href="/institutional/?action=browse#save_course"><strong>✚</strong> Add New Course</a>
-							<h2>My Courses</h2>
+							<span class="header">My Courses</span>
 						</div>
 						<ul id="mm-my-courses"></ul>
 						<div id="mm-my-courses-view">
@@ -308,45 +358,35 @@
 				</div>
 			</div>
 
-			<nav id="h-main-menu">
+			<!--<div id="h-help-block">
 				
-				<div class="" id="tbx-main-home"><a href="http://www.textbookx.com/">Home</a></div>
-
-				
-								<div class="" id="tbx-main-schools"><a href="http://www.textbookx.com/college_bookstore.html">Schools</a></div>								<div class="" id="tbx-main-sell"><a href="http://www.textbookx.com/sell-your-textbooks">Sell</a></div>
-				<div class="" id="tbx-main-returns"><a href="http://www.textbookx.com/returns">Returns</a></div>
-				<div class="" id="tbx-main-track"><a href="http://www.textbookx.com/track">Track</a></div>
-				<div class="" id="tbx-main-help"><a href="http://www.textbookx.com/help">Help</a></div>
-
-				
-				<div id="tbx-main-mobile-version"><a href="http://www.textbookx.com/?disable_mobile=0">Mobile version</a></div>
-				
-			</nav>
+			</div>-->
 		</div>
 	</section>
 
-	<section id="h-logo-line">
-					<div id="hll-search-box">
-				<form id="search-by-isbn" action="http://www.textbookx.com/fastsearch2.php" method="get" onsubmit="return checkSearchInput(this.elements['s'])" data-fbpixelaction="Search">
+		<section id="h-logo-line">
+
+		<a href="/" id="hll-logo">
+			<img src="/skins/img/default/header_footer/logo.png" alt="TEXTBOOKX - Privacy Policy">
+		</a>
+
+					<div id="hll-search-box" class="mobile-menu-popup">
+				<form id="search-by-isbn" action="/fastsearch2.php" method="get" onsubmit="return checkSearchInput(this.elements['s'])" data-fbpixelaction="Search" role="search">
 					<div id="ih-search-by-header" class="search-by-class">
 						<div>
 						<input type="text" class="input-box" name="s" value="Enter ISBN, Title, Author or Keyword" title="Enter ISBN, Title, Author or Keyword" onfocus="doPlaceholder(this, false)" onblur="doPlaceholder(this, true)">
 						</div>
-						<span id="h-search-icon">C</span>
+						<button type="submit" aria-label="Search"><span role="button" aria-label="Search" id="h-search-icon">🔍</span></button>
 					</div>
-
 					<input type="hidden" name="product" value="book">
 					<input type="hidden" name="action" value="new">
 				</form>
 			</div>
 		
-		<a href="/" id="hll-logo">
-			<img src="/skins/img/default/header_footer/logo.png" alt="School Logo">
-		</a>
 	</section>
+	</header>
 
-</header>
-<div id="asi-login-unavailable-tooltip">
+<div id="asi-login-unavailable-tooltip" aria-hidden="true">
 	<div class="tooltip-border-wrapper">
 		Due to planned maintenance, your school has disabled school system log-ins at this time.<hr>
 		You may continue shopping as a guest, or by creating a bookstore-only account.
@@ -354,26 +394,27 @@
 </div>
 
 <nav id="mobile-main-menu">
-	<div id="mm-menu">
+	<div id="mm-menu" role="menubar">
 		
-		<div class="" id="tbx-mob-main-home"><a href="http://www.textbookx.com/">Home</a></div>
+		<div role="menuitem" class="" id="tbx-mob-main-home"><a href="http://www.textbookx.com/">Home</a></div>
 
 		
-		<div class="" id="tbx-mob-main-ebooks"><a href="http://www.textbookx.com/ebooks">Ebooks</a></div>				<div class="" id="tbx-mob-main-sell"><a href="http://www.textbookx.com/sell-your-textbooks">Sell Books</a></div>
-				<div class="" id="tbx-mob-main-returns"><a href="http://www.textbookx.com/returns">Returns</a></div>
-		<div class="" id="tbx-mob-main-track"><a href="http://www.textbookx.com/track">Track</a></div>
+				<div role="menuitem" class="" id="tbx-mob-main-sell"><a href="http://www.textbookx.com/sell-your-textbooks">Sell Books</a></div>
+				<div role="menuitem" class="" id="tbx-mob-main-returns"><a href="http://www.textbookx.com/returns">Returns</a></div>
+		<div role="menuitem" class="" id="tbx-mob-main-track"><a href="http://www.textbookx.com/track">Track</a></div>
+		<div role="menuitem" class="" id="tbx-mob-main-help"><a href="http://www.textbookx.com/help">Help</a></div>
 
-		<div class="" id="tbx-mob-main-help"><a href="http://www.textbookx.com/help">Help</a></div>
-
-		            <div class="special-option" id="tbx-mob-main-account" style="display:none;"><a href="https://www.textbookx.com/account/new_purchases.php">My Account</a></div>
-            <div class="special-option" id="tbx-mob-main-logout" style="display:none;"><a href="http://www.textbookx.com/account/logout.php">Log Out</a></div>
-			<div class="special-option" id="tbx-mob-main-login"><a href="http://www.textbookx.com/account/login.php">Log In</a></div>
+		            <div role="menuitem" class="special-option" id="tbx-mob-main-account" style="display:none;"><a href="https://www.textbookx.com/account/new_purchases.php">My Account</a></div>
+            <div role="menuitem" class="special-option" id="tbx-mob-main-logout" style="display:none;"><a href="http://www.textbookx.com/account/logout.php">Log Out</a></div>
+			<div role="menuitem" class="special-option" id="tbx-mob-main-login"><a href="https://www.textbookx.com/account/login.php">Log In</a></div>
 		
-		<div id="tbx-mob-main-mobile-version"><a href="http://www.textbookx.com/?disable_mobile=1">Full Version</a></div>
+		<div role="menuitem" id="tbx-mob-main-mobile-version"><a href="http://www.textbookx.com/?disable_mobile=1">Full Version</a></div>
 		
 	</div>
 </nav>
-<link href="/tools/less/less_compiler.php?design=secondary_pages&amp;mtime=1479860609" type="text/css" rel="stylesheet">
+<main role="main" id="tbx-main-content-block" tabindex="-1">
+
+<link href="/tools/less/less_compiler.php?design=secondary_pages&amp;mtime=1496697539" type="text/css" rel="stylesheet">
 
 <div id="secondary-page-wrapper">
 	<h1>Privacy policy</h1>
@@ -391,7 +432,7 @@
 
 	<h2>Registration</h2>
 	<p>It is not necessary to register in order to purchase products from this website. It is necessary, however, to register in order to buy or sell products through our marketplace platform. All
-		users of the marketplace (buyers and sellers) must read carefully and agree to the terms of our <a href="http://www.textbookx.com/service/exchange/member-agreement.php">Membership Agreement</a>
+		users of the marketplace (buyers and sellers) must read carefully and agree to the terms of our <a href="http://www.textbookx.com/service/exchange/member-agreement.php" class="link underlined">Membership Agreement</a>
 		in order to activate an marketplace account. Users may also wish to register their information without participating in the marketplace for faster ordering. To register with us, the user must
 		complete the registration form. For purchasing only non-marketplace items, the user is required during registration to give her or his contact information (such as name and email address).
 		This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as
@@ -416,7 +457,7 @@
 		website.
 		<br><br>Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. This allows us to make special offers and continue to market our
 		services to those who have shown interest in our service. You can opt out of Google's use of cookies by visiting Google's Ads Settings (
-		<a href="https://www.google.com/settings/ads" target="_blank">https://www.google.com/settings/ads</a>) at any time.</p>
+		<a href="https://www.google.com/settings/ads" target="_blank" class="link underlined">https://www.google.com/settings/ads</a>) at any time.</p>
 
 	<h2>Log Files</h2>
 	<p>We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally
@@ -445,7 +486,7 @@
 	<p>This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 		When you place an order with us, you are using our secure e-commerce server and secure server software (SSL). This means that all of the information you enter is encrypted before we
 		receive it.
-		<br><br>If you have any questions about the security at our website, you can send an <a href="../emailus.php">e-mail.</a></p>
+		<br><br>If you have any questions about the security at our website, you can send an <a href="/emailus.php" class="link underlined">e-mail.</a></p>
 
 	<h2>Administrative Type Emails</h2>
 	<p>We also send the user administrative type email communications. Members are not able to un-subscribe from administrative type emails, which contain important information about the
@@ -454,7 +495,7 @@
 	<h2>Correction/Updating Personal Information: </h2>
 	<p>If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or
 		remove that user's personal data provided to us. This can be done by clicking the "Your Account" link on any page on the website and making the desired changes, or by visiting our
-		<a href="http://www.textbookx.com/service/contact.php" title="Questions? Problems? Get them answered here.">Customer Service Center</a>.</p>
+		<a href="http://www.textbookx.com/service/contact.php" class="link underlined" title="Questions? Problems? Get them answered here.">Customer Service Center</a>.</p>
 
 	<h2>Choice/Opt-out</h2>
 	<p>Our users are given the opportunity to 'opt-out' of receiving our newsletter or promotional materials at the point where we ask for the information. Users who no longer wish to receive
@@ -462,7 +503,7 @@
 		link on any page on the website and opting out  of these services.</p>
 
 	<h2>Affiliate Program</h2>
-	<p>We are a <a href="http://www.cj.com/" target="_blank">Commission Junction</a> Merchant and, through this network, we have many affiliates. We also have an internal affiliate network. All
+	<p>We are a <a href="http://www.cj.com/" target="_blank" class="link underlined">Commission Junction</a> Merchant and, through this network, we have many affiliates. We also have an internal affiliate network. All
 		information collected on users who have been referred to our site by a Commission Junction or internal affiliate is treated in the same manner as information collected on users who
 		come directly to our site. The only information that is shared with affiliates is the order number and the revenue associated with that order for purposes of compensating said
 		affiliates.</p>
@@ -479,29 +520,29 @@
 		<br>Fax: 203 866 0199
 	</div>
 </div>
-<div class="clearboth"></div>
-
-<footer id="footer-wrap-2014">
+</main>
+<div class="clearboth" aria-hidden="true"></div>
+<footer id="footer-wrap-2014" tabindex="-1" role="contentinfo">
 	
 	<div id="f-help-blocks">
 		<div class="f-help-block">
 			<div>
-									<h4>Akademos Curriculum Services</h4>
-					<div>Interested in Curriculum Services? <br><a target="_blank" href="http://www.textbookx.com/acs">Learn more<span>G</span></a>
+														<h2>Akademos Curriculum Services</h2>
+					<div>Interested in Curriculum Services? <br><a aria-label="Interested in Akademos Curriculum Services?" target="_blank" href="http://www.textbookx.com/acs">Learn more<span>➡</span></a>
 					</div>
 							</div>
 		</div>
 		<div class="f-help-block">
 			<div>
-				<h4>School Administrators</h4>
-				<div>Learn about our bookstore solutions. Visit <a target="_blank" href="http://akademos.com">Akademos.com<span>G</span></a>
+				<h2>School Administrators</h2>
+								<div>Learn about our bookstore solutions. Visit <a aria-label="Learn about our bookstore solutions" target="_blank" href="http://akademos.com">Akademos.com<span>➡</span></a>
 				</div>
 			</div>
 		</div>
 		<div class="f-help-block">
 			<div>
-				<h4>Need Help?</h4>
-				<div>Visit <a target="_blank" href="http://www.textbookx.com/help">Customer Service<span>G</span></a>
+								<h2>Need Help?</h2>
+				<div>Visit <a aria-label="Need Help? Visit Customer Service" target="_blank" href="http://www.textbookx.com/help">Customer Service<span>➡</span></a>
 				</div>
 		</div>
 	</div>
@@ -510,7 +551,7 @@
 		<div class="f-link-block">
 			<ul>
 				<li><a href="http://www.textbookx.com/aboutus/">About</a></li>
-				<li><a href="https://www.textbookx.com/account/register.php">Create Account</a></li>				<li><a href="http://www.textbookx.com/features.php?category=fiction">Bestsellers</a></li>
+				<li><a aria-label="Create Account (Registration page)" href="https://www.textbookx.com/account/register.php">Create Account</a></li>				<li><a href="http://www.textbookx.com/features.php?category=fiction">Bestsellers</a></li>
 				<li><a href="http://www.textbookx.com/affiliates">Advertising &amp; Affiliates</a></li>
 			</ul>
 		</div>
@@ -524,34 +565,36 @@
 		</div>
 		<div class="f-link-block">
 			<ul>
-				<li>Copyright © 2016 Akademos Inc. </li>
-				<li>All right reserved.</li>
+				<li>Copyright © 2017 Akademos Inc. </li>
+				<li>All rights reserved.</li>
 			</ul>
 		</div>
 	</div>
 	
+
+	<div class="clearboth"></div>
+	<!-- Google Code for Remarketing tag -->
+	<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 1072703649;
+		var google_conversion_label = "2ONLCLPrpwMQodHA_wM";
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+		<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072703649/?value=0&amp;label=2ONLCLPrpwMQodHA_wM&amp;guid=ON&amp;script=0"/>
+		</div>
+	</noscript>
+	<script src="/version/1496692426/lib/js/retina.min.js"></script>
 </div></footer>
 
 </div> 
 
-<div class="clearboth"></div>
-<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1072703649;
-var google_conversion_label = "2ONLCLPrpwMQodHA_wM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072703649/?value=0&amp;label=2ONLCLPrpwMQodHA_wM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
 
 
 
