@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eveangelofficial.com privacy policy that was archived on 2015-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150825175825id_/http%3A//eveangelofficial.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveangelofficial.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045225id_/http%3A//eveangelofficial.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Eve Angel Official - Privacy Policy
 
