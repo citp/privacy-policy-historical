@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftcover.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203075401id_/http%3A//www.swiftcover.com/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftcover.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044947id_/http%3A//www.swiftcover.com/security/privacy) for the most accurate reproduction.*
 
 # Cheap Car Insurance, Online Car Insurance Quotes UK. Privacy | swiftcover.com
 
@@ -92,7 +92,8 @@ We do not disclose your information to anyone outside the AXA Group except:
 
   * where we have your permission; or
   * where we are required or permitted to do so by law or by regulatory bodies; or
-  * to other companies who provide a service to us or you (which includes proof of No Claims Discount (NCD) entitlement), including when you take out additional products with us or make a claim; or
+  * to other companies who provide a service to us or you, including when you take out additional products with us or make a claim; or
+  * to other companies or insurers for the purpose of validating your No Claims Discount (NCD) entitlement; or
   * where it is necessary for the performance of an agreement we have with you; or
   * for credit reference or fraud prevention purposes; or
   * for reinsurance purposes; or
@@ -100,7 +101,7 @@ We do not disclose your information to anyone outside the AXA Group except:
 
 
 
-Disclosure of your information to a third party outside of the AXA Group will only be made where the third party has agreed to keep your information strictly confidential and use it only for the specific purpose for which we provide it to them. 
+Disclosure of your information to a third party outside of the AXA Group will only be made where the third party has agreed to keep your information strictly confidential and use it only for the specific purpose for which we provide it to them. Information will be passed to a third party for the purpose of validating your NCD entitlement and this may be made available to other insurers. 
 
 We may transfer your information to other countries including those located outside the European Economic Area. If we do this we will seek to ensure that anyone to whom we pass it provides an adequate level of protection. 
 
@@ -149,7 +150,7 @@ To help keep premiums low we do participate in a number of industry initiatives 
   * approach the DVLA to check all or any relevant driving licence details of anyone named on the policy;
   * share information about you with other organisations and public bodies including the police;
   * share information about you and any other named persons on the policy within the AXA Group and with other insurers;
-  * pass the details you have supplied to recognised centralised insurance industry applications, policy and claims checking systems (for example, the Motor Insurance Anti-Fraud and Theft Register, CUE, CIFAS and all DVLA databases) where those details will be checked and updated;
+  * pass the details you have supplied to recognised centralised insurance industry applications, policy and claims checking systems (for example, the Motor Insurance Anti-Fraud and Theft Register, CUE, CIFAS, NCD database and all DVLA databases) where those details will be checked and updated;
   * load your details and any information or documents you provide us to the Insurance Fraud Register. This may affect future applications for insurance products.
   * check the details you have supplied with fraud prevention agencies and databases including publicly available data (for example on County Court Judgements, bankruptcy information and electoral role data). If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies to prevent fraud and money laundering;
   * periodically search records held by fraud prevention and credit reference agencies to: 
