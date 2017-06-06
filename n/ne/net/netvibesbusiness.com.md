@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netvibesbusiness.com privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930005210id_/http%3A//www.netvibesbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netvibesbusiness.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123238id_/http%3A//www.netvibesbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Netvibes Business | Privacy Policy
 
-Netvibes SAS, a French corporate entity registered in the registry of commerce of  Paris, located 10 Place de la Madeleine, 75008 Paris, FRANCE, (hereinafter “Netvibes”) processes Personal Data (as defined below) in the course of its business, including the Personal Data of people using and browsing the http://www.netvibes.com  website (the "Site").
+Netvibes SAS, a French corporate entity registered in the registry of commerce of  Paris, located 10 Place de la Madeleine, 75008 Paris, FRANCE, (hereinafter “Netvibes”) processes Personal Data (as defined below) in the course of its business, including the Personal Data of people using and browsing the [http://www.netvibes.com](http://www.netvibes.com/) website (the "Site").
 
 The purpose of this “Privacy Policy is to inform all individuals to whom the Personal Data collected by 3DS relate ("You" or "Your") how Netvibes collects and uses such Personal Data and how You can control its use
 
@@ -168,6 +168,6 @@ For any additional question concerning this Privacy Policy, or any request for 
 
 ### XIII. Date of entry into force of the privacy policy and changes to it
 
-This Privacy Policy may be updated at any time without further notice, according to Netvibes' requirements and circumstances, or when required by applicable laws and regulations.
+> This Privacy Policy may be updated at any time without further notice, according to Netvibes' requirements and circumstances, or when required by applicable laws and regulations.
 
  _Versioning: June 2016_
