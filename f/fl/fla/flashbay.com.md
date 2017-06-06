@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211071833id_/http%3A//www.flashbay.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133835id_/http%3A//www.flashbay.com/about/privacy) for the most accurate reproduction.*
 
 # Custom USB Flash Drives Imprinted with your Logo
 
