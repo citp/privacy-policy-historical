@@ -1,63 +1,23 @@
-> *The following text is extracted and transformed from the inrdeals.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528034151id_/http%3A//www.inrdeals.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inrdeals.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182425id_/https%3A//inrdeals.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy -
+# Privacy Policy - INRDeals | Where Every Deal is Worth!
 
-### What information do we collect?
+* * *
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
+At INRDeals.com, we respect the privacy of our users and understand the trust that you place in us. Ours is an SSL-certified secure site with an added security layer. In addition, we have a privacy policy in place that makes sure that the information you submit to this website is protected and the transactions are secured. By accessing and using our website, you inherently agree to the terms of the privacy policy given below. Kindly go through it well before submitting information to this website. Your Privacy is our Priority. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number, company name, VAT ID, physical address and whatever information is required to complete the action. You may, however, visit our site anonymously. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
+#### PERSONAL INFORMATION
 
-### What do we use your information for?
+When you register on our website or subscribe to our newsletter, you are asked to submit personal information like your name, email ID, password, phone number and address. This information is used to personalize your experience on our website and notify you of new services and offers that we bring for you. It also helps us secure your operations on our website. If you choose our affiliate services, you are required to submit your bank account details. All the credit/debit card details, transaction details and tracking information are secured through SSL. If you use the website as an anonymous user, we keep a record of your preferences and browsing history to give you a customized experience during the next visit. Your contact information will be used to notify and update you of INRDeals' online as well as offline products and services. You can opt out of receiving notifications at any point of time. Any personal detail is never shared with any third party for whatsoever purposes. We recommend that you read the privacy policy of any third party or websites mentioned at INRDeals before voluntary submitting your information to them. 
 
-Any of the information we collect from you may be used in one of the following ways:
+#### NON Personal Information
 
-  * To personalize your experience  
-(your information helps us to better respond to your individual needs)
-  * To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-  * To process transactions 
-    * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails  
+Your log-in details, browser type, Internet Service Provider, device's name, Operating System, area code, language and time zone are automatically collected and remembered for resolving any future conflicts, identifying and solving server issues and for improving our services. Keeping a track of our customer's behavior through his/her preferences, purchases and post comments also helps us in assessing our website's engagement and interesting segments. It helps us in developing the website to your taste and making it a fruitful and interesting experience, in turn. 
 
-    * The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+#### COOKIES
 
+We use cookies, which are small data files stored on your browser to remember past actions, to retrieve certain information like previous actions and preferences. Cookies cannot read or update the data on your hard disk and pose no security threats. Make sure you allow cookies in your browser to enable us to provide you with personalized content and targeted services. 
 
+#### UPDATES
 
-### How do we protect your information?
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
-
-We offer the use of a secure server. All supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-
-### Do we use cookies?
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information).
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements.
-
-### Do we disclose any information to outside parties?
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-### Third party links
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-### Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-### Your Consent
-
-By using our site, you consent to our privacy policy.
-
-### Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 01.12.2012
+Since our website is growing day-by-day and the internet keeps coming up with newer technologies, we might need to come up with updated security precautions and measures to provide you a constant secure user experience. Any changes to the privacy policy will be duly updated on this page.
