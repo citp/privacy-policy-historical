@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoaxorfact.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120165323id_/http%3A//www.hoaxorfact.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoaxorfact.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141223id_/http%3A//www.hoaxorfact.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
