@@ -1,80 +1,91 @@
-> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412095432id_/http%3A//www.estore.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091705id_/http%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
 
-# eStore - Privacy Policy | eStore.com.au
+# Security &amp; Privacy Policy | Purchasing Information | ht.com.au
 
-### Effective 04/03/2014
+Read about our commitment to ensuring the privacy of your information. If you can't find the information you need, please use the [Make an Enquiry](http://www.ht.com.au/form/enquiry/forms.hts) page or phone **1300 13 9999** and get help from a Customer Service representative. 
 
-eStore.com.au respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy. If you have questions or concerns regarding this statement, you should first contact eStore.com.au using [this online form](http://www.estore.com.au/home/contact) or call us on 1300 658 600.
+#### How We Handle Customer Information
 
-This Privacy Policy protects your privacy by Informing you about: 
+Harris Technology is committed to client service and this policy outlines our ongoing obligations to you in respect to how we manage your Personal Information. We have adopted the 10 National Privacy Principles (NPPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The NPPs came into effect on 21 December 2001. The NPPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information. A copy of the National Privacy Principles may be obtained from the website of The Office of the Federal Privacy Commissioner at www.privacy.gov.au. 
 
-  * The types of personal information eStore collects about you through its web sites
-  * How it collects that information
-  * The general purposes for which it collects such information
+### What is Personal Information and why do we collect it?
 
+Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we collect include: names, addresses, email addresses, phone and fax numbers. This Personal Information is obtained in many ways including interviews, correspondence, by telephone and fax, by email, via our website www.ht.com.au and from third parties. We collect your Personal Information for the primary purpose of providing our services to our clients, and for our own marketing. We may also use your Personal Information for secondary purposes closely related to the primary purpose, in circumstances where you would reasonably expect such use or disclosure. You may unsubscribe from our mailing/marketing lists at any time; all you need to do is let us know. When we collect Personal Information we will, where appropriate and where possible, explain to you why we are collecting the information and how we plan to use it. 
 
+#### What information do we collect?
 
-### eStore.com.au assures you that:
+When you visit the Harris Technology website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis, and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
-Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction.  
-Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;  
-Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and  
-Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.  
-Ensuring accountability to individuals who believe that eStore has not complied with these privacy principles. 
+We do not use cookies for marketing, promotional or advertising purposes, nor do we use cookies to track your Internet activity before or after you leave Harris Technology. Any activity while you are at ht.com.au may be monitored.
 
-### Getting to Know Our Customers
+#### 1\. Personal Information You Choose to Provide
 
-eStore.com.au is in the business of supplying goods and services to our customers. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs.
+**Registration Information** \- When you register for an account or place an order for our products you will provide us information about yourself.
 
-We get to know you primarily through the information you provide to us when you contact us to use one or more of our services. The information you provide ranges from basic contact information to payment information. All of the information we request from you when purchasing our goods and/or services is obligatory. When you purchase our goods and/or services, you agree to provide us with complete and current information.
+**Credit Card Information** \- When placing an order you may need to give personal information and authorisation to obtain information from various credit services. For example, you may need to provide the following information:
 
-After you have purchased any of our goods and/or services, we may communicate with you about your account, answer questions you may have about what we provided you, or any other relevant matter. Those communications are essential to our relationship with you and to our ability to provide you with quality service that is responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use by eStore.com.au.
+-Name, mailing address, email address, credit card number, name on credit card, credit card billing address, business and/or home phone number
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorised access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity.
+**Email Information** \- If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-### Third Party Advertising and Cookies
+#### 2\. Web Site Use Information
 
-We use links to some of our suppliers on our website. In the course of providing these links, some of these companies may place or recognise a unique 'cookie' on your browser, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to their and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. Please also examine the Privacy Policies of these companies. 
+**HT.com.au** utilises a standard internet technology called â€œcookiesâ€ (see below for more information) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. Generally speaking this service is anonymous and used only for statistical analysis. When you register for an account or place an order for our products you will provide us information about yourself.
 
-### Information Corrections or Changes
+We do not want to send emails to you if you would prefer not to receive them. Therefore, every email provides a way for you to unsubscribe from future emails. In addition, you can visit our [Subscription Centre](https://web.archive.org/subscriptions.hts) to manage your subscription. We also have administrative procedures in place to remove email addresses and domains that consistently send failure messages to our email servers.
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins on the [Your Account](http://www.estore.com.au/account) page. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us by using [this online form](http://www.estore.com.au/home/contact) or by calling us on 1300 658 600.[](mailto:sales@estore.com.au)
+#### How Do We Use the Information That You Provide to Us?
 
-### How We Put Information to Good Use
+Harris Technology uses personal information for the purposes of administering our business activities, providing the products requested by our customers, to process customer payments, to monitor the use of our services, for marketing and promotional efforts and to improve our content and service offerings, and customise our siteâ€™s content, layout, services and for other lawful purposes. These uses improve our business and better tailor it to meet your needs.
 
-We use any information about you for purposes of monitoring and improving our internal operations, as well as to ensure we bill you properly, administer your account in accordance with good and proper accounting practices, and properly supply the goods and/or services you have requested.
+Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
 
-We also use the information we collect to monitor and improve our internal operations For example; we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+#### What Are Cookies?
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for eStore.com.au services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser.
+Cookies are small files which are stored on a user's computer. They are designed to hold a modest amount of data specific to a particular client and website, and can be accessed either by the web server or the client computer. This allows the server to deliver a page tailored to a particular user, or the page itself can contain some script which is aware of the data in the cookie and so is able to carry information from one visit to the website (or related site) to the next.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, and information about our services or product offerings. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfil our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+Once the cookie has been read by the code on the server or client computer, the data can be retrieved and used to customise the web page appropriately.
 
-### With Whom We May Share Information
+Cookies are a convenient way to carry information from one session on a website to another, or between sessions on related websites, without having to burden a server machine with massive amounts of data storage. Essentially, it allows us to better serve our website visitors with relevant information and content, whilst optimising our own practises.
 
-We value you as our own customer and we do not share or disclose any information about you to any external company or organization. The information that you supply to us is used to conduct business transactions with you and to enable us to better meet your needs and requirements. Your information is not sold or given to any other organization.
+#### Sharing and Selling Information
 
-When you supply us with a credit card number that is used to make a payment to us we securely transmit this to our bank where the credit card transaction is either accepted or declined by the bank. We do not store your credit card details on any of our sites or systems. The bank stores any necessary details about our transaction/s with you, we do store a payment authorisation reference number associated with your transaction/s. It is not possible for this reference number to be used for any other purpose other than recording the fact that we conducted a credit card transaction with you.
+We do not and will not share, sell, lend or lease any of the information that uniquely identify a subscriber or customer (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
 
-### Our Accountability to You
+Once the cookie has been read by the code on the server or client computer, the data can be retrieved and used to customise the web page appropriately.
 
-By purchasing our goods and/or services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to:
+#### How Can You Access and Correct Your Information?
 
-  * the purposes for which such third party's personal data have been collected,
-  * the intended recipients or categories of recipients of the third party's personal data,
-  * which of the third party's data are obligatory and which data, if any, are voluntary, and
-  * how the third party can access and, if necessary, rectify the data held about them.
+NPP 6 provides you with the right to access the Personal Information which we hold about you and to update and/or correct it, subject to certain exceptions. If you wish to access your Personal Information, please make out your request to us in writing.
 
+#### What About Legally Compelled Disclosure of Information?
 
+Your Personal Information may be disclosed in a number of circumstances including the following: 
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below.
+\- third parties where you consent to the use or disclosure; and 
 
-### Employee Accountability
+\- where required or authorised by law. 
 
-Only those eStore employees that have a legitimate business purpose for accessing and handling information obtained by us are given authorization to do so. The unauthorised access or use of such information by a eStore.com.au employee is prohibited and constitutes grounds for disciplinary action. Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access.
+#### What About Other Web Sites Linked to Our Web Site?
 
-### Notification of Changes
+We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
 
-If and when we make any changes to any part of this Privacy Policy we will amend the effective date displayed at the top of this page.
+Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites which have a link on our Website, is subject to that websiteâ€™s own rules and policies. Please read over those rules and policies before proceeding.
 
-**Copyright 2015 AER Group Pty Ltd trading as eStore Direct, ABN: 25 163 963 782**
+#### Your Consent
+
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
+
+#### Security of Personal Information
+
+Your Personal Information is stored in a manner that reasonably protects it from misuse and loss and from unauthorised access, modification or disclosure.
+
+When your Personal Information is no longer needed for the purpose for which it was obtained, we will take reasonable steps to destroy or permanently de-identify your Personal Information. However, most of the Personal Information is or will be stored in client files which will be kept by us for a minimum of 7 years.
+
+#### Maintaining the Quality of your Personal Information
+
+It is an important part of providing our services to you that your Personal Information is up to date. National Privacy Policy dictates that we take reasonable steps to make sure that your Personal Information is accurate, complete and up-to-date.
+
+#### Complaints
+
+You can lodge a complaint with us about any breach of our Privacy Policy and our privacy obligations to you by contacting feedback@ht.com.au 
