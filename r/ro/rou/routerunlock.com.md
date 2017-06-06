@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the routerunlock.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212023604id_/https%3A//routerunlock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routerunlock.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192604id_/https%3A//routerunlock.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - RouterUnlock
+# Privacy Policy - routerunlock.com
 
 **Privacy Policy**
 
@@ -14,7 +14,7 @@ I am Kamlesh Kumar, based on Bihar (India). At, [routerunlock](https://routerunl
 
 **About Refund**
 
-We run unlocking services and provide the unlock code of [Huawei](https://routerunlock.com/tag/huawei/), [Alcatel](https://routerunlock.com/tag/alcatel/), etc. Before making payment, make sure that the device is asking for the unlock / SIMLock / NCK code as mentioned in the individual post. It may be locked by your network provider and the mentioned procedure may not work for you. Before making payment think twice and check out the procedure, if everything works as mentioned in the post then only pay. No (R) no refund will be provided for any mistakes.
+We run unlocking services and provide the unlock code of [Huawei](https://routerunlock.com/tag/huawei/), Alcatel, etc. Before making payment, make sure that the device is asking for the unlock / SIMLock / NCK code as mentioned in the individual post. It may be locked by your network provider and the mentioned procedure may not work for you. Before making payment think twice and check out the procedure, if everything works as mentioned in the post then only pay. No (R) no refund will be provided for any mistakes.
 
 For refund, only those people are authorized, who are regular customers or if my provided code does not work. Refund will take time, if by any means my provided codes do not work for you, then don’t fight for an immediate refund, it will take time and will be returned.
 
