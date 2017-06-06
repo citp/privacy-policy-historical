@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabpoints.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024175455id_/http%3A//grabpoints.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabpoints.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020024id_/http%3A//grabpoints.com/privacy.html) for the most accurate reproduction.*
 
 # Terms and Privacy - GrabPoints
 
@@ -60,8 +60,9 @@ Grab Points cannot use the UDID to identify you personally, but it does enable u
   
 We use your UDID and information about the third party applications you download to report on the number of unique users who click through ads on the Grab Points website & application, and the number of those users who download third party applications as a result of those ads.
 
-  
 We also use your UDID and the information associated with your UDID over time (e.g., the applications you download, when and how you use those applications, and any publisher-provided demographic data) to enhance our services and to select Grab Points third party ads that are most likely to be of interest to you.
+
+By installing the app or joining the GrabPoints website, you also agree to the following privacy policy: <http://www.oneaudience.com/privacy/?package_name=org.grabpoints.android>. We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., device ID, IP address, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. 
 
   
 Grab Points may disclose your non personally identifiable information (e.g. UDID, IP address, application usage information) to its advertisers, agents, contractors and other third parties in order to operate, provide and improve our services to our Clients and to end-users. In addition, we may disclose your non personally identifiable information to a successor acquirer or other related entity, in connection with a sale or transfer of some or all of our assets.
