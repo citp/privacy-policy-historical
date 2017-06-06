@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the piano-player.info privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206075935id_/http%3A//piano-player.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piano-player.info privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112647id_/http%3A//piano-player.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Player Piano
+# Privacy Policy – Player Piano
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@piano-player.info.
 
