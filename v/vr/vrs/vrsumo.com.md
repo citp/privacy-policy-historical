@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vrsumo.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121134405id_/http%3A//vrsumo.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrsumo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183337id_/https%3A//vrsumo.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VR SUMO
 
-[](http://vrsumo.com/ "VR SUMO")
+[](https://vrsumo.com/ "VR SUMO")
 
 Privacy Policy
 
