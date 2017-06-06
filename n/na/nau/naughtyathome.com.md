@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtyathome.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117133458id_/http%3A//www.naughtyathome.com/tour8/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtyathome.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041038id_/http%3A//www.naughtyathome.com/tour8/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,11 +60,17 @@
 > 
 > If we decide to use your personally identifiable information in a manner materially different from that stated in the Privacy Policy at the time that such information was collected, we will attempt to notify you of such changes. You agree that if we send you an e-mail to the e-mail address reflected in our records, such e-mail will constitute acceptable notice to you of the change in our policy. The notice will provide you with an opportunity to “opt-out” so that we may not use your personally identifiable information in a manner which is different from the manner described at the time that you provided us with such information. If you do not affirmatively “opt-out” pursuant to the instructions provided to you in the notice, then you agree that we may use your personally identifiable information in the manner described in the notice. (If we have no e-mail address for you, or if we do not have a current e-mail address for you, then you agree that adequate notice of the change in our policy will be effected by posting such a change onto our Privacy Policy, which shall also disclose information about how you may “opt-out” so that we may not use your personally identifiable information in a manner which is materially different from the manner described at the time that you provided us with such information. If you do not affirmatively “opt-out” pursuant to the instructions posted within the time period specified, then you agree that we may use your personally identifiable information as described in the posted notice). 
 > 
+> google analytics:
+> 
+> We will not identify users or facilitate the merging of personally identifiable information with non-personally identifiable information collected through any Google advertising product or feature unless you have robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that identification or merger. Irrespective of users’ consent, you must not attempt to disaggregate data that Google reports in aggregate.
+> 
+> We also encourage you to visit Google Analytics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.
+> 
 > Contact Information
 > 
 > If you have any questions about this Privacy Policy, you can contact us by sending an e-mail. Please provide us with your name and e-mail address so we can service you quicker.
 > 
-> Please send your e-mail to: webmaster@naughty4cash.com
+> Please send your e-mail to: support@naughtyathome.com
 > 
 >   
 >  This document was prepared by Lawrence G. Walters, Esq., of www.FirstAmendment.com.  
