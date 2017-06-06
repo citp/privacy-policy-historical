@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128112233id_/http%3A//www.nfpa.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155301id_/http%3A//www.nfpa.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ Upon request we provide site visitors with access to contact information (e.g., 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address or changing your online profile.
 
 **Credit card transactions  
-**NFPA has a ‘Secure’ transaction system in place to verify and protect your credit card information. NFPA’s Online Catalog only accepts Visa, MasterCard, American Express and Discover. Purchase orders are accepted online. Please see our [Payment Policy](http://www.nfpa.org/catalogDetail.asp?categoryID=343&itemID=17213) for details.
+**NFPA has a ‘Secure’ transaction system in place to verify and protect your credit card information. NFPA’s Online Catalog only accepts Visa, MasterCard, American Express and Discover. Purchase orders are accepted online. Please see our [Payment Policy](http://www.nfpa.org/paymentpolicy) for details.
 
 **NFPA membership lists  
 **From time to time, NFPA may make its customer lists available to other reputable organizations whose products or services you might find interesting. NFPA does not rent its membership list to other organizations; however it is possible that members might be included in our customer lists if they have purchased merchandise from NFPA. If you do not want us to share your name and address with other companies or organizations, please let us know by either sending an e-mail to the above address, calling the above telephone number, or writing to the above address. Be specific in telling us that you do not want NFPA to share your full name and address with others.
