@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storyful.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211034858id_/http%3A//storyful.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyful.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190800id_/https%3A//storyful.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy |
+# Privacy Policy
 
 Your privacy is critically important to us. At Storyful, we take our obligations very seriously. We comply with these principles:
 
@@ -21,7 +21,7 @@ Below is our privacy policy which incorporates these principles.
 
 ## Introduction
 
-This is the privacy and cookies policy for [storyful.com](https://web.archive.org/) and our associated services (together, the **Site** ). The Site is operated by Storyful ( **we** , **us** and **our** ). For the purposes of the Irish Data Protection Acts 1988 and 2003, as amended, we are the data controller.  
+This is the privacy and cookies policy for [storyful.com](http://storyful.com/) and our associated services (together, the **Site** ). The Site is operated by Storyful ( **we** , **us** and **our** ). For the purposes of the Irish Data Protection Acts 1988 and 2003, as amended, we are the data controller.  
 We are committed to protecting your privacy online. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have. By using the Site, you consent to the collection and use of information in accordance with this privacy policy.
 
 We reserve the right to change this privacy policy from time to time by changing it on the Site. This privacy policy was last updated on the date set out at the top of this policy.
@@ -41,7 +41,7 @@ You are under no obligation to provide any such information. However, if you sho
 
 ## Information you provide about third parties
 
-Where your content contains the images of others, we may ask you to provide us with the details of your relationship with those individuals. We will only use those details to provide a description of your content, for verification purposes, or otherwise pursuant to terms agreed with you. By providing this information to us, you agree to our use of such information for these purposes. When you upload the content, you warrant that you have permission from those individuals to appear in your video and for us to use their personal information in accordance with our agreement with you. You must not provide us with the details of anyone from whom you do not have such permission. We reserve the right to identify you as the person who has guaranteed that such individuals have given their permission. 
+Where your content contains the images of others, we may ask you to provide us with the details of your relationship with those individuals. We will only use those details to provide a description of your content, for verification purposes, or otherwise pursuant to terms agreed with you. By providing this information to us, you agree to our use of such information for these purposes. When you upload the content, you warrant that you have permission from those individuals to appear in your video and for us to use their personal information in accordance with our agreement with you. You must not provide us with the details of anyone from whom you do not have such permission. We reserve the right to identify you as the person who has guaranteed that such individuals have given their permission.
 
 ## Non-Personally Identifiable Information
 
@@ -89,7 +89,7 @@ In addition to cookies, tracking Gifs and web beacons may be set by us or third 
 
 We may disclose aggregate statistics about visitors to the Site, customers and sales in order to describe our services to prospective partners, advertisers, sponsors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifiable information.
 
-If you sign up to sell or licence a video to Storyful, when we distribute your video to our partners, we will disclose your personal information to our partners in order for them to independently verify your video. This disclosure may include publically available information such as name, Facebook profile information, twitter profile information and location and may also include other information you have provided to us your such as your email address and phone number and location of where the content was filmed. At the time you submit your video, you acknowledge that this disclosure will be made and by continuing to upload your details you agree to such disclosure. 
+If you sign up to sell or licence a video to Storyful, when we distribute your video to our partners, we will disclose your personal information to our partners in order for them to independently verify your video. This disclosure may include publically available information such as name, Facebook profile information, twitter profile information and location and may also include other information you have provided to us your such as your email address and phone number and location of where the content was filmed. At the time you submit your video, you acknowledge that this disclosure will be made and by continuing to upload your details you agree to such disclosure.
 
 We may also disclose your personal information to any of our affiliates, or to our agents or contractors who assist us in providing the services we offer through the Site, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analysing data, providing support services or in other tasks, from time to time. Our agents and contractors will only use your information to the extent necessary to perform their functions.
 
