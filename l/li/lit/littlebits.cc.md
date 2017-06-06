@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004006id_/http%3A//littlebits.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053042id_/http%3A//littlebits.cc/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
 In short (and plain English), we are good people. We will never use your private information in a harmful way, never sell it, and never spam you without your consent. We also hate sites and companies that do that, and we respect your privacy, and clean inboxes!  
-Below is the detailed privacy policy that our legal counsel said we had to include (sorry for the occasional caps, we promise we are not yelling  . For any questions, please [email us](https://web.archive.org/cdn-cgi/l/email-protection#fa93949c95ba96938e8e969f98938e89d49999c5898f98909f998ec7).
+Below is the detailed privacy policy that our legal counsel said we had to include (sorry for the occasional caps, we promise we are not yelling 🙂 . For any questions, please [email us](mailto:info@littlebits.cc?subject=).
 
 Cheers!  
 The littleTeam
@@ -101,4 +101,4 @@ littleBits will take reasonable precautions to protect personal information in i
 **Effective Date**  
 This Privacy Policy is effective as of February 20th, 2012. We reserve the right to change this Privacy Policy at any time. If we change it, we will post the then-current Privacy Policy on this page. Any changes to this Privacy Policy will be effective as of the day they are posted.  
 **Contact Us**  
-It is important for us to know what visitors have to say about our Services. To contact us with your questions or comments please email us at [info[AT]littleBits.cc](https://web.archive.org/cdn-cgi/l/email-protection#b6dfd8d0d9f6dadfc2c2dad3d4dfc2c598d5d589c5c3d4dcd3d5c28b90c7c3d9c28df9d8dadfd8d396e6c4dfc0d7d5cf90c7c3d9c28d)
+It is important for us to know what visitors have to say about our Services. To contact us with your questions or comments please email us at [info[AT]littleBits.cc](mailto:info@littlebits.cc?subject=%22Online%20Privacy%22)
