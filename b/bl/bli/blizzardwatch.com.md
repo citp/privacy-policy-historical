@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blizzardwatch.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220222010id_/http%3A//blizzardwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blizzardwatch.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607003620id_/http%3A//blizzardwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blizzard Watch
 
