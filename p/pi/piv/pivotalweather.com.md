@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pivotalweather.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121013842id_/http%3A//www.pivotalweather.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pivotalweather.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142629id_/http%3A//www.pivotalweather.com/privacy.php) for the most accurate reproduction.*
 
 # pivotalweather - Privacy Policy
 
@@ -31,7 +31,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 pivotalweather.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. Privacy policy created by [GeneratePrivacyPolicy.com](http://www.generateprivacypolicy.com/)
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. Privacy policy created by [PrivacyPolicies.com](http://privacypolicies.com/)
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
