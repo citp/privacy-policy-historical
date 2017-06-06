@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epathchina.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025063919id_/http%3A//www.epathchina.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epathchina.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091846id_/http%3A//www.epathchina.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice - Privacy Policy - www.ePathChina.com
 
