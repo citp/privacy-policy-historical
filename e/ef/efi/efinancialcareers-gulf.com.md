@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the efinancialcareers-gulf.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123013956id_/http%3A//news.efinancialcareers.com/gulf-en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers-gulf.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182603id_/http%3A//news.efinancialcareers.com/gulf-en/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - eFinancialCareers
 
-**Last Updated:  28.09.2016**
+**Last Updated:  01.2017**
 
 | [](https://privacy.truste.com/privacy-seal/validation?rid=e0619609-2aa7-413a-88b2-20553e8fbc6b)  
 ---|---  
   
-This Privacy Policy for eFinancialCareers describes our practices on the collection, use and disclosure of your information in connection with our parent entity, DHI Group, Inc., and subsidiaries and affiliates acting on our behalf (collectively, “DHI”). When used herein, the terms “we,” “us,” and “our” refer to DHI.  
+This Privacy Policy for eFinancialCareers describes our practices on the collection, use and disclosure of your information in connection with our parent entity, DHI Group, Inc., and subsidiaries and affiliates acting on our behalf (collectively, “DHI”). When used herein, the terms “we,” “us,” and “our” refer to DHI. Other than the requirements to which we adhere under the Privacy Shield framework and its accountability for onward transfer of personal information, we cannot, and do not, assume responsibility for the privacy or information policies, practices or actions of any third parties.  
 We at DHI are committed to good privacy practices regarding your personally identifiable information. Your loyalty as a customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the “Privacy Policy” or “Policy”), demonstrate our commitment to making your experience with us an enjoyable and satisfying one.  
-DHI and its subsidiaries such as [www.eFinancialCareers.co.uk](http://www.efinancialcareers.co.uk/)  , participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework.  DHI is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
+DHI and its subsidiaries such as [www.eFinancialCareers.co.uk](http://www.efinancialcareers.co.uk/), participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework.  DHI is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
 
 DHI is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  DHI complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
@@ -29,7 +29,7 @@ E. Security
 F. Survey & Sweepstakes  
 G. Social Media Features  
 H. Connecting via Sign-in Services  
-I. Correcting personally Identifiable Information  
+I. Choice and Correction of personally Identifiable Information  
 J. Changes to this Privacy Policy  
 K. Questions?
 
@@ -55,7 +55,7 @@ Please note that we cannot control the acts of users of the Services. All member
 
 ## B. How we use the information we gather
 
-Please take some time to familiarize yourself with the different ways we use the information we gather. Keep in mind that, while DHI encourages all third parties involved, including but not limited to its advertisers, to adhere to our policies regarding the privacy of our visitors and users and to otherwise handle personally identifiable information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from DHI or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with, DHI who you feel is improperly collecting or using information about you, please contact [support@efinancialcareers.com](mailto:support@efc.com)
+Please take some time to familiarize yourself with the different ways we use the information we gather. DHI encourages all third parties involved, including but not limited to its advertisers, to adhere to our policies regarding the privacy of our visitors and users and to otherwise handle personally identifiable information in a responsible manner. Nevertheless, in the event you encounter any third party associated with, or who claims association with, DHI who you feel is improperly collecting or using information about you, please contact [support@efinancialcareers.com](mailto:support@efc.com)
 
 **1\. How we use non-personally identifiable information:** We use non-personally identifiable information in aggregate form to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of our visitors and users, and by measuring demographics and interests regarding specific areas of the Services. We may provide statistical information based on this data to advertisers, users, and other current and potential business partners. We may also use the aggregate data to inform these third parties as to the number of people who have seen and clicked through links to their sites.
 
@@ -153,11 +153,11 @@ The Sites include social media features, such as the Facebook like button and wi
 
 You may be able to log in to our Sites using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on the Sites to your profile page to share with others within your network.
 
-## I. Correcting personally identifiable information
+## I. Choice and Correction of personally identifiable information
 
 If you would like to have your personally identifiable information removed from DHI’s database, or would like to correct an error in such information, please contact us at [support@efinancialcareers.com](mailto:support@efc.com)  and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within DHI databases, access logs, and other records, which may or may not contain such personally identifiable information. If you have provided more than one email address to our service, you may continue to be contacted, unless you request to unsubscribe each email address you have provided.
 
-  1. **Access** : If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on your account page or by emailing our Customer Support at [support@efinancialcareers.com](mailto:support@efc.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to all access requests within 30 days.
+  1. **Choice and Access** : Upon request DHI will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on your account page or by emailing our Customer Support at [support@efinancialcareers.com](mailto:support@efc.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to all access requests within 30 days.
   2. **Data Retention** : We will retain your information for as long as your account is active or as needed to provide you Services. If you wish to cancel your account or request that we no longer use your information to provide you Services, contact us at [support@efinancialcareers.com](mailto:support@efc.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
   3. **Blogs** : The Sites may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at [support@efinancialcareers.com](mailto:support@efc.com).  In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
   4. **Testimonials** : We post testimonials on the Sites which may contain personally identifiable information. We do obtain consent by email or a release agreement prior to posting the testimonial to post their name along with their testimonial.
@@ -172,4 +172,4 @@ Note that, by using the Services, you signify your agreement to this Privacy Pol
 
 ## Questions?
 
-Questions regarding this Privacy Policy should be directed to [support@efinancialcareers.com](mailto:support@efc.com) . You may also contact us at eFinancialCareers (Australia) Pty Limited. Level 9 5 Elizabeth Street Sydney, NSW, 2000.
+Questions regarding this Privacy Policy should be directed to [support@efinancialcareers.com](mailto:support@efc.com). You may also contact us at eFinancialCareers Limited. Telephone House 69-77 Paul Street London EC2 4NW.
