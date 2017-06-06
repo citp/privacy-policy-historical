@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manjam.com privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210192825id_/http%3A//www.manjam.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manjam.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052214id_/http%3A//www.manjam.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-This policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with English and law. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail. 
+This policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with New Zealand. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail. 
 
 ###  Summary 
 
@@ -17,7 +17,7 @@ Please read our privacy policy carefully because it will tell you exactly how we
 
 ###  Legal information 
 
-HUBJET Limited ("we" or "us") is a company incorporated in Isle of Man under company number 000866L registered at 12 Mount Havelock, Douglas IM1 2QG. This privacy policy (the "Policy") is to let you know how we use personal information (‘personal data’ or ‘personal information’). 
+HUBJET Limited ("we" or "us") is a company incorporated in New Zealand under company number 5864849 registered at PO BOX 47460, Ponsonby, Auckland 1144. This privacy policy (the "Policy") is to let you know how we use personal information (‘personal data’ or ‘personal information’). 
 
 This Policy applies to your use of the Manjam website at www.manjam.com ("Manjam"). We suggest you read it in conjunction with our Terms and Conditions of Use (the "Terms"). When you access or use Manjam, you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy. 
 
@@ -158,4 +158,4 @@ If you have not signed in to Manjam for 12 months, we may remove your Profile as
 
 ###  Effective date 
 
-The Policy was updated 1 January 2014. 
+The Policy was updated 29 March 2016. 
