@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217155259id_/http%3A//www.wilton.com/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033555id_/http%3A//www.wilton.com/privacy-policies.html) for the most accurate reproduction.*
 
 # Wilton Privacy Policies
 
@@ -88,7 +88,7 @@ You may file a complaint with us in connection with the collection, use or proce
 
 **12\. Use of Information Outside of Your Country of Residence.** By using the Service, you hereby consent to the collection, transfer, storage, processing, and other use of your information in the United States. You acknowledge that your information and other information may be subject to the privacy and data protection laws that may not be the same as applicable laws and regulations in your country of residence.
 
-The Company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. [Click Here](https://www.wilton.com/safeharbor.html) for a copy of our Safe Harbor Policy. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Company's certification, please visit <http://www.export.gov/safeharbor/>.
+The Company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. [Click Here](http://www.wilton.com/safeharbor.html) for a copy of our Safe Harbor Policy. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Company's certification, please visit <http://www.export.gov/safeharbor/>.
 
 **13\. Governing Law.** This Privacy Policy and any disputes relating hereto are governed by the laws of the State of New York without regard to principles of conflicts of laws, and by using the Service, you consent to the exclusive jurisdiction of the state and federal courts in New York for resolution of any disputes relating to this Privacy Policy and/or the Service and waive any objection thereto.
 
