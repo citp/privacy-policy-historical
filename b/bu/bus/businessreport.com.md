@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessreport.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016104021id_/https%3A//www.businessreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessreport.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171634id_/https%3A//www.businessreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Baton Rouge Business Report
 
@@ -18,6 +18,6 @@ If you supply us with your telephone number and postal address online you may re
 
 From time to time, we may use customer information for new, unanticipated purposes not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our website to notify you of these changes.
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server. Visitors may verify their security status by looking for the Òhttps://Ó portion of the URL in their browser or by calling us to verify the safety of their information.
+With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server. Visitors may verify their security status by looking for the “https://” portion of the URL in their browser or by calling us to verify the safety of their information.
 
 If you feel that this site is not following its stated information policy, you may contact us at (225) 928-1700 or through the options listed on the [Contact Us](http://businessreport.com/section/businessreport1002) page.
