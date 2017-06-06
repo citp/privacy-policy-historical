@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ireff.in privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916033542id_/http%3A//www.ireff.in/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireff.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100407id_/http%3A//www.ireff.in/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -44,8 +44,6 @@ Our site's or App’s online registration form requires users to give us contact
 
 We use data collection devices such as "cookies" (small pieces of data we store for an extended period of time on your computer, mobile phone, or other device) on certain pages of our websites and in App, for providing customized services. We also offer certain features that are only available through the use of a "cookie". Cookies can also help us provide information, which is targeted to your interests. Cookies may be used whether you register with us or not.
 
-The website also has enabled the Google Analytics Advertising and User ID Feature, which allows Google to collect data about users on our website, in addition to Google advertising cookies and anonymous identifiers. You may choose to opt out of this by downloading and installing the Google Analytics opt-out add-on [ https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout/). However, we will not share or upload any of your personally identifiable information on these tools. 
-
 **_EXTERNAL LINKS ON WEBSITE_**
 
 The Website and App may include hyperlinks to other web sites or references to other apps or other content or resources. We have no control over any websites, apps or resources, which are provided by companies or persons other than Us.
@@ -63,6 +61,12 @@ Your contact information is used to contact you when necessary. We use your IP a
 We may release your personal information to a third-party in order comply with a Court Order or other similar legal procedure, or when we believe in good faith that such disclosure is necessary to comply with the law; prevent imminent physical harm or financial loss; or investigate or take action regarding illegal activities, suspected fraud, or violations of Our Terms of Use. We may disclose certain information about you, your recharge information and data analytics to our business partners. ****
 
 By way of example (without limiting and foregoing), third parties may sometimes unlawfully intercept or access transmissions, or other parties may abuse or misuse your information that they collect from our Websites. Therefore, we do not promise, and you should not expect, that any information that we collect about you or private communications would always remain private.
+
+The Website and App may show ads from Facebook. For more details on Facebook ads please see https://m.facebook.com/ads/ad_choices 
+
+The website also has enabled the Google Analytics Advertising and User ID Feature, which allows Google to collect data about users on our website, in addition to Google advertising cookies and anonymous identifiers. You may choose to opt out of this by downloading and installing the Google Analytics opt-out add-on [ https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/). However, we will not share or upload any of your personally identifiable information on these tools. 
+
+From time to time, we may run promotional reward programs using third party tools. We may share your personal information with these partners for the purpose of communicating reward status back to you, and also for routine fraud detection. 
 
 **_ACCESSING, REVIEWING AND CHANGING YOUR PROFILE_**
 
