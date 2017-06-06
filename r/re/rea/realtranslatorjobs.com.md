@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtranslatorjobs.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025183110id_/http%3A//www.realtranslatorjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtranslatorjobs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135527id_/http%3A//www.realtranslatorjobs.com/privacy.php) for the most accurate reproduction.*
 
 # Real Translator Jobs - Privacy Policy
 
