@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postgrad.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808235025id_/http%3A//www.postgradsolutions.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postgrad.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194832id_/http%3A//www.postgradsolutions.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy — Postgrad Solutions, an education and marketing consultancy specialising in postgraduate recruitment
 
@@ -16,20 +16,20 @@ In addition to your personal information, when you use our website, we also coll
 
 We collect information on our users for a variety of purposes:  
 \- To reply to your enquiries more efficiently through the services we provide.  
-\- To alert you of replies to post you have made in our forums.  
 \- To run competitions.  
 \- To send you news items.  
 \- To inform you of new offers, products and services that may be of interest to you.  
 \- To conduct market research.
 
-We also use information in aggregate form (i.e. your individual details cannot be identified) for the following purposes:  
+We may at times share member information for the following purposes: **NB This will always exclude access to your email address - this will at no time be communicated to a third party.**  
 \- To aid strategic development.  
-\- To manage our relationship with advertisers and  
-\- To audit usage of the site.
+\- To manage our relationship with advertisers  
+\- To check if a student application qualifies for one of our bursaries, and  
+- To audit usage of the site.
 
  **Third parties strict policy – not shared**
 
-We do not provide your details to third parties. All communication comes from Postgrad Solutions.
+We will **never share your email address** details with third parties. All direct communication comes from Postgrad Solutions.  
 
 From time to time we may share aggregated anonymous information about visitors to this site to business partners such as the number of users we have, their average age, location, etc. This information will be shared in a way that ensures your identity is not revealed.
 
