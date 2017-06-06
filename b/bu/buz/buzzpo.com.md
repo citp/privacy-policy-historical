@@ -1,61 +1,43 @@
-> *The following text is extracted and transformed from the buzzpo.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908024227id_/http%3A//buzzpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzpo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144003id_/http%3A//conservativetribune.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BuzzPo
+# Privacy Policy - Conservative Tribune
 
-At BuzzPo.com we are committed to protecting your privacy. Generally, you may visit [www.BuzzPo.com](http://buzzpo.com/) (our “Site”) without giving us any information about yourself. However, there are times when we may need to obtain personal information from you in order to provide certain services that you may request. This Privacy Policy was developed to help you understand what information we collect as well as how we use and safeguard the information you provide to us on our Site. This Privacy Policy may be revised from time to time, so please revisit this page to remain fully informed of our privacy policy.
+**Last Updated 3/14/2017  
+Version 1.3**
 
-###  INFORMATION WE COLLECT:
+If you require additional information or have any questions about our privacy policy, please feel free to contact us by email at contactus@liftablemedia.com.
 
-You can access our home page at [www.BuzzPo.com](http://buzzpo.com/) and browse some areas of our Site without disclosing any personally identifiable information. We do track information provided to us by your browser, including the web site you came from (known as the referring URL), the type of browser you use, the time and date of access, and other information that does not personally identify you.
+At Liftable Media, Inc. (“LMI”), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by LMI and how it is used.
 
-In addition, we gather information about you that is automatically collected by our web server, such as your IP address, domain name and pages that you access. BuzzPo.com may use web server and browser information to individually customize its offerings and presentations if you submit your personal information.
+**Log Files**  
+Like many other Web sites, LMI makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We may also collect personal information, including your name, cell phone number, e-mail address, and certain demographic data, only when you choose to voluntarily provide to us such information, such as by registering, making inquiries regarding our services, requesting breaking news alerts, reporting any problems with our Site, providing us with feedback on our Site, or otherwise.
+We will not disclose your individual identity or personal data to any party.
 
-We do not collect information through “cookies”, but our advertisers may collect cookies when you click through the advertisement to their website. Cookies are small strings of text sent by the site to your browser which are then stored by your browser on your computer’s hard drive. Amongst other things, Advertisers use cookies to understand how you and others are using their site, to identify repeat visitors, and to determine the paths visitors take on their site. They also use cookies to determine whether you visited their site from a particular Internet link or advertisement.
+When we do present information to outside companies it will be in an aggregate fashion, that will prevent the company from identifying you or contacting you.
 
-Most web browsers automatically accept cookies, but it is possible to change your browser setup to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent to you. If your browser is set to reject cookies, the advertiser may not recognize you when you return to their site. The Help section of your browser will tell you how to prevent your browser from accepting cookies”.
+We will retain your information for as long as your account is active or as long as needed to provide you services. If you wish to cancel your account or request that we no longer use your information, please contact us at contactus@liftablemedia.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-When you register we may ask for information such as your name, email address, cellular phone number, and additional information. Once you register with BuzzPo.com and sign in to our services, you may no longer be anonymous to us or our advertisers.
+**Cookies and Web Beacons**  
+LMI does use cookies to store information about visitors’ preferences, record user-specific information on which pages the user accesses or visits, and customize Web page content based on visitors’ browser type or other information that the visitor sends via their browser.
 
-Our Site is a general audience web site and does not knowingly collect personal information from children under the age of 13. By using our site, you represent that you are not under 13 years of age.
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on LMI.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
 
-### Links to Third Party Web Sites:
+**Third Party Advertisers**  
+Some of our advertising partners may use cookies and web beacons on our site.
 
-Our Site may offer links to other web sites, including links embedded in advertisements and links to various news sources. Such links to other websites may have information policies and practices different from ours. In addition, certain companies associated with BuzzPo.com may have their own privacy policies. We do not own or control such companies and web sites, and are not responsible for the privacy policies or practices or the content of web sites that we do not own or control.
+These third-party ad servers or ad networks use technology to display the advertisements and links that appear on LMI. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-### How We Protect Your Information:
+LMI has no access to or control over these cookies that are used by third-party advertisers.
 
-We use industry-accepted technology to protect your data from disclosure to unauthorized third parties. Our server is also protected by a firewall to prevent unauthorized access to any information we may store. Although these measures are typically effective, use of the Internet and related computer systems is inherently vulnerable to unauthorized access or “hacking.” No guarantee can be given that all information you provide to us will not be accessed by unauthorized persons.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. LMI’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-### How We Use Your Information:
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-We collect, retain, and use internally Site visitor information only for legitimate business purposes, including the following: to correspond with you regarding our site or services, to inform you of developments in our company or with our services that we believe may be of interest to you, to send you breaking news alerts, to monitor Site visitor traffic patterns and Site usage, to comply with applicable laws, to enforce our Terms of Use or other agreements, and to protect the rights, property, or safety of BuzzPo.com, our users, and others.
+**Subscription to our Email List**  
+After signing up to receive regular updates from LMI by e-mail, depending on which website you subscribe to, users will begin to receive a brief synopsis of current news events, or other digital content, available on Western Journalism (<http://www.westernjournalism.com/>), Liftable (<http://www.liftable.com/>), Conservative Tribune (<http://conservativetribune.com/>), The Wildcard (<http://www.thewildcard.com/>), and USA Radio Network (<http://www.usaradio.com/>) delivered on a daily or weekly basis. Additionally, users may receive other announcements from LMI. We collect subscriber’s e-mail addresses in order to distribute our updates and announcements and do not otherwise share them with other companies or partners. LMI respects your right to privacy of the personal information you provide us on our site. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and LMI. This policy is intended to explain how your personal information is collected and how it will be treated.
 
-We may also use the information we collect to occasionally e-mail you regarding important functionality changes to the Site or to e-mail you announcements and promotions related to our business, products, and/or services. If you would rather not receive such correspondence, please e-mail us to that effect at [webmaster@BuzzPo.com](mailto:webmaster@BuzzPo.com). If you have provided us more than one e-mail address, please remember to e-mail us from each of the e-mail accounts you have given us.
-
-Except as provided below, we limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-
-We strive to maintain the accuracy of our customer information. We respond promptly to update our database when you tell us your information is not accurate.
-
-### When We May Disclose Your Information:
-
-We may share in aggregate, statistical form non-personal information regarding the visitors to our Site, traffic patterns, and Site usage with our partners, affiliates, investors, or other third parties.
-
-We will disclose information we maintain when required to do so by law or may disclose such information in response to a request from a law enforcement agency or authority. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-
-We believe it is necessary and may share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of BuzzPo.com’s Terms of Use, or as otherwise required by law.
-
-We may transfer information about you if BuzzPo.com is acquired by or merged with another company.
-
-To maintain a site that is free of charge, BuzzPo.com contains advertising. BuzzPo.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad, you may disclose personal information to their website and are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
-
-### Consent:
-
-By using this Site, you consent to our collection and use of personal information you choose to provide to us. We reserve the right, at any time, to modify, alter, or update this statement, and any such modifications, alterations, or updates will be effective upon posting.
-
-### Privacy Questions:
-
-If you have any questions regarding this Privacy Policy, please them to us email at [webmaster@BuzzPo.com](mailto:webmaster@BuzzPo.com). BuzzPo.com may also be contacted directly at the following address: E-mail for notice: [webmaster@BuzzPo.com](mailto:webmaster@BuzzPo.com)
-
-This Privacy Policy is revised as of February 4, 2008 and may be modified from time to time.
+Users can choose to unsubscribe from any of LMI’s email lists at any time by following the unsubscribe procedures found at the bottom of each e-mail.
