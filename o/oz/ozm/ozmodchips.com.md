@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozmodchips.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122062104id_/http%3A//www.ozmodchips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozmodchips.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040221id_/http%3A//www.ozmodchips.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : OzModChips.com, Australian Supplier of x360k3y/xk3y, R4DS, Gateway3DS, Sky3DS+ and Cronus Max Plus
 
