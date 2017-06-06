@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011132id_/http%3A//www.intermarkets.net/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041711id_/http%3A//www.intermarkets.net/legal/index.html) for the most accurate reproduction.*
 
 # Intermarkets Privacy Policy - Intermarkets, Inc.
+
+From the Intermarkets Blog: [**And the traffic goes to…**](http://www.intermarkets.net/blog/and-the-traffic-goes-to/)
 
 Revised: May 4, 2015
 
