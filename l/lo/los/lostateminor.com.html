@@ -1,11 +1,15 @@
-<!--The following is the downloaded HTML source of the lostateminor.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120214644id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lostateminor.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606045708id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
         <title>Privacy policy - Lost At E Minor: For creative people</title>
+
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
+                <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://tags.crwdcntrl.net/c/10551/cc_af.js"></script>
+        
         <meta property="fb:pages" content="96180008971">
 
         <link rel="dns-prefetch" href="http://cdn0.lostateminor.com">
@@ -19,6 +23,10 @@
         <link rel="dns-prefetch" href="http://partner.googleadservices.com">
         <link rel="dns-prefetch" href="http://www.facebook.com">
         <link rel="dns-prefetch" href="http://www.youtube.com">
+
+        
+        <!-- AOL VIDEO DETECTION SCRIPT -->
+        <script type="text/javascript" language="Javascript" async="" src="http://redir.adap.tv/redir/javascript/lightintegration.js"></script>
 
         
         
@@ -46,7 +54,7 @@
 
 <link rel="dns-prefetch" href="//www.lostateminor.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="main_css-css" href="http://cdn0.lostateminor.com/wp-content/themes/eminor-2015/style.1479184345.css" type="text/css" media="all">
+<link rel="stylesheet" id="main_css-css" href="http://cdn0.lostateminor.com/wp-content/themes/eminor-2015/style.1490076696.css" type="text/css" media="all">
 <link rel="https://api.w.org/" href="http://www.lostateminor.com/wp-json/">
 <link rel="alternate" type="application/json+oembed" href="http://www.lostateminor.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.lostateminor.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.lostateminor.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.lostateminor.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -69,7 +77,7 @@
 
         <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.lostateminor.com/feed/">
 
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+        <script type="text/javascript">
                 em_is_done = false; // Check used within the post ajax call
         em_tag = '';
         em_next_url = 'http://www.lostateminor.com/page/';
@@ -171,11 +179,18 @@
         }());
         </script>
 
+        <script type="text/javascript" src="http://cdn0.lostateminor.com/wp-content/themes/eminor-2015/js/lotame_audiences.js"></script>
+        <script type="text/javascript">
+        Lotame_Audiences.fetchAndTarget();
+        </script>
+        <script type="text/javascript" src="http://cdn0.lostateminor.com/wp-content/themes/eminor-2015/js/lazy-ads.js"></script>
+
+
         <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
         
                 
         <script type="text/javascript">
-            var gptadslots=[];
+            // var gptadslots=[];
             var googletag = googletag || {};
             googletag.cmd = googletag.cmd || [];
             (function(){ var gads = document.createElement('script');
@@ -186,35 +201,53 @@
                 node.parentNode.insertBefore(gads, node);
             })();
         </script>
-
+        <script>
+            //Browser height targeting setter
+            browserWidth = window.innerWidth;
+            var screensize = "low";
+            if(!browserWidth) {
+                screensize = "low";
+            } else if(browserWidth > 1409) {
+                screensize = "high";
+            } else {
+                screensize = "low";
+            }
+        </script>
         <script type="text/javascript">
+            var gptAdSlots = {};
+            var gptAdSlotsOnScroll = {};
+
             googletag.cmd.push(function() {
 
                 //Adslot 1 declaration
-                gptadslots[1]= googletag.defineSlot('/1005256/laem-billboard-1', [[728,90],[970,66],[970,90],[970,250],[990,66],[990,250]],'billboard-1').setTargeting('pos',['top']).addService(googletag.pubads());
+                gptAdSlots['billboard-1'] = googletag.defineSlot('/1005256/laem-billboard-1', [[728,90],[970,66],[970,90],[970,250],[990,66],[990,250]],'billboard-1').setTargeting('browserSize',screensize).setTargeting('pos',['top']).addService(googletag.pubads());
+
                 //Adslot 2 declaration
-                                gptadslots[2]= googletag.defineSlot('/1005256/laem-halfpage-1', [[300,250],[300,600]],'halfpage-1').setTargeting('pos',['top']).addService(googletag.pubads());
+                                gptAdSlots['halfpage-1']= googletag.defineSlot('/1005256/laem-halfpage-1', [[300,250],[300,600]],'halfpage-1').setTargeting('browserSize',screensize).setTargeting('pos',['top']).addService(googletag.pubads());
                 //Adslot 3 declaration
-                gptadslots[3]= googletag.defineSlot('/1005256/laem-mrec-1', [300,250],'mrec-sticky').setTargeting('pos',['middle']).addService(googletag.pubads());
+                gptAdSlots['mrec-sticky']= googletag.defineSlot('/1005256/laem-mrec-1', [300,250],'mrec-sticky').setTargeting('browserSize',screensize).setTargeting('pos',['middle']).addService(googletag.pubads());
+                gptAdSlotsOnScroll['mrec-sticky'] = true;
                 //Adslot 1x1 declaration
-                gptadslots[4]= googletag.defineSlot('/1005256/laem-1x1', [1,1],'1x1').setTargeting('pos',['1x1']).addService(googletag.pubads());
+                gptAdSlots['1x1']= googletag.defineSlot('/1005256/laem-1x1', [1,1],'1x1').setTargeting('browserSize',screensize).setTargeting('pos',['1x1']).addService(googletag.pubads());
                 //Adslot 5 declaration
-                gptadslots[5]= googletag.defineSlot('/1005256/laem-billboard-2', [[728,90],[970,66],[970,90],[970,250],[990,66],[990,250]],'billboard-2').setTargeting('pos',['middle']).addService(googletag.pubads());
-                //Adslot 6 declaration
-                gptadslots[6]= googletag.defineSlot('/1005256/laem-mrec-2', [300,250],'mrec-2').setTargeting('pos',['bottom']).addService(googletag.pubads());
-                //Adslot 7 declaration
-                gptadslots[7]=googletag.defineSlot('/1005256/laem-halfpage-2', [300,600], 'halfpage-2').setTargeting('pos',['bottom']).addService(googletag.pubads());
-                //Adslot Secondary 1x1 declaration
-                gptadslots[8]= googletag.defineSlot('/1005256/laem-temp-1x1-two', [1,1],'secondary1x1').addService(googletag.pubads());
+                gptAdSlots['billboard-2']= googletag.defineSlot('/1005256/laem-billboard-2', [[728,90],[970,66],[970,90],[970,250],[990,66],[990,250]],'billboard-2').setTargeting('browserSize',screensize).setTargeting('pos',['middle']).addService(googletag.pubads());
+                gptAdSlotsOnScroll['billboard-2'] = true;
+                                //Adslot 7 declaration
+                // gptAdSlots['halfpage-2']=googletag.defineSlot('/1005256/laem-halfpage-2', [300,600], 'halfpage-2').setTargeting('pos',['bottom']).setTargeting('browserSize',screensize).addService(googletag.pubads());
 
                 googletag.pubads().enableSingleRequest();
-                googletag.pubads().setTargeting('Category',["Other"]).setTargeting("posttype","Other");
+                googletag.pubads().setTargeting('Category',["Other"]).setTargeting("posttype","Other").setTargeting('browserSize',screensize);
                 googletag.pubads().collapseEmptyDivs(true);
                 googletag.pubads().setCentering(true);
                 googletag.pubads().enableAsyncRendering();
                 googletag.pubads().disableInitialLoad(); // Ads are initialised in main.js!
                 googletag.enableServices();
             });
+        </script>
+
+        <script type="text/javascript">
+          Lazy_Ads_Loader.gptAdSlotsOnScroll = gptAdSlotsOnScroll;
+          Lazy_Ads_Loader.gptAdSlots = gptAdSlots;          
         </script>
 
         <!-- UA Set & Debug -->
@@ -251,8 +284,8 @@
 
                   
     <!--
-	generated in 0.252 seconds
-	50583 bytes batcached for 300 seconds
+	generated in 0.245 seconds
+	51957 bytes batcached for 300 seconds
 	Host:conversant-avmh-web-01
 -->
 <style type="text/css"></style></head>
@@ -286,7 +319,7 @@
             <li>
               <a href="http://www.facebook.com/lostateminor" target="_blank">
                 <i class="icon-facebook"></i>
-                <span class="header-list-tooltip">505.5 K</span>
+                <span class="header-list-tooltip">512.6 K</span>
                 <span class="sr-only">Facebook</span>
               </a>
             </li>
@@ -294,7 +327,7 @@
             <li>
               <a href="http://twitter.com/lostateminor" target="_blank">
                 <i class="icon-twitter"></i>
-                <span class="header-list-tooltip">26.9 K</span>
+                <span class="header-list-tooltip">26.6 K</span>
                 <span class="sr-only">Twitter</span>
               </a>
             </li>
@@ -406,6 +439,13 @@
     <ul class="container">
         <li><a href="http://www.lostateminor.com/trending/">Trending</a></li><li><a href="http://www.lostateminor.com/category/art/">Art</a></li><li><a href="http://www.lostateminor.com/category/design/">Design</a></li><li><a href="http://www.lostateminor.com/category/photography/">Photography</a></li><li><a href="http://www.lostateminor.com/category/places/">Travel</a></li><li><a href="http://www.lostateminor.com/category/music/">Music</a></li><li><a href="http://www.lostateminor.com/category/tech/">Tech</a></li><li><a href="http://www.lostateminor.com/category/news/">News</a></li><li><a href="http://www.lostateminor.com/category/exhale/">Exhale</a></li><li><a href="http://www.eminor.tv/">eminor.tv</a></li>    </ul>
   </nav>
+
+    <!-- /1005256/laem-1x1 -->
+    <div id="1x1" style="font-size:0px; line-height:0px;">
+      <script type="text/javascript">
+          googletag.cmd.push(function() { googletag.display('1x1'); });
+      </script>
+    </div>
 
         
     <!-- /header.php -->
@@ -561,25 +601,24 @@ This Privacy Policy is effective as of 27 March 2014.</p>
       <li>
         <a class="button-round-facebook" href="https://www.facebook.com/lostateminor">
           <i class="icon-facebook"></i>
-          <span>505.5k</span>
+          <span>512.6k</span>
         </a>
       </li>
       <li>
         <a class="button-round-twitter" href="https://twitter.com/lostateminor">
           <i class="icon-twitter"></i>
-          <span>26.9k</span>
+          <span>26.6k</span>
         </a>
       </li>
       <li>
         <a class="button-round-pinterest" href="https://www.pinterest.com/lostateminor/">
           <i class="icon-pinterest"></i>
-          <span>16.3k</span>
+          <span>17.9k</span>
         </a>
       </li>
       <li>
         <a class="button-round-instagram" href="https://instagram.com/lostateminor">
           <i class="icon-instagram"></i>
-          <span>k</span>
         </a>
       </li>
     </ul>
@@ -665,7 +704,7 @@ This Privacy Policy is effective as of 27 March 2014.</p>
           </a>
 
           <div class="newsletter-form">
-            <h3>Join 27,774 other culture seekers</h3>
+            <h3>Join 26,044 other culture seekers</h3>
 
             <form action="http://lostateminor.createsend.com/t/y/s/uddrk/" method="post" id="subForm" _lpchecked="1">
               <label class="sr-only" for="#footer-newsletter-input">Your email</label>
@@ -694,30 +733,22 @@ This Privacy Policy is effective as of 27 March 2014.</p>
           <li><a href="http://www.lostateminor.com/contribute/">Contribute</a></li>
           <li><a href="http://www.conversant-media.com/careers/">Jobs</a></li>
           <li><a href="http://www.lostateminor.com/contact-us">Contact</a></li>
+          <li><a href="http://www.lostateminor.com/lost-e-minors-sponsored-content-policy/">Sponsored Content Policy</a></li>
           <li><a href="http://feeds.feedburner.com/LostAtEMinor" rel="nofollow">RSS</a></li>
         </ul>
 
         <ul>
-          <li>© <a href="http://www.lostateminor.com">Lost At E Minor</a> 2016, All Rights Reserved</li>
+          <li>© <a href="http://www.lostateminor.com">Lost At E Minor</a> 2017, All Rights Reserved</li>
           <li><a href="http://www.lostateminor.com/privacy-policy/">Privacy Policy</a></li>
           <li><a href="http://www.lostateminor.com/image-attribution-policy/">Image Attribution </a></li>
         </ul>
       </nav>
-
-      <!-- /1005256/laem-1x1 -->
-      <div id="1x1">
-          <script type="text/javascript">
-              googletag.cmd.push(function() { googletag.display('1x1'); });
-          </script>
-      </div>
-      <div id="secondary1x1">
-        <script type="text/javascript">
-              googletag.cmd.push(function() { googletag.display('secondary1x1'); });
-          </script>
-      </div>
-            <script type="text/javascript" src="http://cdn0.lostateminor.com/wp/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://cdn0.lostateminor.com/wp-content/themes/eminor-2015/js/laem_plugins.min.1479185790.js"></script>
+      
+            <script type="text/javascript" src="http://cdn0.lostateminor.com/wp/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://cdn0.lostateminor.com/wp-content/themes/eminor-2015/js/laem_plugins.min.1496376730.js"></script>
       <script async="" type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+
+      
     </footer>
 
   
