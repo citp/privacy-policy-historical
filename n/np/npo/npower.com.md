@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221231731id_/http%3A//www.npower.com/home/about-npower/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165719id_/http%3A//www.npower.com/home/about-npower/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - About npower - npower
 
@@ -70,7 +70,7 @@ Please note that we reserve the right to access and disclose individually identi
 
 ...you may opt out at a later date. You have a right at any time to stop us from contacting you for marketing purposes or giving your information to other members of our group for marketing purposes.
 
-If you no longer wish to be contacted for marketing purposes please email [marketing.suppressions@npower.com](mailto:marketing.suppressions@npower.com).
+If you no longer wish to be contacted for marketing purposes please get in touch with us. Or if you have an online account, you can change your consent preferences in your account settings.
 
 ### How can you find out what personal information we hold about you?
 
