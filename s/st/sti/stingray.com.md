@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225213346id_/http%3A//www.stingray.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030333id_/http%3A//www.stingray.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,7 +88,10 @@ CONTACT STINGRAY ABOUT PRIVACY
 If you have questions about the privacy aspects of Stingray's products or services or would like to make a complaint, to request access to the personal information Stingray holds about you, to modify or correct such personal information or if you wish that Stingray discontinues the use of your personal information, please do so through the "[Contact Us](https://web.archive.org/contact-us)" section or link on Stingray's websites, web players, mobile applications, or other applications, when such link is available, or please contact Stingray at:
 
   * If you are located in America: Customer Support, Stingray Digital Media Group, 730 Wellington Street, Montreal, Quebec, Canada H3C 1T4, tel: 1-514-664-1244, fax: 1-514-664-1143, e-mail: [privacy@stingray.com](mailto:privacy@stingray.com?subject=Stingray%20Privacy%20-%20America).
-  * If you are located in Europe: Customer Support, Stingray Digital International Limited, 83 Blackfriars Road, London, England, United Kingdom SE1 8HA, tel: +44 (0)20 3141 9130, fax: +44 (0)20 3141 9131, email: [privacy@stingray.com](mailto:privacy@stingray.com?subject=Stingray%20Privacy%20-%20Europe)
+  * If you are located in Europe: Customer Support, Stingray Digital International Limited, 
+
+11 Ronald’s Road and 25 Horsell Road, London N5 1XL, United Kingdom, tel: +44 (0)20 3141 9130, fax: +44 (0)20 3141 9131, email: [privacy@stingray.com](mailto:privacy@stingray.com?subject=Stingray%20Privacy%20-%20Europe)
+
 
 
 
