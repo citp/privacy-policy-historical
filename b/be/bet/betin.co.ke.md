@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betin.co.ke privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125201932id_/https%3A//web.betin.co.ke/pages/SportFooter_Privacy/guest) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betin.co.ke privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214911id_/https%3A//web.betin.co.ke/pages/SportFooter_Privacy/guest) for the most accurate reproduction.*
 
 # Betin
 
