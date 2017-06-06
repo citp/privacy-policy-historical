@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531233607id_/https%3A//www.adairs.com.au/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201757id_/http%3A//www.adairs.com.au/privacy-security-policy) for the most accurate reproduction.*
 
-# Privacy & Security Policy | Adairs
+# Privacy & Security Policy
 
 **Introduction**  
 At Adairs, we recognise the importance of protecting your personal information. We are also subject to a range of laws including the Privacy Act, which imposes regulations for the collection, use and disclosure of personal information, plus other matters including data quality and security, openness, access and correction. This document sets out our policy on the handling of personal information.
