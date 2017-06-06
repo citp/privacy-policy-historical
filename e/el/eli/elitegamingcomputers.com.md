@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the elitegamingcomputers.com privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915062441id_/http%3A//elitegamingcomputers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitegamingcomputers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172429id_/https%3A//elitegamingcomputers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Elite Gaming Computers
+# Privacy Policy
 
 **Privacy Policy for  **elitegamingcomputers.com
 
-_Effective Date: June 27, 2013_
+ _Effective Date: June 27, 2013_
 
 At EliteGamingComputers.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties. Okay, here is what you need to know.
 
