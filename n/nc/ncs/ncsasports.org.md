@@ -1,179 +1,249 @@
-> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120030015id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104510id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Play Sports in College
 
-**Privacy Policy**
+Effective February 16, 2017  
 
-Effective Date: November 17, 2015 
 
-(our Privacy Policy effective prior such date may be found here [http://www.ncsasports.org/privacy-policy-previous](https://web.archive.org/privacy-policy-previous))
+Welcome to the digital services offered by National Collegiate Scouting Association, LLC (“NCSA”, “we”, “us” or “our”). NCSA respects your privacy. This Privacy Policy tells you how we will use the information entrusted to us when you visit https://www.ncsasports.org and any other online site, mobile application, service, or product that links to this Privacy Policy (collectively the “Services”). Unless otherwise stated in a separate agreement between you and NCSA that governs your use of NCSA’s web and/or mobile based application software, this Privacy Policy also applies to the content that customers store on our system, including any personal information.
 
-**INTRODUCTION**
+**Collection of Information** **  
+**
 
-Welcome to our website, which is owned and operated by National Collegiate Scouting Association, LLC, (“we,” “us,” “our” or "NCSA Athletic Recruiting") located at 1415 North Dayton Street, Fourth Floor, Chicago, Illinois 60622. When you use our website, you are agreeing to be bound by this Privacy Policy ("Privacy Policy") and by our [Website Terms and Conditions of Use ](https://web.archive.org/terms-and-conditions-of-use)(collectively, the "Terms and Conditions"). If you do not agree with the Terms and Conditions, please do not use our website. 
+**Use of Information**
 
-PLEASE READ THE PRIVACY POLICY CAREFULLY BEFORE ACCEPTING IT. IT CONTAINS IMPORTANT INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS, AS WELL AS LIMITATIONS AND EXCLUSIONS THAT MAY APPLY TO YOU. THE PRIVACY POLICY IS SUBJECT TO CHANGE.
+**Sharing of Information**
 
-**OUR COMMITMENT TO PROTECTING YOUR PRIVACY**
+**Third-Party Functionality**
 
-NCSA Athletic Recruiting is committed to respecting your privacy. We recognize the need for appropriate protection and management of the personally identifiable information (or "Personal Information," as discussed below) you may share with us through this website, and we have established this Privacy Policy so you understand the care with which we intend to treat your Personal Information, how we may use your Personal Information and the choices you have about the way your Personal Information is used. To make this Privacy Policy easy to find, we make it available on our homepage and at every point where Personal Information may be collected.
+**Protection of Information**
 
-This Privacy Policy provides notice regarding our collection and use of Personal Information. You may choose whether or not to provide Personal Information to us. If you choose not to provide the requested Personal Information, you can still visit most parts of our website, but you may be unable to access certain options, offers and services that involve our interaction with you.
+**Children’s Information**
 
-**CHANGES TO THIS PRIVACY POLICY**
+**Non-U.S. Users**
 
-Our business may change from time to time. As a result, at times, it may be necessary for us to make changes to this Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes. Each time you visit this website or provide us with information, you are accepting the practices described in this Privacy Policy as in effect at that time. This Privacy Policy may be updated or modified from time to time for any reason without prior notice. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our website or by emailing you. **Your continued use of this website after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. If you do not agree to this Privacy Policy you may not access or otherwise use this website or participate in our services. This Privacy Policy was last updated on the date indicated below.**
+**Changing or Deleting Your Personal Information**
 
-**CHANGING OUR PRIVACY POLICY FOR PREVIOUSLY GATHERED INFORMATION**
+**Targeted Advertising**
 
-If at any point we decide to use particular Personal Information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days’ notice on this website. Please note that we will continue to have the right to change our Privacy Policy and practices, and how we use your Personal Information, without notice, as described in the preceding paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our website and this Privacy Policy to check for any changes.
+**Cookies, Web Beacons, and Similar Technologies**
 
-**WHAT IS PERSONAL INFORMATION?**
+**Your California Privacy Rights**
 
-"Personal Information" means personally identifiable information, in other words, any information that may be used to identify a specific person, such as: first and last name, home or other physical address, email address, other contact information (whether work or home), date of birth, scholastic information (such as school, class/year, class rank, grade point average, awards/honors and extracurricular activities), athletic information (such as sports, positions, awards/honors and records), physical traits and characteristics (such as height, weight and build) and similar information. This Privacy Policy applies to all Personal Information collected or submitted through NCSA Athletic Recruiting's website.
+**Do Not Track Signal**
 
-**PROTECTING CHILDREN'S PRIVACY**
+**Links to Other Websites**
 
-**OUR WEBSITE IS NOT DIRECTED TO, OR INTENDED FOR, CHILDREN UNDER 13 YEARS OF AGE.** NCSA Athletic Recruiting understands that protecting the privacy of young children is important. For that reason, we never collect or maintain Personal Information through our website from users we actually know are under 13 years of age, and no part of our website is designed to attract users under 13 years of age. No Personal Information should be submitted through our website by users under 13 years of age. If a user under 13 years of age submits Personal Information to our website, we delete such Personal Information as soon as we discover it was provided by a user under the age of 13 and we do not use it for any purpose. If NCSA Athletic Recruiting were to knowingly collect Personal Information from users under 13 years of age, we would do so in accordance with Children's Online Privacy Protection Act and modify this Privacy Policy accordingly. We encourage parents to take an active role in their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet. 
+**Changes to this Privacy Policy**
 
-**IF YOU ARE UNDER 13 YEARS OF AGE, OR IF YOU ARE THE PARENT OR LEGAL GUARDIAN OF A CHILD UNDER 13 YEARS OF AGE, PLEASE DO NOT SUBMIT ANY PERSONAL INFORMATION TO NCSA ATHLETIC RECRUITING THROUGH OUR WEBSITE. INSTEAD, PLEASE CONTACT NCSA ATHLETIC RECRUITING AT (888) 333-6846 AND ASK TO SPEAK WITH ONE OF OUR RECRUITING COORDINATORS.**
+**Questions and Contact Information**
 
-**USE OF OUR WEBSITE AND COLLECTION OF PERSONAL INFORMATION**
+**Collection of Information**
 
-In general, you may visit and use NCSA Athletic Recruiting's website without telling us who you are and without revealing any Personal Information about yourself. However, you may be asked to provide Personal Information, and we may collect and maintain your Personal Information, if you request that we contact you, if you subscribe to email newsletters or our similar communications, if you apply or register to receive our services or if you wish to participate in or receive other products, services or information through our website. You can decline to provide your Personal Information to us, in which case you may not be able to access certain parts of our website and we may not be able to provide certain services to you.
+We collect or receive the following general types of information when you use the Services:
 
-We may collect Personal Information from you through our website in various ways, such as by asking you specific questions, by permitting you to communicate directly with us via e-mail or feedback forms or by providing online registration forms, questionnaires or other materials which solicit Personal Information.
+**Information You Provide Directly**. You may provide information directly to us through the Services in several different ways. For example, you may respond to specific questions, communicate with us via email or feedback forms, complete online registration forms or questionnaires, and subscribe to email newsletters or other similar communications. The types of information you may provide directly include the following, as applicable:
 
-Personal Information submitted on this website primarily consists of three sub-categories: Public Information, Semi-Public Information, and Private Information.
+  * Name;
 
-_Public Information_. “Public Information” is Personal Information that you provide that is available to anyone on this website. This includes, but is not limited to, data such as your full name, graduation year, sport, athletic information (including sport and position), height and weight, age, current school, pictures, and videos and other information you make available on your public recruiting profile. We or others may freely use this data. . **If you choose to submit content to any public area of this website, including your public recruiting profile, then such content will be considered Public Information and will not be subject to the privacy protections set forth in this Privacy Policy.**
+  * Street address;
 
-_Semi-Public Information_. “Semi-Public Information” is Personal Information that you provide that is available to certain other registered users of this website and is required from all registered users. This includes, but is not limited to, your postal address, phone number, email address and academic information (including grade point average, awards/honors and extracurricular activities).
+  * Email address;
 
-_Private Information_. “Private Information” is Personal Information that you provide that we do not share with other Service users. This includes, but is not limited to, your password, privacy settings, credit card number, and billing and shipping information.
+  * Telephone number;
 
-**HOW WE MAY USE OR SHARE YOUR PERSONAL INFORMATION**
+  * Date of birth/age;
 
-The most important benefit of using this website and our services is the ability to proactively gain exposure and connect to individuals, institutions and organizations that can assist with your collegiate recruiting and admission process. Our website may also provide opportunities for you and other users of NCSA Athletic Recruiting to connect with each other socially and to view each other’s profiles. To achieve this, the Personal Information you provide may be shared with other users and/or select third parties as described in this Privacy Policy.
+  * Height/weight;
 
-A core function of this website is connecting users with college coaches and other users, so sufficient information needs to be presented to help each side to decide if it’s worth making a connection. For example, registered college coaches can always see a user’s full contact information and academic information. For college coaches, this means that athletes can see which school you are associated with, and information you provide about yourself, your team, and your college or university in your profile, as well as certain actions you take on this website.
+  * Gender;
 
-Therefore, when you apply or register through our website to receive NCSA Athletic Recruiting's services, you are agreeing that NCSA Athletic Recruiting may share your Personal Information with other users and with third parties as necessary to provide our services to you (such as when a student-athlete's Personal Information is provided to a college coach or athletic director for evaluation).
+  * Photograph;
 
-In addition to the foregoing, NCSA Athletic Recruiting may use and share your Personal Information as follows:
+  * Occupation;
 
-  * To provide our services to you.
+  * Athletic information ( _e.g_., sport and position);
 
-  * To respond to communications, inquiries and requests from you, such as responding to an email you send to us.
+  * School;
 
-  * To send you newsletters, as well as other advertising, marketing and promotional materials and communications.
+  * Graduation year;
 
-  * To inform you of products, services and promotions for NCSA Athletic Recruiting or third parties.
+  * Academic information ( _e.g_., GPA, SAT/ACT score, awards/honors, and extracurricular activities);
 
-  * To offer you information regarding certain products and services of our partners, sponsors, advertisers and affiliates.
+  * Payment information ( _e.g._ , credit card number and debit card number);
 
-  * To conduct transactions with you through our website.
+  * User ID;
 
+  * Password and;
 
+  * Other relevant information.
 
+  * **Information We Collect Automatically**. We collect certain information about you and your computer automatically when you use the Services. Automatically collected information may include: 
 
-Additionally, NCSA Athletic Recruiting may use and share your Personal Information with, and you may also receive information from, nonprofit and for profit companies and organizations and government agencies, including, but not limited to, (i) educational products and services (e.g. student loans, financial aid, college admissions and tutorial services, and extra-curricular enrichment and recognition programs); (ii) career, employment, and military opportunities; (iii) athletic apparel and equipment companies; and (iv) camps. Except as set forth herein, NCSA Athletic Recruiting does not sell your information to commercial marketers offering to sell you non-education and/or non-sports related products and services, unless you choose to opt in to these services by responding to an advertisement.
+    * The type of web browser and operating system you have used to access the Services
 
-We will not otherwise share your Personal Information with any other third parties, without your consent, except in the following circumstances:
+    * Your IP address (which is a number automatically assigned to your computer when you access the Internet and can be used to derive your general geographic location)
 
-  * To help us deliver programs, products, information and services, and to conduct transactions through our website or to support the business operations of our website, when our third party vendors or suppliers (such as transaction processors, financial institutions, application service providers, web hosting providers, Internet service providers and technical support providers) may receive your Personal Information in connection with providing their services to NCSA Athletic Recruiting. (However, such third parties are only authorized to use your Personal Information for the purpose of providing their services to NCSA Athletic Recruiting and are required by us to treat your Personal Information in accordance with this Privacy Policy.) 
+    * Your device information (which may include information about the mobile device you use to access our mobile application, including the hardware model, operating system and version, unique device identifiers, and mobile network information)
 
+    * The website you visited before you came to the Services and 
 
+    * Information about the content and webpages you view, clickstream patterns, dates and times that the Services are accessed, and the features you access on the Services that we collect using cookies, Web beacons, and similar technologies.
 
-  * Certain actions you or others take on our website may indicate ways in which we or our partners can further assist you in your recruiting process, and we may use your Personal Information to do so. For example, if we believe you would benefit from an introduction to a particular partner, we may initiate an introduction. If you do not wish to have your Personal Information shared based upon specific actions you have taken on our website, go to your privacy settings and disable this setting, if present. If we are not currently contemplating connecting you with our partners based on your specific actions, you may not see such a setting. Please note that opting out of these communications will not otherwise limit our ability to use your Personal Information as otherwise permitted in this Privacy Policy.
+  * **Social Networking Information** **.** If applicable, you log in to the Services through a social networking account ( _e.g._ , Facebook), we may collect information about you from that social networking account, including your name, email address, birthday, profile photograph, and other information associated with your social networking account.
 
+  * **Information from Commercially Available Sources**. We may receive additional information about you from other sources, such as data cooperatives and public databases.
 
 
-  * In the event that we are party to a business transition, such as a merger, divestiture, acquisition, liquidation or sale of all or a portion of its assets, your Personal Information, in most instances, will be part of the assets transferred. 
 
 
+We may combine all of the information we collect or receive about you and use or disclose it in the manner described in this Privacy Policy. 
 
-  * To respond to law enforcement requests or, where required by applicable laws, court orders or government regulations.
+**  
+Use of Information**
 
+We use the information we collect and receive for the following general purposes: 
 
+  * To provide you with the Services, products, and information you request and with legal notices or information about changes to this Privacy Policy or our Terms and Conditions of Use;
 
+  * To perform analytics to continually improve the Services and enhance your experience with the Services;
 
-Additionally, you may "opt out" of receiving promotional communications from NCSA Athletic Recruiting either by choosing to "opt out" where such option is made available on our website or at any time by contacting us at the address, phone number or email address shown at the end of this Privacy Policy. We endeavor to process such "opt out" requests within ten (10) days of receipt.
+  * To provide you (and enable our partners to provide you) with promotional materials, relevant content and advertisements, surveys, newsletters, questionnaires, and other materials; 
 
-Please note that changing your information through the your user profile settings, or otherwise opting out of receipt of communications from NCSA Athletic Recruiting, will only change or delete the data for purposes of future activities on our website and for managing future communications from NCSA Athletic Recruiting. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided in this Privacy Policy. If you have any questions or concerns about this Privacy Policy, the practices of our website, or dealings with our website, please feel free to contact us at: [rwells@ncsasports.org](mailto:rwells@ncsasports.org). Opt outs may be device-specific, so please consult the help section of your web browser or settings on each device.
+  * To offer you information regarding certain products and services of our partners, sponsors, advertisers, and affiliates;
 
-If you do not want your Personal Information shared with any third party who may use such information for direct marketing purposes, then you may opt out of such disclosures by sending an email to us at [OptOut@ncsasports.org](mailto:OptOut@ncsasports.org).
+  * To manage your account, perform billing and payment activities, and update you on your account status (including confirmation of registrations or notices of subscription expiration);
 
-**COLLECTION AND USE OF NON-PERSONAL INFORMATION**
+  * To respond to your requests, questions, and comments;
 
-NCSA Athletic Recruiting also may collect and maintain information from you that is not Personal Information. Such non-Personal Information may be used for many purposes, including marketing, demographic and/or statistical purposes, and we may share such non-Personal Information with third parties. We may use aggregate non-Personal Information to better design our website, and we may share such information with our partners, sponsors, advertisers and affiliates. For example, we may tell an advertiser that "X" number of individuals visited a certain area on our website, or that "Y" number of men and "Z" number of women filled out our registration form, but we would not disclose any Personal Information that could be used to identify those individuals.
+  * As we believe is necessary to protect our rights and the rights of others, including by enforcing our Terms and Conditions of Use; and
 
-**USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES**
+  * For any other purpose disclosed to you at the time we collect your information, or pursuant to your consent. 
 
-NCSA Athletic Recruiting's website may use "cookies" and other tracking technologies. A "cookie" is a small text file stored on your computer that may be used, for example, to collect information about website activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a user.
 
-Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you may be unable to use those services or engage in activities on our website that require the placement of cookies.
 
-Tracking technologies may record information such as Internet domain and host names, Internet protocol (IP) addresses, browser software and operating system types, clickstream patterns and dates and times that our website is accessed.
 
-Our use of cookies and other tracking technologies allows us to improve our website and your experience using our website. We may use this information to understand how our users navigate our website, and to determine trends, statistics and common traffic patterns, including what website you came from before visiting our website.
+You may “opt out” of receiving promotional communications from NCSA by contacting us at the email address shown at the end of this Privacy Policy. Please note that changing your information through your user profile settings, or otherwise opting out of receipt of communications from NCSA, will only change or delete the data for purposes of future activities on our Services and for managing future communications from NCSA.
 
-**USE OF IP ADDRESSES**
+**  
+Sharing of Information**
 
-An IP address is a number that is assigned automatically to your computer whenever you use the Internet. Web servers automatically identify your computer by its IP address. NCSA Athletic Recruiting may collect IP addresses for system administration, to report aggregate information to our advertisers, affiliates and partners and to audit the use of our website. When users request pages from our website, our servers log the users' IP addresses. We typically do not link IP addresses to Personal Information. This means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a visitor if required by law, when disclosure is required to maintain the security and integrity of our website or to protect any user's security or the security of other persons, consistent with applicable laws.
+We may share your information with the following entities: 
 
-**SECURITY**
+      * **Colleges and Other Users of the Services** **.** We may share your information directly with educational institutions, college coaches, and athletic directors. The Services may also provide opportunities for you and other users to connect with each other socially and to view each other’s profiles. To achieve this, certain information you provide may be shared with other users of the Services.
 
-Due to the inherent open nature of the internet, no transmission over the Internet can be guaranteed to be 100% secure. As a result of this and other factors beyond our control, , we cannot ensure or otherwise warrant the security of any Personal Information or other information you provide to us through our website. Therefore, you assume that risk by using our website. Where we have given you (or where you have chosen) a password for access to certain parts of our website, you are responsible for keeping this password confidential. We ask that you not share your password with anyone. We are not responsible for circumvention of any privacy settings or security measures contained on our website
+      * **Affiliates**. We may share your information with our affiliates—companies that control, are controlled by, or are under common control with, NCSA. These entities may use your information to make predictions about your interests and may provide you with offers, promotional materials, advertisements, and other materials. 
 
-**ACCESS/ACCURACY OF PERSONAL INFORMATION**
+      * **Partners** **.** We may share your information with partners who provide products or services that may be of interest to you or student-athletes, including: (i) educational products and services ( _e.g._ , colleges, student loans, financial aid, college admissions and tutorial services, and extra-curricular enrichment and recognition programs); (ii) career, employment, and military opportunities; (iii) products of consumer focused companies; (iv) sports related activities; and (v) other relevant products and services. These partners may use your information to make predictions about your interests and may provide you with offers, promotional materials, advertisements, and other materials. We also may share your information with partners, such as Chegg, Cappex, and NRCCUA, that share your information with college admissions departments. 
 
-To the extent that you provide us with Personal Information, we wish to maintain accurate Personal Information. Where we collect Personal Information from you on our website, our goal is to provide a means for updating or correcting that Personal Information. You can access and update your Personal Information by logging into your online account and making the appropriate updates. If you have forgotten your login credentials you can retrieve those via our automated password retrieval system.
+      * **Service Providers**. We also may share your information with entities that provide services to us, including companies that provide payment processing, shipping, web analytics, data processing, web hosting, technical support, advertising, email distribution, and other services. 
 
-You may also update your Personal Information by contacting us at the address, phone number or email address shown at the end of this Privacy Policy. To protect your privacy and security, we will also take reasonable steps to verify your identity before making updates or corrections.
+      * **Other Parties When Required by Law or as Necessary to Protect Our Services**. There may be instances when we disclose your information to other parties in order to:
 
-**LINKS TO OTHER WEBSITES**
+        * protect the legal rights of NCSA, its affiliates, and of the users of the Services;
 
-Our website may contain links or references to third party owned and/or operated websites that we believe might be of interest to users, including websites of our partners, sponsors, advertisers and affiliates. We do not control the content of these third party websites. These third party websites may send you their own cookies, collect data or solicit Personal Information. Once you have clicked on a link to a third party website and leave our website, you must read the privacy policy of the third party website to see how your Personal Information will be handled.
+        * protect the safety and security of users of the Services;
 
-**CALIFORNIA AND CANADA PRIVACY RIGHTS**
+        * prevent fraud (or for risk management purposes); or
 
-A business subject to California Civil Code section 1798.83 is required to disclose to its California customers, upon request, the identity of any third parties to whom the business has disclosed personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties' direct marketing purposes.
+        * comply with or respond to the law or legal process or a request for cooperation by a government entity, whether or not legally required. 
 
-If you are a California resident and would like to make such a request, please submit your request in writing to:
+      * **Other Parties in Aggregated Form** **.** We may also share your information with third parties in aggregated or non-personally identifiable form. 
 
-National Collegiate Scouting Association
+      * **Other Parties in Connection With a Transfer of Assets**. If we make a sale or transfer of assets, or are otherwise involved in a merger, divestiture, acquisition, liquidation, or transfer, or in the unlikely event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction.
 
-Attention: California Privacy Rights
+      * **Other Parties With Your Consent**. In addition to the sharing described in this Privacy Policy, we may share information about you with other third parties when you consent to such sharing.
 
-1333 N. Kingsbury St.
+If you do not want your information shared with any third party who may use such information for direct marketing purposes, then you may opt out of such disclosures by sending an email to us at [privacy@ncsasports.org](mailto:privacy@ncsasports.org).
 
-4th Floor
 
+
+
+**Third-Party Functionality**
+
+Some of the functionality of the Services may be provided by third parties that are not affiliated with NCSA. These entities may collect or receive certain information about your use of the Services, including through the use of cookies, Web beacons, and similar technologies. NCSA is not responsible for the privacy practices of these entities.
+
+**Protection of Information**
+
+We use reasonable physical and technical measures to safeguard information in our possession against loss, theft and unauthorized use, disclosure, or modification. Please note, however, that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect the information we maintain, we cannot ensure or warrant the security of any information that you transmit to us. Where we have given you (or where you have chosen) a password for access to certain parts of our Services, you are responsible for keeping this password confidential. We ask that you not share your password with anyone.
+
+**Children’s Information**
+
+ The Services are neither intended for nor directed at children younger than 13 years of age. We do not knowingly collect or store personal information about children under the age of 13.
+
+**Non-U.S. Users**
+
+ The Services are intended for a U.S. audience. If you access the Services from outside the United States, please be aware that information you provide to us or that we obtain as a result of your use of the Services may be processed and transferred to the United States and be subject to U.S. law. The privacy and data protection laws in the United States may not be equivalent to such laws in your country of residence. By using our website, participating in any of the Services, or by providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States and in accordance with U.S. law.
+
+**Changing or Deleting Your Personal Information**
+
+ We wish to maintain accurate personal information. If you have submitted personal information through the Services and set-up an account, then you can (i) access and update your personal information by logging into your online account and making the appropriate changes or (ii) delete your account by emailing us at [privacy@ncsasports.org](mailto:privacy@ncsasports.org). Please note that if you delete your account, we may continue to retain your information on our servers for archival purposes. If you have forgotten your login credentials, you can retrieve those via our automated password retrieval system.
+
+**Targeted Advertising**
+
+In some cases, we and advertisers on the Services work with other third-party vendors to help deliver advertisements targeted to your interests. These vendors include ad networks and analytics providers, and they use cookies or other technologies to collect information about your online activity ( _e.g._ , the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant. Many third-party vendors that perform these functions are members of the Network Advertising Initiative or the Digital Advertising Alliance, and you can opt out of those vendors’ delivery of targeted advertising to you by visiting http://www.networkadvertising.org/managing/opt_out.asp and http://www.aboutads.info/choices/. 
+
+Please note that, because these opt-out tools will place a cookie on your computer to record your opt-out preference, any actions you take using these tools will apply only to the web browser that you use to take the action. Also, these tools may not work as expected if you set your browser to refuse cookies.
+
+Sometimes, our advertisers will contract with a third-party service to host their ads. In this case, an ad-serving vendor contacts the advertisers’ hosting service to obtain a particular advertisement. Because we do not have a relationship with these third parties, we do not have a mechanism to allow visitors to opt out of tracking by these vendors.
+
+**  
+Cookies, Web Beacons, and Similar Technologies**
+
+NCSA—as well as certain third parties that provide content and other functionality on the Services—may use a variety of technologies to learn more about how people use the Services and the Internet. This section provides more information about some of those technologies and how they work.
+
+  * Cookies. Cookies are small text files that websites and other online services use to store information about users on the users’ own computers. For example, cookies can be used to store your sign-in credentials so that you do not have to enter them each time you return to a website. Cookies also may be used to store a unique identification number tied to your computer so that a website can recognize you as the same user across different visits to the website. You can configure your Internet browser to warn you each time a cookie is being sent or to refuse cookies completely. 
+
+NCSA and the third parties that provide content or functionality on the Services may use cookies to: 
+
+    * Collect information about your browsing activities in order to provide you with more relevant content and ads off the Services; and 
+
+    * Relate the information automatically collected when you use the Services to information we obtain from you directly or from commercially available sources. 
+
+  * Other local storage. We, along with third-party partners, may use other kinds of local storage, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with the Services. These technologies are similar to the cookies discussed above in that they are stored on your computer and can be used to store certain information about your activities and preferences. These objects are stored in different parts of your computer from ordinary browser cookies, however. Many Internet browsers allow you to disable HTML5 local storage or delete information contained in HTML5 local storage using browser controls.
+
+  * Web beacons. We, along with our third-party partners, may also use technologies called Web beacons that communicate information from your Internet browser to a web server. Web beacons can be embedded in web pages, videos, or emails, and can allow a web server to read certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the Web beacon, the IP address of your computer, and the URL of the web page from which the Web beacon was viewed. We and our partners use Web beacons for a variety of purposes, including analyzing the use of the Services and in conjunction with cookies to provide content and ads that are more relevant to you.
+
+
+
+
+**Your California Privacy Rights**
+
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. If you are a California resident and would like to make such a request, please submit your request to:
+
+Attn: NCSA Privacy  
+National Collegiate Scouting Association, LLC  
+1333 N Kingsbury St.  
 Chicago, IL 60642
 
-Please note that under California law, businesses are only required to respond to a customer request once during any calendar year.
+Email:[privacy@ncsasports.org](mailto:privacy@ncsasports.org)
 
-If you reside in Canada, you may have the right to be provided with access to Personal Information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information outside Canada. E-mail us at [rwells@ncsasports.org](mailto:adiorio@ncsasports.org) with questions.
+In addition, California residents who are registered users of the Services and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post as user content on the Services. You may request such removal by emailing us at [privacy@ncsasports.org](mailto:privacy@ncsasports.org). Please note that your request does not ensure the complete or comprehensive removal of the material.
 
-Our servers are maintained in the United States. By using the Service or participating in NCSA’s Athletic Recruiting’s services, you freely and specifically give NCSA Athletic Recruiting your consent to export your Personal Information to the United States and to store and use it in the United States as specified in this Privacy Policy. You understand that data stored in the United States may be subject to lawful requests by the courts or law enforcement authorities in the United States.
+**Do Not Track** **Signal**
 
-We make no claims that this website or any of its content is accessible or appropriate outside of the United States. Access to this website may not be legal by certain persons or in certain countries. If you access this website from outside the United States, you do so on your own initiative and are responsible for compliance with local laws.
+Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. We do not currently take action in response to those signals. If an industry standard on responding to such signals is established and accepted, we may reassess how to respond to those signals. 
 
-**HOW TO CONTACT US**
+**  
+Links to Other Websites**
 
-Should you have questions or concerns about our Privacy Policy, please contact us by mail, phone or email as follows:
+Our Services may contain links or references to third-party owned and/or operated websites that we believe might be of interest to users, including websites of our partners, sponsors, advertisers, and affiliates. We do not control the content of these third-party websites. These third-party websites may send you their own cookies, collect data, or solicit personal information. Once you have clicked on a link to a third-party website and leave our Services, you must read the privacy policy of the third-party website to see how your personal information will be handled. 
 
-National Collegiate Scouting Association, LLC
+**Changes to this Privacy Policy**
 
-Attention: Website Privacy Policy
+From time to time, we may revise this Privacy Policy to reflect changes to the scope of the Services or for other reasons. Therefore, it is important to check the effective date of the Privacy Policy posted here each time you use the Services. If we make any material revisions to this Privacy Policy, we will email you at the email address you have provided or will place a notice on our Services. By continuing to use the Services after we make changes, you indicate your consent to those changes.
 
-1333 N. Kingsbury St.
+**  
+Questions and Contact Information**
 
-4th Floor
+We want to assure you that we are dedicated to protecting your privacy. If you have questions or comments about this Privacy Policy, please contact us at:
 
-Chicago, IL 60642
+Attn: NCSA Privacy
 
-(888) 333-6846
+National Collegiate Scouting Association, LLC  
+1333 N Kingsbury St.  
+Chicago, IL 60642  
+Email:[privacy@ncsasports.org](mailto:privacy@ncsasports.org)  
 
-[rwells@ncsasports.org](mailto:adiorio@ncsasports.org)
+
+16763902.2
