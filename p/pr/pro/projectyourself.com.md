@@ -1,81 +1,105 @@
-> *The following text is extracted and transformed from the projectyourself.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028033940id_/http%3A//projectyourself.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectyourself.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231919id_/https%3A//projectyourself.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Project Yourself
+# Privacy Policy - Project Yourself
 
-**HOW WE PROTECT YOUR PRIVACY**
+### Overview
 
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+#### SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-**MINORS**
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
+When you browse our store, we also automatically receive your computer's internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.
+#### SECTION 2 - CONSENT
 
-**THE TYPE OF INFORMATION WE COLLECT FROM YOU**
+How do you get my consent?
 
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-And like many other websites, we may use cookies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
+How do I withdraw my consent?
 
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [support@deeporigins.com](mailto:support@deeporigins.com)
 
-**WHAT WE DO WITH YOUR INFORMATION**
+#### SECTION 3 - DISCLOSURE
 
-We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
+#### SECTION 4 - SHOPIFY
 
-We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.
+Your data is stored through Shopify's data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
+Payment:
 
-**USER NAMES AND PASSWORDS**
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
-**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+For more insight, you may also want to read Shopify's Terms of Service (<https://www.shopify.com/legal/terms>) or Privacy Statement (<https://www.shopify.com/legal/privacy>).
 
-We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website’s posting or other communication systems.
+#### SECTION 5 - THIRD-PARTY SERVICES
 
-**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-**AUTORESPONDERS**
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support[at]deeporigins.zendesk.com, or sending us mail to the address listed below.
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-**POLICY CHANGES**
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+Once you leave our store's website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website's Terms of Service.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to support[at]deeporigins.zendesk.com and providing us with information relating to your concern.
+Links
 
-You may also mail your concerns to us at the following address:
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-Deep Origins, LLC  
-1042 N. El Camino Real, Suite B-421  
-Encinitas, CA 92024  
-USA
+Google analytics:
 
-**CALIFORNIA PRIVACY RIGHTS**
+Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at
 
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]deeporigins.zendesk.com or write us at the following address:
+#### SECTION 6 - SECURITY
 
-Deep Origins, LLC  
-1042 N. El Camino Real, Suite B-421  
-Encinitas, CA 92024  
-USA
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
-This privacy policy was last updated on 05-29-2013.
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at projectyourself.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+#### SECTION 7 - COOKIES
+
+Here is a list of cookies that we use. We've listed them here so you that you can choose if you want to opt-out of cookies or not.
+
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider's internal stats tracker to record the number of visits
+
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+
+_secure_session_id, unique token, sessional
+
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+
+PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
+
+#### SECTION 8 - AGE OF CONSENT
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+#### SECTION 9 - CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+#### QUESTIONS AND CONTACT INFORMATION
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@deeporigins.com](mailto:support@deeporigins.com)
