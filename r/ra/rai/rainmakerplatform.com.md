@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainmakerplatform.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011009id_/http%3A//rainmakerplatform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainmakerplatform.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050414id_/http%3A//rainmakerplatform.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rainmaker Platform
 
@@ -20,7 +20,9 @@ If you choose to correspond with us through email, we may retain the content of 
 
 Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
 
-We also collect theme usage data through our automatic update mechanism, which checks to insure you have the latest version of the theme you’ve purchased. This process is necessary in order to provide you with a painless and consistent upgrade experience. You can opt out of receiving automatic updates to the latest version of your theme by disabling updates in your Theme Settings.
+#### Does RainmakerPlatform.com honor “Do Not Track” signals?
+
+At this time, this site does not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions.
 
 #### How Do We Use the Information That You Provide to Us?
 
