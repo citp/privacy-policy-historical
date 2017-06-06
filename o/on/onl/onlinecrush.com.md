@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecrush.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122436id_/http%3A//www.onlinecrush.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecrush.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173530id_/http%3A//www.onlinecrush.com/site/privacy) for the most accurate reproduction.*
 
 # OnlineCrush - Spice up your life with a discreet encounter!
 
@@ -90,16 +90,4 @@ You have the following choices to modify or delete your profile information from
 
 #### 11\. Opt-out provisions
 
-You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of HK International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in. 
-
-  
-
-
-#### Our address:
-
-XD International Limited  
-PO Box 440  
-Envoy House, La Vrangue  
-St Peter Port  
-Guernsey  
-GY1 3ZN 
+You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of HK International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in.
