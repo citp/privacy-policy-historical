@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthplanrate.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129020830id_/http%3A//healthplanrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthplanrate.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222439id_/https%3A//healthplanrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,8 +27,6 @@ THE INFORMATION WE COLLECT ABOUT YOU
 In General. We may collect personal information that can identify you such as your name and e-mail address, as well as other information that does not identify you such as your zip code. When you provide personal information through our website, the information may be sent to HealthPlanRate.com servers located in the United States and other countries around the world.
 
 Information You Provide. As mentioned above, we may collect information you submit on our website, such as your name, e-mail address and zip code. We may also track your interaction with email advertisements sent to you by HealthPlanRate.com or our e-mail service providers on our behalf (for example, when you register, purchase, or browse in response to such emails).
-
-List Information from Vendors. We may obtain information about you after you provide information to a third party and you permit that party (the "Seller") to share the information, which HealthPlanRate.com subsequently purchases, licenses or otherwise lawfully acquires. Such information may include, but is not limited to, your name, street address, zip code, telephone numbers, birth date, gender, salary range, education, marital status, occupation, industry of employment, personal and/or online interests, and/or other information which you provided to the Seller (together, "Vendor List Information"). When acquiring Vendor List Information, HealthPlanRate.com requires assurances from the Seller that the Seller has a right to transfer the Vendor List Information to HealthPlanRate.com and that HealthPlanRate.com may lawfully use the Vendor List Information to transmit offers to you. You may opt out of receiving these offers by using one of the methods specified in the section below entitled "Your Choices About Collection and Use of Your Information".
 
 Information from Other Sources. We may also periodically obtain both personal and non-personal information about you from business partners, contractors and other third parties, as well as information from public databases. Examples of information that we may receive include information about your home and additional demographic information.
 
