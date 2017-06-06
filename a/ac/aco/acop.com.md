@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120103444id_/http%3A//www.acop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165517id_/https%3A//www.acop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | American Consumer Opinion Panel
+# Get Paid To Answer Online Surveys | American Consumer Opinion Panel
 
 This Privacy Policy is reviewed and updated annually. 
 
@@ -24,7 +24,7 @@ The American Consumer Opinion Panel® and www.acop.com are owned and operated by
 
 
 
-Privacy Sheild Principals as developed by the U.S. Department of Commerce in consultation with the European Commission. 
+Privacy Shield Principals as developed by the U.S. Department of Commerce in consultation with the European Commission. 
 
   * [EU Privacy Shield](https://www.privacyshield.gov/)
   * [US - Swiss Safe Harbor](http://2016.export.gov/safeharbor/)
@@ -66,7 +66,7 @@ Within the U.S., 1-817-649-5241
 International, 1-817-640-6166   
 Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20American%20Consumer%20Opinion%20Panel%20Privacy%20Policy)
 
-Decision Analyst has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints]() for more information and to file a complaint.
+Decision Analyst has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20170606165517id_/https://acop.com/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 Back to top
 
