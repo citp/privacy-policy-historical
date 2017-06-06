@@ -1,312 +1,413 @@
-> *The following text is extracted and transformed from the centrictv.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218235850id_/http%3A//www.centrictv.com/site/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrictv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130116id_/http%3A//www.centrictv.com/site/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Centric
 
-### ****
+### **Last Modified: March 14, 2017**
 
-### ****
+**(See  [Summary of Most Significant Changes](https://web.archive.org/site/changes.html) to learn more.)**
 
-### ****
+**PRIVACY POLICY**
 
-### ****
+**PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-### ****
+**This is the privacy policy (“ _Privacy Policy_ ”) describing our privacy practices for the specific Internet website, application or other interactive service that includes an authorized link to this Privacy Policy and all other websites, applications and other interactive services you also use that are offered by the specific VII Brand (as defined below) that is providing this website, application or other interactive service (collectively, all such websites, applications and other interactive services, " _Site_ ," " _we_ ," " _us_ " or " _our_ ").  The Site is owned, operated and/or provided on behalf of the applicable VII Brand by Viacom International Inc. **(Viacom International Inc., along with its Affiliates, **shall be referred to collectively as “ _VII_ ”) through its Viacom Media Networks division, which offers television channel or programming services (such as television networks, websites, applications or other interactive services) and offers other products and services under various brands, such as those Viacom Media Networks brands and other VII brands listed [_here_](http://viacom.com/brands/pages/default.aspx) **(each, a “ _VII Brand_ ”) **.   T**his Site together with the associated VII television channel or programming service, if any, shall be referred to collectively as the “ _Channel_ ” **.   “ _Affiliates_ ” refers to Viacom International Inc.’s parent company Viacom Inc. **and all affiliates that Viacom Inc. directly or indirectly **owns or controls (** such as Paramount Pictures Corporation and the other affiliates of Viacom Media Networks as described in the link **[_here_](http://viacom.com/brands/pages/default.aspx) **).****
 
-### ****
+This Privacy Policy is intended to explain our privacy practices and covers the following areas:
 
-### ****
+1.   **_When This Privacy Policy Applies_.**
 
-### **Last Modified: March 20, 2015**  
+2.   **_U.S. Governing Law; Transfer/Processing of Data To/In the U.S._**
 
+3.   **_What Information Is Collected_.**
 
-### ********
+4.   **_How Is Collected Information Used_.**
 
-**Privacy Policy and California Privacy Rights**
+5.   **_Your Choices_.**
 
-This is the official Privacy Policy (“Privacy Policy”) for www.centrictv.com (the “Site”, and all mobile applications owned and operated by Centric (collectively, the Site and such mobile applications are referred to herein as “CentricTV.com”).  Centric (also referred to herein as “we”, “us” or “our”) is a division of Black Entertainment Television LLC (“BET”).  BET is a subsidiary of Viacom International Inc. (collectively, BET and Viacom International Inc. are referred to herein as the “Parent Companies”).  We have adopted and implemented this Privacy Policy as part of our commitment to protecting our users’ Personal Information and Other Information (as those terms are defied below) from misuse. For the purposes of this Privacy Policy, when we use the term “CentricTV.com” we are also referring to networks, programming, services, mobile applications and websites offered by Black Entertainment Television LLC, including but not limited to, BET Mobile.
+6.   **_Text Messaging Marketing and Promotions_.**
 
-**This Privacy Policy  governs only the Personal Information and Other Information (together referred to herein as “Information”) collected by CentricTV.com and does not cover any such information collected in any other manner or by any other website offered by Centric, the Parent Companies** and/or any subsidiaries and affiliates of the Parent Companies (collectively, “ _Affiliates_ ”) **or collected by any other company, unless specifically stated.   **We may from time to time combine Information with other information we collect from other sources, such as information received from our Parent Companies, Affiliates, marketing companies or third-party advertisers and, if we do so, our use of the resulting combined Information will be subject to this Privacy Policy.
+7.   **_Sharing and Disclosure of Information_.**
 
-The phrase “Personal Information” as used in this Privacy Policy and the [Terms of Use Agreement](http://www.centrictv.com/Site/TermsOfService/) means any information such as a user’s full name, street address, town or city, state, zip code, telephone number, date of birth, email address and any other Sensitive Personal Information or personally identifiable information that would allow someone to identify or contact a CentricTV.com user. Your credit card or debit card number is classified as “Sensitive Personal Information.”
+8.   **_Reviewing, Updating or Deleting Information; Settings_.**
 
-The term “Site” includes all websites and webpages within CentricTV.com, any equivalent, mirror, replacement, substitute or backup websites and webpages that are associated with the Site, and any mobile applications which are provided by or interact with CentricTV.com.
+9.   **_Protection of Information_.**
 
-The Site is offered and made available only to users 13 years of age or older who reside in the United States of America; however, certain features and functions may be limited to persons in older age groups (e.g. 21 and over). If you are not yet 13 years old (or the requisite age for a certain feature or function on the Site), or do not reside in the United States, or if you do not agree with all of the terms and conditions contained in this Privacy Policy for any reason, please discontinue using the Site immediately. By using this Site, you certify that you are at least 13 years of age (or the requisite age for a certain feature or function on the Site), reside in the United States and agree to the terms and conditions below
+10\. **_Your California Privacy Rights_.**
 
-This Privacy Policy applies whether you are accessing the Site via a personal computer, a mobile or wireless device, mobile application or any other technology or devices now known or hereafter developed or discovered (each, a “Device”) and whether you are accessing the Site as a registered user or other user of the Site. This Privacy Policy will remain in full force and effect, even if your use of or participation in the Site or any particular feature or function offered through the Site terminates, expires, ceases or is deactivated for any reason
+11\. **_Changes to this Privacy Policy and Notice_.**
 
-CentricTV.com reserves the right to revise this Privacy Policy at any time and for any reason and reserves the right to make changes at any time to any of the information contained in this Privacy Policy. By entering and using the services provided by the Site, you acknowledge and agree that you shall be bound by this Privacy Policy and any such revisions. We suggest users periodically review this Privacy Policy to be aware of any modifications to these terms and conditions.
+12\. **_Miscellaneous_.**
 
-**1.   Your California Privacy Rights.** **  
-** Users who reside in California can prevent future disclosures of their Personal Information, at no charge, by exercising their opt-out rights by using the procedures described below:
+**1\. When This Privacy Policy Applies.**
 
-(ii). You can send mail to the following postal address:
+This Privacy Policy applies:
 
-  
-BET Networks   
-OneBETPlaza   
-1235 W Street, NE   
-Washington, DC 20018   
-Attn: General Counsel
+· Regardless of whether you are accessing the Site via a personal computer, a mobile device or any other technology or devices now known or hereafter developed or discovered (each, a “ _Device_ ”);
 
-All requests must be labeled “Your California Privacy Rights” on the email subject line or envelope or post card. For all requests, please clearly state that the request is related to “Your California Privacy Rights,” include your name, street address, city, state, zip code and email address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+· Whether you are accessing the Site as a registered user (if offered by the Site) or other user of the Site; 
 
-Additionally, upon receipt of any communication from CentricTV.com, you can click on the “unsubscribe” link to unsubscribe from future communications,
+**·** To all **Information (as that term is defined below) collected by the Site (as defined above), but does not, unless specifically stated, apply to any information collected by any other company;  **
 
-Because CentricTV.com provides its California users with the ability to exercise their opt-in and opt-out rights as described above, pursuant to Section 1798.83(c)(2) of the California Civil Code, CentricTV.com is not obligated to maintain or disclose a list of the names and addresses of the third parties that received Personal Information for marketing purposes during the preceding year.
+**· To our use of combined information if we** combine Information (as that term is defined below) collected by the Site with other information we collect from other sources, such as information received from VII (for example, information collected at a physical location), marketing companies or Advertisers; and  ****
 
-Please be aware that other websites that may be accessed through the Site (including, without limitation, stores listed on CentricTV.com) may collect Personal Information about you. The information practices of those websites linked to the Site are governed by the privacy policies of those websites and are not covered by this privacy statement, and CentricTV.com is not responsible for any information that you provide when you access those websites.
+· Will remain in full force and effect even if your use of or participation in the Site or any particular service, feature, function or promotional activity offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason. 
 
-**2.   United States Jurisdiction; Safe Harbor**
+By participating in this Site or any features, activities or services offered through the Site, you consent to our privacy practices as described in this Privacy Policy.
 
-The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations.  By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our [Terms of Use](http://www.centrictv.com/site/termsofservice.html).  If you do not meet such age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
+Certain products or services offered by this Site may be subject to additional privacy practices, such as practices on how Information is collected, used, shared and/or disclosed by such products or services and/or how you may exercise choice with regard to such Information (“Additional Privacy Statements”).  These Additional Privacy Statements, if any, shall be provided to you in conjunction with those products and services and are hereby incorporated in this Privacy Policy by reference. To the extent that there is a conflict between this Privacy Policy and the Additional Privacy Statement for the activity in which you choose to participate, the Additional Privacy Statement shall govern.
 
-If you are located in the European Economic Area (“ _EEA_ ”) and Switzerland, for detailed information on our privacy policy and practices with respect to personal information transferred from the EEA and Switzerland, please see our Safe Harbor Privacy Policy located at <http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf>.  
+**2\. U.S. Governing Law; Transfer/Processing of Data TO/IN the U.S.**
 
-If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws.  Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site will be collected in the U.S. and/or transferred to the U.S. and subject to U.S. law.  By using this Site, participating in any Site activities and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information to and in the U.S., (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (iii) understand that we will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and U.S. law. 
+The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S.  We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. 
 
-**3.   Storage of Personal Information.**
+If you are located in the European Economic Area (" _EEA_ ") or Switzerland, [_please click here_](http://www.viacom.com/privacypolicy/Documents/Privacy_Shield_Privacy_Policy_Viacom.pdf) to see our Privacy Shield Privacy Policy which includes detailed information on our privacy policy and practices with respect to personal information transferred to the U.S. and note that we may take additional measures to protect your personal data.
 
-Your continued use of the Site indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information or Sensitive Personal Information as described below. We may from time to time, transfer or merge any Personal Information collected offline to our databases or store offline information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from third party advertisers, business, partners, sponsors, promotional partners (collectively referred to as “ _Advertisers_ ”), and our Affiliates. This Privacy Policy covers all such Personal Information and will remain in full force and effect as long as you are a user of the Site and for a reasonable period thereafter, even if your use of or participation in any particular service, feature, function or promotional activity terminates, expires, ceases, is suspended or deactivated for any reason. Please note that we may engage third party service providers to store information on their databases on behalf of CentricTV.com.
+If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws.  Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site shall be collected in the U.S. and/or transferred to the U.S. and subject to U.S. law. 
 
-**4.   Information CentricTV.com Collects.**
+By using this Site, participating in any Site activities and/or providing us with your Personal Information and Other Information, you (a) consent to the transfer and/or processing of any Information to and in the U.S., (b) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (c) understand that we shall collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and U.S. law.  Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. 
 
-Some functions, mobile applications or promotions, as well as some areas of CentricTV.com, require users to register before they can use or access a particular area of the Site (which may be necessary for identification, security, or marketing purposes, etc.). CentricTV.com’s registration, online surveys, contest entry forms, mobile applications and specialized services may call for users to provide Personal Information and demographic information (like their age or income level). Additionally, CentricTV.com’s registration process requires users to choose a unique User ID and password. Users may change his or her password, as well as any Personal Information provided to us, to keep his or her registration information current.
+**3\. What Information Is Collected.**
 
-To the extent that we offer online sales or shopping services, if you order any of our products, in addition to your name and contact information, we will also collect and maintain certain Sensitive Personal Information, including your credit card or other payment instrument information, billing address, shipping address, product selections, your order number, and information about your computer’s Internet address and website which may have referred or directed you to the Site (e.g., the referring URL).
+When we use the term " _Personal Information_ " we mean information that you provide us that identifies you or would allow someone to contact you, such as your full name, postal address, email address or telephone number.   When we use the term “ _Other Information_ ”, we mean any information other than Personal Information that may be collected about you **, including, but not limited to, Device and advertising identifiers and information collected through cookies or other Tracking Technologies or Identifiers (as those terms are defined below).   Any Personal Information that is modified to remove your contact information and other information that identifies you or that is replaced with information that no longer identifies you or allows someone to contact you (for example, hashed email addresses or usernames) shall not be treated as Personal Information but shall be treated as Other Information after such modification.  (Personal Information and Other Information shall be referred to, together, as “Information”.)**
 
-**5.   Use of Personal and Other Information.**   
-CentricTV.com’s primary goal in collecting Personal Information is to provide the user with a customized experience on our Site. This includes personalization services, interactive communications, and many other types of services, most of which are completely free to our users. In order to provide services free of charge, we display advertisements. By knowing a little about users, CentricTV.com is able to deliver more relevant advertisements and content, and hence better service, to our users.
+**3.1. Information We Collect that You Provide Us.**
 
-We may use Personal Information from our online registration, surveys, contests, mobile applications, specialized services, and order forms for our own internal evaluation and tracking purposes and to send our users information from our company (e.g., site announcements, newsletters, and message notifications) and promotional material from some of our business partners (or from other companies).
+**3.1.1 User Registration; Third Party Social Media Network Sign-On; Single VII Sign-On.**
 
-**a.   If you supply such Personal Information, it may also be used to:**
+If we offer user registration on the Site, to register as a member of the Site, there may be a few options for you to register: Site Registration (as described below), Third Party Social Media Network Sign-On (as described below) and, if you have previously registered on another VII website, application or other interactive service using one of those methods, Single VII Sign-On (as defined and described below) if offered by this Site.  In each case, you are required to either use a pre-existing user name and password (together, your “User ID”) or select a new User ID. 
 
-·         Contact you about products and services in which you have indicated an interest, and may be shared with Advertisers or other companies who may want to contact you, if you have provided your consent through an “opt-in” (in which case their use of your Personal Information is subject to such third party’s privacy policy and terms of use) (you may opt-out of receiving future mailings by using the “opt-out” procedures described below - see the Choice/Opt-Out section below);
+**3.1.1.1 Site Registration**. 
 
-·         Contact you regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any promotions you have participated in or have entered, any goods and/or services or products you have ordered or any other transactions you have undertaken with the Site;
+For Site registration, you are required to select a User ID and may be required to also provide other Information, such as your email address and date of birth.  Additional Information may be requested and/or required during the registration process.  After you have registered for the Site under Site Registration, we may recognize you when you visit certain other VII websites, applications or other interactive services across Devices (such as when you login) and permit you to use Single VII Sign-On (as described below) to register for and login on such other websites, applications or other interactive services, but please note that other VII websites, applications or other interactive services may set additional or different requirements for membership, such as minimum age.
 
-·         Allow you to participate in the public areas, communities and/or other features of the Site;
+**3.1.1.2 Third Party Social Media Network Sign-On**.  We may provide you with the ability to sign on to the Site by using third party social media network credentials (“SMN”).  If you choose to sign-in through an SMN, you may be required to provide us with all or some of the Information required in the Site’s registration form and your use of the Site shall be governed by the applicable SMN’s privacy policy and user agreements as well as this Privacy Policy and the Site’s **[_Terms of Use Agreement_](https://web.archive.org/site/termsofservice.html)**. Please note that the SMN may set additional or different requirements for membership than those set for the Site, such as minimum age.  We, and VII, are not responsible for the use of any such SMN, or for the accuracy, use or misuse of any information that you may disclose to or receive from an SMN or other third party in connection with such use.  If you use an SMN to sign-in, we may receive certain information from such SMN and our use of your Information we receive from any SMN is governed by the relevant policies of any such SMN and any permissions you give us regarding your Information, including, but not limited to, those set forth in this Privacy Policy.  If you have questions about whether a particular feature, function or service of the Site is powered by a third party, you may contact us with your question as provided in _Section 12.2_ (Questions) below.   
 
-·         Respond to your questions or other requests;
+After you have registered for the Site through SMN, we may recognize you when you visit certain other VII websites, applications or other interactive services and permit you to use Single VII Sign-On (as described below) to register for and login on such other websites, applications or other interactive services.
 
-·         Contact you regarding your use of the Site, for informational purposes related to the Site or, in our discretion, regarding changes to the Site’s policies;
+**3.1.1.3 Single VII Sign-On**.  If you are not already registered for the Site, but are registered on other VII websites, applications or other interactive services through any of the above methods, we may permit you to use your User ID from such other VII websites, applications or other interactive services to register for and log into this Site (“Single VII Sign-On”), but please note that this Site may set additional or different requirements for membership, such as minimum age, than those requirements set by other VII websites, applications or other interactive services.
 
-·         Improve the Site or our services and for internal business purposes;
+Also note that, for your online privacy and security, if other people have access to your Device, we recommend you log out of your account after visiting any of the websites, applications or other interactive services that are associated with your account.
 
-·         Tailor your experience on the Site and/or otherwise customizing what you see when you visit the Site;
+**3.1.2 In Connection with Certain Features and Functions.   **We may also provide you with access to certain features or functions that we may offer on the Site, such as the option to participate in commenting, shopping and member profile pages.  To sign up for or participate in these **** features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions.  For example, if we offer e-Commerce services on this Site, if you order any of our goods or services through such services, in addition to your name and contact information, we (or our operational service providers that we use to provide the e-Commerce service) may also collect and/or maintain your billing address, shipping address, selections, credit card or other payment instrument information, order number and information about your computer's internet address and website which may have referred or directed you to the Site ( _e.g.,_ the referring URL). 
 
-·         Save your User ID or other Personal Information, so you don’t have to re-enter it each time you visit the Site;
+**The Site may also provide features, functions and/or services powered by an SMN or other third party.   For example, Information may be disclosed to an SMN through plug-ins offered by such SMN (such as Likes, Shares or commenting).  Please take care when using any SMN or other third party service and familiarize yourself with the SMN’s or other third party’s policies and agreements, if any, that govern such use. **
 
-·         Otherwise to maintain and administer the Site; and
+**3.1.3 In Connection with Promotions such as Contests and Sweepstakes.**
 
-·         For other purposes disclosed at the time you provide the Personal Information.
+There may be a separate registration process to enter Promotions (as defined in the Site’s **[_Terms of Use Agreement_](https://web.archive.org/site/termsofservice.html)** ) such as contests and sweepstakes which may require the submission of all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Information may be requested depending on the specific Promotion. The Promotion’s entry page and/or Rules shall provide the specific requirements. You may also have the opportunity to opt-in to receive special Promotions or offers from our third party advertisers, sponsors or promotional partners (“Advertisers”) as a result of your use of the Site in connection with these Promotions.
 
-**b.   We may also collect other information about you which is not considered Personal Information (“Other Information”) in order to:**
+**3.2 Information Collected Through Use of Cookies and Other Tracking Technologies.  **
 
-·         Keep count of your return visits to the Site or Affiliates’, Advertisers’ or partners’ sites;
+The Site and/or third parties may use **“** cookies”, “web beacons”, Flash local shared objects and other similar tracking technologies (collectively, “ _Tracking Technologies_ ”) to collect Other Information automatically as you browse the Site and the web.  " _Cookies_ " are typically html or browser-based text or other files (and often referred to as browser cookies) that help store information, user preferences and/or user activity. “ _Web beacons_ ” (also known as image tags, gif, tracking pixels or web bugs) are small pieces of code used to collect data, such as counting page views, promotion views or advertising responses.  Flash local shared objects (“ _LSOs_ ”) (sometimes known as Flash cookies and used if Adobe Flash is used) are text or other files that help store user preferences and/or activity.
 
-·         Accumulate and report aggregate, statistical information in connection with the Site and user activity;
+These Tracking Technologies collect “click stream” data and additional Other Information regarding your visits to the Site (such as your visits to the Site’s webpages, type of browser use, type of operating system used, date and time of viewing, use of our features and purchasing history or preferences) or other websites, applications or interactive services.  Through these Tracking Technologies, we may collect such Other Information across multiple sessions on this Site and other websites, applications or other interactive services and may also collect or access your IP address (which is automatically assigned to any Device(s) and/or Device and Internet browser combination you use to access the Site) and/or set or access some other identifier unique to the Device(s), Device platform and/or Device-Internet browser combination you use to access the Site (“ _Identifier_ ”).  For example, we may set a unique alphanumeric Identifier unique to your home computer on Firefox, or access an Identifier provided by a mobile platform, such as the application or advertising Identifiers offered by Apple.  Your Personal Information is not collected as part of this process but we may combine any or all of the Other Information we collect using Tracking Technologies and associate it and/or Identifiers with your Personal Information (such as your Single VII Sign-On ID) and/or with other non-personally identifiable unique identifiers assigned by VII or third parties. 
 
-·         Determine which features, webpages, products and services users like best to, among other things, help us operate the Site, enhance and improve our services and the Site and display advertising and marketing information;
+**3.2.1 The Site’s Use of Tracking Technologies to Collect Information**
 
-·         Prepare statistical reports;
+By visiting the Site, whether as a registered user or otherwise, you acknowledge and understand that you are giving us your consent to track your activities and your use of the Site and other websites, applications or interactive services through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you.  See **_Your Choices_  **section below for more information on how you can withdraw your consent for certain purposes.
 
-·         Allow you to participate in the public areas and/or other features of the Site;
+We use Tracking Technologies to enable us to collect and then use Information as described in _Section 4.2 “ **Other Information Collected by Us**_ ” under “ ** _How Is Collected Information Used_** ” below.  For example, we use Tracking Technologies to enable Single VII Sign-On, to prevent you from seeing the same advertisements too many times or seeing advertisements too frequently, to tailor your experience on the Site by delivering relevant personalized advertising, email marketing and other content and to record if you have opted out of receiving personalized advertising from us.
 
-·         Improve the Site or our services and for internal business purposes;
+**3.2.2 Third Parties’ Use of Tracking Technologies to Collect Information**
 
-·         Tailor your experience on the Site and/or otherwise customizing what you see when you visit the Site;
+This Site may additionally use a variety of third party advertising networks, data exchanges, data management platforms, supply side platforms, ad exchanges, traffic or audience measurement service providers, marketing analytics service providers and other third parties (collectively, “ _Third Party Service Providers_ ”) to, for example, facilitate personalized advertisements (“ _Customized Advertising_ ”) and/or other content, serve advertisements on the Site and/or measure and analyze advertising or content effectiveness and/or traffic on the Site.  Customized Advertising enable us to, among other things, help deliver advertisements to you for products and services that you might be interested in based on your visits to the Site and other websites, applications or other interactive services you have visited.
 
-·         Save certain Other Information for use on your return visits to the Site;
+Third Party Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device subject to your choices about those Tracking Technologies (see **_“Tracking Technologies set by Third Party Service Providers and Advertisers”_** section below and **_“More Information on Managing Tracking Technologies”_** section below) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
 
-·         Otherwise to maintain and administer the Site;
+We may also enlist the assistance of Third Party Service Providers so that the Site may set Tracking Technologies.  For example, to the extent necessary to provide basic advertising serving services such as controlling how often you see advertisements or ensuring you do not see the same advertisement repeatedly, we may enlist the assistance of such Third Party Service Providers to create, customize or modify Tracking Technologies set by the Site.  See also Section 5.2.1 for more information on this Site’s use of Nielsen’s proprietary measurement software to collect and use video viewing metrics and other information.
 
-·         For the uses described under “Information Collected Through Use of Cookies and Other Tracking Technologies” below;
+Except to the extent necessary to provide services to the Site, Third Party Service Providers do not have access to Tracking Technologies set by the Site, but we may provide to Third Party Service Providers certain Other Information collected by Tracking Technologies set by the Site in order for the Site to provide Customized Advertising or in order for the Third Party Service Providers to provide other services to the Site, such as measuring or analyzing advertising or content effectiveness or traffic on the Site.  For example, in order to analyze traffic on the Site, we may provide to our Third Party Service Providers certain information we collect about your interaction with the Site along with an Identifier so that the Third Party Service Provider may provide analytics services to the Site. 
 
-·         For the uses described for Personal Information above; and
+**4\. How Is Collected Information Used**
 
-·         For other purposes disclosed at the time you provide the Other Information.
+As set forth in this Privacy Policy, we may share Information with VII (including Affiliates). 
 
-**6.   Information Collected Through Use of Cookies and Other Tracking Technologies. **
+**4.1 _Personal Information_**. 
 
-“ _Cookies_ ” are typically html or browser-based text or other files (and often referred to as browser cookies) that help store information, user preferences and/or user activity. “ _Web beacons_ ” (also known as image tags, gif, tracking pixels or web bugs) are small pieces of code used to collect data, such as counting page views, promotion views or advertising responses.  Flash local shared objects (sometimes known as “Flash cookies” and used if Adobe Flash is used) are text or other files that help store user preferences and/or activity.   The Site and/or third parties may use **** “cookies”, “web beacons”, Flash cookies, and other similar tracking technologies (collectively, “ _Tracking Technologies_ ”) to collect Other Information automatically as you browse the Site and the web.
+We, and/or VII, use the Personal Information we collect from you in a variety of ways, including:
 
-We use Tracking Technologies to help tailor our content, allow users to move between associated sites without logging into each site, understand Site and internet usage, improve or customize the content, offerings or advertisements on this Site, personalize your experience on this Site (for example, to recognize you by name when you return to the Site), understand your interactions with email messages (such as the links clicked on and whether the messages were opened or forwarded), save your password in password-protected areas, save your online game or video player settings, enable you to use shopping carts on the Site, help us offer you products, programs or services that may be of interest to you, deliver relevant advertising, maintain and administer the Site and for other purposes described in the “Use of Personal and Other Information” section above.  These Tracking Technologies collect “click stream” data and additional Other Information regarding your visits to the Site (such as your visits to the Site’s webpages, use of our features and purchasing history or preferences), may collect such Other Information across multiple sessions on this Site and other websites offered by the Parent Companies and/or Affiliates and may also collect your IP address or some other identifier unique to the Device you use to access the Site (“ _Identifier_ ”).  An Identifier is automatically assigned to any Device you use to access the Site.  Your Personal Information is not collected as part of this process but we may associate Other Information collected by Tracking Technologies with Personal Information.  
+· Sending marketing and promotional emails, newsletters or, subject to the “ ** _Text Messaging Marketing and Promotions_** ” Section below, text messages offering goods and/or services that may be of interest to users, whether those goods and/or services are provided by the Site, VII or third parties (for example, we may send you an email about a product sold by a third party or about a new VII show);
 
-By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you.  ****
+· Processing your registration with the Site, such as verifying that your email address is active and valid or recognizing you across Devices through Single VII Sign-On as an existing registered member of this Site or another VII website, application or other interactive service;
 
-This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, “Third Party Service Providers”) to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (“Targeting Services”).  These Third Party Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited.  Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. See Section 4(b)(i) for more information on this Site’s use of Nielsen’s proprietary measurement software to collect and use video viewing metrics and other information.
+· Contacting you regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any Promotions you have participated in or have entered, any goods and/or services you have ordered through e-Commerce services available on the Site or any other transactions you have undertaken with the Site;
 
-These Third Party Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site.  The Third Party Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
+· Allowing you to participate in the public areas and/or other features of the Site;
 
-**7.   Public Forums.**
+· Responding to your questions or other requests;
 
-CentricTV.com may make chat rooms, forums, message boards, personal webpages or other social networking or messaging features and/or news groups available to its users and, in certain cases, information contained in anonymous user profiles may be displayed on and shared with affiliated websites. Please remember that any information that is disclosed in these areas becomes public information, even without your consent. You should exercise caution when deciding to disclose your Personal Information because you don’t know who might access or attempt to use your posted Personal Information. CentricTV.com is in no way responsible for the accuracy, use, or misuse of any information (including Personal Information) that you disclose or receive through these venues.
+· Contacting you regarding your use of the Site, for informational purposes related to the Site or, in our discretion, regarding changes to the Site’s policies;
 
-**8.   Choice/Opt-Out.**
+· Improving the Site or our services and for internal business purposes;
 
-**a.   Opting Out of Certain Uses of Personal Information**
+· Tailoring your experience on, and/or otherwise customizing what you see when you visit, the Site and/or other sites, applications or other interactive services across Devices whether owned, operated and/or provided by VII or by third parties (for example, to provide recommendations on content or provide advertisements, emails or other content of more interest to you);
 
-CentricTV.com gives you the following options for removing your Personal Information from our database in order to stop receiving future communications from CentricTV.com.
+· Saving your User ID or other Personal Information, so you don't have to re-enter it each time you visit the Site;
 
-(i) You can send email to: [contactus@bet.com](mailto:contactus@bet.com), or
+· Otherwise to maintain and administer the Site; and
 
-(ii) You can send mail to the following postal address:
+· For other purposes disclosed at the time you provide the Personal Information (for example, as set forth in the Rules for any Promotions you enter).
 
-BET Networks  
-One BET Plaza  
-1235 W Street, NE  
-Washington, DC 20018
+**4.2. _Other Information Collected by Us_**. 
 
-(iii). Upon receipt of any communication from CentricTV.com, you can click on the “unsubscribe” link to unsubscribe from future communications. (Please note: CentricTV.com is not responsible for removing information from third-party lists or entities with which you have previously authorized us to share your information.) Additionally, you may opt-out of sharing your information with third party lists or entities by either clearing the appropriate checkboxes at the point of initial collection or by following the procedures of the third party lists or entities.
+We, and/or VII, use the Other Information we collect from you in a variety of ways, including:
 
-Please note that CentricTV.com, our Parent Companies, or our Affiliates may continue to contact you after you have opted-out for administrative or informational purposes, including follow-up messages regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any promotions you have participated in or have entered, goods and/or services or products you have ordered, or other transactions you have undertaken with the Site.
+· Keeping count of your return visits to the Site or VII’s, Advertisers' or partners' sites, applications or other interactive services;
 
-**b.   Opting Out of Use of Certain Other Information Collected by tracking Technologies**
+· Accumulating and reporting aggregate, statistical information in connection with the Site and user activity;
 
-**i.     Tracking Technologies Set By Third Party Service Providers and Advertisers.**  With respect to the Tracking Technologies set by Third Party Service Providers and Advertisers, you have a number of options:
+· Analyzing, determining or anticipating which features, webpages, products and services users like best to, among other things, help us operate the Site and/or other VII websites, applications or other interactive services, enhance and improve our services and the Site and/or other VII or third party websites, applications or other interactive services and display advertising and marketing information on the Site and/or other VII or third party websites, applications or other interactive services (for example, to provide ads of interest to you on the Site or third party sites, to analyze effectiveness of advertisements, to assess the appeal of certain content to our general site audience and to understand your interactions with email messages we send and the content contained in such messages (such as the links clicked on within marketing and promotional emails we send and whether such messages were opened or forwarded));
 
-·         Third Party Service Providers and Advertisers may collect Other Information about you when you visit this Site to help identify products and services that may interest you and deliver advertising tailored to your interests.
+· Preparing statistics reports;
 
-·         You can opt-out of the use of Other Information for these advertising purposes by two such Third Party Service Providers, Adobe AudienceManager (formerly known as Demdex) and DoubleClick/Google, by using those Third Party Service Providers’ opt-out tools.  You can access Adobe Audience Manager/Demdex’s tool at **_<http://www.donottarget.com/>_** and DoubleClick’s tool at [**http://www.google.com/intl/en/privacy/ads/**](http://www.google.com/intl/en/privacy/ads/) or as described in the next bullet point.
+· Allowing you to participate in the public areas and/or other features of the Site (for example, to enable you to use shopping carts on the Site);
 
-·         We also may from time to time permit other Third Party Service Providers and Advertisers to collect Other Information on the Site.  Some of these Third Party Service Providers and Advertisers may participate in the **_[Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp)_**  and/or the **_[Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/)_**.  Please click on the links to these tools to learn more about your choices. 
+· Improving our services, the Site and/or other websites, applications or other interactive services and for internal business purposes;
 
-·         Please note the following with respect to opting out:
+· Tailoring your experience on, and/or otherwise customizing what you see when you visit the Site and/or other sites, applications or other interactive services across Devices whether owned, operated and/or provided by VII or by third parties (for example, to provide recommendations on content or provide advertisements, emails or other content of more interest to you);
 
-o   **_The opt-out tools discussed above are “cookie based_** **.”**   This means that the tools rely on cookies to remember your choices with respect to the use of your information by the parties that offer you those choices.  If you delete Tracking Technologies using the controls in your Web browser (a process described below) after opting out, you may have to opt out again to re-establish your opt-out preferences. 
+· Saving certain Other Information for use on your return visits to the Site and making your experience on this Site more convenient for you (for example, to recognize you by name when you return to the Site, to apply certain settings or preferences you have identified on this Site or other VII websites, to save your password in password-protected areas and to save your online game or video player settings);
 
-o   **_Opt-outs are “browser-specific_**.”  The opt-out preferences that you choose will apply only to the Web browser that you used when you selected these preferences.  This means, for example, that if you opt-out while using Internet Explorer 9, this choice will not affect the use of Other Information collected by Tracking Technologies when you use Mozilla Firefox on the same Device.  It also means that opting-out on one Device will not affect the use of Other Information by Tracking Technologies on other Devices that you may use to access the Site.  
+· Using certain characteristics that you enter about yourself on the Site, such as age or gender, for tailoring the online advertising and/or other content that you see when you visit the Site or other websites, applications or other interactive services whether owned, operated and/or provided by VII or by third parties, whether alone or in combination with other Information;
 
-·         You also can prevent the use of certain Tracking Technologies (other than Flash cookies) on a particular Device by using the controls in your Web browser.  To do so, you must:
+· Otherwise to maintain and administer the Site (for example, to enable Single VII Sign-On so that you can move between associated VII sites without logging into each site, to prevent you from seeing the same advertisements too many times or seeing advertisements too frequently, to record if you have opted out of receiving personalized content or using IP address to pre-populate registration fields to facilitate your sign-up);
 
-o   _Delete existing_ Tracking Technologies through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature; _and_
+· For the uses described for “Personal Information” above; and
 
-o   _Disable future Tracking Technologies_ through the same browser controls.  Additional information on enabling or disabling most Tracking Technologies may be available through your browser’s support feature.  (See the “help” section of your browser for more information.)
+· For other purposes disclosed at or before the time the Other Information is collected.
 
-·         You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings.  This is done through your browser on the Device you use to access the Site.  Additional information on warnings and removal of warnings may be available through your browser’s support feature.
+**4.3. _Other Information Collected by Third Party Service Providers and Advertisers_**. 
 
-·         Opting-out of, deleting, rejecting, disabling or turning off Third Party Service Providers’ Tracking Technologies does not mean that you will no longer receive online ads.  Opting-out of, deleting, rejecting, disabling or turning off Third Party Service Providers’ Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site.
+The use of Tracking Technologies by Third Party Service Providers and Advertisers is within their control and not ours.  Even if we have a relationship with the Third Party Service Provider or Advertiser, we do not control their websites, applications or other interactive services or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites, applications or other interactive services you encounter on the Internet.  This Privacy Policy does not cover any use of Information that a Third Party Service Provider or Advertiser may directly collect from you. **  **Use of Third Party Service Providers’ and Advertisers’ Tracking Technologies is governed by the Third Party Service Providers’ or Advertisers’, as applicable, own specific privacy policies and not this Privacy Policy.  However, please see the “ ** _Your Choices_** ” section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Service Providers.
 
-·         **PLEASE NOTE THAT THE USE AND STORAGE OF FLASH COOKIES TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR BROWSER.   PLEASE SEE BELOW FOR INFORMATION ON HOW TO MANAGE FLASH COOKIES. **
+**5\. Your Choices.**
 
-**ii.    Tracking Technologies Set By the Site.  **With respect to the Tracking Technologies set by the Site, you have a number of options:
+**5.1. Opting-Out of Certain Uses of Personal Information.**
 
-·         You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser.  To do so, you must:
+**5.1.1 In Connection with Marketing and Promotional Emails and Offers.**
 
-o   _Delete existing Tracking Technologies_ through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature; _and_
+You may “opt-out” of receiving marketing and promotional emails from us at any time by using the opt-out mechanism that is contained in each such email. Please note that when you opt-out of receiving marketing and promotional emails from us:
 
-o   _Disable future Tracking Technologies_ through the same browser controls.  Additional information on enabling or disabling most Tracking Technologies may be available through your browser’s support feature.  (See the “help” section of your browser for more information.)
+· you are not opting out of receiving newsletters from us (please see _Section 5.1.2_ below for your newsletter options) and
 
-·         You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings.  This is done through your browser on the Device you use to access the Site.  Additional information on warnings and removal of warnings may be available through your browser’s support feature.
+· you are not opting out of receiving marketing and promotional emails from other VII Brands and you are only opting out of receiving marketing and promotional emails from the VII Brand described in the email. 
 
-This Site is committed to complying with the Self-Regulatory Principles for Online Behavioral Advertising.  [Click here](http://srp.viacom.com/sitefaq.html) for more information about this Site and online behavioral advertising.
+Please note that, if you deactivate your registration as a member of the Site, you shall continue to receive marketing and promotional emails from the Site unless you subsequently exercise your opt-out options above.
 
-Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices.  Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly. ****
+**5.1.2 In connection with Newsletters and other Editorial-based Emails.**
 
-**iii.   Flash Cookies.  **Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies.  For more information about Flash cookies and how to remove them from your computer, please visit [**http://kb2.adobe.com/cps/526/52697ee8.html**](http://kb2.adobe.com/cps/526/52697ee8.html).
+If the Site offers newsletters or other editorial-based emails, you may opt out of receiving any such newsletter emails by using the opt-out mechanism contained in each such newsletter email.  Please note that when you opt-out of receiving any or all newsletters and other editorial-based emails from us:
 
-**iv.   Do-Not-Track Signals and Similar Mechanisms.  **Some web browsers may transmit “do-not-track” signals to the websites with which the browser communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals. 
+· you are not opting out of receiving marketing and promotional emails from us (please see _Section 5.1.1_ above for your marketing and promotional email options) and
 
-We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals.  Instead, as described above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described in Sections 8(b)(i), (ii) and (iii). ** __**
+· you are not opting out of receiving newsletters from other VII websites, applications or other interactive services and you are only opting out of receiving newsletters from the VII Brand described in the newsletter.
 
-**9.   Children/Ineligible Teenagers.**
+Please note that, if you deactivate your registration as a member of the Site, you shall continue to receive newsletters from the Site unless you subsequently exercise your opt-out options above.
 
-CentricTV.com is a general audience site. We do not direct any of our content specifically at children under 13 years of age, and we do not knowingly collect any Personal Information from anyone under 13 years of age. If a parent or guardian believes that CentricTV.com collected Personal Information from a child, please see the Review, Update or Delete Your Personal Information Section.
+**5.1.3 Certain Continuing Rights Regardless of Opt-Outs**. 
 
-In the event that we, or our Parent Companies, subsidiaries or Affiliates, unknowingly send an email or text message to a person that does not meet the age and other eligibility requirements of the Site, such as a child (a person under the age of 13) or others who do not meet the greater age requirements of certain features of this Site (“Ineligible Teenagers”), the child or Ineligible Teenager or the child’s or Ineligible Teenager’s parent or legal guardian (“Parents”) always has the right to unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message. The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18, or the age of majority in your state).
+However, even if you exercise your opt-out rights above, **** we, or VII, may continue to contact you for the other purposes described in the “ ** _How Is Collected Information Used_** ” Section above, such as for maintenance and administrative purposes.
 
-Parents of children or Ineligible Teenagers who wish to terminate their child’s or Ineligible Teenager’s membership must use their child’s or Ineligible Teenager’s User ID to gain direct access to the account and follow the procedures below. To terminate a child’s or Ineligible Teenager’s membership, Parents may send an email to the Site’s Privacy Administrator at legal@bet.com and provide us with your child’s or Ineligible Teenager’s User ID and request to terminate your child’s or Ineligible Teenager’s account and registration. We will not allow direct access to a user’s account and Personal Information by any person without the user’s User ID. If a Parent does not have his or her child’s or Ineligible Teenager’s User ID, the Parent will be required to send an email to the Privacy Administrator at legal@bet.com that includes the Parent’s name, address, telephone and email address, in addition to the child’s or Ineligible Teenager’s name and email address as registered on the Site, plus the child’s or Ineligible Teenager’s date of birth. The Parent must also provide verifiable identification that he or she is the parent or legal guardian of the child or Ineligible Teenager. CentricTV.com will send a confirming email to the Parent via the email address provided to verify that the Parent wishes to terminate his or her child’s or Ineligible Teenager’s account and registration. The Parent must then confirm by sending a reply email to the designated return address. CentricTV.com will then terminate the child’s or Ineligible Teenager’s account but will notify the child or Ineligible Teenager of the termination request via email and will identify the name, address and email address of the person making the request.
+**5.2 Your Choices with Respect to Tracking Technologies.**
 
-**10.   Correcting/Updating Information.**
+**5.2.1 Tracking Technologies Set By Third Party Service Providers and Advertisers.**   Third Party Service Providers and Advertisers may collect Other Information about you when you visit this Site for Customized Advertising to help identify products and services that may interest you and deliver advertising and/or other content tailored to your interests.   Your opt-out options regarding these Third Party Service Providers and Advertisers are described below.
 
-CentricTV.com gives you the following options for informing us of changes to information you have previously provided:
+· You can opt-out of the use of Other Information for certain advertising purposes by using opt-out tools provided by Google’s DoubleClick tool at **<https://www.google.com/intl/en/policies/privacy/#infochoices>** and provided by certain other Third Party Service Providers as described in our Ad Choices link **_[here](http://srp.viacom.com/sitefaq.html)_**. If you use such opt-out tools, your choices only apply to the Third Party Service Providers identified in such links.  **Please note that, if third party browser cookies are disabled (whether by you or automatically by the browser or Device) or you subsequently delete browser cookies, the opt-out choices you have exercised may not function and you may need to enable third party cookies or opt out again in order for your opt-out choices to function.**
 
-(i). Email [contactus@bet.com](mailto:contactus@bet.com)  
-(ii). Send mail to the following postal address:  
-BET Networks  
-One BET Plaza  
-1235 W Street, NE  
-Washington, DC 20018
+· In addition to the Third Party Service Providers described above, these and other Third Party Service Providers and Advertisers may participate in the **_[Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp)_**  and/or the **_[Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/)_**. For example, **_[click here](http://srp.viacom.com/sitefaq.html)_**  for more information on some Third Party Service Providers that we use to provide online behavioral advertising, sometimes called personalized advertising or tailored advertising.  Please click on the links to these tools to learn more about your choices. **Please note that, if third party browser cookies are disabled (whether by you or automatically by the browser or Device) or you subsequently delete browser cookies, the opt-out choices you have exercised may not function and you may need to enable third party cookies or opt out again in order for your opt-out choices to function.**
 
-**11.   Mobile Messaging and Communications.**
+· You may also prevent or exercise choices regarding the use of certain Tracking Technologies for a particular Device and Internet browser combination by using the controls for the Internet browser as described in **_More Information About Cookie Controls_**. Please note that using those controls may affect Tracking Technologies which are browser cookies but may not affect other Tracking Technologies such as Flash LSOs.
 
-CentricTV.com provides its valued users and viewers with the opportunity to register for special promotions, services, news, programming and information delivered via text, SMS, or other online or wireless messaging service (collectively, “Mobile Messages”), including messages sent from CentricTV.com short code 79922. Users must opt-in to participate in Mobile Message programs either by registering on the Site or by sending a Mobile Message directly to short code 79922 (for example, text 106 to 79922 to receive important announcements from 106 & Park). All Mobile Messages from the CentricTV.com short code are delivered by Vibes Media LLC.
+· Nielsen Measurement:  The player on this website and/or this app may feature Nielsen’s proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsen’s digital measurement privacy policy. For more information about Nielsen’s measurement software, see <http://www.nielsen.com/digitalprivacy> and see the “Choices” section of that digital measurement privacy policy to learn about your choices with respect to Nielsen’s measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options. 
 
-Information requested as part of the online registration process is a user’s telephone number and/or wireless email address, but only if specifically requested, and the carrier’s name. Optional information may be requested for specific promotions, such as a user’s preferences regarding goods or services, choices of music or artists, or other similar survey information. Depending on the promotion, we may also collect an email address or other information and, depending on the information collected, the user may also be required to confirm his or her agreement to this Privacy Policy and/or the [Terms of Use Agreement.](http://www.centrictv.com/Site/TermsOfService/)
+· See the **_“More Information on Managing Tracking Technologies”_** section below for additional information about managing Tracking Technologies set by Third Party Service Providers and Advertisers and for information on your choices regarding Identifiers on mobile platforms.
 
-Users who register to receive Mobile Messages acknowledge that they understand and agree that carrier messaging and data rates may apply for all messages sent between the user and CentricTV.com. Under no circumstances will CentricTV.com, its parents, subsidiaries or any Affiliates be responsible for any Mobile Message charges incurred by a user or by a person having access to a user’s wireless device or telephone number.
+**5.2.2. Tracking Technologies Set By the Site.   **With respect to the Tracking Technologies set by the Site, you have a number of options:
 
-We caution that most wireless transmissions are not secured and there is a greater risk of an unknown third party’s interception of messages or a user’s Personal Information when using a wireless Device.
+· You can prevent or exercise choices regarding the use of certain Tracking Technologies for a particular Device and Internet browser combination by using the controls in your Internet browser as described in **_More Information About Cookie Controls_** section below.  Please note that using those controls may affect Tracking Technologies which are browser cookies but may not affect other Tracking Technologies such as Flash LSOs.
 
-**a. Registration.** To the extent we provide wireless marketing services, there may be multiple registration methods provided for such services.
+· See the **_“More Information on Managing Tracking Technologies”_** section below for additional information about managing Tracking Technologies set by the Site and for information on your choices regarding Identifiers on mobile platforms.
 
-**b. Termination of Wireless Services.** Users may cancel a specific Mobile Messaging service at any time by using the unsubscribe mechanism provided by CentricTV.com at the time a message is received. Users may revoke their consent to receive all Mobile Messages from CentricTV.com by sending a message with the phrase STOP ALL to short code 79922 or by sending an email to [mobile@bet.net.](mailto:mobile@bet.net)
+This Site is committed to complying with the Self-Regulatory Principles for Online Behavioral Advertising.  Click **_[our Ad Choices link here](http://srp.viacom.com/sitefaq.html)_**  for more information about this Site and Customized Advertising.  
 
-**c. Termination of Wireless Services.** Users acknowledge that they understand and agree that CentricTV.com and/or Vibes Media LLC may, at its or their sole discretion and without liability to any user, terminate a user’s offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice. CentricTV.com and/or Vibes Media LLC may provide notice of terminations or changes in service on this Site.
+Please note that if you exercise the Ad Choices opt-out above, that only applies to the use of the data for Customized Advertising and we may still use the data for other purposes described in Section 4.2 **_“How is Collected Information Used”_**  above, such as for video playhead tracking and to optimize your video experience.
 
-**d. Use of Information.** CentricTV.com will not use a wireless telephone number or email address, or other Personal Information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use or as stated in the Privacy Policy or the [Terms of Use Agreement.](http://www.centrictv.com/Site/TermsOfService/) We will not share such Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure. We will share such Personal Information with the Operational Service Providers (defined below) that assist us in delivering these wireless services to you and with our Parent Companies, subsidiaries, and Affiliates.
+**5.2.3. More Information on Managing Tracking Technologies.   **With respect to the Tracking Technologies set by the Site, Third Party Service Providers and Advertisers, please note the following with respect to the above opt-out options:
 
-**12.   Accuracy and Confidentiality.**
+· **_Your Choices Regarding the Site’s Use of Information for Customized Advertising_.**  You can prevent the Site’s use of Information collected through Tracking Technologies for Customized Advertising by exercising the opt-outs offered by Third Party Service Providers we use as described in **_[our Ad Choices link here](http://srp.viacom.com/sitefaq.html)_**. Some of your options available in our AdChoices link may opt you out of receiving Customized Advertising across Devices.
 
-It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date. We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or Personal Information or you fail to update such information or Personal Information or contact the Privacy Administrator at legal@bet.com. You are solely responsible for maintaining the strict confidentiality of your User ID, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not us, are solely responsible and liable for your activity, behavior, use and conduct on the Site and for any use of the Site or any other activity or conduct in connection with the Site, by any others who use your User ID, unless and until you notify us that your User ID may have been compromised, misappropriated or improperly taken or used by another party. We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user’s account or any services, features or functions. Bear in mind that when you submit information to us, it does not guarantee that we will permit you to use any or all of the features or functions of the Site.
+· **_More Information About Cookie Controls_.  **For the following Internet browsers, you may prevent or exercise choices regarding browser cookies for a particular Device and Internet browser combination by using the controls described in the following:
 
-**13.   Privacy of Your Postings.**
+**_[Internet Explorer 11](http://windows.microsoft.com/en-US/internet-explorer/delete-manage-cookies#ie=ie-11)_**
 
-We respect the privacy of the contents of any Personal Information related to or contained in a Submission, unless the information is intended to be disclosed (such Personal Information, except as intended to be disclosed, is called “Confidential Personal Information”). However, we reserve the right to monitor, edit, and disclose your use of the Site or Confidential Personal Information to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or the terms of the Terms of Use Agreement, or to protect the interests of our users, Advertisers, Parent Companies, subsidiaries, Affiliates, licensors, suppliers, Operational Service Providers, and others.
+**_[Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)_**
 
-Further, if you use any of the interactive or community features and functions made available on or through the Site, please remember that any information disclosed in these venues is automatically made public and please use caution when disclosing any Personal Information in such space, as you do not know who will access and use your Personal Information or for what purposes. CentricTV.com is in no way responsible for the accuracy, use, or misuse of any information, including Personal Information, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.
+**_[Safari](http://www.apple.com/privacy/use-of-cookies)_**
 
-Please see the [Terms of Use Agreement](http://www.centrictv.com/Site/TermsOfService/) for additional details regarding Submissions.
+**_[Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)_**
 
-**14.   Disclosure to Third Parties.**
+If your Internet browser is not listed above or you otherwise are having difficulties with the links, you may be able to access controls to:
 
-Generally we do not sell, rent, lease or disclose Personal Information to unaffiliated entities or entities that are not our Advertisers, except as stated herein or in the [Terms of Use Agreement.](http://www.centrictv.com/Site/TermsOfService/) When we plan to disclose your Personal Information to Advertisers, we ask for you to opt-in to do so, in which case their use of your information is subject to the Advertisers’ own privacy policies and terms of use. We may disclose Personal Information to our Parent Companies, subsidiaries and Affiliates for marketing and/or administrative purposes and you have the right to opt-out of such disclosure for marketing purpose. For opt-out procedures, please see the Choice/Opt-out Section.
+\-  Delete _existing browser cookies_ through the “Internet Options”, “Settings”, Preferences”, “Options” or similar menu selection in your browser’s menu or otherwise as directed by your browser’s support feature, which means that all pre-existing browser cookies are deleted but does not prevent browser cookies from being used in the future.
 
-**a. Co-Branded Services and Features.** The Site may also offer co-branded services and features, such as events and promotions that we put together with another company or our Parent Companies or Affiliates (“ _Co-Branded Partner_ ”) and that may be hosted on the Site and/or our Co-Branded Partner’s website. We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both the Site and our Co-Branded Partner to collect the Information provided in connection with the specific co-branded feature or service and to use such Information for the fulfillment of the feature or service and for marketing or administrative purposes.  The Co-Branded Partner will be identified on the co-branded feature or service, along with the Co-Branded partner’s privacy policy.  If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly and the use of such information by Co-Branded Partner is subject to Co-Branded Partner’s privacy policy.  
+\-  Disable _browser cookies_ through the same browser controls which means that browser cookies shall not be used in the future but pre-existing browser cookies may not be deleted.  Additional information on enabling or disabling browser cookies and other Tracking Technologies may be available through your browser’s support feature.  (See the “help” section of your browser for more information.)  Disabling may sometimes be referred to as blocking or opting out of browser cookies and relies on browser cookies to remember your choices.  If you delete browser cookies using the controls in your Web browser (as described above) after disabling browser cookies, you may have to disable browser cookies again to re-establish your preferences.
 
-**b. Operational Service Providers.** In addition, CentricTV.com may use third party service providers (“Operational Service Providers”), to perform functions on our behalf for the purpose of administering and maintaining certain social networking services, content, features, functions, and other operations of the Site. These service providers may also manage and store Site user information, including your Personal Information or Sensitive Personal information. Your voluntary use of, or registration for participation on the Site, means that you opt-in and give your consent to both CentricTV.com and its authorized agents or third party service providers to collect and use your Personal Information in connection with providing the services, content, features, functions, and other operations provided on the Site, as well as for marketing or administrative purposes. We use Operational Service Providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we disclose your information to our Operational Service Providers for the purposes of providing services to us
+\-  Choose to have the Device you use to access the Site warn you each time a browser cookie or certain other non-Flash LSO Tracking Technology is being set.  (You can later choose to turn-off such warnings.)  This may be available through your Internet browser on the Device you use to access the Site.  Additional information on warnings and removal of warnings may be available through your browser’s support feature.
 
-**c. Other Non-Affiliated Third Parties.** We will make your Personal Information available to non-affiliated third parties in the following limited circumstances:
+\-  Seek additional information from the provider of your Internet browser through your browser’s support features.
 
-·         When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process);
+The above options may cover browser cookies set by the Site, browser cookies not set by the Site (sometimes called third party cookies) and/or both types of browser cookies.  **PLEASE NOTE THAT WE DO NOT CONTROL AND ARE NOT RESPONSIBLE FOR THE OPERATION OF THESE BROWSER COOKIE CONTROLS.   ALSO, PLEASE NOTE THAT These browser cookie controls are different from Do Not Track options that may also be offered by certain browsers.**
 
-·         If we believe your actions violate any law, regulation, the Terms of Use Agreement, this Privacy Policy, or any Additional Terms or Rules, offerings or any other services, features or functions of the Site, or if you threaten the rights, property or safety of the Site, CentricTV.com, its parent companies, subsidiaries, Affiliates, or any of its or their Operational Service Providers, licensors, suppliers, Advertisers, customers, users, or any other party;
+· **_Many tools discussed above are “Internet browser cookie based_.”**  
 
-·         If, in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, (i) to protect CentricTV.com or our parent companies, subsidiaries, Affiliates, licensors, suppliers, Advertisers, customers and other users and our security, business, property and/or assets, (ii) to limit legal liability, (iii) to defend our interests and/or (iv) to comply with our legal and regulatory obligations or requests by law enforcement agencies or governmental authorities; or
+This means that such tools rely on cookies to remember your choices.  For example, if you delete Tracking Technologies using the controls in your Web browser after disabling such Tracking Technologies, you may have to disable such Tracking Technologies again to re-establish your preferences and, if you exercise opt-outs through the mechanisms described in our Ad Choices link, and then delete or block browser cookies, you may need to exercise your opt-outs through these mechanisms again.  
 
-·         In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us, or our parent companies, subsidiaries, or Affiliates.
+· **_The tools are “Internet browser and Device-specific” or “Device-specific”_**
 
-**15.   Security & Protection of Personal Information.**  
-We maintain reasonable standards of security and confidentiality. Unfortunately, no data transmission over the Internet can be 100% secure. For most Internet sites, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. As a result, while we strive to protect your Personal Information, CentricTV.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.
+Note that when you exercise your options using controls for the Internet browser, your choices shall only apply to the specific Internet browser on that Device and not across Devices.  This means, for example, that if you block or disable browser cookies for Internet Explorer 9 on one Device, this choice shall not block or disable browser cookies when you use Mozilla Firefox on the same Device or on a different Device using Internet Explorer 9.  Further, you may need to separately exercise your options for other platforms, such as mobile platform (as described below). See **_[our Ad Choices link here](http://srp.viacom.com/sitefaq.html)_** for more information about this Site and other options you may have regarding Customized Advertising across Devices.
 
-**16.   Review, Update or Delete Your Personal Information.**  
-Generally, you may review, update or delete your Personal Information collected by the Site. You may also correct factual inaccuracies. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. Deletion or attempted deletion of certain Personal Information, such as your user name, may not be permitted and/or may result in suspension of your account or termination of any registration you may have made.   
-Personal Information collected for certain entries are subject to corporate and regulatory record-keeping requirements and will not be deleted upon the user’s request, unless the entrant is a child under the age of 13 years old.
+· **_Automatic Disabling of Third Party Cookies and Effect on Certain Opt-Outs_.**  Some Device manufacturers and/or browsers (such as Safari) may preset their browser to automatically disable browser cookies from websites, applications or other interactive services other than those you visit directly (sometimes referred to as third party cookies) and, **if so, the opt-out choices you have exercised with regard to third parties may not function and you may need to enable third party cookies in order for your opt-out choices to function**.  For example, unless you enable third party cookies on Safari, your opt-out choices made on the Digital Advertising Alliance’s Self-Regulatory Program for Online Behavioral Advertising site and on the Network Advertising Initiative site may not function.
 
-  
-Children under the age of 13 that are unknowingly registered on the Site are in violation of the [Terms of Use Agreement.](http://www.centrictv.com/Site/TermsOfService/) Parents (including legal guardians) of children that registered on the Site in violation of the [Terms of Use Agreement](http://www.centrictv.com/Site/TermsOfService/) who wish to terminate their child’s membership must follow the steps for termination set forth in the section entitled Children/Ineligible Teenagers.
+· **_You shall still receive advertisements_.**  Deleting or disabling Third Party Service Providers’, Advertisers’ or the Site’s Tracking Technologies does not mean that you shall no longer receive online ads.  If you delete or disable third party Tracking Technologies (or, if third party Tracking Technologies are automatically disabled, if you do not enable such Tracking Technologies), this only means that such ads may no longer be tailored to your specific viewing habits or interests, but you shall continue to see ads on this Site and you may see the same advertisement repeatedly or may see advertisements more frequently unless you enable Tracking Technologies set by third parties or unless we offer alternative means such as enlisting the assistance of Third Party Service Providers in order for the Site to set Tracking Technologies for frequency capping purposes as described in the **_“Information Collected Through the Use of Cookies and Other Tracking Technologies”_** section.
 
-See _the “Posts and Submissions” section_ of the Terms of Use for how registered users of this Site who are California residents and are under 18 years of age may request removal of content or Information in such users’ postings of content on the Site. 
+· **_Limitations Regarding Web Beacons_.**  Web beacons cannot be deleted or disabled using the above opt-out options, but may be affected if such web beacons rely on browser cookies or other deleted or disabled Tracking Technologies to track your activities. 
 
-  
-We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user’s account or any services, features or functions. And, if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries.
+· **_How to Manage Flash LSOs (sometimes known as Flash Cookies)_.**
 
-**17.   Contacting CentricTV.com.**
+**Control of Flash LSOs (sometimes known as Flash Cookies) Must Be Handled Separately.   PLEASE NOTE THAT THE USE AND STORAGE OF FLASH LSOs TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR INTERNET BROWSER.**  Deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Service Providers and Advertisers and set by this Site through the above options shall not remove Flash LSOs.  For more information about Flash LSOs and how to remove them from your computer, please visit [**http://kb2.adobe.com/cps/526/52697ee8.html**](http://kb2.adobe.com/cps/526/52697ee8.html). If you remove Flash LSOs, you may not have access to certain features of the Site and some of our other services may not function properly.
 
-If you have any privacy-related concerns with respect to operation of the Site, questions about this privacy statement or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, please feel free to contact:
+· **_Other Effects of Managing Tracking Technologies_.**
 
-Privacy Administrator  
-Office of the General Counsel   
-BET Networks  
-One BET Plaza  
-1235 W Street, NE  
-Washington, DC 20018  
-(202) 608-2000  
-[legal@bet.com](mailto:legal@bet.com)
+In addition to the above, if you delete or disable Tracking Technologies set by the Site, the Site may no longer be able to offer certain features or functionality to you, such as remembering your preferences, remembering your username, enabling Single VII Sign-On, saving your player settings or other purposes described in “ ** _Other Information Collected By Us_** ” above, and some of our other services may not function properly.  In addition to the above, if you disable or delete Tracking Technologies set by Third Party Service Providers and Advertisers (or if such Tracking Technologies are automatically disabled on your Device or browser), the Site may no longer be able to offer certain functionality to you, such as enabling SMN login or saving your player settings and certain services or advertisements may not work for such Devices or browsers. 
 
-Please review our Terms of Use Agreement which governs your general use of the Site and our [Submission Agreement](http://www.centrictv.com/Site/VideoSubmissionAgreement/) which governs material or content that you submit to us or upload to the Site. Any capitalized terms used but not defined in this Privacy Policy shall have the meanings set forth in the Terms of Use Agreement.
+· **_Mobile Platforms_.**
 
-### ****   
+Certain mobile platforms, such as Apple or Google, may offer users choice regarding the Identifiers we, Third Party Service Providers or Advertisers may access and use, which may not be browser cookie based.  We encourage you to review and understand the choices that such mobile platforms may provide to you regarding these Identifiers.
 
+· **_Certain Identifiers_.**
+
+Certain Identifiers we set may not be deleted, blocked or disabled using the above opt-out options, but may be affected if such Identifiers rely on, or are associated with, browser cookies or other Tracking Technologies.
+
+· **_Do-Not-Track Signals and Similar Mechanisms_.**
+
+Some web browsers may transmit “do-not-track” signals to the websites with which the browser communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals. 
+
+We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals.  Instead, as described above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for Customized Advertising purposes and the browser cookie controls and other mechanisms described in this Section 5.2.3 and in Sections 5.2.1 and 5.2.2.
+
+**6\. Text Messaging Marketing and Promotions.  **
+
+The Channel may provide users and viewers with the opportunity to register for Text Services.  See our **_[Terms of Use Agreement](https://web.archive.org/site/termsofservice.html)_** for more information on Text Services we may offer.  If we do so, we will require your prior express consent for any Text Services in accordance with the nature of the Text Service and applicable laws, rules and regulations. 
+
+When you register for the Channel’s Text Services, you acknowledge, understand and agree that you may be charged by your wireless carrier for the ability to send or receive all such messages.  The standard messaging rates of your wireless carrier shall apply to all Text Services, unless noted otherwise.  **Under no circumstances shall the Channel or VII be responsible for any wireless service charges incurred by you or by a person that has access to your wireless device, telephone number, or email address.** If you change or deactivate your wireless telephone number, you agree to notify us when your wireless telephone number is no longer associated with you and identify such wireless phone number to ensure that future messages directed to you are not sent to the person to whom your old number has been or will be assigned.
+
+We may share your Personal Information with the operational service providers that assist us in delivering Text Services and similar services to you, with VII and as otherwise provided in “ ** _Sharing and Disclosure of Information_** ” below.
+
+Please note that you may always send a text message that says “HELP” to receive help on text messaging.
+
+**7\. Sharing and Disclosure of Information.**
+
+**7.1 Sharing and Disclosure of Personal Information.**
+
+We may disclose your Personal Information within the VII family or to third parties under the circumstances described below. 
+
+**7.1.1 Disclosure to VII; Single VII Sign-On.**
+
+In addition to disclosing certain Information to VII in connection with Single VII Sign-On, we may disclose Personal Information to VII for marketing, administrative and/or other purposes.  You can choose to opt-out of certain such uses as described in the “ **Opting-Out of Certain Uses of Personal Information”** Section above.
+
+**7.1.2 Disclosure of Certain Information in Postings Intended to Be Disclosed.  **
+
+Certain Personal Information associated with a Posting may be intended for disclosure (“ _Posting Information_ ”), such as username.  We shall disclose Posting Information in connection with the display of, and other services relating to, such Posting. 
+
+**7.1.3 Disclosure In Connection with Co-Branded Services and Features.**  
+
+The Site may also offer services and features, such as events and Promotions, that we put together with another company (" _Co-Branded Partner_ ") and that may be hosted on the Site and/or our Co-Branded Partner’s or a Promotion-specific website, application or other interactive service. The Co-Branded Partner shall be identified on the co-branded feature or service and you shall be given the opportunity to opt into any disclosure by VII to the Co-Branded Partner for marketing purposes of Personal Information VII collects as part of the co-branded service or feature and be provided with a link to the Co-Branded Partner’s privacy policy.  If you wish to opt-out of a Co-Branded Partner's future use of such Personal Information for marketing purposes, you shall need to contact the Co-Branded Partner directly and the use of such information by Co-Branded Partner is subject to Co-Branded Partner’s privacy policy.  Please note that your Information may be shared with Co-Branded Partners for purposes of administering or conducting the co-branded services and features (but not for marketing purposes) without a separate opt in (for example, if the Co-Branded Partner is administering a Promotion you have entered, your Information may be shared with the Co-Branded Partner so that the Co-Branded Partner can verify your eligibility and/or contact you if you are a potential winner).
+
+**7.1.4 Disclosure to Operational Service Providers.**
+
+We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining the Site’s services, features, functions and operations.  We shall refer to these third parties as “ _operational service providers_ ”.  We use operational service providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we disclose your Personal Information to operational service providers for the purpose of providing services to us. 
+
+**7.1.5 Disclosure to Certain Other Third Parties.**   
+
+In addition to the above, we make your Personal Information available to certain third parties in the following limited circumstances:
+
+· When we are compelled to do so by a governmental agency, court or other entity ( _e.g.,_ to respond to subpoenas, court orders or legal process) or if requested by a governmental agency or other authority as part of an investigation;
+
+· If we believe your actions violate any law, rule, regulation and/or the **[Terms of Use Agreement](https://web.archive.org/site/termsofservice.html)** , including, without limitation, this Privacy Policy or Additional Terms;
+
+· In connection with Promotions, as necessary to administer the Promotion or as required by applicable laws, rules or regulations (for example, to provide winners’ lists or make required filings as appropriate);
+
+· If you agree to have your Personal Information shared with or otherwise disclosed to a third party for marketing or other purposes, in which case the third party’s use of your Personal Information is subject to the third party’s own privacy policy;
+
+· If, in our sole discretion, we believe such disclosure to be necessary or appropriate: to investigate or resolve possible problems or inquiries; to protect our business and assets or the rights, property or safety of the Channel, VII, or any of its or their operational service providers, licensors, suppliers, Advertisers, customers, users, or any other party; to limit our legal liability; to defend our interests; to enforce this Privacy Policy or the Terms of Use Agreement and/or to comply with our legal, regulatory, audit and compliance obligations or requests by law enforcement or other governmental authorities and/or
+
+· In the event of a bankruptcy, merger, acquisition, sale, transfer of control, joint venture or other business combination involving us, or VII.
+
+**7.2 Sharing and Disclosure of Other Information.**
+
+We may share Other Information with, or otherwise disclose Other Information to, third parties, but we do not disclose Personal Information to them except as described in this Privacy Policy. For example, we may share with third parties a string of numbers, letters, and/or symbols that replaces your identifying information (for example, your email address). This string of characters does not itself identify you. Those third parties may use that Other Information according to their privacy policies, for purposes such as serving you with more relevant ads.
+
+**8\. Reviewing, Updating or Deleting Information; Settings.  **
+
+**8.1 Site Registration.  ** If you registered for this Site, generally, you may review, update or delete certain Information collected by the Site by, if you are a registered user of the Site, logging into the Site and using the tools provided to edit such Information.  However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information.  We shall allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current. 
+
+**8.2 Single VII Sign-On.**   If you used Single VII Sign-On to register for this Site, you may also exercise certain privacy settings options by logging into the Site and accessing certain privacy settings that may be offered by the Site.  Such privacy setting options may include offering you the ability to manage your profile, limiting how much of your Information is displayed or published to third party sites, setting your profile to private so that some or all of your complete profile is only visible to certain relationships (although certain profile information may always be required to be visible), controlling other display and privacy settings (such as how your profile appears in search results and who may send you email messages) and deleting comments posted to your profile.
+
+**8.3 Other Options.**   As a registered user, you may also be provided with options to receive certain notifications and to publicly publish activities you engage in within the Site.  See also _Section 10_ of the Terms of Use for how registered users of this Site who are California residents and are under 18 years of age may request removal of content or Information in Postings. 
+
+**8.4 Limitations.**
+
+Certain Information collected for certain entries into Promotions are subject to corporate and regulatory recordkeeping requirements and shall not be deleted upon the user’s request, unless the entrant is a child under the age of 13 years old.
+
+If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we shall provide to you an explanation of why access cannot be provided and contact information for further inquiries. 
+
+**8.5 Children or Ineligible Teenagers.**
+
+If we, or VII, inadvertently send an email or text message to a person that does not meet the age and other eligibility requirements of the Site, such as a child (a person under the age of 13) or others who do not meet the greater age requirements of the Site or certain features of this Site (“ _Ineligible Teenagers_ ”), the child or Ineligible Teenager, or parent or legal guardian of the child or Ineligible Teenager (the “ _Parent_ ”), may unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message.  The same unsubscribe process is available to a Parent of a minor (a person under the age of 18, or the age of majority in your state). 
+
+In addition, Parents who wish to terminate their child’s or Ineligible Teenager’s membership must either (i) use their child’s or Ineligible Teenager’s User ID to gain direct access to the account, and follow the procedures in the “Deactivation/Termination of Your Registration or Use” Section of the **[Terms of Use Agreement](https://web.archive.org/site/termsofservice.html)**  to terminate their child’s or Ineligible Teenager’s membership or (ii) send an email to [contactus@bet.com](mailto:contactus@bet.com) and provide us with your child’s or Ineligible Teenager’s User ID, the URL of the Site and request to terminate your child’s or Ineligible Teenager’s account and registration or (iii), if a Parent does not have his or her child’s or Ineligible Teenager’s User ID, send an email to contactus@bet.com that includes the Parent’s name, address, telephone and email address, the child’s or Ineligible Teenager’s name and/or email address as registered on the Site, and the URL of the Site.  If a Parent sends an email under subsections (ii) or (iii), the Site may send a confirming email to the Parent via the email address provided to verify that the Parent wishes to terminate his or her child’s or Ineligible Teenager’s account and registration and may provide or request additional information (for example, requesting that the Parent provide verifiable identification that they are the parent or legal guardian of the child or Ineligible Teenager) before terminating the child’s or Ineligible Teenager’s account and, upon or prior to termination, may notify the child or Ineligible Teenager of the termination request via email and identify the name, address and email address of the person making the request.
+
+**9\. Protection of Information.**
+
+While the Internet and data transmission over the Internet is not 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information.  However, regardless of our efforts and the Device you use to access the Site, it is possible that third parties may unlawfully intercept or access transmissions, private communications or Information.  While the Internet and data transmission over the Internet is not 100% secure from intrusion, we conduct financial transactions via secured transmissions.  We also limit our employees’ access to Information collected by the Site to those individuals who are authorized for the proper handling of such Information and any employee found violating our standards of security and confidentiality shall be subject to our disciplinary processes.  We request that our operational service providers follow similar standards of security and confidentiality.
+
+**_Phishing_.**
+
+Phishing attacks attempt to steal consumers’ personal identity data and financial account credentials.  “Phishers” use ‘spoofed’ emails to lead consumers to counterfeit websites, or otherwise respond in a manner that is, designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers.  **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD!**   If you receive such email communication, please forward it immediately to the Site’s Privacy Administrator at contactus@bet.com, and then immediately delete the fraudulent email from your computer. 
+
+**10\. Your California Privacy Rights.  **
+
+If you are a resident of the State of California, we provide you with notice and you may choose to disclose your Personal Information to third parties (such as Advertisers) for marketing purposes (see “ ** _Sharing and Disclosure of Personal Information_** ” above).  Therefore, pursuant to the California Civil Code, the notice and choice we provide regarding disclosure of your Personal Information to third parties for marketing purposes (and this Section) satisfies our obligation to otherwise maintain or furnish users with a list of the names and addresses of third parties who receive Personal Information from us for marketing purposes.   
+
+If you are a California resident and have additional questions on our sharing of your Personal Information with third parties for marketing purposes, you may send us your questions by email to the Privacy Administrator at contactus@bet.com **.  **
+
+**All requests must be labeled "Your California Privacy Rights" on the email subject line.** For all requests, please clearly state that the request is related to “Your California Privacy Rights”, include your name, street address, city, state, zip code and email address (your street address is optional if you wish to receive a response to your request via email), include the name and URL (if applicable) of the website, application or other interactive service and indicate your preference on how our response to your request should be sent (email or postal mail).  **We shall not accept requests via postal mail, telephone or facsimile.** We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide complete information.
+
+**11\. Changes to this Privacy Policy and Notice.**
+
+We reserve the right to revise this Privacy Policy at any time for any reason in our sole discretion by posting an updated Privacy Policy without advance notice to you.  Such revisions shall be effective immediately upon posting and if you use the Site after they become effective it will signify your agreement to be bound by the changes.  We shall post or display notices of material changes on the Site’s homepage and/or otherwise on the Site and/or e-mail you or notify you upon login about these changes; the form of such notice is at our discretion.  However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates. 
+
+**12\. Miscellaneous.**
+
+**12.1 Accuracy and Confidentiality.   **
+
+It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date.  **We cannot and shall not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete** **information or Personal Information or you fail to update such information or Personal Information.   **We shall reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy.
+
+You are solely responsible for maintaining the strict confidentiality of your User ID, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not us, are solely responsible and liable for the activity, behavior, use and conduct on the Site under your User ID (whether used by you or any others who use your User ID), unless and until you notify us that your User ID may have been compromised, misappropriated or improperly taken or used by another party.   We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user’s account or any services, features or functions.
+
+Further, if you use any of the Communities features and functions made available on or through the Site, please remember that any Information disclosed in these venues is automatically made public and please use caution when disclosing any Personal Information in the Communities, as you do not know who may access and use your Personal Information or for what purposes.   The Site and VII are in no way responsible for the accuracy, use, or misuse of any information, including Personal Information, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues shall be available publicly, even without your knowledge or authorization.  We reserve the right, in our sole discretion, to set certain limits on the availability of some or all features within our Communities.  If you use Single VII Sign-On or SMN, your profile may display Information to the general public, including display name, profile URL and your member relationships, unless and if Single VII Sign-On or SMN allows you to make such Information private.  Publicly displayed Information and Postings may be indexed by third party search engines and appear in search results on third party websites.
+
+**12.2 Questions.**
+
+If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to **[contactus@bet.com](mailto:contactus@bet.com).**  For all requests, please include your name, street address, city, state, zip code and email address (your street address is optional if you wish to receive a response to your request via email), include the name and URL (if applicable) of the website, application or other interactive service, indicate your preference on how our response to your request should be sent (email or postal mail) and include the description “Privacy Request” in the subject of the email.  **We shall not accept requests via postal mail, telephone or facsimile.** We are not responsible for notices that are not labeled or sent properly, or may not be able to respond if you do not provide complete information.
+
+**12.3 Sole Statement.**
+
+This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
+
+**12.4 Other.**
+
+**Please review** our **[Terms of Use Agreement](https://web.archive.org/site/termsofservice.html)** which governs your use of the Site.  Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. 
+
+This Privacy Policy was last modified on the date indicated above and is effective immediately.
+
+Copyright © 2017 **   **Viacom International Inc. - All Rights Reserved.
