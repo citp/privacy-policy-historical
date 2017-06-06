@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uum.edu.my privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120113702id_/http%3A//www.uum.edu.my/index.php/psp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uum.edu.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081436id_/http%3A//www.uum.edu.my/index.php/psp) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
-[](http://uum.edu.my/)
+[](http://www.uum.edu.my/)
 
 At UUM we believe strongly in protecting our users' privacy. We will not wilfully disclose information about our users to any third party without first receiving our users’ consent.  
 This Privacy Policy sets out the privacy practices for the services offered on any UUM owned and/or operated websites ("the Website").  
@@ -40,6 +40,6 @@ __  servicedesk@uum.edu.my
 ### UUM Kuala Lumpur
 
 __  uumkl@uum.edu.my  
-__  +603-2610 300  __  +603-269 4922  
+__  +603-2610 3000  __  +603-2694 9228  
 __  41-3 Jalan Raja Muda Abd Aziz,   
 50300 Kuala Lumpur, Malaysia
