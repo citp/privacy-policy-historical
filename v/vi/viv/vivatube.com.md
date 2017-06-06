@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vivatube.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119195109id_/http%3A//www.vivatube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivatube.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174308id_/http%3A//www.vivatube.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - VivaTube.com
+# Privacy Policy - vivatube.com
 
 ### Updated May 24, 2012
 
-Pursuant to our [Terms of Use](https://web.archive.org/static/terms), this document describes how we treat personal information related to your use of VivaTube.com (the “Website”), including information you provide when using it.
+Pursuant to our [Terms of Use](https://web.archive.org/static/terms), this document describes how we treat personal information related to your use of vivatube.com (the “Website”), including information you provide when using it.
 
 We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
