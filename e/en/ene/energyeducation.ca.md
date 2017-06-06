@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyeducation.ca privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223105312id_/http%3A//energyeducation.ca/encyclopedia/Project%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyeducation.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100549id_/http%3A//energyeducation.ca/encyclopedia/Project%3APrivacy_policy) for the most accurate reproduction.*
 
 # Energy Education:Privacy policy - Energy Education
 
