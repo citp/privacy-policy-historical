@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebtemplates.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605103817id_/http%3A//www.freewebtemplates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebtemplates.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222002id_/http%3A//www.freewebtemplates.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Web Templates
 
@@ -54,7 +54,7 @@ Our Website may link to or contain links to other third party websites that we d
 
 You may contact us as provided below if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; or (c) want to opt-out from receiving future promotional correspondence, including emails, from us or our affiliated companies; 
 
-[http://www.freewebtemplates.com/contact/](https://web.archive.org/contact/)
+[https://www.freewebtemplates.com/contact/](https://web.archive.org/contact/)
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits, features and services offered on or through our Website. 
 
