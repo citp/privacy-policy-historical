@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixtapemonkey.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521034002id_/https%3A//mixtapemonkey.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtapemonkey.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065858id_/http%3A//mixtapemonkey.com/privacy.php) for the most accurate reproduction.*
 
-# MixtapeMonkey.com | Contact
+# MixtapeMonkey | Contact
 
 [](https://web.archive.org/)
 
@@ -138,6 +138,6 @@ monkeymixtape@gmail.com
 
 Last Edited on 2015-05-11
 
-Copyright © 2011-2016 MixtapeMonkey.com | Created by [Mark Serrano](http://markserranopro.com/)
+Copyright © 2011-2016 MixtapeMonkey, LLC | Created by [Mark Serrano](http://markserranopro.com/)
 
-**Disclaimer:** All mixtapes on this site are for promotional use only. We do not sell mixtapes. We do not claim any special rights to any mixtape. If you have a copyrighted mixtape on our site that you wish to take down, please [contact us](https://web.archive.org/web/20160521034002id_/http://mixtapemonkey.com/contact.php).
+**Disclaimer:** All mixtapes on this site are for promotional use only. We do not sell mixtapes. We do not claim any special rights to any mixtape. If you have a copyrighted mixtape on our site that you wish to take down, please [contact us](https://web.archive.org/contact.php).
