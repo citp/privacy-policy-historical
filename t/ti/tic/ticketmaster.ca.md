@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.ca privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618095720id_/http%3A//www.ticketmaster.ca/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134439id_/http%3A//www.ticketmaster.ca/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster.ca - Help | Privacy Policy
 
