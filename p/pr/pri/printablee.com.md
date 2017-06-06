@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printablee.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202063758id_/http%3A//www.printablee.com/page/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printablee.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032503id_/http%3A//www.printablee.com/page/privacy.php) for the most accurate reproduction.*
 
 # Everything Printable Images Directory - printablee.com
 
