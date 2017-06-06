@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cchubnigeria.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120161955id_/http%3A//cchubnigeria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cchubnigeria.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032003id_/http%3A//cchubnigeria.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Co-Creation Hub Nigeria
 
 We care about your privacy. This Privacy Policy will tell you what information we collect; how we collect it, how we use it, how we disclose it, how we protect it, and what choices you have with respect to all of the above. We urge you to read this Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
