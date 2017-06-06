@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the getmailbird.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702012148id_/https%3A//www.getmailbird.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmailbird.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172148id_/https%3A//www.getmailbird.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mailbird
+# Don't like Outlook? Get Mailbird.
+
+## Privacy Policy
 
 This Privacy Policy governs the manner in which Mailbird collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.getmailbird.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Mailbird.
 
