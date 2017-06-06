@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aws.org privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822055040id_/http%3A//www.aws.org/about/TermOfUse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aws.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032859id_/http%3A//www.aws.org/about/TermOfUse) for the most accurate reproduction.*
 
 # AWS Terms of Use and Website Privacy Policy : About : American Welding Society
 
@@ -68,38 +68,37 @@ We may on occasion combine information we receive online with outside records to
 
 We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-Shared data
-
+ **Shared Data**  
 We partner with other third parties to provide specific services. For example, exposition registration services may be provided by a third party. These third parties are not allowed to use information about you except for the purpose of providing these services.
 
 We may share aggregated or composite information that does not identify you personally with our advertisers, exhibitors and business affiliates. AWS may be required to provide information about any of its customers or prospective customers to law enforcement or government agencies.
 
- **Security**
-
+ **Security**  
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.
 
-Links??This Web site contains links to other sites. Please be aware that AWS cannot be responsible for the content of other sites or for the privacy practices of other sites. We do not necessarily endorse the content of other sites. We urge you to read the privacy statements of Web sites that collect personally identifiable information.
+ **Links**  
+This Web site contains links to other sites. Please be aware that AWS cannot be responsible for the content of other sites or for the privacy practices of other sites. We do not necessarily endorse the content of other sites. We urge you to read the privacy statements of Web sites that collect personally identifiable information.
 
- **Students and children**
-
+ **Students and children**  
 AWS will not knowingly collect personally identifiable information from anyone under 13 years of age, unless it is necessary to respond to a one-time request. Once the request has been answered, AWS will delete the requesting child's personally identifiable information.
 
 If you are younger than 13, you must get permission from your mother or father or legal guardian before you enter your name or any information about yourself on this Web site. Do not enter your name, e-mail address, telephone number or any other information that might help identify you or your family or where you live, whether in response to a form, in a chat room or on a bulletin board.
 
-Preferences, permission, opt-out??If you wish to be excluded from marketing by AWS via mail and/or e-mail, phone or fax, please contact our Membership Department at (800) 443-9353 or e-mail membership@aws.org to make that change to your account.
+ **Preferences, permission, opt-out**  
+If you wish to be excluded from marketing by AWS via mail and/or e-mail, phone or fax, please contact our Membership Department at (800) 443-9353 or e-mail membership@aws.org to make that change to your account.
 
-Updates to this privacy statement??AWS may, in its sole discretion, update this statement at any time by posting the amended statement on the Web site, and it shall be effective upon posting.
+ **Updates to this privacy statement**  
+AWS may, in its sole discretion, update this statement at any time by posting the amended statement on the Web site, and it shall be effective upon posting.
 
-Contact, questions, comments, complaints??If you would like to communicate with AWS regarding privacy issues, or have questions, comments, or complaints regarding this Web site or its policy practices, or if you feel that AWS is not abiding by our privacy policy statement, please contact our Membership Department at (800) 443-9353 or e-mail membership@aws.org.
-
-Last revised: September 4, 2014
+ **Contact, questions, comments, complaints**  
+If you would like to communicate with AWS regarding privacy issues, or have questions, comments, or complaints regarding this Web site or its policy practices, or if you feel that AWS is not abiding by our privacy policy statement, please contact our Membership Department at (800) 443-9353 or e-mail [membership@aws.org](mailto:membership@aws.org).
 
 We can be contacted at:
 
-AWS  
-8669 Doral Blvd., Suite 130  
-Doral, FL 33166  
+ **American Welding Society**  
+8669 NW 36 Street, Suite 130  
+Miami, FL 33166  
 Phone: (305) 443-9353  
 Fax: (305) 443-7559  
 Toll free: (800) 443-9353  
-info@aws.org
+[info@aws.org](mailto:info@aws.org)
