@@ -1,0 +1,375 @@
+<!--The following is the downloaded HTML source of the tamrielfoundry.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606061945id_/http%3A//tamrielfoundry.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<title>Privacy Policy</title>
+<meta name="description" content="Tamriel Foundry's Privacy Policy">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="SHORTCUT ICON" href="http://tamrielfoundry.com/wp-content/themes/apoc2/images/icons/favicon.ico">
+<link rel="stylesheet" id="font-awesome-css" href="http://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=4.1.0" type="text/css" media="all">
+<link rel="stylesheet" id="cinzel-css" href="http://fonts.googleapis.com/css?family=Cinzel%3A400%2C700&amp;ver=4.0.13" type="text/css" media="all">
+<link rel="stylesheet" id="open-sans-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&amp;subset=latin%2Clatin-ext&amp;ver=4.0.13" type="text/css" media="all">
+<link rel="stylesheet" id="primary-css" href="http://tamrielfoundry.com/wp-content/themes/apoc2/style.css?ver=1465012875" type="text/css" media="all">
+ 
+<script type="text/javascript">
+		var gptadslots=[];
+		(function(){
+			var useSSL = 'https:' == document.location.protocol;
+			var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+		})();
+	</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+
+		//For 300x250
+		var mapping1 = googletag.sizeMapping().
+		addSize([1024, 500], [300, 250]).
+		addSize([768, 400], [300, 250]).
+		addSize([470, 400], [300, 250]).
+		addSize([360, 400], [320, 50]).
+		addSize([0, 0], [320, 50]).
+		build();
+
+		//For 728x90
+		var mapping2 = googletag.sizeMapping().
+		addSize([1024, 500], [728, 90]).
+		addSize([768, 400], [728, 90]).
+		addSize([470, 400], [728, 90]).
+		addSize([360, 400], [320, 50]).
+		addSize([0, 0], [320, 50]).
+		build();
+		
+		//Adslot 1 declaration
+		gptadslots[1]= googletag.defineSlot('/1045124/TamrielFoundry', [[728,90]],'div-gpt-ad-821545701545728213-1').defineSizeMapping(mapping2).addService(googletag.pubads());
+
+		//Adslot 2 declaration
+		gptadslots[2]= googletag.defineSlot('/1045124/TamrielFoundry', [[300,250]],'div-gpt-ad-821545701545728213-2').defineSizeMapping(mapping1).addService(googletag.pubads());
+
+		//Adslot 3 declaration
+		//gptadslots[3]= googletag.defineSlot('/1045124/TamrielFoundry', [[1,1]],'div-gpt-ad-821545701545728213-3').addService(googletag.pubads());
+
+		//Adslot 4 declaration
+		//gptadslots[4]= googletag.defineSlot('/1045124/TamrielFoundry_Interstitial', [[1,1]],'div-gpt-ad-821545701545728213-4').addService(googletag.pubads());
+
+		googletag.pubads().setTargeting('section',['page-id-665332']).setTargeting('platform',['']).setTargeting('GS_Game',['TF_Game']).setTargeting('GS_Genre',['TF_Genre']).setTargeting('URL',['/privacy-policy/']);
+		googletag.pubads().enableSyncRendering();
+		googletag.enableServices();
+	</script>
+ 
+ 
+<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "20676402" });
+	  (function() {
+	    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	    el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=20676402&cv=2.0&cj=1"/>
+</noscript>
+ 
+</head>
+<body class="page page-id-665332 page-template-default logged-out default-template">
+<div id="header-container">
+<nav id="admin-bar" role="navigation">
+<div id="top-login" class="logged-out">
+<form name="top-login-form" id="top-login-form" action="http://tamrielfoundry.com/wp-login.php" method="post">
+<fieldset>
+<input type="text" name="log" id="username" value="" placeholder="Username" size="20" tabindex="1">
+<label for="log"><i class="fa fa-user"></i></label>
+<input type="password" name="pwd" id="password" value="" placeholder="Password" size="20" tabindex="1">
+<label for="pwd"><i class="fa fa-key"></i></label>
+<input type="checkbox" name="rememberme" id="rememberme" value="forever" tabindex="1">
+<label for="rememberme">Save</label>
+<input type="hidden" name="redirect_to" id="login-redirect" value="http://tamrielfoundry.com/privacy-policy/">
+<input type="hidden" id="security" name="security" value="4cb1396f4b"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">
+<button type="submit" name="wp-submit" id="login-submit" class="admin-bar-login-link" tabindex="1"><i class="fa fa-lock"></i>Log In</button>
+<a id="register" class="admin-bar-button button" href="http://tamrielfoundry.com/signup" title="Register a new user account!"><i class="fa fa-user"></i>Register</a>
+<a id="lostpass" class="admin-bar-button button" href="http://tamrielfoundry.com/wp-login.php?action=lostpassword" title="Lost your password?"><i class="fa fa-question"></i>Lost Password</a>
+</fieldset>
+<div id="top-login-message"></div>
+</form>
+<form name="top-search-form" id="top-search-form" action="http://tamrielfoundry.com/advsearch/" method="post">
+<fieldset>
+<input type="text" name="s" id="search" value="" placeholder="Search Articles">
+<label for="search"><i class="fa fa-search"></i></label>
+<input type="hidden" name="type" value="posts">
+</fieldset>
+</form>
+</div> 
+</nav>
+<header id="site-header" role="banner">
+<a id="site-title" href="http://tamrielfoundry.com" title="Tamriel Foundry"></a>
+ 
+<div id="div-gpt-ad-821545701545728213-1">
+<script type="text/javascript">googletag.display('div-gpt-ad-821545701545728213-1');</script>
+</div>
+ 
+</header>
+<nav id="primary-menu">
+<div id="menu-container">
+<ul id="top-menu">
+<li class="top first">
+<span class="top-label"><a href="http://tamrielfoundry.com">Home</a></span>
+</li>
+<li class="top">
+<span class="top-label"><i class="fa fa-angle-down"></i><a href="#">Game Info</a></span>
+<div class="dropdown">
+<div class="dropdown-content">
+<div class="col1">
+<h3 class="double-border">Classes</h3>
+<ul class="submenu">
+<li><a href="http://tamrielfoundry.com/dragonknight/">Dragonknight</a></li>
+<li><a href="http://tamrielfoundry.com/templar/">Templar</a></li>
+<li><a href="http://tamrielfoundry.com/sorcerer/">Sorcerer</a></li>
+<li><a href="http://tamrielfoundry.com/nightblade/">Nightblade</a></li>
+</ul>
+</div>
+<div class="col1">
+<h3 class="double-border">Guides</h3>
+<ul class="submenu">
+<li><a href="http://tamrielfoundry.com/skill-points/">Skill Points</a></li>
+<li><a href="http://tamrielfoundry.com/races/">Racial Comparison</a></li>
+<li><a href="http://tamrielfoundry.com/dungeon-sets/">Dungeon Sets</a></li>
+</ul>
+</div>
+<div class="col2">
+<h3 class="double-border">Crafting</h3>
+<ul class="submenu">
+<li><a href="http://tamrielfoundry.com/crafting/alchemy">Alchemy</a></li>
+<li><a href="http://tamrielfoundry.com/crafting/blacksmithing">Blacksmithing</a></li>
+<li><a href="http://tamrielfoundry.com/crafting/clothier">Clothier</a></li>
+</ul>
+<ul class="submenu">
+<li><a href="http://tamrielfoundry.com/crafting/enchanting">Enchanting</a></li>
+<li><a href="http://tamrielfoundry.com/crafting/provisioning">Provisioning</a></li>
+<li><a href="http://tamrielfoundry.com/crafting/woodworking">Woodworking</a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="top">
+<span class="top-label"><i class="fa fa-angle-down"></i><a href="#">Community</a></span>
+<div class="dropdown">
+<div class="dropdown-content">
+<div class="col1">
+<h3 class="double-border">Directories</h3>
+<ul class="submenu">
+<li><a href="http://tamrielfoundry.com/activity/">Activity Feed</a></li>
+<li><a href="http://tamrielfoundry.com/members/">Members</a></li>
+<li><a href="http://tamrielfoundry.com/groups/">Guild Listing</a></li>
+<li><a href="http://tamrielfoundry.com/advsearch/">Advanced Search</a></li>
+</ul>
+</div>
+<div class="col1">
+<h3 class="double-border">Foundry Team</h3>
+<ul class="submenu">
+<li><a href="http://tamrielfoundry.com/about-us/">About Tamriel Foundry</a></li>
+<li><a href="http://tamrielfoundry.com/contact-us/">Contact Us</a></li>
+<li><a href="http://tamrielfoundry.com/entropy-rising/">Entropy Rising</a></li>
+<li><a href="http://www.gamerlaunch.com/" target="_blank">Gamer Launch</a></li>
+</ul>
+</div>
+<div class="col1">
+<h3 class="double-border">Your Account</h3>
+<ul class="submenu">
+<li><a href="http://tamrielfoundry.com/register">Register Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="top single">
+<span class="top-label"><i class="fa fa-angle-down"></i><a href="#">Resources</a></span>
+<div class="dropdown">
+<div class="dropdown-content">
+<div class="col1">
+<ul class="submenu noheader">
+<li><a href="http://tamrielfoundry.com/map/">Interactive Map</a></li>
+<li><a href="http://tamrielfoundry.com/development-faq/">Development Timeline</a></li>
+<li><a href="http://tamrielfoundry.com/ftc/">Foundry Tactical Combat</a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="top single">
+<span class="top-label"><i class="fa fa-angle-down"></i><a href="#">Forums</a></span>
+<div class="dropdown">
+<div class="dropdown-content">
+<div class="col1">
+<ul class="submenu noheader">
+<li><a href="http://tamrielfoundry.com/forums/">Forums Home</a></li>
+<li><a href="http://tamrielfoundry.com/topics/">Recent Topics</a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div> 
+<a id="menu-scroll-bottom" class="scroll-bottom" href="#site-footer"><i class="fa fa-long-arrow-down"></i></a>
+</nav> 
+</div> 
+ 
+<div id="main-container">
+<div id="content" role="main">
+<nav class="breadcrumbs"><span class="trail-before">Viewing:</span> <a href="http://tamrielfoundry.com" title="Tamriel Foundry" rel="home" class="trail-home">Home</a> » <span class="trail-end">Privacy Policy</span></nav> <article id="post-665332" class="post">
+<header class="post-header post-header-6">
+<h1 class="post-title">Privacy Policy</h1>
+<p class="post-byline">Tamriel Foundry's Privacy Policy</p>
+</header>
+<section class="post-content">
+<p>Tamriel Foundry is a proud partner of the Launch Media Network who contributes to the maintenance and ongoing improvement of the site. Protecting your privacy is important to Launch Media Network, and this statement is intended to make you aware of our commitments to you as a visitor to Tamriel Foundry. This policy may change from time to time, so please check back periodically.</p>
+<p>When accessing Tamriel Foundry, Launch Media Network&nbsp;will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.</p>
+<p>If you visit our site to read or download information on our pages, we collect and store only the following information about you:</p>
+<ol>
+<li>The name of the domain from which you access the Internet</li>
+<li>The date and time you access our site</li>
+<li>The Internet address of the website you used to link directly to our site.</li>
+</ol>
+<p>If you identify yourself by sending us an e-mail containing personal information, the information contained in your email is not collected and will be solely used to respond to your message.</p>
+<p>The information collected is for statistical purposes. Launch Media Network&nbsp;may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. Launch Media Network will not obtain personally-identifying information about you when you visit our site, nor will personal information be&nbsp;sold or transferred to unaffiliated third parties without the approval of the user at the time of collection.</p>
+<p>We use third-party advertising companies to serve ads when you visit Tamriel Foundry. This helps to pay for the hardware costs of keeping Tamriel Foundry running smoothly. The companies which serve advertisements on Tamriel Foundry may use aggregated information (not personal information) about your visits to Tamriel Foundry or other websites in order to provide advertisements about goods and services&nbsp;of interest to&nbsp;you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <a title="Opt Out of Targeted Advertisements" href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+</section>
+</article>
+</div>
+<div id="primary-sidebar" class="sidebar">
+<div id="sidebar-welcome" class="widget">Welcome to Tamriel Foundry, a community dedicated to theorycrafting, strategies, guides, and discussion in The Elder Scrolls Online.</div>
+<div class="widget">
+<header class="widget-header">
+<h3 class="widget-title">Get Connected</h3>
+</header>
+<div class="social-widget-links">
+<a class="social-widget-link" href="https://www.youtube.com/user/TamrielFoundry"><i class="fa fa-youtube-square"></i>YouTube</a><a class="social-widget-link" href="https://www.facebook.com/tamrielfoundry"><i class="fa fa-facebook-square"></i>Facebook</a><a class="social-widget-link" href="https://twitter.com/tamrielfoundry"><i class="fa fa-twitter-square"></i>Twitter</a><a class="social-widget-link" href="https://plus.google.com/+tamrielfoundryESO"><i class="fa fa-google-plus-square"></i>Google+</a> </div>
+</div>
+<div class="widget">
+<header class="widget-header">
+<h3 class="widget-title">Featured Stream</h3>
+</header>
+<div class="featured-stream-content offline">
+<a class="featured-stream-name" href="http://twitch.tv/whitestarcommunity" target="_blank">
+<i class="fa fa-twitch"></i>Elloa <span class="featured-stream-count"><i class="fa fa-power-off"></i>Offline</span>
+</a>
+</div>
+</div>
+<div id="sidebar-members-widget" class="widget">
+<header class="widget-header">
+<h3 class="widget-title">Online Members</h3>
+</header>
+<p class="online-members"><i class="fa fa-users"></i>
+There are currently <span class="activity-count">4</span> members online: </p>
+<p class="online-members"><a href="http://tamrielfoundry.com/members/legobrickdad/" title="LegobrickDad User Profile">LegobrickDad</a> | <a href="http://tamrielfoundry.com/members/jeckll/" title="Jeckll User Profile">Jeckll</a> | <a href="http://tamrielfoundry.com/members/donkeyjote/" title="DonkeyJote User Profile">DonkeyJote</a> | <a href="http://tamrielfoundry.com/members/matthewjames/" title="MatthewJames User Profile">MatthewJames</a></p>
+</div>
+ 
+<div id="div-gpt-ad-821545701545728213-2">
+<script type="text/javascript">
+			googletag.display('div-gpt-ad-821545701545728213-2');
+		</script>
+</div>
+ 
+<div class="widget donate-widget">
+<header class="widget-header"><h3 class="widget-title">Support Us!</h3></header>
+<p>Please donate to help support Tamriel Foundry, fund further improvements, and unlock account perks!</p>
+<form id="donation-form" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="admin@tamrielfoundry.com">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="Tamriel Foundry">
+<input type="hidden" name="item_number" value="Donation From Anonymous (0)">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="user_id" value="0">
+<input type="image" id="donate-image" src="http://tamrielfoundry.com/wp-content/themes/apoc2/images/icons/donate.png" border="0" name="submit" width="200" height="50" alt="Donate to support Tamriel Foundry!">
+</form>
+</div>
+<div class="widget widget-dailies">
+<header class="widget-header">
+<h3 class="widget-title">Undaunted Pledges</h3>
+</header>
+<div class="daily-dungeon daily-dungeon-today">
+<h3>Today - Jun 06</h3>
+<ul>
+<li><span>Gold:</span>Imperial City Prison</li>
+<li><span>Silver:</span>City of Ash</li>
+</ul>
+</div>
+<div class="daily-dungeon daily-dungeon-tomorrow">
+<h3>Tomorrow - Jun 07</h3>
+<ul>
+<li><span>Gold:</span>White-Gold Tower</li>
+<li><span>Silver:</span>Tempest Island</li>
+</ul>
+</div>
+</div>
+<div id="featured-group-widget" class="widget">
+<header class="widget-header">
+<h3 class="widget-title">Featured Guild</h3>
+</header>
+<div class="featured-guild-widget group directory-entry">
+<div class="directory-member reply-author">
+<div class="directory-member-avatar"><a class="member-avatar" href="http://tamrielfoundry.com/groups/daggerfall-covenant/" title="View Daggerfall Covenant Group Page"><img src="http://tamrielfoundry.com/wp-content/uploads/group-avatars/2/29c736d30a5cb3e19718bdf36842b773-bpthumb.jpg" class="avatar group-2-avatar avatar-100 photo" width="100" height="100" alt="Group logo of Daggerfall Covenant" title="Daggerfall Covenant"></a></div><div class="user-meta"><a class="member-name" href="http://tamrielfoundry.com/groups/daggerfall-covenant/" title="View Daggerfall Covenant Group Page">Daggerfall Covenant</a><p class="group-server"></p><p class="user-allegiance daggerfall">Daggerfall Covenant</p><p class="guild-style-icons"><i class="fa fa-trophy fa-fw"></i>PvE <i class="fa fa-bookmark fa-fw"></i>PvP <i class="fa fa-beer fa-fw"></i>RP <i class="fa fa-legal fa-fw"></i>Trade</p><p class="group-member-count">1,931 members</p></div> </div>
+</div>
+</div>
+<div id="community-stats-widget" class="widget">
+<header class="widget-header">
+<h3 class="widget-title">Foundry Stats</h3>
+</header>
+<h3 class="stat-counter-total">Total Champions: 47,957</h3>
+<div id="stats-banner">
+<div class="banner-top aldmeri" style="height:168px">
+<div class="banner-bottom aldmeri"></div>
+<a class="banner-count" href="http://tamrielfoundry.com/groups/aldmeri-dominion" title="Aldmeri Dominion - 12578%">6,816</a>
+</div>
+<div class="banner-top daggerfall" style="height:146px">
+<div class="banner-bottom daggerfall"></div>
+<a class="banner-count" href="http://tamrielfoundry.com/groups/daggerfall-covenant" title="Daggerfall Covenant - 12559%">5,538</a>
+</div>
+<div class="banner-top ebonheart" style="height:170px">
+<div class="banner-bottom ebonheart"></div>
+<a class="banner-count" href="http://tamrielfoundry.com/groups/ebonheart-pact" title="Ebonheart Pact - 12580%">6,940</a>
+</div>
+</div>
+</div>
+</div>
+</div> 
+ 
+<div id="footer-container">
+<div id="footer-divider">
+<a id="footer-scroll-top" class="scroll-top" href="#site-header"><i class="fa fa-long-arrow-up"></i></a>
+</div> 
+<nav id="footer-navigation">
+<a class="footer-nav-item" href="http://tamrielfoundry.com/about-us/" title="Learn more about Tamriel Foundry">
+<img id="footer-about" class="footer-nav-image" src="http://tamrielfoundry.com/wp-content/themes/apoc2/images/backgrounds/about-us.png" height="180" width="180">
+<h3>About Us</h3>
+</a>
+<a class="footer-nav-item" href="http://tamrielfoundry.com/activity/" title="Browse recent Tamriel Foundry activity">
+<img id="footer-guides" class="footer-nav-image" src="http://tamrielfoundry.com/wp-content/themes/apoc2/images/backgrounds/guides.png" height="180" width="180">
+<h3>Activity</h3>
+</a>
+<a class="footer-nav-item" href="http://tamrielfoundry.com/forums/" title="Browse the forums">
+<img id="footer-forums" class="footer-nav-image" src="http://tamrielfoundry.com/wp-content/themes/apoc2/images/backgrounds/forums.png" height="180" width="180">
+<h3>Forums</h3>
+</a>
+<a class="footer-nav-item" href="http://tamrielfoundry.com/groups/" title="Browse groups and guilds">
+<img id="footer-guilds" class="footer-nav-image" src="http://tamrielfoundry.com/wp-content/themes/apoc2/images/backgrounds/guilds.png" height="180" width="180">
+<h3>Guilds</h3>
+</a>
+</nav> 
+<footer id="site-footer">
+<p>Copyright © June, 2017 <a href="http://tamrielfoundry.com" title="Tamriel Foundry">Tamriel Foundry</a>. Our <a href="http://tamrielfoundry.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a>. Questions, comments, or concerns? <a href="http://tamrielfoundry.com/contact/" title="Contact Us">Contact Us</a>.</p>
+<p>Tamriel Foundry was created using content and materials from The Elder Scrolls Online © ZeniMax Online Studios, LLC or its licensors.</p>
+<p>Tamriel Foundry is a proud partner of <a href="http://www.gamerlaunch.com/" title="Visit Gamer Launch" target="_blank">Gamer Launch</a>, offering full featured guild hosting services for serious gamers.</p>
+</footer>
+</div> 
+ 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js?ver=2.1.1"></script>
+<script type="text/javascript" src="http://tamrielfoundry.com/wp-content/themes/apoc2/library/scripts/foundry.js?ver=0.6"></script>
+<script type="text/javascript" src="http://tamrielfoundry.com/wp-content/themes/apoc2/library/scripts/buddypress.js?ver=0.2"></script>
+ 
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d7c0da5cbf","applicationID":"41662497","transactionName":"ZFRXZxZWCkpVUkENWl0edFAQXgtXG0FUA1A=","queueTime":0,"applicationTime":113,"atts":"SBNUEV5MGUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+ </body></html>
