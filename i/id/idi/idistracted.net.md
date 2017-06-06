@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idistracted.net privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524042929id_/http%3A//www.idistracted.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idistracted.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022420id_/http%3A//www.idistracted.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iDistracted.net
+# Privacy Policy - iDistracted.net
 
 Last modified: April 21, 2014.
 
