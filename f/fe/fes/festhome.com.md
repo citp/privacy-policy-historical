@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702211320id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205644id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
 
-# Festhome - Políticas de Privacidad
+# Privacy policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy details how we will treat your personal information.
 
@@ -53,7 +53,7 @@ Where you submit personal information for publication on our website, we will pu
 
 We will not, without your express consent, provide your personal information to any third parties for the purpose of direct marketing.
 
-All our website financial transactions are handled through our payment services provider, Moneybookers and TPV Online. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
+All our website financial transactions are handled through our payment services provider, PayPal and Skrill. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
 * ### Disclosures
 
