@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozenda.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110110911id_/http%3A//www.mozenda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozenda.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141808id_/http%3A//www.mozenda.com/privacy-policy) for the most accurate reproduction.*
 
 # Mozenda Privacy Policy 1-801-995-4550
 
