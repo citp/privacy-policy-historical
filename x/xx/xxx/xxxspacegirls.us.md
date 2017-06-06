@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxspacegirls.us privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224073553id_/http%3A//www.xxxspacegirls.us/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxspacegirls.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122546id_/http%3A//www.xxxspacegirls.us/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
