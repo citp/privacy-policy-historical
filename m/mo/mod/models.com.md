@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709201259id_/https%3A//models.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184325id_/https%3A//models.com/company/privacy.html) for the most accurate reproduction.*
 
 # MODELS.com - Privacy Statement
 
@@ -58,7 +58,6 @@ We use non-identifying and aggregate information to better design our Web site a
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-  
 **How to update or delete your information on MODELS.com  
 **MODELS.com members can update their information by logging on to [http://my.models.com](http://my.models.com/) using their username and password, and clicking on "edit account" or "portfolios" button to update their personal information as appropriate.
 
