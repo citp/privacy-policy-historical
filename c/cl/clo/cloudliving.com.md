@@ -1,73 +1,70 @@
-> *The following text is extracted and transformed from the cloudliving.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120100208id_/http%3A//www.cloudliving.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudliving.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154250id_/http%3A//www.cloudliving.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cloud Living
+# Privacy Policy
 
-## Introduction
+**EFFECTIVE DATE: February 4, 2017**
 
-This privacy policy (“Policy”) and this site’s Terms of Service (together the “Terms”) govern all use of [http://www.cloudliving.com](http://www.cloudliving.com/) and that site’s services (together the “Site” or “Services”). The owners and contributors to the Site will be referred to as “we,” “us,” or “our” in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a “user” for purposes of this Policy. You and every other user (“you” or “User” as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word “Site” includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
+1\. INTRODUCTION  
+1.1. PURPOSE OF POLICY.  
+CloudLiving.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its visitors and users of this website (the “Site”). We created this Privacy Policy (“Policy”) to give you confidence as you visit and use the Site, and to demonstrate a commitment to fair information practices and the protection of privacy.
 
-We provide this privacy statement explaining our online information practices, so that you can decide whether and how to interact with the Site and the Services.
+2\. INFORMATION COLLECTION PRACTICES  
+2.1. WHAT PERSONALLY IDENTIFIABLE INFORMATION DO WE COLLECT?  
+(a) Categories of Personally Identifiable Information. We collect personally identifiable information from you only if you sign up for a newsletter or contact us including:
 
-We may release your information when we deem it appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-Please also review our Terms of Use section that governs the use and the users of the Site.
-
-By using our site, you consent to our privacy policy.
-
-If we decide to change our privacy policy, we will post those changes on this page. If we have your email address, we may also send an email notifying you of any changes.
-
-## Contact Data and Other Identifiable Information
-
-This site collects certain user information, which may include a username and password, contact information, or any other data that you type in to the site. It may also identify your IP address to help identify you on future visits to the site. At our discretion, the Site may use this data to:
-
-  * Personalize the user experience and/or customer service
-  * Improve the site
-  * To process transactions
-  * Administer a contest, promotion, survey or other site feature or function
-  * Send email to users
-
-help the site owner operate and manage the site, 
+  * Your name,
+  * Your email address, and
+  * Message details you send with inquiries.
 
 
 
+(b) Modification or Removal Process. Please contact us if you wish to modify your information.
 
-## Mobile Device Privacy
+(c) Privacy Policy Modifications and Updates. We may update and modify this Privacy Policy. If we modify or update the policy, we will post a notice on the Site for 30 days prior to the change going into effect.
 
-The following applies to our site, when viewed on a mobile device:  
-When accessed with a mobile deivce, our site may collect information automatically, such as the type of mobile device you have, device identifiers, and information about your use of the site. Regardless of the device you use to access the site, it will also collect information you provide, as well as information about your interaction with the site and its content.  
-If location services are activated on your mobile device, our site may collect information about the location of your device. Your mobile network service providers may collect device-specific information, such as a device identifier, when you use our website or one of our mobile applications. This information collected by your mobile network service will not be associated with your user account with us, or with your personally identifiable information.
+(d) Effective Date: The effective date of this new privacy policy shall be April 8, 2015.
 
-### Advertising Network
+(e) Do Not Track Signals. We do not currently honor “do not track” signals issued by browsers or other third party sources.
 
-We use one or more third party vendors to serve ads on the Site. To serve ads and determine how our users use the Site, these services use cookies, or small pieces of code to serve ads to Site users based on users’ visits to the Site and others. Users may adjust their browser settings to disallow the use of cookies. With cookies turned off, certain features of the Site may work less efficiently or not at all.
+(f) Third Party Tracking: As a matter of transparency, we’ve decided to disclose to you whether third parties can acquire and track your personally identifiable information through our website. Google and other sites listed below can track you through this Site as we use their services for social media and infrastructure purposes. Google participates in the NIA opt out program. You can visit [this link](https://www.networkadvertising.org/choices/#completed) to no longer be tracked by Google and Google properties such as Google Plus. You can also visit the following sites to read their privacy policies and how they track individuals across the web:
 
-We use Google as an advertising services provider for the Site. Users may opt out of Google’s use of the DART use-tracking cookie by visiting the Google advertising Policies & Principles page. If you opt out of ad tailoring, you will still see ads, but they will not be based on your browsing history, and they may appear in other languages.
+  * [Facebook](https://www.facebook.com/about/privacy/)
+  * [LinkedIn](https://www.linkedin.com/legal/pop/pop-privacy-policy)
+  * [Twitter](https://twitter.com/privacy)
+  * [YouTube](https://www.youtube.com/static?template=privacy_guidelines)
 
-### Cookies
 
-This site uses cookies. Cookies are small pieces of code that the Site or a service provider will put on your computer if your Web browser allows it. The Site uses cookies to recognize and keep certain information. On the Site, that information may be used to recognize your computer and browser from current or past visits to the Site or related sites. We may use this cookie-captured information to improve our service to you, to aggregate information about visitors to the Site and their behavior, to remember and process items in your shopping cart, to understand and save user preferences, or to keep track of advertising. We may contract with third-party service providers to assist us in better understanding our site visitors.  
-In most Internet browsers, you can change your settings so that you will be warned each time a cookie is being sent, or so that cookies will be turned off. With cookies blocked, some functions of the Site may not operate properly.
 
-## Usernames, Passwords, and Profiles
+You can use programs such as [Privacy Badger](https://www.eff.org/privacybadger) to further control the collection of information regarding you online.
 
-If prompted, Users must provide a valid email address to the Site, at which the User can receive messages. User must also update the Site if that email address changes. The Site reserves the right to terminate any User account if a valid email is requested but is not provided by the User.  
-If the Site prompts or allows a User to create a username or profile, Users agree not to pick a username or provide any profile information that would impersonate someone or that is likely to cause confusion with any other person or entity. The Site reserves the right to cancel a User account or change a username or profile data at any time. Similarly, if the Site prompts or allows a User to create an avatar or upload a picture, User agrees not to use any image that impersonates some other person or entity, or that is otherwise likely to cause confusion.  
-You are responsible for protecting your username and password for the Site, and you agree not to disclose it to any third party. We recommend that you use a passwork that is more than eight characters long. You are responsible for all activity on your account, whether or not you authorized it. You agree to inform us of unauthorized use of your account, by email to tung@cloudliving.com. You acknowledge that if you wish to protect your interactions the Site, it is your responsibility to use a secure encrypted connection, virtual private network, or other appropriate measures.
+(g) California Eraser Law. We comply with the California eraser law. To the extent you are a minor and wish to have any content you’ve posted to the Site removed, please contact us using the Contact link in the footer of the Site to make the request. Please note the removal of this content from the Site does not mean it will be removed from the web as search engines, archive websites and other platforms may have copied the content in question.
 
-## Disputes
+2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?  
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous aggregate “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
-We are based in 11/2 Lane 45 Nguyen Hong and you are contracting to use our Site. This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of 11/2 Lane 45 Nguyen Hong, without regard to any choice of laws rules of any jurisdiction. The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in 11/2 Lane 45 Nguyen Hong will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
+(b) COOKIES. We may use “cookies” to store a small piece of data on your computer during your visit to collect information. The cookies are used to gain information on how you use the web, which we try to incorporate into the Site to improve your experience.
 
-## No Users Under the Age of 13
+3\. USE AND SHARING OF INFORMATION  
+3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?  
+(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. Examples of such services include, but are not limited to, third parties providing email facilitation and hosting. However, please note that if you leave the Site and purchase a product or service we promote, the company you purchase from will notify us of the purchase as well as certain identifying information for you. We do not share this information with others.
 
-The Site is not intended for children under the age of 13. Children under the age of 13 should not use the Site at any time. We do not knowingly collect personal information from children under the age of 13. If we obtain actual knowledge that we have collected information from anyone under the age of 13, we will erase that information from our servers. It is a violation of our Terms of Service for children under the age of 13 to use the Site. 
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our Site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis. Your personal information will not be detailed in this aggregate data.
 
-## Terms Contact
+(c) USE OF COOKIES. We use information obtained from cookies to analyze your use of the Site and to make appropriate adjustments.
 
-If you have any questions about these Terms, please address them to tung@cloudliving.com.
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
-## Last Updated
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our Company or other companies or assets, including the information collected through this Site and from orders of our product including your customer information. If Company or substantially all of its assets are acquired by a third party, your personally identifiable information will be one of the assets transferred to the acquirer.
 
-These terms were last updated on _July 7, 2015_
+(f) DMCA CLAIM DISCLOSURES. We comply with the Digital Millennium Copyright Act of 1998, better known as the “DMCA”.  Should we receive a claim of copyright infringement, we will comply with the safe harbor requirements of the DMCA. Part of that compliance may require the disclosure of your identity if you are either the allegedly infringing party or the party filing the copyright infringement complaint.
+
+4\. SECURITY  
+The Site has reasonable security measures in place such as Secure Sockets Layer protocols to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+
+5\. SITE AREAS BEYOND COMPANY’S CONTROL  
+5.1. THIRD PARTY WEBSITES  
+The Site contains links to and interfaces with third party websites and online platforms. These websites and online platforms have established their own terms of use and privacy policies. You are encouraged to read those documents as we have no control over their provisions and said documents may differ greatly from our terms and privacy policy.
+
+6\. CONTACT INFORMATION AND POLICY UPDATES  
+6.1. CONTACTING US  
+If you have any questions about this Policy, our practices related to this Site, please use the contact form for the Site. You can locate it by clicking the “Contact” link in the footer of the Site.
