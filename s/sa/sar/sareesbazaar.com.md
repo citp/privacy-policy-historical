@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sareesbazaar.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124003248id_/http%3A//www.sareesbazaar.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sareesbazaar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195623id_/http%3A//www.sareesbazaar.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy : SareesBazaar.com
 
 We respect your privacy and are committed to maintaining it. When you shop on our shopping store, we will ask you to input your information and will collect Personal Information from you such as your name, e-mail address, billing address, shipping address, telephone/ mobile number, product selections, credit card or other payment information and password.
 
@@ -14,4 +14,4 @@ We will not release your Personal Information to any company outside for mailing
 
 We use 'Cookies' to keep track of your current shopping session to personalize your experience and so that you may retrieve your shopping cart at any time. 'Cookies' are tiny text files which our Website places on your computer's hard drive to store information about your shopping session and to identify your computer. `Cookies` cannot harm your computer and do not contain any personal or private information. We do not hold any of your credit card information. This information is securely collected by our authorized payment processors.
 
-In short, we always strive to respect the privacy of our customers completely. We use the information we collect on the Store to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others. 
+In short, we always strive to respect the privacy of our customers completely. We use the information we collect on the Store to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others.
