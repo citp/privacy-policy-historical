@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundbetter.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928152406id_/https%3A//soundbetter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundbetter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606233750id_/https%3A//soundbetter.com/privacy) for the most accurate reproduction.*
 
 # SoundBetter Privacy Policy | SoundBetter
 
