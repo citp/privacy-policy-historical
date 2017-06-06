@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upjob.in privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227154445id_/http%3A//www.upjob.in/2014/12/privacy-policy-for-upjobin.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upjob.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170928id_/http%3A//www.upjob.in/2014/12/privacy-policy-for-upjobin.html) for the most accurate reproduction.*
 
 # Privacy Policy For UpJob.IN
 
