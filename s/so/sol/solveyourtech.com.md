@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solveyourtech.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121104845id_/http%3A//www.solveyourtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourtech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040442id_/http%3A//www.solveyourtech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Solve Your Tech
 
@@ -30,6 +30,9 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
   * MacPaw
   * T-Mobile
   * Tradepub
+  * Target
+  * Best Buy
+  * Siteground
 
 
 
