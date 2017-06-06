@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapingpost.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203131239id_/http%3A//www.vapingpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapingpost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045455id_/http%3A//www.vapingpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Vaping Post
 
@@ -77,4 +77,4 @@ Users are advised to take caution and good judgement before clicking any shorten
 
 
 
-May 2016\. Edited by: [Vaping](http://www.vapingpost.com/) Post – Geneva, Switzerland
+May 2016\. Edited by: Vaping Post – Geneva, Switzerland
