@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsg-online.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202050238id_/https%3A//www.bsg-online.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsg-online.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173902id_/https%3A//www.bsg-online.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Business Strategy Game Simulation
 
@@ -16,7 +16,7 @@ At GLO-BUS Software, Inc. we have a few fundamental principles:
 
 Below is our privacy policy which incorporates these goals:
 
-If you have questions about deleting or correcting your personal data please [contact our support team](http://www.bsg-online.com/feedback.html).
+If you have questions about deleting or correcting your personal data please [contact our support team](https://www.bsg-online.com/feedback.html).
 
 GLO-BUS Software, Inc. operates several websites including bsg-online.com and glo-bus.com. It is GLO-BUS Software, Inc.’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -28,7 +28,7 @@ GLO-BUS Software, Inc. also collects potentially personally-identifying informat
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to GLO-BUS Software, Inc.’s websites choose to interact with GLO-BUS Software, Inc. in ways that require GLO-BUS Software, Inc. to gather personally-identifying information. The amount and type of information that GLO-BUS Software, Inc. gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at http://www.bsg-online.com/ to provide a username and email address. Those who engage in transactions with GLO-BUS Software, Inc. – by purchasing access to the _The Business Strategy Game_ service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, GLO-BUS Software, Inc. collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with GLO-BUS Software, Inc. GLO-BUS Software, Inc. does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to GLO-BUS Software, Inc.’s websites choose to interact with GLO-BUS Software, Inc. in ways that require GLO-BUS Software, Inc. to gather personally-identifying information. The amount and type of information that GLO-BUS Software, Inc. gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at https://www.bsg-online.com/ to provide a username and email address. Those who engage in transactions with GLO-BUS Software, Inc. – by purchasing access to the _The Business Strategy Game_ service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, GLO-BUS Software, Inc. collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with GLO-BUS Software, Inc. GLO-BUS Software, Inc. does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
