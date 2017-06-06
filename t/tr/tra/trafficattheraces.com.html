@@ -1,40 +1,84 @@
-<!--The following is the downloaded HTML source of the trafficattheraces.com privacy policy that was archived on 2016-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160921065113id_/http%3A//www.trafficattheraces.com/privacy.php%3Frid%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trafficattheraces.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606085851id_/http%3A//www.trafficattheraces.com/privacy.php%3Frid%3D) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
-<title>Traffic at the Races</title> 
-<link href="/screen2.css" rel="stylesheet" type="text/css"> 
-<!-- SHOW ALL USER COUNT WITH 25593 -->
-</head>
-<body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" type="image/x-icon" href="http://trafficattheraces.com/favicon.ico">
+<title>Traffic At The Races</title>
+	<style type="text/css" media="screen">
+		@import url( themes/TATR/style.css );
+	</style>
 
-<div id="wrapper">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="js/animatedcollapse.js"></script>
+<link rel="stylesheet" type="text/css" href="css/featuredcontentglider.css">
+
+<script type="text/javascript" src="js/featuredcontentglider.js"></script>
+
+<script type="text/javascript">
+
+featuredcontentglider.init({
+gliderid: "content", //ID of main glider container
+contentclass: "glidecontent", //Shared CSS class name of each glider content
+togglerid: "p-select", //ID of toggler container
+remotecontent: "", //Get gliding contents from external file on server? "filename" or "" to disable
+selected: 0, //Default selected content index (0=1st)
+persiststate: false, //Remember last content shown within browser session (true/false)?
+speed: 1000, //Glide animation duration (in milliseconds)
+direction: "downup", //set direction of glide: "updown", "downup", "leftright", or "rightleft"
+autorotate: true, //Auto rotate contents (true/false)?
+autorotateconfig: [3000, 2] //if auto rotate enabled, set [milliseconds_btw_rotations, cycles_before_stopping]
+})
+
+</script>
+
+<script type="text/javascript">
+
+animatedcollapse.addDiv('gate', 'fade=0')
+animatedcollapse.addDiv('stats', 'fade=0')
+
+animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
+	//$: Access to jQuery
+	//divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
+	//state: "block" or "none", depending on state
+}
+
+animatedcollapse.init()
+
+</script>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://trafficattheraces.com/js/lightbox/themes/default/jquery.lightbox.css">
+  <!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="http://trafficattheraces.com/js/lightbox/themes/default/jquery.lightbox.ie6.css" />
+  <![endif]-->
+  <script type="text/javascript" src="http://trafficattheraces.com/js/lightbox/jquery.lightbox.min.js"></script>
+  
+</head>  
+
+
+
+<body><div id="wrapper">
 	<div id="header">
     	<p id="description">A <span>Unique</span> And <span>Fun</span> Way To Drive <span>Quality Free Traffic</span> To Your Website!</p>
         
         <ul id="metalinks"> 
-        	<li class="first">QUICK LINKS - <a href="http://www.trafficattheraces.com/register.php">Join Now</a></li> 
 
-
-<li><a href="http://www.trafficattheraces.com/login.php">Login</a></li>
-
-            <li class="last"><a href="http://www.trafficattheraces.com/advertising.php">Buy Advertising</a></li> 
-      </ul>
+<li class="first">QUICK LINKS - <a href="signup.php?rid=0">Join Now</a></li>
+<li><a href="login.php?rid=0">Login</a></li></ul>
         
         <a href="#" id="logo"><img src="http://www.trafficattheraces.com/images4/logo.png" alt="traffic at the races"></a>
         
-        <ul id="meta"> 
-        	<li><a href="http://www.trafficattheraces.com/register.php"><img src="/images4/join-now.png" alt="Join Free Now"></a></li> 
-          <li><a href="http://www.trafficattheraces.com/login.php"><img src="/images4/member-login.png" alt="Member Login"></a></li> 
-      </ul> 
+        <ul id="meta"><li><a href="signup.php?rid=0"><img src="/images4/join-now.png" alt="Join Free Now"></a></li> 
+          <li><a href="login.php?rid=0"><img src="/images4/member-login.png" alt="Member Login"></a></li></ul> 
         
     </div> 
     
     <div id="container"> 
-    	<div id="news-ticker"> 
-        	<p><b>Our Advertising Options Include </b> - Page Views - Banner Ads - Email - Text Links  </p> 
-		</div>
+    	<div id="news-ticker"><p><b>Our Advertising Options Include </b> - Page Views - Banner Advertising - Brand Awareness  </p></div>
         
     </div>
 
@@ -45,36 +89,21 @@
 
     
     <div id="sidebar"> 
-    	<ul> 
-        	<li><a href="http://www.trafficattheraces.com/">Home</a></li>
-                      <li><a href="http://www.trafficattheraces.com/register.php?rid=">Join Now</a></li>
+    	<ul><li><a href="index.php?rid=0">Home</a></li>
+                      <li><a href="signup.php?rid=0">Join Now</a></li>
                       
-<li><a href="http://www.trafficattheraces.com/login.php">Member Login</a></li>
-
- <li><a href="http://www.trafficattheraces.com/advertising.php">Buy Advertising</a></li>
+<li><a href="login.php?rid=0">Member Login</a></li>
 
                       
-                      <li><a href="http://www.trafficattheraces.com/privacy.php"><font size="1">Privacy Policy</font></a></li><font size="1">
-                      <li><a href="http://www.trafficattheraces.com/terms.php"><font size="1">Terms &amp; Conditions</font></a></li><font size="1">
-                                           <li class="last"><a href="http://www.trafficattheraces.com/contact/contact1.php" style="border-bottom-width: 0"><font size="1">FAQ / Contact Us</font></a></li><font size="1">
-
-        </font></font></font></ul><font size="1"><font size="1"><font size="1">
+                      <li><a href="http://www.trafficattheraces.com/privacy.php?rid=0"><font size="1">Privacy Policy</font></a></li><font size="1">
+                      <li><a href="http://www.trafficattheraces.com/terms.php?rid=0"><font size="1">Terms &amp; Conditions</font></a></li><font size="1">
+                                           <li class="last"><a href="http://newfiremarketing.com/support/" style="border-bottom-width: 0"><font size="1">FAQ / Contact Us</font></a></li></font></font></ul><font size="1"><font size="1"><font size="1">
         
         <br><br><center><font color="white" size="2"><b>Delivering Quality<br><br>Traffic Since<br><br>January 2006</b></font><br><br><br>
 
-<img src="http://www.ilovehits.com/ranked/42.png"><br><br><br>
 
-<img src="http://cdn.tetoolbox.com/tetoolbox/images/shield_125x125.png">
-<br><br><br>
-<img src="https://www.alertpay.com/images/AlertPay_accepted_97x95.png" alt="AlertPay Acceptance Logo" width="97" height="95"><br><br><br>
 
-<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tbody><tr><td align="center"></td></tr><tr><td align="center"><a href="#" onclick="javascript:window.open('https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_US/Marketing/i/banner/bnr_payments_120x30_y.gif" border="0" alt="Additional Options"></a></td></tr></tbody></table><!-- PayPal Logo -->
-<br><br><br>
-<a href="http://badmarketingchoice.com" target="_blank"><img src="images/badlogo.png" alt="BAD Marketing" border="" width="150px"></a>
-<br><br><br>
-<img src="images/blain.png" alt="Blain Jones" border="" width="125px">
-<br><br>
-<img src="images/shane.png" alt="Shane Bost" border="">
+<br>
 
 </center>
 
@@ -82,30 +111,39 @@
      </font></font></font></div><font size="1"><font size="1"><font size="1">
 
 </font><div id="container"><font size="1">
-<table width="690">   <tbody><tr><td width="40">&nbsp;</td>
-<td width="650" align="center" valign="top"> <font size="18pt"></font>
-<div id="insider">
-<p align="left"><strong><font size="2">Traffic At The Races Privacy Policy</font></strong><font size="2"><br><br>
-Traffic At The Races will not sell or pass on any information you give when joining to any third party.<br>
-<br>
-We will contact you with updates offers and relevent information as well as a newsletter as part of our service. If you wish not to receive these then you can delete your account at anytime.<br><br>
-Newsletters and mail outs will contain advertising from third parties along with relevent updates and news.<br><br>
-Any financial information will be used only for purchases from this site and by the relevent payment processor (paypal)
-we do not store sensitive information on our servers.</font><br><br>
-<br><br></p><center><a href="http://thankyoupagemaker.com/clickmemberad.php?program=160" target="_blank"><img src="http://www.tebanners.com/images/thankyou2.png"></a><br><br></center><br><br></div></td></tr></tbody></table></font>
+<table width="100%" align="center">   <tbody><tr><td width="10">&nbsp;</td>
+<td width="650" align="center" valign="top">
+<div id="insider"><!-- end header -->
+<style>
+.style16 {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	font-weight: bold;
+}
+.style19 {font-size: medium; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; }
+-->
+</style>
+
+<table width="600px" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="left">
+<p align="center"><span class="style16">Traffic At The Races Privacy Policy</span></p><br>
+<div class="innerText">This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.<br></div><span id="infoCo"></span><br><div class="grayText"><strong>What personal information do we collect from the people that visit our blog, website or app?</strong></div><br><div class="innerText">When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number  or other details to help you with your experience.</div><br><div class="grayText"><strong>When do we collect information?</strong></div><br><div class="innerText">We collect information from you when you register on our site, subscribe to a newsletter, fill out a form  or enter information on our site.</div><br><span id="infoUs"></span><br><div class="grayText"><strong>How do we use your information? </strong></div><br><div class="innerText"> We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<br><br></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To improve our website in order to better serve you.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To allow us to better service you in responding to your customer service requests.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To administer a contest, promotion, survey or other site feature.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To quickly process your transactions.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To send periodic emails regarding your order or other products and services.</div><span id="infoPro"></span><br><div class="grayText"><strong>How do we protect visitor information?</strong></div><br><div class="innerText">Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.<br><br></div><div class="innerText">We use regular Malware Scanning.<br><br></div><div class="innerText">Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. </div><br><div class="innerText">We implement a variety of security measures when a user places an order  to maintain the safety of your personal information.</div><br><div class="innerText">All transactions are processed through a gateway provider and are not stored or processed on our servers.</div><span id="coUs"></span><br><div class="grayText"><strong>Do we use 'cookies'?</strong></div><br><div class="innerText">Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</div><div class="innerText"><br><strong>We use cookies to:</strong></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Understand and save user's preferences for future visits.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Keep track of advertisements.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.</div><div class="innerText"><br>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.<br></div><br><div class="innerText">If you disable cookies off, some features will be disabled It won't affect the user's experience that make your site experience more efficient and some of our services will not function properly.</div><br><div class="innerText">However, you can still place orders .</div><br><span id="trDi"></span><br><div class="grayText"><strong>Third-party disclosure</strong></div><br><div class="innerText">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. <br><br> However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. </div><span id="trLi"></span><br><div class="grayText"><strong>Third-party links</strong></div><br><div class="innerText">Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</div><span id="gooAd"></span><br><div class="blueText"><strong>Google</strong></div><br><div class="innerText">Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en <br><br></div><div class="innerText">We have not enabled Google AdSense on our site but we may do so in the future.</div><span id="calOppa"></span><br><div class="blueText"><strong>California Online Privacy Protection Act</strong></div><br><div class="innerText">CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy.  The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. -  See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf<br></div><div class="innerText"><br><strong>According to CalOPPA we agree to the following:</strong></div><div class="innerText">Users can visit our site anonymously.</div><div class="innerText">Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.</div><div class="innerText">Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.</div><div class="innerText"><br>Users will be notified of any privacy policy changes:</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> On our Privacy Policy Page</div><div class="innerText">Users are able to change their personal information:</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> By logging in to their account</div><div class="innerText"><br><strong>How does our site handle do not track signals?</strong></div><div class="innerText">We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. </div><div class="innerText"><br><strong>Does our site allow third-party behavioral tracking?</strong></div><div class="innerText">It's also important to note that we do not allow third-party behavioral tracking</div><span id="coppAct"></span><br><div class="blueText"><strong>COPPA (Children Online Privacy Protection Act)</strong></div><br><div class="innerText">When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control.  The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.<br><br></div><div class="innerText">We do not specifically market to children under 13.</div><span id="ftcFip"></span><br><div class="blueText"><strong>Fair Information Practices</strong></div><br><div class="innerText">The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.<br><br></div><div class="innerText"><strong>In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:</strong></div><div class="innerText">We will notify the users via email</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Within 7 business days</div><div class="innerText">We will notify the users via in-site notification</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Within 7 business days</div><div class="innerText"><br>We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.</div><span id="canSpam"></span><br><div class="blueText"><strong>CAN SPAM Act</strong></div><br><div class="innerText">The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.<br><br></div><div class="innerText"><strong>We collect your email address in order to:</strong></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Send information, respond to inquiries, and/or other requests or questions.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Process orders and to send information and updates pertaining to orders.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> We may also send you additional information related to your product and/or service.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.</div><div class="innerText"><br><strong>To be in accordance with CANSPAM we agree to the following:</strong></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> NOT use false or misleading subjects or email addresses.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Identify the message as an advertisement in some reasonable way.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Include the physical address of our business or site headquarters.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Monitor third-party email marketing services for compliance, if one is used.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Honor opt-out/unsubscribe requests quickly.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Allow users to unsubscribe by using the link at the bottom of each email.</div><div class="innerText"><strong><br>If at any time you would like to unsubscribe from receiving future emails, you can email us at</strong></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Follow the instructions at the bottom of each email.</div> and we will promptly remove you from <strong>ALL</strong> correspondence.<br><span id="ourCon"></span><br><div align="center" class="blueText"><strong>Contacting Us</strong></div><br><div align="center" class="innerText">If there are any questions regarding this privacy policy you may contact us using the information below.<br><br></div><div align="center" class="innerText"><a href="http://trafficattheraces.com">TrafficAtTheRaces.com</a></div><div align="center" class="innerText">admin@trafficattheraces.com</div><div align="center" class="innerText"><br>Last Edited on 2017-03-16</div>
+
+</td></tr></tbody></table>
+</div></td><td width="20">&nbsp;</td></tr></tbody></table></font>
 </div></font></font></div><font size="1"><font size="1">
 <div id="footer-bg">
-     	<div id="footer">
-        	<p id="copyright">© 2006-2012 TrafficAtTheRaces.com  Traffic At The Races is part of the BADMarketing.us network of sites.</p>
+     	<div id="footer"><font size="2">
+        	<p id="copyright">© 2017 TrafficAtTheRaces. All Rights Reserved.<br>TrafficAtTheRaces is part of the Newfire Marketing Network.<br>
+			cmr 457 box 1981 apo ae NY, United States, 09033<br>
+            Phone: 248.872.9502 // Email: admin@newfiremarketing.com</p></font>
 
-<p>For technical and support issues please use our support ticket system by <a href="http://badmarketing.us/support" target="blank"><font color="white">clicking here</font></a><font color="white"><br>
-BADMarketing.us</font></p><font color="white">
-<p>
-<font color="white"> </font></p><font color="white">
-</font></font></div></div><font color="white"><font color="white"> 
+
+</div></div> 
 
 
   	
 
 
-</font></font></font></font></body></html>
+
+</font></font></body></html>
