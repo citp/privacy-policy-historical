@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the pwrads.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619095741id_/https%3A//pwrads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwrads.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172336id_/https%3A//pwrads.com/privacy-policy) for the most accurate reproduction.*
 
 # PwrAds - Privacy Policy
-
-###### Buy quality pop under traffic
-
-###### Withdrawals from $5
-
-###### Earn money with your website
-
-###### Dedicated Support
-
-###### Advanced targeting & premium websites
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.
 
@@ -24,3 +14,5 @@ The following outlines our privacy policy:
 • We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+[/fusion_builder_column_inner][/fusion_builder_row_inner]
