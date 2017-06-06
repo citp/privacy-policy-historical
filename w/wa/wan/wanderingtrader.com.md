@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wanderingtrader.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331213403id_/http%3A//wanderingtrader.com/terms-of-use/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderingtrader.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185227id_/http%3A//wanderingtrader.com/terms-of-use/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WanderingTrader: Travel Blog. Living Overseas. Day Trading.
+# Privacy Policy - WanderingTrader
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy:
 
