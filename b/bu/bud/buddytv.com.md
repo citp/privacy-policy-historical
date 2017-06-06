@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buddytv.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527055328id_/http%3A//www.buddytv.com/Redirect.aspx%3Fid%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddytv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122354id_/http%3A//www.buddytv.com/Redirect.aspx%3Fid%3D14) for the most accurate reproduction.*
 
 # BuddyTV Privacy Policy
 
