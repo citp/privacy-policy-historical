@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishpage.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022024857id_/http%3A//www.englishpage.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishpage.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021458id_/http%3A//www.englishpage.com/policy.htm) for the most accurate reproduction.*
 
 # None
 
@@ -10,9 +10,5 @@ We use third-party advertising companies to serve ads when you visit our website
 
 [Google Adsense](http://www.google.com/privacy_ads.html)  
 Google, as a third party vendor, uses cookies to serve ads on our sites. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google Privacy Policy.](http://www.google.com/policies/privacy/)
-
-### Englishpage.net Forum
-
-The Englishpage forum at Englishpage.net allows visitors to sign up for an account to post questions and comments as well as interact with other Englishpage visitors. Information collected during forum sign-up is NOT sold or shared with anyone outside of Englishpage.com/Englishpage.net. When you register at Englishpage.net, cookies are used to store login information. Read more about the cookies [here](http://www.englishpage.net/faq.php?faq=vb3_board_usage#faq_vb3_cookies).
 
 Your personal online English school. Learn English at Englishpage.com!
