@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turnto23.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127133817id_/http%3A//www.turnto23.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnto23.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163211id_/http%3A//www.turnto23.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 23ABC News
+# Privacy Policy - turnto23.com Bakersfield, CA
 
 PRIVACY POLICY
 
