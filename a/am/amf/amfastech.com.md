@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amfastech.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120185545id_/http%3A//www.amfastech.com/p/we-stay-with-our-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfastech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092903id_/http%3A//www.amfastech.com/p/we-stay-with-our-policies.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
