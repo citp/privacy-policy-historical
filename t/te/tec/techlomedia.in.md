@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227204550id_/http%3A//techlomedia.in/privacy-policy-techlomedia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171635id_/http%3A//techlomedia.in/privacy-policy-techlomedia) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,10 +7,6 @@ At [Techlomedia.in](http://techlomedia.in/), we respect the privacy of our visit
 ### Log Files
 
 Like many other websites, we also collect log files. This information include IP address, date/time, referring or exit pages, clicks, demographic information and click patter. But there is no information which is linked to any personal information of a visitor. There is nothing which can be used to personally identify a visitor.
-
-#### Deals of the Day: Upto 75% Off on Products
-
-Get great deals, offers and discounts on products every day only on Flipkart. Choose from a wide range of products and categories. No coupon code required.
 
 ### Subscribers
 
