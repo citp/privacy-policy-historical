@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortuneindia.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204145038id_/http%3A//fortuneindia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortuneindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160905id_/https%3A//fortuneindia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fortune India
 
@@ -22,5 +22,5 @@ The email address Users provide for order processing, will only be used to send 
 3rd floor, Pioneer House,  
 Plot 45-50, Block A,  
 Sector 16, NOIDA - 201301 (UP)  
-Phone: +91 120 3978000  
-Fax: +91 120 3978057
+Phone: +91 120 4307000  
+
