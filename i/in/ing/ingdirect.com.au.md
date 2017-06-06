@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ingdirect.com.au privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102053432id_/https%3A//www.ingdirect.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214715id_/https%3A//www.ingdirect.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ING DIRECT
 
-At ING DIRECT, we're committed to ensuring the confidentiality and security of your personal information. We are bound by the Privacy Act 1988, including the Australian Privacy Principles (APPs) set out in that Act, to guide us in our responsible handling of your personal information.
+At ING DIRECT, we're committed to ensuring the confidentiality and security of your personal information. We are bound by the Privacy Act 1988 (Cth), including the Australian Privacy Principles (APPs) set out in that Act, to guide us in our responsible handling of your personal information.
 
 This Privacy Statement provides an overview of the key aspects of our Privacy Policy.
 
 To view the complete ING DIRECT Privacy Policy click [here](https://web.archive.org/pdf/ING_DIRECT_Privacy_Policy.pdf). You can also request a copy by either calling or writing to us.
 
-Both this Privacy Statement and the complete Privacy Policy were last updated in March 2014.
+This information was last updated in May 2017.
 
 ### Collection
 
@@ -18,7 +18,13 @@ Occasionally we may need to obtain personal information about you from a third p
 
 We'll collect personal information to provide you with information about a financial product or service; to assess your application and eligibility for a financial product or service; to provide you with the financial products and services that you've requested; to administer our relationship with you; and to communicate with you about ING DIRECT and the products and services we offer, and then only when it's necessary for, or related to, these purposes.
 
-We'll also need to collect personal information necessary to comply with Australian and global legal or regulatory requirements that have extraterritorial application to ING DIRECT or the ING Group. For example, ING DIRECT has an obligation to identify customers for the purposes of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
+We'll also need to collect personal information necessary to comply with Australian and global legal or regulatory requirements including those that have extraterritorial application to ING DIRECT or the ING Group. For example, ING DIRECT has an obligation:
+
+to identify customers for the purposes of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth);
+
+to determine and report to the Australian Taxation Office in respect of your foreign tax residency status for the purposes of laws relating to the Foreign Account Tax Compliance Act in the United States of America (abbreviated as FATCA) and also the Common Reporting Standard (CRS); and 
+
+to satisfy our responsible lending obligations under the National Consumer Credit Protection Act 2009 (Cth).
 
 If you don't provide the personal information that we request, we will generally not be able to provide you with ING DIRECT products or services.
 
@@ -30,7 +36,7 @@ It may be necessary for ING DIRECT to disclose your personal information to cert
 
 Personal information will only be disclosed to third parties other than those we've specifically identified if you have consented to the disclosure; if you would reasonably expect us to disclose information of that kind to those third parties; if we are authorised or required to do so by law; or it is necessary to assist with law enforcement.
 
-We may have to send personal information overseas, for example, if required to complete a transaction or where we outsource a function to an overseas contractor. Your personal information may be disclosed to staff in ING Group entities in Singapore and the Netherlands if necessary to administer our relationship with you; if those entities provide services to, or functions for, ING DIRECT; for transactional reasons; or to comply with Australian and global regulatory requirements applying to us or the ING Group (including to comply with requests for information received by overseas regulators).
+We may have to send personal information overseas, for example, if required to complete a transaction or where we outsource a function to an overseas contractor. Your personal information may be disclosed to staff in ING Group entities in Singapore and the Netherlands if necessary to administer our relationship with you; if those entities provide services to, or functions for, ING DIRECT; for transactional reasons; or to comply with Australian and global regulatory requirements applying to us or the ING Group (including requests from government bodies and agencies such as the Australian Taxation Office, and to comply with requests for information received by overseas regulators).
 
 ### Marketing
 
@@ -76,19 +82,19 @@ Where we collect your personal information and we're likely to disclose that inf
 
 #### Which credit reporting bodies does ING DIRECT deal with?
 
-We primarily deal with, and report certain credit-related personal information to, Veda Advantage Business Information Services Ltd (Veda), which is the major credit reporting body in Australia.
+We primarily deal with, and report certain credit-related personal information to, Equifax Australia Information Services & Solutions Pty Limited (EISS), which is the major credit reporting body in Australia.
 
-You can contact Veda by:
+You can contact EISS by:
 
-emailing membership.correction@veda.com.au; or
+one of the methods specified at [www.equifax.com.au/contact](https://web.archive.org/web/20170606214715id_/https%3A//www.ingdirect.com.au/www.equifax.com.au/contact); or
 
-mailing Veda - Customer Resolutions, PO Box 964, North Sydney NSW 2059
+mailing EISS - Equifax, PO Box 964, North Sydney NSW 2059
 
 #### Collection, use and disclosure of your credit-related personal information
 
-Veda may include your credit information that we provide to it in credit reports to other credit providers to assist those credit providers to assess your credit worthiness.
+EISS may include your credit information that we provide to it in credit reports to other credit providers to assist those credit providers to assess your credit worthiness.
 
-If you fail to meet your payment obligations in relation to any loan you have with us or if we believe that you have committed a serious credit infringement, we may be entitled to disclose this to Veda.
+If you fail to meet your payment obligations in relation to any loan you have with us or if we believe that you have committed a serious credit infringement, we may be entitled to disclose this to EISS.
 
 You can find out further detail about how we manage your credit-related personal information in our [Privacy Policy](https://web.archive.org/pdf/ING_DIRECT_Privacy_Policy.pdf).
 
@@ -98,7 +104,7 @@ access the information we hold about you and ask us to correct information if yo
 
 make a complaint about our handling of your credit-related personal information
 
-Veda's policy on how it handles credit-related personal information can be found on its website at [www.veda.com.au/privacy](http://www.veda.com.au/privacy).
+EISS' policy on how it handles credit-related personal information can be found on its website at [www.equifax.com.au/credit-reporting-policy](https://web.archive.org/web/20170606214715id_/https%3A//www.ingdirect.com.au/www.equifax.com.au/credit-reporting-policy).
 
 #### Pre-screening Assessments
 
@@ -110,7 +116,7 @@ This use of the information in this way is known as a "pre-screening assessment"
 
 The Privacy Act gives you certain mechanisms to deal with fraud, including identity fraud.
 
-If you believe on reasonable grounds that you have been, or are likely to be, the victim of fraud then you can ask Veda (or any other credit reporting body that holds information about you) not to use or disclose your credit reporting information during a "ban period". 
+If you believe on reasonable grounds that you have been, or are likely to be, the victim of fraud then you can ask EISS (or any other credit reporting body that holds information about you) not to use or disclose your credit reporting information during a "ban period". 
 
 The "ban period" is a period of 21 days starting on the day that you make the request, which can be extended on your request if the credit reporting body believes on reasonable grounds that you have been, or are likely to be, the victim of fraud.
 
@@ -126,7 +132,7 @@ Please note that requests for access to your personal information may only be ma
 
 Although we take reasonable steps to ensure that your personal information is accurate, up-to-date, complete, relevant and not misleading, we rely on the accuracy of information that you supply to us. If any of your personal information is incorrect, has changed or requires updating, please assist by either:
 
-updating your details in the 'My Personal Details' section found in your menu selection after you log in; or
+updating your details in the 'Contact details' section found in the 'Settings' menu after you log in; or
 
 contacting us by phone with your client number ready.
 
