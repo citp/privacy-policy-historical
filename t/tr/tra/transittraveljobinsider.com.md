@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transittraveljobinsider.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613043006id_/http%3A//www.transittraveljobinsider.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transittraveljobinsider.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154059id_/http%3A//www.transittraveljobinsider.com/privacy_policy) for the most accurate reproduction.*
 
 # Transit & Travel Job Insider - Privacy Policy
 
@@ -26,9 +26,8 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to info@transittraveljobinsider.com 
 
 Address:  
-40 Warren Street  
-3rd Floor  
-Charlestown, MA 02129  
+625 Massachusetts Ave  
+Cambridge, MA 02139  
 
 
 ### **Registration**
