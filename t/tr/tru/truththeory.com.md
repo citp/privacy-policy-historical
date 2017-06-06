@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truththeory.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093345id_/http%3A//truththeory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truththeory.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180441id_/https%3A//truththeory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TruthTheory
 
@@ -89,6 +89,6 @@ There are different types of cookies. Essential cookies have functions like reco
 
 You can block cookies by setting your browser preferences, but this will usually affect how and whether you are able to access the website, especially the restricted areas. 
 
-[Terms & Conditions](http://truththeory.com/terms-conditions-2/)
+[Terms & Conditions](https://truththeory.com/terms-conditions-2/)
 
 [Skimlinks Test](http://test.skimlinks.com/)
