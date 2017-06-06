@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magpress.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219021411id_/http%3A//www.magpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magpress.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202924id_/http%3A//www.magpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MagPress.com
 
@@ -17,10 +17,4 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements on MagPress.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequently visited cooking sites).
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-<http://www.magpress.com/privacy>Privacy Policy2011-05-30T19:08:04+00:00Ronald Uncategorized
-
-This a privacy policy page of MagPress.com
-
-Ronald[https://plus.google.com/101729390567951967909](https://plus.google.com/101729390567951967909?rel=author)Ronald KSYrksy81@yahoo.comAdministratorDedicated and full hearted web developer and website admin for MagPress.com.MagPress
   *[September 3, 2009]: 2009-09-03T11:21:09+00:00
