@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604025357id_/https%3A//www.getup.org.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200201id_/https%3A//www.getup.org.au/about/privacy) for the most accurate reproduction.*
 
 # GetUp! - Privacy policy
 
@@ -54,6 +54,18 @@ We don't usually collect unsolicited personal information.
 Where we receive unsolicited personal information, we'll determine whether or not it would have been permissible to collect that personal information if it had been solicited. If we determine that collection would not have been permissible, to the extent permitted by law, we'll destroy or de-identify that personal information as soon as practicable. 
 
 If we determine that collection would have been permissible, we will treat that information in accordance with this policy. 
+
+_***Updated terms effective 16th September 2016***_
+
+**Use of Google Analytics and advertising cookies**
+
+Like many major websites, getup.org.au and [www.betterpower.com.au](http://www.betterpower.com.au/) use Google Analytics to collect demographic data on visitors. The kind of information we collect includes: city, gender, age, interests, device and browser. No personally identifiable information is collected via Google Analytics. The information we collect is used to better understand our users and improve user experience on our sites. If you do not want us to collect this data, you can opt out of Google Analytics at any time using [this browser plug-in](https://tools.google.com/dlpage/gaoptout). 
+
+Getup.org.au and www.betterpower.com.au also use Google AdWords remarketing to serve interest-based advertisements on third-party websites to previous visitors to our sites. Third-party vendors use cookies to serve these ads, which are based on someone's past visits and behaviour on getup.org.au and www.betterpower.com.au. They could be in the form of an advertisement on the Google search results page, or on a site in the Google Display Network. Any data we collect will be used in accordance with our privacy policy and Google's [privacy policy](https://www.google.com/policies/privacy/). 
+
+If you do not want to see this kind of advertising, you can change your[ Google ads settings](https://www.google.com/settings/u/0/ads/authenticated), block cookies in your browser, or use an ad blocker. 
+
+*** 
 
 **Access and correction**
 
