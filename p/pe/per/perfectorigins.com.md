@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211022236id_/http%3A//perfectorigins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051301id_/http%3A//www.perfectorigins.com/privacy-policy) for the most accurate reproduction.*
 
 # Perfect Origins
 
@@ -10,7 +10,7 @@ Please read this Privacy Policy carefully. By visiting and using the Site, you a
 
 ## How We Collect and Use Information
 
-We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). PerfectOrigins.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. PerfectOrigins.com collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). PerfectOrigins.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. PerfectOrigins.com collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and email address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
 
 We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
@@ -40,7 +40,7 @@ Because we do not collect any personally identifiable information from children 
 
 ## How do we store your information?
 
-Your information is stored at the list server that delivers PerfectOrigins.com content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive PerfectOrigins.com material.
+Your information is stored at the list server that delivers PerfectOrigins.com content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver email to those who would like to receive PerfectOrigins.com material.
 
 All of the messaging or emails that are sent to you by PerfectOrigins.com include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.
 
