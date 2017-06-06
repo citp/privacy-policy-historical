@@ -1,114 +1,118 @@
-> *The following text is extracted and transformed from the themedicportal.com privacy policy that was archived on 2015-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150726085840id_/https%3A//www.themedicportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themedicportal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182439id_/https%3A//www.themedicportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Medic Portal
 
-**BACKGROUND:**
+The Medic Portal – Privacy Policy
 
-This Policy applies as between you, the User of this Website and The Medic Portal the owner and provider of this Website.   This Policy applies to our use of any and all Data collected by us in relation to your use of the Website.
+### 1.                   TERMS OF PRIVACY POLICY
 
-  1. Definitions and Interpretation
+The Medic Portal Ltd (“we”, “our” or “us”) are committed to protecting and respecting your privacy.
 
+This policy (together with our [Website Terms of Use](https://www.themedicportal.com/terms-conditions/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is The Medic Portal Ltd of Broad House, The Broadway, Old Hatfield, Herts, AL9 5BG.
 
-In this Policy the following terms shall have the following meanings:
+### 2.                   INFORMATION WE MAY COLLECT FROM YOU
 
-**“Data”** | means collectively all information that you submit to the The Medical Portal via the Website.   This definition shall, where applicable, incorporate the definitions provided in the Data Protection Act 1998;  
----|---  
-**“Cookie”** | means a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website.   Details of the cookies used by this Website are set out in Clause 12;  
-**“** **The Medic Portal”** **** | means The Medic Portal Ltd. of Broad House, 1 The Broadway, Hatfield AL9 5BG;  
-**“UK and EU Cookie Law”** | means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011;  
-**“User”** | means any third party that accesses the Website and is not employed by The Medic Portal and acting in the course of their employment; and  
-**“Website”** | means the website that you are currently using www.themedicportal.com and any sub-domains of this site unless expressly excluded by their own terms and conditions.  
-  
-  2. Scope of this Policy
+We may collect and process the following data about you:
 
-
-
-This Policy applies only to the actions of The Medic Portal and Users with respect to this Website.   It does not extend to any websites that can be accessed from this Website including, but not limited to, any links we may provide to social media websites.
-
-  3. Data Collected
+  * Information you give us. You may give us information about you by filling in forms on our website [www.themedicportal.com](http://www.themedicportal.com/) (our website) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our website, subscribe to our service, search for a product, place an order on our website, participate in discussion boards or other social media functions on our website, and when you report a problem with our website. The information you give us may include your name, address, school, e-mail address and phone number, financial and credit card information, personal description and photograph and academic information.
+  * Information we collect about you. With regard to each of your visits to our website we may automatically collect the following information: 
+    * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and
+    * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
 
 
 
-Without limitation, any of the following Data may be collected by this Website from time to time:
+Please also see the section about cookies in clause 3 below.
 
-  * name;
-  * date of birth;
-  * gender;
-  * job title;
-  * profession;
-  * school;
-  * contact information such as email addresses and telephone numbers;
-  * demographic information such as post code, preferences and interests;
-  * financial information such as credit / debit card numbers;
-  * IP address (automatically collected);
-  * web browser type and version (automatically collected);
-  * operating system (automatically collected);
-  * a list of URLs starting with a referring site, your activity on this Website, and the site you exit to (automatically collected); and
-  * other information
-
-
-  4. Our Use of Data 
-    * Any personal Data you submit will be retained by The Medic Portal
-    * Unless we are obliged or permitted by law to do so, and subject to Clause 5, your Data will not be disclosed to third parties. This includes does not include our affiliates and / or other companies within our group.
-    * All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. Fore more details on security see Clause 11 below.
-    * Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website. Specifically, Data may be used by us for the following reasons: 
-      * internal record keeping;
-      * improvement of our products / services;
-      * transmission by email of promotional materials that may be of interest to you;
-      * contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update the Website.
-
-
-  5. Third Party Websites and Services 
-    * The Medic Portal may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment processing, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services may have access to certain personal Data provided by Users of this Website.
-
-
-  6. Links to Other Websites
+  * Information we receive from other sources. We may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this website. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
 
 
-This Website may, from time to time, provide links to other websites.   The Medic Portal has no control over such websites and is in no way responsible for the content thereof.   This Policy does not extend to your use of such websites.   Users are advised to read the privacy policy or statement of other websites prior to using them.
+### 3.                   COOKIES
 
-  7. Changes of Business Ownership and Control 
-    * The Medic Portal may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of The Medic Portal. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was originally supplied to us.
-    * In the event that any Data submitted by Users is to be transferred in such a manner, you will not be contacted in advance and informed of the changes.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our website. For detailed information on the cookies we use and the purposes for which we use them see our [Cookies Policy](https://www.themedicportal.com/cookies-policy/).
 
+### 4.                   USES MADE OF THE INFORMATION
 
-  8. Controlling Use of Your Data 
-    * Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following: 
-      * use of Data for direct marketing purposes; and
-      * sharing Data with third parties.
+We use information held about you in the following ways:
 
-
-  9. Your Right to Withhold Information 
-    * You may access certain areas of the Website without providing any Data at all. However, to use all features and functions available on the Website you may be required to submit certain Data.
-    * You may restrict your internet browser’s use of Cookies. For more information see Clause 12.
-
-
-  10. Accessing your own Data
-
-
-
-You have the right to ask for a copy of any of your personal Data held by The Medic Portal (where such data is held) on payment of a small fee which will not exceed £100.
-
-  11. Security 
-    * Data security is of great importance to The Medic Portal and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected via this Website.
-
-
-  12. Cookies 
-    * This Website may place and access certain Cookies on your computer. The Medic Portal uses Cookies to improve your experience of using the Website and to improve our range of products and services.   The Medic Portal has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.
-    * All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.
-    * This Website uses analytics services provided by Google. Website analytics refers to a set of tools used to collect and analyse usage statistics, enabling us to better understand how Users use the Website.   This, in turn, enables us to improve the Website and the products and services offered through it.   You do not have to allow us to use these Cookies, as detailed below, however whilst our use of them does not pose any risk to your privacy or your safe use of the Website it does enable us to continually improve our business.
-    * The analytics services used by this Website use Cookies to gather the required information.
-    * You can choose to enable or disable Cookies in your internet browser. Most internet browsers also enable you to choose whether you wish to disable all cookies or only third party cookies.   By default, most internet browsers accept Cookies but this can be changed.   For further details, please consult the help menu in your internet browser.
-    * You can choose to delete Cookies at any time however you may lose any information that enables you to access the Website more quickly and efficiently including, but not limited to, personalisation settings.
-    * It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings.
-
-
-  13. Changes to this Policy
+  * Information you give to us. We will use this information: 
+    * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+    * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+    * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the registration form on which we collect your data;
+    * to notify you about changes to our service;
+    * to ensure that content from our website is presented in the most effective manner for you and for your computer.
+  * Information we collect about you. We will use this information: 
+    * to administer our website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+    * to improve our website to ensure that content is presented in the most effective manner for you and for your computer;
+    * to allow you to participate in interactive features of our service, when you choose to do so;
+    * as part of our efforts to keep our website safe and secure;
+    * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+    * to make suggestions and recommendations to you and other users of our website about goods or services that may interest you or them.
+  * Information we receive from other sources. We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
 
 
-The Medic Portal reserves the right to change this Policy as we may deem necessary from time to time or as may be required by law.   Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the Policy on your first use of the Website following the alterations.
+### 5.                   DISCLOSURE OF YOUR INFORMATION
+
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may share your information with selected third parties including:
+
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged 18 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our website.
+  * Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.
+
+
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If The Medic Portal Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms of Use](https://www.themedicportal.com/terms-conditions/) or [Product Terms and Conditions](https://www.themedicportal.com/product-terms-conditions/) and other agreements; or to protect the rights, property, or safety of The Medic Portal Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+### 6.                   WHERE WE STORE YOUR PERSONAL DATA
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted.  Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### 7.                   YOUR RIGHTS
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [info@themedicportal.com](mailto:info@themedicportal.com) or The Medic Portal, 8th Floor Elizabeth House, 39 York Road, London, SE1 7NQ.
+
+### 8.                   Status of this Policy and Your Consent
+
+For some of the uses of your information described above there is a legal basis for us to use the information without your consent.  This includes, for example, legitimate provision of information to service providers acting on our behalf. Where this is the case, this privacy policy fulfils our duty to process information fairly, which includes giving you appropriate notice and explanation of the way in which your information will be used.
+
+Where consent is required for our use of your information, by submitting your information to us you consent to our use of that information as set out in this policy; and if you disclose someone else’s information to us, you confirm that you have their consent to disclose this information to us and for us to use and disclose it in accordance with this policy.
+
+If you provide us with your sensitive personal data (for example, your state of health or any disabilities) you expressly consent to us using that data and disclosing it to our service providers for the purpose given. If you disclose someone else’s sensitive personal data to us you confirm that you have their consent to disclose this information to us and for us to use and disclose it to the relevant service providers for the purpose given.
+
+### 9.                   ACCESS TO INFORMATION
+
+The Act gives you the right to access information we hold about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+### 10.                OTHER WEBSITES
+
+Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates and other third parties.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies or the collection and use of your personal information on these websites.  Please check these policies before you submit any personal data to these websites.
+
+### 11.                CHANGES TO PRIVACY POLICY
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
+
+### 12.                CONTACT
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be sent to us at our email [info@themedicportal.com](mailto:info@themedicportal.com) or postal address The Medic Porta, 8th Floor Elizabeth House, 39 York Road, London, SE1 7NQ.
+
+### 13.                EFFECTIVE DATE
+
+This Privacy Policy was uploaded to our website on 16 May 2016 and applies from this date.
 
 Loading More Content
