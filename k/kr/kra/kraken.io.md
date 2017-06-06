@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kraken.io privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120191326id_/https%3A//kraken.io/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraken.io privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000316id_/https%3A//kraken.io/about/privacy) for the most accurate reproduction.*
 
 # About · Kraken.io
 
