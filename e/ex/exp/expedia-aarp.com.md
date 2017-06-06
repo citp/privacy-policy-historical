@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the expedia-aarp.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315022839id_/https%3A//www.expedia-aarp.com/p/info-other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia-aarp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192225id_/https%3A//www.expedia-aarp.com/p/info-other/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AARP Travel Center powered by Expedia
+# AARP Travel Center powered by Expedia Privacy Policy
+
+## AARP Travel Center powered by Expedia Privacy Policy
 
 We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. The terms "we", "us", "our" and " AARP Travel Center powered by Expedia” refer to AARP Travel Center powered by Expedia and/or our subsidiaries. The term "you" refers to the customer visiting the AARP Travel Center powered by Expedia and/or booking a reservation through us on the AARP Travel Center powered by Expedia, or through our customer service agents. By visiting this AARP Travel Center powered by Expedia website, you are accepting the practices described herein. 
 
@@ -103,7 +105,7 @@ If you have questions about this Privacy Policy, please [e-mail us](mailto:suppo
 
 ## **Contacting AARP Travel Center powered by Expedia website**
 
-We want to make sure you have control over your online travel experience on AARP Travel Center powered by Expedia from planning and purchasing your travel to protecting your personal information. AARP Travel Center powered by Expedia customer service travel agents are ready to help with any travel concerns 24 hours a day, seven days a week. When you need help, use our [feedback form ](https://www.expedia-aarp.com/pub/agent.dll?qscr=fbak). You may also call 1-800-675-4318. From outside the US or Canada, call us at 949-333-4391 around the clock to speak to a representative personally. We will do our best to respond to your request for assistance or other questions about AARP Travel Center powered by Expedia within 24 hours. In addition, you may directly contact the travel provider at the phone number or address provided on your travel itinerary. 
+We want to make sure you have control over your online travel experience on AARP Travel Center powered by Expedia from planning and purchasing your travel to protecting your personal information. AARP Travel Center powered by Expedia customer service travel agents are ready to help with any travel concerns 24 hours a day, seven days a week. When you need help, use our [feedback form](https://www.expedia-aarp.com/feedback). You may also call 1-800-675-4318. From outside the US or Canada, call us at 949-333-4391 around the clock to speak to a representative personally. We will do our best to respond to your request for assistance or other questions about AARP Travel Center powered by Expedia within 24 hours. In addition, you may directly contact the travel provider at the phone number or address provided on your travel itinerary. 
 
 Revised December 6, 2011 
 
