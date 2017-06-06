@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodnet.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120101600id_/http%3A//www.goodnet.org/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnet.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080644id_/http%3A//www.goodnet.org/pages/privacy_policy) for the most accurate reproduction.*
 
 # Goodnet | Gateway to doing good
 
