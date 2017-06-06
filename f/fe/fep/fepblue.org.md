@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813140646id_/https%3A//www.fepblue.org/en/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191133id_/https%3A//www.fepblue.org/en/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms & Privacy-Blue Cross and Blue Shield's Federal Employee Program
 
@@ -8,7 +8,7 @@ The following terms and conditions (“terms and conditions”) govern your use 
 
 If you do not agree with the terms and conditions, you are not granted permission to use the website and should exit immediately. This opt-out option is not stated prior to each feature of this website. If you decide to opt-out or not accept our terms and conditions and the terms of our Privacy Policy, you will not be able to use our interactive features such as MyBlue, Health Tools, Pharmacy website and the Provider Directory.
 
-_Please Note: This website offers a summary of some of the features of the Blue Cross and Blue Shield Service Benefit Plan. Before making a final decision, please read the[](https://media.fepblue.org/-/media/PDFs/Brochures/2015_SBP_BRO_FINAL_145_102714.pdf)[](https://media.fepblue.org/-/media/PDFs/Brochures/2016_SBP_Brochure.pdf)[Blue Cross and Blue Shield Service Benefit Plan Brochure](https://media.fepblue.org/-/media/PDFs/Brochures/2016_SBP_Brochure.pdf). All benefits are subject to the definitions, limitations and exclusions included in the brochure. Benefits under the non-FEHBP programs are neither offered as part of nor guaranteed under the Blue Cross and Blue Shield contract with the U.S. Office of Personnel Management (OPM) to provide healthcare to Federal employees and annuitants. These benefits are only available to contract holders and covered family members enrolled in the Blue Cross and Blue Shield Service Benefit Plan. The cost of these benefits is not included in your premium._
+_Please Note: This website offers a summary of some of the features of the Blue Cross and Blue Shield Service Benefit Plan. Before making a final decision, please read the[Blue Cross and Blue Shield Service Benefit Plan Brochure](https://web.archive.org/en/benefit-plans/benefit-plans-brochures-and-forms). All benefits are subject to the definitions, limitations and exclusions included in the brochure. Benefits under the non-FEHBP programs are neither offered as part of nor guaranteed under the Blue Cross and Blue Shield contract with the U.S. Office of Personnel Management (OPM) to provide healthcare to Federal employees and annuitants. These benefits are only available to contract holders and covered family members enrolled in the Blue Cross and Blue Shield Service Benefit Plan. The cost of these benefits is not included in your premium._
 
 #### General Information:
 
@@ -40,7 +40,7 @@ Please be advised that BCBSA actively and aggressively enforces its intellectual
 
 **
 
-You may not use the website to send offensive or disruptive material, including without limitation offensive sexual, racial or gender related material, material that violates the Association’s non-discriminatory policies, viruses or other material that may disrupt or interfere with hardware or software functionality, or spam. Notwithstanding the foregoing, BCBSA is not responsible and shall not be liable for the contents of content posted to or sent from the website by visitors or persons, other than BCBSA employees, in e-mail, forums, surveys, or by any other means. Opinions or comments contained in such content reflect the views of the author and not of BCBSA unless BCBSA expressly states to the contrary.
+You may not use the website to send offensive or disruptive material, including without limitation offensive sexual, racial or gender related material, material that violates the Association’s non-discriminatory policies, viruses or other material that may disrupt or interfere with hardware or software functionality, or spam. Notwithstanding the foregoing, BCBSA is not responsible and shall not be liable for the contents of content posted to or sent from the website by visitors or persons, other than BCBSA employees, in email, forums, surveys, or by any other means. Opinions or comments contained in such content reflect the views of the author and not of BCBSA unless BCBSA expressly states to the contrary.
 
 Nothing contained, expressed, or implied on this website is intended as nor shall be construed as medical advice. No doctor-patient relationship is established between BCBSA and you by reason of your use of this website or under any circumstances whatsoever. Individual inquiries about medical issues, or sensitive or confidential matters should be addressed to the appropriate healthcare professionals. You should not rely upon the website in any way in the event of an emergency health situation. In such an emergency situation, the user should instead call 911 or his/her healthcare provider.
 
@@ -120,11 +120,11 @@ This website and the information contained herein does not constitute an offer o
 
 **
 
-##### 12\. Disclosure for uses and response times for e-mail, electronic messages, and other communications transmitted via the website:
+##### 12\. Disclosure for uses and response times for email, electronic messages, and other communications transmitted via the website:
 
 **
 
-BCBSA makes no guarantees about its response to e-mails, electronic messages, and other communications transmitted in response to services available through our Business Partners accessed through this website. However, it will attempt to answer all such communications brought to our attention within 30 days of receipt of such communication.
+BCBSA makes no guarantees about its response to emails, electronic messages, and other communications transmitted in response to services available through our Business Partners accessed through this website. However, it will attempt to answer all such communications brought to our attention within 30 days of receipt of such communication.
 
 **
 
@@ -185,7 +185,7 @@ These terms and conditions will be governed by and construed in accordance with 
 
 These terms and conditions constitute the entire agreement between you and BCBSA with respect to your use of the website. If any part of these terms and conditions is held to be invalid or unenforceable for any reason, the remaining parts will remain in full force and effect. You acknowledge that, in providing you access to and use of the website, BCBSA has relied on your agreement to be legally bound by these terms and conditions. BCBSA reserves the right to terminate your access to the website in the event that you violate these terms and conditions, or for any reason whatever.
 
-_© 2000-2015 Blue Cross Blue Shield Association. All Rights Reserved. Revised 2014._
+_© 2000-2017 Blue Cross Blue Shield Association. All Rights Reserved. Revised 2017._
 
 ## 
 
@@ -194,12 +194,12 @@ Privacy Policy
 Your privacy is important to us. The Blue Cross Blue Shield Association maintains high standards for the protection of your privacy on our websites. Here is what you can expect when you visit [www.fepblue.org](http://www.fepblue.org/).
 
   * Other than to fulfill a request from you, we won't sell, rent or share any personally-identifiable information (PII) you provide without your consent.
-  * We won't send you any unsolicited e-mail ("spam").
+  * We won't send you any unsolicited email ("spam").
   * No PII collected at this website will ever be used to affect your health insurance coverage by or premiums paid to a Blue Cross and Blue Shield company.
 
 
 
-Please remember that this policy only covers the data collection and use practices for [www.fepblue.org](http://www.fepblue.org/), an official website of the Blue Cross Blue Shield Association (BCBSA). BCBSA's privacy policies may differ at its other websites or in its off-line data collection and reporting practices. Questions regarding the privacy policy of your independent, local Blue Cross and Blue Shield company should be directed to that company.
+Please remember that this policy only covers the data collection and use practices for [www.fepblue.org](http://www.fepblue.org/), an official website of the Blue Cross Blue Shield Association (BCBSA). BCBSA's privacy policies may differ at its other websites or in its offline data collection and reporting practices. Questions regarding the privacy policy of your independent, local Blue Cross and Blue Shield company should be directed to that company.
 
 Each of our business partners, including CVS Caremark (Pharmacy), WebMD Health Services (Health Tools), the U.S. Office of Personnel Management (OPM), our enrollment area (the FEP Operations Center for Customer eService), AXA Assistance for overseas benefits and provider information, and any other supplemental plan vendor, have separate privacy policies.
 
@@ -209,7 +209,7 @@ Each of our business partners, including CVS Caremark (Pharmacy), WebMD Health S
 
 **
 
-Our web servers automatically capture your domain name, the IP address of the web page from which you enter our site, the pages you visit on our site and the amount of time you spend here. We do not collect any information that can reveal your personal identity unless you voluntarily provide it when you register to use interactive features of the site or to receive information from us or Blue Cross and Blue Shield companies. We do not collect and save any Protected Health Information (PHI). Any section of www.fepblue.org that is directed to children or teens will be protected by a screening mechanism to help ensure parental consent is obtained before we collect or use PII from children under 13. We do not knowingly collect or use PII from children under 13 without the consent of a parent or guardian.
+Our web servers automatically capture your domain name; the IP address of the web page from which you enter our site; the browser name, full version (major and minor), and plugins; the resolution (width/height) and color depth; the operating system; the pages you visit on our site; and the amount of time you spend here. We do not collect any information that can reveal your personal identity unless you voluntarily provide it when you register to use interactive features of the site or to receive information from us or Blue Cross and Blue Shield companies. We do not collect and save any Protected Health Information (PHI). Any section of www.fepblue.org that is directed to children or teens will be protected by a screening mechanism to help ensure parental consent is obtained before we collect or use PII from children under 13. We do not knowingly collect or use PII from children under 13 without the consent of a parent or guardian.
 
 PII voluntarily provided by you may be retained indefinitely for the purposes described in this Privacy Policy.
 
@@ -223,7 +223,7 @@ If you use the features on this website or on the websites of our business partn
 
 The non-PII we gather and store in aggregate form is only used to maintain or improve our website, and we may share that information with other areas in BCBSA, local Blue Cross and Blue Shield companies, our business partners, or with companies we hire to help us maintain or improve the website.
 
-Any PII you voluntarily give us will be stored in a secure environment and used only to provide the product, service, or information you have requested or for which you registered. Unless you specifically consent to let us do so, your PII, including your e-mail address, will not be sold, rented, licensed or otherwise shared with third parties, other than Blue Cross and Blue Shield companies or business partners as required to fulfill a request from you. Personal information you voluntarily provide and the non-PII we collect in aggregate form will not affect your insurance coverage, eligibility, premiums or claims payment by any Blue Cross and Blue Shield Plan company.
+Any PII you voluntarily give us will be stored in a secure environment and used only to provide the product, service, or information you have requested or for which you registered. Unless you specifically consent to let us do so, your PII, including your email address, will not be sold, rented, licensed or otherwise shared with third parties, other than Blue Cross and Blue Shield companies or business partners as required to fulfill a request from you. Personal information you voluntarily provide and the non-PII we collect in aggregate form will not affect your insurance coverage, eligibility, premiums or claims payment by any Blue Cross and Blue Shield company.
 
 **
 
@@ -235,9 +235,7 @@ When you visit our website, we may place a "session" or cookie on your computer 
 
 We will store cookie information only in aggregate form and only use the information to make improvements to the website or internal reports on site activity. You can use your browser controls to refuse to allow any cookies to be placed on your computer.
 
-Spyware is software that helps gather information about a person or organization without their knowledge, and which may send information to another entity without your consent, or asserts control over a computer without your knowledge.
-
-At this time, we do not use spyware on our site. Cookies are used to store [www.fepblue.org](http://www.fepblue.org/) browsing history in order to improve the experience on the website. The browsing history is stored anonymously and it is not transmitted to or readable by other websites but [www.fepblue.org](http://www.fepblue.org/).
+Spyware is software that helps gather information about a person or organization without their knowledge, and which may send information to another entity without your consent, or asserts control over a computer without your knowledge. At this time, we do not use spyware on our site. Cookies are used to store [www.fepblue.org](http://www.fepblue.org/) browsing history in order to improve the experience on the website. The browsing history is stored anonymously and it is not transmitted to or readable by other websites but [www.fepblue.org](http://www.fepblue.org/). ****
 
 **
 
@@ -260,6 +258,10 @@ If we make any significant changes to this policy, we will let you know the effe
 
 
 Includes changes and clarifications to our Mail Service Pharmacy Benefits manager.
+
+  * Policy updated 8/2016 - update to the list of items our web servers automatically capture. See "The information we collect" section for details. 
+
+
 
 **
 
