@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecorporateoffices.com privacy policy that was archived on 2016-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160218225719id_/http%3A//ecorporateoffices.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecorporateoffices.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091357id_/http%3A//ecorporateoffices.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Corporate office & headquaters - eCorporateOffices.com
 
