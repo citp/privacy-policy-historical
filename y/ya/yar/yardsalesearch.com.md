@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the yardsalesearch.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726003003id_/http%3A//www.yardsalesearch.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardsalesearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183116id_/http%3A//www.yardsalesearch.com/privacy.jsp) for the most accurate reproduction.*
 
 # Yard Sale Search - Find or advertise garage sales for free!
-
-## Privacy Policy Statement
 
 Here's the short version: we respect your privacy and never release or misuse your personal information except as required by law or with your full permission. We do not spam, sell, rent, or otherwise release any of your information to outside parties unless required to do so by law. Seriously. If you feel there is an issue, please contact us **immediately**. 
 
 If you're bored, you can read the long version below (yawn....). 
 
-This is a web site operated by Bookoo, Inc. 
+This is a web site operated by [Treasure Listings, LLC](http://treasurelistings.com/). 
 
-Our postal address is: 248 Foster Drive Oswego, IL 60543 
+Our postal address is: 1912 West Anderson Ln Suite 204 Austin, TX 78757 
 
-We can be reached via e-mail at info@bookoo.com. 
+We can be reached via e-mail at [support@yardsaleseach.com](mailto:support@yardsaleseach.com). 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
