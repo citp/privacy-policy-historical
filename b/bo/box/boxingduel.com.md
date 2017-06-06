@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxingduel.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227190330id_/http%3A//s2.boxingduel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxingduel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025445id_/http%3A//s2.boxingduel.com/privacy-policy) for the most accurate reproduction.*
 
 # Boxing Duel
 
@@ -54,15 +54,15 @@ The user's personal data and e-mail address will not be sold to any third partie
 
 The operator is entitled to store the e-mail address, the IP addresses and login times of the user for any reason only for the necessary period of 20 years in accordance with the applicable laws. The operator is also entitled to store the above mentioned data even after removal of the user's account from the game. By agreeing with the Terms of Service and End-User License Agreement of the game, the user gives the operator permission to process and store these personal data in accordance with Act no. 122/2013 coll. of Slovakia on Protection of Personal Data. The operator declares that the e-mail addresses of removed accounts will not be used for the purposes of sending newsletters about the game, other projects of the operator or operator's partners and that they will not be disclosed to any third party for these purposes. 
 
-The operator stores the e-mail addresses, the IP addresses and login times of users at it's provider VSHosting s.r.o., Tiskařská 257/10, 108 00 Prague 10 - Malešice, Czech Republic, Company registration number: 61505455. 
+The operator stores the e-mail addresses, the IP addresses and login times of users at its provider VSHosting s.r.o., Tiskařská 257/10, 108 00 Prague 10 - Malešice, Czech Republic, Company registration number: 61505455. 
 
-In case the user provides the operator other personal data than the ones mentioned above via one or more platforms, the operator does not store these data. 
+In case the user provides the operator with personal data other than the ones mentioned above via one or more platforms, the operator does not store these data. 
 
   
 
   7. **Security of your personal data**
 
-The operator processes the data collected from users according to the data protection law effective in the Slovak Republic. All persons working with personal data of users are obliged and have been advised to maintain data with confidentiality and privacy obligations. 
+The operator processes the data collected from users according to the data protection law effective in the Slovak Republic. All persons working with personal data of users are obligated and have been advised to maintain data with confidentiality and privacy obligations. 
 
 The operator has issued Security guidelines on protection of personal data in accordance with Act no. 122/2013 coll. of Slovakia on Protection of Personal Data in order to ensure protection of the stored personal data of the users. 
 
