@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 34-menopause-symptoms.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222151351id_/http%3A//www.34-menopause-symptoms.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 34-menopause-symptoms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040527id_/http%3A//www.34-menopause-symptoms.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # 34-Menopause-Symptoms.com Privacy Policy | 34-menopause-symptoms.com
 
