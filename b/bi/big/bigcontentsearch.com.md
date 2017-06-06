@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigcontentsearch.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311223622id_/http%3A//www.bigimtoolbox.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcontentsearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080357id_/http%3A//www.bigimtoolbox.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Big Content Search
 
@@ -63,4 +63,4 @@ All information on the page [_About_](https://web.archive.org/about.php).
 
 #### Definitions
 
-The “site” is an online information service provided by NiteoWeb Ltd. (“NiteoWeb Ltd.”). Wherever the agreement refers to “you” or “your”, it refers to the User of the service; “we” or “our” refers to NiteoWeb Ltd..
+The “site” is an online information service provided by Termitnjak Ltd. (Termitnjak Ltd.”). Wherever the agreement refers to “you” or “your”, it refers to the User of the service; “we” or “our” refers to Termitnjak Ltd.
