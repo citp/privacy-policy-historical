@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techns.net privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205140941id_/http%3A//techns.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techns.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185414id_/https%3A//techns.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TechNS Tech News
 
-This Privacy Policy governs the manner in which Agriculture News collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://agriculturenews.tk/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Agriculture News.
+This Privacy Policy governs the manner in which Agriculture News collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://techns.net/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Agriculture News.
 
 **Personal identification information**
 
@@ -58,7 +58,6 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Agriculture News](http://agriculturenews.tk/)  
-<http://agriculturenews.tk/>
+<https://techns.net/>
 
 This document was last updated on September 26, 2014
