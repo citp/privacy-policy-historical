@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the willcookforsmiles.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207075544id_/http%3A//www.willcookforsmiles.com/2011/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willcookforsmiles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173922id_/http%3A//www.willcookforsmiles.com/2011/02/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Will Cook For Smiles
 
-February 12, 2011 by [Leave a Comment](http://www.willcookforsmiles.com/2011/02/privacy-policy.html#respond)
+February 12, 2011 by [3 Comments](http://www.willcookforsmiles.com/2011/02/privacy-policy.html#comments)
 
 **PRIVACY POLICY** for willcookforsmiles.com
 
