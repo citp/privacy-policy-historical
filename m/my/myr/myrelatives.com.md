@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrelatives.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209165721id_/http%3A//www.myrelatives.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrelatives.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154737id_/https%3A//www.myrelatives.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -54,7 +54,7 @@ Technologies such as: cookies, beacons, tags and scripts are used by MyRelatives
 
 We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-We use Local Storage Objects (LSOs) such as Flash to store information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>. 
+We use Local Storage Objects (LSOs) such as Flash to store information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>. 
 
 **_INFORMATION COLLECTED FROM THIRD PARTY SOURCES:_**
 
@@ -116,7 +116,7 @@ In the event that this site, or any businesses owned by this company, is sold or
 
 **_ACCESSING OR UPDATING YOUR INFORMATION_**
 
-If you believe that the personal or billing information you provided to us is outdated or incorrect, then you may review and update that information after logging in to your account and accessing the “My Account” section. You may also contact our customer service team at http://myrelatives.com/contactus.aspx for assistance. In the event that you change/update your information, we may still retain the information you initially provided for various reasons, including but not limited to: 
+If you believe that the personal or billing information you provided to us is outdated or incorrect, then you may review and update that information after logging in to your account and accessing the “My Account” section. You may also contact our customer service team at https://myrelatives.com/contactus.aspx for assistance. In the event that you change/update your information, we may still retain the information you initially provided for various reasons, including but not limited to: 
 
   * Recordkeeping integrity 
   * Analytical purposes
@@ -141,7 +141,7 @@ MyRelatives may contain links to third party sites and communities. Please note 
 
 **Testimonials**
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us here: [http://www.myrelatives.com/contact](https://web.archive.org/contact). 
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us here: [https://www.myrelatives.com/contact](https://web.archive.org/contact). 
 
 **Public Directory**
 
@@ -169,7 +169,7 @@ The Privacy Policy creates no rights that are enforceable by third parties or th
 
 **CONTACT US**
 
-If you have questions about our site, services or membership levels, then please send us an email using the form found at http://myrelatives.com/contactus.aspx 
+If you have questions about our site, services or membership levels, then please send us an email using the form found at https://myrelatives.com/contactus.aspx 
 
 Our business hours are: 
 
@@ -178,4 +178,4 @@ Saturday - Sunday: 7:00am - 11:30am PST
 and 12:30PM - 3:30PM, Closed 11:30AM - 12:30PM   
 Thank you for visiting the MyRelatives Privacy Policy. 
 
-Copyright ©2015 MyRelatives.com. All rights reserved. 
+Copyright ©2017 MyRelatives.com. All rights reserved. 
