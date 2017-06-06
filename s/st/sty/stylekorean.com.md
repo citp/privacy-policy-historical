@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylekorean.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231073037id_/http%3A//www.stylekorean.com/shop/cs_privacy_security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylekorean.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130127id_/http%3A//www.stylekorean.com/shop/cs_privacy_security.php) for the most accurate reproduction.*
 
-# Customer Support | PRIVACY AND SECURITY | Shop Korean Cosmetics Online, Ships Worldwide | StyleKorean
+# Customer Support | PRIVACY AND SECURITY | K-Beauty & Korean Cosmetics Online Shop, Ships Worldwide | STYLEKOREAN.COM
 
 **Privacy and Security**
 
