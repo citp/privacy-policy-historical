@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the metalsupermarkets.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406085328id_/http%3A//metalsupermarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalsupermarkets.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191727id_/https%3A//www.metalsupermarkets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Metal Supermarkets
+# Privacy Policy | Metal Supermarkets - Steel, Aluminum, Stainless, Hot-Rolled, Cold-Rolled, Alloy, Carbon, Galvanized, Brass, Bronze, Copper
 
 This Privacy Policy describes the purposes for which and the manner in which Metal Supermarkets IP Inc. (Metal Supermarkets) collects, uses, maintains and discloses personal data or information collected from users of this Website. It also describes procedures available for users who have questions, complaints or disputes relating to Metal Supermarket’s handling of their personal data. Metal Supermarkets adheres to the Safe Harbor requirements published by the United States Department of Commerce, including the Safe Harbor Privacy Principles. Accordingly, Metal Supermarket’s Privacy Policy and procedures for handling personal data are adequate for purposes of receiving personal data transfers from the European Union in compliance with Directive 95/46/EC of the European Parliament and of the Council of October 24, 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (the EU Directive). However, users should understand that adherence to the Safe Harbor Privacy Principles may be limited to the extent necessary to meet national security, public interest, law enforcement requirements, judicial process or if the effect of the EU Directive or of Member State law is to allow exceptions or derogations, provided such exceptions or derogations are applied in comparable contexts.
 
-**The Information Metal Supermarkets Collects**
-
+**The Information Metal Supermarkets Collects  
+**  
 Metal Supermarkets gathers personal data from users of its website to improve the content on the website, to facilitate sales and order inquires and to enhance a User’s online experience, and for other business purposes. Metal Supermarkets takes reasonable precautions to secure a User’s personal data. Metal Supermarkets uses reasonable technical solutions to make a User’s visit to this website as safe as it can reasonably be, but users should understand that no information system can ever be made 100% secure. Metal Supermarkets may collect various types of personal data voluntarily provided by users, including name, company name, address, telephone number, credit card number or other billing information, e-mail address, and other information such as survey responses. Metal Supermarkets may also collect information about how users use this website, for example, by tracking the number of unique views received by the pages of the website or the domains from which users originate. Metal Supermarkets may use “cookies” to track how users use this website. A cookie is a small pieces of data stored on a computer and delivered through a Web browser. Most, if not all, commercial websites now use cookies. By using this technology, Metal Supermarkets can provide a user with an enhanced online experience. It is possible for a user to turn off cookies in a Web browser. If a user does this, the user can still browse Metal Supermarket’s website, but Metal Supermarkets will not be able to provide the user with a more personalized experience.
 
 Metal Supermarkets collects from users only personal data that is relevant to the purposes outlined above. Metal Supermarkets takes reasonable steps to ensure that the personal data that it collects is reliable, accurate, and complete.
 
-**How Metal Supermarkets Uses Information**
-
+**How Metal Supermarkets Uses Information  
+**  
 Metal Supermarkets may use personal data collected through its website to contact users regarding products and services offered by Metal Supermarkets and its affiliates, independent contractors and business partners, and otherwise to enhance a user’s experience with Metal Supermarkets and such affiliates, independent contractors and business partners. Metal Supermarkets may also use information collected through its website for research regarding the effectiveness of the website and the marketing, advertising and sales efforts of Metal Supermarkets, its affiliates, independent contractors and business partners.
 
-**Opt Out Procedure**
-
+**Opt Out Procedure  
+**  
 Users have the choice to opt out of having their personal information used by Metal Supermarkets for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by the individual. When a user is first asked to provide personal data or information to Metal Supermarkets, or as soon thereafter as is practical, but in any event before Metal Supermarkets uses such information for a purpose other than that for which it was originally collected or processed by Metal Supermarkets, Metal Supermarkets will provide a user with clear and conspicuous, readily available, and affordable mechanisms to exercise this choice.
 
 **Retargeting**
@@ -24,14 +24,14 @@ Metal Supermarkets collects data about your activities that does not personally 
 
 We do not target ads to you based on sensitive personal data, such as information related to race or ethnic origin, political opinions, religious beliefs or other beliefs of a similar nature, trade union membership, physical or mental health or condition or sexual life. Any data used to serve targeted advertisements is de-identified and is not used to personally or directly identify you.
 
-**Disclosure of Information**
-
+**Disclosure of Information  
+**  
 Metal Supermarkets may disclose personal data or information collected from users to third parties acting as Metal Supermarket’s agents to perform tasks on behalf of and under the instructions of Metal Supermarkets. Metal Supermarkets will not disclose personal data or information collected from users to any other third party aside from its agents. The third party agents include affiliates, independent contractors and business partners who will use the information for the purposes outlined above. Metal Supermarkets may also disclose aggregated data based on information collected from users to investors in Metal Supermarkets and potential partners. Finally, Metal Supermarkets may transfer information collected from users in connection with a sale of Metal Supermarket’s business. Before Metal Supermarkets discloses personal data of a User to a third party agent, Metal Supermarkets will either: (a) ascertain that the agent subscribes to the Privacy Principles, (b) determine that the agent is subject to the EU Directive, (c) determine that the agent is subject to another adequacy finding or (d) enter into a written agreement with the agent requiring that the agent provide at least the same level of privacy protection as is required by the relevant Safe Harbor Privacy Principles.
 
-**Enforcement**
-
+**Enforcement  
+**  
 To enforce the requirements of the Safe Harbor and to provide an independent means of resolving disputes, Metal Supermarkets has voluntarily elected to subject itself to the European Data Protection Authorities. In addition, Metal Supermarkets performs periodic self-assessments to verify that it is adhering to the Safe Harbor Privacy Principles and that the provisions of this Privacy Policy are true and accurate, fully implemented and followed by Metal Supermarkets.
 
-**Questions, Complaints and Disputes**
-
+**Questions, Complaints and Disputes  
+**  
 If a User has any questions, complaints, or disputes with Metal Supermarkets with respect to the organization’s handling of personal data, a User may notify Metal Supermarkets by sending an email to Support@metalsupermarkets.com. Metal Supermarkets may modify this Privacy Policy at any time without prior notice to Metal Supermarket’s users or the public.
