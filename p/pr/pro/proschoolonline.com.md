@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proschoolonline.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121115908id_/http%3A//www.proschoolonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proschoolonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123119id_/http%3A//www.proschoolonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IMS Proschool | Information sharing and Disclosure
 
@@ -34,13 +34,13 @@ The privacy policy is subject to modification from time to time. If we decide to
 
 If you have questions or suggestions, complete the enquiry form or send an email at **sandeepa@proschoolonline.com**
 
-Financial Modelling Certification from NSE India (NCFM) 
+Financial Modeling Certification from NSE Academy (NSE India)
 
-India's leading Certification in Financial Modeling 
+India's Leading Certification in Financial Modeling
 
 Classroom/Online Training
 
-For careers in Investment Banking, Equity Research, Corporate Finance, Project Finance, Portfolio Management, Financial KPOs 
+For careers in Investment Banking, Equity Research, Corporate Finance, Project Finance, Portfolio Management, Financial KPO's
 
 Business Analytics Certification from NSE India (NCFM) 
 
@@ -65,3 +65,33 @@ By Winner of "CIMA - Best Learning Partner of the year 2014, 15 -16"
 Classroom/Online Program
 
 For careers in Management Accountancy, Business Strategy , Pricing Analysis, Financial Analysis, Financial Reporting, Corporate Finance, Costing etc
+
+IFRS Certification from NSE Academy (NSE India)
+
+India's Leading Certification in IFRS
+
+Classroom/Online Training
+
+This program also prepares the candidates for certifications in Ind – AS and Diploma / Cert IFRS
+
+ACCA Course
+
+By India's Leading Institute for Professional Training in Finance & Accounts
+
+For Careers in accountancy, taxation, audit, internal audit, pricing analyst, corporate Finance etc.
+
+9 months Govt Approved PG Diploma in Data Science
+
+India's most Comprehensive & Affordable Training Program 
+
+Classroom/Online Training
+
+Learn Predictive Analytics, Data Mining, Machine Learning, Big Data, Python, Marketing & Retail Analytics, Cases on Finance & HR
+
+Digital Marketing Certification
+
+India's First Experiential Program
+
+Classroom/Online Training
+
+Comprehensive course - covers all essential concepts like SEO, Website, Social Media, Emails, Google Adwords campaign, etc.
