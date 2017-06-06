@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shlonline.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325201459id_/https%3A//online.shl.com/gb/en-gb/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shlonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171018id_/https%3A//online.shl.com/gb/en-gb/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
