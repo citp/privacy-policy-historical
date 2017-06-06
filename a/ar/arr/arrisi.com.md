@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrisi.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228141041id_/http%3A//www.arris.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrisi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070707id_/http%3A//www.arris.com/Company/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ARRIS
 
