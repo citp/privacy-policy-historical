@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listango.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325190312id_/https%3A//www.listango.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listango.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172724id_/https%3A//www.listango.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Listango
 
