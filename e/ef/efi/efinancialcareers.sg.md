@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the efinancialcareers.sg privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121133332id_/http%3A//news.efinancialcareers.com/sg-en/page/privacy-policy-sg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.sg privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607015825id_/http%3A//news.efinancialcareers.com/sg-en/page/privacy-policy-sg) for the most accurate reproduction.*
 
 # EFINANCIALCAREERS PRIVACY POLICY - eFinancialCareers
 
-**Last Updated:  28.09.2016**
+**Last Updated: 01.2017**
 
 | [](https://privacy.truste.com/privacy-seal/validation?rid=e0619609-2aa7-413a-88b2-20553e8fbc6b)  
 ---|---  
@@ -135,7 +135,7 @@ If you would like to have your personally identifiable information removed from 
 ## J. Changes to this Privacy Policy
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.  
-Note that, by using the Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the Services. Your continued use of the Services subsequent to changes to this Policy will mean that you accept the changes; therefore, please bookmark this page and review it periodically. If you have any questions regarding this Privacy Policy, or any other privacy issues in connection with the Services, please e-mail us at support@efinancialcareers.com
+Note that, by using the Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the Services. Your continued use of the Services subsequent to changes to this Policy will mean that you accept the changes; therefore, please bookmark this page and review it periodically. If you have any questions regarding this Privacy Policy, or any other privacy issues in connection with the Services, please e-mail us at[ support@efinancialcareers.com](mailto:support@efinancialcareers.com)
 
 ## K. Questions?
 
