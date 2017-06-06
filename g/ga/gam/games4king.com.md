@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games4king.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119040921id_/http%3A//www.games4king.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games4king.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073110id_/http%3A//www.games4king.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games4king Games, Escape Games, Point and Click, Room Escape, Online Games, Girls Games, Dress Up Games, Cooking Games, Make Over Games, Baby Games, Fun Games, Casino Games, Fun Games, Girls Games, Card Games, Adventure Games, Super Hero Ga
 
