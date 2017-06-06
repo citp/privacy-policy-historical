@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sparxitsolutions.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119020001id_/http%3A//www.sparxitsolutions.com/privacy-policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sparxitsolutions.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606111734id_/http%3A//sparxitsolutions.com/privacy-policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-ng-app="contactAp" class=" js no-touch backgroundsize csstransforms3d csstransitions"><head>
 		<!-- Meta Tags -->
@@ -53,6 +53,10 @@
 			<strong>Cut price and add colours this holi - 15% OFF .. <a href="http://www.sparxitsolutions.com/discount.shtml" >Grab coupon</a></strong>
 		</div>
 	</div> -->
+        
+<div id="RockeitOffers-offer-strip-wrapper">
+
+</div>
 
 <header id="header" class="clearfix intelligent">
 <div class="container">
@@ -293,13 +297,16 @@
 					<div class="dropdown-section paddbn">
 						<ul class="sub-menu">
 							<li>
-										<a href="case-study-jewel-hub.shtml">Jeweb Hub</a>
+										<a href="case-study-jewel-hub.shtml">Jewel Hub</a>
 									</li>
 									<li>
 										<a href="case-study-doodern.shtml">Doodern</a>
 									</li>
 									<li>
 										<a href="case-study-kul-marks.shtml">Kulmark</a>
+									</li>
+									<li>
+										<a href="case-study-supermargins.shtml">Super Margins</a>
 									</li>
 						</ul>
 						</div>
@@ -346,7 +353,6 @@
 	</nav>
 </div>
 </header>
-
 
 			<!-- Header end here -->
 			<section class="inner-banner sub-banner term-titel service-page top-m">
@@ -555,7 +561,7 @@
 
                 </div></div></div>
             </div>
-            <span class="copyright"> Copyright © 2016, Sparx. All Rights Reserved  | <a href="http://mychopps.sparxitsolutions.com" target="_blank">Client Area</a> </span>
+            <span class="copyright"> Copyright © 2017, Sparx. All Rights Reserved  | <a href="http://mychopps.sparxitsolutions.com" target="_blank">Client Area</a> </span>
         </div>
     </div>
 </footer>
@@ -564,7 +570,7 @@
 <!-- Wrapper end here -->
 
 </div>
-
+<div style="display: none;" id="offer_popup"></div>
 <!-- offer-popup-box -->
  <!-- <div id="popBox">
                         <div class="overlay"></div>
@@ -999,6 +1005,68 @@ a.diwali-view-details {
         }
     });
 </script>
+<!--<script>
+    var xmlHttp = null;
+    var scriptProcess = true;
+    if (scriptProcess) {
+        try
+        {
+            xmlHttp = new XMLHttpRequest;
+        }
+        catch (e)
+        {
+            try
+            {
+                xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+            }
+            catch (e)
+            {
+                xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+        }
+        xmlHttp.onreadystatechange = function ()
+        {
+            if (xmlHttp.readyState == 4)
+            {
+                var div = document.getElementById('offer_popup');
+                div.innerHTML = xmlHttp.responseText;
+                var script = document.createElement('script');
+                script.src = "http://rockeit.com/companies/sparx/sparxit/offers/assets/js/RockeitOffers-js.js?t=1761227339";
+                script.onload = function () {
+                };
+                document.head.appendChild(script); //or something of the likes
+            }
+        }
+    }
+    xmlHttp.open("GET", "http://rockeit.com/companies/sparx/sparxit/offers/offer.php?t=1480688635", true);
+    xmlHttp.send(null);
+    try
+    {
+        xmlHttp1 = new XMLHttpRequest;
+    }
+    catch (e)
+    {
+        try
+        {
+            xmlHttp1 = new ActiveXObject("Msxml2.XMLHTTP");
+        }
+        catch (e)
+        {
+            xmlHttp1 = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+    }
+    xmlHttp1.onreadystatechange = function ()
+    {
+        if (xmlHttp1.readyState == 4)
+        {
+            var div = document.getElementById('RockeitOffers-offer-strip-wrapper');
+            div.innerHTML = xmlHttp1.responseText;
+
+        }
+    }
+    xmlHttp1.open("GET", "http://rockeit.com/companies/sparx/sparxit/header-strip/offer-strip.php?t=1480688635", true);
+    xmlHttp1.send(null);
+</script>-->
 <noscript>
 <a href="https://www.olark.com/site/2198-456-10-7803/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a>
 </noscript>
