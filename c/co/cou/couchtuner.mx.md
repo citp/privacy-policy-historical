@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the couchtuner.mx privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118224955id_/http%3A//www.couchtuner.mx/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couchtuner.mx privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104112id_/http%3A//www.couchtuner.video/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Couchtuner - Watch Series
+# Privacy Policy | Couchtuner TV Video
+
+  
+**Imp : New Domain  Couchtuner.Video | Spread the Word | Last Updated: September 3, 2016 at 10:10 am **   
+
+
+**Last Modified:** September 3, 2016 at 10:10 am  
+**Author:** [Couchtuner](https://plus.google.com/+CouchTunerMe/?rel=author)
+
+  
+
 
 **Privacy Policy**
 
@@ -12,7 +22,7 @@ Information is collected only if users submitted the information voluntarily. Th
 
 **Cookie/Tracking Technology**
 
-CouchTuner.bz may use tracking and/or cookies technology, useful for collecting data like operating system, checking the number of viewers, browser type, and the site’s usefulness to its users. Your personal information can’t be gathered using this technology; on the other hand, if you previously provided your personal information, cookies may link back to that information. Our advertisers or other third parties may use cookies to collect data to provide specific ads. Most of the browsers automatically recognize cookies, but you may modify your browser settings to decline cookies.
+CouchTuner may use tracking and/or cookies technology, useful for collecting data like operating system, checking the number of viewers, browser type, and the site’s usefulness to its users. Your personal information can’t be gathered using this technology; on the other hand, if you previously provided your personal information, cookies may link back to that information. Our advertisers or other third parties may use cookies to collect data to provide specific ads. Most of the browsers automatically recognize cookies, but you may modify your browser settings to decline cookies.
 
 **Information Distribution**
 
@@ -26,6 +36,9 @@ Information provided on the site is kept safe and secured. Authorized and reliab
 
 For concerns, questions or comments, contact us at
 
-**couchtuner[dot]me[at]gmail.com**
+**admin[at]couchtuner.bz**
 
 **Changes are made to this policy without asking further permission from its users. You have to check and read the privacy policy from time to time to make sure that you understand the information posted on this page or the privacy policy.**
+
+  
+
