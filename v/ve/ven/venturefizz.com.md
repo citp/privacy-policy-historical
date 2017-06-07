@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venturefizz.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220051720id_/http%3A//venturefizz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturefizz.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607142716id_/http%3A//venturefizz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VentureFizz
 
@@ -159,7 +159,7 @@ It is our policy to post any changes we make to our privacy policy on this page 
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
-50 Milk Street, 19th Floor  
-Boston, MA 02109  
+745 Atlantic Avenue  
+Boston, MA 02111  
 [info@venturefizz.com](mailto:info@venturefizz.com)    
 781-313-8125
