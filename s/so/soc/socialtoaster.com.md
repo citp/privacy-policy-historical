@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialtoaster.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214145738id_/http%3A//www.socialtoaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtoaster.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607211015id_/http%3A//www.socialtoaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SocialToaster
 
@@ -24,12 +24,13 @@ STI may collect personal identifiable information about you whenever you interac
 
 STI will not distribute, sell, rent or otherwise disclose your personal identifiable information to any third party except as follows:
 
-  1. to business partners, suppliers and other third parties that help us to provide certain products and services to you, including without limitation, your connection to web-based social media services such as Facebook, Twitter and Linkedin;
-  2. to business partners, suppliers and other third parties that help us to process payments;
-  3. in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with STI’s rights or property, or anyone else that could be harmed by such activities;
-  4. in special circumstances, such as the sale or potential sale of STI or its assets or the bankruptcy of STI;
-  5. when we believe in good faith that it is required or permitted by law; and
-  6. when you have consented to such disclosure.
+  1. to STI clients when you sign up to participate in a fan program, including without limitation, your connection to web-based social media services such as Facebook, Twitter and LinkedIn
+  2. to business partners, suppliers and other third parties that help us to provide certain products and services to you, including without limitation, your connection to web-based social media services such as Facebook, Twitter and Linkedin;
+  3. to business partners, suppliers and other third parties that help us to process payments;
+  4. in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with STI’s rights or property, or anyone else that could be harmed by such activities;
+  5. in special circumstances, such as the sale or potential sale of STI or its assets or the bankruptcy of STI;
+  6. when we believe in good faith that it is required or permitted by law; and
+  7. when you have consented to such disclosure.
 
 
 
