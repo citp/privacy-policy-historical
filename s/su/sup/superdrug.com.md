@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208200135id_/http%3A//www.superdrug.com/acc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607022211id_/http%3A//www.superdrug.com/acc/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Superdrug
 
@@ -26,7 +26,7 @@ Cookie Policy
 
 ## 1\. Introduction
 
-Superdrug Stores plc is committed to safeguarding your privacy and ensuring that your personal data is protected. This privacy policy applies to [www.superdrug.com](http://www.superdrug.com/) (the " **Site** ") and to personal data collected about you by Superdrug Stores plc (registered number 807043) of 118 Beddington Lane, Croydon, Surrey CR0 4TB, ("we", "us", or "our"). Superdrug Stores plc is a member of the AS. Watson group of companies (" **AS. Watson Group** ").
+Superdrug Stores plc is committed to safeguarding your privacy and ensuring that your personal data is protected. This privacy policy applies to [www.superdrug.com](http://www.superdrug.com/) (the " **Site** ") and to personal data collected about you by Superdrug Stores plc (registered number 807043) of 51 Sydenham Road, Croydon Surrey, CR0 2EU, ("we", "us", or "our"). Superdrug Stores plc is a member of the AS. Watson group of companies (" **AS. Watson Group** ").
 
 ## 2\. Your Consent To This Privacy Policy
 
@@ -133,28 +133,28 @@ Please do not hesitate to contact us if you have any questions, comments or conc
 • would like us to correct or update your personal data in our records;  
 • wish to report any violations of the privacy policy.
 
-You can send an email to Superdrug Customer Team on [help@superdrug.com](mailto:help@superdrug.com), you can also call our helpline on 03456 710 709 or write to us at: Superdrug Stores plc, 118 Beddington Lane, Croydon, Surrey, CR0 4TB, United Kingdom.
+You can send an email to Superdrug Customer Team on [help@superdrug.com](mailto:help@superdrug.com), you can also call our helpline on 03456 710 709 or write to us at: Superdrug Stores plc, 51 Sydenham Road, Croydon Surrey, CR0 2EU, United Kingdom.
 
 ## Superdrug Stores plc Cookies Policy
 
 ## 1\. Introduction
 
-1.1 We use cookies on our Site. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited our website before. We use cookies to give you the best possible experience on our Site. This Cookies Policy gives you more details on the cookies used on our Site.
+**1.1** We use cookies on our Site. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited our website before. We use cookies to give you the best possible experience on our Site. This Cookies Policy gives you more details on the cookies used on our Site.
 
-1.2 You can disable the cookies from your browser at any point in time and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. This may, however, prevent you from taking full advantage of the Site and being able to make any purchases from the Site. You can find out how to do this for your particular browser by clicking "help" on your browser's menu, or by visiting www.allaboutcookies.org. To make full use of the online shopping and personalised features on our Site, your computer, tablet or mobile phone will need to accept cookies, as we can only provide you with certain personalised and essential features of the Site by using them.
+**1.2** You can disable the cookies from your browser at any point in time and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. This may, however, prevent you from taking full advantage of the Site and being able to make any purchases from the Site. You can find out how to do this for your particular browser by clicking "help" on your browser's menu, or by visiting www.allaboutcookies.org. To make full use of the online shopping and personalised features on our Site, your computer, tablet or mobile phone will need to accept cookies, as we can only provide you with certain personalised and essential features of the Site by using them.
 
-## More Information About Cookies
+## 2\. More Information About Cookies
 
-2.1 Our Site uses cookies for the following purposes:  
+**2.1** Our Site uses cookies for the following purposes:  
 • To remember your language and country preferences on the Site;  
 • To remember what items you put in your basket on your last visit, so that we can keep your basket contents for you if you did not buy them; and  
 • To track customer behaviour such as the pages visited on your way through the Site, and the rate of basket abandonment. This helps us to improve the Site and your browsing experience.
 
-2.2 We do not use cookies or other tracking technologies to collect information from, or to store information on, your personal computer or other device used to visit our Site, or to track your online activities when you are not on our Site.
+**2.2** We do not use cookies or other tracking technologies to collect information from, or to store information on, your personal computer or other device used to visit our Site, or to track your online activities when you are not on our Site.
 
-2.3 Our Site also uses some third-party tools such as Google Analytics and Facebook and these third-parties may also place cookies via our Site.
+**2.3** Our Site also uses some third-party tools such as Google Analytics and Facebook and these third-parties may also place cookies via our Site.
 
-2.4 Here is a full list of the cookies used on our Site. Please note that:  
+**2.4** Here is a full list of the cookies used on our Site. Please note that:  
 • some cookies are set by our Site (‘first party cookies’) and some are set by others such as Google and Facebook (‘third party cookies’); and  
 • some cookies are removed from your computer when you close your browser. These are called 'session cookies'. Others stay on your computer for longer, until they expire after a fixed time. These are called 'persistent cookies', and can be used to store information between your browsing sessions, such as your preferred settings on a website, or the items that you added to your basket on your last visit.
 
@@ -204,4 +204,4 @@ Peerius_sess | Session Cookie, gathers information on the visitors current sessi
 Peerius_rid | If a user clicks a recommendation, this holds the id for the clicked recommendation. This cookie lives for a few seconds. When the user clicks a recommendation, our JavaScript adds the cookie. When the next page is loaded, our JavaScript reads the cookie and sends it to our server so that our server is aware of the click. | Retailer | Few seconds | Minimally intrusive  
 Peerius_ct | A temporary cookie used to check if the user has cookies enabled | Retailer |   | Exempt  
   
-**This cookie policy was last updated on July 2016.**
+**This cookie policy was last updated on February 2017.**
