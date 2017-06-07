@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526120315id_/http%3A//www.bergdorfgoodman.com/assistance/assistance.jsp%3FitemId%3Dcat403606%26icid%3Dfoot_secur_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607114914id_/http%3A//www.bergdorfgoodman.com/assistance/assistance.jsp%3FitemId%3Dcat403606%26icid%3Dfoot_secur_priv) for the most accurate reproduction.*
 
 # Security & Privacy at Bergdorf Goodman
 
@@ -51,7 +51,7 @@ When you visit one of our stores, if your mobile device accesses one of our wire
 
 Our mobile applications will not transmit geo-location information about you to us unless you give them permission to do so.
 
-Some web browsers and devices permit you to broadcast a preference that you not be ?tracked? online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
+Some web browsers and devices permit you to broadcast a preference that you not be ???tracked??? online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
 
 The Information We Collect was last updated December 5, 2014.
 
@@ -132,7 +132,7 @@ To make online shopping faster and easier, you may register with NeimanMarcus.co
 If you are using a public computer, we strongly encourage you to LOG OUT at the conclusion of your session. Your information will still be stored with us but it will not be accessible to anyone else from that computer.
 
 Emails  
-You will receive promotional emails from us only if you have asked to receive them. If you do not want to receive email from Neiman Marcus or its affiliates you can click on the "Manage Your Email Preferences" link at the bottom of any email communication sent by us. Choose "Unsubscribe" at the bottom of the page that opens. Please allow us 3 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.
+If you do not want to receive email from Neiman Marcus or its affiliates you can click on the "Manage Your Email Preferences" link at the bottom of any email communication sent by us. Choose "Unsubscribe" at the bottom of the page that opens. Please allow us 3 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.
 
 Mobile Messaging  
 If you've signed up for mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the opt-out instructions included in the mobile message.
