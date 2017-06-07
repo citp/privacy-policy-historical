@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angrybirds.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120153002id_/http%3A//www.rovio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angrybirds.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607183636id_/http%3A//www.rovio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rovio.com
 
