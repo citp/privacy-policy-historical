@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexbabesvr.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127134020id_/http%3A//sexbabesvr.com/node/18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexbabesvr.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607115904id_/http%3A//sexbabesvr.com/node/18) for the most accurate reproduction.*
 
 # Privacy Policy | SexBabesVR
 
