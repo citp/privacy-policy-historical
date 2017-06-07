@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxwell.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130235321id_/http%3A//www.maxwell.com/about_us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxwell.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607220440id_/http%3A//www.maxwell.com/about_us/privacy-policy) for the most accurate reproduction.*
 
 # Maxwell Technologies | Privacy Policy
 
