@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129214523id_/http%3A//www.vapornation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607090418id_/http%3A//vapornation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VaporNation
 
@@ -64,8 +64,10 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (888) 321-VAPOR or via email.
 
-## CONTACT
+### NOTIFICATION OF CHANGES
 
-If you have any questions or suggestions regarding our privacy policy, the practices of this site or your dealings with this site, please [contact us via email](https://web.archive.org/contact-us).
+If we decide to change our privacy policy, we will post those changes to this privacy statement. Any choices you have made about how your information may be used will continue to be respected in the event of such a change. We may change, modify, add or remove portions of this policy at any time and any changes will become effective immediately upon being posted.
 
-Please Note: This site may contain links to other sites on the internet that are owned and operated by third parties.
+### REPORTING PROBLEMS
+
+We want to hear from you. Please contact us to report a problem you have experienced on our site. You can submit your complaint via email or postal mail. We will investigate your complaint and respond promptly.
