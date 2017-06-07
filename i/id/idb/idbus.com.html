@@ -1,30 +1,41 @@
-<!--The following is the downloaded HTML source of the idbus.com privacy policy that was archived on 2016-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130140233id_/http%3A//www.ouibus.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idbus.com privacy policy that was archived on 2017-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170607092030id_/http%3A//www.ouibus.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-                  <script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" src="//cdn.tagcommander.com/405/tc_IdBus_5.js"></script>        		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<link href="http://de.ouibus.com/de/privacy-policy" rel="alternate" hreflang="de">
-<link href="http://es.ouibus.com/es/privacy-policy" rel="alternate" hreflang="es">
-<link href="http://nl.ouibus.com/nl/handvest-van-vertrouwdheid" rel="alternate" hreflang="nl">
-<link href="http://be.ouibus.com/nl-be/handvest-van-vertrouwdheid" rel="alternate" hreflang="nl-be">
-<meta name="apple-itunes-app" content="app-id=1047652194">
-<meta name="google-play-app" content="app-id=com.ouibus.mobile">
-<link rel="shortcut icon" href="http://cdn4ldtuq.ouibus.com/sites/all/themes/speed/favicon.ico" type="image/vnd.microsoft.icon">
-<link rel="alternate" media="only screen and (max-width: 640px)" href="http://www.ouibus.com/mobile/privacy-policy/8793">
-<link href="http://uk.ouibus.com/privacy-policy" rel="alternate" hreflang="en">
-<link href="http://it.ouibus.com/it/policy-sulla-privacy-ouibus" rel="alternate" hreflang="it">
-<link rel="dns-prefetch" href="//cdnjpbjit.ch.ouibus.com">
-<link rel="dns-prefetch" href="//cdn4atqs6.de.ouibus.com">
-<link href="http://www.ouibus.com/privacy-policy" rel="alternate" hreflang="x-default">
+                  <script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" src="//cdn.tagcommander.com/405/tc_IdBus_5.js"></script>        		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn4ldtuq.ouibus.com">
+<link rel="dns-prefetch" href="//cdn9j6ag7.be.ouibus.com">
+<link rel="dns-prefetch" href="//cdnjpbjit.ch.ouibus.com">
+<link rel="dns-prefetch" href="//cdn4atqs6.de.ouibus.com">
 <link rel="dns-prefetch" href="//cdn73wvdr.es.ouibus.com">
 <link rel="dns-prefetch" href="//cdn9etiyi.fr.ouibus.com">
-<link href="http://fr.ouibus.com/fr/charte-de-confidentialite" rel="alternate" hreflang="fr">
-<link rel="dns-prefetch" href="//cdn3q9duh.uk.ouibus.com">
-<link rel="dns-prefetch" href="//cdn8k80h3.nl.ouibus.com">
 <link rel="dns-prefetch" href="//cdndg3et2.it.ouibus.com">
-<link rel="dns-prefetch" href="//cdn9j6ag7.be.ouibus.com">
+<link rel="dns-prefetch" href="//cdn8k80h3.nl.ouibus.com">
+<link rel="dns-prefetch" href="//cdn3q9duh.uk.ouibus.com">
+<!--[if IE 9]>
+<link rel="prefetch" href="//cdn4ldtuq.ouibus.com" />
+<link rel="prefetch" href="//cdn9j6ag7.be.ouibus.com" />
+<link rel="prefetch" href="//cdnjpbjit.ch.ouibus.com" />
+<link rel="prefetch" href="//cdn4atqs6.de.ouibus.com" />
+<link rel="prefetch" href="//cdn73wvdr.es.ouibus.com" />
+<link rel="prefetch" href="//cdn9etiyi.fr.ouibus.com" />
+<link rel="prefetch" href="//cdndg3et2.it.ouibus.com" />
+<link rel="prefetch" href="//cdn8k80h3.nl.ouibus.com" />
+<link rel="prefetch" href="//cdn3q9duh.uk.ouibus.com" />
+<![endif]-->
+<meta name="google-play-app" content="app-id=com.ouibus.mobile">
+<link rel="shortcut icon" href="http://cdn4ldtuq.ouibus.com/sites/all/themes/speed/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="apple-itunes-app" content="app-id=1047652194">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://www.ouibus.com/mobile/privacy-policy/8793">
+<link href="http://fr.ouibus.com/fr/charte-de-confidentialite" rel="alternate" hreflang="fr">
+<link href="http://www.ouibus.com/privacy-policy" rel="alternate" hreflang="x-default">
+<link href="http://es.ouibus.com/es/privacy-policy" rel="alternate" hreflang="es">
+<link href="http://uk.ouibus.com/privacy-policy" rel="alternate" hreflang="en">
+<link href="http://be.ouibus.com/nl-be/handvest-van-vertrouwdheid" rel="alternate" hreflang="nl-be">
+<link href="http://de.ouibus.com/de/privacy-policy" rel="alternate" hreflang="de">
+<link href="http://it.ouibus.com/it/policy-sulla-privacy-ouibus" rel="alternate" hreflang="it">
+<link href="http://nl.ouibus.com/nl/handvest-van-vertrouwdheid" rel="alternate" hreflang="nl">
 <meta name="description" content="ARTICLE 1: GENERAL PRINCIPLES1.1 SNCF-C6 is a simplified joint-stock company (SASU), with a share capital of 64.500.000 €, headquartered in&nbsp;SNCF-C6 - 38 rue de Seine - 94400 Vitry-sur-Seine (France), registered with the register of companies under the number 519 037 147 (herein after referred to as « OUIBUS») which is&nbsp;authorised to operate international regular transport of passengers by bus via the website www.OUIBUS.com (herein after referred to as the « Website »).">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="canonical" href="http://www.ouibus.com/privacy-policy">
@@ -37,9 +48,9 @@
 		<!--[if lt IE 9]><script src="/profiles/emakina/themes/ema5/js/html5.js"></script><![endif]-->
 		<link type="text/css" rel="stylesheet" href="http://cdn4ldtuq.ouibus.com/sites/speed/files/cdn/css/http/css_Z6aUaG3qn_c-tFIo-iW6LC49DSnq6jbTf0cSlFSch20.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://cdn4ldtuq.ouibus.com/sites/speed/files/cdn/css/http/css_SOrHfj3z-p1OXGRaZzsb0lQLDHod4Ly8ewZYL-kwHSo.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn4ldtuq.ouibus.com/sites/speed/files/cdn/css/http/css_oPW563oOMxyCx_5FU5ysKjKOmIOwFmAJ8rcGdekta_8.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn4ldtuq.ouibus.com/sites/speed/files/cdn/css/http/css_LV78Fs9frzUAgfYVEGzY2BD9XkDP1-u8llV0HlaPUjQ.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn4ldtuq.ouibus.com/sites/speed/files/cdn/css/http/css_BnaGRXivQTyv9Bf0u1pUBppL29AXatE4sl4q6q5X4ew.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://cdn4ldtuq.ouibus.com/sites/speed/files/cdn/css/http/css_LEx7JCJloj1qaE3FQUrH6XeTGaKnEURrfgXz5S8FwBE.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://cdn4ldtuq.ouibus.com/sites/speed/files/cdn/css/http/css_RjMye1vU9Z3v1mStZbDAJCCSIj9-M4q2beOkTQHSAMg.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://cdn4ldtuq.ouibus.com/sites/speed/files/cdn/css/http/css_HVgN0aUhrs86l7wnJ9yd0Rx2h9srIWJ7ZOVvkwEmBBM.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://cdn4ldtuq.ouibus.com/sites/speed/files/cdn/css/http/css_qYGvzI_SBNu9ZesquUiRwH6Y5yIHwIFNQK2I8-9ZTq8.css" media="print">
 
 <!--[if lte IE 8]>
@@ -59,28 +70,30 @@
 window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
 //--><!]]>
 </script><script src="/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js"></script>
-<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
+<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_aczm2rRgH_slWBPnvD3KMrK7rwa1i99HOq8IUAb99Co.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_dRvaTGTwpKHtqSR7NL_RYjC05B1DnteQTMr4EeQr3Z0.js"></script>
-<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_ieWKU29zY_A4pRh1THAqzsLzxq08wLQEwixkJ1NG9Hg.js"></script>
-<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_XKRTbmu_w2O9BP0MtBtNAG3PWD5LjCmRwSYx1DOzUF0.js"></script>
-<script type="text/javascript" src="http://www.ouibus.com/speedapi/route/33430/data.js"></script>
+<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_S5LLEvMlzws_1wst3_zLBRKrVuFykQuqpl3JZsdlRvc.js"></script>
+<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_4ufwzIYORE3doXUwBwyRUXSFSysATONitXAqi2YFEos.js"></script>
+<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_fnfhBPjGqaZ91oiWxb-VDZGCECq4pOeH9IKPWvyNL3A.js"></script>
+<script type="text/javascript" src="http://www.ouibus.com/speedapi/route/15707/data.js"></script>
 <script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_cTEzGAMd5pC3XKbXBM39I94P3h6PFiKhhDpaOiTvtJQ.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var tc_vars = new Array();tc_vars["env_template"]="Page";tc_vars["site_language"]="en";tc_vars["env_dnt"]="disabled";tc_vars["env_country"]="INT";tc_vars["page_cat"]="Page";tc_vars["page_name"]="Page";tc_vars["page_error"]="";tc_vars["search_term"]="";tc_vars["search_results"]="";tc_vars["english_url"]="http://www.ouibus.com/privacy-policy";tc_vars["platform"]="Desktop";
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_3V-vQ1df1B54LPHWZ7vRf22N1t3ZFWm37elb7_Yzm6M.js"></script>
-<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_B4AHGHK_YYGaT-QOsGFMEvOsJZzEgpYO9oH-zTmSIF4.js"></script>
+<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_JPJXixLBu7bvAwUekAacvYCD6p-cR66DhNP0Jgotz9c.js"></script>
+<script type="text/javascript" src="https://ouibus.inbenta.com/FAQDesktop.js"></script>
+<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_r25QPAJje9TlwwwgXYE2e8xDaUY15a23fSO23YOfb4M.js"></script>
+<script type="text/javascript" src="http://cdn4ldtuq.ouibus.com/sites/speed/files/js/js_TN1eBHkx1v9vqKTqADxTL0yabiib3uNx_Lgr4p1-H9U.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"speed","theme_token":"t78_phvM7E6kkuRXuzrA16kom16D63qliEBOWNREvdc","js":{"\/\/cdn.tagcommander.com\/405\/tc_IdBus_3.js":1,"0":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"2":1,"modules\/locale\/locale.datepicker.js":1,"misc\/form.js":1,"sites\/all\/modules\/contrib\/om_maximenu\/js\/om_maximenu.js":1,"sites\/all\/modules\/custom\/speed_booking\/js\/speed_booking.theme.js":1,"sites\/all\/modules\/custom\/speed_booking\/js\/speed_booking.js":1,"sites\/all\/modules\/custom\/speed_route\/js\/speed_route.behaviors.js":1,"sites\/all\/modules\/custom\/speed_redirect\/js\/speed_redirect.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/speed_campaign\/js\/speed_campaign.js":1,"sites\/all\/modules\/custom\/speed_contact\/js\/speed_contact.js":1,"sites\/all\/modules\/custom\/speed_home\/js\/speed_home.js":1,"sites\/all\/modules\/custom\/speed_press\/js\/speed_press.js":1,"http:\/\/www.ouibus.com\/speedapi\/route\/33430\/data.js":1,"sites\/all\/modules\/custom\/speed_route\/js\/speed.api.js":1,"sites\/all\/modules\/custom\/speed_route\/js\/speed_route_adapter_mobile.js":1,"sites\/all\/modules\/custom\/speed_smart_app_banner\/js\/jquery.smartbanner.js":1,"3":1,"sites\/all\/modules\/custom\/speed_tagcommander\/js\/speed_tagcommander.js":1,"sites\/all\/modules\/custom\/speed_menu_reviewed\/js\/city_selector.app.js":1,"sites\/all\/modules\/custom\/speed_menu_reviewed\/js\/route_selector.app.js":1,"sites\/all\/modules\/custom\/speed_menu_reviewed\/js\/station_selector.app.js":1,"sites\/all\/modules\/custom\/speed_booking\/js\/v2\/SpeedBooking.js":1,"sites\/all\/modules\/custom\/speed_booking\/js\/v2\/component\/SpeedDestinationComponent.js":1,"sites\/all\/modules\/custom\/speed_booking\/js\/v2\/component\/SpeedDateComponent.js":1,"sites\/all\/modules\/custom\/speed_booking\/js\/v2\/component\/SpeedTravelComponent.js":1,"sites\/all\/modules\/custom\/speed_booking\/js\/v2\/component\/SpeedPassengerComponent.js":1,"sites\/all\/modules\/custom\/speed_booking\/js\/v2\/component\/SpeedBookingValidator.js":1,"sites\/all\/themes\/speed\/js\/jquery.selectBox.js":1,"sites\/all\/themes\/speed\/js\/jquery.cookie.js":1,"sites\/all\/themes\/speed\/js\/jquery.values.js":1,"sites\/all\/themes\/speed\/js\/jquery.tinycarousel.js":1,"sites\/all\/themes\/speed\/js\/custom-form-element.js":1,"sites\/all\/themes\/speed\/js\/vendors\/jquery.mCustomScrollbar.concat.min.js":1,"sites\/all\/themes\/speed\/js\/megamenu2016.js":1,"sites\/all\/themes\/speed\/js\/base.js":1,"sites\/all\/themes\/speed\/js\/faq.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/domain\/domain_nav\/domain_nav.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/om_maximenu\/css\/om_maximenu.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/emakina\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/emakina\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/speed_smart_app_banner\/css\/jquery.smartbanner.css":1,"sites\/all\/themes\/speed\/css\/styles.css":1,"sites\/all\/themes\/speed\/css\/thh.css":1,"sites\/all\/themes\/speed\/css\/print.css":1,"sites\/all\/themes\/speed\/css\/ie8.css":1,"sites\/all\/themes\/speed\/css\/ie7.css":1,"sites\/all\/themes\/speed\/css\/ie6.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"Image {current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"langcode":"en","speed_booking":{"domain":"booking.ouibus.com"},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":0}}},"speed":{"current_domain":{"domain_id":"1","subdomain":"www.ouibus.com","sitename":"International","scheme":"http","valid":"1","weight":"3","is_default":"1","machine_name":"speed_emakina_net","path":"http:\/\/www.ouibus.com\/","site_grant":true,"aliases":{"41":{"domain_id":"1","alias_id":"41","pattern":"ouibus.com","redirect":"0"},"91":{"domain_id":"1","alias_id":"91","pattern":"*.ouibus.com","redirect":"0"}}},"current_page":{"type":"speed_page","id":"8793"}},"speed_smart_app_banner":{"icon":"sites\/all\/modules\/custom\/speed_smart_app_banner\/img\/icon-app.png"},"speed_redirect":{"country_list_settings":{"fr.ouibus.com":null,"be.ouibus.com":null,"nl.ouibus.com":null,"uk.ouibus.com":null,"www.ouibus.com":null,"it.ouibus.com":null,"ch.ouibus.com":null,"es.ouibus.com":null,"de.ouibus.com":null},"cookie_domain":".ouibus.com","mobile_mode":false,"mobile_url":"http:\/\/www.ouibus.com\/mobile\/privacy-policy\/8793","redirect_urls":{"fr.ouibus.com_fr":{"host_name":"fr.ouibus.com","path":"\/fr\/charte-de-confidentialite"},"ch.ouibus.com_fr":{"host_name":"ch.ouibus.com","path":"\/fr\/charte-de-confidentialite"},"www.ouibus.com_en":{"host_name":"www.ouibus.com","path":"\/privacy-policy"},"uk.ouibus.com_en":{"host_name":"uk.ouibus.com","path":"\/privacy-policy"},"be.ouibus.com_NL-BE":{"host_name":"be.ouibus.com","path":"\/nl-be\/handvest-van-vertrouwdheid"},"nl.ouibus.com_nl":{"host_name":"nl.ouibus.com","path":"\/nl\/handvest-van-vertrouwdheid"},"it.ouibus.com_it":{"host_name":"it.ouibus.com","path":"\/it\/policy-sulla-privacy-ouibus"},"ch.ouibus.com_de":{"host_name":"ch.ouibus.com","path":"\/de\/privacy-policy"},"de.ouibus.com_de":{"host_name":"de.ouibus.com","path":"\/de\/privacy-policy"},"es.ouibus.com_es":{"host_name":"es.ouibus.com","path":"\/es\/privacy-policy"}}},"urlIsAjaxTrusted":{"\/privacy-policy":true}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"speed","theme_token":"uQtXfkm7dJIQUgaRr9T3QA9BcUkeKT0G4FUTAp4VywQ","js":{"\/\/cdn.tagcommander.com\/405\/tc_IdBus_3.js":1,"0":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"2":1,"modules\/locale\/locale.datepicker.js":1,"sites\/all\/modules\/contrib\/om_maximenu\/js\/om_maximenu.js":1,"sites\/all\/modules\/custom\/speed_booking\/js\/speed_booking.theme.js":1,"sites\/all\/modules\/custom\/speed_booking\/js\/speed_booking.js":1,"sites\/all\/modules\/custom\/speed_route\/js\/speed_route.behaviors.js":1,"sites\/all\/modules\/custom\/speed_redirect\/js\/speed_redirect.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/speed_campaign\/js\/speed_campaign.js":1,"sites\/all\/modules\/custom\/speed_contact\/js\/speed_contact.js":1,"sites\/all\/modules\/custom\/speed_home\/js\/speed_home.js":1,"sites\/all\/modules\/custom\/speed_press\/js\/speed_press.js":1,"http:\/\/www.ouibus.com\/speedapi\/route\/15707\/data.js":1,"sites\/all\/modules\/custom\/speed_route\/js\/speed.api.js":1,"sites\/all\/modules\/custom\/speed_route\/js\/speed_route_adapter_mobile.js":1,"sites\/all\/modules\/custom\/speed_smart_app_banner\/js\/jquery.smartbanner.js":1,"3":1,"sites\/all\/modules\/custom\/speed_tagcommander\/js\/speed_tagcommander.js":1,"sites\/all\/modules\/custom\/speed_menu_reviewed\/js\/city_selector.app.js":1,"sites\/all\/modules\/custom\/speed_menu_reviewed\/js\/route_selector.app.js":1,"sites\/all\/modules\/custom\/speed_menu_reviewed\/js\/station_selector.app.js":1,"https:\/\/ouibus.inbenta.com\/FAQDesktop.js":1,"sites\/all\/modules\/custom\/speed_booking\/sqills\/js\/vendor.min.js":1,"sites\/all\/modules\/custom\/speed_booking\/sqills\/js\/main.min.js":1,"sites\/all\/themes\/speed\/js\/jquery.selectBox.js":1,"sites\/all\/themes\/speed\/js\/jquery.cookie.js":1,"sites\/all\/themes\/speed\/js\/jquery.values.js":1,"sites\/all\/themes\/speed\/js\/jquery.tinycarousel.js":1,"sites\/all\/themes\/speed\/js\/custom-form-element.js":1,"sites\/all\/themes\/speed\/js\/vendors\/jquery.mCustomScrollbar.concat.min.js":1,"sites\/all\/themes\/speed\/js\/megamenu2016.js":1,"sites\/all\/themes\/speed\/js\/base.js":1,"sites\/all\/themes\/speed\/js\/faq.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/domain\/domain_nav\/domain_nav.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/om_maximenu\/css\/om_maximenu.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/emakina\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/emakina\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/speed_smart_app_banner\/css\/jquery.smartbanner.css":1,"sites\/all\/modules\/custom\/speed_booking\/sqills\/css\/main.css":1,"sites\/all\/themes\/speed\/css\/styles.css":1,"sites\/all\/themes\/speed\/css\/thh.css":1,"sites\/all\/themes\/speed\/css\/print.css":1,"sites\/all\/themes\/speed\/css\/ie8.css":1,"sites\/all\/themes\/speed\/css\/ie7.css":1,"sites\/all\/themes\/speed\/css\/ie6.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"Image {current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"langcode":"en","speed_booking":{"domain":"booking.ouibus.com"},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":0}}},"speed":{"current_domain":{"domain_id":"1","subdomain":"www.ouibus.com","sitename":"International","scheme":"http","valid":"1","weight":"3","is_default":"1","machine_name":"speed_emakina_net","path":"http:\/\/www.ouibus.com\/","site_grant":true,"aliases":{"41":{"domain_id":"1","alias_id":"41","pattern":"ouibus.com","redirect":"0"},"91":{"domain_id":"1","alias_id":"91","pattern":"*.ouibus.com","redirect":"0"}}},"current_page":{"type":"speed_page","id":"8793"}},"speed_smart_app_banner":{"icon":"sites\/all\/modules\/custom\/speed_smart_app_banner\/img\/icon-app.png"},"speed_redirect":{"country_list_settings":{"fr.ouibus.com":null,"be.ouibus.com":null,"nl.ouibus.com":null,"uk.ouibus.com":null,"www.ouibus.com":null,"it.ouibus.com":null,"ch.ouibus.com":null,"es.ouibus.com":null,"de.ouibus.com":null},"cookie_domain":".ouibus.com","mobile_mode":false,"mobile_url":"http:\/\/www.ouibus.com\/mobile\/privacy-policy\/8793","redirect_urls":{"fr.ouibus.com_fr":{"host_name":"fr.ouibus.com","path":"\/fr\/charte-de-confidentialite"},"ch.ouibus.com_fr":{"host_name":"ch.ouibus.com","path":"\/fr\/charte-de-confidentialite"},"www.ouibus.com_en":{"host_name":"www.ouibus.com","path":"\/privacy-policy"},"uk.ouibus.com_en":{"host_name":"uk.ouibus.com","path":"\/privacy-policy"},"be.ouibus.com_NL-BE":{"host_name":"be.ouibus.com","path":"\/nl-be\/handvest-van-vertrouwdheid"},"nl.ouibus.com_nl":{"host_name":"nl.ouibus.com","path":"\/nl\/handvest-van-vertrouwdheid"},"it.ouibus.com_it":{"host_name":"it.ouibus.com","path":"\/it\/policy-sulla-privacy-ouibus"},"ch.ouibus.com_de":{"host_name":"ch.ouibus.com","path":"\/de\/privacy-policy"},"de.ouibus.com_de":{"host_name":"de.ouibus.com","path":"\/de\/privacy-policy"},"es.ouibus.com_es":{"host_name":"es.ouibus.com","path":"\/es\/privacy-policy"}}}});
 //--><!]]>
 </script>
                 
@@ -97,15 +110,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           </div>
         
           <div class="region region-header">
-    <section id="block-menu-menu-header-menu" class="block block-menu  block-menu-header-menu">
+    <section id="block-menu-menu-header-menu" class="block block-menu block-menu-header-menu">
 
 
 <div class="content">
-	<ul class="menu"><li class="first last leaf"><a href="http://booking.ouibus.com/RetrieveBooking.aspx?culture=en-GB">My bookings</a></li>
+	<ul class="menu"><li class="first leaf"><span class="nolink">Help &amp; Contact</span></li>
+<li class="last leaf"><a href="http://booking.ouibus.com/RetrieveBooking.aspx?culture=en-GB">My bookings</a></li>
 </ul></div>
 </section>  </div>
           <div class="region region-galactic-bar">
-    <section id="block-speed_country-speed_country_selector" class="block block-speed-country  block-speed_country_selector">
+    <section id="block-speed_country-speed_country_selector" class="block block-speed-country block-speed_country_selector">
 
 
 <div class="content">
@@ -145,33 +159,19 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <span class="h4">OR</span>
           <ul>
             <li class="country international current first last">
-              <a href="http://www.ouibus.com/privacy-policy" class="country-link" rel="x-default" fragment="redirect">Visit our International website</a>            </li>
+              <a href="http://www.ouibus.com/privacy-policy#redirect" class="country-link" rel="x-default">Visit our International website</a>            </li>
           </ul>
         </li>
       </ul>
     </div>
   </div>
 </div></div>
-</section><section id="block-search-form" class="block block-search  block-form">
-
-
-<div class="content">
-	<form action="/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <span class="h2 element-invisible">Search form</span>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." placeholder="Search on OUIBUS" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-Hfirwpxp6zkTIsVd_hUoRoE117U9Brmz7bWe6Xy8vLI">
-<input type="hidden" name="form_id" value="search_block_form">
-<input type="hidden" name="language" value="en">
-</div></div></form></div>
 </section>  </div>
       </div>
     </div>
 
             <div class="region region-menu">
-    <section id="block-speed_menu_reviewed-speed_menu_reviewed_region" class="block block-speed-menu-reviewed  block-speed_menu_reviewed_region">
+    <section id="block-speed_menu_reviewed-speed_menu_reviewed_region" class="block block-speed-menu-reviewed block-speed_menu_reviewed_region">
 
 
 <div class="content">
@@ -227,7 +227,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <ul class="slots slots-4">
                     <li class="slot slot-1">
           Booking<div class="menu-block-wrapper menu-block-speed_menu_reviewed_menu_block menu-name-menu-reviewed-nav parent-mlid-11926 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-11954 ">
+  <ul class="menu"><li class="first leaf menu-mlid-11947 menu-item-with-pin-point">
+          <a href="/ticket-sales"><div class="embedded-block"><div class="content"></div></div><div class="link-part"><span class="nolink">Sales points</span></div></a>
+  </li>
+<li class="leaf menu-mlid-11954 ">
           <a href="/family-and-children"><div class="embedded-block"><div class="content"></div></div><div class="link-part"><span class="nolink">Family and children</span></div></a>
   </li>
 <li class="leaf menu-mlid-11940 menu-item-default">
@@ -278,10 +281,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         </li>
               <li class="slot slot-4 last-child">
           Enjoy<div class="menu-block-wrapper menu-block-speed_menu_reviewed_menu_block menu-name-menu-reviewed-nav parent-mlid-12066 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-12080 menu-item-as-promo-button">
-          <a href="/group-travel"><div class="embedded-block"><div class="content"></div></div><div class="link-part"><span class="nolink">Discover <strong>our group offers</strong></span></div></a>
-  </li>
-<li class="last leaf menu-mlid-12087 menu-item-as-promo-block">
+  <ul class="menu"><li class="first last leaf menu-mlid-12087 menu-item-as-promo-block">
           <a href="/newsletter-subscription"><div class="embedded-block"><div class="content"></div></div><div class="link-part"><span class="nolink">Subscribe to our newsletter to receive our offers</span></div></a>
   </li>
 </ul></div>
@@ -299,10 +299,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         </li>
               <li class="slot slot-2">
           <div class="menu-item-as-hidden">
-      <div class="embedded-block">
-            <div class="content"><div class="picto-station"></div><span>Find station</span><div class="speed-page-app-station-selector-app" data-station-selector="1"><div class="speed-page-app-component speed-page-app-component-selector" data-placeholder="station" data-speed-selector="station"></div></div></div>
-    </div>
-    <div class="link-part"><span class="nolink">Find my stop</span></div>
+          <a href="/bus-stations"><div class="embedded-block"><div class="content"><div class="picto-station"></div><span>Find station</span><div class="speed-page-app-station-selector-app" data-station-selector="1"><div class="speed-page-app-component speed-page-app-component-selector" data-placeholder="station" data-speed-selector="station"></div></div></div></div><div class="link-part"><span class="nolink">Find my stop</span></div></a>
   </div>
 
         </li>
@@ -321,6 +318,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           </ul>
   </div>
 </div></div>
+</section><section id="block-speed_faq-speed_faq_inbenta" class="block block-speed-faq block-speed_faq_inbenta">
+
+
+<div class="content">
+	<div id="inbenta-wrapper"><div id="inbenta-container"><div id="inbenta"></div></div></div></div>
 </section>  </div>
     
   </header>
@@ -334,36 +336,230 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2 class="element-invisible">You are here</h2><div class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">HOME</span></a><meta itemprop="position" content="1"></li> » <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><span itemprop="name">PRIVACY POLICY</span><meta itemprop="position" content="2"></li></div>
     
       <div class="region region-sidebar">
-    <aside id="block-speed_booking-booking" class="block block-speed-booking ">
+    <aside id="block-speed_booking-new-booking-form" class="block block-speed-booking block-new-booking-form">
 
-    <span class="h1">Book now</span>
 
 <div class="content">
-    <form data-booking-form="1" class="speed-booking-form speed-booking-form-mode-full" action="/privacy-policy" method="post" id="speed-booking-form" accept-charset="UTF-8"><div><div data-error-container="generic" class="speed-booking-error-container speed-booking-error-generic form-wrapper" id="edit-error-generic"><div data-error-content="1" class="speed-booking-error-content form-wrapper" id="edit-content"></div></div><fieldset class="form-wrapper" id="edit-route-selector"><div class="fieldset-wrapper"><div data-speed-selector="destination" data-component-from="1" data-label="From" id="edit-departure" class="form-wrapper"></div><a href="#" class="destination-switcher" style="display:none;" data-switcher="">Switch destinations</a><div data-speed-selector="destination" data-component-to="1" data-label="To" id="edit-arrival" class="form-wrapper"></div></div></fieldset>
-<div data-component-travel="1" id="edit-travel-type" class="form-wrapper"><div class="form-item form-type-radios form-item-travel-type-radio">
-  <label for="edit-travel-type-radio">Type </label>
- <div id="edit-travel-type-radio" class="form-radios"><div class="form-item form-type-radio form-item-travel-type-radio">
- <input type="radio" id="edit-travel-type-radio-roundtrip" name="travel_type_radio" value="roundtrip" checked="checked" class="form-radio">  <label class="option" for="edit-travel-type-radio-roundtrip">Return </label>
+	
+<section class="bf-wrapper loading" data-module="BookingFrom" data-endpoint="https://api.ouibus-prod.sqills.com/api" data-token="http://www.ouibus.com/token.php" data-booking-endpoint="http://booking.ouibus.com/en-GB" data-booking-language="en-GB">
+    <h2>Book now</h2>
 
-</div>
-<div class="form-item form-type-radio form-item-travel-type-radio">
- <input type="radio" id="edit-travel-type-radio-oneway" name="travel_type_radio" value="oneway" class="form-radio">  <label class="option" for="edit-travel-type-radio-oneway">One-way </label>
+    <form action="">
+        <div class="bf-origin-destination">
+            <div class="bf-form-group bf-origin">
+                <label for="journey-search-origin" class="bf-label">From</label>
+                <div class="select-wrapper">
+                    <input data-from="" autocomplete="off" type="text" id="journey-search-origin" name="journey-search-origin" placeholder="Departure" required="">
+                    <button data-reset-from="" class="bf-btn-secondary bf-icon-circle bf-clear hidden" type="button">
+                        <span class="sr-only">Clear your origin</span>
+                        <svg role="img" class="bf-icon">
+                            <use xlink:href="/sites/all/modules/custom/speed_booking/sqills/images/svg-symbols.svg#cross"></use>
+                        </svg>
+                    </button>
+                </div>
+            </div>
 
+            <div class="bf-form-group bf-destination">
+                <label for="journey-search-destination" class="bf-label">To</label>
+                <div class="select-wrapper">
+                    <input data-to="" autocomplete="off" type="text" id="journey-search-destination" name="journey-search-destination" placeholder="Arrival" required="">
+                    <button data-reset-to="" class="bf-btn-secondary bf-icon-circle bf-clear hidden" type="button">
+                        <span class="sr-only">Clear your destination</span>
+                        <svg role="img" class="bf-icon">
+                            <use xlink:href="/sites/all/modules/custom/speed_booking/sqills/images/svg-symbols.svg#cross"></use>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <button class="bf-btn-secondary bf-icon-circle bf-swap hidden" data-switch-destination="" type="button" title="">
+                <span class="sr-only"></span>
+                <svg role="img" class="bf-icon">
+                    <use xlink:href="/sites/all/modules/custom/speed_booking/sqills/images/svg-symbols.svg#swap"></use>
+                </svg>
+            </button>
+        </div>
+
+        <div data-module="JourneyOptions">
+            <div class="bf-journey-options">
+                <div class="bf-radio-wrapper">
+                    <input type="radio" id="return" name="hasInboundDate" value="1" checked="checked" autocomplete="off">
+                    <label for="return" class="bf-label">Return</label>
+                </div>
+
+                <div class="bf-radio-wrapper">
+                    <input type="radio" id="oneway" name="hasInboundDate" value="0" autocomplete="off">
+                    <label for="oneway" class="bf-label">One-way</label>
+                </div>
+            </div>
+
+            <div class="bf-outbound-inbound">
+                <div class="bf-form-group bf-outbound">
+                    <label for="" class="sr-only">Outbound date</label>
+                    <div data-from-date="">
+                        <input type="text" data-inputs="" data-month="[&quot;January&quot;,&quot;February&quot;,&quot;March&quot;,&quot;April&quot;,&quot;May&quot;,&quot;June&quot;,&quot;July&quot;,&quot;August&quot;,&quot;September&quot;,&quot;October&quot;,&quot;November&quot;,&quot;December&quot;]" data-days="[&quot;Su&quot;,&quot;Mo&quot;,&quot;Tu&quot;,&quot;We&quot;,&quot;Th&quot;,&quot;Fr&quot;,&quot;Sa&quot;]">
+                    </div>
+                </div>
+
+                <div class="bf-form-group bf-inbound">
+                    <label for="" class="sr-only">Inbound date</label>
+                    <div data-to-date="">
+                        <input type="text" data-inputs="" data-month="[&quot;January&quot;,&quot;February&quot;,&quot;March&quot;,&quot;April&quot;,&quot;May&quot;,&quot;June&quot;,&quot;July&quot;,&quot;August&quot;,&quot;September&quot;,&quot;October&quot;,&quot;November&quot;,&quot;December&quot;]" data-days="[&quot;Su&quot;,&quot;Mo&quot;,&quot;Tu&quot;,&quot;We&quot;,&quot;Th&quot;,&quot;Fr&quot;,&quot;Sa&quot;]">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="bf-passenger-specifications" data-passenger="">
+            <div class="bf-form-group">
+                <div class="bf-label-wrapper">
+                    <label for="" class="bf-label">
+                        Adult(s) and child(ren)                    </label>
+
+                    <svg role="img" class="bf-icon bf-icon-adult">
+                        <use xlink:href="/sites/all/modules/custom/speed_booking/sqills/images/svg-symbols.svg#adult"></use>
+                    </svg>
+                </div>
+
+                <div class="bf-select-wrapper">
+                    <select data-adults="1" id="edit-adults" name="adults" class="bf-select">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                        <option value="25">25</option>
+                        <option value="26">26</option>
+                        <option value="27">27</option>
+                        <option value="28">28</option>
+                        <option value="29">29</option>
+                        <option value="30">30</option>
+                        <option value="31">31+</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="bf-form-group">
+                <div class="bf-label-wrapper">
+                    <label for="" class="bf-label">
+                        Baby (or babies)                        <div class="bf-tooltip" data-module="Tooltip">
+                            <button class="bf-btn-tooltip">
+                                <span class="sr-only">Open tooltip</span>
+                                <svg role="img" class="bf-icon">
+                                    <use xlink:href="/sites/all/modules/custom/speed_booking/sqills/images/svg-symbols.svg#info"></use>
+                                </svg>
+                            </button>
+                            <div class="bf-tooltip-tpl">
+                                <div class="bf-tooltip-title">
+                                    <h3>BABY INFORMATION</h3>
+                                    <button class="bf-btn-close">
+                                        <svg role="img" class="bf-icon">
+                                            <use xlink:href="/sites/all/modules/custom/speed_booking/sqills/images/svg-symbols.svg#cross"></use>
+                                        </svg>
+                                        <span class="sr-only">Close</span>
+                                    </button>
+                                </div>
+                                <div class="bf-tooltip-content">
+                                    Passengers must not be over two years of age on the day of departure in order to be considered babies. Babies travel half-price.                                    <a href="/node/387" class="more">Learn more</a>                                </div>
+                            </div>
+                        </div>
+                    </label>
+
+                    <svg role="img" class="bf-icon bf-icon-baby">
+                        <use xlink:href="/sites/all/modules/custom/speed_booking/sqills/images/svg-symbols.svg#baby"></use>
+                    </svg>
+                </div>
+
+                <div class="bf-select-wrapper">
+                    <select data-babies="1" id="edit-babies" name="babies" class="bf-select">
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" class="bf-btn-primary" disabled="" data-submit="">
+            Book now            <svg role="img" class="bf-icon">
+                <use xlink:href="/sites/all/modules/custom/speed_booking/sqills/images/svg-symbols.svg#caret"></use>
+            </svg>
+        </button>
+
+        <div class="bf-loader">
+            <span>	●</span>
+            <span>	●</span>
+            <span>	●</span>
+            <span>	●</span>
+            <span>	●</span>
+            <span>	●</span>
+        </div>
+    </form>
+</section>
+
+<!-- to display the modal, addClass bf-displayModal on body -->
+<div class="bf-modal" data-module="Modal">
+    <div class="bf-modal-title">
+        <h3>Do you want to book a journey for more than 30 people?</h3>
+        <button class="bf-btn-close">
+            <svg role="img" class="bf-icon">
+                <use xlink:href="/sites/all/modules/custom/speed_booking/sqills/images/svg-symbols.svg#cross"></use>
+            </svg>
+            <span class="sr-only">Close</span>
+        </button>
+    </div>
+
+    <div class="bf-modal-content">
+        <p>With our group rates, treat yourself to the luxury of traveling with your entire party, to the largest cities in France and in Europe!</p>        <a href="/node/422681">Discover our offerings for groups</a>    </div>
 </div>
+<div class="bf-modal-bg"></div>
 </div>
-</div>
-</div><div data-error-container="date" class="speed-booking-error-container speed-booking-error-date form-wrapper" id="edit-error-date"><div data-error-content="1" class="speed-booking-error-content form-wrapper" id="edit-content--2"></div></div><div data-component-date_start="1" class="form-item-date-start form-wrapper" id="edit-date-start"><input type="text" class="date-display" data-inputs="" data-month="[" january","february","march","april","may","june","july","august","september","october","november","december"]"="" data-days="[" su","mo","tu","we","th","fr","sa"]"=""></div><div data-component-date_end="1" class="form-item-date-end form-wrapper" id="edit-date-end"><input type="text" class="date-display" data-inputs="" data-month="[" january","february","march","april","may","june","july","august","september","october","november","december"]"="" data-days="[" su","mo","tu","we","th","fr","sa"]"=""></div><fieldset data-component-passengers="1" class="form-wrapper" id="edit-passengers"><div class="fieldset-wrapper"><div class="form-item form-type-select form-item-adults">
-  <label for="edit-adults">Adult(s) and child(ren) </label>
- <select data-adults="1" id="edit-adults" name="adults" class="form-select"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31 or more</option></select>
-</div>
-<div class="form-item form-type-select form-item-babies">
-  <label for="edit-babies">Baby (or babies)<span class="tooltip"><div class="tooltip-content"><span class="close"></span><h2>BABY INFORMATION</h2>Passengers must not be over two years of age on the day of departure in order to be considered babies. Babies travel half-price.<a href="/node/387" class="more">Learn more</a></div></span> </label>
- <span class="field-prefix"><span id="babies_number_selected"></span></span> <select data-babies="1" id="edit-babies" name="babies" class="form-select"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
-</div>
-</div></fieldset>
-<div data-component-validator="1" style="display:none;" id="edit-validator" class="form-wrapper"><div data-error="generic" data-component="date_start" data-validator="NotEmptyValidator" data-validate-on-change="" id="edit-date-start-empty" class="form-wrapper">Please select a start date.</div><div data-error="generic" data-component="date_end" data-validator="NotEmptyValidator" data-validate-on-change="" id="edit-date-end-empty" class="form-wrapper">Please select an end date.</div><div data-error="date" data-component="[&quot;date_start&quot;,&quot;date_end&quot;]" data-validator="CompareSmallerThenValidator" data-validate-on-change="" id="edit-data-start-end" class="form-wrapper">Please select an end date.</div><div data-error="generic" data-component="[&quot;from&quot;,&quot;to&quot;]" data-validator="NotEmptyValidator" data-validate-on-change="" id="edit-route-empty" class="form-wrapper">Please select a destination and an arrival</div><div data-error="generic" data-component="[&quot;from&quot;,&quot;to&quot;,&quot;date_start&quot;]" data-validator="AvailableRoutesValidator" data-validate-on-change="" id="edit-route-available-date" class="form-wrapper"></div><div data-error="generic" data-component="passengers" data-validator="NotEmptyValidator" data-validate-on-change="" id="edit-passengers-empty" class="form-wrapper">Please tell us how many passengers will be there.</div><div data-error="popup" data-component="passengers" data-validator="SmallerThenValidator" data-validate-on-change="1" data-validator-options="31" id="edit-group-travel" class="form-wrapper"><button data-close=""></button><h4>Do you want to book a journey for more than 30 people?</h4><p>With our group rates, treat yourself to the luxury of traveling with your entire party, to the largest cities in France and in Europe!</p><a href="/node/422681">Discover our offerings for groups</a></div></div><div data-error-container="popup" class="speed-booking-error-container speed-booking-error-popup form-wrapper" id="edit-error-popup"><div data-error-content="1" class="speed-booking-error-content form-wrapper" id="edit-content--9"></div></div><input type="submit" id="edit-submit--2" name="op" value="Book now" class="form-submit"><input type="hidden" name="form_build_id" value="form-REJjjrPBO5Qs4ztUOITShqA7v4PQ1Skah_drSUtSUmw">
-<input type="hidden" name="form_id" value="speed_booking_form">
-</div></form></div>
+</aside><aside id="block-views-campaign-block_sb" class="block block-views block-campaign-block_sb">
+
+
+<div class="content">
+	<div class="view view-campaign view-id-campaign view-display-id-block_sb view-dom-id-b048b561412bfa601c16d1b27cd017a7">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-title">        <h2 class="field-content">INCREDIBLE PRICES !</h2>  </div>  
+  <div class="views-field views-field-field-campaign-sb-image">        <div class="field-content"><a href="http://uk.ouibus.com/incredible-prices-summer-ouibus" id="" class="campaign-track"><img src="http://cdn4ldtuq.ouibus.com/sites/speed/files/Onsite_290x250.jpg" width="290" height="250" alt=""></a>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
 </aside>  </div>
 
     
@@ -380,7 +576,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         </div>
 
           <div class="region region-content">
-    <section id="block-system-main" class="block block-system  block-main">
+    <section id="block-system-main" class="block block-system block-main">
 
 
 <div class="content">
@@ -406,10 +602,21 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 
 <footer id="footer">
-  <section class="footer_top">
+            <section class="footer_banner">
+        <div class="footer_inner">
+            <div class="region region-footer-banner">
+    <section id="block-speed_newsletter-newsletter_promotion_banner" class="block block-speed-newsletter block-newsletter_promotion_banner">
+
+
+<div class="content">
+	<h2>Sign up for our newsletter and be in the in the loop for exlusive offers and discounts </h2><a href="/newsletter-subscription">Sign up</a></div>
+</section>  </div>
+        </div>
+    </section>
+      <section class="footer_top">
     <div class="footer_inner">
         <div class="region region-footer-top">
-    <section id="block-menu_block-10" class="block block-menu-block  block-10">
+    <section id="block-menu_block-10" class="block block-menu-block block-10">
 
 
 <div class="content">
@@ -431,46 +638,46 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 <div class="content">
 	<p><img src="http://cdn4ldtuq.ouibus.com/sites/all/themes/speed/images/before_footer_logo.png" width="89" height="22">     </p></div>
-</section><section id="block-speed_sharelink-speed_sharelink" class="block block-speed-sharelink  block-speed_sharelink">
+</section><section id="block-speed_sharelink-speed_sharelink" class="block block-speed-sharelink block-speed_sharelink">
 
 	<h1>Wherever you go, follow us</h1>
 
 <div class="content">
 	<div id="node-423697" class="node node-share-link node-promoted node-teaser node-view-teaser node-share_link-teaser">
   <div class="content">
-    <a href="https://twitter.com/OUIBUS_UK">
+    <a href="https://twitter.com/OUIBUS_UK" target="_blank">
       <div class="field field-name-field-sharelink-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://cdn4ldtuq.ouibus.com/sites/speed/files/twitter_5.png" width="37" height="39" alt=""></div></div></div>    </a>
   </div>
 </div><div id="node-393498" class="node node-share-link node-promoted node-teaser node-view-teaser node-share_link-teaser">
   <div class="content">
-    <a href="https://www.facebook.com/OUIBUS">
+    <a href="https://www.facebook.com/OUIBUS" target="_blank">
       <div class="field field-name-field-sharelink-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://cdn4ldtuq.ouibus.com/sites/speed/files/facebook.png" width="37" height="39" alt=""></div></div></div>    </a>
   </div>
 </div><div id="node-393500" class="node node-share-link node-promoted node-teaser node-view-teaser node-share_link-teaser">
   <div class="content">
-    <a href="https://google.com/+ouibus-officiel">
+    <a href="https://google.com/+ouibus-officiel" target="_blank">
       <div class="field field-name-field-sharelink-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://cdn4ldtuq.ouibus.com/sites/speed/files/google-plus.png" width="37" height="39" alt=""></div></div></div>    </a>
   </div>
 </div><div id="node-402059" class="node node-share-link node-promoted node-teaser node-view-teaser node-share_link-teaser">
   <div class="content">
-    <a href="https://youtube.com/c/ouibus-officiel">
+    <a href="https://youtube.com/c/ouibus-officiel" target="_blank">
       <div class="field field-name-field-sharelink-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://cdn4ldtuq.ouibus.com/sites/speed/files/youtube.png" width="37" height="39" alt=""></div></div></div>    </a>
   </div>
 </div><div id="node-402060" class="node node-share-link node-promoted node-teaser node-view-teaser node-share_link-teaser">
   <div class="content">
-    <a href="http://instagram.com/ouibus">
+    <a href="http://instagram.com/ouibus" target="_blank">
       <div class="field field-name-field-sharelink-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://cdn4ldtuq.ouibus.com/sites/speed/files/instagram.png" width="37" height="39" alt=""></div></div></div>    </a>
   </div>
 </div></div>
 </section>  </div>
       <ul class="footer_cols">
         <li class="footer_col footer_col1">  <div class="region region-footer-col1">
-    <section id="block-views-lines-block" class="block block-views  block-lines-block">
+    <section id="block-views-lines-block" class="block block-views block-lines-block">
 
 	<h1>OUIBUS lines</h1>
 
 <div class="content">
-	<div class="view view-lines view-id-lines view-display-id-block view-dom-id-fd4887eb4785808a4459d56f9cad5581">
+	<div class="view view-lines view-id-lines view-display-id-block view-dom-id-553a618d9fac89aff1026774753b9494">
         
   
   
@@ -508,13 +715,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </section>  </div>
 </li>
         <li class="footer_col footer_col2">  <div class="region region-footer-col2">
-    <section id="block-menu_block-12" class="block block-menu-block  block-12">
+    <section id="block-menu_block-12" class="block block-menu-block block-12">
 
 	<h1>Journey and services</h1>
 
 <div class="content">
 	<div class="menu-block-wrapper menu-block-12 menu-name-main-menu parent-mlid-679 menu-level-1">
-  <ul class="menu"><li class="first expanded menu-mlid-680"><span class="nolink">BEFORE LEAVING</span><ul class="menu"><li class="first leaf menu-mlid-10687"><a href="/bus-stations">STATIONS</a></li>
+  <ul class="menu"><li class="first expanded menu-mlid-680"><span class="nolink">BEFORE LEAVING</span><ul class="menu"><li class="first leaf menu-mlid-12281"><a href="/promotional-code">OUIBUS VOUCHERS</a></li>
+<li class="leaf menu-mlid-11402"><a href="/fare-calendar">FARE CALENDAR</a></li>
+<li class="leaf menu-mlid-12271"><a href="http://uk.ouibus.com/fare-calendar">FARES CALENDAR</a></li>
+<li class="leaf menu-mlid-12156"><a href="/group-travel">FARES GROUP</a></li>
+<li class="leaf menu-mlid-10687"><a href="/bus-stations">STATIONS</a></li>
 <li class="leaf menu-mlid-10697"><a href="/ticket-sales">TICKET SALES</a></li>
 <li class="leaf menu-mlid-682"><a href="/tickets">TICKETS</a></li>
 <li class="leaf menu-mlid-683"><a href="/identity-card">IDENTITY CARD</a></li>
@@ -541,7 +752,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </section>  </div>
 </li>
         <li class="footer_col footer_col3">  <div class="region region-footer-col3">
-    <section id="block-menu_block-7" class="block block-menu-block  block-7">
+    <section id="block-menu_block-7" class="block block-menu-block block-7">
 
 	<h1>About OUIBUS</h1>
 
@@ -552,19 +763,18 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="leaf menu-mlid-1868"><a href="/why-travel-ouibus">WHY TRAVEL WITH OUIBUS?</a></li>
 <li class="leaf menu-mlid-790"><a href="/press-releases">PRESS RELEASES</a></li>
 <li class="leaf menu-mlid-789"><a href="/jobs">JOBS @ OUIBUS</a></li>
-<li class="leaf menu-mlid-694"><a href="/sncf-group">SNCF GROUP</a></li>
-<li class="last leaf menu-mlid-2301"><a href="/become-partner-ouibus">BECOME A PARTNER OF OUIBUS</a></li>
+<li class="last leaf menu-mlid-694"><a href="/sncf-group">SNCF GROUP</a></li>
 </ul></div>
 </div>
-</section><section id="block-block-16" class="block block-block  block-16">
+</section><section id="block-block-16" class="block block-block block-16">
 
 
 <div class="content">
-	<p>&nbsp;</p><ul><li class="icon_my"><a href="http://booking.ouibus.com/RetrieveBooking.aspx" target="_blank" rel="nofollow">MY BOOKINGS</a></li><li class="icon_faq"><a href="/faq">HELP</a></li><li class="icon_contact"><a href="/contact">CONTACT</a></li><li class="icon_sitemap"><a href="/sitemap">SITEMAP</a></li></ul></div>
+	<p>&nbsp;</p><ul><li class="icon_my"><a href="http://booking.ouibus.com/RetrieveBooking.aspx" target="_blank" rel="nofollow">MY BOOKINGS</a></li><li class="icon_faq"><a href="/faq">HELP</a></li><li class="icon_contact"><a href="/contact">CONTACT</a></li><li class="icon_contact"><a href="/contact-us">CONTACT FORM</a></li><li class="icon_sitemap"><a href="/sitemap">SITEMAP</a></li></ul></div>
 </section>  </div>
 </li>
         <li class="footer_col footer_col4">  <div class="region region-footer-col4">
-    <section id="block-menu_block-9" class="block block-menu-block  block-9">
+    <section id="block-menu_block-9" class="block block-menu-block block-9">
 
 	<h1>Visit also</h1>
 
@@ -575,26 +785,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="last leaf menu-mlid-9477"><a href="http://api.idbus.com">API OUIBUS</a></li>
 </ul></div>
 </div>
-</section><section id="block-speed_newsletter-newsletter" class="block block-speed-newsletter  block-newsletter">
-
-
-<div class="content">
-	<form action="/privacy-policy" method="post" id="speed-newsletter-small-form" accept-charset="UTF-8"><div><h2>Stay up to date</h2>Sign up here to receive the latest OUIBUS deals and promotions.<div class="form-item form-type-textfield form-item-email">
- <input title="Your e-mail address" class="newsletter-email-field form-text" placeholder="Your e-mail address" type="text" id="edit-email" name="email" value="" size="60" maxlength="128">
-</div>
-<input type="submit" id="edit-submit--3" name="op" value="Subscribe" class="form-submit"><input type="hidden" name="form_build_id" value="form-PeAaE5DYQzzogPxa46IgwvxWL-_TU0FvJ9d3nYVEfec">
-<input type="hidden" name="form_id" value="speed_newsletter_small_form">
-</div></form></div>
 </section><section id="block-block-3" class="block block-block sncf-footer-logo block-3">
 
 
 <div class="content">
-	<div class="block block-9"><ul class="menu"><li><a href="http://facebook.com/OUIBUS" target="_blank">Facebook</a></li><li><a href="http://twitter.com/OUIBUS">Twitter</a></li><li><a href="https://google.com/+ouibus-officiel" target="_blank">Google+</a></li><li><a href="https://youtube.com/c/ouibus-officiel" target="_blank">YouTube</a></li><li><a href="http://instagram.com/ouibus" target="_blank">Instagram</a></li></ul></div><p>&nbsp;</p><p><img src="http://cdn4ldtuq.ouibus.com/sites/all/themes/speed/images/footer_logo.png" width="68" height="36"></p>
-<style>
-#speed-route-map {
-overflow:visible !important;
-}
-</style></div>
+	<div class="block block-9"><ul class="menu"><li><a href="http://facebook.com/OUIBUS" target="_blank">Facebook</a></li><li><a href="http://twitter.com/OUIBUS">Twitter</a></li><li><a href="https://google.com/+ouibus-officiel" target="_blank">Google+</a></li><li><a href="https://youtube.com/c/ouibus-officiel" target="_blank">YouTube</a></li><li><a href="http://instagram.com/ouibus" target="_blank">Instagram</a></li></ul></div><p>&nbsp;</p><p><img src="http://cdn4ldtuq.ouibus.com/sites/all/themes/speed/images/footer_logo.png" width="68" height="36"></p></div>
 </section>  </div>
 </li>
       </ul>
@@ -603,7 +798,7 @@ overflow:visible !important;
   <section class="footer_bottom">
     <div class="footer_inner">
         <div class="region region-footer-bottom">
-    <section id="block-menu_block-4" class="block block-menu-block  block-4">
+    <section id="block-menu_block-4" class="block block-menu-block block-4">
 
 
 <div class="content">
@@ -626,5 +821,5 @@ jQuery.smartbanner()
 //--><!]]>
 </script>
 		
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"80d28a36f5","applicationID":"7863285","transactionName":"Z1xWYBdUVkBUVkUIXl4WdVcRXFddGlteBVRvSVVTAGpOWlBC","queueTime":0,"applicationTime":919,"atts":"SxtVFl9ORU4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"445f21ae9a","applicationID":"54283242","transactionName":"NlMEbRADWxZTAkUMWg8ZJ1oWC1oLHQ9eAVA+RgdeBz1DDFcW","queueTime":0,"applicationTime":1082,"atts":"GhQHG1gZSBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
