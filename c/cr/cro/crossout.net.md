@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossout.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119135609id_/http%3A//crossout.net/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossout.net privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607082149id_/http%3A//crossout.net/en/support/privacypolicy) for the most accurate reproduction.*
 
 # Crossout - Free to Play MMO action gamePrivacy Policy
 
@@ -14,7 +14,9 @@ If after reviewing this Privacy Policy you still have questions or privacy conce
 
 **Summary**
 
-This privacy statement was last updated on July 24, 2015. Gaijin Entertainment LLP (collectively, “ _Gaijin_ ”) has created this privacy statement in order to disclose our information gathering and dissemination practices for crossout.ru,  crossout.net, warthunder.ru, warthunder.com, starconflict.ru starconflictgame.com, online.gaijin.ru, and online.gaijinent.com (collectively, “ _Website_ ”).
+This privacy statement was last updated on April 10, 2017 by Gaijin Network Ltd. located at Kyriakou Matsi, 10 Liliana Building, 2nd floor Office 203, PC 1082 Nicosia, Cyprus (hereinafter, “Gaijin”) has created this privacy statement in order to disclose our information gathering and dissemination practices for crossout.net, warthunder.ru, warthunder.com, store.gaijin.net, star-conflict.com and enlisted.net (collectively, “Website”).
+
+Please note: For console versions of the Game (for platforms such as Xbox and PlayStation) you enter into a legal agreement with Gaijin Distribution Kft., a company located at Andrássy út 100, 1062 Budapest, Hungary under the terms of this Privacy Policy. 
 
 This Privacy Policy will inform you of the following: (1) the type of personally identifiable information we collect through our Website as well as our products and Services; (2) how your information is used; (3) with whom your information may be shared; (4) what choices are available to you regarding the collection, use, and distribution of your information; (5) the security procedures in place to protect your information; and  (6) how you can access and correct any inaccuracies in the information collected about you.
 
@@ -54,7 +56,7 @@ When you use the Website, Gaijin or third parties authorized by us may collect c
 
 You may be provided a periodic newsletter and product updates from us. You will be given the opportunity to choose the type of information we provide to you and will be provided with an opportunity to opt-out from receiving the information altogether by either making appropriate choice to your account or by writing to [legals@gaijinent.com](mailto:legals@gaijinent.com). However, we reserve the right to provide you notices and communications via email in connection with transactions initiated by you. For example, we will send you communications in connection with successful purchase made by you on the Website. You may be asked to retain some information that we provide you to continue to use the Services.
 
-The information you submit to us may be transferred across national boundaries and may be stored and processed in any of the countries in which we (and our affiliates or operating partners) maintain offices or web hosting servers.  In certain countries, or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by our affiliates, operating partners or trusted vendors. 
+The information you submit to us may be transferred across national boundaries and may be stored and processed in the UK and any of the countries in which we (and our affiliates or operating partners) maintain offices or web hosting servers.  In certain countries, or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by our affiliates, operating partners or trusted vendors. 
 
 We may establish relationships with certain third party service providers.  Typically, these providers would offer services that our users may find useful.  In order to use these services, you may be required to provide personal information to these providers.  Generally, personal information that you provide while visiting a provider’s website will be subject to a privacy policy posted on that site.  You should be aware, however, that our agreements with these service providers may provide that they will share with us certain personal information collected from you.  In such instances, we will only use your information in a manner consistent with this Privacy Policy.
 
@@ -75,6 +77,10 @@ We are committed to protecting the security of your personal information. To pro
 We treat the information you provide to us as confidential information. You personally identifiable information is stored on a server with physical and electronic security features as customary in the industry, including login/password procedures and electronic firewalls designed to block unauthorized access. Because laws applicable to personal information vary by country, our offices or other business operations may put in place additional measures.  All of our employees are aware of our privacy and security policies.  Your information is only accessible to those employees who need it in order to perform their jobs.
 
 If you use a password protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer, you should always log out before leaving any site or Service to protect access to your information from subsequent users.
+
+**Data received from Sony Entertainment**
+
+By signing up to play our products on a PlayStation®4 computer entertainment system, you agree your Sony Entertainment Network account information (namely, your ID, nickname, list of in-game purchases) will be provided to Gaijin so we can establish a Gaijin Account for you. 
 
 _**B. USE ANDDISCLOSURE OF INFORMATION**_
 
@@ -130,4 +136,4 @@ In your message, please describe in as much detail as possible the nature of you
 
 Please also note that in the event of merger or acquisition of Gaijin, your personal and other information may be transferred to the acquiring party. In such event, your information would be collected, retained and/ used in accordance with this Privacy Policy or any of its revisions, updates or substitutes provided to you by Gaijin or its successors in interest.
 
-_Copyright © 2015 Gaijin Entertainment LLP.   All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment LLP and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment LLP or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited._
+_Copyright © 2017 Gaijin Network Ltd.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Network Ltd. and/or its licensors and protected by copyright laws and international intellectual property treaties. Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Gaijin Network Ltd. or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited._
