@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201184516id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607080512id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies - London Cyclist
 
@@ -129,8 +129,6 @@ The London Cyclist App and Bike Doctor provide access to our newsletter. See our
 **Accident Report**
 
 London Cyclist is partnered with CAMS to offer support and legal advice following an accident. When you choose to provide us with your name and contact number for the explicit purpose of accessing these services, we will forward on the details you provide to CAMS. They will attempt to call you on the number you supply in order to provide these services.
-
-CAMS is regulated by the Ministry of Justice in respect of regulated claims management activities, authorisation number: CRM2490
 
 ### How can I improve my privacy?
 
