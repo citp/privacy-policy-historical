@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessprodesigns.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229202625id_/http%3A//www.businessprodesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessprodesigns.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608013233id_/http%3A//www.businessprodesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Design, Custom Website Design, Web Design Company – BusinessPro Designs
 
