@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskatchewan.ca privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217004455id_/http%3A//www.saskatchewan.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskatchewan.ca privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607223046id_/http%3A//www.saskatchewan.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Government of Saskatchewan
 
@@ -14,7 +14,7 @@ The Government of Saskatchewan is committed to protecting your privacy. Its enti
 
 Saskatchewan.ca **does not** automatically gather personal information about you. We will only collect this type of information if you voluntarily supply it.
 
-If you provide us your personal information, it will only be used or disclosed for the purposes for which it was collected. The only exception is that it could be used in accordance with The Freedom of Information and Protection of Privacy Act. This would only be in limited circumstances.
+If you provide us your personal information, it will only be used or disclosed for the purposes for which it was collected. The only exception is that it could be used in accordance with [_The Freedom of Information and Protection of Privacy Act_](http://www.publications.gov.sk.ca/redirect.cfm?p=527&i=694) __. This would only be in limited circumstances.
 
 Examples of information or data we collect about you when you use Saskatchewan.ca include:
 
