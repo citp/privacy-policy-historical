@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the ruthschris.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119001446id_/http%3A//www.ruthschris.com/your-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ruthschris.com privacy policy that was archived on 2017-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170607083939id_/http%3A//www.ruthschris.com/your-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" picture no-touchevents borderimage"><head>
     <title>Privacy Policy - Ruth's Chris Steak House</title>
-    <!-- Server instance: sc8CD2 -->
+    <!-- Server instance: sc8CD1 -->
     <meta name="description" id="metaDescription" content="We are committed to protecting the personal privacy of everyone who visits our website and our restaurants. Learn more about our Privacy Policy.">
     <meta property="og:title" id="ogTitle" content="Privacy Policy - Ruth's Chris Steak House">
     <meta property="og:type" id="ogType" content="Website">
     <meta property="og:description" id="ogDescription" content="We are committed to protecting the personal privacy of everyone who visits our website and our restaurants. Learn more about our Privacy Policy.">
-    <meta property="og:url" id="ogUrl" content="http://www.ruthschris.com/your-privacy">
+    <meta property="og:url" id="ogUrl" content="https://www.ruthschris.com/your-privacy">
     <meta property="og:image" id="ogImage" content="">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@RuthsChris">
@@ -19,16 +19,15 @@
     <meta name="format-detection" content="telephone=no">
     <meta charset="UTF-8">
     <meta name="msapplication-config" content="none">
-    <link rel="canonical" href="http://www.ruthschris.com/your-privacy">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
+    <link rel="canonical" href="https://www.ruthschris.com/your-privacy">
     <link href="/assets/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
         <link href="/assets/css/main.min.css" rel="stylesheet" type="text/css">
         <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLSMSJ"></script><script src="/assets/js/jquery.min.js" type="text/javascript"></script>
-
-    <script type="text/javascript" src="/assets/js/custom-dropdown.js"></script>
-
-    <script src="/src/datepicker/datepicker.js"></script>
-    <script src="/src/datepicker/datepicker.en.js"></script>
-
+        <script src="/assets/js/custom-dropdown.min.js"></script>
+        <script src="/assets/js/datepicker.min.js"></script>
+        <script src="/assets/js/datepicker.en.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
             $('#minMaxExample').datepickermy({
@@ -36,11 +35,23 @@
                 dateFormat: 'mm/dd/yyyy',
                 autoClose: true,
                 minDate: new Date(), // Now can select only dates, which goes after today
-                onSelect: function (fd, d, picker) {                    
+                onSelect: function (fd, d, picker) {
                     //Set Time in reservation2 JS
                     reservations2.initDateValue(fd);
                 }
             });
+
+            $('#datepickerCallCenter').datepickermy({
+                language: 'en',
+                dateFormat: 'mm/dd/yyyy',
+                autoClose: true,
+                minDate: new Date(), // Now can select only dates, which goes after today
+                onSelect: function (fd, d, picker) {
+                    //Set Time in reservation2 JS
+                    callcenterReservation.initDateValue(fd);
+                }
+            });
+
             $('#datePickerRsvComponent').datepickermy({
                 language: 'en',
                 dateFormat: 'mm/dd/yyyy',
@@ -72,21 +83,21 @@
         <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WLSMSJ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <script>
-(function (w, d, s, l, i) {
-w[l] = w[l] || []; w[l].push({
-'gtm.start':
-    new Date().getTime(), event: 'gtm.js'
-}); var f = d.getElementsByTagName(s)[0],
-j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-})(window, document, 'script', 'dataLayer', 'GTM-WLSMSJ');</script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WLSMSJ');</script>
     <!-- End Google Tag Manager -->
 
     
 
 <header class="header">
     <div class="container">
-        <a href="/" class="logo"><img src="http://cdn.ruthschris.com/~/media/images/ruths-chris/ruthschris_global_logo.png" alt="Ruth's Chris Steak House"></a>
+        <a href="/" class="logo"><img src="https://cdn.ruthschris.com/~/media/images/ruths-chris/ruthschris_global_logo.png" alt="Ruth's Chris Steak House"></a>
         <a href="/reservation/" class="reserve">Reservations<i class="icon-arrow"></i></a>
         <div id="nav-toggle">
             <div class="nav-icon"></div>
@@ -94,20 +105,20 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         <nav>
             <ul>
                     <li>
-                            <a href="http://www.ruthschris.com/menu/mobilemenunavigation" target="_top" class="mobile-link">food &amp; drink</a>
-                        <a href="http://www.ruthschris.com/menu/dinner/" target="_top">food &amp; drink</a>
+                            <a href="https://www.ruthschris.com:443/menu/mobilemenunavigation" target="_top" class="mobile-link">food &amp; drink</a>
+                        <a href="https://www.ruthschris.com:443/menu/dinner/" target="_top">food &amp; drink</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/restaurant-locations/" target="_top">Locations</a>
+                        <a href="https://www.ruthschris.com:443/restaurant-locations/" target="_top">Locations</a>
                     </li>
                     <li>
                         <a href="https://giftcards.ruthschris.com/" target="_blank">Gift Cards</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/private-events/" target="_top">Private Events</a>
+                        <a href="https://www.ruthschris.com:443/private-events/" target="_top">Private Events</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/promotions/" target="_top">Promotions</a>
+                        <a href="https://www.ruthschris.com:443/promotions/" target="_top">Promotions</a>
                     </li>
             </ul>
             <a href="/reservation/" class="reservations button on-dark">Reservations</a>
@@ -121,9 +132,9 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 <div class="hero ">
     <div class="gradient"></div>
         <picture>
-            <source srcset="http://cdn.ruthschris.com/~/media/images/your-privacy/yourprivacyhero.jpg?h=600&amp;w=1600&amp;hash=D197FAB099477EF342E04B337AA6B590181D9481" media="(min-width: 1200px)">
-            <source srcset="http://cdn.ruthschris.com/~/media/images/your-privacy/yourprivacyhero.jpg?h=1100&amp;w=2933&amp;ch=1100&amp;cw=2048&amp;hash=D5702D106422249D90214E3E909F5AD218A4A341" media="(min-width: 767px)">
-            <img srcset="http://cdn.ruthschris.com/~/media/images/your-privacy/yourprivacyhero.jpg?h=900&amp;w=2400&amp;ch=900&amp;cw=750&amp;hash=92321E2F33F7E2D44BF580C321B1FAF092A18674" alt="your privacy hero">
+            <source srcset="https://cdn.ruthschris.com/~/media/images/your-privacy/yourprivacyhero.jpg?h=600&amp;w=1600&amp;hash=D197FAB099477EF342E04B337AA6B590181D9481" media="(min-width: 1200px)">
+            <source srcset="https://cdn.ruthschris.com/~/media/images/your-privacy/yourprivacyhero.jpg?h=1100&amp;w=2933&amp;ch=1100&amp;cw=2048&amp;hash=D5702D106422249D90214E3E909F5AD218A4A341" media="(min-width: 767px)">
+            <img srcset="https://cdn.ruthschris.com/~/media/images/your-privacy/yourprivacyhero.jpg?h=900&amp;w=2400&amp;ch=900&amp;cw=750&amp;hash=92321E2F33F7E2D44BF580C321B1FAF092A18674" alt="your privacy hero">
         </picture>
     <div class="container">
         <div class="content">
@@ -180,7 +191,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 <p>We contract with others to provide certain services, including web hosting, online reservation services, email distribution, market research, third party advertising, promotions management, payment processing and fraud prevention and detection services.&nbsp; These companies are prohibited by contract from using this information for their own marketing purposes.&nbsp; Some restaurants operating under the Ruth’s Chris brand are operated by franchisees, under an agreement with us.&nbsp; We may share information with these franchisees in order to facilitate a consistent Ruth’s Chris Steakhouse experience.&nbsp; If you dine or make a reservation at a Ruth’s Chris Steakhouse operated by a franchisee and sign up to receive emails or if you sign up to receive emails through the email sign up page (<a href="http://www.ruthschris.com/registration">http://www.ruthschris.com/registration</a>) and your preferred location is a franchise location, we will provide your email address to the franchisee for that purpose.&nbsp; Ruth’s Chris franchisees are required by contract to adhere to confidentiality safeguards, and may not use your personal information to promote products or services unrelated to Ruth’s Chris Steakhouses.&nbsp;</p>
 <p>We reserve the right to share information we have collected under this policy with corporate affiliates; in connection with a sale or purchase of business assets; where necessary to protect Ruth’s Chris or Ruth’s Hospitality Group, Inc.; or as required by law.</p>
 <h4>Your Privacy Rights and Choices</h4>
-<p>If you would like to correct information you have provided to us, including updating your address or telephone number, please contact us at <a href="http://www.ruthschris.com/contact-us">http://www.ruthschris.com/contact-us</a> </p>
+<p>If you would like to correct information you have provided to us, including updating your address or telephone number, please contact us at <a href="https://contact.ruthschris.com/websurvey/2/execute">contact.ruthschris.com</a> </p>
 <p>As described above, we may share personal information, such as your name, email address and preferred dining location, with a franchisee operating a restaurant under the Ruth’s Chris brand.&nbsp; This franchisee may use this information to send you commercial messages and promotions relating to Ruth’s Chris Steakhouses, including emails (if you have signed up for email).&nbsp; Other than franchisees, we do not share your personal information with any third parties for their direct marketing purposes.&nbsp;&nbsp; </p>
 <p>As described in the section on cookies, you may opt-out of receiving personalized behavioral advertising, including retargeting, by clicking here: <a href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a>;&nbsp;</p>
 <strong>
@@ -213,7 +224,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
             </div>
             <div class="column-right">
                 <p>Keep up with what’s happening at Ruth’s Chris, from exclusive events to new menu items and more.</p>
-                    <a href="http://www.ruthschris.com/registration" class="button on-light">Sign Up for Email</a>
+                    <a href="https://www.ruthschris.com:443/registration" class="button on-light">Sign Up for Email</a>
             </div>
         </div>
     </div>
@@ -224,37 +235,37 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         <nav>
             <ul>
                     <li>
-                        <a href="http://www.ruthschris.com/contact-us" target="_top">contact us</a>
+                        <a href="https://contact.ruthschris.com" target="">contact us</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/faq" target="_top">faq</a>
+                        <a href="https://www.ruthschris.com:443/faq" target="_top">faq</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/registration" target="_top">email sign up</a>
+                        <a href="https://www.ruthschris.com:443/registration" target="_top">email sign up</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/news/" target="_top">news</a>
+                        <a href="https://www.ruthschris.com:443/news/" target="_top">news</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/careers/" target="_top">careers</a>
+                        <a href="https://www.ruthschris.com:443/careers/" target="_top">careers</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/franchising" target="_top">franchising</a>
+                        <a href="https://www.ruthschris.com:443/franchising" target="_top">franchising</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/real-estate" target="">real estate</a>
+                        <a href="https://www.ruthschris.com:443/real-estate" target="">real estate</a>
                     </li>
                     <li>
                         <a href="http://www.rhgi.com" target="_blank">corporate</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/sitemap" target="_top">sitemap</a>
+                        <a href="https://www.ruthschris.com:443/sitemap" target="_top">sitemap</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/your-privacy" target="_top">your privacy</a>
+                        <a href="https://www.ruthschris.com:443/your-privacy" target="_top">your privacy</a>
                     </li>
                     <li>
-                        <a href="http://www.ruthschris.com/terms-conditions" target="_top">terms &amp; conditions</a>
+                        <a href="https://www.ruthschris.com:443/terms-conditions" target="_top">terms &amp; conditions</a>
                     </li>
             </ul>
         </nav>
@@ -275,7 +286,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                             <li><a href="http://rhgi.com" target="_blank">Visit RHGI.com</a></li>
                 </ul>
             </div>
-            <div class="copyright">© 2016 Ruth's Hospitality Group</div>
+            <div class="copyright">© 2017 Ruth's Hospitality Group</div>
         </div>
     </div>
 </footer>
@@ -283,7 +294,31 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 
     <a href="#" id="back-to-top">Back to Top<i class="icon-arrow"></i></a>
 
-<script id="location-tile-template" type="text/x-handlebars-template">
+    <script id="location-event-template" type="text/x-handlebars-template">
+    {{#each restaurants}}
+    <div class="location events">
+        <h4>{{Name}}</h4>
+        <i class="marker">{{math @index "+" 1}}</i>
+        {{#each Events}}
+        <div class="event">
+            <div class="event-info">
+                <span>{{StartDate}}, {{StartTime}}</span>
+                <span class="event-price">{{Price}}</span>
+            </div>
+            <div class="event-status">
+                {{#if SoldOut}}
+                Sold Out
+                {{else}}
+                <a href="{{Url}}" class="button on-light">RSVP</a>
+                {{/if}}
+            </div>
+        </div>
+        {{/each}}
+    </div>
+    {{/each}}
+</script>
+
+    <script id="location-tile-template" type="text/x-handlebars-template">
     {{#each restaurants}}
     <div id="location-marker{{math @index '+' 1}}" data-restaurantid="{{RestaurantId}}" class="location">
         <a href="{{Url}}" class="info">
@@ -309,9 +344,16 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     {{/each}}
 </script>
 
+
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCE7yFwLm_OXdiplNE8dF4JV3lKLjR0Q4g&amp;libraries=places"></script>
         <script src="/assets/js/vendor.min.js" type="text/javascript" defer=""></script>
         <script src="/assets/js/main.min.js" type="text/javascript" defer=""></script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCE7yFwLm_OXdiplNE8dF4JV3lKLjR0Q4g&amp;libraries=places"></script>
 
 
-</body></html>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.tripleseat_field_section.first_last').addClass('FirstLastTriple');
+        $('.tripleseat_field.ts_submit').parent().addClass('FirstLastTriple');
+        $('.tripleseat_field.ts_additional_information').parent().addClass('FirstLastTriple');
+    });    
+</script></body></html>
