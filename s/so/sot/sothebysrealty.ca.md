@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217104049id_/http%3A//sothebysrealty.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607064122id_/http%3A//sothebysrealty.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sotheby's International Realty Canada
 
