@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the subsplash.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210214351id_/http%3A//www.subsplash.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subsplash.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607045300id_/http%3A//www.subsplash.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy — Subsplash.com | Engage your audience like never before.
+
+[Haga clic aquí para el español/Click here for Spanish.](https://web.archive.org/terms-of-service-17-spanish)
 
 Subsplash’s Customer Privacy Policy covers the collection, use, protection, disclosure, correction and deletion of personal information. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Subsplash, and we go to great lengths to protect it.
 
@@ -31,7 +33,7 @@ Also, there are a number of situations in which your personal information may he
 
 ### Publicly displayed information is public 
 
-If you use a bulletin board or chat room on an Subsplash website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Subsplash is not responsible for the personally identifiable information you choose to submit in these forums. For example, if you choose to make information, which was previously non-public, available by enabling certain user features, Subsplash will collect that information from your interaction and the information will become publicly available.
+If you use a bulletin board or chat room on an Subsplash website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Subsplash is not responsible for the personally identifiable information you choose to submit in these forums. For example, if you choose to make information, which was previously non-public, available by enabling certain user features, Subsplash will collect that information from your interaction and the information will become publicly available.
 
 ### When we disclose your information 
 
@@ -39,7 +41,7 @@ Subsplash takes your privacy very seriously. Subsplash does not sell or rent you
 
 ### Within the Subsplash Group
 
-TJET, LLC and Subsplash, Inc. both operate under the name “Subsplash” and they operate as a group.  To help us provide superior service, your personal information may be shared with legal entities within the Subsplash group globally who will take reasonable steps to safeguard it in accordance with Subsplash’s privacy policy.
+TJET, LLC and Subsplash, Inc. both operate under the name “Subsplash” and they operate as a group.  To help us provide superior service, your personal information may be shared with legal entities within the Subsplash group globally who will take reasonable steps to safeguard it in accordance with Subsplash’s privacy policy.
 
 ### With our service providers, vendors, and strategic partners
 
@@ -57,7 +59,7 @@ Subsplash allows you to keep your personal information accurate, complete, and u
 
 ### Kids
 
-Subsplash recognizes that parents, guardians, or other adults often purchase our products for family use, including use by minors. We do not knowingly collect personal information from children under 13 for marketing purposes, but because some information is collected electronically, it can appear to be the personal information of the Subsplash purchaser of the product, and will be treated as such by this privacy policy. If a child under 13 submits personal information to Subsplash and we learn that that personal information is the information of a child under 13, we will attempt to delete the information as soon as possible.
+Subsplash recognizes that parents, guardians, or other adults often purchase our products for family use, including use by minors. We do not knowingly collect personal information from children under 13 for marketing purposes, but because some information is collected electronically, it can appear to be the personal information of the Subsplash purchaser of the product, and will be treated as such by this privacy policy. If a child under 13 submits personal information to Subsplash and we learn that that personal information is the information of a child under 13, we will attempt to delete the information as soon as possible.
 
 ### Cookies and other technologies
 
