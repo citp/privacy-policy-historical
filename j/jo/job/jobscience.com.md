@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220031537id_/http%3A//www.jobscience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607022931id_/http%3A//www.jobscience.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Recruitment on the World's #1 CRM
+# Privacy & Security Is A Core Jobscience Priority
 
 Jobscience is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein. The following reflects our commitment to you.
 
@@ -35,6 +35,8 @@ Effective November 28, 2007, this Privacy Policy sets forth the privacy principl
 ## Safe Harbor
 
 Consistent with its commitment to protect personal privacy, Jobscience declares that it adheres to the Safe Harbor Principles embodied in the Safe Harbor Agreement concerning the transfer of personal data from the European Union to the United States of America. The United States Department of Commerce and the European Commission have agreed on the Safe Harbor Principles as they are articulated in a set of data protection principles and frequently asked questions as a means to enable U.S. companies to satisfy EU law requirements for adequate protection of personal information transferred from the EU to the United States. If there is a conflict between the provisions of this Privacy Policy and the Safe Harbor Principles, the Safe Harbor Principles will govern.
+
+Jobscience complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Jobscience has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Jobscience’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ## Definitions
 
@@ -86,7 +88,7 @@ If an individual becomes aware that information Jobscience maintains about that 
 
 Jobscience utilizes the self-assessment approach to assure its compliance with this Privacy Policy. Jobscience periodically verifies that this Privacy Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Safe Harbor Principles. Jobscience encourages interested persons to raise any concerns about its implementation of this Privacy Policy using the contact information below. Jobscience will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy.
 
-Any claim arising out of or relating to Jobscience’s adherence to the EU Data Directive, or the breach thereof, that cannot be resolved through Jobscience’s internal processes, will be settled by arbitration administered by the American Arbitration Association (“AAA”) in accordance with its applicable commercial rules. Any arbitrator will be either an attorney or retired judge having significant and recognized experience with and knowledge of privacy issues and information technology. The arbitration panel should apply Texas law, without regard to its conflict of laws principles, as well as the Safe Harbor Enforcement Principles issued by the U.S. Department of Commerce. In addition, the exclusive location for such arbitration will be Houston, Texas. All decisions of the arbitration panel will be final and binding on the parties, which waive any right to appeal the arbitration award further, to the extent an appeal may be lawfully waived.
+For complaints and disputes that cannot be resolved between Jobscience and the complainant, Jobscience has agreed to participate in the dispute resolution procedures of the panel established by the EU data protection authorities (DPAs) to resolve disputes pursuant to the Safe Harbor Privacy Principles, as well as to cooperate and comply with the Federal Data Protection and Information Commissioner of Switzerland. The panel may be contacted at ec-dppanel-secr@ec.europa.eu and individual EU DPAs may be contacted directly via the information provided at http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm. The contact information for the Swiss FDPIC can be found at: http://www.edoeb.admin.ch/kontakt/index.html?lang=en.
 
 Jobscience is also subject to the jurisdiction of the U.S. Federal Trade Commission.
 
@@ -103,7 +105,7 @@ Jobscience is committed to following the Safe Harbor Principles for all personal
 Questions or comments regarding Jobscience’s Safe Harbor certification and this Privacy Policy should be submitted to Jobscience by mail or e-mail as follows:
 
 Jobscience  
-Office of the Chief Operating Officer  
+Office of the President  
 135 Main Street, Suite 1350  
 San Francisco, CA 94105
 
