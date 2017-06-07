@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrfire.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206223316id_/http%3A//www.mrfire.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfire.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607210944id_/http%3A//www.mrfire.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Joe Vitale of The Secret DVD is Law of Attraction expert and Life Coach
 
