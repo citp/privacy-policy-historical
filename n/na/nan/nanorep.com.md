@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830205519id_/https%3A//www.nanorep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607182312id_/https%3A//www.nanorep.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | nanorep
+# Privacy Policy | Nanorep - Digital Customer Self-Service Solution
 
 nanorep Technologies Ltd. (“nanorep”, “us” or “we”) respect your privacy. This policy explains the privacy practices for our website [nanorep.com](https://web.archive.org/) (the “ **Website** “). It describes the ways your personal information is collected and used in connection with the Website. This policy is incorporated by reference to our [Terms of Service](https://web.archive.org/terms) (Terms and Conditions of Website Usage).
 
