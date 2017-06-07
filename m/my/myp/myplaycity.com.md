@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myplaycity.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213164741id_/http%3A//www.myplaycity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplaycity.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607202513id_/http%3A//www.myplaycity.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyPlayCity - Download Free Games - Play Free Games!
+# Privacy Policy - MyPlayCity
 
 ## MyPlayCity ® Online Privacy Policy
 
