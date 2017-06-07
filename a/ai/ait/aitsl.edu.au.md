@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203153034id_/http%3A//aitsl.edu.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607214738id_/http%3A//www.aitsl.edu.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Institute for Teaching and School Leadership
 
@@ -8,7 +8,7 @@ When visiting or viewing the AITSL websites, our server makes a record of your v
   * the date and time of your visit to the site;
   * the pages you accessed and documents downloaded;
   * the previous site visited;
-  * the type of browser you are using; and
+  * the type of browser you are using; 
   * the username entered if accessing a restricted site.
 
 
