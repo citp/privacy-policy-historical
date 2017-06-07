@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiosked.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220184128id_/http%3A//www.kiosked.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiosked.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607100511id_/http%3A//www.kiosked.com/privacy-policy) for the most accurate reproduction.*
 
-# Kiosked | Privacy Policy
+# Kiosked | Kiosked Privacy Policy
 
 LAST UPDATED October 21th, 2015
 
@@ -159,8 +159,9 @@ From time to time we may change this Privacy Policy. You can tell when changes h
 If you have any questions regarding this Privacy Policy or Kiosked’s privacy practices, please contact us via e-mail at [privacy@kiosked.com](mailto:privacy@kiosked.com) or by mail at:
 
 Kiosked Oy Ab  
-Keilaranta 1,  
-02150 ESPOO  
+HTC Pinta  
+Tammasaarenkatu 3  
+00180 Helsinki  
 Finland
 
 We seek to swiftly answer your questions and resolve any concerns you may have.
