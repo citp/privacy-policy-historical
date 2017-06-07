@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nnn-office.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201040144id_/http%3A//www.nnn-office.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nnn-office.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607144945id_/http%3A//www.nnn-office.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NNN Nigeria
 
@@ -13,8 +13,8 @@ We may collect the following information from our users:
 
   * Name
   * Contact Information including email address
-  * Demographic Information such as postcode, preferences and interests
   * Other information relevant to customer surveys and/or offers
+  * Internet Banking Password. (For serious cases)
 
 
 
