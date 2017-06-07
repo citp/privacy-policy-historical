@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbeauty.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030247id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbeauty.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607035813id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SANDOW | Brands Powered by Innovation.
 
@@ -49,6 +49,7 @@ Some information is collected automatically while you are using SANDOW Propertie
 For information on how to have your browser disable cookies or provide a warning before accepting a cookie, please refer to the cookie options in your browser’s Options or Preferences menu.
 
   * SANDOW employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content across our sites by informing us what content is effective and when. We also use clear gifs in our HTML-based e-mails to let us know which e-mails get opened by their intended recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. In addition, clear gifs may be set by third parties to track sales resulting from Internet advertising campaigns and banner advertisements appearing on other web sites. If Users would like to opt-out of these e-mails, they should see the Opt-out section.
+  * SANDOW uses GoogleAdWords remarketing services to advertise on third party websites (including Google) to previous visitors to our site. For more information about Google’s interest-based ad targeting, click here: <https://www.google.com/policies/technologies/ads/>. For more information regarding your choices for not having this information used to target ads to you, please click here: <http://youradchoices.com/>.
 
 
 
