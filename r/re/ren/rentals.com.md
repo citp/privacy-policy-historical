@@ -1,27 +1,6 @@
-> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120061635id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607180638id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Rentals.com - Homes for Rent, Apartments, Houses for Rent, Townhomes & Condos
-
-##### LEGAL NOTICE
-
-May 19, 2015
-
-##### What's new with the Rentals.com Privacy Policy?
-
-RentPath, LLC, the parent company of Rentals.com (“RentPath”), has revised the Rentals.com Privacy Policy to include the following changes:
-
-  * Technical, non-material corrections and revisions throughout the Privacy Policy; and
-  * The addition of specific sections related to:
-    * collection of personal information (Section 2),
-    * use of personal information (Section 3),
-    * disclosure of personal information (Section 4),
-    * communications with users (Section 5),
-    * communications with third parties (Section 7), and
-    * notice (Sections 10 and 12).
-
-
-
-PLEASE NOTE THAT THESE MODIFICATIONS ARE EFFECTIVE IMMEDIATELY FOR USERS OF THE WEBSITE OR APPLICATION ON OR AFTER May 19, 2015 WE URGE YOU TO CAREFULLY REVIEW THE FULL PRIVACY POLICY. BY USING THE WEBSITE OR APPLICATION, YOU CONSENT TO ALL OF SUCH TERMS AS MODIFIED. 
 
 [Click here to learn more about how we handle do-not-track signals and user tracking](https://web.archive.org/Privacy-Policy/Do-Not-Track/)
 
