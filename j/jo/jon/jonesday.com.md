@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128225014id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607223011id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.*
 
 # Jones Day | Privacy
 
@@ -30,12 +30,7 @@ Transmission errors or unauthorized acts: Unfortunately, no data transmission ov
 Security: Any information provided to Jones Day is treated with care and discretion. Jones Day will take a proactive approach to ensure the information is kept private and is not misused.
 
  **3\. Questions about the Privacy Policy**  
-Privacy and security is important to us all. We pursue a full-disclosure approach to responsibly care for the information you have entrusted with us, and we depend on information sharing as our principal means to best serve you. We are committed to building a trusting relationship with you, and we will continually monitor feedback and seek to improve our services to meet your needs. If you have any questions about this Privacy Policy or the practices of this web site, or if you would like to provide comments, please send us an e-mail using our [Contact Us](http://www.jonesday.com/contactus/) form.  You may also contact us by telephone at 1.216.586.3939 or by regular mail at:
-
-Jones Day  
-901 Lakeside Avenue  
-Cleveland, OH  44114  
-Attention: Business Development and Communications 
+Privacy and security is important to us all. We pursue a full-disclosure approach to responsibly care for the information you have entrusted with us, and we depend on information sharing as our principal means to best serve you. We are committed to building a trusting relationship with you, and we will continually monitor feedback and seek to improve our services to meet your needs. If you have any questions about this Privacy Policy or the practices of this web site, or if you would like to provide comments, please send us an e-mail using our [Contact Us](http://www.jonesday.com/contactus/) form.  You may also contact us by telephone at +1.216.586.3939. 
 
 **4\. Australian Privacy Act 1988  
 ** In Australia, Jones Day is bound by the Australian Privacy Principles ( **APPs** ) contained in the _Privacy Act 1988_ (Cth) ( **Privacy Act** ).  [Read More](http://www.jonesday.com/en-US/australianprivacyact/FooterContent.aspx)
