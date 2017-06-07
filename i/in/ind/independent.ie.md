@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the independent.ie privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105193324id_/http%3A//www.independent.ie/service/privacy-and-cookie-policy-26859902.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.ie privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607090040id_/http%3A//www.independent.ie/service/privacy-and-cookie-policy-26859902.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Independent.ie
 
 Independent Newspapers (Ireland) Limited and its associated companies fully respect your right to privacy. 
 
-**Identity**
+16/03/2017
 
-This Privacy and Cookie Policy applies to the operations of this website operated by Independent Newspapers (Ireland) Limited through Independent Digital.
+This Privacy and Cookie Policy applies to the operations of this website ("Independent.ie website") operated by Internet Interactions Limited, which is part of INM, a company registered in the Republic of Ireland under number 153066 and having its registered office at 27-32 Talbot Street, Dublin (hereinafter "INM"). For the purposes of this agreement "INM" shall mean Independent News & Media plus any Subsidiaries thereof and "Subsidiaries" has the meaning given to it by the Companies Act 1963 to 2003 as supplemented by the European Communities (Companies Group Accounts) regulations 1992. INM fully respect your right to privacy.
+
+[INM](http://www.inm.ie/inmbrands/) and its associated companies fully respect your right to privacy.
 
 **Data Protection: What information do we collect?**
 
@@ -28,13 +30,13 @@ We may, however, occasionally email you with information or queries about your r
 
 No personally identifiable information is collected about you on this website, apart from information which you volunteer (for example by emailing us, using our online forms or by making an inquiry about content or services).
 
-Throughout this website you may have an opportunity to send us information relating to you such as through the "contact us" pages or any other area where you may send e-mails, request brochures, enter contests or respond to any promotions. By choosing to participate in these, you will be providing us with some level of personal information relating to you. This information will only be used by Independent Newspapers (Ireland) Limited for:
+Throughout this website you may have an opportunity to send us information relating to you such as through the "contact us" pages or any other area where you may send e-mails, request brochures, enter contests or respond to any promotions. By choosing to participate in these, you will be providing us with some level of personal information relating to you. This information will only be used by INM for:
 
 • the purposes for which it was provided by you;
 
 • verification purposes and statistical analysis;
 
-• to provide you with details of products, services, contests, competitions or promotions being provided or run by Independent Digital or any of its associated companies or any third party that we may select and which we may think would be of interest to you, in line with your request to receive this information.
+• to provide you with details of products, services, contests, competitions or promotions being provided or run by INM or any of its associated companies or any third party that we may select and which we may think would be of interest to you, in line with your request to receive this information.
 
 **What are Cookies**
 
@@ -52,7 +54,7 @@ We use cookies for a number of reasons:
 
 1\. To gather statistics. We track how many 'unique users' we have and how often they visit our websites. We track how often different pages of our website are visited and which countries our visitors come from. Accurate statistics enable us to sell advertising and continue to provide a top quality service to you.
 
-2\. To track advertising response Independent Newspapers (Ireland) Limited and its associated companies and third party advertisers generate statistical cookies to track ad impressions and click-through rates
+2\. To track advertising response INM and its associated companies and third party advertisers generate statistical cookies to track ad impressions and click-through rates
 
 3\. Some cookies enable us to show you adverts that you might be more relevant to you, to control the number of times you see them, and measure how effective the ad campaign has been. We also utilise Google Remarketing in combination with Google Analytics to advertise online. Third-party vendors, including Google, show our advertisements on sites across the Internet. In addition, third-party vendors, including Google, use first-party cookies (such as Google Analytics cookie) and third-party cookies together to inform, optimise, and serve advertisements based on someone's past visits to our website.
 
@@ -68,81 +70,53 @@ There are two types of cookie you may encounter when using this site;
 
 The following is a listing of the main cookies used on our site together with brief details of the information they store and for what purpose;
 
-**Site performance cookies** : This type of cookie remembers your preferences/settings for tools found on an Independent Newspapers (Ireland) Limited site.
+**Site performance cookies** : This type of cookie remembers your preferences/settings for tools found on an INM site.
 
-**Analytics cookies** : Every time a user visits our website, web analytics software provided by a third party generates an anonymous analytics cookie. These cookies can tell us whether or not you have visited the site before. Your browser will tell us if you have these cookies, and if you don't, we generate new ones. This allows us to track how many individual unique users we have, and how often they visit the site. Unless you are signed in to an Independent Newspapers (Ireland) Limited site, these cookies cannot be used to identify individuals; they are used for statistical purposes only. If you are logged in, we will also know the details you gave to us for this, such as username and email address.
+**Analytics cookies** : Every time a user visits our website, web analytics software provided by a third party generates an anonymous analytics cookie. These cookies can tell us whether or not you have visited the site before. Your browser will tell us if you have these cookies, and if you don't, we generate new ones. This allows us to track how many individual unique users we have, and how often they visit the site. Unless you are signed in to an INM site, these cookies cannot be used to identify individuals; they are used for statistical purposes only. If you are logged in, we will also know the details you gave to us for this, such as username and email address.
 
-**Registration cookies** : When you register with an Independent Newspapers (Ireland) Limited site, we generate cookies that signal whether you are signed in or not. Our servers use these cookies to work out which account you are signed in with, and if you are allowed access to a particular service. It also allows us to associate any comments you post with your username. If you have not selected 'keep me signed in,' your cookies get deleted when you either close your browser or shut down your computer. While you are signed into this site, we combine information from your registration cookies with analytics cookies, which we could use to identify which pages you have seen on an Independent Newspapers (Ireland) Limited site.
+**Registration cookies** : When you register with an INM site, we generate cookies that signal whether you are signed in or not. Our servers use these cookies to work out which account you are signed in with, and if you are allowed access to a particular service. It also allows us to associate any comments you post with your username. If you have not selected 'keep me signed in,' your cookies get deleted when you either close your browser or shut down your computer. While you are signed into this site, we combine information from your registration cookies with analytics cookies, which we could use to identify which pages you have seen on an INM site.
 
-**THIRD PARTY COOKIES** : these are cookies found in other companies’ internet tools which we are using to enhance our site, for example [Facebook](http://www.independent.ie/news-topics/facebook/) or Twitter, have their own cookies, which are controlled by them.
+**THIRD PARTY COOKIES** : these are cookies found in other companies’ internet tools which we are using to enhance our site, for example [](http://www.independent.ie/news-topics/facebook/)[Facebook](http://www.independent.ie/news-topics/facebook/) or Twitter, have their own cookies, which are controlled by them.
 
-A lot of the advertisements you see on this site are generated by third parties. Some of these third parties use their own anonymous cookies to track how many people have seen a particular ad, or to track how many people have seen it more than once. Visitors should be aware that Independent Newspapers (Ireland) Limited is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests.
+A lot of the advertisements you see on this site are generated by third parties. Some of these third parties use their own anonymous cookies to track how many people have seen a particular ad, or to track how many people have seen it more than once. Visitors should be aware that INM is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests.
 
-The companies that generate these cookies have their own privacy policies and Independent Newspapers (Ireland) Limited has no access to read or write these cookies, other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website). These third party advertising cookies may be used by those third parties to anonymously target advertising to you on other websites, based on your visit to an Independent Newspapers (Ireland) Limited site.
+The companies that generate these cookies have their own privacy policies and INM has no access to read or write these cookies, other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website). These third party advertising cookies may be used by those third parties to anonymously target advertising to you on other websites, based on your visit to an INM site.
 
-If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine.
+If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine.The following are links to the main third party advertising, analytics, survey and commenting platforms we use, each of which provides instructions on how to do this:
 
-The following are links to the main third party advertising, analytics, survey and commenting platforms we use, each of which provides instructions on how to do this:
+**Advertising: 6 trackers**
 
-DoubleClick: <http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/>
+**Site Analytics: 4 trackers**
 
-Audience Science: <http://www.audiencescience.com/privacy.asp>
+**Customer Functionality: 2 trackers**
 
-CommScore: [https://www.voicefive.com/Home.aspx and http://www.comscore.com/](https://www.voicefive.com/Home.aspx%20and%20http://www.comscore.com/)
+**Essential: 2 trackers**
 
-Google AdSense: <http://www.google.com/intl/en/ads>
+**Social media: 1 tracker**
 
-Google AdWords: <http://adwords.google.com/>
+[Facebook Connect](https://www.facebook.com/policies/cookies/)
 
-Google Analytics: <http://www.google.com/intl/en/analytics/index.html>
+**How to manage your cookies**
 
-Google Analytics Display Features: <http://www.google.com/intl/en/analytics/index.html>
-
-FlashTalking: [http://www.flashtalking.com](http://www.flashtalking.com/)
-
-Lockerz: [http://share.lockerz.com](http://share.lockerz.com/)
-
-Polldaddy: [http://polldaddy.com](http://polldaddy.com/)
-
-Quantcast: [http://www.quantcast.com](http://www.quantcast.com/)
-
-Tyny Insight: [http://www.tynt.com](http://www.tynt.com/)
-
-Webtrends: [http://www.webtrends.com](http://www.webtrends.com/)
-
-Disqus: <http://disqus.com/>
-
-Facebook: [http://www.facebook.com](http://www.facebook.com/)
-
-You can also visit the trade body representing these advertising bodies for more information on how to opt out of these cookies:
-
-<http://www.networkadvertising.org/optout_nonppii.asp>
-
-**Turning off Cookies**
-
-Most browsers allow you to turn off cookies. If you want to know how to do this please look up the help menu on your browser. However, switching off cookies may restrict your use of the website and/or affect the way in which the website operates. Also, if you do this you may not be able to use all services on our websites and you might see more pop-ups and other intrusive advertising, as we won't be able to limit what you see using cookies. You will, however, still be able to view editorial content.
+Most browsers and devices offer settings that allow you to choose whether browser cookies are set and to turn-off and/or delete them. For more information about these controls, visit your browser or device's help material. Certain parts of the INM services may not work properly if you have disabled browser cookie use and you might see more pop-ups and other intrusive advertising, as we won't be able to limit what you see using cookies. You will, however, still be able to view editorial content.
 
 Find out more about the use of cookies on http://www.cookiecentral.com
 
 All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
 
-[Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
-
-[Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
-
-[Cookie settings in Chrome](http://support.mozilla.com/en-US/kb/Cookies)
-
-[Cookie settings in Safari](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html)
-
 If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to <http://www.youronlinechoices.com/ie/>
+
+You can also visit the trade body representing these advertising bodies for more information on how to opt out of these cookies:
+
+http://www.networkadvertising.org/optout_nonppii.asp
 
 **Links to other websites**
 
-This website may provide links to third-party web sites for your convenience and information. If you access those links, you will leave this web site. Independent Newspapers (Ireland) Limited is not responsible for the content of external internet sites. We encourage you to review the privacy statement of any company before submitting your personal information.
+This website may provide links to third-party web sites for your convenience and information. If you access those links, you will leave this web site. INM is not responsible for the content of external internet sites. We encourage you to review the privacy statement of any company before submitting your personal information.
 
 **Stored Information**
 
-You may request at any time a copy of the personal information held about you and request its correction or deletion. To obtain a copy of this information, please send an email to data.protection@independent-digital.com
+You may request at any time a copy of the personal information held about you and request its correction or deletion. To obtain a copy of this information, please send an email to data.protection@inmplc.com
 
 Upon receipt of your request and within 40 days we will inform you about the type of personal information we hold about you, the purposes for which we hold it and the possible recipients or types of recipients.
 
@@ -156,10 +130,10 @@ More information on data privacy rights is available directly from the website o
 
 **Contacting Us**
 
-If you have any questions about this Privacy Statement or you wish to make a complaint, please feel free to contact us through our [data.protection@independent-digital.com](mailto:data.protection@independent-digital.com) email or write to us at:
+If you have any questions about this Privacy Statement or you wish to make a complaint, please feel free to contact us through our [data.protection@inmplc.com](mailto:data.protection@inmplc.com) email or write to us at:
 
-Independent Digital Data Controller   
-Independent Newspapers (Ireland) Limited   
+INM Data Controller   
+INM   
 27-32 Talbot St   
 Dublin 1   
 Ireland
