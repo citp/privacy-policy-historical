@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the femmefrugality.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205112958id_/http%3A//femmefrugality.com/%3Fp%3D4209) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femmefrugality.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607091240id_/http%3A//femmefrugality.com/%3Fp%3D4209) for the most accurate reproduction.*
 
-# Privacy Policy | Femme Frugality
+# Privacy Policy & Disclosures | Femme Frugality
+
+## General Disclaimer
+
+This blog is written for entertainment purposes only. I am not a financial professional, therefore readers are advised to do their own, thorough research or seek the help of a financial professional before making any financial or purchasing decisions. The information that is found here are personal opinions and/or the opinions of readers and should not be taken as financial advice.  Femme Frugality does not make any representations as to the accuracy or suitability of the claims made here. Femme Frugality does not assume any liability in regard to financial results based on the use of information provided on femmefrugality.com.
+
+## Advertising and Sponsored Content
+
+In accordance with FTC guidelines, the owner of Femme Frugality discloses that we may have a financial relationship with companies mentioned on femmefrugality.com. Femme Frugality may be compensated at times by third party companies that are mentioned either in advertisements, product reviews or affiliate programs.
+
+All information on Femme Frugality should be considered as information or entertainment. We provide our honest opinions, findings, beliefs, or experiences on the topics and products we review. The views and opinions expressed are purely the authors’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+
+Information that you find on femmefrugality.com can change. While we do our best to make sure all information is up to date, we cannot guarantee that all of the time.
+
+Femme Frugality is not responsible for the content or claims of articles written by outside parties.
+
+## Privacy Policy
 
 _This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website._
 
