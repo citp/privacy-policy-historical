@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsunagujapan.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202211125id_/http%3A//www.tsunagujapan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsunagujapan.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607121618id_/http%3A//www.tsunagujapan.com/privacy) for the most accurate reproduction.*
 
 # Privacy | tsunagu Japan
 
@@ -16,7 +16,7 @@ In order to prevent the leakage, loss, alteration etc. of the personal informati
 
 The Company will accept requests from its customers for the disclosure or deletion of the personal information held by the Company through prescribed methods, and respond to these requests in good faith.
 
-**Purpose of Use of the Personal Information**
+ **Purpose of Use of the Personal Information**
 
 The purpose of use of the personal information is established as outlined below. The personal information will not be used for any purposes other than those outlined below.
 
@@ -34,7 +34,7 @@ In order to communicate important information about the Service where necessary.
 
 To respond to inquiries.
 
-**Limitations regarding the provision of personal information**
+ **Limitations regarding the provision of personal information**
 
 The Company will not handle personal information in any way that exceeds the purpose of use without the permission of the customer, excluding cases where it is allowed in the Personal Information Protection Law and other laws, excluding the following cases.
 
@@ -46,11 +46,11 @@ The Company will not handle personal information in any way that exceeds the pur
 
 – In cases where it is neessary to cooperate with the government organzsations or regional public organizations or persons that have been entrusted by these organizations to carry out  work determined by the law, and that by acquiring the persmission of the User may cause hindrance to the execution of this work.
 
-**Changes to the purpose of use of personal information**
+ **Changes to the purpose of use of personal information**
 
 The Company may change the purpose of use of the personal information within related and reasonable limits. In the case where the purpose of use is changed, Users will be notified and the changes announced.
 
-**Disclosure and provision to third parties**
+ **Disclosure and provision to third parties**
 
 As a rule, the Company will not disclose personal information received from the Users to third parties. However, under the following cases, the Company can provide the personal information from Users without the agreement of the User to a degree that does not violate related laws.
 
@@ -60,11 +60,11 @@ In cases where the disclosure of personal information is requested by the court,
 
 In cases where the disclosure or provision is permitted by law.
 
-**Shared usage of information**
+ **Shared usage of information**
 
 In cases where it is necessary for the Company to carry out work in collaboration with business partners in providing the Service to the Users, the Users’ personal information may be jointly used with those business partners. In these cases, the Company will jointly use the information after announcing the name of the business partner, type of business and manager’s title.
 
-**Disclaimer**
+ **Disclaimer**
 
 Regarding the acquisition of the Users’ personal information by third parties outlined below, the Company accepts no responsibility, including for financial or emotional harm, and in the case of a dispute, it must be solved by the concerned business and User, and the Company will not act as an intermediary.
 
@@ -76,30 +76,30 @@ In the case the e-mail address, ID, password etc. of a User has been acquired by
 
 In the case of the leak of personal information is due to a natural disaster, communications failure, breakdown, unauthorized access, hacking, virus, or other eventuality.
 
-**Changing and deletion of personal information**
+ **Changing and deletion of personal information**
 
 Users can view, change and if required delete their personal information registered on the Site. In the case that a member requires the deletion of their personal information, it will be handled as withdrawal of membership, and the member can speedily request the deletion of their personal information by contacting the the contact specified by the Company.
 
-**Accuracy of personal information**
+ **Accuracy of personal information**
 
 The Users must judge the accuracy and recency of content provided on the Site themselves.
 
-**About the management of personal information**
+ **About the management of personal information**
 
 In order to prevent the loss, misappropriation, or alteration of personal information acquired by the site, the Company is carrying out appropriate security measures. Specifically, by using SSL encrypted transmission and limiting access rights controls to the personal information database, the Company is securely storing the data.
 
-**About identity verification**
+ **About identity verification**
 
 In response to requests for the disclosure, change or deletion of personal information, the Company will confirm the identity of the User through information that can discern the identity of the User. The Company does not accept responsibility for cases where a third party has acquired and used information that can identify the User.
 
-**Changes to the Privacy Policy**
+ **Changes to the Privacy Policy**
 
 As the purpose of the policy is to appropriately manage and protect personal information, the Company can change the policy at any time. At the time the changed content of policy is published on the Site, it will be assumed that all Users and members agree to the changed policy.
 
-**Inquiries**
+ **Inquiries**
 
 In case of any inquiries regarding the privacy policy, or any questions, complaints or consultation regarding the handling of personal information in the Services, please contact the Company via the inquiry form.
 
-**Manager in charge of Personal Information**
+ **Manager in charge of Personal Information**
 
 The personal information consultation contact (for registered information deletion and withdrawal of membership) and the manager in charge of personal information is the president of the Company.
