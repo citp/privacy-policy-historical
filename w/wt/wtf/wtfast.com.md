@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtfast.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217001026id_/https%3A//www.wtfast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtfast.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607233718id_/http%3A//www.wtfast.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
