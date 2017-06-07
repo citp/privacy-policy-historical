@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animalmozo.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020124555id_/http%3A//animalmozo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalmozo.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607122336id_/http%3A//animalmozo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Animal Mozo
+# Privacy Policy
 
 This Application collects some Personal Data from its Users.
 
