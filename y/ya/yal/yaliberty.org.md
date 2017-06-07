@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaliberty.org privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228010100id_/http%3A//www.yaliberty.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaliberty.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607143452id_/http%3A//www.yaliberty.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Young Americans for Liberty
 
