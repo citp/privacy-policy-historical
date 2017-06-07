@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruthschris.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001446id_/http%3A//www.ruthschris.com/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruthschris.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607083939id_/http%3A//www.ruthschris.com/your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ruth's Chris Steak House
 
@@ -60,7 +60,7 @@ We reserve the right to share information we have collected under this policy wi
 
 #### Your Privacy Rights and Choices
 
-If you would like to correct information you have provided to us, including updating your address or telephone number, please contact us at <http://www.ruthschris.com/contact-us>
+If you would like to correct information you have provided to us, including updating your address or telephone number, please contact us at [contact.ruthschris.com](https://contact.ruthschris.com/websurvey/2/execute)
 
 As described above, we may share personal information, such as your name, email address and preferred dining location, with a franchisee operating a restaurant under the Ruth’s Chris brand.  This franchisee may use this information to send you commercial messages and promotions relating to Ruth’s Chris Steakhouses, including emails (if you have signed up for email).  Other than franchisees, we do not share your personal information with any third parties for their direct marketing purposes.  
 
