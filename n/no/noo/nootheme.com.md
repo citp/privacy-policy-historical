@@ -1,44 +1,39 @@
-> *The following text is extracted and transformed from the nootheme.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408042210id_/http%3A//www.nootheme.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nootheme.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607050045id_/https%3A//nootheme.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy - NooTheme
 
-At **NOOTheme** , we recognize that privacy of customer's information is very important and we commit to protect your privacy. This policy describes the ways we collect, store, use and protect your personal information. We assume that you accepted our policy when you sign up and use our services.
+NooTheme (SITE) has established this privacy policy to demonstrate our commitment to the privacy of the users of our website. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users. While this isn’t the most glamorous of documents, privacy is a big concern these days, and we take it very seriously for you, our valued visitors.
 
-  * ##  **  Information Collected**
+### WHAT THIS PRIVACY POLICY COVERS
 
+This privacy policy covers NooTheme treatment of personally identifiable information collected by NooTheme through a website owned and operated by NooTheme. This privacy policy does not apply to the practices of companies that NooTheme does not own or control, or of persons that NooTheme does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which the SITE may link.
 
+### COLLECTION & USE OF PERSONAL INFORMATION
 
+You can visit the website of NooTheme without revealing any personal information. However, NooTheme needs certain personal information if you wish to purchase certain products, receive our newsletter, or use certain NooTheme services.
 
-When you visit **NOOTheme.com** , we collect your IP address and web browser information. If you want to create an account at **NOOTheme.com** , we will require you to provide your personal information: name, address and email address. When you purchase extensions from **NOOTheme.com** , you may need to provide us some more additional information: address, phone, company, etc. 
+Where required, this information may include your personal contact information and/or your company contact information. NooTheme will use this information to reply to your inquiries, to provide you with requested products and services, and to contact you regarding new products and services. By accessing the services of NooTheme and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy.
 
-  * ## **How we use your information**
+### COLLECTION & USE OF NON-PERSONAL INFORMATION
 
+NooTheme automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information, and the page you requested. NooTheme may use this information to customize the content you see and to fulfill your requests for certain products and services. However, NooTheme does not connect this non-personal data to any personal information collected from you.
 
+### INFORMATION SHARING & DISCLOSURE
 
+NooTheme will not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Our main purpose to collect your information is to provide you secure, smooth and efficient conditions when you browse our site. We use this information to process and deliver your order, for billing purposes, for providing a more pleasant and personalized shopping experience, and for communicating with you about orders and promotion updates. You can control, review and edit your personal information at any time by logging in your account and go to My Account section.
+### CONSENT
 
-  * ##  **How we use cookies**
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to NooTheme. If you have provided personal information to NooTheme and no longer consent to its use or disclosure as outlined herein, please notify us.
 
+### SECURITY
 
+Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your NooTheme information is protected for your privacy and security. In certain areas of our websites, as identified on the site, NooTheme may use industry-standard SSL-encryption to protect data transmissions. We also safeguard your personal information from unauthorized access through access control procedures and physical security measures. Further, NooTheme retains your personal information only as long as necessary to fulfill the purposes identified above or as required by law.
 
+### CHANGES TO THIS PRIVACY POLICY
 
-When you access our website, we may place small data files called "cookies" on your computer. This data contains information about you and it helps us to identify you if you visit multiple pages on our site during the same session so that we do not need to ask you for your password on each page. Once you log out your account or close your browser, this cookie expires and no longer has any effect. If you disable cookies for our site, you may still use our site, but certain benefits of your shopping experience with us may be impacted.
+NooTheme may at any time, without notice to you and in its sole discretion, amend this policy from time to time. When it does, NooTheme will also revise the “last update” date at the top of this Privacy Policy. Please review this policy periodically. Your continued use of the SITE after any such amendments signifies your acceptance thereof.
 
-  * ##  **How we protect and store personal information**
+### QUESTIONS OR SUGGESTIONS
 
-
-
-
-We commit to protect personal information. We store your information on our secured server. We use SSL for the checkout process which helps you to keep your billing information safe. No credit card information is saved on our system. We do not share your personal information with any other third parties.
-
-You can always trust our site services when doing business with NOOTheme. We always try our best to protect our customers’ privacy.
-
-  * ##  **Changes to this privacy policy**
-
-
-
-
-Please note that this Privacy Policy may change from time to time. NOOTheme reserves the right to modify this Privacy Policy at any time without prior notification. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice.
-
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact through the website. 
+If you have questions or suggestions about this privacy policy, or your own personal information, please contact us directly.
