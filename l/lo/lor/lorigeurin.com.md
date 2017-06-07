@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lorigeurin.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206194023id_/http%3A//www.lorigeurin.com/the-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorigeurin.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607221512id_/http%3A//www.lorigeurin.com/the-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LORI GEURIN
+# PRIVACY POLICY - Lori Geurin
 
   
 
@@ -55,7 +55,7 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us.
+If you have any questions about this Privacy Policy, please [contact us](http://www.lorigeurin.com/contact/).
 
   
 
