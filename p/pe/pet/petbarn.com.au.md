@@ -1,63 +1,60 @@
-> *The following text is extracted and transformed from the petbarn.com.au privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411040105id_/http%3A//www.petbarn.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petbarn.com.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607164706id_/https%3A//www.petbarn.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Petbarn
 
 ### ABOUT THIS PRIVACY POLICY
 
-Petbarn Pty Ltd (ABN 78001802759) and each its subsidiaries and affiliates ('Petbarn' or 'we' or 'us') recognise the importance of protecting the privacy of its customers and other third parties who provide their personal information to us.
+Petbarn Pty Ltd and City Farmers Retail Pty Ltd (“we” or “us”) operate retail stores under the Petbarn and City Farmers brands. We recognise the importance of protecting the privacy of its customers and other third parties who provide their personal information to us.
 
-This policy explains how we collect your personal information, what we do with it, and how it is protected.
+We are committed to handling personal information in accordance with applicable privacy laws, including the Australian Privacy Principles set out in Privacy Act 1988 (Cth) (“Privacy Act”).
 
-**KINDS OF PERSONAL INFORMATION COLLECTED AND HELD**
+This policy explains how we collect your personal information, what we do with it, and how it is protected. Petbarn and City Farmers are part of the Greencross Ltd (“Greencross”) group of companies. Greencross operates the Friends For Life Loyalty Program. The policies for how Greencross manage your personal information for the Friends For Life Loyalty Program are set out in the Friends For Life Loyalty Program privacy policy available at [www.friends-for-life.com.au](http://www.friends-for-life.com.au/ "friends-for-life").
+
+### KINDS OF PERSONAL INFORMATION COLLECTED AND HELD
 
 The personal information we collect about you includes your:
 
   * name, age, date of birth and contact details (including residential or business address, delivery address, email address, telephone number);
-  * pet ownership details, shopping habits and preferences and details of products and services you have purchased from Petbarn;
+  * pet ownership details, shopping habits and preferences and details of products and services you have purchased from us;
   * marketing preferences, including the type of marketing materials you wish to receive and the method of delivery (email, SMS, direct mail, or other); and
-
-
   * device identification information (see the section headed 'Online and Digital Services' below for further information).
 
 
 
 If you are a candidate for employment, we may collect other information. This may include information relating to your employment history, working eligibility rights, suitability for the role you are applying for, and your referee details.
 
-**HOW PERSONAL INFORMATION IS COLLECTED AND HELD**
+### HOW PERSONAL INFORMATION IS COLLECTED AND HELD
 
-**_How we collect your personal information_**
+**How we collect your personal information**
 
-Normally we collect personal information from you directly. We may collect your personal information:
+Normally we collect personal information from you directly, when you visit our Petbarn or City Farmers retail locations, or our online stores.
 
-  * directly from you during conversations with our team members (by phone, in person or electronically); 
+We may collect your personal information:
+
+  * directly from you during conversations with our team members (by phone, in person or electronically);
+  * when you make a purchase or complete purchase orders, registrations, requests or applications for our products or services, loyalty or other membership clubs (by phone, in person or electronically);
+  * when you communicate with us during competitions, special events and promotions; and
+  * where you access and interact with the website or the customer service team including via social media sites (see the section headed 'Online and Digital Services' below for further information).
 
 
 
-when you make a purchase or complete purchase orders, registrations, requests or applications for our products, services, loyalty or other membership clubs (by phone, in person or electronically);
-
-when you communicate with us during competitions, special events and promotions; and
-
-where you access and interact with the website or the customer service team including via social media sites (See the section headed 'Online and Digital Services' below for further information).
-
-If you apply for employment and complete forms applicable to the recruitment and selection process, we will collect your personal information through that process.
-
-Petbarn is part of the Greencross group of companies (comprising Greencross Ltd, its subsidiaries and affiliates). We may collect personal information from the Greencross group companies.
+If you apply for employment and complete forms applicable to the recruitment and selection process, we will collect your personal information through that process. We may collect personal information from the Greencross group of companies (comprising Greencross and its subsidiaries and affiliates, from time to time).
 
 We may also collect personal information from third parties including through the acquisition of third party mailing lists and from organisations with whom we have an affiliation.
 
-**_How we hold your personal information_**
+### How we hold your personal information
 
 We may hold your personal information in hard copy (paper) or electronic form.
 
-If you provide information to us electronically, we retain this information in our computer systems and databases. Information held in electronic form is generally held on servers controlled by Petbarn and on servers controlled by third parties under contractual arrangement with Petbarn. Petbarn uses physical security, password protection and other measures to ensure that personal information stored in electronic form is protected from misuse, interference and loss; and from unauthorised access, modification and disclosure.
+If you provide information to us electronically, we retain this information in our computer systems and databases. Information held in electronic form is generally held on servers controlled by us and on servers controlled by third parties under contractual arrangement with us. We use physical security, password protection and other measures to ensure that personal information stored in electronic form is protected from misuse, interference and loss and from unauthorised access, modification and disclosure.
 
-Personal information collected in hard copy (paper) form may be converted to electronic form. Generally the hard copy is destroyed at the end of this process. Information held in paper-based form is generally securely stored at our head office or at our retail locations. Petbarn uses physical security and other measures to ensure that personal information in hard copy form is protected from misuse, interference and loss; and from unauthorised access, modification and disclosure.
+Personal information collected in hard copy (paper) form may be converted to electronic form. Where this occurs, generally the hard copy is securely destroyed at the end of this process. Information held in paper-based form is generally securely stored at our head office or at our retail locations. We use physical security and other measures to ensure that personal information in hard copy form is protected from misuse, interference and loss and from unauthorised access, modification and disclosure.
 
-**ANONYMITY AND PSEUDONYMITY**
+### ANONYMITY AND PSEUDONYMITY
 
-You have the option of not identifying yourself, or using a pseudonym, when dealing with Petbarn (where this is lawful and practicable for example, when making an enquiry or purchasing products from our retail stores). However, in certain circumstances, if we do not collect personal information about you, we may be unable to provide you with the services you have asked us to provide.
+You have the option of not identifying yourself, or using a pseudonym, when dealing with us (where this is lawful and practicable for example, when making an enquiry or purchasing products from our retail stores). However, in certain circumstances, if we do not collect personal information about you, we may be unable to provide you with the products and services you have asked us to provide.
 
-**PURPOSES FOR COLLECTING, HOLDING, USING AND DISCLOSING PERSONAL INFORMATION**
+### PURPOSES FOR COLLECTING, HOLDING, USING AND DISCLOSING PERSONAL INFORMATION
 
 **The main purposes for which we collect, hold and use your personal information are:**
 
@@ -67,12 +64,12 @@ You have the option of not identifying yourself, or using a pseudonym, when deal
 
 
 
-If you are a candidate for employment, we may use your personal information to assess your suitability for a position at Petbarn.
+If you are a candidate for employment, we may use your personal information to assess your suitability for a position with us.
 
 We also use and disclose your personal information:
 
   * to carry out administration, marketing, planning, risk management, fraud and loss prevention activities;
-  * for product and service development, quality control and research to improve the way Petbarn and its subsidiaries, affiliates and service providers provide products and services to us and you;
+  * for product and service development, quality control and research to improve the way we and our service providers provide products and services to us and you;
   * to seek your feedback in relation to customer satisfaction and our relationship with you and perform research and statistical analysis using such feedback; and
   * to comply with laws or regulations or to comply with any directions given by regulators or authorities.
 
@@ -82,80 +79,82 @@ The kinds of third parties to whom we may disclose personal information to inclu
 
 We may collect, hold, use and disclose personal information for other purposes explained at the time of collection.
 
-**DIRECT MARKETING**
+### DIRECT MARKETING
 
-Petbarn may send you direct marketing communications to keep you informed about products and services we provide and other products and services that may be of interest to you (including products and services offered by the Greencross group of companies) via email, SMS, or regular mail.
+We may send you direct marketing communications to keep you informed about products and services we provide and other products and services that may be of interest to you (including products and services offered by the Greencross group of companies) via email, SMS, social media, or regular mail.
 
 If you have indicated a preference for a method of communication, we will endeavour to use that method wherever practical to do so.
 
-Petbarn acknowledges and respects its customers' choice to "opt-out" of direct marketing communication activities undertaken by Petbarn. You may opt out of direct marketing communications at any time by contacting us on 02 8595 3333 or by emailing _optout@petbarn.com.au_
+We acknowledge and respect our customers' choice to "opt-out" of direct marketing communication activities from us. You may opt out of direct marketing communications at any time by contacting us on 02 8595 3333 or by emailing _optout@petbarn.com.au_ or _info@cityfarmers.com.au_.
 
-You can unsubscribe from emails by clicking the unsubscribe link on the footer of the email communication you have received.
+You can also unsubscribe from emails by clicking the unsubscribe link on the footer of the email communication you have received.
 
-**OVERSEAS DISCLOSURE OF PERSONAL INFORMATION**
+### OVERSEAS DISCLOSURE OF PERSONAL INFORMATION
 
-Your personal information will also be disclosed to overseas recipients (including services providers who assist to us improve our products and services by analysing sales information and trends and conducting customer satisfaction enquiries). Those overseas recipients are likely to be located in the USA and New Zealand
+Your personal information will also be disclosed to overseas recipients (including services providers who assist us to improve our products and services by analysing sales information and trends and conducting customer satisfaction enquiries). Those overseas recipients are likely to be located in the USA and New Zealand.
 
 Unless we have your consent, or an exception under the Australian Privacy Principles applies, we will only disclose your personal information to overseas recipients where we have taken reasonable steps to ensure that the overseas recipient does not breach the Australian Privacy Principles in relation to your personal information.
 
-**ONLINE AND DIGITAL SERVICES**
+### ONLINE AND DIGITAL SERVICES
 
 **_Third party sites_**
 
-During online transactions we do not collect your credit card or banking details as online payments are handled by NAB and Paypal. Please check the [www.nab.com.au](http://www.nab.com.au/ "NAB") and [www.paypal.com.au](http://www.paypal.com.au/au "PayPal") websites for details of their privacy policies and security measures.
+During online transactions we do not collect your credit card or banking details as online payments are handled by Braintree, NAB and Paypal. Please check the [www.braintreepayments.com](https://www.braintreepayments.com/ "Braintree") , [www.nab.com.au](http://www.nab.com.au/ "NAB") and [www.paypal.com.au](http://www.paypal.com.au/au "PayPal") websites for details of their privacy policies and security measures.
 
-Petbarn's website or communications may also contain links to websites which are owned or operated by other parties. You should make your own enquiries as to the privacy policies of these parties. We are not responsible for information on, or the privacy practices of, any third party websites.
+Petbarn’s or City Farmer’s website or communications may also contain links to websites which are owned or operated by other parties. You should make your own enquiries as to the privacy policies of these parties. We are not responsible for information on, or the privacy practices of, any third party websites.
 
-**_Cookies and Digital Identifiers_**
+Cookies and Digital Identifiers
 
-Generally, individuals can use our digital services without identifying themselves. We may collect device identification information when you use a computer, mobile phone, smart phone, tablet, or other device to access or interact with us through our online store and sites ([www.petbarn.com.au](http://www.petbarn.com.au/)) or other applications. This information may include session cookies, your device IMEI number, IP address or MAC address. In some cases, these identifiers may only relate to a device or may be of an aggregated or statistical nature, and will not identity you as the user. In other cases we may associate information about your use of the website and other digital services over time with your personal information, e.g. where on any occasion you have logged in, followed a link sent to you by email or we have otherwise been able to identify you.
+Generally, individuals can use our digital services without identifying themselves. We may collect device identification information when you use a computer, mobile phone, smart phone, tablet, or other device to access or interact with us through our online store and websites ([www.petbarn.com.au](http://www.petbarn.com.au/ "Petbarn's") and [www.cityfarmers.com.au](http://www.cityfarmers.com.au/ "City Farmer’s")) or other applications. This information may include session cookies, your device IMEI number, IP address or MAC address. In some cases, these identifiers may only relate to a device or may be of an aggregated or statistical nature, and will not identify you as the user. In other cases we may associate information about your use of the website and other digital services over time with your personal information (e.g. where on any occasion you have logged in, followed a link sent to you by email or we have otherwise been able to identify you).
 
 Our website uses a technology called cookies. A cookie is a small element of data that our website may send to your computer. A cookie is typically stored on your computer's hard drive and permits our website to recognise you when you return. Our use of cookies helps us to provide you with a better experience during your use of our website by allowing us to understand what areas of the site are of interest to you. You may configure your web browser to not accept cookies, although you may experience a loss of functionality as a result.
 
-Petbarn and third-party vendors use first-party cookies and third-party cookies together to inform, optimize, and serve ads based on an individual’s past visits to our website and third party websites.
+We use and third-party vendors use first-party cookies and third-party cookies together to inform, optimize, and serve ads based on an individual’s past visits to our website and third party websites.
 
-**ACCESSING AND SEEKING CORRECTION TO PERSONAL INFORMATION**
+### ACCESSING AND SEEKING CORRECTION TO PERSONAL INFORMATION
 
-**_Accessing Personal Information_** __
+**Accessing Personal Information**
 
-You are entitled to access your personal information held by Petbarn on request. To request access to your personal information, please contact The Privacy Officer using the contact details set out below under 'Contacting Us'. In limited circumstances, access to your personal information may be declined in accordance with the Australian Privacy Principles. We may charge a reasonable fee for providing access to your personal information.
+You are entitled to access your personal information we hold about youon request. To request access to your personal information, please contact The Privacy Officer using the contact details set out below under 'Contacting Us'. In limited circumstances, access to your personal information may be declined in accordance with the Australian Privacy Principles. We may charge a reasonable fee for providing access to your personal information.
 
-**_Updating personal Information_**
+**Updating personal Information**
 
-Petbarn will endeavour to keep your personal information accurate, up-to-date and complete. You can assist us with this by letting us know if you notice errors or discrepancies in information we hold about you and letting us know if your details change.
+We will endeavour to keep your personal information accurate, up-to-date and complete. You can assist us with this by letting us know if you notice errors or discrepancies in information we hold about you and letting us know if your details change.
 
 If you consider any personal information we hold about you is inaccurate, out-of-date, incomplete, irrelevant or misleading you are entitled to request correction of the information. After receiving a request from you, we will take reasonable steps to correct your information.
 
-**_Destruction of Personal Information_**
+**Destruction of Personal Information**
 
-Petbarn take reasonable steps to destroy or permanently de-identify your personal information where it is no longer required and to protect your personal information from unauthorised access, disclosure, loss, misuse and alteration.
+Petbarn take reasonable steps to delete or securely destroy or permanently de-identify your personal information where it is no longer required and to protect your personal information from unauthorised access, disclosure, loss, misuse and alteration.
 
-If you wish to have your personal information removed from our records, you may request that your personal information be deleted or destroyed. It will not always be possible to comply with your request to delete or destroy your personal information.
+If you wish to have your personal information removed from our records, you may request that your personal information be deleted or securely destroyed. It will not always be possible to comply with your request to delete or destroy your personal information.
 
-**COMPLAINTS ABOUT HANDLING OF PERSONAL INFORMATION**
+### COMPLAINTS ABOUT HANDLING OF PERSONAL
 
-If you have any questions or concerns about this Privacy Policy or how your personal information is has been handled by Petbarn, you may contact us at any time. The contact details for the Petbarn Privacy Officer are set out below under 'Contacting Us'.
+If you have any questions or concerns about this privacy policy or how we have handled your personal information, you may contact us at any time. The contact details for the Privacy Officer are set out below under 'Contacting Us'.
 
-We will consider and respond to your complaint within a reasonable period. If you are not satisfied with our response to a complaint, or you consider that Petbarn may have breached the Australian Privacy Principles or the Privacy Act, you are entitled to make a complaint to the Office of the Australian Information Commissioner.
+If you have a complaint about privacy, please contact the Privacy Officer. The Privacy Officer will first consider your complaint to determine whether there are simple or immediate steps which can be taken to resolve the complaint. If your complaint requires more detailed consideration or investigation, we may ask you to provide further information about your complaint and the outcome you are seeking. We will then typically gather relevant facts, locate and review relevant documents and speak with the individuals involved. We will respond to your complaint as soon as reasonably practicable and, in any case, within 30 days.
 
-The Office of the Australian Information Commissioner can be contacted by telephone on 1300 363 992. Full contact details for the Office of the Australian Information Commissioner can be found online at www.oaic.gov.au. ****
+If you are not satisfied with our response to a complaint, or you consider that we may have breached the Australian Privacy Principles or the Privacy Act, you are entitled to make a complaint to the Office of the Australian Information Commissioner.
 
-**CHANGES TO THIS POLICY**
+The Office of the Australian Information Commissioner can be contacted by telephone on 1300 363 992. Full contact details for the Office of the Australian Information Commissioner can be found online at www.oaic.gov.au.
 
-Petbarn reserves the right to make changes to this Privacy Policy from time to time. Any changes to the Privacy Policy will be published on Petbarn's website. This Privacy Policy was last amended in March 2014. We encourage you to periodically review the Privacy Policy for the latest information on Petbarn's privacy practices.
+### CHANGES TO THIS POLICY
 
-This Privacy Policy may also be found on Petbarn's website [www.petbarn.com.au](http://www.petbarn.com.au/).
+We reserve the right to make changes to this privacy policy from time to time. Any changes to the privacy policy will be published on Petbarn's and City Farmer’s website. This privacy policy was last amended in March 2017. We encourage you to periodically review the privacy policy for the latest information on our privacy practices.
 
-**CONTACTING US**
+This privacy policy may also be found on Petbarn's website ([www.petbarn.com.au](http://www.petbarn.com.au/ "Petbarn's")) and City Farmer’s website ([www.cityfarmers.com.au](http://www.cityfarmers.com.au/ "City Farmer’s")).
 
-If you would like to contact us in relation to this Privacy Policy or your personal information please contact us at:
+### CONTACTING US
 
-Petbarn
+If you would like to contact us in relation to this privacy policy or your personal information please contact us at:
 
-Unit 6, 372 Eastern Valley Way, Chatswood, NSW 2067
+Petbarn or City Farmers
+
+Level 1, Unit 6, 372 Eastern Valley Way, Chatswood, NSW 2067
 
 Telephone: 02 8595 3333
 
 Fax: 02 8595 3399
 
-Email: [info@petbarn.com.au](mailto:privacyofficer@petbarn.com.au)
+Email: [info@petbarn.com.au](mailto:privacyofficer@petbarn.com.au) or [info@cityfarmers.com.au](mailto:info@cityfarmers.com.au)
