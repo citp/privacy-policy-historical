@@ -1,483 +1,819 @@
-<!--The following is the downloaded HTML source of the net4.com privacy policy that was archived on 2016-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161101214420id_/http%3A//www.net4.com/general/information/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the net4.com privacy policy that was archived on 2017-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170608011836id_/http%3A//www.net4.com/aspx/general/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	Privacy Policy
-</title>
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/common/scripts/jquery-1.4.4.min.js"></script>
-  
-   
-     <link type="text/css" rel="stylesheet" href="/common/styles/styleEn.css"><link type="text/css" rel="stylesheet" href="/common/styles/PreloginMasterNav.css">
-    <script type="text/javascript" language="javascript" src="/common/scripts/modalWindow.js"></script>
-    <script type="text/javascript" src="/common/scripts/jquery.tools.min.js"></script>
-    <script type="text/javascript" src="/common/scripts/modalWindow.js"></script>
+<!DOCTYPE html><html lang="en"><head id="Head1"><title>
+	Privacy Policy - Net4
+</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content musdotclubt come *after* these tags -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="/common/styles/custom-style.css">
     
-    <script type="text/javascript" src="/common/scripts/chrome.js"></script>
-    <script type="text/javascript" src="/common/scripts/tabs.js"></script>
-    <script type="text/javascript" src="/common/scripts/CommonJScript.js"></script>
-    <script type="text/javascript" src="/common/scripts/testj.js"></script>
-    <script type="text/javascript" src="/common/scripts/common.js"></script>
-    
-    <script language="javascript" type="text/javascript">
-        function populateMessage() {
-            OpenModalwindow('/account/login-message.aspx', 'Login Message', '500', '200');
-            return false;
-        }        
-    </script>
-    
-<link rel="canonical" href="http://www.net4.com/general/information/privacy-policy.aspx">
-
-    <!--[if lte IE 6  ]>	
-        <script src="common/js/DD_belatedPNG.js" type="text/javascript" charset="utf-8"></script> 
-        <script>  
-        DD_belatedPNG.fix('.png_bg, .btn1, .btn1 span ');</script> 	
+    <!-- tablet navitiona collapsed responsive css -->
+    <link rel="stylesheet" href="http://static.net4.com/common/styles/tablet-navigation-collapsed.css">
+    <!-- tablet and mobile responsive css -->
+    <link rel="stylesheet" href="/common/styles/tablet-mobile-responsive.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="http://static.net4.com/common/scripts/html5shiv.min.js"></script>
+    <script src="http://static.net4.com/common/scripts/respond.min.js"></script>
     <![endif]-->
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+    <script async="" src="//updatemybrowser.org/umb.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://static.net4.com/common/scripts/MiniCartPopUp.js" type="text/javascript"></script>
+
+    <!-- old js -->
+    <script type="text/javascript" src="http://static.net4.com/common/scripts/jquery-1.4.4.min.js"></script>    
     
+        
     
-    <script language="javascript" type="text/javascript">
-        $(document).ready(function () {
 
-            // Hiding all the testimonials, except for the first one.
-            $('#testimonials li').hide().eq(0).show();
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+        function Disablecurrency() {
+            $('#divcur li.nav-rupee-icon').find('#anchorDlr').removeAttr('data-toggle');
+        }
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-87971854-1');
+        ga('send', 'pageview');
+        ga('require', 'ecommerce', '//www.google-analytics.com/plugins/ua/ecommerce.js');
+    </script>
+    <!-- End Google Analytics -->
+    <script type="text/javascript">
 
-            // A self executing function that loops through the testimonials:
-            (function showNextTestimonial() {
+        function GetOrderCode() {
+            var OrderID;
+            try {
 
-                // Wait for 7.5 seconds and hide the currently visible testimonial:
-                $('#testimonials li:visible').delay(7500).fadeOut('slow', function () {
+                var action = location.protocol + '//' + location.host + "/Browse.aspx/GenerateOrder";
+                var param = "{'ordercode': '" + OrderID + "'}";
+                $.ajax(
+             {
+                 type: "POST",
+                 url: action,
+                 async: false,
+                 contentType: "application/json; charset=utf-8",
 
-                    // Move it to the back:
-                    $(this).appendTo('#testimonials ul');
+                 dataType: "json",
+                 success: AjaxSucceeResult,
+                 error: AjaxFailedResult
+             });
 
-                    // Show the next testimonial:
-                    $('#testimonials li:first').fadeIn('slow', function () {
+                return OrderID;
+            }
+            catch (e) {
 
-                        // Call the function again:
-                        showNextTestimonial();
-                    });
-                });
-            })();
+            }
+            function AjaxSucceeResult(result) {
 
+                OrderID = jQuery.parseJSON(result.d);
+
+            }
+
+            function AjaxFailedResult(result) {
+
+
+            }
+        }
+
+        window.onbeforeunload = function () { UnloadEvent(); }
+        function UnloadEvent() {
+
+
+
+            if ((window.event.clientX < 0) || (window.event.clientY < 0) || (window.event.clientY < -80) || (window.event.altKey == true || window.event.ctrlKey == true)) {
+                var OrderCode = null;
+
+                OrderCode = GetOrderCode();
+
+                if (OrderCode != null) {
+                    var stat = GetInfo(OrderCode);
+                    if (stat == 2) {
+                        ProcessData(OrderCode);
+                    }
+                }
+            }
+        }
+
+        function GetInfo(OrderCode) {
+
+            var data;
+
+            try {
+
+                var action = location.protocol + '//' + location.host + "/Browse.aspx/GetInfo";
+                var param = "{'ordercode': '" + OrderCode + "'}";
+                $.ajax(
+             {
+                 type: "POST",
+                 url: action,
+                 async: false,
+                 contentType: "application/json; charset=utf-8",
+                 data: param,
+                 dataType: "json",
+                 success: AjaxSucceeded,
+                 error: AjaxFailed
+             });
+
+                return data;
+            }
+            catch (e) {
+
+            }
+            function AjaxSucceeded(result) {
+
+                data = jQuery.parseJSON(result.d);
+
+            }
+
+            function AjaxFailed(result) {
+
+
+            }
+
+        }
+
+        function ProcessData(OrderCode) {
+            var orderData;
+            var itemdata;
+            var ucurrency;
+            try {
+
+                var someSession = OrderCode;
+                if (someSession.length > 0 && someSession != 0) {
+
+                    GetOrder(someSession);
+
+                    GetOrderItemLine(someSession);
+
+                    if (orderData.length > 0 && itemdata.length > 0) {
+
+                        try {
+
+                            //   debugger;
+
+                            ga('ecommerce:addTransaction', {
+                                id: orderData[0]['TRANSACTIONID'],
+                                affiliation: 'Direct',
+                                revenue: parseFloat(parseFloat(orderData[0]['AMOUNT']) + parseFloat(orderData[0]['TAX'])),
+                                shipping: orderData[0]['SHIPPING'],
+                                tax: parseFloat(orderData[0]['TAX'])
+                            });
+
+
+                            for (i = 0; i < itemdata.length; i++) {
+
+                                ga('ecommerce:addItem', {
+                                    id: itemdata[i]['TRANSACTIONID'],
+                                    sku: itemdata[i]['SKU'],
+                                    name: itemdata[i]['PRODUCT'],
+                                    category: itemdata[i]['VARIATION'],
+                                    price: parseFloat(itemdata[i]['UNIT']),
+                                    quantity: parseInt(itemdata[i]['QUANTITY'])
+                                });
+
+                            }
+
+                            ga('ecommerce:send');
+
+                            ga('ecommerce:clear');
+
+                        } catch (e) {
+
+                        }
+
+                    }
+
+                }
+            }
+            catch (err) { }
+
+            function GetOrder(Ordercode) {
+
+                var data;
+                try {
+
+                    var action = location.protocol + '//' + location.host + "/Browse.aspx/Getorder";
+                    var param = "{'ordercode': '" + Ordercode + "'}";
+                    $.ajax(
+             {
+                 type: "POST",
+                 url: action,
+                 async: false,
+                 contentType: "application/json; charset=utf-8",
+                 data: param,
+                 dataType: "json",
+                 success: AjaxSucceeded,
+                 error: AjaxFailed
+             });
+
+                    return data;
+                }
+                catch (e) {
+
+                }
+                function AjaxSucceeded(result) {
+
+                    data = jQuery.parseJSON(result.d);
+                    orderData = jQuery.parseJSON(result.d);
+                }
+
+                function AjaxFailed(result) {
+
+
+                }
+
+            }
+            function GetOrderItemLine(Ordercode) {
+
+                var data;
+                try {
+
+                    var action = location.protocol + '//' + location.host + "/Browse.aspx/GetorderItem";
+                    var param = "{'ordercode': '" + Ordercode + "'}";
+                    $.ajax(
+             {
+                 type: "POST",
+                 url: action,
+                 async: false,
+                 contentType: "application/json; charset=utf-8",
+                 data: param,
+                 dataType: "json",
+                 success: AjaxSucceeded,
+                 error: AjaxFailed
+             });
+
+                    return data;
+                }
+                catch (e) {
+
+                }
+                function AjaxSucceeded(result) {
+
+
+                    itemdata = jQuery.parseJSON(result.d);
+                }
+
+                function AjaxFailed(result) {
+
+
+                }
+
+            }
+        }
+
+
+
+
+        
+
+    </script>
+    <script type="text/javascript">
+
+
+        $(window).load(function () {
+            bindMiniCart();
+
+            jQuery("#fullBody").click(function () {
+                $("#myCartDropdown").removeClass("show");
+
+            });
         });
 
-</script>
-<meta name="description" content="Privacy Policy"><meta name="keywords" content="Privacy Policy"></head>
-<body>
-    <form method="post" action="privacy-policy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODE1MTg4Mjc2D2QWAmYPZBYCAgEPZBYWAgMPZBYCAgMPDxYCHgRUZXh0BQRVc2VyZGQCCw8PFgQfAAULTXkgQ2FydCAoMCkeB0VuYWJsZWRoZGQCDQ8QZGQWAWZkAg8PDxYCHghJbWFnZVVybAUmL2NvbW1vbi9pbWFnZXMvZmxhZ3MvVW5pdGVkLVN0YXRlcy5naWZkZAIRDxBkZBYBZmQChwEPFgIeB1Zpc2libGVoZAKlAQ8WAh4Hb25jbGljawUZcmV0dXJuIHBvcHVsYXRlTWVzc2FnZSgpO2QCpwEPFgIfBAUZcmV0dXJuIHBvcHVsYXRlTWVzc2FnZSgpO2QCqQEPFgIfBAUZcmV0dXJuIHBvcHVsYXRlTWVzc2FnZSgpO2QCqwEPFgIfBAUZcmV0dXJuIHBvcHVsYXRlTWVzc2FnZSgpO2QC8QEPFgIfA2hkZC+dJpRFFqaCv+/AiUOyNMZozxDAOLFblnvYQGxmUqiI">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDgK65c+yCALu7bOlCwLwys+zDAKc14GwCwLXv+n5BQKytaP2AgKB5cquDQLnrI+ZDwKdtfVgAuCk3q0JAsi/xNUOAt7BgMoHArK668ADAt21pjRwMZ6eLWbLss+bxeSHsp17yYA1BXKO0+/ET1NuIY5aSA==">
-    <div id="boxes">
-        <div id="dialog" class="window">
-            <div id="centerdialog" class="popup_back full_rnd">
-                <div>
-                    <div class="popupcross">
-                        <a href="#" class="close closebutton" id="btnCloseModal" onclick="window.parent.CloseWin('')"></a>
-                    </div>
-                    <div class="popuptitle">
-                        <span id="Title"></span>
-                    </div>
-                </div>
-                <iframe id="divModal" class="popup-mrg" frameborder="0" scrolling="auto">
-                </iframe>
-            </div>
-        </div>
-        <div id="mask">
-        </div>
+         
+    </script>
+    <!-- /old css/js -->
+<meta name="description" content="Net4 privacy policy includes different sections. We have made our privacy policies easy to read and easy find"><meta name="keywords" content="Privacy Policy"></head>
+<body>
+
+    <script type="text/javascript">
+        ga('create', 'UA-87971854-1');
+        ga('send', 'pageview');
+        ga('require', 'ecommerce', '//www.google-analytics.com/plugins/ua/ecommerce.js');
+    </script>
+    <!--Live Chat-->
+    <div class="chat-icon">
+        <a href="#" onclick="openWin1()"><span><i class="fa fa-commenting-o fa-2x" aria-hidden="true">
+        </i></span>
+            <p>
+                Chat</p>
+        </a>
     </div>
-    <div id="container">
-        <div id="header" class="mrg_top">
-            <div class="wrapper">
-                <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                    <tbody><tr>
-                        <td valign="top" width="20%">
-                            <h1>
-                                <a href="/index.aspx"><img src="/common/images/net4.jpg" alt="net4"></a></h1>
-                        </td>
-                        <td valign="top" width="60%" align="center">
-                                <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-                                    <tbody><tr>
-                                        <td align="center">
-                                            <div class="form_section">
-                                                <div id="pnlBeforeLogin" class="flt_rgt">
+    <!--/Live Chat-->
+    <form method="post" action="privacy-policy.aspx" id="FormForMe">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWMAIPDw8WAh4EVGV4dAUNTG9naW4vU2lnbiB1cGRkAhMPEGRkFgECAWQCFQ8WAh4FY2xhc3MFCWZhIGZhLXVzZGQCGw8WAh4JaW5uZXJodG1sBQtNeSBDYXJ0ICgwKWQCHQ8PFgIfAAULTXkgQ2FydCAoMClkZAIfDw8WAh8ABQEkZGQCIA8PFgIfAAUEOS45NGRkAiIPDxYCHwAFASRkZAIjDw8WAh8ABQQ5LjM1ZGQCJQ8PFgIfAAUBJGRkAiYPDxYCHwAFBTEwLjE2ZGQCKg8WAh4HVmlzaWJsZWhkAi4PDxYCHwAFCTM5ODkgMTQxNGRkAjIPDxYCHwAFCyhUb2xsIEZyZWUpZGQCNA8WAh8DaGQCOg8PZBYCHgdvbmNsaWNrBRlyZXR1cm4gcG9wdWxhdGVNZXNzYWdlKCk7ZAI8Dw9kFgIfBAUZcmV0dXJuIHBvcHVsYXRlTWVzc2FnZSgpO2QCPg8PZBYCHwQFGXJldHVybiBwb3B1bGF0ZU1lc3NhZ2UoKTtkAkAPD2QWAh8EBRlyZXR1cm4gcG9wdWxhdGVNZXNzYWdlKCk7ZAJCDw8WAh8ABQsoVG9sbCBGcmVlKWRkAkQPDxYCHwAFEjM5ODkgMTQxNCBFeHQuIDI0M2RkAkYPDxYCHwAFCyhUb2xsIEZyZWUpZGQCSA8PFgIfAAUJMzk4OSAxNDE0ZGQCSg8WAh8DaGRk7dElWxUMIrFCyWwHWia1sa/ZLhNuwbcSyKDbzgIvW8I=">
+
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="dKZmGzsNhpRafrsjqrqCX-2hel9HRnV2aCNDbhbCkBrlEZVtFffiIy-N6x1pTM-nieCNNJ5i4rMtBrdA4E_t-jjrBg2b7a1pddDw-dUzK38FMR9CWYkbYfFWpuUNhpUl0">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEwKju4bwCALu7bOlCwLwys+zDAKc14GwCwLKqej2DwLdzc2dBwLft7jbAwKKzYaWBgLIv8TVDgLewYDKBwKy1p7oDwKh2OriCALdk4W/BgL1zMv/BQKezO3BDgKagIWMBAKX7IqQCQKyuuvAAwLdtaY0HeNBsVIYPdslbo9ut0tZECkmrx+mIVMbu2Is3NhYT70=">
+    <!-- harish Top menu -->
+    <!-- top menu -->
+    <section id="navigation">
+      <div class="container">
+        <!-- top menu -->
+        <div class="row">
+          <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <a href="/net4app/index.aspx"><img src="//static.net4.com/common/images/main-logo.png" alt="net4 india" title="Net4 india" class="img-responsive"></a>
+          </div>
+          <div id="divcur" class="col-lg-10 col-md-10 col-sm-9 col-xs-8">
+          <div class="col-lg-5 col-md-10 col-sm-9 col-xs-8 col-lg-offset-7">
+                                <input name="ctl00$hidFlag" type="hidden" id="hidFlag" size="1">
+                                <input name="ctl00$hidItems" type="hidden" id="hidItems" size="1">
+                                <input name="ctl00$hidPost" type="hidden" id="hidPost" size="1">
+                                <input name="ctl00$hdnUrl" type="hidden" id="hdnUrl" size="1">
+                                <span id="lblError" class="lblError"></span><span id="master_lblPassword" class="lblError"></span><span id="master_lblUserName" class="lblError"></span>
+                            </div>
+            <ul class="nav nav-tabs pull-right">
+              <li class="nav-phone-btn"><a href="tel:+911204989000"><i class="fa fa-phone" aria-hidden="true"></i> +91-120-4989000</a></li>              
+              <li class="nav-login-btn">                 
+                     
+                     
+
+                     <span class="faicon"><a id="lnkUser" href="javascript:__doPostBack('ctl00$lnkUser','')"><i class="fa fa-user" aria-hidden="true"></i></a></span>
+                     <a id="lnkBtnLogout" class="fatext" ondblclick="copyToClipboard(document.getElementById('lnkBtnLogout').innerHTML)" href="javascript:__doPostBack('ctl00$lnkBtnLogout','')">Login/Sign up</a>
+                     
+                     
+                      <ul class="dropdown-menu pull-right">
+                        <li>
+                            <div id="pnlAfterLogin">
 	
-                                                    <div class="lblError">
-                                                        <input name="ctl00$hidFlag" type="hidden" id="hidFlag" size="1">
-                                                        <input name="ctl00$hidItems" type="hidden" id="hidItems" size="1">
-                                                        <input name="ctl00$hidPost" type="hidden" id="hidPost" size="1">
-                                                        <span id="lblError" class="lblError"></span>
-                                                        <span id="master_lblPassword" class="lblError"></span>
-                                                        <span id="master_lblUserName" class="lblError"></span>
-                                                    </div>
-                                                    <div class="textbox">
-                                                        <input name="ctl00$master_txtUserName" type="text" id="master_txtUserName" class="watermark" onblur="OnBlurText(this);" onfocus="OnFocusText(this);" value="Enter User ID/ CRN ID">
-                                                    </div>
-                                                    <div class="textbox">
-                                                        <input name="ctl00$master_txtPassword" type="password" id="master_txtPassword" class="watermark pos-rel" onblur="addDefaultMaster(this)" style="visibility: hidden;">
-                                                        <input name="ctl00$txtOldTxtPwd" type="text" value="Enter Password" id="txtOldTxtPwd" class="pos-rel-top" onfocus="clearDefaultMaster(this)">
-                                                    </div>
-                                                    <div class="flL">
-                                                        <input type="submit" name="ctl00$btnLogin" value="Login" id="btnLogin" class="submit">
-                                                    </div>
-                                                    <div class="flL pipe">
-                                                        <img src="/common/images/pipe.gif" width="1" height="25" alt="">
-                                                    </div>
-                                                    <div class="flL pad_top4">
-                                                        <a id="lnkbtnForPass" href="javascript:__doPostBack('ctl00$lnkbtnForPass','')">Forgot Password</a>
-                                                    </div>
-                                                    <div class="flL pipe sp_pipe"></div>
-                                                    <div class="flL  pad_top4">
-                                                        <a id="lnkbtnRegister" href="javascript:__doPostBack('ctl00$lnkbtnRegister','')">Register</a>
-                                                        &nbsp; &nbsp;
-                                                    </div>
-                                                
-</div>
-                                                
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td valign="middle" align="left" class="pad-left80">
-                                            <div class="login_area">
-                                                <div class="email mrg-top15">
-                                                    
-                                                    <div class="phone_icon ni_call"></div>
-                                                    <span class="flL mrg-top8">&nbsp;
-                                                        <span id="lblPhoneHeader" class="font24">1-855-444-4595</span>
-                                                        <span id="lblPhoneCityCodeHeader" class="grey11_toll">(Toll Free)</span>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                            
-                                        </td>
-                                    </tr>
-                                </tbody></table>
-                        </td>
-                        <td width="20%" valign="top" align="right">
+                                <div class="row">
+                                  
+
+                                   <div class="col-md-12 text-center">
+                                      <a id="master_imgLogout" class="btn btnlogout" href="javascript:__doPostBack('ctl00$master_imgLogout','')">Logout</a>
+                                   </div>
+                                </div>
                             
-                                <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                                    <tbody><tr>
-                                        <td align="right" height="27" colspan="2">
-                                            <a id="lnkbtnCart" class="aspNetDisabled cart">My Cart (0)</a>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td align="right">
-                                            
-                                        </td>
-                                        <td align="right" height="22">
-                                            <img id="master_imgCurrency" class="vrt-botm" src="/common/images/flags/United-States.gif" height="16" width="26">
-                                            <span class="country">
-                                                <select name="ctl00$drpdwnCurrency" id="drpdwnCurrency" title="Pick your Currency">
-	<option selected="selected" value="INR">INR</option>
-	<option value="USD">USD</option>
+</div>
+                        </li>                      
+                      </ul>
+
+                     
+                      
+                   
+
+
+               </li>
+               
+              <li class="mrg-top10 bold nav-rupee-icon" style="visibility:hidden; display:none;">
+              
+              <select name="ctl00$drpdwnCurrency" id="drpdwnCurrency" class="fa fa-inr">
+	<option value="INR">INR</option>
+	<option selected="selected" value="USD">USD</option>
 
 </select>
-                                            </span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                    <td colspan="2" align="right" height="30" valign="middle">
-                                       <a href="/general/information/customer-care.aspx"> 
-                                       <div class="cc"><span class="blue2 fs11 bold">Customer Care</span></div>
-                                       </a>
-                                    </td>
-                                </tr>
-                                </tbody></table>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="3">
-                            <ul id="menu">
-                                <li class="divider"><a href="/domains/search-domain-names.aspx">Domains</a><!-- Begin 5 columns Item -->
-                                    <div class="dropdown_5columns shd_menu">
-                                        <!-- Begin 4 columns container -->
-                                        <div class="col_1 brdr_rgt">
-                                            <div class="wall_pad mrg_rgt blue">
-                                                <a href="/domains/search-domain-names.aspx" class="treb ni-regis">
-                                                    <span class="ni-menutext">Registration</span></a>
-                                                <div class="brdr_diff_style">
-                                                </div>
-                                            </div>
-                                            <a href="/domains/search-domain-names.aspx"><h3>Popular Domains</h3></a>
-                                           
-                                        </div>
-                                        <div class="col_6 brdr_rgt">
-                                            <div class="blue wall_pad mrg_rgt">
-                                                <a href="/domains/domain-transfer.aspx" class="treb ni-transfer">
-                                                    <span class="ni-menutext">Transfer</span></a>
-                                                <div class="brdr_diff_style">
-                                                </div>
-                                            </div>
-                                            <a href="/domains/domain-transfer.aspx"><h3>Domain Name Transfer</h3></a>
-                                            
-                                            
-                                        </div>
-                                        <div class="col_2">
-                                            <div class="blue wall_pad mrg_rgt">
-                                                <a href="/domains/search-bulk-domains.aspx" class="treb ni-searchopt">
-                                                    <span class="ni-menutext">Search Options</span></a>
-                                                <div class="brdr_diff_style">
-                                                </div>
-                                            </div>
-                                            <a href="/domains/domain-suggestions.aspx">
-                                                <h3>Domain Suggestion Wizard</h3>
-                                            </a><a href="/domains/search-bulk-domains.aspx">
-                                                <h3>Bulk Search</h3>
-                                            </a><a href="/domains/whois.aspx">
-                                                <h3>Whois Query</h3>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <!-- End 5 columns container -->
-                                </li>
-                                <!-- End 5 columns Item -->
-                                <li class="divider"><a href="/hosting/web-hosting-services.aspx">Hosting</a><!-- Begin 4 columns Item -->
-                                    <div class="dropdown_2columns shd_menu">
-                                        <!-- Begin 4 columns container -->
-                                        <div class="col_1">
-                                            <div class="blue wall_pad mrg_rgt">
-                                                <a href="/hosting/web-hosting-services.aspx" class="treb ni-host">
-                                                    <span class="ni-menutext">Web Hosting</span></a>
-                                                <div class="brdr_diff_style">
-                                                </div>
-                                            </div>
-                                            <a href="/hosting/web-hosting-services.aspx#tab1">
-                                                <h3>Basic Website Hosting</h3>
-                                            </a><a href="/hosting/web-hosting-services.aspx#tab2">
-                                                <h3>Advanced Website Hosting</h3>
-                                            </a>
-                                            
-                                            <a href="/hosting/web-hosting-services.aspx#tab3">
-                                                <h3>Ecommerce Hosting</h3>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <!-- End 4 columns container -->
-                                </li>
-                                <!-- End 4 columns Item -->                               
-                                <li class="divider"><a href="/email/email-hosting-services.aspx">Email</a><!-- Begin 3 columns Item -->
-                                    <div class="dropdown_2columns_sml shd_menu">
-                                        <!-- Begin 4 columns container -->
-                                        <div class="col_6">
-                                            <div class="blue wall_pad mrg_rgt">
-                                                <a href="/email/email-hosting-services.aspx" class="treb ni-email">
-                                                    <span class="ni-menutext">Email Solutions</span></a>
-                                                <div class="brdr_diff_style">
-                                                </div>
-                                            </div>
-                                            <a href="/email/email-hosting-services.aspx#tab1">
-                                                <h3>Professional Email</h3>
-                                            </a><a href="/email/email-hosting-services.aspx#tab2">
-                                                <h3>Business Email</h3>
-                                            </a><a href="/email/email-hosting-services.aspx#tab3">
-                                                <h3>Enterprise Email</h3>
-                                            </a>
-                                           </div>
-                                    </div>
-                                </li>
-                                <!-- End 3 columns container -->
-                                <!-- End 3 columns Item -->
-                                <li class="divider"><a href="/hosting/websitebuilder.aspx">EasySite</a><!-- Begin 3 columns Item -->
-                                    <div class="dropdown_4columns shd_menu">
-                                        <!-- Begin 4 columns container -->
-                                        <a href="/hosting/websitebuilder.aspx">
-                                            <div class="col_4">
-                                                <div class="grey_box_lite">
-                                                    <div class="top_btm_mrg pad_tp_btm">
-                                                        <span class="grey34 bold">Build Your</span> &nbsp; <span class="orange34 bold">Website</span>&nbsp;
-                                                        <span class="grey34 bold">Today</span>
-                                                    </div>
-                                                    <span class="grey15 bold">Includes Domain Name, Hosting &amp; Email</span>
-                                                    <div class="flt_rgt ni-easysite">
-                                                    </div>
-                                                    <div class="flt_left">
-                                                        <br>
-                                                        <br>
-                                                        <table width="100%" cellpadding="6" cellspacing="0" border="0">
-                                                            <tbody><tr>
-                                                                <td colspan="2" class="grey16_drk bold" valign="top">
-                                                                    FOLLOW 4 Easy STEPS
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td align="right">
-                                                                    <span class="orange_list">1</span>
-                                                                </td>
-                                                                <td>
-                                                                   <span><a href="/hosting/websitebuilder.aspx" class="font15-top">Select your domain</a></span>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td align="right">
-                                                                    <span class="orange_list">2</span>
-                                                                </td>
-                                                                <td>
-                                                                    <span><a href="/hosting/websitebuilder.aspx" class="font15-top">Choose a theme</a></span>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td align="right">
-                                                                    <span class="orange_list">3</span>
-                                                                </td>
-                                                                <td>
-                                                                    <span><a href="/hosting/websitebuilder.aspx" class="font15-top">Upload your content</a></span>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td align="right">
-                                                                    <span class="orange_list">4</span>
-                                                                </td>
-                                                                <td>
-                                                                    <span><a href="/hosting/websitebuilder.aspx" class="font15-top">Publish your website</a></span>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td colspan="2">&nbsp;</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td colspan="2" class="bold orange26" align="right">Starts at <span class="bold orange26"><span class="rupee">R</span></span>599</td>
-                                                            </tr>
-                                                        </tbody></table>
-                                                    </div>
-                                                    <div class="clear">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                        <!-- End 3 columns container -->
-                                </li>
-                                <li class="divider"><a href="/ssl/ssl-certificate.aspx">SSL</a>
-                                    <div class="dropdown_2columns shd_menu">
-                                        <!-- Begin 4 columns container -->
-                                        <div class="col_1">
-                                            <div class="blue wall_pad mrg_rgt">
-                                                <a href="/ssl/ssl-certificate.aspx" class="treb ni-ssl">
-                                                    <span class="ni-menutext">SSL</span></a>
-                                                <div class="brdr_diff_style">
-                                                </div>
-                                            </div>
-                                            <a href="/ssl/ssl-certificate.aspx">
-                                                <h3>Domain Authentication</h3>
-                                            </a><a href="/ssl/ssl-certificate.aspx">
-                                                <h3>Code Signing</h3>
-                                            </a><a href="/ssl/ssl-certificate.aspx">
-                                                <h3>Malware Scan</h3>
-                                            </a><a href="/ssl/ssl-certificate.aspx">
-                                                <h3>Site Authentication</h3>
-                                            </a><a href="/ssl/ssl-certificate.aspx">
-                                                <h3>EV (Enterprise Validation)</h3>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li><a href="/cloud/cloud-server-services.aspx">Cloud Server</a><!-- Begin 3 columns Item -->
-                                    <div class="dropdown_2columns shd_menu">
-                                        <!-- Begin 4 columns container -->
-                                        <div class="col_1">
-                                            <div class="blue wall_pad mrg_rgt">
-                                                <a href="/cloud/cloud-server-services.aspx" class="treb ni-cloudserver">
-                                                    <span class="ni-menutext">Cloud Services</span></a>
-                                                <div class="brdr_diff_style">
-                                                </div>
-                                            </div>
-                                            <a href="/cloud/cloud-server-services.aspx">
-                                                <h3>Cloud/Virtual Server</h3>
-                                            </a><a href="/cloud/cloud-server-services.aspx">
-                                                <h3>Backup solutions</h3>
-                                            </a><a href="/cloud/cloud-server-services.aspx">
-                                                <h3>Email Archival</h3>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <!-- End 3 columns container -->
-                                </li>
-                                <li class="flt_left menu-saf reseller wd-65"><a href="/reseller/prelogin/reseller-prelogin.aspx">Resellers</a><!-- Begin 3 columns Item -->
-                                    <div class="dropdown_2columns shd_menu mrg-top-3">
-                                        <!-- Begin 4 columns container -->
-                                        <div class="col_1">
-                                            <div class="blue wall_pad mrg_rgt">
-                                                <a href="/reseller/prelogin/reseller-prelogin.aspx" class="treb ni-reseller">
-                                                    <span class="ni-menutext">Become Reseller</span></a>
-                                                <div class="brdr_diff_style">
-                                                </div>
-                                            </div>
-                                            <a href="/reseller/prelogin/freewalletprofit.aspx">
-                                                <h3>Reseller Domains</h3>
-                                            </a><a href="/reseller/prelogin/compareplans-individual.aspx">
-                                                <h3>Compare Plans &amp; Prices</h3></a>
-                                            <a href="#" onclick="OpenModalwindow('/account/register-fp.aspx','Register as partner',700,400);">
-                                                <h3>Register Now</h3></a>
-                                        </div>
-                                    </div>
-                                   
-                                </li>
-                              <li class="menu_right menu-saf"><a href="#" class="drop">Company Info</a>
-                                    <div class="dropdown_2columns_sml align_right shd_menu menu-drop-bg">
-                                        <div class="col_6">
-                                            <ul>
-                                                <li class="nobckgrndimg"><a href="/general/information/company-info.aspx">
-                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
-                                                    <span class="black14 treb">About US</span></a></li>
-                                                <li class="nobckgrndimg"><a href="http://www.net4.in/aspx/general/investor-relations.aspx" target="_blank">
-                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
-                                                    <span class="black14 treb">Investor Relations</span></a></li>
-                                                <li class="nobckgrndimg"><a href="/general/information/media.aspx">
-                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
-                                                    <span class="black14 treb">Media</span></a></li>
-                                                <li class="nobckgrndimg"><a href="/general/information/customer-care.aspx">
-                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
-                                                    <span class="black14 treb">Customer Care</span></a></li>
-                                                <li class="nobckgrndimg"><a href="/general/information/contact.aspx">
-                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
-                                                    <span class="black14 treb">Contact Us</span></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+              </li>   
+              <li class="nav-rupee-icon"><a id="anchorDlr" href="#" data-toggle="dropdown"><i id="iconCurrency" class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                    <ul class="dropdown-menu">
+                      
+                      <li><a id="lnkRupee" href="javascript:__doPostBack('ctl00$lnkRupee','')"><i class="fa fa-inr" aria-hidden="true"></i></a></li>
+                      <li><a id="lnkDollar" href="javascript:__doPostBack('ctl00$lnkDollar','')"><i class="fa fa-usd" aria-hidden="true"></i></a></li>
+
+                    </ul>
+              </li>          
+              <li class="nav-cart-btn">
+                <!-- cart dropdown popup section -->
+                <div class="cartDropdown">
+                
+                <a onclick="myFunction()" class="dropbtn"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span id="lnkMyCarttop">My Cart (0)</span></a>
+                  <div id="myCartDropdown" class="dropdown-content">                  
+                  <!-- content area -->
+                  <div class="row" style="border: none;">
+                    <div class="col-md-12"><h4 id="hText">Selected Items</h4></div>
+                  </div>
+                  <div id="CartItemContainer"></div>
+                 
+                    <div class="row" style="border: none;" id="lnkViewCart">
+                      <div class="col-md-12 text-center view-cart-link">
+                        <a id="lnkbtnCart" class="dropbtn" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lnkbtnCart", "", false, "", "/aspx/cart/cart.aspx", false, true))'>My Cart (0)</a>
+                      </div>
+                    </div>
+
+                  <!-- end content area -->
+                  </div>
+                </div>
+                <!-- end cart dropdown popup section -->
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div id="fullBody">
+    <!-- /top menu -->
+    <!-- /harish top menu -->
+    <!-- harish menu -->
+    <!-- main menu -->
+    <section id="main-menu">
+      <!--<div class="container">-->
+        <div class="row main-menu-row">
+          <div class="col-sm-12 main-menu-bar">
+            <nav class="navbar navbar-inverse" role="navigation">
+              	<!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <i class="fa fa-bars" aria-hidden="true"></i>
+                  </button>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse collapsing navbar-collapse" id="bs-example-navbar-collapse-1">
+                  <ul class="nav navbar-nav">                    
+                    <li class="dropdown">
+                    <a href="#" class="dropdown-toggle first" data-toggle="dropdown"><i class="fa fa-link fa-rotate-90" aria-hidden="true"></i> Domains 
+                    <i class="fa fa-caret-up fa-2x menu-caret-image" aria-hidden="true"></i><div class="plus-icon"><span class="pull-right glyphicon glyphicon-plus"></span></div>
+                    </a>
+                    <ul class="dropdown-menu mega-menu" role="menu">
+                      <div class="submenu-top-image pull-right"><img src="//static.net4.com/common/images/submenu-top-border.png" alt="dropdown menu top border image" title="main menu dropdown top border image" class="img-responsive"></div>
+                    <div class="container">
+                      <div class="row">
+                        <div class="col-md-3">
+                            <ul class="list-unstyled">
+                                <li class="submenu-label">DOMAIN REGISTRATION</li>
+                                <li><a href="/net4app/aspx/domains/international-domain-search.aspx">International domains</a></li>
+                                <li><a href="/net4app/aspx/domains/cheap-domain.aspx">cheapest domain prices</a></li>
+                                <li><a href="/aspx/domain/bookdotshop.aspx"><span class="pdngrgtmnu5"><img src="//static.net4.com/common/images/tlds/shop-tld-menu-icon.png" class="mnuImgSize"></span></a>
+                                    <a href="/aspx/domain/bookdotclub.aspx"><span class="pdngrgtmnu5"><img src="//static.net4.com/common/images/tlds/club.png" class="mnuImgSize mrgn_lft-right-menu" style="height: 15px;vertical-align: middle; position:relative; top:-2px;"></span></a>
+                                    
                                 </li>
                                 
                             </ul>
+                        </div>
+                        <div class="col-md-3">
+                            <ul class="list-unstyled">
+                                <li class="submenu-label">TRANSFER to NET4</li>
+                                <li><a href="/net4app/aspx/domains/domain-transfer.aspx">Domain name transfer</a></li>
+                                <li><a href="/net4app/index.aspx" class="lght-blue"><strong>.COM @</strong>&nbsp;<span><span id="lblComCurrency" class="bold">$</span><span id="lblComPrice" class="bold">9.94</span>/per year</span></a></li>
+                                <li><a href="/net4app/index.aspx" class="lght-blue"><strong>.IN @</strong>&nbsp;<span><span id="lblInCurrency" class="bold">$</span><span id="lblInPrice" class="bold">9.35</span>/per year</span></a></li>
+                                <li><a href="/net4app/index.aspx" class="lght-blue"><strong>.NET @</strong>&nbsp;<span><span id="lblClubCurrency" class="bold">$</span><span id="lblClubPrice" class="bold">10.16</span>/per year</span></a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-3">
+                            <ul class="list-unstyled">
+                                <li class="submenu-label">Search options</li>
+                                <li><a href="/net4app/aspx/domains/search-bulk-domains.aspx">Bulk search</a></li>
+                                <li><a href="/net4app/aspx/domains/whois.aspx">Whois query</a></li>
+                            </ul>
+                        </div>
+                      </div>
+                      <div class="submenu-cloud-image pull-right"><img src="//static.net4.com/common/images/submenu-cloud.png" alt="submenu cloud vector" titile="submenu cloud vector image" class="img-responsive"></div>
+                    </div>
+                    </ul>
+                    </li>
+                <!-- hosting link -->
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-database" aria-hidden="true"></i> Hosting<i class="fa fa-caret-up fa-2x menu-caret-image" aria-hidden="true"></i><div class="plus-icon"><span class="pull-right glyphicon glyphicon-plus"></span></div>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                        <div class="submenu-top-image pull-right"><img src="//static.net4.com/common/images/submenu-top-border.png" alt="submenu cloud vector" titile="submenu cloud vector image" class="img-responsive"></div>
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-md-4"> 
+                              <ul class="list-unstyled">
+                              <li class="submenu-label">web hosting</li>
+                              <li><a href="/net4app/aspx/hosting/buyhosting.aspx">basic website hosting</a></li>
+                              <li><a href="/net4app/aspx/hosting/website-hosting.aspx">advance website hosting</a></li>
+                              <li><a href="/net4app/aspx/hosting/ecommerce-hosting.aspx">ecommerce hosting</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-md-3">  
+                            <ul class="list-unstyled">
+                              <li class="submenu-label">CONTROL PANEL HOSTING</li>
+                              <li><a href="/net4app/aspx/hosting/cpanel-hosting.aspx">CPANEL</a></li>
+                              <li class="disabled"><a>PARALLELS PLESK <span style="text-transform:none;">(Coming soon!)</span></a></li>
+                              </ul>
+                            </div>
+                            <div class="col-md-12" style="padding-top: 25px;">  
+                              <div class="col-md-4 sbmnuiconpdnglft0">
+                              <ul class="list-unstyled">
+                              <li><a href="/net4app/aspx/hosting/windows-hosting.aspx"><span class="pdngrgtmnu5"><img src="//static.net4.com/common/images/email-solutions/windows-icon.png"></span> windows hosting</a></li>
+                              </ul>
+                              </div>
+                              <div class="col-md-3">
+                              <ul class="list-unstyled">
+                              <li><a href="/net4app/aspx/hosting/linux-hosting.aspx"><span class="pdngrgtmnu5"><img src="//static.net4.com/common/images/email-solutions/linux-icon.png"></span> linux hosting</a></li>
+                              </ul>
+                              </div>
+                              <div class="col-md-3">
+                              <ul class="list-unstyled">
+                              <li><a href="/net4app/aspx/hosting/java-hosting.aspx"><span class="pdngrgtmnu5"><img src="//static.net4.com/common/images/email-solutions/java-icon.png"></span> java hosting</a></li>
+                              </ul>
+                              </div>
+                            </div>
+                          </div>  
+                          
                             
+                          </div>
+                          <div class="submenu-cloud-image pull-right" style="bottom: 1px;"><img src="//static.net4.com/common/images/submenu-cloud.png" alt="submenu cloud vector" titile="submenu cloud vector image" class="img-responsive"></div>
+                        
+                             
+                        </ul>
+                      </li>
+                     
+                <!-- email link -->
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email<i class="fa fa-caret-up fa-2x menu-caret-image" aria-hidden="true"></i><div class="plus-icon"><span class="pull-right glyphicon glyphicon-plus"></span></div>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                        <div class="submenu-top-image pull-right"><img src="//static.net4.com/common/images/submenu-top-border.png" alt="submenu cloud vector" titile="submenu cloud vector image" class="img-responsive"></div>
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-md-12">
+                                <ul class="list-unstyled">
+                              <li class="submenu-label">email solutions</li>
+                              </ul>
+                            </div>
+                            <div class="col-md-3">
+                                <ul class="list-unstyled">  
+                              <li><a href="/net4app/aspx/email/business-emails.aspx">business email</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-md-3">  
+                              <li><a href="/net4app/aspx/email/enterprise-emails.aspx">enterprise email</a></li>
+                            </div>  
+                            <div class="col-md-3">  
+                              <li><a href="/net4app/aspx/email/enterprise-emails.aspx">DEDICATED EMAIL SERVER</a></li>
+                            </div>
+                          </div>
+                          <div class="submenu-cloud-image pull-right"><img src="//static.net4.com/common/images/submenu-cloud.png" alt="submenu cloud vector" titile="submenu cloud vector image" class="img-responsive"></div>
+                        </div>
+                      </ul>
+                    </li>  
+                <!-- DIY link -->
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-globe" aria-hidden="true"></i> EASY<span style="text-transform: lowercase;">SITE</span><i class="fa fa-caret-up fa-2x menu-caret-image" aria-hidden="true"></i><div class="plus-icon"><span class="pull-right glyphicon glyphicon-plus"></span></div>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                        <div class="submenu-top-image pull-right"><img src="//static.net4.com/common/images/submenu-top-border.png" alt="submenu cloud vector" titile="submenu cloud vector image" class="img-responsive"></div>
+                        <div class="container">
+                          <div class="row pad-all0">
+                          <div class="col-md-6">
+                          <div class="row">
+                            <div class="col-md-12">
+                            <ul class="list-unstyled">
+                              <li class="submenu-label">EASY<span style="text-transform: lowercase;">SITE</span> 3.0</li>
+                              </ul>
+                            </div>
+                            <div class="col-md-6">  
+                            <ul class="list-unstyled">
+                              <li class="submenu-label"><a class="text-white bold" href="/net4app/aspx/hosting/websitebuilder.aspx"><big>YOU MAKE</big><br><small class="font-size12">YOUR SITE EASILY YOURSELF</small></a></li>
+                              <li><a href="/net4app/aspx/hosting/websitebuilder.aspx#cp">ESSENTIAL 5 Page</a></li>
+                              <li><a href="/net4app/aspx/hosting/websitebuilder.aspx#cp">ADVANCED 10 Page</a></li>
+                              <li><a href="/net4app/aspx/hosting/websitebuilder.aspx#cp">E-COMMERCE Unlimited</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-md-6">  
+                            <ul class="list-unstyled">
+                              <li class="submenu-label"><a class="text-white bold" href="/net4app/aspx/hosting/do-it-for-me.aspx"><big>WE MAKE</big><br><small class="font-size12">YOUR SITE COMPLETELY - START TO FINISH</small></a></li>
+                              <li><a href="/net4app/aspx/hosting/do-it-for-me.aspx">ESSENTIAL 5 Page</a></li>
+                              <li><a href="/net4app/aspx/hosting/do-it-for-me.aspx">ADVANCED 10 Page</a></li>
+                              <li><a href="/net4app/aspx/hosting/do-it-for-me.aspx">E-COMMERCE Unlimited</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          </div>
+
+                          <div class="col-md-6">
+                          <div class="row">
+                            <div class="col-md-12">
+                            <ul class="list-unstyled">
+                              <li class="submenu-label">EASY<span style="text-transform: lowercase;">SITE</span> LITE - ALREADY HAVE A DOMAIN?</li>
+                              </ul>
+                            </div>
+                            <div class="col-md-6">  
+                            <ul class="list-unstyled">
+                              <li class="submenu-label"><a class="text-white bold" href="/net4app/aspx/hosting/u-make-lite.aspx"><big>YOU MAKE-LITE</big><br><small class="font-size12">YOUR SITE EASILY YOURSELF</small></a></li>
+                              <li><a href="/net4app/aspx/hosting/u-make-lite.aspx#cp">ESSENTIAL 5 Page</a></li>
+                              <li><a href="/net4app/aspx/hosting/u-make-lite.aspx#cp">ADVANCED 10 Page</a></li>
+                              <li><a href="/net4app/aspx/hosting/u-make-lite.aspx#cp">E-COMMERCE Unlimited</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-md-6">  
+                            <ul class="list-unstyled">
+                              <li class="submenu-label"><a class="text-white bold" href="/net4app/aspx/hosting/we-make-lite.aspx"><big>WE MAKE-LITE</big><br><small class="font-size12">YOUR SITE COMPLETELY - START TO FINISH</small></a></li>
+                              <li><a href="/net4app/aspx/hosting/we-make-lite.aspx">ESSENTIAL 5 Page</a></li>
+                              <li><a href="/net4app/aspx/hosting/we-make-lite.aspx">ADVANCED 10 Page</a></li>
+                              <li><a href="/net4app/aspx/hosting/we-make-lite.aspx">E-COMMERCE Unlimited</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          </div>
+
+                          </div>
+                          
+                        </div>
+                      </ul>
+                    </li>  
+                <!-- Office 365 link -->
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-calendar-o" aria-hidden="true"></i> Office 365<i class="fa fa-caret-up fa-2x menu-caret-image" aria-hidden="true"></i><div class="plus-icon"><span class="pull-right glyphicon glyphicon-plus"></span></div>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                        <div class="submenu-top-image pull-right"><img src="//static.net4.com/common/images/submenu-top-border.png" alt="submenu cloud vector" titile="submenu cloud vector image" class="img-responsive"></div>
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-md-12">
+                            <ul class="list-unstyled">
+                              <li class="submenu-label">OFFICE 365 </li>
+                              </ul>
+                            </div>
+                            <div class="col-md-3">  
+                            <ul class="list-unstyled">
+                              <li><a href="/net4app/aspx/email/office-365.aspx">BUSINESS ESSENTIALS</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-md-6">  
+                            <ul class="list-unstyled">
+                              <li><a href="/net4app/aspx/email/office-365.aspx">BUSINESS PREMIUM</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="submenu-cloud-image pull-right"><img src="//static.net4.com/common/images/submenu-cloud.png" alt="submenu cloud vector" titile="submenu cloud vector image" class="img-responsive"></div>
+                        </div>
+                      </ul>
+                    </li> 
+                <!-- Cloud Server link -->
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-cloud-upload" aria-hidden="true"></i> Cloudserver<i class="fa fa-caret-up fa-2x menu-caret-image" aria-hidden="true"></i><div class="plus-icon"><span class="pull-right glyphicon glyphicon-plus"></span></div>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                        <div class="submenu-top-image pull-right"><img src="//static.net4.com/common/images/submenu-top-border.png" alt="submenu top border vector" title="submenu top border image" class="img-responsive"></div>
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-md-12">
+                            <ul class="list-unstyled">
+                              <li class="submenu-label">cloud server</li>
+                              </ul>
+                            </div>
+                            <div class="col-md-3">
+                            <ul class="list-unstyled">  
+                              <li><a href="/net4app/aspx/vps/buyVPS.aspx">CHOOSE A PACKAGE</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-md-3">
+                            <ul class="list-unstyled">  
+                              <li><a href="/net4app/aspx/vps/buyVPS.aspx#cp">CREATE A CUSTOM CLOUD SERVER</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="submenu-cloud-image pull-right"><img src="//static.net4.com/common/images/submenu-cloud.png" alt="submenu top border vector" title="submenu top border image" class="img-responsive"></div>
+                        </div>
+                      </ul>
+                    </li>
+                <!-- SSL link -->
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-lock" aria-hidden="true"></i> ssl<i class="fa fa-caret-up fa-2x menu-caret-image" aria-hidden="true"></i><div class="plus-icon"><span class="pull-right glyphicon glyphicon-plus"></span></div>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                        <div class="submenu-top-image pull-right"><img src="//static.net4.com/common/images/submenu-top-border.png" alt="submenu top border vector" title="submenu top border image" class="img-responsive"></div>
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-md-12">
+                            <ul class="list-unstyled">
+                              <li class="submenu-label sslmnutltebld"><a href="/net4app/aspx/SSL/sslIntro.aspx">SSL CERTIFICATES SYMANTEC, GEOTRUST &amp; THAWTE</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-md-3">  
+                              <li><a href="/net4app/aspx/SSL/sslIntro.aspx#ssl-starter-plans">SSL PLANS</a></li>
+                              <li><a href="/net4app/aspx/SSL/sslIntro.aspx#domain-authentication">Domain Authentication</a></li>
+                            </div>
+                            <div class="col-md-3"> 
+                            <ul class="list-unstyled"> 
+                              <li><a href="/net4app/aspx/SSL/sslIntro.aspx#enterprise-validation">EV (Enterprise Validation)</a></li>
+                              <li><a href="/net4app/aspx/SSL/sslIntro.aspx#site-authentication">Site Authentication</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-md-3">  
+                            <ul class="list-unstyled">
+                              <li><a href="/net4app/aspx/SSL/sslIntro.aspx#malware-scan">Malware Scan</a></li>
+                              <li><a href="/net4app/aspx/SSL/sslIntro.aspx#code-signing">Code Signing</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="submenu-cloud-image pull-right"><img src="//static.net4.com/common/images/submenu-cloud.png" alt="submenu cloud vector" titile="submenu cloud vector image" class="img-responsive"></div>
+                        </div>
+                      </ul>
+                    </li>              
+                
+                 
+                <!-- Resellers link -->
+                    <li class="dropdown last">
+                      <a href="../../masterpages/#" id="hlnkssl" class="dropdown-toggle last" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i> Reseller<i class="fa fa-caret-up fa-2x menu-caret-image" aria-hidden="true"></i><div class="plus-icon"><span class="pull-right glyphicon glyphicon-plus"></span></div>
+                      </a>
+                      <ul class="dropdown-menu" role="menu">
+                      <div class="submenu-top-image pull-right"><img src="//static.net4.com/common/images/submenu-top-border.png" alt="submenu top border vector" title="submenu top border image" class="img-responsive"></div>
+                        <div class="container">
+                            <div class="row">
+                              <div class="col-md-4">
+                              <ul class="list-unstyled">
+                                <li class="submenu-label">Join Reseller Program</li>
+                                <li><a href="/homepages/FP.aspx">Reseller Membership Plans</a></li>
+                                <li><a href="/homepages/domain-reseller.aspx">Domain Reseller</a></li>
+                                <li><a href="/homepages/reseller-web-hosting.aspx">Reseller Hosting</a></li>
+                                <li><a href="/resellers/aspx/wallet/freewalletprofit.aspx">FREE Wallet</a></li>
+                                <li><a href="/aspx/general/compareplans-individual.aspx">Compare Plans &amp; Prices</a></li>
+                                </ul>
+                              </div>
+                              <div class="col-md-4">
+                              <ul class="list-unstyled">
+                                <li class="submenu-label">Reseller Selling Options</li>
+                                <li><a href="/homepages/instastore.aspx">InstaStore</a></li>
+                                
+                                <li><a href="/homepages/white-label-api.aspx">100% WHITE LABEL API</a></li>
+                                </ul>
+                              </div>
+                            </div>
+                        <div class="submenu-cloud-image pull-right"><img src="//static.net4.com/common/images/submenu-cloud.png" alt="submenu top border vector" title="submenu top border image" class="img-responsive"></div>    
+                        </div>
+                      </ul>
+                    </li>    
+                    <li></li>  
+              <!-- end links listing -->    
+                  </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </nav>
+          </div>
+        </div>
+      <!--</div>-->
+    </section>
+    <!-- end main-menu -->
+    <!-- /harish menu -->
+   
+    <div id="container">
+        <div id="header">
+            <div class="wrapper">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="flt_left mrg_bottom">
+                    <tbody><tr>
+                        <td valign="top" width="66%" align="center">
+                            <table border="0" cellpadding="0" cellspacing="0" width="98%" align="right">
+                                <tbody><tr>
+                                    <td align="center">
+                                        <table cellpadding="0" cellspacing="0" class="mrg-top15">
+                                            <tbody><tr>
+                                                <td valign="bottom" class="pad_right">
+                                                    
+                                                </td>
+                                                <td valign="middle">
+                                                    <span id="lblPhoneHeader" class="bold" style="font-size: 17px;
+                                                        color: #fa7011; display: none;">3989 1414</span>
+                                                    <span id="Label1"></span>
+                                                </td>
+                                                <td valign="middle" class="pad_left" align="right">
+                                                    
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                            </tbody></table>
                         </td>
                     </tr>
                 </tbody></table>
+                <div class="clear">
+                </div>
             </div>
         </div>
-        <div class="clear"></div>
         <div id="content">
             
-    <div id="content_inner">
-        <div class="wrapper">
-            <div class="carthead" style="height: 30px;">
-                <div class="shop" style="padding: 0; float: left;">
-                    Privacy Policy
-                </div>
-                <div style="float: right; font-weight: bold; line-height: 18px; padding: 3px 5px;">
-                    <a href="no-spam-policy.aspx">
-                        No Spam Policy</a></div>
+            <div class="clear">
             </div>
-            <div class="termsclass">
-                <div class="frg-pass-top-blue-bg policyfnt">
-                    Policy
-                </div>
-                <div class="ccfaqsmid ccfaqsmid_style">
-                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                            <td align="left" valign="top" class="termstd">
-                                 We, at Net4 HK Limited (hereinafter referred to as Net4HK), value your trust and
-                                confidence. We believe that we earn your trust and confidence when we continue to
-                                bring you exceptional products and services and do so in a very private and secure
-                                manner. We believe that trust and confidence is sustained as we honour that commitment
-                                to you, day in and day out. Our privacy statement sets forth your and our rights
-                                and responsibilities with regard to your personal information.
+            
+        </div>
+    </div>
+    
+
+<div class="container static-page">
+<div class="row tab-row-header">
+           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 page-head">
+              <h1>Privacy Policy<span class="dr_rgt mr_resource">
+             <a href="no-spam-policy.aspx"><strong>No Spam Policy</strong></a>  <span style="font-size: 24px;font-weight: bold;color:#999;"> / </span> 
+             <a href="http://www.icann.org/en/registrars/registrant-rights-responsibilities-en.htm" target="_blank">Registrant Rights and Responsibilities</a>
+             </span></h1>
+           </div>
+        </div>
+    
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="mrgn-0">Policy</h2>
+            <p>We, at Net4India, value your trust and confidence. We believe that we earn your
+                                trust and confidence when we continue to bring you exceptional products and services
+                                and do so in a very private and secure manner. We believe that trust and confidence
+                                is sustained as we honour that commitment to you, day in and day out. Our privacy
+                                statement sets forth your and our rights and responsibilities with regard to your
+                                personal information.
                                 <br>
-                                This Privacy Policy describes how Net4HK collects information from users of Net4HK’s
+                                This Privacy Policy describes how Net4India collects information from users of Net4India’s
                                 Internet services, how we use the information collected, and the choices you have
                                 concerning the collection and use of such information. The Privacy Policy applies
-                                only to Net4HK and those web sites that carry the Net4HK brand. It does not apply
-                                to any other organization’s web sites that we provide links to.
-                                <br>
+                                only to Net4India and those web sites that carry the Net4India brand. It does not
+                                apply to any other organization’s web sites that we provide links to.
                                 <br>
                                 You agree that we, in our sole discretion, may modify our privacy statement. We
                                 will post such revised statement on our Web site at least thirty (30) calendar days
@@ -489,107 +825,83 @@
                                 the personal data that we collect from you in a way incompatible with the purposes
                                 and other limitations described in our privacy statement and we will take reasonable
                                 precautions to protect your personal data from loss, misuse and unauthorized access,
-                                disclosure, alteration or destruction. By visiting any of the sites offered by Net4HK,
+                                disclosure, alteration or destruction. By visiting any of the sites offered by Net4India,
                                 you are accepting the practices described in this Privacy Policy. You agree to provide
-                                Net4HK with accurate, current and complete information, to the extent required by
-                                Net4HK for your registration as a subscriber of Services and/or Products or at any
-                                time thereafter and to maintain and to update this information as required to keep
-                                it accurate, current and complete in all respects. You agree that you have not impersonated
-                                and will not impersonate any other person or entity, and you represent that you
-                                are of legal age to contract for and use the Services and/or Products or that you
-                                have obtained consent to use the Services and/or Products from your parent or guardian.
+                                Net4India with accurate, current and complete information, to the extent required
+                                by Net4India for your registration as a subscriber of Services and/or Products or
+                                at any time thereafter and to maintain and to update this information as required
+                                to keep it accurate, current and complete in all respects. You agree that you have
+                                not impersonated and will not impersonate any other person or entity, and you represent
+                                that you are of legal age to contract for and use the Services and/or Products or
+                                that you have obtained consent to use the Services and/or Products from your parent
+                                or guardian.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>What Information Does Net4India Collect? </h2>
+            <p>Here are the types of information we gather from visitors to Net4India:
                                 <br>
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </div>
-            </div>
-            <div class="termsclass">
-                <div class="frg-pass-top-blue-bg policyfnt">
-                    What Information Does Net4HK Collect?
-                </div>
-                <div class="ccfaqsmid ccfaqsmid_style">
-                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                            <td align="left" valign="top" class="termstd">
-                                Here are the types of information we gather from visitors to Net4HK:<br>
                                 <br>
-                                <strong>
-                                    Information You Give Us:</strong>
-                                We receive and store any information you
+                                <strong>Information You Give Us:</strong> We receive and store any information you
                                 enter on our Web site or you provide to us in any other way, such as by telephone
                                 or by electronic mail. For example, we are required by the Internet Corporation
-                                for Assigned Names and Numbers
-                                ("ICANN"),
-                                the organization which assumes responsibility
+                                for Assigned Names and Numbers ("ICANN"), the organization which assumes responsibility
                                 for domain name allocation, to collect information about you during the domain name
                                 registration process. This information includes your full name, mailing address,
                                 phone number, email address, and, where provided, your facsimile number. We also
                                 collect certain financial information from you during the domain name registration
-                                process. Namely, when you apply to register a domain name through Net4HK and the
-                                payment option selected by you is via Credit card, we require you to provide a credit
-                                card number and billing address before we process that application."
+                                process. Namely, when you apply to register a domain name through Net4India and
+                                the payment option selected by you is via Credit card, we require you to provide
+                                a credit card number and billing address before we process that application.
                                 <br>
                                 <br>
-                                <strong>
-                                    Automatic Information:</strong>
-                                Net4HK does not use cookies. We do, however,
-                                receive and store certain types of information whenever you interact with us. For
-                                example, our servers track the type of Web browser you are using, and the page to
-                                which you link from Net4HK. We collect this information to better develop a sense
-                                of what services our customers need and not to track your individual usage patterns.
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </div>
-            </div>
-            <div class="termsclass">
-                <div class="frg-pass-top-blue-bg policyfnt">
-                    Does Net4HK Share the Information It Receives?
-                </div>
-                <div class="ccfaqsmid ccfaqsmid_style">
-                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                            <td align="left" valign="top" class="termstd">
-                                <strong>
-                                    &gt;WHOIS: </strong>
-                                We are required by the Internet Corporation for Assigned
-                                Names and Numbers (ICANN), the organization that assumes responsibility for domain
+                                <strong>Automatic Information:</strong> Net4India does not use "cookies." We do,
+                                however, receive and store certain types of information whenever you interact with
+                                us. For example, our servers track the type of Web browser you are using, and the
+                                page to which you link from Net4India. We collect this information to better develop
+                                a sense of what services our customers need and not to track your individual usage
+                                patterns.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Does Net4India Share the Information It Receives?</h2>
+            <p><strong>WHOIS: </strong>We are required by the Internet Corporation for Assigned
+                                Names and Numbers ("ICANN"), the organization that assumes responsibility for domain
                                 name allocation, to collect information about you during the domain name registration
                                 process. This information includes your full name, mailing address, phone number,
                                 email address, and, where provided, your facsimile number. ICANN then requires all
                                 registrars to make your full name, mailing address, phone number, email address,
                                 and, where provided, your facsimile number, as well as the creation and expiration
                                 dates of your domain name registration and the name server information associated
-                                with your domain name, to the public via an interactive web page and a port 43
+                                with your domain name, to the public via an interactive web page and a "port 43"
                                 WHOIS service. For the purposes of this Privacy Notice we will refer to this information
-                                as your WHOIS Information.
+                                as your "WHOIS Information".
                                 <br>
                                 <br>
                                 Please note that we may not be able to control how members of the public may use
                                 the WHOIS Information. If you have opted-into having your WHOIS Information available
-                                for bulk access, ICANN also requires Net4HK to make that information available to
-                                third parties who enter into a bulk WHOIS data access agreement with Net4HK. In
-                                making your selection to opt-into having your WHOIS Information available for bulk
-                                access, please refer to Bulk WHOIS data policy information. Please note that if
-                                you have not opted-into having your WHOIS Information available for bulk access
+                                for bulk access, ICANN also requires Net4India to make that information available
+                                to third parties who enter into a bulk WHOIS data access agreement with Net4India.
+                                In making your selection to opt-into having your WHOIS Information available for
+                                bulk access, please refer to Bulk WHOIS data policy information. Please note that
+                                if you have not opted-into having your WHOIS Information available for bulk access
                                 for marketing or other purposes, your WHOIS Information will still be made available
-                                to the public through the port 43 WHOIS service described above.
+                                to the public through the "port 43" WHOIS service described above.
                                 <br>
                                 <br>
                                 Except as set out in this Privacy Notice, you will receive notice when personal
                                 information about you might go to third parties, and you will have an opportunity
                                 to choose not to have us share that information. We provide the information to trusted
-                                partners who work on behalf of or with Net4HK under confidentiality agreements.
-                                These companies may use your personal information to help Net4HK communicate with
-                                you about offers from Net4HK and our marketing partners. However, these companies
-                                do not have any independent right to share this information. We share personal information
-                                as described below:
+                                partners who work on behalf of or with Net4India under confidentiality agreements.
+                                These companies may use your personal information to help Net4India communicate
+                                with you about offers from Net4India and our marketing partners. However, these
+                                companies do not have any independent right to share this information. We share
+                                personal information as described below:
                                 <br>
                                 <br>
-                                <strong>
-                                    Agents:</strong>
-                                We engage other companies and individuals to perform functions
+                                <strong>Agents:</strong> We engage other companies and individuals to perform functions
                                 on our behalf. Examples include providing marketing assistance, providing customer
                                 services, sending postal mail and email to you, removing repetitive information
                                 from customer lists, and analyzing data. These persons have access to personal information
@@ -598,38 +910,30 @@
                                 any secondary purposes.
                                 <br>
                                 <br>
-                                <strong>
-                                    Providers:</strong>
-                                We engage other companies and individuals to perform
+                                <strong>Providers:</strong> We engage other companies and individuals to perform
                                 enhanced services on our behalf. Many of our service providers have access to personal
                                 information needed to perform their services. These parties are not allowed to use
                                 personally identifiable information except for the purpose of providing these services.
                                 <br>
                                 <br>
-                                <strong>
-                                    Business Transfers:</strong>
-                                As we continue to develop our business, we
+                                <strong>Business Transfers:</strong> As we continue to develop our business, we
                                 might sell or buy businesses or their assets. In such transactions, customer information
-                                generally is one of the transferred business assets. Also, if Net4HK or all or substantially
-                                all of its assets were ever to be acquired, customer information will of course
-                                be one of the transferred assets.
+                                generally is one of the transferred business assets. Also, if Net4India Limited
+                                or all or substantially all of its assets were ever to be acquired, customer information
+                                will of course be one of the transferred assets.
                                 <br>
                                 <br>
-                                <strong>
-                                    Protection of Net4HK and Others:</strong>
-                                We release account and other personal
-                                information when we believe release is: (i) appropriate to comply with the law of
-                                the land; (ii) necessary for compliance with any legal summons, notices, orders,
-                                enquiries by law enforcement officials/ quasi-judicial forces; (iii) enforce or
-                                apply our Services Agreement and other agreements; (iv) or protect the rights, property,
-                                or safety of Net4HK, our users, or others. This includes exchanging information
-                                with other companies and organizations for fraud protection and credit risk reduction.
+                                <strong>Protection of Net4India and Others:</strong> We release account and other
+                                personal information when we believe release is: (i) appropriate to comply with
+                                the law of the land; (ii) necessary for compliance with any legal summons, notices,
+                                orders, enquiries by law enforcement officials/ quasi-judicial forces; (iii) enforce
+                                or apply our Services Agreement and other agreements; (iv) or protect the rights,
+                                property, or safety of Net4India, our users, or others. This includes exchanging
+                                information with other companies and organizations for fraud protection and credit
+                                risk reduction.
                                 <br>
                                 <br>
-                                <strong>
-                                    Advertisers:
-                                </strong>
-                                We will share aggregated demographic information with
+                                <strong>Advertisers: </strong>We will share aggregated demographic information with
                                 our partners and advertisers. This is not linked to any personal information that
                                 can identify any individual person. Partners: We partner with other parties to provide
                                 specific services. When the user signs up for these services, we will share names,
@@ -637,57 +941,74 @@
                                 services.
                                 <br>
                                 <br>
-                                <strong>
-                                    Compliance:</strong>
-                                We release account and other personal information when
+                                <strong>Compliance:</strong> We release account and other personal information when
                                 we believe release is appropriate to comply with law; enforce or apply our Services
-                                Agreement and other agreements; or protect the rights, property, or safety of Net4HK,
+                                Agreement and other agreements; or protect the rights, property, or safety of Net4India,
                                 our users, or others. This includes exchanging information with other companies
-                                and organizations for fraud protection and credit risk reduction.
-                                <br>
-                                <br>
-                                From time to time, Net4HK may use your personal information to contact you by electronic
-                                mail concerning your use of our services. These communications are intended to inform
-                                you of important information regarding your account, or about general services provided
-                                by Net4HK. If you do not want to receive email from us regarding service updates,
-                                please click the unsubscribe link at the bottom of any email you receive from
-                                Net4HK. We will, however, continue to send you email regarding your account administration
-                                and necessary information, such as renewal information.
-                                <br>
-                                <br>
-                                We work to protect the security of your information during transmission by using
+                                and organizations for fraud protection and credit risk reduction.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Electronic Mail </h2>
+            <p>From time to time, Net4India may use your personal information to contact you by
+                                electronic mail concerning your use of our services. These communications are intended
+                                to inform you of important information regarding your account, or about general
+                                services provided by Net4India. If you do not want to receive email from us regarding
+                                service updates, please click the "unsubscribe link" at the bottom of any email
+                                you receive from Net4India. We will, however, continue to send you email regarding
+                                your account administration and necessary information, such as renewal information.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>How Secure Is Information About Me?</h2>
+            <p>We work to protect the security of your information during transmission by using
                                 Secure Sockets Layer (SSL), which encrypts information you input. We reveal only
                                 the last five digits of your credit card numbers when confirming an order. Of course,
                                 we transmit the entire credit card number to the appropriate credit card company
                                 during order processing. You can further help to ensure your security by taking
                                 a few simple precautions. For instance, it is important for you to protect against
-                                unauthorized access to your Net4HK username and password and to your computer. Be
-                                sure to sign off when finished using a shared computer.
-                                <br>
-                                <br>
-                                Net4HK gives you access to certain information about you for the limited purpose
-                                of viewing and, in certain cases, updating that information.
-                                <br>
-                                <br>
-                                Although Net4HK is committed to protecting your privacy, not all other Web sites
-                                are as conscientious. Therefore, Net4HK cannot be responsible for the content or
-                                privacy policies of other Web sites including those of advertisers to which it may
-                                link and those which link to Net4HK. This Privacy Notice applies only to the information
-                                collected by this Web site. We ask that you review the privacy policies of every
-                                online service you use before submitting personal information.
-                                <br>
-                                <br>
-                                 Net4HK does not sell services for purchase by children. If you are under 18, you
-                                may use Net4HK only with the active and explicit involvement of a parent or guardian.
-                                Any transaction carried out by a minor shall stand null and void. Net4HK shall be
-                                at liberty to take any such other further action(s) in order to enforce its rights,
-                                as it deems fit.
-                                <br>
-                                <br>
-                                If you choose to visit Net4HK, your visit and any dispute over privacy is subject
+                                unauthorized access to your Net4India username and password and to your computer.
+                                Be sure to sign off when finished using a shared computer.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>What Information Can I Access? </h2>
+            <p>Net4India gives you access to certain information about you for the limited purpose
+                            of viewing and, in certain cases, updating that information.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Sites Other Than Net4India</h2>
+            <p>Although Net4India is committed to protecting your privacy, not all other Web sites
+                                are as conscientious. Therefore, Net4India cannot be responsible for the content
+                                or privacy policies of other Web sites including those of advertisers to which it
+                                may link and those which link to Net4India. This Privacy Notice applies only to
+                                the information collected by this Web site. We ask that you review the privacy policies
+                                of every online service you use before submitting personal information.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Children</h2>
+            <p>Net4India does not sell services for purchase by children. If you are under 18,
+                                you may use Net4India only with the active and explicit involvement of a parent
+                                or guardian. Any transaction carried out by a minor shall stand null and void. Net4India
+                                shall be at liberty to take any such other further action(s) in order to enforce
+                                its rights, as it deems fit.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Conditions of Use, Notices, and Revisions</h2>
+            <p>If you choose to visit Net4India, your visit and any dispute over privacy is subject
                                 to this Notice and our Services Agreement, including limitations on damages, and
-                                application of the law. If you have any concern about privacy at Net4HK, please
-                                click here to contact Customer Support and we will try to resolve it. We use third-party
+                                application of the law of the Union of India and exclusive jurisdiction of Courts
+                                in NCT of Delhi. If you have any concern about privacy at Net4India, please click
+                                here to contact Customer Support and we will try to resolve it. We use third-party
                                 advertising companies to serve ads when you visit our Web site. Our third-party
                                 advertising company also separately places or recognizes a cookie file on your browser
                                 in the course of delivering advertisements to this site. These companies may use
@@ -696,338 +1017,335 @@
                                 about goods and services of interest to you. Other companies' use of their cookies
                                 is subject to their own privacy policies, not this one. If you would like more information
                                 about this practice and to know your choices about not having this information used
-                                by these companies, please contact our Customer Support.
-                                <br>
-                                <br>
-                                Net4HK may update this policy. We will notify you about significant changes in the
-                                way we treat personal information by sending a notice to the primary email address
-                                specified in your Net4HK account or by placing a prominent notice on our site. We
-                                will post such revised statement on our Web site at least thirty (30) calendar days
-                                before it becomes effective.
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </div>
-            </div>
+                                by these companies, please contact our Customer Support.</p>
         </div>
     </div>
-
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Changes to this Privacy Policy</h2>
+            <p>Net4India may update this policy. We will notify you about significant changes in
+                                the way we treat personal information by sending a notice to the primary email address
+                                specified in your Net4India account or by placing a prominent notice on our site.
+                                We will post such revised statement on our Web site at least thirty (30) calendar
+                                days before it becomes effective.</p>
         </div>
-        <div id="footer">
-            <div class="wrapper">
+    </div>
+</div>
 
-                <div class="bg_grey_lite mrg_top full_rnd_no_PIE border height85">
-                    <div class="flt_left wall_pad">
-                        <div id="testimonials">
-                            <ul>
-                                <li class="testi-fade" style="display: block;">
-                                    <div class="flt_left ni-testi-pix2"></div>
-                                    <div class=" flt_rgt pad_left wid-530">
-                                        <span class="blue fs13 bold">Raman RV, TVS Capital Funds Limited, IT Officer</span><br>
-                                        "Net4's hassle free services, prompt support and state of the art infrastructure,
-                                        never let us had any problems. Today we have website domain registration service
-                                        with Net4 and will continue to add in near future also."
-                                    </div>
-                                </li>
-                                <li class="testi-fade" style="display: none;">
-                                    <div class="flt_left ni-testi-pix1"></div>
-                                    <div class=" flt_rgt pad_left wid-530">
-                                        <span class="blue fs13 bold">Bhushan Kumar, Educomp Schools, IT Head</span><br>
-                                        "We manage our entire domain portfolio of 100s of domains with Net4. Very impressed
-                                        with their sales team, who took significant post sales activity by hand holding
-                                        us throughout all the procedures and transactions. Very customer friendly approach."</div>
-                                </li>
-                                <li class="testi-fade" style="display: none;">
-                                    <div class="flt_left ni-testi-pix3"></div>
-                                    <div class=" flt_rgt pad_left wid-530">
-                                        <span class="blue fs13 bold">Saquib Khan, Red Tape / Mirza International, Manager IT</span>
-                                        <br>
-                                        "Net4 has one of the best business E-mail solution available in the market that
-                                        too at a very competitive price. We are currently running Bizmail since more than
-                                        5 years with them and we really like is Catch All accounts feature that never lets
-                                        me miss my mails."</div>
-                                </li>
-                                <li class="testi-fade" style="display: none;">
-                                    <div class="flt_left ni-testi-pix4"></div>
-                                    <div class=" flt_rgt pad_left wid-530">
-                                        <span class="blue fs13 bold">Sumit Kumar, Jay Pee Group, Sr. Consultant</span>
-                                        <br>
-                                        "Net4 provides 24X7 support and immediate response on issues. We have approx. 70-80
-                                        domains with Net4 and will continue to do so in near future also."</div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="seprator flt_left mrg_left mrg_rgt">
-                    </div>
-                    <div class="flt_left mrg_top">
-                        <div class="flt_left">
-                            <a href="http://www.facebook.com/net4.in" target="_blank">
-                                <div class="sp_img sp_fb sp_img_nr">
-                                </div>
-                            </a>
-                        </div>
-                        <div class="flt_left pad_top">
-                            <span class="grey treb bold">CONNECT WITH US ON<br>
-                                <span class="blue fs15">FACEBOOK</span></span>
-                            <br>
-                            <span class="orange treb bold"></span>
-                        </div>
-                    </div>
-                    <div class="seprator flt_left mrg_left mrg_rgt">
-                    </div>
-                    <div class="flt_rgt pad_right1">
-                        <div class="flt_left grey treb bold mrg_rgt_5 pad-top35">
-                            FOLLOW US
-                        </div>
-                        <div class="flt_left mrg_wall">
-                            <a href="https://twitter.com/net4in" target="_blank">
-                                <div class="sp_img sp_twitter sp_img_nr">
-                                </div>
-                            </a><a href="https://plus.google.com/u/0/101441970719641354626/posts" target="_blank">
-                                <div class="sp_img sp_Gplus sp_img_nr">
-                                </div>
-                            </a>
-                        </div>
-                        <div class="flt_left mrg-top5">
-                            <a href="http://www.youtube.com/user/net4indialimited" target="_blank">
-                                <div class="sp_img sp_youtube sp_img_nr">
-                                </div>
-                            </a><a href="http://www.linkedin.com/groups/Net4-India-4425750" target="_blank">
-                                <div class="sp_img sp_linkedin sp_img_nr"></div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="clear"></div>
-                <div id="slideshow" class="mrg_top border mrg_bottom">
-                    <img src="/common/images/clients_list.jpg" alt="Clients" class="active">
-                    <img src="/common/images/certificates.jpg" alt="Certificates and Partners">
-                </div>
+    <div class="clear">
+    </div>
+    <!-- harish footer -->
+    <!-- social section -->
+    <section id="social-link">
+        <div class="container">
+        <div class="row">
+          <div class="col-md-7 col-sm-12 col-xs-12">
+            <h2>Stay connected with us for more updates</h2>
+          </div>
+          <div class="col-md-5 col-sm-12 col-xs-12">
+            <ul class="pull-right">
+              <a href="https://www.facebook.com/net4.in" target="_blank"><li><span><i class="fa fa-facebook" aria-hidden="true"></i></span></li></a>
+              <a href="https://twitter.com/net4in" target="_blank"><li><span><i class="fa fa-twitter" aria-hidden="true"></i></span></li></a>
+              <a href="https://plus.google.com/106417143243841714691" target="_blank"><li><span><i class="fa fa-google-plus" aria-hidden="true"></i></span></li></a>
+              <a href="https://www.linkedin.com/company/net4-india-ltd" target="_blank"><li><span><i class="fa fa-linkedin" aria-hidden="true"></i></span></li></a>
+              <a href="https://www.youtube.com/user/net4indialimited" target="_blank"><li><span><i class="fa fa-youtube-play" aria-hidden="true"></i></span></li></a>
+            </ul>
+          </div>
+        </div>
+      </div>
+        </section>
+    <!-- end social section -->
+    <!-- footer section -->
+    <section id="footer-section">
+        
+        <div class="container">
+       <div class="row footer-menu">
+        <div class="links-row">
+          <div class="footer-link-block">
+          <h4 class="remove" data-toggle="collapse" href="#companyInfo" aria-expanded="false" aria-controls="companyInfo">company info <span class="pull-right glyphicon glyphicon-plus"></span></h4>
+            <ul class="collapse" id="companyInfo">
+              <li><a href="/aspx/general/company-info.aspx">About Net4</a></li>
+              <li><a href="/aspx/general/contact.aspx">Contact Us</a></li>
+              <!--<li><a href="/aspx/article/index.aspx">Knowledge Center</a></li>--->
+              <li><a href="/aspx/general/deals-offers.aspx">Deals &amp; Offers</a></li>
+              <li><a href="/aspx/general/investor-relations.aspx">Investor Relations</a></li>
+              <li><a href="/aspx/general/media.aspx">Media</a></li>
+              <li><a href="/aspx/general/customer-care.aspx">Customer Care</a></li>
+              <li><a href="/aspx/general/careers.aspx">Careers</a></li>
+              <li><a href="/aspx/general/sitemap.aspx">Sitemap</a></li>
+            </ul>
+          </div>
+          <div class="footer-link-block">
+            <h4 class="remove" data-toggle="collapse" href="#accountInformation" aria-expanded="false" aria-controls="accountInformation">account information<span class="pull-right glyphicon glyphicon-plus">   </span></h4>
+            <ul class="collapse" id="accountInformation">
                 
-                <div id="footer_top" class="border">
-                    <div class="f_box">
-                        <h3>Account Information</h3>
-                        <ul>
-                            <li><a href="/account/my-page.aspx" id="lnkdashboard" onclick="return populateMessage();">My Dashboard</a></li>
-                            <li><a href="/account/register.aspx" id="lnkMyProfile" onclick="return populateMessage();">My Profile</a></li>
-                            <li><a href="/account/my-services.aspx" id="lnkMyServices" onclick="return populateMessage();">My Services &amp; Renewals</a></li>
-                            <li><a href="/order/my-orders.aspx" id="lnkOrderHistory" onclick="return populateMessage();">Order History</a></li>
-                        </ul>
-                    </div>
-                    <div class="f_box">
-                        <h3>Product &amp; Services</h3>
-                        <ul>
-                            <li><a href="/domains/search-domain-names.aspx">Domain Names</a></li>
-                            <li><a href="/hosting/web-hosting-services.aspx">Web Hosting</a></li>
-                            <li><a href="/email/email-hosting-services.aspx">Email Hosting</a></li>
-                            <li><a href="/apps/business-apps.aspx">Business Apps</a></li>
-                            <li><a href="/cloud/cloud-server-services.aspx">Cloud Server</a></li>
-                            <li><a href="/hosting/websitebuilder.aspx">Easy Site/Website builder</a></li>
-                            <li><a href="/ssl/ssl-certificate.aspx">SSL</a></li>
-                        </ul>
-                    </div>
-                    <div class="f_box">
-                        <h3><a href="/reseller/prelogin/reseller-prelogin.aspx">Reseller</a></h3>
-                        <ul>
-                            <li><a href="/reseller/prelogin/freewalletprofit.aspx">Reseller Domains</a></li>
-                            <li><a href="/reseller/prelogin/compareplans-individual.aspx">Compare Plan &amp; Prices</a></li>
-                            <li><a href="#" onclick="OpenModalwindow('/resellers/aspx/account/register.aspx','Register as partner',700,400);">Register Now</a></li>
-                        </ul>
-                    </div>
-                    <div class="f_box">
-                        <h3>Company Info</h3>
-                        <ul>
-                            <li><a href="/general/information/company-info.aspx">About Net4</a></li>
-                            <li><a href="http://www.net4.in/aspx/general/investor-relations.aspx" target="_blank">Investor Relations</a></li>
-                            <li><a href="/general/information/media.aspx">Media</a></li>
-                            <li><a href="http://www.net4.in/aspx/general/careers.aspx" target="_blank">Careers</a></li>
-                            <li><a href="/sitemap.aspx">Sitemap</a></li>
-                        </ul>
-                    </div>
-                    <div class="f_box no-mrg">
-                        <h3><a href="/general/information/contact.aspx" target="_blank">Contact Sales</a></h3>
-                        <ul>
-                            <li><span id="Label3">1-855-444-4595</span> <span class="smallfont"><span id="Label1">(Toll Free)</span></span></li>
-                        </ul>
-                        <h3><a href="/general/information/customer-care.aspx" target="_blank">Contact Support</a></h3>
-                        <ul>
-                            <li><span id="Label4">1-855-444-4595</span> <span class="smallfont"><span id="Label2">(Toll Free)</span></span></li>
-                            <li><a href="/general/information/enquiry.aspx">Email Us</a></li>
-                            <li><a href="http://kb.net4.in/" target="_blank">Knowledge Base</a></li>
-                        </ul>
-                    </div>
-                    <div class="f_box1 full_rnd wall_pad border" id="connect" style="display: none;">
-                        <img src="/common/images/4tify_logo.png" alt="" width="50" height="46" class="box img">
-                        <strong>Enterprise Services</strong>
-                        <br>
-                        <br>
-                        <ul>
-                            <li class="contact"><a href="#">Data Center &amp; Cloud</a></li>
-                            <li class="contact"><a href="#">Leased Line &amp; Voice</a></li>
-                            <li class="contact"><a href="#">Link 1</a> </li>
-                            <li class="contact"><a href="#">Link 1</a> </li>
-                        </ul>
-                        <p style="display: none;">
-                            <span id="lblFooterPhoneSalesCityCode"></span>&nbsp;<span id="lblFooterPhoneSales"></span>
-                            </p><ul style="display: none;">
-                                <li class="contact">
-                                    <span id="lblFooterPhoneSupportCityCode"></span>&nbsp;<span id="lblFooterPhoneSupport"></span></li>
-                                
-                            </ul>
-                        <p></p>
-                    </div>
-                    <div class="clear">
-                    </div>
-                </div>
-            </div>
-            <div id="footer_bottom">
-                <div class="wrapper">
-                    <span class="flt_left white_11 normal_weight"><br>
-                        ISP/ITSP services provided by authorized providers.</span>
-                    <div class="f_menu flt_rgt">
-                        <a href="/general/information/privacy-policy.aspx">Privacy Policy</a> | <a href="/general/information/terms.aspx">
-                            Terms of use</a>
-                        
-                        
-                    </div>
-                </div>
-                <div class="clear">
-                </div>
-            </div>
-        </div>
-        <div class="seocontent">
-            
 
-        </div>
+                <li><a onclick="return populateMessage();" id="lnkdashboard" href="javascript:__doPostBack('ctl00$lnkdashboard','')">My Dashboard</a></li>
+                <li><a onclick="return populateMessage();" id="lnkMyProfile" href="javascript:__doPostBack('ctl00$lnkMyProfile','')">My Profile</a></li>
+                <li><a onclick="return populateMessage();" id="lnkMyServices" href="javascript:__doPostBack('ctl00$lnkMyServices','')">My Services &amp; Renewals</a></li>
+                <li><a onclick="return populateMessage();" id="lnkOrderHistory" href="javascript:__doPostBack('ctl00$lnkOrderHistory','')">Order History</a></li>
+            </ul>
+          </div>
+          <div class="footer-link-block">
+            <h4 class="remove" data-toggle="collapse" href="#productServices" aria-expanded="false" aria-controls="productServices">product &amp; services<span class="pull-right glyphicon glyphicon-plus">   </span></h4>
+            <ul class="collapse" id="productServices">
+              <li><a href="/net4app/index.aspx">Domain Registration</a></li>
+              <li><a href="/net4app/aspx/hosting/buyhosting.aspx">Web Hosting</a></li>
+              <li><a href="/net4app/aspx/email/business-emails.aspx">Email Hosting</a></li>
+              <li><a href="/net4app/aspx/vps/buyVPS.aspx">Cloud Server</a></li>
+              <li><a href="/net4app/aspx/hosting/websitebuilder.aspx">EASYsite/Websitebuilder</a></li>
+              <li><a href="/net4app/aspx/SSL/sslIntro.aspx">SSL</a></li>
+            </ul>
+          </div>
+          <div class="footer-link-block">
+            <h4 class="remove" data-toggle="collapse" href="#reseller" aria-expanded="false" aria-controls="reseller">reseller<span class="pull-right glyphicon glyphicon-plus"></span></h4>
+            <ul class="collapse" id="reseller">
+              <li><a href="/homepages/FP.aspx">Join Reseller Programs</a></li>
+              <li><a href="/homepages/domain-reseller.aspx">Domain Reseller</a></li>
+              <li><a href="/homepages/reseller-web-hosting.aspx">Reseller Hosting</a></li>
+              <li><a href="/resellers/aspx/wallet/freewalletprofit.aspx">Free Wallet</a></li>
+              <li><a href="/homepages/instastore.aspx">InstaStore</a></li>
+              <li><a href="/aspx/general/compareplans-individual.aspx">Compare Plan &amp; Prices</a></li>
+            </ul>
+          </div>
+          <div class="footer-link-block">
+            <h4 class="remove" data-toggle="collapse" href="#enterpriseServices" aria-expanded="false" aria-controls="enterpriseServices">enterprise services<span class="pull-right glyphicon glyphicon-plus">   </span></h4>
+            <ul class="collapse" id="enterpriseServices">
+              <li><a href="http://www.net4enterprise.com/cloud-hosting/cloud-server.aspx" target="_blank">Cloud Hosting</a></li>
+              <li><a href="http://www.net4enterprise.com/data-center/data-centre.aspx" target="_blank">Data Center</a></li>
+              <li><a href="http://www.net4enterprise.com/leased-line/internet-lease-line.aspx" target="_blank">Leased Line</a></li>
+              <li><a href="http://www.net4enterprise.com/hosted-application/hosted-microsoft-exchange.aspx" target="_blank">Business Applications</a></li>
+              <li><a href="http://www.net4enterprise.com/communication/voip-services/voip-solutions.aspx" target="_blank">VoIP Services</a></li>
+            </ul>
+          </div>
+          </div>
+          </div><!-- end links -->
+          <img src="//static.net4.com/common/images/footer-logo.png" alt="net4 footer logo" title="net4 india logo" class="img-responsive pull-right">
+          <div class="row">
+            <div class="col-lg-10 col-md-9 col-sm-8 col-xs-12">
+              <p><span class="contact-detail">Contact Details : <strong><a href="mailto:info@net4.com">info@net4.com</a>  | <b><a href="tel:+911204989000">+91-120-4989000</a></b></strong> </span> <span class="copyright-text"><i class="fa fa-copyright" aria-hidden="true"></i> copyright Net4 India Ltd. <span>ISP/ITSP services provided by authorized providers.</span></span></p>
+              <div class="bottom-links">
+                <ul>
+                  <li class="first"><a href="/aspx/general/privacy-policy.aspx">Privacy Policy</a></li>
+                  <li><a href="/aspx/general/terms.aspx">Terms of use</a></li>
+                  <li><a href="/aspx/general/resources.aspx">Resources</a></li>
+                  <li class="last"><a href="/aspx/general/abuse-complaints.aspx">Abuse Policy</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          </div>
+          
+
+        <!-- end container -->
+        </section>
+    <!-- end footer section -->
+    <!-- /harish footer -->
+    <div class="f_box1 full_rnd wall_pad border" id="connect" style="display: none;">
+        <strong>Enterprise Services</strong>
+        <br>
+        <br>
+        <ul>
+            <li class="contact"><a href="#">Data Center &amp; Cloud </a></li>
+            <li class="contact"><a href="#">Leased Line &amp; Voice </a></li>
+            <li class="contact"><a href="#">Link 1</a> </li>
+            <li class="contact"><a href="#">Link 1</a> </li>
+        </ul>
+        <p style="display: none;">
+            <span id="lblFooterPhoneSalesCityCode">(Toll Free)</span>&nbsp;<span id="lblFooterPhoneSales">3989 1414 Ext. 243</span>
+            </p><ul style="display: none;">
+                <li class="contact">
+                    <span id="lblFooterPhoneSupportCityCode">(Toll Free)</span>&nbsp;<span id="lblFooterPhoneSupport">3989 1414</span></li>
+                
+            </ul>
+        <p></p>
+    </div>
+    <div class="seocontent">
+        
+    </div>
+    <div class="clear">
     </div>
     <input type="submit" name="ctl00$lnkRedirect" value="" id="lnkRedirect" class="lnkRedirectbut">
     <span id="lblRedirect"></span>
     <input name="ctl00$hdnpmt" type="hidden" id="hdnpmt">
-    </form>
-
-
-<script type="text/javascript">
-    function AddMessage(stringvalue) {
-        //alert(stringvalue);
-        var element = document.getElementById('ctl00_header_btnhidden');
-        element.click();
-    }
-</script>
-<script type="text/javascript">
-    var timeout = 500;
-    var closetimer = 0;
-    var ddmenuitem = 0;
-
-    function jsddm_open() {
-        jsddm_canceltimer();
-        jsddm_close();
-        ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');
-    }
-
-    function jsddm_close()
-    { if (ddmenuitem) ddmenuitem.css('visibility', 'hidden'); }
-
-    function jsddm_timer()
-    { closetimer = window.setTimeout(jsddm_close, timeout); }
-
-    function jsddm_canceltimer() {
-        if (closetimer) {
-            window.clearTimeout(closetimer);
-            closetimer = null;
+    
+    <script type="text/javascript" src="http://static.net4.com/common/scripts/tabs.js"></script>
+    <script type="text/javascript" src="http://static.net4.com/common/scripts/common.js"></script>
+    <!-- using for chat -->
+    <!-- Login -->
+    <script language="javascript" type="text/javascript">
+        function copyToClipboard(text) {
+            var CRN = text.substring(text.indexOf('(') + 1, text.indexOf(")"));
+            if (CRN != null && CRN != "") {
+                window.prompt("Copy to clipboard: Ctrl+C, CRN", CRN);
+            }
         }
-    }
 
-    $(document).ready(function () {
-        $('#jsddmnet > li').bind('mouseover', jsddm_open);
-        $('#jsddmnet > li').bind('mouseout', jsddm_timer);
-    });
-
-    document.onclick = jsddm_close;
-
-    function SetValueForDomainSearch(dmn, li) {
-        if ($(li).attr('id') == 'li1') {
-            $(li).css({ 'font-weight': '', 'text-decoration': 'line-through' });
-            $('#' + 'li2').css({ 'font-weight': '', 'text-decoration': '' });
-        }
-        if ($(li).attr('id') == 'li2') {
-            $(li).css({ 'font-weight': 'bold', 'text-decoration': 'line-through' });
-            $('#' + 'li1').css({ 'font-weight': '', 'text-decoration': '' });
-        }
-        $('#' + 'hdnsearchdomain').val(dmn);
-    }
-
-    function validateglobalsearch() {
-        if ($('#' + 'hdnsearchdomain').val() == "" || $('#' + 'txtGlobalSearch').val() == "Search")
+        function populateMessage() {
+            OpenModalwindow('/html/login-message.htm', 'Login Message', '700', '375');
             return false;
-        else {
-            if ($('#' + 'hdnsearchdomain').val() == "2") {
-                var Sess = '';
-                if (Sess == '')
-                    return false;
+        }
+    </script>
+    <script type="text/javascript">
+       
+        function AddMessage(stringvalue) {
+            var element = document.getElementById('ctl00_header_btnhidden');
+            element.click();
+        }
+    </script>
+    <script type="text/javascript">
+        function clearDefaultMaster(el) {
+            if (el.id == "master_txtUserName") {
+                if (el.value == "Password") { el.defaultValue = "Password"; }
+                if (el.defaultValue == el.value) { el.value = ""; }
             }
-            else
-                return IsValidDomainName($('#' + 'txtGlobalSearch').val());
-        }
-    }
-</script>
-<!-- Google-analytics -->
-<script type="text/javascript">
+            if (el.id == "txtOldTxtPwd") {
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-25829658-3']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-</script>
-<script language="javascript" type="text/javascript">
-    $(function () {
-        var index = 0;
-        if (readCookie("mastertabindex") != null)
-            index = readCookie("mastertabindex");
-
-        var hrf = readCookie("submenuindex");
-        $('#' + hrf).addClass("active");
-
-        var submenu = readCookie("SubMenuItems");
-        if (submenu != '')
-            $('#' + submenu).addClass('active');
-    });
-
-    function setsubmenuindex(hrf, idx) {
-        var MainMenuEnabled = false;
-        if (hrf.rel == 'ct1' || hrf.rel == 'ct2' || hrf.rel == 'ct3') {
-            createCookie("mastertabindex", idx, 0);
-            MainMenuEnabled = true;
-        }
-        if (MainMenuEnabled == false) {
-            if (idx >= 0) {
-                createCookie("submenuindex", hrf.id, 0);
-                createCookie("mastertabindex", idx, 0);
+                document.getElementById('txtOldTxtPwd').style.visibility = 'hidden';
+                document.getElementById('master_txtPassword').style.visibility = 'visible';
+                document.getElementById('master_txtPassword').focus();
             }
-            else
-                createCookie("submenuindex", "", -1);
+
         }
-        else
-            createCookie("submenuindex", "", -1);
+        function addDefaultMaster(el) {
 
-        createCookie("SubMenuItems", "", -1);
-    }
-
-    function SetActiveClass(hlink) {
-        for (i = 1; i <= 6; i++) {
-            $('#hlnk' + i.toString()).removeClass('');
+            if (el.value == "") {
+                if (el.id == "master_txtUserName") {
+                    el.value = "Enter CRN ID/Username";
+                    el.defaultValue = "Enter CRN ID/Username";
+                }
+                if (el.id == "master_txtPassword" && (el.value == "" || el.value == "Password")) {
+                    document.getElementById('txtOldTxtPwd').style.visibility = 'visible';
+                    document.getElementById('master_txtPassword').style.visibility = 'hidden';
+                }
+            }
         }
-        $(hlink).addClass('active');
-        createCookie("SubMenuItems", $(hlink).attr('id'), 0);
-        createCookie("submenuindex", "", -1);
-    }
+    </script>
+    <script type="text/javascript">
+        var timeout = 500;
+        var closetimer = 0;
+        var ddmenuitem = 0;
 
+        function jsddm_open() {
+            jsddm_canceltimer();
+            jsddm_close();
+            ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');
+        }
+
+        function jsddm_close()
+        { if (ddmenuitem) ddmenuitem.css('visibility', 'hidden'); }
+
+        function jsddm_timer()
+        { closetimer = window.setTimeout(jsddm_close, timeout); }
+
+        function jsddm_canceltimer() {
+            if (closetimer) {
+                window.clearTimeout(closetimer);
+                closetimer = null;
+            }
+        }
+
+        $(document).ready(function () {
+            $('#jsddm > li').bind('mouseover', jsddm_open);
+            $('#jsddm > li').bind('mouseout', jsddm_timer);
+
+
+        });
+
+        document.onclick = jsddm_close;
+
+        function SetValueForDomainSearch(dmn, li) {
+            if ($(li).attr('id') == 'li1') {
+                $(li).css({ 'font-weight': 'bold', 'text-decoration': 'line-through' });
+                $('#' + 'li2').css({ 'font-weight': '', 'text-decoration': '' });
+            }
+            if ($(li).attr('id') == 'li2') {
+                $(li).css({ 'font-weight': 'bold', 'text-decoration': 'line-through' });
+                $('#' + 'li1').css({ 'font-weight': '', 'text-decoration': '' });
+            }
+            $('#' + 'hdnsearchdomain').val(dmn);
+            $('#' + 'txtGlobalSearch').focus();
+        }
+
+        function validateglobalsearch() {
+            if ($('#' + 'hdnsearchdomain').val() == "" || $('#' + 'txtGlobalSearch').val() == "Search")
+                return false;
+            else {
+                if ($('#' + 'hdnsearchdomain').val() == "2") {
+                    var Sess = '';
+                    if (Sess == '')
+                        return false;
+                }
+                else
+                    return IsValidDomainName($('#' + 'txtGlobalSearch').val());
+            }
+        }
+    </script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- Latest compiled and minified JavaScript -->
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!-- custom script -->
+    <script type="text/javascript" src="http://static.net4.com/common/scripts/custom.js"></script>
+    
+    <!-- start ssl page specific js and code -->
+    <script type="text/javascript" src="http://static.net4.com/common/scripts/responsive-tabs.js"></script>
+
+    <script type="text/javascript">
+        /* for tabs to accordian */
+        (function ($) {
+            // Test for making sure event are maintained//
+            $('.js-alert-test').click(function () {
+                alert('Button Clicked: Event was maintained');
+            });
+            fakewaffle.responsiveTabs(['xs']);
+        })(jQuery);
+    </script>
+    <!-- for main menu and footer + - icons -->
+    <script>
+        /* main menu + - icon control */
+        $("#main-menu .dropdown").on("show.bs.dropdown", function () {
+            $(this).find(".glyphicon-plus").removeClass("glyphicon-plus").addClass("glyphicon-minus");
+        }).on('hidden.bs.dropdown', function () {
+            $(this).find(".glyphicon-minus").removeClass("glyphicon-minus").addClass("glyphicon-plus");
+        });
+
+        /* footer menu  + - icons control */
+        $('#footer-section .collapse').on('shown.bs.collapse', function () {
+            $(this).parent().find(".glyphicon-plus").removeClass("glyphicon-plus").addClass("glyphicon-minus");
+        }).on('hidden.bs.collapse', function () {
+            $(this).parent().find(".glyphicon-minus").removeClass("glyphicon-minus").addClass("glyphicon-plus");
+        });
+        </script>
+        <!-- end for main menu and footer + - icons -->
+        
+
+    <!-- end ssl page specific js and code -->
+<div class="img-cart-modal"></div>
+<style type="text/css">
+a.lght-blue{color: #61cdff !important; text-transform:none !important;}
+</style>
+<script>
+    var _umb = {
+        require: {
+            chrome: 35,
+            safari: 7,
+            edge: 10,
+            firefox: 30,
+            ie: 10,
+            opera: 30
+        }
+    };
+    (function (u) {
+        var s = document.createElement('script'); s.async = true; s.src = u;
+        var b = document.getElementsByTagName('script')[0]; b.parentNode.insertBefore(s, b);
+    })('//updatemybrowser.org/umb.js');
 </script>
 
-</body></html>
+
+
+
+
+</div></form></body></html>
