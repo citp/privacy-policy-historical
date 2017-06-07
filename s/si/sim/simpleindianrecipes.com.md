@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleindianrecipes.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119101518id_/http%3A//simpleindianrecipes.com/More/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleindianrecipes.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607023845id_/http%3A//simpleindianrecipes.com/More/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Simple Indian Recipes
 
@@ -39,7 +39,7 @@ The ads served will be targeted based on your previous browsing history (For exa
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 Security of your Personal Information
 
@@ -47,16 +47,16 @@ Simple Indian Recipes secures your personal information from unauthorized access
 
 **DoubleClick DART Cookie**
 
-  * Google, as a third party vendor, uses cookies to serve ads on simpleindianrecipes.com. 
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to simpleindianrecipes.com and other sites on the Internet. 
+  * Google, as a third party vendor, uses cookies to serve ads on simpleindianrecipes.com.
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to simpleindianrecipes.com and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html.](http://www.google.com/privacy_ads.html)
 
 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
 
   * [Google Adsense ](http://google.com/adsense)
-  * [Media.net](http://www.media.net/)
+  * Media.net
 
 
 
@@ -66,4 +66,4 @@ Simple Indian Recipes will occasionally update this Statement of Privacy to refl
 
 **Contact Information**
 
-Simple Indian Recipes welcomes your comments regarding this Statement of Privacy. If you believe that Simple Indian Recipes has not adhered to this Statement, please contact Simple Indian Recipes at [recipes@simpleindianrecipes.com](mailto:recipes@simpleindianrecipes.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Simple Indian Recipes welcomes your comments regarding this Statement of Privacy. If you believe that Simple Indian Recipes has not adhered to this Statement, please contact Simple Indian Recipes at "recipes (at) simpleindianrecipes.com". We will use commercially reasonable efforts to promptly determine and remedy the problem.
