@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-story.org privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806055200id_/http%3A//www.mybiosource.com/page.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-story.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607130138id_/https%3A//www.mybiosource.com/page.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyBioSource
 
@@ -11,7 +11,7 @@ MyBioSource is committed to protect your privacy and ensure that you have a posi
 •  We will safeguard any information our users share with us.  
 •  All user profiles are stored and used only for our own internal and market research purposes.  
 •  We use cookies and website statistics to keep track of your interactions with mybiosource.com and offer you a more personalized experience.  
-•  We also use cookies to troubleshoot problems and enforce our [Terms and Conditions](http://www.mybiosource.com/page.php?name=terms_conditions) of use.  
+•  We also use cookies to troubleshoot problems and enforce our [Terms and Conditions](https://www.mybiosource.com/page.php?name=terms_conditions) of use.  
 •  We will use your provided information to offer you products and services related to this data, which we believe will be of value to you.  
 •  Your user personal information is password protected. As a security cautious user, you should also take appropriate measures to protect the secrecy of your password.  
 •  You have the option to op-out at any time for any services we offer such as our newsletter and e-newsletter.  
