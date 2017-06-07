@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011150150id_/http%3A//fanexpocanada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607094425id_/http%3A//fanexpocanada.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fan Expo Canada
+# Privacy Policy | FAN EXPO CANADA
 
 This Privacy Policy governs the manner in which Informa Canada collects, uses, maintains and discloses information collected from users (each, a "User") of the [informacanada.com](http://www.informacanada.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Informa Canada. It is designed to give Users information which will allow them to make an informed choice about using the Site.
 
