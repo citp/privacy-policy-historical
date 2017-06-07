@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchmen.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227072243id_/http%3A//www.watchmen.org/en/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmen.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607224551id_/http%3A//www.watchmen.org/en/privacy-policies) for the most accurate reproduction.*
 
 # Watchmen for the Nations | Privacy Policy
 
