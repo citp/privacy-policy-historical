@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piktochart.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111042913id_/http%3A//www.piktochart.com/piktocharts-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piktochart.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607075900id_/http%3A//www.piktochart.com/piktocharts-privacy-policy) for the most accurate reproduction.*
 
 # Piktochart's Privacy Policy - Piktochart Infographics
 
@@ -15,7 +15,7 @@ The Personal Identifiable Information that we collect are as following:
   * Email address
   * Credit card number (for paid users)
   * Company Information
-  * Role 
+  * Role
 
 
 
@@ -59,7 +59,7 @@ User activity on Piktochart is tracked using cookies – small pieces of data st
 
 ##### How information is transmitted and stored
 
-All user information is transmitted via Secure Socket Layer (SSL) technology and encrypted and stored in off-site secured servers. Piktochart uses Amazon Web Services which is a reputable and secure server host with a known uptime of 99%. At Piktochart, we follow best practices to retain and delete data on our servers. Piktochart’s database is only accessed by those authorized with special access and are required to keep the information confidential. No one else has access to this data – they are given only when requested by users for troubleshooting.
+All user information is transmitted in encrypted form via Secure Socket Layer (SSL) technology and stored in off-site secured servers. Piktochart uses Amazon Web Services which is a reputable and secure server host with a known uptime of 99%. At Piktochart, we follow best practices to retain and delete data on our servers. Piktochart’s database is only accessed by those authorized with special access and are required to keep the information confidential. No one else has access to this data – they are given only when requested by users for troubleshooting.
 
 ##### Piktochart and Children Under 13
 
@@ -72,10 +72,6 @@ In efforts to comply with the Children’s Online Privacy Protection Act (COPPA)
 If you have any questions regarding the safety and privacy of your information stored on Piktochart, please get in touch with us. Below are a number of avenues in which you can do so.
 
 Email: support@piktochart.com
-
-Skype ID: delight.piktochart
-
-Call: 1+302-703-7458
 
 ##### Terms of Use
 
