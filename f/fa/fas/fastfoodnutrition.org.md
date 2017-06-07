@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fastfoodnutrition.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125185628id_/http%3A//fastfoodnutrition.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastfoodnutrition.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607171501id_/http%3A//fastfoodnutrition.org/privacy) for the most accurate reproduction.*
 
 # 
 
-This Privacy Policy governs the manner in which FastFoodNutrition.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.fastfoodnutrition.org](http://www.fastfoodnutrition.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by FastFoodNutrition.org.
+This Privacy Policy governs the manner in which FastFoodNutrition.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [fastfoodnutrition.org](https://fastfoodnutrition.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by FastFoodNutrition.org.
 
 **Personal identification information**
 
@@ -47,6 +47,8 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
+
 **Google Adsense**
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
@@ -66,7 +68,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[FastFoodNutrition.org](http://www.fastfoodnutrition.org/)  
+[FastFoodNutrition.org](https://fastfoodnutrition.org/)  
 pr@fastfoodnutrition.org
 
-This document was last updated on April 15, 2013
+This document was last updated on February 25th, 2017.
