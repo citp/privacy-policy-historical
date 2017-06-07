@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229010559id_/https%3A//www.whattoexpect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607065537id_/http%3A//www.whattoexpect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | What to Expect
 
@@ -6,11 +6,11 @@
 
 This Policy was last changed on February 4, 2016.
 
-WhatToExpect.com (the “Site”) is operated by Everyday Health Media, LLC ("Everyday Health," “us” or “we”) on behalf of What to Expect, LLC. Everyday Health also provides services related to or offered on the Site (hereinafter, the "Services"), which may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Site or provided through the Site.
+WhatToExpect.com (the "Site") is operated by Everyday Health Media, LLC ("Everyday Health," "us" or "we") on behalf of What to Expect, LLC. Everyday Health also provides services related to or offered on the Site (hereinafter, the "Services"), which may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Site or provided through the Site.
 
 We provide you this privacy policy (the "Policy") to help you understand the kinds of information we may gather about you when you visit the Site or use any of our Services, how we may use and disclose the information, and how you can control, correct and/or update the information.
 
-To be clear about the terminology we are using, when we use the phrase "Personal Information" in this Policy, we mean information that  specifically identifies you as an individual, like a person’s full name, address, e-mail address, or phone number. When we use the phrase "Anonymous Information" in this Policy, we mean information that does not specifically identify an individual person, such as a user’s areas of interest, browsing history, demographic information, or a unique identifier (such as a cookie or IP address).
+To be clear about the terminology we are using, when we use the phrase "Personal Information" in this Policy, we mean information that specifically identifies you as an individual, like a person's full name, address, e-mail address, or phone number. When we use the phrase "Anonymous Information" in this Policy, we mean information that does not specifically identify an individual person, such as a user's areas of interest, browsing history, demographic information, or a unique identifier (such as a cookie or IP address).
 
 By visiting this Site or using the Services, you are accepting the policies and practices described in this Policy. Each time you visit the Site or use the Services, you agree and expressly consent to our collection, use and disclosure of the information that you provide as described in this Policy.
 
@@ -39,7 +39,8 @@ In addition to this general Policy, each Service may have additional privacy pro
 
 We collect information about you in the following ways:
 
- **A. Information you voluntarily provide us**   
+ **A. Information you voluntarily provide us**
+
 We collect and maintain information that you voluntarily submit to us during your use of the Site and Services. For example:
 
   * when you register for a Site, you may provide us certain information including your name, email address, screen name, password, demographic information and the health topics that interest you;
@@ -53,22 +54,26 @@ We collect and maintain information that you voluntarily submit to us during you
 
 You can choose not to provide us with certain information, but this may stop you from gaining access to a Service or limit the features that you can use. For more information, please see the How We Use Your Information section below.
 
- **B. Information we collect through your use of the Site.**   
+ **B. Information we collect through your use of the Site.**
+
 As you use the Site and Services, certain information may also be passively collected. Through cookies, pixels, beacons, log files, your device information and other technologies, we may collect information about how you use the Site and the Services. For example we may determine through an IP address that a particular computer or device is located in New York City and we may use this information to deliver advertisements promoting New York City-based businesses. This information allows us to deliver more helpful information, programs, tools and advertisements. Please see the Cookies and Targeted Advertising sections below for more information.
 
- **C. Information we receive from third parties.**   
+ **C. Information we receive from third parties.**
+
 We may also combine online and/or offline information received from third parties with the information we have already collected from you via our Site and Services. The third party information is used for a variety of purposes including to verify other information about you (e.g., verify your mailing address to send you requested products or services), to conduct research and to enhance the content and advertising we provide to you.
 
  **2\. How We Use Your Information**
 
 We will use your Personal Information in the ways described below or described at the time that the information is collected.
 
- **A. Advertising.**   
+ **A. Advertising.**
+
 We believe that advertising is more interesting to you when it is relevant. Accordingly, we customize the advertisements that you see based upon: (i) the information that you provide us (e.g., age, gender, stated health interests and other information in your profile); (ii) geographic location information, which we may determine through your IP address, from your mobile device, or other ways; (iii) data we receive from third parties or; (iv) your visits on the Site or use of Services (commonly referred to as "Behavioral Advertising"). Please see the Cookies and Targeted Advertising section below for more information on the use of cookies and the information collected for Behavioral Advertising. We may use your personal information to deliver customized advertising to you on this Site, on other websites and other digital and offline media channels.
 
-You can limit the way that we tailor advertising based on your self-reported interests and other information in your profile by clicking on the "Profile" or "My Account" section of this Site and deleting or modifying the information. Please see the section below on Updating and Control of Your Personal Information for more information. In addition, you can delete the cookies that we have placed on your browser.  You can also prohibit the serving of interest-based advertisements in the WhattoExpect app by enabling "Limit Ad Tracking" (iOS only), or "Opt out of interest-based ads" (Android only) in your mobile device settings. Please see the section below on Cookies, Web Beacons and IP Address Information for more information.
+You can limit the way that we tailor advertising based on your self-reported interests and other information in your profile by clicking on the "Profile" or "My Account" section of this Site and deleting or modifying the information. Please see the section below on Updating and Control of Your Personal Information for more information. In addition, you can delete the cookies that we have placed on your browser. You can also prohibit the serving of interest-based advertisements in the WhattoExpect app by enabling "Limit Ad Tracking" (iOS only), or "Opt out of interest-based ads" (Android only) in your mobile device settings. Please see the section below on Cookies, Web Beacons and IP Address Information for more information.
 
- **B. To Provide the Site and Services.**   
+ **B. To Provide the Site and Services.**
+
 In general, we use your Personal Information as necessary or appropriate for purposes including to:
 
   * administer your account;
@@ -94,35 +99,42 @@ In general, we use your Personal Information as necessary or appropriate for pur
 
 
 
- **B. Targeted Advertising**   
+ **B. Targeted Advertising**
+
 Companies Everyday Health works with may use cookies for purposes including understanding Web usage patterns of users who see advertisements on the Sites, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Sites, we may use cookies from a vendor to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Sites with information about pages you visit on other websites and media channels and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of this Site or another website or media channel if the website or media channel also has a relationship with us or our vendor.
 
-You can choose to limit Behavioral Advertising on the Sites by clicking [**here**](http://www.aboutads.info/choices) and opting-out of cookies placed by those vendors listed. After you opt-out, you will still see advertisements but the advertising may not be as relevant to your interests. If you change your computer, change your browser, or delete your cookies, you will need to renew your opt-out. Our Sites currently are not setup to process or respond to “Do Not Track” signals from web browsers or similar mechanisms. We do adhere to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click [**here**](http://www.aboutads.info/consumers)).
+You can choose to limit Behavioral Advertising on the Sites by clicking [**here**](http://www.aboutads.info/choices) and opting-out of cookies placed by those vendors listed. After you opt-out, you will still see advertisements but the advertising may not be as relevant to your interests. If you change your computer, change your browser, or delete your cookies, you will need to renew your opt-out. Our Sites currently are not setup to process or respond to "Do Not Track" signals from web browsers or similar mechanisms. We do adhere to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click [**here**](http://www.aboutads.info/consumers)).
 
-We may also use Facebook to deliver ads on the WhattoExpect site and mobile app. Facebook may use information you share on Facebook and information gathered from your use of other websites and apps to delivery ads to you. To learn more about this type of advertising and your choices about it, visit <https://www.facebook.com/about/ads>.  Facebook will not serve ads to people that have advertising opt-outs enabled on their iOS and Android devices. To prohibit the serving of interest-based advertisements, users can enable "Limit Ad Tracking" (iOS only), or "Opt out of interest-based ads" (Android only) in their device settings.
+We may also use Facebook to deliver ads on the WhattoExpect site and mobile app. Facebook may use information you share on Facebook and information gathered from your use of other websites and apps to deliver ads to you. To learn more about this type of advertising and your choices about it, visit <https://www.facebook.com/about/ads>. Facebook will not serve ads to people that have advertising opt-outs enabled on their iOS and Android devices. To prohibit the serving of interest-based advertisements, users can enable "Limit Ad Tracking" (iOS only), or "Opt out of interest-based ads" (Android only) in their device settings.
 
- **C. Information Collected by Third Party Advertisers**   
+ **C. Information Collected by Third Party Advertisers**
+
 Advertisers or other third parties on the Site may also engage in Behavioral Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and/or the Digital Advertising Alliance (DAA) and abide by NAI and/or DAA principles. If you wish to opt out of participating in advertising programs conducted by NAI and DAA members or learn more about the NAI and DAA, please go to the [**NAI Opt-Out**](http://www.networkadvertising.org/managing/opt_out.asp) website and [**DAA Choice Page**](http://www.aboutads.info/choices) and follow the instructions. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out.
 
  **4\. How We Disclose Information to Third Parties**
 
 We may share your Personal Information with third parties as specifically approved by you or under the circumstances described below. If you do not want us to use or disclose Personal Information collected about you in the ways identified in this Policy, you should not use the Site or Services.
 
- **A. Disclosure for legal reasons.**  
+ **A. Disclosure for legal reasons.**
+
 We may disclose and release your Personal Information to third parties: (a) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (b) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or in any cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, illegal conduct or a violation or alleged violation of this Policy or other agreement we may have with you.
 
- **B. Agents and Contractors.**   
+ **B. Agents and Contractors.**
+
 We may provide your Personal Information to service providers who work on our behalf or help us to operate our business, the Site and the Services. Examples of such service providers include vendors and suppliers that provide us with technology, research, and/or marketing assistance; provide services and/or content for sending email and providing customer service; analyze data, serve advertisements on our Sites and Services and on third-party channels; and process payments (including credit card payments). Access to your Personal Information by these service providers is limited to the information reasonably necessary to perform its limited function.
 
- **C. Aggregated, Anonymous Information.**   
+ **C. Aggregated, Anonymous Information.**
+
 We may share Anonymous Information about you with third parties for any purpose. Personal information that has been aggregated with the Personal Information of other users shall be treated as Anonymous Information.
 
- **D. Contests, sweepstakes and polls.**   
-Some or all of the information collected during promotions, contests, polls, or sweepstakes (“Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfillment needs or a co-sponsor who may use your Personal Information to administer the Promotion or for their marketing purposes, but only in conformance with their privacy policy as made available to you at the time of collection. Everyday Health is not responsible for their privacy policy or practices.
+ **D. Contests, sweepstakes and polls.**
+
+Some or all of the information collected during promotions, contests, polls, or sweepstakes ("Promotions") may be disclosed publicly. It may also be shared with other third parties as disclosed at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfillment needs or a co-sponsor who may use your Personal Information to administer the Promotion or for their marketing purposes, but only in conformance with their privacy policy as made available to you at the time of collection. Everyday Health is not responsible for their privacy policy or practices.
 
 When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional information about the specific privacy practices associated with the Promotion.
 
- **E. Long-Term-License Services.**   
+ **E. Long-Term-License Services.**
+
 Everyday Health may share some or all of your Personal Information with What to Expect, LLC. The privacy practices of What to Expect, LLC may differ from this Policy and we encourage you to contact What to Expect, LLC directly if you have questions regarding their use of your Personal Information.
 
  **F. Sponsors, Advertisers, Merchants and other ways that you approve at the time of collection.**
@@ -137,9 +149,10 @@ We may use your Personal Information to match it with other public and private d
 
  **H. Social Media Integration**
 
-We may provide you with the ability to interact with your existing social media accounts, such as Facebook or Twitter.  These features may enable integration and/or access to your social media accounts.  We do not control those social media services, your profiles on those services, your privacy settings on those services or establish rules about how your information on those services will be used.  You and the social media service providers are in control of those issues, not Everyday Health.  You are encouraged to read all policies and information on the applicable social media services to learn more about how they handle your information before using any such features made available to you through our Site.  We are not responsible for any acts or omissions by any social media service provider or your use of features on their platforms.
+We may provide you with the ability to interact with your existing social media accounts, such as Facebook or Twitter. These features may enable integration and/or access to your social media accounts. We do not control those social media services, your profiles on those services, your privacy settings on those services or establish rules about how your information on those services will be used. You and the social media service providers are in control of those issues, not Everyday Health. You are encouraged to read all policies and information on the applicable social media services to learn more about how they handle your information before using any such features made available to you through our Site. We are not responsible for any acts or omissions by any social media service provider or your use of features on their platforms.
 
- **I.** **Within our Company; Changes to our Company.**   
+ **I.** **Within our Company; Changes to our Company.**
+
 We may share your Personal Information with any of our subsidiaries, joint ventures, or other companies under common control. Additionally, in the event we go through a business transition such as a merger, acquisition by another company, sale of all or a portion of our assets or as part of a bankruptcy proceeding, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy.
 
  **5\. Message Boards and Chats**
@@ -160,7 +173,7 @@ Keep in mind, however, that even if you delete information from your profile, we
 
  **8\. California Minors**
 
-In the event that a minor under the age of 18 in California uses the Sites, the minor may request that Everyday Health remove content or information posted by the minor on the Site by sending an email to support@everydayhealth.com.  However, such removal may not remove all traces of such posting everywhere online, since content or information may have been shared by others.  Be aware that Everyday Health may not have to comply with this removal requirement if: (i) federal or state law requires that we maintain the content or information; (ii) the content was stored or posted (or reposted) by a third party other than the minor contacting Everyday Health; (iii) we anonymize the content or information so that the minor cannot be identified; (iv) the minor received compensation or other consideration for providing the content; or (v) the minor does not follow the instructions in this section.
+In the event that a minor under the age of 18 in California uses the Sites, the minor may request that Everyday Health remove content or information posted by the minor on the Site by sending an email to support@everydayhealth.com. However, such removal may not remove all traces of such posting everywhere online, since content or information may have been shared by others. Be aware that Everyday Health may not have to comply with this removal requirement if: (i) federal or state law requires that we maintain the content or information; (ii) the content was stored or posted (or reposted) by a third party other than the minor contacting Everyday Health; (iii) we anonymize the content or information so that the minor cannot be identified; (iv) the minor received compensation or other consideration for providing the content; or (v) the minor does not follow the instructions in this section.
 
  **9\. Co-branded Sections of the Site**
 
@@ -176,12 +189,18 @@ We place a priority on the security of Personal Information, and we undertake re
 
  **12\. How To Contact Us**
 
-If you have any questions regarding privacy or this Policy, you may contact us as follows:   
-**Telephone:** 888-795-4719  
-**Email:** privacy@everydayhealth.com   
-**Address:**  
-Everyday Health Media, LLC   
-345 Hudson Street, 16th Floor   
+If you have any questions regarding privacy or this Policy, you may contact us as follows:
+
+ **Telephone:** 888-795-4719
+
+ **Email:** privacy@everydayhealth.com
+
+ **Address:**
+
+Everyday Health Media, LLC
+
+345 Hudson Street, 16th Floor
+
 New York, NY 10014
 
  **13\. Privacy Policy Changes**
