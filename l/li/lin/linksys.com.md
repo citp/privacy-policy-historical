@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217083923id_/http%3A//www.linksys.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607171612id_/http%3A//www.linksys.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Linksys Privacy Policy
 
