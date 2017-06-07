@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxoptimax.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201165529id_/https%3A//www.fxoptimax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxoptimax.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607192948id_/https%3A//www.fxoptimax.com/privacy-policy) for the most accurate reproduction.*
 
 # FXOptimax Privacy Policy - FXOptimax
 
