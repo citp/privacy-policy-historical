@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adioso.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121093754id_/http%3A//adioso.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adioso.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607081102id_/http%3A//adioso.com/privacy) for the most accurate reproduction.*
 
 # Adioso - The best flights to anywhere
 
