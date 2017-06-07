@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714094407id_/http%3A//www.ipost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607101839id_/http%3A//www.ipost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy - Direct Email Marketing Services | Email Marketing Solution | iPost
 
 The personal privacy of Internet users is extremely important to iPost and we recognize and support the protection of clients’ and consumers’ privacy rights as a fundamental principle of our business.
 
@@ -76,7 +76,7 @@ Attn: iPost Optout
 Suite 405  
 San Mateo, CA 94402-3108
   3. Contact Us:  
-650-653-8055
+415-382-4000
 
 
 
