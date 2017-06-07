@@ -1,85 +1,98 @@
-> *The following text is extracted and transformed from the bluechipvacations.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213054502id_/http%3A//www.bluechipholidays.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluechipvacations.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607141708id_/http%3A//www.bluechipholidays.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Blue Chip Holidays
+# Privacy Policy - Blue Chip Holidays
 
-##  How your personal information is used by Blue Chip Holidays
+By using this website, you signify your agreement to Wyndham Vacation Rentals (UK) Ltd's (WVR's) privacy notice. If you do not accept this privacy notice, please do not use this website. Your continued use of WVR's websites following the posting of changes to this privacy notice will mean that you accept those changes. 
 
-When you place an order with Blue Chip Holidays, we need to collect certain information to be able to process your order.  The information is sent to us via an SSL encrypted server. This information will form part of a permanent record of your dealings with Blue Chip Holidays.
+## 1\. Who is responsible for managing my information?
 
-When you email us, we may ask for certain information to be able to check this record and answer your questions quickly and accurately. When you contact us, in any way, we may make a note of this contact if it is relevant to your permanent record. This allows us to provide a higher level of ongoing customer care.
+bluechipholidays.co.uk and all websites and brochures operated and/or produced in relation to it are owned and maintained by Wyndham Vacation Rentals (UK) Ltd ("we" or "us"), a group company of Wyndham Worldwide Corporation ("Wyndham Group"). This is our Privacy Notice. We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the information you provide consistently with applicable privacy and data protection laws and the terms of this Privacy Notice.
 
-You agree that we may use and update this centrally held information:
+## 2\. What information do we collect?
 
-•  to provide you with other services ;  
-•  to identify other products and services which might be suitable for you;  
-•  to recover debts;  
-•  to prevent and detect fraud;  
-•  to update our records about you;  
-•  to prevent money laundering; and  
-•  to check your identity. 
+If you choose to make a booking through us we will collect details that you provide in relation to that booking. Information held is likely to include your name, date of birth, contact details, payment details, information about people travelling with you, information about your booking and any additional information we may need to help meet your specific travel requirements. If you choose to let your holiday accommodation with us we will collect details such as your name, contact details, bank account details and details regarding the accommodation you wish to let. We also collect website usage information. We do this using “cookies”. For further information about cookies and how we use them please see our [Cookies Policy](http://cws-uat.bluechipholidays.co.uk/use-of-cookies).
 
-We may also use your information for research and statistical analysis with the aim of improving our services.
+## 3\. How do we use your information?
 
-The information we hold about you is confidential. We will only disclose it outside Blue Chip Holidays when:
+The information you provide may be used in a number of ways, for example:
 
-•  you give us your consent,  
-•  in order to obtain professional advice,  
-•  we or others need to investigate or prevent crime (e.g. to fraud prevention agencies),  
-•  the law permits or requires it, or any regulatory or governmental body requests or requires it, even without your consent, or,  
-•  there is a duty to the public to reveal the information.
+  * to enable us to complete your booking (if you are booking a holiday);
+  * to enable us to advertise your holiday accommodation, transfer payments due to you and to provide related support services (if you are letting your holiday accommodation through us);
+  * for statistical purposes when we evaluate our range of services;
+  * to personalise repeat visits to our websites;
+  * to tell you about other products and services we think may be of interest to you (see section 6 below);
+  * to manage customer service queries; and
+  * to help us to provide details or information you may have requested.
 
-##  Use of cookies
 
-This website uses cookies. Cookies collect information about your use of the website, including things like your connection speed, details of your operating system, the time and duration of your visit and your IP address. The information collected by cookies enables us to understand the use of our site, including the number of visitors we have, the pages viewed per session, time exposed to particular pages etc.
 
-This in turn helps us to provide you with a better experience, since we can evaluate the level of interest in the content of our website and tailor it accordingly. We will not attempt to personally identify you from your IP address unless required to as a matter of law or regulation or in order to protect our or our other customers' rights. Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you refuse cookies.
+## 4\. Who will you share my information with?
 
-##  Protecting your privacy
+In order to provide you with the products and services that we offer we may share your information with:
 
-To the extent that sensitive personal data is processed about you, we will employ appropriate security measures given the nature of that data. However, you recognise that your use of the Internet and our website is entirely at your own risk. We have tried to create a secure and reliable website for our users. However, we have no responsibility or liability for the security of personal information transmitted via the Internet.
+  * other members of the Wyndham Group and their service providers (see also section 5);
+  * owners of holiday cottages, holiday parks and boatyards (if you are making a holiday accommodation booking );
+  * individuals who may be renting accommodation from you (if you are a holiday accommodation owner);
+  * credit/debit card companies;
+  * our preferred insurance provider(s) (if you purchase the personal travel insurance policy we offer); and
+  * other third parties who we may need to work with to fulfil travel plans on your behalf, for example, resorts, holiday parks, management companies, owner's associations, airlines, ferry companies, cruise companies and other suppliers.
+  * our third party review administrator(s) who may contact you to ask for your comments on the accommodation and/or services that have been provided.
 
-We may need to provide some of your personal information to third parties that we use for the purposes of delivering specific services to you (e.g. customer support, or a shipping company if you have asked us to send something to you).   
-Our website may provide links and banner advertisements to third party sites. Please note that we are not responsible for, and have no control over, information that is submitted to or collected by these third parties. Since we do not control those websites, you are responsible for reviewing and abiding by the privacy policies of these third party sites.
 
-###  **What choices do I have?**
 
-You do not have to provide us with any of the personal information requested.  
-If at any stage you change your preferences and decide you would rather not receive news, information and offers about our properties and services please use the unsubscribe link at the bottom of our newsletters. Alternatively, email us at [customerservices@bluechipholidays.co.uk](mailto:customerservices@bluechipholidays.co.uk) or write to us at Customer Services, Blue Chip Holidays, 1 Cranmere Court, Lustleigh Close, Exeter, Devon, EX2 8PW
+If you agree, we may also pass on your information for the purposes of conducting a credit check. We may also pass on your information to our group of companies and selected third parties so that they may offer you their products and services.
 
-##  Accurate Information
+## 5\. How do you manage my information?
 
-We may check what you have told us and share that information with fraud prevention agencies. It is important that you give us accurate information. If you give us false or inaccurate data and we suspect fraud we will record this at the fraud prevention agencies.
+We may from time to time appoint other members of the Wyndham Group, or third party service providers, to help us manage efficient systems within the business. Some of these systems may for operational reasons be located in countries overseas. We will only transfer your information to service providers who help manage our systems, or overseas, where we are satisfied that adequate levels of protection are in place to protect the integrity and security of any information being processed and compliance with applicable privacy laws.
 
-You are responsible for informing us that your personal details have changed: for example, a change of address or to your title. You confirm that you will inform us of any change to your personal information as soon as is reasonably practicable in order that we may update our records. Please note that notification of any change to your personal information must be in writing (to the address below), and should include your account and/or telephone numbers with us.
+## 6\. When can we contact you in the future?
 
-If you feel your privacy has been breached by us, then please write to:
+We would like to send you information about our own products and services, as well as those of selected third parties. We may do this by post, telephone, email or SMS, unless you have told us that you do not wish to be contacted in this way. We will always ask you to confirm in advance that you are happy for us to allow third parties to contact you by email. If you would like to change any of your preferences relating to the way in which we may use your information for direct marketing, then please update your user preferences or send an email to [marketing@bluechipholidays.co.uk](mailto:marketing@bluechipholidays.co.uk) or contact us at Blue Chip Holidays, 1 Cranmere Court, Lustleigh Close, Exeter, Devon, EX2 8PW, United Kingdom. Alternatively you can call on 0370 218 4966.
 
-Blue Chip Holidays
+## 7\. How long will we hold your information for?
 
-1 Cranmere Court
+We have a system of retention periods in place to ensure that your information is only stored whilst it is required for the relevant purposes or to meet legal requirements. Where your information is no longer required, we will ensure it is disposed of in a secure manner.
 
-Lustleigh Close
+## 8\. How can you access and update your information
 
-Exeter
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email or write to us at the address below. Please note that we may charge a small administrative fee for the provision of this information.
 
-Devon
+Blue Chip Holidays  
+1 Cranmere Court  
+Lustleigh Close  
+Exeter  
+Devon  
+EX2 8PW   
+United Kingdom.
 
-EX2 8PW
+We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
 
-or call customer services on 0333 920 6565.
+## 9\. Does the notice apply to linked websites?
 
-##  Contacting you
+Our websites may contain links to other websites. This privacy notice only applies to this website so when you link to other websites you should read their own privacy policies.
 
-During your time on this site you will have the opportunity to consent to us contacting you by e-mail, phone, SMS or MMS from time to time occasionally about products and services.  This will allow us to keep you up to date, and ensure you have all the information at your disposal to get the most out of your holiday.
+## 10\. When do you monitor telephone calls?
 
-##  Changes to our privacy policy
+We may from time to time record telephone calls you have with members or our staff for training purposes and to improve the quality of our service.
 
-Please note that this policy will be reviewed, and may change, from time to time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it.
+## 11\. How do we update this privacy notice?
 
-##  Your consent
+We keep our privacy notice under regular review and we will place any updates on our webpage. This privacy notice was last updated in January 2017.
 
-By using this website you are consenting to this privacy policy . We may in the future change this policy, and if we do so we will post the amended policy on this website.
+## 12\. Who can I contact if I have queries about this privacy notice?
 
-##  Decision making
+Please contact us if you have any questions about our privacy notice or information we hold about you.
 
-Any decision made by us in relation to the services provided to you shall be final.
+By email: [marketing@bluechipholidays.co.uk](mailto:marketing@bluechipholidays.co.uk)
+
+Or write to us at :  
+Blue Chip Holidays  
+1 Cranmere Court  
+Lustleigh Close  
+Exeter  
+Devon  
+EX2 8PW   
+United Kingdom.
+
+Or call us on: 0370 218 4966
