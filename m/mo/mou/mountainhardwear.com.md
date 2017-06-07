@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121135247id_/http%3A//www.mountainhardwear.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607162812id_/http%3A//www.mountainhardwear.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Mountain Hardwear Privacy Policy
 
-This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by Mountain Hardwear, Inc., its parent, subsidiaries or affiliated companies (“Mountain Hardwear” or “We”). Unless we otherwise indicate, this Policy applies to all personal information collected by Mountain Hardwear from any source, including information collected through our online services and activities, including this Website (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy.
+Last Updated: May 3, 2017
+
+This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by Mountain Hardwear, Inc. and its parent company Columbia Sportswear Company, and subsidiaries or affiliated companies ("Mountain Hardwear" or "We"). Unless we otherwise indicate, this Policy applies to all personal information collected by Mountain Hardwear from any source, including information collected through our online services and activities, including this Website (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy.
 
 ### PERSONAL INFORMATION COLLECTED
 
@@ -67,14 +69,13 @@ You may opt out of receiving promotional emails from Mountain Hardwear by follow
 
   * Mountain Hardwear, Inc.  
 Attn: Ecommerce  
-1414 Harbour Way South  
-Ford Point, Suite 1005  
-Richmond, CA 94804
+14375 NW Science Park Dr.  
+Portland, OR 97229
 
 
+
+This website is operated by Columbia Sportswear Company, a company which is headquartered in the United States of America. To provide you with this website and the goods and services you order, your data may be transferred to Columbia Sportswear Company, its group companies, and it services providers, who may be located in countries (including the USA) other than your country of residence. These countries may have data protection laws that are different than the laws in your country of residence, but Columbia Sportswear Company will protect your personal information in accordance with this privacy policy at all times.
 
 ### CHANGES TO THIS POLICY
 
 Mountain Hardwear may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above.
-
-Mountain Hardwear complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Mountain Hardwear has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mountain Hardwear’s certification, please visit http://www.export.gov/safeharbor/
