@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookiedelivery.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023234051id_/http%3A//www.cookiedelivery.com/Footer-Nav/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookiedelivery.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607110251id_/https%3A//www.cookiedelivery.com/Footer-Nav/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Tiff's Treats
 
