@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openbux.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527201813id_/http%3A//www.openbucks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openbux.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607154222id_/http%3A//www.openbucks.com/privacy.html) for the most accurate reproduction.*
 
 # Openbucks® - Privacy Policy
 
@@ -68,7 +68,7 @@ We may change this Privacy Policy from time to time. If we make material changes
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
 Openbucks Corp.   
-1762 Technology Dr. Ste 115  
-San Jose, CA 95110  
+440 N. Wolfe Rd. #3036   
+Sunnyvale CA, 94085  
 (650) 492-6092  
 Email: [support@openbucks.com](mailto:support@openbucks.com)
