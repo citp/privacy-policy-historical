@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azamaraclubcruises.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225213821id_/https%3A//www.azamaraclubcruises.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azamaraclubcruises.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607092204id_/https%3A//www.azamaraclubcruises.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Azamara Club Cruises
 
