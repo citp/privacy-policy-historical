@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the danbrown.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223160936id_/http%3A//danbrown.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danbrown.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607201315id_/http%3A//danbrown.com/privacypolicy) for the most accurate reproduction.*
 
-# Dan Brown » Privacy Policy
+# Privacy Policy | Dan Brown
 
 **Privacy Policy: danbrown.com**  
 This Website is managed and maintained by:
