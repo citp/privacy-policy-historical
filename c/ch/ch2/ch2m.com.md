@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ch2m.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231170127id_/https%3A//www.ch2m.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ch2m.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607095803id_/https%3A//www.ch2m.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # CH2M Privacy Policy | CH2M
 
@@ -143,3 +143,5 @@ If your complaint remains unresolved following the independent recourse process,
 The scope of the arbitration will be limited to the issue of whether CH2M has violated its obligations under the Privacy Shield Principles in relation to your personal information, and whether any such violation remains fully or partially unremedied. The arbitration panel has the authority to impose individual-specific, non-monetary equitable relief (such as access, correction, deletion, or return of your data in question) necessary to remedy the violation of the Privacy Shield Principles only with respect to your claim. No damages, costs, fees, or other remedies are available. Each party bears its own attorney’s fees.
 
 CH2M is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+
+This Policy applies to CH2M HILL Companies, Ltd., and its subsidiaries CH2M HILL Constructors, Inc., CH2M HILL Engineers, Inc., CH2M HILL Global, Inc., CH2M HILL International, Ltd., and CH2M HILL, Inc.
