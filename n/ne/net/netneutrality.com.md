@@ -1,98 +1,129 @@
-> *The following text is extracted and transformed from the netneutrality.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231150633id_/https%3A//www.namecheap.com/legal/general/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netneutrality.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607023543id_/https%3A//www.battleforthenet.com/privacy) for the most accurate reproduction.*
 
-# Namecheap.com - Privacy Policy
+# Privacy Policy - Battle For The Net
 
-## Privacy Policy
+## **Privacy Policy**
 
-Effective Date: 09/07/2011
+[Fight for the Future](https://www.fightforthefuture.org/) is committed to protecting your privacy. If you sign onto one of our various mailing lists, petitions, or use our contact tools, we retain the information you provided to primarily manage our mailing lists, and secondarily to transmit only the information that is required to service providers and public officials when required to submit your communications with them. 
 
-Namecheap Inc. (“Namecheap.com”) respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for the site [www.namecheap.com.](http://www.namecheap.com/)
+We do not sell our email list. We do not share or distribute your contact information unless specifically stated so. 
 
-  * We do not give third parties access to your personal information other than as outlined in this privacy policy.
+For petitions, open letters, or similar public communications that you've signed or completed, we treat your name, city, state, and comments as public information. We will not make your street address publicly available, but we may transmit it to public officials as part of a petition or open letter. 
 
-  * We send email to you only if you have elected to receive it.
+We may have joint campaigns with cooperating organizations and in those cases will explicitly state that we are doing so. In those cases, if your information will be shared with another organization in order to facilitate email delivery, list management, and other stated purposes, we will explicitly make notice on any campaign or website that this organization owns before you submit any of your information. If you are submitting your information to one of these campaigns or websites, you are opting into the sharing of your information for the stated purposes and will be treated as so. We will only share information which you submit at the time of notice and will not share any person's information obtained from other past or future campaigns, knowingly or on purpose. 
 
-  * If we determine that any account with us is being used for the purpose of sending spam, we will take action to shut it down as soon as possible.
+We sometimes carry out our business or operate our website using third party tools. Information may be shared with the operators of those tools in connection with our use of those tools to operate our website. 
+
+**Date changed:** 10/14/2014 
+
+[Demand Progress/Demand Progress Action](https://demandprogress.org/) takes your privacy very seriously. We do not share your email address or other personal information with unauthorized entities without your permission. 
+
+We use the information we collect to inform you of news that relates to Demand Progress, and to deliver petition signatures, emails/letters, and similar communications to designated targets. 
+
+For petitions, emails/letters, or similar public communications that you’ve signed or completed, we treat your name, city, state, and comments as public information. We will not make your street or email address address publicly available, but we may transmit it to public officials/petition targets as part of a petition or open letter. (For instance, this information must be included to enable delivery of emails to members of Congress.) Demand Progress may also use cookies from third parties such as Google Adwords to served ads based on usage of this site. 
+
+DP (our 527 arm) and DPA (our 501(c)4 arm) have a resource sharing agreement that enables each to contact activists whose contact information was gathered by the other. DP/DPA also owns and administers the WatchDog.net site. And as of the summer of 2013, DP/DPA owns and administers Rootstrikers.org. DP/DPA may contact subscribers to the Watchdog.net and Rootstrikers.org sublists. You may unsubscribe from email alerts from any or all of DP/DPA, Rootstrikers.org, or Watchdog.net at any time. 
+
+If you enter your information as part of a clearly-labeled "joint action" with another organization, we may share your name, email, and other information you have entered with the partner organization(s) for that particular action. 
+
+If you have any questions about our privacy policy, don’t hesitate to contact us. 
+
+[Free Press and the Free Press Action Fund](http://freepress.net/) are committed to protecting the privacy of visitors to our website, as well as that of our members and activists. In fact, we support enhanced protections for everyone’s electronic and Internet privacy.  
+In this policy, “Free Press” refers to both Free Press and Free Press Action Fund staff, board members, cooperating attorneys, interns, volunteers and consultants. 
+
+In general, Free Press and our software partners treat your contact information as private and confidential. Free Press will not give, sell, rent, exchange or otherwise share your information with anyone else without your prior consent except as compelled by law (see below). 
+
+We will notify users of updates to this policy by noting the date of new changes directly below this statement.
+
+This policy was last amended on June 5, 2014. 
+
+Policy effective May 1, 2003. 
+
+**Website Policies**
+
+Free Press and third-party vendor servers may record the IP address of your computer; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked to our site. 
+
+We use this information to measure the number of visitors to different sections of the site, to diagnose and correct system errors and to improve the site. We do not connect this information to your name or identity, and we do not retain this information permanently. 
+
+Information that is not provided with the express intent of subscription, ordering, membership or donation will not be captured for use in other communications unless otherwise noted. We (and our vendors) restrict the use of “cookies” on this site primarily to convenience features such as auto login, surveys and polls. We typically delete these cookies as soon as is reasonably possible. We’re committed to respecting your desire to opt out of online-tracking schemes, and therefore **we include no third-party tracking buttons or beacons on our sites.**
+
+**External Links**
+
+Free Press has not reviewed all of the sites linked to this site and is not responsible for the privacy practices or the content of any off-site pages or any other sites linked to this site, whether or not they are affiliated with Free Press or the Free Press Action Fund. Such linked sites are for your convenience only and you access them at your own risk. Free Press makes no representations or warranties as to the accuracy or functioning of any such link. That another website is linked to our site does not constitute endorsement from Free Press or the Free Press Action Fund of the owner of the other site, the content of its site or its products or services. 
+
+**Electronic Mailing List Policies**
+
+Free Press offers several electronic mailing lists. If you choose to subscribe to any of these lists, we may ask for personal information such as your name, ZIP code and email address. We use this information solely to manage our lists (for example, we may use your ZIP code for a targeted mailing on an issue affecting your area). **We do not sell, rent or share any information from our electronic mailing lists.**
+
+There are a number of ways to subscribe to Free Press’ electronic mailing lists, including submitting a form on our website, opting in when you engage in online or offline activism, or mailing or completing a sign-up form from a paper petition, brochure or flier. When you subscribe, you will typically receive a confirmation message welcoming you. 
+
+You may unsubscribe from any of our lists at any time. If you wish to update your information, delete or otherwise make changes to your relationship with us, or remove yourself entirely from our list(s), [click here.](http://act2.freepress.net/unsubscribe/unsubscribe_freepress/)
+
+Lists Free Press maintains for electronic mailings are exclusively “opt-in” lists. We do not purchase information from third-party sources or gather personal data from the Web (known as spidering) for inclusion in our email lists. 
+
+**Online Activism**
+
+Our website offers many ways to engage in online activism. Many of these tools are hosted and administered by a third party (currently ActionKit). When you provide personal information by signing a petition or engaging in other actions, that personal information may be stored on our server(s) and/or ActionKit’s server(s). If you choose to join a mailing list or become a member at the same time that you participate in an online action, your relevant information will be kept and used for those other purposes.
+
+We may deliver petitions and surveys you’ve completed to the president, federal and state legislators, agencies like the Federal Communications Commission, other elected and appointed officials, or other entities such as companies whose policies we seek to change. We ask for your address so we can deliver your message to the appropriate legislative offices, and may include information such as your name, town or city and state in these deliveries. 
+
+ActionKit strictly adheres to policies preventing unauthorized access to your personal information and will not make such information available to anyone outside of Free Press or ActionKit (unless legally compelled to do so). 
+
+**Financial Support**
+
+Free Press and the Free Press Action Fund are committed to maintaining the trust and security of all financial supporters. We collect personal information including the email and mailing addresses that members and donors provide. We might use this information for online and print mailings to keep you informed about our programs and occasionally to ask for additional financial support. You may opt out of these communications at any time. 
+
+To opt out of email communication, [click here.](http://act2.freepress.net/unsubscribe/unsubscribe_freepress/)
+
+To opt out of print mailings, please call us at 413-585-1533 or [email Rachel Courtney](mailto:rcourtney@freepress.net). 
+
+On occasion, Free Press or the Free Press Action Fund sends messages on behalf of other reputable organizations when we believe such messages may be of value to our members and supporters. Our ability to send you these messages on behalf of other entities helps us build our membership base and further the movement for your rights to connect and communicate. If you do not wish to receive such messages from our allied or aligned organizations, please call us at 413-585-1533 or [email Rachel Courtney](mailto:rcourtney@freepress.net). Free Press is not responsible for the privacy practices or the content produced or provided by any of these other entities. 
+
+All financial data is collected via a secure Web connection, and is stored or transmitted using appropriate security measures at all times. 
+
+**Online and Phone Orders for Materials**
+
+Information provided to us in the course of placing an order for educational materials, activist toolkits, promotional materials or other materials offered by Free Press (whether or not the materials are offered at a cost) may be retained for use in future communications, such as membership drives, or when we unveil similar offerings we believe may be of interest to you. This information will not be given, sold, rented, shared or otherwise provided to anyone else without your prior consent (except when compelled by law — see below). 
+
+All financial data is collected via a secure Web connection, and is stored or transmitted using appropriate security measures at all times. 
+
+**Compelled Disclosure**
+
+If we are required by law to disclose any information that you have provided us, we will attempt to give you notice (unless we are prohibited from doing so) that a request for your information has been made, in order to give you an opportunity to object. We will attempt to provide this notice by email, if you have given us an email address, or by postal mail if you have entered a postal address. If you do not challenge the disclosure request, we may be legally required to turn over your information. In addition, we may independently object to any disclosures we believe to be improper. 
+
+**Questions?**
+
+If you would like additional information about our privacy practices and/or our policies, please contact info(AT)freepress.net. 
+
+**Copyright Policies**
+
+All original text, images and other materials hosted on freepress.net servers are copyright 2009–2014 Free Press, unless otherwise noted (e.g., news articles and licensed photos). 
+
+We encourage reproduction and distribution of original materials on this site for educational and personal use. All Free Press-created content on this site (unless otherwise noted) is available to you under a Creative Commons Attribution-NonCommercial-ShareAlike license. 
+
+In short, this license allows you to copy, distribute, display or make derivative works provided that you a) credit Free Press, b) do not use it for commercial purposes and c) release any derivative works under this same license. 
+
+**Copyright-Infringement Notification**
+
+If you have a copyright complaint, please follow the procedures set forth in the Digital Millennium Copyright Act. Our agent for notice is Kimberly Longey, chief operating officer. She may be reached by phone at 413.585.1533, by fax at 413.585.8904 or by email at copyright@freepress.net. Please direct your written correspondence to her at: 
+
+Free Press  
+40 Main St., Suite 301  
+Florence, MA 01062  
 
 
+We take your privacy seriously. We understand that your personal information is just that: yours. We will never give it to any entity or organization without your consent, and we sure as hell won’t sell it to turn a profit. 
 
+For petitions, open letters, or similar public communications that you’ve signed or completed, we treat your name, city, state, and comments as public information. We will not make your street address publicly available, but we may transmit this information to members of Congress, the President, or other public figures on your behalf. If you complete a phone call using our call tool, we will not make that publicly available, either. Your phone number may be shared with your member of Congress, the President, or other public figures during your call. 
 
-Because domain name registration information is available to the public, anyone can access it through "Whois" searches. At times, our customers may have been included within these searches. However, the spam they received does not in any way come from Namecheap. 
+By completing an action (like signing a petition or completing a phone call), you’re opting in to receive 18MR.org updates by email. If you would like to unsubscribe from our email list, you may do so at any time. (Take a look at the footer of any email you’ve received from us for your personalized link.) 
 
-We will never give any information about you to others without your express permission. Our site uses forms in which you give us contact information (such as your name, address, phone number, fax number, billing information and email address) so you can create an account, place orders, request information etc. We use your customer information only when it is important for us to contact you regarding functionality changes to our products, our website, new services and special offers we think you'll find valuable, and to provide customer service. If you would rather not receive this promotional information, please use the "Purpose and Newsletter" account functionality in “My Account -> Manage Profile” to change your preferences at any time. Additionally, you may follow the unsubscribe instructions contained in the newsletters you receive. 
+Your use of this site is consent to gather information about your visit. We track traffic and may also log information that helps us improve our website and tools. Most data will be collected in aggregate, such as through Google Analytics. 
 
-We use information gathered about you from our site statistics via log files provided by third-party tracking partners (for example, your IP address) to help diagnose problems with our server and to administer our website. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experiences more enjoyable. This is not linked to any personally identifiable information. 
+Our action platform, [Action Network](https://actionnetwork.org/), uses cookies to track your login to their system. You can read [their complete privacy policy here](https://actionnetwork.org/privacy).
 
-Our site uses cookies to keep track of your session information. We do link the information we store in cookies to personally identifiable information you submit while on our site. 
+You can block the use of these and other trackers using [the EFF’s Privacy Badger plugin](https://www.eff.org/privacybadger). We won’t be mad. (But you might need to disable it occasionally to fully load features on our site.)
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your internet browser’s “help” file. 
+If you have any questions about this privacy policy or our treatment of your personal data, [please drop us a line](mailto:info@18millionrising.org).
 
-We also use cookies to store your username if you request to have your username remembered during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies. 
-
-The use of cookies by our partners, affiliates, tracking utility company and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our tracking utility company uses session ID cookies to help us improve our site and make your browsing and purchasing experiences more enjoyable. 
-
-Our third-party tracking utility company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with unique identifiers, similar in function to cookies; they are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. Our tracking utility company does not tie the information gathered by clear gifs to our customers’ personally identifiable information.
-
-Our site also contains links to other third-party websites. Namecheap ([www.namecheap.com](http://www.namecheap.com/)) is not responsible for the privacy practices or the content of such websites. We encourage you to carefully read the privacy statement of any website you visit.
-
-Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128-bit SSL security to encrypt any transmissions when you provide credit card information, personal data, etc. No method of electronic storage or transmission over the internet is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at support@namecheap.com. 
-
-  1. ## Sending Emails
-
-We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links at the bottom of most pages and on our "Contact" page to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve our site and our products, or it may be reviewed and discarded. However, your information will be shared with third parties only with your explicit permission. 
-
-  2. ## Only If We Have To
-
-As stated previously in this policy, we will never give out your information without your permission or in ways other than as outlined in this policy. The only exceptions to this are when we are required by law, in the good faith belief that such action is necessary in order to conform to the edicts of the law, or when we must comply with a legal process served on our website.
-
-If Namecheap.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-
-  3. ## Changes In Our Practices
-
-If we change our information-handling practices or other privacy aspects, we will post those changes on this privacy statement, at least 7 days prior to their implementation. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective. Please review our privacy policies from time to time to know about the changes. We may also try to notify you through email of the privacy changes if necessary.
-
-  4. ## Service Providers
-
-We use a credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes. If you would like to know more about privacy policies of our credit card processing company, you may email us at [support@namecheap.com.](mailto:support@namecheap.com)
-
-  5. ## Contests
-
-From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to respond and disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-  6. ## Registrant Contact information
-
-When you are providing us with registrant contact information, we give you the opportunity to give us the personal information (such as the name, address, email address, phone and fax number) of other individuals (such as the billing or technical contact). If this information changes or you wish to update it, please see “Access to Personally Identifiable Information” below.
-
-Your registrant contacts may email us at support@namecheap.com to request that we remove this information from our database.
-
-  7. ## Access to Personally Identifiable Information
-
-If your personally identifiable information changes or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [support@namecheap.com](mailto:support@namecheap.com)
-
-  8. ## Personal Information Following Termination of Account
-
-When Your Namecheap account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status within our corresponding databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements.
-
-  9. ## Testimonials
-
-We post customer testimonials on our website which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you would like to request the removal of your testimonial from the site contact us at [support@namecheap.com.](mailto:support@namecheap.com)
-
-  10. ## Public Forums
-
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@namecheap.com.](mailto:support@namecheap.com) In some cases, we may not be able to remove your personal information. If this occurs, we will let you know if we are unable to do so and why.
-
-  11. ## Contacting the Website
-
-If you have questions or concerns regarding this statement, you can contact Namecheap at [support@namecheap.com.](mailto:support@namecheap.com) You may also contact us at:
-
-Namecheap.com  
-11400 W. Olympic Blvd.  
-Suite 200  
-Los Angeles, CA 90064  
-USA  
-[support@namecheap.com.](mailto:support@namecheap.com)
-
-
-
+## Back to [Battle for the Net](https://web.archive.org/)
