@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the brivium.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531072926id_/http%3A//brivium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brivium.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607061124id_/http%3A//brivium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brivium - Premium XenForo Addon / Style Club
-
-We take your privacy seriously. 
-
-Please read the following to learn more about our privacy policy.
 
 In today's world of shared information, Brivium take great care in protecting your personal information when you are using our website ([www.brivium.com](http://www.brivium.com/)) and any products or services provided on the website.
 
@@ -63,5 +59,3 @@ To change your information, or request that your information be changed, please 
 Log in at [http://www.brivium.com](http://www.brivium.com/) and click on "Your Details" link
 
 Send email to us at [privacy@brivium.com](mailto:privacy@brivium.com). Please note that this email address will reject messages with attachments of any kind. 
-
-[ ](https://brivium.com/)
