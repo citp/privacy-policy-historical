@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202193353id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607065713id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Trailspace.com
 
@@ -42,6 +42,8 @@ Trailspace may use certain features of Google Analytics for Display Advertising,
 Trailspace may use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. Trailspace and third-party vendors, including Google, may use first-party and third-party cookies together to inform, optimize, and serve ads based on your past visits to the Trailspace website, and/or to report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to the Trailspace website.
 
 Trailspace may use data from Google's interest-based advertising or third-party audience data (such as age, gender, and interests) with Google Analytics.
+
+Trailspace is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
 ## Disclaimer
 
