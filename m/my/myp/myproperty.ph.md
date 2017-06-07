@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myproperty.ph privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127153520id_/http%3A//www.myproperty.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproperty.ph privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607101706id_/http%3A//www.myproperty.ph/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyProperty.ph
 
@@ -99,7 +99,7 @@ MyProperty.ph occasionally updates the Privacy Policy to reflect the feedback fr
 
 We encourage our users to read and review this Privacy Policy and stay well informed of how we protect you as our users. If in any way you believe that we have not adhered to this policy please contact us. MyProperty.ph welcomes your comments and inquiries regarding this Privacy Policy.
 
-Telephone no.: **+63 (2) 505-1833.**
+Telephone no.: **+63 (2) 8800650.**
 
 E-mail: **info@myproperty.ph**
 
