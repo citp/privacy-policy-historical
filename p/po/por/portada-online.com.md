@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portada-online.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528175043id_/http%3A//www.portada-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portada-online.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607214321id_/http%3A//www.portada-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Portada
 
