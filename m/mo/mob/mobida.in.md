@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobida.in privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122021946id_/http%3A//mobida.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobida.in privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608015929id_/http%3A//mobida.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mobida.In
+# Privacy Policy | Mobida.In - Pin Codes
 
 We are committed in respecting the privacy of every person who accesses / avails our Service either though the website – www.mobida.in or WAP or SMS through Mobile phones or telephone search by calling us or any other medium through which www.mobida.in may provide its service (“Service”). You may share your personal information upon you accessing / availing our Service. Your privacy is important to us and we strive to take reasonable care and protection of the information we receive from you.
 
