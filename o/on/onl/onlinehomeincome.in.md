@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinehomeincome.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010929id_/http%3A//www.onlinehomeincome.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinehomeincome.in privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607124601id_/http%3A//www.onlinehomeincome.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - online home income
 
@@ -43,7 +43,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 →Yahoo! Publisher Network   
 
 
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: Privacy Policies.  
 You may consult this listing to find the privacy policy for each of the advertising partners of www.onlinehomeincome.in._
 
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.onlinehomeincome.in and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
@@ -64,9 +64,28 @@ This privacy policy applies only to our online activities and is valid for visit
 Consent  
 By using our website, you hereby consent to our privacy policy and agree to its terms. 
 
-Update  
-[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+  
+
+
+Update
+
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+  
+
+
+[Click here for Live Support](javascript:newPopup\('http://www.onlinehomeincome.in/chat.php'\);)
+
+  
+
+
+Join now, because I will train you personally to make you earn Rs. 25000 every month.
+
+  
+  
+
+
+* * *
 
   
 
