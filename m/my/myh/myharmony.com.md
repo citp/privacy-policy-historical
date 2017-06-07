@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myharmony.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911092246id_/http%3A//www.myharmony.com/privacy/%3Futm_source%3Dcommunity.myharmony.com%26utm_medium%3Dheader%26utm_campaign%3Dmarketing%2520-%2520privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myharmony.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607112135id_/http%3A//www.myharmony.com/privacy/%3Futm_source%3Dcommunity.myharmony.com%26utm_medium%3Dheader%26utm_campaign%3Dmarketing%2520-%2520privacy) for the most accurate reproduction.*
 
 # Harmony Privacy Policy
 
@@ -51,7 +51,7 @@ Some of your information is also stored directly on your Harmony product, your c
 
 **Control & Review of Your Personal Information**
 
-You have the ability to direct us to edit, correct or erase certain information pertaining to you, your product and your use of the product by sending an email to privacy@logitech.com. You may stop the delivery of marketing e-mails by following the unsubscribe instructions contained in the email received or by clicking http://www.logitech.com/en-us/footer/subscription-management?wt.mc_id=usym_redirect_/subscribe.
+You have the ability to direct us to edit, correct or erase certain information pertaining to you, your product and your use of the product by sending a message to the [Logitech Response Center](https://support.logitech.com/response-center). You may stop the delivery of marketing e-mails by following the unsubscribe instructions contained in the email received or by clicking [here](http://www.logitech.com/en-us/footer/subscription-management?wt.mc_id=usym_redirect_/subscribe).
 
 We will retain your information for as long as your account is active or as needed to provide you the Harmony services.
 
