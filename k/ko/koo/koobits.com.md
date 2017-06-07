@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the koobits.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511013605id_/http%3A//products.koobits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koobits.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607084634id_/http%3A//products.koobits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - KooBits
 
 _Last modified: 25 November, 2015_
 
-At KooBits, we recognize that privacy and intellectual property rights are important to our users. This Privacy Policy applies to all products, services and websites offered by KooBits Pte Ltd or its affiliated companies, such as [top school exam papers](http://products.koobits.com/assessment-books/), [problem sums](http://products.koobits.com/problemsums/) or [Singapore math worksheets](http://products.koobits.com/singapore-math/), collectively known as KooBits’ “services”. 
+At KooBits, we recognize that privacy and intellectual property rights are important to our users. This Privacy Policy applies to all products, services and websites offered by KooBits Pte Ltd or its affiliated companies, such as [top school exam papers](https://products.koobits.com/assessment-books/), [problem sums](https://products.koobits.com/problemsums/) or [Singapore math worksheets](https://products.koobits.com/singapore-math/), collectively known as KooBits’ “services”.
 
 KooBits processes personal information only for the purposes described in this Privacy Policy including:
 
@@ -16,7 +16,7 @@ KooBits processes personal information only for the purposes described in this P
 
 
 
-KooBits processes personal information on our servers in The Republic of Singapore and in other countries. In some cases, we process personal information on a server which may be outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners. 
+KooBits processes personal information on our servers in The Republic of Singapore and in other countries. In some cases, we process personal information on a server which may be outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
 ### Option to opt out
 
@@ -26,7 +26,7 @@ If we propose to use personal information for any purposes other than those desc
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some KooBits Product features may not function properly if your cookies are disabled.
 
-You can decline to submit personal information to any of our services, in which case KooBits may not be able to provide those services to you. 
+You can decline to submit personal information to any of our services, in which case KooBits may not be able to provide those services to you.
 
 ### Information sharing
 
@@ -46,7 +46,7 @@ We may share with third parties certain pieces of aggregated, non-personal infor
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-We restrict access to personal information to KooBits employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+We restrict access to personal information to KooBits employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 ### Data integrity
 
@@ -72,13 +72,13 @@ When we receive formal written complaints at this address, it is KooBits’s pol
 
 ### Changes to this Privacy Policy
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). 
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
 
 Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
 * * *
 
-If you have any additional questions or concerns regarding this Privacy Policy, please contact us contact us at the following address, or by [email or phone](http://products.koobits.com/contact/).
+If you have any additional questions or concerns regarding this Privacy Policy, please contact us contact us at the following address, or by [email or phone](https://products.koobits.com/contact/).
 
 KooBits Pte Ltd  
 3 Fusionopolis Place  
