@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the astromart.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121223518id_/http%3A//www.astromart.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astromart.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607191729id_/http%3A//www.astromart.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Astromart - Privacy Policy
 
-[Home](https://web.archive.org/web/20161121223518id_/http%3A//www.astromart.com/) > [About Astromart](https://web.archive.org/web/20161121223518id_/http%3A//www.astromart.com/aboutus/) > Privacy Policy
+[Home](https://web.archive.org/web/20170607191729id_/http%3A//www.astromart.com/) > [About Astromart](https://web.archive.org/web/20170607191729id_/http%3A//www.astromart.com/aboutus/) > Privacy Policy
 
 ### Astromart Privacy Policy
 
