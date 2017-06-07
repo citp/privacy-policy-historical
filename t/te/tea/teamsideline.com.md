@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamsideline.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224193932id_/http%3A//www.teamsideline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsideline.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607180016id_/http%3A//go.teamsideline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TeamSideline.com
+# Privacy Policy - Sports League Management – TeamSideline.com
 
 ## 1\. Completely IT Respects Your Privacy
 
@@ -12,13 +12,13 @@ On TeamSideline, when you register we will ask you to provide personal informati
 
 ## 3\. How We Use Your Information
 
-The information Completely IT collects helps Completely IT deliver a consistent and personalized experience. For example, Completely IT may use your information to • increase the security of your log in process and therefore the security of your information; • personalize your TeamSideline experience; • provide service and support; • update you on new Completely IT services and benefits. 
+The information Completely IT collects helps Completely IT deliver a consistent and personalized experience. For example, Completely IT may use your information to • increase the security of your log in process and therefore the security of your information; • personalize your TeamSideline experience; • provide service and support; • update you on new Completely IT services and benefits.
 
 ## 4\. How We Share Your Information
 
 Completely IT will not sell, rent or lease your personal information to others. Completely IT will not share the personal information you provide to Completely IT with any third parties without your permission, unless to: (i) respond to duly authorized information requests of governmental authorities; (ii) comply with any law, regulation, subpoena, or court order; (iii) help prevent fraud or to enforce or protect the rights and properties of Completely IT or its subsidiaries; or (iv) protect the personal safety of Completely IT employees and third parties on Completely IT property.
 
-## 5\. Children's Privacy
+## 5\. Children’s Privacy
 
 Completely IT does not knowingly collect information from children under the age of 13 and does not target its Sites to children under 13. We encourage parents and guardians to take an active role in their children’s online activities and interests.
 
@@ -36,11 +36,11 @@ Completely IT takes seriously the trust you place in us. To prevent unauthorized
 
 ## 9\. Contacting Us
 
-We value your opinions. If you have comments or questions about our privacy statement, please send them to the Completely IT using the TeamSideline Contact us Web page or write to us at the following address: 
+We value your opinions. If you have comments or questions about our privacy statement, please send them to the Completely IT using the TeamSideline Contact us Web page or write to us at the following address:
 
 Completely IT  
 Privacy Mailbox  
 P.O. Box 3081  
 Rocklin, CA 95677
 
-Rev. March 2010
+_Rev. March 2010_
