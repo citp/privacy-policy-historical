@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldownloads.io privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045745id_/http%3A//www.digitaldownloads.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldownloads.io privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607154354id_/https%3A//www.digitaldownloads.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
