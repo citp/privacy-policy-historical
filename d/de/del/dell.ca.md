@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118220838id_/http%3A//www.dell.com/learn/ca/en/cacorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607220822id_/http%3A//www.dell.com/learn/ca/en/cacorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement Regarding Customer and Online User Information | Dell Canada
 
@@ -156,6 +156,6 @@ M2H 3N5 
 You may also email us at [privacy@dell.com.](mailto:privacy@dell.com)  
 
 
-*As of the Effective Date of this Statement, Dell's Canadian affiliates include Dell Canada Inc., Dell Software Canada Inc., and Dell Financial Services Canada Limited.
+*As of the Effective Date of this Statement, Dell's Canadian affiliates include Dell Canada Inc., Dell Financial Services Canada Limited and EMC Corporation of Canada.
 
- **Effective Date: January 19, 2016.**
+ **Effective Date: January 24, 2017.**
