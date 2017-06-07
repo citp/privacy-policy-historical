@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpg.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803225348id_/http%3A//www.tpg.com/sites/default/files/2016-04/TPG%2520Website%2520Privacy%2520Policy%2520Doc.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpg.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607142054id_/http%3A//www.tpg.com/sites/default/files/2016-04/TPG%2520Website%2520Privacy%2520Policy%2520Doc.pdf) for the most accurate reproduction.*
 
 # TPG$Privacy$Policy$
 
