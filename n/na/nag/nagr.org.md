@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nagr.org privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628054732id_/https%3A//www.nationalgunrights.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nagr.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607223934id_/https%3A//www.nationalgunrights.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
