@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evergage.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024133315id_/http%3A//www.evergage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evergage.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607110559id_/http%3A//www.evergage.com/privacy-policy) for the most accurate reproduction.*
 
 # Evergage | Privacy Policy
 
@@ -44,6 +44,8 @@ L. Your information, including Registration Information, may be transferred and 
 
 M. Our Site includes social media features, such as the Facebook like button, Tweet button, and other widgets which are interactive mini-programs that run on our Site. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the social media company.
 
+N. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Evergage is potentially liable.
+
 **3\. Local Device Storage and Tracking:**
 
 A. The Site will at times place and/or store code or other types of information and/or devices (e.g., “cookies”) on your computer, mobile or other device (“Local Device Storage”). We may use Local Device Storage for any lawful business purpose, including without limitation to determine which of our messages have been opened by recipients so we can gauge the effectiveness of marketing campaigns, to control the display of ads, to track usage patterns, the movements of individual users, and your geographic location, to help diagnose problems with our servers, to gather broad demographic information, to analyze trends, to conduct research, to deliver editorial content, to record registration and personalization information, and to otherwise administer the Site. For example, if you register on any part of the Site and are given the option to save your user name and password, we may provide this convenience to you via Local Device Storage. Local Device Storage may also collect and store your personally identifiable information, which may be shared with our parent, subsidiaries, and affiliates and other companies. In addition, we may use third party Sites such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Site’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
@@ -70,7 +72,21 @@ A. The Site is not intended for use by children, especially those under age 13. 
 
 California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes or to find out more about your opt-out rights, please contact our Privacy Policy Coordinator as described below.
 
-**7\. Privacy Policy Coordinator:**
+**7\. EU Customers:**
+
+Evergage Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Evergage Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+
+In compliance with the EU-US Privacy Shield Principles, Evergage Inc. commits to resolve complaints about your privacy and our collection or use of your personal information.  **European Union individuals**  with inquiries or complaints regarding this privacy policy should first contact Evergage Inc. at: 
+
+Privacy Policy Coordinator, Evergage, Inc. 212 Elm Street, Somerville, MA, 02144, USA.
+
+Evergage Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. 
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+Evergage is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+
+**8\. Privacy Policy Coordinator:**
 
 If you have any other concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
@@ -80,9 +96,9 @@ As discussed above, you may opt-out of having your personally identifiable infor
 
 Also as discussed above, if you wish to request updates or changes to your information or your preferences regarding receiving future promotional messages from us, you may contact our Privacy Policy Coordinator.
 
-**8\. Changes To This Privacy Policy regarding our Site:**
+**9\. Changes To This Privacy Policy regarding our Site:**
 
-This Privacy Policy is effective as of September 1, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of October 26, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Site after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
@@ -90,7 +106,7 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 **B. OUR PRIVACY POLICY RELATING TO OUR SERVICE**
 
-We provide an online Service to help our customers (“Evergage Clients”) make their products and services (“Client Services”) more successful. In order to provide the Service, Evergage collects certain information, as described in this Privacy Policy, from both Evergage Clients and their end user customers/web site visitors (“End Users”). Evergage is deeply committed to protecting the privacy of both Evergage Clients and their End Users.
+We provide an online Service to help our customers (“Evergage Clients”) make their products and services (“Client Services”) more successful. In order to provide the Service, Evergage collects certain information, as described in this Privacy Policy, from both Evergage Clients and their end user customers/website visitors (“End Users”). Evergage is deeply committed to protecting the privacy of both Evergage Clients and their End Users.
 
 **Who are Evergage Clients?**
 
@@ -156,7 +172,7 @@ We respect the “Do Not Track” Settings on most modern browsers. Set this fla
 
 Please review the privacy policy of the company that is an Evergage Client and follow that company’s instructions for opting out of data collection. If the Evergage Client has configured a site-wide Opt-Out and has configured Evergage to respect this, then Evergage will respect your opt-out on that site. (Please note that this does not mean you have opted out of Evergage tracking on other sites or on our Site).
 
-We have provided Evergage Clients with the ability to filter and dispose of usage data related to a particular End User’s user ID. If you would like to opt out of having your data sent to Evergage, please contact the Evergage Client directly. If you feel the Evergage Client is not responding satisfactorily to your request, please contact us [here](http://mailto:support@evergage.com/).
+We have provided Evergage Clients with the ability to filter and dispose of usage data related to a particular End User’s user ID. If you would like to opt out of having your data sent to Evergage, please contact the Evergage Client directly. If you feel the Evergage Client is not responding satisfactorily to your request, please contact us [here](mailto:support@evergage.com).
 
 **2\. Evergage Client Information**
 
@@ -202,7 +218,7 @@ Our Service is not directed to children under the age of 13. We do not knowingly
 
 _F. Changes to this Privacy Policy?_
 
-This Privacy Policy is effective as of September 1, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of October 26, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Site after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
@@ -211,5 +227,3 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 _G. Questions or concerns?_
 
 If you have any questions or concerns regarding privacy using the Service, please send us a detailed message to us [here](mailto:support@evergage.com). We will make every effort to resolve your concerns.
-
-Effective Date: September 1, 2016
