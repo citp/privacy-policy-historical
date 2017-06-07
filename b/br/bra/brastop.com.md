@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brastop.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201065133id_/http%3A//www.brastop.com/t/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brastop.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607100820id_/http%3A//www.brastop.com/t/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Security - Brastop
 
@@ -6,7 +6,13 @@
 
 We are committed to protecting and respecting your privacy.
 
-We collect personal information from our online visitors on a voluntary basis when signing up to the newsletter (for example name, address, phone number, email address, lingerie sizes). If you choose to no longer receive emails from us, please uncheck the box in your account details page.
+Where you have given your permission to do so, we may wish to contact you with information relating to promotions, offers and other information about our products and services. If you decide you do not want to receive such marketing communications, you can unsubscribe using the following methods:
+
+**In your Account registration page at:<https://www.brastop.com/customer/info>**
+
+**[](https://www.brastop.com/customer/info)By writing to us to our address at Unit 1 The Hawthorn Centre, Harrow, HA1 2RF or emailing us at support@brastop.com**
+
+**On each marketing communication there will also be an opportunity for you to unsubscribe.  **
 
 When making a purchase online, the information required, (for example, credit or debit card number, expiration date, name, mailing address, telephone number and email address) is required to process your order.
 
