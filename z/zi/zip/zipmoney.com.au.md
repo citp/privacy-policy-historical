@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zipmoney.com.au privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228213441id_/https%3A//zipmoney.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipmoney.com.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607061112id_/https%3A//zipmoney.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy | zipMoney
+# Privacy - zipMoney
 
 zipMoney Payments Pty Ltd (“ZIP”) is committed to protecting the privacy of our customers’ personal and financial information. The purpose of this policy is to describe the ways in which we collect, hold, use and disclose personal information. We may vary this policy from time to time.
 
@@ -63,6 +63,8 @@ We might also disclose personal information about you:
 
 
 
+The document details you provided as evidence of your identity will be checked with the relevant government agency via the Document Verification Service. You can find more information about the Document Verification Service at www.dvs.gov.au. If you do not provide your driver licence or passport number or your document is not verified by the Document Verification Service, we may not be satisfied as to your identity and you may not be able to open an account with us online
+
 ### Website Traffic Information
 
 Because of the way that World Wide Web communication standards work, when you arrive at or leave the ZIP website, we automatically receive the Web address of the site that you came from or are going to. We also collect information on which pages of our website you visit while you are on the ZIP site, the type of browser you use and the times you access our website. We use this information to try to understand our customers’ preferences better and to manage the load on our servers, so as to improve our service and your experience with ZIP.
@@ -118,13 +120,4 @@ If you like more information about our Privacy Policy, or in relation to the inf
 The Privacy Officer:  
 zipMoney Payments Pty Limited
 
-**Mail** : 61 York St Sydney, NSW 2000  **Email** : [customercare@zipmoney.com.au](mailto:customercare@zipmoney.com.au) **Phone** : (02) 8294 2345
-
-If you require more information about Privacy laws generally, please contact:
-
-The Privacy Commissioner:  
-Office of the Federal Privacy Commissioner
-
-Mail: GPO Box 5218, Sydney NSW 1042  
-Phone: 1300 363 992  
-Internet: [www.privacy.gov.au](http://www.privacy.gov.au/)
+**Mail** : Level 37, 50 Bridge Street, Sydney, NSW 2000  **Email** : [customercare@zipmoney.com.au](mailto:customercare@zipmoney.com.au) **Phone** : (02) 8294 2345
