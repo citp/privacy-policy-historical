@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807071900id_/https%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607131346id_/https%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
 
 # BTO SPORTS: Privacy Policy
 
@@ -130,7 +130,7 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request. 
-  * To enforce or apply our [ terms of use ](http://www.btosports.com/cs/terms-of-use) and other agreements, including for billing and collection purposes. 
+  * To enforce or apply our [ terms of use ](https://www.btosports.com/cs/terms-of-use) and other agreements, including for billing and collection purposes. 
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of BTO SPORTS, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
 
 
@@ -154,7 +154,7 @@ You can review and change your personal information by logging into the Website 
 
 You may also send us an e-mail at info@btosports.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our  [ terms of use ](http://www.btosports.com/cs/terms-of-use) .
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our  [ terms of use ](https://www.btosports.com/cs/terms-of-use) .
 
 Your California Privacy Rights
 
