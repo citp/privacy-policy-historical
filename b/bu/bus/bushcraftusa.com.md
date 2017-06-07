@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bushcraftusa.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120111332id_/http%3A//bushcraftusa.com/forum/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bushcraftusa.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607120226id_/http%3A//bushcraftusa.com/forum/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bushcraft USA Forums
 
@@ -70,3 +70,5 @@ Bushcraft USA, LLC
 PO Box 212   
 Lawson, MO 64062   
 Email: bushcraftusa@gmail.com 
+
+[ ](https://bushcraftusa.com/forum/)
