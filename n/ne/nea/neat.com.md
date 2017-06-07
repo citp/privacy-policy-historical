@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neat.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623013546id_/https%3A//www.neat.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neat.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607132047id_/https%3A//www.neat.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Neat Company
 
