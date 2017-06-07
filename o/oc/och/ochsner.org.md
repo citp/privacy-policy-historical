@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722232320id_/https%3A//www.ochsner.org/patients-visitors/privacy-policies/ochsner-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607222638id_/https%3A//www.ochsner.org/patients-visitors/privacy-policies/ochsner-privacy-policy) for the most accurate reproduction.*
 
 # Ochsner Privacy Policy | Ochsner Health System
 
@@ -54,7 +54,7 @@ For example, Ochsner may use medical information to:
 
 
 
-Ochsner may remove information that identifies you from this set of medical information so others may use it to study healthcare and healthcare delivery without recognizing the specific patients.
+Ochsner and its authorized vendors may remove information that identifies you from your medical information and share this de-identified information with others who may use it to study healthcare and healthcare delivery, among other things. 
 
 **Business Associates**. Ochsner may use and disclose your medical information to business associates who perform services on our behalf. The business associate must agree in writing to protect the confidentiality of the information.  For example, we may share your health information with a company that bills for the services we provide.
 
@@ -66,7 +66,7 @@ Ochsner may remove information that identifies you from this set of medical info
 
 Ochsner Health System  
 Department of Philanthropy  
-1514 Jefferson Hwy., BH 420  
+1514 Jefferson Hwy., BH 607  
 New Orleans, LA 70121
 
 **Hospital Directory.** Ochsner may include certain limited information about you in the hospital directory while you are a patient at the hospital. This information may include your name, location in the hospital, general condition (e.g., fair, stable, etc.) and religious affiliation (if provided). The directory information (excluding your religious affiliation) may be released to people who ask for you by name so your family and friends can visit you in the hospital and find out how you are doing.  Upon admission to an Ochsner facility as an inpatient you will be asked if you would like your information in the facility directory.  If you do not want your information listed in the directory, please notify the Registration Receptionist.
@@ -142,7 +142,7 @@ For example, information may be needed to identify patients with specific medica
 
 
 
-**Sale of PHI or Electronic Health Records.** Ochsner may not sell protected health information unless authorized by you.  An authorization is not needed if the purpose of the exchange is for:
+**Sale of PHI.** Ochsner may not sell protected health information unless authorized by you.  An authorization is not needed if the purpose of the exchange is for:
 
   * Your treatment;
   * Public Health Activities;
@@ -292,6 +292,14 @@ If you have any questions about this notice, please contact:
 Ochsner Health System  
 Compliance and Privacy Department  
 Attn: Privacy Officer  
-1514 Jefferson Hwy.    
-New Orleans, LA 70121  
-Telephone Number: 504-842-9323
+1450 Poydras St., 25th Floor  
+New Orleans, LA 70112  
+Telephone Number: 504-842-9323 
+
+Ochsner Health System complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability, or sex.
+
+ATTENTION: Language assistance services, free of charge, are available to you. Call 1-800-928-6247.
+
+ATENCIÓN: si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 1-800-928-6247.
+
+CHÚ Ý: Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho bạn. Gọi số 1-800-928-6247.
