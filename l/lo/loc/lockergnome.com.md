@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203143815id_/http%3A//www.lockergnome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607032730id_/http%3A//lockergnome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LockerGnome
 
