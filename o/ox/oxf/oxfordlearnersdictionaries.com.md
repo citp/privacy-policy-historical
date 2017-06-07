@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordlearnersdictionaries.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232016id_/http%3A//www.oxfordlearnersdictionaries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordlearnersdictionaries.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608001008id_/http%3A//www.oxfordlearnersdictionaries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oxford Learner's Dictionaries
 
