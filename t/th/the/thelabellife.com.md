@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelabellife.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614132625id_/http%3A//www.thelabellife.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelabellife.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607074102id_/https%3A//www.thelabellife.com/policy) for the most accurate reproduction.*
 
-# The Label Life - Signature Home Decor by Sussanne Khan | Clothing by Malaika Arora Khan | Fashion Accessories by Bipasha Basu
+# privacy policy
 
 This section pertains to the Privacy Policy of TheLabelLife.com owned by The Label Corp Private Limited. We would like to inform that our privacy policy is subject to change without intimation and you shall be required to review the same regularly.
 
